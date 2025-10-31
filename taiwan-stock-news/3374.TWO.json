@@ -1,6 +1,6 @@
 {
   "stock_id": "3374.TWO",
-  "last_updated": "2025-10-31T01:08:20.195423",
+  "last_updated": "2025-10-31T02:53:55.444531",
   "news": [
     {
       "Date": "2025-10-09",
@@ -183,12 +183,22 @@
       "ContentLength": 717
     }
   ],
-  "summary": {
-    "title_zh": "精材 (3374.TWO) 近期營收波動與市場情緒分析",
-    "title_en": "精材 (3374.TWO) Recent Revenue Fluctuations and Market Sentiment Analysis",
-    "summary_zh": "精材 (3374.TWO) 近期市場情緒受到營收表現波動的顯著影響。從2025年4月開始，營收年增率表現強勁，4月和3月分別達到43.72%和40.77%，顯示出強勁的成長動能，直接推動股價上漲。5月營收雖然仍為正成長，但增幅明顯收窄至-17.23%，此後6月、7月、8月營收年增率持續呈現衰退，6月衰退幅度更達-27.43%，對市場情緒產生負面影響。儘管如此，6月24日精材除息，首日即填息，顯示公司基本面仍具備一定吸引力。8月7日公告將參加凱基證券線上法說會，或有助於公司釋放正面訊息，穩定投資者信心。然而，9月營收雖恢復正成長10.26%，但全年累計營收仍較去年同期衰退1.5%，顯示整體營運狀況仍面臨挑戰。另一方面，洋基工程在手訂單包含精材相關機電工程案，或能為精材帶來長線營運動能。綜合來看，精材股價短期內可能受到營收波動影響，但長期發展仍取決於其在先進封裝技術的發展以及車用影像感測領域的拓展情況。投資者應關注後續法說會內容和營收趨勢，審慎評估投資風險。",
-    "summary_en": "精材 (3374.TWO)'s recent market sentiment has been significantly influenced by fluctuating revenue performance. Starting from April 2025, the year-over-year revenue growth showed strong momentum, reaching 43.72% and 40.77% in April and March, respectively, directly boosting the stock price. Although May's revenue remained positive, the growth rate narrowed significantly to -17.23%. Subsequently, revenue growth continued to decline in June, July, and August, with June's decline reaching -27.43%, negatively impacting market sentiment. Nevertheless, on June 24, 精材 went ex-dividend and filled the dividend gap on the first day, indicating that the company's fundamentals still have a certain appeal. The announcement on August 7 that it will participate in an online investor conference held by KGI Securities may help the company release positive information and stabilize investor confidence. However, although September's revenue recovered to a positive growth of 10.26%, the cumulative revenue for the year still declined by 1.5% compared to the same period last year, indicating that overall operations still face challenges. On the other hand, 洋基工程's backlog includes 精材-related electromechanical engineering projects, which may bring long-term operating momentum to 精材. Overall, 精材's stock price may be affected by revenue fluctuations in the short term, but its long-term development still depends on its development in advanced packaging technology and its expansion in the automotive image sensor field. Investors should pay attention to the subsequent investor conference content and revenue trends, and carefully assess investment risks."
+  "ai_summary_cn": {
+    "Date": "2025-10-31",
+    "Time": "02:53:55",
+    "Source": "Gemini API",
+    "Title": "[AI Summary] 無新聞可供分析",
+    "URL": "",
+    "Content": "在指定期間內沒有抓取到相關新聞。"
+  },
+  "ai_summary_en": {
+    "Date": "2025-10-31",
+    "Time": "02:53:55",
+    "Source": "Gemini API",
+    "Title": "[AI Summary] No News Available for Analysis",
+    "URL": "",
+    "Content": "No relevant news articles were fetched during the specified period."
   },
   "total_news_count": 20,
-  "new_news_count": 20
+  "new_news_count": 4
 }
