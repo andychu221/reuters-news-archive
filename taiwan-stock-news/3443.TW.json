@@ -1,6 +1,6 @@
 {
   "stock_id": "3443.TW",
-  "last_updated": "2025-10-31T01:05:44.908067",
+  "last_updated": "2025-10-31T02:52:27.400194",
   "news": [
     {
       "Date": "2025-10-30",
@@ -183,11 +183,21 @@
       "ContentLength": 600
     }
   ],
-  "summary": {
-    "title_zh": "創意(3443.TW)近期市場情緒分析：營收強勁成長，股價受關注",
-    "title_en": "GUC (3443.TW) Recent Market Sentiment Analysis: Strong Revenue Growth, Stock Price Under Scrutiny",
-    "summary_zh": "創意(3443.TW)近期(2025年8月至10月)市場情緒整體偏向樂觀，但伴隨監管關注。正面因素主要來自於強勁的營收成長。2025年9月營收年增率高達104.86%，創歷史新高，委託設計業務的強勁表現是主要推動力。8月營收年增率也達到42.31%，顯示公司營運持續增長。此外，創意積極參與多場法人說明會和投資論壇，包括宏遠證券、永豐金證券、富邦/Jefferies、第一金證券和UBS等，顯示公司積極與投資者溝通，提升市場透明度，這通常被視為正面信號。然而，由於股價波動達到交易所的注意標準，創意被要求公布相關財務業務訊息，這表明監管機構正在密切關注該股票，可能對股價產生短期壓力。創意續租賃采鈺科技廠房作為EDA機房使用，顯示公司對未來業務發展的信心和擴張的準備，但其對短期股價影響較小。 2025年第三季財務報告的發布預計將是下一個重要的市場觸媒，投資者將密切關注其盈利能力是否能維持營收成長的步伐。總體而言，創意受益於強勁的營收增長和積極的投資者關係，但需要密切關注監管風險。",
-    "summary_en": "GUC (3443.TW) market sentiment has been generally positive recently (August to October 2025), but with regulatory attention. The positive factors mainly come from strong revenue growth. September 2025 revenue increased by 104.86% year-on-year, reaching a historical high, with strong performance in commissioned design business being the main driver. August revenue also increased by 42.31% year-on-year, indicating continued growth in the company's operations. In addition, GUC actively participated in numerous investor conferences and investment forums, including Yuanta Securities, SinoPac Securities, Fubon/Jefferies, First Securities, and UBS, indicating the company's proactive communication with investors and increased market transparency, which is generally seen as a positive signal. However, due to stock price fluctuations reaching the exchange's attention standard, GUC was required to disclose relevant financial and business information, indicating that regulators are closely monitoring the stock, which may put short-term pressure on the stock price. GUC's continued lease of the TSMC plant as an EDA server room shows the company's confidence in future business development and preparation for expansion, but its impact on the short-term stock price is small. The release of the Q3 2025 financial report is expected to be the next important market catalyst, and investors will closely monitor whether its profitability can keep pace with revenue growth. Overall, GUC benefits from strong revenue growth and active investor relations, but needs to pay close attention to regulatory risks."
+  "ai_summary_cn": {
+    "Date": "2025-10-31",
+    "Time": "02:52:20",
+    "Source": "Gemini API",
+    "Title": "[AI Summary] 創意 (3443.TW) 2025年10月30日市場情緒分析：第三季財報與EDA機房續租",
+    "URL": "",
+    "Content": "創意(3443.TW)於2025年10月30日發布了114年第三季財務報告以及EDA機房續租公告。從財報數據來看，今年1月1日至9月30日的累計營業收入為21,741,329仟元，營業毛利為6,092,600仟元，營業利益為3,093,099仟元，稅前淨利為3,086,857仟元，歸屬於母公司業主淨利為2,609,908仟元，基本每股盈餘為19.41元。這些數據顯示創意在今年前三季的營運狀況良好，盈利能力強勁，對股價應有正面影響。投資者可能會對其穩健的財務表現感到滿意，進而提振市場信心。此外，創意宣布續租采鈺科技廠房一年作為EDA機房使用，租金總額為21,240,000元。這表明創意對其EDA（電子設計自動化）業務有持續的需求，並願意投入資源維持其研發能力。由於EDA對於IC設計公司至關重要，此舉可視為創意對未來發展的積極佈局，釋放長期發展的正面訊號。整體而言，這兩項公告都偏向正面。財報數據驗證了公司的盈利能力，而EDA機房續租則顯示了公司對未來發展的承諾。短期內，市場情緒可能偏向樂觀，股價有望受到支撐。然而，投資者仍需密切關注整體半導體產業的發展趨勢，以及創意在先進製程技術上的競爭力，以全面評估其長期投資價值。"
+  },
+  "ai_summary_en": {
+    "Date": "2025-10-31",
+    "Time": "02:52:20",
+    "Source": "Gemini API",
+    "Title": "[AI Summary] Global Unichip (3443.TW) Market Sentiment Analysis on October 30, 2025: Q3 Financial Report and EDA Server Room Renewal",
+    "URL": "",
+    "Content": "Global Unichip (3443.TW) released its Q3 2025 financial report and an announcement regarding the renewal of its EDA server room lease on October 30, 2025. The financial report reveals cumulative operating revenue of NT$21,741,329 thousand, gross profit of NT$6,092,600 thousand, operating income of NT$3,093,099 thousand, profit before tax of NT$3,086,857 thousand, and net profit attributable to the owners of the parent company of NT$2,609,908 thousand, with basic earnings per share of NT$19.41 from January 1st to September 30th of this year. These figures indicate that Global Unichip's operations have been robust and profitable in the first three quarters of the year, which should have a positive impact on the stock price. Investors may be satisfied with its solid financial performance, thereby boosting market confidence. Furthermore, Global Unichip announced the renewal of its lease for a factory building from Chroma ATE Inc. for one year to be used as an EDA server room, with a total rent of NT$21,240,000. This indicates that Global Unichip has a continued need for its EDA (Electronic Design Automation) operations and is willing to invest resources to maintain its R&D capabilities. Given the importance of EDA to IC design companies, this move can be seen as a positive deployment for Global Unichip's future development, signaling positive long-term growth prospects. Overall, both announcements are leaning towards the positive side. The financial report validates the company's profitability, while the EDA server room renewal demonstrates the company's commitment to future development. In the short term, market sentiment may be optimistic, and the stock price is expected to be supported. However, investors should continue to closely monitor the overall trends in the semiconductor industry and Global Unichip's competitiveness in advanced process technologies to comprehensively assess its long-term investment value."
   },
   "total_news_count": 20,
   "new_news_count": 20
