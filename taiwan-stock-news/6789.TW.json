@@ -1,0 +1,31 @@
+{
+  "stock_id": "6789.TW",
+  "last_updated": "2025-11-07T22:51:04.083Z",
+  "news": [
+    {
+      "Date": "2025-11-08",
+      "Time": "06:51:04",
+      "Source": "Gemini API",
+      "Title": "[AI Summary] 無新聞可供分析",
+      "URL": "",
+      "Content": "在指定期間內沒有抓取到相關新聞。",
+      "Language": "zh"
+    },
+    {
+      "Date": "2025-11-08",
+      "Time": "06:51:04",
+      "Source": "Gemini API",
+      "Title": "[AI Summary] No News Available for Analysis",
+      "URL": "",
+      "Content": "• No relevant news articles were fetched during the specified period.",
+      "Language": "en"
+    }
+  ],
+  "total_news_count": 2,
+  "new_news_count": 0,
+  "sources_summary": {
+    "Yahoo": 0,
+    "UDN": 0,
+    "Liberty_Times": 0
+  }
+}
