@@ -1,6 +1,6 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-17T17:11:18.242Z",
+  "last_updated": "2025-12-17T18:11:00.831Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -28,6 +28,15 @@
       "Title": "Micron's Make-or-Break Moment: Can AI Hype Justify a 176% Surge?",
       "URL": "https://finance.yahoo.com/news/microns-break-moment-ai-hype-163110049.html",
       "Content": "Micron's Make-or-Break Moment: Can AI Hype Justify a 176% Surge?\n\nKhac Phu Nguyen\nWed, December 17, 2025 at 8:31 AM PST 2 min read\n\nIn this article: MU\n\nAVGO\n\nNVDA\n\nAMD\n\n^GSPC\n\nThis article first appeared on GuruFocus .\nMarket participants are bracing for Micron Technology ( NASDAQ:MU ) to report earnings after Wednesday's close, with the bar set high as skepticism around the AI trade begins to surface. The shares have surged 176% in 2025, ranking as the fifth-best performer in the S&P 500 and marking Micron's strongest year since 2013, well ahead of the roughly 40% gain in the Philadelphia Semiconductor Index. That momentum has softened in recent sessions, with the stock down about 12% over the past four days following a Dec. 10 high, suggesting investors may be reassessing expectations ahead of the report.\n\nWarning! GuruFocus has detected 9 Warning Sign with MU.\nIs MU fairly valued? Test your thesis with our free DCF calculator.\nThe company is expected to post strong growth as sustained spending on AI data centers supports demand for its high-bandwidth memory chips, but the market appears focused on whether that momentum is still accelerating. Recent sharp declines in Oracle and Broadcom, both of which fell 11% in a single session last week, have highlighted how quickly sentiment can turn on perceived AI beneficiaries. Some investors may now be adopting a more cautious stance, waiting for clearer signals on how durable data-center growth could be before re-engaging with the sector.\nValuation remains a central part of the Micron debate. Despite this year's rally, the shares trade at roughly 11 times estimated earnings over the next 12 months, the lowest multiple among the 30 stocks in the semiconductor index, which trades closer to 25 times forward earnings. That discount stands out against peers such as Nvidia ( NASDAQ:NVDA ), Broadcom ( NASDAQ:AVGO ), and Advanced Micro Devices ( NASDAQ:AMD ), which command significantly higher multiples. At the same time, expectations for Micron's fundamentals have been moving higher, with consensus forecasts for fiscal 2026 net earnings up 16% over the past month and more than 50% over the past quarter, while revenue estimates have risen by more than 20% over the past three months. With enthusiasm elevated and memory demand still cyclical, the upcoming earnings report could either reinforce the view that Micron is reasonably valued or test how much optimism is already reflected in the shares.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-17",
+      "Time": "23:48:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Faces Competition on All Sides. The Stock Is Down.",
+      "URL": "https://finance.yahoo.com/m/c8918d1e-b965-3ed0-a51c-bdab0cb06008/nvidia-faces-competition-on.html",
+      "Content": "Nvidia Faces Competition on All Sides. The Stock Is Down.\n\nAdam Clark\nWed, December 17, 2025 at 7:48 AM PST 2 min read\n\nIn this article: NVDA\n\n688795.SS\n\nAMD\n\nAMZN\n\n688256.SS\n\nNvidia stock was falling Wednesday as the chip maker faces an increasing number of rivals in the U.S. and China.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -139,5 +148,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 15
+  "total_news_count": 16
 }
