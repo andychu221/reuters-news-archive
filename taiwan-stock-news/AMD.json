@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-17T22:11:12.403Z",
+  "last_updated": "2025-12-17T23:10:58.138Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "05:46:00",
+      "Source": "Barrons.com",
+      "Title": "Salesforce and Other AI Stocks That Can Catch Up to the Pack",
+      "URL": "https://finance.yahoo.com/m/bae0672d-398a-3bf1-b01d-b1c91e47b924/salesforce-and-other-ai.html",
+      "Content": "Salesforce and Other AI Stocks That Can Catch Up to the Pack\n\nJacob Sonenshine\nWed, December 17, 2025 at 1:46 PM PST 3 min read\n\nIn this article: MSFT\n\n^GSPC\n\nNVDA\n\nCRM\n\nAMD\n\nNvidia Microsoft and other prominent artificial-intelligence stocks are seeing bouts of selling. Wall Street has grown wary that software and internet companies will slow down the pace of their investments in data centers, dragging down chip stocks. The worry there is that returns on their massive AI investments might disappoint the market’s expectations.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "03:37:53",
@@ -184,5 +193,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 20
+  "total_news_count": 21
 }
