@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-17T15:48:48.151Z",
+  "last_updated": "2025-12-17T18:11:33.217Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "02:03:28",
+      "Source": "Reuters",
+      "Title": "Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report",
+      "URL": "https://finance.yahoo.com/news/republican-lawmakers-decry-intels-testing-180328101.html",
+      "Content": "Republican lawmakers decry Intel's testing of Chinese-linked tools after Reuters report\n\nAlexandra Alper\nWed, December 17, 2025 at 10:03 AM PST 3 min read\n\nIn this article: ACMR\n\nINTC\n\nBy Alexandra Alper\nWASHINGTON, Dec 17 (Reuters) - Republican lawmakers accused Intel this week of threatening U.S. national security after Reuters revealed the chipmaker was evaluating chipmaking equipment made by a company with deep ties to China and ​overseas units sanctioned by the U.S. government.\n\nIntel, whose CEO came under pressure from President Donald Trump to resign in ‌August over his alleged ties to China, got the tools from ACM Research, a Fremont, California-based producer of chipmaking equipment.\nThe tools were tested for possible use ‌in Intel's most advanced chipmaking process, known as 14A.\nTwo of ACM's units were among a number of firms barred last year from receiving U.S. technology over claims they supported Chinese government efforts to harness commercial technology for military use and making advanced chips or chipmaking tools. ACM denies the allegations. Shares of its Shanghai unit rose 8% the day the story was published.\n\"Testing Chinese-linked tools for U.S. chip ⁠manufacturing opens the door for the (Chinese Government) ‌to manipulate or compromise our most advanced semiconductor capabilities,\" Republican Senator Marsha Blackburn said in a statement to Reuters. \"It is egregious that Intel would put American national and economic security at risk.\"\n\nBlackburn called for ‍the passage of legislation she co-sponsored to bar chipmakers that have received billions in U.S. government subsidies from using Chinese equipment as part of their government-backed expansion plans.\nReuters could not determine if Intel had made a decision to add the tools to the chipmaking process and has no ​evidence that the company violated any U.S. regulations.\nACM did not respond to a request for comment. Intel reiterated that it ‌was not using ACM tools to produce chips currently and that it complies with U.S. laws and regulations.\nIntel said it takes \"U.S. national security responsibilities extremely seriously and operates under rigorous IT and cyber security protocols\" to protect sensitive information.\nThe company limits the data any individual tool can receive during manufacturing, ensures tools cannot connect with each other, and monitors communications from all equipment, it added.\n\nIntel also said it engages regularly with lawmakers, regulators and U.S. government customers about manufacturing and security and welcomes continued dialogue with ⁠policymakers to address any concerns.\nChina hawks said the fact that Intel, which ​is now part-owned by the U.S. government, would consider adding tools made by ​a firm with sanctioned units into its most advanced manufacturing line, raised important national security concerns.\n\nStory Continues\nThey flagged the possible transfer of Intel's sensitive technological know-how to China, the eventual displacement of trusted Western tool suppliers ‍with China-linked firms and even the ⁠potential for sabotage efforts by Beijing.\nRepublican Congressman John Moolenaar, who chairs the powerful House Select Committee on China, said there was no faster way to erase America's advantage in AI chips and the tools to make them than by ⁠importing Chinese manufacturing equipment into American factories and turbocharging its adoption.\n\"Given that Intel has received generous U.S. taxpayer support due to its corporate alignment with ‌the national interest, it is hard to believe Intel would consider taking this step and possibly jeopardize American ‌national security,\" he said.\n(Reporting by Alexandra Alper; Editing by Nia Williams)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-17",
       "Time": "22:17:58",
@@ -103,5 +112,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 11
+  "total_news_count": 12
 }
