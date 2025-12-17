@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-17T19:11:47.524Z",
+  "last_updated": "2025-12-17T20:11:39.613Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "03:07:25",
+      "Source": "MT Newswires",
+      "Title": "Equity Markets Fall Intraday as Tech Sector Slides",
+      "URL": "https://finance.yahoo.com/news/equity-markets-fall-intraday-tech-190725283.html",
+      "Content": "PREMIUM\nEquity Markets Fall Intraday as Tech Sector Slides\n\nMT Newswires\nWed, December 17, 2025 at 11:07 AM PST 2 min read\n\nIn this article: ^GSPC\n\nORCL\n\n^DJI\n\n^IXIC\n\nAAPL\n\nUS benchmark equity indexes were lower intraday amid a notable decline in the technology sector, whi\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nCondiciones y Política de privacidad\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "02:31:15",
@@ -175,5 +184,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 19
+  "total_news_count": 20
 }
