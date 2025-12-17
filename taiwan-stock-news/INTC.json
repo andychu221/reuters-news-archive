@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-17T20:11:46.603Z",
+  "last_updated": "2025-12-17T23:11:35.060Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "06:33:40",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, Dec. 17: Broadcom Drops on  China AI Chip Breakthrough and AI Buildout Uncertainty",
+      "URL": "https://finance.yahoo.com/m/b94120bd-2174-3b5e-aacc-11f8ba04d936/stock-market-today%2C-dec.-17%3A.html",
+      "Content": "Stock Market Today, Dec. 17: Broadcom Drops on China AI Chip Breakthrough and AI Buildout Uncertainty\n\nHoward Smith, The Motley Fool\nWed, December 17, 2025 at 2:33 PM PST 2 min read\n\nIn this article: AVGO\n\n^GSPC\n\n^IXIC\n\nNVDA\n\nINTC\n\nBroadcom (NASDAQ:AVGO) , which designs and supplies semiconductor devices and infrastructure software solutions, closed at $326.02, down 4.48%. Trading volume reached 73 million shares, coming in about 287% above versus its three-month average of 26 million shares.\nHow the markets moved today Wednesday’s trading reflected renewed concern about AI chip profitability and competitive threats from Chinese AI developments, and investors are watching how Broadcom manages margins alongside VMware integration and AI infrastructure demand.\n\nThe S&P 500 (SNPINDEX:^GSPC) fell 1.15% to 6,722, while the Nasdaq Composite (NASDAQINDEX:^IXIC) lost 1.81% to close at 22,694. Among Semiconductors industry rivals, Nvidia (NASDAQ:NVDA) slid 3.81% and Intel (NASDAQ:INTC) dropped 3.38%, underscoring broad pressure on major AI-focused chipmakers.\n\nWhat this means for investors Rising competition from China had tech investors on their heels to start the day. It only got worse with reports that one private equity firm may not back an Oracle data center project as had been expected.\nAn ongoing Chinese government project to boost semiconductor self-sufficiency made a breakthrough, according to reports. While it has yet to result in working chips, a laboratory prototype represents progress.\n\nInvestors are also souring on names like Broadcom as questions arise around AI infrastructure funding. Reports today that Blue Owl Capital may not back the Oracle project as expected gave investors another reason to book profits today.\nDon’t miss this second chance at a potentially lucrative opportunity Ever feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $460,957 !*\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $52,242 !*\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $509,955 !*\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\nSee the 3 stocks »\n*Stock Advisor returns as of December 15, 2025\nHoward Smith has positions in Broadcom, Intel, and Nvidia and has the following options: short February 2026 $170 calls on Nvidia and short January 2026 $26 calls on Intel. The Motley Fool has positions in and recommends Intel, Nvidia, and Oracle. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy .\nStock Market Today, Dec. 17: Broadcom Drops on China AI Chip Breakthrough and AI Buildout Uncertainty was originally published by The Motley Fool\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "02:03:28",
@@ -121,5 +130,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 13
+  "total_news_count": 14
 }
