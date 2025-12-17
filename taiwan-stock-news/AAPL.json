@@ -1,8 +1,26 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-17T15:08:28.343Z",
+  "last_updated": "2025-12-17T15:48:40.538Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-17",
+      "Time": "23:35:15",
+      "Source": "MT Newswires",
+      "Title": "Jefferies Adjusts Price Target on Apple to $283.36 From $246.99, Maintains Hold Rating",
+      "URL": "https://finance.yahoo.com/news/jefferies-adjusts-price-target-apple-153515499.html",
+      "Content": "PREMIUM\nJefferies Adjusts Price Target on Apple to $283.36 From $246.99, Maintains Hold Rating\n\nMT Newswires\nWed, December 17, 2025 at 7:35 AM PST\n\nIn this article: AAPL\n\nApple (AAPL) has an average rating of overweight and mean price target of $291.92, according to anal\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-17",
+      "Time": "23:03:39",
+      "Source": "24/7 Wall St.",
+      "Title": "Why Sam Altman Sees Apple and Not Google as its Top AI Rival",
+      "URL": "https://finance.yahoo.com/m/6a2d7130-a8fd-3494-a708-8da1e3ea5b9d/why-sam-altman-sees-apple-and.html",
+      "Content": "Why Sam Altman Sees Apple and Not Google as its Top AI Rival\n\nJoey Frenette\nWed, December 17, 2025 at 7:03 AM PST 4 min read\n\nIn this article: GOOG\n\nAAPL\n\nOPAI.PVT\n\nQuick Read Sam Altman views Apple as OpenAI’s top AI rival despite Google’s recent Gemini 3.0 momentum.\nApple pays only $1B annually to use Gemini and plans to integrate it into Siri in 2026.\nApple’s Gemini-powered Siri could become the default iPhone AI option over ChatGPT.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality. Read more here .\n\nOpenAI's top boss, Sam Altman, has been quite busy of late responding to Google Gemini 3.0 with a \"code red\" of sorts. And while the latest ChatGPT 5.2 seems to be a worthy rival, questions linger as to whether OpenAI is about to lose its AI lead to the likes of Google and its parent company, Alphabet ( NASDAQ:GOOG ). Arguably, the torch has already passed after Gemini 3.0 garnered spectacular feedback while powering impressive App Store downloads.\nThough Google has made massive ground over the past year, I still think it's a tad too early in the game to deem Google as the winner of the AI race, even though Gemini 3.0's strong launch has made a case for switched chatbots. While Google is an AI force to be reckoned with, I found it quite interesting that Altman expressed his view that it's Apple ( NASDAQ:AAPL ), a firm it's partnered up with to offer ChatGPT via Apple Intelligence, as opposed to Google, which could be the most significant AI rival, at least over the long term, for the GPT-maker.\n\nSam Altman is right to acknowledge Apple's AI abilities Sure, such a comment seems laughable for now, especially given where Apple Intelligence currently stands in the AI race. However, as we head into 2026, Apple is going to be launching what could be its biggest AI offering to date: Siri with a Gemini boost. Of course, in the longer term, it might be more about Apple's dominance in software and hardware that makes Apple a serious contender in the AI war.\n\nThough it may seem far-fetched to think that the Cupertino giant is a bigger threat than the likes of Google, which has all the right tools in place to extend its lead in the race, I certainly wouldn't doubt Apple CEO Tim Cook and company as they look to learn from the mistakes of other tech titans to offer an AI experience that's simply better than what most other firms are currently offering. In a prior piece, I shone a bright light on the great deal that Apple was getting to use Gemini.\nJust $1 billion per year to use Gemini and add to it seems like a great deal that only Apple has the leverage to make. The most exciting thing, I believe, is what else Apple adds on top of Gemini. As the AI experience becomes more about what's added on top of a large language model (LLM), it will be very interesting to see how Apple's take on AI will be in 2026.\n\nStory Continues\nApple's big AI upgrades are coming. It might be the biggest AI story of 2026 My guess is the Gemini experience will be made that much richer with Apple's polishings added on top. Either way, Apple users are going to get a premium and more exclusive AI product pretty much for free. And that might power a device refresh cycle, the likes of which we may not have witnessed since the COVID lockdown days. Personally, I think Apple's new Gemini-powered Siri could be a hit. And it might cause further competitive pressures for OpenAI.\n\nOf course, ChatGPT is likely to stick around as an option for iPhone users, but if it's not the default option, things could have the potential to get very sticky for OpenAI as it looks to fight off a new threat in Apple, as it continues to do its best to keep up with Google and Gemini. Add the OpenAI device that former Apple CDO Jony Ive has been working on into the equation, and Apple stands out as a top foe in AI consumer hardware.\nAnd with OpenAI also looking to make strides in AI chips, Apple and its M-series chips also stand out as a top rival. If Apple's Siri upgrade goes well, perhaps it's M-series chips in Apple's Private Cloud Compute and A-series chips on the edge that we'll all be using as we stay in that Apple ecosystem.\nData Shows One Habit Doubles American’s Savings And Boosts Retirement Most Americans drastically underestimate how much they need to retire and overestimate how prepared they are. But data shows that people with one habit have more than double the savings of those who don’t.\nAnd no, it’s got nothing to do with increasing your income, savings, clipping coupons, or even cutting back on your lifestyle. It’s much more straightforward (and powerful) than any of that. Frankly, it’s shocking more people don’t adopt the habit given how easy it is .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-17",
       "Time": "22:47:00",
@@ -94,5 +112,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 10
+  "total_news_count": 12
 }
