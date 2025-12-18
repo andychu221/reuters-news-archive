@@ -1,8 +1,17 @@
 {
   "stock_id": "ADI",
-  "last_updated": "2025-12-17T20:11:32.069Z",
+  "last_updated": "2025-12-18T16:11:28.457Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "23:08:25",
+      "Source": "GuruFocus.com",
+      "Title": "Top Semiconductor Stocks for 2026 -- Nvidia and Broadcom Lead Chip Picks",
+      "URL": "https://finance.yahoo.com/news/top-semiconductor-stocks-2026-wall-120207279.html",
+      "Content": "Top Semiconductor Stocks for 2026 -- Nvidia and Broadcom Lead Chip Picks\n\nNauman Khan\nThu, December 18, 2025 at 7:08 AM PST 1 min read\n\nIn this article: AVGO\n\nNVDA\n\nALAB\n\nMU\n\nAMD\n\nThis article first appeared on GuruFocus .\nMorgan Stanley named Nvidia ( NASDAQ:NVDA ), Broadcom ( NASDAQ:AVGO ) and Astera Labs ( NASDAQ:ALAB ) as its top semiconductor picks for 2026, pointing to strong AI-driven demand in data center chips, according to a recent research note.\nThe firm highlighted Nvidia and Broadcom as its preferred processor names. Analysts said Nvidia could deliver the highest returns in cloud computing as Vera Rubin deployments ramp in the second half of 2026. Broadcom remains central to AI infrastructure, despite potential bottlenecks in ASIC growth.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nAstera Labs emerged as the standout small-cap pick for data center opportunities. Morgan Stanley kept Equal-Weight ratings on AMD ( NASDAQ:AMD ) and Marvell ( NASDAQ:MRVL ), noting room for upside but also some uncertainties. Intel ( NASDAQ:INTC ) drew a cautious view due to challenges in its foundry operations.\nIn memory and chip equipment, Micron ( NASDAQ:MU ) leads the way, with Sandisk ( NASDAQ:SNDK ) also rated Overweight. Applied Materials (AMAT) and Taiwan Semiconductor ( NYSE:TSM ) are favored in equipment, while NXP Semiconductors (NXPI) balances growth and value. Analog Devices (ADI) shows growth potential, though at a higher price point.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "03:10:19",
@@ -103,5 +112,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 11
+  "total_news_count": 12
 }
