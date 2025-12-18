@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-17T23:10:58.138Z",
+  "last_updated": "2025-12-18T00:10:58.717Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "06:30:05",
+      "Source": "Investopedia",
+      "Title": "Not All AI Stocks Are Falling These Days. Micron Is Rising on Strong Earnings",
+      "URL": "https://finance.yahoo.com/m/23d4700c-2943-3348-8627-ab07eb0fe51f/not-all-ai-stocks-are-falling.html",
+      "Content": "Not All AI Stocks Are Falling These Days. Micron Is Rising on Strong Earnings\n\nKara Greenberg\nWed, December 17, 2025 at 2:30 PM PST 2 min read\n\nIn this article: MU\n\nNVDA\n\nAMD\n\nKey Takeaways Micron Technology posted earnings that topped analysts' estimates, sending shares higher in extended trading Wednesday.\nCEO Sanjay Mehrotra said growing AI demand drove record results for the memory chipmaker and Nvidia supplier.\nWorries about an AI bubble have weighed on the tech sector lately. Micron is still riding the AI boom higher.\n\nShares of the memory chip maker were up over 5% in extended trading Wednesday after the company posted earnings that blew past analysts' estimates, driven by growing demand for AI hardware.\nMicron Technology ( MU ) posted adjusted earnings per share of $4.78 for the fiscal first quarter, well above the $3.96 analysts surveyed by Visible Alpha were looking for . Its revenue jumped nearly 60% year-over-year to a record $13.64 billion, also exceeding expectations.\n\nWhy This Matters to Investors As a supplier for leading AI chipmakers including Nvidia and Advanced Micro Devices, Micron has seen strong momentum in its data center business this year, helping it earn a reputation as a winning \"pick-and-shovel\" play for the AI trade.\n\"Micron delivered record revenue and significant margin expansion at the company level and also in each of our business units,” said CEO Sanjay Mehrotra, who called the company an \"essential AI enabler.\"\n\nMicron projected adjusted earnings per share of $8.22 to $8.62 on revenue of $18.3 billion to $19.1 billion for the second quarter, well ahead of consensus estimates.\n\nMicron's stock, though well off record highs seen earlier this month, has largely avoided the worst of the recent slump in the AI sector. It's continued to benefit from a shortage in the memory market , supporting stronger pricing and higher margins. Micron's GAAP gross margin jumped to 56% in the first quarter, up from around 38% a year earlier, with the company saying it expects that to climb as high as 68% in the current quarter.\nShares of Micron have nearly tripled in value in 2025 through Wednesday's close, making it one of the top-performing stocks in the S&P 500 for the year.\nRead the original article on Investopedia\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "05:46:00",
@@ -193,5 +202,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 21
+  "total_news_count": 22
 }
