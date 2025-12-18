@@ -1,8 +1,26 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-18T18:11:31.564Z",
+  "last_updated": "2025-12-18T19:11:20.927Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "03:04:35",
+      "Source": "GuruFocus.com",
+      "Title": "Apple Plans More Ads in App Store",
+      "URL": "https://finance.yahoo.com/news/apple-plans-more-ads-app-190435970.html",
+      "Content": "Apple Plans More Ads in App Store\n\nMoz Farooque ACCA\nThu, December 18, 2025 at 11:04 AM PST 1 min read\n\nIn this article: AAPL\n\nThis article first appeared on GuruFocus .\nApple ( NASDAQ:AAPL ) is making a small but meaningful change to the App Store that could have a big impact on how developers market their apps. Starting next year, the company plans to show more ads in App Store search results.\nAccording to an update on its Apple Ads website, ads will no longer be limited to the very top of search results. Instead, Apple will place ads in additional positions further down the page. Developers do not need to adjust their current campaigns to take part, and they will not be able to choose or bid for a specific placement. Apple will decide where ads appear.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\nThe logic is straightforward. Apple said nearly 65% of App Store downloads happen right after a user runs a search, making those moments especially valuable for visibility and installs.\nFor developers, this could mean more chances to get noticed, but also more competition inside search results. For Apple, it quietly adds fuel to its services business, where advertising has become an increasingly attractive, high margin growth lever.\nInvestors will be watching how developers respond once the expanded ad placements roll out next year.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "02:21:31",
+      "Source": "GuruFocus.com",
+      "Title": "Apple Loosens iOS Grip in Japan",
+      "URL": "https://finance.yahoo.com/news/apple-loosens-ios-grip-japan-182131955.html",
+      "Content": "Apple Loosens iOS Grip in Japan\n\nMoz Farooque ACCA\nThu, December 18, 2025 at 10:21 AM PST 1 min read\n\nIn this article: AAPL\n\nThis article first appeared on GuruFocus .\nApple ( NASDAQ:AAPL ) is making notable changes to how iOS apps work in Japan, easing some long standing restrictions as it moves to comply with the country's Mobile Software Competition Act.\nThe update gives developers more freedom. Apps can now be distributed through authorized alternative marketplaces, and developers can process payments for digital goods outside Apple's in app purchase system. Apple stressed there are tradeoffs, warning that apps downloaded outside the App Store will not go through its App Review process, which it says raises the risk of scams, fraud and harmful content.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\nThere are user impacts too. Apple said it will not issue refunds for apps using external payments or web based transaction links, and customer support will be more limited if problems arise. That puts more responsibility on developers and third party platforms.\nOn fees, Apple said it will still take commissions only on digital goods and services. Most developers will pay a reduced 10% rate, while certain transactions will face a higher 21% fee.\nFor investors, it is another reminder that regulation is slowly reshaping Apple's services playbook. How this plays out in Japan could hint at what comes next elsewhere.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "01:32:14",
@@ -391,5 +409,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 43
+  "total_news_count": 45
 }
