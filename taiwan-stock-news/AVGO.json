@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-18T01:10:53.495Z",
+  "last_updated": "2025-12-18T02:11:00.675Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "10:00:38",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Micron Jumps On Earnings After Oracle Leads AI Stock Sell-Off",
+      "URL": "https://finance.yahoo.com/m/ff75ab41-f2d5-3639-a63d-2124f5fc841b/dow-jones-futures%3A-micron.html",
+      "Content": "Dow Jones Futures: Micron Jumps On Earnings After Oracle Leads AI Stock Sell-Off\n\nED CARSON\nWed, December 17, 2025 at 6:00 PM PST 5 min read\n\nIn this article: ^DJI\n\nMU\n\nORCL\n\nGEV\n\nNVDA\n\nOracle and AI stocks drove damaging market losses Wednesday. Micron jumped late on strong earnings and blowout guidance.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "07:10:00",
@@ -409,5 +418,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 45
+  "total_news_count": 46
 }
