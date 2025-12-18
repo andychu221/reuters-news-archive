@@ -1,6 +1,6 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-18T09:10:49.082Z",
+  "last_updated": "2025-12-18T10:10:38.406Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -10,6 +10,15 @@
       "Title": "CoLab joins Nvidia Inception to speed AI adoption in engineering",
       "URL": "https://finance.yahoo.com/m/0bc0b032-a75c-37fd-b115-3fb10ba8229b/colab-joins-nvidia-inception.html",
       "Content": "CoLab joins Nvidia Inception to speed AI adoption in engineering\n\nRanjithKumar Dharma\nThu, December 18, 2025 at 12:51 AM PST 2 min read\n\nIn this article: NVDA\n\nManufacturing software company CoLab has joined the Nvidia Inception program, a global initiative that supports startups developing innovative AI solutions by providing access to technology, expertise, and a collaborative ecosystem.\nAs a member, CoLab plans to investigate how Nvidia technologies could speed up the use of AI in teams that design complex physical products.\n\nThe two companies are focusing on applications of AI in areas where product development must account for physics, materials, safety constraints, and long development timelines.\nThis work applies to sectors such as vehicles, industrial equipment, medical devices, and energy infrastructure, where engineering teams iterate on designs to meet performance, cost and reliability requirements.\nFounded in 2017, CoLab develops AI-powered software for mechanical engineering and hardware teams. Its EngineeringOS platform brings people, data, and AI into one workspace to support faster design decisions and capture expert knowledge as part of daily work.\nCoLab co-founder and CEO Adam Keating said: “This is about accelerating the development of products that matter.\n\n“Whether it’s national security, healthcare, or the energy transition, progress in these areas depends on how quickly engineering teams can design, test, and refine complex physical systems. At CoLab, we envision a future where they can do those things much faster.”\nWithin the Nvidia Inception programme, CoLab will explore how Nvidia platforms that support advanced simulation, training environments and synthetic data generation can align with its decision-making workflows.\nCoLab intends to bring outputs from these tools into a structured process so that relevant data reaches specific engineers at appropriate points in the design cycle.\nCoLab co-founder and chief technology officer Jeremy Andrews said: “AI will accelerate how designs are generated and validated.\n\n“But the limiting factor will be decision-making. Our focus is on capturing design intent — the discussions, rationale, and trade-offs behind engineering decisions — and using that context to make AI outputs more relevant and consistent with how teams actually work.”\nCoLab also plans to examine how to use Nvidia technologies for AI training and evaluation.\nThe company said that its platform records a dataset of engineering knowledge through digital design reviews, capturing a continuing record of why decisions were made as well as what changed.\nIn November 2025, CoLab announced a $72M USD Series C funding round led by Intrepid Growth Partners. The company said it will use the funds to develop new AI agents, build integrations with other engineering and AI applications, expand partnerships, and scale its go-to-market teams. CoLab also indicated that it expects to make several product and partnership announcements before the end of the year.\n\nStory Continues\n\"CoLab joins Nvidia Inception to speed AI adoption in engineering\" was originally created and published by Verdict , a GlobalData owned brand.\n\nThe information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "16:25:59",
+      "Source": "The Wall Street Journal",
+      "Title": "Heard on the Street Wednesday Recap: Another AI Selloff",
+      "URL": "https://finance.yahoo.com/m/6713f446-6929-3db8-b875-9579fe516ea6/heard-on-the-street-wednesday.html",
+      "Content": "Heard on the Street Wednesday Recap: Another AI Selloff\n\nThe Wall Street Journal\nThu, December 18, 2025 at 12:25 AM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\n^SOX\n\n^GSPC\n\n^IXIC\n\nMain indexes fall as AI selloff resumes. The Dow industrials fell 228 points, led by Caterpillar and Nvidia. The S&P 500 shed 1.2% while the Nasdaq slid by 1.8%. The PHLX Semiconductor Index, which houses 30 major chip stocks, dropped 3.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -877,5 +886,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 97
+  "total_news_count": 98
 }
