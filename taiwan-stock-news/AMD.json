@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-18T12:11:15.544Z",
+  "last_updated": "2025-12-18T13:11:01.430Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "20:07:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Rises. This Helped Shake Off the AI Fear.",
+      "URL": "https://finance.yahoo.com/m/dd15d960-3cb7-3ea9-9f43-5c45141aa288/nvidia-stock-rises.-this.html",
+      "Content": "Nvidia Stock Rises. This Helped Shake Off the AI Fear.\n\nAdam Clark\nThu, December 18, 2025 at 4:07 AM PST 1 min read\n\nIn this article: NVDA\n\nAVGO\n\nAMD\n\nMU\n\nORCL\n\nNvidia stock was gaining Thursday as earnings from Micron Technology reassured the market about artificial-intelligence investment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "20:02:07",
@@ -19,6 +28,15 @@
       "Title": "Advanced Micro Devices Rises After Analyst Reiterates Buy Rating",
       "URL": "https://finance.yahoo.com/news/advanced-micro-devices-rises-analyst-114038601.html",
       "Content": "Advanced Micro Devices Rises After Analyst Reiterates Buy Rating\n\nFaizan Farooque\nThu, December 18, 2025 at 3:40 AM PST 1 min read\n\nIn this article: AMD\n\nINTC\n\nThis article first appeared on GuruFocus .\nAMD ( AMD , Financials ) shares rose after Daiwa analyst Louis Miscioscia maintained a Buy rating and $300 price target. The target is around 40% higher than where shares last traded. The solid forecast is based on the fact that AI workloads in data centers are driving up demand for AMD processors. Companies and cloud providers are using the company's CPUs and GPUs more and more for AI training and inference.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\nExperts suggest that AMD is increasing market share in the AI-focused GPU industry as customers look for different vendors and options. Intel is a competitor in the CPU market, while AMD continues to sell its server solutions against established players.\nAMD has released Helios server rack systems, which are pre-configured data center solutions that combine CPUs and GPUs for faster deployment.The chip giant says it makes it easier for businesses to use AI technology on a large scale.Shares went up a little in the morning after being up about 1% the day before. AMD stock has gone up more than 70% this year, which shows that investors are hopeful about AI-related progress.\nInvestors will look at financial reports to see how much demand there is for data centers, how well products are selling, and how much profit the company is making. This could cause the stock to go up.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "19:37:11",
+      "Source": "Barrons.com",
+      "Title": "U.S. Tech Stocks Rebound Premarket After Heavy Selloff",
+      "URL": "https://finance.yahoo.com/m/75b7e9c2-3a6b-3575-bb6b-66bd15928d2a/u.s.-tech-stocks-rebound.html",
+      "Content": "U.S. Tech Stocks Rebound Premarket After Heavy Selloff\n\nBarrons.com\nThu, December 18, 2025 at 3:37 AM PST 1 min read\n\nIn this article: ORCL\n\n^IXIC\n\nAVGO\n\nNVDA\n\nAMD\n\nShares in U.S. tech stocks recovered slightly premarket after a heavy selloff in the prior session. Oracle climbed 1% premarket, having dropped 5.4% to a six-month low Wednesday. Broadcom stock is also on the rise after shedding roughly $422 billion of its market cap over the last five trading days.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -238,5 +256,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 26
+  "total_news_count": 28
 }
