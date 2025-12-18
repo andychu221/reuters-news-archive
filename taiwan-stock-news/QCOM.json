@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-18T11:10:33.511Z",
+  "last_updated": "2025-12-18T12:10:35.312Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "19:24:42",
+      "Source": "MT Newswires",
+      "Title": "Qualcomm Completes Acquisition of Alphawave Ahead of Schedule",
+      "URL": "https://finance.yahoo.com/news/qualcomm-completes-acquisition-alphawave-ahead-112442079.html",
+      "Content": "PREMIUM\nQualcomm Completes Acquisition of Alphawave Ahead of Schedule\n\nMT Newswires\nThu, December 18, 2025 at 3:24 AM PST\n\nIn this article: QCOM\n\nAWEVF\n\nQualcomm (QCOM) said Thursday it has completed the acquisition of Alphawave IP roughly a quarter ahe\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "18:20:00",
@@ -112,5 +121,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 12
+  "total_news_count": 13
 }
