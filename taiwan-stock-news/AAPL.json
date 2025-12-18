@@ -1,8 +1,26 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-18T07:10:55.196Z",
+  "last_updated": "2025-12-18T10:11:08.171Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "17:41:35",
+      "Source": "MT Newswires",
+      "Title": "Apple Intends to Expand Ads in App Store Search Results From 2026",
+      "URL": "https://finance.yahoo.com/news/apple-intends-expand-ads-app-094135327.html",
+      "Content": "PREMIUM\nApple Intends to Expand Ads in App Store Search Results From 2026\n\nMT Newswires\nThu, December 18, 2025 at 1:41 AM PST 1 min read\n\nIn this article: AAPL\n\nApple (AAPL) said Wednesday it plans to increase the number of advertisements that appear in its App\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "17:31:21",
+      "Source": "MT Newswires",
+      "Title": "Apple Updates iOS in Japan to Comply With Mobile Software Competition Act",
+      "URL": "https://finance.yahoo.com/news/apple-updates-ios-japan-comply-093121278.html",
+      "Content": "PREMIUM\nApple Updates iOS in Japan to Comply With Mobile Software Competition Act\n\nMT Newswires\nThu, December 18, 2025 at 1:31 AM PST\n\nIn this article: AAPL\n\nApple (AAPL) said Thursday that it implemented changes to its iOS in Japan to comply with the countr\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "14:00:00",
@@ -256,5 +274,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 28
+  "total_news_count": 30
 }
