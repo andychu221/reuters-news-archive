@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-18T01:11:18.679Z",
+  "last_updated": "2025-12-18T04:11:08.231Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "08:11:00",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: Applied Materials, Inc.",
+      "URL": "https://finance.yahoo.com/m/9bbcbf4a-0fb9-3662-b261-40536851795c/analyst-report%3A-applied.html",
+      "Content": "Analyst Report: Applied Materials, Inc.\n\nWilliam Kerwin\nWed, December 17, 2025 at 4:11 PM PST\n\nIn this article: AMAT\n\nTSM\n\nINTC\n\nSSNLF\n\nApplied Materials is the largest semiconductor wafer fabrication equipment manufacturer in the world. It has a broad portfolio spanning nearly every corner of the WFE ecosystem. Applied Materials holds leading market share in deposition, which entails the layering of new materials on semiconductor wafers. It is more exposed to general-purpose logic chips made at integrated device manufacturers and foundries. It counts the largest chipmakers in the world as customers, including TSMC, Intel, and Samsung.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "06:45:03",
@@ -112,5 +121,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 12
+  "total_news_count": 13
 }
