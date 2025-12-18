@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-18T00:10:58.717Z",
+  "last_updated": "2025-12-18T11:10:43.409Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "18:30:00",
+      "Source": "Bloomberg",
+      "Title": "JPMorgan Quants Warn of ‘Extreme Crowding’ in Speculative Stocks",
+      "URL": "https://finance.yahoo.com/news/jpmorgan-quants-warn-extreme-crowding-103000458.html",
+      "Content": "JPMorgan Quants Warn of ‘Extreme Crowding’ in Speculative Stocks\n\nBernard Goyder\nThu, December 18, 2025 at 2:30 AM PST 3 min read\n\nIn this article: JPM\n\nAVGO\n\nAMD\n\nEXPE\n\nIVZ\n\n(Bloomberg) -- The latest bout of volatility in US equity markets highlights a risk that strategists at JPMorgan Chase & Co. have been warning about: “extreme crowding” in stocks that have rallied hard this year.\nThe bank has a list of six stocks it considers speculative growth plays and warned that they are “vulnerable to a reversal” in the event of any major macro event. The list includes Broadcom Inc., Advanced Micro Devices Inc., Expedia Group Inc., Estee Lauder Cos Inc., Invesco Ltd. and Nucor Corp.\n\nMost Read from Bloomberg\nHudson Tunnel Digging Work to Start as Boring Machines Ready\nHow This Chameleon UK Location Became a Little-Known Hollywood Backdrop\nNYC High Line-Area Building Floats $53 Million Bankruptcy Sale\nNew York Says Cab, Rideshare Insurance Rates to Rise 25%\nNew York Utility Says Queue for Large Power Users Has Tripled\nThe S&P 500 dropped 1.2% Wednesday, a fourth straight day of loss after notching a record last week. The selloff has been led by tech shares as investors rotate out of winners — an event the JPMorgan quants warned about. They said “crowding” into the highly volatile, risky stocks had reached the 99th percentile — an “extreme” level that could lead to a sharp unwind that investors should hedge against.\n“These companies are more sensitive to shocks, leaving them at risk of sudden repricing,” wrote Bram Kaplan, JPMorgan’s head of Americas equity derivatives strategy. “Low Vol stocks possess a more attractive risk-reward profile” he added, compared to the more volatile stocks, many of which are “second order speculative AI plays.”\nSince Dec. 10, Broadcom shares are down more than 21%, while Advanced Micro Devices has dropped 11%. Estee Lauder, Invesco and Nucor are in the red as well, with only Expedia up about 3%.\nInvestors looking for winners from the artificial intelligence trade this year fanned out from Big Tech names like Nvidia Corp. and Microsoft Corp., and piled into names they expect to benefit from the AI wave. JPMorgan called the ones that made its list “second-order speculative AI beneficiaries” and said they are vulnerable to big swings because they have to tap capital or debt markets to fund expansion, rather than rely on internal growth.\n\nKaplan offers a simple recipe for clients looking to trade the moment: buy bearish put options on speculative names and take bullish positions on less volatile stocks. Investors can consider shorting some of the high-momentum names, while taking long positions in duller “low volatility” stalwarts like Cigna Group, Pfizer Inc. and Verizon Communications Inc.\n\nStory Continues\nThere is the chance, of course, that the four-day slump in these momentum stocks could merely be a temporary rotation away from a few hot stocks, rather than any significant change to the landscape. That criticism is bolstered by Micron Technology Inc.’s blowout earnings on Wednesday, that are pushing AI stocks higher once again.\n\n“Real asset owners — retail investors and large institutions — are the only market participants capable of moving markets beyond short-term, shallow and technical drawdowns,” Alexis Maubourguet, chief investment officer of the Swiss hedge fund Adapt Investment Managers, said in an interview. “It will take a meaningful fundamental change for them to liquidate their positions, such as a material shift in the AI narrative.”\nNevertheless, there’s been a growing sense that the AI trade is no longer capable of lifting all boats, with investors trying to sort out winners and losers.\n--With assistance from Matt Turner.\nMost Read from Bloomberg Businessweek\nThe Cracks in Crumbl’s Cookie Empire Are Showing\nDonald and Melania Trump’s Terrible, Tacky, Seemingly Legal Memecoin Adventure\nOracle’s $300 Billion AI Bet Has Fast Become a Bubble Barometer\nUniqlo Founder and Japan’s Richest Man Loves a $32 Pair of Slacks\nThe Prosperity Gap Between Big and Small Businesses\n©2025 Bloomberg L.P.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "06:30:05",
@@ -202,5 +211,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 22
+  "total_news_count": 23
 }
