@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-18T14:41:56.769Z",
+  "last_updated": "2025-12-18T15:10:57.216Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "23:07:34",
+      "Source": "24/7 Wall St.",
+      "Title": "Premarket Movers: Micron is Rocketing $31 Higher",
+      "URL": "https://finance.yahoo.com/m/f7280146-bd4e-3929-947e-59021b24f16e/premarket-movers%3A-micron-is.html",
+      "Content": "Premarket Movers: Micron is Rocketing $31 Higher\n\nIan Cooper\nThu, December 18, 2025 at 7:07 AM PST 4 min read\n\nIn this article: MU\n\nAVGO\n\nAMD\n\nQuick Read Micron is surging thanks to strong earnings. EPS of $4.78 beat by 82 cents. Revenue of $13.64 billion beat by $760 million.\nWith an overweight rating on AVGO, Morgan Stanley has a $462 price target on AVGO.\nShares of Advanced Micro Devices are up about 3%, or by $6 a share in premarket. Analysts at Piper Sandler have an overweight rating on the stock.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "22:57:17",
+      "Source": "Business Insider",
+      "Title": "China's economic slump isn't stopping a billionaire boom in AI chips",
+      "URL": "https://finance.yahoo.com/m/1760dd3f-cd43-3d19-bc27-0d94629ab30d/china%27s-economic-slump-isn%27t.html",
+      "Content": "China's economic slump isn't stopping a billionaire boom in AI chips\n\nHuileng Tan\nThu, December 18, 2025 at 6:57 AM PST 3 min read\n\nIn this article: AMD\n\nChina's AI chip boom is minting billionaires at breakneck speed, even as the economy sputters.\nSurging investor interest in domestic AI and semiconductor stocks is driving rapid wealth gains.\nUS chip bans are supercharging China's homegrown AI champions.\nChina's deepening property crisis has crushed household wealth and dented the fortunes of some of its biggest tycoons — but a new class of AI-era billionaires is rising fast.\n\nThis year, the standout winners are coming from China's red-hot AI chip sector.\nOn Wednesday, shares of MetaX Integrated Circuits Shanghai — a GPU startup founded by former AMD executives — skyrocketed as much as 755% on their first day of trading on the Shanghai Stock Exchange's tech-focused STAR Market, before closing up about 700%.\nThe surge catapulted its chairman and cofounder, Chen Weiliang, into one of China's fastest-rising tech moguls. Chen's stake in MetaX is worth about $6.5 billion, according to the Bloomberg Billionaires Index.\nOther early insiders also saw eye-popping paper gains.\nMetaX's other two cofounders and co-chief technology officers, Peng Li and Yang Jian, hold stakes worth hundreds of millions of dollars after the blockbuster debut, according to Bloomberg's calculations.\n\nChina's AI rush Chen's rise follows that of another GPU entrepreneur, Zhang Jianzhong, the founder and CEO of Moore Threads Technology.\nEarlier this month, Zhang's net worth jumped to $4.3 billion after his company's successful IPO, continuing a wave of investor enthusiasm for homegrown semiconductor players.\n\nThe richest figure in China's AI chip scene is Chen Tianshi, a cofounder and CEO of Cambricon Technologies — a company retail traders have dubbed \"China's Nvidia.\"\nCambricon's Chen is now worth $22.5 billion, making him the country's 16th-richest individual on Bloomberg's list. He is the 115th richest person in the world.\nThese new fortunes reflect a sharp shift in investor sentiment.\nChinese AI and semiconductor stocks have been on a tear since the breakout of the China-made DeepSeek-R1 AI model released in January. The model helped spark a rally in local tech names and pushed the Hang Seng Tech Index up more than 20% so far this year.\nWashington's tightening export controls on advanced Nvidia chips also contributed to the boom.\n\nSuch restrictions on high-end AI processors have choked China's access to cutting-edge US hardware and pushed Beijing to lean harder on domestic suppliers .\nStill, China's new AI billionaires remain far from the top of the country's wealth rankings. The upper tier is still dominated by long-established tycoons.\n\nStory Continues\nIn the top spot is Zhong Shanshan, the low-key bottled-water magnate behind Nongfu Spring, with a fortune of $68.1 billion, per Bloomberg.\nPony Ma, a cofounder and CEO of Tencent, ranks second with $66.5 billion — a fortune up 38% this year, on the heels of Tencent's AI-induced rally — while ByteDance cofounder Zhang Yiming comes in third with $65.2 billion.\nRead the original article on Business Insider\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "21:02:00",
@@ -274,5 +292,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 30
+  "total_news_count": 32
 }
