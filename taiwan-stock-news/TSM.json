@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-18T13:11:41.721Z",
+  "last_updated": "2025-12-18T14:11:18.587Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "21:28:39",
+      "Source": "Investing.com",
+      "Title": "Morgan Stanley recommends adding to this major chip stock ahead of 2026",
+      "URL": "https://finance.yahoo.com/news/morgan-stanley-recommends-adding-major-132839928.html",
+      "Content": "Morgan Stanley recommends adding to this major chip stock ahead of 2026\n\nSam Boughedda\nThu, December 18, 2025 at 5:28 AM PST 1 min read\n\nIn this article: MS\n\nTSM\n\nTSMWF\n\nInvesting.com -- Morgan Stanley told investors in a note Thursday that it recommends increasing positions in one key semiconductor stock ahead of 2026, raising its price target and reiterating the stock as a top pick, citing accelerating AI-driven growth and expanding margins.\nThe bank lifted its target on Taiwan Semiconductor Manufacturing to NT$1,888 from NT$1,688 and reaffirmed an Overweight rating, according to Morgan Stanley analyst Charlie Chan.\n\n“[We] recommend increasing positions in TSMC before the start of 2026,” wrote Chan.\nThe firm expects TSMC to guide 2026 revenue growth in the mid-20% range, while ultimately delivering closer to 30% year-over-year growth.\nBased on the forecast 2026 capital expenditure of $49 billion and continued 3-nanometer capacity expansion, Morgan Stanley models 2026 revenue growth of 30%, well above the Street consensus of 22%.\nThe bank noted that management may initially take a conservative stance but expects growth to exceed guidance in later quarters.\nMorgan Stanley also raised its longer-term outlook, revising its estimate for AI semiconductor foundry revenue growth to a 60% compound annual rate from 2024 to 2029.\nThe firm estimates the total AI chip market could reach $550 billion by 2029, with TSMC generating about $107 billion from AI chip foundry services, or roughly 43% of total revenue.\nThe bank raised its 2026 and 2027 earnings estimates and said the stock “remains attractive at 16x or 13x our 2026/2027 average EPS,” maintaining its bullish stance as AI demand continues to drive global semiconductor growth, according to Morgan Stanley.\nRelated articles\nMorgan Stanley recommends adding to this major chip stock ahead of 2026\n10 Beaten-Down Large-Cap Tech Stocks Offering Solid Upside Potential\n3 Dependable Non-Tech Stocks Poised for Steady Gains in Uncertain Times\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "21:02:29",
@@ -148,5 +157,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 16
+  "total_news_count": 17
 }
