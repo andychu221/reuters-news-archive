@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-18T13:11:12.888Z",
+  "last_updated": "2025-12-18T14:10:59.971Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "21:02:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Pops. This Helped Shake Off the AI Fear.",
+      "URL": "https://finance.yahoo.com/m/dd15d960-3cb7-3ea9-9f43-5c45141aa288/nvidia-stock-pops.-this.html",
+      "Content": "Nvidia Stock Pops. This Helped Shake Off the AI Fear.\n\nAdam Clark\nThu, December 18, 2025 at 5:02 AM PST 2 min read\n\nIn this article: MU\n\nNVDA\n\nAMD\n\nAVGO\n\nORCL\n\nNvidia stock was gaining Thursday as earnings from Micron Technology reassured the market about artificial-intelligence investment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "20:07:00",
@@ -544,5 +553,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 60
+  "total_news_count": 61
 }
