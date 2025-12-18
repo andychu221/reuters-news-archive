@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-18T07:10:37.853Z",
+  "last_updated": "2025-12-18T08:10:38.153Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "15:27:17",
+      "Source": "Cryptonews",
+      "Title": "Bitcoin Now Less Volatile Than Nvidia as Investor Base Broadens, Says Bitwise",
+      "URL": "https://finance.yahoo.com/m/efab9e8a-6d2c-384d-8076-b2dd0fe81377/bitcoin-now-less-volatile.html",
+      "Content": "Bitcoin Now Less Volatile Than Nvidia as Investor Base Broadens, Says Bitwise Bitwise said Bitcoin is likely to remain less volatile than Nvidia (NVDA) through 2026.\n\nAmin Ayan\nWed, December 17, 2025 at 11:27 PM PST 3 min read\n\nIn this article: BTC-USD\n\nNVDA\n\nBitcoin’s price swings are becoming more restrained, with the cryptocurrency now showing lower volatility than Nvidia shares in 2025, a shift Bitwise says reflects a maturing and more diversified investor base.\nKey Takeaways:\nBitcoin’s volatility has fallen below Nvidia’s as institutional products broaden its investor base, Bitwise says.\nThe growth of spot ETFs and traditional market access is reshaping how Bitcoin trades and reducing sharp price swings.\nBitwise views the calmer price action as a structural shift and expects further institutional entry in 2026.\n\nIn a report released Wednesday , Bitwise said Bitcoin is likely to remain less volatile than Nvidia (NVDA) through 2026, pointing to a long-term decline in Bitcoin’s price fluctuations over the past decade.\nBitwise Says Institutional Adoption Is Derisking Bitcoin The asset manager argued that Bitcoin’s growing presence in traditional financial markets is changing how it trades.\n“Bitcoin’s volatility has steadily declined over the past ten years,” Bitwise said, adding that the trend signals a broader “derisking” of the asset as institutional investors gain exposure through regulated products such as spot exchange-traded funds.\n\nAccording to Bitwise, the rise of ETFs and other traditional vehicles has expanded Bitcoin’s investor base beyond retail traders and crypto-native funds.\nThat diversification, the firm said, has helped dampen sharp price moves that once defined the asset.\nThe data highlights a notable contrast between Bitcoin and Nvidia this year. Bitcoin has moved 68% between its 2025 low of around $75,000 in April and its all-time high of $126,000 reached in early October.\nNvidia, by comparison, has recorded a much wider 120% swing, rising from a low near $94 in early April to a peak of $207 later in the year.\nDespite Nvidia’s higher volatility, the chipmaker’s shares have delivered stronger returns.\nNvidia is up roughly 27% year-to-date, while Bitcoin has slipped about 8% since the start of the year as crypto markets have increasingly decoupled from equities.\n\nBitwise sees the calmer price action as a structural shift rather than a temporary phase. The firm said traditional market forces that once drove extreme crypto cycles, such as leverage-fueled speculation and sharp reactions to halving events, are losing influence.\nLooking ahead, Bitwise struck an optimistic tone on Bitcoin’s broader outlook. The firm expects Bitcoin to set a new all-time high and break away from the historical four-year cycle that has shaped previous bull and bear markets.\nIt also predicts deeper institutional involvement in 2026, naming banks such as Citigroup, Morgan Stanley, Wells Fargo and Merrill Lynch as potential entrants.\n\nStory Continues\nBitcoin’s Long-Term Holder Selling May Be Nearing Its End: K33 Bitcoin has seen sustained sell-side pressure from long-term holders since 2024, but that trend may be nearing exhaustion , according to a new report from research and brokerage firm K33.\nThe firm estimates that around 1.6 million BTC, worth roughly $138 billion, has re-entered circulation over the past two years as early investors took profits.\n\nK33 head of research Vetle Lunde said the scale of these movements points to deliberate selling rather than technical factors like wallet consolidation or ETF-related transfers.\nThe report notes that 2024 and 2025 rank among the largest years on record for long-term supply reactivation, driven not by speculation, but by direct selling into deeper institutional liquidity.\nRead original story Bitcoin Now Less Volatile Than Nvidia as Investor Base Broadens, Says Bitwise by Amin Ayan at Cryptonews.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "14:15:01",
@@ -850,5 +859,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 94
+  "total_news_count": 95
 }
