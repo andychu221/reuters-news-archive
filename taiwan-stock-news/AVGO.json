@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-18T14:10:59.971Z",
+  "last_updated": "2025-12-18T14:42:05.002Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "22:35:06",
+      "Source": "Yahoo Finance",
+      "Title": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts tech",
+      "URL": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-143506528.html",
+      "Content": "LIVE\n\nStock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts tech\n\nKaren Friar and Brett LoGiurato\nUpdated Thu, December 18, 2025 at 6:35 AM PST 2 min read\n\nIn this article: MU\n\n^DJI\n\nGOOG\n\n^IXIC\n\nNVDA\n\nUS stocks rose on Thursday, eyeing a recovery from Wall Street's tech-fueled sell-off, as investors digested the easing inflation pressures from the latest reading on consumer prices that could help set expectations for the path of interest rates.\nThe tech-heavy Nasdaq Composite ( ^IXIC ) led the way up with a gain of 1.5%, pushed north by a strong earnings report from Micron ( MU ) after AI trade worries spurred another bruising session for tech on Wednesday. Shares in the benchmark S&P 500 ( ^GSPC ) and the blue chip-heavy Dow Jones Industrial Average ( ^DJI ) rose around 1% and 0.7%, respectively.\n\nHeadlining the morning was a cooler-than-expected Consumer Price Index (CPI) report, which showed inflation rose 2.7% in November over the prior year and 2.6% on a \"core\" basis — both figures coming in below economist estimates of 3% and 3.1%, respectively.\nAs with Tuesday's monthly jobs report , economists have noted that the inflation data may be less reliable than normal thanks to the US government shutdown. At the same time, the Federal Reserve seems more attentive to cracks in the labor market than to price pressures. On Wednesday, Fed governor Chris Waller signaled support for rate cuts before the release of the CPI update.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "21:02:00",
@@ -553,5 +562,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 61
+  "total_news_count": 62
 }
