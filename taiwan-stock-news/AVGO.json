@@ -1,6 +1,6 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-17T23:11:15.504Z",
+  "last_updated": "2025-12-18T00:11:05.442Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -19,6 +19,15 @@
       "Title": "Dow Jones Futures: Micron Jumps On Earnings, Guidance After Oracle Leads AI Stock Sell-Off",
       "URL": "https://finance.yahoo.com/m/ff75ab41-f2d5-3639-a63d-2124f5fc841b/dow-jones-futures%3A-micron.html",
       "Content": "Dow Jones Futures: Micron Jumps On Earnings, Guidance After Oracle Leads AI Stock Sell-Off\n\nED CARSON\nWed, December 17, 2025 at 2:50 PM PST 5 min read\n\nIn this article: ^DJI\n\nMU\n\nORCL\n\nNVDA\n\nGEV\n\nOracle and AI stocks drove damaging market losses Wednesday. Micron jumped late on strong earnings and blowout guidance.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "06:38:59",
+      "Source": "The Wall Street Journal",
+      "Title": "Heard on the Street Recap: Another AI Selloff",
+      "URL": "https://finance.yahoo.com/m/91039310-2f23-3f12-92f1-8ee13a4dd2d3/heard-on-the-street-recap%3A.html",
+      "Content": "Heard on the Street Recap: Another AI Selloff\n\nThe Wall Street Journal\nWed, December 17, 2025 at 2:38 PM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\n^SOX\n\n^GSPC\n\n^IXIC\n\nThe Dow fell 228 points led by Caterpillar and Nvidia. The PHLX Semiconductor Index that is home to 30 major chip stocks dropped 3.8% by the closing bell. Nvidia, Broadcom, Tesla and Google-parent Alphabet all shed 3-4% by the closing bell, racking up a total of $431 billion in lost market cap for the day.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -391,5 +400,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 43
+  "total_news_count": 44
 }
