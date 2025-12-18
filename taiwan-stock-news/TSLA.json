@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-18T18:11:56.242Z",
+  "last_updated": "2025-12-18T19:11:47.821Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "02:31:58",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: GM's Anderson Emerging as Frontrunner to Succeed Barra as CEO",
+      "URL": "https://finance.yahoo.com/news/market-chatter-gm-apos-anderson-183158398.html",
+      "Content": "PREMIUM\nMarket Chatter: GM's Anderson Emerging as Frontrunner to Succeed Barra as CEO\n\nMT Newswires\nThu, December 18, 2025 at 10:31 AM PST 1 min read\n\nIn this article: GM\n\nTSLA\n\nGeneral Motors (GM) Chief Product Officer Sterling Anderson is emerging as the favorite to succeed C\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "02:28:58",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Gains Strengthen Again As Carvana, Newmont, Nuclear Play Set Up Entries (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/3c54efeb-8d61-3f56-90ba-bb013f26d2f0/stock-market-today%3A-gains.html",
+      "Content": "Stock Market Today: Gains Strengthen Again As Carvana, Newmont, Nuclear Play Set Up Entries (Live Coverage)\n\nSCOTT LEHTONEN and DAVID SAITO-CHUNG\nThu, December 18, 2025 at 10:28 AM PST 7 min read\n\nIn this article: ^DJI\n\nCVNA\n\nNEM\n\nNVDA\n\n^GSPC\n\nStock Market Today: The Dow Jones index rose Thursday on a surprise CPI inflation report. Nvidia stock and Tesla rallied.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "01:39:32",
@@ -19,6 +37,15 @@
       "Title": "Elon Fever Hits Wall Street: Tesla Soars as SpaceX IPO Hype Builds",
       "URL": "https://finance.yahoo.com/news/elon-fever-hits-wall-street-172238594.html",
       "Content": "Elon Fever Hits Wall Street: Tesla Soars as SpaceX IPO Hype Builds\n\nKhac Phu Nguyen\nThu, December 18, 2025 at 9:22 AM PST 2 min read\n\nIn this article: TSLA\n\n^GSPC\n\nThis article first appeared on GuruFocus .\nTesla ( NASDAQ:TSLA ) has returned to the center of investor attention as markets continue to price in Elon Musk's longer-term ambitions in artificial intelligence, robotics, and space, even as the company's core automotive business faces mounting pressure. The shares reached their first record high of the year on Tuesday and have climbed roughly 20% over the past four weeks, extending a sharp rebound of 111% from an April 8 low that coincided with heightened tariff-related market anxiety during President Donald Trump's administration. The move has placed Tesla among the top 20 performers in the S&P 500 Index, underscoring how sentiment around Musk's broader vision is currently outweighing concerns tied to near-term vehicle sales and profitability.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\nThat optimism has come with a notable expansion in valuation. Tesla is now trading at about 214 times forward earnings, making it the second-most expensive stock in the S&P 500, behind Warner Bros Discovery Inc. and ahead of Palantir Technologies Inc. Some investors argue the multiple is difficult to reconcile with slowing sales, declining profits, increased regulation, and more cautious consumer spending on cars, prompting a number of funds to reduce or exit positions. Others remain focused on Tesla's potential transformation into an AI and robotics company, highlighting Musk's stated goal of shifting the profit mix toward autonomous driving, robotaxis, and humanoid robots over time.\n\nLooking ahead, the possibility of a SpaceX public listing is adding another dimension to the Tesla debate. SpaceX is planning an insider share sale valuing the company at around $800 billion and could possibly pursue an initial public offering next year, which would create a new avenue for investors seeking exposure to Musk's ideas. Some market participants suggest this could lead to selling pressure in Tesla as capital rotates, while others believe a high-profile SpaceX listing could lift sentiment across Musk's ecosystem and support Tesla shares indirectly. For now, Tesla remains the only publicly traded vehicle for that vision, even as technical signals recently hinted the stock was approaching overbought levels, raising the prospect of a near-term pause following its latest surge.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "01:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "This Year’s Biggest News Stories, From the White House to the L.A. Fires to the Middle East, as Told by WSJ",
+      "URL": "https://finance.yahoo.com/m/710f8644-385c-3807-b364-e3e78e961db4/this-year%E2%80%99s-biggest-news.html",
+      "Content": "This Year’s Biggest News Stories, From the White House to the L.A. Fires to the Middle East, as Told by WSJ\n\nWilliam Power\nThu, December 18, 2025 at 9:00 AM PST 27 min read\n\nIn this article: TSLA\n\nA torrent of news happened in 2025. Here’s a timeline of some of the most important stories, including some of the year’s best photos.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -184,5 +211,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 20
+  "total_news_count": 23
 }
