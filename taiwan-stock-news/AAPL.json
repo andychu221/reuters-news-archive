@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-18T06:11:10.938Z",
+  "last_updated": "2025-12-18T07:10:55.196Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "14:00:00",
+      "Source": "Barrons.com",
+      "Title": "Walmart and 2 More American Icons Are About to Get New Leadership. Trust the Process.",
+      "URL": "https://finance.yahoo.com/m/020c66e6-7575-36f3-9f5f-a1b983c4f617/walmart-and-2-more-american.html",
+      "Content": "Walmart and 2 More American Icons Are About to Get New Leadership. Trust the Process.\n\nAndy Serwer\nWed, December 17, 2025 at 10:00 PM PST 5 min read\n\nIn this article: BRK-B\n\n^GSPC\n\nWMT\n\nOPAI.PVT\n\nAAPL\n\nWalmart, Berkshire Hathaway, and Apple—arguably America’s three most important companies—will soon see a change of the guard.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "13:39:40",
@@ -247,5 +256,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 27
+  "total_news_count": 28
 }
