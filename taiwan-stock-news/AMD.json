@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-18T20:10:53.382Z",
+  "last_updated": "2025-12-18T21:11:07.898Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "03:15:00",
+      "Source": "Barrons.com",
+      "Title": "Micron Earnings ‘Best’ in Chip History After Nvidia. How Its Stock Became the New AI Darling.",
+      "URL": "https://finance.yahoo.com/m/2426dfcf-19b7-35a0-8d6e-a27309a08566/micron-earnings-%E2%80%98best%E2%80%99-in.html",
+      "Content": "Micron Earnings ‘Best’ in Chip History After Nvidia. How Its Stock Became the New AI Darling.\n\nTae Kim\nThu, December 18, 2025 at 11:15 AM PST 2 min read\n\nIn this article: MU\n\nAVGO\n\nAMD\n\nNVDA\n\nMicron Technology earnings are out—and the AI trade may be back on track. Micron Technology stock surged Thursday, the day after the memory chip maker reported better-than-expected earnings results and gave guidance that was significantly higher than expectations. For the current quarter, Micron forecast a revenue range with a midpoint of $18.7 billion, above analysts’ expectations of $14.3 billion.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "03:06:55",
@@ -382,5 +391,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 42
+  "total_news_count": 43
 }
