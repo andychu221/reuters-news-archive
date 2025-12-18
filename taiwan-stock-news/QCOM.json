@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-17T22:10:34.564Z",
+  "last_updated": "2025-12-18T11:10:33.511Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "18:20:00",
+      "Source": "Business Wire",
+      "Title": "Qualcomm Completes Acquisition of Alphawave Semi",
+      "URL": "https://finance.yahoo.com/news/qualcomm-completes-acquisition-alphawave-semi-102000780.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nQualcomm Completes Acquisition of Alphawave Semi\n\nBusiness Wire\nThu, December 18, 2025 at 2:20 AM PST 2 min read\n\nIn this article: QCOM\n\nAWEVF\n\nAlphawave Semi’s High-Speed Wired Connectivity Complements Qualcomm’s Next Generation Qualcomm Oryon CPU and Qualcomm Hexagon NPU Processors\nThe combination of Qualcomm and Alphawave Semi creates a leading player in AI compute and connectivity solutions for a wide array of high growth areas, including data center\n\nSAN DIEGO, December 18, 2025 --( BUSINESS WIRE )--Qualcomm Incorporated (NASDAQ: QCOM) today announced that it has completed its acquisition of Alphawave IP Group plc (AWE.L) (\"Alphawave Semi\"), approximately one quarter ahead of schedule. The acquisition of Alphawave Semi aims to further accelerate and provide key assets for Qualcomm’s expansion into the data center. Tony Pialis, CEO and co-founder of Alphawave Semi, will lead the Qualcomm data center business.\n\"Alphawave Semi’s expertise in high-speed connectivity technologies complements our Qualcomm Oryon CPU and Hexagon NPU processors,\" said Cristiano Amon, President and CEO of Qualcomm Incorporated. \"Qualcomm delivers high-performance, energy-efficient compute and AI solutions, and the addition of Alphawave’s technologies will strengthen our platforms and optimize performance for next-generation AI data centers.\"\n\n\"Joining Qualcomm marks an exciting new chapter for Alphawave Semi,\" Pialis said. \"We’re ready to bring our leadership in high-speed connectivity and custom silicon to help shape the future of data center innovation.\"\nAlphawave Semi is a global leader in high-speed wired connectivity delivering custom silicon, connectivity products and chiplets that drive faster, more reliable data transfer with higher performance and lower power consumption. Alphawave Semi’s products form a part of the core infrastructure enabling next-generation services in a wide array of high growth areas, including data centers, AI, data networking and data storage.\nThe full announcement can be found on our website at: https://investor.qualcomm.com/update-details/update-details-offer .\n\nAbout Qualcomm\nQualcomm relentlessly innovates to deliver intelligent computing everywhere, helping the world tackle some of its most important challenges. Building on our 40 years of technology leadership in creating era-defining breakthroughs, we deliver a broad portfolio of solutions built with our leading-edge AI, high-performance, low-power computing, and unrivaled connectivity. Our Snapdragon® platforms power extraordinary consumer experiences, and our Qualcomm Dragonwing™ products empower businesses and industries to scale to new heights. Together with our ecosystem partners, we enable next-generation digital transformation to enrich lives, improve businesses, and advance societies. At Qualcomm, we are engineering human progress.\n\nStory continues\nQualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of our engineering and research and development functions and substantially all of our products and services businesses, including our QCT semiconductor business. Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Qualcomm patents are licensed by Qualcomm Incorporated.\nQualcomm, Snapdragon, Qualcomm Dragonwing, Qualcomm Oryon, and Hexagon are trademarks or registered trademarks of Qualcomm Incorporated.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20251218292351/en/\nContacts\nContact Information:\nMauricio Lopez-Hodoyan\nInvestor Relations\n1-858-658-4813\nir@qualcomm.com\nClare Conley\nMedia Relations\n1-858-845-5959\ncorpcomm@qualcomm.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "05:08:50",
@@ -103,5 +112,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 11
+  "total_news_count": 12
 }
