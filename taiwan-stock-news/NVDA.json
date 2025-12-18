@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-18T02:10:50.547Z",
+  "last_updated": "2025-12-18T03:10:39.207Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "10:30:38",
+      "Source": "Benzinga",
+      "Title": "Nvidia Vs. Alphabet: Which Could Be The World's Biggest Company By End-2026?",
+      "URL": "https://finance.yahoo.com/news/nvidia-vs-alphabet-could-worlds-023038983.html",
+      "Content": "Nvidia Vs. Alphabet: Which Could Be The World's Biggest Company By End-2026?\n\nPiero Cingari\nWed, December 17, 2025 at 6:30 PM PST 2 min read\n\nIn this article: GOOG\n\nNVDA\n\nBenzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nNvidia Corp. (NASDAQ: NVDA ) and Alphabet Inc. (NASDAQ: GOOG ) (NASDAQ: GOOGL ) have quietly become the two most dominant forces inside the Magnificent Seven, riding different paths to the same destination: artificial intelligence supremacy.\n\nNvidia's GPUs remain the backbone of the global AI buildout, powering everything from data centers to cutting-edge model training.\nAlphabet, meanwhile, is pushing its own vertically integrated AI stack — from custom TPUs to Gemini — embedding intelligence directly across Search, Cloud and consumer products.\nThe market thus far has rewarded both approaches. Nvidia is up 33% year-to-date through Dec. 17, while Alphabet has surged 62%.\nDon’t Miss: If there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it ?\nZooming out further tells an even more dramatic story: since early 2023, Alphabet shares are up roughly 250%, while Nvidia has delivered a staggering 1,120% return.\nThat explosive run has made Nvidia the world's biggest company today, with a market capitalization of about $4.318 trillion — even briefly touching $5 trillion earlier this year. Alphabet ranks third at approximately $3.7 trillion, behind Apple's $4.05 trillion valuation.\n\nYet traders see a far closer race ahead.\nOn Polymarket, both Nvidia and Alphabet are assigned a 35% probability of being the world's most valuable company by the end of 2026.\nA $100 bet on Alphabet overtaking Nvidia to become the world's biggest company by the end of next year would pay out $265 if it happens — with nearly identical returns available for those wagering that Nvidia holds onto the crown.\nApple Inc. (NASDAQ: AAPL ) trails with a 14% chance, followed by Microsoft Corp. (NYSE: MSFT ) at 9%.\nTesla Inc . (NASDAQ: TSLA ) and Amazon.com Inc. (NASDAQ: AMZN ) sit further back, at 4% and 3%, respectively.\n\nThis article Nvidia Vs. Alphabet: Which Could Be The World's Biggest Company By End-2026? originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "10:00:38",
@@ -760,5 +769,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 84
+  "total_news_count": 85
 }
