@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-18T01:11:02.540Z",
+  "last_updated": "2025-12-18T06:11:10.938Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "13:39:40",
+      "Source": "Insider Monkey",
+      "Title": "Evercore ISI Raises PT on Apple (AAPL) Stock",
+      "URL": "https://finance.yahoo.com/news/evercore-isi-raises-pt-apple-053940499.html",
+      "Content": "Evercore ISI Raises PT on Apple (AAPL) Stock\n\nBob Karr\nWed, December 17, 2025 at 9:39 PM PST 2 min read\n\nIn this article: AAPL\n\nApple Inc. (NASDAQ: AAPL ) is one of the Top AI and Technology Stocks to Buy According to Hedge Funds. On December 8, Evercore ISI lifted the price target on the company’s stock to $325 from $300, while keeping an “Outperform” rating on the company’s stock. As per the analyst, Apple Inc. (NASDAQ:AAPL)’s upcoming Siri 2.0, powered by Gemini, is expected to act as a catalyst for potential upside in profits and valuation. The strategic launch has been planned for March 2026.\nIn a different update, Citi raised the price objective on Apple Inc. (NASDAQ:AAPL)’s stock to $330, hinting at stronger-than-expected momentum for the iPhone 17 cycle, along with a healthier upgrade pool moving ahead into 2026 and 2027. Notably, the firm expects iPhone upside in Apple Inc. (NASDAQ:AAPL)’s December and March quarters, amidst iPhone 12 and 13 users entering the company’s upgrade window. Also, Citi raised its earnings estimates to reflect iPhone 17 strength.\n\nThe firm’s analyst expects further tailwinds due to the company’s shift to WMCM (Wafer-level Multi-Chip Module) packaging in 2026. This can enable efficiency gains and place future devices for heavier on-device AI workloads. Furthermore, the firm bases the new target on a ~33x multiple of 2027 earnings. According to Citi, Apple Inc. (NASDAQ:AAPL)’s margin profile, services mix, and balance sheet tend to justify the premium.\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 13 Cheap AI Stocks to Buy According to Analysts and 11 Unstoppable Growth Stocks to Invest in Now\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "09:00:00",
@@ -238,5 +247,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 26
+  "total_news_count": 27
 }
