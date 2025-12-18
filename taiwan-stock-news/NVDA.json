@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-18T06:10:42.648Z",
+  "last_updated": "2025-12-18T07:10:37.853Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "14:15:01",
+      "Source": "Insider Monkey",
+      "Title": "UBS Asserts Buy Stance on NVIDIA Corporation (NVDA) Despite China H200 Chips Demand Concerns",
+      "URL": "https://finance.yahoo.com/news/ubs-asserts-buy-stance-nvidia-061501634.html",
+      "Content": "UBS Asserts Buy Stance on NVIDIA Corporation (NVDA) Despite China H200 Chips Demand Concerns\n\nNeha Gupta\nWed, December 17, 2025 at 10:15 PM PST 2 min read\n\nIn this article: NVDA\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of billionaire David Tepper’s top stock picks heading into 2026 . On December 9, UBS analyst Timothy Arcuri reiterated a Buy rating and a $235 price target on NVIDIA Corporation (NASDAQ:NVDA). The positive stance comes as Jefferies continues to doubt the demand for the company’s H200 chips in China.\nEven with the US clearing Nvidia to sell the chips to Chinese clients, Jefferies has questioned the demand as the country prioritizes domestic alternatives. That’s because the H200 processors are the second-best AI chips with reduced capabilities.\nThe research firm warns that the company could feel the brunt of the Chinese government’s push for independence in the advanced AI processor. That’s in part because Chinese AI model performance is advancing, with Moonshot’s Kimi K2 Thinking model rising to fourth globally.\n\nMeanwhile, Nvidia has partnered with Mistral AI to accelerate the development of a new family of Open Models. Mistral 3 family is the latest model, optimized for Nvidia platforms and designed for distributed intelligence from the cloud to the edge. The models deliver industry-leading accuracy and efficiency for enterprise AI and are available for use in the cloud, data centers, or at the edge. Additionally, the new models are tailored to enable researchers and developers to experiment with and accelerate AI innovation.\nNVIDIA Corporation (NASDAQ:NVDA) designs and sells specialized processors, initially for gaming but now also crucial for AI, data centers, professional visualization, and the automotive industry. It developed the graphics processing unit (GPU) and the CUDA parallel computing platform, which allows its GPUs to perform tasks beyond graphics.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 12 Best Industrial Stocks to Buy According to Wall Street Analysts and 12 Best 52-Week High Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "13:39:42",
@@ -841,5 +850,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 93
+  "total_news_count": 94
 }
