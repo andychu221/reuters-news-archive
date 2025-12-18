@@ -1,8 +1,26 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-18T20:11:19.350Z",
+  "last_updated": "2025-12-18T22:11:28.161Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "05:34:59",
+      "Source": "The Wall Street Journal",
+      "Title": "Heard on the Street Recap: Memory Boost",
+      "URL": "https://finance.yahoo.com/m/b3c43bf0-1c54-3056-a986-fd351f0dc775/heard-on-the-street-recap%3A.html",
+      "Content": "Heard on the Street Recap: Memory Boost\n\nThe Wall Street Journal\nThu, December 18, 2025 at 1:34 PM PST 1 min read\n\nIn this article: MU\n\n^GSPC\n\nAAPL\n\n^IXIC\n\nSNDK\n\nThe report, which was released later than normal because of the shutdown, said that consumer prices rose 2.7% in November from a year earlier. Micron led the S&P 500 with a 10% jump for the day, while Sandisk and chip equipment maker Lam Research were the other top gainers on the index by the close.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "04:34:54",
+      "Source": "24/7 Wall St.",
+      "Title": "Why 2026 May Be Apple’s Year",
+      "URL": "https://finance.yahoo.com/m/480baf63-09e6-3a2e-9bbb-9f669d5ee52d/why-2026-may-be-apple%E2%80%99s-year.html",
+      "Content": "Why 2026 May Be Apple’s Year\n\nChris MacDonald\nThu, December 18, 2025 at 12:34 PM PST 4 min read\n\nIn this article: AAPL\n\nOne of the most important stocks in the market, and still one of the most valuable companies in the world, Apple ( NASDAQ:AAPL ) is a company I'd argue investors can't ignore. Indeed, given the company's market capitalization of more than $4 trillion, the directional moves Apple makes over any time frame will likely impact most investors, whether they hold this stock directly or not. That's because most investors now have some sort of exposure to index funds or exchange traded funds (ETFs), many of which are market cap weighted. Thus, Apple's performance is a key indicator of the performance of the broader market.\n\nQuick Read Apple’s market cap surpassed $4 trillion and now trades at 33x forward earnings.\nServices generated $100B in annual profits with a 47.2% gross margin last quarter.\nApple maintains a $34B net cash position supporting dividends and buybacks.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "04:06:00",
@@ -427,5 +445,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 47
+  "total_news_count": 49
 }
