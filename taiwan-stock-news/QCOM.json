@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-18T14:41:39.084Z",
+  "last_updated": "2025-12-18T18:10:34.649Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "01:34:57",
+      "Source": "GuruFocus.com",
+      "Title": "Qualcomm Stock Rises After $2.4 Billion Alphawave Semi Deal",
+      "URL": "https://finance.yahoo.com/news/qualcomm-stock-rises-2-4-173457920.html",
+      "Content": "Qualcomm Stock Rises After $2.4 Billion Alphawave Semi Deal\n\nNauman Khan\nThu, December 18, 2025 at 9:34 AM PST 1 min read\n\nIn this article: QCOM\n\nAWEVF\n\nThis article first appeared on GuruFocus .\nQualcomm ( NASDAQ:QCOM ) shares rose about 2% on Thursday morning following the completion of its $2.4 billion acquisition of British semiconductor firm Alphawave Semi.\nThe deal strengthens Qualcomm's capabilities in high-speed connectivity and complements its Oryon CPU and Hexagon NPU processors. CEO Cristiano Amon said Alphawave's technologies will enhance performance and efficiency for next-generation AI data centers.\n\nWarning! GuruFocus has detected 7 Warning Signs with QCOM.\nIs QCOM fairly valued? Test your thesis with our free DCF calculator.\nTony Pialis, Alphawave's co-founder and CEO, will lead Qualcomm's data center business. Qualcomm first announced its intent to acquire Alphawave in June, citing the need to expand further into enterprise and AI markets.\nAlphawave specializes in serializer-deserializer technology, which determines the speed at which information moves on and off chipsa key factor for large-scale AI workloads requiring multiple chips to operate in tandem.\nThe acquisition is expected to boost Qualcomm's position in AI and data center solutions while leveraging Alphawave's high-speed wired connectivity. Analysts say the move signals Qualcomm's continued focus on next-generation compute and AI infrastructure.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "22:10:06",
@@ -130,5 +139,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 14
+  "total_news_count": 15
 }
