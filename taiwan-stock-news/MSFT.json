@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-18T20:11:57.630Z",
+  "last_updated": "2025-12-18T21:12:20.261Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "04:51:00",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-205100926.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nThu, December 18, 2025 at 12:51 PM PST 1 min read\n\nIn this article: MU\n\nNVDA\n\nMSFT\n\nAMZN\n\nINTU\n\nTech stocks were higher late Thursday afternoon, with the State Street Technology Select Sector SPDR\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "04:06:00",
@@ -265,5 +274,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 29
+  "total_news_count": 30
 }
