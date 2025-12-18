@@ -1,8 +1,26 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-18T04:11:02.467Z",
+  "last_updated": "2025-12-18T12:11:57.571Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "20:02:07",
+      "Source": "GuruFocus.com",
+      "Title": "Top Semiconductor Stocks for 2026 --  Wall Street's 10 Picks To Watch",
+      "URL": "https://finance.yahoo.com/news/top-semiconductor-stocks-2026-wall-120207279.html",
+      "Content": "Top Semiconductor Stocks for 2026 -- Wall Street's 10 Picks To Watch\n\nNauman Khan\nThu, December 18, 2025 at 4:02 AM PST 1 min read\n\nIn this article: AVGO\n\nALAB\n\nNVDA\n\nMU\n\nINTC\n\nThis article first appeared on GuruFocus .\nMorgan Stanley named Nvidia ( NASDAQ:NVDA ), Broadcom ( NASDAQ:AVGO ) and Astera Labs ( NASDAQ:ALAB ) as its top semiconductor picks for 2026, pointing to strong AI-driven demand in data center chips, according to a recent research note.\nThe firm highlighted Nvidia and Broadcom as its preferred processor names. Analysts said Nvidia could deliver the highest returns in cloud computing as Vera Rubin deployments ramp in the second half of 2026. Broadcom remains central to AI infrastructure, despite potential bottlenecks in ASIC growth.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nAstera Labs emerged as the standout small-cap pick for data center opportunities. Morgan Stanley kept Equal-Weight ratings on AMD ( NASDAQ:AMD ) and Marvell ( NASDAQ:MRVL ), noting room for upside but also some uncertainties. Intel ( NASDAQ:INTC ) drew a cautious view due to challenges in its foundry operations.\nIn memory and chip equipment, Micron ( NASDAQ:MU ) leads the way, with Sandisk ( NASDAQ:SNDK ) also rated Overweight. Applied Materials (AMAT) and Taiwan Semiconductor ( NYSE:TSM ) are favored in equipment, while NXP Semiconductors (NXPI) balances growth and value. Analog Devices (ADI) shows growth potential, though at a higher price point.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "19:40:38",
+      "Source": "GuruFocus.com",
+      "Title": "Advanced Micro Devices Rises After Analyst Reiterates Buy Rating",
+      "URL": "https://finance.yahoo.com/news/advanced-micro-devices-rises-analyst-114038601.html",
+      "Content": "Advanced Micro Devices Rises After Analyst Reiterates Buy Rating\n\nFaizan Farooque\nThu, December 18, 2025 at 3:40 AM PST 1 min read\n\nIn this article: AMD\n\nINTC\n\nThis article first appeared on GuruFocus .\nAMD ( AMD , Financials ) shares rose after Daiwa analyst Louis Miscioscia maintained a Buy rating and $300 price target. The target is around 40% higher than where shares last traded. The solid forecast is based on the fact that AI workloads in data centers are driving up demand for AMD processors. Companies and cloud providers are using the company's CPUs and GPUs more and more for AI training and inference.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\nExperts suggest that AMD is increasing market share in the AI-focused GPU industry as customers look for different vendors and options. Intel is a competitor in the CPU market, while AMD continues to sell its server solutions against established players.\nAMD has released Helios server rack systems, which are pre-configured data center solutions that combine CPUs and GPUs for faster deployment.The chip giant says it makes it easier for businesses to use AI technology on a large scale.Shares went up a little in the morning after being up about 1% the day before. AMD stock has gone up more than 70% this year, which shows that investors are hopeful about AI-related progress.\nInvestors will look at financial reports to see how much demand there is for data centers, how well products are selling, and how much profit the company is making. This could cause the stock to go up.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "08:11:00",
@@ -166,5 +184,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 18
+  "total_news_count": 20
 }
