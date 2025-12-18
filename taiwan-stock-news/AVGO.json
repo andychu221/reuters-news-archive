@@ -1,8 +1,35 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-18T15:11:06.638Z",
+  "last_updated": "2025-12-18T16:11:21.522Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "23:23:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Gains. The AI Trade Is Back, at Least for One Day.",
+      "URL": "https://finance.yahoo.com/m/dd15d960-3cb7-3ea9-9f43-5c45141aa288/nvidia-stock-gains.-the-ai.html",
+      "Content": "Nvidia Stock Gains. The AI Trade Is Back, at Least for One Day.\n\nAdam Clark\nThu, December 18, 2025 at 7:23 AM PST 2 min read\n\nIn this article: NVDA\n\nMU\n\nORCL\n\nAVGO\n\nAMD\n\nNvidia stock was gaining Thursday as earnings from Micron Technology reassured the market about artificial-intelligence investment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "23:22:00",
+      "Source": "Barrons.com",
+      "Title": "Micron Earnings Are Best in Chip History After Nvidia. The AI Trade Is Back.",
+      "URL": "https://finance.yahoo.com/m/2426dfcf-19b7-35a0-8d6e-a27309a08566/micron-earnings-are-best-in.html",
+      "Content": "Micron Earnings Are Best in Chip History After Nvidia. The AI Trade Is Back.\n\nTae Kim\nThu, December 18, 2025 at 7:22 AM PST 2 min read\n\nIn this article: MU\n\nAVGO\n\nAMD\n\nNVDA\n\nMicron Technology stock surged Thursday, the day after the memory chip maker reported better-than-expected earnings results and gave guidance that was significantly higher than expectations. For the current quarter, Micron forecast a revenue range with a midpoint of $18.7 billion, above analysts’ expectations of $14.3 billion. “Outside of NVIDIA this was likely the best revenue/$ net income upside in the history of the U.S. semis industry,” Morgan Stanley analyst Joseph Moore wrote in a note to clients Thursday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "23:08:25",
+      "Source": "GuruFocus.com",
+      "Title": "Top Semiconductor Stocks for 2026 -- Nvidia and Broadcom Lead Chip Picks",
+      "URL": "https://finance.yahoo.com/news/top-semiconductor-stocks-2026-wall-120207279.html",
+      "Content": "Top Semiconductor Stocks for 2026 -- Nvidia and Broadcom Lead Chip Picks\n\nNauman Khan\nThu, December 18, 2025 at 7:08 AM PST 1 min read\n\nIn this article: AVGO\n\nNVDA\n\nALAB\n\nMU\n\nAMD\n\nThis article first appeared on GuruFocus .\nMorgan Stanley named Nvidia ( NASDAQ:NVDA ), Broadcom ( NASDAQ:AVGO ) and Astera Labs ( NASDAQ:ALAB ) as its top semiconductor picks for 2026, pointing to strong AI-driven demand in data center chips, according to a recent research note.\nThe firm highlighted Nvidia and Broadcom as its preferred processor names. Analysts said Nvidia could deliver the highest returns in cloud computing as Vera Rubin deployments ramp in the second half of 2026. Broadcom remains central to AI infrastructure, despite potential bottlenecks in ASIC growth.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nAstera Labs emerged as the standout small-cap pick for data center opportunities. Morgan Stanley kept Equal-Weight ratings on AMD ( NASDAQ:AMD ) and Marvell ( NASDAQ:MRVL ), noting room for upside but also some uncertainties. Intel ( NASDAQ:INTC ) drew a cautious view due to challenges in its foundry operations.\nIn memory and chip equipment, Micron ( NASDAQ:MU ) leads the way, with Sandisk ( NASDAQ:SNDK ) also rated Overweight. Applied Materials (AMAT) and Taiwan Semiconductor ( NYSE:TSM ) are favored in equipment, while NXP Semiconductors (NXPI) balances growth and value. Analog Devices (ADI) shows growth potential, though at a higher price point.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "23:07:34",
@@ -580,5 +607,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 64
+  "total_news_count": 67
 }
