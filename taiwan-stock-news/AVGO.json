@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-18T12:11:34.906Z",
+  "last_updated": "2025-12-18T13:11:12.888Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "20:07:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Rises. This Helped Shake Off the AI Fear.",
+      "URL": "https://finance.yahoo.com/m/dd15d960-3cb7-3ea9-9f43-5c45141aa288/nvidia-stock-rises.-this.html",
+      "Content": "Nvidia Stock Rises. This Helped Shake Off the AI Fear.\n\nAdam Clark\nThu, December 18, 2025 at 4:07 AM PST 1 min read\n\nIn this article: NVDA\n\nAVGO\n\nAMD\n\nMU\n\nORCL\n\nNvidia stock was gaining Thursday as earnings from Micron Technology reassured the market about artificial-intelligence investment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "20:05:39",
@@ -37,6 +46,15 @@
       "Title": "Social Buzz: Wallstreetbets Stocks Higher Pre-Bell Thursday; Micron, Nvidia to Advance",
       "URL": "https://finance.yahoo.com/news/social-buzz-wallstreetbets-stocks-higher-114526823.html",
       "Content": "PREMIUM\nSocial Buzz: Wallstreetbets Stocks Higher Pre-Bell Thursday; Micron, Nvidia to Advance\n\nMT Newswires\nThu, December 18, 2025 at 3:45 AM PST 1 min read\n\nIn this article: NVDA\n\nHOOD\n\nGOOGL\n\nAMZN\n\nMU\n\nThe most-talked-about stocks in the Reddit subforum Wallstreetbets were higher hours before Thursday\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "19:37:11",
+      "Source": "Barrons.com",
+      "Title": "U.S. Tech Stocks Rebound Premarket After Heavy Selloff",
+      "URL": "https://finance.yahoo.com/m/75b7e9c2-3a6b-3575-bb6b-66bd15928d2a/u.s.-tech-stocks-rebound.html",
+      "Content": "U.S. Tech Stocks Rebound Premarket After Heavy Selloff\n\nBarrons.com\nThu, December 18, 2025 at 3:37 AM PST 1 min read\n\nIn this article: ORCL\n\n^IXIC\n\nAVGO\n\nNVDA\n\nAMD\n\nShares in U.S. tech stocks recovered slightly premarket after a heavy selloff in the prior session. Oracle climbed 1% premarket, having dropped 5.4% to a six-month low Wednesday. Broadcom stock is also on the rise after shedding roughly $422 billion of its market cap over the last five trading days.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -526,5 +544,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 58
+  "total_news_count": 60
 }
