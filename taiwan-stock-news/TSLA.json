@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-18T21:12:07.004Z",
+  "last_updated": "2025-12-18T22:11:49.402Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "05:22:13",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Indexes Keep Gains; Western Digital On A Streak As Carvana, Nuke Play Set Up (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/3c54efeb-8d61-3f56-90ba-bb013f26d2f0/stock-market-today%3A-indexes.html",
+      "Content": "Stock Market Today: Indexes Keep Gains; Western Digital On A Streak As Carvana, Nuke Play Set Up (Live Coverage)\n\nSCOTT LEHTONEN and DAVID SAITO-CHUNG\nThu, December 18, 2025 at 1:22 PM PST 10 min read\n\nIn this article: ^DJI\n\nWDC\n\nNVDA\n\n^GSPC\n\nTSLA\n\nStock Market Today: The Dow Jones index rose Thursday on a surprise CPI inflation report. Nvidia stock and Tesla rallied.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "04:40:00",
@@ -256,5 +265,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 28
+  "total_news_count": 29
 }
