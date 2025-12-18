@@ -1,8 +1,26 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-18T18:12:17.766Z",
+  "last_updated": "2025-12-18T19:11:58.140Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "02:36:39",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Thursday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-thursday-183639691.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Thursday Afternoon\n\nMT Newswires\nThu, December 18, 2025 at 10:36 AM PST 1 min read\n\nIn this article: MU\n\nMSFT\n\nNVDA\n\nXLK\n\nOPAI.PVT\n\nTech stocks were higher Thursday afternoon, with the State Street Technology Select Sector SPDR ETF\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "02:13:11",
+      "Source": "24/7 Wall St.",
+      "Title": "3 Stocks to Watch In 2026 As AI Spending Becomes a Hot Topic",
+      "URL": "https://finance.yahoo.com/m/4e077653-0309-3b94-b56b-93698638e21a/3-stocks-to-watch-in-2026-as.html",
+      "Content": "3 Stocks to Watch In 2026 As AI Spending Becomes a Hot Topic\n\nChris MacDonald\nThu, December 18, 2025 at 10:13 AM PST 5 min read\n\nIn this article: NVDA\n\nMETA\n\nPLTR\n\nThe artificial intelligence trade is one that's become integral to the U.S. economy, and in some ways, to the global economy. That's because the sheer size of these AI behemoths means that more and more capital is becoming concentrated around one trend, which if unwound, could send ripple effects across global markets. Most investors are certainly not banking on such a wind down, but it's also true that leverage and valuations have increased to levels we haven't seen in decades.\n\nQuick Read Meta’s stock rose on reports it will reduce spending and possibly cut jobs in its Reality Labs metaverse division.\nPalantir trades at over 120x forward sales and 180x forward earnings.\nNvidia holds a $4.2T market cap as the dominant AI chip supplier but faces growing competition from custom chips.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "01:56:59",
@@ -220,5 +238,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 24
+  "total_news_count": 26
 }
