@@ -1,8 +1,26 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-18T14:10:45.343Z",
+  "last_updated": "2025-12-18T14:41:49.046Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "22:35:06",
+      "Source": "Yahoo Finance",
+      "Title": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts tech",
+      "URL": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-143506528.html",
+      "Content": "LIVE\n\nStock market today: Dow, S&P 500, Nasdaq rise as CPI inflation eases in November, Micron boosts tech\n\nKaren Friar and Brett LoGiurato\nUpdated Thu, December 18, 2025 at 6:35 AM PST 2 min read\n\nIn this article: MU\n\n^DJI\n\nGOOG\n\n^IXIC\n\nNVDA\n\nUS stocks rose on Thursday, eyeing a recovery from Wall Street's tech-fueled sell-off, as investors digested the easing inflation pressures from the latest reading on consumer prices that could help set expectations for the path of interest rates.\nThe tech-heavy Nasdaq Composite ( ^IXIC ) led the way up with a gain of 1.5%, pushed north by a strong earnings report from Micron ( MU ) after AI trade worries spurred another bruising session for tech on Wednesday. Shares in the benchmark S&P 500 ( ^GSPC ) and the blue chip-heavy Dow Jones Industrial Average ( ^DJI ) rose around 1% and 0.7%, respectively.\n\nHeadlining the morning was a cooler-than-expected Consumer Price Index (CPI) report, which showed inflation rose 2.7% in November over the prior year and 2.6% on a \"core\" basis — both figures coming in below economist estimates of 3% and 3.1%, respectively.\nAs with Tuesday's monthly jobs report , economists have noted that the inflation data may be less reliable than normal thanks to the US government shutdown. At the same time, the Federal Reserve seems more attentive to cracks in the labor market than to price pressures. On Wednesday, Fed governor Chris Waller signaled support for rate cuts before the release of the CPI update.",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "22:16:34",
+      "Source": "Quartz",
+      "Title": "This AI stock has shot up 55,000% in the past two years",
+      "URL": "https://finance.yahoo.com/m/12b0c481-bad2-3f27-8935-aa0965ebb452/this-ai-stock-has-shot-up.html",
+      "Content": "This AI stock has shot up 55,000% in the past two years\n\nChris Morris\nThu, December 18, 2025 at 6:16 AM PST 2 min read\n\nIn this article: NVDA\n\nPLTR\n\nRRP.BO\n\nSTX\n\nIn the past two years, shares of Nvidia have increased by more than 250%. Palantir and Seagate have seen big gains as well, causing a growing number of investors to worry that AI is in a bubble akin to the dot-com era . But those gains are small potatoes compared to one Indian company.\nThe share price of RRP Semiconductor Ltd. has surged by an eye-popping 55,000% in the past 20 months. On Dec. 17, 2023, you could have bought shares for 10 Indian rupees (roughly 11 cents in U.S. dollars). Today, those shares are selling for 11,095 rupees (approximately $123).\n\nThat stock surge comes despite a number of things that would cause red flags to shoot up at near terminal velocity normally. The company has just two full-time employees, according to Bloomberg , and it posted negative revenue in the most recent quarter. And until early last year, it was focused on the real estate industry, not semiconductors.\nThat hasn't mattered to investors, even as regulators have sounded some warnings. (India's Securities and Exchange Board is investigating the company for potential wrongdoing, which has caused the stock price to fall slightly, but nothing compared to its rise.)\nRRP began to move into the AI space in 2024, when the company's owner acquired GD Trading and Agencies. That company previously acted as an agent/broker for a wider variety of goods (from chemicals to consumer products), but shifted to semiconductor manufacturing after the acquisition and changed its name to RRP Semiconductor.\nThat set off an investor firestorm. (India has a limited market for semiconductor companies, which might explain some of the investor fervor.) One reason the share price might have escalated as much as it does? Only 2% of the company is publicly traded. Founder Rajendra Chodankar and a small group of associates hold the other 98%, says Bloomberg.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "21:02:29",
@@ -1048,5 +1066,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 116
+  "total_news_count": 118
 }
