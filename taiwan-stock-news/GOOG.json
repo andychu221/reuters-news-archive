@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-18T14:44:29.488Z",
+  "last_updated": "2025-12-18T15:12:07.017Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "22:56:39",
+      "Source": "MT Newswires",
+      "Title": "Dynatrace Serves as Launch Partner for Gemini Enterprise, Gemini CLI Extensions",
+      "URL": "https://finance.yahoo.com/news/dynatrace-serves-launch-partner-gemini-145639002.html",
+      "Content": "PREMIUM\nDynatrace Serves as Launch Partner for Gemini Enterprise, Gemini CLI Extensions\n\nMT Newswires\nThu, December 18, 2025 at 6:56 AM PST\n\nIn this article: DT\n\nGOOG\n\nDynatrace (DT) said Thursday that it expanded its collaboration with Alphabet's (GOOG, GOOGL) Google\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "22:35:06",
@@ -46,6 +55,15 @@
       "Title": "Trump Media to Merge With Fusion Energy Firm in $6 Billion Deal",
       "URL": "https://finance.yahoo.com/m/ff675e29-27a3-38f2-ae04-2ea028d72682/trump-media-to-merge-with.html",
       "Content": "Trump Media to Merge With Fusion Energy Firm in $6 Billion Deal\n\nGareth Vipers\nThu, December 18, 2025 at 5:08 AM PST 2 min read\n\nIn this article: TATE.PVT\n\nGOOG\n\nShares in the president’s media company jumped premarket after it agreed to a tie-up with TAE Technologies in an all-stock deal.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-18",
+      "Time": "21:05:14",
+      "Source": "Reuters",
+      "Title": "Big Tech-backed coalition supports biowaste carbon removal firm",
+      "URL": "https://finance.yahoo.com/news/big-tech-backed-coalition-supports-130514530.html",
+      "Content": "Big Tech-backed coalition supports biowaste carbon removal firm\n\nSimon Jessop and Susanna Twidale\nThu, December 18, 2025 at 5:05 AM PST 1 min read\n\nIn this article: STRI.PVT\n\nMETA\n\nGOOG\n\nSHOP\n\n(Corrects lede to remove referece to Meta which is no longer a member of the coalition, replaces with ​Stripe.)\nBy Simon Jessop and Susanna Twidale\nLONDON, Dec 18 (Reuters) - A coalition ‌backed by Big Tech companies including Google and Stripe has agreed to pay $44.2 ‌million for carbon credits from a Canadian company that aims to remove carbon dioxide from biowaste, the coalition's head of deployment told Reuters.\n\nFrontier, launched in 2022 by Stripe, Google, Meta, Shopify and McKinsey, aims to ⁠help scale carbon removal ‌technologies by committing to buy credits in advance, thereby derisking the projects and helping them grow more ‍quickly. The group plans to spend $1 billion on credits between 2022 and 2030.\nIts latest deal covers 122,000 metric tons of CO2 to be locked away ​between 2026 and 2030 by NULIFE GreenTech, which converts agricultural and ‌industrial waste - including grease from food processing - into bio-oil. The credits were purchased at an average weighted price of $362 per ton.\nNULIFE uses high-pressure cooking to break down waste into substances such as bio-oil, which is injected into salt caverns more than 1,000 metres underground ⁠for permanent storage. Frontier estimates the ​technology could scale to 1.5 gigatons of ​carbon removal annually by 2040.\n\"The goal at Frontier is really to create a portfolio of solutions that we ‍think are most ⁠likely to go the distance to a gigaton scale future,\" Hannah Bebbington Valori, Frontier’s head of deployment, said in an interview.\nScientists ⁠say carbon removal projects are critical to offset emissions from sectors that continue ‌to rely on fossil fuels.\n(Reporting by Simon Jessop and ‌Susanna Twidale. Editing by Mark Potter)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -94,5 +112,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 10
+  "total_news_count": 12
 }
