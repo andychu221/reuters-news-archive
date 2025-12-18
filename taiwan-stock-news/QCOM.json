@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-18T12:10:35.312Z",
+  "last_updated": "2025-12-18T14:41:39.084Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-18",
+      "Time": "22:10:06",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Rise Premarket Thursday",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-rise-premarket-141006424.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Rise Premarket Thursday\n\nMT Newswires\nThu, December 18, 2025 at 6:10 AM PST 1 min read\n\nIn this article: XSD\n\nMU\n\nXLK\n\nQCOM\n\nERIC\n\nTechnology stocks were rising premarket Thursday, with the State Street Technology Select Sector SPD\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-18",
       "Time": "19:24:42",
@@ -121,5 +130,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 13
+  "total_news_count": 14
 }
