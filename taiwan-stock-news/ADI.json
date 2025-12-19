@@ -1,8 +1,17 @@
 {
   "stock_id": "ADI",
-  "last_updated": "2025-12-18T23:11:08.311Z",
+  "last_updated": "2025-12-19T14:11:19.551Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:22:14",
+      "Source": "MT Newswires",
+      "Title": "Truist Securities Adjusts Analog Devices Price Target to $291 From $258, Maintains Hold Rating",
+      "URL": "https://finance.yahoo.com/news/truist-securities-adjusts-analog-devices-132214553.html",
+      "Content": "PREMIUM\nTruist Securities Adjusts Analog Devices Price Target to $291 From $258, Maintains Hold Rating\n\nMT Newswires\nFri, December 19, 2025 at 5:22 AM PST\n\nIn this article: ADI\n\nAnalog Devices (ADI) has an average rating of overweight and mean price target of $289.14, according\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "06:30:47",
@@ -139,5 +148,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 15
+  "total_news_count": 16
 }
