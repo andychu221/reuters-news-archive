@@ -1,8 +1,35 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T16:12:38.376Z",
+  "last_updated": "2025-12-19T17:12:43.818Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "01:07:05",
+      "Source": "MT Newswires",
+      "Title": "Palo Alto, Google Cloud Strike 'Multi-Billion-Dollar' Deal to Deliver End-to-End AI Security",
+      "URL": "https://finance.yahoo.com/news/palo-alto-google-cloud-strike-170705189.html",
+      "Content": "PREMIUM\nPalo Alto, Google Cloud Strike 'Multi-Billion-Dollar' Deal to Deliver End-to-End AI Security\n\nMT Newswires\nFri, December 19, 2025 at 9:07 AM PST 1 min read\n\nIn this article: PANW\n\nGOOG\n\nPalo Alto Networks (PANW) and Alphabet's (GOOG, GOOGL) Google Cloud announced a new \"multi-billion-d\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "01:03:27",
+      "Source": "GuruFocus.com",
+      "Title": "Google Cloud Strikes Nearly $10 Billion AI Security Deal With Palo Alto Networks",
+      "URL": "https://finance.yahoo.com/news/google-cloud-strikes-nearly-10-170327224.html",
+      "Content": "Google Cloud Strikes Nearly $10 Billion AI Security Deal With Palo Alto Networks\n\nFaizan Farooque\nFri, December 19, 2025 at 9:03 AM PST 1 min read\n\nIn this article: PANW\n\nGOOG\n\nThis article first appeared on GuruFocus .\nGoogle Cloud ( GOOGL , Financials ) struck a roughly $10 billion multiyear deal with Palo Alto Networks ( PANW , Financials ) in its biggest security services pact.The arrangement expands Palo Alto's work with Google Cloud to move its cybersecurity solutions and build AI-driven corporate capabilities. While neither business released financial details, a source told Reuters that the transaction is worth approaching $10 billion over many years.As corporate demand for automated threat detection rises, Palo Alto president BJ Jenkins said part of the investment would support new AI-based solutions. Google Cloud's chief sales officer, Matt Renner, said AI has increased security need.Due of generative AI risks, both organizations are focusing on AI-enabled cybersecurity. Google intends to purchase security startup Wiz for $32 billion, while Palo Alto unveiled its AI-powered product suite in October and bought Chronosphere for $3.35 billion last month.The agreement boosts Google Cloud's business security and AI infrastructure, analysts say, versus hyperscalers Amazon and Microsoft. Nikesh Arora, Palo Alto's CEO, was Google's CBO.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "00:26:48",
+      "Source": "GuruFocus.com",
+      "Title": "Trump's $6 Billion Fusion Deal Sends DJT Soaring 42% on AI Power Play",
+      "URL": "https://finance.yahoo.com/news/trumps-6-billion-fusion-deal-162648948.html",
+      "Content": "Trump's $6 Billion Fusion Deal Sends DJT Soaring 42% on AI Power Play\n\nKhac Phu Nguyen\nFri, December 19, 2025 at 8:26 AM PST 2 min read\n\nIn this article: TATE.PVT\n\nDJT\n\nGOOG\n\nThis article first appeared on GuruFocus .\nTrump Media & Technology Group ( NASDAQ:DJT ) shares jumped about 42% on Thursday after the company agreed to merge with Alphabet-backed fusion startup TAE Technologies in a transaction valued at roughly $6 billion, a move that management framed as a way to address the rapidly rising power needs tied to artificial intelligence. The all-stock deal values each TAE share at $53.89, though TAE is privately held, leaving the precise valuation of its equity portion unclear. Trump Media, which has a market capitalization of around $2.9 billion, plans to provide $200 million in cash at closing, which the companies expect to occur in mid-2026, with ownership of the combined entity split roughly evenly.\n\nWarning! GuruFocus has detected 5 Warning Signs with DJT.\nIs DJT fairly valued? Test your thesis with our free DCF calculator.\nExecutives said the combination brings together Trump Media's access to capital and TAE's fusion technology to pursue long-term energy solutions for AI-driven infrastructure. The merged company expects to begin construction next year on a 50-megawatt utility-scale fusion power plant, subject to regulatory approvals, and is targeting first power generation in 2031. Management also outlined ambitions to develop additional fusion facilities capable of generating between 350 and 500 megawatts each, while acknowledging that fusion is not yet commercially viable and continues to face significant scientific and engineering hurdles.\n\nThe deal would be led by co-CEOs Devin Nunes and TAE founder Michl Binderbauer, with Donald Trump Jr. joining a nine-member board, as executives pointed to the goal of creating the first publicly traded nuclear fusion company in the U.S. Founded in 1998, TAE is among the world's oldest private fusion ventures and counts Alphabet, Chevron, Goldman Sachs, and several prominent family offices among its backers. The agreement comes amid surging AI-related electricity demand and increased policy focus on energy infrastructure, including a national energy emergency declaration and executive orders aimed at accelerating data-center and power development, trends that could keep fusion in focus as a potential long-term solution.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "00:01:40",
@@ -841,5 +868,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 93
+  "total_news_count": 96
 }
