@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-19T17:11:13.438Z",
+  "last_updated": "2025-12-19T19:11:05.268Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "02:36:59",
+      "Source": "Investor's Business Daily",
+      "Title": "Nvidia Stock Looks 'Cheap,' Analysts Say",
+      "URL": "https://finance.yahoo.com/m/2580ef06-d695-352a-9b79-3713e84735f6/nvidia-stock-looks-%27cheap%2C%27.html",
+      "Content": "Nvidia Stock Looks 'Cheap,' Analysts Say\n\nPATRICK SEITZ\nFri, December 19, 2025 at 10:36 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nAVGO\n\nAPH\n\nA Wall Street analyst upped his price target on Nvidia stock on Friday, saying AI infrastructure semiconductor stocks \"remain cheap.\"\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "01:29:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Tech, Media & Telecom Roundup: Market Talk",
+      "URL": "https://finance.yahoo.com/m/c66573cd-80ed-3dcf-a17b-3f5e6dd1890e/tech%2C-media-%26-telecom.html",
+      "Content": "Tech, Media & Telecom Roundup: Market Talk\n\nThe Wall Street Journal\nFri, December 19, 2025 at 9:29 AM PST 5 min read\n\nIn this article: ORCL\n\nCRWV\n\nAVGO\n\nAMD\n\nNVDA\n\nFind insight on Oracle, Micron Technology and more in the latest Market Talks covering technology, media and telecom.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "01:04:16",
@@ -19,6 +37,15 @@
       "Title": "US Reopens China's Door to Nvidia Chips--But Risks Undermining Its AI Edge",
       "URL": "https://finance.yahoo.com/news/us-reopens-chinas-door-nvidia-170102157.html",
       "Content": "US Reopens China's Door to Nvidia Chips--But Risks Undermining Its AI Edge\n\nKhac Phu Nguyen\nFri, December 19, 2025 at 9:01 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nINTC\n\nThis article first appeared on GuruFocus .\nPolicy shifts in Washington have reopened a sensitive debate around Nvidia ( NASDAQ:NVDA ) and the balance between commercial opportunity and national security in advanced semiconductors. Earlier this month, the White House granted Nvidia permission to resume shipments of its H200 artificial intelligence chips to China, while also loosening restrictions on Intel and Advanced Micro Devices ( NASDAQ:AMD ). Although the H200 is not Nvidia's most advanced product, it remains meaningfully ahead of Chinese-made alternatives. Research cited from the Institute for Progress suggests the H200 delivers 32% more processing power and 50% more memory bandwidth than Huawei's Ascend 910C, while also being cheaper to operate and more reliable, reinforcing its appeal for AI model training and deployment.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nSupporters of the decision argue the policy could help slow China's domestic chip development by keeping Chinese customers dependent on US technology, while preserving revenue streams that US firms could reinvest into future semiconductor innovation. They point to concerns that Huawei may be closing the gap by linking more chips together and potentially expanding production next year. However, Commerce Department estimates indicate Huawei is expected to produce about 200,000 Ascend chips this year, compared with roughly 14 million AI chips deployed by US companies, raising questions about whether domestic supply can meaningfully satisfy Chinese demand. Under the current framework, companies must still apply for licenses to import H200s, and US officials have indicated the government would take a 25% cut of any such sales.\n\nCritics caution that allowing H200 exports could gradually chip away at what remains the US's largest advantage in AI: aggregate computing power. As of mid-2025, the US accounted for nearly three-quarters of global AI supercomputer capacity, compared with about 14% for China, a gap seen as critical for training frontier models. There is concern that Chinese authorities could direct imported H200s toward leading firms and, through civilian channels, into defense-related research, potentially accelerating advances in both commercial AI and military applications. With bipartisan support in Congress for tighter controls, lawmakers are expected to scrutinize the administration's assumptions on Huawei's progress and weigh testimony from AI developers and cloud providers on whether the current approach strengthens, or possibly undermines, long-term US competitiveness in artificial intelligence.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "00:52:11",
+      "Source": "CoinDesk",
+      "Title": "Bitcoin battles $89,000 price ceiling as bulls try to break U.S. sell pattern",
+      "URL": "https://finance.yahoo.com/m/af267bc6-7dba-3379-a0ba-5fa0570af3ff/bitcoin-battles-%2489%2C000-price.html",
+      "Content": "Bitcoin battles $89,000 price ceiling as bulls try to break U.S. sell pattern\n\nKrisztian Sandor\nFri, December 19, 2025 at 8:52 AM PST 1 min read\n\nIn this article: BTC-USD\n\nETH-USD\n\nSOL-USD\n\n^IXIC\n\nNVDA\n\nBitcoin (BTC) bulls are fighting to break on Friday what's been a consistent pattern of sell pressure during U.S. hours.\nDipping below $85,000 late on Thursday afternoon, BTC once again climbed after U.S. markets closed, pushing back above $89,000 they opened Friday morning. That level, though, has roughly capped every attempt of a breakout throughout the week, with sellers hammering prices back to square one — sometimes within minutes and sometimes over the course of a few hours.\nThe largest crypto for the moment is holding fairly steady ahead of the pre-holiday weekend, trading at $88,400, up 0.3% over the past 24 hours.\nEther (ETH) bounced to just shy of $3,000, up 1% over the past day, while Solana's SOL (SOL) and SUI (SUI) lead the overnight rebound among altcoins.\nU.S. equities are having another strong session, led by the Nasdaq's 1% gain, with AI bellwethers Nvidia, Oracle and AMD rising 3%-6%.",
       "Language": "en"
     },
     {
@@ -652,5 +679,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 72
+  "total_news_count": 75
 }
