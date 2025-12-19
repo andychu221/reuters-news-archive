@@ -1,8 +1,35 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-19T19:12:56.384Z",
+  "last_updated": "2025-12-19T20:12:18.034Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "03:20:32",
+      "Source": "Reuters",
+      "Title": "Starbucks taps Amazon's Anand Varadarajan as new chief technology officer",
+      "URL": "https://finance.yahoo.com/news/starbucks-taps-amazons-anand-varadarajan-192032801.html",
+      "Content": "Starbucks taps Amazon's Anand Varadarajan as new chief technology officer\n\nReuters\nFri, December 19, 2025 at 11:20 AM PST 1 min read\n\nIn this article: SBUX\n\nAMZN\n\nORCL\n\n(Adds dropped word \"officer\" in paragraph 1)\nDec 19 (Reuters) - Starbucks said on ​Friday it has appointed Anand ‌Varadarajan as its new chief technology officer, ‌effective January 19, as CEO Brian Niccol pushes a tech revamp in stores to make labor more ⁠efficient.\nVaradarajan will ‌fill the role after Deb Hall Lefevre stepped down in ‍September, following which the coffee chain named Ningyu Chen as interim CTO.\nVaradarajan comes ​after a 19-year stint at ‌Amazon, where he headed the technology and supply chain operations for its worldwide grocery business. He has also previously worked at Oracle.\nStarbucks posted ⁠its first quarter ​of gains in comparable ​sales after nearly a year and a half in late ‍October, ⁠as the company started to see some returns from Niccol's extensive ⁠turnaround efforts in the United States.\n(Reporting by ‌Sanskriti Shekhar in Bengaluru; Editing ‌by Alan Barona)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "03:14:44",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer on Meta: “Kind of Ridiculously Cheap If You Like the Management as Much as I Do”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-meta-kind-ridiculously-191444140.html",
+      "Content": "Jim Cramer on Meta: “Kind of Ridiculously Cheap If You Like the Management as Much as I Do”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: META\n\nAMZN\n\nOPAI.PVT\n\nMeta Platforms, Inc. (NASDAQ: META ) is one of the stocks Jim Cramer recently discussed . Cramer highlighted the company’s increased spending as he commented:\nPhoto by Alexander Shatov on Unsplash\nMeta Platforms, Inc. (NASDAQ:META) develops technologies and applications that connect people through social networking and messaging. The company’s portfolio includes Facebook, Instagram, WhatsApp, Messenger, Threads, and products in virtual and augmented reality.\n\nWhile we acknowledge the potential of META as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "03:14:43",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says “Amazon’s Strategy is Not Spend to Win, It’s Spend to Defend”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-amazon-strategy-191443854.html",
+      "Content": "Jim Cramer Says “Amazon’s Strategy is Not Spend to Win, It’s Spend to Defend”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: AMZN\n\nAmazon.com, Inc. (NASDAQ: AMZN ) is one of the stocks Jim Cramer recently discussed . Cramer noted that the stock holds a big position in the Charitable Trust portfolio, as he remarked:\nchristian-wiediger-rymh7EZPqRs-unsplash\nAmazon.com, Inc. (NASDAQ:AMZN) sells consumer goods and digital content through online and physical stores, provides advertising and subscription services, operates Amazon Web Services for cloud computing, develops electronic devices, produces media content, and offers programs supporting third-party sellers and content creators.\n\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "02:24:01",
@@ -697,5 +724,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 77
+  "total_news_count": 80
 }
