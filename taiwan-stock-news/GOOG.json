@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T05:11:42.010Z",
+  "last_updated": "2025-12-19T07:11:27.939Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "14:25:50",
+      "Source": "Reuters Videos",
+      "Title": "Trump Media merger with nuclear fusion firm raises questions: analyst",
+      "URL": "https://finance.yahoo.com/video/trump-media-merger-nuclear-fusion-062550670.html",
+      "Content": "Trump Media merger with nuclear fusion firm raises questions: analyst\n\nReuters Videos\nThu, December 18, 2025 at 10:25 PM PST\n\nIn this video: TATE.PVT\n\nGOOG\n\nSTORY: On Thursday, U.S. President Donald Trump’s social media company announced an unusual $6 billion merger with TAE Technologies, a Google-backed nuclear fusion firm. The news that Trump Media, which operates Truth Social, was getting into the nuclear energy business... ...came just days after fusion industry leaders met with representatives of the U.S. Energy Department asking for more federal funding. And that rings some alarm bells says Peter Loge - a professor who heads up the Project on Ethics in Political Communication at The George Washington University. “Any time the president's name is on a commercial enterprise, it raises ethical questions. Any time a member of the president's family's name is on a commercial enterprise, it raises ethical questions. Are people buying the thing because the president's name is on it? Are people buying Trump branded products because they think it'll help him get close to the president or that the president will like them more?\" The growing electricity needs of the technology industry have revived interest in nuclear power. However, despite decades of efforts, nuclear fusion, often seen as a potentially cleaner and more reliable energy source, has yet to produce a commercially viable reactor. The chief executive of TAE, Michl Binderbauer, was among the leaders who met U.S. Energy officials after the department formed its first-ever fusion office. “And the question then becomes, 'Are they going to have a leg up? Is this company going to have a leg up because it is owned in part by a member of the Trump family? You know, will this company have an unfair competitive advantage when working with the federal government, when trying to get investors on board, because it is very publicly affiliated with with President Trump and his family.” After his return to office this year, Trump's close relatives have pursued ventures leveraging his political power and policy shifts. For instance, the Trump family has piled up billions in crypto-related wealth as the president throws his support behind digital financial assets. Greater support from the federal government could potentially boost the value of the fusion investment as well. Trump has 114 million shares in Trump Media, roughly 40% of the company. In the new merger, his ownership stake would be roughly 20%. Trump Media mainly generates ad revenue off of Truth Social and has consistently lost money since it began. Loge says one option is for the president to remove his name from the companies to avoid looking improper. \"Of course, what the president is doing might be completely on the up and up. But we're at a point in our history where we need to both do and be seen to be doing the most noble thing possible. The most noble thing possible here is probably taking your name off of companies that are going to benefit from or even rely on the federal government..\" Trump Media chief executive Devin Nunes, a former Republican member of Congress, will be co-CEO of the new company, along with TAE chief Binderbauer. The two, along with Donald Trump Jr., will sit on the merged company's board.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "12:50:00",
@@ -562,5 +571,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 62
+  "total_news_count": 63
 }
