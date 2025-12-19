@@ -1,8 +1,71 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T12:12:37.411Z",
+  "last_updated": "2025-12-19T13:12:44.363Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:02:05",
+      "Source": "Reuters",
+      "Title": "Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source",
+      "URL": "https://finance.yahoo.com/news/google-cloud-lands-deal-palo-130205390.html",
+      "Content": "Google Cloud lands deal with Palo Alto Networks 'approaching $10 billion,' per source\n\nBy Kenrick Cai\nFri, December 19, 2025 at 5:02 AM PST 2 min read\n\nIn this article: PANW\n\nGOOG\n\nLREN3.SA\n\nBy Kenrick Cai\nSAN FRANCISCO, Dec 19 (Reuters) - Alphabet's cloud computing unit and cybersecurity company Palo Alto Networks on Friday announced an ​expanded partnership that one source told Reuters was by far Google ‌Cloud's largest security services deal.\nThe contract comprises a commitment by Palo Alto to pay a sum \"approaching $10 ‌billion\" to Google Cloud over several years, according to the person with direct knowledge of the matter.\n\nExecutives at both companies declined to comment on the specific figures of the contract. Some of the spending will go into migrating ⁠Palo Alto's existing offerings to ‌Google's platform, but a sizable portion will go into adding new services that involve artificial intelligence , Palo Alto president ‍BJ Jenkins told Reuters.\n\"AI has spawned a tremendous amount of demand for security,\" said Matt Renner, chief revenue officer for Google Cloud.\nBut while some business functions like software development ​have been fundamentally altered by AI, cybersecurity remains in its nascency.\n\"This is ‌the same as when the cloud began to emerge and there were new security threats that no one had ever imagined,\" Jenkins said.\nCyberattacks are increasingly being perpetrated by the same generative AI tools that security providers are using to strengthen defenses.\n\nBoth Google and Palo Alto have invested heavily into security ⁠software as enterprises seek to adopt AI.\nGoogle's $32 ​billion acquisition of security firm Wiz is ​pending regulatory approval. Palo Alto launched AI-driven offerings in October and announced plans to buy software company Chronosphere for $3.35 billion last month.\nRenner said ‍the new deal is ⁠the latest showcase of Google Cloud's advantageous positioning as AI reshapes the competitive landscape against hyperscaler rivals Amazon and Microsoft .\nThe two companies have been ⁠strategic partners since 2018. Palo Alto CEO Nikesh Arora was a longtime Google executive, serving ‌as its chief business officer until 2014.\n(Reporting by Kenrick Cai in ‌San Francisco; Editing by Stephen Coates)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:57:38",
+      "Source": "GuruFocus.com",
+      "Title": "Amazon, Google, and Microsoft Join U.S. Energy Department's 'Genesis Mission'",
+      "URL": "https://finance.yahoo.com/news/amazon-google-microsoft-join-u-125738758.html",
+      "Content": "Amazon, Google, and Microsoft Join U.S. Energy Department's 'Genesis Mission'\n\nFaizan Farooque\nFri, December 19, 2025 at 4:57 AM PST 1 min read\n\nIn this article: AMZN\n\nGOOG\n\nMSFT\n\nACN\n\nAMD\n\nThis article first appeared on GuruFocus .\nThe U.S. Department of Energy announced new partnerships with 24 major technology firms , including Amazon ( AMZN , Financials ), Google, and Microsoft, to advance the Genesis Mission, a national program to apply artificial intelligence to energy research and scientific discovery.The Genesis Mission will employ AI to automate experiment design, expedite simulations, and produce predictive models to advance renewable energy, manufacturing, and medicine discovery, according to DOE officials.Accenture, AMD, Anthropic, Amazon Web Services, Cerebras, CoreWeave, Dell, Google, HPE, IBM, Intel, Microsoft, Nvidia, OpenAI, Oracle, Palantir, and xAI are participating. These companies have started or showed interest in DOE-National Laboratories initiatives.Michael Kratsios, Director of the White House Office of Science and Technology Policy, called the agreements only the beginning of public-private AI research collaboration. DOE Under Secretary for Science and Genesis Mission Director Dario Gil said the effort complements President Trump's executive order to create a national AI platform for scientific research.The Genesis Mission is one of the most extensive government-led AI innovation coordination projects spanning business, academia, and governmental research organizations. Industry analysts anticipate the initiative to boost U.S. applied AI competitiveness and bridge cloud and semiconductor leaders in high-performance computing.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:48:25",
+      "Source": "MT Newswires",
+      "Title": "Citigroup Adjusts Price Target on Alphabet to $350 From $343, Maintains Buy Rating",
+      "URL": "https://finance.yahoo.com/news/citigroup-adjusts-price-target-alphabet-124825014.html",
+      "Content": "PREMIUM\nCitigroup Adjusts Price Target on Alphabet to $350 From $343, Maintains Buy Rating\n\nMT Newswires\nFri, December 19, 2025 at 4:48 AM PST\n\nIn this article: GOOG\n\nAlphabet (GOOGL) has an average rating of buy and mean price target of $334.58, according to analyst\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:42:31",
+      "Source": "GuruFocus.com",
+      "Title": "Alphabet Adds AI Verification Labels to Gemini App",
+      "URL": "https://finance.yahoo.com/news/alphabet-adds-ai-verification-labels-124231901.html",
+      "Content": "Alphabet Adds AI Verification Labels to Gemini App\n\nFaizan Farooque\nFri, December 19, 2025 at 4:42 AM PST 1 min read\n\nIn this article: GOOG\n\nThis article first appeared on GuruFocus .\nAlphabet ( GOOGL , Financials ) introduced verification marks to its Gemini app to indicate if a video was generated or altered using Google's AI techniques. Users may post movies and ask Gemini whether they used Google AI. The program detects AI-generated content in videos by scanning for invisible watermarks in audio and video.Alphabet stated the verification tool handles 100-MB, 90-second files. All languages and countries where the Gemini app is supported now allow image and video verification. As media platforms use generative AI capabilities, Alphabet increases content transparency. Analysts and industry professionals say lifelike AI generated content is making it harder to tell genuine from fake media.As authorities and consumers worry about disinformation and corrupted material, Alphabet has promoted watermarking and verification as AI protections. Google has not said if other products would have similar authentication features. Investors will watch Gemini updates and other AI developments as Alphabet integrates generative technologies throughout its platforms.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:37:50",
+      "Source": "Simply Wall St.",
+      "Title": "Latest News In Cloud AI - Advancing AI Research Through Robust Infrastructure in Canada",
+      "URL": "https://finance.yahoo.com/news/latest-news-cloud-ai-advancing-123750211.html",
+      "Content": "Latest News In Cloud AI - Advancing AI Research Through Robust Infrastructure in Canada\n\nSimply Wall St\nFri, December 19, 2025 at 4:37 AM PST 2 min read\n\nIn this article: ORCL\n\nGOOG\n\nMSFT\n\nRecent advancements in cloud AI infrastructure across Canada have been highlighted by the adoption of VAST Data's AI Operating System by prominent national research centers, SciNet and SHARCNET. These institutions have integrated VAST's scalable and resilient AI OS to support a surge in GPU-powered research and AI workloads, signifying a shift towards unified platforms that can manage both traditional HPC and emerging AI tasks efficiently. This consolidation reflects a broader trend of leveraging sophisticated data operating systems to optimize performance and simplify operations in handling complex research demands. The move underscores the importance of robust infrastructure in supporting Canada’s AI innovation ecosystem as it continues to grow and evolve.\n\nIn other trading, Sandisk was trading firmly up 6.1% and ending the day at $219.46. Meanwhile, NTT DATA Group lagged, down 7.7% to end the day at $24.00.\nSeize the opportunity with Microsoft's rapid AI and cloud integration driving growth. Click here to explore the comprehensive narrative on Microsoft's strategic advancements.\nTo deepen your understanding, check out our Market Insights article on Cloud AI, where we explored the critical role AI investments play in sustaining market growth; act now to grasp the investment opportunities.\nBest Cloud AI Stocks Alphabet settled at $302.46 up 1.9%.\nMicrosoft ended the day at $483.98 up 1.7%. This week, Microsoft announced a significant partnership with Cognizant to co-build AI solutions and enhance Copilot capabilities across key sectors.\nOracle ended the day at $180.03 up 0.9%. Oracle announced partnerships with Manhattan, Kansas, for an online permitting system (2 days ago) and Mt. San Rafael Hospital for an AI-powered EHR platform (3 days ago).\n\nTaking Advantage Click through to start exploring the rest of the 151 Cloud AI Stocks including Cognizant Technology Solutions , Roper Technologies and InterDigital now.\nWant Some Alternatives? The latest GPUs need a type of rare earth metal called Terbium and there are only 35 companies in the world exploring or producing it. Find the list for free.\n\nThis article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.\n\nStory Continues\nSources:\nSimply Wall St\n\"VAST Data Selected to Power New Wave of GPU-Accelerated Research and Sovereign Cloud Innovation Across Canada\" from VAST Data on GlobeNewswire (published 18 December 2025)\nCompanies discussed in this article include NasdaqGS:SNDK NasdaqGS:GOOGL NasdaqGS:MSFT NYSE:ORCL and OTCPK:NTDT.Y.\nThis article was originally published by Simply Wall St .\nHave feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team@simplywallst.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:15:11",
+      "Source": "MT Newswires",
+      "Title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Friday; Tesla, Micron to Advance",
+      "URL": "https://finance.yahoo.com/news/social-buzz-wallstreetbets-stocks-mostly-121511395.html",
+      "Content": "PREMIUM\nSocial Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Friday; Tesla, Micron to Advance\n\nMT Newswires\nFri, December 19, 2025 at 4:15 AM PST 1 min read\n\nIn this article: MU\n\nDJT\n\nGOOGL\n\nNKE\n\nTSLA\n\nThe most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly higher hours before F\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "19:37:00",
+      "Source": "Barrons.com",
+      "Title": "Stock Markets May Have Been Hasty With Inflation Bounce. Beware These Risks and 5 Other Things to Know Today.",
+      "URL": "https://finance.yahoo.com/m/bb8985a7-2cc4-333d-9802-30aafa44e61a/stock-markets-may-have-been.html",
+      "Content": "Stock Markets May Have Been Hasty With Inflation Bounce. Beware These Risks and 5 Other Things to Know Today.\n\nBarrons.com\nFri, December 19, 2025 at 3:37 AM PST 9 min read\n\nIn this article: AMZN\n\nGOOG\n\nNKE\n\nTikTok and Oracle sign an agreement for a U.S. venture, Nike beats forecasts but China sales disappoint, more news to start your day.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "19:35:00",
@@ -661,5 +724,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 73
+  "total_news_count": 80
 }
