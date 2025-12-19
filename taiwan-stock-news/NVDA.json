@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-19T08:10:44.370Z",
+  "last_updated": "2025-12-19T09:10:39.403Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "17:01:02",
+      "Source": "Insider Monkey",
+      "Title": "Nvidia’s (NVDA) Long-Term AI Leadership Intact, Says Bernstein",
+      "URL": "https://finance.yahoo.com/news/nvidia-nvda-long-term-ai-090102747.html",
+      "Content": "Nvidia’s (NVDA) Long-Term AI Leadership Intact, Says Bernstein\n\nGhazal Ahmed\nFri, December 19, 2025 at 1:01 AM PST 2 min read\n\nIn this article: NVDA\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the Buzzing AI Stocks on Wall Street . On December 15, Bernstein SocGen Group reiterated an “Outperform” rating on the stock with a $275.00 price target. Analysts at the firm are confident in Nvidia’s AI leadership long-term, even though the company is currently facing China export license delays for the H200.\nThe firm noted that once Nvidia receives these licenses, it will begin to assess demand requests and begin manufacturing. While it does already have some H200 related inventory, it doesn’t have all the required components. Moreover, it is also currently working with suppliers and manufacturers to assess production timelines.\nBernstein highlighted how Nvidia hasn’t even received the official paperwork surrounding the 25% governmental revenue share, which is why they are uncertain about how this will all be accounted for in financial reporting.\nWhile the company believes it is at least 2 years ahead of Google’s TPU program, it does acknowledge the strides Google has made in its 10 years journey.\nNVIDIA Corporation (NASDAQ:NVDA) specializes in AI-driven solutions, offering platforms for data centers, self-driving cars, robotics, and cloud services.\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 11 AI Stocks Analysts Are Watching Closely .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "15:52:00",
@@ -1651,5 +1660,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 183
+  "total_news_count": 184
 }
