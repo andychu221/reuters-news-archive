@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-19T16:12:09.965Z",
+  "last_updated": "2025-12-19T17:12:22.776Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "00:28:29",
+      "Source": "GuruFocus.com",
+      "Title": "Meta Prepares 'Mango' and 'Avocado' AI Models for Early 2026 Launch",
+      "URL": "https://finance.yahoo.com/news/meta-prepares-mango-avocado-ai-162829653.html",
+      "Content": "Meta Prepares 'Mango' and 'Avocado' AI Models for Early 2026 Launch\n\nFaizan Farooque\nFri, December 19, 2025 at 8:28 AM PST 1 min read\n\nIn this article: META\n\nOPAI.PVT\n\nANTH.PVT\n\nThis article first appeared on GuruFocus .\nThe Wall Street Journal reported that Meta Platforms ( META , Financials ) is launching two new artificial intelligence models, Mango and Avocado, citing corporate conversations . Meta is strengthening its AI product offering by releasing the models in the first half of 2026. During an internal conference, Chief AI Officer Alexandr Wang claimed Mango would generate visuals and movies, while Avocado believed to be Meta's Llama language model successor will improve code. He noted that the business is investigating world models, AI that simulates and predicts real-world events.The claim followed Meta's former top AI scientist Yann LeCun's departure to create a world model firm. Wang joined Meta this year after Meta spent roughly $15 billion in Scale AI, demonstrating its commitment to next-generation AI research.Due to competition from OpenAI and Anthropic, Meta revamped their AI division to speed up research and delivery. Some executives pondered switching from Llama to competing models before recommitting to in-house innovation, according to reports.The next releases of Mango and Avocado are anticipated to help Meta extend its AI-driven content and productivity features across Facebook, Instagram, and WhatsApp.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "23:42:00",
@@ -418,5 +427,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 46
+  "total_news_count": 47
 }
