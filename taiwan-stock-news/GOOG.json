@@ -1,8 +1,44 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T20:12:04.597Z",
+  "last_updated": "2025-12-19T21:12:28.397Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "05:00:29",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-210029981.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 1:00 PM PST 1 min read\n\nIn this article: ORCL\n\nMETA\n\nGOOG\n\nNVDA\n\nINTC\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:38:04",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech",
+      "URL": "https://finance.yahoo.com/news/sector-tech-203804868.html",
+      "Content": "PREMIUM\nSector Update: Tech\n\nMT Newswires\nFri, December 19, 2025 at 12:38 PM PST\n\nIn this article: GOOG\n\nXLK\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:21:04",
+      "Source": "Barrons.com",
+      "Title": "Mag 7 Stocks Keep Bouncing Back",
+      "URL": "https://finance.yahoo.com/m/1ea65ad6-71ea-3962-a1dc-765342474b9b/mag-7-stocks-keep-bouncing.html",
+      "Content": "Mag 7 Stocks Keep Bouncing Back\n\nConnor Smith\nFri, December 19, 2025 at 12:21 PM PST\n\nIn this article: NVDA\n\nAMZN\n\nGOOG\n\nMETA\n\nMSFT\n\nBig Tech stocks rallied back again on Friday. The Roundhill Magnificent Seven ETF was up 0.7% after surging nearly 2% yesterday. The group of megacap tech stocks rebounded sharply from a 2.2% drop on Wednesday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:14:10",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says the Bubble in the Data Center “Burst Two Months Ago for All But Google”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-bubble-data-201410268.html",
+      "Content": "Jim Cramer Says the Bubble in the Data Center “Burst Two Months Ago for All But Google”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 12:14 PM PST 2 min read\n\nIn this article: GOOG\n\nAlphabet Inc. (NASDAQ: GOOGL ) is one of the stocks Jim Cramer talked about recently . Cramer mentioned the company while discussing the talks of a bubble in the data center business, as he remarked:\nPhoto by Kai Wenzel on Unsplash\nAlphabet Inc. (NASDAQ:GOOGL) provides tech-related products and services, including search, advertising, cloud computing, AI tools, and digital content platforms like YouTube and Google Play. Cramer mentioned the stock during the December 15 episode and said:\nWhile we acknowledge the potential of GOOGL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\n條款 及 私隱政策\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "03:55:34",
@@ -958,5 +994,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 106
+  "total_news_count": 110
 }
