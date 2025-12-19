@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T14:11:34.286Z",
+  "last_updated": "2025-12-19T16:11:40.408Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "00:04:01",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia stock gains on Trump chip export review, sparking rally in chipmakers",
+      "URL": "https://finance.yahoo.com/news/nvidia-stock-gains-on-trump-chip-export-review-sparking-rally-in-chipmakers-160401242.html",
+      "Content": "Nvidia stock gains on Trump chip export review, sparking rally in chipmakers\n\nGrace O'Donnell · Editor, Special Projects\nUpdated Fri, December 19, 2025 at 8:05 AM PST 2 min read\n\nIn this article: NVDA\n\nAVGO\n\nMU\n\nAMD\n\nINTC\n\nNvidia stock ( NVDA ) jumped as much as 3.7% in early trading on Friday following a Reuters report that the Trump administration began its review of Nvidia H200 chip exports to China.\nThe move higher put shares of the world's largest company on track for a weekly gain, as investors viewed the news as a sign that President Trump would follow through on his promise to allow Nvidia to sell advanced chips to China in exchange for a 25% fee to the government.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "21:34:11",
@@ -292,5 +301,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 32
+  "total_news_count": 33
 }
