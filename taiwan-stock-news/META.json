@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-19T01:11:37.031Z",
+  "last_updated": "2025-12-19T05:11:26.500Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "12:31:07",
+      "Source": "Benzinga",
+      "Title": "Google Enlists Meta To Cut Nvidia Reliance",
+      "URL": "https://finance.yahoo.com/news/google-enlists-meta-cut-nvidia-043107757.html",
+      "Content": "Google Enlists Meta To Cut Nvidia Reliance\n\nAnusuya Lahiri\nThu, December 18, 2025 at 8:31 PM PST 2 min read\n\nIn this article: GOOG\n\nMETA\n\nNVDA\n\nAlphabet Inc.'s (NASDAQ: GOOGL ) Google is stepping up its push to reshape the competitive dynamics of the AI chip market as demand for large-scale AI computing continues to surge.\nGoogle is teaming up more closely with Meta Platforms Inc (NASDAQ: META ) as it looks to rely less on Nvidia Corp (NASDAQ: NVDA ) for powering artificial intelligence.\n\nThe company is working on software changes that make its own chips easier to use with PyTorch , the tool most AI developers already rely on, Reuters reported on Wednesday.\nTrending: If there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it ?\nMeta plays a central role in this effort. As a major backer of the AI tools developers use, Meta is collaborating with Google and gaining greater access to Google's chip infrastructure.\nGoogle plans to use this setup both for its own AI services and for cloud customers.\nReducing Reliance On Nvidia Infrastructure The move adds pressure to Nvidia as competition in AI hardware intensifies.\nNvidia recently said its widely discussed $100 billion potential deal with OpenAI remains nonbinding and emphasized that its sales outlook does not depend on that agreement.\nThe company continues to point to the strength of its full AI stack as its core advantage.\n\nSee Also: The AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon — Invest at $0.85/Share\nNvidia became the first company to top the $4.5 trillion market cap in October 2025, topping the likes of Apple Inc. (NASDAQ: AAPL ), Google, and Microsoft Corp (NASDAQ: MSFT ).\nMeanwhile, Jim Cramer said Broadcom Inc (NASDAQ: AVGO ) stands to benefit most from any potential deal between Alphabet and Meta, pointing to CEO Hock Tan's influence as a key advantage .\nCramer also highlighted Tan's role in Broadcom's growing challenge to Nvidia in AI hardware.\nUnder Tan, Broadcom has expanded its presence in custom AI chips and high-end networking.\nRead Next:\nWall Street's $12B Real Estate Manager Is Opening Its Doors to Individual Investors — Without the Crowdfunding Middlemen\nEarn While You Scroll: The Deloitte-Ranked #1 Software Company Growing 32,481% Is Opening Its $0.50/Share Round to Accredited Investors.\nImage by Edward C. Baig via Imagn\nUNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily , plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.\nGet the latest stock analysis from Benzinga:\nAPPLE (AAPL): Free Stock Analysis Report\nTESLA (TSLA): Free Stock Analysis Report\nThis article Google Enlists Meta To Cut Nvidia Reliance originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "08:52:00",
@@ -346,5 +355,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 38
+  "total_news_count": 39
 }
