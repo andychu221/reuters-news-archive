@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-19T08:10:50.948Z",
+  "last_updated": "2025-12-19T09:10:48.283Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "16:52:23",
+      "Source": "Insider Monkey",
+      "Title": "Piper Sandler Reiterates Overweight on AMD, Sees AI Catalysts Ahead",
+      "URL": "https://finance.yahoo.com/news/piper-sandler-reiterates-overweight-amd-085223684.html",
+      "Content": "Piper Sandler Reiterates Overweight on AMD, Sees AI Catalysts Ahead\n\nGhazal Ahmed\nFri, December 19, 2025 at 12:52 AM PST 2 min read\n\nIn this article: AMD\n\nMETA\n\nAdvanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the Buzzing AI Stocks on Wall Street. On December 15, Piper Sandler reiterated an “Overweight” rating on the stock with a $280.00 price target.\nThe rating affirmation follows the firm’s pre-quiet period call with AMD, with analysts citing several key AI catalysts working in favor of the stock.\nAMD elaborated that it is allocating a significant amount of resources toward the Helios rack, which is anticipated to launch in the middle of next year. Built on Meta's OCP Open Rack for AI, the Helios rack is suited for massive AI and High-Performance Computing (HPC) workloads.\nThe firm’s research note also highlighted how the company is planning on having a diverse set of customers in addition to OpenAI. This, it believes, will bring a level of acceptance for AMD’s technology.\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 11 AI Stocks Analysts Are Watching Closely .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "15:29:36",
@@ -481,5 +490,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 53
+  "total_news_count": 54
 }
