@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T13:11:37.296Z",
+  "last_updated": "2025-12-19T14:11:34.286Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:34:11",
+      "Source": "GuruFocus.com",
+      "Title": "Big Tech Backs DOE's Genesis AI Mission",
+      "URL": "https://finance.yahoo.com/news/big-tech-backs-does-genesis-133411420.html",
+      "Content": "Big Tech Backs DOE's Genesis AI Mission\n\nMoz Farooque ACCA\nFri, December 19, 2025 at 5:34 AM PST 1 min read\n\nIn this article: AMZN\n\nOPAI.PVT\n\nORCL\n\nPLTR\n\nDELL\n\nThis article first appeared on GuruFocus .\nAmazon ( NASDAQ:AMZN ), Google (GOOGL), and Microsoft (MSFT) are stepping into a much bigger role in U.S. science and energy policy, teaming up with the Department of Energy on a new initiative called the Genesis Mission.\nWarning! GuruFocus has detected 8 Warning Signs with F.\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThe effort brings together 24 companies to use AI to speed up scientific discovery, strengthen national security, and drive energy innovation. The goal is to let AI handle more of the heavy lifting, from designing experiments to running complex simulations and building predictive models. DOE officials say that could dramatically shorten the time it takes for researchers to move from ideas to real world breakthroughs.\nAlongside the major cloud providers, the group includes Nvidia ( NASDAQ:NVDA ), AMD ( NASDAQ:AMD ), Intel ( NASDAQ:INTC ), OpenAI (OPENAI), Oracle ( NYSE:ORCL ), Palantir ( NASDAQ:PLTR ), Dell ( NYSE:DELL ), and IBM (IBM), many of which already work closely with U.S. national labs. White House officials described the partnerships as just the beginning of a broader national AI platform for research.\nFor investors, this is not about near term sales. It is about positioning. The Genesis Mission shows how tightly big tech, AI infrastructure, and government priorities are becoming linked as demand for compute and energy continues to grow.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "20:57:38",
@@ -283,5 +292,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 31
+  "total_news_count": 32
 }
