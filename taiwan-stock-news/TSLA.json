@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-19T13:12:06.205Z",
+  "last_updated": "2025-12-19T14:11:49.190Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:29:10",
+      "Source": "MT Newswires",
+      "Title": "Truist Securities Adjusts Price Target on Tesla to $444 From $406, Maintains Hold Rating",
+      "URL": "https://finance.yahoo.com/news/truist-securities-adjusts-price-target-132910373.html",
+      "Content": "PREMIUM\nTruist Securities Adjusts Price Target on Tesla to $444 From $406, Maintains Hold Rating\n\nMT Newswires\nFri, December 19, 2025 at 5:29 AM PST\n\nIn this article: TSLA\n\nTesla (TSLA) has an average rating of hold and mean price target of $419.78, according to analysts p\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "20:33:28",
@@ -427,5 +436,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 47
+  "total_news_count": 48
 }
