@@ -1,8 +1,35 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-19T20:11:42.532Z",
+  "last_updated": "2025-12-19T21:12:03.352Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "05:00:29",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-210029981.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 1:00 PM PST 1 min read\n\nIn this article: ORCL\n\nMETA\n\nGOOG\n\nNVDA\n\nINTC\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:21:04",
+      "Source": "Barrons.com",
+      "Title": "Mag 7 Stocks Keep Bouncing Back",
+      "URL": "https://finance.yahoo.com/m/1ea65ad6-71ea-3962-a1dc-765342474b9b/mag-7-stocks-keep-bouncing.html",
+      "Content": "Mag 7 Stocks Keep Bouncing Back\n\nConnor Smith\nFri, December 19, 2025 at 12:21 PM PST\n\nIn this article: NVDA\n\nAMZN\n\nGOOG\n\nMETA\n\nMSFT\n\nBig Tech stocks rallied back again on Friday. The Roundhill Magnificent Seven ETF was up 0.7% after surging nearly 2% yesterday. The group of megacap tech stocks rebounded sharply from a 2.2% drop on Wednesday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:14:09",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Explains How Market Rotation Boosted Companies Like Johnson & Johnson",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-explains-market-rotation-201409602.html",
+      "Content": "Jim Cramer Explains How Market Rotation Boosted Companies Like Johnson & Johnson\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 12:14 PM PST 2 min read\n\nIn this article: JNJ\n\nMRK\n\nNVDA\n\nMETA\n\nMSFT\n\nJohnson & Johnson (NYSE: JNJ ) is one of the stocks Jim Cramer talked about recently . Cramer mentioned the stock during the episode and said:\nA laptop and a computer monitor display a detailed stock market technical analysis chart. Photo by Jakub Zerdzicki on Pexels\nJohnson & Johnson (NYSE:JNJ) develops and sells healthcare products, including pharmaceuticals and medical technologies, with treatments in immunology, oncology, neuroscience, cardiovascular care, and infectious diseases. In addition, the company provides surgical systems, orthopaedic solutions, cardiovascular devices, and vision care products.\n\nWhile we acknowledge the potential of JNJ as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "03:14:44",
@@ -517,5 +544,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 57
+  "total_news_count": 60
 }
