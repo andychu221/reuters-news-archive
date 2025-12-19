@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-19T19:11:38.533Z",
+  "last_updated": "2025-12-19T20:11:13.427Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "03:14:47",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says “We Need More Winners, But It’s Just Alphabet”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-more-winners-191447373.html",
+      "Content": "Jim Cramer Says “We Need More Winners, But It’s Just Alphabet”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: GOOG\n\nAAPL\n\nAlphabet Inc. (NASDAQ: GOOGL ) is one of the stocks Jim Cramer recently discussed . Cramer highlighted the company’s deal with Apple during the episode, as he said:\nPhoto by Kai Wenzel on Unsplash\nAlphabet Inc. (NASDAQ:GOOGL) provides tech-related products and services, including search, advertising, cloud computing, AI tools, and digital content platforms like YouTube and Google Play.\nWhile we acknowledge the potential of GOOGL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "02:40:22",
@@ -589,5 +598,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 65
+  "total_news_count": 66
 }
