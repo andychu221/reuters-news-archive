@@ -1,8 +1,26 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-19T08:10:56.873Z",
+  "last_updated": "2025-12-19T09:11:00.401Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "16:21:10",
+      "Source": "MT Newswires",
+      "Title": "Broadcom Insider Sold Shares Worth $2,028,440, According to a Recent SEC Filing",
+      "URL": "https://finance.yahoo.com/news/broadcom-insider-sold-shares-worth-082110086.html",
+      "Content": "PREMIUM\nBroadcom Insider Sold Shares Worth $2,028,440, According to a Recent SEC Filing\n\nMT Newswires\nFri, December 19, 2025 at 12:21 AM PST\n\nIn this article: AVGO\n\nKirsten M. Spears, Chief Financial Officer & Chief Accounting Officer, on December 16, 2025, sold 6,\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "16:18:39",
+      "Source": "MT Newswires",
+      "Title": "Broadcom Insider Sold Shares Worth $1,053,112, According to a Recent SEC Filing",
+      "URL": "https://finance.yahoo.com/news/broadcom-insider-sold-shares-worth-081839812.html",
+      "Content": "PREMIUM\nBroadcom Insider Sold Shares Worth $1,053,112, According to a Recent SEC Filing\n\nMT Newswires\nFri, December 19, 2025 at 12:18 AM PST\n\nIn this article: AVGO\n\nCharlie B Kawwas, President, Semi Solutions Group, on December 16, 2025, sold 3,163 shares in Broadc\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "15:29:36",
@@ -814,5 +832,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 90
+  "total_news_count": 92
 }
