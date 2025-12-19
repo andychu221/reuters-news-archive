@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-19T11:11:51.638Z",
+  "last_updated": "2025-12-19T14:11:56.156Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:43:00",
+      "Source": "PR Newswire",
+      "Title": "Mercury Bio and Meta-Flux Announce Strategic Collaboration to Advance Large-Molecule Therapeutics for Parkinson's and Alzheimer's Diseases",
+      "URL": "https://finance.yahoo.com/news/mercury-bio-meta-flux-announce-134300013.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nMercury Bio and Meta-Flux Announce Strategic Collaboration to Advance Large-Molecule Therapeutics for Parkinson's and Alzheimer's Diseases\n\nPR Newswire\nFri, December 19, 2025 at 5:43 AM PST 2 min read\n\nIn this article: META\n\nSANTA FE, N.M. and CAMBRIDGE, Mass. , Dec. 19, 2025 /PRNewswire/ -- Mercury Bio , a biotechnology company advancing large-molecule therapeutics for neurodegenerative disease, and Meta-Flux , an AI-powered disease simulation company, have announced a strategic collaboration to accelerate the development of new therapeutic programs for central nervous system (CNS) disorders, beginning with Parkinson's disease and Alzheimer's disease.\n\nThe collaboration is focused on strengthening Mercury Bio's therapeutic pipeline by improving target selection, pathway prioritization, and early development decision-making for diseases driven by intracellular pathology, areas where conventional therapies have largely been limited to symptomatic treatment.\nTo support these therapeutic efforts, the collaboration combines Mercury Bio's patented yeast extracellular vesicle (yEV™) technology - designed to deliver therapeutic proteins, RNA, and other large-molecule biologics into neurons, release them into the cytoplasm, and avoid endosomal degradation, including across the blood–brain barrier - with Meta-Flux's disease-scale computational modeling platform , which combines multi-omics data and systems-biology approaches to map pathway dynamics and cellular state changes in neurodegenerative disease, including their response to yEV-mediated delivery. Together, these capabilities are intended to enable more precise interrogation of disease biology and higher-confidence advancement of CNS drug candidates.\n\n\"Therapeutic progress in Parkinson's and Alzheimer's diseases has been constrained by four fundamental challenges: crossing the blood–brain barrier, entering the neuron, releasing the drug into the cytoplasm while avoiding endosomal degradation, and targeting the intracellular pathways that drive disease,\" said Bruce McCormick, Chief Executive Officer of Mercury Bio. \"Our focus at Mercury Bio is on advancing therapeutics that address those intracellular mechanisms. The yEV technology supports that goal, and Meta-Flux adds the biological intelligence needed to ensure we are targeting the right pathways with confidence.\"\nMeta-Flux's platform integrates multi-omics data and disease-scale simulations to model how neuronal pathways respond to therapeutic intervention, enabling more informed program design and biomarker strategies in direct support of Mercury Bio's CNS therapeutics.\n\n\"This partnership allows us to evaluate disease mechanisms and therapeutic hypotheses in a context that has historically been inaccessible,\" said Lee Sherlock, Chief Executive Officer of Meta-Flux. \"By applying our modeling framework to Mercury Bio's CNS programs, we can help strengthen the biological rationale behind advancing large-molecule therapeutics for neurodegenerative disease.\"\n\nStory Continues\nThe collaboration reflects a shared commitment to building a more disciplined, data-driven approach to advancing therapeutics for diseases of the brain.\nContact:\nKaelie Barnard | Director of Marketing, Barson Corp.\n406694@email4pr.com | 516-712-6050\nMeta-Flux | Corporate Communications 406694@email4pr.com\nView original content to download multimedia: https://www.prnewswire.com/news-releases/mercury-bio-and-meta-flux-announce-strategic-collaboration-to-advance-large-molecule-therapeutics-for-parkinsons-and-alzheimers-diseases-302646691.html\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "18:15:35",
@@ -373,5 +382,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 41
+  "total_news_count": 42
 }
