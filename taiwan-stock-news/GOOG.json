@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T18:12:45.002Z",
+  "last_updated": "2025-12-19T19:12:45.591Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "02:46:31",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Friday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-friday-184631483.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Friday Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 10:46 AM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\nINTC\n\nGOOG\n\nXLK\n\nTech stocks gained Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) r\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "01:50:39",
@@ -55,6 +64,15 @@
       "Title": "Google Cloud Strikes Nearly $10 Billion AI Security Deal With Palo Alto Networks",
       "URL": "https://finance.yahoo.com/news/google-cloud-strikes-nearly-10-170327224.html",
       "Content": "Google Cloud Strikes Nearly $10 Billion AI Security Deal With Palo Alto Networks\n\nFaizan Farooque\nFri, December 19, 2025 at 9:03 AM PST 1 min read\n\nIn this article: PANW\n\nGOOG\n\nThis article first appeared on GuruFocus .\nGoogle Cloud ( GOOGL , Financials ) struck a roughly $10 billion multiyear deal with Palo Alto Networks ( PANW , Financials ) in its biggest security services pact.The arrangement expands Palo Alto's work with Google Cloud to move its cybersecurity solutions and build AI-driven corporate capabilities. While neither business released financial details, a source told Reuters that the transaction is worth approaching $10 billion over many years.As corporate demand for automated threat detection rises, Palo Alto president BJ Jenkins said part of the investment would support new AI-based solutions. Google Cloud's chief sales officer, Matt Renner, said AI has increased security need.Due of generative AI risks, both organizations are focusing on AI-enabled cybersecurity. Google intends to purchase security startup Wiz for $32 billion, while Palo Alto unveiled its AI-powered product suite in October and bought Chronosphere for $3.35 billion last month.The agreement boosts Google Cloud's business security and AI infrastructure, analysts say, versus hyperscalers Amazon and Microsoft. Nikesh Arora, Palo Alto's CEO, was Google's CBO.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "00:44:32",
+      "Source": "Fortune",
+      "Title": "AI hyperscalers have room for ‘elevated debt issuance’ — even after their recent bond binge, BofA says",
+      "URL": "https://finance.yahoo.com/news/ai-hyperscalers-room-elevated-debt-164432161.html",
+      "Content": "AI hyperscalers have room for ‘elevated debt issuance’ — even after their recent bond binge, BofA says\n\nJason Ma\nFri, December 19, 2025 at 8:44 AM PST 2 min read\n\nIn this article: BAC\n\nMETA\n\nGOOG\n\nAMZN\n\nMSFT\n\nThe tech giants fueling the AI boom generate so much cash relative to their debt that they have more than enough room to issue more, according to Bank of America .\nIn a note this week, analysts looked at the top five publicly traded AI hyperscalers: Meta , Alphabet , Microsoft , Amazon and Oracle .\nBofA pointed out that while the companies can fund their near-term capital expenditures with cash, they are tapping debt markets for balance-sheet flexibility and better cost of capital. Last month alone, Meta, Alphabet, and Amazon raised tens of billions of dollars in the bond market.\n\nOperating cash flow for the big five hyperscalers is expected to hit $577 billion this year from $378 billion in 2023, while debt should climb from $356 billion to $433 billion.\nThat means their overall debt burden is actually getting lighter as the debt-to-cash ratio should dip from 0.94 to 0.75.\n“Given the hyperscalers’ historically conservative capital allocation and balance sheet policies, elevated debt issuance is possible, as evident by the recent bond deals from Meta, Alphabet and Amazon,” BofA said.\nAnd plenty of additional cash is on the way. By 2029, operating cash flow is seen jumping 95% to $1.1 trillion, while capex is forecast to grow at a much slower pace of 58% to $632 billion.\nBut then there’s Oracle. Unlike the other AI hyperscalers, it will have negative free cash flow until 2029, meaning its capex will exceed cash from operations, according to BofA. As a result, it doesn’t have much capacity to take on more debt.\n\nIndeed, fears about Oracle’s debt binge have rattled the overall AI stock trade as the company isn’t a cash machine like its AI peers.\nRecent earnings guidance was also weak, and the company raised its forecast for fiscal 2026 capex by another $15 billion. In addition, surging lease obligations have spooked Wall Street.\nA Financial Times report on Wednesday that said alternative investments firm Blue Owl didn’t team up with Oracle on a data center after all piled on more concerns. Shares fell on the news, though the company’s development partner, Related Digital, said Blue Owl was outbid on the project and didn’t back out of it.\nBut even though debt may not pose a limit on hyperscalers’ ambitions, they still face physical limits , namely in building enough infrastructure fast enough to meet demand.\nData-center researcher Jonathan Koomey told Fortune’s Eva Roytburg that capital can be deployed instantly, but the equipment that capital must buy cannot. Tmelines for turbines, transformers, specialized cooling systems, and high-voltage gear have stretched into years, he explained.\n\nStory Continues\n“This happens every time there’s a massive shift in investment,” Koomey added. “Eventually manufacturers catch up, but not right away. Reality intervenes.”\nThis story was originally featured on Fortune.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -904,5 +922,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 100
+  "total_news_count": 102
 }
