@@ -1,8 +1,44 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-19T19:12:45.591Z",
+  "last_updated": "2025-12-19T20:12:04.597Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "03:55:34",
+      "Source": "MT Newswires",
+      "Title": "Google Files Lawsuit Against SerpApi Over Alleged Unlawful Scraping",
+      "URL": "https://finance.yahoo.com/news/google-files-lawsuit-against-serpapi-195534823.html",
+      "Content": "PREMIUM\nGoogle Files Lawsuit Against SerpApi Over Alleged Unlawful Scraping\n\nMT Newswires\nFri, December 19, 2025 at 11:55 AM PST\n\nIn this article: GOOG\n\nAlphabet's (GOOG, GOOGL) Google said Friday it has filed a lawsuit against SerpApi for allegedly scr\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "03:22:26",
+      "Source": "GuruFocus.com",
+      "Title": "Google Adds AI Video Verification to Gemini",
+      "URL": "https://finance.yahoo.com/m/b93fe8b7-21f9-3f7c-9454-bd5f98eefc03/google-adds-ai-video.html",
+      "Content": "Google Adds AI Video Verification to Gemini\n\nMoz Farooque ACCA\nFri, December 19, 2025 at 11:22 AM PST 1 min read\n\nIn this article: GOOG\n\nThis article first appeared on GuruFocus .\nAlphabet ( NASDAQ:GOOGL ) is making it easier for everyday users to tell whether a video is real or AI made. The company has added new verification labels to its Gemini app that let people check if a video was created or edited using Google's AI tools.\nWarning! GuruFocus has detected 6 Warning Signs with ORCL.\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe idea is simple and hands on. Users can upload a video into Gemini and ask a direct question like whether it was generated with Google AI. Gemini then scans the video for hidden watermarks embedded in both the audio and visuals. These markers are invisible to the human eye and ear, but they allow Gemini to identify which parts of a video include AI generated content.\nAlphabet said the feature supports videos up to 100 MB and 90 seconds long and is now available globally across all languages where Gemini operates. Image verification is also included.\nThe timing matters. As AI generated video becomes more convincing, spotting what is authentic is getting harder. Alphabet's move is less about flashy features and more about trust. By building verification directly into Gemini, Google is giving users a clearer way to slow misinformation and better understand what they are actually watching.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "03:14:47",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says “We Need More Winners, But It’s Just Alphabet”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-more-winners-191447373.html",
+      "Content": "Jim Cramer Says “We Need More Winners, But It’s Just Alphabet”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: GOOG\n\nAAPL\n\nAlphabet Inc. (NASDAQ: GOOGL ) is one of the stocks Jim Cramer recently discussed . Cramer highlighted the company’s deal with Apple during the episode, as he said:\nPhoto by Kai Wenzel on Unsplash\nAlphabet Inc. (NASDAQ:GOOGL) provides tech-related products and services, including search, advertising, cloud computing, AI tools, and digital content platforms like YouTube and Google Play.\nWhile we acknowledge the potential of GOOGL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "03:14:46",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says Microsoft “Requires Mass Spending” to Keep Azure Competitive",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-microsoft-requires-191446265.html",
+      "Content": "Jim Cramer Says Microsoft “Requires Mass Spending” to Keep Azure Competitive\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: MSFT\n\nGOOG\n\nOPAI.PVT\n\nMicrosoft Corporation (NASDAQ: MSFT ) is one of the stocks Jim Cramer recently discussed . Cramer mentioned the company during the episode and stated:\nImage by Tawanda Razika from Pixabay\nMicrosoft Corporation (NASDAQ:MSFT) develops software, hardware, and cloud-based solutions. The company provides products like Windows, Azure, Office, LinkedIn, and Xbox.\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "02:46:31",
@@ -922,5 +958,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 102
+  "total_news_count": 106
 }
