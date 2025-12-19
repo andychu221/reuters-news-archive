@@ -1,8 +1,26 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-19T21:12:12.750Z",
+  "last_updated": "2025-12-19T22:12:12.108Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "05:15:00",
+      "Source": "Business Wire",
+      "Title": "Aravolta Is the Software Powering Data Centers Behind the Scenes",
+      "URL": "https://finance.yahoo.com/news/aravolta-software-powering-data-centers-211500868.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nAravolta Is the Software Powering Data Centers Behind the Scenes\n\nBusiness Wire\nFri, December 19, 2025 at 1:15 PM PST 2 min read\n\nIn this article: MSFT\n\nSAN FRANCISCO, December 19, 2025 --( BUSINESS WIRE )-- Aravolta is redefining data center operations for colocations, clouds, edge data centers, universities and more. Aravolta builds integrated data center infrastructure (DCIM), electrical power (EPMS) and building management (BMS) products and are rapidly expanding as demand soars for their products.\n\nAravolta is led by Margarita Groisman (CEO), Jack Sutton (CTO), and Pietro Sette (COO). Margarita previously worked on chip and server deployments inside Microsoft’s data centers. Jack is a lifelong engineer working as a founding engineer across many startups. Pietro has led engineering and operations at high-growth software organizations. The team focuses on building software to manage and automate the physical systems that power modern data centers.\n\"We’re seeing a wave of new data center entrants realize that these facilities are far more complex to run than traditional industrial sites,\" Groisman said. \"GPU environments are especially demanding: power, cooling and networking are tightly coupled, and small changes can ripple across the entire system.\n\nAravolta brings those signals into one place and makes them actionable. We're ‘ Palantir for data centers ’, not just aggregating data, but turning it into decisions and control.\"\nAravolta’s customers already include colocation providers, chip manufacturers, edge data centers, and emerging neoclouds - names like OpenColo, Flexnode, DataCrunch, and Centra, as well as others you’ve definitely heard of but they can’t yet name publicly.\nBacked by $5.1 million from notable investors such as Topology, Wishchoff, Crucible, Susa, Afore, Y Combinator, Pioneer Fund , and Banyan with Guillermo Rauch , Nick Hansen , and more among its notable angels.\nWhile Aravolta technically sits in the DCIM (Data Center Infrastructure Management) category, its capabilities extend far beyond the legacy tools of the past. Operators praise its single pane of glass for data center operations - including capabilities like branch circuit monitoring, precision power metering, and automation workflows that make the complex orchestration of modern data centers not just manageable - but elegant.\nIn short: As the world races to build the infrastructure for the AI age, Aravolta is building the software to make it all run.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20251219337091/en/\nContacts\nMedia Contact: Margarita Groisman\nEmail: margarita@aravolta.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "04:22:00",
+      "Source": "Barrons.com",
+      "Title": "China’s Tencent Is Accessing Banned Nvidia Chips Through the Cloud",
+      "URL": "https://finance.yahoo.com/m/7c3cd576-5ff0-3aaa-8c39-923a1e931b1f/china%E2%80%99s-tencent-is-accessing.html",
+      "Content": "China’s Tencent Is Accessing Banned Nvidia Chips Through the Cloud\n\nJacob Adelman\nFri, December 19, 2025 at 12:22 PM PST 10 min read\n\nIn this article: TCEHY\n\nMSFT\n\nCRWV\n\nTCTZF\n\nNVDA\n\nTencent is using a Japanese cloud service to access Nvidia Blackwell chips that remain banned to Chinese customers.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "04:21:04",
@@ -643,5 +661,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 71
+  "total_news_count": 73
 }
