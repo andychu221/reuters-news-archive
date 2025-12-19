@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-19T02:10:35.773Z",
+  "last_updated": "2025-12-19T11:10:34.864Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "18:22:03",
+      "Source": "Verdict",
+      "Title": "Qualcomm wraps up $2.4bn acquisition of Alphawave Semi",
+      "URL": "https://finance.yahoo.com/m/43cbdd7e-ade6-3e92-8eb9-4efca27f4eaf/qualcomm-wraps-up-%242.4bn.html",
+      "Content": "Qualcomm wraps up $2.4bn acquisition of Alphawave Semi\n\nRanjithKumar Dharma\nFri, December 19, 2025 at 2:22 AM PST 2 min read\n\nIn this article: QCOM\n\nQualcomm has concluded the acquisition of Alphawave Group, known as Alphawave Semi, for an implied enterprise value of around $2.4bn (£1.79bn).\nThe company reported that the transaction was completed a quarter ahead of schedule.\nAnnounced in June 2025, the deal was originally expected to close in the first quarter of 2026.\n\nTony Pialis, CEO and co-founder of Alphawave Semi, will lead Qualcomm’s data centre business.\nPialis said: “Joining Qualcomm marks an exciting new chapter for Alphawave Semi.\n“We are ready to bring our leadership in high-speed connectivity and custom silicon to help shape the future of data centre innovation.”\nAccording to Qualcomm, the acquisition is intended to provide key assets for its strategy to expand into data centres.\nThe company noted that its Oryon CPU and Hexagon NPU processors are positioned to address growing demand in high-performance, low-power computing, which is linked to increased AI inferencing and a move towards custom central processing units (CPUs) in data centres.\nAlphawave Semi develops high-speed wired connectivity and compute technologies. These include IP, custom silicon, connectivity products, and chiplets aimed at improving data transfer performance, reliability and power efficiency.\n\nIts products are used as part of infrastructure supporting next-generation services across applications such as data centres, AI, data networking and data storage.\nQualcomm president and CEO Cristiano Amon said: “Alphawave Semi’s expertise in high-speed connectivity technologies complements our Qualcomm Oryon CPU and Hexagon NPU [neural processing unit] processors.\n“Qualcomm delivers high-performance, energy-efficient compute and AI solutions, and the addition of Alphawave’s technologies will strengthen our platforms and optimise performance for next-generation AI data centres.”\nEarlier this month, Qualcomm announced its acquisition of Ventana Micro Systems.\nThe acquisition is expected to support Qualcomm’s work on the RISC-V standard and ecosystem, and to enhance its CPU capabilities by adding Ventana’s expertise in RISC-V ISA development.\n\nVentana’s team is expected to work alongside Qualcomm’s existing RISC-V initiatives and its custom Oryon CPU development, with the aim of advancing AI-related technology across the company’s businesses.\n\"Qualcomm wraps up $2.4bn acquisition of Alphawave Semi\" was originally created and published by Verdict , a GlobalData owned brand.\n\nThe information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "06:45:07",
@@ -166,5 +175,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 18
+  "total_news_count": 19
 }
