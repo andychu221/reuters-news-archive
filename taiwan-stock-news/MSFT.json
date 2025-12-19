@@ -1,8 +1,26 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-19T03:11:21.790Z",
+  "last_updated": "2025-12-19T11:12:01.967Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "18:43:13",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Microsoft-Backed OpenAI on Track to Exceed $13 Billion Revenue in 2025",
+      "URL": "https://finance.yahoo.com/news/market-chatter-microsoft-backed-openai-104313576.html",
+      "Content": "PREMIUM\nMarket Chatter: Microsoft-Backed OpenAI on Track to Exceed $13 Billion Revenue in 2025\n\nMT Newswires\nFri, December 19, 2025 at 2:43 AM PST 1 min read\n\nIn this article: OPAI.PVT\n\nMSFT\n\nMicrosoft-backed (MSFT) OpenAI is on track to exceed its 2025 revenue target of $13 billion, up shar\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "18:15:57",
+      "Source": "Verdict",
+      "Title": "Cognizant, Microsoft agree multi-year partnership for AI integration",
+      "URL": "https://finance.yahoo.com/m/6d5fe961-0be5-37ed-a171-faa716856502/cognizant%2C-microsoft-agree.html",
+      "Content": "Cognizant, Microsoft agree multi-year partnership for AI integration\n\nRanjithKumar Dharma\nFri, December 19, 2025 at 2:15 AM PST 2 min read\n\nIn this article: CTSH\n\nMSFT\n\nCognizant and Microsoft have formed a multi-year partnership aimed at enabling enterprises worldwide to implement AI solutions.\nThe companies plan to jointly develop industry-grade AI technologies for critical industries including financial services, healthcare and life sciences, retail and manufacturing.\n\nThe agreement includes global co-selling of these solutions and collaboration on significant deals within these sectors.\nIn addition, the partnership will see Cognizant and Microsoft embedding agentic AI and Copilot features into key business processes, supported by Work IQ, Foundry IQ and Fabric IQ.\nMicrosoft commercial business CEO Judson Althoff said: “Cognizant's ability to marry deep industry expertise with bold innovation makes them an outstanding partner as we co-innovate to help enterprises become AI-powered Frontier Firms.\n“By combining Microsoft's trusted cloud and agentic AI capabilities with Cognizant's platforms and delivery scale, we will accelerate the creation of industry-specific solutions that are embedded in the flow of work and unlock transformative value for our joint customers around the world.”\n\nThis initiative aims to influence productivity, customer experience and operational resilience. It also builds on Cognizant’s Neuro AI Suite offerings, which leverage Microsoft cloud and AI services.\nTo support this initiative, Cognizant will promote the adoption of Microsoft 365 Copilot and GitHub Copilot across its consulting and delivery teams, while providing training for associates in Microsoft Azure, Azure AI Foundry and relevant technologies.\nThe collaboration will further utilise Cognizant’s proprietary platforms such as TriZetto, Skygrade and FlowSource to drive sector-specific developments and updates in software engineering.\nCognizant CEO Ravi Kumar said: “Today, AI underpins and shapes every transformation programme we drive.\n“We will co-build scalable solutions, co-sell globally and partner on large deals that deliver measurable outcomes for our clients by aligning this partnership to our three-vector AI builder strategy.\n\n“By combining Microsoft's trusted cloud and AI with Cognizant's industry platforms, we are strongly positioned to help clients solve the last-mile challenge of scaling AI across the enterprise.”\n\"Cognizant, Microsoft agree multi-year partnership for AI integration\" was originally created and published by Verdict , a GlobalData owned brand.\n\nThe information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "10:50:00",
@@ -346,5 +364,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 38
+  "total_news_count": 40
 }
