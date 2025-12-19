@@ -1,6 +1,6 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-19T14:11:11.783Z",
+  "last_updated": "2025-12-19T15:10:53.381Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -10,6 +10,15 @@
       "Title": "Truist Securities Adjusts Price Target on Broadcom to $510 From $500, Maintains Buy Rating",
       "URL": "https://finance.yahoo.com/news/truist-securities-adjusts-price-target-132934281.html",
       "Content": "PREMIUM\nTruist Securities Adjusts Price Target on Broadcom to $510 From $500, Maintains Buy Rating\n\nMT Newswires\nFri, December 19, 2025 at 5:29 AM PST\n\nIn this article: AVGO\n\nBroadcom (AVGO) has an average rating of buy and mean price target of $461.86, according to analysts\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-19",
+      "Time": "20:37:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Rises. The Road to Sales in China Opens Up.",
+      "URL": "https://finance.yahoo.com/m/fa509610-bf9e-3d20-a139-0a54a3614a62/nvidia-stock-rises.-the-road.html",
+      "Content": "Nvidia Stock Rises. The Road to Sales in China Opens Up.\n\nAdam Clark\nFri, December 19, 2025 at 4:37 AM PST 1 min read\n\nIn this article: NVDA\n\nTSM\n\nTSMWF\n\nAMD\n\nAVGO\n\nNvidia stock was gaining as it looks to be nearing official U.S. permission to export artificial-intelligence chips to China.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -895,5 +904,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 99
+  "total_news_count": 100
 }
