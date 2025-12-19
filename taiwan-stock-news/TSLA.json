@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-19T18:11:55.917Z",
+  "last_updated": "2025-12-19T19:12:06.681Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "02:19:31",
+      "Source": "Investor's Business Daily",
+      "Title": "Tesla Bull Calls 2026 An 'Inflection Year' For Rivian With The Stock At Its Highest Since 2023",
+      "URL": "https://finance.yahoo.com/m/98fc0798-3532-3686-ae84-ded812ad5da2/tesla-bull-calls-2026-an.html",
+      "Content": "Tesla Bull Calls 2026 An 'Inflection Year' For Rivian With The Stock At Its Highest Since 2023\n\nKIT NORTON\nFri, December 19, 2025 at 10:19 AM PST 3 min read\n\nIn this article: RIVN\n\nTSLA\n\nRivian has been on a hot-streak since its \"Autonomy & AI Day,\" where the EV startup announced an in-house silicon AI chip and outlined its next-generation AI platform. In addition, a longtime Tesla bull raised his RIVN price target, calling 2026 an \"inflection year\" for the brand. Wedbush Securities analyst Dan Ives on Friday hiked his Rivian stock price target to 25 from 16, maintaining his outperform rating on the shares.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "01:43:13",
@@ -580,5 +589,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 64
+  "total_news_count": 65
 }
