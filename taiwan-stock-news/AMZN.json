@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-19T10:11:32.940Z",
+  "last_updated": "2025-12-19T11:12:19.518Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "18:50:00",
+      "Source": "Barrons.com",
+      "Title": "FedEx Earnings Were Strong. Cost Cuts and Shipment Volume Helped.",
+      "URL": "https://finance.yahoo.com/m/60f70f41-b814-3d94-962a-c120bd7eede9/fedex-earnings-were-strong..html",
+      "Content": "FedEx Earnings Were Strong. Cost Cuts and Shipment Volume Helped.\n\nAl Root\nFri, December 19, 2025 at 2:50 AM PST 3 min read\n\nIn this article: FDX\n\nUPS\n\n^DJI\n\nAMZN\n\n^GSPC\n\nA lot is going on at FedEx so the stakes were high for its second-quarter results, reported Thursday evening. For the fiscal second quarter, FedEx reported adjusted earnings per share of $4.82 from sales of $23.5 billion. Wall Street was looking for EPS of $4.12, from $22.8 billion in sales.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "17:45:00",
@@ -436,5 +445,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 48
+  "total_news_count": 49
 }
