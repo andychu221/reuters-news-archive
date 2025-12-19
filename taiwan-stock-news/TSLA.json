@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-19T09:11:28.817Z",
+  "last_updated": "2025-12-19T11:11:44.619Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "18:19:42",
+      "Source": "MT Newswires",
+      "Title": "Stellantis, Tesla, BYD, Volkswagen Probe Closed by Italian Regulator",
+      "URL": "https://finance.yahoo.com/news/stellantis-tesla-byd-volkswagen-probe-101942500.html",
+      "Content": "PREMIUM\nStellantis, Tesla, BYD, Volkswagen Probe Closed by Italian Regulator\n\nMT Newswires\nFri, December 19, 2025 at 2:19 AM PST 1 min read\n\nIn this article: STLA\n\nTSLA\n\nBYDDF\n\nVLKAF\n\nStellantis (STLA), Tesla (TSLA), BYD, and Volkswagen Group's investigations by Italy's competition a\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "16:50:19",
@@ -337,5 +346,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 37
+  "total_news_count": 38
 }
