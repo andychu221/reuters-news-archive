@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-19T09:11:00.401Z",
+  "last_updated": "2025-12-19T10:10:53.458Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "17:19:31",
+      "Source": "GuruFocus.com",
+      "Title": "Broadcom Is Selling Off on AI Concerns. UBS Sees a Buying Opportunity.",
+      "URL": "https://finance.yahoo.com/news/broadcom-stock-falling-ubs-says-175003545.html",
+      "Content": "Broadcom Is Selling Off on AI Concerns. UBS Sees a Buying Opportunity.\n\nNauman Khan\nFri, December 19, 2025 at 1:19 AM PST 1 min read\n\nIn this article: AVGO\n\nThis article first appeared on GuruFocus .\nBroadcom ( NASDAQ:AVGO ) shares fell about 20% over the past five days, even after the chipmaker posted solid fiscal fourth-quarter results, as investors focused on the lack of a full-year artificial intelligence revenue outlook.\nWarning! GuruFocus has detected 3 Warning Sign with AVGO.\nIs AVGO fairly valued? Test your thesis with our free DCF calculator.\n\nThe pullback followed Broadcom's recent earnings report, which showed continued strength in its AI-related semiconductor business. Still, the stock sold off as the market weighed uncertainty around longer-term AI demand visibility.\nAfter meeting with Broadcom's full management team, UBS analyst Timothy Arcuri said recent trading likely reflects an overreaction. He raised his estimates for fiscal 2026, projecting AI semiconductor revenue above $60 billion, nearly triple year-over-year growth.\nArcuri also lifted his fiscal 2027 forecasts, including revenue of $135 billion and earnings per share of $14.15. He pointed to a $73 billion AI backlog covering roughly 18 months, noting that shipments may arrive sooner than initially outlined.\nThe analyst highlighted strong backlog growth tied mainly to large customers such as Alphabet (GOOG) and Meta Platforms (META), with additional upside possible as AI inference demand expands.\nUBS kept a Buy rating on Broadcom and increased its price target to $475.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "16:21:10",
@@ -832,5 +841,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 92
+  "total_news_count": 93
 }
