@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-19T20:11:03.721Z",
+  "last_updated": "2025-12-19T21:11:15.213Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "04:14:03",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says NVIDIA “Will Get Plenty of Business”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-nvidia-plenty-201403699.html",
+      "Content": "Jim Cramer Says NVIDIA “Will Get Plenty of Business”\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 12:14 PM PST 2 min read\n\nIn this article: NVDA\n\nORCL\n\nAVGO\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the stocks Jim Cramer talked about recently . Cramer highlighted why the stock keeps “going down,” as he stated:\nPhoto by Christian Wiediger on Unsplash\nNVIDIA Corporation (NASDAQ:NVDA) develops accelerated computing and AI platforms, GPUs for gaming and professional use, cloud services, robotics and embedded systems, and automotive technologies. Cramer mentioned the stock during the December 15 episode and said:\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "03:15:01",
@@ -1021,5 +1030,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 113
+  "total_news_count": 114
 }
