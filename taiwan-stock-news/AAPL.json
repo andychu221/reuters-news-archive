@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-19T13:11:30.188Z",
+  "last_updated": "2025-12-19T14:11:26.900Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "21:59:14",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Dow Dips As Nike Plunges On Earnings (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/6e995b8b-b417-3c7e-9709-8311e15fe346/stock-market-today%3A-dow-dips.html",
+      "Content": "Stock Market Today: Dow Dips As Nike Plunges On Earnings (Live Coverage)\n\nSCOTT LEHTONEN\nFri, December 19, 2025 at 5:59 AM PST 2 min read\n\nIn this article: NKE\n\nNVDA\n\nAMZN\n\nBTC-USD\n\nQQQ\n\nStock Market Today: The Dow Jones index moved lower premarket Friday as Nike stock plunged 11% on earnings results.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "20:48:00",
@@ -472,5 +481,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 52
+  "total_news_count": 53
 }
