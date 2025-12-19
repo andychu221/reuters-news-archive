@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T11:11:23.594Z",
+  "last_updated": "2025-12-19T13:11:37.296Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-19",
+      "Time": "20:57:38",
+      "Source": "GuruFocus.com",
+      "Title": "Amazon, Google, and Microsoft Join U.S. Energy Department's 'Genesis Mission'",
+      "URL": "https://finance.yahoo.com/news/amazon-google-microsoft-join-u-125738758.html",
+      "Content": "Amazon, Google, and Microsoft Join U.S. Energy Department's 'Genesis Mission'\n\nFaizan Farooque\nFri, December 19, 2025 at 4:57 AM PST 1 min read\n\nIn this article: AMZN\n\nGOOG\n\nMSFT\n\nACN\n\nAMD\n\nThis article first appeared on GuruFocus .\nThe U.S. Department of Energy announced new partnerships with 24 major technology firms , including Amazon ( AMZN , Financials ), Google, and Microsoft, to advance the Genesis Mission, a national program to apply artificial intelligence to energy research and scientific discovery.The Genesis Mission will employ AI to automate experiment design, expedite simulations, and produce predictive models to advance renewable energy, manufacturing, and medicine discovery, according to DOE officials.Accenture, AMD, Anthropic, Amazon Web Services, Cerebras, CoreWeave, Dell, Google, HPE, IBM, Intel, Microsoft, Nvidia, OpenAI, Oracle, Palantir, and xAI are participating. These companies have started or showed interest in DOE-National Laboratories initiatives.Michael Kratsios, Director of the White House Office of Science and Technology Policy, called the agreements only the beginning of public-private AI research collaboration. DOE Under Secretary for Science and Genesis Mission Director Dario Gil said the effort complements President Trump's executive order to create a national AI platform for scientific research.The Genesis Mission is one of the most extensive government-led AI innovation coordination projects spanning business, academia, and governmental research organizations. Industry analysts anticipate the initiative to boost U.S. applied AI competitiveness and bridge cloud and semiconductor leaders in high-performance computing.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "19:00:24",
@@ -274,5 +283,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 30
+  "total_news_count": 31
 }
