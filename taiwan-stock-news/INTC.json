@@ -1,8 +1,35 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T18:11:20.607Z",
+  "last_updated": "2025-12-19T19:11:51.661Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "02:46:31",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Friday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-friday-184631483.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Friday Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 10:46 AM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\nINTC\n\nGOOG\n\nXLK\n\nTech stocks gained Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) r\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "02:31:36",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment",
+      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-wins-us-183136242.html",
+      "Content": "PREMIUM\nMarket Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment\n\nMT Newswires\nFri, December 19, 2025 at 10:31 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nNvidia (NVDA) won clearance from US antitrust regulators for its planned investment in Intel (INTC),\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "02:11:57",
+      "Source": "Yahoo Finance Video",
+      "Title": "Nvidia's Intel stake cleared by FTC, existing home sales rise",
+      "URL": "https://finance.yahoo.com/video/nvidias-intel-stake-cleared-ftc-181157932.html",
+      "Content": "Nvidia's Intel stake cleared by FTC, existing home sales rise\n\nYahoo Finance Video and John Hyland\nFri, December 19, 2025 at 10:11 AM PST\n\nIn this video: NVDA\n\nINTC\n\nYahoo Finance's John Hyland takes a closer look at some of Friday's top stories in this episode of Market Minute , including Nvidia's ( NVDA ) Intel ( INTC ) investment being approved by US regulators, reports that the Trump administration has begun its review of Nvidia's H100 chip exports to China, and existing home sales moderately gaining in November.\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute .\n\nVideo Transcript\n\n00:03 Speaker A\nIt's time for the Yahoo Finance Market Minute.\n00:05 Speaker A\nUS stocks are looking to close out a week of gains as tech stocks lead the market higher, and US anti-trust agencies have cleared Nvidia's investment in Intel.\n00:13 Speaker A\nBack in September, Nvidia said it would invest $5 billion in the struggling chipmaker.\n00:17 Speaker A\nThe FTC ended its review and made the announcement today, but didn't offer details on the investment.\n00:21 Speaker A\nMeanwhile, the Trump administration has reportedly kicked off its review of Nvidia's H200 chip exports to China.\n00:27 Speaker A\nAccording to Reuters, the White House has launched the review, which could result in the first shipment of chips to China, but questions remain on the timeline for sales and whether Beijing would even allow the Chinese firms to purchase Nvidia's chips.\n00:36 Speaker A\nAn existing home sales data showed a moderate gain for November, but it did mark a third straight month of gains and lower mortgage rates were likely the boost.\n00:43 Speaker A\nHome sold in November typically go under contract during September or October, around when mortgage rates were near year-to-date lows.\n00:48 Speaker A\nAnd that's your Yahoo Finance Market Minute. Scan the QR code below for more on what's trending on the website.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "01:05:00",
@@ -346,5 +373,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 38
+  "total_news_count": 41
 }
