@@ -1,8 +1,17 @@
 {
   "stock_id": "ADI",
-  "last_updated": "2025-12-19T17:11:34.007Z",
+  "last_updated": "2025-12-19T19:11:26.403Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "01:46:55",
+      "Source": "Argus Research",
+      "Title": "The Argus Dividend Growth Model Portfolio",
+      "URL": "https://finance.yahoo.com/m/a9ec294b-1316-3c88-bba9-073fa1d5b677/the-argus-dividend-growth.html",
+      "Content": "The Argus Dividend Growth Model Portfolio\n\nJohn Eade\nFri, December 19, 2025 at 9:46 AM PST 1 min read\n\nIn this article: COST\n\nECL\n\nBMI\n\nPH\n\nAMAT\n\nDividend income is often overlooked amid gyrations in the stock market. Consider that in 2024, market bulls were boasting about 24%-plus S&P 500 returns. No one was very focused on the broad market index's 1.2% dividend yield. But dividends are an important element of return, and 2025 for a while was bearing that out. Through May, the S&P 500 was up a thin 1.1%; without dividends, there was essentially no returns at all. Indeed, dividend income accounted for 42% of the total return of the S&P 500 between 1930 and 2012, according to Hartford Funds. And that's just the average. In some of those decades, dividends accounted for more than 50% of total returns and even 100% of returns. More recently, dividends have accounted for a smaller portion of returns, at around 15%-20%. But not all dividends are created equal, though, and it is important to understand the difference between the two main investment categories: high-yield stocks and dividend-growth stocks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-19",
       "Time": "22:40:03",
@@ -157,5 +166,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 17
+  "total_news_count": 18
 }
