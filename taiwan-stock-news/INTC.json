@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T19:11:51.661Z",
+  "last_updated": "2025-12-19T21:11:34.887Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "05:00:29",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-210029981.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 1:00 PM PST 1 min read\n\nIn this article: ORCL\n\nMETA\n\nGOOG\n\nNVDA\n\nINTC\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "02:46:31",
@@ -373,5 +382,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 41
+  "total_news_count": 42
 }
