@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-19T20:11:13.427Z",
+  "last_updated": "2025-12-19T21:11:27.488Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "04:21:04",
+      "Source": "Barrons.com",
+      "Title": "Mag 7 Stocks Keep Bouncing Back",
+      "URL": "https://finance.yahoo.com/m/1ea65ad6-71ea-3962-a1dc-765342474b9b/mag-7-stocks-keep-bouncing.html",
+      "Content": "Mag 7 Stocks Keep Bouncing Back\n\nConnor Smith\nFri, December 19, 2025 at 12:21 PM PST\n\nIn this article: NVDA\n\nAMZN\n\nGOOG\n\nMETA\n\nMSFT\n\nBig Tech stocks rallied back again on Friday. The Roundhill Magnificent Seven ETF was up 0.7% after surging nearly 2% yesterday. The group of megacap tech stocks rebounded sharply from a 2.2% drop on Wednesday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "03:14:47",
@@ -598,5 +607,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 66
+  "total_news_count": 67
 }
