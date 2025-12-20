@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-20T01:10:38.686Z",
+  "last_updated": "2025-12-20T04:10:39.103Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "The Year in AI Was Crazy. So Was This Meeting of AI’s Brightest Minds.",
+      "URL": "https://finance.yahoo.com/m/025784ec-2c95-3674-adce-6a8fe4053809/the-year-in-ai-was-crazy.-so.html",
+      "Content": "The Year in AI Was Crazy. So Was This Meeting of AI’s Brightest Minds.\n\nBerber Jin\nFri, December 19, 2025 at 6:00 PM PST 11 min read\n\nIn this article: NVDA\n\nXAAI.PVT\n\nGOOG\n\nIt used to be a small gathering just for nerdy researchers. Now there are yacht parties—and everyone is feeling bubbly.\n\nContinue Reading\n\nCondiciones y Política de privacidad\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "07:48:39",
@@ -2389,5 +2398,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 265
+  "total_news_count": 266
 }
