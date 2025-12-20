@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-20T03:11:08.904Z",
+  "last_updated": "2025-12-20T09:11:11.545Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "16:59:42",
+      "Source": "Insider Monkey",
+      "Title": "Mizuho Maintains Outperform on Tesla (TSLA) Amid BEV Subsidy Concerns",
+      "URL": "https://finance.yahoo.com/news/mizuho-maintains-outperform-tesla-tsla-085942803.html",
+      "Content": "Mizuho Maintains Outperform on Tesla (TSLA) Amid BEV Subsidy Concerns\n\nSheryar Siddiq\nSat, December 20, 2025 at 12:59 AM PST 2 min read\n\nIn this article: TSLA\n\nTesla Inc. (NASDAQ: TSLA ) ranks among the best high growth stocks to buy now . On November 25, Mizuho maintained its Outperform rating on Tesla Inc. (NASDAQ:TSLA) but lowered its price target from $48 to $475. Mizuho made the adjustment in anticipation of possible obstacles for battery electric vehicles (BEVs) in 2026, notably pointing to anticipated cuts in subsidies in major markets.\nAsif Islam / Shutterstock.com\nTesla Inc. (NASDAQ:TSLA) stated that it delivered 497,000 vehicles worldwide in the third quarter, up 7% from 463,000 the year before. The company also announced previously in October that sales of large batteries had increased by more than 80%. Tesla’s storage batteries have grown in prominence as utilities add them to the electric grid to even out the oscillations of wind and solar power.\n\nHowever, given fears regarding subsidy cuts, Mizuho has reduced Tesla’s production forecasts to 1.75 million vehicles in 2026 and 2 million in 2027, which is somewhat lower than consensus expectations of 1.82 million and 2.15 million.\nThat said, despite short-term obstacles, Mizuho identified a number of potential future drivers for Tesla Inc. (NASDAQ:TSLA), such as the adoption of FSD v14 for autonomous driving and robotaxi launches, which it believes would strengthen the company until 2027.\nTesla Inc. (NASDAQ:TSLA) designs, develops, manufactures, leases, and sells EVs, and energy generation & storage systems in the US, China, and internationally.\nWhile we acknowledge the potential of TSLA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Best Magic Formula Stocks for 2025 and 10 Best Retirement Stocks to Buy According to Hedge Funds .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "10:20:00",
@@ -787,5 +796,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 87
+  "total_news_count": 88
 }
