@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-20T06:11:11.677Z",
+  "last_updated": "2025-12-20T12:11:51.092Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "19:56:22",
+      "Source": "Insider Monkey",
+      "Title": "Analysts See 33% Upside To Microsoft Corporation (MSFT)",
+      "URL": "https://finance.yahoo.com/news/analysts-see-33-upside-microsoft-115622194.html",
+      "Content": "Analysts See 33% Upside To Microsoft Corporation (MSFT)\n\nAshar Jawad\nSat, December 20, 2025 at 3:56 AM PST 2 min read\n\nIn this article: MSFT\n\n^GSPC\n\nMicrosoft Corporation (NASDAQ: MSFT ) is among the 14 Best S&P 500 Stocks to Buy Now . As of the close of business on December 17, Wall Street analysts have a consensus Strong Buy rating on the stock, with a one-year average share price target of $632.22, representing an upside of 33%.\nImage by Tawanda Razika from Pixabay\nRecent analyst updates include Morgan Stanley analyst Keith Weiss reiterating a Buy rating on the stock on December 17 with a share price target of $650.\nThis followed Phillip Securities’ adjustment on December 14, when it lowered its price target on the stock to $540 from $550 and maintained an Accumulate rating on the shares. According to TipRanks, the firm told investors that the tech giant was ‘aggressively’ into cloud and AI infrastructure.\n\nEarlier in the month, on December 4, DA Davidson maintained a Buy rating on Microsoft Corporation (NASDAQ:MSFT) with a target price of $650. The firm’s analyst Gil Luria noted how the strategic partnership with OpenAI will help the company maintain its ‘fastest growing hyperscaler’ status.\nThis month, Microsoft announced up to $23 billion in new AI investments, of which $17.5 billion would go into establishing a significant cloud computing presence in India over the next four years, while $5.42 billion would be spent in Canada on AI partnerships and cloud capacity.\nMicrosoft Corporation (NASDAQ:MSFT) is a technology company best known for its operating systems and software products.\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 11 Most Oversold S&P 500 Stocks Heading into 2026 and Top 15 Lowest P/E Ratios of the S&P 500 in 2025 .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "13:17:06",
@@ -679,5 +688,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 75
+  "total_news_count": 76
 }
