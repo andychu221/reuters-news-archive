@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-19T23:11:30.472Z",
+  "last_updated": "2025-12-20T14:11:03.031Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "21:10:00",
+      "Source": "PR Newswire",
+      "Title": "Stellar Solutions Awarded Contract for Missile Defense Agency SHIELD IDIQ",
+      "URL": "https://finance.yahoo.com/news/stellar-solutions-awarded-contract-missile-131000383.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nStellar Solutions Awarded Contract for Missile Defense Agency SHIELD IDIQ\n\nPR Newswire\nSat, December 20, 2025 at 5:10 AM PST 1 min read\n\nIn this article: INTC\n\nGlobal aerospace and systems engineering services provider supports defense sector\nLOS ALTOS, Calif. , Dec. 20, 2025 /PRNewswire/ -- Stellar Solutions, Inc. has been awarded a contract for the Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) indefinite-delivery/indefinite-quantity (IDIQ) contract with a ceiling of $151B. This contract encompasses a broad range of work areas that allow for the rapid delivery of innovative capabilities to the warfighter with increased speed and agility.\n\"Stellar Solutions is honored to be selected as an awardee on the SHIELD IDIQ, where we will leverage our 30 years of space systems engineering experience across Intel, Defense, Civil, Commercial, and International markets,\" said Janet Grondin, CEO of Stellar Solutions, a global aerospace and systems engineering services provider and recipient of the Malcolm Baldrige Quality Award.\n\nAbout Stellar Solutions, Inc.: Stellar Solutions, Inc. is a global aerospace and systems engineering services provider to commercial, defense, intelligence, civil and international sectors. Stellar Solutions provides systems engineering capabilities and strategic support for global communications, remote sensing, national defense, and space exploration. These solutions to customer critical needs connect technology and customers across multiple domains. With physical operations throughout the U.S. and around the globe, Stellar Solutions is a recognized leader in delivering end-to-end critical expertise and problem-solving skills. https://www.stellarsolutions.com\nMedia Contact: Lynthia Romney, romneycom@gmail.com 914-589-2140\nView original content to download multimedia: https://www.prnewswire.com/news-releases/stellar-solutions-awarded-contract-for-missile-defense-agency-shield-idiq-302647414.html\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "06:15:45",
@@ -400,5 +409,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 44
+  "total_news_count": 45
 }
