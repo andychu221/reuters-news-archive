@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-20T15:10:54.781Z",
+  "last_updated": "2025-12-20T21:10:58.114Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "02:25:00",
+      "Source": "Fortune",
+      "Title": "OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle",
+      "URL": "https://finance.yahoo.com/news/openai-vs-apple-sam-altman-182500752.html",
+      "Content": "OpenAI vs. Apple? Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle\n\nAlyson Shontell\nSat, December 20, 2025 at 10:25 AM PST 2 min read\n\nIn this article: GOOG\n\nAAPL\n\nOPAI.PVT\n\nAll eyes are on the Big Tech LLM race and, at least in the eyes of investors , it seems like Google (owned by Alphabet , No. 7) could run away with the win.\nGoogle’s Gemini has been steadily stealing buzz and AI traffic share over the last few months from OpenAI. And if there was any moat to be had in LLMs, it would seem like it would belong to the company with the biggest treasure chest of personal data on users. That almost indisputably would be Google, thanks to Android, YouTube , Search history, Maps, and Gmail. On top of that, the company has one of the top AI minds, Demis Hassabis, and Google cofounder Sergey Brin leading its troops toward dominance.\n\nPerhaps that’s why Sam Altman is setting his sights on winning what could be an even higher-stakes AI battle: creating the future mass AI consumer device. Altman feels that in the long term, his greatest foe will be Apple (No. 4), not Google, Meta (No. 22), or Amazon (No. 2). He recruited iPhone designer Jony Ive to OpenAI this May, and Ive has said the company’s secret device could be ready in the next two years.\nWhat will that device be like? If you ask Altman, he describes limitations with the mobile phone. First of all, it can be turned off. It also can’t scan the room around you and give you real-time context and know exactly when to deliver relevant information to you. He sounds more bullish about audio than visual as the primary means of communication. And he sees no reason why a device and an operating system should be sold separately, like Google and Android—a future device should come with the trademark LLM baked in, like iOS in an iPhone.\n\nThanks largely to that iPhone, Apple is generating tens of billions of dollars a year in cash flow that it can plow into new devices and armies of engineers to design them—two areas where OpenAI lags far behind. Then again, Apple seems ripe to be disrupted: As Meta founder Mark Zuckerberg said on Joe Rogan’s podcast earlier this year, “They haven’t invented anything great in a while. It’s like Steve Jobs invented the iPhone, and now they’re just kind of sitting on it 20 years later.”\nBut for now, OpenAI and its team are all about perfecting ChatGPT. For more on how Altman is planning to position OpenAI as a long-term hardware play, and how he’s combating fast-rising competition like Anthropic and Google in the short term, check out Fortune ’s reporting on what’s happening inside OpenAI as it battles its way through an eight-week code red.\nAlso, we’re taking a break for the holidays, so Fortune 500 Digest will be back in inboxes Jan. 10. In the meantime, you can read the latest online .\nThis story was originally featured on Fortune.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "19:56:31",
@@ -652,5 +661,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 72
+  "total_news_count": 73
 }
