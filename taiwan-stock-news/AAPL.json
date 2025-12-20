@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-20T02:10:53.589Z",
+  "last_updated": "2025-12-20T12:11:13.426Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "19:56:31",
+      "Source": "Insider Monkey",
+      "Title": "Analysts Have a Moderate Buy Rating on Apple Inc. (AAPL)",
+      "URL": "https://finance.yahoo.com/news/analysts-moderate-buy-rating-apple-115631787.html",
+      "Content": "Analysts Have a Moderate Buy Rating on Apple Inc. (AAPL)\n\nAshar Jawad\nSat, December 20, 2025 at 3:56 AM PST 2 min read\n\nIn this article: AAPL\n\n^GSPC\n\nApple Inc. (NASDAQ: AAPL ) is among the 14 Best S&P 500 Stocks to Buy Now . On December 15, JPMorgan analyst Samik Chatterjee maintained an Overweight rating on the stock with a share price target of $305, a reaffirmation of an earlier update on October 31.\nThe adjustment follows Citi analyst Atif Malik lifting his price target on the iPhone-maker to $330 from $315 on December 9, while keeping a Buy rating on the shares.\nCiti sees an uptick in iPhone sales during the coming quarters, as it believes several old users of the smartphone, especially those who have iPhone 12 and 13, are due for an upgrade. Considering this factor, Citi said it was raising its earnings estimates for the company.\n\nEarlier in the month, on December 5, CLSA also hiked its price target on Apple Inc. (NASDAQ:AAPL) to $330 from $265, while keeping an earlier Outperform rating, citing a surge in iPhone sales, which is expected to drive revenue and earnings growth in FY26-27.\nAs of the close of business on December 17, Wall Street analysts have a Moderate Buy rating on the stock, with a one-year average share price target of $298.72, implying a 9% upside.\nIn other news, according to a report from The Information on Tuesday, Apple is planning to expand its iPhone product line to include seven variants by 2027.\nApple Inc. (NASDAQ:AAPL) is known for its consumer electronics, software, and other related products. Its premium line of products, which includes the iPhone, iPad, Mac computers, and a range of other accessories, has earned the company widespread acclaim and customer loyalty.\n\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 11 Most Oversold S&P 500 Stocks Heading into 2026 and Top 15 Lowest P/E Ratios of the S&P 500 in 2025 .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "09:11:28",
@@ -634,5 +643,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 70
+  "total_news_count": 71
 }
