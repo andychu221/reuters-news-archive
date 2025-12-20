@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-20T00:11:04.696Z",
+  "last_updated": "2025-12-20T03:10:44.208Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "09:26:00",
+      "Source": "Barrons.com",
+      "Title": "Netflix Hooked the World on Binge-Watching. Now It’s Going Immersive.",
+      "URL": "https://finance.yahoo.com/m/11ea29e7-d531-3b23-8e61-a82a4844769f/netflix-hooked-the-world-on.html",
+      "Content": "Netflix Hooked the World on Binge-Watching. Now It’s Going Immersive.\n\nJanet H. Cho\nFri, December 19, 2025 at 5:26 PM PST 4 min read\n\nIn this article: NFLX\n\n^GSPC\n\nWBD\n\nF\n\nAVGO\n\nThe streaming pioneer has opened three Netflix House, which offer “experiences” built around some of the company’s most popular series. You better be a fan.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "07:28:06",
@@ -1093,5 +1102,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 121
+  "total_news_count": 122
 }
