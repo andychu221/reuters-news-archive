@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-20T03:11:22.539Z",
+  "last_updated": "2025-12-20T05:11:20.813Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "This Is What the World’s Smartest Minds Really Think About AI",
+      "URL": "https://finance.yahoo.com/m/025784ec-2c95-3674-adce-6a8fe4053809/this-is-what-the-world%E2%80%99s.html",
+      "Content": "This Is What the World’s Smartest Minds Really Think About AI\n\nBerber Jin\nFri, December 19, 2025 at 6:00 PM PST 11 min read\n\nIn this article: NVDA\n\nXAAI.PVT\n\nGOOG\n\nAt a meeting that’s become the center of the tech universe, nerdy researchers partied on yachts and gathered on rooftops to trade gossip and compare notes. Everyone was feeling bubbly.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "10:00:00",
@@ -1084,5 +1093,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 120
+  "total_news_count": 121
 }
