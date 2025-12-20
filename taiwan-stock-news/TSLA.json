@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-20T00:11:45.859Z",
+  "last_updated": "2025-12-20T01:11:12.631Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "08:08:00",
+      "Source": "Barrons.com",
+      "Title": "Elon Musk Just Got a $138 Billion Pay Day—Sort Of. What to Know.",
+      "URL": "https://finance.yahoo.com/m/aa7743c2-18de-37bf-abd9-db5d410d1e2a/elon-musk-just-got-a-%24138.html",
+      "Content": "Elon Musk Just Got a $138 Billion Pay Day—Sort Of. What to Know.\n\nAl Root\nFri, December 19, 2025 at 4:08 PM PST 2 min read\n\nIn this article: TSLA\n\nElon Musk just keeps winning. Like him or not, the word “trillionaire” could be used to describe the Tesla CEO sooner rather than later. The Delaware Supreme Court on Friday overruled the Delaware Chancery Court’s 2024 decision to void Musk’s 2018 pay package, which included some 300 million stock options.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "07:47:58",
@@ -760,5 +769,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 84
+  "total_news_count": 85
 }
