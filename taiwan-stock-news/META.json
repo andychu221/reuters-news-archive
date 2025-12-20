@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-20T12:11:41.975Z",
+  "last_updated": "2025-12-20T13:11:23.434Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "20:43:00",
+      "Source": "Investor's Business Daily",
+      "Title": "Next Data Center Roadblock For Google, Microsoft, Oracle, Meta Is On Main Street",
+      "URL": "https://finance.yahoo.com/m/21efdd73-59b7-33fc-8e84-fd1b3ad8eb99/next-data-center-roadblock.html",
+      "Content": "Next Data Center Roadblock For Google, Microsoft, Oracle, Meta Is On Main Street\n\nALEXIS GARCIA and KIT NORTON\nSat, December 20, 2025 at 4:43 AM PST 16 min read\n\nIn this article: META\n\nGOOG\n\nMSFT\n\nORCL\n\nAMZN\n\nThe data centers critical to the nation's AI ambitions are spawning local political battles as rising energy costs frustrate communities. What investors need to know about data center NIMBYism.\n\nContinue Reading\n\n條款 及 私隱政策\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "19:56:25",
@@ -589,5 +598,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 65
+  "total_news_count": 66
 }
