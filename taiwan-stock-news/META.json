@@ -1,8 +1,26 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-20T00:11:58.372Z",
+  "last_updated": "2025-12-20T12:11:41.975Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-20",
+      "Time": "19:56:25",
+      "Source": "Insider Monkey",
+      "Title": "Alphabet Inc. (GOOGL) and Meta Working Together To Challenge Nvidia’s Market Dominance: Report",
+      "URL": "https://finance.yahoo.com/news/alphabet-inc-googl-meta-working-115625127.html",
+      "Content": "Alphabet Inc. (GOOGL) and Meta Working Together To Challenge Nvidia’s Market Dominance: Report\n\nAshar Jawad\nSat, December 20, 2025 at 3:56 AM PST 2 min read\n\nIn this article: GOOG\n\nMETA\n\nNVDA\n\n^GSPC\n\nAlphabet Inc. (NASDAQ: GOOGL ) is among the 14 Best S&P 500 Stocks to Buy Now . According to a Reuters report on Wednesday, Google is working with Meta to make its AI chips better suited to running PyTorch, in a bid to challenge Nvidia’s dominance in the market.\nGoogle\nThe initiative, called TorchTPU, aims to position Google’s Tensor Processing Units (TPUs) as an alternative to the chipmaker’s Graphics Processing Units (GPUs) by ensuring compatibility with clients who have built their AI infrastructure on PyTorch. The Meta-built open source project has become one of the most widely used tools for developers.\n\nAlphabet Inc. (NASDAQ:GOOGL) had for years reserved a major chunk of the TPUs for internal use. However, the tech giant had been discussing with Meta over the possibility of the latter using more TPUs, said the report.\nIn other news, on December 16, Bloomberg reported that self-driving car company Waymo was in talks to generate $15 billion in capital. It plans on raising the additional funds from external investors and its parent Alphabet Inc. (NASDAQ:GOOGL), which could help value the business at around $110 billion.\nAlphabet Inc. (NASDAQ:GOOGL) owns several notable platforms such as Google Search, Google Maps, Gmail, and YouTube. The company is also known for pioneering work and research in cloud computing, quantum computing, and artificial intelligence.\n\nWhile we acknowledge the potential of GOOGL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 11 Most Oversold S&P 500 Stocks Heading into 2026 and Top 15 Lowest P/E Ratios of the S&P 500 in 2025 .\nDisclosure: None.\n\nAGB und Datenschutzerklärung\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-20",
+      "Time": "19:56:24",
+      "Source": "Insider Monkey",
+      "Title": "Analysts Rate Meta Platforms, Inc. (META) a Strong Buy, Forecast 28% Upside",
+      "URL": "https://finance.yahoo.com/news/analysts-rate-meta-platforms-inc-115624625.html",
+      "Content": "Analysts Rate Meta Platforms, Inc. (META) a Strong Buy, Forecast 28% Upside\n\nAshar Jawad\nSat, December 20, 2025 at 3:56 AM PST 2 min read\n\nIn this article: META\n\n^GSPC\n\nMeta Platforms, Inc. (NASDAQ: META ) is among the 14 Best S&P 500 Stocks to Buy Now . On Wednesday, RBC Capital analyst Brad Erickson reiterated the firm’s Outperform rating on the stock with a price target of $810.\nPhoto by Shutter Speed on Unsplash\nThe update follows Morgan Stanley’s December 11 adjustment to the stock, when it lowered the price target to $750 from $820 while maintaining an earlier Overweight rating.\nAnalyst Brian Nowak told investors that, despite being bullish on Meta Platforms, Inc. (NASDAQ:META) heading into 2026, the firm was slashing its earnings estimates for fiscal 2026 and 2026 by around 8% each, considering projections of increased operating expenses.\n\nAs of the close of business on December 17, Wall Street analysts have a consensus Strong Buy rating on the stock, with a one-year average share price target of $830.73, representing an upside of 28%.\nIn other news, the Financial Times reported on Thursday that Meta Platforms, Inc. (NASDAQ:META)’s chief AI scientist, Yann LeCun, who will be leaving the company at the end of this year, has held discussions to raise €500 million for his new startup, which would value the firm at around €3 billion before its launch.\nThe British daily newspaper reported that the new startup will be called Advanced Machine Intelligence Labs and that Meta is expected to form a ‘partnership’ with the business.\nMeta Platforms, Inc. (NASDAQ:META) is one of the world’s largest technology companies. It operates several popular social media platforms, including Facebook, WhatsApp, Instagram, and Threads.\n\nWhile we acknowledge the potential of META as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 11 Most Oversold S&P 500 Stocks Heading into 2026 and Top 15 Lowest P/E Ratios of the S&P 500 in 2025 .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-20",
       "Time": "07:15:47",
@@ -571,5 +589,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 63
+  "total_news_count": 65
 }
