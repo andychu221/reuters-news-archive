@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-21T06:11:23.348Z",
+  "last_updated": "2025-12-21T09:11:23.068Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "16:30:02",
+      "Source": "Investing.com",
+      "Title": "Morgan Stanley maps the retail winners and losers from agentic shoppers",
+      "URL": "https://finance.yahoo.com/news/morgan-stanley-maps-retail-winners-083002967.html",
+      "Content": "Morgan Stanley maps the retail winners and losers from agentic shoppers\n\nSam Boughedda\nSun, December 21, 2025 at 12:30 AM PST 1 min read\n\nIn this article: MS\n\nGOOG\n\nOPAI.PVT\n\nInvesting.com -- Morgan Stanley told investors in a note on Wednesday that it believes “agentic commerce will be a paradigm shift for e-Commerce,” reshaping how consumers discover, compare, and buy products, with meaningful implications for retailers and digital advertising platforms.\nAnalysts, led by Brian Nowak, stated that agentic shopping, effectively a “personal digital interactive shopper,” is the “next substantial GenAI-enabled unlock,” potentially adding “~$50bn to ~$115bn to US e-commerce spend by ’30.”\n\nEarly agentic offerings are already emerging from platforms such as Alphabet and OpenAI, as well as retailers including Amazon and Walmart.\nMorgan Stanley expects the e-commerce funnel to become “more conversational, personalized, interactive,” with agents handling tasks such as real-time price comparison, item pairing and automated repeat purchases.\nUsing its “5 I’s” framework (Inventory, Infrastructure, Innovation, Incrementality and Income Statement), Morgan Stanley assesses which retailers are best positioned.\nThe framework is said to highlight risks from third-party agents potentially displacing high-margin direct traffic.\nOn that basis, Morgan Stanley believes Amazon, Walmart and eBay “screen favorably,” while Five Below and Etsy “screen less favorably.”\n\nThe firm warns that profitability will hinge on incrementality. Its analysis shows retailers would need “~50% of agentic transactions to be incremental for EBIT breakeven (at a 5% fee),” which Morgan Stanley calls “a tall order.”\nThrough this lens, Amazon, Walmart, Target and eBay face higher margin risk from third-party agentic partnerships, while Chewy and Wayfair may have more opportunity, Morgan Stanley wrote.\nIn digital advertising, Morgan Stanley expects “leading performance-based reach platforms” to become more valuable, naming Meta, YouTube and AppLovin as potential winners as agentic shopping changes traffic patterns and monetization models.\nRelated articles\nMorgan Stanley maps the retail winners and losers from agentic shoppers\nLoading Up HEAVY on These 3 Stocks by End of 2025 (+ 1 New ETF)\nThe 5 Best Gold Mining Stocks to Buy Now\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "13:20:00",
@@ -1165,5 +1174,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 129
+  "total_news_count": 130
 }
