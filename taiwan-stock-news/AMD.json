@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-21T14:10:50.897Z",
+  "last_updated": "2025-12-21T15:10:55.755Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "23:00:39",
+      "Source": "Yahoo Finance",
+      "Title": "How Oracle became a ‘poster child’ for AI bubble fears",
+      "URL": "https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html",
+      "Content": "How Oracle became a ‘poster child’ for AI bubble fears\n\nLaura Bratton\nSun, December 21, 2025 at 7:00 AM PST 5 min read\n\nIn this article: ORCL\n\nOPAI.PVT\n\nGOOG\n\nSFTBF\n\nMSFT\n\nOracle ( ORCL ) stock’s boom and bust in 2025 has become emblematic of the tech trade’s central conflict: Investors can’t decide whether AI is a generational opportunity or a looming risk.\nOracle started the year on a high note by announcing a joint venture with ChatGPT developer OpenAI ( OPAI.PVT ) and SoftBank called Stargate, in which the companies committed to investing $500 billion in US AI infrastructure. President Trump announced the news in the Oval Office in January, flanked by the respective companies’ leaders, including Oracle chair Larry Ellison — a move that sent the stock soaring .\n\nAI optimism continued to push Oracle shares higher following its quarterly earnings reports in June and September , with AI-driven deals set to push cloud segment revenue to $166 billion in 2030. The stock’s surge in September briefly made Ellison the world’s wealthiest person .\nBut AI euphoria quickly gave way to doubt. Investors became increasingly concerned over the rising use of debt to fund tech firms’ AI spending, just as the payoff of that spending remains hotly debated. Those concerns are evidenced in the budding demand for Big Tech credit default swaps (CDS) — financial contracts that act as insurance by letting investors bet on the likelihood that a company will default on its debt.",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-21",
+      "Time": "22:45:25",
+      "Source": "Insider Monkey",
+      "Title": "Advanced Micro Devices (AMD) Down More Than 13.9%, Here’s What You Need to Know",
+      "URL": "https://finance.yahoo.com/news/advanced-micro-devices-amd-down-144525898.html",
+      "Content": "Advanced Micro Devices (AMD) Down More Than 13.9%, Here’s What You Need to Know\n\nTalha Qureshi\nSun, December 21, 2025 at 6:45 AM PST 2 min read\n\nIn this article: AMD\n\n​Advanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the Best Stocks to Buy and Hold for 2026 . The share price of Advanced Micro Devices, Inc. (NASDAQ:AMD) has slid 13.97% during the past month. However, Wall Street maintains a positive opinion on the stock, with analysts’ 12 month price target reflecting 38.7% upside from the current levels.\n\n​On December 17, Louis Miscioscia from Daiwa reiterated a Buy rating on the stock with a $300 price target. Earlier on December 16, Cantor Fitzgerald and Bank of America Securities also reiterated a Buy rating on the stock. However, both firms reduced the price targets. Cantor Fitzgerald reduced the price target from $350 to $300, and BofA lowered the target from $300 to $260.\n​Analyst Vivek Arya of BofA noted that the reduced price target reflects the firm’s updated outlook across the United States semiconductor stocks. The firm sees 2026 as the midpoint of an 8 to 10-year-long AI infrastructure cycle. However, BofA expects volatility in 2026, driven by increased investor scrutiny regarding return on investment and hyperscale cash flow. On the bright side, the firm expects that the volatility will be balanced by increased demand for large language model developers and AI factory expansions.\n\n​On the other hand, C J Muse from Cantor Fitzgerald noted that the Philadelphia Semiconductor Index is expected to outperform the S&P 500 by about 30 points in calendar year 2025. He noted that this outperformance is driven by the increased demand for AI compute, networking, memory, and equipment sectors. Although the analyst remains cautious in the short-term due to mixed signals, the macro environment remains robust, driven by increased demand for AI infrastructure. Therefore, Muse remains overweight on Advanced Micro Devices, Inc. (NASDAQ:AMD).\nAdvanced Micro Devices, Inc. (NASDAQ:AMD) is a global semiconductor company that manufactures GPUs, microprocessors, and high-performance computing solutions and serves a number of high-growth industries like gaming, data centers, and AI.\n\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "22:00:04",
@@ -760,5 +778,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 84
+  "total_news_count": 86
 }
