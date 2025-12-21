@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-21T15:11:59.637Z",
+  "last_updated": "2025-12-21T16:11:45.586Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "00:00:48",
+      "Source": "Yahoo Finance",
+      "Title": "Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact",
+      "URL": "https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html",
+      "Content": "Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact\n\nInes Ferré · Senior Business Reporter\nSun, December 21, 2025 at 8:00 AM PST 3 min read\n\nIn this article: ORCL\n\nXLK\n\nGOOG\n\nNVDA\n\n^GSPC\n\nThe AI tech trade isn't over. Investors have just become choosier about which players might emerge as winners heading into 2026.\nTech ( XLK ) stocks have been on a rollercoaster recently as concerns over funding for Oracle ( ORCL ) data centers and construction delays from CoreWeave ( CRWV ) rattled AI plays.\n\n\"I do believe these are all hyper-valid concerns for the theme, and with the market now breaking out the 'scrutiny scalpel' we are finally seeing appropriate 'winners and losers' dispersion, and that's a good thing,\" Nomura Securities equity derivatives analyst Charlie McElligott wrote in a note on Thursday.\nHowever, Micron Technology's ( MU ) blockbuster results sparked a rebound in AI trades. The memory chipmaker beat Wall Street estimates on Q1 revenue and EPS, helped by AI-fueled demand.\nMcElligott compared Micron's earnings' \"upside shock\" to Nvidia's ( NVDA ) results in May 2023 , which acted as a catalyst for the broader AI boom.\n\"Point-being, there is still blood left in this AI stone,\" McElligott wrote.\n\nInvestors have been watching for potential funding risks within the AI trade after Oracle stock fell following a Financial Times report that Blue Owl Capital would not support Oracle's $10 billion data center project.\nThe concerns are particularly notable given the market concentration among the largest tech companies in the S&P 500 ( ^GSPC ).\n\nGoldman Sachs analysts forecast S&P 500 earnings growth of over 12% in 2026, largely driven by the top seven stocks in the index. Those include Nvidia ( NVDA ), Apple ( AAPL ), Microsoft ( MSFT ), Alphabet ( GOOGL , GOOG ), Amazon ( AMZN ), Broadcom ( AVGO ), and Meta ( META ). Together, they account for roughly a quarter of the index's earnings.\nMeanwhile, the \"Magnificent 7\" tech players are up an average of 21% this year, compared with a 16% gain for the S&P 500, according to Yahoo Finance data.\nSevens Report Research founder Tom Essaye told Yahoo Finance he expects to see winners and losers within the group heading into next year.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "22:57:20",
@@ -679,5 +688,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 75
+  "total_news_count": 76
 }
