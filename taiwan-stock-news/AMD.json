@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-20T22:10:46.424Z",
+  "last_updated": "2025-12-21T10:10:46.197Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "17:30:00",
+      "Source": "South China Morning Post",
+      "Title": "Moore Threads unveils new AI chips to challenge Nvidia",
+      "URL": "https://finance.yahoo.com/news/moore-threads-unveils-ai-chips-093000651.html",
+      "Content": "Moore Threads unveils new AI chips to challenge Nvidia\n\nSouth China Morning Post\nSun, December 21, 2025 at 1:30 AM PST 3 min read\n\nIn this article: NVDA\n\nAMD\n\nChinese chip designer Moore Threads Technology has unveiled a suite of new products, including its next generation of chip architecture and artificial intelligence chips as it looks to challenge US chip-making heavyweights Nvidia and AMD.\nThe Beijing-based firm, hailed as China's \"little Nvidia\", introduced two forthcoming chips Huashan and Lushan, named after two famous Chinese mountains, at a developer conference in the Chinese capital on Saturday.\n\nThe Huashan chip, designed for AI training and inference, delivers better performance than Nvidia's Hopper series and comes close to the US tech firm's newer Blackwell line, according to James Zhang Jianzhong, founder, chairman and CEO of Moore Threads.\nDo you have questions about the biggest topics and trends from around the world? Get the answers with SCMP Knowledge , our new platform of curated content with explainers, FAQs, analyses and infographics brought to you by our award-winning team.\nThe launch marks Moore Threads' latest bid to challenge foreign rivals like Nvidia, and comes close on the heels of the company's blockbuster initial public offering on the Shanghai Stock Exchange on December 5.\nZhang Jianzhong, founder and CEO of Moore Threads, pictured in November 2023. Photo: Handout alt=Zhang Jianzhong, founder and CEO of Moore Threads, pictured in November 2023. Photo: Handout>\nThe company's shares have gained more than 480 per cent since their debut, closing at 664.1 yuan on Friday.\n\nZhang claimed that Huashan's performance exceeded that of Nvidia's Hopper series, which includes the H100 and H200 chips, in computing power, memory bandwidth and capacity, but did not provide specifications for the chips.\nThe sale of Nvidia's H100 and H200 - popular choices among global tech firms for AI training - to China was banned until recently by the US government, which cited national security concerns.\nWashington, in a surprising move, recently approved the sale of the H200 chips to China in a move to balance export control, economic interests and national security concerns. But Beijing has yet to approve its domestic sale.\nZhang, 59, an Nvidia veteran and former China market general manager who left to found Moore Threads in 2020, acknowledged that local AI developers had previously hesitated to use domestic chips to train their AI models, fearing subpar outcomes.\n\"But now we can confidently say that if you previously used Hopper [chips], switching to our new product for your large language models will yield better results,\" he said.\n\nStory continues\nMoore Threads also launched Lushan, a new chip focusing on high-performance graphics processing, which could be a boon for China's high-end gamers.\nZhang claimed that the Lushan chip provided 15 times higher gaming performance for triple-A games, an unofficial designation for games with large budgets and long development times.\n\nThe two chips were scheduled to go into mass production next year, Zhang said.\nThe chips were built on Huagang, Moore Thread's next generation of graphics processing unit architecture, which provided a 10 per cent better performance compared with the previous generation, he said.\nOther products announced at the event included a KUAE computing cluster that supports the interconnection of tens of thousands of chips for training large AI models.\nThis article originally appeared in the South China Morning Post (SCMP) , the most authoritative voice reporting on China and Asia for more than a century. For more SCMP stories, please explore the SCMP app or visit the SCMP's Facebook and Twitter pages. Copyright © 2025 South China Morning Post Publishers Ltd. All rights reserved.\nCopyright (c) 2025. South China Morning Post Publishers Ltd. All rights reserved.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "05:35:00",
@@ -742,5 +751,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 82
+  "total_news_count": 83
 }
