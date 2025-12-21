@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-21T19:11:58.980Z",
+  "last_updated": "2025-12-21T21:11:42.133Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "04:12:24",
+      "Source": "Insider Monkey",
+      "Title": "ServiceNow (NOW) in Focus as Bernstein Calls It the Cheapest Large-Cap Software Name",
+      "URL": "https://finance.yahoo.com/news/servicenow-now-focus-bernstein-calls-201224442.html",
+      "Content": "ServiceNow (NOW) in Focus as Bernstein Calls It the Cheapest Large-Cap Software Name\n\nGhazal Ahmed\nSun, December 21, 2025 at 12:12 PM PST 2 min read\n\nIn this article: NOW\n\nMSFT\n\nADBE\n\nServiceNow, Inc. (NYSE: NOW ) is one of the AI Stocks on the Market’s Radar . On December 17, Bernstein SocGen reiterated an “Outperform” rating on the stock with a $1,093.00 price target. Deeming NOW as the “cheapest large-cap software stock” after selloff, the firm sees the stock’s valuation as overly discounted compared to fundamentals and peers.\nImage by drobotdean on Freepik\nBernstein believes that the stock is severely undervalued despite demonstrating no signs of growth issues. It now trades at a lower valuation than Adobe, who has been the most impacted by AI fears. The stock is even trading below Salesforce, which has a weaker reputation.\nMeanwhile, management continues pointing toward accelerating demand, a view also supported by recent channel checks.\nServiceNow, Inc. (NYSE:NOW) provides a platform that integrates workflows, data, and AI to coordinate how work flows across large organizations.\nWhile we acknowledge the potential of NOW as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 Buzzing AI Stocks on Wall Street .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "03:00:54",
@@ -832,5 +841,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 92
+  "total_news_count": 93
 }
