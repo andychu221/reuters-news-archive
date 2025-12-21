@@ -1,8 +1,35 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-21T15:12:32.541Z",
+  "last_updated": "2025-12-21T16:12:14.876Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "00:00:48",
+      "Source": "Yahoo Finance",
+      "Title": "Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact",
+      "URL": "https://finance.yahoo.com/news/breaking-out-the-selective-scalpel-wall-street-sees-ai-stock-trade-as-intact-160048510.html",
+      "Content": "Breaking out the 'selective scalpel': Wall Street sees AI stock trade as intact\n\nInes Ferré · Senior Business Reporter\nSun, December 21, 2025 at 8:00 AM PST 3 min read\n\nIn this article: ORCL\n\nXLK\n\nGOOG\n\nNVDA\n\n^GSPC\n\nThe AI tech trade isn't over. Investors have just become choosier about which players might emerge as winners heading into 2026.\nTech ( XLK ) stocks have been on a rollercoaster recently as concerns over funding for Oracle ( ORCL ) data centers and construction delays from CoreWeave ( CRWV ) rattled AI plays.\n\n\"I do believe these are all hyper-valid concerns for the theme, and with the market now breaking out the 'scrutiny scalpel' we are finally seeing appropriate 'winners and losers' dispersion, and that's a good thing,\" Nomura Securities equity derivatives analyst Charlie McElligott wrote in a note on Thursday.\nHowever, Micron Technology's ( MU ) blockbuster results sparked a rebound in AI trades. The memory chipmaker beat Wall Street estimates on Q1 revenue and EPS, helped by AI-fueled demand.\nMcElligott compared Micron's earnings' \"upside shock\" to Nvidia's ( NVDA ) results in May 2023 , which acted as a catalyst for the broader AI boom.\n\"Point-being, there is still blood left in this AI stone,\" McElligott wrote.\n\nInvestors have been watching for potential funding risks within the AI trade after Oracle stock fell following a Financial Times report that Blue Owl Capital would not support Oracle's $10 billion data center project.\nThe concerns are particularly notable given the market concentration among the largest tech companies in the S&P 500 ( ^GSPC ).\n\nGoldman Sachs analysts forecast S&P 500 earnings growth of over 12% in 2026, largely driven by the top seven stocks in the index. Those include Nvidia ( NVDA ), Apple ( AAPL ), Microsoft ( MSFT ), Alphabet ( GOOGL , GOOG ), Amazon ( AMZN ), Broadcom ( AVGO ), and Meta ( META ). Together, they account for roughly a quarter of the index's earnings.\nMeanwhile, the \"Magnificent 7\" tech players are up an average of 21% this year, compared with a 16% gain for the S&P 500, according to Yahoo Finance data.\nSevens Report Research founder Tom Essaye told Yahoo Finance he expects to see winners and losers within the group heading into next year.",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-21",
+      "Time": "23:44:55",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Calls Amazon’s E-Commerce Business a “Huge, Giant Tailwind in This Backdrop”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-calls-amazon-e-154455827.html",
+      "Content": "Jim Cramer Calls Amazon’s E-Commerce Business a “Huge, Giant Tailwind in This Backdrop”\n\nSyeda Seirut Javed\nSun, December 21, 2025 at 7:44 AM PST 2 min read\n\nIn this article: AMZN\n\nAmazon.com, Inc. (NASDAQ: AMZN ) is one of the tech and consumer sector stocks that Jim Cramer talked about . Cramer made a note of his appreciation of the company’s e-commerce business, as he commented:\nchristian-wiediger-rymh7EZPqRs-unsplash\nAmazon.com, Inc. (NASDAQ:AMZN) sells consumer goods and digital content through online and physical stores, provides advertising and subscription services, operates Amazon Web Services for cloud computing, develops electronic devices, produces media content, and offers programs supporting third-party sellers and content creators. Cramer discussed the company during the December 17 episode and stated:\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nStory Continues\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-21",
+      "Time": "23:14:03",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Highlights Amazon-OpenAI “Talks”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-highlights-amazon-openai-151403742.html",
+      "Content": "Jim Cramer Highlights Amazon-OpenAI “Talks”\n\nSyeda Seirut Javed\nSun, December 21, 2025 at 7:14 AM PST 2 min read\n\nIn this article: AMZN\n\nOPAI.PVT\n\nNVDA\n\nAmazon.com, Inc. (NASDAQ: AMZN ) is one of the stocks Jim Cramer shed light on . Cramer called it a “serious company” as he stated:\nPhoto by Sunrise King on Unsplash\nAmazon.com, Inc. (NASDAQ:AMZN) sells consumer goods and digital content through online and physical stores, provides advertising and subscription services, operates Amazon Web Services for cloud computing, develops electronic devices, produces media content, and offers programs supporting third-party sellers and content creators.\n\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nAGB und Datenschutzerklärung\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "22:57:17",
@@ -949,5 +976,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 105
+  "total_news_count": 108
 }
