@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-21T20:10:56.753Z",
+  "last_updated": "2025-12-21T21:11:08.862Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "04:15:58",
+      "Source": "Insider Monkey",
+      "Title": "Morgan Stanley Boosts Apple (AAPL) Target, Sees Upside From Pricing Power and AI",
+      "URL": "https://finance.yahoo.com/news/morgan-stanley-boosts-apple-aapl-201558933.html",
+      "Content": "Morgan Stanley Boosts Apple (AAPL) Target, Sees Upside From Pricing Power and AI\n\nGhazal Ahmed\nSun, December 21, 2025 at 12:15 PM PST 1 min read\n\nIn this article: AAPL\n\nApple Inc. (NASDAQ: AAPL ) is one of the AI Stocks on the Market’s Radar . On December 17, Morgan Stanley raised its price target on the stock to $315.00 from $305.00 while maintaining an Overweight rating.\nAccording to the firm, the new $315 price target reflects an “unchanged 32x multiple on our new FY27 EPS of $9.83 (up from $9.55).” Earnings expectations for FY27 were raised on higher revenue from price hikes, a slightly higher iPhone shipment forecast, despite lower gross margins and an unchanged opex trajectory.\nOverall, the firm remains confident in Apple’s pricing power and AI investment payoff.\nApple is a technology company known for its consumer electronics, software, and services.\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 Buzzing AI Stocks on Wall Street .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "03:38:00",
@@ -787,5 +796,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 87
+  "total_news_count": 88
 }
