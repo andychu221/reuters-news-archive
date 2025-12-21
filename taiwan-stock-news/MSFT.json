@@ -1,8 +1,26 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-21T13:11:31.937Z",
+  "last_updated": "2025-12-21T15:12:09.139Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "23:00:39",
+      "Source": "Yahoo Finance",
+      "Title": "How Oracle became a ‘poster child’ for AI bubble fears",
+      "URL": "https://finance.yahoo.com/news/how-oracle-became-a-poster-child-for-ai-bubble-fears-150039511.html",
+      "Content": "How Oracle became a ‘poster child’ for AI bubble fears\n\nLaura Bratton\nSun, December 21, 2025 at 7:00 AM PST 5 min read\n\nIn this article: ORCL\n\nOPAI.PVT\n\nGOOG\n\nSFTBF\n\nMSFT\n\nOracle ( ORCL ) stock’s boom and bust in 2025 has become emblematic of the tech trade’s central conflict: Investors can’t decide whether AI is a generational opportunity or a looming risk.\nOracle started the year on a high note by announcing a joint venture with ChatGPT developer OpenAI ( OPAI.PVT ) and SoftBank called Stargate, in which the companies committed to investing $500 billion in US AI infrastructure. President Trump announced the news in the Oval Office in January, flanked by the respective companies’ leaders, including Oracle chair Larry Ellison — a move that sent the stock soaring .\n\nAI optimism continued to push Oracle shares higher following its quarterly earnings reports in June and September , with AI-driven deals set to push cloud segment revenue to $166 billion in 2030. The stock’s surge in September briefly made Ellison the world’s wealthiest person .\nBut AI euphoria quickly gave way to doubt. Investors became increasingly concerned over the rising use of debt to fund tech firms’ AI spending, just as the payoff of that spending remains hotly debated. Those concerns are evidenced in the budding demand for Big Tech credit default swaps (CDS) — financial contracts that act as insurance by letting investors bet on the likelihood that a company will default on its debt.",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-21",
+      "Time": "22:57:18",
+      "Source": "Insider Monkey",
+      "Title": "Microsoft Corporation (MSFT) and Cognizant Announce a Multi-Year Partnership",
+      "URL": "https://finance.yahoo.com/news/microsoft-corporation-msft-cognizant-announce-145718967.html",
+      "Content": "Microsoft Corporation (MSFT) and Cognizant Announce a Multi-Year Partnership\n\nNoor Ul Ain Rehman\nSun, December 21, 2025 at 6:57 AM PST 2 min read\n\nIn this article: MSFT\n\nCTSH\n\nMicrosoft Corporation (NASDAQ: MSFT ) is one of the most widely held stocks by hedge funds in 2025 . Microsoft Corporation (NASDAQ:MSFT) and Cognizant announced on December 18 that the two companies entered into a multi-year partnership to help enterprises in the fields of healthcare and life sciences, retail, financial services, and manufacturing to “harness” AI-powered solutions.\nThe partnership entails the embedding of agentic AI and Copilot, powered by Foundry IQ, Work IQ, and Fabric IQ capabilities, into workflows to allow operational resilience, boost productivity, and enhance customer experience. The companies also reported that the partnership expands on Cognizant Neuro AI Suite of offerings, which leverage Microsoft cloud and AI services. Judson Althoff, CEO of Microsoft Corporation’s (NASDAQ:MSFT) commercial business, stated that the combination of Microsoft Corporation’s (NASDAQ:MSFT) cloud and agentic AI capabilities with Cognizant’s platforms and delivery scale would expedite the creation of industry-specific solutions embedded in the flow of work while unlocking “transformative value” for their joint customers across the globe. In a separate development, Microsoft Corporation (NASDAQ:MSFT) received a rating update from Mizuho Securities analyst Gregg Moskowitz on December 16. The analyst reiterated a Buy rating on the stock and set a price target of $640.00. Microsoft Corporation (NASDAQ:MSFT) develops and supports services, software, devices, and solutions. It operates through the Intelligent Cloud, Productivity and Business Processes, and More Personal Computing segments. While we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock . READ NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now . Disclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "20:32:00",
@@ -769,5 +787,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 85
+  "total_news_count": 87
 }
