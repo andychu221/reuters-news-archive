@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-21T19:10:46.578Z",
+  "last_updated": "2025-12-21T20:10:37.894Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "03:56:42",
+      "Source": "Insider Monkey",
+      "Title": "Is NVIDIA (NVDA) One of the Best Stocks to Invest in for the Next 3 Years?",
+      "URL": "https://finance.yahoo.com/news/nvidia-nvda-one-best-stocks-195642521.html",
+      "Content": "Is NVIDIA (NVDA) One of the Best Stocks to Invest in for the Next 3 Years?\n\nBob Karr\nSun, December 21, 2025 at 11:56 AM PST 2 min read\n\nIn this article: NVDA\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the Best Stocks to Invest in for the Next 3 Years. On December 18, Tigress Financial lifted the price target on the company’s stock to $350 from $280, while maintaining a “Strong Buy” rating on the company’s stock, as reported by The Fly. The firm tagged NVIDIA Corporation (NASDAQ:NVDA)’s position as the premier AI investment, possessing dominant full-stack data center leadership as well as accelerating adoption throughout autonomous driving, healthcare, and other high-growth verticals.\nFurthermore, the firm specifically highlighted NVIDIA Corporation (NASDAQ:NVDA)’s healthcare franchise and cited this as a powerful and underappreciated growth driver, which reinforces the appeal as a long-duration AI infrastructure investment. The firm also hinted at NVIDIA Corporation (NASDAQ:NVDA)’s healthy balance sheet and cash flow that continue to support the company’s balanced capital allocation strategy.\n\nIn a different update, on December 15, the company announced the NVIDIA Nemotron™ 3 family of open models, data, and libraries that are designed to power transparent, efficient, and specialized agentic AI development throughout industries. The Nemotron 3 family of open models, in Nano, Super, and Ultra sizes, introduces the most efficient family of open models possessing leading accuracy for building agentic AI applications.\nNVIDIA Corporation (NASDAQ:NVDA) highlighted that Nemotron 3 Nano is capable of delivering 4x higher throughput than Nemotron 2 Nano. Also, it delivers the most tokens per second for multi-agent systems at scale through the breakthrough hybrid mixture-of-experts architecture.\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 13 Cheap AI Stocks to Buy According to Analysts and 11 Unstoppable Growth Stocks to Invest in Now\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "03:00:54",
@@ -2812,5 +2821,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 312
+  "total_news_count": 313
 }
