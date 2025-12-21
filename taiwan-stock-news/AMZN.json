@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-21T14:12:05.172Z",
+  "last_updated": "2025-12-21T15:12:32.541Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-21",
+      "Time": "22:57:17",
+      "Source": "Insider Monkey",
+      "Title": "Bank of America Securities Remains Bullish on Amazon.com (AMZN)",
+      "URL": "https://finance.yahoo.com/news/bank-america-securities-remains-bullish-145717336.html",
+      "Content": "Bank of America Securities Remains Bullish on Amazon.com (AMZN)\n\nNoor Ul Ain Rehman\nSun, December 21, 2025 at 6:57 AM PST 2 min read\n\nIn this article: AMZN\n\nOPAI.PVT\n\nAmazon.com, Inc. (NASDAQ: AMZN ) is one of the most widely held stocks by hedge funds in 2025 . Bank of America Securities analyst Justin Post reiterated a Buy rating on Amazon.com, Inc. (NASDAQ:AMZN) on December 18 and set a $303 price target. The analyst based the rating on the company’s solid position in cloud computing and AI, citing Amazon.com, Inc.’s (NASDAQ:AMZN) reported discussions for the investment of over $10 billion in OpenAI. This strategic move is aimed at expanding AI workloads on AWS, deepening AI collaboration, and reflecting the capabilities of the company’s Trainium chips.\nPost also highlighted the recent AI-focused leadership changes that took place in the company, and considers the appointment of Peter DeSantis to oversee AGI Labs as a significant step to boost internal model innovation and customer silicon development, as DeSantis’s track record in launching and scaling AWS infrastructure should allow accelerated progress in AI offerings, according to the analyst.\n\nPost further stated that while he acknowledges the unlikeliness of OpenAI’s latest frontier models to be hosted on AWS due to its Microsoft agreement, he believes potential advertising, eCommerce, and enterprise AI partnerships with OpenAI to be incremental positives with the potential to reinforce Amazon.com, Inc.’s (NASDAQ:AMZN) ecosystem while safeguarding its high-margin ad business.\nAmazon.com, Inc. (NASDAQ:AMZN) is a multinational technology company that provides online retail shopping services. It operates through the North America, International, and Amazon Web Services (AWS) segments. Its AWS segment covers global sales of storage, computers, databases, and other services for government agencies, academic institutions, startups, and enterprises.\n\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-21",
       "Time": "21:30:36",
@@ -940,5 +949,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 104
+  "total_news_count": 105
 }
