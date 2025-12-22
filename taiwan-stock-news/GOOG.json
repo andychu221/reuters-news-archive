@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-22T06:11:19.056Z",
+  "last_updated": "2025-12-22T08:11:29.443Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "15:30:00",
+      "Source": "Barrons.com",
+      "Title": "The Rally Reborn: Santa Claus Comes Knocking at Street’s Year-End Party",
+      "URL": "https://finance.yahoo.com/m/6283e2f8-f018-3235-b261-57cc077e9f65/the-rally-reborn%3A-santa-claus.html",
+      "Content": "The Rally Reborn: Santa Claus Comes Knocking at Street’s Year-End Party\n\nMartin Baccardax\nSun, December 21, 2025 at 11:30 PM PST 4 min read\n\nIn this article: NVDA\n\n^GSPC\n\nMSFT\n\nGOOG\n\nMU\n\nU.S. stocks are looking to reverse an unusual December slump following a tame reading on inflation and some positive signals about artificial-intelligence demand.\n\nContinue Reading\n\n條款 及 私隱政策\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "13:06:01",
@@ -1399,5 +1408,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 155
+  "total_news_count": 156
 }
