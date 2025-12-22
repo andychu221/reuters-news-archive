@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-22T02:11:07.012Z",
+  "last_updated": "2025-12-22T04:11:09.837Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "One of Elon Musk’s Old Enemies Joins the Race to Run GM",
+      "URL": "https://finance.yahoo.com/m/6cd87245-90f1-3bf9-86f0-166249a2bf7d/one-of-elon-musk%E2%80%99s-old.html",
+      "Content": "One of Elon Musk’s Old Enemies Joins the Race to Run GM\n\nSharon Terlep\nSun, December 21, 2025 at 6:00 PM PST 7 min read\n\nIn this article: GM\n\nTSLA\n\nAUR\n\nRobotics guru Sterling Anderson is now one of General Motors’ top executives—and shaking up the ranks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "08:35:00",
@@ -994,5 +1003,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 110
+  "total_news_count": 111
 }
