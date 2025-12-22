@@ -1,8 +1,26 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-22T10:10:55.434Z",
+  "last_updated": "2025-12-22T11:11:11.699Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "19:00:15",
+      "Source": "Yahoo Finance Video",
+      "Title": "The value that neocloud companies offer to major AI players",
+      "URL": "https://finance.yahoo.com/video/value-neocloud-companies-offer-major-110015938.html",
+      "Content": "The value that neocloud companies offer to major AI players\n\nYahoo Finance Video and Julie Hyman\nMon, December 22, 2025 at 3:00 AM PST\n\nIn this video: AVGO\n\nCRWV\n\nMU\n\nNVDA\n\nTSM\n\nMicron Technology ( MU ) stock continues to pop after boasting strong fiscal first quarter earnings results driven by demand around high-bandwidth memory chips for AI data centers. As more companies invest into large-scale AI infrastructure buildouts, what does this all mean for the broadening AI trade and even neocloud operators?\n\nFreedom Capital Markets Managing Director Paul Meeks talks about the three chip companies he still has at the top of his list and the upside that neocloud companies like CoreWeave ( CRWV ) could offer some of the bigger players, such as Nvidia ( NVDA ).\nAlso catch Paul Meeks explain how much higher he sees Micron's stock going.\nTo watch more expert insights and analysis on the latest market action, check out more Market Catalysts .\n\nVideo Transcript\n\n00:00 Julie\nHow does this sort of change the dynamics in the memory market? I mean, as you mentioned, it's an oligopoly, there are two other players. We've seen memory prices go crazy, not even the high bandwidth kind, the overall kind that goes into all kinds of devices. So what are some of the sort of knock-on effects in the industry that you're watching and other names that you're watching?\n00:24 Paul\nSo I continue to like the people that are benefiting from the uh spend. I recently initiated coverage with Coreweave, which is one of the neo clouds with a $100 price target. But believe it or not, I think there's upside in Nvidia, Broadcom, Taiwan Semi, some of these companies that when I get push back, what people will say, how can you possibly recommend Nvidia after it's done so well for all these years. Well, it's because I see even more greatness ahead of them. And you know, some of these stocks, Julie, have come down quite a bit in the last couple of weeks. I think it's a good buying opportunity for several of the names.\n01:21 Julie\nUm I'm curious about the the neo clouds in particular Paul, because there have been some questions about that business model, right? That if you were, you know, renting space from someone else, if you're trying to go out to the smaller providers, um as your clients, that maybe you're a little more vulnerable if there are chinks in the armor of this whole um AI thesis. What do you think about that?\n02:02 Paul\nanother excellent question. The way I look at it is you have to look at these contracts that they are signing very carefully. In the case of Core Weve, we have five and six-year deals with well-funded folks like Microsoft and Meta. and they are paying 15 to 25% of total contract value upfront. So there's some initial cash flow. And so I think that even though some of these companies are levered and Cory mind you is highly levered, that they have a nice runway and I think that over the next couple of years their plans are set and they're funded by the most well-funded companies almost on planet Earth.\n03:00 Paul\nAnd the other thing that's interesting about Core Weve, it has an interesting deal with Nvidia, which is also a 6% shareholder in which if Core Weve has any surplus capacity between now and April of 2032, it'll be socked up by Nvidia. So, some people will say that's a quote-unquote circular deal, but I actually like that deal a lot. And so I do think there's upside. Yes, it's speculative, yes, they're highly levered, but I think that this is all under control as long as the spending from the big boys continues. And I think all these companies when they announce their results in January or February, will confirm at least the 2026 capital expenditure spend.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-22",
+      "Time": "18:41:25",
+      "Source": "Insider Monkey",
+      "Title": "Jefferies Upgrades KLA (KLAC) to Buy, Sees Run Just Beginning",
+      "URL": "https://finance.yahoo.com/news/jefferies-upgrades-kla-klac-buy-104125393.html",
+      "Content": "Jefferies Upgrades KLA (KLAC) to Buy, Sees Run Just Beginning\n\nGhazal Ahmed\nMon, December 22, 2025 at 2:41 AM PST 2 min read\n\nIn this article: KLAC\n\nNVDA\n\nAVGO\n\nKLA Corporation (NASDAQ:KLAC) is AI Stocks in the Spotlight for Investors . On December 15, Jefferies upgraded the semiconductor equipment maker to “Buy” and raised the price target to $1,500 from $1,100. The firm believes that KLAC's run is “just beginning,” citing expanding AI accelerator use cases and a robust outlook for leading-edge and advanced packaging demand.\nBesides KLAC, Jefferies also identified Nvidia and Broadcom as companies with sustainable demand from the build out of AI infrastructure. With chip complexity increasing, the firm sees upside for KLA as rising process control intensity plays directly on its strengths.\nThe firm further highlighted how packaging complexity is also rising, which requires more process control and benefits KLAC’s business model. China exposure was also highlighted.\nKLA Corporation (NASDAQ:KLAC) is a semiconductor manufacturing corporation engaged in the design, manufacture, and marketing of process control, process-enabling, and yield management solutions for the semiconductor and related electronics industries worldwide.\nWhile we acknowledge the potential of KLAC as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on the Market’s Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "17:08:58",
@@ -1318,5 +1336,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 146
+  "total_news_count": 148
 }
