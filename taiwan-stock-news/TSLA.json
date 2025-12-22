@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-22T04:11:09.837Z",
+  "last_updated": "2025-12-22T09:11:41.649Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "16:52:21",
+      "Source": "MT Newswires",
+      "Title": "Tesla CEO Elon Musk 2018 Pay Package Reinstated by Delaware Supreme Court",
+      "URL": "https://finance.yahoo.com/news/tesla-ceo-elon-musk-2018-085221118.html",
+      "Content": "PREMIUM\nTesla CEO Elon Musk 2018 Pay Package Reinstated by Delaware Supreme Court\n\nMT Newswires\nMon, December 22, 2025 at 12:52 AM PST 1 min read\n\nIn this article: TSLA\n\nTesla (TSLA) Chief Executive Elon Musk's 2018, $56 billion pay package must be restored, Delaware's\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "10:00:00",
@@ -1003,5 +1012,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 111
+  "total_news_count": 112
 }
