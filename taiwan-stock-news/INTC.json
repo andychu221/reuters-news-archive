@@ -1,8 +1,26 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-22T16:11:55.192Z",
+  "last_updated": "2025-12-22T18:11:56.254Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "02:05:10",
+      "Source": "GuruFocus.com",
+      "Title": "INTC: Intel Foundry Push and Nvidia Backing Could Drive 2026 Growth",
+      "URL": "https://finance.yahoo.com/news/intc-intel-foundry-push-nvidia-180510667.html",
+      "Content": "INTC: Intel Foundry Push and Nvidia Backing Could Drive 2026 Growth\n\nNauman Khan\nMon, December 22, 2025 at 10:05 AM PST 2 min read\n\nIn this article: INTC\n\nNVDA\n\nSFTBF\n\nAAPL\n\nQCOM\n\nThis article first appeared on GuruFocus .\nIntel ( NASDAQ:INTC ) is entering 2026 with renewed investor interest after a management change and several large cash infusions, but its turnaround still hinges on landing a major external foundry client.\nNew CEO Lip-Bu Tan has trimmed costs and leaned on industry ties to steady the company after years of setbacks that left its manufacturing arm behind rivals.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\nA rare U.S. government stake, plus investments from Nvidia ( NASDAQ:NVDA ) and SoftBank ( SFTBY ), bolstered the balance sheet, but analysts say the foundry needs scale to be viable.\nIntel's progress with advanced nodes, including its roadmap for 14A, will be watched closely. Success could persuade customers like Apple or Qualcomm to shift some production, analysts said, but longstanding ties to Taiwan's TSM ( NYSE:TSM ) complicate the pitch.\nInvestors say the next 12 to 18 months are critical: without a marquee external contract, Intel may struggle to justify continued heavy manufacturing investment.\nMarket watchers caution returns could be gradual even if technical milestones are met and shareholders.\n\nIs INTC Stock a Buy? Based on the one year price targets offered by 36 analysts, the average target price for Intel Corp is $36.79 with a high estimate of $52.00 and a low estimate of $18.00. The average target implies a upside of +0.13% from the current price of $36.74.\nBased on GuruFocus estimates, the estimated GF Value for Intel Corp in one year is $23.92, suggesting a downside of -34.89% from the current price of $36.74. gf value is gurufocus' estimate of the fair value that the stock should be traded at. it is calculated based on the historical multiples the stock has traded at previously, as well as past business growth and the future estimates of the business' performance. For deeper insights, visit the forecast page.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "01:59:39",
+      "Source": "GuruFocus.com",
+      "Title": "Alibaba Weighs Major AMD AI Chip Order",
+      "URL": "https://finance.yahoo.com/news/alibaba-weighs-major-amd-ai-175939198.html",
+      "Content": "Alibaba Weighs Major AMD AI Chip Order\n\nFaizan Farooque\nMon, December 22, 2025 at 9:59 AM PST 1 min read\n\nIn this article: BABA\n\nBABAF\n\nAMD\n\nNVDA\n\nINTC\n\nThis article first appeared on GuruFocus .\nAlibaba Group ( BABA , Financials ) is considering placing a major order for Advanced Micro Devices Inc. ( AMD , Financials ) artificial intelligence chips, according to a report from MLex. Sources said the Chinese tech giant could purchase between 40,000 and 50,000 of AMD's MI308 AI accelerators.\n\nWarning! GuruFocus has detected 3 Warning Signs with BABA.\nIs BABA fairly valued? Test your thesis with our free DCF calculator.\nThe potential deal comes shortly after President Trump approved limited GPU sales to China, allowing firms such as Nvidia, Intel, and AMD to resume exports under new trade conditions.\nAMD CEO Lisa Su met with China's Commerce Minister Wang Wentao last week to discuss the company's operations and cooperation in the region, though no specifics were announced.\nThe report lifted AMD shares 3% in premarket trading, while Alibaba stock edged slightly higher. The move underscores renewed demand for U.S. chip technology as Chinese firms race to secure AI hardware ahead of 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "23:59:51",
@@ -472,5 +490,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 52
+  "total_news_count": 54
 }
