@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-22T18:13:03.170Z",
+  "last_updated": "2025-12-22T20:11:55.474Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "03:49:00",
+      "Source": "Barrons.com",
+      "Title": "A Topsy-Turvy Year for Oracle and the Ellisons Will Bleed into 2026",
+      "URL": "https://finance.yahoo.com/m/45357cac-a19e-37c1-87c8-574a6a6b18d7/a-topsy-turvy-year-for-oracle.html",
+      "Content": "A Topsy-Turvy Year for Oracle and the Ellisons Will Bleed into 2026\n\nAdam Levine\nMon, December 22, 2025 at 11:49 AM PST 6 min read\n\nIn this article: ORCL\n\nWBD\n\nNFLX\n\nMSFT\n\nGOOG\n\nOracle is radically changing its finances as it shifts from software to the cloud. Now its Chairman Larry Ellison is getting his fingers into media.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "02:07:49",
@@ -1102,5 +1111,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 122
+  "total_news_count": 123
 }
