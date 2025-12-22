@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-22T09:11:03.451Z",
+  "last_updated": "2025-12-22T10:10:55.434Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "17:08:58",
+      "Source": "MT Newswires",
+      "Title": "Broadcom Insider Sold Shares Worth $12,542,615, According to a Recent SEC Filing",
+      "URL": "https://finance.yahoo.com/news/broadcom-insider-sold-shares-worth-090858194.html",
+      "Content": "PREMIUM\nBroadcom Insider Sold Shares Worth $12,542,615, According to a Recent SEC Filing\n\nMT Newswires\nMon, December 22, 2025 at 1:08 AM PST\n\nIn this article: AVGO\n\nMark David Brazeal, Chief Legal and Corporate Affairs Officer, on December 17, 2025, sold 38,281 sha\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "16:50:00",
@@ -1309,5 +1318,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 145
+  "total_news_count": 146
 }
