@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-22T22:11:36.820Z",
+  "last_updated": "2025-12-22T23:11:23.459Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "07:04:58",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, Dec. 22: Tesla Shares Jump After Court Reinstates Elon Musk Pay Deal",
+      "URL": "https://finance.yahoo.com/m/2d598da3-82f5-3ac1-8187-b2a1be177ef1/stock-market-today%2C-dec.-22%3A.html",
+      "Content": "Stock Market Today, Dec. 22: Tesla Shares Jump After Court Reinstates Elon Musk Pay Deal\n\nEmma Newbery, The Motley Fool\nMon, December 22, 2025 at 3:04 PM PST 2 min read\n\nIn this article: TSLA\n\n^GSPC\n\n^IXIC\n\nF\n\nGM\n\nTesla (NASDAQ:TSLA) , electric vehicles and energy storage maker, closed Monday at $488.73, up 1.56% as shares continued to trade near record territory. Tesla IPO'ed in 2010 and has grown 38,483% since going public. Trading volume reached 86.6 million shares, roughly 1.4% above its three-month average of 85.8 million shares.\n\nMonday’s move followed a Delaware Supreme Court ruling on Elon Musk’s compensation, ending a long legal battle. Investors are also positive about Tesla’s latest autonomous driving and robotaxi initiatives.\nHow the markets moved today The S&P 500 (SNPINDEX:^GSPC) added 0.64% to finish at 6,878, while the Nasdaq Composite (NASDAQINDEX:^IXIC) gained 0.52% to close at 23,429. Within the automotive and energy space, industry peers Ford Motor Company (NYSE:F) slipped 0.07% and General Motors (NYSE:GM) rose 0.83%, underscoring how legacy automakers are navigating EV demand and profitability differently from Tesla.\n\nWhat this means for investors On Friday, a Delaware Supreme Court overruled a 2018 decision to block Elon Musk's pay package. The court ruled that Musk is entitled to stock-based compensation now valued at about $140 billion.\nIn addition to optimism around leadership continuity, Tesla investor sentiment got a boost last week. The EV maker said it is testing driverless cars is Austin with no humans on board. While concerns remain about softer EV demand, some Wall Street analysts, including Deutsche Bank (NYSE:DB) have upped their price targets for the stock.\n\nDon’t miss this second chance at a potentially lucrative opportunity Ever feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $469,438 !*\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $52,063 !*\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $509,039 !*\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\nSee the 3 stocks »\n*Stock Advisor returns as of December 22, 2025\nEmma Newbery has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Tesla. The Motley Fool recommends General Motors. The Motley Fool has a disclosure policy .\nStock Market Today, Dec. 22: Tesla Shares Jump After Court Reinstates Elon Musk Pay Deal was originally published by The Motley Fool\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "05:53:19",
@@ -10,6 +19,15 @@
       "Title": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones",
       "URL": "https://finance.yahoo.com/m/7fa38339-6dff-3d81-8f40-d50974a31543/dow-jones-futures%3A-nvidia.html",
       "Content": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones\n\nSCOTT LEHTONEN\nMon, December 22, 2025 at 1:53 PM PST 3 min read\n\nIn this article: NVDA\n\nAPP\n\nAAPL\n\nPLTR\n\n^DJI\n\nDow Jones Futures: Nvidia rallied near a key resistance level Monday, while Apple, AppLovin, Palantir and Tesla are in buy zones.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "05:46:11",
+      "Source": "The Wall Street Journal",
+      "Title": "Stocks to Watch Monday Recap: Tesla, Rocket Lab, UniFirst, Clearwater Analytics",
+      "URL": "https://finance.yahoo.com/m/1d33694a-8b93-3fe5-9de7-12d1e772aa35/stocks-to-watch-monday-recap%3A.html",
+      "Content": "Stocks to Watch Monday Recap: Tesla, Rocket Lab, UniFirst, Clearwater Analytics\n\nThe Wall Street Journal\nMon, December 22, 2025 at 1:46 PM PST 2 min read\n\nIn this article: CTAS\n\nLYFT\n\nUBER\n\nUNF\n\nTSLA\n\n↗️ Tesla (TSLA): The electric-vehicle maker won a yearslong legal battle in Delaware over a record-breaking 2018 pay package for Elon Musk. Shares rose 1.6% Monday. ↗️ Rocket Lab (RKLB): Shares jumped 10%, building on the previous session's rally.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1516,5 +1534,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 168
+  "total_news_count": 170
 }
