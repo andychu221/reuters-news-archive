@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-22T12:11:05.312Z",
+  "last_updated": "2025-12-22T14:11:04.450Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "21:42:18",
+      "Source": "Insider Monkey",
+      "Title": "BofA Maintains Buy on AMD, Views 2026 as the Midpoint of a Decade-Long AI Infrastructure Cycle",
+      "URL": "https://finance.yahoo.com/news/bofa-maintains-buy-amd-views-134218324.html",
+      "Content": "BofA Maintains Buy on AMD, Views 2026 as the Midpoint of a Decade-Long AI Infrastructure Cycle\n\nMaham Fatima\nMon, December 22, 2025 at 5:42 AM PST 2 min read\n\nIn this article: AMD\n\nHPE\n\nAdvanced Micro Devices Inc. (NASDAQ: AMD ) is one of the best growth stocks to buy in 2026 . On December 16, Bank of America lowered the firm’s price target on AMD to $260 from $300 and maintained a Buy rating on the shares. This sentiment was posted as BofA revised its targets for US semiconductor stocks, identifying 2026 as the midpoint of a decade-long transition toward AI-optimized IT infrastructure. While the firm warns of near-term volatility as investors scrutinize AI returns and hyperscaler spending, it expects this pressure to be mitigated by the expansion of AI factories and LLM development.\n\nIn other news, on December 2, AMD and Hewlett Packard Enterprise Co. (NYSE: HPE ) announced an expanded collaboration to develop the next generation of open, scalable AI infrastructure. A central component of this partnership is the AMD Helios architecture, an open, full-stack, rack-scale AI platform. HPE will be among the first system providers to adopt this architecture, which is engineered to simplify the deployment of massive AI clusters for research, cloud, and enterprise environments.\nThe Helios platform is built on the OCP Open Rack Wide design and integrates a comprehensive suite of AMD technologies. This includes next-generation AMD EPYC Venice CPUs, AMD Instinct MI455X GPUs, and AMD Pensando Vulcano NICs for scale-out networking. By utilizing the open ROCm software stack, a single Helios rack can deliver up to 2.9 exaFLOPS of FP4 performance.\n\nTo ensure high-bandwidth and low-latency connectivity, HPE is contributing a purpose-built HPE Juniper Networking scale-up switch, developed in collaboration with Broadcom, which utilizes the Ultra Accelerator Link over Ethernet/UALoE standard. HPE plans to offer the AMD Helios architecture globally starting in 2026.\nAdvanced Micro Devices Inc. (NASDAQ:AMD) operates as a semiconductor company worldwide. It operates in three segments: Data Center, Client and Gaming, and Embedded.\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "19:51:25",
@@ -814,5 +823,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 90
+  "total_news_count": 91
 }
