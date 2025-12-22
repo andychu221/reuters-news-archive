@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-22T21:11:07.126Z",
+  "last_updated": "2025-12-22T22:11:08.323Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "05:53:19",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones",
+      "URL": "https://finance.yahoo.com/m/7fa38339-6dff-3d81-8f40-d50974a31543/dow-jones-futures%3A-nvidia.html",
+      "Content": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones\n\nSCOTT LEHTONEN\nMon, December 22, 2025 at 1:53 PM PST 3 min read\n\nIn this article: NVDA\n\nAPP\n\nAAPL\n\nPLTR\n\n^DJI\n\nDow Jones Futures: Nvidia rallied near a key resistance level Monday, while Apple, AppLovin, Palantir and Tesla are in buy zones.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "03:20:00",
@@ -1012,5 +1021,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 112
+  "total_news_count": 113
 }
