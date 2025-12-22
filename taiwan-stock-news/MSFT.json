@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-22T22:11:57.578Z",
+  "last_updated": "2025-12-22T23:11:39.519Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "05:57:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Tech, Media & Telecom Roundup: Market Talk",
+      "URL": "https://finance.yahoo.com/m/b85825f5-c508-392d-bc20-ff596668ccb1/tech%2C-media-%26-telecom.html",
+      "Content": "Tech, Media & Telecom Roundup: Market Talk\n\nThe Wall Street Journal\nMon, December 22, 2025 at 1:57 PM PST 6 min read\n\nIn this article: MSFT\n\nFind insight on Microsoft, Paramount Skydance and more in the latest Market Talks covering Technology, Media and Telecom.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "05:14:06",
@@ -1165,5 +1174,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 129
+  "total_news_count": 130
 }
