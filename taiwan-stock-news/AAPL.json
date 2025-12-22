@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-22T01:10:58.717Z",
+  "last_updated": "2025-12-22T07:10:55.542Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "14:48:25",
+      "Source": "Reuters",
+      "Title": "China's vice commerce minister met Apple COO on Friday",
+      "URL": "https://finance.yahoo.com/news/chinas-vice-commerce-minister-met-064825800.html",
+      "Content": "China's vice commerce minister met Apple COO on Friday\n\nReuters\nSun, December 21, 2025 at 10:48 PM PST\n\nIn this article: AAPL\n\nBEIJING, Dec 22 (Reuters) - China's Vice Commerce ​Minister Li ‌Chenggang and Apple 's Chief ‌Operating Officer Sabih Khan discussed the U.S. firm's business ⁠operations in ‌China in a meeting on ‍Friday, a commerce ministry statement said on Monday.\nIn ​the meeting, ‌Li said China will provide greater opportunities to foreign companies including Apple and ⁠he hoped ​Apple would ​continue to work with Chinese partners ‍and ⁠develop the Chinese market, according to ⁠the statement.\n(Reporting by Beijing ‌Newsroom; Editing by ‌Christian Schmollinger)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "08:05:00",
@@ -805,5 +814,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 89
+  "total_news_count": 90
 }
