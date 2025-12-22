@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-22T20:11:01.325Z",
+  "last_updated": "2025-12-22T23:10:53.255Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "06:37:39",
+      "Source": "MT Newswires",
+      "Title": "Broadcom Insider Bought Shares Worth $325,129, According to a Recent SEC Filing",
+      "URL": "https://finance.yahoo.com/news/broadcom-insider-bought-shares-worth-223739471.html",
+      "Content": "PREMIUM\nBroadcom Insider Bought Shares Worth $325,129, According to a Recent SEC Filing\n\nMT Newswires\nMon, December 22, 2025 at 2:37 PM PST\n\nIn this article: AVGO\n\nHarry L. You, Director, on December 18, 2025, executed a purchase for 1,000 shares in Broadcom (AVGO\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "03:30:21",
@@ -1453,5 +1462,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 161
+  "total_news_count": 162
 }
