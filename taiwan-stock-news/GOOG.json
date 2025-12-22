@@ -1,8 +1,26 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-22T19:12:10.939Z",
+  "last_updated": "2025-12-22T20:12:05.533Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "03:49:00",
+      "Source": "Barrons.com",
+      "Title": "A Topsy-Turvy Year for Oracle and the Ellisons Will Bleed into 2026",
+      "URL": "https://finance.yahoo.com/m/45357cac-a19e-37c1-87c8-574a6a6b18d7/a-topsy-turvy-year-for-oracle.html",
+      "Content": "A Topsy-Turvy Year for Oracle and the Ellisons Will Bleed into 2026\n\nAdam Levine\nMon, December 22, 2025 at 11:49 AM PST 6 min read\n\nIn this article: ORCL\n\nWBD\n\nNFLX\n\nMSFT\n\nGOOG\n\nOracle is radically changing its finances as it shifts from software to the cloud. Now its Chairman Larry Ellison is getting his fingers into media.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "03:36:59",
+      "Source": "POWER Magazine",
+      "Title": "Alphabet Buying Clean Energy Developer to Support Data Centers",
+      "URL": "https://finance.yahoo.com/m/5f6ad17a-13f1-32fb-8150-1484854bb90b/alphabet-buying-clean-energy.html",
+      "Content": "Alphabet Buying Clean Energy Developer to Support Data Centers\n\nContributed Content\nMon, December 22, 2025 at 11:36 AM PST 3 min read\n\nIn this article: GOOG\n\nAlphabet, the parent of technology giant Google, has announced a definitive agreement to acquire Intersect, which provides data center and energy infrastructure solutions, for $4.75 billion in cash, plus the assumption of debt. Google already owns a minority stake in Intersect from a previously announced funding round. The acquisition announced December 22 will enable more data center and generation capacity to come online, faster, while accelerating energy development and innovation, Alphabet said in a news release. Included in the transaction are Intersect’s team and multiple gigawatts of energy and data center projects in development, or under construction, from its successful existing partnership with Google. Intersect will also explore a range of emerging technologies to increase and diversify energy supply, while supporting Google’s U.S. data center investments to meet its Cloud customers’ and users’ demand. Intersect’s operations will remain separate from Alphabet and Google under the Intersect brand and will be led by Sheldon Kimber. It will partner closely with Google’s technical infrastructure team, continuing work on in-development, and new, joint projects; this includes the companies’ first announced co-located data center and power site, under construction in Haskell County, Texas. Intersect’s existing operating assets in Texas, and its operating and in-development assets in California, will not be part of the acquisition. Those assets continue to operate as an independent company, supported by existing investors TPG Rise Climate, Climate Adaptive Infrastructure, and Greenbelt Capital Partners. Intersect expects a seamless transition and service continuity for customers of those assets. “Intersect will help us expand capacity, operate more nimbly in building new power generation in lockstep with new data center load, and reimagine energy solutions to drive US innovation and leadership. We look forward to welcoming Sheldon and the Intersect team,” said Sundar Pichai, CEO of Google and Alphabet. “Intersect has always been focused on bringing innovation to the industry and we look forward to accelerating at scale as part of Google,” said Sheldon Kimber, founder and CEO, Intersect. “Modern infrastructure is the linchpin of American competitiveness in AI. We share Google’s conviction that energy innovation and community investment are the pillars of what must come next.”\n\nAdvancing U.S. Energy Innovation and Capacity The acquisition will augment Alphabet and Google’s ongoing commitment to partnering with utilities and energy developers across the sector to unlock abundant, reliable, affordable energy supply that enables the buildout of data center infrastructure without passing on costs to grid customers. Alphabet is committed to creating new pathways and partnerships to responsibly increase energy supply, while advancing the rapid commercialization of advanced energy technologies—including advanced geothermal, long duration energy storage, and natural gas with carbon capture and storage. Additionally, Alphabet is deploying artificial intelligence to accelerate the grid connection of new power plants and helping scale energy efficiency and affordability programs in data center communities. The deal is subject to customary closing conditions and anticipated to close in the first half of 2026. —This content was contributed by Alphabet .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "02:55:52",
@@ -1804,5 +1822,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 200
+  "total_news_count": 202
 }
