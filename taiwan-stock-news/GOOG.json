@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-22T12:12:28.180Z",
+  "last_updated": "2025-12-22T13:12:12.582Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-22",
+      "Time": "20:53:00",
+      "Source": "Barrons.com",
+      "Title": "Self-Driving Cars Snarl San Francisco After Power Outage. Tesla Stock Rises.",
+      "URL": "https://finance.yahoo.com/m/40fdea4a-a689-33ab-abe6-3b4c05ae34fe/self-driving-cars-snarl-san.html",
+      "Content": "Self-Driving Cars Snarl San Francisco After Power Outage. Tesla Stock Rises.\n\nAl Root\nMon, December 22, 2025 at 4:53 AM PST 2 min read\n\nIn this article: TSLA\n\nGOOG\n\nA power outage on the West Coast highlighted some of the differences between Waymo and Tesla robo-taxis.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-22",
       "Time": "19:49:36",
@@ -1498,5 +1507,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 166
+  "total_news_count": 167
 }
