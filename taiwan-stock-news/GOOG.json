@@ -1,8 +1,35 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-23T09:11:44.569Z",
+  "last_updated": "2025-12-23T10:11:38.301Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "18:03:20",
+      "Source": "MT Newswires",
+      "Title": "Update: Alphabet's Waymo Reportedly Resumes San Francisco Robotaxi Service After Blackout",
+      "URL": "https://finance.yahoo.com/news/alphabet-apos-waymo-reportedly-resumes-100320933.html",
+      "Content": "PREMIUM\nUpdate: Alphabet's Waymo Reportedly Resumes San Francisco Robotaxi Service After Blackout\n\nMT Newswires\nTue, December 23, 2025 at 2:03 AM PST 1 min read\n\nIn this article: GOOG\n\nTSLA\n\n(Updates with Waymo's response in the second paragraph and additional detail in the third paragraph.\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "17:47:47",
+      "Source": "MT Newswires",
+      "Title": "New York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy",
+      "URL": "https://finance.yahoo.com/news/york-times-writers-sue-google-094747542.html",
+      "Content": "PREMIUM\nNew York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy\n\nMT Newswires\nTue, December 23, 2025 at 1:47 AM PST 1 min read\n\nIn this article: GOOG\n\nMSFT\n\nMETA\n\nXAAI.PVT\n\nNYT\n\nThe New York Times' (NYT) John Carreyrou and five other writers filed a complaint in the California\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "17:29:19",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Google, Nigeria in Advanced Discussions for New Undersea Cable",
+      "URL": "https://finance.yahoo.com/news/market-chatter-google-nigeria-advanced-092919732.html",
+      "Content": "PREMIUM\nMarket Chatter: Google, Nigeria in Advanced Discussions for New Undersea Cable\n\nMT Newswires\nTue, December 23, 2025 at 1:29 AM PST 1 min read\n\nIn this article: GOOG\n\nAlphabet's (GOOG, GOOGL) Google and Nigeria are in late-stage discussions for a new undersea cable t\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "16:15:00",
@@ -2056,5 +2083,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 228
+  "total_news_count": 231
 }
