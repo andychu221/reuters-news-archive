@@ -1,8 +1,26 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-23T18:12:03.251Z",
+  "last_updated": "2025-12-23T19:12:00.309Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "02:33:13",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Mixed Tuesday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-mixed-tuesday-183313240.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Mixed Tuesday Afternoon\n\nMT Newswires\nTue, December 23, 2025 at 10:33 AM PST 1 min read\n\nIn this article: GOOG\n\nNOW\n\nXLK\n\nNVDA\n\nTech stocks were mixed Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "02:20:00",
+      "Source": "Business Wire",
+      "Title": "Marissa Mayer’s New Startup Dazzle AI Raises $8 Million Seed Round",
+      "URL": "https://finance.yahoo.com/news/marissa-mayer-startup-dazzle-ai-182000247.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nMarissa Mayer’s New Startup Dazzle AI Raises $8 Million Seed Round\n\nBusiness Wire\nTue, December 23, 2025 at 10:20 AM PST 2 min read\n\nIn this article: GOOG\n\nKirsten Green of Forerunner Ventures leads with participation from Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital\nPALO ALTO, Calif., December 23, 2025 --( BUSINESS WIRE )--Dazzle AI, a new company founded by entrepreneur, executive, and technologist Marissa Mayer, today announced it has raised $8 million in seed funding at a $35 million post-money valuation. The round was led by Kirsten Green of Forerunner with participation from Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital.\n\nLeveraging her experience at Google, Yahoo, and in user-centered technology, Marissa is dedicated to Dazzle AI’s mission of making technology more intuitive and genuinely useful in everyday life. The company aims to close the gap between what people want to do and what they can do with AI, developing tools that make technology simpler, smarter, and more approachable.\n\"Throughout my career, I’ve loved making complex technology more intuitive,\" said Marissa Mayer, Founder and CEO of Dazzle AI. \"With Dazzle, our goal is to make AI feel simple, helping people get more done and delighting them along the way. Now that foundational models have reached a level of consistent excellence, they’ve become a reliable infrastructure. The new frontier is applications—leveraging that power to create real, tangible value. I’m thrilled to be building something new alongside an incredible group of investors and partners.\"\n\n\"The builders of tomorrow's winning platforms are not thinking in terms of incremental improvements or previous playbooks – they are thinking in entirely new ecosystems, with the courage to imagine paradigms that do not yet exist. As a leader, Marissa embodies the ambition and bravery that's essential to taking this kind of big swing,\" said Kirsten Green, Founding Partner at Forerunner. \"We have barely scratched the surface of having AI integrated into daily routines in a way that feels human, enriching, and transformatively useful.\"\nThis funding allows Dazzle AI to expand its team and prepare for its first product launch in the coming months. For updates, visit Dazzle.ai .\nAbout Dazzle AI\nFounded in 2025 by entrepreneur Marissa Mayer, Dazzle AI is on a mission to close the gap between what people want and what they can do with AI. Guided by its core principles, the company is developing products that make everyday technology more engaging and accessible. Dazzle AI is backed by leading investors, including Forerunner Ventures, Kleiner Perkins, Greycroft, Offline Ventures, Slow Ventures, and Bling Capital.\n\nStory Continues\nView source version on businesswire.com: https://www.businesswire.com/news/home/20251223032587/en/\nContacts\nAndie Weissman\nandie.weissman@archetype.co\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "02:04:22",
@@ -2299,5 +2317,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 255
+  "total_news_count": 257
 }
