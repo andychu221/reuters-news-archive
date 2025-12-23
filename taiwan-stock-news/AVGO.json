@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-23T08:11:01.589Z",
+  "last_updated": "2025-12-23T12:11:08.329Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "19:20:55",
+      "Source": "GuruFocus.com",
+      "Title": "TSMC Extends Foundry Lead in Q3",
+      "URL": "https://finance.yahoo.com/news/tsmc-extends-foundry-lead-q3-112055714.html",
+      "Content": "TSMC Extends Foundry Lead in Q3\n\nMoz Farooque ACCA\nTue, December 23, 2025 at 3:20 AM PST 1 min read\n\nIn this article: TSM\n\nTSMWF\n\nNVDA\n\nAMD\n\nAVGO\n\nThis article first appeared on GuruFocus .\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ) continued to pull away from rivals in Q3 as the AI boom kept foundry demand humming.\nGlobal foundry revenue climbed 17% year over year to $84.8billion in the third quarter, Counterpoint Research said, with AI workloads driving heavy use of advanced manufacturing nodes. TSMC stood out again, growing revenue 41% from a year earlier and lifting its market share to 39%. The gains were fueled by a faster ramp in 3nm production and near-full utilization of 4nm and 5nm lines, largely tied to AI chip demand from Nvidia ( NASDAQ:NVDA ), AMD ( NASDAQ:AMD ), and Broadcom.\n\nWarning! GuruFocus has detected 1 Warning Sign with NVO.\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\nElsewhere, growth was far more muted. Non-TSMC foundries posted just 6% growth as tariff-related pull-forward orders faded, even with help from China's subsidies. Analysts say the next challenge is capacity, with advanced nodes and CoWoS packaging already running close to full. AI demand is still strong, but physical limits could start slowing growth as 2026 approaches.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "15:51:36",
@@ -1498,5 +1507,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 166
+  "total_news_count": 167
 }
