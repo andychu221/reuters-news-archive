@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-23T13:11:20.230Z",
+  "last_updated": "2025-12-23T16:11:40.156Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "22:50:04",
+      "Source": "Zacks",
+      "Title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick",
+      "URL": "https://finance.yahoo.com/news/momentum-investor-1-stock-could-145004580.html",
+      "Content": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick\n\nZacks Equity Research\nTue, December 23, 2025 at 6:50 AM PST\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nIntel Corporation (INTC) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "20:10:00",
@@ -508,5 +517,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 56
+  "total_news_count": 57
 }
