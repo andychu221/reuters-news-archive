@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-23T11:11:55.248Z",
+  "last_updated": "2025-12-23T12:12:01.879Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "19:48:00",
+      "Source": "MT Newswires",
+      "Title": "Baird Adjusts Price Target on Meta Platforms to $815 From $820",
+      "URL": "https://finance.yahoo.com/news/baird-adjusts-price-target-meta-114800738.html",
+      "Content": "PREMIUM\nBaird Adjusts Price Target on Meta Platforms to $815 From $820\n\nMT Newswires\nTue, December 23, 2025 at 3:48 AM PST\n\nIn this article: META\n\nMeta Platforms (META) has an average rating of buy and mean price target of $836.47, according to an\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "17:47:47",
@@ -940,5 +949,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 104
+  "total_news_count": 105
 }
