@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-23T06:11:42.702Z",
+  "last_updated": "2025-12-23T07:11:51.964Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "14:48:30",
+      "Source": "GuruFocus.com",
+      "Title": "Why Microsoft Could Be the Biggest AI Winner in 2026",
+      "URL": "https://finance.yahoo.com/news/microsoft-stock-focus-wedbush-names-180236803.html",
+      "Content": "Why Microsoft Could Be the Biggest AI Winner in 2026\n\nNauman Khan\nMon, December 22, 2025 at 10:48 PM PST 1 min read\n\nIn this article: MSFT\n\nThis article first appeared on GuruFocus .\nMicrosoft ( NASDAQ:MSFT ) may outperform expectations next year thanks to stronger-than-anticipated growth tied to its artificial intelligence efforts, Wedbush Securities said in a Monday note to clients.\nAnalyst Dan Ives said that Wall Street may be underestimating the strength of demand for Azure cloud services and Microsoft's AI tools, such as Copilot. Ives, who rates the stock Outperform with a $625 price target, said recent customer checks show incrementally strong adoption of the company's AI offerings.\n\nWarning! GuruFocus has detected 3 Warning Sign with MSFT.\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\nHe suggested that the combination of cloud and AI monetization could add as much as $25 billion to Microsoft's revenue in fiscal 2026, further boosting growth and margins. Ives said the company's scale in enterprise AI deployments positions it well relative to peers.\nMicrosoft shares have traded sideways in recent sessions, but the Wedbush call may draw renewed investor interest in the stock's AI story. Investors will watch upcoming earnings and guidance to see whether the company's execution aligns with the upbeat outlook.\nWedbush's note reflects a broader trend of analysts raising their outlooks on companies with expanding AI workloads and cloud services.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "13:16:14",
@@ -1219,5 +1228,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 135
+  "total_news_count": 136
 }
