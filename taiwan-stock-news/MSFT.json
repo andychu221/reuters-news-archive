@@ -1,6 +1,6 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-23T10:11:25.519Z",
+  "last_updated": "2025-12-23T11:12:03.041Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -10,6 +10,15 @@
       "Title": "New York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy",
       "URL": "https://finance.yahoo.com/news/york-times-writers-sue-google-094747542.html",
       "Content": "PREMIUM\nNew York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy\n\nMT Newswires\nTue, December 23, 2025 at 1:47 AM PST 1 min read\n\nIn this article: GOOG\n\nMSFT\n\nMETA\n\nXAAI.PVT\n\nNYT\n\nThe New York Times' (NYT) John Carreyrou and five other writers filed a complaint in the California\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "17:00:00",
+      "Source": "Zacks",
+      "Title": "Bull of the Day: MongoDB (MDB)",
+      "URL": "https://finance.yahoo.com/news/bull-day-mongodb-mdb-090000623.html",
+      "Content": "Bull of the Day: MongoDB (MDB)\n\nAndrew Rocco\nTue, December 23, 2025 at 1:00 AM PST 3 min read\n\nIn this article: MDB\n\nMDB Company Overview and Bull Case Zacks Rank #1 (Strong Buy) stock MongoDB ( MDB ) is a leading database software company. Think of a traditional database (like a spreadsheet or filing cabinet) as being very rigid: you have to decide exactly how many columns your data will have before you put anything in it. If you want to add new information later, you must stop everything and restructure the entire cabinet. Conversely, MDB technology stores data in self-contained folders that can hold anything – text, photos, video links, or lists – all in one place. Additionally, MDB’s product is unique because:\n\n· There are No Rigid Rules (Flexible Schema): You don't have to define a strict structure upfront. If you have 100 customer folders, and you decide you want to track a new \"loyalty points\" field, you just add it to the following folder you create. The other 99 folders don't need to change. This is called a flexible schema.\n· It is Built for Speed and Scale: Because modern applications (like a popular social media app or an e-commerce site) serve millions of users and ingest new data every minute, MongoDB is designed to scale easily and handle massive amounts of data very quickly. It can simply add more \"cabinets\" (servers) to store data horizontally.\n\n· The Main Product: Atlas: The company's main business is MongoDB Atlas, which is like an easy button for this robust database. It's a cloud service that lets developers use the MongoDB database without worrying about setting up or maintaining the servers. They just pay to use the database as a service.\nMicrosoft Partnership Helps MDB Break Into AI MDB has a partnership with tech giant Microsoft ( MSFT ) that enables Atlas to be deeply integrated into Microsoft’s Azure cloud platform. Clients can now plug Atlas into Microsoft Azure to utilize its AI tools. The Microsoft partnership is critical for helping MDB gain a share of the rapidly growing AI market. The good news for MDB investors is that MongoDB was named the 2025 ‘Microsoft United States Partner of the Year.’\n\nMDB: A Consistent EPS Outperformer Wall Street is a game of expectations, and MDB has illustrated that it’s capable of delivering. Over the past four quarters, it has surpassed Zacks Consensus Analyst Estimates by a juicy 69.30%.\n\nImage Source: Zacks Investment Research\nMDB Reports Stellar EPS Earlier this month, MongoDB delivered strong third-quarter results that exceeded the high end of their guidance, driven by continued strength in Atlas, which saw growth accelerate 30% year-over-year. Meanwhile, total revenue and subscription revenue grew 19% year-over-year as margins expanded. Finally, MDB raised its guidance. The company now expects EPS growth of ~30% and revenue growth of 20%.\n\nStory Continues\nMDB Technical View: An EPS-Induced Breakaway Gap Following the early December earnings release, MDB shares spiked 22% as trading volume swelled to more than 4x the norm – a sign of heavy demand. Despite the large upside move, the stock has traded sideways since EPS, indicating that although investors have large profits in the stock, they are unwilling to part with their shares.\n\nImage Source: TradingView\nBottom Line\nMongoDB’s flexible architecture, cloud-first Atlas platform, and strategic partnership with Microsoft give the company a powerful runway for AI-driven growth. With a track record of earnings outperformance and fresh momentum following EPS, MDB shares are a buy.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nMicrosoft Corporation (MSFT) : Free Stock Analysis Report\nMongoDB, Inc. (MDB) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1255,5 +1264,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 139
+  "total_news_count": 140
 }
