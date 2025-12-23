@@ -1,8 +1,26 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-23T11:12:27.239Z",
+  "last_updated": "2025-12-23T12:12:29.827Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "19:41:47",
+      "Source": "MT Newswires",
+      "Title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab to Decline, Novo Nordisk to Advance",
+      "URL": "https://finance.yahoo.com/news/social-buzz-wallstreetbets-stocks-mixed-114147269.html",
+      "Content": "PREMIUM\nSocial Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab to Decline, Novo Nordisk to Advance\n\nMT Newswires\nTue, December 23, 2025 at 3:41 AM PST 1 min read\n\nIn this article: NVO\n\nTSLA\n\nNVDA\n\nASTS\n\nMU\n\nThe most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Tuesday's\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "19:31:29",
+      "Source": "GuruFocus.com",
+      "Title": "Amazon Recalls 332 Zoox Vehicles Over Self-Driving Software Fault",
+      "URL": "https://finance.yahoo.com/news/amazon-recalls-332-zoox-vehicles-113129290.html",
+      "Content": "Amazon Recalls 332 Zoox Vehicles Over Self-Driving Software Fault\n\nFaizan Farooque\nTue, December 23, 2025 at 3:31 AM PST 1 min read\n\nIn this article: AMZN\n\nGOOG\n\nTSLA\n\nThis article first appeared on GuruFocus .\nAmazon ( AMZN , Financials ) is recalling 332 self driving vehicles from its Zoox subsidiary after identifying a software flaw that could cause the autonomous cars to enter oncoming lanes, according to the U.S. National Highway Traffic Safety Administration.\nWarning! GuruFocus has detected 3 Warning Sign with AMZN.\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe issue affected versions of Zoox's automated driving system (ADS) released before Dec. 19. Regulators said the software could cause vehicles to cross yellow center lines or stop in front of oncoming traffic near intersections, increasing the risk of collisions.\nZoox sent out a free software update to fix the issue. In May, the firm recalled 270 cars after an incident in San Francisco that resulted to changes to make pedestrian detection and safety procedures better.\nThe new recall came months after the NHTSA approved Zoox for public road demonstrations. This ended an inquiry into its safety compliance in 2022.\nAs Amazon, Alphabet's Waymo, and Tesla push toward self-driving vehicles, the government is paying more attention. Investors will be watching Amazon's plans to sell Zoox's robotaxi service, which is expected to continue testing until 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "18:09:00",
@@ -1471,5 +1489,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 163
+  "total_news_count": 165
 }
