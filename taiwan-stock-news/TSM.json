@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-23T12:11:27.627Z",
+  "last_updated": "2025-12-23T13:11:28.070Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "20:52:51",
+      "Source": "MT Newswires",
+      "Title": "Edgewater Wireless Systems Q2 Net Loss Narrows Slightly",
+      "URL": "https://finance.yahoo.com/news/edgewater-wireless-systems-q2-net-125251986.html",
+      "Content": "PREMIUM\nEdgewater Wireless Systems Q2 Net Loss Narrows Slightly\n\nMT Newswires\nTue, December 23, 2025 at 4:52 AM PST 1 min read\n\nIn this article: KPIFF\n\nTSM\n\nEdgewater Wireless Systems (YFI.V), which is focused on AI-powered Wi-Fi Spectrum Slicing silicon so\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "19:56:00",
@@ -544,5 +553,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 60
+  "total_news_count": 61
 }
