@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-23T06:11:01.437Z",
+  "last_updated": "2025-12-23T08:11:01.589Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "15:51:36",
+      "Source": "Insider Monkey",
+      "Title": "Truist Reaffirms Buy on NVIDIA (NVDA), Raises PT to $275 on AI Infrastructure Upside",
+      "URL": "https://finance.yahoo.com/news/truist-reaffirms-buy-nvidia-nvda-075136854.html",
+      "Content": "Truist Reaffirms Buy on NVIDIA (NVDA), Raises PT to $275 on AI Infrastructure Upside\n\nGhazal Ahmed\nMon, December 22, 2025 at 11:51 PM PST 1 min read\n\nIn this article: TFC\n\nNVDA\n\nAMD\n\nAVGO\n\nTTMI\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the AI Stocks in the Spotlight for Investors. On December 19, Truist reiterated the stock at “Buy” and raised its price target to $275 per share from $255. The firm revised price targets in the semiconductor and artificial intelligence group after establishing 2027 projections.\nWhile Truist acknowledges that there are challenges in finding power to run AI infrastructure and sourcing the funds, it believes AI infrastructure stocks remain cheap compared to their growth.\nThe firm also sees more upside pressure to estimates for the group compared to more diversified analog semis heading into 2026. Analysts also noted how AI capital expenditure upside will continue in 2026.\nNVIDIA Corporation (NASDAQ:NVDA) specializes in AI-driven solutions, offering platforms for data centers, self-driving cars, robotics, and cloud services.\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on the Market’s Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "13:16:14",
@@ -1489,5 +1498,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 165
+  "total_news_count": 166
 }
