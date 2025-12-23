@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-23T17:10:55.427Z",
+  "last_updated": "2025-12-23T19:10:58.251Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "02:29:42",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia, AMD Could See Billions in Revenue from Soaring China AI Demand in 2026",
+      "URL": "https://finance.yahoo.com/news/nvidia-amd-could-see-billions-182942697.html",
+      "Content": "Nvidia, AMD Could See Billions in Revenue from Soaring China AI Demand in 2026\n\nNauman Khan\nTue, December 23, 2025 at 10:29 AM PST 1 min read\n\nIn this article: NVDA\n\nAMD\n\nBABA\n\nThis article first appeared on GuruFocus .\nShares of Nvidia ( NASDAQ:NVDA ) and AMD ( NASDAQ:AMD ) inched up about 0.5% on Tuesday as analysts highlighted potential revenue growth from China.\nRaymond James said both companies could see moderate upside if recent U.S. export approvals lead to significant orders.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\nAnalyst Simon Leopold wrote in a note to clients that AMD might generate $500 million to $800 million in additional revenue in 2026, translating to $0.10 to $0.20 in non-GAAP EPS.\nNvidia could see $7 billion to $12.5 billion in extra revenue, or $0.15 to $0.30 in non-GAAP EPS.\nEarlier this month, President Trump approved the sale of Nvidia's H200 GPUs to China. Reports also suggest Alibaba (BABA) could buy 40,000 to 50,000 of AMD's MI308 AI accelerators. Leopold estimated the potential Alibaba deal could generate around $675 million for AMD over several quarters.\nAnalysts cautioned that uncertainties remain, including regulatory approvals and geopolitical risks, which could affect the final outcome.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "01:05:00",
+      "Source": "Barrons.com",
+      "Title": "Alibaba Shows China May Be the Next Frontier for Nvidia and AMD",
+      "URL": "https://finance.yahoo.com/m/2f1df939-8b62-3fa3-a091-6f6d47880252/alibaba-shows-china-may-be.html",
+      "Content": "Alibaba Shows China May Be the Next Frontier for Nvidia and AMD\n\nJack Denton\nTue, December 23, 2025 at 9:05 AM PST 3 min read\n\nIn this article: NVDA\n\nAMD\n\nBABA\n\nBABAF\n\nAMZN\n\nAlibaba, the Chinese online retail and cloud computing giant, has emerged as one of China’s AI leaders this year,\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "00:26:00",
@@ -1039,5 +1057,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 115
+  "total_news_count": 117
 }
