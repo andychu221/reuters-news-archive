@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-23T04:11:08.885Z",
+  "last_updated": "2025-12-23T06:11:12.815Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "13:16:13",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says “I Own Apple, and I Say Own it, Don’t Trade It”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-own-apple-051613926.html",
+      "Content": "Jim Cramer Says “I Own Apple, and I Say Own it, Don’t Trade It”\n\nSyeda Seirut Javed\nMon, December 22, 2025 at 9:16 PM PST 2 min read\n\nIn this article: AAPL\n\nNVDA\n\nCRWD\n\nHOOD\n\nGS\n\nApple Inc. (NASDAQ: AAPL ) is one of the stocks Jim Cramer answered questions about . Playing the round of “Am I Diversified?”, a caller mentioned that their top five holdings are NVDA, CRWD, AAPL, GS, and HOOD. Cramer remarked:\nbrandon-romanchuk-NOFyRmSQfUQ-unsplash\nApple Inc. (NASDAQ:AAPL) manufactures and sells devices such as the iPhone, Mac, iPad, along with its line-up of wearables and accessories. The devices are supported by the company’s app ecosystem, AppleCare, and cloud tools.\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "11:30:00",
@@ -1048,5 +1057,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 116
+  "total_news_count": 117
 }
