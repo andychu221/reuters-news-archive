@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-23T16:11:00.688Z",
+  "last_updated": "2025-12-23T17:10:55.427Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "00:26:00",
+      "Source": "Barrons.com",
+      "Title": "Alibaba Shows China May Be Next Frontier for Nvidia and AMD",
+      "URL": "https://finance.yahoo.com/m/2f1df939-8b62-3fa3-a091-6f6d47880252/alibaba-shows-china-may-be.html",
+      "Content": "Alibaba Shows China May Be Next Frontier for Nvidia and AMD\n\nJack Denton\nTue, December 23, 2025 at 8:26 AM PST 2 min read\n\nIn this article: NVDA\n\nBABAF\n\nAMD\n\nBABA\n\nAlibaba, the Chinese online retail and cloud computing giant, has emerged as one of China’s AI leaders this year,\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "21:55:00",
@@ -1030,5 +1039,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 114
+  "total_news_count": 115
 }
