@@ -1,8 +1,35 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-23T04:10:41.831Z",
+  "last_updated": "2025-12-23T06:10:43.075Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "13:53:17",
+      "Source": "Insider Monkey",
+      "Title": "Nebius Group (NBIS) Launches AI Cloud 3.1",
+      "URL": "https://finance.yahoo.com/news/nebius-group-nbis-launches-ai-055317398.html",
+      "Content": "Nebius Group (NBIS) Launches AI Cloud 3.1\n\nTalha Qureshi\nMon, December 22, 2025 at 9:53 PM PST 2 min read\n\nIn this article: NBIS\n\nNVDA\n\nNebius Group N.V. (NASDAQ: NBIS ) is one of the Stocks That Will Go To The Moon in 2026 . On December 17, Nebius Group N.V. (NASDAQ:NBIS) announced the launch of Nebius AI Cloud 3.1, thereby enhancing the company’s full-stack AI cloud performance.\nManagement noted that Nebius AI Cloud 3.1 focuses on next-gen NVIDIA Blackwell Ultra compute, operational transparency, developer tools, and strengthened security. Version 3.1 builds upon the foundations of Nebius AI Cloud “Aether”. Moreover, the company is also deploying NVIDIA Blackwell Ultra infrastructure internationally. Thereby making it Europe’s first cloud with production deployments of NVIDIA GB300 NVL72 and NVIDIA HGX B300 systems. These systems run on an 800 Gbps NVIDIA Quantum-X800 InfiniBand interconnect that has the potential to double throughput for distributed workloads.\nIn addition, the release also features new management tools, including Capacity Blocks and a real-time Capacity Dashboard. Management noted that these upgrades allow customers to view GPU availability across data center regions. Management expects the latest version to lower barriers for AI developers, which will help Nebius Group N.V. (NASDAQ:NBIS) expand its appeal in the biotech and SaaS AI applications.\n\nNebius Group N.V. (NASDAQ:NBIS) builds full-stack AI infrastructure, including GPU clusters, cloud platforms like Nebius AI Cloud, and developer tools to support global AI workloads from training to inference.\nWhile we acknowledge the potential of NBIS as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "13:16:14",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says Eli Lilly’s GLP-1 Pill Is “Going to Revolutionize Everything”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-eli-lilly-051614791.html",
+      "Content": "Jim Cramer Says Eli Lilly’s GLP-1 Pill Is “Going to Revolutionize Everything”\n\nSyeda Seirut Javed\nMon, December 22, 2025 at 9:16 PM PST 2 min read\n\nIn this article: LLY\n\nCVX\n\nSLG\n\nAVGO\n\nAMD\n\nEli Lilly and Company (NYSE: LLY ) is one of the stocks Jim Cramer answered questions about . Inquiring if their portfolio is diversified, a caller highlighted that their top five holdings are LLY, SLG, MSFT, CVX, and TSM. Cramer said:\nPixabay/Public Domain\nEli Lilly and Company (NYSE:LLY) develops and markets medicines for diabetes, obesity, oncology, immunology, neuroscience, and other chronic conditions.\nWhile we acknowledge the potential of LLY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "13:16:13",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says “I Own Apple, and I Say Own it, Don’t Trade It”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-own-apple-051613926.html",
+      "Content": "Jim Cramer Says “I Own Apple, and I Say Own it, Don’t Trade It”\n\nSyeda Seirut Javed\nMon, December 22, 2025 at 9:16 PM PST 2 min read\n\nIn this article: AAPL\n\nNVDA\n\nCRWD\n\nHOOD\n\nGS\n\nApple Inc. (NASDAQ: AAPL ) is one of the stocks Jim Cramer answered questions about . Playing the round of “Am I Diversified?”, a caller mentioned that their top five holdings are NVDA, CRWD, AAPL, GS, and HOOD. Cramer remarked:\nbrandon-romanchuk-NOFyRmSQfUQ-unsplash\nApple Inc. (NASDAQ:AAPL) manufactures and sells devices such as the iPhone, Mac, iPad, along with its line-up of wearables and accessories. The devices are supported by the company’s app ecosystem, AppleCare, and cloud tools.\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "11:30:00",
@@ -3757,5 +3784,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 417
+  "total_news_count": 420
 }
