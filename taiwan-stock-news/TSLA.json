@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-23T14:11:52.179Z",
+  "last_updated": "2025-12-23T15:11:27.933Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "22:48:31",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Dow Slips After Strong GDP Data; Novo Soars On Weight-Loss Pill (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/5a383c8e-3746-3d0b-a3a7-f2e765786c9c/stock-market-today%3A-dow-slips.html",
+      "Content": "Stock Market Today: Dow Slips After Strong GDP Data; Novo Soars On Weight-Loss Pill (Live Coverage)\n\nSCOTT LEHTONEN\nTue, December 23, 2025 at 6:48 AM PST 3 min read\n\nIn this article: NVO\n\nTSLA\n\nAZN\n\n^DJI\n\n^GSPC\n\nStock Market Today: The Dow Jones index fell Tuesday on surprise Q3 GDP data. Novo stock soared on FDA approval for a weight loss pill.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "22:43:00",
+      "Source": "Barrons.com",
+      "Title": "Tesla Stock Nears $500 for the First Time. How It Gets There.",
+      "URL": "https://finance.yahoo.com/m/93b66efc-77ab-37a0-9c37-27c3e642532e/tesla-stock-nears-%24500-for.html",
+      "Content": "Tesla Stock Nears $500 for the First Time. How It Gets There.\n\nAl Root\nTue, December 23, 2025 at 6:43 AM PST 3 min read\n\nIn this article: TSLA\n\n^DJI\n\nARKK\n\n^GSPC\n\nARKQ\n\nTesla CEO Elon Musk said on X that Tesla’s robo-taxis were unaffected. Tesla stock traded above $490 early Tuesday, but slid back to $488.08, down 0.1%, while the was up 0.1% and the was down 0.1%. Coming into Tuesday trading, Tesla stock was up 21% this year, boosted by a 25% jump over the past month, despite falling EV sales.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "21:48:47",
@@ -1786,5 +1804,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 198
+  "total_news_count": 200
 }
