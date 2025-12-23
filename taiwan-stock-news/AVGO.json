@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-23T20:11:04.888Z",
+  "last_updated": "2025-12-23T21:11:06.350Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "04:59:29",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: S&P 500 Eyes Record High; Analyst Names Reddit 2026 Top Pick (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/5a383c8e-3746-3d0b-a3a7-f2e765786c9c/stock-market-today%3A-s%26p-500.html",
+      "Content": "Stock Market Today: S&P 500 Eyes Record High; Analyst Names Reddit 2026 Top Pick (Live Coverage)\n\nSCOTT LEHTONEN and VIDYA RAMAKRISHNAN\nTue, December 23, 2025 at 12:59 PM PST 7 min read\n\nIn this article: ^GSPC\n\nNVO\n\nTSLA\n\nGOOG\n\n^IXIC\n\nStock Market Today: The Dow Jones index rises Tuesday on surprise Q3 GDP data. Novo stock soared on FDA approval for a weight loss pill.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "03:51:00",
@@ -1597,5 +1606,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 177
+  "total_news_count": 178
 }
