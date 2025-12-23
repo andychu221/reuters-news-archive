@@ -1,8 +1,26 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-23T20:12:37.403Z",
+  "last_updated": "2025-12-23T22:12:45.291Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "05:45:43",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Stock Market At Record Close As Nvidia, Google Lead",
+      "URL": "https://finance.yahoo.com/m/c9ddbb9d-1d58-3eb6-bce5-f5630f975e57/dow-jones-futures%3A-stock.html",
+      "Content": "Dow Jones Futures: Stock Market At Record Close As Nvidia, Google Lead\n\nED CARSON\nTue, December 23, 2025 at 1:45 PM PST 4 min read\n\nIn this article: NVDA\n\nGOOG\n\n^DJI\n\n^GSPC\n\n^IXIC\n\nMarket breadth was narrow Tuesday, but the S&P 500 set a record close as Nvidia and Google made bullish moves.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "05:45:11",
+      "Source": "MT Newswires",
+      "Title": "S&P 500 Hits New High After Strong GDP Data",
+      "URL": "https://finance.yahoo.com/news/p-500-hits-high-strong-214511110.html",
+      "Content": "PREMIUM\nS&P 500 Hits New High After Strong GDP Data\n\nMT Newswires\nTue, December 23, 2025 at 1:45 PM PST 4 min read\n\nIn this article: ^GSPC\n\n^DJI\n\n^IXIC\n\nWall Street's main equity benchmarks rose Tuesday, with the S&P 500 hitting an all-time high as data\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "03:53:39",
@@ -1660,5 +1678,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 184
+  "total_news_count": 186
 }
