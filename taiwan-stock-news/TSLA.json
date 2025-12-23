@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-23T12:11:53.686Z",
+  "last_updated": "2025-12-23T13:11:38.881Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "20:08:55",
+      "Source": "GuruFocus.com",
+      "Title": "TSLA: Tesla Sales Plunges 12% in Europe as Chinese EV Rival BYD Rallies",
+      "URL": "https://finance.yahoo.com/news/tsla-tesla-sales-plunges-12-120855419.html",
+      "Content": "TSLA: Tesla Sales Plunges 12% in Europe as Chinese EV Rival BYD Rallies\n\nNauman Khan\nTue, December 23, 2025 at 4:08 AM PST 1 min read\n\nIn this article: TSLA\n\nBYDDF\n\nThis article first appeared on GuruFocus .\nTesla ( NASDAQ:TSLA ) lost ground in Europe in November as BYD ( BYDDF ) surged, according to Tuesday data from the European Automobile Manufacturers' Association.\nACEA showed Tesla's November deliveries across the EU, EFTA and the U.K. fell 11.8% year on year to 22,801 vehicles.\n\nWarning! GuruFocus has detected 10 Warning Signs with SSNLF.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\nBYD's November sales jumped 221.8% to 21,133 units, lifting its market share to 2% from 0.6% a year earlier.\nTesla's market share slipped to 2.1% from 2.5% the prior year, though it improved from 0.6% in October.\nThe overall European new vehicle market grew 2.4% to about 1.08 million registrations, driven by battery and hybrid demand; hybrids held roughly 34.6% of registrations.\nAnalysts say BYD's hybrid and lower-priced models are resonating with cost-conscious buyers, putting pressure on Tesla's pricing and growth in the region.\nTesla faces mounting competition from Chinese and European makers as it seeks to regain momentum, market watchers say.\nShares of Tesla climbed about 1.5% on Monday trading as investors weigh near-term sales weakness against longer-term product bets.\nInvestors will monitor December sales and delivery numbers for signs of recovery.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "20:06:35",
@@ -1714,5 +1723,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 190
+  "total_news_count": 191
 }
