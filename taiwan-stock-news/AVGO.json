@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-23T16:11:14.489Z",
+  "last_updated": "2025-12-23T17:11:03.863Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "00:35:06",
+      "Source": "Investor's Business Daily",
+      "Title": "Citi Makes Left Field Choice For Top Pick Among Chip Stocks",
+      "URL": "https://finance.yahoo.com/m/526df099-d234-3f58-90af-85f708e57ffa/citi-makes-left-field-choice.html",
+      "Content": "Citi Makes Left Field Choice For Top Pick Among Chip Stocks\n\nPATRICK SEITZ\nTue, December 23, 2025 at 8:35 AM PST 1 min read\n\nIn this article: C\n\nMCHPP\n\nMCHP\n\nNVDA\n\nAVGO\n\nInvestment bank Citi named Microchip as its top pick among chip stocks as it forecasts a resurgence for analog semiconductors in 2026.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "23:13:14",
@@ -1561,5 +1570,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 173
+  "total_news_count": 174
 }
