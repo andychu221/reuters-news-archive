@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-23T08:11:12.778Z",
+  "last_updated": "2025-12-23T09:10:57.618Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "16:00:29",
+      "Source": "Cryptonews",
+      "Title": "BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025",
+      "URL": "https://finance.yahoo.com/m/9af38312-5891-3738-8c34-0c9bb36eab4c/blackrock-names-spot-bitcoin.html",
+      "Content": "BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025 IBIT attracted over $25 billion in inflows this year despite Bitcoin’s price decline.\n\nAmin Ayan\nTue, December 23, 2025 at 12:00 AM PST 3 min read\n\nIn this article: BTC-USD\n\nIBIT\n\nBLK\n\nAAPL\n\nMETA\n\nBlackRock has placed its spot Bitcoin exchange-traded fund among its three biggest investment themes for 2025, ranking the product alongside Treasury bills and US mega-cap technology stocks.\nKey Takeaways:\nBlackRock named its spot Bitcoin ETF a top 2025 investment theme alongside Treasurys and big tech.\nIBIT attracted over $25 billion in inflows this year despite Bitcoin’s price decline.\nThe fund now leads rivals by a wide margin, reinforcing Bitcoin’s role in institutional portfolios.\n\nThe world’s largest asset manager said its iShares Bitcoin Trust ETF (IBIT) together with an ETF tracking short-term Treasurys and another linked to the so-called “Magnificent 7” group of US tech firms, including Apple, Microsoft, Amazon, Alphabet, Meta, Nvidia, and Tesla.\nBlackRock’s Bitcoin ETF Pulls $25B in Inflows Despite Bitcoin’s 2025 Pullback IBIT has drawn more than $25 billion in net inflows so far this year, according to market data, ranking sixth among all ETFs by inflows despite posting a negative return in 2025.\nThe performance comes as Bitcoin has slid roughly 30% from its October peak, a drawdown that has not deterred investor demand.\n\nNate Geraci, president of NovaDius Wealth Management, said BlackRock’s decision to spotlight IBIT shows the firm remains comfortable backing Bitcoin through market cycles.\nBloomberg ETF analyst Eric Balchunas echoed that view, noting that if the fund can attract $25 billion in a weaker year, the upside during a stronger market could be significantly larger.\nThe latest inflows add to the roughly $37 billion IBIT attracted in 2024, bringing total net inflows since launch to about $62.5 billion, according to Farside Investors.\nThat figure puts IBIT well ahead of competitors, with flows more than five times larger than those of the Fidelity Wise Origin Bitcoin Fund, its closest rival.\nBlackRock has continued to build out its crypto-linked ETF lineup beyond spot Bitcoin exposure. In September, the firm filed to register a Bitcoin Premium Income ETF , designed to generate yield by selling covered call options on Bitcoin futures.\n\nThe strategy would mark a shift toward income-focused products tied to digital assets.\nIBIT has also emerged as a notable outlier on the 2025 ETF flow leaderboard, ranking sixth by year-to-date inflows despite posting a negative return for the year.\nIBIT is the only ETF among the top flow leaders showing a year-to-date loss, with returns down roughly 9.6%. Yet the fund has still attracted approximately $25.4 billion in net inflows.\nBlackRock’s Ethereum ETF Draws $9B as Firm Expands Crypto Offerings The asset manager has also seen strong demand for its Ethereum offerings. Its iShares Ethereum Trust ETF (ETHA) has attracted more than $9.1 billion in inflows this year, pushing total inflows close to $12.7 billion.\n\nStory Continues\nIn November, BlackRock filed to launch an iShares Staked Ethereum ETF, following regulatory changes that have given issuers more flexibility to incorporate staking features.\nDespite its expanding crypto footprint, BlackRock has so far stayed on the sidelines of the recent wave of altcoin ETFs tied to assets such as Solana, XRP and Litecoin.\nRead original story BlackRock Names Spot Bitcoin ETF Among Its Top Investment Themes of 2025 by Amin Ayan at Cryptonews.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "15:28:06",
@@ -1066,5 +1075,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 118
+  "total_news_count": 119
 }
