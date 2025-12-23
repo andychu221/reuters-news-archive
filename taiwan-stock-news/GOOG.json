@@ -1,8 +1,26 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-23T17:12:15.418Z",
+  "last_updated": "2025-12-23T18:12:03.251Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "02:04:22",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Nasdaq Leads After GDP Surprise; Solar Stock Dives (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/5a383c8e-3746-3d0b-a3a7-f2e765786c9c/stock-market-today%3A-nasdaq.html",
+      "Content": "Stock Market Today: Nasdaq Leads After GDP Surprise; Solar Stock Dives (Live Coverage)\n\nSCOTT LEHTONEN and VIDYA RAMAKRISHNAN\nTue, December 23, 2025 at 10:04 AM PST 6 min read\n\nIn this article: ^GSPC\n\nTSLA\n\nNVO\n\n^DJI\n\nFSLR\n\nStock Market Today: The Dow Jones index rises Tuesday on surprise Q3 GDP data. Novo stock soared on FDA approval for a weight loss pill.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "01:07:51",
+      "Source": "GuruFocus.com",
+      "Title": "Alphabet Agrees to Buy Intersect Power in $4.75 Billion Clean Energy Deal",
+      "URL": "https://finance.yahoo.com/news/alphabet-agrees-buy-intersect-power-170751715.html",
+      "Content": "Alphabet Agrees to Buy Intersect Power in $4.75 Billion Clean Energy Deal\n\nKhac Phu Nguyen\nTue, December 23, 2025 at 9:07 AM PST 2 min read\n\nIn this article: GOOG\n\nAMZN\n\nMSFT\n\nThis article first appeared on GuruFocus .\nAlphabet Inc. ( NASDAQ:GOOG ) has agreed to acquire clean energy developer Intersect Power LLC for $4.75 billion in cash plus existing debt, a deal that could expand Google's access to electricity as it scales data centers tied to artificial intelligence. The acquisition, announced Monday, follows Google's minority investment in Intersect last year and comes as US power grids face rising strain from renewed demand growth. Alphabet said the transaction is intended to give Google greater flexibility to develop new power generation alongside expanding data center capacity, which has increasingly become a limiting factor for AI deployment.\n\nWarning! GuruFocus has detected 3 Warning Sign with AMZN.\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\nThe deal arrives as the AI buildout drives consolidation across data centers and energy infrastructure. Google, along with Amazon.com Inc. ( NASDAQ:AMZN ) and Microsoft Corp. ( NASDAQ:MSFT ), has been managing the tension between rising electricity needs and long-term climate goals, after the company disclosed in 2024 that its carbon emissions increased 48% over the past five years due largely to data center operations. Intersect, backed by private equity firm TPG Inc., has focused on solar and battery storage projects designed to power large-scale data centers, particularly in Texas, a region its CEO Sheldon Kimber has described as attractive due to abundant wind and solar resources. The company has about 7.5 gigawatts of solar and storage in operation and another eight gigawatts in development, with much of that capacity tied to data-center-heavy markets.\n\nAs part of the transaction, Alphabet will acquire Intersect's power development platform, team, and in-development assets already contracted by Google, while Intersect will retain its brand and continue under Kimber's leadership. Grid assets contracted to other customers in Texas and California will remain outside the purchase, with TPG Rise Climate retaining a stake in those projects. Industry analysts have suggested the structure could reduce regulatory risk for Google, as owning power generation assets may provide more flexibility in how and where new data centers are built, rather than relying solely on third-party power arrangements as AI infrastructure continues to scale.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "00:31:17",
@@ -2281,5 +2299,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 253
+  "total_news_count": 255
 }
