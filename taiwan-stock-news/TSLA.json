@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-23T18:11:28.045Z",
+  "last_updated": "2025-12-23T19:11:40.751Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "02:47:04",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Tech Giant Apple, AppLovin, Palantir, Tesla In Buy Zones",
+      "URL": "https://finance.yahoo.com/m/cbc14c4a-b696-3e86-8d1b-c363ea835107/dow-jones-tech-giant-apple%2C.html",
+      "Content": "Dow Jones Tech Giant Apple, AppLovin, Palantir, Tesla In Buy Zones\n\nSCOTT LEHTONEN\nTue, December 23, 2025 at 10:47 AM PST 3 min read\n\nIn this article: AAPL\n\nAPP\n\nPLTR\n\nTSLA\n\n^DJI\n\nDow Jones tech giant Apple, along with AppLovin, Palantir, and Tesla stock are in buy zones in the ongoing stock market rally.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "02:04:22",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Nasdaq Leads After GDP Surprise; Solar Stock Dives (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/5a383c8e-3746-3d0b-a3a7-f2e765786c9c/stock-market-today%3A-nasdaq.html",
+      "Content": "Stock Market Today: Nasdaq Leads After GDP Surprise; Solar Stock Dives (Live Coverage)\n\nSCOTT LEHTONEN and VIDYA RAMAKRISHNAN\nTue, December 23, 2025 at 10:04 AM PST 6 min read\n\nIn this article: ^GSPC\n\nNVO\n\nTSLA\n\n^DJI\n\nFSLR\n\nStock Market Today: The Dow Jones index rises Tuesday on surprise Q3 GDP data. Novo stock soared on FDA approval for a weight loss pill.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "00:35:00",
@@ -1903,5 +1921,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 211
+  "total_news_count": 213
 }
