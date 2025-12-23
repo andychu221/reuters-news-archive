@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-23T16:12:23.744Z",
+  "last_updated": "2025-12-23T17:11:47.403Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "23:40:00",
+      "Source": "Barrons.com",
+      "Title": "Reddit Stock Has Been Stuck Since August. This Firm Just Made It a Top Pick for 2026.",
+      "URL": "https://finance.yahoo.com/m/0ae4305f-3940-330b-bb7a-3f3550fb0378/reddit-stock-has-been-stuck.html",
+      "Content": "Reddit Stock Has Been Stuck Since August. This Firm Just Made It a Top Pick for 2026.\n\nNate Wolf\nTue, December 23, 2025 at 7:40 AM PST 2 min read\n\nIn this article: RDDT\n\nSNAP\n\nPINS\n\nGOOG\n\nMETA\n\nReddit stock has stagnated to close out 2025, but that won’t last for long, say analysts at Needham & Company. The firm named Reddit its top stock pick for 2026 in a research note Tuesday, reiterating a Buy rating and a $300 price target. The social media platform has sky-high revenue growth, and its endless trove of forums is a gold mine for artificial-intelligence developers, Needham argued.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "23:38:24",
@@ -994,5 +1003,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 110
+  "total_news_count": 111
 }
