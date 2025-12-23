@@ -1,8 +1,44 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-23T16:10:52.095Z",
+  "last_updated": "2025-12-23T17:10:46.787Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "00:39:14",
+      "Source": "GuruFocus.com",
+      "Title": "NVDA: Nvidia Stock Climbs as H200 AI Chips Eye China Market",
+      "URL": "https://finance.yahoo.com/news/nvidia-stock-climbs-h200-ai-155903616.html",
+      "Content": "NVDA: Nvidia Stock Climbs as H200 AI Chips Eye China Market\n\nNauman Khan\nTue, December 23, 2025 at 8:39 AM PST 1 min read\n\nIn this article: NVDA\n\nBABA\n\nThis article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) shares rose about 1.5% on Tuesday morning as reports said the chipmaker is targeting mid-February to begin shipping H200 AI processors to China.\nThe initial push would use existing inventory, with sources saying Nvidia plans to send between 5,000 and 10,000 modules, roughly 40,000 to 80,000 individual H200 chips, if Chinese authorities greenlight the sales.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nThe plan hinges on Beijing's approval, which has not yet been granted, leaving the timeline flexible. One source cautioned: Nothing is certain until we get the official go-ahead.\nThe move follows a U.S. policy shift that allows H200 exports to China with a 25% fee, a reversal of tighter restrictions under the previous administration. Washington has opened an inter-agency review process for licenses.\nCompanies such as Alibaba and ByteDance have expressed interest in H200s, which markedly outperform the downgraded H20 chips currently available in China.\nNvidia said it manages supply continuously and that licensed sales would not affect U.S. customers. Analysts noted regulatory and geopolitical risks remain significant and could alter any delivery plans.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "00:35:06",
+      "Source": "Investor's Business Daily",
+      "Title": "Citi Makes Left Field Choice For Top Pick Among Chip Stocks",
+      "URL": "https://finance.yahoo.com/m/526df099-d234-3f58-90af-85f708e57ffa/citi-makes-left-field-choice.html",
+      "Content": "Citi Makes Left Field Choice For Top Pick Among Chip Stocks\n\nPATRICK SEITZ\nTue, December 23, 2025 at 8:35 AM PST 1 min read\n\nIn this article: C\n\nMCHPP\n\nMCHP\n\nNVDA\n\nAVGO\n\nInvestment bank Citi named Microchip as its top pick among chip stocks as it forecasts a resurgence for analog semiconductors in 2026.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "00:31:45",
+      "Source": "MT Newswires",
+      "Title": "Top Midday Stories: US Q3 GDP Rises More Than Expected; Novo Nordisk Gets FDA Approval for Wegovy Pill",
+      "URL": "https://finance.yahoo.com/news/top-midday-stories-us-q3-163145170.html",
+      "Content": "PREMIUM\nTop Midday Stories: US Q3 GDP Rises More Than Expected; Novo Nordisk Gets FDA Approval for Wegovy Pill\n\nMT Newswires\nTue, December 23, 2025 at 8:31 AM PST 1 min read\n\nIn this article: NVO\n\nNOW\n\nAll three major US stock indexes were up in late-morning trading Tuesday after delayed GDP data came\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "00:26:00",
+      "Source": "Barrons.com",
+      "Title": "Alibaba Shows China May Be Next Frontier for Nvidia and AMD",
+      "URL": "https://finance.yahoo.com/m/2f1df939-8b62-3fa3-a091-6f6d47880252/alibaba-shows-china-may-be.html",
+      "Content": "Alibaba Shows China May Be Next Frontier for Nvidia and AMD\n\nJack Denton\nTue, December 23, 2025 at 8:26 AM PST 2 min read\n\nIn this article: NVDA\n\nBABAF\n\nAMD\n\nBABA\n\nAlibaba, the Chinese online retail and cloud computing giant, has emerged as one of China’s AI leaders this year,\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "23:59:03",
@@ -4045,5 +4081,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 449
+  "total_news_count": 453
 }
