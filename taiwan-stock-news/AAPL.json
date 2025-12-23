@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-23T16:11:32.424Z",
+  "last_updated": "2025-12-23T18:11:05.658Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "01:12:30",
+      "Source": "Investing.com",
+      "Title": "Lead times across the iPhone  17 series are moderating: analyst",
+      "URL": "https://finance.yahoo.com/news/lead-times-across-iphone-17-171230405.html",
+      "Content": "Lead times across the iPhone 17 series are moderating: analyst\n\nSam Boughedda\nTue, December 23, 2025 at 9:12 AM PST 1 min read\n\nIn this article: AAPL\n\nInvesting.com -- Lead times for Apple’s iPhone 17 series are easing, according to JPMorgan, as supply catches up with demand.\nAnalyst Samik Chatterjee said in a note Tuesday that “lead times across the iPhone 17 series moderated by three days,” with average delivery times now around three days, matching levels seen during the same point in the iPhone 16 cycle last year.\n\nChatterjee highlighted that Apple typically reaches a “parity of demand and supply towards the end of the year,” and the iPhone 17 series appears to be following the same pattern.\nThe higher year-on-year demand had initially pushed delivery times longer during the post-launch quarter, but the gap is now said to be narrowing.\nEven the Base iPhone, considered the key driver of this cycle, saw lead times fall to the low-single-digit range, according to the bank.\nJPMorgan noted that the decrease was particularly pronounced for the Base model, which fell by six days, while the iPhone 17 Air and Pro dropped by one day each, and the Pro Max by two days.\n“Lead times on average decreased by 3 days (relative to Wk14),” Chatterjee wrote, contrasting with “unchanged lead times across the board for iPhone 16 in the prior year.”\n\nThe analyst added that demand-supply parity suggests limited supply constraints heading into Apple’s second fiscal quarter of 2026.\nStrong sell-through for the iPhone 17 series is expected to continue supporting higher unit sales and revenue through the remainder of the product cycle, JPMorgan stated.\nRelated articles\nLead times across the iPhone 17 series are moderating: analyst\nThese Under-$10 Stocks Are Up 100%+ This Quarter - And Some Still Have Room to Run\nThe 5 Best Gold Mining Stocks to Buy Now\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "23:56:07",
@@ -1210,5 +1219,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 134
+  "total_news_count": 135
 }
