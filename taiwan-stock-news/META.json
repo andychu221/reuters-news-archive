@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-23T00:11:25.827Z",
+  "last_updated": "2025-12-23T02:11:29.587Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "09:31:03",
+      "Source": "Benzinga",
+      "Title": "Meta's 'Highest-Paid' Employee Is Reportedly Unhappy With Zuckerberg",
+      "URL": "https://finance.yahoo.com/news/metas-highest-paid-employee-reportedly-013103013.html",
+      "Content": "Meta's 'Highest-Paid' Employee Is Reportedly Unhappy With Zuckerberg\n\nBibhu Pattnaik\nMon, December 22, 2025 at 5:31 PM PST 2 min read\n\nIn this article: META\n\nSCAI.PVT\n\nMeta Platforms Inc. ‘s (NASDAQ: FB ) AI whizz Alexandr Wang is reportedly feeling ‘suffocated’ under the micromanagement of CEO Mark Zuckerberg .\nWhat Happened : Wang, the brains behind Scale AI, became part of Meta earlier this year when the social media giant acquired a 49% stake in his startup for over $14 billion.\n\nWang has allegedly communicated to his colleagues that Zuckerberg’s stringent control over the AI project is impeding its advancement, reports The Financial Times.\nDon't Miss:\nIf there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it ?\n7 Million Gamers Already Trust Gameflip With Their Digital Assets — Now You Can Own a Stake in the Platform\nThis news surfaces amidst a period of internal discord at Meta, characterized by layoffs, high-level departures, and hasty AI deployments. The company’s much-anticipated AI model, Llama 4, failed to live up to the hype, fueling further dissatisfaction.\nDespite these hurdles, Zuckerberg remains committed to AI investment, with Wang at the helm of the enigmatic TBD Lab, tasked with creating a novel flagship AI model, codenamed “Avocado”.\n\nHowever, there has been some skepticism within Meta regarding Wang’s capability to oversee large research teams, considering his expertise lies in AI data services rather than pioneering AI models.\nThe pressure is also mounting on former GitHub CEO Nat Friedman , who was recruited to incorporate AI models into Meta’s offerings. The urgency to deliver has led to premature product launches.\nSee Also: Deloitte's #1 Fastest-Growing Software Company Lets Users Earn Money Just by Scrolling — Accredited Investors Can Still Get In at $0.50/Share.\nAmid these leadership challenges, several high-ranking executives have exited Meta, and the company has dismissed 600 employees from its AI divisions. Meta’s AI capital expenditures are projected to hit a minimum of $70 billion this year.\n\nMeta has contested certain elements of the report, asserting that public leaderboards can be misleading and that recent policy issues were based on examples that were “erroneous and inconsistent” with its guidelines.\nWhy It Matters : The reported dissatisfaction of Wang, a key player in Meta’s AI initiative, could potentially impact the company’s ambitious AI projects. The internal strife and high-level departures may further destabilize the company’s AI efforts.\nAdditionally, the criticisms of rushed product releases and the failure of the Llama 4 model underscore the challenges Meta faces in its pursuit of AI dominance.\n\nStory Continues\nRead Next:\nMissed Tesla? EnergyX Is Tackling the Next $200 Billion Opportunity — Lithium\n$100k+ in investable assets? Match with a fiduciary advisor for free to learn how you can maximize your retirement and save on taxes – no cost, no obligation.\nUp Next: Transform your trading with Benzinga Edge's one-of-a-kind market trade ideas and tools. Click now to access unique insights that can set you ahead in today's competitive market.\nGet the latest stock analysis from Benzinga:\nAPPLE (AAPL): Free Stock Analysis Report\nTESLA (TSLA): Free Stock Analysis Report\nThis article Meta's 'Highest-Paid' Employee Is Reportedly Unhappy With Zuckerberg originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "06:50:00",
@@ -868,5 +877,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 96
+  "total_news_count": 97
 }
