@@ -1,8 +1,26 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-23T13:10:40.601Z",
+  "last_updated": "2025-12-23T14:10:48.160Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "22:00:00",
+      "Source": "PR Newswire",
+      "Title": "Mobvoi and Olares Announce Partnership to Redefine AI Productivity with the World's First \"Hybrid-Cloud\" Note-Taking Earbuds",
+      "URL": "https://finance.yahoo.com/news/mobvoi-olares-announce-partnership-redefine-140000509.html",
+      "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nMobvoi and Olares Announce Partnership to Redefine AI Productivity with the World's First \"Hybrid-Cloud\" Note-Taking Earbuds\n\nPR Newswire\nTue, December 23, 2025 at 6:00 AM PST 3 min read\n\nIn this article: NVDA\n\nNew integration empowers TicNote Pods to offer AI transcription and summarization and other AI features, giving professionals a choice between cloud-based convenience and local data sovereignty powered by Olares One's NVIDIA 5090 Mobile GPU.\nSAN FRANCISCO , Dec. 23, 2025 /PRNewswire/ -- Mobvoi, a global leader in AI interaction and hardware, and Olares, the innovator behind the Personal AI Cloud, today announced a partnership designed to redefine the modern workflow. By integrating Mobvoi's TicNote Pods with the computational power of Olares One , the two companies are introducing a flexible ecosystem that offers users an unprecedented choice between subscription-based cloud services and private, local processing .\nThe partnership centers on the TicNote Pods, a device that has already garnered significant industry acclaim as the world's first 4G-enabled AI note-taking earbuds . Unlike traditional wearables that rely on a tethered smartphone, TicNote Pods operate autonomously. Whether in a boardroom, a lecture hall, or on a run, these earbuds capture high-fidelity audio and instant voice memos, ensuring that no critical information or sudden flash of inspiration is ever lost.\n\nHowever, as AI becomes more integral to daily work, professionals increasingly seek options that cater to different data sensitivities. Recognizing this, Mobvoi and Olares have collaborated to create a \"Local Mode\" that expands the TicNote ecosystem.\nLeveraging a local version of Shadow AI, Olares One processes incoming data to perform heavy-duty tasks , including multi-language translation, intelligent transcription, and contextual summarization.\nThis hybrid approach allows users to enjoy the convenience of Mobvoi's public cloud services for general tasks while reserving Olares One for highly sensitive, confidential conversations .\nTo ensure that \"local\" does not mean \"slower\", Olares One is engineered as a powerhouse. It runs on the self-developed, open-source Olares OS and is equipped with NVIDIA GeForce RTX 5090 mobile GPU. This hardware specification ensures that local AI tasks are executed with speed and precision that rivals top-tier cloud servers .\n\n\"The combination of TicNote Pods and Olares One is set to change the industry landscape,\" said Peng Peng, Founder of Olares. \" We are focused on helping professionals find the perfect balance between privacy and efficiency. \"\n\"TicNote Pods were designed to capture and make sense of every idea, meeting, and lecture in real time,\" said Zhifei Li, Founder and CEO of Mobvoi. \"By integrating with Olares One, we are giving professionals the freedom to choose how and where their AI processes work–whether leveraging the cloud for speed or their own private setup for sensitive data. Together, we are redefining productivity, privacy and AI-assisted knowledge management. \"\n\nStory Continues\nBoth TicNote Pods and Olares One are currently capturing strong support via their respective crowdfunding campaigns on Kickstarter. These devices are scheduled to begin shipping to early backers in February 2026.\nAbout Mobvoi\nMobvoi is an innovative AI tech company with in-house core technologies in the areas including speech recognition, natural language understanding, vertical search, etc. Its core consumer products include the TicWatch line of smartwatches and the AI voice recorder TicNote . Mobvoi recently achieved a successful listing on the Hong Kong Stock Exch ange, sign aling a new chapter in the company's commitment to innovation and technology-driven solutions for its users.\n\nMobvoi is dedicated to redefining the next generation of human-machine interaction by bringing hardware/software integrated products into people's daily life with a strong AI-centered approach.\nTo find out more about Mobvoi: https://www.mobvoi.com\nAbout Olares\nFounded in 2022 and headquartered in Singapore, Olares is a global leading company specializing in privacy-first, open-source personal AI cloud. By fusing enterprise-grade security with flagship-level performance, Olares empowers individuals and teams to own their data and run powerful AI locally without cloud lock-in or subscriptions. Its flagship product, Olares One, is a high-performance on-device AI workstation, featuring one-click app deployment through Olares Market, iOS-style sandboxing, and a fully auditable open-source OS.\nFor more information, visit https://one.olares.com\nView original content to download multimedia: https://www.prnewswire.com/news-releases/mobvoi-and-olares-announce-partnership-to-redefine-ai-productivity-with-the-worlds-first-hybrid-cloud-note-taking-earbuds-302648476.html\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "21:52:45",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Decline Pre-Bell Tuesday",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-decline-pre-135245749.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Decline Pre-Bell Tuesday\n\nMT Newswires\nTue, December 23, 2025 at 5:52 AM PST 1 min read\n\nIn this article: XSD\n\nPSN\n\nGOOG\n\nNVDA\n\nXLK\n\nTechnology stocks were declining pre-bell Tuesday, with the State Street Technology Select Sector SP\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "20:28:21",
@@ -3955,5 +3973,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 439
+  "total_news_count": 441
 }
