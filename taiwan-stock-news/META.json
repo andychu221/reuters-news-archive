@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-23T09:11:25.995Z",
+  "last_updated": "2025-12-23T10:11:17.560Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "17:47:47",
+      "Source": "MT Newswires",
+      "Title": "New York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy",
+      "URL": "https://finance.yahoo.com/news/york-times-writers-sue-google-094747542.html",
+      "Content": "PREMIUM\nNew York Times Writers Sue Google, Other Large Language Model Creators Over Alleged Book Piracy\n\nMT Newswires\nTue, December 23, 2025 at 1:47 AM PST 1 min read\n\nIn this article: GOOG\n\nMSFT\n\nMETA\n\nXAAI.PVT\n\nNYT\n\nThe New York Times' (NYT) John Carreyrou and five other writers filed a complaint in the California\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "16:00:29",
@@ -913,5 +922,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 101
+  "total_news_count": 102
 }
