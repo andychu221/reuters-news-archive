@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-23T02:10:45.623Z",
+  "last_updated": "2025-12-23T03:10:37.949Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "10:51:25",
+      "Source": "AFP",
+      "Title": "Asian markets rally again as rate cut hopes bring Christmas cheer",
+      "URL": "https://finance.yahoo.com/news/asian-markets-rally-again-rate-025125913.html",
+      "Content": "Asian markets rally again as rate cut hopes bring Christmas cheer\n\nAFP\nMon, December 22, 2025 at 6:51 PM PST 3 min read\n\nIn this article: GC=F\n\nSI=F\n\nNVDA\n\nEquities extended a global rally Tuesday, while gold and silver hit fresh records as optimism for more US interest rate cuts and an easing of AI fears helped investors prepare for the festive break on a positive note.\nData showing US unemployment rising and inflation slowing gave the Federal Reserve more room to lower borrowing costs and provided some much-needed pep to markets after a recent swoon.\n\nThat was compounded by a blockbuster earnings report from Micron Technologies that reinvigorated tech firms.\nThe sector has been the key driver of a surge in world markets to all-time highs this year owing to huge investments into all things artificial intelligence but that trade has been questioned in recent months, sparking fears of a bubble that could pop.\nWith few catalysts to drive gains on Wall Street, tech was again at the forefront of buying Monday, with chip titan Nvidia and Tesla leading the way.\n\"The amount of money being thrown towards AI has been eye-watering,\" wrote Michael Hewson of MCH Market Insights.\nHe said the vast sums pumped into the sector \"has inevitably raised questions as to how all of this will be financed, when all the companies involved appear to be playing a game of pass the parcel when it comes to cash investment\".\n\n\"These deals also raise all manner of questions about how this cash will generate a longer-term return on investment,\" he added.\n\"With questions now being posed... we may start to get a more realistic picture of who the winners and losers are likely to be, with the losers likely to be punished heavily.\"\nAsian markets enjoyed more buying, with Tokyo, Hong Kong, Shanghai, Sydney, Singapore, Seoul, Taipei, Wellington and Jakarta all comfortably higher.\nPrecious metals were also pushing ever higher on the back of expectations for more US rate cuts, which makes them more attractive to investors.\nBullion was within a whisker of $4,500 per ounce, while silver was just short of $70 an ounce, with the US blockade against Venezuela and the Ukraine conflict adding a geopolitical twist.\n\n\"The structural tailwinds that have driven both of these to record highs this year persist, be it central bank demand for gold or surging industrial demand for silver,\" said Neil Wilson at Saxo Markets.\n\"The latest surge comes after soft inflation and employment readings in the US last week, which reinforced expectations around the Fed's policy easing next year. Geopolitics remains a factor, too.\"\nOil prices dipped, having jumped more than two percent Monday on concerns about Washington's measures against Caracas.\n\nStory Continues\nThe United States has taken control of two oil tankers and is chasing a third, after President Donald Trump last week ordered a blockade of \"sanctioned\" tankers heading to and leaving Venezuela.\n- Key figures at around 0230 GMT -\nTokyo - Nikkei 225: UP 0.1 percent at 50,442.12 (break)\nHong Kong - Hang Seng Index: UP 0.2 percent at 25,850.32\nShanghai - Composite: UP 0.1 percent at 3,922.71\nDollar/yen: DOWN at 156.42 yen from 156.99 yen on Monday\nEuro/dollar: UP at $1.1776 from $1.1756\nPound/dollar: UP at $1.3481 from $1.3458\nEuro/pound: UP at 87.36 pence from 87.35 pence\nWest Texas Intermediate: DOWN 0.1 percent at $57.94 per barrel\nBrent North Sea Crude: DOWN 0.1 percent at $62.00 per barrel\nNew York - Dow: UP 0.5 percent at 48,362.68 (close)\nLondon - FTSE 100: DOWN 0.3 percent at 9,865.97 (close)\ndan/mtp\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "09:20:00",
@@ -3730,5 +3739,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 414
+  "total_news_count": 415
 }
