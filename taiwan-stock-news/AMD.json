@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-23T01:11:15.581Z",
+  "last_updated": "2025-12-23T06:10:51.435Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "13:16:14",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer Says Eli Lilly’s GLP-1 Pill Is “Going to Revolutionize Everything”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-says-eli-lilly-051614791.html",
+      "Content": "Jim Cramer Says Eli Lilly’s GLP-1 Pill Is “Going to Revolutionize Everything”\n\nSyeda Seirut Javed\nMon, December 22, 2025 at 9:16 PM PST 2 min read\n\nIn this article: LLY\n\nCVX\n\nSLG\n\nAVGO\n\nAMD\n\nEli Lilly and Company (NYSE: LLY ) is one of the stocks Jim Cramer answered questions about . Inquiring if their portfolio is diversified, a caller highlighted that their top five holdings are LLY, SLG, MSFT, CVX, and TSM. Cramer said:\nPixabay/Public Domain\nEli Lilly and Company (NYSE:LLY) develops and markets medicines for diabetes, obesity, oncology, immunology, neuroscience, and other chronic conditions.\nWhile we acknowledge the potential of LLY as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "08:05:00",
@@ -958,5 +967,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 106
+  "total_news_count": 107
 }
