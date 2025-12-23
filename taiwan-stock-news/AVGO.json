@@ -1,8 +1,26 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-23T12:11:08.329Z",
+  "last_updated": "2025-12-23T13:10:54.853Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "20:28:21",
+      "Source": "GuruFocus.com",
+      "Title": "Insider Alert: Nvidia Director Cashes Out $40 Million in Stock Amid Rally",
+      "URL": "https://finance.yahoo.com/news/insider-alert-nvidia-director-sells-122257558.html",
+      "Content": "Insider Alert: Nvidia Director Cashes Out $40 Million in Stock Amid Rally\n\nNauman Khan\nTue, December 23, 2025 at 4:28 AM PST 1 min read\n\nIn this article: NVDA\n\nAVGO\n\nThis article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) and Broadcom (AVGO) insiders sold millions of dollars of stock this week, according to Form 4 filings with the U.S. Securities and Exchange Commission.\nNvidia director Mark Stevens sold 222,500 shares for about $40 million on Dec. 19, the filings show.\n\nThe moves come amid strong recent trading in both chip names. Over the past five days Nvidia gained about 4%.\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nInsider sales can signal caution but do not necessarily reflect company's outlook. Executives often sell for personal or tax reasons, financial planning or diversification, analysts say.\nInvestors will watch upcoming earnings closely for confirmation.\nNvidia is a major supplier to the fast-growing artificial intelligence and data-center markets, and its shares have attracted heightened retail and institutional attention.\nMarket observers say clustered sales by insiders are notable, but not proof of deteriorating business trends.\nThe SEC filings record the trades and are routine reporting mechanisms for insider activity.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "19:23:10",
+      "Source": "Argus Research",
+      "Title": "Daily – Vickers Top Buyers & Sellers for 12/23/2025",
+      "URL": "https://finance.yahoo.com/m/a59e3a67-5b09-3854-855e-45a07983c9d2/daily-%E2%80%93-vickers-top-buyers-%26.html",
+      "Content": "Daily – Vickers Top Buyers & Sellers for 12/23/2025\n\nArgus Research\nTue, December 23, 2025 at 3:23 AM PST\n\nIn this article: IMNM\n\nAVGO\n\nXZO\n\nWTM\n\nAZO\n\nThe Vickers Top Buyers & Sellers is a daily report that identifies the five companies the largest insider purchase transactions based on the dollar value of the transactions as well as the five companies the largest insider sales transactions based on the dollar value of the transactions.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "19:20:55",
@@ -1507,5 +1525,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 167
+  "total_news_count": 169
 }
