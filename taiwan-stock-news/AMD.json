@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-23T11:10:54.360Z",
+  "last_updated": "2025-12-23T12:11:01.336Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-23",
+      "Time": "19:20:55",
+      "Source": "GuruFocus.com",
+      "Title": "TSMC Extends Foundry Lead in Q3",
+      "URL": "https://finance.yahoo.com/news/tsmc-extends-foundry-lead-q3-112055714.html",
+      "Content": "TSMC Extends Foundry Lead in Q3\n\nMoz Farooque ACCA\nTue, December 23, 2025 at 3:20 AM PST 1 min read\n\nIn this article: TSM\n\nTSMWF\n\nNVDA\n\nAMD\n\nAVGO\n\nThis article first appeared on GuruFocus .\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ) continued to pull away from rivals in Q3 as the AI boom kept foundry demand humming.\nGlobal foundry revenue climbed 17% year over year to $84.8billion in the third quarter, Counterpoint Research said, with AI workloads driving heavy use of advanced manufacturing nodes. TSMC stood out again, growing revenue 41% from a year earlier and lifting its market share to 39%. The gains were fueled by a faster ramp in 3nm production and near-full utilization of 4nm and 5nm lines, largely tied to AI chip demand from Nvidia ( NASDAQ:NVDA ), AMD ( NASDAQ:AMD ), and Broadcom.\n\nWarning! GuruFocus has detected 1 Warning Sign with NVO.\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\nElsewhere, growth was far more muted. Non-TSMC foundries posted just 6% growth as tariff-related pull-forward orders faded, even with help from China's subsidies. Analysts say the next challenge is capacity, with advanced nodes and CoWoS packaging already running close to full. AI demand is still strong, but physical limits could start slowing growth as 2026 approaches.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-23",
+      "Time": "19:16:33",
+      "Source": "Investing.com",
+      "Title": "What is the China upside potential for Nvidia and AMD?",
+      "URL": "https://finance.yahoo.com/news/china-upside-potential-nvidia-amd-111633977.html",
+      "Content": "What is the China upside potential for Nvidia and AMD?\n\nVahid Karaahmetovic\nTue, December 23, 2025 at 3:16 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nInvesting.com -- Recent reports around a potential resumption of GPU sales to China have reopened the debate over how much upside U.S. chipmakers Nvidia and AMD could see if export approvals materialize.\nAccording to Raymond James analyst Simon Leopold, assessing the exact outcome is challenging as several moving parts remain. But in an optimistic scenario, Leopold estimates AMD could generate roughly $500 million to $800 million in incremental revenue, translating into about $0.10 to $0.20 of non-GAAP EPS upside.\n\nFor Nvidia, the potential is materially larger, with an estimated $7 billion to $12.5 billion in additional revenue, or about $0.15 to $0.30 of non-GAAP EPS upside in 2026.\n“Questions remain regarding whether the Chinese government will allow or discourage its cloud operators from purchasing advanced GPUs, as well as how the U.S. government’s export license fee will be accounted for,” Leopold wrote.\nFor AMD, market speculation has centered on China-compliant accelerator orders tied to Alibaba, with reports pointing to 40,000 to 50,000 MI308 units. At the midpoint, Leopold notes that “a $15,000 chip could equate to $675M in sales,” likely spread across multiple quarters.\nHowever, uncertainty remains around approval timing, ramp linearity and whether China enforces restrictions on American AI semiconductors.\n\nThe required 15% payment to the U.S. government introduces accounting complexity around pricing and accounting.\nWhile modest relative to AMD’s total revenue base, momentum could build as roadmap execution continues and China-compliant offerings gain traction, Leopold said.\nNvidia faces a similar dynamic, with speculation focused on a limited resumption of H200 GPU shipments to large Chinese hyperscalers and internet companies.\nEven modest volumes could be meaningful, as “tens of thousands of units” at estimated average selling prices (ASPs) of $20,000 to $25,000, and up to roughly 350,000 to 500,000 units over time, could drive billions of dollars in incremental revenue.\nLeopold stresses that China remains a relatively small part of Nvidia’s overall data center business, with growth primarily driven by U.S. hyperscalers, sovereign AI and enterprise customers as newer platforms ramp through 2026.\n\n“We continue to view AI infrastructure as a multi-trilliondollar opportunity over the next decade, with Nvidia well positioned to sustain industry-leading growth, margins, and dominant share in data center accelerators, and we reiterate our Strong Buy rating,” he wrote.\nRelated articles\nWhat is the China upside potential for Nvidia and AMD?\n\nStory Continues\n3 Dependable Non-Tech Stocks Poised for Steady Gains in Uncertain Times\nNasdaq 100 Setup Turns Cautious as Insiders Sell and Technicals Flash Fatigue\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-23",
       "Time": "15:51:36",
@@ -1003,5 +1021,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 111
+  "total_news_count": 113
 }
