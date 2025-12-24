@@ -1,8 +1,26 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-24T16:10:54.647Z",
+  "last_updated": "2025-12-24T18:11:06.733Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "01:47:45",
+      "Source": "GuruFocus.com",
+      "Title": "Leak Hints at First Intel Nvidia Chip After $5 Billion Partnership",
+      "URL": "https://finance.yahoo.com/news/leak-hints-first-intel-nvidia-174745114.html",
+      "Content": "Leak Hints at First Intel Nvidia Chip After $5 Billion Partnership\n\nMoz Farooque ACCA\nWed, December 24, 2025 at 9:47 AM PST 1 min read\n\nIn this article: INTC\n\nNVDA\n\nAMD\n\nTSM\n\nThis article first appeared on GuruFocus .\nIntel ( INTC , Financials ) and Nvidia ( NVDA , Financials ) may be preparing to ship their first jointly developed chip , according to leaked details about a laptop processor called Serpent Lake. The leak, shared by YouTube channel RedGamingTec, suggests the chip will combine Intel CPUs with Nvidia RTX graphics in a single design.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nSerpent Lake is expected to pair Intel's upcoming Titan Lake CPU architecture with Nvidia's RTX Rubin graphics, manufactured on TSMC's 3-nanometer process. The chip is reportedly aimed at competing with AMD's Strix Halo by delivering stronger graphics performance in high-end laptops.\nOne notable feature is memory bandwidth. The design is said to support up to 16 channels of LPDDR6 memory, a move intended to avoid bottlenecks that have limited graphics performance in competing processors.\nThe leak appears to offer the first real glimpse of what Intel and Nvidia's $5 billion partnership could produce. While Intel says it remains committed to its own Arc graphics roadmap, Serpent Lake points to deeper collaboration between the two companies, with a potential launch in late 2025 or early 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "01:37:07",
+      "Source": "GuruFocus.com",
+      "Title": "Raymond James Sees Potential China Upside for Nvidia and AMD",
+      "URL": "https://finance.yahoo.com/news/raymond-james-sees-potential-china-173707739.html",
+      "Content": "Raymond James Sees Potential China Upside for Nvidia and AMD\n\nMoz Farooque ACCA\nWed, December 24, 2025 at 9:37 AM PST 1 min read\n\nIn this article: NVDA\n\nAMD\n\nThis article first appeared on GuruFocus .\nRaymond James analysts say that Nvidia ( NVDA , Financials ) and AMD ( AMD , Financials ) might experience small gains related to China, even if there is still uncertainty over trade policies and export limits .In a best-case scenario, the company thinks that AMD might make an extra $500 million to $800 million in sales from demand in China. Nvidia might also gain, although it's tough to say how much because of the rules that are still in place.Raymond James said that the scenario is still changing and that there are a lot of moving factors that make it hard to forecast what will happen. But if limitations are eased or policies are made clearer, Chinese buyers may finally be able to buy what they want.The essential point for investors is that even though everyone knows about the hazards of investing in China, things may become better for both chipmakers.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "22:42:00",
@@ -1129,5 +1147,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 125
+  "total_news_count": 127
 }
