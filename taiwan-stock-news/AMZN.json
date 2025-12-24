@@ -1,8 +1,26 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-24T15:12:42.088Z",
+  "last_updated": "2025-12-24T16:12:19.358Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "23:30:00",
+      "Source": "TechCrunch",
+      "Title": "How Mill closed the deal with Amazon and Whole Foods",
+      "URL": "https://finance.yahoo.com/news/mill-closed-deal-amazon-whole-153000636.html",
+      "Content": "How Mill closed the deal with Amazon and Whole Foods\n\nTim De Chant\nWed, December 24, 2025 at 7:30 AM PST 3 min read\n\nIn this article: AMZN\n\nMill may have started with households, but co-founder and CEO Matt Rogers says the food waste startup has long aspired to expand to commercial customers.\n“This has been part of our plan since our Series A deck,” Rogers told TechCrunch.\nNow, with an official deal locked in with Amazon and Whole Foods the company’s plan to profit from handling other people’s food waste is a bit more public.\n\nWhole Foods will deploy a commercial-scale version of Mill ’s food waste bin in each of its grocery stores beginning in 2027. The bins will grind and dehydrate waste from the produce department, reducing costly landfill fees while also providing feed for the company’s egg producers. Both trim the company’s overhead.\nAt the same time, Mill’s bins will collect data to help Whole Foods understand what gets wasted and why, helping the grocer further control costs. “Ultimately, our goal is not just to make their waste operations more efficient, but also to move upstream so they actually waste less food,” Rogers said.\nThe company started selling food waste bins to households a few years ago . As can be expected from a team that made the Nest thermostat, the devices are well designed and — to lean on a Silicon Valley cliche — they can be a delight to use. My kids got a kick out of the bins while testing the first and second generations .\n\n“Starting in consumer was very intentional because you build the proof points, you build the data, the brand, loyalty,” Rogers said. Many members of the Whole Foods team were already using Mill in their homes when the two companies started talking.\n“It’s actually kind of our enterprise sales strategy,” Rogers continued. “We have conversations with senior leadership at our various ideal customers, and if they haven’t had Mill at home yet, we say, ‘Hey, try Mill at home, see what your family thinks.’ It is a surefire way of getting folks excited.”\nThe startup began having conversations with Whole Foods about a year ago, Rogers said. In the ensuing months, Whole Foods trialed the consumer version in some of its stores. Mill used feedback from Whole Foods to refine its commercial model.\n\nBut what helped sealed the deal was Mill’s ability to pinpoint food waste before it was wasted. Mill has developed an AI that uses a range of sensors to determine whether food that enters the bin should still be on the shelf. Minimizing “shrink” — the industry’s term for sales lost through waste or theft — can give grocers an edge in a cutthroat market.\nAdvances in large language models have been key, Rogers said. When he and Mill co-founder Harry Tannenbaum were at Nest, it took dozens of engineers and a “Google budget” more than a year to train Nest Cameras to recognize people and packages. With new LLMs, Mill only needed a handful of engineers and far less time to deliver superior results, according to Rogers, who said “AI is a huge enabler.”\n\nStory Continues\nThe use of AI allowed Mill to deliver a commercial version faster, diversifying its customer base and source of revenue.\n“If you are a single channel, single customer business, you’re fragile,” Rogers said. “I grew up at Apple during the iPod era,” he said. “Apple at the time was a single leg business. iPod was like 70% of company revenue. This was why we did the iPhone. Steve [Jobs] pushed us really hard on the iPhone because he was worried that folks like Motorola — who were working on smartphones at the time — would start to eat our lunch on the iPod business and that that would crush us. We needed to build another leg of the stool.”\nAnd it seems that Mill isn’t finished adding legs to its figurative stool. Rogers said its working on building out a municipal business as well.\n“We’re continuing to add more legs to the stool and adding more diversity to the business,” he said.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "23:16:38",
+      "Source": "MT Newswires",
+      "Title": "Microsoft-Backed OpenAI Exploring Advertisements in ChatGPT",
+      "URL": "https://finance.yahoo.com/news/microsoft-backed-openai-exploring-advertisements-151638155.html",
+      "Content": "PREMIUM\nMicrosoft-Backed OpenAI Exploring Advertisements in ChatGPT\n\nMT Newswires\nWed, December 24, 2025 at 7:16 AM PST 1 min read\n\nIn this article: OPAI.PVT\n\nGOOGL\n\nMSFT\n\nGOOG\n\nMETA\n\nMicrosoft-backed (MSFT) OpenAI said Wednesday it is exploring how to incorporate advertisements in i\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "22:41:00",
@@ -1840,5 +1858,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 204
+  "total_news_count": 206
 }
