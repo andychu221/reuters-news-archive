@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-24T14:11:39.518Z",
+  "last_updated": "2025-12-24T15:11:18.799Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "22:23:18",
+      "Source": "GuruFocus.com",
+      "Title": "Nike Rises 2% After Apple CEO Tim Cook Buys $3 Million Stake",
+      "URL": "https://finance.yahoo.com/news/nike-rises-2-apple-ceo-142318925.html",
+      "Content": "Nike Rises 2% After Apple CEO Tim Cook Buys $3 Million Stake\n\nFaizan Farooque\nWed, December 24, 2025 at 6:23 AM PST 1 min read\n\nIn this article: NKE\n\nAAPL\n\nThis article first appeared on GuruFocus .\nShares of Nike ( NKE , Financials ) went up a little on Wednesday after Apple CEO Tim Cook bought almost $3 million worth of stock in the sportswear firm. This showed that he was confident even though the market had been falling recently.\nWarning! GuruFocus has detected 4 Warning Sign with NKE.\nIs NKE fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to a filing with the government, Cook, who has been on Nike's board since 2005 and is its lead independent director, acquired 50,000 shares for $58.97 apiece. He now owns around 105,000 Nike shares after the deal.\nThe acquisition comes less than a week after Nike said that sales in China were slowing and margins were weaker than expected. This news caused the stock to drop about 13% since December 18. Investors saw Cook's buy as a sign of support for the brand amid a tough time.\nNike shares were worth $58.49, which was almost 2% more than they were worth before the market opened.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "22:08:11",
@@ -37,6 +46,15 @@
       "Title": "Sector Update: Consumer Stocks Flat Premarket Wednesday",
       "URL": "https://finance.yahoo.com/news/sector-consumer-stocks-flat-premarket-133823094.html",
       "Content": "PREMIUM\nSector Update: Consumer Stocks Flat Premarket Wednesday\n\nMT Newswires\nWed, December 24, 2025 at 5:38 AM PST 1 min read\n\nIn this article: FFAI\n\nNKE\n\nTSLA\n\nXLP\n\nXLY\n\nConsumer stocks were flat premarket Wednesday, with the State Street Consumer Staples Select Sector\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "21:16:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, AMC, Strategy, Dynavax, and More",
+      "URL": "https://finance.yahoo.com/m/1257f9d8-67e5-375a-8187-2c1a9de613cd/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, AMC, Strategy, Dynavax, and More\n\nGeorge Glover\nWed, December 24, 2025 at 5:16 AM PST 2 min read\n\nIn this article: INTC\n\nCOIN\n\nNKE\n\nNVDA\n\nPATH\n\nStock futures were a touch lower on Wednesday, as investors waited to see if a Santa Claus rally would lift markets over the final few trading sessions of 2025. Intel fell 2.5% in premarket trading after Reuters reported that Nvidia had tested whether to manufacture chips using Intel’s production process but stopped moving forward with the plans. Nvidia and Intel didn’t immediately respond to Barron’s requests for comment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1426,5 +1444,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 158
+  "total_news_count": 160
 }
