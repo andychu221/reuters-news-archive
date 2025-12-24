@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-24T14:12:14.130Z",
+  "last_updated": "2025-12-24T15:12:09.756Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "22:36:03",
+      "Source": "Yahoo Finance",
+      "Title": "ChargePoint CEO: We expect a 'pullback' this quarter after EV tax credit expiry",
+      "URL": "https://finance.yahoo.com/news/chargepoint-ceo-we-expect-a-pullback-this-quarter-after-ev-tax-credit-expiry-143603750.html",
+      "Content": "ChargePoint CEO: We expect a 'pullback' this quarter after EV tax credit expiry Not building chargers at retail locations will be bad for business, CEO says.\n\nPras Subramanian · Senior Reporter\nWed, December 24, 2025 at 6:36 AM PST 4 min read\n\nIn this article: CHPT\n\nF\n\nTSLA\n\nABNB\n\nWhile EV charging companies aren't on the front lines of the EV battleground as much as automakers, they're still in the crosshairs.\nThe landscape evolved after Sept. 30, when the federal EV tax credit expired. EV sales surged before the deadline, but not surprisingly, Q4 sales are expected to plunge 46% quarter over quarter, per Cox Automotive.\n\nChargePoint ( CHPT ), the largest US charging network with 70,000 ports nationwide (compared to Tesla's 35,000 ports), also saw a bump in installations before the expiration of the tax credit. The big question is what happens next.\n\"We expect to see a bit of a pullback this quarter since so much inventory was moved before it expired,\" ChargePoint CEO Rick Wilmer said in an interview with Yahoo Finance.\nHowever, he doesn't think the lull in EV sales and charger installations will last long.\n\"I think people that drive EVs are never going back to gas vehicles. We see all kinds of data where they want to stick with electric vehicles once they've made the switch,\" he said, noting more EV sales will boost charger demand.\nWilmer, a 30-year vet of the Silicon Valley tech scene who was recently named to the Time100 Climate list , believes the combo of new EV products and cheaper prices will determine how big of a headwind the loss of the tax credit will be.\n\n\"You've seen Ford announce their new [Universal EV Platform]. You've got startups like Slate coming out with a low-cost, highly configurable pickup. You see the Koreans continue to introduce new product into the market. So I think in the long haul, EVs will win just because they're a superior product and the costs are coming down.\"",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "22:12:28",
+      "Source": "GuruFocus.com",
+      "Title": "Tesla Faces U.S. Probe Over Model 3 Emergency Door Release Design",
+      "URL": "https://finance.yahoo.com/news/tesla-faces-u-probe-over-141228725.html",
+      "Content": "Tesla Faces U.S. Probe Over Model 3 Emergency Door Release Design\n\nFaizan Farooque\nWed, December 24, 2025 at 6:12 AM PST 1 min read\n\nIn this article: TSLA\n\nThis article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) is under investigation by the U.S. National Highway Traffic Safety Administration (NHTSA) over concerns that Model 3 emergency door releases may be difficult to locate or use in emergencies.\nWarning! GuruFocus has detected 4 Warning Sign with NKE.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe investigation, which began on December 23, includes around 179,000 Model 3 cars from the 2022 model year. Regulators said the investigation is happening because of a complaint that the vehicles' mechanical door release, which is supposed to be utilized should the electronic or electrical latches fail, is \"hidden, unlabeled, and not intuitive.\"\nTesla uses electronic door buttons instead of regular handles most of the time. Safety experts have been critical of the design for a long time, saying that manual releases, particularly in the back seats, are not clearly marked or easy to see.\nThe examination comes after lawsuits that say passengers in earlier Tesla incidents were stuck because of problems with the door handles. The investigation doesn't automatically lead to a recall, but it's the first stage in a process that might lead to action being taken if safety issues are found.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "21:47:39",
@@ -19,6 +37,15 @@
       "Title": "Sector Update: Consumer Stocks Flat Premarket Wednesday",
       "URL": "https://finance.yahoo.com/news/sector-consumer-stocks-flat-premarket-133823094.html",
       "Content": "PREMIUM\nSector Update: Consumer Stocks Flat Premarket Wednesday\n\nMT Newswires\nWed, December 24, 2025 at 5:38 AM PST 1 min read\n\nIn this article: FFAI\n\nNKE\n\nTSLA\n\nXLP\n\nXLY\n\nConsumer stocks were flat premarket Wednesday, with the State Street Consumer Staples Select Sector\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "21:16:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, AMC, Strategy, Dynavax, and More",
+      "URL": "https://finance.yahoo.com/m/1257f9d8-67e5-375a-8187-2c1a9de613cd/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, AMC, Strategy, Dynavax, and More\n\nGeorge Glover\nWed, December 24, 2025 at 5:16 AM PST 2 min read\n\nIn this article: INTC\n\nCOIN\n\nNKE\n\nNVDA\n\nPATH\n\nStock futures were a touch lower on Wednesday, as investors waited to see if a Santa Claus rally would lift markets over the final few trading sessions of 2025. Intel fell 2.5% in premarket trading after Reuters reported that Nvidia had tested whether to manufacture chips using Intel’s production process but stopped moving forward with the plans. Nvidia and Intel didn’t immediately respond to Barron’s requests for comment.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -2074,5 +2101,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 230
+  "total_news_count": 233
 }
