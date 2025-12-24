@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-23T22:12:04.668Z",
+  "last_updated": "2025-12-24T00:11:17.656Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "06:01:00",
+      "Source": "Barrons.com",
+      "Title": "Elon Musk’s Net Worth Could Hit $1 Trillion Even Before He Earns That Huge Tesla Paycheck",
+      "URL": "https://finance.yahoo.com/m/a576c7ab-c82c-31a2-b889-b0cf6020ce00/elon-musk%E2%80%99s-net-worth-could.html",
+      "Content": "Elon Musk’s Net Worth Could Hit $1 Trillion Even Before He Earns That Huge Tesla Paycheck\n\nAl Root\nTue, December 23, 2025 at 2:01 PM PST 3 min read\n\nIn this article: TSLA\n\n^IXIC\n\nGOOG\n\nXAAI.PVT\n\nFEATURE Elon Musk had arguably had the greatest year of wealth creation in human history. That isn’t a value judgment on Mr. Musk, his businessesb or wealth. It just is what it is. He’s going to make more in 2026.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "05:43:25",
@@ -1975,5 +1984,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 219
+  "total_news_count": 220
 }
