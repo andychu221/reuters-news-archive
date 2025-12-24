@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-24T14:11:12.347Z",
+  "last_updated": "2025-12-24T15:11:01.545Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "22:34:54",
+      "Source": "GuruFocus.com",
+      "Title": "INTC: Intel Stock Falls After Nvidia Backs Out of 18A Chip Deal",
+      "URL": "https://finance.yahoo.com/news/intc-intel-stock-falls-nvidia-140806180.html",
+      "Content": "INTC: Intel Stock Falls After Nvidia Backs Out of 18A Chip Deal\n\nNauman Khan\nWed, December 24, 2025 at 6:34 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nAVGO\n\nTSM\n\nThis article first appeared on GuruFocus .\nIntel ( NASDAQ:INTC ) stock slipped about 2% on early Wednesday after reports indicated that Nvidia ( NASDAQ:NVDA ) chose not to use Intel's 18A manufacturing process.\nThe two companies had tested the process earlier this year, but Nvidia reportedly decided against moving forward. Broadcom ( NASDAQ:AVGO ) also took part in similar trials.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\nIntel's 18A technology is part of its effort to attract external chipmakers as customers, but early evaluations faced technical challenges, which may be affecting demand.\nShares of Nvidia remained mostly steady, suggesting minimal immediate impact on its production plans.\nThe company continues to rely heavily on Taiwan Semiconductor Manufacturing Company (TSM) for advanced chip fabrication.\nFor Intel, the decision underscores the competitive hurdles in winning high-profile foundry clients while trying to scale its advanced manufacturing capabilities.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "21:00:08",
@@ -1705,5 +1714,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 189
+  "total_news_count": 190
 }
