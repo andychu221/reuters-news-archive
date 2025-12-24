@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-24T14:12:47.979Z",
+  "last_updated": "2025-12-24T15:12:29.145Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "22:41:00",
+      "Source": "Barrons.com",
+      "Title": "Mergers & Acquisitions Soared This Year. Stocks That Could Make 2026 Even Bigger.",
+      "URL": "https://finance.yahoo.com/m/32d9e845-20d0-3fb3-b1ea-8efb3c36ca77/mergers-%26-acquisitions-soared.html",
+      "Content": "Mergers & Acquisitions Soared This Year. Stocks That Could Make 2026 Even Bigger.\n\nJacob Sonenshine\nWed, December 24, 2025 at 6:41 AM PST 4 min read\n\nIn this article: CYBR\n\nPANW\n\nGOOG\n\nAMZN\n\nCRWD\n\nMergers and acquisitions rose this year — and they can keep rising. Total M&A dollars so far this year rose to $4.39 trillion, according to data from London Stock Exchange Group. The increase in aggregate deal value is driven by larger deals, with the number of deals fairly stable.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "21:55:00",
@@ -2623,5 +2632,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 291
+  "total_news_count": 292
 }
