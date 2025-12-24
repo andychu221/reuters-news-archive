@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-24T01:10:42.260Z",
+  "last_updated": "2025-12-24T03:10:39.155Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "09:29:00",
+      "Source": "Barrons.com",
+      "Title": "Review & Preview: Next Stop? S&P 7000.",
+      "URL": "https://finance.yahoo.com/m/41558feb-3fd1-3bfb-97c9-9e755a105b13/review-%26-preview%3A-next-stop%3F.html",
+      "Content": "Review & Preview: Next Stop? S&P 7000.\n\nConnor Smith\nTue, December 23, 2025 at 5:29 PM PST 3 min read\n\nIn this article: SCHW\n\nHOOD\n\n^GSPC\n\n^DJI\n\n^IXIC\n\nThin volume paved the way to another stock market milestone. The Nasdaq Composite rose 0.6%. Only 3.82 billion shares traded on the New York Stock Exchange, which made for the lowest volume day since Jan. 3, according to Dow Jones Market Data.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "07:37:09",
@@ -4351,5 +4360,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 483
+  "total_news_count": 484
 }
