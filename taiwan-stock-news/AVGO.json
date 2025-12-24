@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-24T03:10:52.045Z",
+  "last_updated": "2025-12-24T07:10:48.675Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "14:23:12",
+      "Source": "GuruFocus.com",
+      "Title": "Broadcom CEO Dumps $42 Million in Stock -- Insider Sales Top $100 Million",
+      "URL": "https://finance.yahoo.com/news/broadcom-insider-selling-tops-100-151314392.html",
+      "Content": "Broadcom CEO Dumps $42 Million in Stock -- Insider Sales Top $100 Million\n\nNauman Khan\nTue, December 23, 2025 at 10:23 PM PST 1 min read\n\nIn this article: AVGO\n\nThis article first appeared on GuruFocus .\nBroadcom ( NASDAQ:AVGO ) Chief Executive Officer and President Hock Tan sold 130,000 shares , generating about $42.38 million in proceeds, according to a SEC filing.\nThe sale, executed on Dec. 18 and reported in a Form 4 filed Dec. 22, trimmed Tan's direct stake to roughly 595,638 shares, regulatory records show.\n\nWarning! GuruFocus has detected 3 Warning Sign with AVGO.\nIs AVGO fairly valued? Test your thesis with our free DCF calculator.\nThat single trade is the latest in a string of disposals by Tan and other executives this year. When combined with earlier sales, the cumulative total of insider disposals tied to Broadcom's senior ranks rises above $100 million.\nCompany filings and market data indicate Tan has periodically reduced holdings this year through scheduled transactions and transfer plans that help manage concentrated positions.\nAnalysts say insider sales often reflect personal or tax planning rather than a view on fundamentals, but clustered disposals can attract investor attention.\nBroadcom remains a major supplier to data-center and AI customers, and the stock has rallied this year on strong demand for chips tied to artificial intelligence.\nThe SEC Form 4 provides routine transparency on executive trades and does not imply wrongdoing. Market participants say such disclosures are part of normal governance overall.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "09:29:00",
@@ -1660,5 +1669,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 184
+  "total_news_count": 185
 }
