@@ -1,7 +1,29 @@
 {
-  "last_updated": "2025-12-23",
-  "total_reports": 36,
+  "last_updated": "2025-12-24",
+  "total_reports": 38,
   "reports": [
+    {
+      "Source": "TradingView - Global FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3XT0TW:0/",
+      "Date": "2025-12-24",
+      "Time": "04:26:15",
+      "Title": "《全球匯市》美元走軟，美聯儲降息預期蓋過GDP數據影響",
+      "Content": "Refinitiv\n\nUSDJPYEURUSDDXYGBPUSD\n這則新聞只顯示標題，沒有其他正文。\n\nReuters美國股票\n© Copyright Thomson Reuters 2025. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 218,
+      "HasTables": false,
+      "ScrapedAt": "2025-12-24 08:12:00"
+    },
+    {
+      "Source": "TradingView - US Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3XT0SP:0/",
+      "Date": "2025-12-24",
+      "Time": "03:21:35",
+      "Title": "美國債市：收益率在GDP等數據公布後回吐漲幅",
+      "Content": "Refinitiv\n\nUS10YZB1!\n這則新聞只顯示標題，沒有其他正文。\n\nReuters美國股票\n© Copyright Thomson Reuters 2025. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 206,
+      "HasTables": false,
+      "ScrapedAt": "2025-12-24 08:12:15"
+    },
     {
       "Source": "TradingView - Taiwan FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3XP0KT:0/",
