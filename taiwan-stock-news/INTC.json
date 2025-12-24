@@ -1,8 +1,44 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-24T16:11:18.671Z",
+  "last_updated": "2025-12-24T17:11:38.180Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "00:51:09",
+      "Source": "MT Newswires",
+      "Title": "Top Midday Stories: Apple's Cook Buys $3 Million in Nike Stock; OpenAI Explores Ads in ChatGPT; Sanofi-Dynavax $2.2 Billion Deal",
+      "URL": "https://finance.yahoo.com/news/top-midday-stories-apple-apos-165109264.html",
+      "Content": "PREMIUM\nTop Midday Stories: Apple's Cook Buys $3 Million in Nike Stock; OpenAI Explores Ads in ChatGPT; Sanofi-Dynavax $2.2 Billion Deal\n\nMT Newswires\nWed, December 24, 2025 at 8:51 AM PST 2 min read\n\nIn this article: NKE\n\nAAPL\n\nOPAI.PVT\n\nSNY\n\nMSFT\n\nAll three major US stock indexes were edging higher in late-morning trading on Wednesday after initi\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "00:22:43",
+      "Source": "Bloomberg",
+      "Title": "Nvidia Stops Test Using Intel's Chip Production Process",
+      "URL": "https://finance.yahoo.com/video/nvidia-stops-test-using-intels-162243099.html",
+      "Content": "Nvidia Stops Test Using Intel's Chip Production Process\n\nBloomberg\nWed, December 24, 2025 at 8:22 AM PST\n\nIn this video: INTC\n\nNVDA\n\nIntel Corp. shares fell after a report said Nvidia stopped a test using Intel's production process to make advanced chips. The report from from Reuters. Norah Mulinda reports.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "23:53:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, Micron, Disney, AMC, Strategy, Dynavax, and More",
+      "URL": "https://finance.yahoo.com/m/1257f9d8-67e5-375a-8187-2c1a9de613cd/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, Micron, Disney, AMC, Strategy, Dynavax, and More\n\nGeorge Glover\nWed, December 24, 2025 at 7:53 AM PST 3 min read\n\nIn this article: NKE\n\nCOIN\n\nINTC\n\nNVDA\n\nPATH\n\nNike rises after Apple CEO Tim Cook snaps up shares, while Tesla stock drops amid door safety investigation.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "23:30:00",
+      "Source": "Barrons.com",
+      "Title": "Apple CEO Tim Cook Buys $3 Million of Nike Shares. The Stock Is Rising.",
+      "URL": "https://finance.yahoo.com/m/aadcd4ba-7f53-3687-bd2c-28a96d0af124/apple-ceo-tim-cook-buys-%243.html",
+      "Content": "Apple CEO Tim Cook Buys $3 Million of Nike Shares. The Stock Is Rising.\n\nAndrew Bary\nWed, December 24, 2025 at 7:30 AM PST 1 min read\n\nIn this article: NKE\n\nAAPL\n\nINTC\n\nApple CEO Tim Cook bought nearly $3 million worth of depressed Nike stock following the company’s disappointing earnings report last week. Cook, who is the lead independent director of Nike and a board member since 2005, bought 50,000 shares of Nike stock on Monday at an average price of $58.97, according to a form 4 filing with the Securities and Exchange Commission late Tuesday. Cook now holds just over 105,000 shares of the footwear maker, worth more than $6 million at Wednesday’s stock price.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "22:52:20",
@@ -697,5 +733,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 77
+  "total_news_count": 81
 }
