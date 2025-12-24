@@ -1,8 +1,35 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-24T12:11:31.718Z",
+  "last_updated": "2025-12-24T13:11:31.148Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "21:07:04",
+      "Source": "MT Newswires",
+      "Title": "Top Premarket Decliners",
+      "URL": "https://finance.yahoo.com/news/top-premarket-decliners-130704599.html",
+      "Content": "PREMIUM\nTop Premarket Decliners\n\nMT Newswires\nWed, December 24, 2025 at 5:07 AM PST\n\nIn this article: INTC\n\nLHAI\n\nNVDA\n\nMRNA\n\nLinkhome Holdings (LHAI) shares were down 11% in recent Wednesday premarket activity, extending Tues\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "20:39:49",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Intel Shares Fall Premarket After Nvidia Reportedly Ends 18A Testing",
+      "URL": "https://finance.yahoo.com/news/market-chatter-intel-shares-fall-123949107.html",
+      "Content": "PREMIUM\nMarket Chatter: Intel Shares Fall Premarket After Nvidia Reportedly Ends 18A Testing\n\nMT Newswires\nWed, December 24, 2025 at 4:39 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nIntel (INTC) shares were down almost 3% in premarket activity Wednesday after Reuters reported that\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "20:09:06",
+      "Source": "Investing.com",
+      "Title": "Nike, UiPath gain in premarket; Intel falls",
+      "URL": "https://finance.yahoo.com/news/nike-uipath-gain-premarket-intel-120906856.html",
+      "Content": "Nike, UiPath gain in premarket; Intel falls\n\nSenad Karaahmetovic\nWed, December 24, 2025 at 4:09 AM PST 2 min read\n\nIn this article: PATH\n\nINTC\n\nNKE\n\nASTS\n\nSNY\n\nInvesting.com-- U.S. equity index futures edged lower ahead of the Christmas holiday, with S&P 500 Futures down 0.1% at 6:40 ET (11:40 GMT) in New York, putting the benchmark on track to pull back from a record high.\nUiPath (NYSE:PATH) shares jumped 8.3% in premarket trading on Wednesday after the company said it will be added to the S&P MidCap 400 index. The automation software firm will take the place of Synovus Financial, with the change scheduled to become effective before the opening bell on Friday, January 2.\nAst Spacemobile (NASDAQ:ASTS) rises 2.3% after the company successfully launched its largest-ever satellite from India. The launch marks the first in a planned series of deployments aimed at expanding space-based mobile connectivity, a key step as AST SpaceMobile seeks to compete more directly with Elon Musk’s SpaceX in satellite-to-phone services.\nDynavax Technologies (NASDAQ:DVAX) surges 37% following news that Sanofi SA (EPA:SASY) plans to launch a cash tender offer to acquire all outstanding shares of the company. Sanofi said it will offer $15.50 per share in cash, valuing Dynavax’s equity at roughly $2.2 billion and triggering a sharp repricing of the stock toward the bid level.\nNike (NYSE:NKE) gains 2.3% after a regulatory filing revealed that Apple Chief Executive Tim Cook purchased about $2.95 million worth of Nike shares on December 22. The disclosure drew investor attention given Cook’s high-profile role and long-standing ties to the sportswear company’s board.\nRamaco Resources (NASDAQ:METC) climbs 6.8% after the coal producer announced a share repurchase program of up to $100 million. The buyback will target shares of its Class A common stock and signals confidence from management in the company’s cash generation and balance sheet.\nIntel (NASDAQ:INTC) slips 2.7% after Reuters reported that Nvidia recently tested Intel’s advanced 18A chip manufacturing process but ultimately did not move forward. The report weighed on sentiment around Intel’s foundry ambitions and its efforts to attract major third-party chip customers.\nRelated articles\nNike, UiPath gain in premarket; Intel falls\nSilver's Bullish Pattern Points Higher — Keep an Eye on $52 Resistance Zone\n10 Beaten-Down Large-Cap Tech Stocks Offering Solid Upside Potential\n\nAGB und Datenschutzerklärung\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "20:00:53",
@@ -562,5 +589,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 62
+  "total_news_count": 65
 }
