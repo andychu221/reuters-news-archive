@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-24T15:12:29.145Z",
+  "last_updated": "2025-12-24T16:12:09.927Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "23:16:38",
+      "Source": "MT Newswires",
+      "Title": "Microsoft-Backed OpenAI Exploring Advertisements in ChatGPT",
+      "URL": "https://finance.yahoo.com/news/microsoft-backed-openai-exploring-advertisements-151638155.html",
+      "Content": "PREMIUM\nMicrosoft-Backed OpenAI Exploring Advertisements in ChatGPT\n\nMT Newswires\nWed, December 24, 2025 at 7:16 AM PST 1 min read\n\nIn this article: OPAI.PVT\n\nGOOGL\n\nMSFT\n\nGOOG\n\nMETA\n\nMicrosoft-backed (MSFT) OpenAI said Wednesday it is exploring how to incorporate advertisements in i\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "22:41:00",
@@ -2632,5 +2641,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 292
+  "total_news_count": 293
 }
