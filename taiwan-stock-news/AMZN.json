@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-24T02:11:52.443Z",
+  "last_updated": "2025-12-24T04:11:59.813Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "11:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI",
+      "URL": "https://finance.yahoo.com/m/90ff0fc6-8933-3e55-8f9a-bc037d56165c/bitcoin-miners-thrive-off-a.html",
+      "Content": "Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI\n\nVicky Ge Huang\nTue, December 23, 2025 at 7:00 PM PST 4 min read\n\nIn this article: BTC-USD\n\nGOOG\n\nMSFT\n\nAMZN\n\nThe pivot to AI has lifted a bitcoin-mining ETF by 90% this year, even as bitcoin itself has slumped.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "09:57:00",
@@ -1723,5 +1732,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 191
+  "total_news_count": 192
 }
