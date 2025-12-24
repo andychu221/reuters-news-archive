@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-24T11:11:20.659Z",
+  "last_updated": "2025-12-24T12:11:20.959Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "19:12:44",
+      "Source": "GuruFocus.com",
+      "Title": "Apple Pauses Plans After Texas Law Suspension",
+      "URL": "https://finance.yahoo.com/news/apple-pauses-plans-texas-law-111244752.html",
+      "Content": "Apple Pauses Plans After Texas Law Suspension\n\nFaizan Farooque\nWed, December 24, 2025 at 3:12 AM PST 1 min read\n\nIn this article: AAPL\n\nThis article first appeared on GuruFocus .\nApple Inc. ( AAPL , Financials ) is putting its plans to follow a Texas legislation on hold after the state stopped enforcing SB2420, which said that app retailers and developers had to check customers' ages.The regulation was supposed to make the internet safer for kids, but other people worried it may make things harder for developers and create privacy issues. Apple said it will keep an eye on the judicial process before making any further changes to its App Store rules as enforcement is currently on hold.The company's action shows how big internet companies are dealing with more and more complicated state level digital rules. The judgment might affect how other states who are thinking about making similar legislation handle compliance in the future. Apple runs one of the world's biggest app ecosystems.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "19:00:26",
@@ -28,6 +37,15 @@
       "Title": "Nike stock up 2% in pre-market after Apple CEO buys shares",
       "URL": "https://finance.yahoo.com/news/nike-stock-2-pre-market-104138205.html",
       "Content": "Nike stock up 2% in pre-market after Apple CEO buys shares\n\nNavamya Acharya\nWed, December 24, 2025 at 2:41 AM PST 1 min read\n\nIn this article: NKE\n\nAAPL\n\nInvesting.com -- Nike Inc. (NYSE:NKE) shares rose over 2% in pre-market trading on Wednesday following a regulatory filing showing that Apple (NASDAQ:AAPL) CEO and Nike board member Tim Cook purchased 50,000 shares of Nike Class B stock. The shares were bought at an average price of $58.97 per share, totaling roughly $2.9 million.\n\nCook has served on Nike’s board of directors since 2005 and now owns just over 105,000 Nike shares.\nThe filing was made public on December 23, and the stock reacted immediately in after-hours trading, reversing some of the recent weakness tied to slower demand in certain markets and recent earnings performance.\nRelated articles\nNike stock up 2% in pre-market after Apple CEO buys shares\nSilver's Bullish Pattern Points Higher — Keep an Eye on $52 Resistance Zone\nThese Under-$10 Stocks Are Up 100%+ This Quarter - And Some Still Have Room to Run\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "18:18:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Nike, UiPath, Tesla, AMC, Strategy, and More",
+      "URL": "https://finance.yahoo.com/m/1257f9d8-67e5-375a-8187-2c1a9de613cd/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Nike, UiPath, Tesla, AMC, Strategy, and More\n\nGeorge Glover\nWed, December 24, 2025 at 2:18 AM PST 2 min read\n\nIn this article: PATH\n\nAMC\n\nCOIN\n\nNKE\n\nAAPL\n\nStock futures were a touch lower on Wednesday, as investors waited to see if a Santa Claus rally would lift markets over the final few trading sessions of 2025. Nike climbed 2.2% to $58.57 in premarket trading. Cook snapped up the stock following Nike’s second-quarter earnings report last week, which disappointed investors due to declining profits and lackluster sales in China.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1318,5 +1336,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 146
+  "total_news_count": 148
 }
