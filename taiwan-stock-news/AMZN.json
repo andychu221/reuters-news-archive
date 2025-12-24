@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-24T04:11:59.813Z",
+  "last_updated": "2025-12-24T07:11:46.137Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "14:00:00",
+      "Source": "Barrons.com",
+      "Title": "Fidelity Contrafund’s Will Danoff Is Getting Closer to Handing Off the Reins",
+      "URL": "https://finance.yahoo.com/m/549d4ec5-35d0-35f3-a6e6-d90ff2ffca08/fidelity-contrafund%E2%80%99s-will.html",
+      "Content": "Fidelity Contrafund’s Will Danoff Is Getting Closer to Handing Off the Reins\n\nLewis Braham\nTue, December 23, 2025 at 10:00 PM PST 11 min read\n\nIn this article: AMZN\n\nBRK-B\n\nMETA\n\nMCD\n\nAAPL\n\nThe legendary manager has taken on two co-managers to help him run the mammoth fund. Just don’t use the word “retirement.”\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "11:00:00",
@@ -1732,5 +1741,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 192
+  "total_news_count": 193
 }
