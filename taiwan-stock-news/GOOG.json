@@ -1,8 +1,26 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-24T18:13:02.396Z",
+  "last_updated": "2025-12-24T19:12:30.411Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "03:00:00",
+      "Source": "Yahoo Finance Video",
+      "Title": "An AI bubble may be here, but the bubble is bigger for 'fad trades'",
+      "URL": "https://finance.yahoo.com/video/ai-bubble-may-bubble-bigger-190000752.html",
+      "Content": "An AI bubble may be here, but the bubble is bigger for 'fad trades'\n\nYahoo Finance Video and Brian Sozzi\nWed, December 24, 2025 at 11:00 AM PST\n\nIn this video: MSFT\n\nMETA\n\nXLK\n\nAMZN\n\n^IXIC\n\nWhile artificial intelligence dominated market themes in 2025, all Wall Street can talk about now is whether the market ( ^DJI , ^IXIC , ^GSPC ) is already in or about to enter an AI bubble.\nAnnandale Capital founder and chairman George Seay and CFRA Research chief investment strategist Sam Stovall share their thoughts on whether an AI bubble is forming or already here, and the areas displaying the most exuberance.\nAlso catch Sam Stovall discuss Wall Street's Santa Claus rally optimism and George Seay's comments on small-cap stocks in 2026.\nTo watch more expert insights and analysis on the latest market action, check out more Opening Bid .\n\nVideo Transcript\n\n00:00 Speaker A\nGeorge, let me stick with you here because there's so many people that are focused on are we in an AI bubble? I I would argue we might be seeing the signs of a a broader stock market bubble. and I'm saying I'm not saying I'm right. It's hard to predict these things. Maybe I have don't have any clue what I'm talking about. But do you see signs that investors are too just uh anxious to own stocks here?\n00:29 George\nOh, yeah. And you've got the percentage of American households that own stocks being at all-time highs right now as well. So, are we rich? Are we in something of a bubble? Yes, I would agree with that. But I would say that the the fad trades, whether it's AI or space or defense tech or things like that are in much more of a bubble than for instance, healthcare, which you brought up earlier. It's it's a market of stocks, it's not a stock market. So you go look at stocks that have a bright future and are going to do well and that aren't so overvalued that your margin of safety is is low. But you don't say, oh, I'm not going to own any AI. I'm not going to own Google and Amazon because it's it's they're spending too much and it's not real. You you own you you're balanced, you're diversified. You've got exposure to everything. You just may wait something a little higher that's much more attractive. And one other comment about small caps is the Fed is still cutting interest rates and small caps have a lot more debt than some of these mega cap stocks. So they they get a bump on their earnings just by uh re re uh redoing their debt and getting lower interest rates on their debt or having less debt to pay or paying it down. So they've got a a lot of wins at their back right now.\n01:54 Speaker A\nSam, you are a master of all things data. You've seen a lot of cycles. Do you see irrational exuberance in markets?\n02:04 Sam\nWell, as George had mentioned, uh yeah, I guess though in terms of valuations by by the end of October of this year, we were trading at two standard deviations above the mean uh for the S&P 500's PE ratio. You're looking at the uh Buffet indicator, which is the market cap of the S&P 500 divided by the uh nominal GDP and normally we would get nervous between 100 and 120% as we did before the uh tech bubble bursting in 2000, financial crisis in 07 and then uh the Covid uh bear market of 2020. Uh, but today we're at about 190%. Um, so I would tend to say that yes, valuations are elevated, um, but they could last a bit longer. Uh some has there has to be some sort of a trigger uh and right now we haven't found it yet.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "02:38:02",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones, S&P 500 Hit Record Highs Heading Into Christmas Holiday",
+      "URL": "https://finance.yahoo.com/m/751aea56-dbe1-3650-9890-a297f98bfbe1/dow-jones%2C-s%26p-500-hit-record.html",
+      "Content": "Dow Jones, S&P 500 Hit Record Highs Heading Into Christmas Holiday\n\nED CARSON\nWed, December 24, 2025 at 10:38 AM PST 4 min read\n\nIn this article: ^DJI\n\nGOOGL\n\nGOOG\n\nPLTR\n\nTVTX\n\nThe Dow Jones set a record close and the S&P 500 hit an intraday high heading into the Christmas holiday. Palantir, Tesla, Google and Nvidia are in buy areas.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "01:50:00",
@@ -2731,5 +2749,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 303
+  "total_news_count": 305
 }
