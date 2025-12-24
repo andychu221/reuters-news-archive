@@ -1,8 +1,44 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-24T21:10:52.819Z",
+  "last_updated": "2025-12-24T22:10:48.505Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "06:08:28",
+      "Source": "Investor's Business Daily",
+      "Title": "Nvidia Licenses Groq's AI Chip Tech, Grabs Top Execs, But Not A Takeover",
+      "URL": "https://finance.yahoo.com/m/ba65cea8-f694-3370-b38a-aeedb9f7b0cf/nvidia-licenses-groq%27s-ai.html",
+      "Content": "Nvidia Licenses Groq's AI Chip Tech, Grabs Top Execs, But Not A Takeover\n\nED CARSON\nWed, December 24, 2025 at 2:08 PM PST 1 min read\n\nIn this article: GROQ.PVT\n\nNVDA\n\nAVGO\n\nGOOG\n\nNvidia will license key technology from AI chip startup Groq, hiring top personnel. But it's not a full takeover, as previously reported.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "05:49:27",
+      "Source": "Investing.com",
+      "Title": "Nvidia to acquire Groq for $20 billion in its largest deal ever, CNBC reports",
+      "URL": "https://finance.yahoo.com/news/nvidia-acquire-groq-20-billion-214927907.html",
+      "Content": "Nvidia to acquire Groq for $20 billion in its largest deal ever, CNBC reports\n\nSenad Karaahmetovic\nWed, December 24, 2025 at 1:49 PM PST 1 min read\n\nIn this article: NVDA\n\nGROQ.PVT\n\nGOOG\n\nBLK\n\nSSNLF\n\nInvesting.com -- NVIDIA (NASDAQ:NVDA) has agreed to acquire Groq, a designer of high-performance artificial intelligence accelerator chips, in a $20 billion all-cash deal, CNBC reports.\nThe report, which is citing Alex Davis, chief executive of Disruptive and a long-time backer of the startup, noted that the transaction came together quickly, just months after Groq raised $750 million at a valuation of about $6.9 billion.\n\nDisruptive has invested more than $500 million in the company since its founding in 2016. The most recent funding round drew investors including BlackRock , Neuberger Berman, Samsung, Cisco, Altimeter and 1789 Capital.\nGroq is expected to notify investors about the deal later on Wednesday, Davis said. While the acquisition includes Groq’s assets, its early-stage cloud business is excluded from the transaction.\nThe startup was founded by former engineers behind Google’s tensor processing unit, or TPU, a chip designed to compete with Nvidia in artificial intelligence workloads.\nIf completed, the deal would represent Nvidia’s largest acquisition to date, underscoring the company’s push to strengthen its position in advanced AI hardware.\nRelated articles\nNvidia to acquire Groq for $20 billion in its largest deal ever, CNBC reports\nLoading Up HEAVY on These 3 Stocks by End of 2025 (+ 1 New ETF)\nThe 5 Best Gold Mining Stocks to Buy Now\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "05:26:10",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Predictions For 2026? Worthless. This Approach? Priceless.",
+      "URL": "https://finance.yahoo.com/m/f2528f6d-59bf-3292-98f8-1b3951bc0ceb/stock-market-predictions-for.html",
+      "Content": "Stock Market Predictions For 2026? Worthless. This Approach? Priceless.\n\nMATTHEW GALGANI\nWed, December 24, 2025 at 1:26 PM PST 4 min read\n\nIn this article: NVDA\n\nPLTR\n\nGOOG\n\nAPP\n\n^IXIC\n\nRather than make stock market predictions, apply this routine to Nvidia and any stocks of interest to stay profitable and protected.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "05:06:34",
+      "Source": "Reuters",
+      "Title": "Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports",
+      "URL": "https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html",
+      "Content": "Nvidia to buy AI chip startup Groq for $20 billion, CNBC reports\n\nReuters\nWed, December 24, 2025 at 1:06 PM PST 1 min read\n\nIn this article: GROQ.PVT\n\nNVDA\n\nDec 24 (Reuters) - Nvidia has agreed to buy Groq, a designer of ​high-performance artificial intelligence accelerator chips, ‌for $20 billion in cash, CNBC reported on Wednesday.\nWhile the ‌acquisition includes all of Groq's assets, its nascent Groq cloud business is not part of the deal, the report ⁠said, citing Alex ‌Davis, CEO of Disruptive, which led the startup's latest financing ‍round.\n\nGroq is a chip startup founded by Jonathan Ross and specializes in producing AI inference ​chips designed to optimize pre-trained models.\nThe ‌company more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.\nA deal for the reported amount ⁠would mark the largest ​acquisition by Nvidia following ​its $6.9 billion deal for Mellanox Technologies.\nGroq is expected to alert its ‍investors about ⁠the deal later in the day, CNBC reported.\nNvidia and Groq did not ⁠immediately respond to Reuters request for comments.\n(Reporting by ‌Harshita Mary Varghese in Bengaluru; Editing ‌by Shailesh Kuber)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "04:04:19",
@@ -4900,5 +4936,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 544
+  "total_news_count": 548
 }
