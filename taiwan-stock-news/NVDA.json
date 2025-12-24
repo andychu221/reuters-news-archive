@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-24T19:10:51.387Z",
+  "last_updated": "2025-12-24T20:10:39.560Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "03:36:00",
+      "Source": "Barrons.com",
+      "Title": "This Tech Investor Likes Broadcom, Bloom Energy, and Other AI Bargains",
+      "URL": "https://finance.yahoo.com/m/c40c62e1-2a05-3341-b072-3b8d8254886f/this-tech-investor-likes.html",
+      "Content": "This Tech Investor Likes Broadcom, Bloom Energy, and Other AI Bargains\n\nAvi Salzman\nWed, December 24, 2025 at 11:36 AM PST 8 min read\n\nIn this article: BE\n\nNVDA\n\nCRWV\n\nGEV\n\nAVGO\n\nPaul Wick of Seligman Investments has piloted his winning fund through numerous technology cycles. How he is playing AI, and why he is skeptical of quantum computing stocks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "03:00:00",
@@ -4882,5 +4891,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 542
+  "total_news_count": 543
 }
