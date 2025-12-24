@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-24T12:11:43.034Z",
+  "last_updated": "2025-12-24T13:11:38.105Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "20:00:53",
+      "Source": "Investing.com",
+      "Title": "Intel shares slide after report Nvidia halts testing of 18A process",
+      "URL": "https://finance.yahoo.com/news/intel-shares-slide-report-nvidia-120053021.html",
+      "Content": "Intel shares slide after report Nvidia halts testing of 18A process\n\nSenad Karaahmetovic\nWed, December 24, 2025 at 4:00 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nTSM\n\nInvesting.com -- Intel Corporation stock dropped 2.7% in premarket trading after Reuters reported that Nvidia stopped testing Intel’s 18A chip manufacturing process.\nAccordingly, Nvidia had been evaluating whether it could manufacture its chips using Intel’s advanced 18A production technology but decided not to move forward with the tests.\n\nAn Intel spokesperson told Reuters that the company’s 18A manufacturing technologies are \"progressing well,\" without providing further details about Nvidia’s decision to halt testing.\nThe news comes just months after the two semiconductor giants announced a major collaboration in September. Under that agreement, Intel would develop custom x86 CPUs for Nvidia’s AI infrastructure platforms, while also creating x86 system-on-chips integrating Nvidia RTX GPU chiplets for personal computing devices.\nAs part of the partnership, Nvidia had committed to investing $5 billion in Intel’s common stock at a purchase price of $23.28 per share, subject to regulatory approvals.\nThe reported testing halt raises questions about the technical viability of Intel’s advanced manufacturing process, which the company has positioned as crucial to its turnaround strategy and efforts to compete with Taiwan Semiconductor Manufacturing Company in the foundry business.\nRelated articles\nIntel shares slide after report Nvidia halts testing of 18A process\nThe 5 Best Gold Mining Stocks to Buy Now\nGold: $4K Breakout Faces First Real Test as Stocks and Sentiment Rise Together\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "19:20:00",
@@ -607,5 +616,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 67
+  "total_news_count": 68
 }
