@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-23T22:12:12.473Z",
+  "last_updated": "2025-12-24T04:11:32.867Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "The U.S. Offered Putin’s Closest Ally Sanctions Relief—and a Weight-Loss Drug",
+      "URL": "https://finance.yahoo.com/m/0cf99f11-7227-3016-8e09-bca101da013a/the-u.s.-offered-putin%E2%80%99s.html",
+      "Content": "The U.S. Offered Putin’s Closest Ally Sanctions Relief—and a Weight-Loss Drug\n\nAnnie Linskey\nTue, December 23, 2025 at 6:00 PM PST 11 min read\n\nIn this article: META\n\nLLY\n\nEngaging one of the world’s most repressive regimes, Trump envoy bonded with Belarusian dictator over Zepbound and obtained the release of hundreds of prisoners.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "05:15:25",
@@ -1057,5 +1066,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 117
+  "total_news_count": 118
 }
