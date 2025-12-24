@@ -1,8 +1,26 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-24T13:11:57.572Z",
+  "last_updated": "2025-12-24T14:12:25.206Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "21:38:18",
+      "Source": "GuruFocus.com",
+      "Title": "ByteDance Plans $23 Billion AI Spending Spree",
+      "URL": "https://finance.yahoo.com/news/bytedance-plans-23-billion-ai-133818449.html",
+      "Content": "ByteDance Plans $23 Billion AI Spending Spree\n\nMoz Farooque ACCA\nWed, December 24, 2025 at 5:38 AM PST 1 min read\n\nIn this article: NVDA\n\nMETA\n\nGOOG\n\nThis article first appeared on GuruFocus .\nByteDance, the private company behind TikTok, is getting ready to open the checkbook in a big way as it pushes harder into artificial intelligence. The company is planning roughly $23 billion in AI-related capital spending in 2026, betting heavily on computing power to fuel its next phase of growth.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nMost of that money will go toward the infrastructure behind Doubao, ByteDance's fast-growing AI assistant, along with tools that power advertising and content recommendations. A key part of the plan is a trial of about 20,000 Nvidia ( NASDAQ:NVDA ) H200 chips, a roughly $400 million investment that would give ByteDance access to top-tier AI hardware at a time when such supply is tightly controlled. Reports suggest more than half of the budget could be dedicated just to AI processors.\nThat spending still trails U.S. giants like Meta ( NASDAQ:META ) and Google ( NASDAQ:GOOG ), but ByteDance's private status gives it flexibility to play the long game. Doubao's rapid rise in China shows why the company is leaning in.\nWhy it matters: ByteDance is signaling that AI is now core to its business, not an experiment, and it is willing to spend aggressively to stay ahead.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "21:28:59",
+      "Source": "Investor's Business Daily",
+      "Title": "Meta Ordered By Italian Regulators To Keep WhatsApp Open For Rival AI Chatbots",
+      "URL": "https://finance.yahoo.com/m/5128cbeb-3367-3a07-ab67-fa6c83a7ad8b/meta-ordered-by-italian.html",
+      "Content": "Meta Ordered By Italian Regulators To Keep WhatsApp Open For Rival AI Chatbots\n\nRYAN DEFFENBAUGH\nWed, December 24, 2025 at 5:28 AM PST 2 min read\n\nIn this article: META\n\nOPAI.PVT\n\nPEAI.PVT\n\nMSFT\n\nItalian regulators ordered Meta Platforms to keep its WhatsApp messaging platform open to rival chatbots, such as OpenAI's ChatGPT. Meta stock was a fraction lower Wednesday. The Italian Competition Authority said Wednesday that a policy change within WhatsApp will \"completely exclude Meta AI's competitors\" from the platform once it takes effect Jan. 15.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "21:00:08",
@@ -1174,5 +1192,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 130
+  "total_news_count": 132
 }
