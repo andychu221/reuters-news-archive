@@ -1,8 +1,26 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-24T18:12:06.117Z",
+  "last_updated": "2025-12-24T19:11:42.796Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "02:48:33",
+      "Source": "MT Newswires",
+      "Title": "Dow, S&P 500 Close at New Highs in Holiday-Shortened Session",
+      "URL": "https://finance.yahoo.com/news/dow-p-500-close-highs-184833899.html",
+      "Content": "PREMIUM\nDow, S&P 500 Close at New Highs in Holiday-Shortened Session\n\nMT Newswires\nWed, December 24, 2025 at 10:48 AM PST 2 min read\n\nIn this article: ^GSPC\n\n^IXIC\n\nINTC\n\n^DJI\n\nAAPL\n\nThe Dow Jones Industrial Average and the S&P 500 ended the holiday-shortened Wednesday session at ne\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "02:34:35",
+      "Source": "MT Newswires",
+      "Title": "Consumer Staples, Real Estate Push US Equity Indexes Higher",
+      "URL": "https://finance.yahoo.com/news/consumer-staples-real-estate-push-183435735.html",
+      "Content": "PREMIUM\nConsumer Staples, Real Estate Push US Equity Indexes Higher\n\nMT Newswires\nWed, December 24, 2025 at 10:34 AM PST 2 min read\n\nIn this article: NKE\n\nNVDA\n\nEWTX\n\nINTC\n\nAAPL\n\nThe consumer staples and real estate sectors buoyed US equity indexes on Wednesday, supported by bet\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "02:05:42",
@@ -19,6 +37,15 @@
       "Title": "Leak Hints at First Intel Nvidia Chip After $5 Billion Partnership",
       "URL": "https://finance.yahoo.com/news/leak-hints-first-intel-nvidia-174745114.html",
       "Content": "Leak Hints at First Intel Nvidia Chip After $5 Billion Partnership\n\nMoz Farooque ACCA\nWed, December 24, 2025 at 9:47 AM PST 1 min read\n\nIn this article: INTC\n\nNVDA\n\nAMD\n\nTSM\n\nThis article first appeared on GuruFocus .\nIntel ( INTC , Financials ) and Nvidia ( NVDA , Financials ) may be preparing to ship their first jointly developed chip , according to leaked details about a laptop processor called Serpent Lake. The leak, shared by YouTube channel RedGamingTec, suggests the chip will combine Intel CPUs with Nvidia RTX graphics in a single design.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nSerpent Lake is expected to pair Intel's upcoming Titan Lake CPU architecture with Nvidia's RTX Rubin graphics, manufactured on TSMC's 3-nanometer process. The chip is reportedly aimed at competing with AMD's Strix Halo by delivering stronger graphics performance in high-end laptops.\nOne notable feature is memory bandwidth. The design is said to support up to 16 channels of LPDDR6 memory, a move intended to avoid bottlenecks that have limited graphics performance in competing processors.\nThe leak appears to offer the first real glimpse of what Intel and Nvidia's $5 billion partnership could produce. While Intel says it remains committed to its own Arc graphics roadmap, Serpent Lake points to deeper collaboration between the two companies, with a potential launch in late 2025 or early 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "01:39:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, Micron, Disney, Lam Research, AMC, Strategy, Dynavax, and More",
+      "URL": "https://finance.yahoo.com/m/1257f9d8-67e5-375a-8187-2c1a9de613cd/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Intel, Nike, UiPath, Tesla, Micron, Disney, Lam Research, AMC, Strategy, Dynavax, and More\n\nGeorge Glover\nWed, December 24, 2025 at 9:39 AM PST 3 min read\n\nIn this article: NKE\n\nVSNTV\n\nINTC\n\nNVDA\n\nPATH\n\nNike rises after Apple CEO Tim Cook snaps up shares, while Tesla stock drops amid door safety investigation.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -787,5 +814,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 87
+  "total_news_count": 90
 }
