@@ -1,6 +1,6 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-24T22:12:12.713Z",
+  "last_updated": "2025-12-24T23:11:37.503Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -37,6 +37,15 @@
       "Title": "Stock Market Predictions For 2026? Worthless. This Approach? Priceless.",
       "URL": "https://finance.yahoo.com/m/f2528f6d-59bf-3292-98f8-1b3951bc0ceb/stock-market-predictions-for.html",
       "Content": "Stock Market Predictions For 2026? Worthless. This Approach? Priceless.\n\nMATTHEW GALGANI\nWed, December 24, 2025 at 1:26 PM PST 4 min read\n\nIn this article: NVDA\n\nPLTR\n\nGOOG\n\nAPP\n\n^IXIC\n\nRather than make stock market predictions, apply this routine to Nvidia and any stocks of interest to stay profitable and protected.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "05:06:34",
+      "Source": "Reuters",
+      "Title": "Nvidia to license Groq technology, hire executives",
+      "URL": "https://finance.yahoo.com/news/nvidia-buy-ai-chip-startup-210634730.html",
+      "Content": "Nvidia to license Groq technology, hire executives\n\nStephen Nellis\nWed, December 24, 2025 at 1:06 PM PST 2 min read\n\nIn this article: GROQ.PVT\n\nNVDA\n\nGOOG\n\nAMD\n\nCESY.PVT\n\nBy Stephen Nellis\nDec 24 (Reuters) - Nvidia has agreed to license chip technology from startup Groq and hire away its CEO, a veteran of Alphabet's Google, Groq said ​in a blog post on Wednesday.\nGroq specializes in what is known as inference, ‌where artificial intelligence models that have already been trained respond to requests from users. While Nvidia dominates the market for ‌training AI models, it faces much more competition in inference, where traditional rivals such as Advanced Micro Devices have aimed to challenge it as well as startups such as Groq and Cerebras Systems.\n\nGroq said that Nvidia had agreed to a \"non-exclusive\" license to Groq's technology. Groq said that its founder ⁠Jonathan Ross, who helped Google ‌start its AI chip program, as well as Groq President Sunny Madra and other members of its engineering team will join Nvidia.\nA person close to ‍Nvidia confirmed the licensing agreement.\nGroq did not disclose financial details of the deal. CNBC earlier reported that Nvidia had agreed to acquire Groq for $20 billion in cash, but neither Nvidia nor Groq commented on the ​report. Groq said in its blog post that it will continue to operate as an ‌independent company with Simon Edwards as CEO and that its cloud business will continue operating.\nGroq more than doubled its valuation to $6.9 billion, from $2.8 billion in August last year, following a $750 million funding round in September.\n\nGroq is one of a number of upstarts that do not use external high-bandwidth memory chips, which free them from the memory crunch affecting the global chip industry. The approach, ⁠which uses a form of on-chip memory called SRAM, ​helps speed up interactions with chatbots and other AI ​models but also limits the size of the model that can be served.\nGroq's primary rival in the approach is Cerebras Systems, which Reuters earlier this month ‍reported plans to go ⁠public as soon as next year. Both Groq and Cerebras have signed large deals in the Middle East.\nNvidia CEO Jensen Huang spent much of his biggest keynote speech of ⁠2025 arguing that Nvidia would be able to maintain its lead as AI markets shift from training to inference.\n(Reporting ‌by Stephen Nellis in San Francisco; Additional reporting by Harshita Mary Varghese in ‌Bengaluru; Editing by Shailesh Kuber and Matthew Lewis)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -2803,5 +2812,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 311
+  "total_news_count": 312
 }
