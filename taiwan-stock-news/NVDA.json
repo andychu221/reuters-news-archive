@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-24T20:10:39.560Z",
+  "last_updated": "2025-12-24T21:10:52.819Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "04:04:19",
+      "Source": "Investor's Business Daily",
+      "Title": "Nvidia Hits Key Level With No AI Bubble Yet, Fund Manager Says; Is Nvidia Stock A Buy Now?",
+      "URL": "https://finance.yahoo.com/m/771d4bfc-424f-3ac8-b272-fbc049a7041c/nvidia-hits-key-level-with-no.html",
+      "Content": "Nvidia Hits Key Level With No AI Bubble Yet, Fund Manager Says; Is Nvidia Stock A Buy Now?\n\nVIDYA RAMAKRISHNAN\nWed, December 24, 2025 at 12:04 PM PST 4 min read\n\nIn this article: NVDA\n\nNvidia stock retakes its 50-day moving average. Shares are also in a consolidation with a buy point of 212.19.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "03:36:00",
@@ -4891,5 +4900,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 543
+  "total_news_count": 544
 }
