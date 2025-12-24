@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-24T13:11:50.525Z",
+  "last_updated": "2025-12-24T14:12:14.130Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "21:47:39",
+      "Source": "GuruFocus.com",
+      "Title": "CATL Pushes Global Expansion as China EV Growth Slows",
+      "URL": "https://finance.yahoo.com/news/catl-pushes-global-expansion-china-134739752.html",
+      "Content": "CATL Pushes Global Expansion as China EV Growth Slows\n\nKhac Phu Nguyen\nWed, December 24, 2025 at 5:47 AM PST 2 min read\n\nIn this article: CTATF\n\nHNDAF\n\nTSLA\n\nBAMXF\n\nHMC\n\nThis article first appeared on GuruFocus .\nCATL's battery manufacturing scale continues to stand out as global EV demand evolves. At its flagship facility in Ningde, the company operates a largely automated production line capable of producing up to 60 gigawatt-hours of lithium-ion batteries annually, a volume described as sufficient to power roughly 1 million Model Ys for Tesla ( NASDAQ:TSLA ). According to SNE Research, more than one in three electric vehicles produced this year used CATL batteries, including models from BMW, Ford ( NYSE:F ), Honda ( NYSE:HMC ), Mercedes and Tesla, as well as Chinese brands such as Xiaomi ( XIACY ). This scale has translated into financial and market influence, highlighted by CATL's $5.3 billion Hong Kong share sale in May and founder Yuqun Robin Zeng's estimated $58.3 billion net worth on the Bloomberg Billionaires Index.\n\nWarning! GuruFocus has detected 5 Warning Sign with HMC.\nIs HMC fairly valued? Test your thesis with our free DCF calculator.\nAt the same time, CATL is facing signs of maturing demand in its core market. China's EV sector, where over 50% of new passenger cars sold are now fully electric or plug-in hybrids, is expected by BloombergNEF to move toward a surplus of battery manufacturing capacity, a development that could weigh on pricing. In response, CATL is accelerating overseas expansion, particularly in Europe and Southeast Asia, while navigating rising political scrutiny of Chinese battery suppliers. Its first overseas factory in Germany was designed for roughly 14 gigawatt-hours of annual capacity, though production has ramped more slowly than planned amid higher operating costs, staffing challenges, and cultural differences. People familiar with the situation say some automakers have requested a blend of imported and locally produced batteries to manage costs, leaving a large share of CATL batteries used in European-built EVs still sourced from China.\n\nLooking ahead, CATL is positioning new investments as potential growth drivers while accepting near-term complexity. The company is preparing to start production at its Debrecen, Hungary facility, a 7 billion project intended to supply BMW and Mercedes-Benz Group, with management outlining a phased ramp from 30 to 40 gigawatt-hours and a longer-term target exceeding 100 gigawatt-hours. In China, CATL is testing battery-swapping through its Choco-Swap program, which relies on subscription pricing and a planned rollout of 1,000 swap stations, though management has acknowledged technical and financial risks. In the US, policy headwinds remain, including restrictions on government contracts, yet commercial links persist: Ford is licensing CATL technology for stationary energy storage systems produced domestically, and Tesla is building lithium-iron-phosphate production lines in Nevada using CATL technology. General Motors' August decision to source made-in-China CATL batteries for its most affordable US EVs following the expiration of a $7,500 federal tax credit suggests cost pressures could continue to shape sourcing decisions, even as geopolitical risks remain elevated.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "21:38:23",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Consumer Stocks Flat Premarket Wednesday",
+      "URL": "https://finance.yahoo.com/news/sector-consumer-stocks-flat-premarket-133823094.html",
+      "Content": "PREMIUM\nSector Update: Consumer Stocks Flat Premarket Wednesday\n\nMT Newswires\nWed, December 24, 2025 at 5:38 AM PST 1 min read\n\nIn this article: FFAI\n\nNKE\n\nTSLA\n\nXLP\n\nXLY\n\nConsumer stocks were flat premarket Wednesday, with the State Street Consumer Staples Select Sector\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "20:45:06",
@@ -2056,5 +2074,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 228
+  "total_news_count": 230
 }
