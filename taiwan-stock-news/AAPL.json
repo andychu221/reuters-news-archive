@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-23T22:11:35.719Z",
+  "last_updated": "2025-12-24T02:10:56.333Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "08:05:00",
+      "Source": "Barrons.com",
+      "Title": "Apple CEO Tim Cook Buys $3 Million of Nike Stock",
+      "URL": "https://finance.yahoo.com/m/aadcd4ba-7f53-3687-bd2c-28a96d0af124/apple-ceo-tim-cook-buys-%243.html",
+      "Content": "Apple CEO Tim Cook Buys $3 Million of Nike Stock\n\nAndrew Bary\nTue, December 23, 2025 at 4:05 PM PST 1 min read\n\nIn this article: NKE\n\nAAPL\n\nApple CEO Tim Cook bought nearly $3 million shares of depressed Nike stock following the company’s disappointing earnings report last week. Cook, who is the lead independent director of Nike and a board member since 2005, bought 50,000 shares of Nike stock on Monday at an average price of $58.97, according to a form 4 filing with the Securities and Exchange Commission late Tuesday. Cook now holds just over 105,000 shares of the footwear maker.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "05:40:22",
@@ -1264,5 +1273,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 140
+  "total_news_count": 141
 }
