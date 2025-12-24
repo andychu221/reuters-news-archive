@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-23T23:11:38.130Z",
+  "last_updated": "2025-12-24T00:11:49.097Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "07:37:09",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals",
+      "URL": "https://finance.yahoo.com/m/c9ddbb9d-1d58-3eb6-bce5-f5630f975e57/dow-jones-futures%3A-s%26p-500.html",
+      "Content": "Dow Jones Futures: S&P 500 Hits Record Close; Nvidia, Google Flash Buy Signals\n\nED CARSON\nTue, December 23, 2025 at 3:37 PM PST 4 min read\n\nIn this article: NVDA\n\nKLAC\n\nGOOGL\n\nGOOG\n\n^DJI\n\nMarket breadth was narrow Tuesday, but the S&P 500 set a record close as Nvidia and Google made bullish moves.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "06:29:46",
@@ -1696,5 +1705,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 188
+  "total_news_count": 189
 }
