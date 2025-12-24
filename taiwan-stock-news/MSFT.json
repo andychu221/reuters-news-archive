@@ -1,8 +1,26 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-24T13:12:07.536Z",
+  "last_updated": "2025-12-24T14:12:34.716Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "21:39:55",
+      "Source": "GuruFocus.com",
+      "Title": "Nadella Takes Direct Control of Microsoft AI",
+      "URL": "https://finance.yahoo.com/news/nadella-takes-direct-control-microsoft-133955182.html",
+      "Content": "Nadella Takes Direct Control of Microsoft AI\n\nMoz Farooque ACCA\nWed, December 24, 2025 at 5:39 AM PST 1 min read\n\nIn this article: MSFT\n\nGOOG\n\nThis article first appeared on GuruFocus .\nMicrosoft ( NASDAQ:MSFT ) CEO Satya Nadella is getting deeply involved in the company's AI products as concerns grow that Copilot is not quite living up to its promise.\nAccording to The Information, Nadella has become a regular voice in an internal Teams channel with about 100 senior engineers, jumping in when he feels AI features are underperforming. He also leads a weekly meeting where he pushes teams hard on execution. In one recent email, Nadella was blunt about Copilot's struggles to connect smoothly with Gmail and Outlook, saying those features for the most part don't really work, especially compared with recent gains made by Google's Gemini.\n\nWarning! GuruFocus has detected 4 Warning Sign with MSFT.\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\nInside Microsoft, Nadella has effectively stepped into the role of chief AI product driver. He has delegated other duties to focus on AI development and is personally recruiting top talent, even approving unusually high compensation to compete with labs like OpenAI and Google DeepMind.\nMicrosoft is spending heavily on AI, and Nadella's hands-on approach signals this is a critical moment. Investors will be watching closely to see if tighter leadership leads to better Copilot adoption and real returns.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-24",
+      "Time": "21:28:59",
+      "Source": "Investor's Business Daily",
+      "Title": "Meta Ordered By Italian Regulators To Keep WhatsApp Open For Rival AI Chatbots",
+      "URL": "https://finance.yahoo.com/m/5128cbeb-3367-3a07-ab67-fa6c83a7ad8b/meta-ordered-by-italian.html",
+      "Content": "Meta Ordered By Italian Regulators To Keep WhatsApp Open For Rival AI Chatbots\n\nRYAN DEFFENBAUGH\nWed, December 24, 2025 at 5:28 AM PST 2 min read\n\nIn this article: META\n\nOPAI.PVT\n\nPEAI.PVT\n\nMSFT\n\nItalian regulators ordered Meta Platforms to keep its WhatsApp messaging platform open to rival chatbots, such as OpenAI's ChatGPT. Meta stock was a fraction lower Wednesday. The Italian Competition Authority said Wednesday that a policy change within WhatsApp will \"completely exclude Meta AI's competitors\" from the platform once it takes effect Jan. 15.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "20:28:36",
@@ -1462,5 +1480,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 162
+  "total_news_count": 164
 }
