@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-24T17:12:15.793Z",
+  "last_updated": "2025-12-24T18:12:46.911Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "01:18:26",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Advance Wednesday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-advance-wednesday-171826809.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Advance Wednesday Afternoon\n\nMT Newswires\nWed, December 24, 2025 at 9:18 AM PST 1 min read\n\nIn this article: OPAI.PVT\n\nINTC\n\nMSFT\n\nSNOW\n\nMOTV.PVT\n\nTech stocks were higher in Wednesday early afternoon trading, with the State Street Technology Selec\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "00:51:09",
@@ -1534,5 +1543,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 170
+  "total_news_count": 171
 }
