@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-24T07:11:28.658Z",
+  "last_updated": "2025-12-24T08:11:34.317Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "16:00:00",
+      "Source": "Barrons.com",
+      "Title": "Reddit Stock Is Ready to Run Again",
+      "URL": "https://finance.yahoo.com/m/27082f7a-c9a3-388c-bf72-ca8725714afa/reddit-stock-is-ready-to-run.html",
+      "Content": "Reddit Stock Is Ready to Run Again\n\nTeresa Rivas\nWed, December 24, 2025 at 12:00 AM PST 3 min read\n\nIn this article: RDDT\n\nMETA\n\n^IXIC\n\n^GSPC\n\nSNAP\n\nShares of Reddit have soared more than 400% since their debut last spring. Just wait until next year.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "14:00:00",
@@ -1075,5 +1084,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 119
+  "total_news_count": 120
 }
