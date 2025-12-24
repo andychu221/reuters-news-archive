@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-24T04:10:50.751Z",
+  "last_updated": "2025-12-24T08:10:40.998Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "15:59:35",
+      "Source": "Insider Monkey",
+      "Title": "Nvidia (NVDA) Tests Path Back Into China With H200 AI Chip Plans",
+      "URL": "https://finance.yahoo.com/news/nvidia-nvda-tests-path-back-075935453.html",
+      "Content": "Nvidia (NVDA) Tests Path Back Into China With H200 AI Chip Plans\n\nGhazal Ahmed\nTue, December 23, 2025 at 11:59 PM PST 1 min read\n\nIn this article: NVDA\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the AI Stocks Making Waves on Wall Street. On December 22, Reuters reported that Nvidia has told its Chinese clients that it aims to start shipping its H200 AI chips to China before the Lunar New Year holiday in mid-February.\nAccording to sources familiar with the matter, the AI chipmaker will fulfil initial orders from existing stock, with shipments anticipated to total 5,000 to 10,000 chip modules. This is equivalent to about 40,000 to 80,000 H200 AI chips.\nMeanwhile, the company plans on adding new production capacity for the chips. Orders for the new capacity will open in the second quarter of 2026, the sources revealed.\nWhile Nvidia is gearing up to export its second-most powerful AI chips to its Chinese clients, uncertainty still looms as Beijing is yet to approve any H200 purchases and the said timeline is contingent on government decisions.\nNVIDIA Corporation (NASDAQ:NVDA) specializes in AI-driven solutions, offering platforms for data centers, self-driving cars, robotics, and cloud services.\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on the Market’s Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "11:20:00",
@@ -4369,5 +4378,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 485
+  "total_news_count": 486
 }
