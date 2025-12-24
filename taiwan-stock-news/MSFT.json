@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-24T04:11:41.297Z",
+  "last_updated": "2025-12-24T08:11:43.279Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-24",
+      "Time": "15:59:51",
+      "Source": "Insider Monkey",
+      "Title": "Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target",
+      "URL": "https://finance.yahoo.com/news/wedbush-calls-microsoft-msft-core-075951622.html",
+      "Content": "Wedbush Calls Microsoft (MSFT) a Core AI Winner With $625 Price Target\n\nGhazal Ahmed\nTue, December 23, 2025 at 11:59 PM PST 2 min read\n\nIn this article: MSFT\n\nMicrosoft Corporation (NASDAQ: MSFT ) is one of the AI Stocks Making Waves on Wall Street . On December 22, Wedbush reiterated the stock as “Outperform,” with a $625 price target. The firm believes that the stock is a \"core winner,” likely to surprise Wall Street with the strength of its AI-driven growth.\nAnalyst Dan Ives said that investors have been underestimating the Azure growth story, remaining skeptical of Microsoft’s AI-led expansion as it heads into 2026.\nMicrosoft Headquarters\nIn contrast, the firm’s channel checks have been “incrementally strong” pertaining to the deployment of Azure and Copilot among Microsoft customers. This may push the company’s revenue in fiscal 2026 by another $25B.\nMicrosoft Corporation (NASDAQ:MSFT) provides AI-powered cloud, productivity, and business solutions, focusing on efficiency, security, and AI advancements.\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on the Market’s Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-24",
       "Time": "11:00:00",
@@ -1417,5 +1426,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 157
+  "total_news_count": 158
 }
