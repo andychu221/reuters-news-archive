@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-25T06:11:27.033Z",
+  "last_updated": "2025-12-25T08:11:24.494Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "15:00:00",
+      "Source": "Barrons.com",
+      "Title": "12 Days of Christmas? 12 Stocks That Are Gifts for 2026.",
+      "URL": "https://finance.yahoo.com/m/bb9d1abe-9ed0-3528-a225-3c5824a7df4c/12-days-of-christmas%3F-12.html",
+      "Content": "12 Days of Christmas? 12 Stocks That Are Gifts for 2026.\n\nAl Root\nWed, December 24, 2025 at 11:00 PM PST 3 min read\n\nIn this article: AMZN\n\nALK\n\nNVDA\n\nMSFT\n\nBarron’s looked at the group of stocks and used Wall Street ratings and price targets by sector to find presents for any type of investor. Nvidia Amazon, and Microsoft shares are loved by the Street, with a Buy rating from more than 90% of the analysts covering them. The average Buy-rating ratio for stocks in the Russell 1000 is currently about 58%.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "13:10:47",
@@ -1579,5 +1588,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 175
+  "total_news_count": 176
 }
