@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-24T22:11:41.746Z",
+  "last_updated": "2025-12-25T03:11:19.218Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "10:31:13",
+      "Source": "Benzinga",
+      "Title": "Tesla's Austin Robotaxi Project Is Smaller Than Elon Musk's Claims: Report",
+      "URL": "https://finance.yahoo.com/news/teslas-austin-robotaxi-project-smaller-023113864.html",
+      "Content": "Tesla's Austin Robotaxi Project Is Smaller Than Elon Musk's Claims: Report\n\nBadar Shaikh\nWed, December 24, 2025 at 6:31 PM PST 3 min read\n\nIn this article: TSLA\n\nTesla Inc. 's (NASDAQ: TSLA ) pilot Robotaxi operations' scale in Austin could reportedly be smaller than what CEO Elon Musk has claimed.\nTesla Robotaxi Tracker An engineering student at Texas A&M University has reverse-engineered the official Tesla Robotaxi app to track the service's availability, Electrek reported on Monday. The tracker details 32 Tesla Model Ys used in the Robotaxi network in Austin, which is far from Musk's earlier claims of having 1000 Robotaxis in Austin .\n\nTesla didn’t immediately respond to Benzinga ‘s request for comment.\nThe student also shared that there could be over \"1-5 [Robotaxis] out at a time,\" after he spoke to a person who had recorded videos and researched the depot in Austin. The tracker showcased that the service was unavailable for approximately 60% of the time. The average wait time on the tracker is currently 14 minutes in Austin.\nDon't Miss:\nThese five entrepreneurs are worth $223 billion – they all believe in one platform that offers a 7-9% target yield with monthly dividends\nAn EA Co-Founder Shapes This VC Backed Marketplace— Now You Can Invest in Gaming's Next Big Platform\nThe tracker data could point towards the service not being as widespread as its rivals. For comparison, the tracker showcases over 63 vehicles belonging to Alphabet Inc. 's (NASDAQ: GOOG ) (NASDAQ: GOOGL ) Waymo being discovered in Austin, more than double the size of Tesla's fleet.\n\nTesla Tests Driverless Robotaxi The news comes as Tesla has been testing driverless operations of its Robotaxi in Austin, which was confirmed by Musk. The testing operations could provide a major boost to the company's pursuit of achieving driverless operations in the city by the end of the year.\nA Tesla Cybercab was also spotted testing in Austin recently, though it wasn't clear if the car was being driven by a human driver or if it was operating autonomously.\n\nSee Also: Deloitte's #1 Fastest-Growing Software Company Lets Users Earn Money Just by Scrolling — Accredited Investors Can Still Get In at $0.50/Share.\nWaymo's Progress Meanwhile, Waymo has recorded significant progress in the Robotaxi sector. Investor Gene Munster of Deepwater Asset Management shared that if the competition between Waymo and Tesla Robotaxis were a basketball game, \"Waymo would be up 50–2.\"\nWaymo recently reached the 450,000 weekly rides milestone , while sharing that the company has recorded over 14 million paid Robotaxi rides in the year 2025. Waymo has an estimated fleet size of about 2,500 vehicles.\n\nStory Continues\nUber, Lyft Introduce Apollo Go Robotaxis In London Elsewhere, Ride-hailing giants Uber Technologies Inc. (NYSE: UBER ) and Lyft Inc. (NASDAQ: LYFT ) have announced a partnership with Chinese tech giant Baidu Inc. 's (NASDAQ: BIDU ) Robotaxi company Apollo Go . The companies plan on launching the service in London sometime next year.\nApollo Go earlier announced that it had reached the 250,000 paid Robotaxi rides per week mark, as well as sharing that its fleet had logged over 140 million driverless miles.\n\nRead Next:\nMissed Tesla? EnergyX Is Tackling the Next $200 Billion Opportunity — Lithium\n$100k+ in investable assets? Match with a fiduciary advisor for free to learn how you can maximize your retirement and save on taxes – no cost, no obligation.\nPhoto courtesy: Shutterstock\nUNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily , plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.\nGet the latest stock analysis from Benzinga:\nAPPLE (AAPL): Free Stock Analysis Report\nTESLA (TSLA): Free Stock Analysis Report\nThis article Tesla's Austin Robotaxi Project Is Smaller Than Elon Musk's Claims: Report originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "06:05:00",
@@ -2263,5 +2272,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 251
+  "total_news_count": 252
 }
