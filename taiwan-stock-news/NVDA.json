@@ -1,8 +1,26 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-25T12:10:42.353Z",
+  "last_updated": "2025-12-25T13:10:40.757Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "20:22:33",
+      "Source": "Investor's Business Daily",
+      "Title": "Nvidia Licenses Groq's AI Chip Tech, Grabs Top Execs",
+      "URL": "https://finance.yahoo.com/m/ba65cea8-f694-3370-b38a-aeedb9f7b0cf/nvidia-licenses-groq%27s-ai.html",
+      "Content": "Nvidia Licenses Groq's AI Chip Tech, Grabs Top Execs\n\nED CARSON\nThu, December 25, 2025 at 4:22 AM PST 1 min read\n\nIn this article: GROQ.PVT\n\nNVDA\n\nGOOG\n\nAVGO\n\nNvidia will license key technology from AI chip startup Groq, hiring top personnel. But it's not a full takeover, as previously reported.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-25",
+      "Time": "20:20:38",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones, S&P 500 Hit Record Highs. Stock Market Closed For Christmas.",
+      "URL": "https://finance.yahoo.com/m/751aea56-dbe1-3650-9890-a297f98bfbe1/dow-jones%2C-s%26p-500-hit-record.html",
+      "Content": "Dow Jones, S&P 500 Hit Record Highs. Stock Market Closed For Christmas.\n\nED CARSON\nThu, December 25, 2025 at 4:20 AM PST 4 min read\n\nIn this article: NVDA\n\nGOOGL\n\n^DJI\n\nPLTR\n\nGOOG\n\nThe Dow Jones set a record close and the S&P 500 hit an intraday high heading into the Christmas holiday. Palantir, Tesla, Google and Nvidia are in buy areas.\n\nContinue Reading\n\nAGB und Datenschutzerklärung\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "19:46:04",
@@ -5080,5 +5098,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 564
+  "total_news_count": 566
 }
