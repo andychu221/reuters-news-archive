@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-25T11:11:08.684Z",
+  "last_updated": "2025-12-25T13:11:18.126Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "20:20:38",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones, S&P 500 Hit Record Highs. Stock Market Closed For Christmas.",
+      "URL": "https://finance.yahoo.com/m/751aea56-dbe1-3650-9890-a297f98bfbe1/dow-jones%2C-s%26p-500-hit-record.html",
+      "Content": "Dow Jones, S&P 500 Hit Record Highs. Stock Market Closed For Christmas.\n\nED CARSON\nThu, December 25, 2025 at 4:20 AM PST 4 min read\n\nIn this article: NVDA\n\nGOOGL\n\n^DJI\n\nPLTR\n\nGOOG\n\nThe Dow Jones set a record close and the S&P 500 hit an intraday high heading into the Christmas holiday. Palantir, Tesla, Google and Nvidia are in buy areas.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "19:00:00",
@@ -2299,5 +2308,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 255
+  "total_news_count": 256
 }
