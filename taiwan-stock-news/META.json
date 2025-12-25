@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-25T10:11:19.461Z",
+  "last_updated": "2025-12-25T12:11:38.365Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-25",
+      "Time": "19:15:07",
+      "Source": "TipRanks",
+      "Title": "Meta ordered by Italy’s AGCM to allow rival AI chatbots on WhatsApp, WSJ says",
+      "URL": "https://finance.yahoo.com/news/meta-ordered-italy-agcm-allow-111507138.html",
+      "Content": "Meta ordered by Italy’s AGCM to allow rival AI chatbots on WhatsApp, WSJ says\n\nTipRanks\nThu, December 25, 2025 at 3:15 AM PST 1 min read\n\nIn this article: META\n\nAGCM, the Italian Competition Authority, ordered Meta Platforms (META) to suspend a policy excluding rival AI chatbots from messaging on WhatsApp, Adria Calatayud of The Wall Street Journal reports. The authority believes Meta’s current policy and conduct may harm competition. The company plans to appeal the decision, arguing the emergence of AI chatbots on its programming interface may put a strain on the systems.\n\nClaim 70% Off TipRanks This Holiday Season Unlock hedge fund-level data and powerful investing tools for smarter, sharper decisions\nStay ahead of the market with the latest news and analysis and maximize your portfolio's potential\nPublished first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>>\nSee Insiders’ Hot Stocks on TipRanks >>\nRead More on META:\nDisclaimer & Disclosure Report an Issue\n‘It’s an Opportunistic Buy,’ Says Top Analyst About Meta Stock\nThis Year’s Santa Rally Isn’t About Gains, It’s About Holding the Line\nApple Gets Ready for 2026 after Strong Year Filled with Leadership Changes\nHow Dating Apps Plan to Overcome ‘Swipe Fatigue’\nAI Daily: ByteDance plans to spend $23B on AI in 2026\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "17:15:00",
@@ -1264,5 +1273,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 140
+  "total_news_count": 141
 }
