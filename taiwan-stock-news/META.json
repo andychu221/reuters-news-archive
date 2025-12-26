@@ -1,6 +1,6 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-26T15:11:57.816Z",
+  "last_updated": "2025-12-26T16:11:54.227Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -884,16 +884,7 @@
       "URL": "https://finance.yahoo.com/news/meta-prepares-mango-avocado-ai-162829653.html",
       "Content": "Meta Prepares 'Mango' and 'Avocado' AI Models for Early 2026 Launch\n\nFaizan Farooque\nFri, December 19, 2025 at 8:28 AM PST 1 min read\n\nIn this article: META\n\nOPAI.PVT\n\nANTH.PVT\n\nThis article first appeared on GuruFocus .\nThe Wall Street Journal reported that Meta Platforms ( META , Financials ) is launching two new artificial intelligence models, Mango and Avocado, citing corporate conversations . Meta is strengthening its AI product offering by releasing the models in the first half of 2026. During an internal conference, Chief AI Officer Alexandr Wang claimed Mango would generate visuals and movies, while Avocado believed to be Meta's Llama language model successor will improve code. He noted that the business is investigating world models, AI that simulates and predicts real-world events.The claim followed Meta's former top AI scientist Yann LeCun's departure to create a world model firm. Wang joined Meta this year after Meta spent roughly $15 billion in Scale AI, demonstrating its commitment to next-generation AI research.Due to competition from OpenAI and Anthropic, Meta revamped their AI division to speed up research and delivery. Some executives pondered switching from Llama to competing models before recommitting to in-house innovation, according to reports.The next releases of Mango and Avocado are anticipated to help Meta extend its AI-driven content and productivity features across Facebook, Instagram, and WhatsApp.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-19",
-      "Time": "23:42:00",
-      "Source": "Barrons.com",
-      "Title": "Meta Joins the AI Video Race: Report. It Needs to Catch Google and OpenAI.",
-      "URL": "https://finance.yahoo.com/m/03ea8700-9d73-33cc-89df-730f3dd2751d/meta-joins-the-ai-video-race%3A.html",
-      "Content": "Meta Joins the AI Video Race: Report. It Needs to Catch Google and OpenAI.\n\nAdam Clark\nFri, December 19, 2025 at 7:42 AM PST 2 min read\n\nIn this article: GOOG\n\nMETA\n\nADBE\n\nMeta Platforms is fighting to keep up in the artificial-intelligence race. Meta is planning to release a new image- and video-focused AI model alongside the next version of its text-based model, The Wall Street Journal reported, citing comments made internally by the company’s chief AI officer, Alexandr Wang. Meta didn’t immediately respond to a request for comment on Friday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 99
+  "total_news_count": 98
 }
