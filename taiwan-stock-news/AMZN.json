@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-26T01:11:44.581Z",
+  "last_updated": "2025-12-26T04:11:19.918Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-26",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Even the Companies Making Humanoid Robots Think They’re Overhyped",
+      "URL": "https://finance.yahoo.com/m/5975d28a-bd89-3190-9e41-b45f661941dd/even-the-companies-making.html",
+      "Content": "Even the Companies Making Humanoid Robots Think They’re Overhyped\n\nSean McLain\nThu, December 25, 2025 at 6:00 PM PST 6 min read\n\nIn this article: AMZN\n\nSCAFF\n\nDespite billions of dollars in investment, startups say their androids can only perform simple tasks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-25",
       "Time": "22:48:24",
@@ -1570,5 +1579,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 174
+  "total_news_count": 175
 }
