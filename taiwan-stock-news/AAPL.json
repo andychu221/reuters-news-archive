@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-26T10:11:05.759Z",
+  "last_updated": "2025-12-26T12:11:09.833Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-26",
+      "Time": "19:50:27",
+      "Source": "MT Newswires",
+      "Title": "Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Intel, Air Industries to Fall",
+      "URL": "https://finance.yahoo.com/news/social-buzz-wallstreetbets-stocks-mostly-115027642.html",
+      "Content": "PREMIUM\nSocial Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell Friday; Intel, Air Industries to Fall\n\nMT Newswires\nFri, December 26, 2025 at 3:50 AM PST 1 min read\n\nIn this article: INTC\n\nAIRI\n\nAAPL\n\nMSFT\n\nGOOG\n\nThe most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly lower hours before Fr\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-26",
       "Time": "16:08:00",
@@ -1264,5 +1273,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 140
+  "total_news_count": 141
 }
