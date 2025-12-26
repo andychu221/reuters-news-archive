@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-26T17:11:18.283Z",
+  "last_updated": "2025-12-26T19:11:23.801Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "02:33:47",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'",
+      "URL": "https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html",
+      "Content": "Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'\n\nLaura Bratton\nUpdated Fri, December 26, 2025 at 10:33 AM PST 4 min read\n\nIn this article: NVDA\n\nGOOG\n\nGROQ.PVT\n\nMU\n\nXAAI.PVT\n\nNvidia’s ( NVDA ) licensing deal with chip startup Groq ( GROQ.PVT ) shows how the tech giant is leveraging its massive cash pile to sustain its preeminence in the AI market.\nNvidia this week said it struck a non-exclusive deal with Groq to license its technology and hired the startup’s founder and CEO Jonathan Ross, its president, and other employees. CNBC reported the agreement to be worth $20 billion , marking Nvidia’s largest-ever deal. (The company declined a request for comment on the figure.)\n\nBernstein analyst Stacy Rasgon said in a note to clients Thursday that the Nvidia-Groq deal “appears strategic in nature for NVDA as they leverage their increasingly powerful balance sheet to maintain dominance in key areas.” Nvidia’s cash inflow climbed more than 30% from the previous year to $22 billion in its most recent quarter.\n\"This transaction is ... essentially an acquisition of Groq without being labeled one (to avoid the regulators' scrutiny),\" added Hedgeye Risk Management analysts in a note Friday.\n\nThe move is just the latest in a string of AI deals by Nvidia, the world’s first $5 trillion company . The chipmaker’s investments in AI firms span the entire market, ranging from large language model developers such as OpenAI ( OPAI.PVT ) and xAI ( XAAI.PVT ) to “neoclouds” like Lambda ( LAMD.PVT ) and CoreWeave ( CRWV ), which specialize in AI services and compete with its Big Tech customers.\n\nNvidia has also invested in chipmakers Intel ( INTC ) and Enfabrica. The company made a failed attempt around 2020 to acquire British chip architecture designer Arm ( ARM ).\nNvidia’s wide-ranging investments — many of them in its own customers — have led to accusations that it’s involved in circular financing schemes reminiscent of the dot-com bubble. The company has vehemently denied those claims.\nGroq, meanwhile, was looking to become one of Nvidia’s rivals.\nFounded in 2016, Groq makes LPUs (language processing units) geared toward AI inferencing and marketed as alternatives to Nvidia's GPUs (graphics processing units).\nTraining AI models involves teaching a model to learn patterns from large amounts of data, while \"inferencing\" refers to using that trained model to generate outputs. Both processes demand massive computing power from AI chips.\n\nWhile Nvidia easily dominates the chip market for AI training, some analysts argue that Nvidia could soon see greater competition in the inference space. That’s because custom chips like Google's ( GOOG ) TPUs (tensor processing units) — and arguably Groq’s chips called LPUs (language processing units) — may be better suited for certain tasks. LPUs, for instance, are faster and more energy efficient when used for certain models, utilizing a type of memory technology called SRAM within the chips. On the other hand, Nvidia GPUs rely on off-chip HBM made by companies like Micron ( MU ) and Samsung ( 005930.KS ).\n\nStory Continues\nRoss, the Groq CEO, said in a recent interview that the upstart aimed to provide chips for half the world’s AI inference computing needs — and cheaply.\n“What we want to do is we want to drive the cost of compute as close to zero as we can get it. Every year we want to make it cheaper,” he told Indian business outlet YourStory . Notably, Ross already helped create Nvidia’s greatest source of competition: The executive led the development of Google’s first-generation TPUs.\n\nCantor Fitzgerald analyst CJ Muse said Nvidia’s \"acqui-hire\" of Groq talent and licensing of its intellectual property showed the chipmaker “is playing both offense and defense” in the AI space. Muse said the deal would allow Nvidia to take “even greater share of the inference market.”\nNvidia shares rose more than 1% Friday.\nOthers on Wall Street were more confused by Nvidia’s move and its potential $20 billion price tag. Hedgeye Risk Management analysts argued that Groq's chips are \"still unproven\" when it comes to large AI models, due to their low memory capacity.\n\"Groq's current technology is greatly limited to only a small subset of inference workloads,\" added DA Davidson analyst Alex Platt.\nLaura Bratton is a reporter for Yahoo Finance. Follow her on Bluesky @laurabratton.bsky.social. Email her at laura.bratton@yahooinc.com.\nClick here for the latest technology news that will impact the stock market\nRead the latest financial and business news from Yahoo Finance\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-26",
       "Time": "22:00:05",
@@ -542,34 +551,7 @@
       "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-210029981.html",
       "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 1:00 PM PST 1 min read\n\nIn this article: ORCL\n\nMETA\n\nGOOG\n\nNVDA\n\nINTC\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:46:31",
-      "Source": "MT Newswires",
-      "Title": "Sector Update: Tech Stocks Gain Friday Afternoon",
-      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-friday-184631483.html",
-      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Friday Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 10:46 AM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\nINTC\n\nGOOG\n\nXLK\n\nTech stocks gained Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) r\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:31:36",
-      "Source": "MT Newswires",
-      "Title": "Market Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment",
-      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-wins-us-183136242.html",
-      "Content": "PREMIUM\nMarket Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment\n\nMT Newswires\nFri, December 19, 2025 at 10:31 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nNvidia (NVDA) won clearance from US antitrust regulators for its planned investment in Intel (INTC),\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:11:57",
-      "Source": "Yahoo Finance Video",
-      "Title": "Nvidia's Intel stake cleared by FTC, existing home sales rise",
-      "URL": "https://finance.yahoo.com/video/nvidias-intel-stake-cleared-ftc-181157932.html",
-      "Content": "Nvidia's Intel stake cleared by FTC, existing home sales rise\n\nYahoo Finance Video and John Hyland\nFri, December 19, 2025 at 10:11 AM PST\n\nIn this video: NVDA\n\nINTC\n\nYahoo Finance's John Hyland takes a closer look at some of Friday's top stories in this episode of Market Minute , including Nvidia's ( NVDA ) Intel ( INTC ) investment being approved by US regulators, reports that the Trump administration has begun its review of Nvidia's H100 chip exports to China, and existing home sales moderately gaining in November.\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute .\n\nVideo Transcript\n\n00:03 Speaker A\nIt's time for the Yahoo Finance Market Minute.\n00:05 Speaker A\nUS stocks are looking to close out a week of gains as tech stocks lead the market higher, and US anti-trust agencies have cleared Nvidia's investment in Intel.\n00:13 Speaker A\nBack in September, Nvidia said it would invest $5 billion in the struggling chipmaker.\n00:17 Speaker A\nThe FTC ended its review and made the announcement today, but didn't offer details on the investment.\n00:21 Speaker A\nMeanwhile, the Trump administration has reportedly kicked off its review of Nvidia's H200 chip exports to China.\n00:27 Speaker A\nAccording to Reuters, the White House has launched the review, which could result in the first shipment of chips to China, but questions remain on the timeline for sales and whether Beijing would even allow the Chinese firms to purchase Nvidia's chips.\n00:36 Speaker A\nAn existing home sales data showed a moderate gain for November, but it did mark a third straight month of gains and lower mortgage rates were likely the boost.\n00:43 Speaker A\nHome sold in November typically go under contract during September or October, around when mortgage rates were near year-to-date lows.\n00:48 Speaker A\nAnd that's your Yahoo Finance Market Minute. Scan the QR code below for more on what's trending on the website.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 63
+  "total_news_count": 61
 }
