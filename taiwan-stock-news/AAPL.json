@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-26T20:11:13.505Z",
+  "last_updated": "2025-12-26T21:11:17.728Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "03:41:54",
+      "Source": "Barrons.com",
+      "Title": "The Stock Market Is Having a Bad Day Even If It Doesn't Look That Way",
+      "URL": "https://finance.yahoo.com/m/9a338ce8-568b-39c1-937b-7de24ca52acd/the-stock-market-is-having-a.html",
+      "Content": "The Stock Market Is Having a Bad Day Even If It Doesn't Look That Way\n\nBen Levisohn\nFri, December 26, 2025 at 11:41 AM PST 1 min read\n\nIn this article: ^GSPC\n\nNVDA\n\n^DJI\n\n^IXIC\n\nHere’s how the S&P 500 pulled off that neat little trick. With less than two hours to go in trading, the S&P 500 has dipped just 2.29 points—less than 0.1%—while the Dow Jones Industrial Average is off 0.2%, and the Nasdaq Composite is up 0.1%.But the market is much weaker than those numbers suggest. Just 137 of the S&P 500’s 502 stocks are up on the day—that’s just 27%, for those counting at home—what’s typically known as bad breadth.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "03:10:03",
@@ -1261,15 +1270,6 @@
       "Title": "Get Ready for New Chip Shortages. Micron’s Success All But Guarantees It.",
       "URL": "https://finance.yahoo.com/m/1543cda8-d7ab-3f93-875a-1af97e564e19/get-ready-for-new-chip.html",
       "Content": "Get Ready for New Chip Shortages. Micron’s Success All But Guarantees It.\n\nAdam Levine\nFri, December 19, 2025 at 1:38 PM PST 4 min read\n\nIn this article: MU\n\nAAPL\n\nNVDA\n\n000660.KS\n\nSSNLF\n\nMicron’s blowout earnings report shows memory chips are in hot demand. The coming crunch could exceed the Covid-era chip shortage.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "04:21:04",
-      "Source": "Barrons.com",
-      "Title": "Mag 7 Stocks Keep Bouncing Back",
-      "URL": "https://finance.yahoo.com/m/1ea65ad6-71ea-3962-a1dc-765342474b9b/mag-7-stocks-keep-bouncing.html",
-      "Content": "Mag 7 Stocks Keep Bouncing Back\n\nConnor Smith\nFri, December 19, 2025 at 12:21 PM PST\n\nIn this article: NVDA\n\nAMZN\n\nGOOG\n\nMETA\n\nMSFT\n\nBig Tech stocks rallied back again on Friday. The Roundhill Magnificent Seven ETF was up 0.7% after surging nearly 2% yesterday. The group of megacap tech stocks rebounded sharply from a 2.2% drop on Wednesday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     }
   ],
