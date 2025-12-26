@@ -1,8 +1,53 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-26T18:11:06.414Z",
+  "last_updated": "2025-12-26T19:10:53.347Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "02:49:11",
+      "Source": "MT Newswires",
+      "Title": "Top Midday Gainers",
+      "URL": "https://finance.yahoo.com/news/top-midday-gainers-184911781.html",
+      "Content": "PREMIUM\nTop Midday Gainers\n\nMT Newswires\nFri, December 26, 2025 at 10:49 AM PST 1 min read\n\nIn this article: GROQ.PVT\n\nCPNG\n\nNVDA\n\nTGT\n\nCoupang (CPNG) disclosed Thursday it has identified a former employee behind a hack that exposed dat\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "02:40:17",
+      "Source": "MT Newswires",
+      "Title": "US Equity Indexes Trade Mixed While Bull Run in Precious Metals Continues Unabated",
+      "URL": "https://finance.yahoo.com/news/us-equity-indexes-trade-mixed-184017164.html",
+      "Content": "PREMIUM\nUS Equity Indexes Trade Mixed While Bull Run in Precious Metals Continues Unabated\n\nMT Newswires\nFri, December 26, 2025 at 10:40 AM PST 2 min read\n\nIn this article: GC=F\n\n^SPX\n\nTGT\n\nNVDA\n\nSI=F\n\nUS equity indexes were mixed in Friday's midday trading, while precious metals continued to scale ne\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "02:40:10",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-mixed-friday-184010376.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Mixed Friday Afternoon\n\nMT Newswires\nFri, December 26, 2025 at 10:40 AM PST 1 min read\n\nIn this article: CRWD\n\nNVDA\n\nGROQ.PVT\n\nXLK\n\nWYFI\n\nTech stocks were mixed Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XL\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "02:33:47",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'",
+      "URL": "https://finance.yahoo.com/news/nvidias-groq-deal-underscores-how-the-ai-chip-giant-uses-its-massive-balance-sheet-to-maintain-dominance-183347248.html",
+      "Content": "Nvidia's Groq deal underscores how the AI chip giant uses its massive balance sheet to 'maintain dominance'\n\nLaura Bratton\nUpdated Fri, December 26, 2025 at 10:33 AM PST 4 min read\n\nIn this article: NVDA\n\nGOOG\n\nGROQ.PVT\n\nMU\n\nXAAI.PVT\n\nNvidia’s ( NVDA ) licensing deal with chip startup Groq ( GROQ.PVT ) shows how the tech giant is leveraging its massive cash pile to sustain its preeminence in the AI market.\nNvidia this week said it struck a non-exclusive deal with Groq to license its technology and hired the startup’s founder and CEO Jonathan Ross, its president, and other employees. CNBC reported the agreement to be worth $20 billion , marking Nvidia’s largest-ever deal. (The company declined a request for comment on the figure.)\n\nBernstein analyst Stacy Rasgon said in a note to clients Thursday that the Nvidia-Groq deal “appears strategic in nature for NVDA as they leverage their increasingly powerful balance sheet to maintain dominance in key areas.” Nvidia’s cash inflow climbed more than 30% from the previous year to $22 billion in its most recent quarter.\n\"This transaction is ... essentially an acquisition of Groq without being labeled one (to avoid the regulators' scrutiny),\" added Hedgeye Risk Management analysts in a note Friday.\n\nThe move is just the latest in a string of AI deals by Nvidia, the world’s first $5 trillion company . The chipmaker’s investments in AI firms span the entire market, ranging from large language model developers such as OpenAI ( OPAI.PVT ) and xAI ( XAAI.PVT ) to “neoclouds” like Lambda ( LAMD.PVT ) and CoreWeave ( CRWV ), which specialize in AI services and compete with its Big Tech customers.\n\nNvidia has also invested in chipmakers Intel ( INTC ) and Enfabrica. The company made a failed attempt around 2020 to acquire British chip architecture designer Arm ( ARM ).\nNvidia’s wide-ranging investments — many of them in its own customers — have led to accusations that it’s involved in circular financing schemes reminiscent of the dot-com bubble. The company has vehemently denied those claims.\nGroq, meanwhile, was looking to become one of Nvidia’s rivals.\nFounded in 2016, Groq makes LPUs (language processing units) geared toward AI inferencing and marketed as alternatives to Nvidia's GPUs (graphics processing units).\nTraining AI models involves teaching a model to learn patterns from large amounts of data, while \"inferencing\" refers to using that trained model to generate outputs. Both processes demand massive computing power from AI chips.\n\nWhile Nvidia easily dominates the chip market for AI training, some analysts argue that Nvidia could soon see greater competition in the inference space. That’s because custom chips like Google's ( GOOG ) TPUs (tensor processing units) — and arguably Groq’s chips called LPUs (language processing units) — may be better suited for certain tasks. LPUs, for instance, are faster and more energy efficient when used for certain models, utilizing a type of memory technology called SRAM within the chips. On the other hand, Nvidia GPUs rely on off-chip HBM made by companies like Micron ( MU ) and Samsung ( 005930.KS ).\n\nStory Continues\nRoss, the Groq CEO, said in a recent interview that the upstart aimed to provide chips for half the world’s AI inference computing needs — and cheaply.\n“What we want to do is we want to drive the cost of compute as close to zero as we can get it. Every year we want to make it cheaper,” he told Indian business outlet YourStory . Notably, Ross already helped create Nvidia’s greatest source of competition: The executive led the development of Google’s first-generation TPUs.\n\nCantor Fitzgerald analyst CJ Muse said Nvidia’s \"acqui-hire\" of Groq talent and licensing of its intellectual property showed the chipmaker “is playing both offense and defense” in the AI space. Muse said the deal would allow Nvidia to take “even greater share of the inference market.”\nNvidia shares rose more than 1% Friday.\nOthers on Wall Street were more confused by Nvidia’s move and its potential $20 billion price tag. Hedgeye Risk Management analysts argued that Groq's chips are \"still unproven\" when it comes to large AI models, due to their low memory capacity.\n\"Groq's current technology is greatly limited to only a small subset of inference workloads,\" added DA Davidson analyst Alex Platt.\nLaura Bratton is a reporter for Yahoo Finance. Follow her on Bluesky @laurabratton.bsky.social. Email her at laura.bratton@yahooinc.com.\nClick here for the latest technology news that will impact the stock market\nRead the latest financial and business news from Yahoo Finance\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "02:29:21",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Dow Eases Despite Nvidia's Strength; This Rocket Name Takes A Tumble (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/67f35f77-c853-3a53-b798-2b2cc4e24ed0/stock-market-today%3A-dow-eases.html",
+      "Content": "Stock Market Today: Dow Eases Despite Nvidia's Strength; This Rocket Name Takes A Tumble (Live Coverage)\n\nSCOTT LEHTONEN and KEN SHREVE and KIMBERLEY KOENIG\nFri, December 26, 2025 at 10:29 AM PST 5 min read\n\nIn this article: ^DJI\n\nTSLA\n\nPLTR\n\nASTS\n\nRKLB\n\nStock Market Today: The major indexes showed modest weakness Friday afternoon. Nvidia was the biggest gainer on the Dow.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "01:54:25",
@@ -19,6 +64,24 @@
       "Title": "What a $10K Investment in Tesla Could Look Like by 2030",
       "URL": "https://finance.yahoo.com/news/10k-investment-tesla-could-look-173906983.html",
       "Content": "What a $10K Investment in Tesla Could Look Like by 2030\n\nVance Cariaga\nFri, December 26, 2025 at 9:39 AM PST 3 min read\n\nIn this article: TSLA\n\nNVDA\n\nGOOG\n\n^GSPC\n\nIf you had invested $10,000 in Tesla’s (TSLA) stock four years ago, it would be worth about $13,700 today, thanks to a 37% price gain since late December 2021.\nThat’s a solid profit, but it falls well short of the massive returns you’d have gotten with other high-profile stocks such as Nvidia (NVDA) or Alphabet (GOOG). The next four years could be a lot more lucrative for Tesla investors — or a lot worse.\n\nWhat could a $10,000 Tesla investment today look like by 2030? Here’s what a couple of experts had to say.\nAlso see the Tesla investing mistake that could cost you thousands .\nThe Bull Case A $10,000 investment in Tesla today could be worth twice that much by 2030 if the Elon Musk-led electric vehicle (EV) maker reaches certain benchmarks, according to Chad Cummings, an attorney and certified public accountant (CPA) at Cummings & Cummings Law who previously worked in finance and tax.\n\nBut for that to happen, a lot of things would have to go the right way.\n“If Tesla scales its energy storage segment and increases paid software penetration above current rates, [its] position could exceed $20,000,” Cummings told GOBankingRates. “The S&P 500 at an 8% compound rate places the same $10,000 near $15,900, which is the realistic hurdle Tesla must beat. Even so, there are some major headwinds.”\nThose headwinds include “litigation and regulatory exposure” that could drive Tesla’s downside more than macro trends, according to Cummings.\n“A single autonomous-related fatality that triggers a regulatory halt can cut Tesla’s valuation by tens of billions within days,” he said. “The insurance and legal systems still have yet to fully price in autonomous driving and the results, which creates something of a hot potato.”\n\nRead More: Self-Made Millionaires Suggest 5 Stocks You Should Never Sell\nCheck Out: 6 Safe Accounts Proven To Grow Your Money Up To 13x Faster\nLooking Beyond the EV Market Another thing to keep an eye on is how Tesla’s non-EV businesses perform over the next few years — mainly its energy generation/storage and other services. These businesses are considered by many to be the stock’s main growth drivers.\n“A $10,000 investment in Tesla right now depends less on the EV side than people think,” said Edward Corona, founder of The Options Oracle AI Trade Manager . “I honestly don’t believe Tesla’s main focus is cars anymore — but they still need the car business to keep the money flowing while they build everything else. And Elon has about one trillion reasons now to make sure the long-term plan pays off.”\nThe “one trillion reasons” comment refers to Musk’s new compensation package , which could be worth about $1 trillion if certain milestones are met.\n\nStory Continues\nBy 2030, a $10,000 investment will “come down to whether Tesla can use the EV side to fund the bigger vision without letting margins fall apart,” Corona told GOBankingRates. “If they balance that right, the stock could look a lot different in a few years. If they don’t, investors will feel it. Tesla’s future isn’t about selling cars — it’s about whether the rest of the plan actually gets executed.”\nMore From GOBankingRates\nThe Best $25 To Spend at Dollar Tree in Winter 2025\n5 Most Valuable American Coins Still in Circulation\n5 Clever Ways Retirees Are Earning Up to $1K Per Month From Home\n9 Low-Effort Ways to Make Passive Income (You Can Start This Week)\nThis article originally appeared on GOBankingRates.com : What a $10K Investment in Tesla Could Look Like by 2030\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "01:35:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Tech, Media & Telecom Roundup: Market Talk",
+      "URL": "https://finance.yahoo.com/m/4cd71280-907c-3888-a2bf-351861bb2412/tech%2C-media-%26-telecom.html",
+      "Content": "Tech, Media & Telecom Roundup: Market Talk\n\nThe Wall Street Journal\nFri, December 26, 2025 at 9:35 AM PST 3 min read\n\nIn this article: CRWD\n\nNVDA\n\nGROQ.PVT\n\nFind insight on Nvidia, CrowdStrike and more in the latest Market Talks covering Technology, Media and Telecom.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-27",
+      "Time": "01:21:00",
+      "Source": "Barrons.com",
+      "Title": "These Stocks Are Moving the Most Today: Nvidia, Apple, Tesla, Coupang, Micron, Lam Research, Newmont, Moderna, and More",
+      "URL": "https://finance.yahoo.com/m/099cdb70-42ad-33dd-8710-67e58926300c/these-stocks-are-moving-the.html",
+      "Content": "These Stocks Are Moving the Most Today: Nvidia, Apple, Tesla, Coupang, Micron, Lam Research, Newmont, Moderna, and More\n\nNate Wolf\nFri, December 26, 2025 at 9:21 AM PST 3 min read\n\nIn this article: NVDA\n\nNKE\n\nTSLA\n\nCPNG\n\nGROQ.PVT\n\nNvidia is rising after reaching an agreement with AI start-up Groq, while Lam Research stock is on track for a record high.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -3557,61 +3620,7 @@
       "URL": "https://finance.yahoo.com/news/jim-cramer-weighs-tech-stocks-191441928.html",
       "Content": "Jim Cramer Weighs in on Tech Stocks Like NVIDIA\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 11:14 AM PST 2 min read\n\nIn this article: NVDA\n\nAVGO\n\nNVIDIA Corporation (NASDAQ: NVDA ) is one of the stocks Jim Cramer recently discussed . Cramer noted that he likes the stock, as he commented:\nPhoto by Javier Esteban on Unsplash\nNVIDIA Corporation (NASDAQ:NVDA) develops accelerated computing and AI platforms, GPUs for gaming and professional use, cloud services, robotics and embedded systems, and automotive technologies. During the December 12 episode, Cramer said that he is not moving away from his “own it, don’t trade it” advice on the stock. He remarked:\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:59:26",
-      "Source": "MT Newswires",
-      "Title": "Equity Markets Rise Intraday as Nvidia, Oracle Help Lift Tech",
-      "URL": "https://finance.yahoo.com/news/equity-markets-rise-intraday-nvidia-185926307.html",
-      "Content": "PREMIUM\nEquity Markets Rise Intraday as Nvidia, Oracle Help Lift Tech\n\nMT Newswires\nFri, December 19, 2025 at 10:59 AM PST 3 min read\n\nIn this article: ORCL\n\nNVDA\n\n^DJI\n\n^GSPC\n\n^IXIC\n\nUS benchmark equity indexes were higher intraday amid a jump in the technology sector, aided by Nvid\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:57:44",
-      "Source": "Investor's Business Daily",
-      "Title": "Stock Market Today: Dow Gains 300 Points; Nvidia Jumps As Home Builders Slide (Live Coverage)",
-      "URL": "https://finance.yahoo.com/m/6e995b8b-b417-3c7e-9709-8311e15fe346/stock-market-today%3A-dow-gains.html",
-      "Content": "Stock Market Today: Dow Gains 300 Points; Nvidia Jumps As Homebuilders Slide (Live Coverage)\n\nSCOTT LEHTONEN and KEN SHREVE and VIDYA RAMAKRISHNAN\nFri, December 19, 2025 at 10:57 AM PST 5 min read\n\nIn this article: NVDA\n\n^IXIC\n\n^DJI\n\n^GSPC\n\nBA\n\nStock Market Today: The Dow Jones index moved higher Friday but Nike stock plunged 10% on earnings results.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:46:31",
-      "Source": "MT Newswires",
-      "Title": "Sector Update: Tech Stocks Gain Friday Afternoon",
-      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-friday-184631483.html",
-      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Friday Afternoon\n\nMT Newswires\nFri, December 19, 2025 at 10:46 AM PST 1 min read\n\nIn this article: ORCL\n\nNVDA\n\nINTC\n\nGOOG\n\nXLK\n\nTech stocks gained Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) r\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:36:59",
-      "Source": "Investor's Business Daily",
-      "Title": "Nvidia Stock Looks 'Cheap,' Analysts Say",
-      "URL": "https://finance.yahoo.com/m/2580ef06-d695-352a-9b79-3713e84735f6/nvidia-stock-looks-%27cheap%2C%27.html",
-      "Content": "Nvidia Stock Looks 'Cheap,' Analysts Say\n\nPATRICK SEITZ\nFri, December 19, 2025 at 10:36 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nAVGO\n\nAPH\n\nA Wall Street analyst upped his price target on Nvidia stock on Friday, saying AI infrastructure semiconductor stocks \"remain cheap.\"\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:31:36",
-      "Source": "MT Newswires",
-      "Title": "Market Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment",
-      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-wins-us-183136242.html",
-      "Content": "PREMIUM\nMarket Chatter: Nvidia Wins US Antitrust Clearance for Intel Investment\n\nMT Newswires\nFri, December 19, 2025 at 10:31 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nNvidia (NVDA) won clearance from US antitrust regulators for its planned investment in Intel (INTC),\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "02:11:57",
-      "Source": "Yahoo Finance Video",
-      "Title": "Nvidia's Intel stake cleared by FTC, existing home sales rise",
-      "URL": "https://finance.yahoo.com/video/nvidias-intel-stake-cleared-ftc-181157932.html",
-      "Content": "Nvidia's Intel stake cleared by FTC, existing home sales rise\n\nYahoo Finance Video and John Hyland\nFri, December 19, 2025 at 10:11 AM PST\n\nIn this video: NVDA\n\nINTC\n\nYahoo Finance's John Hyland takes a closer look at some of Friday's top stories in this episode of Market Minute , including Nvidia's ( NVDA ) Intel ( INTC ) investment being approved by US regulators, reports that the Trump administration has begun its review of Nvidia's H100 chip exports to China, and existing home sales moderately gaining in November.\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute .\n\nVideo Transcript\n\n00:03 Speaker A\nIt's time for the Yahoo Finance Market Minute.\n00:05 Speaker A\nUS stocks are looking to close out a week of gains as tech stocks lead the market higher, and US anti-trust agencies have cleared Nvidia's investment in Intel.\n00:13 Speaker A\nBack in September, Nvidia said it would invest $5 billion in the struggling chipmaker.\n00:17 Speaker A\nThe FTC ended its review and made the announcement today, but didn't offer details on the investment.\n00:21 Speaker A\nMeanwhile, the Trump administration has reportedly kicked off its review of Nvidia's H200 chip exports to China.\n00:27 Speaker A\nAccording to Reuters, the White House has launched the review, which could result in the first shipment of chips to China, but questions remain on the timeline for sales and whether Beijing would even allow the Chinese firms to purchase Nvidia's chips.\n00:36 Speaker A\nAn existing home sales data showed a moderate gain for November, but it did mark a third straight month of gains and lower mortgage rates were likely the boost.\n00:43 Speaker A\nHome sold in November typically go under contract during September or October, around when mortgage rates were near year-to-date lows.\n00:48 Speaker A\nAnd that's your Yahoo Finance Market Minute. Scan the QR code below for more on what's trending on the website.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 401
+  "total_news_count": 402
 }
