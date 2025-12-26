@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-26T09:11:05.731Z",
+  "last_updated": "2025-12-26T10:11:13.355Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-26",
+      "Time": "16:08:00",
+      "Source": "Zacks",
+      "Title": "Company News for Dec 26, 2025",
+      "URL": "https://finance.yahoo.com/news/company-news-dec-26-2025-080800912.html",
+      "Content": "Company News for Dec 26, 2025\n\nZacks Equity Research\nFri, December 26, 2025 at 12:08 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nNKE\n\nAAPL\n\nSNY\n\nShares of NVIDIA Corp. ( NVDA ) fell 0.3% following news that the company is planning to acquire assets from Groq, a designer of high-performance AI accelerator chips, for $20 billion in cash.\nNIKE Inc.&rsquo;s ( NKE ) shares surged 4.6% after Tim Cook, CEO of Apple Inc. ( AAPL ), bought $3 million of its shares.\nDynavax Technologies Corp.&rsquo;s ( DVAX ) shares soared 38.2% after Sanofi ( SNY ) decided to acquire it in a deal with a total equity value of roughly $2.2 billion.\nShares of Intel Corp. ( INTC ) fell 0.5% following news that NVIDIA has stopped testing manufacturing chips using Intel's 18A production process.\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nIntel Corporation (INTC) : Free Stock Analysis Report\nSanofi (SNY) : Free Stock Analysis Report\nApple Inc. (AAPL) : Free Stock Analysis Report\nDynavax Technologies Corporation (DVAX) : Free Stock Analysis Report\nNIKE, Inc. (NKE) : Free Stock Analysis Report\nNVIDIA Corporation (NVDA) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-26",
       "Time": "15:39:00",
@@ -607,5 +616,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 67
+  "total_news_count": 68
 }
