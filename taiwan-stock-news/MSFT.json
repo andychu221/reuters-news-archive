@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-26T20:11:46.906Z",
+  "last_updated": "2025-12-26T21:12:01.025Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "03:24:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia’s Groq Deal Is an Instagram Moment—With 1 Big Risk",
+      "URL": "https://finance.yahoo.com/m/5d03c2a5-ea68-3647-a6d7-ee5205c37867/nvidia%E2%80%99s-groq-deal-is-an.html",
+      "Content": "Nvidia’s Groq Deal Is an Instagram Moment—With 1 Big Risk\n\nAdam Levine\nFri, December 26, 2025 at 11:24 AM PST 4 min read\n\nIn this article: META\n\nMSFT\n\nGOOG\n\nNVDA\n\nGROQ.PVT\n\nNvidia’s licensing deal with chip start-up Grok is reminiscent of Facebook’s Instagram acquisition. That’s the good news—and the bad news.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "01:29:55",
@@ -1163,34 +1172,7 @@
       "URL": "https://finance.yahoo.com/news/aravolta-software-powering-data-centers-211500868.html",
       "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nAravolta Is the Software Powering Data Centers Behind the Scenes\n\nBusiness Wire\nFri, December 19, 2025 at 1:15 PM PST 2 min read\n\nIn this article: MSFT\n\nSAN FRANCISCO, December 19, 2025 --( BUSINESS WIRE )-- Aravolta is redefining data center operations for colocations, clouds, edge data centers, universities and more. Aravolta builds integrated data center infrastructure (DCIM), electrical power (EPMS) and building management (BMS) products and are rapidly expanding as demand soars for their products.\n\nAravolta is led by Margarita Groisman (CEO), Jack Sutton (CTO), and Pietro Sette (COO). Margarita previously worked on chip and server deployments inside Microsoft’s data centers. Jack is a lifelong engineer working as a founding engineer across many startups. Pietro has led engineering and operations at high-growth software organizations. The team focuses on building software to manage and automate the physical systems that power modern data centers.\n\"We’re seeing a wave of new data center entrants realize that these facilities are far more complex to run than traditional industrial sites,\" Groisman said. \"GPU environments are especially demanding: power, cooling and networking are tightly coupled, and small changes can ripple across the entire system.\n\nAravolta brings those signals into one place and makes them actionable. We're ‘ Palantir for data centers ’, not just aggregating data, but turning it into decisions and control.\"\nAravolta’s customers already include colocation providers, chip manufacturers, edge data centers, and emerging neoclouds - names like OpenColo, Flexnode, DataCrunch, and Centra, as well as others you’ve definitely heard of but they can’t yet name publicly.\nBacked by $5.1 million from notable investors such as Topology, Wishchoff, Crucible, Susa, Afore, Y Combinator, Pioneer Fund , and Banyan with Guillermo Rauch , Nick Hansen , and more among its notable angels.\nWhile Aravolta technically sits in the DCIM (Data Center Infrastructure Management) category, its capabilities extend far beyond the legacy tools of the past. Operators praise its single pane of glass for data center operations - including capabilities like branch circuit monitoring, precision power metering, and automation workflows that make the complex orchestration of modern data centers not just manageable - but elegant.\nIn short: As the world races to build the infrastructure for the AI age, Aravolta is building the software to make it all run.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20251219337091/en/\nContacts\nMedia Contact: Margarita Groisman\nEmail: margarita@aravolta.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "04:22:00",
-      "Source": "Barrons.com",
-      "Title": "China’s Tencent Is Accessing Banned Nvidia Chips Through the Cloud",
-      "URL": "https://finance.yahoo.com/m/7c3cd576-5ff0-3aaa-8c39-923a1e931b1f/china%E2%80%99s-tencent-is-accessing.html",
-      "Content": "China’s Tencent Is Accessing Banned Nvidia Chips Through the Cloud\n\nJacob Adelman\nFri, December 19, 2025 at 12:22 PM PST 10 min read\n\nIn this article: TCEHY\n\nMSFT\n\nCRWV\n\nTCTZF\n\nNVDA\n\nTencent is using a Japanese cloud service to access Nvidia Blackwell chips that remain banned to Chinese customers.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "04:21:04",
-      "Source": "Barrons.com",
-      "Title": "Mag 7 Stocks Keep Bouncing Back",
-      "URL": "https://finance.yahoo.com/m/1ea65ad6-71ea-3962-a1dc-765342474b9b/mag-7-stocks-keep-bouncing.html",
-      "Content": "Mag 7 Stocks Keep Bouncing Back\n\nConnor Smith\nFri, December 19, 2025 at 12:21 PM PST\n\nIn this article: NVDA\n\nAMZN\n\nGOOG\n\nMETA\n\nMSFT\n\nBig Tech stocks rallied back again on Friday. The Roundhill Magnificent Seven ETF was up 0.7% after surging nearly 2% yesterday. The group of megacap tech stocks rebounded sharply from a 2.2% drop on Wednesday.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-20",
-      "Time": "04:14:09",
-      "Source": "Insider Monkey",
-      "Title": "Jim Cramer Explains How Market Rotation Boosted Companies Like Johnson & Johnson",
-      "URL": "https://finance.yahoo.com/news/jim-cramer-explains-market-rotation-201409602.html",
-      "Content": "Jim Cramer Explains How Market Rotation Boosted Companies Like Johnson & Johnson\n\nSyeda Seirut Javed\nFri, December 19, 2025 at 12:14 PM PST 2 min read\n\nIn this article: JNJ\n\nMRK\n\nNVDA\n\nMETA\n\nMSFT\n\nJohnson & Johnson (NYSE: JNJ ) is one of the stocks Jim Cramer talked about recently . Cramer mentioned the stock during the episode and said:\nA laptop and a computer monitor display a detailed stock market technical analysis chart. Photo by Jakub Zerdzicki on Pexels\nJohnson & Johnson (NYSE:JNJ) develops and sells healthcare products, including pharmaceuticals and medical technologies, with treatments in immunology, oncology, neuroscience, cardiovascular care, and infectious diseases. In addition, the company provides surgical systems, orthopaedic solutions, cardiovascular devices, and vision care products.\n\nWhile we acknowledge the potential of JNJ as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 132
+  "total_news_count": 130
 }
