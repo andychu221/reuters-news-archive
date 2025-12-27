@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-27T13:11:42.503Z",
+  "last_updated": "2025-12-27T14:11:21.184Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "21:27:00",
+      "Source": "Moneywise",
+      "Title": "Peter Thiel warns US real estate ‘catastrophe’ will deal massive blow to young Americans, but boomers might get windfall",
+      "URL": "https://finance.yahoo.com/news/peter-thiel-warns-us-real-132700099.html",
+      "Content": "Peter Thiel warns US real estate ‘catastrophe’ will deal massive blow to young Americans, but boomers might get windfall\n\nJing Pan\nSat, December 27, 2025 at 5:27 AM PST 8 min read\n\nIn this article: META\n\nPYPL\n\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\nAs a co-founder of PayPal and the first outside investor in Facebook, Peter Thiel is widely recognized for his expertise in tech. But now, the billionaire venture capitalist is sounding the alarm on an entirely different sector: real estate.\n\nDuring an interview with Commonwealth Canada, Thiel drew upon the insights of 19th-century economist Henry George to underscore the gravity of America’s real estate crisis (1).\nMust Read Thanks to Jeff Bezos, you can now become a landlord for as little as $100 — and no, you don't have to deal with tenants or fix freezers. Here's how\nDave Ramsey warns nearly 50% of Americans are making 1 big Social Security mistake — here’s what it is and 3 simple steps to fix it ASAP\nApproaching retirement with no savings? Don’t panic, you're not alone. Here are 6 easy ways you can catch up (and fast)\n\n“The basic Georgist obsession was real estate, and it was if you weren't really careful, you would get runaway real estate prices, and the people who owned the real estate would make all the gains in a society,” Thiel said.\nThe core of the issue, Thiel explained, lies in the “extremely inelastic” nature of real estate, especially in regions with strict zoning laws.\n“The dynamic ends up being that you add 10% to the population in a city, and maybe the house prices go up 50%, and maybe people's salaries go up, but they don't go up by 50%,” he said. “So the GDP grows, but it's a giant windfall to the boomer homeowners and to the landlords, and it's a massive hit to the lower-middle class and to young people who can never get on the housing ladder.”\n\nThiel warned that this “Georgist real estate catastrophe” is playing out across many “Anglosphere countries,” including the U.S., Britain and Canada.\n‘Incredible wealth transfer’ The surge in U.S. home prices has been nothing short of alarming for non-homeowners. Over the past five years, the S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index has climbed by 45% (2). This indicates that, on average, the value of a single-family home in the U.S. has nearly doubled in that five-year period.\n\nThough there is reason to believe that growth could be slowing down. A Reuters poll of property experts suggests that U.S. home prices will rise just 1.4% in 2026 (3). While that increase would be relatively minimal compared to the last few years, it’s nevertheless an increase.\nThiel connected growing prices to inflation, stating, “There's a way you could talk about inflation in terms of the prices of eggs or groceries, but that's not that big a cost item, even for lower-middle-class people. The really big cost item is the rent.”\n\nStory Continues\nAt its core, Thiel argued, the issue boils down to supply and demand.\n“If you just add more people to the mix, and you're not allowed to build new houses because of zoning laws, where it's too expensive, where it's too regulated and restricted, then the prices go up a lot,” he said. “And it's this incredible wealth transfer from the young and the lower-middle-class to the upper middle class and the landlords and the old.”\n\nThiel isn’t the only one raising the alarm. Federal Reserve Chairman Jerome Powell has highlighted similar concerns.\n“The real issue with housing is that we have had, and are on track to continue to have, not enough housing … It’s hard to find — to zone lots that are in places where people want to live … Where are we going to get the supply?” Powell said at a press conference in September.\nThe gap in the housing market is significant. The U.S. had a housing shortage of 4.7 million properties in 2023, despite having added 1.4 million new homes, according to a Zillow report (4).",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "15:50:58",
@@ -778,5 +787,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 86
+  "total_news_count": 87
 }
