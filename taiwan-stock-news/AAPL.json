@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-27T02:10:52.163Z",
+  "last_updated": "2025-12-27T08:11:26.534Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "15:32:51",
+      "Source": "Insider Monkey",
+      "Title": "JPMorgan Confident in Apple (AAPL) as iPhone 17 Demand-Supply Reaches Parity",
+      "URL": "https://finance.yahoo.com/news/jpmorgan-confident-apple-aapl-iphone-073251972.html",
+      "Content": "JPMorgan Confident in Apple (AAPL) as iPhone 17 Demand-Supply Reaches Parity\n\nGhazal Ahmed\nFri, December 26, 2025 at 11:32 PM PST 2 min read\n\nIn this article: AAPL\n\nApple Inc. (NASDAQ: AAPL ) is one of the AI Stocks Investors Are Watching . On December 23, JPMorgan reiterated the stock as “Overweight” and a $305 price target. According to the firm’s survey checks, Apple’s iPhone 17 lead times have moderated by a few days this week from last week.\nPixabay/Public Domain\nThe firm noted that this moderation implies that demand and supply are reaching a balance, and that this may reduce concerns about supply constraints heading into F2Q26.\nApple is a technology company known for its consumer electronics, software, and services.\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on Market Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "06:31:52",
@@ -1264,5 +1273,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 140
+  "total_news_count": 141
 }
