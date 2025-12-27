@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-27T00:10:50.082Z",
+  "last_updated": "2025-12-27T08:11:04.322Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "15:44:40",
+      "Source": "Insider Monkey",
+      "Title": "Analysts Maintain Positive Outlook on AMD With China Demand as a Catalyst",
+      "URL": "https://finance.yahoo.com/news/analysts-maintain-positive-outlook-amd-074440489.html",
+      "Content": "Analysts Maintain Positive Outlook on AMD With China Demand as a Catalyst\n\nGhazal Ahmed\nFri, December 26, 2025 at 11:44 PM PST 1 min read\n\nIn this article: AMD\n\nNVDA\n\nAdvanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the AI Stocks Investors Are Watching. On December 23, Raymond James reiterated the stock as “Outperform,” noting that it has upside following reports that Nvidia plans to resume chip shipments to China. The firm believes that Nvidia and AMD could both see moderate upside from US export approvals.\nUS President Donald Trump has recently approved the sale of Nvidia's H200 GPUs to China, albeit only to “approved customers.”\nAnalysts on Wall Street currently have a consensus “Buy” rating on the stock. The average price target of $289.00 implies a 34.87% upside; however, the Street-high target of $380 implies an upside of 77.34%.\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Trending AI Stocks on Wall Street and 10 AI Stocks on Market Radar\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "07:12:27",
@@ -562,5 +571,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 62
+  "total_news_count": 63
 }
