@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-27T09:11:27.446Z",
+  "last_updated": "2025-12-27T10:11:24.678Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "17:21:59",
+      "Source": "Insider Monkey",
+      "Title": "NVIDIA (NVDA)’s Got More IP Than a Dog Food Company, Says Jim Cramer",
+      "URL": "https://finance.yahoo.com/news/nvidia-nvda-got-more-ip-092159692.html",
+      "Content": "NVIDIA (NVDA)’s Got More IP Than a Dog Food Company, Says Jim Cramer\n\nRamish Cheema\nSat, December 27, 2025 at 1:21 AM PST 2 min read\n\nIn this article: NVDA\n\nGROQ.PVT\n\nGOOG\n\nWe recently published 9 Stocks Jim Cramer Talked About . NVIDIA Corporation (NASDAQ:NVDA) is one of the stocks on Jim Cramer talked about.\nNVIDIA Corporation (NASDAQ:NVDA)’s shares have gained 36% year-to-date and have lost 8.9% since October’s end. The firm made quite a splash on December 24th after chip designer Groq announced that it had entered into a non-exclusive licensing agreement with it. Under the agreement, NVIDIA Corporation (NASDAQ:NVDA) will buy Groq’s assets for a $20 billion price tag to make it its largest acquisition to date. Earlier in December, Bernstein reiterated an Outperform rating on the shares and a $275 share price target. Bernstein pointed out that NVIDIA Corporation (NASDAQ:NVDA) is still waiting for US approvals to sell its H200 chips to China. Crucially, Bernstein also pointed out that the chip designer believes it enjoys a two-year advantage over Google’s TPU AI chips. These chips have been seen as an alternative to NVIDIA Corporation (NASDAQ:NVDA)’s pricey AI GPUs. Cramer also believes that the firm’s latest Rubin AI GPUs will make their mark felt:\nWhile we acknowledge the potential of NVDA as an investment, our conviction lies in the belief that some AI stocks hold greater promise for delivering higher returns and have limited downside risk. If you are looking for an extremely cheap AI stock that is also a major beneficiary of Trump tariffs and onshoring, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "15:50:16",
@@ -2200,5 +2209,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 244
+  "total_news_count": 245
 }
