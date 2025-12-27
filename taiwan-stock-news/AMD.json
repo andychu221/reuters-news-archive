@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-26T23:10:48.823Z",
+  "last_updated": "2025-12-27T00:10:50.082Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-27",
+      "Time": "07:12:27",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, Dec. 26: Nvidia Rises on $20 Billion Groq Licensing Deal",
+      "URL": "https://finance.yahoo.com/m/f6afe948-841c-30a8-a506-425b598d4b1d/stock-market-today%2C-dec.-26%3A.html",
+      "Content": "Stock Market Today, Dec. 26: Nvidia Rises on $20 Billion Groq Licensing Deal\n\nHoward Smith, The Motley Fool\nFri, December 26, 2025 at 3:12 PM PST 2 min read\n\nIn this article: NVDA\n\nGROQ.PVT\n\nAMD\n\nINTC\n\n^GSPC\n\nNvidia (NASDAQ:NVDA) , a leading GPU and AI platform developer, closed Friday at $190.53, up 1.02%. Nvidia IPO'd in 1999 and has grown 464,416% since going public. Trading volume only reached 136.8 million shares, coming in about 27% below versus its three-month average of 188.5 million shares.\n\nFriday's action centered on Nvidia's $20 billion Groq licensing deal and analyst commentary framing it as a strategic AI and data center win that investors are watching for implications on future chip demand.\n\nHow the markets moved today The S&P 500 (SNPINDEX:^GSPC) slipped 0.02% to 6,931, while the Nasdaq Composite (NASDAQINDEX:^IXIC) eased 0.09% to 23,593. In Semiconductors, industry peers Advanced Micro Devices (NASDAQ:AMD) fell 0.02% and Intel (NASDAQ:INTC) edged up 0.11%, as traders weighed Nvidia-driven AI server momentum.\n\nWhat this means for investors Nvidia acquired assets from chip start-up Groq for about $20 billion. Groq was founded in 2016 by the developers of Alphabet 's (NASDAQ:GOOG) (NASDAQ:GOOGL) tensor processing unit (TPU), which competes with Nvidia in the field of artificial intelligence workloads.\nThe deal also brought Groq executives, including its CEO, under Nvidia's umbrella. Investors see the move as a way to integrate Groq's AI inference technology, expanding Nvidia's leadership in the sector.\n\nToday's move higher extended Nvidia's recent winning streak with the stock up over 11% in just the past six days.\nDon’t miss this second chance at a potentially lucrative opportunity Ever feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $489,202 !*\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $52,090 !*\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $504,994 !*\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\nSee the 3 stocks »\n*Stock Advisor returns as of December 22, 2025\nHoward Smith has positions in Alphabet, Intel, and Nvidia and has the following options: short February 2026 $170 calls on Nvidia and short January 2026 $26 calls on Intel. The Motley Fool has positions in and recommends Advanced Micro Devices, Alphabet, Intel, and Nvidia. The Motley Fool has a disclosure policy .\nStock Market Today, Dec. 26: Nvidia Rises on $20 Billion Groq Licensing Deal was originally published by The Motley Fool\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-27",
       "Time": "02:19:00",
@@ -553,5 +562,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 61
+  "total_news_count": 62
 }
