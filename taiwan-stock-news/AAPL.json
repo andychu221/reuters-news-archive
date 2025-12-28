@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-28T17:11:41.969Z",
+  "last_updated": "2025-12-28T18:11:01.056Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-29",
+      "Time": "01:38:52",
+      "Source": "Insider Monkey",
+      "Title": "Globalstar (GSAT) Gains Strategic Value From Apple Direct-to-Device Partnership",
+      "URL": "https://finance.yahoo.com/news/globalstar-gsat-gains-strategic-value-173852559.html",
+      "Content": "Globalstar (GSAT) Gains Strategic Value From Apple Direct-to-Device Partnership\n\nSheryar Siddiq\nSun, December 28, 2025 at 9:38 AM PST 2 min read\n\nIn this article: GSAT\n\nAAPL\n\nGlobalstar, Inc. (NASDAQ: GSAT ) ranks among the best telecom stocks to invest in . Deutsche Bank began coverage of Globalstar, Inc. (NASDAQ:GSAT) on December 16 with a $62 price target and a Hold rating. The bank’s study addresses Globalstar’s place in the satellite communication (satcom) industry, highlighting the company’s deliberate shift from direct competition with providers like as Inmarsat and Iridium to transforming into a major capacity supplier as Apple’s direct-to-device (D2D) network operator.\nFollowing the Echostar and SpaceX arrangement, Globalstar’s spectrum gained “material” strategic worth, according to Deutsche Bank, which helped the stock more than double in the last three months.\nAdditionally, in order to support its third-generation mobile satellite services throughout Central and South America, Globalstar, Inc. (NASDAQ:GSAT) stated more than a month ago that it will be adding eight new six-meter C-3 tracking antennas to its ground stations throughout Brazil. The eight additional antennae being set up are part of a larger global expansion that includes up to 90 new tracking antennas for Globalstar’s third-generation C-3 satellite system.\n\nGlobalstar, Inc. (NASDAQ:GSAT) is an international telecom infrastructure provider that offers reliable satellite and terrestrial connectivity services. The company operates a satellite constellation in low Earth orbit to deliver secure data transmission for asset tracking, critical data transfer, and safety applications for consumers, businesses, and government agencies around the world.\nWhile we acknowledge the potential of GSAT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 10 Best Magic Formula Stocks for 2025 and 10 Best Retirement Stocks to Buy According to Hedge Funds .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "00:16:05",
@@ -1192,5 +1201,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 132
+  "total_news_count": 133
 }
