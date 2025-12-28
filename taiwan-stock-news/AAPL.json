@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-28T21:10:55.680Z",
+  "last_updated": "2025-12-28T23:11:05.086Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-29",
+      "Time": "07:07:54",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Tesla, Nvidia In Buy Areas With Market At Highs",
+      "URL": "https://finance.yahoo.com/m/a4e2f064-8bac-3727-98f2-40f9aa1abcd0/dow-jones-futures%3A-tesla%2C.html",
+      "Content": "Dow Jones Futures: Tesla, Nvidia In Buy Areas With Market At Highs\n\nED CARSON\nSun, December 28, 2025 at 3:07 PM PST 6 min read\n\nIn this article: TSLA\n\n^DJI\n\n^GSPC\n\n^IXIC\n\nNVDA\n\nThe stock market is right at record highs heading into the end of 2025. Tesla, Nvidia, Google and Apple are all just above buy points.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "04:00:00",
@@ -1192,5 +1201,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 132
+  "total_news_count": 133
 }
