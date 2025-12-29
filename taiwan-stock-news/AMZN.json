@@ -1,6 +1,6 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2025-12-29T22:12:59.025Z",
+  "last_updated": "2025-12-29T23:12:20.205Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -10,6 +10,15 @@
       "Title": "US Equities Fall in Muted Trading as Nvidia, Tesla Decline",
       "URL": "https://finance.yahoo.com/news/us-equities-fall-muted-trading-215558159.html",
       "Content": "PREMIUM\nUS Equities Fall in Muted Trading as Nvidia, Tesla Decline\n\nMT Newswires\nMon, December 29, 2025 at 1:55 PM PST 3 min read\n\nIn this article: NVDA\n\n^SPX\n\nMSFT\n\nGOOG\n\nMETA\n\nUS equity benchmarks fell Monday in muted trading with most of the Magnificent Seven tech stocks und\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "05:46:44",
+      "Source": "The Wall Street Journal",
+      "Title": "Stocks to Watch Monday Recap: Lululemon, Newmont, DigitalBridge",
+      "URL": "https://finance.yahoo.com/m/93b034dd-79fd-37df-9752-a3ea786023d0/stocks-to-watch-monday-recap%3A.html",
+      "Content": "Stocks to Watch Monday Recap: Lululemon, Newmont, DigitalBridge\n\nThe Wall Street Journal\nMon, December 29, 2025 at 1:46 PM PST 1 min read\n\nIn this article: LULU\n\nDBRG-PH\n\nDBRG-PI\n\nDBRG-PJ\n\nDBRG\n\n🔎 Lululemon (LULU): The sports-clothes maker's founder, Chip Wilson, is launching a proxy fight to remake the company’s board while Lululemon searches for a new CEO. Shares advanced 1.7%, bucking the downward trend in stocks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1399,5 +1408,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 155
+  "total_news_count": 156
 }
