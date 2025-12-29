@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-29T19:11:30.453Z",
+  "last_updated": "2025-12-29T20:11:33.412Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "03:32:12",
+      "Source": "MT Newswires",
+      "Title": "US Equity Indexes Drop, Silver Turns Volatile in Final Leg of Trading",
+      "URL": "https://finance.yahoo.com/news/us-equity-indexes-drop-silver-193212519.html",
+      "Content": "PREMIUM\nUS Equity Indexes Drop, Silver Turns Volatile in Final Leg of Trading\n\nMT Newswires\nMon, December 29, 2025 at 11:32 AM PST 1 min read\n\nIn this article: INTC\n\nSI=F\n\n^DJI\n\n^IXIC\n\nNVDA\n\nUS equity indexes fell, with consumer discretionary and technology emerging among the three biggest\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "02:31:53",
@@ -652,5 +661,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 72
+  "total_news_count": 73
 }
