@@ -1,6 +1,6 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-29T14:11:52.255Z",
+  "last_updated": "2025-12-29T15:11:40.765Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -344,16 +344,7 @@
       "URL": "https://finance.yahoo.com/news/ai-chips-driving-foundry-boom-153301101.html",
       "Content": "AI Chips Are Driving a Foundry Boom. Why TSMC Is Winning the Most\n\nNauman Khan\nMon, December 22, 2025 at 7:33 AM PST 1 min read\n\nIn this article: TSM\n\nINTC\n\nNVDA\n\nAMD\n\nAVGO\n\nThis article first appeared on GuruFocus .\nGlobal semiconductor foundry revenue rose about 17% year over year to roughly $84.8 billion in the third quarter of 2025, supported by strong demand for artificial intelligence chips built on advanced manufacturing nodes, according to a research note from Counterpoint Research.\n\nTaiwan Semiconductor Manufacturing Company ( NYSE:TSM ) widened its lead, with market share edging up to about 72%. The gains followed higher output of its 3-nanometer process and solid utilization of 4- and 5-nanometer capacity, used heavily by AI accelerator customers such as Nvidia ( NASDAQ:NVDA ), Advanced Micro Devices ( NASDAQ:AMD ), and Broadcom ( NASDAQ:AVGO ).\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\nTSMC's foundry revenue grew more than 40% from a year earlier, outpacing the broader market. Counterpoint said most rival foundries posted slower growth, with non-TSMC players collectively expanding revenue by about 6%, reflecting softer orders after earlier tariff-related demand but some support from China's subsidy programs.\n\nLooking ahead, analysts said capacity limits at advanced nodes and constraints in advanced chip packaging, known as CoWoS, may cap sequential growth in the fourth quarter. Full-year 2025 foundry revenue growth is estimated at around 15%.\nCounterpoint expects the pure-play foundry segment to grow at a faster pace, helped by continued shipments of AI GPUs and custom AI chips. Texas Instruments ( NASDAQ:TXN ), Intel ( NASDAQ:INTC ), Infineon (IFNNY), and Samsung Electronics ( SSNLF ) maintained mid-single-digit market shares.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-22",
-      "Time": "22:25:35",
-      "Source": "GuruFocus.com",
-      "Title": "Nvidia and Micron Stocks Climb -- Wall Street Picks 2026 Semiconductor Winners",
-      "URL": "https://finance.yahoo.com/news/nvidia-micron-stocks-climb-wall-142535246.html",
-      "Content": "Nvidia and Micron Stocks Climb -- Wall Street Picks 2026 Semiconductor Winners\n\nNauman Khan\nMon, December 22, 2025 at 6:25 AM PST 1 min read\n\nIn this article: NVDA\n\nMU\n\nTSM\n\nThis article first appeared on GuruFocus .\nShares of Nvidia ( NASDAQ:NVDA ) and Micron Technology ( NASDAQ:MU ) moved higher on early Monday after Robert W. Baird named both companies among its top semiconductor picks for 2026, citing sustained artificial intelligence demand.\nNvidia climbed nearly 2% and Micron rose about 3% following the announcement.\n\nBaird analyst Tristan Gerra reiterated Buy ratings on both stocks following recent quarterly results that pointed to steady momentum across AI-linked markets.\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nGerra lifted his price target on Nvidia to $275 and raised Micron's target to $443, pointing to improved earnings visibility and stronger end-market demand trends.\nFor Nvidia, Gerra said demand for next-generation AI processors remains ahead of supply, with attention likely to center on execution and manufacturing capacity as the company moves deeper into 2026.\nHe also noted that chip production remains closely tied to Taiwan Semiconductor Manufacturing (TSM), which plays a key role in meeting Nvidia's output needs.\nMicron, meanwhile, was highlighted for tightening memory supply and growing exposure to high-bandwidth memory used in AI workloads.\nGerra said pricing discipline and measured capital spending could support margins over the coming quarters.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 39
+  "total_news_count": 38
 }
