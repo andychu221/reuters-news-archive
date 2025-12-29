@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-29T20:11:33.412Z",
+  "last_updated": "2025-12-29T21:11:18.464Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "04:44:02",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Softer Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-softer-afternoon-204402999.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Softer Late Afternoon\n\nMT Newswires\nMon, December 29, 2025 at 12:44 PM PST 1 min read\n\nIn this article: INTC\n\nBNAI\n\nVRSK\n\nGOOGL\n\nGOOG\n\nTech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "03:32:12",
@@ -661,5 +670,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 73
+  "total_news_count": 74
 }
