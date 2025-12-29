@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-29T17:12:23.782Z",
+  "last_updated": "2025-12-29T18:12:29.452Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "01:00:00",
+      "Source": "TechCrunch",
+      "Title": "Why the electrical grid needs more software",
+      "URL": "https://finance.yahoo.com/news/why-electrical-grid-needs-more-170000737.html",
+      "Content": "Why the electrical grid needs more software\n\nTim De Chant\nMon, December 29, 2025 at 9:00 AM PST 4 min read\n\nIn this article: NVDA\n\nGOOG\n\nOne of the nicest comments people have made about the electrical grid was … nothing. The grid works best when it fades into the background.\nThat low-profile status has changed in recent years as fires in California and freezes in Texas raised awareness of the electrical grid. But it was in 2025, when the electrical grid — and concerns about demand, supply, pricing, and the strain on natural resources — moved into the spotlight. And a new batch of startups have emerged with a software-as-a-solution pitch.\n\nElectricity rates are up 13% in this U.S. this year driven by an AI boom that has seeped into unlikely places, including repurposing supersonic jet engines for data center duty and working on beaming solar power down from space .\nAnd that pace of growth isn’t expected to slow; the amount of electricity data centers use is projected to nearly triple in the coming decade. That forecast has fueled consumer frustration around pricing and drawn the ire of environmental groups that have called for a nationwide moratorium on new projects. Utilities, which have toiled away in the background, are now scrambling to upgrade the grid and build new power plants that can cope with the load — the fear of an AI bubble bursting always lingering in the background.\n\nThis confluence of demand and fear could give software startups a boost in the coming year.\nFor example, startups like Gridcare and Yottar argue that spare capacity already exists on the grid and that software can help find it.\nGridcare has gathered data on transmission and distribution lines, fiber optic connections, extreme weather, and even community sentiment to optimize the search for new locations and convince utilities the grid can handle it. Already, the company says it has found several such sites that have been overlooked. Yottar finds places where known capacity exists and overlaps with the needs of medium-size users, helping them quickly connect amidst the data center boom.\nSeveral other startups are using software to stitch together massive fleets of batteries scattered across the grid. Those startups can turns these fleets into virtual power plants to deliver power to the grid when it’s needed most.\n\nBase Power, for example, is building one in Texas by leasing batteries to homeowners at relatively low prices. Homeowners can use the batteries for backup power in case of outages, while Base can tap into them to prevent outages by selling the aggregated capacity to the grid. Terralayr is doing something similar, though it doesn’t sell batteries itself. Instead, Terralayr uses software to bundle distributed storage assets already installed on the German grid.\n\nStory Continues\nOther startups including Texture, Uplight, and Camus are developing software layers to integrate and coordinate distributed energy sources like wind, solar, and batteries. The hope is that by orchestrating various assets, they will idle less and contribute more to the grid.\nThere’s also some hope that software can help modernize some of the more outdated parts of the grid.\n\nNvidia, for example, has partnered with EPRI, a power industry R&D organization, to develop industry-specific models in the hopes they will improve efficiency and resiliency. Meanwhile, Google is working with the grid operator PJM to use AI to help sift through its backlog of connection requests from new sources of electricity.\nThese changes won’t happen overnight, but 2026 could be the year when they begin to take hold.\nUtilities tend to be slow to adopt new technologies because of concerns about reliability. But they’re also slow to invest in new infrastructure because it’s costly and long-lived. Ratepayers and regulators have been known to balk when such projects begin to affect affordability.\nSoftware, though, is cheaper, and if it can clear the reliability hurdle, the companies offering it will have a good chance of gaining traction.\nAnd that could benefit more than the startups hawking software. Ultimately, the grid is going to need some refurbishment and expansion. Given the number of planned data centers and the electrification of broad swathes of the economy, including transportation, heating, and more, we will need more power. It would be foolish to ignore the power of software in these instances. It’s cheap, flexible, and speedy to deploy.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "23:33:21",
@@ -2009,43 +2018,7 @@
       "URL": "https://finance.yahoo.com/video/tesla-hits-record-high-google-181403880.html",
       "Content": "Tesla hits new record high, Google to buy Intersect for $4.5B\n\nYahoo Finance Video\nMon, December 22, 2025 at 10:14 AM PST\n\nIn this video: GOOG\n\nTSLA\n\nYahoo Finance's J.R. Whalen outlines some of Monday's moving stocks and biggest stories on Wall Street as part of today's Market Minute .\nTesla ( TSLA ) hit a new record high, while Alphabet ( GOOG , GOOGL ) announced plans to acquire Intersect in a $4.5 billion deal.\nAhead of the new year, the Powerball jackpot rose to $1.6 billion.\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.\n\nVideo Transcript\n\n00:00 Speaker A\nIt's time for Yahoo Finance's market minute.\n00:02 Speaker A\nUS stocks are trading higher in midday as this holiday shortened week kicks off.\n00:06 Speaker A\nAnd Tesla reached a new record high after CEO Elon Musk won reinstatement of his 2018 pay package.\n00:12 Speaker A\nThe Delaware Supreme Court reversed some previous findings of a judge who said the billionaire improperly influenced board members who formulated the record-breaking corporate compensation package.\n00:22 Speaker A\nMeanwhile, Alphabet has agreed to buy clean energy developer Intersect Power for 4.75 billion dollars in cash and debt.\n00:28 Speaker A\nIt's one of the largest deals by the tech giant to dramatically expand its data center footprint for AI.\n00:32 Speaker A\nFinally, could you find room in your bank account for 1.6 billion dollars?\n00:36 Speaker A\nThat's the Powerball jackpot for tonight, making it one of the largest lottery prizes in US history.\n00:41 Speaker A\nAnd that's your Yahoo Finance market minute.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-23",
-      "Time": "02:12:22",
-      "Source": "Associated Press Finance",
-      "Title": "Google's parent buys data center energy specialist Intersect for $4.75 billion to help power AI",
-      "URL": "https://finance.yahoo.com/news/googles-parent-buys-data-center-181222926.html",
-      "Content": "Google's parent buys data center energy specialist Intersect for $4.75 billion to help power AI\n\nAssociated Press Finance\nMon, December 22, 2025 at 10:12 AM PST 1 min read\n\nIn this article: GOOG\n\nOPAI.PVT\n\nMOUNTAIN VIEW, Calif . (AP) — Google's corporate parent on Monday announced an agreement to buy data center energy specialist Intersect for $4.75 billion as part of its effort to secure the vast amounts of electricity needed to power artificial intelligence technology.\nAlphabet, which depends on Google's search engine and other online services for most of its revenue, is buying out Intersect in its entirety after purchasing a stake in the San Francisco-based startup a year ago. Intersect had previously raised $2.1 billion from Google and other early investors.\n\nAfter the acquisition is completed during the first half of next year, Alphabet intends to allow Intersect to operate independently while continuing its efforts to secure the energy sources needed for the sprawling data centers being built to power the AI services rolling out from Google and rivals such as OpenAI .\nThe power-hungry data centers, which are being likened to AI factories, is fueling a backlash in communities where residents have been interpreting their steadily rising electricity bills as evidence that they help helping footing the boom for a technology boom that could still go bust.\nIntersect focuses on finding ways to increase and diversify the supply of energy in an effort to keep hold down power costs. It's already working on a data center for Mountain View, California-based Alphabet in Haskell County, Texas.\nGoogle's inroads with AI has helped increase Alphabet's stock price by more than 60% so far this year, generating an additional $1.4 trillion in shareholder wealth.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-23",
-      "Time": "01:41:56",
-      "Source": "Investor's Business Daily",
-      "Title": "Google To Acquire Clean Energy Firm Intersect For $4.75 Billion",
-      "URL": "https://finance.yahoo.com/m/d09d277f-0821-33d0-ba66-0c58fe108b96/google-to-acquire-clean.html",
-      "Content": "Google To Acquire Clean Energy Firm Intersect For $4.75 Billion\n\nREINHARDT KRAUSE\nMon, December 22, 2025 at 9:41 AM PST 3 min read\n\nIn this article: GOOG\n\nNEE\n\nAlphabet plans to acquire Intersect Power, a data center and clean energy infrastructure company, for $4.75 billion in cash.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-23",
-      "Time": "01:40:48",
-      "Source": "MT Newswires",
-      "Title": "Flutter Entertainment's FanDuel, CME Group Launch Prediction Markets Platform",
-      "URL": "https://finance.yahoo.com/news/flutter-entertainment-apos-fanduel-cme-174048611.html",
-      "Content": "PREMIUM\nFlutter Entertainment's FanDuel, CME Group Launch Prediction Markets Platform\n\nMT Newswires\nMon, December 22, 2025 at 9:40 AM PST\n\nIn this article: GOOG\n\nCME\n\nAAPL\n\nFlutter Entertainment's (FLUT) FanDuel unit and CME Group (CME) said Monday they have launched a pre\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-23",
-      "Time": "01:13:00",
-      "Source": "The Wall Street Journal",
-      "Title": "Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow",
-      "URL": "https://finance.yahoo.com/m/9ad3989c-ecee-3b8e-9ff1-e905563ffbf3/alphabet-to-buy-intersect-for.html",
-      "Content": "Alphabet to Buy Intersect for $4.75 Billion as AI-Investment Plans Grow\n\nKatherine Hamilton\nMon, December 22, 2025 at 9:13 AM PST 2 min read\n\nIn this article: GOOG\n\nGoogle-parent said it would buy Intersect’s data-center projects that are in development, plus multiple gigawatts of energy and the Intersect team as part of the deal.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 227
+  "total_news_count": 224
 }
