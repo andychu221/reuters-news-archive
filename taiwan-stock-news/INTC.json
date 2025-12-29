@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-29T21:11:18.464Z",
+  "last_updated": "2025-12-29T22:11:26.129Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "05:15:42",
+      "Source": "Yahoo Finance Video",
+      "Title": "Nvidia officially invests $5B in Intel: What's next for the chip giant?",
+      "URL": "https://finance.yahoo.com/video/nvidia-officially-invests-5b-intel-211542569.html",
+      "Content": "Nvidia officially invests $5B in Intel: What's next for the chip giant?\n\nYahoo Finance Video\nMon, December 29, 2025 at 1:15 PM PST\n\nIn this video: NVDA\n\nINTC\n\nNvidia ( NVDA ) completed its purchase of $5 billion worth of Intel ( INTC ) shares as part of an agreement announced in September . Yahoo Finance Reporter Laura Bratton discusses the news, recaps Intel's wild 202 5, and what might be in store for the chip giant in 2026.\nTo watch more expert insights and analysis on the latest market action, check out more Market Domination .\n\nVideo Transcript\n\n00:00 Speaker A\nNvidia has officially taken its $5 billion stake in Intel, carrying out a transaction announced back in September. And for more on Intel's deals, let's welcome in Yahoo Finance's Laura Bratton. Laura.\n00:09 Laura Bratton\nHow's it going?\n00:10 Speaker A\nVery good. Walk us through it.\n00:12 Laura Bratton\nYeah, so, um, Intel said in a regulatory filing today that over um last week, it had completed the sale of 5 billion worth of shares to Nvidia. Um it was a deal that was initially announced in September and really boosted confidence in Intel. Um, the two companies are co-developing CPUs for data center servers, um and also chips for personal computers. So, um really big deal for Intel to have kind of Nvidia behind it. Um, but notably it doesn't include Intel manufacturing and that's really what investors have been waiting to see um whether Intel's manufacturing business can turn around.\n00:46 Speaker A\nNow Nvidia, that wasn't the only deal Intel struck, right, this year? What else has changed for that chipmaker?\n00:54 Laura Bratton\nYeah, a lot has changed. They have a new CEO, Lip-Bu Tan, um that really bolstered kind of investor confidence in Intel because of his wide-ranging industry connections. Um Pat Gelsinger, the former CEO had undergone like a really aggressive turnaround effort and it just cost a lot of money and the manufacturing business, which opened up to outside um customers has been losing a lot of money. Um, other things that happened, the US government really big, they invested in Intel, so did Softbank. Um, and the US government investment was was a really big deal because the thought is that, you know, now Intel might have sway over trade policy. The US government could potentially pressure some of the bigger companies to use Intel's manufacturing business.\n01:40 Speaker A\nSo, and by the way, this stock, I mean, as we we should mention, it's up about 80% this year. Uh it has been just a rocket ship. Uh most analysts, by the way, on on uh maybe not surprising after a move like that. I mean, look at that stock chart. Most analysts at this point are on the sidelines. But what's ahead for Intel? Like if I'm an investor in this name, Laura, what should I be looking for in 2026? What's on the radar?\n02:05 Laura Bratton\nYeah, so, um Intel's latest manufacturing process 18A was a really big milestone for the company. Um but they didn't really get the big external customers that investors are really looking for Intel to get in order to be like, hey, this business has really, you know, turned around. Um, so that instead is being kind of used for Intel's own chips, but now they need outside customers for their upcoming manufacturing processes, 18AP and 14A.\n02:37 Speaker A\nMhm. All right, Laura, thanks so much. Appreciate it.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "04:44:02",
@@ -670,5 +679,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 74
+  "total_news_count": 75
 }
