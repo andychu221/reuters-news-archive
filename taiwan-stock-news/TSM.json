@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-29T16:11:27.401Z",
+  "last_updated": "2025-12-29T17:11:43.254Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-29",
+      "Time": "23:38:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Closes $5 Billion Purchase of Intel Shares",
+      "URL": "https://finance.yahoo.com/m/006cf717-55ab-36ec-b7d9-9c3700ff24c7/nvidia-closes-%245-billion.html",
+      "Content": "Nvidia Closes $5 Billion Purchase of Intel Shares\n\nAdam Levine\nMon, December 29, 2025 at 7:38 AM PST 2 min read\n\nIn this article: NVDA\n\nTSM\n\nTSMWF\n\nSFTBF\n\nSFTBY\n\nThe share purchase provides Intel with much-needed capital as it works to recover from years of setbacks.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "21:53:29",
@@ -328,5 +337,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 36
+  "total_news_count": 37
 }
