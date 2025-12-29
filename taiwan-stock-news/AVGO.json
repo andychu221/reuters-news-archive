@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-29T18:11:02.044Z",
+  "last_updated": "2025-12-29T19:11:09.298Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "01:30:46",
+      "Source": "24/7 Wall St.",
+      "Title": "Billionaires Dump the Magnificent Seven and Load Up on These Stocks",
+      "URL": "https://finance.yahoo.com/m/d55fce68-c7c0-3d3c-b684-9e2856308324/billionaires-dump-the.html",
+      "Content": "Billionaires Dump the Magnificent Seven and Load Up on These Stocks\n\nVandita Jadeja\nMon, December 29, 2025 at 9:30 AM PST 5 min read\n\nIn this article: NVDA\n\nAMZN\n\nPLTR\n\nADBE\n\nAVGO\n\nQuick Read Billionaire Stanley Druckenmiller fully exited Nvidia and Palantir positions.\nKen Griffin reduced his Amazon stake by 39% by selling 2.1 million shares.\nBridgewater Associates and Tiger Global Management increased their positions in Adobe and Broadcom.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "23:48:09",
@@ -598,5 +607,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 66
+  "total_news_count": 67
 }
