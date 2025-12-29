@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-29T06:11:34.350Z",
+  "last_updated": "2025-12-29T07:11:36.465Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-29",
+      "Time": "13:30:00",
+      "Source": "Barrons.com",
+      "Title": "These 2 Stocks Have Become Surprising AI Winners in 2025. What They Can Teach Us for 2026.",
+      "URL": "https://finance.yahoo.com/m/8c692651-497c-3c04-8d56-078ab16736e7/these-2-stocks-have-become.html",
+      "Content": "These 2 Stocks Have Become Surprising AI Winners in 2025. What They Can Teach Us for 2026.\n\nNate Wolf\nSun, December 28, 2025 at 9:30 PM PST 5 min read\n\nIn this article: WDC\n\nGOOG\n\n^GSPC\n\nMSFT\n\nSTX\n\nWestern Digital and Seagate Technology are set to finish the year as two of the top three stocks in the S&P 500.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "13:04:00",
@@ -2182,5 +2191,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 242
+  "total_news_count": 243
 }
