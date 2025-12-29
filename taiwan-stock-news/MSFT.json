@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-29T00:11:23.719Z",
+  "last_updated": "2025-12-29T04:11:27.496Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-29",
+      "Time": "10:38:38",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: NetEase, Inc.",
+      "URL": "https://finance.yahoo.com/m/67fd8778-797a-3b37-b0d9-748b702cef94/analyst-report%3A-netease%2C-inc..html",
+      "Content": "Analyst Report: NetEase, Inc.\n\nIvan Su\nSun, December 28, 2025 at 6:38 PM PST 1 min read\n\nIn this article: NTES\n\nNETTF\n\nMSFT\n\nFounded in the late 1990s as an internet portal, NetEase has transformed into a leading force in the second-largest online game company gaming in China. While its initial success was built upon the massively multiplayer online role-playing game Fantasy Westward Journey, NetEase has expanded its portfolio with captivating franchises that resonate with both domestic and international players. Over the past decade, the company has created titles such as Justice, Identity V, Naraka: Bladepoint, and Eggy Party, all of which maintain significant player bases today. Beyond in-house development, the company also collaborates with likes of Microsoft and Marvel to create and publish games based on renowned IPs, including World of Warcraft, Diablo Immortal, and Marvel Rivals.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-29",
       "Time": "06:43:00",
@@ -1120,5 +1129,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 124
+  "total_news_count": 125
 }
