@@ -1,8 +1,26 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-29T18:11:27.833Z",
+  "last_updated": "2025-12-29T19:11:30.453Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "02:31:53",
+      "Source": "MT Newswires",
+      "Title": "Consumer Discretionary, Technology Push US Equity Indexes Lower",
+      "URL": "https://finance.yahoo.com/news/consumer-discretionary-technology-push-us-183153493.html",
+      "Content": "PREMIUM\nConsumer Discretionary, Technology Push US Equity Indexes Lower\n\nMT Newswires\nMon, December 29, 2025 at 10:31 AM PST 3 min read\n\nIn this article: INTC\n\n^IXIC\n\n^DJI\n\nNVDA\n\n^GSPC\n\nUS equity indexes fell after midday Monday, with technology and consumer discretionary among the top\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "02:31:53",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Fall Monday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-fall-monday-183153168.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Fall Monday Afternoon\n\nMT Newswires\nMon, December 29, 2025 at 10:31 AM PST 1 min read\n\nIn this article: INTC\n\nGOOG\n\nNVDA\n\nXLK\n\nVRSK\n\nTech stocks were lower Monday afternoon, with the State Street Technology Select Sector SPDR ETF (XL\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "02:00:32",
@@ -10,6 +28,15 @@
       "Title": "Sector Update: Tech",
       "URL": "https://finance.yahoo.com/news/sector-tech-180032226.html",
       "Content": "PREMIUM\nSector Update: Tech\n\nMT Newswires\nMon, December 29, 2025 at 10:00 AM PST\n\nIn this article: INTC\n\nNVDA\n\nXLK\n\nTech stocks were lower Monday afternoon, with the State Street Technology Select Sector SPDR ETF (XL\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "01:32:45",
+      "Source": "24/7 Wall St.",
+      "Title": "Nvidia’s Stock Is Cheaper Than Intel’s and AMD’s. Here’s Where I See It in 2026",
+      "URL": "https://finance.yahoo.com/m/af12dfbd-3380-3d94-bd9e-e1d7362611d3/nvidia%E2%80%99s-stock-is-cheaper.html",
+      "Content": "Nvidia’s Stock Is Cheaper Than Intel’s and AMD’s. Here’s Where I See It in 2026\n\nOmor Ibne Ehsan\nMon, December 29, 2025 at 9:32 AM PST 5 min read\n\nIn this article: NVDA\n\nINTC\n\nAMD\n\nQuick Read Nvidia trades at 25x forward earnings compared to Intel at 61x and AMD at 33x despite superior margins and growth.\nThe company reports $275B in backlog for 2026 with analysts expecting up to $412.5B in FY 2027 revenue.\nBear case valuation suggests $178 per share in 2026 while bull case projects $373 based on $330B revenue at 55% margins.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
       "Language": "en"
     },
     {
@@ -625,5 +652,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 69
+  "total_news_count": 72
 }
