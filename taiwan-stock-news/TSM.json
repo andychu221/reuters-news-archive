@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-30T06:11:02.150Z",
+  "last_updated": "2025-12-30T11:11:09.487Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "18:26:26",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Samsung, SK Hynix Win US Approval for 2026 China Equipment Shipments",
+      "URL": "https://finance.yahoo.com/news/market-chatter-samsung-sk-hynix-102626767.html",
+      "Content": "PREMIUM\nMarket Chatter: Samsung, SK Hynix Win US Approval for 2026 China Equipment Shipments\n\nMT Newswires\nTue, December 30, 2025 at 2:26 AM PST 1 min read\n\nIn this article: TSM\n\nSSNLF\n\n000660.KS\n\nSamsung Electronics and SK Hynix received a license from the US Government to transport semiconducto\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "12:14:15",
@@ -346,5 +355,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 38
+  "total_news_count": 39
 }
