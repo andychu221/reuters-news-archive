@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-30T04:10:36.241Z",
+  "last_updated": "2025-12-30T05:10:39.027Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "13:00:26",
+      "Source": "Insider Monkey",
+      "Title": "NVIDIA Corporation (NVDA) Aims to Starts Shipping Chips to China Soon",
+      "URL": "https://finance.yahoo.com/news/nvidia-corporation-nvda-aims-starts-050026421.html",
+      "Content": "NVIDIA Corporation (NVDA) Aims to Starts Shipping Chips to China Soon\n\nTalha Qureshi\nMon, December 29, 2025 at 9:00 PM PST 2 min read\n\nIn this article: NVDA\n\nBABA\n\nNVIDIA Corporation (NASDAQ: NVDA ) is among the Stocks That Will Make You Rich in 2026 . On December 23, Reuters reported that NVIDIA Corporation (NASDAQ:NVDA) aims to start shipping its second most powerful AI chips to China before mid-February 2026.\nThe update comes after several Chinese companies, including Alibaba, had shown interest in importing the company’s latest H200 chips to speed up their model training and development processes. To cater to this rising demand from Chinese companies, NVIDIA Corporation (NASDAQ:NVDA) earlier on December 15 had announced ramping up its H200 production.\nAs per the latest update, the US chip maker plans to ship around 5,000 to 10,000 chip modules, which is equivalent to 40,000 to 80,000 H200 AI chips. According to people familiar with the matter, as per Reuters, Nvidia has told Chinese companies that the new production capacity for chips will open in the second half of 2026. However, it should be noted that the Chinese government has yet to approve the import of these chips; as a result, the timeline of the shipment can vary.\n\nThat said, Wall Street is bullish on NVIDIA Corporation (NASDAQ:NVDA). Recently, on December 26, Aaron Rakers from Wells Fargo reiterated a Buy rating on the stock with a $265 price target. On the same day, C J Muse from Cantor Fitzgerald also reiterated a Buy rating on the stock with a $300 price target.\n​NVIDIA Corporation (NASDAQ:NVDA) designs and sells specialized processors, initially for gaming but now also crucial for AI, data centers, professional visualization, and the automotive industry. It developed the graphics processing unit (GPU) and the CUDA parallel computing platform, which allows its GPUs to perform tasks beyond graphics.\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you’re looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None. This article is originally published at Insider Monkey .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "10:30:00",
@@ -3478,5 +3487,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 386
+  "total_news_count": 387
 }
