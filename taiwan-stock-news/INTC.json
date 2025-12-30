@@ -1,8 +1,26 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-30T15:11:32.099Z",
+  "last_updated": "2025-12-30T17:11:56.937Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "00:31:03",
+      "Source": "GuruFocus.com",
+      "Title": "Intel Stock Rises After $5 Billion Nvidia Stake Becomes Official",
+      "URL": "https://finance.yahoo.com/news/intel-stock-rises-5-billion-163103183.html",
+      "Content": "Intel Stock Rises After $5 Billion Nvidia Stake Becomes Official\n\nNauman Khan\nTue, December 30, 2025 at 8:31 AM PST 1 min read\n\nIn this article: INTC\n\nNVDA\n\nThis article first appeared on GuruFocus .\nIntel ( NASDAQ:INTC ) shares rose about 2% on Tuesday morning, extending gains from the prior session, after the chipmaker completed a $5 billion private share sale to Nvidia ( NASDAQ:NVDA ), making the investment official.\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel said it closed the equity placement on Dec. 26 following regulatory clearance. The transaction makes Nvidia a roughly 4% shareholder in Intel.\nUnder the terms, Nvidia purchased about 214.8 million Intel shares at $23.28 each. The deal provides Intel with a sizable cash infusion and marks a rare strategic link between two long-standing rivals in the semiconductor industry.\nThe purchase price represented a steep discount to Intel's prior market price, reflecting Nvidia's strong negotiating position amid its dominance in artificial intelligence chips.\nIntel said the investment does not give Nvidia any special governance or information rights beyond those of a standard shareholder.\nThe company received U.S. regulatory clearance earlier this month, including early termination of the Hart-Scott-Rodino review by the Federal Trade Commission.\nAnalysts said attention is now shifting to whether Intel can translate the partnership into operational and competitive gains.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "23:45:00",
+      "Source": "Zacks",
+      "Title": "Can Intel's Investment-Driven Strategy Regain Its Competitive Edge?",
+      "URL": "https://finance.yahoo.com/news/intels-investment-driven-strategy-regain-154500874.html",
+      "Content": "Can Intel's Investment-Driven Strategy Regain Its Competitive Edge?\n\nZacks Equity Research\nTue, December 30, 2025 at 7:45 AM PST 3 min read\n\nIn this article: INTC\n\nQCOM\n\nAMD\n\nNVDA\n\nSFTBF\n\nIntel Corporation ( INTC ) has completed a previously announced $5 billion investment from NVIDIA Corporation ( NVDA ), under which the latter purchased around 214.7 million shares of the former at $23.28 per share. Earlier in December, this transaction received U.S. antitrust approval from the Federal Trade Commission. This purchase gives NVIDIA roughly a 4% equity stake in Intel through a private placement of shares.\n\nThe partnership aims to tightly combine Intel’s custom-designed x86 CPUs with NVIDIA’s AI GPUs and NVLink interconnect technology to create faster, more efficient AI systems and next-generation PCs with stronger AI and graphics performance. This could help Intel remain competitive in the AI era.\nIntel had also secured $8.9 billion in funds from the U.S. government to support semiconductor manufacturing and packaging projects in Arizona, New Mexico, Ohio and Oregon in order to boost the domestic chip industry. SoftBank has also invested $2 billion, providing funds to support Intel’s restructuring and AI projects.\nIntel is constantly making efforts to bring huge investments to strengthen its balance sheet, supporting heavy spending on new factories and R&D, boosting market confidence and enabling deeper technology collaboration with firms like NVIDIA.\n\nHow Are Rivals Performing? Intel faces competition from Qualcomm Incorporated ( QCOM ) and Advanced Micro Devices ( AMD ). Qualcomm recently completed its $2.4 billion acquisition of British semiconductor company Alphawave Semi to strengthen its AI, data center and high-speed connectivity technologies, boosting its competitiveness beyond smartphones. By strengthening its PC chip offerings through programs like Snapdragon X, Qualcomm can expand into new markets such as AI infrastructure, edge computing and personal computers. Qualcomm entered the AI infrastructure space by developing AI accelerators like AI200 & AI250.\n\nAMD is set to launch high-performance AI GPUs, EPYC server CPUs and full AI systems like Helios to compete with NVIDIA and provide faster, more efficient solutions for data centers and enterprises. AMD is partnering with companies like OpenAI and Oracle to expand across gaming, PCs and servers to increase revenues and stay competitive. The company continues to improve its ROCm open software stack and open hardware standards.\nINTC’s Price Performance, Valuation & Estimates Shares of Intel have surged 85% over the past year compared with the industry ’s growth of 34.1%.\n\nImage Source: Zacks Investment Research\nGoing by the price/book ratio, the company's shares currently trade at 1.5 book value, lower than 32.5 of the industry average.\n\nStory Continues\n\nImage Source: Zacks Investment Research\nINTC’s earnings estimates for 2025 have increased 6.3% to 34 cents per share, while those for 2026 have declined 6.5% to 58 cents over the past 60 days.\n\nImage Source: Zacks Investment Research\nIntel stock currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nIntel Corporation (INTC) : Free Stock Analysis Report\nQUALCOMM Incorporated (QCOM) : Free Stock Analysis Report\nAdvanced Micro Devices, Inc. (AMD) : Free Stock Analysis Report\nNVIDIA Corporation (NVDA) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "22:47:15",
@@ -706,5 +724,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 78
+  "total_news_count": 80
 }
