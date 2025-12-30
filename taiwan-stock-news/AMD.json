@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-30T20:10:53.833Z",
+  "last_updated": "2025-12-30T22:10:55.684Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "03:01:13",
+      "Source": "Barchart",
+      "Title": "Wall Street’s Not Sure What to Think About Nvidia’s Deal for Groq, But Mizuho Says You Should Keep Buying NVDA Stock",
+      "URL": "https://finance.yahoo.com/m/e21c4703-577f-3f32-9c08-e729cd95a766/wall-street%E2%80%99s-not-sure-what.html",
+      "Content": "Wall Street’s Not Sure What to Think About Nvidia’s Deal for Groq, But Mizuho Says You Should Keep Buying NVDA Stock\n\nWajeeh Khan\nTue, December 30, 2025 at 11:01 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nINTC\n\nGROQ.PVT\n\nNvidia (NVDA) shares remain in focus this week after the semiconductor behemoth confirmed it’s spending $20 billion to acquire Groq’s assets and talents.\nFounded in 2016, this artificial intelligence (AI) startup based out of Mountain View, California specialize in high-bandwidth, low-latency architectures.\n\nMore News from Barchart Micron Technology Bear Put Spread Could Return 197% in this Down Move\nMicron Stock Stole the Show in 2025. Options Data Says It Will Trade at These Levels in 2026.\nQuantumScape Gained 100% in 2025 and Is Set to Generate Revenue for the First Time in 2025. Options Data Suggests You Should Play QS Stock Like This for 2026.\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\nAt the time of writing, Nvidia stock is up roughly 120% versus its year-to-date low set in early April.\nMizuho Explains Why Groq Deal Is Bullish for Nvidia Stock According to Vijay Rakesh – a senior Mizuho analyst – the non-exclusive licensing deal with Groq will prove a meaningful “benefit for NVDA shares in the long run.”\nThe transaction enables Nvidia to assert its prowess in AI inference, which is expected to make up as much as 80% of workloads over time.\n\nOn Monday, Rakesh maintained an “Outperform” rating on the Nasdaq-listed giant. His $245 price target indicates potential for another 32% upside from here.\nFrom a technical perspective, the AI stock is currently trading decisively above its major moving averages (MAs), reinforcing that the bullish momentum will likely sustain in 2026.\nWhy Groq Deal May Unlock Further Upside in NVDA Shares What’s also worth mentioning is that the $20 billion price tag on the Groq deal, while huge on the surface, is peanuts compared to Nvidia’s market cap.\nThis means the associated risk – both executional and to the giant’s balance sheet – is rather small.\nFor NVDA, it’s more like a “bolt-on” acquisition that strengthens its footprint in AI inference at a minimal financial risk. As Bernstein analyst Stacy Rasgon put it in a recent CNBC interview:\n\n“They can do a $20 billion deal on Christmas Eve with no press release, and nobody bats an eye.”\nAll in all, acquiring Groq’s assets and talent positions Nvidia shares to widen the gap with rivals, including Advanced Micro Devices (AMD) and Intel (INTC).\nWhat’s the Consensus Rating on Nvidia? Note that Mizuho isn’t the only Wall Street firm that’s recommending sticking with NVDA stock heading into 2026.\nIn fact, the consensus rating on Nvidia shares remains at “Strong Buy” with the mean target of $256 indicating potential upside of more than 35% from current levels.\n\nStory Continues\nOn the date of publication, Wajeeh Khan did not have (either directly or indirectly) positions in any of the securities mentioned in this article. All information and data in this article is solely for informational purposes. This article was originally published on Barchart.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "01:27:07",
@@ -571,5 +580,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 63
+  "total_news_count": 64
 }
