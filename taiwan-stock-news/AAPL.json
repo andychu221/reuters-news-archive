@@ -1,8 +1,35 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-30T16:11:32.411Z",
+  "last_updated": "2025-12-30T17:11:44.806Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "00:43:34",
+      "Source": "GuruFocus.com",
+      "Title": "Apple's iPhone Market Share Rises in China, Still Below Prior Peaks",
+      "URL": "https://finance.yahoo.com/news/apples-iphone-market-share-rises-164334136.html",
+      "Content": "Apple's iPhone Market Share Rises in China, Still Below Prior Peaks\n\nFaizan Farooque\nTue, December 30, 2025 at 8:43 AM PST 1 min read\n\nIn this article: AAPL\n\nThis article first appeared on GuruFocus .\nApple Inc. ( AAPL , Financials ) saw renewed iPhone momentum in China during November , with shipments rebounding after a soft third quarter, according to Barclays analysis of government data.The bank said that indicated iPhone shipments surged by 131% from one year to the next, mostly because of the arrival of the iPhone 17 and high demand for the early \"Air\" model.\n\nWarning! GuruFocus has detected 8 Warning Signs with SFTBY.\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\nEven while things are getting better, Apple's market share in China is still under threat. Barclays thinks that the iPhone had roughly 13% of the market during the first 11 months of 2025. This is a little more than in October but still lower than the 17% share it had in 2023.\nTim Long, an analyst, said that competition from Huawei and other Chinese smartphone manufacturers is still hurting Apple's lead, and that geopolitical and macroeconomic concerns are also hurting sales.\nBarclays maintained its Underweight recommendation on Apple shares, saying that there is \"uncertain growth, regulatory risks in Services, and an undefined AI strategy.\" The price of Apple stock just went up 0.13% to $273.76.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "00:39:48",
+      "Source": "GuruFocus.com",
+      "Title": "Microsoft Seen With 30% Upside in 2026 as AI Growth Accelerates",
+      "URL": "https://finance.yahoo.com/news/microsoft-seen-30-upside-2026-163948241.html",
+      "Content": "Microsoft Seen With 30% Upside in 2026 as AI Growth Accelerates\n\nFaizan Farooque\nTue, December 30, 2025 at 8:39 AM PST 1 min read\n\nIn this article: MSFT\n\nOPAI.PVT\n\nMETA\n\nAAPL\n\nThis article first appeared on GuruFocus .\nMicrosoft ( MSFT , Financials ) to rise 30% in 2026 due to its AI and cloud divisions . Analysts rate the stock Strong Buy, and shares have risen 17% this year, outperforming Meta and Apple. Out of 34 recommendations, 32 are Buys and two are Holds, with an average price target of $631.36 a 29.6% upside.Microsoft's fiscal first quarter 2026 sales rose 18% to $78 billion, led by a 40% increase in Azure and associated cloud services. With a 27% investment in OpenAI worth $135 billion, the corporation has strengthened its corporate technology leadership.As Microsoft grows its AI infrastructure, capital outlays increased to $34.9 billion, worrying investors. Wedbush analyst Dan Ives termed the business a core winner among AI equities and expects sustained outperformance as corporations use AI.Other analysts are mostly positive. Julian Emanuel of Evercore ISI said AI bubble worries are largely absent, noting prominent tech corporations' solid balance sheets and few cross-holdings. Glenn Thum of Phillip Securities lowered his price objective to $540 but maintained a Buy rating.Analysts predict Azure to develop faster as firms use AI technologies. AI-driven growth may propel the corporation until 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "23:10:09",
+      "Source": "24/7 Wall St.",
+      "Title": "Is This Warren Buffett’s Final Warning About the S&P 500?",
+      "URL": "https://finance.yahoo.com/m/98383a15-b914-39fd-9c6a-187b58bae0c8/is-this-warren-buffett%E2%80%99s.html",
+      "Content": "Is This Warren Buffett’s Final Warning About the S&P 500?\n\nRich Duprey\nTue, December 30, 2025 at 7:10 AM PST 4 min read\n\nIn this article: BRK.A\n\nBRK-B\n\n^GSPC\n\nAAPL\n\nQuick Read Berkshire Hathaway ( BRK-A , BRK-B ) CEO Warren Buffett steps down tomorrow after six decades. Berkshire holds a record $382B cash pile mostly in Treasury bills.\nBerkshire has been a net seller of stocks for 12 consecutive quarters including major reductions in Apple holdings.\nThe S&P 500 trades at 31.3x trailing P/E. Valuations above 23x forward P/E have historically produced near-zero 10-year returns.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "22:30:00",
@@ -1039,5 +1066,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 115
+  "total_news_count": 118
 }
