@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-30T02:11:18.927Z",
+  "last_updated": "2025-12-30T03:11:41.425Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "10:00:00",
+      "Source": "The Wall Street Journal",
+      "Title": "After a Year of Blistering Growth, AI Chip Makers Get Ready for Bigger 2026",
+      "URL": "https://finance.yahoo.com/m/7e0ab521-7a62-31fa-8a6d-2a28bb57a529/after-a-year-of-blistering.html",
+      "Content": "After a Year of Blistering Growth, AI Chip Makers Get Ready for Bigger 2026\n\nRobbie Whelan\nMon, December 29, 2025 at 6:00 PM PST 5 min read\n\nIn this article: NVDA\n\nGOOG\n\nAMZN\n\nDriven by the explosive growth of artificial intelligence, the largest semiconductor companies in the world recorded more than $400 billion in combined sales in 2025, by far the biggest year for chips on record. Hardware designers such as Nvidia which more than doubled its revenue year-over-year, are the main suppliers of the picks and shovels behind this new digital gold rush.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "08:45:00",
@@ -1921,5 +1930,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 213
+  "total_news_count": 214
 }
