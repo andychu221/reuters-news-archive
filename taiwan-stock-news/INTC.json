@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-30T18:11:41.857Z",
+  "last_updated": "2025-12-30T19:11:20.081Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "02:12:51",
+      "Source": "Yahoo Finance Video",
+      "Title": "Meta buys AI startup, Softbank invests $40B in OpenAI, Intel pops",
+      "URL": "https://finance.yahoo.com/video/meta-buys-ai-startup-softbank-181251726.html",
+      "Content": "Meta buys AI startup, Softbank invests $40B in OpenAI, Intel pops\n\nYahoo Finance Video and John Hyland\nTue, December 30, 2025 at 10:12 AM PST\n\nIn this video: META\n\nSFTBY\n\nSFTBF\n\nINTC\n\nOPAI.PVT\n\nYahoo Finance's John Hyland tracks Tuesday's top moving stocks and biggest market stories in this Market Minute, including Meta ( META ) buying artificial intelligence (AI) startup Manus, Softbank ( 9984.T ) reportedly funding a $40 billion investment in OpenAI ( OPAI.PVT ), and Intel ( INTC ) stock rising.\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.\n\nVideo Transcript\n\n00:03 Speaker A\nIt's time for the Yahoo Finance Market Minute.\n00:07 Speaker A\nMeta is making a $2 billion push into a Gentic AI.\n00:10 Speaker A\nThe social giant announced the acquisition of Singapore-based startup Manas, which rose to prominence earlier this year.\n00:14 Speaker A\nThe acquisition is the latest push by uh CEO Mark Zuckerberg to make artificial intelligence a top priority for the company.\n00:20 Speaker A\nAnd sticking with AI, Softbank has reportedly completed its $40 billion investment commitment to Open AI.\n00:25 Speaker A\nCNBC is reporting the Japanese investment giant sent over around 22 to 22 and a half billion dollars last week to the startup.\n00:30 Speaker A\nThe capital comes at a time when Open AI has made more than $1.4 trillion in infrastructure commitments over the next several years.\n00:36 Speaker A\nAnd finally, Intel shares are extending gains today after the company completed its $5 billion share sale to Nvidia.\n00:41 Speaker A\nShares were priced at $23.28 each in a private placement. The sale was originally announced back in September.\n00:46 Speaker A\nAnd that's your Yahoo Finance Market Minute. For more on what's turning on Yahoo Finance, scan the QR code below to track the best and worst performing stocks of the trading session.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "01:07:11",
@@ -733,5 +742,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 81
+  "total_news_count": 82
 }
