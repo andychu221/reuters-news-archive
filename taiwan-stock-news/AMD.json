@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-30T12:10:58.427Z",
+  "last_updated": "2025-12-30T13:10:59.716Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "20:25:26",
+      "Source": "GuruFocus.com",
+      "Title": "Micron Stock Climbs to Record High as AI Drives Memory Chip Demand",
+      "URL": "https://finance.yahoo.com/news/micron-stock-climbs-record-high-122526887.html",
+      "Content": "Micron Stock Climbs to Record High as AI Drives Memory Chip Demand\n\nNauman Khan\nTue, December 30, 2025 at 4:25 AM PST 1 min read\n\nIn this article: MU\n\n^GSPC\n\nNVDA\n\nAMD\n\nThis article first appeared on GuruFocus .\nMicron ( NASDAQ:MU ) stock climbed more than 3% on Monday, hitting a new all-time intraday high of $294.3, fueled by surging demand for memory used in artificial intelligence applications.\nThe rally pushed the stock past its previous record of $290.87 set just days earlier, highlighting investor enthusiasm for AI-focused chipmakers.\n\nWarning! GuruFocus has detected 6 Warning Sign with MU.\nList of 52-Week Lows\nList of 3-Year Lows\nList of 5-Year Lows\nIs MU fairly valued? Test your thesis with our free DCF calculator.\nThe gains came even as the broader market dipped, with the S&P 500 and Dow Jones moving lower, showing that Micron's momentum is largely sector-driven. Recent earnings reinforced the bullish case: the company posted $13.64 billion in revenue and adjusted EPS of $4.78, propelled by high-bandwidth memory (HBM) used in Nvidia ( NASDAQ:NVDA ) and AMD ( NASDAQ:AMD ) AI chips.\nLooking ahead, management expects the HBM market to grow from $35 billion in 2025 to nearly $100 billion by 2028, roughly 40% annual growth. Analysts, including Rosenblatt Securities, have raised price targets in response to the strong outlook.\nCompetition is still something to monitor. Samsung and SK Hynix are increasing the production of HBM and that could drive the prices down in case of a supply and demand mismatch. Micron 2026 depends on stable AI orders, no change in price and the speed with which the competition will equip the AI order.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "19:36:52",
@@ -517,5 +526,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 57
+  "total_news_count": 58
 }
