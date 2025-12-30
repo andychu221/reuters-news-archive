@@ -1,8 +1,26 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-29T23:12:01.089Z",
+  "last_updated": "2025-12-30T00:11:24.556Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "07:39:05",
+      "Source": "Reuters",
+      "Title": "Meta to acquire Chinese startup Manus to boost advanced AI features",
+      "URL": "https://finance.yahoo.com/news/meta-acquire-chinese-startup-manus-233905821.html",
+      "Content": "Meta to acquire Chinese startup Manus to boost advanced AI features\n\nReuters\nUpdated Mon, December 29, 2025 at 4:00 PM PST 1 min read\n\nIn this article: META\n\nDec 29 (Reuters) - Meta ( META ) said on Monday it would acquire Chinese artificial intelligence startup ​Manus, as the technology giant accelerates efforts ‌to integrate advanced AI across its platforms.\nTech giants such as ‌Meta have been ramping up AI investments through strategic acquisitions and talent hires as they navigate fierce industry competition. Earlier this year, the Facebook-owner ⁠invested in Scale ‌AI in a deal valuing the data-labeling startup at $29 billion and bringing ‍in its 28-year-old CEO, Alexandr Wang.\nFinancial terms of its deal with Manus were not released.\n\nSingapore-based Manus makes general-purpose ​AI agent, which can operate as a ‌digital employee, executing tasks such as research and automation independently and with minimal prompts.\nMeta will operate and sell the Manus service, as well as integrate it into its consumer and business ⁠products, including in Meta AI, ​the company said.\nEarlier this year, ​Manus launched its AI agent, claiming that its performance surpasses that of OpenAI 's ‍AI agent, ⁠DeepResearch.\nThe company, part of Beijing Butterfly Effect Technology Ltd Co, has marketed its product by ⁠completing dozens of tasks for users on X for ‌free.\n(Reporting by Harshita Mary Varghese in Bengaluru; ‌Editing by Shilpi Majumdar)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-30",
+      "Time": "07:30:16",
+      "Source": "Investing.com",
+      "Title": "Meta acquires Manus to expand AI agent capabilities",
+      "URL": "https://finance.yahoo.com/news/meta-acquires-manus-expand-ai-233016223.html",
+      "Content": "Meta acquires Manus to expand AI agent capabilities\n\nLuke Juricic\nMon, December 29, 2025 at 3:30 PM PST 2 min read\n\nIn this article: META\n\nInvesting.com -- Meta Platforms Inc (NASDAQ:META) has acquired Manus, a leading autonomous general-purpose AI agent company, in a move to integrate advanced agent technology across its products. Financial terms of the deal were not announced.\nManus, which launched its first General AI Agent earlier this year, has already processed more than 147 trillion tokens and created over 80 million virtual computers. The company currently serves millions of users and businesses worldwide.\n\n\"Joining Meta allows us to build on a stronger, more sustainable foundation without changing how Manus works or how decisions are made,\" said Xiao Hong, CEO of Manus.\nMeta plans to continue operating and selling the Manus service while also integrating it into Meta’s product ecosystem, including Meta AI. The acquisition will bring Manus’s technology to Meta’s billions of users and millions of businesses.\nThe Singapore-based Manus has experienced rapid growth, recently announcing it had reached $100 million in annual recurring revenue just eight months after launch, making it reportedly the fastest startup to achieve this milestone globally. The company’s total revenue run rate exceeds $125 million, including usage-based and other revenue.\n\nThis acquisition comes during what has been described as an intense year for Meta, involving an AI overhaul under CEO Mark Zuckerberg. The company has been restructuring to regain ground in the AI race while reportedly developing new AI models like Mango and Avocado for 2026.\nEarlier in 2025, Meta formed Meta Superintelligence Labs (MSL), a dedicated division headquartered in Menlo Park, California, focused on building advanced AI models that integrate deeply into Meta’s ecosystem. The division is lead by Alexandr Wang, founder of Scale AI, a data-labelling startup Meta bought a 49% stake in for $14 billion, effectively acquiring Wang’s services.\nManus will continue to operate from Singapore following the acquisition.\nMeta has not yet responded to Investing.com’s request for comment.\nRelated articles\nMeta acquires Manus to expand AI agent capabilities\nThese Under-$10 Stocks Are Up 100%+ This Quarter - And Some Still Have Room to Run\nNasdaq 100 Setup Turns Cautious as Insiders Sell and Technicals Flash Fatigue\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "07:00:19",
@@ -895,5 +913,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 99
+  "total_news_count": 101
 }
