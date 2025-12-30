@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-30T17:10:39.271Z",
+  "last_updated": "2025-12-30T18:10:34.180Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "01:28:23",
+      "Source": "Insider Monkey",
+      "Title": "QUALCOMM Incorporated (QCOM) Closes Alphawave Deal, Expands Push Into AI Data Centers",
+      "URL": "https://finance.yahoo.com/news/qualcomm-incorporated-qcom-closes-alphawave-172823076.html",
+      "Content": "QUALCOMM Incorporated (QCOM) Closes Alphawave Deal, Expands Push Into AI Data Centers\n\nLaiba Immad\nTue, December 30, 2025 at 9:28 AM PST 2 min read\n\nIn this article: QCOM\n\nAWEVF\n\nWe recently compiled a list of the 7 Most Promising Robotics Stocks According to Wall Street Analysts . QUALCOMM Incorporated is one of the most promising stocks.\nTheFly reported on December 18 that QCOM announced the completion of its $2.4 billion acquisition of Alphawave Semi, a global leader in high-speed wired connectivity. The deal closed approximately one quarter ahead of schedule, marking a significant milestone in Qualcomm’s infrastructure strategy. As part of the merger, Tony Pialis, the co-founder and former CEO of Alphawave Semi, has been appointed to lead Qualcomm’s newly expanded data center business.\n\nOn December 16, 2025, Cantor Fitzgerald analyst C.J. Muse maintained a Neutral rating on QCOM but significantly raised the price target by $35, moving it from $170 to $185. This adjustment reflects the firm’s increasing confidence in the company’s ability to capitalize on AI-driven demand across compute, networking, and memory segments.\nThe Alphawave acquisition is expected to integrate seamlessly with QUALCOMM Incorporated (NASDAQ:QCOM)’s proprietary Oryon CPU and Hexagon NPU architectures. By securing Alphawave’s high-speed SerDes (Serializer-Deserializer) and chiplet technology, QCOM is positioning itself to provide the core infrastructure for next-generation AI data centers.\n\nQUALCOMM Incorporated (NASDAQ:QCOM) is a global semiconductor and technology leader headquartered in San Diego, California. The company designs high-performance chips, AI processors, and connectivity solutions for mobile, automotive, IoT, and industrial applications. While not a traditional robotics manufacturer, QCOM plays a key role in robotics through its Robotics RB platforms, which enable autonomous robots, drones, and smart machines with edge AI, sensor fusion, and real-time 5G connectivity.\nWhile we acknowledge the potential of QCOM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now .\nDisclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "00:50:00",
@@ -67,5 +76,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 7
+  "total_news_count": 8
 }
