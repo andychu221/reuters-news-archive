@@ -1,8 +1,26 @@
 {
   "stock_id": "META",
-  "last_updated": "2025-12-30T20:11:54.659Z",
+  "last_updated": "2025-12-30T21:11:53.543Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "04:55:50",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Retreat Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-retreat-afternoon-205550982.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Retreat Late Afternoon\n\nMT Newswires\nTue, December 30, 2025 at 12:55 PM PST 1 min read\n\nIn this article: NVDA\n\nMETA\n\nMSFT\n\nXLK\n\nSFTBF\n\nTech stocks declined late Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "04:42:39",
+      "Source": "MT Newswires",
+      "Title": "US Equity Indexes Drop After FOMC Minutes Reveal December Rate Cut was a Close Call",
+      "URL": "https://finance.yahoo.com/news/us-equity-indexes-drop-fomc-204239615.html",
+      "Content": "PREMIUM\nUS Equity Indexes Drop After FOMC Minutes Reveal December Rate Cut was a Close Call\n\nMT Newswires\nTue, December 30, 2025 at 12:42 PM PST 2 min read\n\nIn this article: ^DJI\n\nTSLA\n\n^SPX\n\nBA\n\nMETA\n\nUS equity indexes fell ahead of the close on Tuesday, after Federal Open Market Committee minutes sh\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "03:17:58",
@@ -1237,5 +1255,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 137
+  "total_news_count": 139
 }
