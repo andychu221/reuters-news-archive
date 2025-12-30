@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-30T17:11:56.937Z",
+  "last_updated": "2025-12-30T18:11:41.857Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "01:07:11",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia Closes $5 Billion Intel Deal",
+      "URL": "https://finance.yahoo.com/news/nvidia-closes-5-billion-intel-170711352.html",
+      "Content": "Nvidia Closes $5 Billion Intel Deal\n\nMoz Farooque ACCA\nTue, December 30, 2025 at 9:07 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nSFTBF\n\nThis article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) has officially closed its $5 billion investment in Intel ( NASDAQ:INTC ), turning months of speculation into a finished transaction.\nA Form 8-K filing shows Intel issued about 214.8 million shares to Nvidia at $23.28 per share, with the all-cash deal completed on December 26. The investment was first announced in September and comes alongside a broader plan for the two chipmakers to co-develop PC and data center processors, tying Nvidia's AI strengths more closely to Intel's x86 platform.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nNvidia CEO Jensen Huang described the move as a historic collaboration, saying it tightly connects Nvidia's AI and accelerated computing stack with Intel's CPUs to help shape the next era of computing. In other words, this is about long-term strategy, not a short-term trade.\nThe Nvidia purchase follows other major Intel share sales in 2025, including $2 billion from SoftBank and an $8.9 billion U.S. government investment. Intel shares are now up 61% over the past 6 months. Investors will be watching for when this partnership starts showing up in real products.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "00:31:03",
@@ -724,5 +733,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 80
+  "total_news_count": 81
 }
