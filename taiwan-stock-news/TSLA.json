@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-30T00:11:12.769Z",
+  "last_updated": "2025-12-30T03:11:21.661Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-30",
+      "Time": "10:28:09",
+      "Source": "Cryptonews",
+      "Title": "Asia Market Open: Bitcoin Holds $87k As Asia Rally Stalls, Wall Street Tech Slips",
+      "URL": "https://finance.yahoo.com/m/b815b54a-db33-3d06-9eaf-8403e0afa71c/asia-market-open%3A-bitcoin.html",
+      "Content": "Asia Market Open: Bitcoin Holds $87k As Asia Rally Stalls, Wall Street Tech Slips A Nansen analyst says Bitcoin and Ethereum have traded sideways as year-end seasonality slows volumes rather than signaling a shift in market structure.\n\nShalini Nagarajan\nMon, December 29, 2025 at 6:28 PM PST 2 min read\n\nIn this article: BTC-USD\n\n^NDX\n\n^GSPC\n\nTSLA\n\nNVDA\n\nBitcoin held near $87,000 on Tuesday, setting a steady tone for crypto as Asian equities took a breather after a seven-day run and investors marked down US tech stocks into year-end.\nMSCI’s gauge of Asia Pacific shares slipped 0.1% in early trading, and S&#038;P 500 futures edged lower after the US benchmark fell 0.3% on Monday.\n\nThe Nasdaq 100 dropped 0.5% in that session, with Tesla, Nvidia and Meta among the notable decliners.\nThe softer equity tape arrived alongside another bout of metal volatility. Silver and gold swung after a sharp pullback from fresh all-time highs, as traders booked profits and liquidity thinned after the holidays.\nCrypto traders kept describing the same theme, a market that keeps moving, then does it with less depth.\nMarket snapshot Bitcoin : $87,164, down 1.9%\nEther : $2,929, down 2.3%\nXRP: $1.85, down 2.2%\nTotal crypto market cap: $3.03 trillion, down 2.1%\nBitcoin And Ether Drift Sideways As Year-End Volumes Fade Jake Kennis, senior research analyst at Nansen, said year-end trading has slowed and volumes have faded across major assets. “Bitcoin and Ethereum have both traded largely sideways over the past week, reflecting seasonal inactivity rather than a meaningful shift in market structure,” he said.\n“Activity has cooled across most chains, with a broad consolidation in active addresses, transactions, and fees generated over the past 30 days. Chains like Base saw notable pullbacks in DEX volumes following a very strong run earlier in the year. Solana remains the dominant venue for onchain trading by volume, even as user activity softened slightly over the week, with BNB Chain a distant second.”\n\n“Overall, trading activity hasn’t disappeared; it has simply slowed and become more selective as the year comes to a close.”\nProfit-Taking Hits Metals After New Highs Macro investors, meanwhile, stayed focused on the policy path. Investors looked ahead to the Federal Reserve’s December meeting minutes due later Tuesday, a release that often resets rate expectations when positioning runs crowded.\nThe bigger picture still shows a strong year for risk assets, despite the late-year wobbles. The MSCI All Country World Index has climbed about 21% in 2025, and a broad measure of Asian stocks has rallied almost 26%, according to market-wrap data.\n\nIn metals, the latest move showed how quickly crowded trades can unwind. Spot silver fell 4.8% on Monday after earlier hitting a record, and gold eased after setting its own peak on Friday, with profit-taking doing the heavy lifting.\nFor crypto, Bitcoin’s steadiness looked more like a positioning pause than a conviction push, with traders watching liquidity, flows and volatility pricing for the next move into the first week of 2026.\nRead original story Asia Market Open: Bitcoin Holds $87k As Asia Rally Stalls, Wall Street Tech Slips by Shalini Nagarajan at Cryptonews.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-30",
       "Time": "06:41:50",
@@ -2002,5 +2011,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 222
+  "total_news_count": 223
 }
