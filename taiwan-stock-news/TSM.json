@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T22:11:46.192Z",
+  "last_updated": "2025-12-31T23:11:11.981Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "06:43:46",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones, Stock Market Fall To Key Levels To End 2025; Tesla, Palantir, Nvidia Chipmaker In Focus",
+      "URL": "https://finance.yahoo.com/m/57ea6d61-b23e-34a7-9d2f-99385d66cfd2/dow-jones%2C-stock-market-fall.html",
+      "Content": "Dow Jones, Stock Market Fall To Key Levels To End 2025; Tesla, Palantir, Nvidia Chipmaker In Focus\n\nED CARSON\nWed, December 31, 2025 at 2:43 PM PST 6 min read\n\nIn this article: TSLA\n\nXPEV\n\nPLTR\n\nNVDA\n\n^GSPC\n\nThe stock market fell to end a solid 2025. Palantir and Nvidia chipmaker Taiwan Semi were in focus. Tesla deliveries loom.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "06:00:43",
@@ -589,5 +598,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 65
+  "total_news_count": 66
 }
