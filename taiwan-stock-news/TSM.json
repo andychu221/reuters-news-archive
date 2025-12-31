@@ -1,8 +1,35 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T20:11:24.991Z",
+  "last_updated": "2025-12-31T21:11:31.225Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "04:59:33",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-fall-afternoon-205933305.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Fall Late Afternoon\n\nMT Newswires\nWed, December 31, 2025 at 12:59 PM PST 1 min read\n\nIn this article: MSFT\n\nTDG\n\nGFS\n\nTSM\n\nXLK\n\nTech stocks declined late Wednesday afternoon with the State Street Technology Select Sector SPDR ET\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:27:36",
+      "Source": "Reuters",
+      "Title": "Washington grants TSMC annual approval for US chipmaking tool shipments to China",
+      "URL": "https://finance.yahoo.com/news/us-grants-annual-approval-tsmc-202736751.html",
+      "Content": "Washington grants TSMC annual approval for US chipmaking tool shipments to China\n\nReuters\nWed, December 31, 2025 at 12:27 PM PST 1 min read\n\nIn this article: TSM\n\nSSNLF\n\nSEOUL, Jan 1 (Reuters) - The U.S. government has granted an annual license to Taiwan ​Semiconductor Manufacturing to import U.S. chip ‌manufacturing equipment to its facilities in Nanjing, China, the chipmaker ‌said on Thursday.\nThe approval \"ensures uninterrupted fab operations and product deliveries,\" the company said in a statement to Reuters.\n\nTSMC joins South Korea's Samsung Electronics ⁠and SK Hynix ‌in gaining approval for shipments of U.S. chipmaking tools to China.\nThose Asian ‍companies had benefited from exemptions to Washington's sweeping restrictions on chip-related exports to China. But the privilege known ​as validated end-user status expired on December ‌31, meaning shipments of American equipment to chipmakers' factories in China from 2026 would require U.S. export licences.\n\"The U.S. Department of Commerce has granted TSMC Nanjing an annual export license that ⁠allows U.S. export-controlled items ​to be supplied to TSMC ​Nanjing without the need for individual vendor licenses,\" TSMC said in a statement ‍to Reuters.\n\"This ⁠license, issued before the December 31, 2025 expiration of existing Validated End-User (VEU) authorization, ensures ⁠uninterrupted fab operations and product deliveries,\" it said.\n(Reporting by ‌Hyunjoo Jin and Wen-Yee Lee; Editing by ‌Chizu Nomiyama, Rod Nickel)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:16:12",
+      "Source": "MT Newswires",
+      "Title": "US Equity Indexes Slip in Final Leg of Trading",
+      "URL": "https://finance.yahoo.com/news/us-equity-indexes-slip-final-201612715.html",
+      "Content": "PREMIUM\nUS Equity Indexes Slip in Final Leg of Trading\n\nMT Newswires\nWed, December 31, 2025 at 12:16 PM PST 1 min read\n\nIn this article: TSM\n\n^SPX\n\nSUUN\n\nNKE\n\n^GSPC\n\nUS equity indexes were lower ahead of the close on Wednesday, with all sectors posting declines amid\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "03:13:58",
@@ -526,5 +553,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 58
+  "total_news_count": 61
 }
