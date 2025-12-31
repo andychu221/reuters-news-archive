@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2025-12-31T00:11:08.002Z",
+  "last_updated": "2025-12-31T01:10:59.146Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "08:36:48",
+      "Source": "AFP",
+      "Title": "TSMC says started mass production of 'most advanced' 2nm chips",
+      "URL": "https://finance.yahoo.com/news/tsmc-says-started-mass-production-003648419.html",
+      "Content": "TSMC says started mass production of 'most advanced' 2nm chips\n\nAFP\nTue, December 30, 2025 at 4:36 PM PST 2 min read\n\nIn this article: TSM\n\nNVDA\n\nAAPL\n\nTaiwanese tech titan TSMC has started mass producing its cutting-edge 2-nanometre semiconductor chips, the company said in a statement seen by AFP on Wednesday.\nTSMC is the world's largest contract maker of chips, used in everything from smartphones to missiles, and counts Nvidia and Apple among its clients.\n\n\"TSMC's 2nm (N2) technology has started volume production in 4Q25 as planned,\" TSMC said in an undated statement on its website.\nThe chips will be the \"most advanced technology in the semiconductor industry in terms of both density and energy efficiency\", the company said.\n\"N2 technology, with leading nanosheet transistor structure, will deliver full-node performance and power benefits to address the increasing need for energy-efficient computing.\"\nThe chips will be produced at TSMC's \"Fab 22\" facility in the southern port city of Kaohsiung.\nMore than half of the world's semiconductors, and nearly all of the most advanced ones used to power artificial intelligence technology, are made in Taiwan.\n\nTSMC has been a massive beneficiary of the frenzy in AI investment. Nvidia and Apple are among firms pouring many billions of dollars into chips, servers and data centres.\nAI-related spending is soaring worldwide, and is expected to reach approximately $1.5 trillion by 2025, according to US research firm Gartner, and over $2 trillion in 2026 -- nearly two percent of global GDP.\nTaiwan's dominance of the chip industry has long been seen as a \"silicon shield\" protecting it from an invasion or blockade by China -- which claims the island is part of its sovereign territory -- and an incentive for the United States to defend it.\nBut the threat of a Chinese attack has fuelled concerns about potential disruptions to global supply chains and has increased pressure for more chip production beyond Taiwan's shores.\n\nChinese fighter jets and warships encircled Taiwan during live-fire drills this week aimed at simulating a blockade of the democratic island's key ports and assaults on maritime targets.\nTaipei, which slammed the two-day war games as \"highly provocative and reckless\", said the manoeuvre failed to impose a blockade on the island.\nTSMC has invested in chip fabrication facilities in the United States, Japan and Germany to meet soaring demand for semiconductors, which have become the lifeblood of the global economy.\nBut in an interview with AFP this month, Taiwanese Deputy Foreign Minister Francois Chih-chung Wu said the island planned to keep making the \"most advanced\" chips on home soil and remain \"indispensable\" to the global semiconductor industry.\njoy-amj/abs\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "04:37:00",
@@ -1102,5 +1111,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 122
+  "total_news_count": 123
 }
