@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-31T15:10:34.755Z",
+  "last_updated": "2025-12-31T17:10:34.609Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "00:14:22",
+      "Source": "Reuters",
+      "Title": "China AI chip firm Biren raises $717 million in Hong Kong IPO",
+      "URL": "https://finance.yahoo.com/news/china-ai-chip-firm-biren-161422448.html",
+      "Content": "China AI chip firm Biren raises $717 million in Hong Kong IPO\n\nReuters\nWed, December 31, 2025 at 8:14 AM PST 1 min read\n\nIn this article: 688795.SS\n\n688802.SS\n\nQCOM\n\nDec 31 (Reuters) - Chinese AI chip startup Shanghai Biren Technology has raised HK$5.58 billion ($716.85 million) in ​its Hong Kong initial public offering, according to ‌an exchange filing on Wednesday.\nThe semiconductor designer set the offer price ‌at HK$19.60 apiece, the top end of the marketed range. It offered 284.8 million shares in the IPO.\n\nInstitutional investor demand for Biren's IPO was nearly 26 times the shares ⁠on offer, while ‌the retail tranche was oversubscribed about 2,348 times, the filing showed.\nShanghai-based Biren's IPO follows successful ‍offerings from industry peers Moore Threads and MetaX as China seeks to develop domestic alternatives to U.S. semiconductors amid stringent ​export restrictions by Washington on advanced chips.\nFounded in 2019, ‌Biren's co-founders include Zhang Wen, formerly the president of AI face-recognition company SenseTime, and Jiao Guofang, who previously worked at Qualcomm and Huawei.\nThe company initially drew attention in 2022 when it unveiled its first batch of products, ⁠including its BR100 chip, which ​it claimed could match the performance ​of Nvidia 's advanced H100 AI processor.\nHong Kong has raised $36.5 billion from 114 new listings in ‍2025, marking its ⁠strongest year since 2021 and more than triple the roughly $11.3 billion raised in 2024, according to ⁠data compiled by LSEG.\nBiren shares are expected to debut on Friday.\n($1 = ‌7.7841 Hong Kong dollars)\n(Reporting by Himanshi Akhand in ‌Bengaluru; Editing by Shilpi Majumdar)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "21:23:00",
@@ -85,5 +94,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 9
+  "total_news_count": 10
 }
