@@ -1,6 +1,6 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-31T12:11:42.693Z",
+  "last_updated": "2025-12-31T13:11:11.095Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -740,34 +740,7 @@
       "URL": "https://finance.yahoo.com/news/intel-shares-fall-report-nvidia-131413697.html",
       "Content": "Intel Shares Fall on Report Nvidia Halts Production Test\n\nJake Rudnitsky\nWed, December 24, 2025 at 5:14 AM PST 2 min read\n\nIn this article: INTC\n\nNVDA\n\n(Bloomberg) -- Intel Corp. shares fell in premarket trading Wednesday after a report said that Nvidia Corp. halted a test to use Intel’s production process to make advanced chips.\nNvidia recently tested the so-called 18A process but stopped moving forward, Reuters reported, citing two unidentified people familiar with the matter.\n\nMost Read from Bloomberg\nNew York's Congestion Pricing Is Working. Five Charts Show How\nWith Mamdani, the Humble Bus Gets Its Due\nAs Zipcar Leaves London, Car-Share Boosters Are Looking for a New Ride\nWhen It Comes to US Transportation, 2025 Had Some Wins, Too\nSpokespeople for Nvidia and Intel didn’t immediately respond to requests for comment. An Intel spokesperson told Reuters that the company’s 18A manufacturing technologies are “progressing well.”\nIntel’s shares fell about 2.3% in early trading before markets opened in New York.\nIntel recently opened a new factory at its Ocotillo site in Arizona known as Fab 52 that’s the first to go into mass production with the 18A technique. The company says it’s the most cutting edge production technology developed and deployed in the US. Intel’s push to make advanced chips domestically is an attempt to challenge the global leader, Taiwan Semiconductor Manufacturing Co., and reassert American leadership in the industry.\n\nNvidia agreed to invest $5 billion into Intel in September, following the US government’s decision to take a roughly 10% stake in the company. The investment by the world’s most valuable company and a key designer of chips for the artificial intelligence boom was seen as a boost for Intel, which has struggled to stem losses and catch competitors that have surpassed it in recent years. However, the deal didn’t include a commitment for Intel to make Nvidia chips.\n18A is a bid to return to making Intel’s best offerings in-house. The technology contains two new features that Intel says are breakthroughs for the industry.\nThe first relates to transistors, the microscopic switches that give semiconductors their function. Modern chips cram tens of billions of transistors into a small area. In order to make chips more efficient and use less energy, the ability to switch these transistors on and off becomes critical.\n\nThe 18A products will be the first to have transistors made with so-called gate-all-around technology, a technique that allows finer control over this process, Intel said. That will allow for chips with more transistors — and the ability to handle growing amounts of data — that consume less power.\nThe second innovation pertains to how the chips are powered. The ultimate promise is that chips can have more transistors and be more efficient.\n\nStory Continues\n(Updates with more detail on 18A process.)\nMost Read from Bloomberg Businessweek\nPrivate Equity Is Ruining a Beloved Fly-Fishing Brand, Retailers Say\nTariffs Unravel India’s Dream of Challenging China in Toymaking\nChina’s EV Battery Giant Is Trying to Find a New Road\nThe United States of Klarna\nUniqlo Founder and Japan’s Richest Man Loves a $32 Pair of Slacks\n©2025 Bloomberg L.P.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
-    },
-    {
-      "Date": "2025-12-24",
-      "Time": "21:07:04",
-      "Source": "MT Newswires",
-      "Title": "Top Premarket Decliners",
-      "URL": "https://finance.yahoo.com/news/top-premarket-decliners-130704599.html",
-      "Content": "PREMIUM\nTop Premarket Decliners\n\nMT Newswires\nWed, December 24, 2025 at 5:07 AM PST\n\nIn this article: INTC\n\nLHAI\n\nNVDA\n\nMRNA\n\nLinkhome Holdings (LHAI) shares were down 11% in recent Wednesday premarket activity, extending Tues\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-24",
-      "Time": "20:39:49",
-      "Source": "MT Newswires",
-      "Title": "Market Chatter: Intel Shares Fall Premarket After Nvidia Reportedly Ends 18A Testing",
-      "URL": "https://finance.yahoo.com/news/market-chatter-intel-shares-fall-123949107.html",
-      "Content": "PREMIUM\nMarket Chatter: Intel Shares Fall Premarket After Nvidia Reportedly Ends 18A Testing\n\nMT Newswires\nWed, December 24, 2025 at 4:39 AM PST 1 min read\n\nIn this article: NVDA\n\nINTC\n\nIntel (INTC) shares were down almost 3% in premarket activity Wednesday after Reuters reported that\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-24",
-      "Time": "20:18:00",
-      "Source": "Barrons.com",
-      "Title": "Intel Stock Drops. Blame Nvidia.",
-      "URL": "https://finance.yahoo.com/m/55f3a67f-ab89-3ac2-96a9-e86bd28f1318/intel-stock-drops.-blame.html",
-      "Content": "Intel Stock Drops. Blame Nvidia.\n\nJack Denton\nWed, December 24, 2025 at 4:18 AM PST 1 min read\n\nIn this article: NVDA\n\n^GSPC\n\nINTC\n\nAVGO\n\nIntel stock was falling on Wednesday following a report that Nvidia had abandoned prospective plans to use the company’s chip production process. Shares of Intel retreated 3.5% in premarket trading ahead of a holiday-shortened Christmas Eve session. Nvidia stock was down 0.5%.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
     }
   ],
-  "total_news_count": 85
+  "total_news_count": 82
 }
