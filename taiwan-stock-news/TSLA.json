@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-31T08:11:12.761Z",
+  "last_updated": "2025-12-31T10:11:37.921Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "17:01:44",
+      "Source": "MT Newswires",
+      "Title": "Musk's xAI Acquires Third Building to Expand Computing Power",
+      "URL": "https://finance.yahoo.com/news/musk-apos-xai-acquires-third-090144156.html",
+      "Content": "PREMIUM\nMusk's xAI Acquires Third Building to Expand Computing Power\n\nMT Newswires\nWed, December 31, 2025 at 1:01 AM PST\n\nIn this article: XAAI.PVT\n\nTSLA\n\nTesla (TSLA) Chief Executive Elon Musk said late Tuesday that his artificial intelligence company xA\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "11:31:00",
@@ -2164,5 +2173,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 240
+  "total_news_count": 241
 }
