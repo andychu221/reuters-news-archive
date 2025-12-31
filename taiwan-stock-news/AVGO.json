@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2025-12-31T07:10:48.526Z",
+  "last_updated": "2025-12-31T09:10:48.307Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "15:15:00",
+      "Source": "Barrons.com",
+      "Title": "This Money Pro Sees Higher Stock Prices and More Rate Cuts in 2026",
+      "URL": "https://finance.yahoo.com/m/15115e36-0baf-3875-84c5-0ec859bf2bb3/this-money-pro-sees-higher.html",
+      "Content": "This Money Pro Sees Higher Stock Prices and More Rate Cuts in 2026\n\nAbby Schultz\nTue, December 30, 2025 at 11:15 PM PST 7 min read\n\nIn this article: ^GSPC\n\nORCL\n\nAVGO\n\nCRWV\n\nGOOG\n\nNancy Curtin, chief investment officer at A1Ti Tiedemann Global, helps wealthy families invest for the long term. An “innovation” bull market helps.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "14:00:00",
@@ -481,5 +490,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 53
+  "total_news_count": 54
 }
