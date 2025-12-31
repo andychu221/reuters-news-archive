@@ -1,8 +1,26 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2025-12-31T19:11:58.371Z",
+  "last_updated": "2025-12-31T21:11:46.983Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Barrons.com",
+      "Title": "Tesla Deliveries Are Coming. What It Means for the Stock.",
+      "URL": "https://finance.yahoo.com/m/3407b84c-e972-3cf2-bacd-e971f1307e3f/tesla-deliveries-are-coming..html",
+      "Content": "Tesla Deliveries Are Coming. What It Means for the Stock.\n\nAl Root\nWed, December 31, 2025 at 12:10 PM PST 2 min read\n\nIn this article: TSLA\n\n^GSPC\n\n^DJI\n\nTesla is due to report fourth-quarter deliveries on Friday. A company-compiled consensus of 20 brokers predicts deliveries of 422,850 vehicles, down from about 496,000 in the fourth quarter of 2024.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:06:35",
+      "Source": "Investor's Business Daily",
+      "Title": "So Long, Warren. Buffett Leaves Astonishing Gains As He Steps Down As CEO.",
+      "URL": "https://finance.yahoo.com/m/e2a3e841-2b86-3267-aba8-1c3e9cf2a74d/so-long%2C-warren.-buffett.html",
+      "Content": "So Long, Warren. Buffett Leaves Astonishing Gains As He Steps Down As CEO.\n\nJUAN CARLOS ARANCIBIA\nWed, December 31, 2025 at 12:06 PM PST 2 min read\n\nIn this article: BRK.A\n\nBRKB\n\nBRKA\n\nTSLA\n\nLLY\n\nWarren Buffett steps away as CEO of Berkshire Hathaway, leaving behind a stock near all-time highs and with a market capitalization of more than $1 trillion.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "02:41:00",
@@ -2227,5 +2245,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 247
+  "total_news_count": 249
 }
