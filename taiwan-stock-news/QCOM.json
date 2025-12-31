@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2025-12-30T18:10:34.180Z",
+  "last_updated": "2025-12-31T15:10:34.755Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "21:23:00",
+      "Source": "Zacks",
+      "Title": "Can Qualcomm Stock Benefit From a Foray Into Mid-Range AI Chips?",
+      "URL": "https://finance.yahoo.com/news/qualcomm-stock-benefit-foray-mid-132300566.html",
+      "Content": "Can Qualcomm Stock Benefit From a Foray Into Mid-Range AI Chips?\n\nSupriyo Bose\nWed, December 31, 2025 at 5:23 AM PST 3 min read\n\nIn this article: QCOM\n\nMSFT\n\nARM\n\nQualcomm Incorporated QCOM has forayed into mid-range AI desktops and laptops with its Snapdragon X chip. This SoC is the fourth such product in the Snapdragon X processor line, following the successful launch of the Snapdragon X Plus 8-core, Snapdragon X Plus and Snapdragon X Elite series. Based on a 4-nanometer process, the Snapdragon X chip comprises an 8-core Oryon central processor, a graphics component and a neural processing unit (NPU). The NPU accelerates AI workloads, offering 45 TOPS (trillions of operations per second), making it an ideal platform to power Copilot+PCs – Microsoft’s vision of AI-first, flagship Windows hardware.\n\nAI PCs incorporate an additional processor designed specifically to accelerate AI capabilities. This specialized hardware enhances features like personal assistants and task automation. One of the significant selling points of AI PCs is their enhanced battery life. Qualcomm's chips, which are based on Arm Holdings Plc designs, promise extended use without frequent charging.\n\nLeveraging processors with multi-core CPUs with cutting-edge features, amazing graphics and worldwide network connectivity, Qualcomm Snapdragon mobile platforms are fast and have superb power efficiency. Smartphones and mobile devices built with Snapdragon mobile platforms enable immersive augmented reality and virtual reality experiences, brilliant camera capabilities, superior 4G LTE and 5G connectivity with state-of-the-art security solutions.\n\nTech Firms Focusing on AI NVIDIA Corporation NVDA is rapidly gaining traction in enterprise AI, expanding its market beyond cloud providers. Major companies across industries are integrating NVIDIA’s AI platforms to automate workflows, enhance productivity and improve decision-making. The company’s DGX Cloud AI infrastructure, which allows enterprises to train and deploy AI models at scale, has seen increased adoption. The expansion of CUDA software and AI frameworks strengthens NVIDIA’s ecosystem, making it the preferred choice for enterprises developing AI applications. With AI adoption expected to accelerate in 2025 and beyond, NVIDIA’s software and AI cloud solutions are a significant revenue driver.\n\nIntel Corporation INTC is investing to expand its manufacturing capacity to accelerate its IDM 2.0 (Integrated Device Manufacturing) strategy. The company is taking various decisions to gain a firmer footing in the expansive AI sector. Its Xeon 6 processors with Performance-cores (P-Cores) can support large AI workloads across diverse sectors. With industry-leading capabilities in AI processing, the Xeon 6 family delivers the industry’s best CPU for AI at a lower total cost of ownership. Intel's innovative AI solutions are likely to benefit the broader semiconductor ecosystem by driving down costs, improving performance and fostering an open, scalable AI environment.\n\nStory Continues\nQCOM’s Price Performance, Valuation and Estimates Qualcomm’s shares have gained 13% over the past year compared with the industry’s growth of 41%.\n\nImage Source: Zacks Investment Research\nGoing by the price/earnings ratio, the company's shares currently trade at 14.16 forward earnings, lower than 34.14 for the industry.\n\nImage Source: Zacks Investment Research\nEarnings estimates for fiscal 2026 have increased 2% to $12.15 per share over the past 60 days, while the same for fiscal 2027 are up 3.4% to $12.6.\n\nImage Source: Zacks Investment Research\nQualcomm currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nIntel Corporation (INTC) : Free Stock Analysis Report\nQUALCOMM Incorporated (QCOM) : Free Stock Analysis Report\nNVIDIA Corporation (NVDA) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "01:28:23",
@@ -76,5 +85,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 8
+  "total_news_count": 9
 }
