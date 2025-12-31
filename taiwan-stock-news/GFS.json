@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T16:11:46.345Z",
+  "last_updated": "2025-12-31T17:12:09.005Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "00:07:47",
+      "Source": "GuruFocus.com",
+      "Title": "Wedbush Downgrades GlobalFoundries on Timing",
+      "URL": "https://finance.yahoo.com/news/wedbush-downgrades-globalfoundries-timing-160747604.html",
+      "Content": "Wedbush Downgrades GlobalFoundries on Timing\n\nMoz Farooque ACCA\nWed, December 31, 2025 at 8:07 AM PST 1 min read\n\nIn this article: GFS\n\nThis article first appeared on GuruFocus .\nGlobalFoundries ( NASDAQ:GFS ) got knocked around Wednesday after Wedbush basically said the chip slowdown isn't over yet, and that patience is going to be required.\nWedbush cut the stock to Neutral and lowered its price target to $40, which pushed shares about 2.2% lower in premarket trading. The key issue isn't that the long-term story is broken. It's timing. Analyst Matt Bryson said the recovery GlobalFoundries needs is taking longer than expected, and investors shouldn't expect a quick turnaround.\n\nWarning! GuruFocus has detected 3 Warning Sign with GFS.\nIs GFS fairly valued? Test your thesis with our free DCF calculator.\nDemand is the problem right now. Smartphone makers are cutting build plans as rising memory prices push costs higher and buyers get more cautious. Industrial and auto demand isn't helping either, with no clear rebound in sight. That matters because about half of GlobalFoundries' revenue comes from those areas.\nThere are still positives. Its U.S. and European footprint is a real advantage, and margins are holding up better than expected. But for now, this is a waiting game, not a momentum story.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "23:23:39",
@@ -148,5 +157,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 16
+  "total_news_count": 17
 }
