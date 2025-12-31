@@ -1,8 +1,35 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T08:11:04.734Z",
+  "last_updated": "2025-12-31T10:11:25.713Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "18:01:37",
+      "Source": "MT Newswires",
+      "Title": "Update: Market Chatter: Nvidia Seeks to Boost H200 Chip Output as China Demand Surges",
+      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-seeks-boost-100137937.html",
+      "Content": "PREMIUM\nUpdate: Market Chatter: Nvidia Seeks to Boost H200 Chip Output as China Demand Surges\n\nMT Newswires\nWed, December 31, 2025 at 2:01 AM PST 1 min read\n\nIn this article: NVDA\n\nTSM\n\n(Update to add Nvidia's comment in the fifth and sixth paragraphs.) Nvidia (NVDA) has approached\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "17:32:03",
+      "Source": "MT Newswires",
+      "Title": "Taiwan Semiconductor Manufacturing Begins Volume Production of N2 Chips",
+      "URL": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-begins-volume-093203837.html",
+      "Content": "PREMIUM\nTaiwan Semiconductor Manufacturing Begins Volume Production of N2 Chips\n\nMT Newswires\nWed, December 31, 2025 at 1:32 AM PST\n\nIn this article: TSM\n\nTaiwan Semiconductor Manufacturing (TSM) has begun volume production of its 2nm, or N2, technology,\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nCondiciones y Política de privacidad\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "17:18:28",
+      "Source": "MT Newswires",
+      "Title": "Market Chatter: Nvidia Seeks to Boost H200 Chip Output as China Demand Surges",
+      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-seeks-boost-091828089.html",
+      "Content": "PREMIUM\nMarket Chatter: Nvidia Seeks to Boost H200 Chip Output as China Demand Surges\n\nMT Newswires\nWed, December 31, 2025 at 1:18 AM PST 1 min read\n\nIn this article: NVDA\n\nTSM\n\nNvidia (NVDA) has approached Taiwan Semiconductor Manufacturing (TSM) to meet strong demand for its\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "15:44:33",
@@ -355,5 +382,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 39
+  "total_news_count": 42
 }
