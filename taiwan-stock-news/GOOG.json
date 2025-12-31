@@ -1,6 +1,6 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-31T09:11:37.202Z",
+  "last_updated": "2025-12-31T10:11:53.957Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -19,6 +19,15 @@
       "Title": "This Money Pro Sees Higher Stock Prices and More Rate Cuts in 2026",
       "URL": "https://finance.yahoo.com/m/15115e36-0baf-3875-84c5-0ec859bf2bb3/this-money-pro-sees-higher.html",
       "Content": "This Money Pro Sees Higher Stock Prices and More Rate Cuts in 2026\n\nAbby Schultz\nTue, December 30, 2025 at 11:15 PM PST 7 min read\n\nIn this article: ^GSPC\n\nORCL\n\nAVGO\n\nCRWV\n\nGOOG\n\nNancy Curtin, chief investment officer at A1Ti Tiedemann Global, helps wealthy families invest for the long term. An “innovation” bull market helps.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "14:55:22",
+      "Source": "CoinDesk",
+      "Title": "South Korean retail keeps buying ether hoarder BitMine despite 80% drop:  Report",
+      "URL": "https://finance.yahoo.com/m/e689e0d7-0b44-37c2-af8a-3fbfacd9c85a/south-korean-retail-keeps.html",
+      "Content": "South Korean retail keeps buying ether hoarder BitMine despite 80% drop: Report\n\nShaurya Malwa\nTue, December 30, 2025 at 10:55 PM PST 2 min read\n\nIn this article: BMNR\n\nBTC-USD\n\nETH-USD\n\nGOOG\n\nSouth Korean retail traders have kept piling into Ether hoarder BitMine Immersion Technologies Inc. even after the U.S.-listed stock collapsed more than 80% from its July peak, turning it into one of the year’s most extreme examples of speculative demand surviving a wipeout.\nBitMine is set to close 2025 as one of the most popular overseas equities among South Koreans, ranking second only to Alphabet Inc. in net buying, according to Korea Securities Depository data cited by Bloomberg .\n\nLocal investors have poured a net $1.4 billion into the company this year, staying active buyers even as the shares slid about 82% from their July 3 high.\nThe stock’s boom began after BitMine announced a pivot from bitcoin mining to building an ether treasury, positioning itself as a listed vehicle designed to accumulate ETH.\nThe move sparked a rally of more than 3,000% into early July, pulling the company from obscurity into the top ranks of foreign stocks bought by South Koreans. The firm is backed by billionaire Peter Thiel and headed by Tom Lee , a Wall Street forecaster known for crypto bullishness.\nThe buying has not been limited to the underlying shares. South Korean traders also sought even higher-octane exposure through T-Rex’s 2X Long BitMine Daily Target ETF, a leveraged product targeting twice the stock’s daily performance.\n\nInvestors have funneled $566 million into the ETF, which is down roughly 86% from its September peak.\nBitMine’s appeal is tied to its balance sheet. The company holds about $12 billion worth of ether, making it the largest digital-asset treasury company dedicated to ETH, according to data compiled by strategicethreserve.xyz.\nEther itself is down about 11% in 2025, according to CoinDesk market data , after the wave of listed accumulators helped push the token to a record near $5,000 in August before the rally faded.\nFor Korean retail traders, the attraction is less about stable exposure and more about convexity. Ether treasury firms trade like amplified ETH proxies, with equity risk layered on top of crypto volatility.\nThat structure creates sharp upside during momentum phases, and equally sharp drawdowns when flows reverse, but it also explains why the stock remains a magnet for South Korea’s high-risk “ant” investor base even after an 80% fall.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1750,5 +1759,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 194
+  "total_news_count": 195
 }
