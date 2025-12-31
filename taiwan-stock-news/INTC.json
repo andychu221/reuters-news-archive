@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2025-12-31T00:11:14.379Z",
+  "last_updated": "2025-12-31T01:11:06.856Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "06:45:06",
+      "Source": "Zacks",
+      "Title": "Intel (INTC) Increases Despite Market Slip: Here's What You Need to Know",
+      "URL": "https://finance.yahoo.com/news/intel-intc-increases-despite-market-224506489.html",
+      "Content": "Intel (INTC) Increases Despite Market Slip: Here's What You Need to Know\n\nZacks Equity Research\nTue, December 30, 2025 at 2:45 PM PST 3 min read\n\nIn this article: INTC\n\n^GSPC\n\n^DJI\n\n^IXIC\n\nIntel (INTC) closed the most recent trading day at $37.30, moving +1.69% from the previous trading session. The stock outperformed the S&P 500, which registered a daily loss of 0.14%. Meanwhile, the Dow lost 0.2%, and the Nasdaq, a tech-heavy index, lost 0.24%.\nThe world's largest chipmaker's shares have seen a decrease of 8.32% over the last month, not keeping up with the Computer and Technology sector's gain of 0.2% and the S&P 500's gain of 0.94%.\n\nThe upcoming earnings release of Intel will be of great interest to investors. The company's earnings per share (EPS) are projected to be $0.08, reflecting a 38.46% decrease from the same quarter last year. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $13.38 billion, down 6.2% from the year-ago period.\nFor the annual period, the Zacks Consensus Estimates anticipate earnings of $0.34 per share and a revenue of $52.4 billion, signifying shifts of +361.54% and -1.32%, respectively, from the last year.\nIt's also important for investors to be aware of any recent modifications to analyst estimates for Intel. These revisions typically reflect the latest short-term business trends, which can change frequently. As a result, we can interpret positive estimate revisions as a good sign for the business outlook.\n\nOur research reveals that these estimate alterations are directly linked with the stock price performance in the near future. To capitalize on this, we've crafted the Zacks Rank, a unique model that incorporates these estimate changes and offers a practical rating system.\nThe Zacks Rank system, running from #1 (Strong Buy) to #5 (Strong Sell), holds an admirable track record of superior performance, independently audited, with #1 stocks contributing an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 11.98% higher within the past month. Right now, Intel possesses a Zacks Rank of #3 (Hold).\nIn terms of valuation, Intel is presently being traded at a Forward P/E ratio of 108.68. Its industry sports an average Forward P/E of 34.67, so one might conclude that Intel is trading at a premium comparatively.\n\nIt's also important to note that INTC currently trades at a PEG ratio of 11.71. Comparable to the widely accepted P/E ratio, the PEG ratio also accounts for the company's projected earnings growth. INTC's industry had an average PEG ratio of 3.99 as of yesterday's close.\nThe Semiconductor - General industry is part of the Computer and Technology sector. This industry, currently bearing a Zacks Industry Rank of 31, finds itself in the top 13% echelons of all 250+ industries.\n\nStory Continues\nThe Zacks Industry Rank assesses the strength of our separate industry groups by calculating the average Zacks Rank of the individual stocks contained within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nTo follow INTC in the coming trading sessions, be sure to utilize Zacks.com.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nIntel Corporation (INTC) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "06:25:17",
@@ -778,5 +787,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 86
+  "total_news_count": 87
 }
