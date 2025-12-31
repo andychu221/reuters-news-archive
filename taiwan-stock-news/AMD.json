@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2025-12-31T12:11:07.473Z",
+  "last_updated": "2025-12-31T14:11:10.160Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "21:06:00",
+      "Source": "Barrons.com",
+      "Title": "Nvidia Stock Is Drifting. This Could Get It Going Again.",
+      "URL": "https://finance.yahoo.com/m/586cab0b-f177-3383-83f7-a7f71f2dd3c2/nvidia-stock-is-drifting..html",
+      "Content": "Nvidia Stock Is Drifting. This Could Get It Going Again.\n\nAdam Clark\nWed, December 31, 2025 at 5:06 AM PST 2 min read\n\nIn this article: NVDA\n\nAMD\n\nAVGO\n\nTSM\n\nTSMWF\n\nNvidia shares are drifting but reports of strong demand for its artificial-intelligence processors in China could point the way to future gains.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "19:37:19",
@@ -589,5 +598,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 65
+  "total_news_count": 66
 }
