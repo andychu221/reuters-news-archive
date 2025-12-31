@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2025-12-31T04:11:18.156Z",
+  "last_updated": "2025-12-31T07:11:33.699Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "14:00:00",
+      "Source": "Barrons.com",
+      "Title": "Even Permabears Have Portfolios. Where Jeremy Grantham Sees Value Now.",
+      "URL": "https://finance.yahoo.com/m/d93781f7-95dd-30ef-b538-61ee25130da0/even-permabears-have.html",
+      "Content": "Even Permabears Have Portfolios. Where Jeremy Grantham Sees Value Now.\n\nLauren R. Rublin\nTue, December 30, 2025 at 10:00 PM PST 5 min read\n\nIn this article: AVGO\n\nGOOG\n\nQLTY\n\nMSFT\n\nJeremy Grantham was born toward the tail end of the Great Depression, but has surfed plenty of subsequent booms and busts in his storied investment career. Barron’s spoke with Grantham, co-founder of Boston-based GMO, on Dec. 23 about the current stock market boom, his favorite investments, and the economic challenges that lie ahead. What is your stock market forecast for 2026?\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "08:50:00",
@@ -1129,5 +1138,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 125
+  "total_news_count": 126
 }
