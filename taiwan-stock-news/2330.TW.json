@@ -1,6 +1,6 @@
 {
   "stock_id": "2330.TW",
-  "last_updated": "2025-12-31T21:35:11.179Z",
+  "last_updated": "2025-12-31T22:35:32.742Z",
   "source": "Yahoo TW RSS",
   "news": [
     {
@@ -10,6 +10,78 @@
       "Title": "中企H200搶購戰開打 輝達庫存告急緊急求援台積電",
       "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BC%81h200%E6%90%B6%E8%B3%BC%E6%88%B0%E9%96%8B%E6%89%93-%E8%BC%9D%E9%81%94%E5%BA%AB%E5%AD%98%E5%91%8A%E6%80%A5%E7%B7%8A%E6%80%A5%E6%B1%82%E6%8F%B4%E5%8F%B0%E7%A9%8D%E9%9B%BB-203013776.html",
       "Content": "綜合外電周三 (31 日) 報導，面對中國科技公司對 H200 晶片的強勁需求，輝達 (NVDA-US) 已接洽台積電 (2330-TW)(TSM-US) 追單，中國企業已下單超過 200 萬片 H200 晶片供 2026 年使用。\n\n此消息最早由《路透》引述知情人士報導。據了解，輝達目前庫存僅有 70 萬片。其中約 10 萬片為結合 Grace CPU 與 Hopper GPU 架構的 GH200 超級晶片，其餘為獨立 H200 晶片。\n\n供應鏈人士指出，輝達於 12 月 29 日向台積電發出緊急追單，要求 2026 年第一季再追加 20 萬片 H200 GPU 晶圓，對應約 10 萬顆加速卡。訂單已獲台積電高層批准，南京廠先進封裝產線將取消原屬歐美客戶的 5 萬片產能。\n\n追單的導火線是字節跳動 12 月 28 日一次性追加 3.2 萬顆 H200 訂單並預付 30% 定金，隨後阿里巴巴 (09988-HK)、騰訊 (00700-HK)、百度 (09888-HK) 集體將原定第二季的採購計劃提前至 1 月，合計新增需求超過 7 萬顆。\n\n台積電則計劃春節期間實施三班制連續生產，封裝測試端同步提速，長電科技、通富微電各獲得 1.5 萬顆額外訂單，要求 2 月 15 日前完成測試並直送客戶資料中心。\n\n輝達已決定向中國客戶提供的 H200 變體，定價約為每片 2.7 萬至 2.8 萬美元。８晶片模組預計售價約 150 萬人民幣，略高於此前的 H20 模組 120 萬人民幣價格，但性能約為 H20 的 6 倍。\n\n此次銷售遵循川普政府最新政策，允許 H200 出口至中國但課徵 25% 費用，推翻拜登政府對先進 AI 晶片的出口禁令。不過，中國政府仍在決定是否允許 H200 進口，擔心使用先進外國晶片可能拖累國內 AI 半導體產業發展。\n\n為因應急單，輝達首次啟用「深港快線」，即晶圓在南京完成封裝後，透過專門物流線直運深圳前海保稅倉，再分撥至各大資料中心，較傳統模式縮短 4 天。\n\n面對競爭，中國國產 GPU 廠商迅速應對。摩爾線程將即將發布的 MTT S5000 價格下調 20%，華為緊急釋放 3 萬片昇騰 910B 庫存，價格降至 1.35 萬美元，僅為 H200 的一半。\n\n輝達表示將持續管理供應鏈，強調對中國授權客戶的 H200 銷售不會影響對美國客戶的供應能力。台積電則拒絕評論，中國工信部未立即回應置評請求。\n\n更多鉅亨報導&bull;報導：中國科技公司下單逾200萬顆H200晶片 輝達緊急洽談台積電擴產&bull;陸媒：H200模組單價140萬元人民幣 計畫農曆春節前夕交付中國客戶",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "去年企業發債逾8,431億 史上新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8E%BB%E5%B9%B4%E4%BC%81%E6%A5%AD%E7%99%BC%E5%82%B5%E9%80%BE8-431%E5%84%84-%E5%8F%B2%E4%B8%8A%E6%96%B0%E9%AB%98-201000569.html",
+      "Content": "全球主要央行開啟降息潮，市場利率走低，且上半年新台幣如預期升值，激勵2025年企業發行公司債大爆發，較2024年的6,898.83億元狂增逾千億元，衝上8,431.9億元，逼近8,500億元大關，一舉突破原最高紀錄的2020年8,428.6億元障礙，刷新史上新高。\n\n2025年公司「發債王」由台積電狂發869億元拿下，第二名台電發出810.1億元奪下，中油發出583億元居第三，三巨頭中除台積電高於2024年，台電及中油小於2024年，2025年全年發債規模創新高，顯示不只有大咖搶發債，許多企業的發債意願都衝高，反映當前市場資金相對偏鬆，市場利率下降，成為最佳發債籌資時機。\n\n券商主管認為，2026年上半年全球降息步伐可能放緩，但企業發債籌資需求仍高，預估上半年仍將穩步發債，且綠債是要角。\n\n回顧2025年，上半年銀行卯起來發債，反觀公司債僅2,902.4億元，下半年公司債加速衝，7月547億元、8月1,246.9億元，9月更爆發至1,521.1億元，連二個月衝破千億元，9月更創下單月歷史新高，單是第三季合計就高達3,315億元；第四季延續發債熱潮，仍達2,214.5億元。\n\n從12月指標公司債票面利率觀察，台電5年券利率已低至1.5％，相較前月發行的同天期1.64％來看，目前發債成本減輕許多，預計新年公司債市場應是持續火熱。且企業海外投資需求高，也會透過公司債籌資，科技大廠發債動能可期。另據櫃買統計，目前累計共151檔綠債、合計達5,450億元，光2025年就發行43檔、總額1,806億元，台積電發731億元綠債，占整體綠債4成。\n\n更多工商時報報導亞太電開新局 遠傳扮靠山兆豐銀籌組志強-KY 2.5億美元聯貸海外交易熱 前11月複委託衝4兆",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "陸企下大單 輝達急洽台積 增產H200晶片",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E4%BC%81%E4%B8%8B%E5%A4%A7%E5%96%AE-%E8%BC%9D%E9%81%94%E6%80%A5%E6%B4%BD%E5%8F%B0%E7%A9%8D-%E5%A2%9E%E7%94%A2h200%E6%99%B6%E7%89%87-201000175.html",
+      "Content": "在中國大陸的大型網路業者對AI晶片的需求急速升溫下，美國AI晶片設計巨頭輝達（Nvidia）正加緊與台積電洽談其H200晶片擴產。知情人士透露，中國業者已為2026年下單H200超過200萬顆，但輝達庫存僅70萬顆，有明顯供應缺口。輝達為滿足客戶需求，已向代工夥伴台積電提出增加產能的要求。\n\n面對追加訂單，供應鏈業者分析，台積電先進製程、先進封裝將面臨緊俏，由於Blackwell系列與H200皆採用台積電4奈米製程打造，且同樣會消耗CoWoS產能，輝達將有望重拾在大陸之市占率。此外，輝達的放行同樣代表AMD之AI晶片也將有機會競爭該市場，對台積電而言，產能將吃緊至2026年。\n\n法人指出，2026年台積電3奈米產能滿載，尤其眾多ASIC晶片業者將陸續迭代，包括AWS、谷歌等CSP大廠，而4奈米則可由輝達H200急單進行滿足，對台積而言，5奈米以下先進製程皆將維持在高產能利用率之水準，2026年有望保持雙位數成長表現。\n\n從放行輝達H200研判，美國政府正放寬對中國大陸的半導體限制。其中，原先預計在2025年底被美國商務部撤銷的台積電南京廠VEU（驗證後最終用途）授權，台積電也在31日指出，美國商務部已核發一年期的出口許可予台積電（南京）有限公司，確保台積電（南京）的營運及產品出貨不受影響。\n\n綜合外媒報導，據了解，H200晶片單顆定價約2.7萬美元，由8顆晶片組成的模組價格為人民幣（下同）150萬元，略高於已停售的H20（約120萬元），且相較於灰市價格逾175萬元，仍有15％的折讓，因此對中方買家極具吸引力。\n\n外媒引述知情人士指出，H200晶片屬於輝達「Hopper」架構晶片。而在輝達現有70萬顆庫存中，約10萬顆為GH200 Grace Hopper超級晶片（結合Grace CPU與Hopper GPU），其餘為H200，兩者皆將供應中國客戶。\n\n知情人士指出，若中國允許H200晶片進口，字節跳動計劃2026年對輝達晶片的採購支出1,000億元，高於2025年的850億元。\n\n更多工商時報報導訊連人臉辨識 明年貢獻營收第三代半導體 黃金陣容成形基金定期定額 出現品牌效應",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳談AI 晶片解熱是突破算力關鍵",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AB%87ai-%E6%99%B6%E7%89%87%E8%A7%A3%E7%86%B1%E6%98%AF%E7%AA%81%E7%A0%B4%E7%AE%97%E5%8A%9B%E9%97%9C%E9%8D%B5-201000292.html",
+      "Content": "AI運算持續推升算力與能耗壓力之際，輝達（NVIDIA）創辦人暨執行長黃仁勳近期受訪時，多次點出「效能」已成AI發展的核心物理邊界；並揭示輝達透過與晶圓代工夥伴台積電協作，共同探索半導體製程、封裝與系統工程的極限；他以冷卻系統的液冷通道及氣冷風扇為例，強調未來晶片解熱將是突破算力天花板關鍵之一。\n\n市場傳輝達因應H200銷陸之需求，再向台積電求援、爭取更多產能，雙方採取高度同步的協作模式，象徵輝達與台積電關係緊密。從先進製程節點到先進封裝、再到整機系統的電力與散熱設計，雙方不僅是單純客戶與代工關係，更像共同定義未來AI運算平台的技術夥伴。\n\n黃仁勳在接受科技外媒專訪時直言，輝達雖不直接製造晶片，但在設計之初就須具備與台積電相當「深厚的半導體專業知識（Deep expertise）」。\n\n他透露，輝達內部亦有大量具備製程、材料與元件物理背景的工程師，目的就是在與台積電合作時，能以同樣語言討論極紫外光（EUV）、電晶體結構、功耗密度與良率等，並在設計階段即預判製程極限，避免系統層面的瓶頸。\n\n另在系統層面，輝達亦延攬空氣動力與流體工程師，目的讓散熱設計能與晶片功耗曲線、封裝熱阻與機櫃配置同步優化，使輝達能在設計階段就與台積電討論先進封裝（如2.5D、3D堆疊）帶來的熱管理問題，並反推系統端所需的散熱解決方案。\n\n黃仁勳分析，未來AI系統的演進，將高度依賴液冷、甚至更先進的散熱技術，才能支撐持續成長的算力需求。而輝達之所以能不斷推進功耗密度上限，正因與台積電在製程與物理層面高度協作，讓散熱成為平台設計的一部分。\n\n更多工商時報報導投資台灣3大方案延長三年 政院今拍板聯茂需求喊燒 2022季季旺聖暉 今年營收挑戰200億",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "內資護短 投信2025前十大買超 國泰金居冠",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%A7%E8%B3%87%E8%AD%B7%E7%9F%AD-%E6%8A%95%E4%BF%A12025%E5%89%8D%E5%8D%81%E5%A4%A7%E8%B2%B7%E8%B6%85-%E5%9C%8B%E6%B3%B0%E9%87%91%E5%B1%85%E5%86%A0-201000657.html",
+      "Content": "台股2025年大漲5,928點，漲點更勝2024年的5,104點，對比外資年度賣超5,995.09億元，投信則是敲進1,060.34億元，在個股方面，由國泰金（2882）、富邦金（2881）及台積電（2330）位居投信年度買超金額前三名，展現內資實力。\n\n投信買超台股力道延續，2025年買超金額仍維持千億規模，達1,060.34億元，但相比2024年狂敲8,319.33億元出現較大幅度縮水。法人研判與高股息ETF熱潮減退有關，且市場波動加大，投信進出也較為保守所致。\n\n富邦投顧董事長陳奕光指出，台灣家庭超額儲蓄大2026年金額將突破5.1兆元，創下歷史新高，代表民間可投資資金相當充沛，將成為推升股市動能的關鍵燃料，加上台股ETF交易日趨活絡，主動型ETF新兵加入戰局後，不僅擴大市場規模，更激發主題投資風潮，看好投信將扮演推升台股多頭行情的關鍵角色。\n\n據統計，投信2025年買超金額前十大個股為國泰金、富邦金、台積電、台新新光金、華碩、中信金、玉山金、統一、台燿及南亞科，買超金額落在794.89億元至148.95億元之間，成為投信資金大舉進駐標的。\n\n觀察投信主要敲進族群以金融股居多，上述前十大個股中就有5檔為金融股，法人認為，受惠經濟情勢穩定，有利於金融業，加上聯準會降息預期，預料金融股後續仍有表現空間，吸引投信買盤卡位。\n\n另在電子股部分，權王台積電也是投信積極建倉的重要持股之一，押寶AI晶片成長趨勢，而台積電宣布2奈米製程技術如期於2025年第四季量產，採用第一代奈米片電晶體技術，高雄晶圓22廠是2奈米製程的生產基地，在利多消息帶動下，31日封關寫下1,550元新高，年度漲幅44.19％。\n\n台燿、南亞科也在投信年度分別買超156.56億元、148.95億元點火下，股價年度漲幅達190.59％、559.83％，繳出倍增成績，扮演2025年兩大飆股。\n\n更多工商時報報導亞太電開新局 遠傳扮靠山美光早盤大漲逾9％ 記憶體族群歡騰聯茂需求喊燒 2022季季旺",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI浪潮再淘千金 光通訊成「嬌」點",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%B5%AA%E6%BD%AE%E5%86%8D%E6%B7%98%E5%8D%83%E9%87%91-%E5%85%89%E9%80%9A%E8%A8%8A%E6%88%90-%E5%AC%8C-%E9%BB%9E-201000690.html",
+      "Content": "台股2025年亮麗封關，權王台積電上漲1.97％收最高1,550元，再寫歷史新高，領軍高價股衝鋒。法人看好，受惠AI效應持續發酵，在資金面、基本面雙多加持下，台股2025年新增12千金至27千金，2026年可望由27千金往30千金邁進。\n\n護國神山台積電在2025年封關日表現亮眼，股價上漲30元，以1,550元創下新天價，市值首度突破40兆元達40.19兆元，隨著多方買盤進駐，盤面上共有29檔齊創新高。進一步統計2025年千金股增加12檔至27檔，新增智邦、台光電、奇鋐、雙鴻、貿聯-KY、旺矽、光聖、精測、富世達、鴻勁、勤誠及群聯12檔，旭隼則暫居千元以下。\n\n萬寶投顧總監蔡明彰認為，在AI浪潮下，帶動近年多頭行情猛進，但觀察指標股輝達2025年漲幅卻是近三年最低，凸顯市場趨勢由「買算力」變成「買運力」，隨著產業變遷，資料中心建置後的基礎建設為網路互連、高速傳輸需求，光通訊成為重要指標，光聖為其中代表，股價已奔上千元價位，預料相關族群仍有機會比價表態向上。\n\n台新投顧副總經理黃文清指出，台積電領頭創高對台股後續漲勢有正面挹注作用，除了可看出資金提前押注元月法說將釋出利多外，對於半導體及周邊供應鏈如設備、CPO等都有望同步吸引資金進駐，且整體來看，上市櫃獲利成長，帶動評價上修，看好台股將有更多千金股加入。\n\n值得關注的是，台股2025年新入列千金清一色為具備AI相關題材，包括散熱、機殼、PCB等周邊零組件，搭上規格升級商機，營收、獲利動能向上，支撐股價走高。\n\n展望後市，群益投顧總經理范振鴻指出，台股2026年企業獲利預估成長21％，2027年獲利預估成長14％，加上美聯準會主席將改選，以及美期中選舉登場，市場對降息預期提高，有利資金進駐股市，熱錢效應可望帶動高價股表現更上層樓。\n\n此外，法人看好在年底長假後，外資買盤將陸續回籠，隨著1月6日至9日CES展登場，1月15日台積電舉行法說，將有利台股上演元月行情，機器人、太空AI、軍工航太為短多焦點。\n\n更多工商時報報導泓德能源衝刺綠電 明年看旺iPhone組裝將倍增 立訊大擴廠 叫陣鴻海、和碩工商社論》數位貨幣監管大突破 美國將立法規範「穩定幣」",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "操盤心法－跨年後外資買盤回籠 劍指3萬點",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%93%8D%E7%9B%A4%E5%BF%83%E6%B3%95-%E8%B7%A8%E5%B9%B4%E5%BE%8C%E5%A4%96%E8%B3%87%E8%B2%B7%E7%9B%A4%E5%9B%9E%E7%B1%A0-%E5%8A%8D%E6%8C%873%E8%90%AC%E9%BB%9E-201000133.html",
+      "Content": "市場分析：美股四大指數震盪走勢難掩台股年末慶祝行情，權王台積電（2330）31日挾2奈米量產題材開高走高，收上新天價1,550元，而權值股ODM雙雄鴻海、廣達亦同步發動，帶動加權指數高點再締新猷，雖尾盤距離收上29,000點就差臨門一腳，然仍無損台股亮麗封關，終場加權指數上漲256點或漲0.89％收28,963點，成交量5,484億元。\n\n國發會發布2025年11月景氣對策信號，分數為37分，相較10月增加2分，而且燈號從9月起連續三個月呈現黃紅燈，這也顯示國內經濟延續穩健成長態勢，加上第四季為電子傳統旺季，預期12月仍有望繳出佳績。\n\n國發會分析指出，在AI、高效能運算及雲端服務需求持續擴張之下，帶動晶片相關需求與客戶端拉貨動能維持強勁，進而帶動主要指標批發、零售及餐飲業營業額，以及製造業營業氣候測驗點年增率持續上升，這兩項貢獻2點，挹注11月燈號達37分創2025年新高。\n\n根據我們每個月的追蹤，其實不難發現，2025年下半年整個出口都是受惠AI的需求帶動，也因此對於12月的展望。\n\n國發會也表示，目前進出口數據表現佳，加上年底作帳行情，民眾信心可望受股市表現支撐，此外旺季效應陸續反映，以及年底假期對消費的刺激，對於12月景氣來說仍有成長空間，不排除會直接以紅燈的方式揭曉。\n\n國發會提到AI是剛性需求，且雲端與半導體需求也強，2026年仍以AI為核心主軸，當前操作上，AI一線指標股作為核心的投資標的，類股可能有輪動，但股價跌下來反而都是可以布局好時機。\n\n操作建議：首先就台股資金動向來看，31日權值股一改近期較為安靜的走勢，除台積電領漲外，鴻海、廣達等相繼轉強，盤面資金呈現自中小型股回流至權值股的跡象。\n\n再看到量能擺脫近兩周的低迷再度達到季均量水準，頗有市場資金提前卡位新年行情的味道。\n\n最後就技術面來看，台股成功將28,500點壓力翻轉成支撐，當前距下檔支撐不遠，後續應仍有續漲空間，若再搭配新年過後外資買盤回籠，指數新年度劍指30,000點應不是過分要求。\n\n盤點各大投顧對2026年加權指數高點預測介於30,500點至35,000點，意味台股30,000點已成法人共識，然加權指數能否突破並站穩30,000萬點，關鍵仍取決於權值股表現，建議在資金配置上保留一定比重布局權值股，以提高參與指數上行行情的掌握度。\n\n更多工商時報報導惠譽看人民幣 明年貶至6.7元明年Q4龍潭廠正式啟動當沖降稅三讀 台股添火力",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "押寶3奈米 世芯狂掃台積光罩",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%8A%BC%E5%AF%B63%E5%A5%88%E7%B1%B3-%E4%B8%96%E8%8A%AF%E7%8B%82%E6%8E%83%E5%8F%B0%E7%A9%8D%E5%85%89%E7%BD%A9-201000763.html",
+      "Content": "ASIC大廠世芯-KY（3661）31日公告向台積電（2330）取得2,280萬美元之機器設備。供應鏈研判為替客戶購置之光罩產能，累計2025年世芯已向台積電購置超過新台幣25億元。盤點世芯2025年營運較過往熄火，受大客戶製程迭代及美系大廠專案規模未若預期影響；惟2026年將迎來大客戶新世代產品進入量產，有望為其營收規模貢獻再上一個台階。\n\n根據世芯公告，向台積電取得一批約2,280萬美元之機器設備，折合台幣約7.15億元。主要是為客戶購置光罩產能，但是，並不限於特定應用，供應鏈表示，累計近兩年世芯已向台積電購置超過58.21億元，為客戶進行ASIC之投片及量產提供服務。\n\n世芯2025年營運受CSP大客戶進入迭代，美系IDM大廠投片規模未如預期等影響，累計合併營收明顯年減；然伴隨大客戶於2026年第二季準備新世代晶片投產，世芯2026年將迎來大幅成長。\n\n供應鏈透露，世芯近期進入量產準備，最重要專案即為AWS之Trainium 3，該晶片以台積電3奈米製程、CoWoS-R先進封裝打造，依規劃時程順利進行中。業者分析，由於該晶片複雜度提升，生產週期將長達半年以上。\n\n對於客戶次世代晶片規劃，世芯同樣積極爭取，尤其未來將進入2奈米製程，世芯與台積電緊密合作，同時也是2奈米的早期客戶之一。ASIC業者透露，依照AWS規劃，預計2027年底公布，推測最晚須於2027年初進行流片（Tape-out），然目前國際大廠博通、Marvell也虎視眈眈。\n\n晶片業者分析，AWS宣布將支援NVLink Fusion，未來晶片將有更多不同組合，甚至導入CPO（共封裝光學），使傳輸需求變得更加多元，I／O晶片將可能獨立存在。\n\n展望2026年，法人預估，世芯-KY客戶之3奈米專案將於2026年～2027年貢獻數十億元，此外，陸系汽車品牌ADAS專案於2025年末啟動，估2026年首季起貢獻。而加密貨幣及網通專案則錦上添花，挹注額外成長動能，亦有高機率爭取2奈米案件，中長期營運看俏。\n\n更多工商時報報導台泥認購飛宏私募 攻儲能台股回跌 兩大內資百億護盤大成：黃小玉價格回不去了",
+      "Language": "zh"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "2026強檔大戲：主動式ETF規模狂飆",
+      "URL": "https://tw.stock.yahoo.com/news/2026%E5%BC%B7%E6%AA%94%E5%A4%A7%E6%88%B2-%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E8%A6%8F%E6%A8%A1%E7%8B%82%E9%A3%86-201000072.html",
+      "Content": "2025年AI需求強勁，帶動台灣出口表現與相關供應鏈獲利，加上美國聯準會降息、對等關稅不確定性降低、內需經濟持穩，推升台股寫歷史新高，連帶台股ETF投資熱度強強滾，又有主動式ETF加入，尤其台積電飆漲帶動市值型ETF淨值和買氣衝高，貢獻逾7,000億元，助攻全年規模大增1.08兆元達3.88兆元，年成長38.61％，再寫年度新高紀錄。\n\n2025年各類台股ETF規模增幅表現，以市值型大增7,122億元最驚人，高息型僅增加1,631億元，新問世的主動式規模達1,264億元。觀察近五年整體台股ETF增速來看，過去四年增幅都超過5成，2024年甚至創下近9成的紀錄，但隨整體規模母數擴大，2025年增速卻是近五年最低。\n\n回顧台股ETF近年規模，從2022年底8,705億元至今年底，整體規模增加3兆元、成長3.5倍，支撐要角則從高股息型轉向2025年市值型。隨主動式開放，2025年單年就增加逾千億元，且整體投資熱度持續增溫。投信法人預期，2026年主動式台股ETF增速將「最有看頭」。\n\n觀察市場人氣最旺、近一年規模增逾百億元共有12檔，主要是市值型、高息型、主動式，規模增加前三名分別為元大台灣50、元大高股息、群益台灣精選高息，2025年發行的主動式有3檔躍榜，包括主動統一台股增長、主動群益台灣強棒，及近期掛牌的主動復華未來50，其中0050單年增加5,663億元居冠，0056、00919均增加逾千億元，分居二、三名。\n\n主動群益台灣強棒經理人陳沅易指出，隨AI應用落地、商機遍地開花下，預期2026年市場分為仍將圍繞AI產業，算力需求提升刺激CSP大規模資本支出，也推動AI伺服器快速成長，以及其他次產業需求，包括散熱、高速傳輸、半導體設備等等。此外，各家ASICs也將進入百花齊放態勢，相關供應鏈可望延續成長態勢，故相關題材仍是布局核心；傳產方面，可留意原物料族群表現。\n\n更多工商時報報導世銀調降陸今明年GDP成長海外交易熱 前11月複委託衝4兆台積電廠地 高市加速通關",
       "Language": "zh"
     },
     {
@@ -2657,25 +2729,7 @@
       "URL": "https://tw.stock.yahoo.com/news/%E9%98%BF%E6%96%97%E6%89%B6%E4%B8%8D%E8%B5%B7-%E8%8B%B1%E7%89%B9%E7%88%BE18a%E6%99%B6%E7%89%87%E6%B7%AA-%E9%96%80%E5%85%A7%E7%94%A2%E5%93%81-%E5%82%B3%E8%BC%9D%E9%81%94%E6%B8%AC%E8%A9%A6%E5%BE%8C%E6%89%93%E6%A7%8D-012307843.html",
       "Content": "英特爾近年市值大幅滑落，在先進製程競賽中逐漸被台積電拉開差距，為了力拚翻身，轉而押注18A製程。根據路透社最新報導，輝達在與英特爾達成總值約50億美元的重大合作後，曾針對英特爾18A製程進行樣品測試，然而，這次抽樣測試並未促成輝達正式採用該製程，也未能為英特爾的晶圓代工業務帶來實質性突破。\n\n說服客戶成最大挑戰\n\n目前英特爾正積極尋求振興其晶圓代工事業，關鍵策略之一，便是為18A以及下一代14A製程爭取更多外部客戶。先前市場消息指出，包括蘋果、輝達、超微與高通等大廠，皆對英特爾的先進製程表達高度興趣，不過，這些潛在客戶普遍仍持觀望態度，主要關注英特爾是否能順利推進量產，以及自家產品是否會率先採用這些新製程。\n\n報導指出，輝達近期確實針對英特爾18A製程進行測試，但最終並未繼續推進。英特爾代工前景是否因此顯得悲觀，仍需從多個面向加以分析。首先，18A製程本來就被英特爾定位為以內部產品為主的技術，並針對如Panther Lake等重視能源效率的處理器平台進行最佳化，英特爾過去也曾表示，真正面向外部客戶、特別是高效能運算（HPC）需求的，將是後續推出的14A製程，該製程更符合輝達這類客戶對效能的高度要求。\n\n輝達優先選擇台積電\n\n以目前2奈米製程的布局來看，輝達已向台積電取得N2製程產能，在相同製程世代下，英特爾自然不是輝達的首選合作對象。\n\n相關消息曝光後，英特爾股價一度下跌逾3.5%，隨後跌幅逐漸收斂，終場下跌0.52%。輝達方面則未對",
       "Language": "zh"
-    },
-    {
-      "Date": "2025-12-25",
-      "Time": "06:16:48",
-      "Source": "Yahoo奇摩股市",
-      "Title": "台積電ADR24日上漲1.85美元漲幅0.62%折台股1881.24元",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr24%E6%97%A5%E4%B8%8A%E6%BC%B21-85%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-62-%E6%8A%98%E5%8F%B0%E8%82%A11881-24%E5%85%83-221648390.html",
-      "Content": "<table class=\"atom-table w-full mb-module-gap\"><thead><tr><th><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">台積電 ADR 近十個交易日行情</p></th></tr></thead><tbody><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">交易日</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">收盤價</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">漲跌</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">漲跌幅%</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">匯率</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">折台股</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/24</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">298.80</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1.85</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.62</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.480</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1881.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/23</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">296.95</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">3.67</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1.25</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.508</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1871.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/22</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">293.28</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">4.33</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1.50</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.523</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1849.0</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/19</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">288.95</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">4.27</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1.50</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.526</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1821.8</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/18</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">284.68</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.72</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">2.79</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.516</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1794.3</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/17</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">276.96</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-9.91</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-3.45</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.526</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1746.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/16</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">286.87</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.87</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.30</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.475</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1805.8</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/15</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">287.74</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-4.30</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-1.47</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.380</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1805.8</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/12</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">292.04</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-12.81</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-4.20</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.202</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1822.4</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/11</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">304.85</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-4.49</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-1.45</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.268</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1906.4</p></td></tr></tbody></table>\n\n(中央社台北2025年12月25日電)台積電在NYSE掛牌 ADR以298.80美元作收，上漲1.85美元，漲幅 0.62%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以12月24日新台幣匯市收盤價31.480元計算，相當台股台積電每股為 1881.24元。\n\n最近10個交易日行情如下：",
-      "Language": "zh"
-    },
-    {
-      "Date": "2025-12-25",
-      "Time": "06:00:21",
-      "Source": "Yahoo奇摩股市",
-      "Title": "美股平安夜全面收紅！標普、道瓊再創新高　台積電ADR漲0.62％",
-      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%B9%B3%E5%AE%89%E5%A4%9C%E5%85%A8%E9%9D%A2%E6%94%B6%E7%B4%85-%E6%A8%99%E6%99%AE-%E9%81%93%E7%93%8A%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%BC%B20-62-220021976.html",
-      "Content": "即時中心／綜合報導\n\n美國股市出現耶誕行情，週三（24日）雖然提前收盤，主要指數全部收紅，標普與道瓊再創新高。終場道瓊工業指數上漲288.75點、0.60％，收在48,731.16點；標普五百上揚0.32％；以科技股為主的那斯達克指數上揚0.22％；費城半導體指數同步上漲0.28％。\n\n在美國掛牌ADR中，台積電ADR上漲0.62％；日月光ADR走揚0.13％；聯電ADR漲0.38％。\n\n終場道瓊工業指數上漲288.75點、0.6％，收48,731.16點。標準普爾500指數上漲22.26點、0.32％，收6,932.05點。那斯達克指數上漲51.463點、0.22％，收23,613.31點。費城半導體指數上漲19.82點、0.28％，收7,204.37點。\n\n另外，台股今（25）日雖因行憲紀念日，休市一日；不過台指期盤後上漲64.00點、漲幅0.22％，收在28,531.00點。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處：快新聞／美股平安夜全面收紅！標普、道瓊再創新高 台積電ADR漲0.62％\n\n更多民視新聞報導傳張文哥赴北車悼念余家昶 留560字親筆信謝余媽「將英雄帶來世上」全文曝發文喊「何不等跨年開車撞人」下場曝光 男網友竟辯稱「這個」平安夜不平靜！北市中山區民宅大火 屋內驚見2具焦屍",
-      "Language": "zh"
     }
   ],
-  "total_news_count": 297
+  "total_news_count": 303
 }
