@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-30T22:11:27.799Z",
+  "last_updated": "2025-12-31T12:11:59.121Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "19:55:29",
+      "Source": "MT Newswires",
+      "Title": "Wedbush Downgrades GlobalFoundries to Neutral From Outperform, Trims Price Target to $40 From $42",
+      "URL": "https://finance.yahoo.com/news/wedbush-downgrades-globalfoundries-neutral-outperform-115529788.html",
+      "Content": "PREMIUM\nWedbush Downgrades GlobalFoundries to Neutral From Outperform, Trims Price Target to $40 From $42\n\nMT Newswires\nWed, December 31, 2025 at 3:55 AM PST\n\nIn this article: GFS\n\nGlobalFoundries (GFS) has an average rating of overweight and mean price target of $39.73, according\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-26",
       "Time": "14:37:48",
@@ -94,5 +103,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 10
+  "total_news_count": 11
 }
