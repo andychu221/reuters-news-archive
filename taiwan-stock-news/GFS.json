@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T19:11:43.474Z",
+  "last_updated": "2025-12-31T21:11:38.326Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "04:59:33",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-fall-afternoon-205933305.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Fall Late Afternoon\n\nMT Newswires\nWed, December 31, 2025 at 12:59 PM PST 1 min read\n\nIn this article: MSFT\n\nTDG\n\nGFS\n\nTSM\n\nXLK\n\nTech stocks declined late Wednesday afternoon with the State Street Technology Select Sector SPDR ET\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "02:56:44",
@@ -184,5 +193,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 20
+  "total_news_count": 21
 }
