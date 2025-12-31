@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T15:11:49.339Z",
+  "last_updated": "2025-12-31T16:11:46.345Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "23:23:39",
+      "Source": "MT Newswires",
+      "Title": "GlobalFoundries Faces Longer Timeframe for Catalysts Like Improved End Market to Play Out, Wedbush Says",
+      "URL": "https://finance.yahoo.com/news/globalfoundries-faces-longer-timeframe-catalysts-152339713.html",
+      "Content": "PREMIUM\nGlobalFoundries Faces Longer Timeframe for Catalysts Like Improved End Market to Play Out, Wedbush Says\n\nMT Newswires\nWed, December 31, 2025 at 7:23 AM PST 1 min read\n\nIn this article: GFS\n\nGlobalFoundries (GFS) faces an elongated timeframe around when catalysts like an improved end market\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "22:36:47",
@@ -139,5 +148,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 15
+  "total_news_count": 16
 }
