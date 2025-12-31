@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T14:12:35.052Z",
+  "last_updated": "2025-12-31T15:11:49.339Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "22:36:47",
+      "Source": "The Fly",
+      "Title": "GlobalFoundries downgraded, TeraWulf upgraded: Wall Street's top analyst calls",
+      "URL": "https://finance.yahoo.com/news/globalfoundries-downgraded-terawulf-upgraded-wall-143647653.html",
+      "Content": "GlobalFoundries downgraded, TeraWulf upgraded: Wall Street's top analyst calls\n\nThe Fly\nWed, December 31, 2025 at 6:36 AM PST 3 min read\n\nIn this article: WULF\n\nDBRG-PH\n\nDBRG-PI\n\nDBRG-PJ\n\nGFS\n\nThe most talked about and market moving research calls around Wall Street are now in one place. Here are today's research calls that investors need to know, as compiled by The Fly.\n\nTop Upgrades:\n\nKeefe Bruyette upgraded TeraWulf (WULF) to Outperform from Market Perform with a price target of $24, up from $9.50. The firm believes investors are underestimating the magnitude of TeraWulf's bitcoin mining to high performance compute leasing mix shift in 2026 and 2027.\nClear Street upgraded Plug Power (PLUG) to Buy from Hold with a price target of $3, down from $3.50. The firm sees more attractive upside in the shares following the recent selloff. It cites dilution from Plug Power's convertible refinancing in late November for the target drop.\n\nTop Downgrades:\n\nWedbush downgraded GlobalFoundries (GFS) to Neutral from Outperform with a price target of $40, down from $42. While the firm believes that GlobalFoundries has a path to a model with stronger revenues, improved utilization, and better margins on improved end market fundamentals and a shift towards local supply chains, it also believes recent developments have elongated the timeframe around when those catalysts might play out, the firm tells investors.\nWedbush downgraded Tower Semiconductor (TSEM) to Neutral from Outperform with a $125 price target. The firm cites valuation for the downgrade, noting that the stock is approaching the firm's target price and the 25-times multiple it uses to value Tower Semiconductor ostensibly already assumes some upside vs. its current estimates.\nTruist downgraded DigitalBridge (DBRG) to Hold from Buy with an unchanged price target of $16 following the announced all-cash acquisition by SoftBank Group (SFTBY) at $16 per share. The firm sees a low probability of a competing bid emerging.\nRaymond James double downgraded OceanFirst Financial (OCFC) to Market Perform from Strong Buy without a price target following the company's announcement to acquire Flushing Financial (FFIC) . The firm expects \"significant\" dilution and says the deal slows the benefit of OceanFirst's shift to a stronger core deposit franchise.\nRaymond James downgraded Flushing Financial (FFIC) to Market Perform from Outperform without a price target after the company agreed to be acquired by OceanFirst Financial (OCFC) . The deal was done at a fair price given the earnings challenges Flushing has faced due to the challenging rate environment for the past several years, the firm tells investors in a research note.\n\nTop Initiations:\n\nFreedom Capital initiated coverage of Serve Robotics (SERV) with a Buy rating and $16 price target. The firm believes Serve is positioned for \"strong growth and eventual profitability.\"\nFreedom Capital initiated coverage of International Bancshares (IBOC) with a Buy rating and $85 price target. While the bank has elevated commercial real estate concentration, interest-rate sensitivity, and exposure to cross-border activity, the firm sees these factors being balanced by strong profitability supported by \"best-in-class\" efficiency and conservative balance sheet positioning.\nFreedom Capital initiated coverage of Butterfly Network (BFLY) with a Buy rating and $5 price target. The firm sees continued revenue expansion for Butterfly, driven by iQ3 probe and enterprise software adoption.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "22:04:15",
@@ -130,5 +139,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 14
+  "total_news_count": 15
 }
