@@ -1,8 +1,26 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T18:11:16.513Z",
+  "last_updated": "2025-12-31T19:11:32.621Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "02:56:44",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Lower in Wednesday Afternoon Trading",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-lower-wednesday-185644869.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Lower in Wednesday Afternoon Trading\n\nMT Newswires\nWed, December 31, 2025 at 10:56 AM PST 1 min read\n\nIn this article: TSM\n\nGFS\n\nNVDA\n\nXLK\n\nTDG\n\nTech stocks declined Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "02:54:26",
+      "Source": "MT Newswires",
+      "Title": "US Equities Fall Intraday as Losing Streak Grows But Wall Street Eyes 2025 Gains",
+      "URL": "https://finance.yahoo.com/news/us-equities-fall-intraday-losing-185426569.html",
+      "Content": "PREMIUM\nUS Equities Fall Intraday as Losing Streak Grows But Wall Street Eyes 2025 Gains\n\nMT Newswires\nWed, December 31, 2025 at 10:54 AM PST 2 min read\n\nIn this article: ^GSPC\n\n^DJI\n\n^IXIC\n\nNVDA\n\nUS equity benchmarks were lower intraday with 2025 drawing to a close amid a four-day run of losses,\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "01:31:56",
@@ -499,5 +517,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 55
+  "total_news_count": 57
 }
