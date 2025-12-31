@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T19:11:32.621Z",
+  "last_updated": "2025-12-31T20:11:24.991Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "03:13:58",
+      "Source": "Yahoo Finance Video",
+      "Title": "Nvidia taps TSMC for more H200 chips due to China demand: Reuters",
+      "URL": "https://finance.yahoo.com/video/nvidia-taps-tsmc-more-h200-191358361.html",
+      "Content": "Nvidia taps TSMC for more H200 chips due to China demand: Reuters\n\nYahoo Finance Video\nWed, December 31, 2025 at 11:13 AM PST\n\nIn this video: TSM\n\nFMCC\n\nFMCCH\n\nFMCCK\n\nFMCCL\n\nYahoo Finance Markets and Data Editor Jared Blikre tracks Wednesday's top moving stocks and biggest market stories in this Market Minute .\nMortgage rates were at their lowest level of 2025 through Tuesday, with the 30-year rate at 6.15%, according to data from Freddie Mac ( FMCC ).\nNvidia ( NVDA ) has reportedly asked Taiwan Semiconductor Manufacturing Company ( TSM ) to ramp up production of its H200 artificial intelligence (AI) to meet high demand, according to Reuters .\nStay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.\n\nVideo Transcript\n\n00:03 Speaker A\nIt's time for Yahoo Finance's market minute.\n00:05 Speaker A\nUS stocks struggle for gains on the final day of the year.\n00:08 Speaker A\nLosses are dimming hopes for a so-called Santa Claus rally, but that window does not officially close until Monday, January 5th.\n00:14 Speaker A\nBut stocks still notching impressive gains for 2025 despite an eventful roller coaster trading year.\n00:19 Speaker A\nAnd mortgage rates hit a fresh 2025 low in the final week of the year.\n00:22 Speaker A\nThe average 30-year mortgage rate was 6.15% through Tuesday, according to Freddy Mac data.\n00:26 Speaker A\nRates began the year around 7%.\n00:28 Speaker A\nPlus, Nvidia is reportedly in a scramble to meet strong demand for its H200 AI chips.\n00:33 Speaker A\nAccording to Reuters, the chipmaker has approached chip fab company Taiwan Semi to ramp up production.\n00:39 Speaker A\nNvidia is facing Chinese tech company orders of over 2 million H200 chips for 2026, according to the report.\n00:44 Speaker A\nAnd that is your Yahoo Finance market minute.\n00:46 Speaker A\nScan the QR code below to track the best and worst performing stocks of the trading session.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "02:56:44",
@@ -517,5 +526,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 57
+  "total_news_count": 58
 }
