@@ -1,8 +1,26 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2025-12-31T19:12:25.544Z",
+  "last_updated": "2025-12-31T20:11:57.375Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "04:06:35",
+      "Source": "Investor's Business Daily",
+      "Title": "So Long, Warren. Buffett Leaves Astonishing Gains As He Steps Down As CEO.",
+      "URL": "https://finance.yahoo.com/m/e2a3e841-2b86-3267-aba8-1c3e9cf2a74d/so-long%2C-warren.-buffett.html",
+      "Content": "So Long, Warren. Buffett Leaves Astonishing Gains As He Steps Down As CEO.\n\nJUAN CARLOS ARANCIBIA\nWed, December 31, 2025 at 12:06 PM PST 2 min read\n\nIn this article: BRK.A\n\nBRKB\n\nBRKA\n\nTSLA\n\nLLY\n\nWarren Buffett steps away as CEO of Berkshire Hathaway, leaving behind a stock near all-time highs and with a market capitalization of more than $1 trillion.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "03:45:01",
+      "Source": "Investor's Business Daily",
+      "Title": "Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock",
+      "URL": "https://finance.yahoo.com/m/27ad62cb-8474-3e41-b47b-5d23f46f707e/funds-plow-money-into.html",
+      "Content": "Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock\n\nMATTHEW GALGANI\nWed, December 31, 2025 at 11:45 AM PST 2 min read\n\nIn this article: AEIS\n\nAVGO\n\nAPP\n\nGOOG\n\nOne of the best stocks of 2025 and in demand among the best mutual funds, Advanced Energy looks to power a new breakout.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "02:48:00",
@@ -1750,5 +1768,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 194
+  "total_news_count": 196
 }
