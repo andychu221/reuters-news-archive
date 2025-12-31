@@ -1,8 +1,17 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T21:11:38.326Z",
+  "last_updated": "2025-12-31T22:11:52.623Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "05:53:53",
+      "Source": "MT Newswires",
+      "Title": "US Equities Fall in Final 2025 Session; Indexes Still Post Solid Annual Gains",
+      "URL": "https://finance.yahoo.com/news/us-equities-fall-final-2025-215353579.html",
+      "Content": "PREMIUM\nUS Equities Fall in Final 2025 Session; Indexes Still Post Solid Annual Gains\n\nMT Newswires\nWed, December 31, 2025 at 1:53 PM PST 2 min read\n\nIn this article: ^DJI\n\nTDG\n\nGFS\n\n^SPX\n\nAXSM\n\nUS equity benchmarks fell Wednesday in the final session of 2025 as stock gauges still logged solid\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "04:59:33",
@@ -193,5 +202,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 21
+  "total_news_count": 22
 }
