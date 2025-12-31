@@ -1,8 +1,35 @@
 {
   "stock_id": "GFS",
-  "last_updated": "2025-12-31T12:11:59.121Z",
+  "last_updated": "2025-12-31T14:12:35.052Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2025-12-31",
+      "Time": "22:04:15",
+      "Source": "MT Newswires",
+      "Title": "GlobalFoundries Path to Stronger Revenue Likely to Take Time Amid Industry Challenges, Wedbush Says",
+      "URL": "https://finance.yahoo.com/news/globalfoundries-path-stronger-revenue-likely-140415954.html",
+      "Content": "PREMIUM\nGlobalFoundries Path to Stronger Revenue Likely to Take Time Amid Industry Challenges, Wedbush Says\n\nMT Newswires\nWed, December 31, 2025 at 6:04 AM PST 2 min read\n\nIn this article: GFS\n\nGlobalFoundries' (GFS) catalysts for stronger revenue and improved margins may take some time to mat\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "21:20:56",
+      "Source": "Investing.com",
+      "Title": "Wedbush downgrades GlobalFoundries: Sees ‘more elongated’ industry downturn",
+      "URL": "https://finance.yahoo.com/news/wedbush-downgrades-globalfoundries-sees-more-132056656.html",
+      "Content": "Wedbush downgrades GlobalFoundries: Sees ‘more elongated’ industry downturn\n\nSam Boughedda\nWed, December 31, 2025 at 5:20 AM PST 1 min read\n\nIn this article: GFS\n\nInvesting.com -- Wedbush downgraded GlobalFoundries to Neutral from Outperform in a note on Wednesday, warning that the chipmaker is facing an industry down cycle “more elongated than anticipated” and lowering its price target to $40 from $42.\nAnalyst Matt Bryson said Wedbush still believes GlobalFoundries has “a path to a better future model” driven by improved end-market fundamentals and stronger local supply chains, but recent data suggests those catalysts are further away.\n\nWedbush highlighted “near-term risk to CE device builds and particularly handset units,” citing higher costs tied to rising memory prices that are already prompting original equipment manufacturers to reduce production.\nBryson also pointed to weakness beyond consumer electronics. “Our recent checks in Taiwan suggested that industrial/auto demand remains relatively weak with no anticipation of any near-term recovery,” he wrote.\nWith around half of GlobalFoundries’ revenue linked to smart mobile devices and IoT categories, Wedbush believes the backdrop “limits near-term upside” and could create risks for its 2026 sales outlook.\nWhile the firm still views the company’s U.S. and European footprint as a strategic advantage, it stated that political momentum for domestic chip incentives has waned.\n\nWedbush noted that recently published federal guidance showed China semiconductor tariffs won’t take effect until June 2027, adding that more aggressive Section 232 measures now appear “a less probable near-term outcome.”\nBryson added that GlobalFoundries should still deliver margins “close to historically high” this quarter despite lower utilization, but added that a meaningful lift from edge AI adoption is “more likely 12+ months out.”\nRelated articles\nWedbush downgrades GlobalFoundries: Sees ‘more elongated’ industry downturn\nLoading Up HEAVY on These 3 Stocks by End of 2025 (+ 1 New ETF)\nGold: $4K Breakout Faces First Real Test as Stocks and Sentiment Rise Together\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2025-12-31",
+      "Time": "21:08:47",
+      "Source": "MT Newswires",
+      "Title": "Top Premarket Decliners",
+      "URL": "https://finance.yahoo.com/news/top-premarket-decliners-130847664.html",
+      "Content": "PREMIUM\nTop Premarket Decliners\n\nMT Newswires\nWed, December 31, 2025 at 5:08 AM PST\n\nIn this article: EKSO\n\nNIO\n\nGFS\n\nXPEV\n\nEkso Bionics (EKSO) shares were down 12% in recent Wednesday premarket activity, shaving Tuesday's r\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "19:55:29",
@@ -103,5 +130,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 11
+  "total_news_count": 14
 }
