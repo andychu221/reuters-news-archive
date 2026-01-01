@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2026-01-01T19:11:42.282Z",
+  "last_updated": "2026-01-01T20:11:28.547Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "04:00:00",
+      "Source": "Yahoo Finance Video",
+      "Title": "AI trade will fracture into winners & losers: Top stock picks",
+      "URL": "https://finance.yahoo.com/video/ai-trade-fracture-winners-losers-200000655.html",
+      "Content": "AI trade will fracture into winners & losers: Top stock picks\n\nYahoo Finance Video and Josh Lipton\nThu, January 1, 2026 at 12:00 PM PST\n\nIn this video: AVGO\n\nGOOG\n\nMU\n\nORCL\n\nArtificial intelligence (AI) will continue to be a key pillar of market gains in 2026, Sevens Report research founder Tom Essaye tells Market Domination host Josh Lipton .\nEssaye says the AI trade could become more fractured, highlighting which AI stocks he expects to be winners and losers.\nTo watch more expert insights and analysis on the latest market action, check out more Market Domination .\n\nVideo Transcript\n\n00:00 Josh\nPillar number one, no surprise, AI, lots of investor excitement, Tom. It's helped to carry this market in 2025. I'm curious how you how you see that AI trade and trend evolving in 2026, Tom.\n00:30 Tom\nGood afternoon, Josh. Thank you very much for having me on and happy New Year to everyone. Yeah, so, so we sort of described four pillars of the rally and the most important and first one as you said is AI. and it's really been a rising tide that's lifted all boats, not just this year, but for the past three and a half years, really. But we think that's changing a little bit in 2026. and importantly, it doesn't mean it's necessarily going away, but instead, I think the sort of AI enthusiasm is going to look a lot more like Q4 than it did say Q2 and Q3. and what I mean by that is that it's fractured. So we're not going to have every single tech stock just running away. It's going to become a selection of winners, say like your Micron, and then maybe some losers, like your Oracle and to a point Qualcomm. and I'm not saying to those stocks specifically into 2026, but more as an example that we're going to have to be selective as AI matures.\n01:41 Josh\nWell, let me ask you, if AI is sort of more fractured next year, you know, if I'm a viewer or I'm an investor, I'm listening to that. How do I discern, Tom, then the winners and losers in this AI fractured world you're describing?\n02:00 Tom\nSo for me, I look at AI as sort of a cycle that's maturing, right? And really the first stage was sort of it was it was the epiphany stage, right? Oh my gosh, we can do this. And then in order to do this, the first thing we need is semiconductors. And now we're going to run out and buy all the semiconductors that we can and obviously Nvidia, Broadcom, Taiwan Semi have benefited fantastically from this. I see it evolving a bit now into those that those companies that are really taking the leading edge. Probably my top AI pick for 2026 is Google. I like Gemini 3. I think their advantage on search gives them a huge uh sort of chip in the game against Open AI. So I like Google from a search standpoint. I also like the memory because that's sort of the next stage of this data center build out, right? We need the compute power. Well now all of a sudden we need all the memory to power all that we need. So I see it more of an infrastructure play evolving uh towards memory on the infrastructure side, but then also from sort of the hyperscalers, I really like Google uh with YouTube and then with Gemini 3.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "03:01:58",
@@ -1705,5 +1714,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 189
+  "total_news_count": 190
 }
