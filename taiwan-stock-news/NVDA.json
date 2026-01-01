@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2025-12-31T23:10:41.639Z",
+  "last_updated": "2026-01-01T00:10:38.049Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "07:18:23",
+      "Source": "Reuters Videos",
+      "Title": "Wall Street ends 2025's final session lower but posts big annual gains",
+      "URL": "https://finance.yahoo.com/video/wall-street-ends-2025s-final-231823236.html",
+      "Content": "Wall Street ends 2025's final session lower but posts big annual gains\n\nReuters Videos\nWed, December 31, 2025 at 3:18 PM PST\n\nIn this video: ^GSPC\n\n^DJI\n\n^IXIC\n\nNVDA\n\nSTORY: U.S. stocks ended the year on a down note Wednesday. The Dow fell about six tenths of one percent while the S&P 500 and Nasdaq dropped about three-quarters of one percent each. However for 2025, the Dow added about 13%, the S&P 500 climbed 16.4% and the Nasdaq jumped 20.4%. The major indexes advanced by double-digits for the third consecutive year, a run last seen during 2019-2021. Wall Street made a stellar comeback from April's lows when Trump's 'Liberation Day' tariffs sparked a meltdown in global markets, sent investors away from U.S. stocks and threatened growth by clouding the interest rate outlook. A rally in AI-related shares drove stocks higher with bellwether chipmaker Nvidia up 39% year-to-date, becoming the first publicly-traded company to hit a $5 trillion market valuation. Dennis Follmer, chief investment officer with Montis Financial says he thinks these technology stocks are in a bubble but it may not deflate for a couple of more years. “So this whole year has been sort of what I call a low quality rally where speculation in a lot of places has won out over profitability and earnings. So I think there's definitely some undeniable signs of market euphoria. That doesn't mean it can't last for another couple of years. But I think what it does mean is that price matters. The price you pay for an investment matters. So you know, history would tell us if we're buying the S&P 500 at these current valuations, we really shouldn't be expecting to see a lot in terms of returns for the next 5 or 10 years.” Stocks on the move Wednesday included Nike which gained four percent after an SEC filing showed CEO Elliott Hill bought about $1 million dollars of stock on Monday. And Vanda Pharmaceuticals surged 25.5% after the U.S. Food and Drug Administration approved its drug for the prevention of motion-induced vomiting.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "06:43:46",
@@ -3577,5 +3586,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 397
+  "total_news_count": 398
 }
