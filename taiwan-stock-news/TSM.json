@@ -1,6 +1,6 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-01T04:11:20.086Z",
+  "last_updated": "2026-01-01T05:10:58.634Z",
   "source": "Yahoo Finance API",
   "news": [
     {
@@ -154,6 +154,15 @@
       "Title": "Sector Update: Tech Stocks Fall Late Afternoon",
       "URL": "https://finance.yahoo.com/news/sector-tech-stocks-fall-afternoon-205933305.html",
       "Content": "PREMIUM\nSector Update: Tech Stocks Fall Late Afternoon\n\nMT Newswires\nWed, December 31, 2025 at 12:59 PM PST 1 min read\n\nIn this article: MSFT\n\nTDG\n\nGFS\n\nTSM\n\nXLK\n\nTech stocks declined late Wednesday afternoon with the State Street Technology Select Sector SPDR ET\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-01",
+      "Time": "04:27:36",
+      "Source": "Reuters",
+      "Title": "U.S. grants TSMC annual licence to import U.S. chipmaking tools into China",
+      "URL": "https://finance.yahoo.com/news/u-grants-tsmc-annual-licence-202736879.html",
+      "Content": "U.S. grants TSMC annual licence to import U.S. chipmaking tools into China\n\nHyunjoo Jin\nWed, December 31, 2025 at 12:27 PM PST 1 min read\n\nIn this article: TSM\n\nSSNLF\n\n000660.KS\n\nBy Hyunjoo Jin\nSEOUL, Jan 1 (Reuters) - The U.S. government has granted an annual licence to Taiwan ​Semiconductor Manufacturing to import U.S. chip manufacturing ‌equipment to its facilities in Nanjing, China, the chipmaker said on ‌Thursday.\nThe approval \"ensures uninterrupted fab operations and product deliveries,\" the company said in a statement to Reuters.\n\nSouth Korea's Samsung Electronics and SK Hynix have also received similar import ⁠licences.\nPreviously, the Asian companies ‌had benefited from exemptions from Washington's sweeping restrictions on chip-related exports to China, part ‍of U.S. efforts to try to stay ahead of China in technological development.\nBut those privileges - known as validated end-user status - ​expired on December 31 and the companies had ‌to seek U.S. export licences instead for 2026.\n\"The U.S. Department of Commerce has granted TSMC Nanjing an annual export license that allows U.S. export-controlled items to be supplied to TSMC Nanjing without the need for ⁠individual vendor licenses,\" TSMC said ​in its statement.\nIt added the licence \"ensures ​uninterrupted fab operations and product deliveries\".\nThe Nanjing plant makes 16-nanometre and other mature node chips - ‍not TSMC's ⁠most-advanced semiconductors. TSMC also has a chipmaking plant in Shanghai.\nIn its 2024 annual report, TSMC said ⁠its Nanjing site generated about 2.4% of overall revenue.\n(Reporting by Hyunjoo ‌Jin and Wen-Yee Lee; Editing by Chizu ‌Nomiyama, Rod Nickel, Neil Fullick)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -697,5 +706,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 77
+  "total_news_count": 78
 }
