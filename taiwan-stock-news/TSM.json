@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2025-12-31T23:11:11.981Z",
+  "last_updated": "2026-01-01T01:11:18.049Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "06:45:05",
+      "Source": "Zacks",
+      "Title": "Why the Market Dipped But TSMC (TSM) Gained Today",
+      "URL": "https://finance.yahoo.com/news/why-market-dipped-tsmc-tsm-224505328.html",
+      "Content": "Why the Market Dipped But TSMC (TSM) Gained Today\n\nZacks Equity Research\nWed, December 31, 2025 at 2:45 PM PST 3 min read\n\nIn this article: TSM\n\nTSMWF\n\n^GSPC\n\n^DJI\n\nIn the latest close session, TSMC (TSM) was up +1.44% at $303.89. The stock outperformed the S&P 500, which registered a daily loss of 0.74%. Meanwhile, the Dow experienced a drop of 0.63%, and the technology-dominated Nasdaq saw a decrease of 0.76%.\nPrior to today's trading, shares of the chip company had gained 2.56% outpaced the Computer and Technology sector's gain of 0.14% and the S&P 500's gain of 0.79%.\n\nThe upcoming earnings release of TSMC will be of great interest to investors. The company is predicted to post an EPS of $2.72, indicating a 21.43% growth compared to the equivalent quarter last year. In the meantime, our current consensus estimate forecasts the revenue to be $32.6 billion, indicating a 21.26% growth compared to the corresponding quarter of the prior year.\nLooking at the full year, the Zacks Consensus Estimates suggest analysts are expecting earnings of $10.17 per share and revenue of $121 billion. These totals would mark changes of +44.46% and +34.32%, respectively, from last year.\nInvestors should also take note of any recent adjustments to analyst estimates for TSMC. Such recent modifications usually signify the changing landscape of near-term business trends. As a result, we can interpret positive estimate revisions as a good sign for the business outlook.\n\nOur research shows that these estimate changes are directly correlated with near-term stock prices. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.\nThe Zacks Rank system, which varies between #1 (Strong Buy) and #5 (Strong Sell), carries an impressive track record of exceeding expectations, confirmed by external audits, with stocks at #1 delivering an average annual return of +25% since 1988. Over the past month, there's been a 0.21% fall in the Zacks Consensus EPS estimate. Right now, TSMC possesses a Zacks Rank of #3 (Hold).\nLooking at its valuation, TSMC is holding a Forward P/E ratio of 29.47. For comparison, its industry has an average Forward P/E of 29.47, which means TSMC is trading at no noticeable deviation to the group.\n\nMeanwhile, TSM's PEG ratio is currently 1.03. The PEG ratio is akin to the commonly utilized P/E ratio, but this measure also incorporates the company's anticipated earnings growth rate. The Semiconductor - Circuit Foundry industry had an average PEG ratio of 1.03 as trading concluded yesterday.\nThe Semiconductor - Circuit Foundry industry is part of the Computer and Technology sector. Currently, this industry holds a Zacks Industry Rank of 108, positioning it in the top 44% of all 250+ industries.\n\nStory Continues\nThe Zacks Industry Rank is ordered from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nKeep in mind to rely on Zacks.com to watch all these stock-impacting metrics, and more, in the succeeding trading sessions.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nTaiwan Semiconductor Manufacturing Company Ltd. (TSM) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "06:43:46",
@@ -598,5 +607,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 66
+  "total_news_count": 67
 }
