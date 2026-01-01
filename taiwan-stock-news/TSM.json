@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-01T09:11:08.786Z",
+  "last_updated": "2026-01-01T11:11:19.143Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "17:44:37",
+      "Source": "24/7 Wall St.",
+      "Title": "Nvidia Is About to Deliver a Huge Late Christmas Gift to Investors",
+      "URL": "https://finance.yahoo.com/m/04b1e315-d13f-3155-912f-0b44c8ee0c14/nvidia-is-about-to-deliver-a.html",
+      "Content": "Nvidia Is About to Deliver a Huge Late Christmas Gift to Investors\n\nRich Duprey\nThu, January 1, 2026 at 1:44 AM PST 4 min read\n\nIn this article: NVDA\n\nTSM\n\nQuick Read Nvidia ( NVDA ) reportedly received orders exceeding 2 million H200 chips from Chinese tech companies for 2026 delivery. Current inventory stands at only 700,000 units.\nNvidia asked Taiwan Semiconductor to ramp up H200 production starting in Q2 2026 to address the shortfall.\nH200 chips are priced at $27,000 per unit for China-specific variants. Shipments could help recover billions in lost Chinese sales from this year.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "16:53:00",
@@ -706,5 +715,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 78
+  "total_news_count": 79
 }
