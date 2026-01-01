@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2026-01-01T22:11:26.870Z",
+  "last_updated": "2026-01-01T23:11:11.601Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "07:03:47",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures Rise; Market Starts 2026 With Key Test, Big Tesla News",
+      "URL": "https://finance.yahoo.com/m/57ea6d61-b23e-34a7-9d2f-99385d66cfd2/dow-jones-futures-rise%3B.html",
+      "Content": "Dow Jones Futures Rise; Market Starts 2026 With Key Test, Big Tesla News\n\nED CARSON\nThu, January 1, 2026 at 3:03 PM PST 6 min read\n\nIn this article: TSLA\n\n^DJI\n\nXIACF\n\n^GSPC\n\nPLTR\n\nThe stock market fell to end a solid 2025. Palantir and Nvidia chipmaker Taiwan Semi were in focus. Tesla deliveries loom.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "04:45:22",
@@ -2317,5 +2326,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 257
+  "total_news_count": 258
 }
