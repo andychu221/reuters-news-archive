@@ -1,8 +1,17 @@
 {
   "stock_id": "ADI",
-  "last_updated": "2025-12-31T17:11:26.185Z",
+  "last_updated": "2026-01-01T01:11:02.589Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "07:00:02",
+      "Source": "Zacks",
+      "Title": "Analog Devices (ADI) Registers a Bigger Fall Than the Market: Important Facts to Note",
+      "URL": "https://finance.yahoo.com/news/analog-devices-adi-registers-bigger-230002969.html",
+      "Content": "Analog Devices (ADI) Registers a Bigger Fall Than the Market: Important Facts to Note\n\nZacks Equity Research\nWed, December 31, 2025 at 3:00 PM PST 3 min read\n\nIn this article: ADI\n\n^GSPC\n\n^DJI\n\n^IXIC\n\nIn the latest trading session, Analog Devices (ADI) closed at $271.20, marking a -1.32% move from the previous day. The stock's change was less than the S&P 500's daily loss of 0.74%. Meanwhile, the Dow lost 0.63%, and the Nasdaq, a tech-heavy index, lost 0.76%.\nComing into today, shares of the semiconductor maker had gained 0.68% in the past month. In that same time, the Computer and Technology sector gained 0.14%, while the S&P 500 gained 0.79%.\n\nThe investment community will be closely monitoring the performance of Analog Devices in its forthcoming earnings report. The company is forecasted to report an EPS of $2.28, showcasing a 39.88% upward movement from the corresponding quarter of the prior year. Meanwhile, our latest consensus estimate is calling for revenue of $3.11 billion, up 28.21% from the prior-year quarter.\nFor the annual period, the Zacks Consensus Estimates anticipate earnings of $9.79 per share and a revenue of $12.82 billion, signifying shifts of +25.67% and +16.36%, respectively, from the last year.\nIt is also important to note the recent changes to analyst estimates for Analog Devices. Recent revisions tend to reflect the latest near-term business trends. As such, positive estimate revisions reflect analyst optimism about the business and profitability.\n\nEmpirical research indicates that these revisions in estimates have a direct correlation with impending stock price performance. To take advantage of this, we've established the Zacks Rank, an exclusive model that considers these estimated changes and delivers an operational rating system.\nThe Zacks Rank system, spanning from #1 (Strong Buy) to #5 (Strong Sell), boasts an impressive track record of outperformance, audited externally, with #1 ranked stocks yielding an average annual return of +25% since 1988. Over the last 30 days, the Zacks Consensus EPS estimate has moved 0.52% higher. Analog Devices is holding a Zacks Rank of #2 (Buy) right now.\nIn terms of valuation, Analog Devices is currently trading at a Forward P/E ratio of 28.07. This expresses a discount compared to the average Forward P/E of 44.32 of its industry.\n\nMeanwhile, ADI's PEG ratio is currently 1.52. This metric is used similarly to the famous P/E ratio, but the PEG ratio also takes into account the stock's expected earnings growth rate. As the market closed yesterday, the Semiconductor - Analog and Mixed industry was having an average PEG ratio of 2.47.\nThe Semiconductor - Analog and Mixed industry is part of the Computer and Technology sector. This industry currently has a Zacks Industry Rank of 31, which puts it in the top 13% of all 250+ industries.\n\nStory Continues\nThe Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nRemember to apply Zacks.com to follow these and more stock-moving metrics during the upcoming trading sessions.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nAnalog Devices, Inc. (ADI) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2025-12-31",
       "Time": "23:10:00",
@@ -67,5 +76,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 7
+  "total_news_count": 8
 }
