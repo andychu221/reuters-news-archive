@@ -1,8 +1,17 @@
 {
   "stock_id": "GOOG",
-  "last_updated": "2026-01-01T07:11:36.558Z",
+  "last_updated": "2026-01-01T09:11:30.893Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "16:00:00",
+      "Source": "Barrons.com",
+      "Title": "Home Stocks Go Ape Over Google. Why Zillow and Others Aren’t Scared.",
+      "URL": "https://finance.yahoo.com/m/0b76f05b-b1f1-3cf5-85a6-b10934c65eb8/home-stocks-go-ape-over.html",
+      "Content": "Home Stocks Go Ape Over Google. Why Zillow and Others Aren’t Scared.\n\nShaina Mishkin\nThu, January 1, 2026 at 12:00 AM PST 6 min read\n\nIn this article: GOOG\n\nRKT\n\nZG\n\nZ\n\nCSGP\n\nHousing technology companies are offering more than just listings, and their other services are a buffer against disruptions to the way buyers shop and agents advertise.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "14:39:00",
@@ -1750,5 +1759,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 194
+  "total_news_count": 195
 }
