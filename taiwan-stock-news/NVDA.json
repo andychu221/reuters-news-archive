@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2026-01-01T07:10:40.127Z",
+  "last_updated": "2026-01-01T08:10:38.631Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-01",
+      "Time": "15:00:00",
+      "Source": "Barrons.com",
+      "Title": "Here’s What Will Surely Happen in 2026. Unless It Doesn’t.",
+      "URL": "https://finance.yahoo.com/m/3eceb563-7704-3592-be4b-dd23a4140688/here%E2%80%99s-what-will-surely.html",
+      "Content": "Here’s What Will Surely Happen in 2026. Unless It Doesn’t.\n\nAndy Serwer\nWed, December 31, 2025 at 11:00 PM PST 5 min read\n\nIn this article: NVDA\n\nFLUT\n\nTSLA\n\nRemember Liberation Day, warring in Ukraine and Gaza, AI mania, Warren Buffett’s retirement—oh, and a new Pope? Meaning I see neither Kevin Hassett nor Kevin Warsh becoming chairman of the Federal Reserve in May. Remember that President Donald Trump—our reality TV veteran overlord—loves nothing more than to keep us all guessing and then, poof, picking a wild card. Look for Scott Bessent (not so wild) or Fed governor Chris Waller (hat tip to Jeff Sonenfeld of Yale) to get tabbed.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-01",
       "Time": "14:07:07",
@@ -3550,5 +3559,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 394
+  "total_news_count": 395
 }
