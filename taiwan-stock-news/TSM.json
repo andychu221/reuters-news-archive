@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-02T21:11:56.764Z",
+  "last_updated": "2026-01-02T22:11:26.363Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "05:36:30",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-nvidia%2C.html",
+      "Content": "Dow Jones Futures: Nvidia, AMD, Taiwan Semi Due After Tesla, Palantir, AppLovin Trigger Sell Signals\n\nED CARSON\nFri, January 2, 2026 at 1:36 PM PST 7 min read\n\nIn this article: TSLA\n\nGEV\n\nPLTR\n\nNVDA\n\nAPP\n\nThe stock market fell last week, with Nasdaq just below a critical level. Tesla, Palantir, AppLovin triggered sell signals. Nvidia and AMD are CES headliners.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "05:06:00",
@@ -91,6 +100,24 @@
       "Title": "NCL Founder and CEO Lin Li Provides Letter to Stockholders, Highlighting North American Retail",
       "URL": "https://finance.yahoo.com/news/ncl-founder-ceo-lin-li-210500632.html",
       "Content": "This is a paid press release. Contact the press release distributor directly with any inquiries.\n\nNCL Founder and CEO Lin Li Provides Letter to Stockholders, Highlighting North American Retail\n\nNorthann Corp.\nFri, January 2, 2026 at 1:05 PM PST 1 min read\n\nIn this article: NCL\n\nFort Lawn, SC, Jan. 02, 2026 (GLOBE NEWSWIRE) -- Northann Corp. (NYSE American: NCL) (the \"Company\"), an innovator in integrated interior surface solutions, today announced that its founder and CEO, Lin Li, has provided a letter to the Company’s stockholders. The letter outlines the Company’s strategic roadmap for 2026, including its expansion into a major North American retail channel.\n\nKey Highlights from the Letter:\nStrategic Endorsement: Support from the Company’s stockholders during the Annual General Meeting on December 31, 2025 through the votes.\n\nMarket Expansion: Core product lines are set to enter one of the largest retail conglomerates in North America in 2026.\n\nInstitutional Maturity: Integration of capital market with entrepreneurial innovation.\n\"2026 marks a pivotal milestone for us,\" said Lin Li, founder and CEO of the Company. \"Having navigated the complexities of being a public company, we are now leveraging our institutional maturity to bring our disruptive surface solutions to the broader North American market through the partnership with a tier-1 retailer.\"\n\nAbout Northann Corp.\n\nFounded in 2022 and headquartered in Fort Lawn, South Carolina, the Company is a leader in additive manufacturing and 3D printing technologies for the building materials industry. Through its flagship brand, Benchwick, the Company provides innovative flooring, decking, and other construction products. Northann boasts a robust portfolio of over 60 granted or pending patents, underscoring its dedication to innovation and sustainability.\nInvestor Relations Contact:\nNorthann Corp.\nir@northann.com\n916-573-3803\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "04:47:19",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-gain-afternoon-204719406.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Gain Late Afternoon\n\nMT Newswires\nFri, January 2, 2026 at 12:47 PM PST 1 min read\n\nIn this article: AAPL\n\nTSM\n\nXLK\n\nBIDU\n\nMU\n\nTech stocks gained late Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "04:41:41",
+      "Source": "Investor's Business Daily",
+      "Title": "This Chipmaking Giant Hits A High And Two Buy Points",
+      "URL": "https://finance.yahoo.com/m/017e57c3-3d05-3918-ac75-a5774479513c/this-chipmaking-giant-hits-a.html",
+      "Content": "This Chipmaking Giant Hits A High And Two Buy Points\n\nKIMBERLEY KOENIG\nFri, January 2, 2026 at 12:41 PM PST 2 min read\n\nIn this article: TSM\n\nNVDA\n\nLPTH\n\nVEL\n\nTSM stock hit an all-time high with some help from Nvidia. Two small-cap names also reached new levels, and one has climbed nearly sevenfold.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     },
     {
@@ -1057,5 +1084,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 117
+  "total_news_count": 120
 }
