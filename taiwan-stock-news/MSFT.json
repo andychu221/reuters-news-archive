@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2026-01-02T20:12:53.120Z",
+  "last_updated": "2026-01-02T22:12:13.128Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "05:27:31",
+      "Source": "Associated Press Finance",
+      "Title": "How major US stock indexes fared Friday, 1/2/2026",
+      "URL": "https://finance.yahoo.com/news/major-us-stock-indexes-fared-212731365.html",
+      "Content": "How major US stock indexes fared Friday, 1/2/2026\n\nThe Associated Press\nFri, January 2, 2026 at 1:27 PM PST 1 min read\n\nIn this article: ^GSPC\n\n^IXIC\n\n^DJI\n\nMSFT\n\nTSLA\n\nU,S. stocks wavered as Wall Street had a wobbly start to the new year.\nThe S&P 500 rose 0.2% Friday, coming off a gain of more than 16% in 2025. The Dow rose 319 points, or 0.7%, but the Nasdaq was roughly flat, weighed down by losses for Microsoft and Tesla . Foreign markets fared better and benchmarks in Britain and South Korea hit records.\n\nWall Street’s big focus remains on the technology sector and the expanding use of artificial intelligence . The sector and companies with outsized valuations were the key forces behind the broader market’s up-and-down moves.\nOn Friday:\nThe S&P 500 rose 12.97 points, or 0.2%, to 6,858.47.\nThe Dow Jones Industrial Average rose 319.10 points, or 0.7%, to 48,382.39.\nThe Nasdaq composite fell 6.36 points, or less than 0.1%, to 23,235.63.\nThe Russell 2000 index of smaller companies rose 26.32 points, or 1.1%, to 2,508.22.\nFor the week:\nThe S&P 500 is down 71.47 points, or 1%.\nThe Dow is down 328.58 points, or 0.7%.\nThe Nasdaq is down 357.47 points, or 1.5%.\nThe Russell 2000 is down 26.12 points, or 1%.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "03:35:00",
@@ -1264,5 +1273,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 140
+  "total_news_count": 141
 }
