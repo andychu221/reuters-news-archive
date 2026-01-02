@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2026-01-02T08:11:31.893Z",
+  "last_updated": "2026-01-02T09:10:59.152Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "16:00:00",
+      "Source": "Barrons.com",
+      "Title": "How to Build Your Own Berkshire Hathaway With Stocks and ETFs",
+      "URL": "https://finance.yahoo.com/m/1da18d36-c96c-3231-9859-ffd9dbbc2ca1/how-to-build-your-own.html",
+      "Content": "How to Build Your Own Berkshire Hathaway With Stocks and ETFs\n\nAndrew Bary\nFri, January 2, 2026 at 12:00 AM PST 3 min read\n\nIn this article: BRK.A\n\nXLI\n\nBRK-B\n\nAXP\n\nCB\n\nMirroring the conglomerate’s holdings is a way to benefit from their performance without the risk of holding the stock during the leadership transition.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "14:42:41",
@@ -976,5 +985,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 108
+  "total_news_count": 109
 }
