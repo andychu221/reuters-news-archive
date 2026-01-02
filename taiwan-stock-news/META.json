@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2026-01-02T10:11:15.548Z",
+  "last_updated": "2026-01-02T11:11:42.364Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "19:00:15",
+      "Source": "Yahoo Finance Video",
+      "Title": "Hybrid AI will drive 'whole new wave' of opportunity in 2026",
+      "URL": "https://finance.yahoo.com/video/hybrid-ai-drive-whole-wave-110015489.html",
+      "Content": "Hybrid AI will drive 'whole new wave' of opportunity in 2026\n\nYahoo Finance Video and Jared Blikre\nFri, January 2, 2026 at 3:00 AM PST\n\nIn this video: META\n\nPANW\n\nCSCO\n\nNVDA\n\nDELL\n\nTECHnalysis Research, LLC President Bob O'Donnell sits down with Yahoo Finance markets and data editor Jared Blikre on Market Catalysts to discuss one of the biggest tech trends from the AI trade in 2025 — hybrid AI — and the opportunities that it will continue to present in 2026.\nAlso catch Bob O'Donnell's predictions for agentic AI in 2026 — as it relates to cybersecurity usage — and who he anticipates to be Nvidia's ( NVDA ) biggest competitors next year.\nTo watch more expert insights and analysis on the latest market action, check out more Market Catalysts .\n\nVideo Transcript\n\n00:00 Speaker A\nTech is capping off a blockbuster 2025 driven by AI infrastructure spending that filled much of the sector's gains. But with as we head into 2026, the story is shifting from pure growth to execution, competition, and also risk. So for more on this, we're going to bring in Bob O'Donnell. He is the president of Techlysis Research. Bob, it is great to see you here and we talked about this earlier in the year on stocks in translation. So give us an update. What do you see the AI, what has been the dominant theme of AI excuse me, I was leading you there of the AI trade this year and you know, kind of heading into next year. What are you keeping your eye on?\n00:48 Speaker B\nNo, fair enough, Jared, thanks for having me, of course. Uh yeah, I mean look, one of the things we talked about back on on that program was this notion of hybrid AI. And by hybrid AI, what I was referring to and continue to talk about is this idea that we're seeing AI being deployed of course in the big clouds and and we're seeing a lot of benefit from Google and Amazon, Microsoft and those kinds of companies, um meta as well. But we're also starting to see businesses themselves start to deploy AI. And so this hybrid AI idea is that the fact that you can do some of this uh AI computing in the cloud with the big uh LLMs, but you can also do it on your own premises or within data centers and things like that. So, that's where a lot of the excitement is because that's where there's a huge long ramp of growth and opportunity. And so that's from companies uh like Dell and HPE, Cisco, some of these other companies who sell some of the servers that the companies are buying. Of course, they include Nvidia chips or AMD chips and I think we'll see a lot more uh competition in AI accelerators in 2026 as well. But the point is a lot of those companies and then the software that they're building and creating with that is driving a whole new wave of opportunity and that's like I said, that's sort of that hybrid AI story. We saw the beginnings of it in 2025. I think we'll see a lot more of that uh in 2026.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "16:01:00",
@@ -1372,5 +1381,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 152
+  "total_news_count": 153
 }
