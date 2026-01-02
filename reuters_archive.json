@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-01-01",
-  "total_reports": 70,
+  "last_updated": "2026-01-02",
+  "total_reports": 72,
   "reports": [
+    {
+      "Source": "TradingView - US Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3Y10C6:0/",
+      "Date": "2026-01-01",
+      "Time": "05:19:56",
+      "Title": "美國債市：收益率走高，此前最新初請失業金人數低於預期",
+      "Content": "Refinitiv\n\nUS10YZB1!\n這則新聞只顯示標題，沒有其他正文。\n\nReuters經濟美國股票\n© Copyright Thomson Reuters 2025. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 208,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-02 08:12:14"
+    },
+    {
+      "Source": "TradingView - Global FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3Y10F3:0/",
+      "Date": "2026-01-01",
+      "Time": "05:15:45",
+      "Title": "《全球匯市》美元在就業數據公布後攀升，但仍錄得2017年以來最大年跌幅",
+      "Content": "Refinitiv\n\nDXYEURUSDGBPUSDUSDCHF\n關鍵點：\n美元在初請失業金數據公布後攀升\n降息、財政憂慮和特朗普關稅拖累美元全年表現\n日圓擺脫近期低點，但干預擔憂依然存在\n\n這則新聞只顯示標題，沒有其他正文。\n\nReuters日本股票美國股票英國股票\n© Copyright Thomson Reuters 2025. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 289,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-02 08:12:01"
+    },
     {
       "Source": "TradingView - Taiwan FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2025:newsml_L6T3Y009M:0/",
