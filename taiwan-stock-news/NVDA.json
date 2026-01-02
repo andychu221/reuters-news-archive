@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2026-01-01T23:10:37.112Z",
+  "last_updated": "2026-01-02T00:10:37.900Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "08:04:28",
+      "Source": "Reuters",
+      "Title": "Samsung Electronics highlights progress in HBM4 chip supply",
+      "URL": "https://finance.yahoo.com/news/samsung-electronics-highlights-progress-hbm4-000428574.html",
+      "Content": "Samsung Electronics highlights progress in HBM4 chip supply\n\nReuters\nThu, January 1, 2026 at 4:04 PM PST 1 min read\n\nIn this article: SSNLF\n\nNVDA\n\n000660.KS\n\nSEOUL, Jan 2 (Reuters) - Samsung Electronics highlighted on ​Friday progress in ‌the company's next-generation high-bandwidth memory (HBM) ‌chips, or HBM4, saying customers have praised its competitiveness.\nSamsung Electronics' co-CEO Jun ⁠Young-hyun, who ‌leads the chip division, said in ‍a New Year address that HBM4 had drawn strong ​customer praise for its ‌differentiated competitiveness, with some customers saying \"Samsung is back.\"\nIn October, Samsung said it was in \"close discussion\" ⁠to supply HBM4 ​to Nvidia , ​as the South Korean chipmaker scrambles to catch ‍up ⁠with rivals such as SK Hynix in the ⁠AI chip race.\n(Reporting by ‌Heekyong Yang; Editing by ‌Jacqueline Wong)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "07:03:47",
@@ -3565,15 +3574,6 @@
       "Title": "Dow Jones Futures: Stock Market At Highs After Holiday",
       "URL": "https://finance.yahoo.com/m/751aea56-dbe1-3650-9890-a297f98bfbe1/dow-jones-futures%3A-stock.html",
       "Content": "Dow Jones Futures: Stock Market At Highs After Holiday\n\nED CARSON\nThu, December 25, 2025 at 6:25 PM PST 4 min read\n\nIn this article: ^DJI\n\nNVDA\n\nGOOG\n\nTVTX\n\n^GSPC\n\nThe Dow Jones set a record close and the S&P 500 hit an intraday high heading into the Christmas holiday. Palantir, Tesla, Google and Nvidia are in buy areas.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
-      "Language": "en"
-    },
-    {
-      "Date": "2025-12-26",
-      "Time": "07:24:29",
-      "Source": "Investor's Business Daily",
-      "Title": "Dow Jones Futures Rise After Market Holiday; S&P 500 At Highs",
-      "URL": "https://finance.yahoo.com/m/751aea56-dbe1-3650-9890-a297f98bfbe1/dow-jones-futures-rise-after.html",
-      "Content": "Dow Jones Futures Rise After Market Holiday; S&P 500 At Highs\n\nED CARSON\nThu, December 25, 2025 at 3:24 PM PST 4 min read\n\nIn this article: ^DJI\n\nNVDA\n\nGOOG\n\nTVTX\n\n^GSPC\n\nThe Dow Jones set a record close and the S&P 500 hit an intraday high heading into the Christmas holiday. Palantir, Tesla, Google and Nvidia are in buy areas.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
     }
   ],
