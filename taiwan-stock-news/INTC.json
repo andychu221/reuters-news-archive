@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2026-01-02T19:11:21.164Z",
+  "last_updated": "2026-01-02T20:11:57.969Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "03:34:26",
+      "Source": "GuruFocus.com",
+      "Title": "Intel Stock Rises as Panther Lake Launch and Foundry Ambitions Drive Optimism",
+      "URL": "https://finance.yahoo.com/news/intel-stock-rises-panther-lake-193426097.html",
+      "Content": "Intel Stock Rises as Panther Lake Launch and Foundry Ambitions Drive Optimism\n\nNauman Khan\nFri, January 2, 2026 at 11:34 AM PST 1 min read\n\nIn this article: INTC\n\nNVDA\n\nAMD\n\nTSM\n\nThis article first appeared on GuruFocus .\nIntel Corp ( NASDAQ:INTC ) shares rose about 5% on Friday as U.S. stocks are firmer to start 2026, as heavyweight chip names stabilized after late-2025 declines.\nInvestors are probing Intel's ( NASDAQ:INTC ) manufacturing roadmap and its ability to translate process gains into steadier earnings and foundry wins.\n\nA key focus is Panther Lake, Intel's next laptop processor on the 18A node, which is central to rebuilding its manufacturing edge.\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\nThe foundry narrative is mixed. Reuters reported Nvidia tested Intel's 18A process but did not proceed, while Intel said 18A work is progressing and seeing interest in its 14A technologies.\nNvidia's ( NASDAQ:NVDA ) $5 billion purchase of Intel shares underscores high-profile partnerships that may bolster confidence.\nTraders will watch Intel's quarterly update and data on manufacturing yields, with estimating earnings date of Jan. 29.\nCompetition from Advanced Micro Devices ( NASDAQ:AMD ) and Taiwan Semiconductor Manufacturing ( NYSE:TSM ) is a benchmark for Intel's progress.\nNear-term moves in Intel stock are likely to track chip-sector sentiment and macro data that shifts rate-cut expectations.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "02:48:28",
@@ -742,5 +751,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 82
+  "total_news_count": 83
 }
