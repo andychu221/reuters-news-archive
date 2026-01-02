@@ -1,8 +1,17 @@
 {
   "stock_id": "META",
-  "last_updated": "2026-01-02T03:11:29.805Z",
+  "last_updated": "2026-01-02T10:11:15.548Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "16:01:00",
+      "Source": "The Telegraph",
+      "Title": "AI bubble fears drive foreign cash into UK stock market",
+      "URL": "https://finance.yahoo.com/m/5122f475-45fa-35bd-995c-b05e72fdb4e5/ai-bubble-fears-drive-foreign.html",
+      "Content": "AI bubble fears drive foreign cash into UK stock market\n\nTOM SAUNDERS\nFri, January 2, 2026 at 12:01 AM PST 2 min read\n\nIn this article: META\n\nNVDA\n\nFears of an artificial intelligence (AI) bubble on Wall Street are driving cash back into the UK&rsquo;s beleaguered stock market , British fund managers say.\nLast year&rsquo;s boom in US tech stocks like Nvidia and Meta has prompted some investors to book their profits and recycle cash into UK shares.\n\nStockpickers who focus on the British market say it means the London Stock Exchange could see a surge of inflows after nearly a decade of dreary performance.\nAdrian Gosden, a Jupiter fund manager who manages &pound;1.6bn, said: &ldquo;We&rsquo;ve got our Budget done and as long as the currency doesn&rsquo;t do anything peculiar to ward off investors, the UK is pretty well placed for 2026 to be a recipient of some of those people de-risking their portfolios.&rdquo;\nJames Klempster, from Liontrust, said there had been a &ldquo;subtle change in emphasis&rdquo; with people now worried about the fragility of the US stock market.\n&ldquo;It&rsquo;s just left the door open to marginal flow around the world, looking for another place to land. I think that&rsquo;s very firmly what&rsquo;s happened over the last six months or so,&rdquo; he said.\n\nGoldman Sachs in November pointed to a boom in foreign funds buying UK stocks while Bank of America data has also suggested an uptick in stockpickers buying British. According to its figures, global investors were net 24pc underweight UK stocks in December, an improvement on November&rsquo;s figure of 29pc.\nBank of America&rsquo;s survey has only ever recorded investors being overweight the UK on two occasions since August 2021 &ndash; but it does suggest the tide could be turning.\nWhile concerns about the US have been an important factor in overseas flows into the UK, the FTSE 100&rsquo;s strong performance last year has also been a major selling point.\nBritain&rsquo;s stock market enjoyed its biggest annual gain since 2009 in 2025, beating performance on Wall Street.\n\nThe rising interest from overseas investors comes in marked contrast to UK investors, who have dramatically sold off their holdings in stocks.\nIn the six months to December, UK investors pulled more than &pound;10bn out of global stock markets in the longest and most severe period of selling on record, according to data provider Calastone.\nOver that period, UK-focused equity funds were among the hardest hit, seeing net selling of &pound;847m.\nTry full access to The Telegraph free today. Unlock their award-winning website and essential news app, plus useful tools and expert guides for your money, health and holidays.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "10:38:00",
@@ -1363,5 +1372,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 151
+  "total_news_count": 152
 }
