@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2026-01-02T16:11:52.087Z",
+  "last_updated": "2026-01-02T17:11:16.600Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "00:01:28",
+      "Source": "StockStory",
+      "Title": "Why Is Intel (INTC) Stock Soaring Today",
+      "URL": "https://finance.yahoo.com/news/why-intel-intc-stock-soaring-160128932.html",
+      "Content": "Why Is Intel (INTC) Stock Soaring Today\n\nAdam Hejl\nFri, January 2, 2026 at 8:01 AM PST 2 min read\n\nIn this article: INTC\n\nNVDA\n\nWhat Happened? Shares of computer processor maker Intel (NASDAQ:INTC) jumped 7% in the morning session after the stock's positive momentum continued as Nvidia acquired $5 billion in the company through a private placement, while the U.S. Treasury also obtained a 10% non-voting equity stake.\nThe investment from Nvidia was part of a previously announced plan to support Intel's finances to enhance production capacity. The Treasury's stake fell under the 2025 CHIPS Act and a 'National Resilience' deal.\n\nIs now the time to buy Intel? Access our full analysis report here .\nWhat Is The Market Telling Us Intel’s shares are extremely volatile and have had 37 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.\nThe previous big move we wrote about was 3 days ago when the stock gained 3% on the news that the company confirmed that rival chipmaker Nvidia completed a previously announced $5 billion investment.\n\nThe deal, which was finalized through a regulatory filing, involved Nvidia purchasing approximately 214.8 million Intel shares at $23.28 each. This purchase gave Nvidia a stake of about 4.4% in the company. The investment provided crucial funding for Intel's turnaround efforts. The agreement also included a technology partnership, with both companies planning to co-develop advanced chips for data centers and personal computers. This collaboration aimed to combine Intel's custom processors with Nvidia's artificial intelligence (AI) chips to create faster and more efficient systems.\nInvestors who bought $1,000 worth of Intel’s shares 5 years ago would now be looking at an investment worth $784.94.\nWhile Wall Street chases Nvidia at all-time highs, an under-the-radar semiconductor supplier is dominating a critical AI component these giants can’t build without. Click here to access our full research report .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "23:05:00",
@@ -706,5 +715,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 78
+  "total_news_count": 79
 }
