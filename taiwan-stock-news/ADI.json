@@ -1,8 +1,17 @@
 {
   "stock_id": "ADI",
-  "last_updated": "2026-01-02T14:11:22.961Z",
+  "last_updated": "2026-01-02T22:11:05.652Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "05:10:16",
+      "Source": "Insider Monkey",
+      "Title": "Analog Devices, Inc. (ADI) Balances Analyst Optimism With Insider Share Sale",
+      "URL": "https://finance.yahoo.com/news/analog-devices-inc-adi-balances-211016300.html",
+      "Content": "Analog Devices, Inc. (ADI) Balances Analyst Optimism With Insider Share Sale\n\nLaiba Immad\nFri, January 2, 2026 at 1:10 PM PST 1 min read\n\nIn this article: ADI\n\nWe recently compiled a list of the 10 Best Long-Term Investments for Kids . Analog Devices, Inc. stands third among the best long-term investments.\nTheFly reported on December 19 that Truist Securities analyst William Stein maintained a Hold rating on ADI while raising the price target to $291 from $258. The update reflects the firm’s latest assessment of the company’s valuation outlook, though the Hold rating indicates a cautious stance on near-term stock movement.\nAdditionally, on December 18, a Form 4 filing with the SEC revealed that Martin Cotter, Senior Vice President of Vertical Business Units at Analog Devices, Inc. (NASDAQ:ADI), sold 5,000 shares of common stock on December 17. The transaction was executed at an average price of $271.19, totaling approximately $1.36 million. Following this sale, Cotter retains direct ownership of 59,664 shares, valued at roughly $16.18 million.\n\nAnalog Devices, Inc. (NASDAQ:ADI) is a global semiconductor leader headquartered in Wilmington, Massachusetts, that designs, manufactures, tests, and markets analog, mixed-signal, and digital signal processing integrated circuits (ICs), software, and subsystems used to bridge the physical and digital worlds.\nWhile we acknowledge the potential of ADI as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\nREAD NEXT: 30 Stocks That Should Double in 3 Years and 11 Hidden AI Stocks to Buy Right Now . Disclosure: None.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "20:00:19",
@@ -76,5 +85,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 8
+  "total_news_count": 9
 }
