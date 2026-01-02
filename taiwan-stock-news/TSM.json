@@ -1,8 +1,26 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-02T17:11:23.729Z",
+  "last_updated": "2026-01-02T19:11:30.749Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "02:57:39",
+      "Source": "MT Newswires",
+      "Title": "Sector Update: Tech Stocks Mixed Friday Afternoon",
+      "URL": "https://finance.yahoo.com/news/sector-tech-stocks-mixed-friday-185739401.html",
+      "Content": "PREMIUM\nSector Update: Tech Stocks Mixed Friday Afternoon\n\nMT Newswires\nFri, January 2, 2026 at 10:57 AM PST 1 min read\n\nIn this article: AAPL\n\nTSM\n\nBIDU\n\nXLK\n\nTech stocks were mixed Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XL\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "02:26:28",
+      "Source": "Motley Fool",
+      "Title": "Why ASML Stock Popped Today",
+      "URL": "https://finance.yahoo.com/m/ed4968dc-24f7-305f-9b6a-700782eef9be/why-asml-stock-popped-today.html",
+      "Content": "Why ASML Stock Popped Today\n\nJosh Kohn-Lindquist, The Motley Fool\nFri, January 2, 2026 at 10:26 AM PST 3 min read\n\nIn this article: ASML\n\nTSM\n\nKey Points ASML received a major price target upgrade from Aletheia Capital on Friday.\nThe investment firm believes there may be 30% upside in ASML's stock over the next year.\nASML continues to dominate the lithography industry and stands to benefit from TSMC's expansion plans.\n10 stocks we like better than ASML ›\n\nShares of industry-leading lithography specialist, ASML (NASDAQ: ASML) , are up 9% as of noon Friday. The catalyst for this surge stems from Aletheia Capital issuing a rare stock rating reversal from \"sell\" to \"buy,\" alongside a doubling of its price target for the stock from $750 to $1,500. Compared to ASML's current trading level, this new price target represents 30% upside.\nASML: Powering the Magnificent 7 ASML holds a dominant share of the deep ultraviolet (DUV) lithography industry and a quasi-monopoly in the bleeding-edge extreme ultraviolet (EUV) lithography niche, making it one of the most important companies in the world today -- particularly in the semiconductor chain. Lithography is the near-magic process of etching infinitesimal patterns onto silicon wafers to be used in the world's most advanced semiconductor chips -- and ASML's equipment leads the way.\nWhile the company may not be a household name, I'd argue that it certainly passes the snap test. If these products disappeared overnight, the Magnificent Seven would be immediately hindered, and many of its AI ambitions would become unachievable, or at the very least, delayed. ASML's importance to the Magnificent Seven and its interconnectedness within the broader semiconductor industry rhymes with Aletheia Capital's reasoning for raising its outlook on the stock.\n\nAletheia notes that Taiwan Semiconductor Manufacturing Company's plans to expand its manufacturing capacity by 40% to 50% in 2027 will be a key catalyst for ASML, as the company will be one of the leading suppliers of this growth. Furthermore, the investment firm believes EUV growth will accelerate to 60% to 70% by 2027 as ASML capitalizes on the AI boom.\nWhile ASML trades at a lofty 38 times forward earnings, its lithography dominance and growth potential seem to outweigh this slight premium.\nShould you invest $1,000 in ASML right now? Before you buy stock in ASML, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and ASML wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $505,641 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,143,283 !*\n\nStory Continues\nNow, it’s worth noting Stock Advisor’s total average return is 974 % — a market-crushing outperformance compared to 193% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nSee the 10 stocks »\n*Stock Advisor returns as of December 29, 2025\nJosh Kohn-Lindquist has positions in ASML. The Motley Fool has positions in and recommends ASML. The Motley Fool has a disclosure policy .\nWhy ASML Stock Popped Today was originally published by The Motley Fool\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "00:28:59",
@@ -931,5 +949,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 103
+  "total_news_count": 105
 }
