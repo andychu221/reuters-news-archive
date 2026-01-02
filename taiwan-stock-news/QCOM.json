@@ -1,8 +1,17 @@
 {
   "stock_id": "QCOM",
-  "last_updated": "2026-01-02T20:10:35.622Z",
+  "last_updated": "2026-01-02T21:10:34.683Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "05:02:24",
+      "Source": "Yahoo Finance Video",
+      "Title": "CES 2026: Nvidia, AMD, Intel, & more to make announcements",
+      "URL": "https://finance.yahoo.com/video/ces-2026-nvidia-amd-intel-210224074.html",
+      "Content": "CES 2026: Nvidia, AMD, Intel, & more to make announcements\n\nYahoo Finance Video\nFri, January 2, 2026 at 1:02 PM PST\n\nIn this video: AMD\n\n005380.KS\n\n005385.KS\n\n005387.KS\n\n005389.KS\n\nThe 2026 Consumer Electronics Show (CES) is coming up next week in Las Vegas.\nYahoo Finance Technology Editor Dan Howley sits down with Yahoo Finance Markets and Data Editor Jared Blikre on Market Domination to explain what investors should expect from the event and from key names like Nvidia ( NVDA ) and AMD ( AMD ).\nTo watch more expert insights and analysis on the latest market action, check out more Market Domination .\n\nVideo Transcript\n\n00:00 Speaker A\nIt is a new year and to kick it off in style, the Consumer Electronics show will be one of the biggest tech conferences. CES is kicking off on January 6th under the bright lights of Las Vegas, and tech editor Dan Howley is here with what to expect. Dan, tell us.\n00:15 Dan Howley\nYeah, Jared, there's going to be a number of big announcements at this year's show. The the first obviously, will probably, and biggest, be out of Nvidia. They're hosting their own press event on January 5th. CEO Jensen Wong will take the stage. He did it last year as well. They announced a number of new products, a new chip for a smaller bitesize desktop AI computer, as well as a number of different software innovations that they've really been pushing as of late. They also brought out their kind of digital army of robots. It was basically a a a video recording uh and then a little tiny robot uh care of Star Wars uh took the stage alongside of him.\n00:54 Dan Howley\nUh outside of Nvidia, we're also expecting to see AMD host their own press event with CEO Lisa Sue. Uh we'll see Intel and Qualcomm both host press events as well related to their respective chips. Uh and then overall, we should see a ton of AI. I mean, you know, the chips themselves are are, you know, obviously enough to say that AI is going to dominate, but uh you can expect to see a lot of robots, uh a lot of smart home devices. You can even see some wearables that are AI powered. And those usually, you know, so far we haven't seen anything too interesting as far as AI powered wearables outside of maybe, you know, the intelligence built into smart glasses or smart watches. There's never been a dedicated device that's really taken off. Open AI is supposedly working on one, don't expect it at CES. Uh and then finally, uh Autos. Autos have been a big part of CES as of late.\n01:54 Dan Howley\nUh they continue to do so and we'll likely see things ranging from flying cars to uh different types of boats. Uh we know that there'll be some major automakers like Hyundai on hand, uh Sony and Honda, their uh Afeela vehicle will be there as well. Uh and so it's going to be a jam-packed show, but again, I think the big takeaway is going to be from Nvidia. They're the the hottest uh company on the market right now and what they're doing in AI as well as AI from the the rest of the companies at the show.\n02:18 Speaker A\nDan, we got about 30 seconds. So I'm just going to ask you real quickly, any surprises over the last few weeks that have jumped into your attention span uh that might kind of give us a hint of what 2026 has in store for us in tech?\n02:32 Dan Howley\nYeah, I mean the the Nvidia Groc uh kind of licensing deal, non-exclusive licensing deal. Uh I think it was estimated $20 billion. That was really interesting and it just kind of shows where Nvidia sees its its future at this point, you know, making these kinds of investments and new types of chip technologies or different types of chip tech chip technologies to really hold on to the lead that it has.\n03:00 Dan Howley\nUh you know, I I think we're going to continue to see these kinds of not necessarily acquisitions, but you know, licensing agreements will hire some executives from a company, uh things along those lines. Uh they really kind of became popular in 2025 and I think we'll continue to see them through 2026. It's a a way for companies to kind of avoid the scrutiny of acquiring a company, taking it over entirely, while still getting some of that knowhow and IP.\n03:22 Speaker A\nAll right, Dan, appreciate it. We'll see you soon.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "22:05:52",
@@ -112,5 +121,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 12
+  "total_news_count": 13
 }
