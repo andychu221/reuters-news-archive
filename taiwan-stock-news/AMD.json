@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2026-01-02T16:11:13.435Z",
+  "last_updated": "2026-01-02T17:10:58.252Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "00:01:04",
+      "Source": "StockStory",
+      "Title": "Why Are AMD (AMD) Shares Soaring Today",
+      "URL": "https://finance.yahoo.com/news/why-amd-amd-shares-soaring-160104506.html",
+      "Content": "Why Are AMD (AMD) Shares Soaring Today\n\nAnthony Lee\nFri, January 2, 2026 at 8:01 AM PST 2 min read\n\nIn this article: AMD\n\nWhat Happened? Shares of computer processor maker AMD (NASDAQ:AMD) jumped 5.3% in the morning session after investor optimism grew following favorable analyst predictions for 2026 and anticipation of new product announcements.\nThe move came as top Wall Street analysts predicted a potential 32% jump in the stock's value for 2026, building on significant gains from the previous year. This positive outlook was tied to AMD's role in the artificial intelligence sector, driven by demand for high-performance computing and data centers. Adding to the excitement were rumors that the company planned to reveal a new, faster Ryzen chip and a new generation of processors at the upcoming CES 2026 conference. AMD's stock also benefited from a broader rally in tech stocks, as fresh excitement surrounding the prospects of AI lifted the sector.\n\nAfter the initial pop the shares cooled down to $220.34, up 2.9% from previous close.\nIs now the time to buy AMD? Access our full analysis report here .\nWhat Is The Market Telling Us AMD’s shares are extremely volatile and have had 30 moves greater than 5% over the last year. In that context, today’s move indicates the market considers this news meaningful but not something that would fundamentally change its perception of the business.\nThe previous big move we wrote about was 14 days ago when the stock gained 6.8% on the news that investor optimism around artificial intelligence fueled broad market gains. Technology stocks with a focus on artificial intelligence once again led the market higher, boosting the Nasdaq and S&P 500. Companies at the forefront of the AI boom, such as Nvidia and Broadcom, saw significant jumps in their share prices. The rally reflects a renewed belief among investors in the transformative potential of AI technology to drive future growth and productivity. The rally was further supported by a surprise cooling in the November consumer price index (CPI) report, which triggered market pricing for additional rate cuts in the coming year. This created a more favorable environment for growth-oriented companies.\nInvestors who bought $1,000 worth of AMD’s shares 5 years ago would now be looking at an investment worth $2,387.\nThe 1999 book Gorilla Game predicted Microsoft and Apple would dominate tech before it happened. Its thesis? Identify the platform winners early. Today, enterprise software companies embedding generative AI are becoming the new gorillas. Click here for access to our special report that reveals one profitable leader already riding this wave .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "23:36:41",
@@ -589,5 +598,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 65
+  "total_news_count": 66
 }
