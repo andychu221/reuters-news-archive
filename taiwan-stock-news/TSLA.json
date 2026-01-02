@@ -1,8 +1,17 @@
 {
   "stock_id": "TSLA",
-  "last_updated": "2026-01-02T04:11:25.916Z",
+  "last_updated": "2026-01-02T08:11:58.832Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "14:38:00",
+      "Source": "The Wall Street Journal",
+      "Title": "BYD’s Sales Growth Slowed in 2025, But Still Set to Top Tesla",
+      "URL": "https://finance.yahoo.com/m/e701ebb7-3903-3ef3-8633-e2bfe554f0f3/byd%E2%80%99s-sales-growth-slowed-in.html",
+      "Content": "BYD’s Sales Growth Slowed in 2025, But Still Set to Top Tesla\n\nSherry Qin\nThu, January 1, 2026 at 10:38 PM PST 2 min read\n\nIn this article: TSLA\n\nBYDDF\n\nGELHY\n\nZJLMF\n\nChinese auto company BYD’s sales growth slowed significantly in 2025 amid intensified competition at home, but it was still set to top Tesla as the world’s biggest electric vehicle company.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "11:45:30",
@@ -2335,5 +2344,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 259
+  "total_news_count": 260
 }
