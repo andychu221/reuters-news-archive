@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2026-01-02T00:10:37.900Z",
+  "last_updated": "2026-01-02T02:10:37.689Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "08:04:28",
+      "Source": "Reuters",
+      "Title": "Samsung Electronics says customers praised competitiveness of HBM4 chip",
+      "URL": "https://finance.yahoo.com/news/samsung-electronics-highlights-progress-hbm4-000428574.html",
+      "Content": "Samsung Electronics says customers praised competitiveness of HBM4 chip\n\nReuters\nThu, January 1, 2026 at 4:04 PM PST 1 min read\n\nIn this article: SSNLF\n\n000660.KS\n\nMU\n\nNVDA\n\nSEOUL, Jan 2 (Reuters) - Samsung Electronics customers have praised the differentiated competitiveness of ​its next-generation high-bandwidth memory (HBM) chips, or ‌HBM4, saying \"Samsung is back\", co-CEO and chip chief ‌Jun Young-hyun said in a New Year address.\nIn October, Samsung said it was in \"close discussion\" to supply its HBM4 to U.S. artificial ⁠intelligence leader Nvidia , ‌as the South Korean chipmaker scrambles to catch rivals including compatriot ‍SK Hynix in AI chips.\n\nSK Hynix commanded 53% of the HBM market in the third quarter ​of 2025, followed by Samsung at ‌35% and Micron at 11%, showed data from Counterpoint Research.\nInvestors are looking for signs of Samsung narrowing the gap with its fourth-generation chips.\nSamsung said in its third-quarter earnings ⁠conference call that it ​is shipping HBM4 samples to ​key clients and that it will focus on the mass production of ‍HBM4 products ⁠in 2026, betting on rising demand.\nShares of Samsung Electronics were up 1.9% in ⁠morning trade, versus the benchmark KOSPI's 0.5% rise.\n(Reporting ‌by Heekyong Yang; Editing by Jacqueline ‌Wong and Christopher Cushing)\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "08:04:28",
@@ -3577,5 +3586,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 397
+  "total_news_count": 398
 }
