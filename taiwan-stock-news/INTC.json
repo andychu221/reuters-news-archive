@@ -1,8 +1,17 @@
 {
   "stock_id": "INTC",
-  "last_updated": "2026-01-02T17:11:16.600Z",
+  "last_updated": "2026-01-02T18:11:11.438Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "02:00:51",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Today: Indexes Choppy In First 2026 Session; Intel Soars After Nvidia Deal (Live Coverage)",
+      "URL": "https://finance.yahoo.com/m/2d088fa4-2d85-31c6-9607-16ad9a171c60/stock-market-today%3A-indexes.html",
+      "Content": "Stock Market Today: Indexes Choppy In First 2026 Session; Intel Soars After Nvidia Deal (Live Coverage)\n\nSCOTT LEHTONEN and KEN SHREVE and VIDYA RAMAKRISHNAN\nFri, January 2, 2026 at 10:00 AM PST 5 min read\n\nIn this article: INTC\n\nTSLA\n\nNVDA\n\n^GSPC\n\n^DJI\n\nThe Dow Jones index dropped Friday. Tesla stock slashed gains after surprise fourth-quarter delivery news.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "00:01:28",
@@ -715,5 +724,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 79
+  "total_news_count": 80
 }
