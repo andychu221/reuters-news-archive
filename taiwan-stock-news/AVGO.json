@@ -1,8 +1,17 @@
 {
   "stock_id": "AVGO",
-  "last_updated": "2026-01-01T20:10:46.756Z",
+  "last_updated": "2026-01-02T08:11:18.448Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "14:30:00",
+      "Source": "Barrons.com",
+      "Title": "The Stock Market Won’t Be Worth Celebrating in 2026",
+      "URL": "https://finance.yahoo.com/m/2315906d-b736-3476-be5c-a25e480c3bf0/the-stock-market-won%E2%80%99t-be.html",
+      "Content": "The Stock Market Won’t Be Worth Celebrating in 2026\n\nBen Levisohn\nThu, January 1, 2026 at 10:30 PM PST 5 min read\n\nIn this article: NVDA\n\nCRWV\n\nAVGO\n\nGOOG\n\n^GSPC\n\nFor three years, Big Tech has been able to cover up the market’s flaws. Cracks started appearing in 2025—and they’re only looking worse.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "04:00:00",
@@ -472,5 +481,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 52
+  "total_news_count": 53
 }
