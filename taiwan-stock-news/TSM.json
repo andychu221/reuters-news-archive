@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-02T16:12:05.204Z",
+  "last_updated": "2026-01-02T17:11:23.729Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "00:28:59",
+      "Source": "Investor's Business Daily",
+      "Title": "Stock Market Tested To Start New Year; Tesla In Focus: Weekly Review",
+      "URL": "https://finance.yahoo.com/m/7807173d-69e6-3daa-885d-f80a593ce6d6/stock-market-tested-to-start.html",
+      "Content": "Stock Market Tested To Start New Year; Tesla In Focus: Weekly Review\n\nIBD STAFF\nFri, January 2, 2026 at 8:28 AM PST 5 min read\n\nIn this article: TSLA\n\nBA\n\nRIVN\n\nDX-Y.NYB\n\nNVDA\n\nThe stock market had a solid 2025, but faded in the final days to key levels. A bounce to start 2026 quickly fizzled. Tesla deliveries fell.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "23:56:34",
@@ -922,5 +931,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 102
+  "total_news_count": 103
 }
