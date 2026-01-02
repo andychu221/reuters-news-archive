@@ -1,8 +1,17 @@
 {
   "stock_id": "AAPL",
-  "last_updated": "2026-01-02T03:11:00.634Z",
+  "last_updated": "2026-01-02T07:10:53.718Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "14:42:41",
+      "Source": "Investing.com",
+      "Title": "Raymond James resumes Apple coverage, flags limited upside at current valuation",
+      "URL": "https://finance.yahoo.com/news/raymond-james-resumes-apple-coverage-064241194.html",
+      "Content": "Raymond James resumes Apple coverage, flags limited upside at current valuation\n\nNavamya Acharya\nThu, January 1, 2026 at 10:42 PM PST 3 min read\n\nIn this article: AAPL\n\nRJF\n\nInvesting.com -- Raymond James resumed coverage of Apple Inc (NASDAQ:AAPL) with a “market perform” rating on Friday, saying the company’s current valuation already reflects its fundamentals and leaves limited scope for near-term outperformance.\nApple shares closed at $271.86 on Dec. 31, 2025, giving the company a market capitalization of about $4.06 trillion.\n\nOn Raymond James’ estimates, the stock is trading at roughly 31 times fiscal 2027 GAAP earnings, above Apple’s five-year average price-to-earnings range in the high-20s.\nOn an enterprise value basis, Apple was valued at about $4.12 trillion, with net debt of roughly $57.7 billion.\nThe brokerage cited the iPhone 17 refresh cycle as a key driver of recent share performance.\nRaymond James estimated calendar-year 2025 iPhone revenue at about $217 billion, compared with a consensus estimate of about $214 billion, supported by features such as on-device GenAI capabilities, higher base storage configurations and ProMotion technology across the lineup.\nThe analysts projected iPhone unit shipments rising about 4% year over year in calendar 2025 to roughly 238 million units.\n\nRaymond James said Apple’s installed base has grown to about 2.4 billion active devices, supporting upgrade and replacement demand while making incremental growth more difficult to achieve at scale. The firm projected iPhone unit growth of about 3% in calendar 2026 and about 3% in calendar 2027.\nServices were described as an increasingly important contributor, accounting for about 26% of fiscal 2025 revenue. Raymond James said services provide higher-margin, recurring revenue and help smooth the seasonality of hardware sales.\nThe brokerage modeled services revenue growing at a compound annual growth rate of about 13% from calendar 2024 through calendar 2027, reaching about $143 billion, or roughly 29% of total revenue.\nDespite that growth, Raymond James said Apple’s overall performance remains closely tied to hardware cycles, particularly the iPhone, and that the stock continues to reflect that cyclicality.\n\nThe analysts said it did not see near-term catalysts sufficient to drive sustained outperformance relative to its coverage universe.\nRaymond James initiated a fiscal 2026 GAAP earnings estimate of $8.19 per share, based on about 8% revenue growth, and a fiscal 2027 estimate of $9.13 per share, based on about 7% revenue growth.\nThe brokerage forecast fiscal 2026 revenue of about $450.8 billion and fiscal 2027 revenue of about $480.4 billion, compared with fiscal 2025 revenue of about $416.2 billion and GAAP earnings of $7.46 per share.\n\nStory Continues\nThe brokerage flagged cost pressures from tariffs and component pricing as near-term risks. Raymond James estimated tariff-related impacts would reduce December-quarter revenue by about $1.4 billion, up from about $1.1 billion in the prior quarter.\nThe analysts also cited Apple’s supply chain concentration in China as an ongoing risk, despite diversification efforts elsewhere.\n\nApple paid an annual dividend of $1.04 per share, representing a yield of about 0.4% at the current share price, according to the report.\nRaymond James said Apple ended fiscal 2025 with about $54.7 billion in cash and marketable securities and long-term debt of about $97 billion.\nRaymond James said that while Apple remains widely held by investors, its current valuation appropriately reflects its business profile, leading the brokerage to resume coverage with a neutral stance.\nRelated articles\nRaymond James resumes Apple coverage, flags limited upside at current valuation\n10 Beaten-Down Large-Cap Tech Stocks Offering Solid Upside Potential\n3 Dependable Non-Tech Stocks Poised for Steady Gains in Uncertain Times\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "10:38:00",
@@ -976,5 +985,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 108
+  "total_news_count": 109
 }
