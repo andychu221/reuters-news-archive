@@ -1,8 +1,35 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-02T15:11:40.566Z",
+  "last_updated": "2026-01-02T16:12:05.204Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-02",
+      "Time": "23:56:34",
+      "Source": "Investor's Business Daily",
+      "Title": "ASML Stock Jumps On Double Upgrade For Chip Gear Leader",
+      "URL": "https://finance.yahoo.com/m/bf95c612-8336-32ba-b094-a34b49ca0bcb/asml-stock-jumps-on-double.html",
+      "Content": "ASML Stock Jumps On Double Upgrade For Chip Gear Leader\n\nPATRICK SEITZ\nFri, January 2, 2026 at 7:56 AM PST 1 min read\n\nIn this article: ASML\n\nASMLF\n\nTSM\n\nASML stock spiked to a record high on Friday after receiving a double upgrade to buy from sell from an investment firm.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-02",
+      "Time": "23:19:17",
+      "Source": "MT Newswires",
+      "Title": "Update: Market Chatter: Taiwan Semiconductor Gets Annual License to Move US Manufacturing Equipment to China",
+      "URL": "https://finance.yahoo.com/news/market-chatter-taiwan-semiconductor-gets-151917185.html",
+      "Content": "PREMIUM\nUpdate: Market Chatter: Taiwan Semiconductor Gets Annual License to Move US Manufacturing Equipment to China\n\nMT Newswires\nFri, January 2, 2026 at 7:19 AM PST 1 min read\n\nIn this article: TSM\n\nSSNLF\n\n000660.KS\n\n(Updated with Taiwan Semiconductor's response in the last paragraph) Taiwan Semiconductor Manufac\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-02",
+      "Time": "23:02:02",
+      "Source": "GuruFocus.com",
+      "Title": "ASML Jumps on Analyst Double Upgrade Citing AI Cycle",
+      "URL": "https://finance.yahoo.com/news/asml-jumps-analyst-double-upgrade-150202736.html",
+      "Content": "ASML Jumps on Analyst Double Upgrade Citing AI Cycle\n\nNauman Khan\nFri, January 2, 2026 at 7:02 AM PST 1 min read\n\nIn this article: ASML\n\nASMLF\n\nTSM\n\nThis article first appeared on GuruFocus .\nASML Holding ( NASDAQ:ASML ) shares surged about 4% in early Friday trading after Aletheia Capital upgraded the chip-equipment maker's European-listed stock to Buy from Sell, pointing to improving demand trends.\nThe brokerage cited expanding semiconductor factories, capacity ramps and rising orders for extreme ultraviolet lithography tools, a technology used to produce advanced chips for artificial intelligence and high-performance computing.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\nIs ASML fairly valued? Test your thesis with our free DCF calculator.\nAletheia also raised its price target sharply, reflecting expectations for stronger earnings momentum over the next two years as customers accelerate investment plans.\nAnalysts said demand from leading chipmakers remains a key driver. Taiwan Semiconductor Manufacturing Company (TSM), one of ASML's largest customers, is expected to install a higher number of EUV systems as it expands advanced manufacturing capacity.\nThe brokerage lifted its forecasts for fiscal years 2026 and 2027, expecting faster growth in ASML's EUV revenue, supported by higher shipment volumes and a richer mix of tools.\nBroader analyst sentiment toward ASML has also improved, with several firms raising earnings estimates in recent weeks as visibility into AI-related chip spending improves.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-02",
       "Time": "22:45:00",
@@ -895,5 +922,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 99
+  "total_news_count": 102
 }
