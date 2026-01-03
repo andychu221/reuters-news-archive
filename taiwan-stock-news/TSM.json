@@ -1,8 +1,17 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-03T13:11:12.634Z",
+  "last_updated": "2026-01-03T14:11:15.528Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "21:16:10",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Trump Says U.S. Seizes Venezuela's Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html",
+      "Content": "Dow Jones Futures: Trump Says U.S. Seizes Venezuela's Maduro; Nvidia, AMD, Taiwan Semi Due\n\nED CARSON\nSat, January 3, 2026 at 5:16 AM PST 8 min read\n\nIn this article: NVDA\n\nAMD\n\nTSM\n\n^DJI\n\n^IXIC\n\nPresident Donald Trump said the U.S. has captured Venezuela leader Nicolas Maduro. Nvidia and AMD are CES headliners this coming week.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "20:04:01",
@@ -1111,5 +1120,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 123
+  "total_news_count": 124
 }
