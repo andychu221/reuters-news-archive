@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2026-01-03T14:10:52.191Z",
+  "last_updated": "2026-01-03T17:10:54.821Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-04",
+      "Time": "01:00:22",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html",
+      "Content": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due\n\nED CARSON\nSat, January 3, 2026 at 9:00 AM PST 8 min read\n\nIn this article: NVDA\n\nAPP\n\nGEV\n\nTSLA\n\nTSM\n\nPresident Donald Trump said the U.S. has captured Venezuela leader Nicolas Maduro. Nvidia and AMD are CES headliners this coming week.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "21:16:10",
@@ -625,5 +634,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 69
+  "total_news_count": 70
 }
