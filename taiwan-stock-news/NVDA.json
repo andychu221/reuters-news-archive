@@ -1,8 +1,17 @@
 {
   "stock_id": "NVDA",
-  "last_updated": "2026-01-03T01:10:40.916Z",
+  "last_updated": "2026-01-03T03:10:37.596Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "08:43:00",
+      "Source": "Barrons.com",
+      "Title": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.",
+      "URL": "https://finance.yahoo.com/m/d91cb5eb-9f71-3f55-982c-4076350e2e47/boeing-stock-is-a-long-term.html",
+      "Content": "Boeing Stock Is a Long-Term Winner, Says Analyst. Plus, Nvidia, Aflac, and More.\n\nBarrons.com\nFri, January 2, 2026 at 4:43 PM PST 4 min read\n\nIn this article: BA\n\nPFSI\n\nADEA\n\nGENI\n\nNVDA\n\nRESEARCH REPORTS These reports, excerpted and edited by Barron’s, were issued recently by investment and research firms. The reports are a sampling of analysts’ thinking; they should not be considered the views or recommendations of Barron’s.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "08:00:46",
@@ -3505,5 +3514,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 389
+  "total_news_count": 390
 }
