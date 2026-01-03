@@ -1,8 +1,17 @@
 {
   "stock_id": "MSFT",
-  "last_updated": "2026-01-03T00:12:06.337Z",
+  "last_updated": "2026-01-03T01:12:08.385Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "06:45:08",
+      "Source": "Zacks",
+      "Title": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "URL": "https://finance.yahoo.com/news/microsoft-msft-stock-falls-amid-224508690.html",
+      "Content": "Microsoft (MSFT) Stock Falls Amid Market Uptick: What Investors Need to Know\n\nZacks Equity Research\nFri, January 2, 2026 at 2:45 PM PST 3 min read\n\nIn this article: MSFT\n\n^GSPC\n\n^DJI\n\n^IXIC\n\nMicrosoft (MSFT) closed at $472.93 in the latest trading session, marking a -2.21% move from the prior day. The stock's change was less than the S&P 500's daily gain of 0.19%. Meanwhile, the Dow gained 0.66%, and the Nasdaq, a tech-heavy index, lost 0.03%.\nShares of the software maker have appreciated by 0.58% over the course of the past month, outperforming the Computer and Technology sector's gain of 0.02%, and the S&P 500's gain of 0.54%.\n\nInvestors will be eagerly watching for the performance of Microsoft in its upcoming earnings disclosure. In that report, analysts expect Microsoft to post earnings of $3.86 per share. This would mark year-over-year growth of 19.5%. In the meantime, our current consensus estimate forecasts the revenue to be $80.16 billion, indicating a 15.12% growth compared to the corresponding quarter of the prior year.\nFor the annual period, the Zacks Consensus Estimates anticipate earnings of $15.61 per share and a revenue of $325.2 billion, signifying shifts of +14.44% and +15.43%, respectively, from the last year.\nIt's also important for investors to be aware of any recent modifications to analyst estimates for Microsoft. Recent revisions tend to reflect the latest near-term business trends. With this in mind, we can consider positive estimate revisions a sign of optimism about the business outlook.\n\nOur research suggests that these changes in estimates have a direct relationship with upcoming stock price performance. We developed the Zacks Rank to capitalize on this phenomenon. Our system takes these estimate changes into account and delivers a clear, actionable rating model.\nThe Zacks Rank system, which varies between #1 (Strong Buy) and #5 (Strong Sell), carries an impressive track record of exceeding expectations, confirmed by external audits, with stocks at #1 delivering an average annual return of +25% since 1988. Over the past month, the Zacks Consensus EPS estimate has shifted 0.09% upward. Microsoft presently features a Zacks Rank of #3 (Hold).\nInvestors should also note Microsoft's current valuation metrics, including its Forward P/E ratio of 30.97. This signifies a premium in comparison to the average Forward P/E of 22.43 for its industry.\n\nAlso, we should mention that MSFT has a PEG ratio of 1.84. Comparable to the widely accepted P/E ratio, the PEG ratio also accounts for the company's projected earnings growth. As of the close of trade yesterday, the Computer - Software industry held an average PEG ratio of 1.93.\nThe Computer - Software industry is part of the Computer and Technology sector. Currently, this industry holds a Zacks Industry Rank of 63, positioning it in the top 26% of all 250+ industries.\n\nStory Continues\nThe Zacks Industry Rank is ordered from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\nTo follow MSFT in the coming trading sessions, be sure to utilize Zacks.com.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report\nMicrosoft Corporation (MSFT) : Free Stock Analysis Report\nThis article originally published on Zacks Investment Research (zacks.com).\nZacks Investment Research\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "06:31:09",
@@ -1282,5 +1291,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 142
+  "total_news_count": 143
 }
