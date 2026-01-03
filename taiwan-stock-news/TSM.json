@@ -1,8 +1,35 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-02T23:11:04.430Z",
+  "last_updated": "2026-01-03T07:11:30.517Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-03",
+      "Time": "10:36:17",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: ASML Holding N.V.",
+      "URL": "https://finance.yahoo.com/m/de31d39c-07a8-3f0e-a35e-f7ae206b456e/analyst-report%3A-asml-holding.html",
+      "Content": "Analyst Report: ASML Holding N.V.\n\nJavier Correonero\nFri, January 2, 2026 at 6:36 PM PST\n\nIn this article: ASML\n\nASMLF\n\nTSM\n\nSSNLF\n\nINTC\n\nASML is the market leader in lithography systems for manufacturing semiconductors. Lithography is the process in which a light source is used to expose circuit patterns from a photo mask onto a semiconductor wafer. Lithography allows chipmakers to increase the number of transistors on the same area of silicon, with lithography historically representing a high portion of the cost of making cutting-edge chips. ASML outsources the manufacturing of most of its parts, acting like an assembler. ASML’s largest clients are TSMC, Samsung, and Intel.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "09:50:58",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: Lam Research Corporation",
+      "URL": "https://finance.yahoo.com/m/3e7ddcb7-e7f6-3863-a0bf-440481c8ebff/analyst-report%3A-lam-research.html",
+      "Content": "Analyst Report: Lam Research Corporation\n\nWilliam Kerwin\nFri, January 2, 2026 at 5:50 PM PST\n\nIn this article: LRCX\n\nTSM\n\nSSNLF\n\nINTC\n\nMU\n\nLam Research is one of the largest semiconductor wafer fabrication equipment manufacturers in the world. It specializes in deposition and etch, which entail the buildup of layers on a semiconductor and the subsequent selective removal of patterns from each layer. Lam holds the top market share in etch and holds the clear second share in deposition. It is more exposed to memory chipmakers for DRAM and NAND chips. It counts as top customers the largest chipmakers in the world, including TSMC, Samsung, Intel, and Micron.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "09:17:14",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: Applied Materials, Inc.",
+      "URL": "https://finance.yahoo.com/m/64ce5395-683a-3394-aee4-856edc6ef363/analyst-report%3A-applied.html",
+      "Content": "Analyst Report: Applied Materials, Inc.\n\nWilliam Kerwin\nFri, January 2, 2026 at 5:17 PM PST\n\nIn this article: AMAT\n\nTSM\n\nINTC\n\nSSNLF\n\nApplied Materials is the largest semiconductor wafer fabrication equipment manufacturer in the world. It has a broad portfolio spanning nearly every corner of the WFE ecosystem. Applied Materials holds leading market share in deposition, which entails the layering of new materials on semiconductor wafers. It is more exposed to general-purpose logic chips made at integrated device manufacturers and foundries. It counts the largest chipmakers in the world as customers, including TSMC, Intel, and Samsung.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "05:36:30",
@@ -1075,5 +1102,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 119
+  "total_news_count": 122
 }
