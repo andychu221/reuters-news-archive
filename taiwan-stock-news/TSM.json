@@ -1,8 +1,26 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-03T15:11:09.872Z",
+  "last_updated": "2026-01-03T17:11:18.278Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-04",
+      "Time": "01:00:22",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-trump-says.html",
+      "Content": "Dow Jones Futures: Trump Says U.S. To 'Run' Venezuela After Capturing Maduro; Nvidia, AMD, Taiwan Semi Due\n\nED CARSON\nSat, January 3, 2026 at 9:00 AM PST 8 min read\n\nIn this article: NVDA\n\nAPP\n\nGEV\n\nTSLA\n\nTSM\n\nPresident Donald Trump said the U.S. has captured Venezuela leader Nicolas Maduro. Nvidia and AMD are CES headliners this coming week.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-03",
+      "Time": "23:10:24",
+      "Source": "24/7 Wall St.",
+      "Title": "Here’s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI’s Explosive Growth",
+      "URL": "https://finance.yahoo.com/m/e1169e67-2524-3ccc-b665-107561426dfe/here%E2%80%99s-why-taiwan.html",
+      "Content": "Here’s Why Taiwan Semiconductor Manufacturing Holds the Keys to AI’s Explosive Growth\n\nRich Duprey\nSat, January 3, 2026 at 7:10 AM PST 5 min read\n\nIn this article: TSM\n\nTSMWF\n\nGOOG\n\nNVDA\n\nQuick Read Taiwan Semiconductor Manufacturing ( TSM ) controls advanced packaging capacity that determines which AI chipmakers can scale production.\nGoogle reportedly cut its 2026 TPU production target from 4 million to 3 million units due to limited access to Taiwan Semiconductor’s CoWoS packaging.\nNvidia secured over half of Taiwan Semiconductor’s CoWoS capacity through 2027.\nA recent study identified one single habit that doubled Americans’ retirement savings and moved retirement from dream, to reality.",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-03",
       "Time": "21:16:10",
@@ -1102,5 +1120,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 122
+  "total_news_count": 124
 }
