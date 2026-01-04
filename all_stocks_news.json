@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-04T13:25:04.057Z",
-  "total_news_count": 49,
+  "last_updated": "2026-01-04T13:36:06.649Z",
+  "total_news_count": 69,
   "news": [
     {
       "Ticker": "NVDA",
@@ -53,6 +53,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "16:37:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台北股市》陳昆仁：AI鏈、記憶體 投資價值浮現",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E9%99%B3%E6%98%86%E4%BB%81-ai%E9%8F%88-%E8%A8%98%E6%86%B6%E9%AB%94-%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC%E6%B5%AE%E7%8F%BE-083725900.html",
+      "Content": "【時報-台北電】2025年底台股屢創新高，摩爾投顧分析師陳昆仁認為，指數逼近3萬點，投資人容易陷恐高症不敢買，或受不了誘惑追漲停的兩極情緒，建議回歸基本面及追蹤法人資金。本周選入世芯-KY（3661）、創意（3443），再選入聯發科（2454）、京元電子（2449）、南亞科（2408）。\n\n台股常有「拉積盤、出中小」的雜音，台積電法說和H200追單帶來預期利多，股價再創新高來到1,585元，雖台積電貢獻了大部分漲點，若細看盤面結構，這並非只漲權值、倒貨中小型的危險訊號，而是強恆強、落後補漲的健康輪動。\n\n資金流向清晰地集中在三大主軸：AI半導體核心：以台積電為首，受惠於2奈米製程量產與輝達H200晶片在中國大陸市場供不應求的追單效應，庫存僅70萬顆，需求達200萬顆，帶動供應鏈如IP矽智財的世芯-KY築底轉強、創意站穩季線。記憶體族群，這是上周最強勢的族群。受惠於國際大廠產能轉向HBM，導致傳統DDR4產能緊縮，台廠掌握定價權。\n\n從製造端的華邦電亮燈漲停、南亞科維持強勢，到模組廠威剛、十銓的輪動，顯示資金正在產業鏈中尋找低估值標的。老AI與權值股補漲。與此同時，聯發科、鴻海、廣達等「老AI」股價在月季線附近獲得支撐，顯示法人正在進行高低基期的資金配置。\n\n展望本周市場焦點，主要鎖定在兩大事件：CES 2026消費電子展：AIPC、AI手機與新一代機器人技術將成為題材催化劑。1月15日台積電法說會前哨戰，先看營收公告，市場普遍預期法說將釋出資本支出調升與先進封裝（CoWoS/FOPLP）擴產的利多，這也是支撐股價高檔不墜的主因。\n\n台股目前處於投資價值浮現的黃金期，指數雖高，但許多AI供應鏈與記憶體個股本益比仍偏低，策略上應順勢而為、逢低找買點、切勿追高，對於已經噴出的個股，不建議隔日追價。(新聞來源 : 工商時報一彭?琳／台北報導)",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "14:52:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《科技》高通、聯發科 掀車用AI算力戰",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A7%91%E6%8A%80-%E9%AB%98%E9%80%9A-%E8%81%AF%E7%99%BC%E7%A7%91-%E6%8E%80%E8%BB%8A%E7%94%A8ai%E7%AE%97%E5%8A%9B%E6%88%B0-065204120.html",
+      "Content": "【時報-台北電】全球半導體戰場正從智慧型手機、資料中心，全面延燒至智慧出行領域，隨著「Agent AI」（AI代理）技術逐步普及，汽車產業經歷從「軟體定義汽車」（SDV）邁向「AI定義汽車」的轉移。即將登場的CES 2026，行動晶片兩大龍頭高通（Qualcomm）與聯發科的較量成為熱議話題，車用領域不再僅限於通訊連網與影音娛樂，演變為「大模型上車」的AI算力軍備競賽。\n\n高通於智慧座艙晶片穩居龍頭，Snapdragon Digital Chassis平台廣泛應用於全球數億輛車，包含Toyota豐田汽車第6代RAV4休旅車；未來更將與Google Cloud深度合作，將Gemini大模型與混合式AI架構導入。\n\n未來的AI代理具備「多模態」能力，使汽車真正從「載具」進化為具備主動思考能力的「智慧夥伴」。業界透露，高通已具備將智慧座艙與ADAS運算平台深度融合，形成艙駕一體的單晶片解決方案，推測將成CES 2026最大看點。\n\n面對高通先行優勢，聯發科選擇「強強聯手」，與AI霸主輝達（NVIDIA）共同打造Dimensity Auto車載平台；領先業界採用台積電最先進的3奈米製程（N3AE），整合輝達Blackwell架構GPU，將原本用於資料中心的運算力直接搬進座艙。\n\n據悉，聯發科的高階座艙解決方案C-X1，將於2026年底量產，將為未來增添動能；其最新車聯網方案也整合AI技術，凸顯隨著AI代理興起，車廠對晶片的需求，轉向能處理參數達7B（70億）甚至10B等級的多模態大模型。\n\n隨兩大晶片巨頭於車用戰場鏖戰，後方的台系供應鏈亦成為焦點。台積作為全球車用先進製程的舵手，已針對車用平台規劃N3A、N5A等長效技術藍圖。此外，隨車內螢幕增加、AI算力飆升，對電源管理IC（PMIC）、螢幕驅動IC需求也倍增，台廠如力領科技、奕力-KY等均積極切入。\n\n汽車不再僅是機械裝置，而是「移動的電腦」。高通與聯發科競爭的本質，是誰能提供最優異的「AI代理體驗」，誰的大模型跑得更順、語音助理更像「真人」，就能在這一場產值上看兆美元的智慧出行博弈中贏得青睞。(新聞來源 : 工商時報一張珈睿／台北報導)",
+      "Language": "zh"
+    },
+    {
       "Ticker": "QCOM",
       "Date": "2026-01-04",
       "Time": "11:30:19",
@@ -61,6 +81,16 @@
       "URL": "https://finance.yahoo.com/news/perplexity-ceo-says-device-ai-033019227.html",
       "Content": "Perplexity CEO Says On-Device AI Threatens Data Centers As Industry Faces '$10 Trillion Question' — Apple, Qualcomm Positioned To Benefit\n\nMohd Haider\nSat, January 3, 2026 at 7:30 PM PST 3 min read\n\nIn this article: AAPL\n\nQCOM\n\nNVDA\n\nPEAI.PVT\n\nHPQ\n\nAravind Srinivas , CEO of Perplexity AI , which is backed by Jeff Bezos and Nvidia Corp. (NASDAQ: NVDA ), issued a contrarian warning about the future of artificial intelligence, saying on-device intelligence running on personal devices could disrupt the centralized data center model driving massive infrastructure investments.\n\nLocalized AI Could Upend Data Center Industry “The biggest threat to a data center is if the intelligence can be packed locally on a chip that’s running on the device and then there’s no need to inference all of it on like one centralized data center,” Srinivas said in a podcast interview with Prakhar Gupta released last week.\nSrinivas, who has previously worked at OpenAI , Google Brain , and DeepMind , said that AI running directly on personal devices could reduce the need for centralized data centers .\n\nDon't Miss:\nThe AI Marketing Platform Backed by Insiders from Google, Meta, and Amazon — Invest at $0.85/Share\nMissed Tesla? EnergyX Is Tackling the Next $200 Billion Opportunity — Lithium\n“That really disrupts the whole data center industry like it doesn’t make sense to spend all this money $500 billion, $5 trillion whatever on building all the centralized data centers across the world,” he said, calling it a “$10 trillion question, hundred trillion dollar question.”\nHe also highlighted scenarios where AI running locally could learn from repeated tasks on individual devices, adapting over time and automating user activities.\n“It adapts to you and over time starts automating a lot of the things you do. That way you don’t have to repeat it. That’s your intelligence. You own it. It’s your brain,” Srinivas said.\n\nTrending: 7 Million Gamers Already Trust Gameflip With Their Digital Assets — Now You Can Own a Stake in the Platform\nChip Companies and OEMs Positioned to Benefit Apple Inc. (NASDAQ: AAPL ) has “a massive advantage” due to its M1 chips and power-efficient devices, according to Srinivas. Qualcomm Inc. (NASDAQ: QCOM ) and original equipment manufacturers, including Apple, Samsung (OTC: SSNLF ), Lenovo (OTC: LNVGF ), and HP Inc. (NYSE: HPQ ) could also benefit from distributing AI-enabled devices.\n\nHowever, technical barriers remain. Srinivas noted that no AI model has yet been released that can run efficiently on a local chip while completing tasks reliably.\nThe Indian-born entrepreneur expects early adoption on MacBooks or iPads before reaching smartphones.\nImplications For Robotics And Labor He also discussed the potential for AI in the physical world, especially in robotics. Srinivas said AI could transform the labor market by automating many tasks now done by humans, echoing concerns raised by Geoffrey Hinton who is often called the ‘Godfather of AI’.\n\nStory Continues\nSee Also: If there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it ?\nIndustry Risks The U.S. economy is becoming increasingly reliant on AI, raising concerns about a potential AI bubble. If such a bubble bursts, centralized data centers could become a “ single point of failure ,” with widespread economic repercussions.\nSrinivas’s caution highlights a crucial question for the AI and tech industries: will centralized data centers continue to be the foundation of the digital economy as AI becomes more dispersed, or will intelligence on personal devices radically transform the sector?\n\nRead Next: Missed the AI Boom's Biggest IPOs? This Platform Lets Everyday Investors Access Private Tech Early\nPhoto courtesy: Shutterstock\nUp Next: Transform your trading with Benzinga Edge's one-of-a-kind market trade ideas and tools. Click now to access unique insights that can set you ahead in today's competitive market.\nGet the latest stock analysis from Benzinga:\nAPPLE (AAPL): Free Stock Analysis Report\nTESLA (TSLA): Free Stock Analysis Report\nThis article Perplexity CEO Says On-Device AI Threatens Data Centers As Industry Faces '$10 Trillion Question' — Apple, Qualcomm Positioned To Benefit originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "11:21:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《半導體》聯發科 ASIC業務挹注",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E8%81%AF%E7%99%BC%E7%A7%91-asic%E6%A5%AD%E5%8B%99%E6%8C%B9%E6%B3%A8-032116777.html",
+      "Content": "【時報-台北電】聯發科（2454）2026年將迎轉型，ASIC業務貢獻，預計今年下半年逐步發酵，儘管手機晶片出貨量將受價格壓力影響，法人認為，聯發科在先進製程與高階產品比重提升下，有機會對客戶調整報價、有助其毛利結構性改善。整體成長曲線向上。\n\n聯發科股價表現強勢，2日終場收1,470元、漲幅達2.79％，最高觸及1,495元、挑戰整數關卡。從日線角度看，股價脫離高檔盤整，短期均線往右上角進攻，季線微幅上揚。投信法人站在買方，看好其成長前景，法人預估，聯發科與輝達合作之智慧座艙晶片也將在三年內達10億美元之營收貢獻，未來也有望取得更多CSP大廠ASIC訂單。(新聞來源 : 工商時報一張珈睿)",
+      "Language": "zh"
     },
     {
       "Ticker": "AVGO",
@@ -91,6 +121,36 @@
       "URL": "https://finance.yahoo.com/m/9b1324ca-b049-31d4-89f6-1620540ba732/nvidia-just-made-a-major-move.html",
       "Content": "Nvidia Just Made a Major Move for 2026. Time to Buy?\n\nAdria Cimino, The Motley Fool\nSat, January 3, 2026 at 1:30 PM PST 5 min read\n\nIn this article: NVDA\n\nKey Points Nvidia has delivered record earnings in recent years as demand for its AI chips skyrocketed.\nBut recent exclusion from one major market has kept the tech giant from reaching its full potential.\n10 stocks we like better than Nvidia ›\nNvidia (NASDAQ: NVDA) delivered top-notch performance over the past two years, with the stock climbing more than 200% over that time period. This is thanks to the company's position in the artificial intelligence (AI) market, one that's on the road to reach into the trillions of dollars in just a few years. Nvidia's dominance in AI chips and related products and services has helped the company's earnings soar to records.\n\nBut one problem weighed on Nvidia throughout most of 2025, and that was sales of chips to China. The U.S. had tightened export controls on chips to that country, and as a result, Nvidia reported a billion-dollar charge earlier in the year for chips that it couldn't sell. Nvidia chief Jensen Huang says China's AI chip market could represent hundreds of billions of dollars by the end of the decade, so this clearly is a market that chip companies want to access.\nA few weeks ago, President Donald Trump gave Nvidia the OK for sales of its H200 chip to China -- and just recently, Nvidia made a related move that could be big for 2026. Let's check it out and determine if now is a good moment to get in on the stock.\nExport controls on AI chips So, first, a bit more background on the Nvidia-China situation. The U.S. initially placed controls on exports to that country and certain others for security reasons back in 2022. In response to that, Nvidia designed the H20 chip to specifically meet guidelines and was able to sell that product in China. In the fiscal 2025 full year, sales to China represented 13% of Nvidia's overall revenue .\n\nBut last year, as mentioned, the U.S. halted sales of even the H20, leaving Nvidia and other U.S. chip designers excluded from the Chinese market.\nMeanwhile, Nvidia continued to deliver solid growth, suggesting that even without sales to China, the company could score an AI win for investors. In the latest quarter, for example, Nvidia's revenue soared 62% to $57 billion amid solid demand for its Blackwell platform. And Nvidia continued to generate strong profitability on sales, maintaining gross margin above 70%. Still, the picture likely would have been even brighter if Nvidia had been able to serve customers in China.\nTrump's big announcement Several weeks ago, Trump announced that Nvidia may return to the China market -- this time with the H200, which is more powerful than the H20 but less powerful than Nvidia's Blackwell chips. As part of the deal, Nvidia must offer 25% of its China chip sales to the U.S.\n\nStory Continues\nNow, let's consider the move that Nvidia reportedly made recently. Nvidia said it aims to begin shipping H200 chips to China, using existing stock, by the middle of next month, Reuters reported, citing sources familiar with the situation. Nvidia also has asked Taiwan Semiconductor Manufacturing , the producer of its chips, to increase production amid orders for two million H200s for 2026, according to the wire service.\n\nThis is fantastic news, but some elements of risk remain. China hasn't yet officially approved the entrance of H200s into the country -- any delay or setback there could be problematic, especially if Nvidia starts ramping up production. Nvidia also faces the complex task of continuing strong production to meet demand for its newer Blackwell platform in the U.S. and other parts of the world, and at the same time producing enough H200s for Chinese customers.\nReason to be optimistic Still, when Trump announced the loosening of export controls, he also said that China's response was positive -- so there's reason to be optimistic about Nvidia's return to that market. As for production, Nvidia has a track record of successful product launches while managing the manufacturing of earlier systems, too. And it's unlikely Nvidia would make a significant move to ramp up H200 production without confidence that its orders could be shipped.\n\nSo, does this potential business in China make Nvidia a buy today? I wouldn't buy Nvidia uniquely for this reason, but renewed sales in China clearly would be a great step forward in 2026. The reason I would buy the stock is the company's overall potential in the global AI market. Nvidia is the AI chip leader, and this is likely to continue due to its focus on innovation and its financial strength. Finally, demand from AI customers remains strong.\nThese three elements make Nvidia a fantastic buy -- and a potential return to the China market in 2026 is icing on the cake.\nShould you buy stock in Nvidia right now? Before you buy stock in Nvidia, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $490,703 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,157,689 !*\n\nNow, it’s worth noting Stock Advisor’s total average return is 966 % — a market-crushing outperformance compared to 194% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\nSee the 10 stocks »\n*Stock Advisor returns as of January 3, 2026.\nAdria Cimino has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Nvidia and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy .\nNvidia Just Made a Major Move for 2026. Time to Buy? was originally published by The Motley Fool\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科 ASIC業務挹注",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-asic%E6%A5%AD%E5%8B%99%E6%8C%B9%E6%B3%A8-201000862.html",
+      "Content": "聯發科（2454）2026年將迎轉型，ASIC業務貢獻，預計今年下半年逐步發酵，儘管手機晶片出貨量將受價格壓力影響，法人認為，聯發科在先進製程與高階產品比重提升下，有機會對客戶調整報價、有助其毛利結構性改善。整體成長曲線向上。\n\n聯發科股價表現強勢，2日終場收1,470元、漲幅達2.79％，最高觸及1,495元、挑戰整數關卡。從日線角度看，股價脫離高檔盤整，短期均線往右上角進攻，季線微幅上揚。投信法人站在買方，看好其成長前景，法人預估，聯發科與輝達合作之智慧座艙晶片也將在三年內達10億美元之營收貢獻，未來也有望取得更多CSP大廠ASIC訂單。\n\n更多工商時報報導純網路保險公司正式開放 金管會明年8月開始受理申請執照基金定期定額 出現品牌效應台光電建新廠 擬發可轉債籌資35億",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "陳昆仁AI鏈、記憶體 投資價值浮現",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B3%E6%98%86%E4%BB%81ai%E9%8F%88-%E8%A8%98%E6%86%B6%E9%AB%94-%E6%8A%95%E8%B3%87%E5%83%B9%E5%80%BC%E6%B5%AE%E7%8F%BE-201000903.html",
+      "Content": "2025年底台股屢創新高，摩爾投顧分析師陳昆仁認為，指數逼近3萬點，投資人容易陷恐高症不敢買，或受不了誘惑追漲停的兩極情緒，建議回歸基本面及追蹤法人資金。本周選入世芯-KY（3661）、創意（3443），再選入聯發科（2454）、京元電子（2449）、南亞科（2408）。\n\n台股常有「拉積盤、出中小」的雜音，台積電法說和H200追單帶來預期利多，股價再創新高來到1,585元，雖台積電貢獻了大部分漲點，若細看盤面結構，這並非只漲權值、倒貨中小型的危險訊號，而是強恆強、落後補漲的健康輪動。\n\n資金流向清晰地集中在三大主軸：AI半導體核心：以台積電為首，受惠於2奈米製程量產與輝達H200晶片在中國大陸市場供不應求的追單效應，庫存僅70萬顆，需求達200萬顆，帶動供應鏈如IP矽智財的世芯-KY築底轉強、創意站穩季線。記憶體族群，這是上周最強勢的族群。受惠於國際大廠產能轉向HBM，導致傳統DDR4產能緊縮，台廠掌握定價權。\n\n從製造端的華邦電亮燈漲停、南亞科維持強勢，到模組廠威剛、十銓的輪動，顯示資金正在產業鏈中尋找低估值標的。老AI與權值股補漲。與此同時，聯發科、鴻海、廣達等「老AI」股價在月季線附近獲得支撐，顯示法人正在進行高低基期的資金配置。\n\n展望本周市場焦點，主要鎖定在兩大事件：CES 2026消費電子展：AIPC、AI手機與新一代機器人技術將成為題材催化劑。1月15日台積電法說會前哨戰，先看營收公告，市場普遍預期法說將釋出資本支出調升與先進封裝（CoWoS/FOPLP）擴產的利多，這也是支撐股價高檔不墜的主因。\n\n台股目前處於投資價值浮現的黃金期，指數雖高，但許多AI供應鏈與記憶體個股本益比仍偏低，策略上應順勢而為、逢低找買點、切勿追高，對於已經噴出的個股，不建議隔日追價。\n\n更多工商時報報導美經濟重啟 Nike財報超預期通路共享 全聯全家電支結盟英業達 攻5G專網智慧工廠",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-04",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "高通、聯發科 掀車用AI算力戰",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%80%9A-%E8%81%AF%E7%99%BC%E7%A7%91-%E6%8E%80%E8%BB%8A%E7%94%A8ai%E7%AE%97%E5%8A%9B%E6%88%B0-201000792.html",
+      "Content": "全球半導體戰場正從智慧型手機、資料中心，全面延燒至智慧出行領域，隨著「Agent AI」（AI代理）技術逐步普及，汽車產業經歷從「軟體定義汽車」（SDV）邁向「AI定義汽車」的轉移。即將登場的CES 2026，行動晶片兩大龍頭高通（Qualcomm）與聯發科的較量成為熱議話題，車用領域不再僅限於通訊連網與影音娛樂，演變為「大模型上車」的AI算力軍備競賽。\n\n高通於智慧座艙晶片穩居龍頭，Snapdragon Digital Chassis平台廣泛應用於全球數億輛車，包含Toyota豐田汽車第6代RAV4休旅車；未來更將與Google Cloud深度合作，將Gemini大模型與混合式AI架構導入。\n\n未來的AI代理具備「多模態」能力，使汽車真正從「載具」進化為具備主動思考能力的「智慧夥伴」。業界透露，高通已具備將智慧座艙與ADAS運算平台深度融合，形成艙駕一體的單晶片解決方案，推測將成CES 2026最大看點。\n\n面對高通先行優勢，聯發科選擇「強強聯手」，與AI霸主輝達（NVIDIA）共同打造Dimensity Auto車載平台；領先業界採用台積電最先進的3奈米製程（N3AE），整合輝達Blackwell架構GPU，將原本用於資料中心的運算力直接搬進座艙。\n\n據悉，聯發科的高階座艙解決方案C-X1，將於2026年底量產，將為未來增添動能；其最新車聯網方案也整合AI技術，凸顯隨著AI代理興起，車廠對晶片的需求，轉向能處理參數達7B（70億）甚至10B等級的多模態大模型。\n\n隨兩大晶片巨頭於車用戰場鏖戰，後方的台系供應鏈亦成為焦點。台積作為全球車用先進製程的舵手，已針對車用平台規劃N3A、N5A等長效技術藍圖。此外，隨車內螢幕增加、AI算力飆升，對電源管理IC（PMIC）、螢幕驅動IC需求也倍增，台廠如力領科技、奕力-KY等均積極切入。\n\n汽車不再僅是機械裝置，而是「移動的電腦」。高通與聯發科競爭的本質，是誰能提供最優異的「AI代理體驗」，誰的大模型跑得更順、語音助理更像「真人」，就能在這一場產值上看兆美元的智慧出行博弈中贏得青睞。\n\n更多工商時報報導強茂攻電動車 新品明年放量台灣本田首款國產油電車 逆勢降價看好經濟復甦不受疫情影響 澳洲央行最快明年2月 QE退場",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -130,6 +190,16 @@
       "Title": "聯電ADR2日下跌0.02美元跌幅0.25%折台股49.26元",
       "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr2%E6%97%A5%E4%B8%8B%E8%B7%8C0-02%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-25-%E6%8A%98%E5%8F%B0%E8%82%A149-26%E5%85%83-015204367.html",
       "Content": "<table class=\"atom-table w-full mb-module-gap\"><thead><tr><th><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">聯電 ADR 近十個交易日行情</p></th></tr></thead><tbody><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">交易日</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">收盤價</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">漲跌</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">漲跌幅%</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">匯率</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">折台股</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">1/ 2</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.84</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.02</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.25</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.419</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">49.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/31</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.86</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.10</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-1.26</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.438</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">49.4</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/30</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.96</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.01</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.13</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.428</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.0</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/29</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.97</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.05</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.62</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.450</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.1</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/26</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">8.02</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.02</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.25</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.455</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.4</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/24</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">8.00</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.03</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.38</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.480</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.3</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/23</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">7.97</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-0.16</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-1.97</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.508</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/22</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">8.13</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.03</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.37</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.523</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">51.2</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/19</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">8.10</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.03</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.37</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.526</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">51.0</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">12/18</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">8.07</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.07</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">0.88</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">31.516</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">50.8</p></td></tr></tbody></table>\n\n(中央社台北2026年 1月 3日電)聯電在NYSE掛牌 ADR以7.84美元作收，下跌0.02美元，跌幅 0.25%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 1月 2日新台幣匯市收盤價31.419元計算，相當台股聯電每股為 49.26元。\n\n最近10個交易日行情如下：",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-03",
+      "Time": "09:20:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台北股市》法人資金將大舉回籠 台股一波衝3萬點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%B3%95%E4%BA%BA%E8%B3%87%E9%87%91%E5%B0%87%E5%A4%A7%E8%88%89%E5%9B%9E%E7%B1%A0-%E5%8F%B0%E8%82%A1-%E6%B3%A2%E8%A1%9D3%E8%90%AC%E9%BB%9E-012054849.html",
+      "Content": "【時報-台北電】台股2日「金馬先奔騰」，2026新年首個交易日締造五大紀錄，包括盤中、收盤分別創下29,363點、29,349點同創新高；權王台積電領軍衝鋒收1,585元新高、市值飆上41.1兆元，合計上市櫃市值再締103.38兆元高峰，同步改寫台股新里程碑。\n\n受惠台積電、台達電、聯發科等重量級權值股同步走揚，帶動台股2日開高走高，加權指數終場大漲386點收29,349點，一舉飛躍29,000點關卡，成交量放大至6,697億元，為2025年11月24日7,491億元以來最多，呈現價量齊揚走勢，法人認為這是外資加碼力道轉強，多頭行情可望一波到底，加權指數有望直衝30,000點整數大關。\n\n萬寶投顧董事長朱成志指出，大盤量價齊揚，加上外資近年連續賣超台股，罕見在新年首日回補逾百億元，凸顯資金動能，對盤面走勢看來相當正向，加上美2026年經濟正向，預料在中美雙強競爭趨勢下，台系AI概念股仍將持續受惠，建議聚焦台積電、輝達及美CSP業者周邊供應鏈表現，預料ASIC將扮演金馬要角。\n\n籌碼表現上，外資2日翻多買超120.18億元，大買記憶體雙雄、緯創等，惟賣超台積電4,398張，台指期淨空單減少1,905口至23,154口；投信則延續調節態度再砍41.9億元，連六日賣超224.13億元；自營商轉買超112.36億元，八大公股行庫賣超58.57億元，連六賣共換銀彈205.13億元。\n\n整體來看，群益投顧研究部副總裁曾炎裕表示，CES展預計將以AI應用為焦點，而台積電法說有機會增加資本支出，看好元月法人資金可望大舉回籠，帶動加權指數挑戰30,000點機率增加，但需要換手消化賣壓。\n\n朱成志認為，大盤2025年漲幅超越美那斯達克指數，而先前表現較為弱勢的櫃買指數，則於2025年12月開始轉強，2日寫下一波連九紅佳績，看好中小型股也有表態接棒空間。櫃買指數2日終場上漲1.79點收278.03點，漲幅0.65％。\n\n技術面而言，凱基投顧分析，台股順利突破29,000整數關卡且量能放大有利多頭續漲。\n\n(新聞來源 : 工商時報一陳昱光／台北報導)",
       "Language": "zh"
     },
     {
@@ -191,6 +261,16 @@
       "URL": "https://finance.yahoo.com/m/27ad62cb-8474-3e41-b47b-5d23f46f707e/funds-plow-money-into.html",
       "Content": "Funds Plow Money Into AppLovin, Broadcom, Google — And This Top 100 Stock\n\nMATTHEW GALGANI\nFri, January 2, 2026 at 1:00 PM PST 2 min read\n\nIn this article: AEIS\n\nAPP\n\nAVGO\n\nGOOG\n\nOne of the best stocks of 2025 and in demand among the best mutual funds, Advanced Energy looks to power a new breakout.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-03",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "法人資金將大舉回籠 台股一波衝3萬點",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B3%95%E4%BA%BA%E8%B3%87%E9%87%91%E5%B0%87%E5%A4%A7%E8%88%89%E5%9B%9E%E7%B1%A0-%E5%8F%B0%E8%82%A1-%E6%B3%A2%E8%A1%9D3%E8%90%AC%E9%BB%9E-201000582.html",
+      "Content": "台股2日「金馬先奔騰」，2026新年首個交易日締造五大紀錄，包括盤中、收盤分別創下29,363點、29,349點同創新高；權王台積電領軍衝鋒收1,585元新高、市值飆上41.1兆元，合計上市櫃市值再締103.38兆元高峰，同步改寫台股新里程碑。\n\n受惠台積電、台達電、聯發科等重量級權值股同步走揚，帶動台股2日開高走高，加權指數終場大漲386點收29,349點，一舉飛躍29,000點關卡，成交量放大至6,697億元，為2025年11月24日7,491億元以來最多，呈現價量齊揚走勢，法人認為這是外資加碼力道轉強，多頭行情可望一波到底，加權指數有望直衝30,000點整數大關。\n\n萬寶投顧董事長朱成志指出，大盤量價齊揚，加上外資近年連續賣超台股，罕見在新年首日回補逾百億元，凸顯資金動能，對盤面走勢看來相當正向，加上美2026年經濟正向，預料在中美雙強競爭趨勢下，台系AI概念股仍將持續受惠，建議聚焦台積電、輝達及美CSP業者周邊供應鏈表現，預料ASIC將扮演金馬要角。\n\n籌碼表現上，外資2日翻多買超120.18億元，大買記憶體雙雄、緯創等，惟賣超台積電4,398張，台指期淨空單減少1,905口至23,154口；投信則延續調節態度再砍41.9億元，連六日賣超224.13億元；自營商轉買超112.36億元，八大公股行庫賣超58.57億元，連六賣共換銀彈205.13億元。\n\n整體來看，群益投顧研究部副總裁曾炎裕表示，CES展預計將以AI應用為焦點，而台積電法說有機會增加資本支出，看好元月法人資金可望大舉回籠，帶動加權指數挑戰30,000點機率增加，但需要換手消化賣壓。\n\n朱成志認為，大盤2025年漲幅超越美那斯達克指數，而先前表現較為弱勢的櫃買指數，則於2025年12月開始轉強，2日寫下一波連九紅佳績，看好中小型股也有表態接棒空間。櫃買指數2日終場上漲1.79點收278.03點，漲幅0.65％。\n\n技術面而言，凱基投顧分析，台股順利突破29,000整數關卡且量能放大有利多頭續漲。\n\n更多工商時報報導投信拚作帳 五檔最愛買投資台灣3大方案延長三年 政院今拍板大宇資業外補 11月每股賺13.47元",
+      "Language": "zh"
     },
     {
       "Ticker": "AMD",
@@ -333,6 +413,66 @@
       "Language": "en"
     },
     {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "19:08:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科1/5~6參加野村證券舉辦之CES法說會",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%911-5-6%E5%8F%83%E5%8A%A0%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8%E8%88%89%E8%BE%A6%E4%B9%8Bces%E6%B3%95%E8%AA%AA%E6%9C%83-110800046.html",
+      "Content": "公開資訊觀測站重大訊息公告(2454)聯發科-公告本公司參與機構投資人說明會符合條款第四條第XX款：12事實發生日：115/01/051.召開法人說明會之日期：115/01/05 ~ 115/01/062.召開法人說明會之時間：08 時 00 分 3.召開法人說明會之地點：拉斯維加斯4.法人說明會擇要訊息：公告本公司115年1月5日至1月6日受邀參加野村證券於拉斯維加斯舉辦之Nomura @CES 2026，簡報資料請參閱公開資&lrm;訊觀測站。&lrm;5.其他應敘明事項：無完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "18:14:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】聯發科參與機構投資人說明會",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%81%AF%E7%99%BC%E7%A7%91%E5%8F%83%E8%88%87%E6%A9%9F%E6%A7%8B%E6%8A%95%E8%B3%87%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-101448564.html",
+      "Content": "日 期：2026年01月02日\n\n公司名稱：聯發科 (2454)\n\n主 旨：聯發科參與機構投資人說明會\n\n發言人：顧大為\n\n說 明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/01/05\n\n1.召開法人說明會之日期：115/01/05 ~ 115/01/06\n\n2.召開法人說明會之時間：08 時 00 分\n\n3.召開法人說明會之地點：拉斯維加斯\n\n4.法人說明會擇要訊息：公告本公司115年1月5日至1月6日受邀參加野村證券於拉斯維加斯舉辦之Nomura @CES 2026，簡報資料請參閱公開資&#8206;訊觀測站。&#8206;\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "17:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科 公告本公司參與機構投資人說明會",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8%E5%8F%83%E8%88%87%E6%A9%9F%E6%A7%8B%E6%8A%95%E8%B3%87%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-093300256.html",
+      "Content": "公開資訊觀測站重大訊息公告(2454)聯發科-公告本公司參與機構投資人說明會符合條款第四條第XX款：12事實發生日：115/01/051.召開法人說明會之日期：115/01/05 ~ 115/01/062.召開法人說明會之時間：08 時 00 分 3.召開法人說明會之地點：拉斯維加斯4.法人說明會擇要訊息：公告本公司115年1月5日至1月6日受邀參加野村證券於拉斯維加斯舉辦之Nomura @CES 2026，簡報資料請參閱公開資&#8206;訊觀測站。&#8206;5.其他應敘明事項：無完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "14:42:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股量價齊揚再創新高，聯發科挑戰1,500元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8F%E5%83%B9%E9%BD%8A%E6%8F%9A%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98-%E8%81%AF%E7%99%BC%E7%A7%91%E6%8C%91%E6%88%B01-500%E5%85%83-064212409.html",
+      "Content": "【財訊快報／黃啟乙】台股開紅盤後持續向上走揚，加權指數大漲386.21點或1.33%，再創收盤新高，盤中一度攻上29,363.43點，成交量同步放大至6,488.44億元，創下近期高量水準。 在價量齊揚之下，大盤整體結構仍偏多，後續仍有進一步上升空間。其中，除台積電(2330)持續扮演撐盤要角之外，聯發科(2454)盤中亦一度挑戰1,500元以上關卡，若短線能站穩該價位，技術型態有機會進一步轉強。 此外，具備低軌衛星題材的昇達科(3491)續創新高，顯示今年相關族群仍有進一步表態的空間，市場資金關注度持續升溫。 再者，擁有反制無人機系統題材的創泓科技(7714)強攻漲停並改寫新高，顯示先鋒股已率先啟動，後續相關個股在下一階段的輪動與變化，值得持續留意。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "14:15:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉開年頂破天 台積電飆天價點火 大漲386點收29349點新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%96%8B%E5%B9%B4%E9%A0%82%E7%A0%B4%E5%A4%A9-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A3%86%E5%A4%A9%E5%83%B9%E9%BB%9E%E7%81%AB-%E5%A4%A7%E6%BC%B2386%E9%BB%9E%E6%94%B629349%E9%BB%9E%E6%96%B0%E9%AB%98-061547177.html",
+      "Content": "台股今 (2) 日迎來 2026 年首個交易日，在台積電大漲收在歷史新高 1585 元下，帶動下，加權指數大漲 386.21 點或 1.33%，來到 29349.81 點收盤新高，交易量大增至 6488 億元。\n\n台積電 (2330-TW) 今日上漲 35 元或 2.26%，收在歷史新高 1585 元，鴻海 (2317-TW) 收紅，台達電 (2308-TW) 漲 3%，再次挑戰千元大關，聯發科 (2454-TW) 漲 2.8%。\n\n記憶體族群大漲，華邦電 (2344-TW) 亮燈漲停，南亞科 (2408-TW) 漲 7.5%，力積電 (6770-TW) 漲 6%；封測指標日月光投控 (3711-TW) 漲近 3%、京元電子 (2449-TW) 漲 8%、力成 (6239-TW) 漲 6%。\n\n其餘強勢電子指標來看，群創 (3481-TW)、神達 (3706-TW) 漲逾半根停板，英業達 (2356-TW)、技嘉 (2376-TW)，以及高價指標大立光 (3008-TW)、世芯 - KY(3661-TW)、創意 (3231-TW) 等也漲逾 3%。\n\n被動元件大廠國巨 *(2327-TW) 傳出今年起將調漲部分磁珠產品價格，今日漲逾 4%，也帶動族群相關個股走強，鈞寶 (6155-TW)、九豪 (6127-TW)、光頡 (3624-TW)、三集瑞 - KY(6862-TW)、立隆電 (2472-TW)、日電貿 (3090-TW) 等均漲停。\n\n不過，川湖 (2059-TW)、富世達 (6805-TW) 跌 5%，健策 (3653-TW)、勤誠 (8210-TW) 半根跌停失守千元大關；PCB 族群也熄火修正，金像電 (2368-TW) 跌 6%、台光電 (2383-TW) 跌 3%，南電 (8046-TW)、健鼎 (3044-TW) 也收黑。\n\n另外，台塑四寶今日同步走跌，南亞 (1303-TW) 跌半根停板，台化 (1326-TW)、台塑化 (6505-TW) 跌 2-3%、台塑 (1301-TW) 同步收黑，華城 (1519-TW)、中鋼 (2002-TW) 也走跌。\n\n更多鉅亨報導&bull;〈台股盤後〉封關日閃現2萬9 收盤創28963點歷史高 全年噴漲5928點",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "13:38:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "2026開紅盤噴新高！台股收盤大漲386點 台積電飆1585元天價",
+      "URL": "https://tw.stock.yahoo.com/news/2026%E9%96%8B%E7%B4%85%E7%9B%A4%E5%99%B4%E6%96%B0%E9%AB%98-%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E5%A4%A7%E6%BC%B2386%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A3%861585%E5%85%83%E5%A4%A9%E5%83%B9-053857768.html",
+      "Content": "今（2）日是台股2026年首個交易日，美股周四元旦休市一天，台股走自己路多頭氣勢超旺，一度大漲近400點，最高約來到29363.43點，終場大漲386.21點，收29349.81點再創新高。\n\n台積電終場漲35元，收1585元新天價，權值股全面上揚，鴻海及廣達分別漲0.65%及1.84%，聯發科一度攻上1495元，終場收1470元，台達電一度衝上998元，大漲近4%，終場以995元作收。\n\n資金也集中在記憶體族群，紛紛創下新高，華邦電、旺宏放量噴漲停，南亞科大漲逾7%終場收207元。加上航運、鋼鐵股勁揚，助攻台股大漲。\n\n美股前日收盤行情全數下跌。道瓊工業指數終場下挫303.77點或0.63%，收報48063.29點。標準普爾500指數下跌50.74點或0.74%，收在6845.50點。那斯達克指數下滑177.09點，或0.76%，收在23241.99點。費城半導體指數下跌85.97點或1.20%，收7083.13點。\n\n更多中時新聞網報導2025年愛理不理！台股封關創歷史新高之後「年後3類股票讓你高攀不起」6檔下一個翻倍股曝光白銀5大利空爆發！拋售潮「時間點」曝光 華爾街急警告《台北股市》處置股：30日「它將出關」 華東、元晶、金居等17檔",
+      "Language": "zh"
+    },
+    {
       "Ticker": "QCOM",
       "Date": "2026-01-02",
       "Time": "12:04:57",
@@ -341,6 +481,66 @@
       "URL": "https://finance.yahoo.com/news/2-reasons-qcom-1-not-040457796.html",
       "Content": "2 Reasons to Like QCOM (and 1 Not So Much)\n\nKayode Omotosho\nThu, January 1, 2026 at 8:04 PM PST 3 min read\n\nIn this article: QCOM\n\n^GSPC\n\nQualcomm trades at $171.30 per share and has stayed right on track with the overall market, gaining 5.5% over the last six months. At the same time, the S&P 500 has returned 9.9%.\nIs now the time to buy QCOM? Find out in our full research report, it’s free for active Edge members .\nWhy Does QCOM Stock Spark Debate? Having been at the forefront of developing the standards for cellular connectivity for over four decades, Qualcomm (NASDAQ:QCOM) is a leading innovator and a fabless manufacturer of wireless technology chips used in smartphones, autos and internet of things appliances.\nTwo Positive Attributes: 1. Skyrocketing Revenue Shows Strong Momentum A company’s long-term sales performance can indicate its overall quality. Any business can put up a good quarter or two, but the best consistently grow over the long haul. Luckily, Qualcomm’s sales grew at an impressive 15.3% compounded annual growth rate over the last five years. Its growth beat the average semiconductor company and shows its offerings resonate with customers. Semiconductors are a cyclical industry, and long-term investors should be prepared for periods of high growth followed by periods of revenue contractions.\n2. Stellar ROIC Showcases Lucrative Growth Opportunities Growth gives us insight into a company’s long-term potential, but how capital-efficient was that growth? A company’s ROIC explains this by showing how much operating profit it makes compared to the money it has raised (debt and equity).\nQualcomm’s five-year average ROIC was 47%, placing it among the best semiconductor companies. This illustrates its management team’s ability to invest in highly profitable ventures and produce tangible results for shareholders.\nOne Reason to be Careful: Projected Revenue Growth Is Slim Forecasted revenues by Wall Street analysts signal a company’s potential. Predictions may not always be accurate, but accelerating growth typically boosts valuation multiples and stock prices while slowing growth does the opposite.\nOver the next 12 months, sell-side analysts expect Qualcomm’s revenue to rise by 3%, a deceleration versus its 15.3% annualized growth for the past five years. This projection is underwhelming and indicates its products and services will see some demand headwinds. At least the company is tracking well in other measures of financial health.\n\nFinal Judgment Qualcomm’s merits more than compensate for its flaws, but at $171.30 per share (or 14.2× forward P/E), is now the time to initiate a position? See for yourself in our comprehensive research report, it’s free for active Edge members .\n\nStory continues\nHigh-Quality Stocks for All Market Conditions If your portfolio success hinges on just 4 stocks, your wealth is built on fragile ground. You have a small window to secure high-quality assets before the market widens and these prices disappear.\nDon’t wait for the next volatility shock. Check out our Top 5 Growth Stocks for this month . This is a curated list of our High Quality stocks that have generated a market-beating return of 244% over the last five years (as of June 30, 2025).\nStocks that have made our list include now familiar names such as Nvidia (+1,326% between June 2020 and June 2025) as well as under-the-radar businesses like the once-small-cap company Exlservice (+354% five-year return). Find your next big winner with StockStory today .\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "11:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台北股市》京元電...大摩AI六強 PCB女王首選曝",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E4%BA%AC%E5%85%83%E9%9B%BB-%E5%A4%A7%E6%91%A9ai%E5%85%AD%E5%BC%B7-pcb%E5%A5%B3%E7%8E%8B%E9%A6%96%E9%81%B8%E6%9B%9D-031900959.html",
+      "Content": "【時報-台北電】大摩日前發布報告，點名亞洲AI前十強，其中台灣包含台積電、聯發科、京元電、信驊、世芯、創意等6檔上榜，統一投顧總經理、PCB女王廖婉婷認為，6檔當中世芯股價低、成長性夠，是2026開門就可以找買點的個股；如果眼光放遠，創意、聯發科續航力強勁；而台積電則是「神主牌」，本土法人遲早會回補。\n\n大摩選的台股六強都是優質個股，如果硬要挑該如何選擇？廖婉婷在「鈔錢部署」中表示，自己會先考慮獲利成長性，如果基期夠低，2026就比較有機會。\n\n她以世芯-KY(3661)為例，2025業績呈現衰退，但因為它是AWS Trainium 3供應鏈，屬於後段ASIC供應商，因此2026的業績貢獻度會很大，光是AWS貢獻世芯營收成長就接近1倍，獲利更會有1倍以上的成長，目前本益比才20出頭，空間還蠻大。\n\n世芯前3季歸屬母公司業主淨利為41.14億元，年減10.7％，每股純益為50.89元，較去年同期58.43元衰退13%，主因是北美主要CSP客戶5奈米AI晶片在2025年畫句點，法人預估世芯2025年EPS為67.8元。\n\n廖婉婷表示，世芯大客戶AWS的Trainium 3大概會在第2季出，通常法人布局都會提前1季，因此當跨入元月1日、2026第1季剛開始的時候就可以加碼。\n\n除世芯外，2026年會打進馬斯克的xAI的創意(3443)，也是廖婉婷長期看好個股。馬斯克先前發下豪語，2027年的AI晶片需求會比全市場目前用的GPU加ASIC來得更多。\n\n大客戶因台積電產能，喜歡和台灣ASIC廠合作廖婉婷分析，如果以Robotaxi，加上他的AI機器人大軍有可能成真，果真如此，對創意2027年的業績貢獻將會很大。\n\n另外聯發科(2454)也是從消費性產品打進ASIC市場，不過它Google的TPU下一代要等到2026年下半年、甚至第4季才可能出貨，所以業績貢獻會比較慢，但市場認為，即使到2027年再下一代，聯發科還是會是供應商。\n\n對於國外的客戶偏好找台灣的IP廠商合作ASIC，廖婉婷說，原因是台廠和台積電合作緊密，大家都想拿到台積電的產能，再加上台灣的封測產業很強，因此讓國際大廠頻頻登門合作。\n\n廖婉婷評估大摩挑選的6檔中，世芯因為股價低、成長性夠強，會有很大的成長空間，被認為是首選；但如果需要續航力、把眼光放大2027年，創意和聯發科都有很大成長機會。\n\n至於台積電是「神主牌」，廖婉婷說，一定會帶領台股再創新高，台股現在本益比23、24倍，台積電本益比才20倍，對台積電而言股價太委屈。\n\n她分析，主要是先前外資放假、內資減碼，加上年底壽險銀行必須獲利了結，以及會計制度改變，以及外價金的提列得減碼，所以很多金控銀行壽險年底會減低持股，明年第1季外資、本土法人會回補台積電，台積電的本益比至少應回到22倍到24倍之上。\n\n※免責聲明：文中所提之個股、ETF內容，並非任何投資建議與參考，請審慎判斷評估風險，自負盈虧。(新聞來源：旺得富理財網 王郁惠)",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "11:01:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開紅盤，台積電、聯發科領軍創高，航太/無人機等類股看俏",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%B4%85%E7%9B%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91%E9%A0%98%E8%BB%8D%E5%89%B5%E9%AB%98-%E8%88%AA%E5%A4%AA-%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AD%89%E9%A1%9E%E8%82%A1%E7%9C%8B%E4%BF%8F-030148391.html",
+      "Content": "【財訊快報／黃啟乙】2026年台股開紅盤第一個交易日，再次呈現突破創新高的走勢，除了台積電(2330)持續踩著穩健的盤堅型態之外，更可以注意的是，聯發科(2454)，進一步走強而上，企圖再向1,500元以上進攻。 另外，矽光子族群也上攻，低軌衛星題材也再走強，這以昇達科(3491)為代表。再者，創泓科技(7714)跳空開高之後，強攻漲停板來到183元，創IPO以來新高，反應出無人機的題材，在2026年，似乎有進一步轉熱的期待！在此情況之下，邑錡(7402)似乎有跟進空間。而豐達科(3004)，也明顯拉升而上，也預告航太產業，在今年有更大的空間。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "09:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股紅盤創高上漲121點 「這檔」記憶體 開盤衝漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%B4%85%E7%9B%A4%E5%89%B5%E9%AB%98%E4%B8%8A%E6%BC%B2121%E9%BB%9E-%E9%80%99%E6%AA%94-%E8%A8%98%E6%86%B6%E9%AB%94-%E9%96%8B%E7%9B%A4%E8%A1%9D%E6%BC%B2%E5%81%9C-011400953.html",
+      "Content": "新年新氣象！台股今（2）日開盤紅盤，跳空上漲來到29084點，上漲121點，漲幅0.42%，預估成交量5400億，櫃買指數則開高震盪，早盤來到277.81點，漲1.58點，漲幅0.56%。\n\n電子權值股部分，台積電（2330）早盤來到1565元，上漲15元，漲幅0.97%，鴻海（2317）早盤來到231元，上漲0.5元，漲幅0.21%，聯發科（2454）早盤則來到1450元，上漲20元，漲幅1.4%。\n\n記憶體族群部分，旺宏今日開盤跳空上漲來到42.5元，漲3元，漲幅逾7%，鈺創來到54元，漲3.1元，漲幅逾6%，晶豪科則開盤直衝漲停，來到129.5元。\n\n（封面圖／東森新聞）\n\n更多東森財經新聞報導2025年金價飆升66% 創46年來最大年度漲幅台股封關創紀錄 全年大漲5928點 每位股民大賺149萬運動幣500元來了！ 滿16歲即具抽籤資格 買球鞋也能用",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "09:09:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "開盤突破2萬9大關！台股早盤大漲逾2百點　台積電飆1565元新天價",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%96%8B%E7%9B%A4%E7%AA%81%E7%A0%B42%E8%90%AC9%E5%A4%A7%E9%97%9C-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E5%A4%A7%E6%BC%B2%E9%80%BE2%E7%99%BE%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A3%861565%E5%85%83%E6%96%B0%E5%A4%A9%E5%83%B9-010957823.html",
+      "Content": "即時中心／綜合報導\n\n美股封關行情未現，週三（31日）主要指數全面收黑。台股今（2）日新年新氣象，開盤小漲53.08點、開在29,016.68點，突破2萬9大關；漲幅持續擴大，一度來到29,167.96點、大漲204.36點，續刷盤中新高點。台積電（2330）以1,555元開出、漲5元，一度飆上1,565元新天價。\n\n電子權值股方面，鴻海（2317）開232元，漲1.5元；聯發科（2454）以1,450元，上漲20元；廣達（2382）開274元，漲2元；台達電（2308）以970元開出，漲7元；日月光投控（3711）開253元，漲2.5元；大立光（3008）開2,540元，漲45元。\n\n金融方面，富邦金（2881）以96.2元開出，漲0.1元；國泰金（2882）開75.4元，下滑0.4元；中信金（2891）開50.2元平盤；兆豐金（2886）開40元平盤價；華南金（2880）以31.1元開出，漲0.1元；第一金（2892）開29.55元，上漲0.15元；合庫金（5880）以24.3元平盤開出。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處：快新聞／開盤突破2萬9大關！台股早盤大漲逾2百點 台積電飆1565元新天價\n\n更多民視新聞報導《富爸爸》作者揭世界經濟現狀！直言：尤其是中國打臉北京「一中」謊言！日參議員石平應邀訪台 矢板明夫：突顯反共立場分量高雄住宅凌晨惡火「1男嚴重燒燙傷、20歲妻葬身火窟」",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "09:06:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "2026開紅盤！台積電飆1565元新天價 台股漲近200點再創新高",
+      "URL": "https://tw.stock.yahoo.com/news/2026%E9%96%8B%E7%B4%85%E7%9B%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A3%861565%E5%85%83%E6%96%B0%E5%A4%A9%E5%83%B9-%E5%8F%B0%E8%82%A1%E6%BC%B2%E8%BF%91200%E9%BB%9E%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98-010627815.html",
+      "Content": "美股周四元旦休市一天，今（2）日是台股2026年首個交易日，指數維持高檔震盪再創新高，開盤漲近200點，最高來到29167.96點，站穩2萬9大關。\n\n台積電開盤最高上漲15元、來到1565元，權值股上揚，鴻海及廣達小漲0.5%，聯發科漲20元至1450元，台達電上揚12元至975元，傳產股航運也上揚。\n\n美股昨休市，前日收盤行情全數下跌。道瓊工業指數終場下挫303.77點或0.63%，收報48063.29點。標準普爾500指數下跌50.74點或0.74%，收在6845.50點。那斯達克指數下滑177.09點，或0.76%，收在23241.99點。費城半導體指數下跌85.97點或1.20%，收7083.13點。\n\n更多中時新聞網報導晶豪科單月賺0.9飆漲停 8千張等買 「明年EPS 18元係金A？」本土法人說話了三讀法案竟變廢紙？全教產怒火中燒！「這1類人慘淪政治籌碼」解析退休金縮水背後的國安危機台灣自行車王國衰敗？巨大、美利達股價殺回10年前 專家揭2挑戰",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-01-02",
+      "Time": "08:36:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "證交所、櫃買中心1/2暫停先賣後買當日沖銷交易標的名單",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%AD%89%E4%BA%A4%E6%89%80-%E6%AB%83%E8%B2%B7%E4%B8%AD%E5%BF%831-2%E6%9A%AB%E5%81%9C%E5%85%88%E8%B3%A3%E5%BE%8C%E8%B2%B7%E7%95%B6%E6%97%A5%E6%B2%96%E9%8A%B7%E4%BA%A4%E6%98%93%E6%A8%99%E7%9A%84%E5%90%8D%E5%96%AE-003600195.html",
+      "Content": "證交所2026年01月02日暫停先賣後買當日沖銷交易標的如下：00939統一台灣高息動能、00946群益科技高息成長、00953B群益優選非投等債、00985B群益ESG投等債0-5、1235興泰、2442新美齊、2454聯發科、6952大武山\n\n櫃買市場2026年01月02日暫停先賣後買當日沖銷交易標的如下：凱基A級公司債(00950B)、大華投等美債15Y+(00959B)、統一ESG投等債15+(00966B)、新光BBB投等債20+(00970B)、大華優利美公債20(00983B)、大華優利美A債15(00984B)、老爺知(5704)、環球晶(6488)、是方(6561)",
+      "Language": "zh"
     },
     {
       "Ticker": "QCOM",
