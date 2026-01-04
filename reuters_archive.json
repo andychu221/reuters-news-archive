@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-01-03",
-  "total_reports": 78,
+  "last_updated": "2026-01-04",
+  "total_reports": 80,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Morning Brief",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3Y30M7:0/",
+      "Date": "2026-01-03",
+      "Time": "06:02:33",
+      "Title": "《路透早報》--1月3日",
+      "Content": "Refinitiv\n\nNICKEL1!\n這則新聞只顯示標題，沒有其他正文。\n\nReuters\n© Copyright Thomson Reuters 2026. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 201,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-04 08:11:55"
+    },
+    {
+      "Source": "TradingView - US Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Y30HL:0/",
+      "Date": "2026-01-03",
+      "Time": "04:15:19",
+      "Title": "美國債市：收益率在2026年首個交易日走高，市場等待就業數據",
+      "Content": "Refinitiv\n\nUS10YZB1!\n關鍵點：\n去年短期收益率跌幅最大\n由於市場預期利率下調，整體收益率下降\n交易員關注可能指向進一步降息的數據\n\n這則新聞只顯示標題，沒有其他正文。\n\nReuters公司債券美國股票\n© Copyright Thomson Reuters 2026. Click For Restrictions - https://agency.reuters.com/en/copyright.html\n顯示更多\n\n登入或建立一個永久免費帳戶來閱讀此新聞\n讓我們開始吧\n\n來自 Reuters 的更多新聞",
+      "ContentLength": 265,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-04 08:12:10"
+    },
     {
       "Source": "TradingView - Global FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Y30HQ:0/",
