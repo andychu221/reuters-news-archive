@@ -1,8 +1,17 @@
 {
   "stock_id": "AMZN",
-  "last_updated": "2026-01-03T23:11:46.521Z",
+  "last_updated": "2026-01-04T00:11:35.513Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-04",
+      "Time": "07:45:07",
+      "Source": "TechCrunch",
+      "Title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
+      "URL": "https://finance.yahoo.com/news/tech-billionaires-cashed-16-billion-234507074.html",
+      "Content": "Tech billionaires cashed out $16 billion in 2025 as stocks soared\n\nConnie Loizos\nSat, January 3, 2026 at 3:45 PM PST 1 min read\n\nIn this article: AMZN\n\nNVDA\n\nANET\n\nORCL\n\nWhile tech stocks were busy setting records in 2025, the executives behind those companies were equally busy turning their paper fortunes into actual cash — more than $16 billion worth , according to Bloomberg’s analysis of insider trading data.\nJeff Bezos led the way. The Amazon founder sold 25 million shares for $5.7 billion in June and July, right around the time he was getting hitched to Lauren Sanchez in Venice. Oracle’s former CEO Safra Catz wasn’t far behind at $2.5 billion, followed by Michael Dell at $2.2 billion.\n\nNvidia’s Jensen Huang watched his company become the world’s first $5 trillion business, and sold $1 billion along the way. Arista Networks CEO Jayshree Ullal cashed out nearly $1 billion as demand for the company’s high-speed networking gear soared and her personal net worth crossed $6 billion.\nMost of these sales happened through pre-arranged trading plans that executives file in advance; they weren’t spur-of-the-moment decisions. Meta’s Mark Zuckerberg sold $945 million through his foundation, while Palo Alto Networks CEO Nikesh Arora and Robinhood co-founder Baiju Bhatt each pocketed over $700 million.\nThe common thread was an AI-fueled rally that kept pushing tech stocks higher throughout the year.\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-04",
       "Time": "06:30:10",
@@ -1237,5 +1246,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 137
+  "total_news_count": 138
 }
