@@ -1,8 +1,17 @@
 {
   "stock_id": "AMD",
-  "last_updated": "2026-01-04T00:10:45.988Z",
+  "last_updated": "2026-01-04T03:10:45.179Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-04",
+      "Time": "10:39:04",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: How Will Markets React To Trump's Venezuela Action? Nvidia, AMD, Taiwan Semi Due",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-how-will.html",
+      "Content": "Dow Jones Futures: How Will Markets React To Trump's Venezuela Action? Nvidia, AMD, Taiwan Semi Due\n\nED CARSON\nSat, January 3, 2026 at 6:39 PM PST 7 min read\n\nIn this article: NVDA\n\nGEV\n\n^DJI\n\nAMD\n\nTSM\n\nPresident Trump said the U.S. will \"run\" Venezuela after capturing Nicolas Maduro. How will markets react? Nvidia, AMD will headline CES this week.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-04",
       "Time": "01:00:22",
@@ -625,5 +634,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 69
+  "total_news_count": 70
 }
