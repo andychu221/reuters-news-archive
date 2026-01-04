@@ -1,8 +1,26 @@
 {
   "stock_id": "TSM",
-  "last_updated": "2026-01-04T01:11:01.584Z",
+  "last_updated": "2026-01-04T03:11:09.808Z",
   "source": "Yahoo Finance API",
   "news": [
+    {
+      "Date": "2026-01-04",
+      "Time": "10:39:04",
+      "Source": "Investor's Business Daily",
+      "Title": "Dow Jones Futures: How Will Markets React To Trump's Venezuela Action? Nvidia, AMD, Taiwan Semi Due",
+      "URL": "https://finance.yahoo.com/m/d3aa3714-1ae7-36bd-90d6-a7ef43eaf2f8/dow-jones-futures%3A-how-will.html",
+      "Content": "Dow Jones Futures: How Will Markets React To Trump's Venezuela Action? Nvidia, AMD, Taiwan Semi Due\n\nED CARSON\nSat, January 3, 2026 at 6:39 PM PST 7 min read\n\nIn this article: NVDA\n\nGEV\n\n^DJI\n\nAMD\n\nTSM\n\nPresident Trump said the U.S. will \"run\" Venezuela after capturing Nicolas Maduro. How will markets react? Nvidia, AMD will headline CES this week.\n\nContinue Reading\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
+    {
+      "Date": "2026-01-04",
+      "Time": "10:31:17",
+      "Source": "Benzinga",
+      "Title": "TSMC Secures One-Year US Export License To Keep China Chip Operations Running: Report",
+      "URL": "https://finance.yahoo.com/news/tsmc-secures-one-us-export-023117235.html",
+      "Content": "TSMC Secures One-Year US Export License To Keep China Chip Operations Running: Report\n\nAnanya Gairola\nSat, January 3, 2026 at 6:31 PM PST 2 min read\n\nIn this article: TSM\n\nTaiwan Semiconductor Manufacturing Co. (NYSE: TSM ) has secured a one-year U.S. export license allowing it to import the U.S. chipmaking equipment into its China operations.\nUS Grants Annual License For TSMC's China Operations On Thursday, TSMC said the U.S. Department of Commerce has approved an annual export license covering its Nanjing fabrication plant, reported Reuters.\nThis allows U.S.-controlled equipment to be supplied without requiring separate approvals from individual vendors.\nThe company told the publication that the license will help maintain uninterrupted manufacturing operations and ensure timely product deliveries.\n\nDon't Miss:\nMissed Nvidia and Tesla? RAD Intel Could Be the Next AI Powerhouse — Just $0.85 a Share\nGM-Backed EnergyX Is Solving the Lithium Supply Crisis — Invest Before They Scale Global Production\nPolicy Shift Follows Expiry Of Longstanding Exemptions The approval comes after Washington allowed special exemptions — known as validated end-user status — for select foreign chipmakers operating in China to expire at the end of December.\nUnder the new framework, companies must apply for export licenses regularly rather than rely on broad, open-ended waivers.\n\nSouth Korea's Samsung Electronics Co. Ltd. (OTC: SSNLF ) and SK Hynix have also received similar licenses.\nFocus Remains On Limiting Advanced Chip Capabilities TSMC's Nanjing facility produces 16-nanometer and other mature-node chips, not the company's most advanced semiconductors. TSMC also operates a separate chip plant in Shanghai.\nSee Also: An EA Co-Founder Shapes This VC Backed Marketplace— Now You Can Invest in Gaming's Next Big Platform\nU.S. export controls are designed to curb China's access to advanced semiconductor technology while minimizing disruption to global supply chains and allied firms.\n\nLimited Financial Impact For TSMC In its 2024 annual report, TSMC said its Nanjing operations accounted for about 2.4% of total revenue.\nMeanwhile, TSMC has come under investor scrutiny after a magnitude 7.0 earthquake off northeastern Taiwan triggered precautionary measures at several of its facilities, raising concerns about potential production disruptions.\n\nThe $1.28 trillion chip giant has gained more than 46% over the past year, buoyed by strong demand driven by its role as a major supplier to Nvidia Corp. (NASDAQ: NVDA ) and Apple Inc. (NASDAQ: AAPL ).\nRead Next:\nIf there was a new fund backed by Jeff Bezos offering a 7-9% target yield with monthly dividends would you invest in it ?\nSam Altman Says AI Will Transform the Economy — This Platform Lets Investors Back Private Tech Early\n\nStory Continues\nPhoto courtesy: Jack Hong via Shutterstock\nUNLOCKED: 5 NEW TRADES EVERY WEEK. Click now to get top trade ideas daily , plus unlimited access to cutting-edge tools and strategies to gain an edge in the markets.\nGet the latest stock analysis from Benzinga:\nAPPLE (AAPL): Free Stock Analysis Report\nTESLA (TSLA): Free Stock Analysis Report\nThis article TSMC Secures One-Year US Export License To Keep China Chip Operations Running: Report originally appeared on Benzinga.com\n\nTerms and Privacy Policy\nCA Privacy Notice\nYour Privacy Choices\nOpted out of sale / share\nMore Info",
+      "Language": "en"
+    },
     {
       "Date": "2026-01-04",
       "Time": "01:00:22",
@@ -1093,5 +1111,5 @@
       "Language": "en"
     }
   ],
-  "total_news_count": 121
+  "total_news_count": 123
 }
