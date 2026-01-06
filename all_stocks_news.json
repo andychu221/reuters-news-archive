@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-01-06T05:53:50.456Z",
-  "total_news_count": 696,
+  "last_updated": "2026-01-06T06:53:54.557Z",
+  "total_news_count": 705,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "14:30:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《盤後解析》台積電站上新高峰 台股續創新猷",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E8%A7%A3%E6%9E%90-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%AB%99%E4%B8%8A%E6%96%B0%E9%AB%98%E5%B3%B0-%E5%8F%B0%E8%82%A1%E7%BA%8C%E5%89%B5%E6%96%B0%E7%8C%B7-063007168.html",
+      "Content": "【時報記者郭鴻慧台北報導】台股今(6)日開低收高，在權王台積電(2330)盤中翻紅，帶動台達電(2308)、日月光投控(3711)、智邦(2345)等電子權值大咖跟漲，加上南亞科(2408)、華邦電(2344)領軍記憶體族群強勢攻高，面板三虎群創(3481)、友達(2408)、彩晶(6116)再度攜手爆量漲停，以及華新(1605)領軍電器電纜類股走強，台積電尾盤強拉15元，收在1705元新天價下，帶動集中市場指數續創歷史新高，終場上漲471.56點，收在30,576.3點，成交值降至7,335億元；櫃買指數同步上漲3.13點，收278.97點。\n\n資深證券分析師簡伯儀說，加權指數今日持續上漲，量能也在增加當中，特別是昨日表現弱勢的櫃買市場，今日也開始反彈，顯示出大盤仍由多方掌控，只要台股守穩5日線上方，預期有題材、2025年12月營收表現出色的個股仍有表現的空間。\n\n本週市場關注焦點聚焦美國最大國際消費性電子展CES，黃相慈說明，本次CES展於日在拉斯維加斯舉行，輝達與超微將發表專題演講，今年主題「AI Everywhere」強調人工智慧不再侷限於雲端，而是深入 PC、手機、汽車與家電。\n\n本屆CES焦點鎖定AI五大場景的實際部署，包含AI PC、AI 機器人、智慧家電、自駕車及企業解決方案，跳脫概念展示，且輝達、超微、高通、英特爾等將推出新品，推動AI與消費電子深度結合，從雲端算力擴展至日常裝置與商務應用。\n\nPGIM保德信金滿意基金理人郭明玉指出，CES展作為新年首場全球科技盛會，焦點集中在AI技術的落地應用，輝達與超微執行長皆將於開展前一天發表專題演講，預料將引爆2026年AI市場熱潮。\n\n郭明玉說，法人也視CES展為2026為首季科技與AI成長循環的前哨站，後續還有MWC與輝達GTC等利多接棒，顯見CES不僅是新品展示，更是觀察AI晶片、終端裝置與應用服務量產節奏的重要窗口，有助投資人判斷技術商業化進程。尤其許多關鍵零組件來自台灣廠商，將創造新商機並推升業績表現。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "14:19:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電創新天價1705元　市值攀至44.21兆元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%89%B5%E6%96%B0%E5%A4%A9%E5%83%B91705%E5%85%83-%E5%B8%82%E5%80%BC%E6%94%80%E8%87%B344-21%E5%85%86%E5%85%83-061959895.html",
+      "Content": "（中央社記者張建中新竹2026年1月6日電）晶圓代工廠台積電 (2330) 今天股價開低走高，終場收在1705元，再創新天價，市值攀高至新台幣44.21兆元。\n\n台積電今天以1645元開出，下跌25元，隨著買盤湧入，台積電股價震盪走高，由黑翻紅，終場收在1705元，再創新天價，上漲35元，市值攀高至44.21兆元，並貢獻大盤約281點。\n\n美國消費性電子展即將登場，輝達（NVIDIA）執行長黃仁勳與超微（AMD）董事長暨執行長蘇姿丰發表主題演講，其中，蘇姿丰首度展示代號Venice的新世代EPYC伺服器處理器，邁入2奈米製程世代。此外，AMD發表新一代AI加速器Instinct MI 455X，整合2奈米與3奈米運算及I/O小晶片。\n\n在人工智慧（AI）強勁需求驅動下，台積電2026年第1季營運表現可望淡季不淡，全年營收也將延續成長趨勢，將再創歷史新高。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-06",
+      "Time": "14:00:00",
+      "Source": "PR Newswire",
+      "Title": "AIC Expands NVIDIA BlueField-Accelerated Storage Portfolio With New F2032-G6 JBOF Storage System to Accelerate AI Inference",
+      "URL": "https://finance.yahoo.com/news/aic-expands-nvidia-bluefield-accelerated-060000311.html",
+      "Content": "CITY OF INDUSTRY, Calif. , Jan. 6, 2026 /PRNewswire/ -- AIC today announced the expansion of its NVIDIA BlueField accelerated storage portfolio with the introduction of the F2032-G6 2U JBOF storage system, optimized for accelerating AI inference by storing KV cache context. Featuring a High Availability, dual-active node architecture that provides full resiliency for mission-critical workloads , the platforms deliver next-generation performance, capacity, and availability for flash-based storage deployments.\n\nThe F2032-G6 JBOF integrates two or four NVIDIA BlueField-4 DPUs , each with 800Gb/s throughput, and can also support NVIDIA ConnectX-9 SuperNICs . It supports NVIDIA DOCA microservices to deliver breakthrough acceleration for the NVIDIA Inference Context Memory Storage Platform. A dual-port design enables link redundancy and continuous operation for high-throughput storage services in scalable, distributed environments.\nDesigned for extremely efficient flash configurations, the platform supports up to 32 E3.S/L NVMe drives , enabling up to 8 PB of storage in a single 2U chassis using 15, 30, 60, 122 or 256 TB SSDs. This compact system architecture provides enterprises and cloud operators a scalable building block for high-performance, power-efficient flash tiers.\n\n\"As data demands continue to grow at unprecedented rates, AIC is fully committed to BlueField-4 the NVIDIA BlueField platform as a storage controller,\" said Michael Liang, President and CEO of AIC . \"The F2032-G6 delivers resilient, high-performance, and scalable flash storage that empowers critical workloads with unmatched speed, reliability, and efficiency.\"\n\"The increasing complexity of AI inference and reasoning workloads requires a fundamental architectural shift to unify compute, network, and storage for unprecedented efficiency and scale,\" said Yael Shenhav, VP Networking, NVIDIA. \"NVIDIA is collaborating with AIC to bring accelerated, AI-native data storage platforms, powered by the BlueField-4 DPU, to scaleAI inference in the agentic era.\"\n\nThese new systems are ideal for modern workloads, including:\nKV cache context storage for AI inference\nParallel and scale-out file systems\nLarge-scale object storage\nMission-critical enterprise flash tiers\nAIC continues to strengthen its collaboration and product alignment with NVIDIA and remains committed to full support of the BlueField-4 ecosystem across future platforms.\nAbout AIC Inc.\nAIC Inc. is a global leader in server and storage solutions. With nearly 30 years of expertise in high-density storage servers, storage server barebones, and high-performance computers, AIC has expanded into AI storage and AI edge appliances, achieving significant market recognition for its branded products. The company's in-house design, manufacturing, and validation capabilities ensure products are highly flexible and configurable to meet diverse form factor requirements. Headquartered in Taiwan, AIC operates offices and facilities across the United States, Asia, and Europe. For more information, please visit www.aicipc.com or contact us at sales@aicipc.com .\n\nStory Continues\nView original content: https://www.prnewswire.com/news-releases/aic-expands-nvidia-bluefield-accelerated-storage-portfolio-with-new-f2032-g6-jbof-storage-system-to-accelerate-ai-inference-302653446.html",
+      "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "13:57:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《科技》蘇姿丰CES拋AI震撼彈！大秀對輝達兵器 台積2奈米之力成關鍵",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A7%91%E6%8A%80-%E8%98%87%E5%A7%BF%E4%B8%B0ces%E6%8B%8Bai%E9%9C%87%E6%92%BC%E5%BD%88-%E5%A4%A7%E7%A7%80%E5%B0%8D%E8%BC%9D%E9%81%94%E5%85%B5%E5%99%A8-%E5%8F%B0%E7%A9%8D2%E5%A5%88%E7%B1%B3%E4%B9%8B%E5%8A%9B%E6%88%90%E9%97%9C%E9%8D%B5-055706006.html",
+      "Content": "【時報-台北電】全球科技盛會 CES 2026 隆重開幕，超微（AMD）執行長蘇姿丰發表主題演講，圍繞AI 革命，AMD端出重量級武器-MI 450及Helios機櫃 。面對生成式 AI 帶來的運算缺口，蘇姿丰展現強大的技術野心，特別是在與晶圓代工龍頭台積電（2330）的深度戰略合作上，透過導入台積電 2 奈米製程與次世代 3D Chiplet（小晶片）技術，全面推動 AI 效能翻倍增長。\n\n蘇姿丰直言，AI 正快速從工具進化為基礎建設，全球算力需求未來五年將從目前的 Zetta 等級，推升至 10 YottaFLOPS，運算規模較 2022 年暴增一萬倍，這樣的跨世代跳躍，背後仰賴的不只是系統架構創新，更取決於製程技術的極限突破。\n\n首度公開展示代號 Venice 的新世代 EPYC 伺服器處理器，蘇姿丰宣布，AMD正式邁入 2 奈米製程世代，Venice 採用最新 Zen 6 架構，單顆處理器最高整合 256 顆核心，並將記憶體與 GPU 頻寬較前代倍增，鎖定 AI 訓練與推論的極致效能需求。據悉，AMD 早已預約台積電 2 奈米產能，而Venice CPU為首款採用台積電 2 奈米製程之HPC產品、於去年4月完成投片（tape out）；正式端出2奈米CPU晶片，以製程領先與輝達正面對決。不僅 CPU，AMD 同步發表新一代 AI 加速器 Instinct MI 455X，這顆被蘇姿丰形容為「AMD 有史以來最先進晶片」，整合 2 奈米與 3 奈米運算與 I/O chiplet，並搭載 HBM4 高頻寬記憶體與最新 3D 堆疊封裝技術，單顆晶片電晶體數達 3,200 億顆。\n\n在先進封裝方面，MI 455 採用多晶粒 3D 堆疊與高密度互連設計，業界認為，這正是台積電 SoIC 與 CoWoS 技術路線在 AI 加速器世代的延伸實戰版，也代表台積電不僅在製程節點領先，更同步掌握 AI 時代的關鍵封裝話語權。\n\n蘇姿丰同步揭示 AMD 專為 AI 超大規模資料中心打造的 Helios 機櫃級平台，每座機櫃整合 MI-455 GPU、Venice CPU 與 Pensando 網通晶片，透過高速乙太網與超加速器互連協定，讓 72 顆 GPU 如同單一運算單元運作。單一機櫃即可提供高達 2.9 ExaFLOPS 的 AI 運算效能。（新聞來源：工商即時 張珈睿）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "13:50:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股大漲471點！終場收30576點續創高　台積電飆新天價1705元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2471%E9%BB%9E-%E7%B5%82%E5%A0%B4%E6%94%B630576%E9%BB%9E%E7%BA%8C%E5%89%B5%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A3%86%E6%96%B0%E5%A4%A9%E5%83%B91705%E5%85%83-055025806.html",
+      "Content": "即時中心／綜合報導\n\n華爾街股市週一（5日）全面收高，道瓊工業指數勁揚594.79點、收在48,977.18點，再創下歷史新高。台股昨衝破3萬大關、以30,105.04點作收，然而今（6）日高點承壓，開盤便下跌171.39點、以29,933.65點開出，隨後便陷入震盪。不過在台積電和面板、記憶體族群帶動下，指數翻紅走高，終場大漲471.26點、以30,576.30點作收，再創歷史新高；漲幅1.57％，成交量7,335.48億元。台積電（2330）終場以新天價1,705元作收、上漲35元。\n\n電子權值股方面，鴻海（2317）收在236元，漲1.5元；聯發科（2454）收1,485元，跌10元；廣達（2382）收282元，漲4元；台達電（2308）以1,050元作收，上漲40元；日月光投控（3711）收271.5元，漲8元；大立光（3008）收在2,575元，漲40元。\n\n金融方面，富邦金（2881）收96.4元，跌0.8元；國泰金（2882）收在76元，跌0.5元；中信金（2891）以49.85元，下滑0.05元；兆豐金（2886）收在40.55元，漲0.25元；華南金（2880）收在31.6元，跌0.2元；第一金（2892）收30.05元，漲0.2元；合庫金（5880）以24.3元平盤作收。\n\n今日成交量前10名個股依序為群創、力積電、華邦電、旺宏、友達、華新、南亞科、華東、可寧衛*、華通。此外，漲幅前五名為晶相光、圓展、天鈺、長興、羅昇；至於跌幅前五名則為晟鈦、鈞寶、天瀚、榮惠-KY創、佳必琪。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處：快新聞／台股大漲471點！終場收30576點續創高 台積電飆新天價1705元\n\n更多民視新聞報導最新／無視柯建銘盯場！藍白第6度封殺國防特別預算台灣前進陣線2026第一波候選人出爐！提名7人角逐議員名單曝光民進黨花蓮縣長布局曝光！傳合作「這些人」扳倒傅家 黨團回應了",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-01-06",
@@ -10,6 +60,26 @@
       "Title": "台積電續締新猷，台股再見新高，記憶體、面板超強，次族群輪漲",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%BA%8C%E7%B7%A0%E6%96%B0%E7%8C%B7-%E5%8F%B0%E8%82%A1%E5%86%8D%E8%A6%8B%E6%96%B0%E9%AB%98-%E8%A8%98%E6%86%B6%E9%AB%94-%E9%9D%A2%E6%9D%BF%E8%B6%85%E5%BC%B7-%E6%AC%A1%E6%97%8F%E7%BE%A4%E8%BC%AA%E6%BC%B2-054718469.html",
       "Content": "【財訊快報／方亞申】美股四大指數週一持續上漲，道瓊及費半創歷史新高，亞洲股市週二則是漲跌互見，最強的韓國拉回，但是中港日股市續漲，台股週二在台積電ADR開高走低加上週一大漲，台積電(2330)以低盤下跌開出，不過人氣依舊強勁，台積電再創新高1705元，加上包括矽晶圓、機器人、矽智財、封測、機殼、BBU、PCB、面板、被動元件、華新集團、驅動IC等都各自表現助攻，但也有漲多拉回如矽光子、散熱族群，顯見族群輪動頻繁，指數終場上漲471.26點，收在30576.30點，成交量7335.47億元。多頭表現強。美國對委內瑞拉採取行動後，週一石油股雪佛龍、埃克森美孚、康菲公司等股價勁揚；金融類股受到當初投資委內瑞拉撤出後提列呆帳可望因政局改變、重新再度進入委國而回沖，加上華爾街押注今年美國經濟表現強勁，包括美國銀行、摩根史坦利、摩根大通、高盛、富國銀行、花旗銀行等全數走高，而製造業龍頭卡特皮勒股價也上漲，帶動道瓊指數創新歷史高點，石油、黃金和白銀走強。數據顯示，美國12月ISM製造業PMI萎縮幅度超出預期，延續長達10個月的低迷狀態。市場目光將集中在週五公布的非農就業數據上，這可能會影響聯準會在2026年的貨幣政策。美國能源股雪佛龍週一漲幅超5%，美國逮捕馬杜洛料將改寫石油產業，市場預期如果美國政府接管委內瑞拉石油工業，雪佛龍可能成為最大的受益者，雪佛龍在委內瑞拉掌控高藏量油田。美國軍事行動也是軍工股也獲得提振，通用動力升幅超3.5%，洛克希德馬丁上漲超過2.5%。費半成分股則以設備股如應材、科磊、艾斯摩爾股價表現最強，特斯拉度過汽車銷售量落後比亞迪利空後，市場反應無人車駕駛，股價則是科技七雄中表現較佳者，大致上標普及那指今年以來表現不如費半及道瓊強，半導體及金融還是今年表現最好族群。四大指數只要未跌破月線前，多頭走勢持續。美股大漲，歐洲股市德、英、義、西等也創高，其他接近高點。亞洲去年大漲75%的韓國拉回小跌，日本上漲接近歷史高點，新加坡創高；香港恆生及國企股反彈，中國深滬股市表現較強，上證指數站穩4000點後續漲，與深圳股都創近10年來高點。國際股市表現強勢，台股週一在台積電大漲後，卻見外資賣超，不過週二開低後又創新高1705元，走勢強，台積電因為AI基本面強已受全球投資界認同，甚至有外資認為明年EPS就有機會挑戰100元，以此來看PE相對偏低。而台積電3奈米製程爆滿，2奈米也開出，先進封裝訂單外溢至日月光(3711)、安可(3615)、京元電子(2449)等，當然最強勢記憶體，南亞科(2408)去年11月EPS由0.66元跳升至1.34元，股價漲停，群聯(8299)、創見(2451)、十銓(4967)加上旺宏(2337)、華邦電(2344)、力積電(6770)全數上漲，是最強族群。封測族群尚有華泰(2329)、華東(8110)、精材(3374)、長科*(6548)、力成(6239)續強。半導體設備辛耘(3583)、帆宣(6196)、亞翔(6139)、漢唐(2404)表現都不錯。面板因為漲價，已先大漲的群創(3481)股價續漲，友達(2409)、彩晶(6116)也漲停，刺激驅動IC聯詠(3034)、天鈺(4961)、敦泰(3545)股價大漲。次族群出現輪動，矽智財的創意(3443)股價創高，世芯-KY(3661)、M31(6643)股價亦漲，環球晶圓(6488)、中美晶(5483)、合晶(6182)、茂矽(2342)股價都上漲。CCL台光電(2383)被外資上調目標價至兩千元以上而上漲，華通(2313)、燿華(2367)、金像電(2368)、高技(5439)等跟漲。順達(3211)、迎廣(6117)、勤誠(8210)、智邦(2345)及探針的穎威(6515)、旺矽(6223)、精測(6510)等表現也強勁。被動元件族群表現也不錯，包括國巨*(2327)、日電貿(3090)、凱美(2375)、勤凱(4760)、台慶科(3357)、金山電(8042)等。機器人族群佳能(2374)、所羅門(2359)、高鋒(4510)、彬台(3379)、鈞興-KY(4571)、羅昇(8374)、廣明(6188)、達明(4585)、穎漢(4562)表現也不弱。集團股以華新(1605)及南亞(1303)為主。台股來到3萬點之上呈現各族群輪漲表現，台積電及記憶體半導體配合AI供應鏈是主軸，面板、被動元件及機器人等題材股跟漲，金融股最後也將補漲。不過矽光子及散熱族群大多拉回，若出現融資連續單日大增超過50億元就要小心。美股依舊是關鍵。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "13:47:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股漲471點收30576點再創高　台積電首登1705元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2471%E9%BB%9E%E6%94%B630576%E9%BB%9E%E5%86%8D%E5%89%B5%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A6%96%E7%99%BB1705%E5%85%83-054705942.html",
+      "Content": "（中央社記者江明晏台北2026年1月6日電）台股連2日創高，今天開低震盪後翻紅，終場上漲471.26點，收在最高點30576.3點，再創台股歷史紀錄，台積電 (2330) 也首度站上1700元，終場上漲35元，收在1705元。\n\n面板、記憶體、PCB等族群強勢，南亞科 (2408) 、群創 (3481) 、旺宏 (2337) 、華通 (2313) 等鎖漲停。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "13:41:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股登新高！收盤大漲471點 台積電衝1705元、南亞科漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%99%BB%E6%96%B0%E9%AB%98-%E6%94%B6%E7%9B%A4%E5%A4%A7%E6%BC%B2471%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A1%9D1705%E5%85%83-%E5%8D%97%E4%BA%9E%E7%A7%91%E6%BC%B2%E5%81%9C-054101797.html",
+      "Content": "台股今（6）日開低走高，再創新高，終場大漲471.26點收30576.3點。\n\n台積電終場漲35元收1705元。權值股紛紛上漲，鴻海公布2025營收突破8兆元、年增18%，股價漲0.64%收236元，廣達漲1.44%，台達電站穩千元大關，終場收1050元。面板雙虎群創及友達紛紛亮燈。\n\n記憶體也湧入資金，南亞科公布去年11月合併營收101.69億元，年增364.89%，股價爆量漲停攻上228.5元，再創新天價，華邦電衝上104元再創新高。\n\n台股昨日收30105.04點，大漲755.23點或2.57%，總成交值8007.94億元。三大法人買超27.95億元，外資賣超76.43億元，投信、自營商賣超3.11億元及買超107.49億元。\n\n道瓊上漲594.79點或1.23%，收48,977.18點。S&P500上漲43.58點或0.64%，收6,902.05點。NASDAQ上漲160.19點或0.69%，收23,395.82點。費城半導體上漲78.98點或1.07%，收7,446.45點。\n\n更多中時新聞網報導2025錯過台積電、鴻海、南亞科？2026抱緊4大產業 讓你賺翻倍、笑著退休0050首季配息來了！每股配息1元 本月22日除息別再追高記憶體！下個500％漲幅奇蹟即將誕生？「AI基建最後拼圖呼之欲出」蔡明彰點名2檔漲幅還落後",
       "Language": "zh"
     },
     {
@@ -33,6 +103,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-01-06",
+      "Time": "13:19:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈焦點股〉股王發威、記憶體噴漲 00947股價首破20元漲相好",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-%E8%82%A1%E7%8E%8B%E7%99%BC%E5%A8%81-%E8%A8%98%E6%86%B6%E9%AB%94%E5%99%B4%E6%BC%B2-00947%E8%82%A1%E5%83%B9%E9%A6%96%E7%A0%B420%E5%85%83%E6%BC%B2%E7%9B%B8%E5%A5%BD-051934711.html",
+      "Content": "2026 開年，台股不畏國際地緣政治紛擾，突破 3 萬點再創歷史新高，盤勢不只是「台積電一個人的武林」，股王信驊 (5274-TW) 今 (6) 日盤中一度上漲近 4.5%，而記憶體類股在報價持續上漲之下，相關類股如華邦電 (2344-TW)、群聯 (8299-TW) 大漲逾 8%，南亞科 (2404-TW)、旺宏(2337-TW) 更是一舉攻上漲停，其中旺宏已連三天漲停，連帶使台新臺灣 IC 設計動能 ETF(00947-TW) 盤中飆漲近 4.5%，冠居台股 ETF。\n\n00947 不僅是本日漲幅最大的台股 ETF，且股價首次突破 20 元，同步創下歷史新高。累計近一季漲幅接近三成，勝過近半年掀起熱潮的主動式 ETF。\n\n根據研調機構集邦科技（TrendForce）發布最新報告指出，由於晶片產能不足、地緣政治不確定性以及全球半導體需求結構影響的推動，市場供給嚴重緊縮，本季一般型 DRAM 合約價格預計將大幅上漲 55% 至 60%，儲存型快閃記憶體（NAND Flash）價格也將季增 33% 至 38%，激勵相關族群強勢上攻。\n\n全台唯一聚焦在 IC 設計的 ETF 台新臺灣 IC 設計今日受惠，開盤即開漲並隨 IC 設計族群股價表現一路走高，大漲近 4.5%，除囊括信驊等 IC 設計個股外，00947 指數編製也與時俱進，將記憶體 IC 設計等相關細分產業納入指數採樣範圍。\n\n00947 前七大成分股權重皆逾 7%，分別為華邦電、聯發科、南亞科、群聯、台達電、信驊及創意。台新投信表示，00947 含括許多高單價 IC 設計個股，透過一張約 2 萬元的 ETF，能讓投資人有效參與 IC 設計個股的成長。\n\n※免責聲明：文中所提的個股、基金、期貨商品內容僅供參考，並非投資建議，投資人應獨立判斷，審慎評估風險，自負盈虧。\n\n更多鉅亨報導&bull;〈焦點股〉台股氣勢如虹站穩3萬點 00981A成首檔衝上17元主動式ETF&bull;〈焦點股〉搶搭日韓股漲勢特快車 中信00964、00955、00956全創新高",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-01-06",
       "Time": "13:11:15",
@@ -51,6 +131,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E6%90%AD%E4%B8%8A%E8%A8%98%E6%86%B6%E9%AB%94%E7%86%B1%E6%BD%AE%EF%BC%81%E5%8F%B0%E6%96%B000947%E7%9B%A4%E4%B8%AD%E9%A3%86%E6%BC%B24-%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B420%E5%85%83%E5%A4%A7%E9%97%9C-050914067.html",
       "Content": "2026台股氣勢如虹，在台積電領軍衝破三萬點、記憶體報價續揚帶動下，盤面資金明顯向記憶體與IC設計族群集中，相關個股全面噴出，也推升ETF表現水漲船高；台新臺灣IC設計動能ETF（00947）順勢成為盤面焦點，今（6）盤中飆漲逾4.6%，股價首度站上20元整數關卡，改寫掛牌以來新高，也展現搭上記憶體熱潮的強勁動能。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-06",
+      "Time": "12:59:55",
+      "Source": "Morningstar Research",
+      "Title": "Analyst Report: NVIDIA Corporation",
+      "URL": "https://finance.yahoo.com/m/9af8334a-c23f-38c6-a1e9-0bf7bc2b6a98/analyst-report%3A-nvidia.html",
+      "Content": "Nvidia is a leading developer of graphics processing units. Traditionally, GPUs were used to enhance the experience on computing platforms, most notably in gaming applications on PCs. GPU use cases have since emerged as important semiconductors used in artificial intelligence to run large language models. Nvidia not only offers AI GPUs, but also a software platform, Cuda, used for AI model development and training. Nvidia is also expanding its data center networking solutions, helping to tie GPUs together to handle complex workloads.\n\nContinue Reading",
+      "Language": "en"
     },
     {
       "Ticker": "2330.TW",
