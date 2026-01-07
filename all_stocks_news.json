@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-01-07T12:54:25.154Z",
-  "total_news_count": 1146,
+  "last_updated": "2026-01-07T13:53:54.289Z",
+  "total_news_count": 1156,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "21:30:39",
+      "Source": "MT Newswires",
+      "Title": "Update: Market Chatter: Nvidia CEO Huang Says Purchase Orders Likely to Indicate Chinese Approval of H200 Chip",
+      "URL": "https://finance.yahoo.com/news/market-chatter-nvidia-ceo-huang-133039321.html",
+      "Content": "(Updates with Nvidia's response in the fourth paragraph.) Nvidia (NVDA) Chief Executive Jensen Hu\n\nPREMIUM\nUpgrade to read this MT Newswires article and get so much more.\nA Silver or Gold subscription plan is required to access premium news articles.\nUpgrade Already have a subscription? Sign in",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "21:30:00",
+      "Source": "Business Wire",
+      "Title": "FICO Achieves Massive Speedups in Optimization Using NVIDIA GPUs",
+      "URL": "https://finance.yahoo.com/news/fico-achieves-massive-speedups-optimization-133000216.html",
+      "Content": "NVDA\n\nFICO® Xpress 9.8 leverages NVIDIA AI infrastructure and CUDA-X to accelerate the hybrid gradient algorithm up to 50x\nBOZEMAN, Mont., January 07, 2026 --( BUSINESS WIRE )--FICO (NYSE: FICO):\nHighlights:\nFICO Xpress 9.8 features a GPU-accelerated implementation of the hybrid gradient algorithm, yielding up to 50x speedups for very large optimization problems\nFICO Xpress Optimization has the widest breadth of industry-leading optimization algorithms and technologies\nA complimentary 60-day trial license of FICO Xpress 9.8 is available\n\nGlobal analytics software leader FICO (NYSE: FICO) today announced that the latest release of its FICO® Xpress Optimization suite includes the integration of NVIDIA CUDA-X libraries to help solve massive computational problems in a fraction of the time. FICO Xpress 9.8 features a GPU-accelerated implementation of the hybrid gradient algorithm, yielding up to 50x speedups.\nThe hybrid gradient algorithm is useful for getting faster solutions to extremely large, dense problems — those featuring tens or hundreds of millions of non-zeros in the problem matrix — due to its lower memory overhead. NVIDIA CUDA-X is a suite of GPU-accelerated libraries and frameworks for building applications that deliver dramatically higher performance than CPU alternatives across data processing, AI, and high-performance computing.\n\n\"With more than 40 years of continuous innovation in the optimization solver industry, FICO Xpress continues to evolve by integrating cutting-edge technologies that address our customers' need for solving larger, more complex problems at unprecedented speed,\" said Bill Waid, chief product and technology officer at FICO . \"The GPU-accelerated hybrid gradient algorithm represents an important addition to Xpress's comprehensive suite of optimization algorithms, enabling organizations to solve large-scale problems faster and unlock new possibilities for data-driven decision making.\"\n\"NVIDIA CUDA-X libraries and accelerated computing can help enterprises solve the world's largest, most complex optimization problems,\" said Alex Fender, Director of Decision Optimization at NVIDIA . \"The ecosystem has quickly embraced GPU solvers, and by leveraging NVIDIA CUDA-X libraries, FICO Xpress 9.8 is helping customers achieve breakthroughs in speed and scale, transforming operational efficiency and decision making.\"\nGPU acceleration for the hybrid gradient algorithm is a beta feature in FICO® Xpress 9.8 , which is available now. Any NVIDIA GPU with NVIDIA CUDA Compute Capability 7.5 or later is supported. For more information, see here .\n\nStory Continues\nThe new GPU-accelerated algorithm is just one of a much broader set of industry-leading optimization algorithms available to FICO® Xpress users. FICO Xpress 9.8 also features performance enhancements to the mixed-integer programming engine, making it 14% faster overall than last year and 24% faster on models that require at least 100 seconds; and to the global solver, which is now 68% faster overall and 5.3x faster for models that take at least 100s. Operations research professionals can learn more in the Optimization Community .\n\nFICO® Xpress Optimization enables businesses to rapidly deploy advanced analytic models into end-user applications powered by robust and scalable optimization engines. Users formulate models in easy-to-understand terms to account for trade-offs and sensitivities, share results with peers, run what-if scenario analyses, and compare the impact of different strategies to optimize decision workflows. It includes FICO® Xpress Solver, which contains the broadest set of industry-leading optimization algorithms and technologies to solve linear, mixed integer, and nonlinear problems, helping users solve their most difficult and complex challenges. FICO offers a 60-day trial version of the FICO Xpress Optimization Suite .\nAbout FICO\nFICO (NYSE: FICO) powers decisions that help people and businesses around the world prosper. Founded in 1956, the company is a pioneer in the use of predictive analytics and data science to improve operational decisions. FICO holds more than 200 US and foreign patents on technologies that increase profitability, customer satisfaction, and growth for businesses in financial services, insurance, telecommunications, health care, retail, and many other industries. Using FICO solutions, businesses in more than 80 countries do everything from protecting four billion payment cards from fraud to improving financial inclusion to increasing supply chain resiliency. The FICO® Score, used by 90% of top US lenders, is the standard measure of consumer credit risk in the US and has been made available in over 40 other countries, improving risk management, credit access, and transparency.\nLearn more at https://www.fico.com/en .\nJoin the conversation at https://x.com/FICO_corp & https://www.fico.com/blogs/\nFor FICO news and media resources, visit https://www.fico.com/en/newsroom .\nFICO is a registered trademark of Fair Isaac Corporation in the U.S. and other countries.\nView source version on businesswire.com: https://www.businesswire.com/news/home/20260107263711/en/\nContacts\npress@fico.com",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GFS",
+      "Date": "2026-01-07",
+      "Time": "21:30:00",
+      "Source": "GlobeNewswire",
+      "Title": "GlobalFoundries Announces Conference Call to Review Fourth Quarter and Full-Year 2025 Financial Results",
+      "URL": "https://finance.yahoo.com/news/globalfoundries-announces-conference-call-review-133000056.html",
+      "Content": "MALTA, N.Y., Jan. 07, 2026 (GLOBE NEWSWIRE) -- GlobalFoundries (NASDAQ: GFS) today announced that it will host a conference call on Wednesday, February 11, 2026, at 8:30 a.m. ET following the release of the company’s fourth quarter and full-year 2025 financial results.\nConference Call and Webcast Information\n\nThe company will host a conference call with the financial community on Wednesday, February 11, 2026, at 8:30 a.m. ET. Interested parties may join the scheduled conference call by registering here .\nThe company’s financial results and a webcast of the conference call will be available on GlobalFoundries’ Investor Relations website at https://investors.gf.com .\nAbout GF\nGlobalFoundries (GF) is a leading manufacturer of essential semiconductors the world relies on to live, work and connect. We innovate and partner with customers to deliver more power-efficient, high-performance products for the automotive, smart mobile devices, internet of things, communications infrastructure and other high-growth markets. With our global manufacturing footprint spanning the U.S., Europe and Asia, GF is a trusted and reliable source for customers around the world. Every day, our talented, global team delivers results with an unwavering focus on security, longevity and sustainability. For more information, visit www.gf.com.\n©GlobalFoundries Inc. GF, GlobalFoundries, the GF logos and other GF marks are trademarks of GlobalFoundries Inc. or its subsidiaries. All other trademarks are the property of their respective owners.\nFor further information, please contact:\n\nir@gf.com",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "21:29:23",
+      "Source": "Quartz",
+      "Title": "How long will Jensen Huang be Nvidia's CEO?",
+      "URL": "https://finance.yahoo.com/m/7375a19e-12df-30dd-8b5b-8d23bab7a40c/how-long-will-jensen-huang-be.html",
+      "Content": "AAPL\n\nMETA\n\nTSLA\n\nLAS VEGAS — Since 1993, Jensen Huang has held the position of CEO at Nvidia . He led the company from a stock price of pennies per share from 1999 to 2016 to its current height of more than $187 — and the most valuable company in the world .\nThat's a tenure that far surpasses other tech leaders (and those in most other industries), including Apple's Tim Cook (14 years), Meta's Mark Zuckerberg (22) and Tesla's Elon Musk (who founded SpaceX in 2002).\n\nHuang will turn 63 this year, though. And the company has not announced any formal succession plan for him whenever he does eventually call it quits, which has caused some agita amongst shareholders. At a Q&A session with reporters at CES in Las Vegas on Tuesday, Huang addressed the speculation, making it clear he has no plans to go anywhere.\n\"The secret for being CEO for this long is 1, don't get fired, and 2, don't get bored,\" he said. \"I don't know which one comes first. How long [will I remain CEO]? For as long as I deserve it.\"\nHuang said there is a \"great responsibility\" in being CEO of Nvidia, an acknowledgement that the AI chip maker's performance has ripple effects not only on the tech sector, but the market as a whole.\n\"We are the captain of this industry and we have supply chain partners and collaboration partners all over the world who are counting on us to do our part,\" he said. \"So there is a great responsibility that comes with our company. It took us 34 years to get here. We're getting good at it. If you do something for 34 years, you can figure it out.\"\nHuang and Nvidia will have plenty to figure out in the coming years. Earlier at CES, the company announced the launch of its next-generation Vera Rubin superchip, which begins shipping later this year. It alsp announced a self-driving technology partnership with Mercedes-Benz to compete with Tesla's autopilot.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "21:00:28",
+      "Source": "Investor's Business Daily",
+      "Title": "Smorgasbord Of Buy Points Kicks Off 2026. Google, Nvidia On The Menu.",
+      "URL": "https://finance.yahoo.com/m/81b84fde-b565-364e-8ceb-e6ac3c26bd33/smorgasbord-of-buy-points.html",
+      "Content": "GOOG\n\nHALO\n\n^DJI\n\nAS\n\nNeed stocks to watch in the new year? Nvidia and Google stock serve up a hint of could be on the menu.\n\nContinue Reading",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-01-07",
+      "Time": "21:00:28",
+      "Source": "Investor's Business Daily",
+      "Title": "Smorgasbord Of Buy Points Kicks Off 2026. Google, Nvidia On The Menu.",
+      "URL": "https://finance.yahoo.com/m/81b84fde-b565-364e-8ceb-e6ac3c26bd33/smorgasbord-of-buy-points.html",
+      "Content": "GOOG\n\nHALO\n\n^DJI\n\nAS\n\nNeed stocks to watch in the new year? Nvidia and Google stock serve up a hint of could be on the menu.\n\nContinue Reading",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-01-07",
+      "Time": "20:57:21",
+      "Source": "Investor's Business Daily",
+      "Title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Stock Nears Buy Point",
+      "URL": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html",
+      "Content": "AVGO\n\nAPH\n\nLRCX\n\nGOOG\n\nAmong the best stocks in earnings performance, Broadcom boasts a 98 EPS Rating, one of the highest in the chip sector.\n\nContinue Reading",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "20:48:08",
+      "Source": "Just Auto",
+      "Title": "Nvidia to launch its AI-based autonomous technology in 2026",
+      "URL": "https://finance.yahoo.com/m/06912594-b8c6-3baf-9f39-a0c36e5be35f/nvidia-to-launch-its-ai-based.html",
+      "Content": "MBGAF\n\nNvidia announced at the Consumer Electronics Show (CES 2026) in Las Vegas that it is has strengthened its partnership with German automaker Mercedes-Benz for the development of “the world’s most advanced” software-defined vehicles (SDVs).\nNvidia confirmed that Mercedes-Benz will adopt its Nvidia Drive AGX system, which it said will “enable Level 2++ driving today and pave the way for Level 4 autonomous driving in the future.” The US chipmaker also announced that its Nvidia Omniverse “digital twins will also help Mercedes-Benz optimize vehicle design and manufacturing from factory to road.”\n\nNvidia confirmed that its Drive AV software will debut in the all-new Mercedes-Benz CLA this year, providing Level 2++ point-to-point driver assistance capabilities, while the partnership between the two companies has also been expanded to include building passenger and cargo vans using the Nvidia Drive Hyperion system.\nNvidia pointed out that its Drive AV system uses an “AI end-to-end stack for core driving, alongside a parallel classical safety stack — built on the Nvidia Halos safety system — that adds redundancy and safety guardrails. As a result, vehicles can learn from vast amounts of real and synthetic driving data to assist drivers in safely navigating complex environments and scenarios with humanlike decision-making.”\nNvidia’s CEO, Jensen Huang, stated during his presentation of the company’s latest automotive technologies at CES 2026 that he was “really excited that the first vehicle using autonomous driving software developed by Nvidia will hit the road this year.” The roll out is expected to begin in the US in the first quarter of 2026, followed by Europe in the second quarter and Asia in the second half of the year. Jensn Huang said he expects that “in the future, all cars will become autonomous and will be operated by AI. There is no doubt that autonomous vehicles will become one of the largest robotics industries.”\n\n\"Nvidia to launch its AI-based autonomous technology in 2026\" was originally created and published by Just Auto , a GlobalData owned brand.\n\nThe information on this site has been included in good faith for general informational purposes only. It is not intended to amount to advice on which you should rely, and we give no representation, warranty or guarantee, whether express or implied as to its accuracy or completeness. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-01-07",
+      "Time": "20:46:48",
+      "Source": "Motley Fool",
+      "Title": "Here's Why Shares in Johnson Controls Slumped Today (Hint: It's Nvidia Related)",
+      "URL": "https://finance.yahoo.com/m/b529f0fe-78fd-36c3-9e86-6258f70e6479/here%27s-why-shares-in-johnson.html",
+      "Content": "JCI\n\nKey Points Nvidia's next-generation AI infrastructure operates in a way that could potentially drive demand for Johnson Controls' products.\nData centers' infrastructure is not Johnson Controls' core business, but it is a fast-growing area, and investors have high hopes for it.\n10 stocks we like better than Johnson Controls International ›\n\nThe words of Nvidia CEO Jensen Huang matter, and the implications of what he said at the CES 2026 trade show had an impact on stocks like Johnson Controls (NYSE: JCI) . The heating, ventilation, and air conditioning (HVAC) company's stock was down by as much as 10% in early morning trading as the market digested Huang's comments.\nJensen Huang's presentation When discussing Nvidia's next-generation of AI infrastructure, called Vera Rubin, Huang noted that the new systems would use warm water cooling.\nIn fact, the matter was discussed the previous day in an Nvidia technical blog post, \" Traditional data centers heavily rely on air cooling, which consumes significant energy to move and condition air. Vera Rubin NVL72 systems instead use warm-water, single-phase direct liquid cooling (DLC) with a 45-degree Celsius supply temperature.\"\n\nWhat it means to Johnson Controls That's great news for energy efficiency, but it's not great news for companies like Johnson Controls and Trane , which provide chillers and refrigeration solutions to keep data centers and, ultimately, servers cool. While data center-related revenue is likely responsible for a mid-teens percentage of Johnson Controls' revenue, it serves as a growth engine for the company. Consequently, today's sell-off in the stock and that of its peers like Trane is understandable.\n\nShould you buy stock in Johnson Controls International right now? Before you buy stock in Johnson Controls International, consider this:\nThe Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Johnson Controls International wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.\n\nConsider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you’d have $493,290 !* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $1,153,214 !*\nNow, it’s worth noting Stock Advisor’s total average return is 973 % — a market-crushing outperformance compared to 195% for the S&P 500. Don't miss the latest top 10 list, available with Stock Advisor , and join an investing community built by individual investors for individual investors.\n\nStory Continues\nSee the 10 stocks »\n*Stock Advisor returns as of January 7, 2026.\nLee Samaha has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Johnson Controls International and Nvidia. The Motley Fool has a disclosure policy .\nHere's Why Shares in Johnson Controls Slumped Today (Hint: It's Nvidia Related) was originally published by The Motley Fool",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-01-07",
@@ -80,6 +170,16 @@
       "Title": "Cisco’s Long Road Back Shows How Tech Manias Can Bury Even the Best Companies",
       "URL": "https://finance.yahoo.com/m/bcbcf5ae-578e-341a-a796-a09f9c25bf55/cisco%E2%80%99s-long-road-back-shows.html",
       "Content": "Doug and Lee discussed Cisco’s return to its dot-com peak after 25 years, highlighting how long-term survival and dividends ultimately mattered more than hype-driven growth.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-01-07",
+      "Time": "20:09:36",
+      "Source": "GuruFocus.com",
+      "Title": "Intel Stock Gains as Management Teases New Gaming Chips",
+      "URL": "https://finance.yahoo.com/news/intel-intc-shares-rise-executive-120936374.html",
+      "Content": "This article first appeared on GuruFocus .\nIntel ( NASDAQ:INTC ) shares climbed about 2% in Tuesday trading after an executive said the chipmaker is working on a new processor and platform focused on gaming, according to comments made at CES and reported by TechCrunch .\nWarning! GuruFocus has detected 9 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nDaniel Rogers, an Intel executive, said the company is developing a dedicated gaming processor alongside a broader gaming platform that will combine both hardware and software, according to a Tuesday press release-style briefing.\nThe platform is expected to be built on Intel's Core Series 3 processors, which will serve as the foundation for the new gaming-focused offering. Rogers said Intel plans to share more details about the processor and platform later this year.\nThe move signals a renewed push into gaming chips, an area where Intel has a long history dating back to the 1990s. The company is aiming to strengthen its competitive position against Advanced Micro Devices (AMD) and Nvidia (NVDA), both of which have expanded their gaming-focused processor portfolios in recent years.\nInvestors believed that the plan was quite promising, as an expansionary tool in the face of the continuing high demand for both high-performance gaming hardware.\nThe shares of Intel continued to ride the previous stock with some optimistic hopes regarding the timing and how it would be implemented.",
       "Language": "en"
     },
     {
