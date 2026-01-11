@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-01-10",
-  "total_reports": 38,
+  "last_updated": "2026-01-12",
+  "total_reports": 39,
   "reports": [
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YC06T:0/",
+      "Date": "2026-01-12",
+      "Time": "06:14:20",
+      "Title": "全球匯市：最近一周主要貨幣的凈倉位情況--CFTC",
+      "Content": "[表格內容]\n以下為美國商品期貨交易委員會(CFTC)周五公布的最近一周投機客持有主要貨幣的凈倉位情況 (單位：口；數值為正代表凈多倉，為負代表凈空倉) 1月6日當周 上一周 日圓 8,815 14,068 歐元 162,812 157,465 英鎊 -30,538 -33,207 瑞郎 -40,266 -44,198 比特幣 -734 -513 欲參考英文原文，請點擊。(完)",
+      "ContentLength": 190,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-12 06:42:40"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YA0SD:0/",
