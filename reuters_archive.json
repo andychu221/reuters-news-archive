@@ -1,7 +1,29 @@
 {
   "last_updated": "2026-01-14",
-  "total_reports": 72,
+  "total_reports": 74,
   "reports": [
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YF06X:0/",
+      "Date": "2026-01-14",
+      "Time": "11:02:24",
+      "Title": "台灣匯市：台幣開低後跌幅收斂一度翻揚，因外資偏匯入及出口商拋匯",
+      "Content": "台幣兌美元 周三早盤開低後跌幅收斂。交易員表示，由於國際美元反彈，帶動台幣開低一度失守31.700刷新波段低位，吸引出口商進場拋匯，且早盤外資偏匯入，引領台幣跌幅縮窄回到平盤附近整理，甚至一度小幅翻揚。\n\n他們指出，早盤台股續創新高，有外資延續上日午後的賣匯交投，促使台幣一度由貶轉升，中止連五日跌勢，後續關注外資動向、出口商拋匯量能及央行態度。\n\n“早上出口拋匯+外資匯入，故事有點跟前幾天兜不起來了。”一大型商銀交易員說。\n\n本地時間10:48，台幣兌美元升0.6分報31.650，交易區間在31.650-31.706，盤中前低為去年5月2日的32.105；台股 TWSE:TAIEX則漲0.68%。\n\n在海外無本金交割遠期外匯市場(NDF)方面，目前指標一個月期美元/台幣換匯點 (TWDNDF=)溢價幅度較上日尾盤縮減；一個月美元/台幣遠匯 (TWD1MNDFOR=)報31.738/31.758，上日收在31.730。\n\n交易員預估，今日台幣兌美元匯率主要交易區間在31.600-31.706。（完） \n\n最新相關報導鏈接：\n\n--《全球匯市》美元反彈，美國CPI數據符合預期且鮑威爾獲廣泛力挺",
+      "ContentLength": 502,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-14 11:42:45"
+    },
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3YF085:0/",
+      "Date": "2026-01-14",
+      "Time": "10:52:22",
+      "Title": "台灣股市：盤中升近1%至30,994.81點再創盤中紀錄高位，與亞股同攀高",
+      "Content": "台灣股市 TWSE:TAIEX周三盤中升近1%、至30,994.81點，再創盤中紀錄高位。\n\n周三亞洲股市在日本股市的提振下上漲，原因是投資者為日本可能會採取更多財政刺激措施的大選做準備。（完）",
+      "ContentLength": 97,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-14 11:42:41"
+    },
     {
       "Source": "TradingView - Reuters Bonds",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3YF05H:0/",
