@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-01-22",
-  "total_reports": 153,
+  "total_reports": 154,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YM1DR:0/",
+      "Date": "2026-01-22",
+      "Time": "06:39:15",
+      "Title": "美國股市：主要股指收漲逾1%，受格陵蘭框架協議消息鼓舞",
+      "Content": "[表格內容]\n****查閱相關新聞或頁面，請點選下列代碼連結**** 美國股市 一周展望 歐洲股市報導 日本股市報導 中港股市報導 中國股市報導 台灣股市報導 股市簡訊 納斯達克最活躍個股 (.AV.O) 紐約證交所最活躍個股 (.AV.N) 納斯達克漲幅居前個股 (.PG.O) 紐約證交所漲幅居前個股 (.PG.N) 納斯達克跌幅居前個股 (.PL.O) 紐約證交所跌幅居前個股 (.PL.N) 標普主要分類指數 (0#.GSPMAJOR) 英股富時指數 CURRENCYCOM:UK100 德股DAX指數 法股CAC-40指數 韓國股市已並入韓國金融市場報導中，相關稿件請點選",
+      "ContentLength": 291,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-22 06:42:43"
+    },
     {
       "Source": "TradingView - Reuters Bonds",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YM1B9:0/",
