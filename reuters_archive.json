@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-01-27",
-  "total_reports": 199,
+  "total_reports": 200,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3YS06M:0/",
+      "Date": "2026-01-27",
+      "Time": "10:50:27",
+      "Title": "台灣債市：指標五及10年公債早盤暫無成交，月底交易意願較低觀望新券標售",
+      "Content": "台灣指標五及10年公債周二早盤暫無成交。交易員指出，目前10年美債殖利率仍在4.2%附近整理，暫缺乏進一步指引，且現正值月底交易意願也相對較低，並觀望午間30年新券標售結果。\n\n“NOTHING NEW(沒什麼新變數)，先等候標債結果。”一位大型銀行交易員說。\n\n台灣央行稍後將代財政部標售30年公債115乙1期公債 (A15201=TWO)，該期為首檔具永續發展性質的公債。路透調查結果顯示，此次得標利率預估中值在1.60-1.63%。\n\n本地時間10:45，五年券115/1R期 (A15101R=TWO)及10年券115/3期 (A15103=TWO)電子盤暫無成交；台股 TWSE:TAIEX則漲0.85%，盤中一度創歷史新高。 \n\n交易員預估，今日五年債115/1R期殖利率交易區間在1.30-1.33%；10年債115/3期殖利率區間則在1.40-1.425%。（完）\n\n最新相關報導鏈接：\n\n--美國債市：公債價格在兩年期公債標售後上漲，關注美聯儲新主席人選",
+      "ContentLength": 436,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-27 11:42:46"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3YS05E:0/",
