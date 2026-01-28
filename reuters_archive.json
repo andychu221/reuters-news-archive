@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-01-28",
-  "total_reports": 212,
+  "total_reports": 213,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3YT0AF:0/",
+      "Date": "2026-01-28",
+      "Time": "10:45:39",
+      "Title": "台灣債市：指標五及10年債早盤暫無成交，對10年美債利率走揚反應淡定",
+      "Content": "台灣指標五及10年公債周三早盤暫無成交。交易員指出，儘管10年美債殖利率走揚，但台債早盤反應淡定，指標券報價利率仍在既有區間未見成交，市場普遍預期後續台債利率走勢難脫區間。\n\n“30年新債標得一般般，不影響市場。”一位大型證券交易員說。\n\n台灣央行周二公布，財政部委託標售的首檔永續公債--30年115乙1期得標利率為1.598%，低於市場預估的1.60-1.63%。 \n\n本地時間10:22，五年券115/1R期 (A15101R=TWO)及10年券115/3期 (A15103=TWO)電子盤暫無成交；台股 TWSE:TAIEX則漲0.95%，盤中一度創歷史新高--32,706.72點。 \n\n交易員預估，今日五年債115/1R期殖利率交易區間在1.30-1.33%；10年債115/3期殖利率區間則在1.40-1.41%。（完）\n\n最新相關報導鏈接：\n\n--美國債市：收益率漲跌不一，等待美聯儲決議出爐",
+      "ContentLength": 404,
+      "HasTables": false,
+      "ScrapedAt": "2026-01-28 11:42:42"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YT040:0/",
