@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-02",
-  "total_reports": 31,
+  "total_reports": 32,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3R802Z:0/",
+      "Date": "2026-02-02",
+      "Time": "10:17:09",
+      "Title": "台灣股市：早盤下跌逾2%受美股回檔修正拖累，短線將回測月線支撐",
+      "Content": "台灣股市周一早盤下跌逾2%，且一舉跌破32,000點整數大關；分析師稱，因市場憂美國總統川普(特朗普)提名的美聯儲新任主席人選偏鷹，上周五美國股市回檔修正，拖累台股跟著走跌。\n\n“因為市場擔心美聯儲新的人選。”兆豐國際投顧副總經理黃國偉說，“大家把他（瓦爾許）過往講過的話和政策做解讀，覺得他會做一個史無前例的壯舉，即要降息，但又要收回市場流動性。”\n\n他並稱，因上周五美國股市回檔修正，加上美元指數 走高，拖累今天台股下跌、台幣亦跟著走貶，短線台股料將續回檔並回測月線（31,000點）支撐。\n\n華爾街主要股指上周五收低，因投資者認為總統特朗普提名前美聯儲理事瓦爾許接替美聯儲主席鮑威爾屬鷹派選擇，同時也在消化企業財報以及高企的通脹數據。\n\n本地時間10:11，台灣加權指數 TWSE:TAIEX下跌2%至31,423.76點，大型權值股台積電 則跌1.41%。（完）",
+      "ContentLength": 385,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-02 10:42:42"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3YX0CD:0/",
