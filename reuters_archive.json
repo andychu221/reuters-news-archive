@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-02-04",
-  "total_reports": 69,
+  "last_updated": "2026-02-05",
+  "total_reports": 70,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3Z01XG:0/",
+      "Date": "2026-02-05",
+      "Time": "00:02:18",
+      "Title": "美國股市漲跌不一，科技股持續疲軟",
+      "Content": "美國股市漲跌不一，科技股持續疲軟\n\n美國股市周三早盤漲跌不一，道指 上漲，標普500指數 和納斯達克指數 疲軟，受科技股再度下跌拖累。 \n\n安進 第四季度業績超出預期，該公司股價大漲逾6%，為道指上漲提供了支撐 。 \n\n科技 是 11 個主要板塊中表現最差的板塊之一，芯片製造商尤其表現疲軟。Nvidia 、Advanced Micro Devices 和Broadcom 是拖累基準標普500指數最大的三隻股票，費城半導體指數 下跌超過2%。 \n\nAMD 下跌超過 14%，此前該公司較低的銷售預期 引發了市場對該公司能否與競爭對手Nvidia有效競爭的擔憂。 \n\n軟件類股的疲軟態勢也持續 ，標普500軟件和服務指數 (.SPLRCIS)連續第六個交易日下跌。在此期間，該指數已累計下跌超過 13%，創下 2020 年 3 月以來的最大跌幅。 \n\n在周二的科技股大跌之後，杰富瑞（Jefferies）股票交易櫃檯的杰弗里-法烏扎（Jeffrey Favuzza）在一份說明中表示，目前科技股在14天RSI基礎上顯示為超賣的比例達到了自2025年春季關稅宣布以來的最高水平，但 \"今天與前幾周的不同之處在於，這一次我們已經開始看到這種情況滲入IT服務、互聯網和某些媒體領域\"。\n\n以下是您的市場快照： \n\n查克-米科拉查克（Chuck Mikolajczak）\n\n*****\n\n早些時候的實時市場：\n\n為什麼比特幣最近的潰敗與眾不同 點擊此處 \n\n標普500指數：突破還是假突破？ 點擊此處 (link) \n\n瑞銀認為歐洲可再生能源將有 10-20% 的上升空間 點擊此處 \n\n歐洲汽車製造商面臨 \"可怕的 \"中國出口加速 點擊此處 (link) \n\n電信業大放異彩，軟件業舉步維艱，富時指數創下新紀錄 點擊此處 \n\n鐘聲敲響前的歐洲：軟件受關注，Novo受重創 點擊此處 \n\n歐元區在歐洲央行會議前面臨通脹障礙 點擊此處",
+      "ContentLength": 812,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-05 00:42:42"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3Z00K8:0/",
