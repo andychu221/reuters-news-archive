@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-05",
-  "total_reports": 83,
+  "total_reports": 84,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3Z11VL:0/",
+      "Date": "2026-02-05",
+      "Time": "23:30:27",
+      "Title": "美國股市走低，超級大盤股承壓",
+      "Content": "美國股市走低，超級大盤股承壓\n\n美國股市周四早盤走低，超級大盤股Alphabet 、微軟 、亞馬遜 承受了較大的下跌壓力。 \n\nAlphabet公布的季度業績超出預期 ，但表示今年的資本支出可能會增加一倍之多，因為該公司將繼續在人工智能主導權的爭奪中取得領先地位，之後該公司股價暴跌超過4%。最近幾周，人工智能支出的激增令投資者感到不安，他們擔心這些支出可能不會帶來相應的利潤。 \n\nMSFT 下跌超過 3%。亞馬遜股價在收盤後公布季度業績前下滑近 5%。 \n\n投資者還在關注三份顯示勞動力市場疲軟的報告。其中，全球職業介紹公司Challenger, Gray & Christmas的一份報告稱，1月份美國雇主宣布的裁員 激增，達到17年來同期的最高水平。 \n\n美國勞工部的另一份報告稱，每周首次申請失業救濟的人數跳增 22,000人，經季節性因素調整後達到231,000人，高於接受路透調查的經濟學家預計的212,000人，但這一數字可能因美國大部分地區的暴風雪天氣而有所上升。 \n\n最後，美國勞工部在其職位空缺和勞動力流動調查（JOLTS）報告中稱，12月份的職位空缺下降 至五年多來的最低水平，上個月的數據也被下調。 \n\n以下是您的市場快照：",
+      "ContentLength": 525,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-05 23:42:40"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Z10NG:0/",
