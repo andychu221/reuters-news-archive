@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-06",
-  "total_reports": 88,
+  "total_reports": 89,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3Q107D:0/",
+      "Date": "2026-02-06",
+      "Time": "09:40:34",
+      "Title": "台灣股市：開低走低一度挫逾2%，跟隨美股下跌",
+      "Content": "台灣股市 TWSE:TAIEX周五早盤開低走低，一度下跌逾2%，賣壓沉重，主要跟隨上日美股的下跌走勢；最大權重股--台積電 下跌逾1%。\n\n本地時間09：30，台股跌勢略緩至跌1.65%報31,277.19點；台積電則下跌1.13%報1,745台幣。\n\n美國股市周四大幅收低，微軟 、亞馬遜 及其他重量級科技公司下挫拖累納指跌至11月以來最低，此前Alphabet 表示，在爭奪主導人工智能(AI)這一新興技術的競賽中，其AI相關資本支出可能會翻倍。(完)",
+      "ContentLength": 228,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-06 09:42:40"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Z11HE:0/",
