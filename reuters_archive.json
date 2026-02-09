@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-09",
-  "total_reports": 107,
+  "total_reports": 108,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3V505P:0/",
+      "Date": "2026-02-09",
+      "Time": "09:14:27",
+      "Title": "台灣股市：盤初強漲逾2%由權重股台積電領軍，美股大漲",
+      "Content": "台灣股市 TWSE:TAIEX周一盤初大漲逾2%，權重股--台積電 則大幅上揚逾3%，主要受上周五美國股市大漲帶動。\n\n本地時間09:05，台股大漲2.23%報32,492.66點；約同時台積電大漲2.53%，報1,825台幣。\n\n美國道瓊斯工業指數周五突破歷史性的50,000點大關，標普500指數大幅收高，受Nvidia等芯片股飆升帶動，而亞馬遜在預測其AI基礎設施投入將大幅增加後股價大跌。（完）",
+      "ContentLength": 201,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-09 09:42:44"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Z40C2:0/",
