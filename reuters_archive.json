@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-10",
-  "total_reports": 121,
+  "total_reports": 122,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3Z604L:0/",
+      "Date": "2026-02-10",
+      "Time": "09:28:22",
+      "Title": "台灣股市：早盤一度升近2%再刷新盤中紀錄高位，台積電領漲",
+      "Content": "台灣股市周二早盤一度大升近2%再度刷新盤中紀錄高位；最大權重股--台積電 帶頭上攻。\n\n本地時間09：34，台灣加權指數 TWSE:TAIEX升1.62%報32,928點，稍早觸及33,047.38點的盤中新高；台積電則強彈2.75%報1,870台幣。\n\n美國股市周一上漲，科技股從近期跌勢中進一步反彈。道指小幅收高，連續第二個交易日刷新收盤紀錄，但標普500指數最終未能突破歷史收盤高點。（完）",
+      "ContentLength": 198,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-10 09:42:42"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3Z519R:0/",
