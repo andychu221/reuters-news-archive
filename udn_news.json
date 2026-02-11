@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-02-11T07:32:38.898Z",
+  "last_updated": "2026-02-11T08:32:39.806Z",
   "total_news_count": 480,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-02-11",
+      "Time": "16:24:00",
+      "Source": "經濟日報",
+      "Title": "封關日瘋搶什麼？台積電770億元稱王、友達噴50萬巨量、旺宏量價封后",
+      "URL": "https://money.udn.com/money/story/5607/9324241?from=edn_search_result",
+      "Content": "【Analyst Takeaway】The Taiwan Stock Exchange's Lunar New Year closing session saw a surge driven by heavyweight TSMC, hitting a new all-time high. This underscores market confidence in Taiwan's tech sector, particularly in AI-related components and memory chips. The strong performance of memory players like Macronix and Nanya Technology signals sustained demand fueled by AI and HPC trends. Furthermore, the resurgence of panel manufacturers like AUO and Innolux, despite being a more mature industry, suggests a potential cyclical upturn or specific catalysts are at play, attracting significant retail investor interest as evidenced by their high trading volumes. The presence of ETFs in the top ten also points to institutional money flowing into broad market and dividend-paying stocks ahead of the holiday.\n\n",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-02-11",
+      "Time": "16:06:00",
+      "Source": "經濟日報",
+      "Title": "蛇年飆股出爐！這檔 PCB 股大漲1269%奪冠 南亞科漲幅823%居第二名",
+      "URL": "https://money.udn.com/money/story/5607/9324213?from=edn_search_result",
+      "Content": "【Analyst Takeaway】This news highlights a strong bull run in the Taiwanese stock market during the 'Year of the Snake', with the benchmark index soaring over 40%. Notably, PCB and memory sectors dominated the top performers, with individual stocks like Dehong and Nanya Technology delivering astronomical returns. This surge suggests robust demand and investor confidence in these specific sub-sectors, likely driven by broader industry trends such as AI infrastructure build-out and the increasing complexity of electronic devices. The significant outperformance of these cyclical sectors indicates a market that is not only growing but also selectively favoring established technology players with tangible product demand. Investors should monitor if this trend continues into the next cycle, and whether other sectors can catch up or if these leaders will consolidate gains.\n\n",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-02-11",
@@ -4780,26 +4800,6 @@
       "Title": "需求火熱！小摩揭台積電先進製程急件訂單增 最多加價一倍",
       "URL": "https://money.udn.com/money/story/5612/9260418?from=edn_search_result",
       "Content": "本文共379字\n\n00:00\n\n2026/01/12 17:05:26\n\n台積電 （2330） 舉行法說會前夕股票目標價持續獲得上修，摩根大通（JPMorgan）將目標價調升至2,100元，意味以12日收盤水準計算仍有逾24%上漲空間。小摩預期台積電2026年毛利率將上升，N4和N3急件晶圓訂單增加是原因之一，並揭露這類訂單溢價上看一倍。\n\n小摩指出，台積電N4和N3晶圓急件（hot run）和超級急件（super hot run）溢價50%至100%，需求強勁帶動這類訂單增加，應會推升今年上半年毛利率到62%至63%區間。小摩預期台積電今年下半年毛利率仍會高於60%水準，全年毛利率可能略高於60%。\n\n台積電將在法說會前公布去年第4季財報，小摩預期台積電上季毛利率為62%，高於該公司原本預估的59%至61%，營收也可望超越財測區間。另外，小摩預期台積電2026年資本支出將介於460億至500億美元，全年以美元計算營收將成長30%。",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "2303.TW",
-      "Date": "2026-01-12",
-      "Time": "16:13:00",
-      "Source": "經濟日報",
-      "Title": "外資上周賣超台股434億元 逆勢大買聯電、南亞成市場焦點",
-      "URL": "https://money.udn.com/money/story/5607/9260315?from=edn_search_result",
-      "Content": "本文共405字\n\n00:00\n\n2026/01/12 16:13:35\n\n根據臺灣證券交易所統計，上周外資在集中市場賣超434.33億元，賣超友達 （2409） 9.88萬張最多，另買超聯電 （2303） 18.92萬張最多。上周（1/5~1/9）外資在集中市場總賣超金額為434.33億元，另統計自今年初至1月9日止，外資累計賣超金額為314.15億元。\n\n就個股比較部分，上周外資自集中市場買超最多的前三名上市公司：第一名買超聯電18.92萬張、第二名南亞 （1303） 買超12.46萬張、第三名華新 （1605） 買超10.63萬張。\n\n上周外資自集中市場賣超最多的前三名上市公司：第一名友達賣超9.88萬張、第二名玉山金 （2884） 賣超5.98萬張、第三名台積電 （2330） 賣超5.59萬張。\n\n外資總持有股票（包括原始股東持股及自集中市場買進之持股）市值為47兆4,811.27億元新台幣，占全體上市股票市值的48.13%，較1月2日的45兆5,596.95億元新台幣，增加1兆9,214.32億元。",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-01-12",
-      "Time": "15:51:00",
-      "Source": "經濟日報",
-      "Title": "定期定額台積電、0050霸榜 金融股占六成為核心配置",
-      "URL": "https://money.udn.com/money/story/5607/9260272?from=edn_search_result",
-      "Content": "本文共814字\n\n00:00\n\n2026/01/12 15:51:38\n\n臺灣證券交易所12日公布去年12月定期定額交易戶數統計排行。在台股高檔震盪之際，定期定額投資人數持續攀升，顯示長線存股領息已成為散戶投資人的主流策略。數據顯示，半導體權值股與高股息ETF仍是投資人首選，而金融股則以穩健的配息預期，在前20大個股中強勢霸占12席，成為存股族的「定海神針」。\n\n在個股交易戶數方面，台積電 （2330） 以149,433戶的絕對優勢蟬聯冠軍，單月增加超過6,600戶，顯示投資人對於AI長線成長紅利深具信心。值得關注的是，金融股在排行榜中表現亮眼，前20名中就有12檔金融股，檔數占比六成，且前十名中有七檔為金控股。\n\n其中，玉山金 （2884） 在12月異軍突起，交易戶數達29,876戶，超越兆豐金 （2886） 的28,236戶，成為金控存股人氣王。法人指出，玉山金受惠獲利穩健且配股配息政策符合股東期待，吸引不少小資族進場。此外，中信金 （2891） 、第一金 （2892） 及富邦金 （2881） 也緊隨其後，反映出在降息循環與金融環境轉佳下，投資人偏好穩定配息的金控標的。\n\nETF排行部分，老牌龍頭元大台灣50 （0050） 12月戶數激增至709,151戶，較11月大幅成長，穩居全台最受歡迎的投資工具，並首次突破70萬大關。高股息系列則緊追其後，元大高股息 （0056） 、國泰永續高股息 （00878） 及富邦台50（006208）分列二至四名。\n\n值得注意的是，主動型與主題型ETF也有竄起趨勢。統一FANG+ （00757） 與主動統一台股增長 （00981A） 在12月的排名均有所提升，顯示在被動指數投資之外，部分投資人開始追求具備超額報酬機會的科技主題與主動管理配置。\n\n法人建議，金融股具備低波動與穩定配息特性，適合追求現金流的投資人，台積電及大盤型ETF則適合追求資產長期增值的族群。面對2026年市場波動性增加，存股族透過定期定額能分散成本、有效應對波動，且隨著各金控近期陸續公布獲利，預計將進一步影響今年1月的存股熱度變化。",
       "Language": "zh"
     }
   ]
