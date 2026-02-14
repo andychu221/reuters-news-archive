@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-02-14T06:37:58.245Z",
-  "total_news_count": 13,
+  "last_updated": "2026-02-14T06:40:11.157Z",
+  "total_news_count": 17,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-02-14",
+      "Time": "09:25:00",
+      "Source": "Motley Fool",
+      "Title": "Alphabet vs. Meta Platforms: Which One Will Dominate the Next Decade?",
+      "URL": "https://finance.yahoo.com/m/acf98749-8068-3538-a308-7bcfde314811/alphabet-vs.-meta-platforms%3A.html",
+      "Content": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Meta Platforms (NASDAQ: META) have been clear leaders in the internet age. The former's Google Search and YouTube, for instance, and the latter's various social media apps are incredibly popular and drive robust financial performance.\nBetween these two \" Magnificent Seven \" stocks, which one will dominate the next decade?\nWhere to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy right now, when you join Stock Advisor. See the stocks »",
+      "Language": "en",
+      "IsSummarized": false
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-02-14",
+      "Time": "09:25:00",
+      "Source": "Motley Fool",
+      "Title": "Alphabet vs. Meta Platforms: Which One Will Dominate the Next Decade?",
+      "URL": "https://finance.yahoo.com/m/acf98749-8068-3538-a308-7bcfde314811/alphabet-vs.-meta-platforms%3A.html",
+      "Content": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Meta Platforms (NASDAQ: META) have been clear leaders in the internet age. The former's Google Search and YouTube, for instance, and the latter's various social media apps are incredibly popular and drive robust financial performance.\nBetween these two \" Magnificent Seven \" stocks, which one will dominate the next decade?\nWhere to invest $1,000 right now? Our analyst team just revealed what they believe are the 10 best stocks to buy right now, when you join Stock Advisor. See the stocks »",
+      "Language": "en",
+      "IsSummarized": false
+    },
     {
       "Ticker": "MU",
       "Date": "2026-02-14",
@@ -91,6 +113,17 @@
       "IsSummarized": false
     },
     {
+      "Ticker": "LITE",
+      "Date": "2026-02-12",
+      "Time": "18:20:00",
+      "Source": "Zacks",
+      "Title": "Bull of the Day: Lumentum (LITE)",
+      "URL": "https://finance.yahoo.com/news/bull-day-lumentum-lite-102000546.html",
+      "Content": "Lumentum ( LITE ) delivered a stellar beat-and-raise December quarter last week that has estimates soaring.\n\nNon-GAAP earnings of $1.67 per share beat the Zacks Consensus Estimate by 18.68%, and were up nearly 300% from the year-ago quarter.\n\nNon-GAAP revenues of $665.5 million, which beat the consensus mark by 1.85%, increased 24.7% on a sequential basis and 65.5% on a year-over-year basis.\n\nThe growth showcases the strength of the company&rsquo;s plans for both optical components and systems in a world where NVIDIA ( NVDA ) is building next-gen GPU rack-scale datacenter architectures based on silicon photonics connectivity, switching, and networking.\n\nProduct-wise, revenues from the Components segment contributed 66.7% to total revenues in the fiscal second quarter. The figure increased 68.3% year over year to $443.7 million. System revenues contributed 33.3% to total revenues. The figure increased 60.1% year over year to $221.8 million.\n\nLITE Q3 2026 Guidance Ignites Estimates\n\nFor Q3 fiscal 2026 (ends March), LITE expects non-GAAP revenues between $780 and $830 million vs a prior consensus closer to $700 million. The company expects non-GAAP operating margin in the range of 30% to 31%, vs expectations of 22%, and non-GAAP diluted earnings between $2.15 and $2.35 per share, vs a prior consensus under $1.60.\n\nAnd if any investor or analyst was wondering if this blistering pace was going to slow down any time soon, management said this during the conference call...\n\n&ldquo;Our forward guidance calls for over 85% year-over-year revenue growth, yet we are only at the starting line for two substantial opportunities: optical circuit switches (OCS) and co-packaged optics (CPO).\"\n\nAnd analysts are already reflecting this optimism in Q4 FY'26 (ends June) with projected growth of 87.5% to $900 million.\n\nThe full-year 2026 sales consensus moved to $2.9 billion, representing over 76% annual growth. And FY'27 is already projected to come in near $4.7 billion, for a 61.5% advance.\n\nAs you would expect, these sales ramps, combined with improving margins, are driving the bottom line estimates higher for both this year and next.\n\nA month ago, the FY26 EPS consensus was at $5.67 and FY27 at $8.29. Today they stand at $7.63 and $14.11, representing growth of 270% and 85%, respectively.\n\nHow NVIDIA Ignited Demand for Optical Interconnect\n\nI'll admit: I was late to the optical party. And I should not have been since I follow NVIDIA so closely. Lessons learned. In December, I profiled Lumentum optical peer Coherent ( COHR ). Here's what I wrote...\n\nWe know NVIDIA is a big customer of Credo Technology ( CRDO ) AECs because CEO Jensen Huang is a big fan of copper for connecting GPUs within rack-scale architectures and Credo has repeatedly showcased its AECs in live demonstrations at the NVIDIA GPU Tech Conference (GTC). These demos feature Credo's AECs connecting servers and switches directly to NVIDIA H100 GPUs to create disaggregated, rack-scale GPU clusters.\n\nBut at GTC in March [2025], Jensen announced a collaboration with a purely optical player, Coherent.\n\nOne big driver of investor enthusiasm that helped drive COHR shares from below $70 to over $190 this year was their collaboration with NVIDIA announced at GTC in March.\n\nCoherent and NVIDIA will develop silicon photonics networking switches using co-packaged optics (CPO). This ecosystem will allow AI factories to connect millions of GPUs.\n\nNVIDIA still uses copper wiring within Blackwell NVL72 rack-scale systems to connect GPUs to each other, but to \"scale out\" across the datacenter Jensen Huang recognized the power and speed of optical solutions to connect many racks together for the lowest latency.\n\nThus NVIDIA has several connectivity and networking systems that use optical and photonics solutions and they can be categorized into two main areas: Interconnect Products, including Infiniband and Ethernet protocols, and the upcoming Co-Packaged Optics, like Spectrum-X Photonics Switches.\n\nLITE and TSMC: Co-Design for the Win\n\nLumentum and Taiwan Semiconductor ( TSM ), aka TSMC, aka THE advanced chip foundry, are two of the most critical \"ingredient\" partners in NVIDIA's move toward Co-Packaged Optics (CPO).\n\nTheir collaboration solves a massive physics problem: as AI clusters grow to millions of GPUs, traditional copper wiring and pluggable transceivers consume too much power and generate too much heat.\n\nBy moving optics into the chip package, they reduce power consumption by roughly 3.5x and increase signal integrity significantly. Here is how they work together to build this for NVIDIA's next-gen platforms like Quantum-X and Spectrum-X.\n\nBut TSMC has to provide the \"packaging\" that allows electricity and light to live on the same chip. A major challenge with CPO is that lasers are heat-sensitive. If you put a laser directly next to a hot GPU or Switch ASIC, it will fail.\n\nTSMC&rsquo;s Compact Universal Photonic Engine (COUPE) is a 3D packaging process. It allows NVIDIA to stack the Electrical IC (the brain) directly on top of the Photonic IC (the eyes).\n\nMe and the Analysts: Won't Get Fooled Again\n\nAfter I understood this integrated circuit of interdependency, I finally bought Lumentum shares in January at $350 on the pullback from $400. Most analysts were still too timid with estimates and the high price targets were only calling for $450. Heck, Morgan Stanley thought $350 was fair!\n\nAfter earnings, LITE could only manage to kiss $500 and retreat. So I sold some of my position at $485, thinking it may have gone too far, too fast.\n\nIn retrospect, I was foolish to ever doubt the risk appetite for Lumentum (LITE) based solely on the weak reception for its stellar report that day.\n\nAnd it should have been obvious as soon as the next day when everything was falling out of bed on Feb 5 because LITE tested the silly post-earnings low at $426 and reversed higher with a big fat engulfing candle to close above $500!\n\nThen Friday, as the upgrades and delayed reactions poured in, she gaps up to $540 and closes above $550.\n\nThey almost got me again with two kisses of $600 on Monday and Wednesday this week, and then another about-face. But I'm not falling for it this time.\n\nI'm holding my shares for the full realization of what NVIDIA (NVDA) is building for the next five years, where optical components are required at multiple stages and optical providers like LITE and Coherent (COHR) can be involved at different stages of design and fabrication with CPO.\n\nMeanwhile, here's the Street herd gathering around $550 with their PTs...\n\nRosenblatt $580\nJP Morgan $565\nCiti $560\nNeedam $550\nSusquehanna $550\nB. Riley $526\nMizuho $525\nBofA $520\nStifel $480\nBarclays $475 (Equal-Weight)\nUBS $455 (from $215! and stays at Neutral)\n\nSee ya next quarter when Lumentum surprises again and they raise their PTs to $650.\n\nDisclosure: I own NVDA, TSM, CRDO, and LITE shares for the Zacks TAZR Trader portfolio.",
+      "Language": "en",
+      "IsSummarized": false
+    },
+    {
       "Ticker": "MRVL",
       "Date": "2026-02-12",
       "Time": "00:50:07",
@@ -98,6 +131,17 @@
       "Title": "Jim Cramer Discusses Marvell (MRVL) & Amazon",
       "URL": "https://finance.yahoo.com/news/jim-cramer-discusses-marvell-mrvl-165007597.html",
       "Content": "We recently published 9 Stocks Jim Cramer Talked About . Marvell Technology, Inc. (NASDAQ:MRVL) is one of the stocks that Jim Cramer talked about.\nMarvell Technology, Inc. (NASDAQ:MRVL) is a chip company that provides products such as signal processors, network adapters, and SoCs. Its shares are down by 27% over the past year and by 8.3% year-to-date. Several analysts have discussed the stock in February. For instance, Benchmark reiterated a Hold rating after Marvell Technology, Inc. (NASDAQ:MRVL) completed its acquisition of Celestial AI. RBC Capital reiterated an Outperform rating and a $105 share price target in January as well. RBC’s discussion of Marvell Technology, Inc. (NASDAQ:MRVL) surrounded cloud computing giant Amazon’s AWS cloud business. The investment bank pointed out that Celestial’s products could be used by Amazon and help Marvell Technology, Inc. (NASDAQ:MRVL) secure a share of the cloud company’s Trainium chip business. These AI chips were also on Cramer’s mind as he wondered why the stock was performing poorly:",
+      "Language": "en",
+      "IsSummarized": false
+    },
+    {
+      "Ticker": "ENTG",
+      "Date": "2026-02-12",
+      "Time": "00:48:40",
+      "Source": "Insider Monkey",
+      "Title": "Entegris (ENTG) Hits 52-Week High on Upbeat Q1 Outlook",
+      "URL": "https://finance.yahoo.com/news/entegris-entg-hits-52-week-164840336.html",
+      "Content": "We recently published 10 Stocks Delivering Massive Returns . Entegris Inc. (NASDAQ:ENTG) was one of the best performers on Tuesday.\nEntegris jumped to a new 52-week high on Tuesday, as investors cheered its upbeat outlook for the first quarter of the year, despite reporting a dismal earnings performance last quarter.",
       "Language": "en",
       "IsSummarized": false
     },
