@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-02-15T19:18:40.376Z",
-  "total_news_count": 343,
+  "last_updated": "2026-02-15T20:00:00.805Z",
+  "total_news_count": 344,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-16",
+      "Time": "03:00:59",
+      "Source": "Yahoo Finance Video",
+      "Title": "Nvidia earnings are going to be a tell-tale sign for markets",
+      "URL": "https://finance.yahoo.com/video/nvidia-earnings-going-tell-tale-190059113.html",
+      "Content": "RBC Wealth Management technical strategist Rob Sluymer explains how Nvidia ( NVDA ), as a leader among mega-cap tech stocks and AI trade player, will be a major indicator for the market ( ^DJI , ^IXIC , ^GSPC ) when it reports its fourth quarter earnings results on February 25.\n\nTo watch more expert insights and analysis on the latest market action, check out more Market Domination .",
+      "Language": "en",
+      "IsSummarized": false
+    },
     {
       "Ticker": "8035.T",
       "Date": "2026-02-16",
