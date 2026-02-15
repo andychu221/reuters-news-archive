@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-02-15T22:14:29.794Z",
-  "total_news_count": 358,
+  "last_updated": "2026-02-15T22:18:10.679Z",
+  "total_news_count": 359,
   "news": [
+    {
+      "Ticker": "8035.T",
+      "Date": "2026-02-16",
+      "Time": "05:58:00",
+      "Source": "Motley Fool",
+      "Title": "2 Monster Stocks to Hold for the Next 5 Years",
+      "URL": "https://finance.yahoo.com/m/49f510e7-331f-3507-a391-13ec2b698d32/2-monster-stocks-to-hold-for.html",
+      "Content": "There are no signs of the artificial intelligence (AI) data center buildout letting up anytime soon. That's good news for the top AI chipmakers. Let's look at two monster AI stocks to buy and hold for the next five years.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nNvidia (NASDAQ: NVDA) is the dominant player in AI infrastructure. Its graphics processing units (GPUs) remain the primary chips used to train AI models. Through its CUDA software platform, upon which nearly all foundational AI code was written, and its proprietary NVLink interconnect systems, which allow its chips to communicate with each other faster, letting them essentially act like one powerful unit, it has created a wide moat in the GPU space.\n\nWith five companies alone set to spend $700 billion on AI infrastructure this year and predictions that spending will rise through the end of the decade, Nvidia is very well positioned to continue to see outsized growth over the next several years.\n\nMeanwhile, the company isn't sitting still. Flush with cash, Nvidia has been making investments throughout the AI ecosystem. One of its smartest moves could be the licensing of Groq's technology and hiring of its employees. This should set Nvidia up to better compete in the inference market, where its CUDA moat isn't quite as wide.\n\nAnother semiconductor company to own over the next five years is Broadcom (NASDAQ: AVGO) . The company is a leader in ASIC (application-specific integrated circuit) technology, where it helps customers create custom hardwired AI chips designed to handle specific tasks. While these chips don't have the flexibility or adaptability of GPUs, they tend to perform the tasks for which they were designed very well, while also being more energy efficient.\n\nBroadcom helped Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) create its highly regarded tensor processing units (TPUs), which run most of its internal workflows. Meanwhile, Alphabet is now starting to let large customers use its TPUs for their own AI workloads through Google Cloud. As a result, Anthropic has placed a $21 billion TPU order through Broadcom to be delivered this year. Broadcom's success with Alphabet's TPUs has also led other companies to turn to it to help them develop their own custom AI ASICs.\n\nAfter generating just over $20 billion in total AI revenue in fiscal 2025, including networking revenue, Broadcom is set to see explosive growth over the coming years. Citigroup analysts have projected the company's AI revenue could increase fivefold to $100 billion in fiscal 2027. Together with its networking opportunity, where its Ethernet switches hold a strong position in data centers, Broadcom looks poised to be a monster winner over the next several years.",
+      "Language": "en",
+      "IsSummarized": false
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-02-16",
