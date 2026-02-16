@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-16T11:31:53.472Z",
-  "total_news_count": 432,
+  "last_updated": "2026-02-16T11:36:21.178Z",
+  "total_news_count": 433,
   "news": [
     {
       "Ticker": "AMZN",
@@ -131,6 +131,17 @@
       "Title": "The Big Tech losers as AI fears wipe billions of dollars off valuations",
       "URL": "https://finance.yahoo.com/news/big-tech-stocks-lose-billions-093834534.html",
       "Content": "Feb 16 (Reuters) - The world's most valuable technology stocks have suffered sharp declines in market value ‌this year after years of outsized gains, ‌as investors question whether heavy spending on AI will generate sufficient ​returns to justify the lofty valuations.\n\nMicrosoft ( MSFT ) shares have fallen about 17% year-to-date on concerns over risks to its AI business and growing competition from Google's ( GOOG , GOOGL ) latest Gemini model ‌and Anthropic's ( ANTH.PVT ) Claude ⁠Cowork AI agent, wiping roughly $613 billion off its market value to about $2.98 trillion as ⁠of Friday.\n\nAmazon ( AMZN ) has shed around 13.85% so far this year, erasing about $343 billion in market value and leaving ​the company ​valued at roughly $2.13 trillion.\n\nEarlier ​this month, Amazon said ‌it expects capital spending to jump more than 50% this year.\n\nNvidia ( NVDA ), Apple ( AAPL ) and Alphabet have also seen their market values decline by $89.67 billion, $256.44 billion and $87.96 billion, respectively, since the start of 2026, to $4.44 trillion, $3.76 trillion and $3.7 ‌trillion.\n\nThe pullback signals a broader ​shift in market psychology, with ​investors moving from rewarding ​long-term AI ambitions to demanding near-term ‌earnings visibility after years of ​speculative enthusiasm.\n\nBy contrast, ​TSMC ( TSM ), Samsung Electronics ( 005930.KS , SSNLF ), and Walmart ( WMT ) have added $293.89 billion, $272.88 billion and $179.17 billion in market value, respectively, over ​the same period, ‌lifting their valuations to $1.58 trillion, $817 billion and $1.07 trillion.\n\n(Reporting ​by Gaurav Dogra and Patturaja Murugaboopathy in ​Bengaluru; Editing by Sumana Nandy)",
+      "Language": "en",
+      "IsSummarized": false
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-02-16",
+      "Time": "17:37:44",
+      "Source": "GuruFocus.com",
+      "Title": "Marvell Technology Takes Aim at AI's Next Bottleneck",
+      "URL": "https://finance.yahoo.com/news/marvell-technology-takes-aim-ais-093744527.html",
+      "Content": "This article first appeared on GuruFocus .\n\nOptical scale-up fabrics now sit at the center of efforts to ease data bottlenecks inside large AI clusters, and Marvell Technology says recent acquisitions position it to address that shift. The company has begun integrating Celestial AI and XConn Technologies, aiming to combine photonic fabrics with advanced PCIe Gen 6 and CXL switching silicon to improve memory disaggregation inside data centers.\n\nWarning! GuruFocus has detected 4 Warning Signs with MRVL.\n\nIs MRVL fairly valued? Test your thesis with our free DCF calculator.\n\nThe strategy follows strong demand in Marvell's data center business, which posted about 38% year-over-year growth in its most recent quarter. Management has said Celestial AI could reach a $500 million annualized revenue run rate by fiscal 2028, with potential to double the following year, while XConn is expected to add roughly $100 million in revenue by fiscal 2028.\n\nThe approach reflects a broader industry transition from compute constraints to interconnect and memory limits. By pairing Celestial's photonic fabric technology with XConn's switching products, Marvell plans to enable higher bandwidth and lower latency links that copper-based solutions struggle to deliver at rack scale.\n\nAt the same time, risks remain in Marvell's custom compute business. Hyperscalers continue to bring more silicon design work in-house, while lower-cost design firms such as Alchip gain share in certain projects. Market watchers have pointed to potential losses of future Trainium designs at Amazon as an example of this pressure.\n\nAccording to industry data, over several years, Marvell's market share of the AI server compute ASIC may decline, sustained by an expansion in its market size in general. The same cannot be said of larger companies such as Broadcom, which are likely to maintain their top position. It is all about the extent to which it can pull off things in the case of Marvell. Should it strike a chord on combining Celestial AI and XConn, it would see revenue move to optical interconnects of a higher margin.\n\nHowever, when delays or slow adoption occur, the company will be in a more exposed situation to price wars and excessive attention to a few large customers on custom silicon.",
       "Language": "en",
       "IsSummarized": false
     },
