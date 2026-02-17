@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-17T12:14:18.128Z",
-  "total_news_count": 618,
+  "last_updated": "2026-02-17T12:31:45.449Z",
+  "total_news_count": 619,
   "news": [
     {
       "Ticker": "AAPL",
@@ -30,6 +30,16 @@
       "Title": "Citi says buy Nvidia stock ahead  2H26 outperformance",
       "URL": "https://finance.yahoo.com/news/citi-says-buy-nvidia-stock-115428447.html",
       "Content": "Investing.com -- Citi told investors to add to positions in Nvidia ahead of what it expects to be a period of outperformance in the second half of 2026, citing strong product momentum and improving demand visibility extending into 2027.\n\nIn a preview note, Citi analyst Atif Malik said they expect the company to report January-quarter revenue of $67 billion, “above Street $65.6B,” and guide to April-quarter sales of $73 billion versus consensus at $71.6 billion.\n\nThe analyst expects a continued ramp of the B300 and the Rubin platform to drive “a 34% H/H acceleration in CY2H26 sales vs 27% in CY1H26.”\n\nMalik added that “most investors are looking past the earnings,” to the company’s annual GTC conference in mid-March, where Nvidia is expected to outline its inference roadmap using Groq’s low-latency SRAM IP and give an “early outlook for 2026/27 AI sales.”\n\nThe analyst also anticipates a fiscal 2027 gross-margin outlook of roughly 75% and assumes operating-expense growth in the high-30% range, similar to fiscal 2026.\n\nDespite concerns about rising hyperscaler capital spending, Citi argued that these investments “will deliver long-term returns” as AI-driven infrastructure demand accelerates cloud-revenue growth.\n\nThe bank also stated that increased competition in inference is natural, but that Nvidia should “continue to be the leader across both training and reasoning focused inference workloads.”\n\nCiti maintained its Buy rating and $270 target price on Nvidia, concluding that the stock “looks attractive with the stock likely to outperform in 2H26 as demand visibility extends into 2027.”",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-02-17",
+      "Time": "19:51:19",
+      "Source": "Reuters Videos",
+      "Title": "Tech Weekly: OpenAI unhappy with DeepSeek, Amazon Leo lifts off",
+      "URL": "https://finance.yahoo.com/video/tech-weekly-openai-unhappy-deepseek-115119429.html",
+      "Content": "STORY: From OpenAI's DeepSeek frustrations to Amazon's satellite lift-off, this is Tech Weekly. :: Tech Weekly OpenAI warned U.S. lawmakers about the actions of Chinese AI startup DeepSeek. A memo seen by Reuters showed the Sam Altman-led firm believes DeepSeek has tried to replicate U.S. models and use them for their own training. The technique is known as distillation, where older AI models evaluate the quality of answers coming from a newer model - which effectively transfers the older version's learnings. DeepSeek and its parent company High-Flyer didn't respond to Reuters' requests for comment. Russia has completely blocked WhatsApp. The Kremlin accused the Meta-owned messenger app of not complying with local law. Moscow suggested Russians should instead turn to a state-backed 'national messenger' called MAX. But critics argue MAX is a surveillance tool, while Russian authorities deny this. Britain could ban children under-16 from social media as early as this year. It could also close a loophole which left some AI chatbots outside safety rules. It's part of government efforts to respond faster to digital risks. Spain, Greece and Slovenia have also said they're working on bans after Australia became the first country in the world to block under 16s from social media. Europe launched its new Ariane 64 heavy-lift rocket. It carried 32 Amazon Leo satellites with it and sent them into low earth orbit. it marked the debut of the most powerful version of the Ariane 6 launcher developed by Airbus and Safran joint venture Arianespace. Amazon Leo is a low Earth orbit satellite network designed to provide internet service to customers beyond the reach of existing terrestrial networks - and could rival SpaceX's Starlink. And Samsung said it's started to ship its most advanced HBM4 chips to unamed customers. It's trying to catch up to rivals supplying critical parts for Nvidia AI accelerators. The global rush to build AI data centers has fueled demand for such chips. The semiconductors feed massive amounts of data to the accelerators for training and running AI models.",
       "Language": "en"
     },
     {
