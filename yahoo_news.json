@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-17T21:14:28.375Z",
-  "total_news_count": 727,
+  "last_updated": "2026-02-17T21:17:39.056Z",
+  "total_news_count": 728,
   "news": [
+    {
+      "Ticker": "8035.T",
+      "Date": "2026-02-18",
+      "Time": "05:15:44",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia and Meta expand GPU team up with millions of additional AI chips",
+      "URL": "https://finance.yahoo.com/news/nvidia-and-meta-expand-gpu-team-up-with-millions-of-additional-ai-chips-211544907.html",
+      "Content": "Nvidia ( NVDA ) and Meta ( META ) announced an expanded multiyear, multi-generational partnership that will see Nvidia provide the social media giant with millions of its Blackwell and Rubin GPUs [graphics processing units], as well as its CPUs [central processing units] and networking offerings.\n\nThe plan calls for Meta to use the products within its data centers for both training and running AI models.\n\nNvidia didn't reveal a dollar amount for the expanded deal, though it said that Meta will roll out the chips in its own data centers and lean on those available via Nvidia Cloud Partners. Nvidia's Cloud Partner program includes companies like CoreWeave ( CRWV ) and Crusoe, which host Nvidia chips for other companies to rent and use.\n\n“No one deploys AI at Meta’s scale — integrating frontier research with industrial-scale infrastructure to power the world’s largest personalization and recommendation systems for billions of users,” Nvidia CEO Jensen Huang said in a statement.\n\n“Through deep codesign across CPUs, GPUs, networking, and software, we are bringing the full Nvidia platform to Meta’s researchers and engineers as they build the foundation for the next AI frontier.”\n\nIn addition to the GPUs, Nvidia says Meta is rolling out its first large-scale Grace CPU-only servers with plans to launch Vera CPU-only systems in 2027. These would be similar to more traditional severs Meta operates using Intel chips and wouldn't include any GPUs.\n\nThat kind of move could prove problematic for Intel and AMD, which have dominated the CPU server space for decades.\n\nMeta will also use Nvidia's Confidential Computing, which allows for private data processing via its GPUs, in its WhatsApp messaging app.\n\nAI-related stocks have taken a beating since the start of 2026 as consistent concerns have swirled around spending fears.\n\nMeta's stock price has fallen 3.3%. Microsoft ( MSFT ) has been hit particularly hard, with its stock declining more than 17% since Jan. 1.\n\nChip stocks have also cooled in recent months, as investors question whether high-powered GPUs are necessary to power all AI applications or if more specialized chips will eventually take over. Those fears have gained more traction as Nvidia customers, including Amazon ( AMZN ), Google ( GOOG , GOOGL ), and Microsoft, have rolled out newer versions of their own AI chips.\n\nIn November, The Information reported that Meta was in talks with Google to use its TPU chips for AI applications.\n\nNvidia stock is down more than 1% year to date, while shares of rival AMD have fallen more than 5%.\n\nAnalysts, however, say it's unlikely Nvidia will lose its AI lead to competing technologies, because GPUs can be used for a number of different AI applications, while chips like Google's TPUs and Amazon's Trainium processors are more limited in scope.\n\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .\n\nClick here for the latest technology news that will impact the stock market\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-02-18",
