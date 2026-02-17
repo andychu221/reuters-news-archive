@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-17T15:14:29.972Z",
-  "total_news_count": 647,
+  "last_updated": "2026-02-17T15:17:45.941Z",
+  "total_news_count": 648,
   "news": [
+    {
+      "Ticker": "8035.T",
+      "Date": "2026-02-17",
+      "Time": "23:10:36",
+      "Source": "Reuters",
+      "Title": "Soccer-LaLiga wins court orders forcing VPNs to block 16 alleged pirate sites",
+      "URL": "https://finance.yahoo.com/m/3a8962db-6b0a-314f-9fce-df7543586dbf/soccer-laliga-wins-court.html",
+      "Content": "By Fernando Kallas\n\nMADRID, Feb 17 (Reuters) - Spain's LaLiga and its broadcasting partner Telefónica secured a court order on Tuesday requiring VPN providers NordVPN and ‌Proton VPN to block access within Spain to 16 websites accused of illegally ‌streaming LaLiga matches.\n\nThe rulings, seen by Reuters, compel the VPN services to immediately make the IP addresses ​of the alleged piracy websites inaccessible from Spanish networks.\n\nLaLiga said the decision acknowledges \"the responsibility of these technological intermediaries in the process of pirating LALIGA matches.\"\n\nThe league said the court acknowledged VPN providers are technological intermediaries subject to European Digital Services Regulation and are therefore ‌required to \"prevent infringements from being committed ⁠under their infrastructures\".\n\nVPN services create secure links between a device and a private server, hiding the user's IP address and masking its ⁠location and online activity. While widely used for privacy and data protection, they can also be used to bypass regional restrictions.\n\nThe court rulings cannot be appealed. They were issued \"ex parte\", ​meaning the ​judge ruled without all parties present, citing ​urgency and the need to ensure ‌the effectiveness of the order.\n\nBoth Proton and NordVPN said they were unaware of any proceedings prior to media reports and had not received the judicial documents referred to in the press.\n\n\"We were not part of any Spanish judicial proceedings to our knowledge, and therefore had no opportunity to defend ourselves. Given such judgments impact on how the ‌Internet operates, such an approach by rightsholders is ​unacceptable,\" Laura Tyrylyte, privacy advocate at NordVPN, told Reuters.\n\nTyrylyte ​added that domain blocking is ​ultimately ineffective in combating piracy. \"Pirates can easily circumvent these blocks by ‌using subdomains: blocking does not eliminate the ​content itself or reduce ​the incentives for piracy.\"\n\nTo further combat unauthorised streams, LaLiga recently introduced a reward scheme offering 50 euros ($59) for verified reports of businesses illegally broadcasting matches. The ​league noted that legal ‌broadcasts feature a distinctive letter in the corner of the screen, aimed at ​helping viewers detect unauthorised transmissions.\n\n($1 = 0.8458 euros)\n\n(Reporting by Fernando Kallas. Additional reporting ​by Emma Pinedo. Editing by Hugh Lawson)",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-02-17",
