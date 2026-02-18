@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-02-18T12:31:36.782Z",
-  "total_news_count": 851,
+  "last_updated": "2026-02-18T12:39:34.639Z",
+  "total_news_count": 853,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-02-18",
+      "Time": "19:57:11",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia and Meta Expand AI Infrastructure Partnership",
+      "URL": "https://finance.yahoo.com/news/nvidia-meta-expand-ai-infrastructure-115711106.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNVIDIA Corporation ( NVDA , Financials ) and Meta Platforms ( META , Financials ) announced a broad, multi year partnership to expand artificial intelligence infrastructure across Meta's global data centers.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nMeta will increase deployment of Nvidia's Grace CPUs, marking what Nvidia described as the first large-scale Grace-only rollout. The companies are also preparing for future adoption of Nvidia's Vera CPUs, expected to scale beginning next year.\n\nUnder the agreement, Meta will deploy Nvidia's GB300 systems and expand use of Spectrum-X Ethernet networking to improve data throughput and efficiency. Meta has also adopted Nvidia's Confidential Computing technology to enhance AI capabilities in services such as WhatsApp while maintaining user privacy protections.\n\nNvidia CEO Jensen Huang said the partnership reflects deep collaboration across CPUs, GPUs, networking and software to support Meta's AI research and large-scale personalization systems. Meta CEO Mark Zuckerberg said the companies are building advanced clusters using Nvidia's Vera Rubin platform to support long-term AI ambitions.\n\nShares of Nvidia rose about 1.8% in extended trading, while Meta gained roughly 1.5% following the announcement.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-02-18",
+      "Time": "19:55:49",
+      "Source": "GuruFocus.com",
+      "Title": "Microsoft Plans $50 Billion Push to Bring AI to the Global South",
+      "URL": "https://finance.yahoo.com/news/microsoft-plans-50-billion-push-115549664.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft Corporation ( MSFT , Financials ) says it plans to invest $50 billion by the end of the decade to help expand artificial intelligence access across countries in the Global South.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nAt the India AI Impact Summit, Microsoft said the next wave of AI growth will not be restricted to the U.S., Europe, or China. Instead, the corporation expects developing markets to shape AI application in business, education, and public services.\n\nThe investment will boost data center capacity, cloud infrastructure, and digital skills initiatives. That means more local processing power, better AI tools, and training to help people and companies accept the technology.\n\nMicrosoft is increasing capital investment to meet AI-driven cloud platform demand. This commitment shows its long-term interest in areas constructing digital infrastructure.\n\nThe proposal raises worries for investors about how rapidly investments will boost revenue. It also shows Microsoft's efforts to gain early market share in AI-adopting markets over the coming decade.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-02-18",
