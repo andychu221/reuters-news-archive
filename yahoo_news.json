@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-02-18T12:39:34.639Z",
-  "total_news_count": 853,
+  "last_updated": "2026-02-18T12:59:59.761Z",
+  "total_news_count": 856,
   "news": [
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-18",
+      "Time": "20:49:22",
+      "Source": "Reuters",
+      "Title": "Analog Devices sees strong second-quarter as AI boom fuels chip sales",
+      "URL": "https://finance.yahoo.com/news/analog-devices-sees-strong-second-124922952.html",
+      "Content": "Feb 18 (Reuters) - Analog Devices On Wednesday, forecast second-quarter results above Wall Street estimates, driven by ‌robust demand from industrial and data ‌center customers as the artificial intelligence boom continues ​to drive semiconductor sales.\n\nShares of Wilmington, Massachusetts-based chipmaker rose nearly 8% in premarket trading.\n\nThe company forecast second-quarter revenue of $3.5 billion, plus ‌or minus $100 million, ⁠compared with the analysts' average estimate of $3.23 billion, according to LSEG ⁠data.\n\nSurging investment in data center infrastructure for generative AI workloads is helping offset a ​challenging macroeconomic ​and geopolitical backdrop, ​supporting demand for ‌Analog Devices' semiconductors as hyperscalers expand capacity.\n\n\"While the macro and geopolitical backdrop remains challenging, our revenue outlook for the second quarter reflects a new high-watermark for ADI, underscoring ‌our strong execution against ​cyclical and secular growth ​tailwinds,\" Analog Devices ​CFO Richard Puccio said.\n\nThe chipmaker ‌forecast adjusted earnings of $2.88 ​per share, ​plus or minus 15 cents, compared with the analyst consensus of $2.31 per share.\n\nFirst-quarter ​revenue came ‌in at $3.16 billion, topping estimates of $3.12 ​billion.\n\n(Reporting by Kritika Lamba in Bengaluru; ​Editing by Tasim Zahid)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-18",
+      "Time": "20:43:22",
+      "Source": "Investing.com",
+      "Title": "Analog Devices surges on earnings beat, strong Q2 guidance",
+      "URL": "https://finance.yahoo.com/news/analog-devices-surges-earnings-beat-124322283.html",
+      "Content": "Investing.com -- Analog Devices, Inc. (NASDAQ:ADI) reported fiscal first quarter earnings that exceeded analyst expectations, with revenue growth across all end markets and a robust outlook that sent shares soaring around 7% following the announcement.\n\nThe semiconductor company posted adjusted earnings per share of $2.46 for the quarter ended January 31, 2026, beating analyst estimates of $2.31. Revenue came in at $3.16 billion, surpassing the consensus forecast of $3.11 billion and representing a 30% increase YoY. The Industrial and Communications segments led the growth during the quarter.\n\nFor the second quarter, Analog Devices provided guidance well above Wall Street expectations, projecting revenue between $3.4 billion and $3.6 billion, with the $3.5 billion midpoint significantly higher than the analyst consensus of $3.23 billion. The company expects adjusted EPS of $2.73 to $3.03, also comfortably above the $2.46 consensus estimate.\n\n\"ADI’s robust first quarter built upon the strong position and momentum with which we entered the year,\" said Vincent Roche, CEO and Chair. \"Our success continues to be the result of relentless innovation to solve our customers toughest problems and deliver enduring business impact.\"\n\nThe company’s adjusted gross margin improved to 71.2% from 68.8% in the same quarter last year, while adjusted operating margin expanded to 45.5% from 40.5%.\n\nAnalog Devices also announced an 11% increase in its quarterly dividend to $1.10 per share, marking the twenty-second consecutive year of dividend increases.\n\nCFO Richard Puccio noted, \"While the macro and geopolitical backdrop remains challenging, our revenue outlook for the second quarter reflects a new high watermark for ADI, underscoring our strong execution against cyclical and secular growth tailwinds.\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-18",
+      "Time": "19:57:11",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia and Meta Expand AI Infrastructure Partnership",
+      "URL": "https://finance.yahoo.com/news/nvidia-meta-expand-ai-infrastructure-115711106.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNVIDIA Corporation ( NVDA , Financials ) and Meta Platforms ( META , Financials ) announced a broad, multi year partnership to expand artificial intelligence infrastructure across Meta's global data centers.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nMeta will increase deployment of Nvidia's Grace CPUs, marking what Nvidia described as the first large-scale Grace-only rollout. The companies are also preparing for future adoption of Nvidia's Vera CPUs, expected to scale beginning next year.\n\nUnder the agreement, Meta will deploy Nvidia's GB300 systems and expand use of Spectrum-X Ethernet networking to improve data throughput and efficiency. Meta has also adopted Nvidia's Confidential Computing technology to enhance AI capabilities in services such as WhatsApp while maintaining user privacy protections.\n\nNvidia CEO Jensen Huang said the partnership reflects deep collaboration across CPUs, GPUs, networking and software to support Meta's AI research and large-scale personalization systems. Meta CEO Mark Zuckerberg said the companies are building advanced clusters using Nvidia's Vera Rubin platform to support long-term AI ambitions.\n\nShares of Nvidia rose about 1.8% in extended trading, while Meta gained roughly 1.5% following the announcement.",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-02-18",
