@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-18T14:14:36.009Z",
-  "total_news_count": 864,
+  "last_updated": "2026-02-18T14:17:43.538Z",
+  "total_news_count": 865,
   "news": [
+    {
+      "Ticker": "8035.T",
+      "Date": "2026-02-18",
+      "Time": "22:11:00",
+      "Source": "Motley Fool",
+      "Title": "Leveraged ETFs Are Not Long-Term Holdings. Here's Why.",
+      "URL": "https://finance.yahoo.com/m/37c2dbd0-a46b-398d-ad10-0e1fc8f64c08/leveraged-etfs-are-not.html",
+      "Content": "Imagine you're at a casino, and someone offers you a deal: every time the roulette wheel lands on black, you win double. Sounds amazing, right? But there's a catch. Every time the ball lands on red, you lose double too.\n\nThat's basically a leveraged exchange-traded fund (ETF) in a nutshell.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nLeveraged ETFs tend to be volatile assets, and their prices reset daily. This cycle creates a mathematical effect called \"volatility decay,\" which sounds boring but is actually a silent killer of your returns.\n\nHere's a simple example:\n\nDay 1: The S&P 500 (SNPINDEX: ^GSPC) drops 10%. Your 2x leveraged ETF, perhaps the ProShares Ultra S&P 500 (NYSEMKT: SSO) , drops 20%. Ouch, but OK.\n\nDay 2: The S&P 500 gains 11.1% (back to even). Your 2x ETF gains 22.2%. Sweet!\n\nYou'd think you're back to even too, right? Nope. Your 2x ETF is still down about 2.2%. The market recovered; you didn't. Now multiply that by months and years of normal market zigzags.\n\nFor example, the S&P 500 fell 19.5% in the inflation-stricken year of 2022, while the ProShares Ultra fund dropped 39.3%. The market posted a 46.4% return the following year, landing almost exactly where it was two years earlier. The leveraged fund only saw a 24.3% recovery, leaving a big gap to the prices seen at the end of 2021:\n\nSPY data by YCharts\n\nIn a smooth bull run, leveraged ETFs look like genius plays. But markets don't move in straight lines. They hiccup, correct, panic over tweets, and occasionally have full-blown tantrums. Every uncomfortable wiggle chips away at your leveraged position.\n\nLeveraged ETFs are designed for day traders and short-term tactical moves. Think hours or days, not years. The fund companies literally tell you this in the fine print. They're specialized trader tools, not solid long-term investments .\n\nBoring old index funds may not make you feel like a Wall Street genius, but they also won't make you cry into your coffee after a choppy quarter.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-02-18",
