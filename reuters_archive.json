@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-02-19",
-  "total_reports": 178,
+  "last_updated": "2026-02-20",
+  "total_reports": 179,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZF1CU:0/",
+      "Date": "2026-02-19",
+      "Time": "23:48:07",
+      "Title": "美國股市走低，但沃爾瑪早盤上漲",
+      "Content": "美國股市走低，但沃爾瑪早盤上漲 \n\n美國主要股指周四早盤小幅走低，在近期上漲後有所回調，原因是金融股和科技股走勢趨緩，而沃爾瑪股價在發布季度業績後走高。\n\n金融股 下跌約1%，科技股 僅下跌0.2%，英偉達 股價在周三收高後下跌0.1%。\n\n在早盤上漲的股票中，沃爾瑪 股價上漲了 2.3%，因為該零售商報告稱，尋求快速送貨的美國顧客的在線需求增加了假日季度的收入。該公司還宣布了一項新的 300 億美元回購計劃，但對未來一年的預測低於分析師預期。\n\n此外，能源 也是利好因素。埃克森美孚 和雪佛龍 均小幅上漲，原因是對美國與伊朗之間軍事衝突的擔憂加劇，石油 價格上漲。\n\n以下是早盤市場快照：",
+      "ContentLength": 297,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-20 00:42:46"
+    },
     {
       "Source": "TradingView - Reuters Stocks",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZF0LK:0/",
