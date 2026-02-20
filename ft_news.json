@@ -1,7 +1,62 @@
 {
-    "last_updated": "2026-02-20T08:00:41.645Z",
-    "total_news_count": 69,
+    "last_updated": "2026-02-20T08:25:33.131Z",
+    "total_news_count": 62,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-02-20",
+            "Time": "13:00:14",
+            "Title": "Amazon service was taken down by AI coding bot",
+            "URL": "https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "TSLA",
+            "Date": "2026-02-20",
+            "Time": "11:22:20",
+            "Title": "‘Latecomer’ Hyundai races Tesla on robots and self-driving cars",
+            "URL": "https://www.ft.com/content/545413e6-4ec6-4fbd-8ba6-a82a8fdb8e3f",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-02-20",
+            "Time": "08:14:04",
+            "Title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
+            "URL": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-02-20",
+            "Time": "06:43:52",
+            "Title": "Meta cuts staff stock awards for a second straight year",
+            "URL": "https://www.ft.com/content/071d5503-b3dc-46bc-bc55-28f92dbdd42a",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-02-20",
+            "Time": "05:05:03",
+            "Title": "Walmart loses sales crown to Amazon despite record revenues",
+            "URL": "https://www.ft.com/content/15fef72e-e5ea-429c-94c4-46715471b96a",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "GOOG",
             "Date": "2026-02-18",
