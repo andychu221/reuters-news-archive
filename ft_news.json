@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-02-20T08:25:33.131Z",
-    "total_news_count": 62,
+    "last_updated": "2026-02-22T16:06:19.198Z",
+    "total_news_count": 63,
     "news": [
         {
             "Ticker": "AMZN",
@@ -52,6 +52,17 @@
             "Time": "05:05:03",
             "Title": "Walmart loses sales crown to Amazon despite record revenues",
             "URL": "https://www.ft.com/content/15fef72e-e5ea-429c-94c4-46715471b96a",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-02-20",
+            "Time": "01:29:55",
+            "Title": "Metals traders will benefit from a fractured world",
+            "URL": "https://www.ft.com/content/4aba02eb-6c54-429b-be8a-091250e113db",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
