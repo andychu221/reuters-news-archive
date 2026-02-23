@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-23",
-  "total_reports": 187,
+  "total_reports": 188,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZJ02U:0/",
+      "Date": "2026-02-23",
+      "Time": "09:50:56",
+      "Title": "台灣股市新春開紅盤升逾1.6%至34,212.38點，再創盤中紀錄高位",
+      "Content": "台灣股市周一新春開紅盤，盤中一度升逾1.6%再創盤中紀錄高位，主要受春節封關期間跟台股相關的國際指數漲勢帶動。\n\n當地時間9:58，台股上漲1.6%報34,140.5點，盤中最高來到34,212.38點刷新歷史高位，台積電 走揚0.78%報1,930台幣。電子零組件類股指數 (.TEPI)大漲4.97%。 \n\n美國股市上周五收高，谷歌母公司Alphabet、亞馬遜等華爾街巨頭領漲，此前最高法院裁決特朗普總統的全球關稅違憲。Alphabet 上漲3.7%、亞馬遜 上漲2.6%、蘋果 上漲1.5%。(完)",
+      "ContentLength": 253,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-23 10:42:40"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3ZJ01I:0/",
