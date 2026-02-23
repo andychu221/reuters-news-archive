@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-02-23T04:07:58.078Z",
-    "total_news_count": 64,
+    "last_updated": "2026-02-23T10:05:48.582Z",
+    "total_news_count": 65,
     "news": [
         {
             "Ticker": "TSLA",
@@ -74,6 +74,17 @@
             "Time": "01:29:55",
             "Title": "Metals traders will benefit from a fractured world",
             "URL": "https://www.ft.com/content/4aba02eb-6c54-429b-be8a-091250e113db",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-02-19",
+            "Time": "08:02:06",
+            "Title": "Zuckerberg defends Meta’s impact on mental health",
+            "URL": "https://www.ft.com/content/278b0512-0ffe-47e7-812c-b7e48fe34a91",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
