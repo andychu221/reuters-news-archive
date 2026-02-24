@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-24T11:43:47.889Z",
-  "total_news_count": 274,
+  "last_updated": "2026-02-24T12:00:00.560Z",
+  "total_news_count": 276,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-24",
+      "Time": "19:18:20",
+      "Source": "GuruFocus.com",
+      "Title": "Apple Deepens U.S. Manufacturing Push",
+      "URL": "https://finance.yahoo.com/news/apple-deepens-u-manufacturing-push-111820287.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is leaning harder into U.S. manufacturing, showing more conviction in building Mac Minis in Houston than scaling Mac Pro production in Austin as it carefully expands its domestic footprint.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nChief Operating Officer Sabih Khan told The Wall Street Journal that demand for the Mac Mini is simply more steady and predictable, making Houston the easier bet. Apple is working with Foxconn to convert a warehouse into more than 200,000 square feet of manufacturing space later this year. The company still sells hundreds of times more iPhones than Mac Minis, but there are no plans to bring iPhone assembly back to the U.S. Instead, Khan made clear the focus is on components, sub assemblies, advanced silicon that will shape future innovation.\n\nThe real muscle is in chips. Apple plans to buy more than 100 million chips this year from TSMC ( NYSE:TSM ) Arizona as part of its broader $600 billion U.S. investment pledge over 4 years. One fab is already producing, a second is due next year, and a third is targeted by 2030. Nvidia ( NASDAQ:NVDA ) is manufacturing some Blackwell processors there, while Amkor ( NASDAQ:AMKR ) is building 2 packaging facilities expected to begin operations in 2027.",
+      "Language": "en"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-02-24",
@@ -11,6 +21,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A2%AB%E8%AD%89%E4%BA%A4%E6%89%80%E7%9B%AF%E4%B8%8A%EF%BC%816%E5%A4%A9%E5%83%B9%E5%B7%AE%E9%81%8E%E5%A4%A7-%E4%B8%A6%E5%88%97%E3%80%8C26%E6%AA%94%E6%B3%A8%E6%84%8F%E8%82%A1%E3%80%8D-111522220.html",
       "Content": "證交所今（24）日公告最新注意股名單，護國神山台積電（2330）赫然在內，主因為近6個交易日內股價高低價差高達185元，且今日收盤價創下該區間最高，觸及警戒標準。\n除了台積電，中砂、台橡、華通、旺宏、燿華、兆赫、瑞軒、欣興、耀登、大量、景碩、聯鈞。\n世芯-KY、日月光投控、雙鍵、盛群、統新、元晶、睿生光電、聯友金屬-創、雷虎、南電、高力、越南控-DR，合計26檔，遭列注意股。\n所謂「列入注意股」，是指證交所觀察到某檔股票近期交易或股價表現出現異常，例如短期波動過大、成交量明顯放大或當沖比例偏高等情況，因此，對投資人發出提醒，不代表公司違規或基本面出問題，股票被列為注意股後，券商可能提高融資保證金成數或對信用交易設下限制，避免投資人過度追價或承擔過高風險。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-24",
+      "Time": "19:03:46",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia Expands AI Security With Industrial Partners",
+      "URL": "https://finance.yahoo.com/news/nvidia-expands-ai-security-industrial-110346586.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia Corporation ( NVDA , Financials ) said it has partnered with Palo Alto Networks, Inc., Akamai Technologies, Inc. and other firms to deliver artificial intelligence powered cybersecurity for operational technology and industrial control systems. Additional partners include Siemens AG, Forescout and Xage Security.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nUnder the collaboration, Siemens and Palo Alto Networks will embed security capabilities into industrial automation systems running on Nvidia's BlueField data processing units. BlueField chips are designed to offload networking, security and storage tasks from central processors.\n\nAkamai said it has extended its Guardicore Platform to operate on BlueField, enabling application isolation and zero-trust enforcement at the edge. Xage Security will work with Nvidia to enhance cybersecurity protections for energy infrastructure, including pipeline and utility operators.\n\nNvidia said the effort represents a shift toward embedding AI-driven security directly into infrastructure, with centralized intelligence coordinating protections across distributed systems.\n\nThe move broadens Nvidia's reach beyond data centers into critical infrastructure markets, as companies seek to secure AI-enabled industrial operations.",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
