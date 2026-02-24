@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-24T22:20:36.551Z",
-  "total_news_count": 492,
+  "last_updated": "2026-02-24T22:39:29.252Z",
+  "total_news_count": 493,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-02-25",
+      "Time": "06:10:42",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, Feb. 24: Advanced Micro Devices Surges After Meta Strikes Multiyear AI Chip Supply Deal",
+      "URL": "https://finance.yahoo.com/m/8231de40-6ea8-3877-85e1-6e7513161387/stock-market-today%2C-feb.-24%3A.html",
+      "Content": "Advanced Micro Devices (NASDAQ:AMD) , a designer of microprocessors and GPUs for computing and graphics, closed Tuesday at $213.84, up 8.77%. The stock is jumping after news of a massive multiyear AI chip and systems deal with Meta Platforms (NASDAQ:META) , and investors are watching how the contract reshapes AMD’s data center AI share versus Nvidia.\n\nTrading volume reached 79.8 million shares, coming in about 120% above its three-month average of 36.2 million shares. Advanced Micro Devices IPO'd in 1980 and has grown 6,689% since going public.\n\nThe S&P 500 (SNPINDEX:^GSPC) added 0.77% to finish at 6,890, while the Nasdaq Composite (NASDAQINDEX:^IXIC) climbed 1.04% to close at 22,864. Within semiconductors, industry rivals Nvidia (NASDAQ:NVDA) closed at $192.85 (+0.68%) and Intel (NASDAQ:INTC) ended at $46.12 (+5.71%) as investors reassessed AI infrastructure demand.\n\nAs part of a multiyear agreement, Meta will acquire 6 gigawatts of graphics processing units (GPUs) from AMD to support the AI infrastructure for Facebook's parent company's next generation. Additionally, AMD has committed to granting Meta a performance-based warrant, allowing for the acquisition of up to 160 million AMD shares, representing approximately a 10% stake in the company.\n\nIt’s a notable agreement as AMD competes with sector leader Nvidia for business. Last week, Meta agreed to buy millions of Nvidia chips, so this latest announcement bodes well for AMD and its future stock price .\n\nIt enforces AMD’s competitive position as Meta is showing that demand for hardware needed for AI workloads remains robust.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-02-25",
