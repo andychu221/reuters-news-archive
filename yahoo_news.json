@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-24T15:39:42.321Z",
-  "total_news_count": 360,
+  "last_updated": "2026-02-24T15:43:19.159Z",
+  "total_news_count": 361,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -51,6 +51,16 @@
       "URL": "https://finance.yahoo.com/news/arm-holdings-bofa-now-sees-145707421.html",
       "Content": "Investing.com -- Arm Holdings shares edged higher premarket after Bank of America said it believes the company is positioned to take a larger share of the fast-expanding AI inference market as central processing units become increasingly important in data-center workloads.\n\nAnalyst Vivek Arya said in a note Tuesday that “AI inference is control-heavy, requires more CPUs,” adding that CPUs will remain a stable “~4-5% share of overall AI data center TAM,” a market BofA now estimates at about $1.4 trillion.\n\nAccording to BofA, the server CPU market could more than double, with “server CPU TAM reaching ~$60bn by CY30E from just $27bn in CY25,” growing at a 17% compound annual rate.\n\nThe bank expects nearly 70% of that total to come from AI servers. In that environment, BofA sees “potential for greater ARM share gain toward 20-25%+ by CY30E, up from our prior 15-20% outlook.”\n\nThe bank adds that Arm is set to benefit as AI shifts “away from just training and toward inference,” which relies more heavily on control-oriented CPU performance.\n\nIt also highlighted record Q4 2025 share gains, noting that “ARM also reached a record 11.9%” server value share.\n\nBofA believes Arm’s planned move into merchant CPUs could significantly expand its addressable market, saying “ARM’s SAM could be 30x” with full chiplets.\n\nBut it also cautioned that a potential loss of “current ~$800mn/yr SoftBank licensing sales” could offset some medium-term benefits.\n\nBofA reiterated its Neutral rating on Arm but raised its price target to $140, citing the improving long-term CPU share opportunity.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-02-24",
+      "Time": "22:44:33",
+      "Source": "中時財經即時",
+      "Title": "史上第五次！台積電股價狂飆 遭證交所列注意股",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%94%E6%AC%A1-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E7%8B%82%E9%A3%86-%E9%81%AD%E8%AD%89%E4%BA%A4%E6%89%80%E5%88%97%E6%B3%A8%E6%84%8F%E8%82%A1-144433052.html",
+      "Content": "台股連四個交易日創歷史新高，今（24）日收在34,700點，台積電（2330）扮功臣。臺灣證券交易所今天公告新列注意股票，高達26檔個股入列，其中，護國神山台積電也榜上有名，不過，這並非神山首次被列注意股。\n據CMoney統計，台積電歷年來有五次遭證交所列注意股票，分別在2026年2月24日、2025年4月8日、2024年8月5日、2003年2月10日及2001年1月12日。\n前三次均因六個營業日股價漲了超過100元，2003年2月10日是因六個營業日累積收盤價跌幅達21.03%且瑞銀證券交易集中度過高，2001年1月12日是因為六個營業日累積收盤價漲幅達22.80%，美商美林證券交易集中度過高。\n依證交所公告，台積電被列注意股主因「6個營業日起迄2個營業日收盤價價差達185元，且當日收盤價為最近6個營業日收盤價最高者」，達到注意股的警戒標準。\n今天被列為注意股票的上市股除了台積電以外，還有中砂、台橡、華通、旺宏、燿華、兆赫、瑞軒、中工、欣興、耀登、大量、景碩、聯鈞、世芯-KY、日月光投控、雙鍵、盛群、統新、元晶、睿生光電、聯友金屬-創、雷虎、南電、高力、越南控-DR等共26檔。\n台積電今天盤中最高價衝上1,975元，收在1,965元大漲65元，今年來累計至2月24日止，共大漲415元，漲幅達26.77%。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
