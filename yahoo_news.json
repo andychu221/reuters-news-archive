@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-02-24T16:59:54.445Z",
-  "total_news_count": 384,
+  "last_updated": "2026-02-24T17:14:24.459Z",
+  "total_news_count": 388,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-02-25",
+      "Time": "01:03:35",
+      "Source": "Motley Fool",
+      "Title": "Why Shares of Thomson Reuters Are Surging Today (Hint: It Has to do With Artificial Intelligence)",
+      "URL": "https://finance.yahoo.com/m/393837c4-0509-3b21-99da-1c458ca103cd/why-shares-of-thomson-reuters.html",
+      "Content": "Shares of the content and tech company Thomson Reuters Corp (NASDAQ: TRI) traded nearly 12% higher today, as of 11:42 a.m. ET. In a press release, the company announced that 1 million law professionals now use its artificial intelligence-powered legal solution, CoCounsel.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThomson Reuters' stock has been hammered over the past year, down nearly 49%. The company has been part of the software sell-off, driven by concerns that AI will be able to recreate software solutions much more quickly and using far fewer resources.\n\nToday, Thomson Reuters announced that its AI legal assistant CoCounsel is gaining traction. The tool can be used to conduct deeper research on legal matters, accelerate litigation work, and integrate with programs frequently used by legal professionals, such as Westlaw, Practical Law, and Microsoft 365.\n\nIn the press release, Thomson Reuters said CoCounsel taps into content refined over 175 years and leans on \"expert-developed validation logic.\"\n\n\"Professionals are not deciding whether to use AI anymore. They are deciding which AI they trust when their reputation and their clients' data are on the line,\" Thomson Reuters President and CEO Steve Hasker said in a statement, stressing that customer data remains protected.\n\nInterestingly, Thomson Reuters shares fell sharply after Anthropic announced new AI tools for legal professionals earlier this month. Now, the stock is rising, due to the success of one of its AI solutions.\n\nInvestors will be tempted to buy the dip in software stocks, but it's important to look for those that will adapt to changing times. Thomson Reuters is clearly adapting. However, the stock currently trades around 27 times trailing earnings.\n\nThat's well below its five-year average. The company grew adjusted earnings 4% in 2025 and had organic revenue growth of 7%. It's guiding for solid growth in 2026, but investors will need to determine the right multiple in a world where AI may break down barriers to entry.\n\nI'm not entirely sure what that is in this new world, so it could take time for the market to digest companies in this position.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-02-25",
+      "Time": "00:42:19",
+      "Source": "GuruFocus.com",
+      "Title": "Qualcomm Upgrade Tied To $7 Billion AI Opportunity",
+      "URL": "https://finance.yahoo.com/news/qualcomm-upgrade-tied-7-billion-164219502.html",
+      "Content": "This article first appeared on GuruFocus .\n\nQUALCOMM Incorporated ( NASDAQ:QCOM ) just got a vote of confidence from Wells Fargo, which upgraded the stock to Equal weight from Underweight, saying its data center strategy could open up a $5 billion to $7 billion revenue opportunity by 2027.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe bank also lifted its price target to $150 from $135. Analysts led by Aaron Rakers said Qualcomm's recent acquisitions of Alphawave Semi and Ventana Micro Systems are starting to make more strategic sense, especially as the company builds out its AI series data center offerings. Alphawave brings expertise in high speed connectivity and HBM4 related IP, while Ventana's Veyron V2 RISC V CPU can scale up to 192 cores per socket. Ventana has previously disclosed triple digit $ million commitments from hyperscalers and HPC customers, suggesting real enterprise interest.\n\nShares were up about 2% in early trading, though the stock is still down 18% YTD. Investors remain cautious as Apple ( NASDAQ:AAPL ) plans to move to in house modems by 2027, and broader handset demand has been soft amid memory constraints.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-02-25",
@@ -30,6 +50,26 @@
       "Title": "Google signs AES, Xcel supply deals to meet data-center energy needs",
       "URL": "https://finance.yahoo.com/news/google-signs-aes-xcel-supply-162942386.html",
       "Content": "Feb 24 (Reuters) - Alphabet's Google doubled down on efforts to secure power supply for its data centers across the country by entering into ‌separate agreements with U.S. utilities, AES Corp and Xcel Energy, on Tuesday.\n\nBig ‌Tech firms have been scouring for new, reliable and cleaner energy sources to power their rapidly expanding ​data centers, which have been driven by increasing use of artificial-intelligence applications.\n\nTo meet the surging demand, utilities have been investing heavily to upgrade the country's grid, though this has raised concerns about increasing customer bills.\n\nXcel entered into an agreement to power Google's ‌new data center in Pine ⁠Island, Minnesota, while bringing 1,900 megawatts of new clean energy to the grid.\n\nThe utility said the project would not raise costs ⁠for existing customers, as Google will pay all costs for its new service.\n\nThe project would add 1,400 MW of new wind energy capacity, 200 MW of solar power and ​300 MW ​of long-duration energy storage. Google will also ​invest $50 million in Xcel's efforts ‌to build a battery storage network across Minnesota.\n\nMeanwhile, Arlington, Virginia-based AES said it had signed a 20-year agreement with Google to power a new data center in Wilbarger County, Texas.\n\nAES signed deals for energy generation that will be co-located with the new data center and enable Google to expand its operations to meet demand for ‌its core services.\n\nThe utility will build the necessary ​shared electricity infrastructure for the co-located facility.\n\nGoogle had ​previously signed a deal with ​NextEra Energy to build new energy supplies for its operations across ‌the U.S.\n\nNextEra and Google currently have ​3.5 GW of electricity ​generation - enough to power about 2.5 million homes - in operation or contracted.\n\nOther major U.S. utilities including Southern Co and AEP also count Google as ​their customer.\n\nMeta, Microsoft and Amazon's ‌Amazon Web Services have also signed several power supply deals with U.S. ​utilities.\n\n(Reporting by Katha Kalia in Bengaluru, additional reporting by Vallari Srivastava; ​Editing by Vijay Kishore and Leroy Leo)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-02-25",
+      "Time": "00:25:51",
+      "Source": "Reuters",
+      "Title": "Apple shareholders reject shareholder proposal asking for report on China entanglements",
+      "URL": "https://finance.yahoo.com/news/apple-shareholders-reject-shareholder-proposal-162426881.html",
+      "Content": "Feb 24 (Reuters) - Apple shareholders on Tuesday ‌rejected a proposal ‌to report on the ​company's dependence on China to manufacture a bulk of ‌its products.\n\nThe ⁠vote comes after Apple has ⁠worked for nearly a decade to ​broaden its ​manufacturing ​base to ‌Vietnam, India and even the U.S., where it said earlier in the day ‌it would ​assemble some ​of ​its Mac ‌Mini computers to meet ​U.S. ​demand starting later this year.\n\n(Reporting by ​Zaheer ‌Kachwala and Stephen ​Nellis; Editing by ​Maju Samuel)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-02-25",
+      "Time": "00:20:00",
+      "Source": "Motley Fool",
+      "Title": "Netflix Stock Keeps Dipping: Is It Finally Time to Buy?",
+      "URL": "https://finance.yahoo.com/m/1870783b-fefd-3ce1-9037-4dead937f4c9/netflix-stock-keeps-dipping%3A.html",
+      "Content": "For years, Netflix (NASDAQ: NFLX) stock has felt impenetrable. From their lows in 2022, shares kept marching higher, showing no signs of slowing. That is, until the last few months. Netflix stock is now in a 40% drawdown, driven by fears over its proposed acquisition of Warner Bros. Discovery , which could load the business with debt.\n\nAre investors overreacting to this potential deal? Let's look into the details of Netflix's business right now and see whether it is time to buy the dip on this storied compounder.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nA surprise announcement hit the entertainment industry in December last year when Netflix announced it intended to acquire Warner Bros. from Warner Bros. Discovery, giving it intellectual property (IP) from the likes of HBO and the storied namesake movie studio.\n\nIt has faced competition from Paramount Skydance to acquire Warner Bros., which has attempted a somewhat hostile takeover to try to convince Warner Bros. management to choose it over Netflix. In January, Netflix sweetened the deal by changing it to an all-cash offer of $82.7 billion. To finance the deal, Netflix will need to take on massive debt , which has investors nervous about the transaction. Plus, HBO and Warner Bros. are much slower-growing businesses than Netflix and will need to be integrated into the core Netflix application to drive value creation.\n\nThis is an expensive deal at a time when Netflix is facing increased competition from an unlikely source in the United States: YouTube. YouTube is now the most popular application for TV viewing in the United States, growing its share significantly over the last five years. Netflix viewing hours are still growing, but not nearly as fast as the global video creator platform.\n\nDespite these fears, Netflix's core business is doing just fine. Revenue grew 16% in 2025 and is expected to grow at 12% to 14% in 2026. Earnings and free cash flow are strong, with operating earnings now at $13.4 billion and free cash flow at $9.5 billion. This growing cash flow -- along with the acquired earnings from Warner Bros. -- will help Netflix deleverage its balance sheet after making the acquisition (if it is closed).\n\nIn all likelihood, this proposed acquisition just gave Wall Street an excuse to sell Netflix at its premium valuation. Netflix traded at a price-to-earnings ratio (P/E) of 60 earlier in 2025. It now has a P/E ratio of 31. This is a much more palatable earnings ratio, and could make Netflix stock a buy today despite the risks associated with acquiring Warner Bros.",
       "Language": "en"
     },
     {
