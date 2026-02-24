@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-24T16:19:50.432Z",
-  "total_news_count": 375,
+  "last_updated": "2026-02-24T16:31:37.936Z",
+  "total_news_count": 377,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-02-25",
+      "Time": "00:02:37",
+      "Source": "Reuters",
+      "Title": "California seeks injunction to stop Amazon's alleged stifling of price competition",
+      "URL": "https://finance.yahoo.com/news/california-seeks-injunction-stop-amazons-160237797.html",
+      "Content": "Feb 24 (Reuters) - California asked a state judge on Tuesday to stop Amazon.com from inflating prices for consumers through an alleged ‌campaign to bully merchants not to sell goods more cheaply elsewhere.\n\nThe ‌state's attorney general, Rob Bonta, sought a preliminary injunction in his 3-1/2-year-old antitrust lawsuit against Amazon, ​which also seeks to recoup ill-gotten profits.\n\n\"Amazon’s goal is to insulate itself from price competition by preventing lower retail prices in the market,\" Bonta said in a heavily redacted filing in the California Superior Court in San Francisco. \"Amazon ‌tells vendors what prices it ⁠wants to see to maintain its own profitability.\"\n\nBonta said his office has uncovered \"countless\" interactions where Amazon, rivals and merchants ⁠agreed to fix prices to ensure that Amazon would not be undercut on websites such as eBay, Target and Walmart.\n\nHe said Amazon and rivals, with merchants acting ​as ​intermediaries, often agreed to raise prices or ​make products temporarily unavailable, eliminating ‌any need for price-matching.\n\nMerchants that rejected Amazon's demands would be cut off or denied access to its \"Buy Box,\" where shoppers can click \"Add to Cart\" or \"Buy Now,\" Bonta said.\n\nThe Buy Box accounts for the vast majority of sales on Amazon's website.\n\n\"We welcome companies that succeed by offering better prices and better ‌service,\" Bonta said in a statement. \"What we ​have here is a greedy, behemoth corporation ​intentionally increasing prices in the ​marketplace to get richer and richer off the backs of ‌consumers.\"\n\nThe proposed injunction would stop Amazon's ​alleged anticompetitive conduct while ​the case is pending, and a monitor would oversee Amazon's compliance.\n\nAmazon has argued in court papers that its \"procompetitive\" agreements with merchants are ​legal, commonplace in the ‌industry, and benefit consumers through increased product selection, appropriate product stocking ​and competitive prices.\n\nA trial is scheduled for January 2027.\n\n(Reporting by Jonathan Stempel ​in New YorkEditing by Nick Zieminski)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-02-24",
@@ -100,6 +110,16 @@
       "Title": "Why Advanced Micro Devices Stock Just Popped",
       "URL": "https://finance.yahoo.com/m/bd65ddf9-e04d-318e-97b7-c268851f9a9a/why-advanced-micro-devices.html",
       "Content": "Advanced Micro Devices (NASDAQ: AMD) stock surged 6.1% in the first 10 minutes of trading Tuesday (9:40 a.m. ET) after announcing an \"expanded strategic partnership\" with Meta (NASDAQ: META) :\n\nMeta will buy 6 gigawatts-worth of AMD GPUs for artificial intelligence .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThis partnership aims to help Meta \"rapidly scale AI infrastructure and accelerate the development and deployment of cutting-edge AI models,\" say the companies. And this partnership will be \"multi-year,\" and span \"multi-generation[s]\" of AMD chips.\n\nThe expanded partnership will begin with shipments of AMD Instinct GPUs and sixth-generation AMD Venice and Verano EPYC CPUs in the back half of 2026. Initially, the GPUs will be based on AMD's newest MI450 architecture. The \"multi-generation\" aspect of the deal, however, implies Meta will keep buying AMD chips as capabilities advance.\n\nAll the GPUs and CPUs AMD sells to Meta will be tailored for \"rack-scale architecture\" -- meaning they'll be designed specifically for data centers .\n\nMeta frames this partnership as a move to \"diversify our compute\" (as Mark Zuckerberg puts it) -- making sure Meta doesn't become too dependent upon AI chips from Nvidia.\n\nTo AMD CEO Dr. Lisa Su, though, the big significance is that this partnership secures a major long-term customer for its most advanced AI GPUs and CPUs. At the same time, allying with Meta puts AMD \"at the center of the global AI buildout.\"\n\nSidenote: To further cement the partnership (and win the sale), AMD agreed to give Meta a stock warrant to buy, from time to time, \"up to 160 million shares of AMD common stock.\" Given AMD's current 1.6 billion share count, this deal could result in Meta owning 10% of AMD.\n\nDo you think that might foreshadow Meta buying even more chips from AMD in the future?\n\nI do.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-02-24",
+      "Time": "23:15:53",
+      "Source": "Investing.com",
+      "Title": "SanDisk stock falls 5% after Citron Research short call",
+      "URL": "https://finance.yahoo.com/news/sandisk-stock-falls-5-citron-151553851.html",
+      "Content": "Investing.com -- SanDisk shares fell Tuesday after short-seller Citron Research announced a short position in the memory chip maker. The stock, which has surged 175% this year and over 1,200% in the past twelve months, dropped 5% following Citron’s announcement.\n\nCitron Research cited concerns about cyclical pressures in the memory market and intensifying competition from Samsung. \"Citron is Short $SNDK — They Don’t Ring a Bell at the Top. We don’t need Anthropic to announce they’re making NAND. Samsung is already the 800-pound gorilla, and they’ve been running this playbook for 30 years,\" the firm commented.\n\nThe short-seller pointed to Western Digital’s recent sale of a significant portion of its SanDisk holdings at prices 25% lower than current levels as a warning sign. Citron argued that the market is pricing SanDisk like NVIDIA, but noted a key difference: \"NVIDIA has a moat. SanDisk sells a commodity.\"\n\nCitron highlighted Samsung’s historical strategy of prioritizing market share over margins during memory cycles, referencing similar patterns in 2008, 2012, and 2018. The firm noted Samsung’s recent announcement that it won’t sell products under 50% margins and is moving premium chips into the same SSD market where SanDisk operates.\n\n\"With double the capacity of the 2018 peak waiting in the wings, this ’shortage’ is a supply mirage that can vanish in a single earnings call,\" Citron commented, suggesting current supply constraints are temporary.\n\nThe firm concluded: \"Shorting $SNDK is skating to where the puck is going. By the time the cycle normalizes, this stock will already be much lower.\"",
       "Language": "en"
     },
     {
