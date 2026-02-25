@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-02-25T04:05:43.537Z",
-    "total_news_count": 68,
+    "last_updated": "2026-02-25T16:05:33.562Z",
+    "total_news_count": 69,
     "news": [
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-02-25",
+            "Time": "13:00:16",
+            "Title": "Microsoft hunts for new London HQ on Elizabeth Line",
+            "URL": "https://www.ft.com/content/9c493391-9ce0-4d6d-927b-9c2fc45a2c1f",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AMZN",
             "Date": "2026-02-25",
