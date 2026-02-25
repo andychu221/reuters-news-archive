@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-25T07:46:02.199Z",
-  "total_news_count": 680,
+  "last_updated": "2026-02-25T08:14:28.446Z",
+  "total_news_count": 681,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-02-25",
+      "Time": "15:50:00",
+      "Source": "Motley Fool",
+      "Title": "Amazon Just Delivered Great News for This Top AI Stock",
+      "URL": "https://finance.yahoo.com/m/93f061cd-ad2b-3058-909c-fc5fb0bd9e3b/amazon-just-delivered-great.html",
+      "Content": "Amazon (NASDAQ: AMZN) stock fell on its fourth-quarter earnings report as investors balked at its plans to spend $200 billion on capital expenditures, but there was some good news in the report as well.\n\nOne of the brightest spots for Amazon was the growth of its custom chips, Graviton and Trainium, which reached a run rate of more than $10 billion in annual revenue and is more than doubling on a year-over-year basis. If it was a stand-alone business, it might be worth $100 billion now.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThat's good news not just for Amazon, but also for Arm Holdings (NASDAQ: ARM) , which designs the CPUs used in Graviton. Arm sells a license to use the \"instruction set\" for the CPU and then collects a royalty when it is sold or put into use.\n\nIn addition to the rapid growth and the run rate above, Amazon CEO Andy Jassy noted that the company is \"adding significant EC2 core computing capacity each day,\" referring to a core service of Amazon Web Services, its cloud infrastructure business , and that a majority of that is using Graviton.\n\nJassy also noted that Graviton's price performance is more than 40% per instance than comparable x86 processors, a competitor to Arm made by Intel and AMD .\n\nThe success of Graviton is clearly a win for Amazon, but it might be a bigger driver of Arm's growth as that company is bringing in a little more than $1 billion in revenue per quarter.\n\nThe better performance of Graviton over x86 alternatives is likely to encourage more spending on Arm CPUs for the cloud, and Arm management said its data center royalty revenue doubled in its most recent quarter. It believes that data center revenue could overtake smartphone revenue as its biggest category in the next three years.\n\nIn an interview with The Motley Fool, CFO Jason Child said that most Graviton CPUs now run on Arm and that the company would benefit from the growth of AI agents, which will demand more CPUs, driving up its royalty collections. Additionally, new versions of Graviton, like the Graviton 5, have more cores, meaning more CPUs. Newer chips are also using a more advanced Arm design, known as compute subsystems (CSS), which charges a significantly higher royalty rate.\n\nAs demand for Graviton and related cloud AI chips grows, Arm is well-positioned to benefit, making it an overlooked winner in the AI boom.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-02-25",
