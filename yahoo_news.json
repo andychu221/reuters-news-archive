@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T19:14:39.009Z",
-  "total_news_count": 887,
+  "last_updated": "2026-02-25T19:31:36.429Z",
+  "total_news_count": 888,
   "news": [
     {
       "Ticker": "INTC",
@@ -40,6 +40,16 @@
       "Title": "Why the Nasdaq Is Beating the Dow and S&P 500 Today",
       "URL": "https://finance.yahoo.com/m/65caa144-5feb-300c-93fa-97e90633a597/why-the-nasdaq-is-beating-the.html",
       "Content": "Wall Street is having a good day, but not all indexes are sharing the wealth equally. Days like these can highlight the structural differences between market indexes .\n\nBy noon ET, the Nasdaq Composite (NASDAQINDEX: ^IXIC) index has been leading the morning's charge, just ahead of the S&P 500 (SNPINDEX: ^GSPC) . The Dow Jones Industrial Average (DJINDICES: ^DJI) is lagging behind, but still firmly up.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\n^SPX data by YCharts\n\nTo be clear, all indexes reacted to the same market news.\n\nNvidia (NASDAQ: NVDA) is up by more than 2% as investors prepare for this evening's Q4 2026 earnings report.\n\nApple (NASDAQ: AAPL) stock also gained 2% on the expansion of computer system manufacturing facilities in Houston, Texas. The iPhone giant will add Mac mini boxes to the Houston factories while boosting the production of AI servers .\n\nMicrosoft (NASDAQ: MSFT) made a slightly bigger jump at roughly 2.5% as management called OpenAI a reliable Azure client despite the ChatGPT maker's connections to other cloud computing platforms.\n\nThese giants add up to a 26% share of the Nasdaq Composite index's total weight. On the S&P 500, the trio's weight stops at 18%. That's still a lot, but significantly below their Nasdaq standing.\n\nThe Dow tells a very different story, because it's weighted by stock prices instead of market caps. Nvidia, Apple, and Microsoft are all members of this 30-name club too, but their total weighting is just 10.6%.\n\nMicrosoft still ranks among the top three score movers on the Dow today, in third place behind Goldman Sachs (NYSE: GS) and IBM (NYSE: IBM) .\n\nMany financial service stocks are up by roughly 3% today, including Goldman Sachs. Last night's State of the Union address didn't include any new tariffs and largely steered clear of new economic policies, and the financial sector had been bracing for something worse. Goldman carries a heavy load in the Dow Jones index with a share price of $919 and an index weight of 11.3%. Yes, that's more than Nvidia, Apple, and Microsoft combined.\n\nFinally, IBM holds a respectable 2.8% weight on the Dow, thanks to a triple-digit share price of $223. Big Blue is up by 7% today, rebounding from the AI-powered threats to its consulting services that drove the stock down on Monday and again on Tuesday. IBM's shares are still down 7% over the last week.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-02-26",
+      "Time": "02:33:00",
+      "Source": "TheStreet",
+      "Title": "Bank of America drops a surprising Nvidia warning before earnings",
+      "URL": "https://finance.yahoo.com/m/5bbf8604-7d3c-3f9a-a1f9-0942853b743d/bank-of-america-drops-a.html",
+      "Content": "Nvidia ( NVDA ) is now firmly in earnings mode. The semiconductor industry giant will report earnings on Wednesday, Feb. 25, after the market close . The earnings report, a crucial market for the chip giant, has garnered significant input from various analysts and stakeholders.\n\nBut a fresh analyst take just on the eve of the earnings report is garnering significant attention.\n\nThe note is focusing on the overlooked part of the stack. Per the bombshell analyst note, that part of the stake could, by inference, widen the conversation about who wins.\n\nUltimately, Nvidia’s looming earnings report will take over the AI trade again. But the Feb. 23 analyst note tries to make the case that the markets are only factoring in part of the picture.\n\nThe shift can potentially reshape what investors think about Nvidia, Advanced Micro Devices ( AMD ), Arm Holdings ( ARM ), and Intel ( INTC ) as we head into the next part of the AI buildout.\n\nThat does not mean GPUs will not matter in the future. Instead, it means the market might not fully understand what happens when AI workloads go from being trained to being deployed, where system control, scheduling, memory orchestration, and latency become more important.\n\nNvidia’s looming earnings are hard to ignore. They are the main headline risk event for semiconductor investors.\n\nThe usual questions will be important: How long will demand last, how much will hyperscalers spend, how will products change, and how should investors think about the speed of AI infrastructure spending from here?\n\nBut in reading Arya’s note, I feel he makes a nuanced argument. Nvidia’s largest upside will increasingly come from owning more of the system, not just the accelerator.",
       "Language": "en"
     },
     {
