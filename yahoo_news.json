@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-02-25T18:39:47.601Z",
-  "total_news_count": 877,
+  "last_updated": "2026-02-25T19:00:01.854Z",
+  "total_news_count": 881,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-26",
+      "Time": "02:33:00",
+      "Source": "TheStreet",
+      "Title": "Bank of America drops a surprising Nvidia warning before earnings",
+      "URL": "https://finance.yahoo.com/m/5bbf8604-7d3c-3f9a-a1f9-0942853b743d/bank-of-america-drops-a.html",
+      "Content": "Nvidia ( NVDA ) is now firmly in earnings mode. The semiconductor industry giant will report earnings on Wednesday, Feb. 25, after the market close . The earnings report, a crucial market for the chip giant, has garnered significant input from various analysts and stakeholders.\n\nBut a fresh analyst take just on the eve of the earnings report is garnering significant attention.\n\nThe note is focusing on the overlooked part of the stack. Per the bombshell analyst note, that part of the stake could, by inference, widen the conversation about who wins.\n\nUltimately, Nvidia’s looming earnings report will take over the AI trade again. But the Feb. 23 analyst note tries to make the case that the markets are only factoring in part of the picture.\n\nThe shift can potentially reshape what investors think about Nvidia, Advanced Micro Devices ( AMD ), Arm Holdings ( ARM ), and Intel ( INTC ) as we head into the next part of the AI buildout.\n\nThat does not mean GPUs will not matter in the future. Instead, it means the market might not fully understand what happens when AI workloads go from being trained to being deployed, where system control, scheduling, memory orchestration, and latency become more important.\n\nNvidia’s looming earnings are hard to ignore. They are the main headline risk event for semiconductor investors.\n\nThe usual questions will be important: How long will demand last, how much will hyperscalers spend, how will products change, and how should investors think about the speed of AI infrastructure spending from here?\n\nBut in reading Arya’s note, I feel he makes a nuanced argument. Nvidia’s largest upside will increasingly come from owning more of the system, not just the accelerator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-02-26",
+      "Time": "02:30:06",
+      "Source": "Bloomberg",
+      "Title": "Nvidia Earnings to Test AI Outlook",
+      "URL": "https://finance.yahoo.com/video/nvidia-earnings-test-ai-outlook-183006230.html",
+      "Content": "Joshua Buchalter, Senior Equity Research Analyst at TD Cowen, previews Nvidia's latest quarterly results. He speaks with Bloomberg's Dani Burger and Matt Miller on Open Interest.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-02-26",
@@ -63,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMD",
+      "Date": "2026-02-26",
+      "Time": "01:51:13",
+      "Source": "GuruFocus.com",
+      "Title": "Advanced Micro Devices, Meta Deal Could Add $100B in Revenue",
+      "URL": "https://finance.yahoo.com/news/advanced-micro-devices-meta-deal-175113999.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices Inc. ( AMD , Financials ) could generate roughly $100 billion in revenue over the next five years following its newly announced AI chip supply deal with Meta Platforms Inc., according to Piper Sandler.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nThe brokerage said the agreement mirrors AMDs prior engagement with OpenAI and reinforces the companys growing role in AI infrastructure. Under the deal, AMD will provide Meta with a customized version of its MI450 GPU paired with its Helios rack system. The chips are expected to support a 6-gigawatt deployment beginning in the second half of 2026, with the first gigawatt already committed.\n\nPiper Sandler estimates revenue of $17$18 billion per gigawatt, suggesting strong long-term monetization potential. AMD will also issue up to 160 million warrants to Meta, with performance targets tied to a final strike price of $600.\n\nAnalysts believe the agreement could boost peak earnings per share by about $5, further supporting AMDs long-term EPS target of $20 amid surging demand for AI accelerators and data center hardware.",
+      "Language": "en"
+    },
+    {
       "Ticker": "META",
       "Date": "2026-02-26",
       "Time": "01:51:13",
@@ -80,6 +110,16 @@
       "Title": "Workday Shares Drop 9% as CEO Says OpenAI, Google Use Its Software",
       "URL": "https://finance.yahoo.com/news/workday-shares-drop-9-ceo-174643941.html",
       "Content": "This article first appeared on GuruFocus .\n\nWorkday ( NASDAQ:WDAY ) is attempting to reset the AI debate around its business at a moment when investor confidence has been shaken. After a steep selloff that has pushed the shares down about 40% this year, Chief Executive Officer Aneel Bhusri told analysts Tuesday that some of the most closely watched AI companies including Anthropic, Google and OpenAI run on Workday's systems. At a time when markets have been questioning whether generative AI could erode demand for traditional enterprise software, that detail is being positioned as evidence that AI innovation and core HR platforms may not be mutually exclusive.\n\nWarning! GuruFocus has detected 2 Warning Sign with NVO.\n\nIs WDAY fairly valued? Test your thesis with our free DCF calculator.\n\nThe concern weighing on the stock has been straightforward: if AI tools make payroll, human resources and other back-office processes easier, demand for Workday's applications could be pressured. That skepticism has not been isolated to one name, with peers such as Salesforce Inc. also seeing similar sentiment shifts. Bhusri, a Workday co-founder who returned earlier this month as CEO after stepping down in 2024 as co-CEO while remaining chairman, used much of the company's earnings call to argue that Workday's products function as foundational systems rather than optional layers that can be easily displaced.\n\nHe described Workday's HR and ERP offerings as systems of record designed to process transactions with accuracy and speed, enforce complex security models, and comply with statutory and regulatory requirements across multiple jurisdictions. In that framing, lightweight AI-driven development approaches may not be sufficient substitutes for enterprise-grade platforms. Even so, the market reaction was cautious: shares fell 9% in extended trading after the earnings report, suggesting investors may still be weighing how durable Workday's positioning could be as AI adoption accelerates.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-02-26",
+      "Time": "01:44:00",
+      "Source": "Zacks",
+      "Title": "CoStar Q4 Earnings Beat Estimates, Revenues Up Y/Y, Shares Fall",
+      "URL": "https://finance.yahoo.com/news/costar-q4-earnings-beat-estimates-174400063.html",
+      "Content": "CoStar Group CSGP reported non-GAAP earnings of 31 cents per share in the fourth quarter of 2025, which surpassed the Zacks Consensus Estimate by 13.76%. The company reported earnings of 26 cents per share in the year-ago quarter, up 19.2% year over year.\n\nRevenues of $900 million beat the Zacks Consensus Estimate by 1% and increased 26.9% year over year. This represents the company’s 59th consecutive quarter of double-digit revenue growth. The upside was driven by robust performance in key segments.\n\nHowever, CSGP stock lost 5.21% in pre-market trading.\n\nDuring the fourth quarter of 2025, the company changed the composition of segments from geography-based to product portfolio-based. In the fourth quarter of 2025, Commercial Real Estate revenues (52.3% of revenues) were $471 million. The Commercial Real Estate segment includes CoStar, LoopNet, and Other Commercial Real Estate.\n\nCoStar Group, Inc. price-consensus-eps-surprise-chart | CoStar Group, Inc. Quote\n\nCoStar’s revenues (36.1% of revenues) were $325, which increased 9.4% year over year.\n\nLoopNet’s revenues (9.3% of revenues) were $84 million, which increased 16.7% year over year.\n\nOther Commercial Real Estate revenues (6.9% of revenues) were $62 million, which increased 181.8% year over year.\n\nFourth-quarter Residential revenues (47.7% of revenues) were $429 million, which increased 34.9% year over year.\n\nIn the fourth quarter of 2025, Net New Bookings reached $75 million, which represents a year-over-year increase of 41.5%. In 2025, Net New Bookings reached $308 million, which represents a year-over-year increase of 23.2%.\n\nIn the reported quarter, CoStar’s sites reached 139 million average monthly unique visitors, while the Homes.com Network achieved 108 million.\n\nIn the reported quarter, selling and marketing expenses increased 22.3% year over year to $378 million. As a percentage of revenues, selling and marketing expenses were 42% compared with 43.6% in the year-ago quarter.\n\nGeneral and administrative expenses, as a percentage of revenues, contracted 330 basis points (bps) on a year-over-year basis to 14.3%.\n\nSoftware development expenses, as a percentage of revenues, expanded 50 bps, while Customer base amortization expenses rose 280 bps year over year.\n\nOperating expenses increased 24.4% year over year to $658 million. As a percentage of revenues, operating expenses decreased 150 bps year over year to 73.1%.\n\nAdjusted EBITDA was $177 million compared with the year-ago quarter’s $112 million. The adjusted EBITDA margin expanded 390 bps to 19.7%.\n\nCoStar reported cash and cash equivalents of $1.63 billion as of Dec. 31, 2025, compared with $1.93 billion as of Sept. 30, 2025.\n\nThe company had a long-term debt of $993 million as of Dec. 31, 2025, compared with $992.9 million as of Sept. 30.\n\nCash generated by operating activities was $430 million in the reported quarter compared with $267.9 million in the previous quarter.\n\nIn the fourth quarter of 2025, the company completed a $500 million share repurchase program, which was initiated in 2025.\n\nFor the first quarter of 2026, the company expects revenues between $890 million and $900 million, indicating year-over-year growth of 22% to 23%.\n\nThe company anticipates adjusted EBITDA between $95 million and $115 million for the first quarter of 2026.\n\nCSGP expects first-quarter non-GAAP earnings per share between 16 cents and 19 cents.\n\nFor 2026, revenues are expected to be between $3.78 billion and $3.82 billion, indicating year-over-year growth of 16% to 18%.\n\nThe company anticipates adjusted EBITDA between $740 million and $800 million for 2026.\n\nCSGP expects 2026 non-GAAP earnings per share between $1.22 per share and $1.33 per share.\n\nCoStar currently carries a Zacks Rank #5 (Strong Sell).\n\nSome better-ranked stocks in the broader Zacks Computer and Technology sector are ATN International ATNI, Broadcom AVGO, and Credo Technology CRDO. While Credo Technology sports a Zacks Rank #1 (Strong Buy), ATN International and Broadcom carry a Zacks Rank #2 (Buy) at present. You can see the complete list of today’s Zacks #1 Rank stocks here .\n\nATN International is set to report fourth-quarter 2025 results on March 5. ATN International shares have surged 79.8% in the trailing six-month period.\n\nBroadcom is slated to report first-quarter fiscal 2026 results on March 4. Broadcom shares have gained 10.6% in the trailing six-month period.\n\nCredo Technology is set to report third-quarter fiscal 2026 results on March 2. Credo Technology shares have gained 4.7% in the trailing six-month period.\n\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.",
       "Language": "en"
     },
     {
