@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-25T10:31:43.982Z",
-  "total_news_count": 717,
+  "last_updated": "2026-02-25T10:39:39.159Z",
+  "total_news_count": 719,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-02-25",
+      "Time": "17:37:04",
+      "Source": "Reuters",
+      "Title": "Russia fines Google for distributing VPN services, TASS reports",
+      "URL": "https://finance.yahoo.com/news/russia-fines-google-distributing-vpn-093704243.html",
+      "Content": "MOSCOW, Feb 25 (Reuters) - A Russian ‌court has ‌fined Alphabet's Google ​over 22 million roubles ($288,000) for distributing VPN (virtual ‌private network) ⁠services on the Google ⁠Play app store, state ​news ​agency ​TASS reported ‌on Wednesday.\n\nVPNs provide a means for Russians to access foreign ‌tech platforms ​and ​content ​that Russia ‌has banned or ​restricted.\n\n($1 = ​76.4500 roubles)\n\n(Reporting by Reuters; ​Writing ‌by Gleb Stolyarov; ​Editing by Mark ​Trevelyan)",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-02-25",
@@ -121,6 +131,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%AD%89%E5%88%B8%E5%85%AC%E6%9C%83%E7%90%86%E4%BA%8B%E9%95%B7%E7%9C%8B%E5%A5%BD%E8%A1%9D4%E8%90%AC%E9%BB%9E-5%E8%90%AC%E9%BB%9E%E4%B9%9F%E4%B8%8D%E9%9B%A3-083610237.html",
       "Content": "【時報記者莊丙農台北報導】台股今天衝上3萬5000點以上歷史新高，證券公會理事長陳俊宏表示，今年台股表現可望更勝去年，主要台灣半導體與AI產業實力確實無庸置疑，衝4萬點樂觀以對，5萬點不難，但條件是美股先上10萬點。\n陳勝宏認為，台積電突破2000元後，市場目標價都喊到3000元，如果台積電達到3000元，加權指數再漲8000到1萬點不是不可能。\n此外，證券公會也呼籲政府研議建立合理的證交稅率，台股證交稅率千分之3在亞洲股市偏高，而且還有一些證交稅率都有實施期限，今年就將面對「公司債、金融債及債券ETF證交稅停徵」於年底屆期，以及「當沖稅率減半」於明年底屆期的問題。為避免屆期前的不確定性，影響投資人投資決策判斷，建請政府及早啟動證交稅條例修法程序，確保無縫接軌，以維持市場穩定運作。\n證券公會表示，「公司債、金融債及債券ETF證交稅停徵」及「當沖稅率減半」實證結果已成功帶動證券市場交易流動性、吸引優質企業在台掛牌籌資發展經濟，並增加證交稅收等多贏局面；惟上開降稅措施都有實施期限，證券市場應該建立合理穩定可長可久之證交稅率，才能促進市場及國家經濟發展，也是台灣發展成為亞洲資產管理中心的重要基石。因此，公會在去年金融建言白皮書已建議證交所及櫃買中心通盤研究如何建構合理證交稅率，在此也籲請儘速研究，並將研究結果作為金管會及財政部進行政策溝通參考。\n強化權證市場發展方面，建議鬆綁權證發行相關限制規定，包括1.放寬連結標的之總額度；2.縮短標的證券處置結束後禁止發行權證期間；3.放寬連結ETF之行使比例，讓證券商可以即時發行滿足市場投資需求的權證。這3項建議證交所及櫃買中心已函報主管機關同意，近期將公告實施。\n另外，研議解決權證損失課稅爭議，依現行所得稅法第24條之2規定，發行權證產生淨損失，不得認列；且近年來證券商屢有申報營所稅之發行權證淨損失與國稅局核定金額不同情事。為解決證券商發行權證損失課稅爭議，公會將委外研究如何合理解決以減輕證券商發行權證額外負擔。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-02-25",
+      "Time": "16:27:29",
+      "Source": "Reuters",
+      "Title": "Microsoft Japan raided over suspected violation of anti-monopoly law, source says",
+      "URL": "https://finance.yahoo.com/news/microsoft-japan-raided-over-suspected-082729353.html",
+      "Content": "TOKYO, Feb 25 (Reuters) - Japan's Fair Trade Commission raided Microsoft Japan's offices on ‌Wednesday as part of an investigation ‌into whether it improperly restricted customers of its ​Azure platform from using rival cloud services, a source with direct knowledge of the matter told Reuters.\n\nThe person declined to be identified ‌because the information ⁠is not public. The FTC declined to comment, while Microsoft Japan did ⁠not immediately respond to a request for comment.\n\nThe source said Japan's antitrust authorities would ​also be ​seeking clarification from ​Microsoft's parent company ‌in the United States. Microsoft Japan is suspected of setting conditions that effectively shut out other services by limiting access to popular services on other cloud platforms, the ‌source said.\n\nRegulators in Britain, ​Europe and the U.S. have ​separately been ​examining Microsoft and others' practices ‌in relation to cloud computing. ​Brazil's antitrust ​body last month opened an administrative investigation into the software giant's local unit ​related to ‌its cloud computing services.\n\n(Reporting by Mariko ​Katsumura and Kentaro OkasakaWriting by Chang-Ran ​KimEditing by Louise Heavens)",
+      "Language": "en"
     },
     {
       "Ticker": "MSFT",
