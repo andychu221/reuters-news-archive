@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-25T08:31:43.390Z",
-  "total_news_count": 683,
+  "last_updated": "2026-02-25T08:39:37.747Z",
+  "total_news_count": 684,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-02-25",
+      "Time": "16:27:29",
+      "Source": "Reuters",
+      "Title": "Microsoft Japan raided over suspected violation of anti-monopoly law, Nikkei says",
+      "URL": "https://finance.yahoo.com/news/microsoft-japan-raided-over-suspected-082729353.html",
+      "Content": "TOKYO, Feb 25 (Reuters) - Japan's ‌Fair Trade ‌Commission raided Microsoft ​Japan's offices on Wednesday as part of ‌an ⁠investigation into whether it ⁠improperly restricted customers of ​its ​Azure ​platform from ‌using rival cloud services, the Nikkei business daily reported, citing ‌sources ​familiar ​with ​the matter.\n\nMicrosoft ‌Japan could not ​immediately ​be reached for comment.\n\n(Reporting ​by ‌Mariko Katsumura ​Editing by Chang-Ran ​Kim)",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-02-25",
