@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-02-25T16:19:57.995Z",
-  "total_news_count": 830,
+  "last_updated": "2026-02-25T16:31:45.866Z",
+  "total_news_count": 832,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-02-25",
+      "Time": "23:55:23",
+      "Source": "Investing.com",
+      "Title": "Amazon defended at BofA as catalysts will support AWS sentiment",
+      "URL": "https://finance.yahoo.com/news/amazon-defended-bofa-catalysts-support-155523151.html",
+      "Content": "Investing.com -- Bank of America reiterated its positive stance on Amazon, saying rising cloud capacity, accelerating revenue trends, and improving AI deal flow should help lift investor sentiment around Amazon Web Services.\n\nThe call comes from Justin Post, the BofA analyst who maintained a Buy rating and a $275 price target on the stock in a note on Wednesday.\n\nPost highlighted Amazon’s disclosure that “AWS added 3.9 gigawatts in 2025 alone, with plans to double capacity again by 2027.”\n\nAccording to BofA, AWS has already doubled its power capacity since 2022, a buildout that helped revenue growth accelerate from “17% y/y in 2Q’25 to 24% in 4Q’25.”\n\nThe firm said estimates show AWS power capacity rising to more than 31 gigawatts by the end of 2027, up from about 15 gigawatts in the third quarter of 2025.\n\nBased on Amazon’s historical capex data, BofA estimates AWS could generate “$164bn in 2026 revenues and $209bn in 2027,” representing potential 2% and 5% upside to current Street forecasts.\n\nPost cautioned that rising construction costs and an unprecedented industry capex cycle pose risks.\n\n“We estimate hyperscalers will spend $1.2tn on capex over the next two years,” he wrote, a surge that could inflate costs and pressure pricing.\n\nStill, BofA argued that catalysts remain favourable. Post said sentiment should improve as AWS revenue growth continues, “Trainium adoption increases,” and new AI agreements validate Amazon’s lower-cost approach.\n\nHe added that any progress in Amazon’s proprietary large language model development would also be constructive for the stock.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-02-25",
+      "Time": "23:50:16",
+      "Source": "TipRanks",
+      "Title": "AWS reports latest Anthropic models on Amazon Bedrock in SE Asian countries",
+      "URL": "https://finance.yahoo.com/news/aws-reports-latest-anthropic-models-155016279.html",
+      "Content": "Amazon’s AWS stated in a blog post: “Organizations across in Thailand, Malaysia, Singapore, Indonesia, and Taiwan can now access Anthropic Claude Opus 4.6, Sonnet 4.6, and Claude Haiku 4.5 through Global cross-Region inference on Amazon Bedrock-delivering foundation models through a globally distributed inference architecture designed for scale. Global CRIS offers three key advantages: higher quotas, cost efficiency, and intelligent request routing to inference capacity across AWS commercial Regions for enabling AI use-cases like chatbots, autonomous coding agents, and financial analysis systems for customers.”\n\nUnlock hedge fund-level data and powerful investing tools for smarter, sharper decisions\n\nStay ahead of the market with the latest news and analysis and maximize your portfolio's potential\n\nPublished first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>>\n\nSee the top stocks recommended by analysts >>",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-02-25",
