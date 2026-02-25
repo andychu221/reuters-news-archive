@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-25T01:31:30.420Z",
-  "total_news_count": 550,
+  "last_updated": "2026-02-25T01:39:31.023Z",
+  "total_news_count": 551,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-02-25",
+      "Time": "08:44:39",
+      "Source": "TheStreet",
+      "Title": "Meta denies re-entering failed 2022 business",
+      "URL": "https://finance.yahoo.com/m/8e8f4197-a6bf-3ac2-9f98-cee8865b8a87/meta-denies-re-entering.html",
+      "Content": "In early 2022, Meta (NASDAQ: META) quietly shut down one of its most ambitious financial experiments.\n\nMeta was exploring a stablecoin project called \"Diem,\" a rebranded version of its original Libra stablecoin initiative, launched in 2019.\n\nDiem aimed to create a U.S. dollar-pegged digital currency that could be used across Facebook, WhatsApp, and Instagram for fast, low-cost global payments.\n\nThe project was managed by the Diem Association, an independent group backed by major firms. However, it faced intense regulatory scrutiny from U.S and European lawmakers concerned about financial stability, data privacy, and monetary sovereignty.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-02-25",
