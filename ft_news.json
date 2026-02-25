@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-02-25T16:05:33.562Z",
-    "total_news_count": 69,
+    "last_updated": "2026-02-25T22:05:41.824Z",
+    "total_news_count": 70,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-02-26",
+            "Time": "05:59:07",
+            "Title": "Nvidia rallies on robust earnings powered by AI investment boom",
+            "URL": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "MSFT",
             "Date": "2026-02-25",
