@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-25T15:43:50.286Z",
-  "total_news_count": 821,
+  "last_updated": "2026-02-25T15:51:36.505Z",
+  "total_news_count": 822,
   "news": [
     {
       "Ticker": "META",
@@ -81,6 +81,16 @@
       "URL": "https://finance.yahoo.com/news/analyst-sees-unprecedented-nand-cycle-143859434.html",
       "Content": "Investing.com -- SanDisk Corporation (NASDAQ:SNDK) is scheduled to participate in the Bernstein Insights: What’s Next in Tech? 4th Annual TMT Forum today at 6:30 p.m. ET.\n\nAhead of the presentation, Lynx Equity Strategies analyst KC Rajkumar shared his expectations for the event. Rajkumar noted that the supply shortage in the NAND flash space is likely to last longer than the DRAM shortage. While meaningful DRAM capacity is expected to come online by the second half of 2027, buyers of NAND flash may need to wait until 2028.\n\nThe analyst stated that the supply-demand shortage in the NAND flash space is not likely to disappear in the foreseeable future. At today’s investor presentation, Rajkumar expects SanDisk’s CEO and CFO to discuss the supply shortage and provide an update on ongoing negotiations with Tier1 cloud service providers regarding multi-year non-cancellable supply agreements.\n\nRajkumar questioned when NAND vendors last entered into supply contracts lasting more than a quarter, suggesting it has not occurred in recent memory. He said this changes the dynamic and that this cycle is unlike previous cycles.\n\nBased on SanDisk management comments at the earnings call, Rajkumar said he has confidence that 2026 earnings per share can be in the $90 to $100 range. The analyst views pullbacks as buying opportunities.",
       "Language": "en"
+    },
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-02-25",
+      "Time": "22:35:26",
+      "Source": "中時財經即時",
+      "Title": "記憶體大飆漲後第一槍 大摩降評群聯",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E9%A3%86%E6%BC%B2%E5%BE%8C%E7%AC%AC-%E6%A7%8D-%E5%A4%A7%E6%91%A9%E9%99%8D%E8%A9%95%E7%BE%A4%E8%81%AF-143526633.html",
+      "Content": "摩根士丹利證券指出，雖然AI趨勢激起NAND龐大需求，但在NAND供給受限、毛利結構正常化，以及消費型固態硬碟（SSD）於NAND報價走高環境中需求轉弱背景下，NAND模組廠面臨多重挑戰，降評群聯（8299）至「中立」、推測合理股價1,800元，這也是記憶體大多頭行情以來，重量級外資開出的第一槍。\n因記憶體本波段漲幅動輒翻倍，籌碼面趨於凌亂，波度動隨之提升，大摩本次雖僅降評NAND指標股群聯，影響層面卻是相當廣泛，不但群聯25日重挫7％、終場收1,925元，未被降評的華邦電、旺宏、南亞科跌幅也來到3％～5％，族群連動性明顯。\n摩根士丹利證券半導體產業分析師詹家鴻指出，AI強勁需求與記憶體緊俏供給，已大幅改變記憶體產業議價結構，市場對記憶體供應鏈每股稅後純益（EPS）估值共識年增高達279％，遠高於大摩研究涵蓋之全球科技股的37％。但要留心的是，記憶體固然喜迎超級循環，但受惠者高度分化，自2025年9月以來，NAND原廠股價累計上漲566％，明顯領先模組廠的219％，顯示上行動能集中於上游晶圓廠。\n詹家鴻強調，真正最大受惠者是NAND晶圓廠，同時受惠AI資本支出與製程世代轉換。大摩日本研究團隊已將鎧俠2026年NAND單位售價年增率預估，由原先的75％上調至超過100％，反映OEM議價能力提升，以及財測亮眼的優勢。整體來看，無論是DRAM、抑或是NAND，定價主導權持續偏向由晶圓廠掌握。\n相較之下，NAND模組廠正逐步受到供給限制影響，情況沒有NAND晶圓廠那麼樂觀。大摩針對群聯說明，群聯除受惠於NAND價格上漲，亦享有前波景氣低谷期間建立的低成本庫存優勢，不過，隨低價庫存預期將自下半年起逐步消化完畢，毛利率亦將隨之回落，逐步回歸歷史常態水準。\n此外，摩根士丹利對消費型SSD需求仍抱持審慎態度。由於記憶體價格上漲壓縮ODM／OEM廠獲利空間，終端需求復甦力道有限，恐削弱整體出貨動能，進一步影響模組廠獲利延續性。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
