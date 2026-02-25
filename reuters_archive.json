@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-02-25",
-  "total_reports": 218,
+  "total_reports": 219,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZL039:0/",
+      "Date": "2026-02-25",
+      "Time": "09:07:19",
+      "Title": "台灣股市：盤初升1.4%再創紀錄高位，因台積電站上2,000台幣新天價",
+      "Content": "台灣股市周三盤初一度升1.4%至35,192.6點，再創盤中紀錄高位，因台積電 續揚站上2,000台幣新天價。\n\n當地時間9:10，台股加權指數 TWSE:TAIEX上漲1%報35,047.33點，盤中最高來到35,192.6點；台積電走揚1.78%報2,000台幣刷新歷史高位，台達電 則漲2.17%，鴻海 也漲3.45%。\n\n美國華爾街股市周二收高，科技股領漲，市場對人工智能（AI）的熱情重燃，蓋過了對這項新興技術可能引發顛覆性影響的擔憂。(完)",
+      "ContentLength": 226,
+      "HasTables": false,
+      "ScrapedAt": "2026-02-25 09:42:46"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3ZK1K4:0/",
