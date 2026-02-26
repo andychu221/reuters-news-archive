@@ -1,7 +1,40 @@
 {
-    "last_updated": "2026-02-26T04:05:54.898Z",
-    "total_news_count": 71,
+    "last_updated": "2026-02-26T16:07:44.525Z",
+    "total_news_count": 74,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-02-26",
+            "Time": "23:26:12",
+            "Title": "Nvidia shares fall as blockbuster results fail to dazzle",
+            "URL": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-02-26",
+            "Time": "19:22:53",
+            "Title": "FirstFT: Nvidia stock downbeat despite blockbuster quarter",
+            "URL": "https://www.ft.com/content/bb8addc8-bd28-43ac-8dcd-b55c5f1f766c",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "TSLA",
+            "Date": "2026-02-26",
+            "Time": "13:00:19",
+            "Title": "VW in robotaxi push to challenge Waymo and Tesla in self-driving race",
+            "URL": "https://www.ft.com/content/8ee5c17c-1eb2-41d6-9a7f-288ea9e66a45",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-02-26",
