@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-02-26T00:31:33.977Z",
-  "total_news_count": 971,
+  "last_updated": "2026-02-26T00:39:30.396Z",
+  "total_news_count": 972,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-02-26",
+      "Time": "08:00:00",
+      "Source": "TheStreet",
+      "Title": "Bank of America resets AMD stock price target on deal with Meta",
+      "URL": "https://finance.yahoo.com/m/643ca8c8-98fe-3e5a-a080-34fc23f8ea73/bank-of-america-resets-amd.html",
+      "Content": "Advanced Micro Devices ( AMD ) stock has lost about 18% in the past month, at the time of writing, Wednesday afternoon, Feb. 25, according to Yahoo Finance . Meanwhile, the SPDR S&P 500 index ( SPY ) is up about 0.4% in the same period.\n\nThe stock crashed following its Q4 earnings report on February 3. It closed at $242.11, and the following day it closed at $200.19, losing about 17% in a single day.\n\nI covered the earnings in my article \" Bank of America resets AMD stock price target as shares plunge .\" The main culprit behind the crash was disappointing guidance.\n\nHowever, while the stock hasn't been performing well in the recent period, the situation is very different when viewed over a longer time frame.\n\nThe stock has gained a whopping 104% in the past year, while SPY is up only 16%.\n\nThe company has a very competitive product in its Helios rack scale system, developed in partnership with Meta through the Open Compute Project. It can compete with Nvidia 's Vera Rubin , at least when it comes to specifications. I wrote about Helios in my article \" Analysts revamp AMD stock price after key conference .\"\n\nGetting companies to buy non-Nvidia AI accelerators is very difficult, thanks to its \"CUDA moat.\" However, AMD has devised creative incentives to attract buyers, as seen in its recent deal with Meta. The partnership copies an unusual strategy AMD used to score a deal with OpenAI .\n\nRead the article “ Analyst offers 3-word verdict on AMD, OpenAI deal ” by TheStreet's Moz Farooque to explore the deal with OpenAI in more depth.\n\nAMD and Meta ( META ) revealed on Feb. 24 that they are expanding their partnership. AMD has agreed to power Meta’s AI infrastructure with up to 6 gigawatts of AMD Instinct GPUs, paired with AMD EPYC CPUs.\n\n“We are proud to expand our strategic partnership with Meta as they push the boundaries of AI at unprecedented scale,” stated AMD CEO Lisa Su .",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-02-26",
