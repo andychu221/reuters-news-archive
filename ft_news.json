@@ -1,7 +1,29 @@
 {
-    "last_updated": "2026-02-27T04:06:55.279Z",
-    "total_news_count": 76,
+    "last_updated": "2026-02-27T16:06:27.470Z",
+    "total_news_count": 78,
     "news": [
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-02-28",
+            "Time": "00:00:01",
+            "Title": "Condé Nast CEO says AI is a ‘death blow’ to Google search",
+            "URL": "https://www.ft.com/content/5a2a1f91-535c-422a-b5c8-6855b11043df",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-02-27",
+            "Time": "18:52:02",
+            "Title": "Google Maps wins access to South Korea — one of last countries where app does not work",
+            "URL": "https://www.ft.com/content/4bf121ce-3c95-43d5-a6b5-4cbfae998ed5",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-02-27",
