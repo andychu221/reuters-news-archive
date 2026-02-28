@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-02-28T04:06:46.548Z",
-    "total_news_count": 80,
+    "last_updated": "2026-02-28T16:06:12.124Z",
+    "total_news_count": 81,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-02-28",
+            "Time": "18:30:00",
+            "Title": "Chart of the Week: Nvidia’s sales rocket while its shares flatline",
+            "URL": "https://www.ft.com/content/45c14310-7f7e-4ce2-b990-e0b927286224",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "GOOG",
             "Date": "2026-02-28",
