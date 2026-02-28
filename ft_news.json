@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-02-27T22:06:05.020Z",
-    "total_news_count": 79,
+    "last_updated": "2026-02-28T04:06:46.548Z",
+    "total_news_count": 80,
     "news": [
         {
             "Ticker": "GOOG",
@@ -106,6 +106,17 @@
             "Date": "2026-02-25",
             "Time": "22:00:00",
             "Title": "TensorWave Partners with Credo to Power Next-Generation AMD-Based AI Clusters – Company Announcement",
+            "URL": "https://markets.ft.com/data/announce/full",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-02-25",
+            "Time": "20:00:00",
+            "Title": "Rumble App Now Includes Rumble Shorts on iPhones Following Apple Approval – Company Announcement",
             "URL": "https://markets.ft.com/data/announce/full",
             "AI_Summary": "",
             "Content": "",
