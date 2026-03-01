@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-02-28T16:06:12.124Z",
-    "total_news_count": 81,
+    "last_updated": "2026-03-01T04:06:27.744Z",
+    "total_news_count": 82,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-01",
+            "Time": "12:00:06",
+            "Title": "Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs",
+            "URL": "https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-02-28",
