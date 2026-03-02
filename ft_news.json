@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-01T04:06:27.744Z",
-    "total_news_count": 82,
+    "last_updated": "2026-03-02T22:06:15.921Z",
+    "total_news_count": 83,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-03",
+            "Time": "01:00:06",
+            "Title": "Nvidia-backed ‘open’ AI start-up courts investors at $20bn-plus valuation",
+            "URL": "https://www.ft.com/content/07073c8f-7176-471c-ac69-ef1458845fb2",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AMZN",
             "Date": "2026-03-01",
