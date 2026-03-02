@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T23:01:49.575Z",
+  "last_updated": "2026-03-02T11:07:01.430Z",
   "total_news_count": 142,
   "news": [
     {
@@ -14,7 +14,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Semiconductor Manufacturing, Supply Chain, Geopolitics, Reshoring"
+      "Keywords": "Semiconductor Manufacturing, Supply Chain, Geopolitical Risk, Reshoring"
     },
     {
       "Ticker": "NVDA",
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, New Product Launch, Customer Win, Competition"
+      "Keywords": "AI Inference, New Product Launch, Customer Win, Competitive Landscape"
     },
     {
       "Ticker": "GOOG",
@@ -41,8 +41,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 1,
-      "Sentiment_Score": -1,
-      "Keywords": "Taxation, Wealth Exodus, Digital Nomadism, Urban Economics"
+      "Sentiment_Score": 0,
+      "Keywords": "Wealth Tax, Tax Migration, Digital Nomadism, Urban Economics"
     },
     {
       "Ticker": "AMZN",
@@ -56,7 +56,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Investment, Strategic Partnership, Cloud Compute, In-house Chips"
+      "Keywords": "AI Funding, Strategic Partnership, Cloud Compute, In-house Chips"
     },
     {
       "Ticker": "AMZN",
@@ -70,7 +70,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Strategy, Cost Optimization, In-house Chips, Market Lag"
+      "Keywords": "AI Strategy, Cost Optimization, In-house Chips, Competitive Lag"
     },
     {
       "Ticker": "AMZN",
@@ -84,7 +84,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Strategy, Cost Leadership, In-house Chips, Strategic Investment"
+      "Keywords": "AI Strategy, Cost Reduction, In-house Chips, Strategic Investment"
     },
     {
       "Ticker": "GOOG",
@@ -96,7 +96,7 @@
       "Content": "Feb 28, 2026\n\nOver the Rainbow: The Intersection of AI and Entertainment\n\nThanks to a close collaboration between creatives and technologists, a classic film became a modern immersive experience.\n\nEntertainment is one of the United States’ most successful industries, with American entertainment and media accounting for roughly a third of the global market. AI is poised to play a critical role in shepherding a new era of creativity for this industry, as illustrated by a partnership between Google and Sphere to bring “The Wizard of Oz” to life. In this interview, Jennifer Koester, president and chief operating officer, Sphere, and Oliver Parker, vice president, global generative AI GTM, Google Cloud, discuss the opportunities for AI to enhance the creative process, the importance of emotionally fulfilling entertainment experiences, and how AI can help preserve historically significant stores of classic film, television and visual art.\n\nWe often discuss AI in the context of business speed and operational efficiency, yet this partnership seems focused on creating a sense of wonder. How do you see the role of advanced technology in shifting entertainment from passive viewing to a fully immersive experience?\n\nJennifer Koester: People are demanding elevated entertainment experiences, and that’s what we’re focused on at Sphere. It’s about building immersive experiences that can’t happen in any other venue. And a lot of what we do to deliver those experiences is made possible through advanced technology.\n\nWhen we looked at the challenges of taking a film made in 1939 and bringing it to the world’s highest-resolution screen, we knew we couldn’t do it with traditional creative techniques alone. We had to bring in AI to help with these challenges and that’s where the partnership with Google came together, to solve issues hand in hand with creatives and technologists.\n\nFrom the start, being respectful and honoring this film was critical to us. We licensed all materials, and the models used were fine-tuned on these original source materials, from set designs to schematics and outtakes, using all of the original footage and archival footage in existence to ensure we maintained the film’s integrity.\n\nOliver Parker: People often view speed as an operational metric but, in this context, it’s a creative enabler. When AI handles the heavy lifting—like rendering complex environments or processing hundreds of shots simultaneously—you compress timelines while allowing the creators to focus on artistry. We had people with deep technical capabilities who didn’t know a lot about movies collaborating with people who know a lot about movies but not about deep technology. It was an incredible thing, with hundreds of artists and technologists building together in real time.\n\nKoester: There’s a conversation we had after about 300 takes of a scene, where an engineer said, “Well, it looks good. It’s doing exactly what you want.” A producer then pointed out that the emotional aspect wasn’t where we needed it to be. When you think about Sphere, it’s an emotional experience so you’ve got to put AI tools in the hands of creatives who understand how to bring emotion to life. It’s not about AI for AI’s sake.\n\nCan you explain how Google tools like Veo and Imagen were used by creatives in this process, and some of the challenges you faced?\n\nParker: Projecting a 1939 film on a 160,000 square foot, 16K curved screen requires more than just stretching the image; it demands deep immersion. We used Gemini to analyze scenes and identify elements that needed additional detail. Then we used Veo and Imagen to perform “outpainting,” where the AI predicts how the landscape would look 10 or 20 feet beyond the camera’s original view. This allowed us to extend horizon lines so a cornfield or poppy field can fill the screen. Or, in a scene where an actor was just off-screen in the original, we painted them in, ensuring the full immersive experience matched the massive scale of the Sphere screen.\n\nHow can AI be used to help preserve deteriorating, historically significant film and art that might otherwise be lost to time? Are there any lessons from your work with Sphere that can be applied to these broader preservation goals?\n\nKoester: We’ve had a tremendous response to “The Wizard of Oz,” having sold over 2 million tickets, attracting audiences from around the world and across generations. What that tells me is we had an opportunity to bring this experience, this beloved film, to life in a way that brought it back around again, breathing new life into it. You see families come in, and I’m not sure that kids these days would be watching “The Wizard of Oz” but for seeing it at Sphere and immersing themselves in the experience. I think there’s a lot of excitement about the potential to continue to use AI to resurrect some of these beloved classics.\n\nOne of the tools from Google that we used with “The Wizard of Oz” was called Super Resolution. That can be an important tool when you think about looking at older films that are shot in such low resolution and the ability to use AI to bring it up to 8K or 16K. That can be done in timelines a lot shorter and a lot quicker than if you were to do that manually.\n\nWe’ll continue to hone the tools that we’ve helped develop with Google, as we think about the next immersive experience. To me, the work we did here represents to the world that we’re willing to challenge the status quo, take tools that were sometimes controversial, deploy them in an ethical and responsible way, and push the industry forward. The collective response we’ve received reflects that we made a really good decision in charging forward with this very difficult task.\n\nParker: Film stock was organic, historically. It decays and loses color. We are now training AI models on these frames to recognize specific degradation patterns, like scratches or dust, and it can mathematically reconstruct missing information based on surrounding data. When you consider the incredible history that’s sitting in archives, we see a huge opportunity for revitalization, bringing existing content back to life in the way it was truly imagined when it first came out. AI is a phenomenal way to make that happen.\n\nLooking ahead, what is the next big leap in AI and entertainment you are excited about?\n\nKoester: We constantly work on pushing the boundaries of immersive entertainment. The tornado scene, using 4D elements at Sphere—wind, leaves—to bring the chaos to life is very representative of where we need to continue to go. It wasn’t just AI technology; we have haptics in our seats and the world’s most advanced sound system. It’s the combination of all these technical tools creating immersive experiences that excites me.\n\nWhat we did with “The Wizard of Oz” is only a start; we can go much further. Continuing to allow creatives to use AI tools will drive that vision, not just what you see on the screen, but also, to Oliver’s point, unlocking solutions to difficulties in processing and production. That opens up time for our creatives to focus much more on the actual immersive aspects of what we’re doing.\n\nParker: There is an incredible opportunity in entertainment in its broadest terms. We recently released a tool called Genie, which is about immersive world models where you create your own destiny in a videolike environment. And I agree with Jen that we’re just at the beginning of what we can do with tools like Veo and Imagen.\n\n“The Wizard of Oz” has done so well because you took great technology and put it in the hands of the creators. Entertainment is a creative industry, but you have to enable it and unleash it. As a partner of Team USA, Google Cloud collaborated with U.S. Olympians to create a custom AI tool ahead of the Olympic Winter Games. The tool leverages leading-edge research and Google AI models to help athletes analyze their movements and optimize training, giving fans new context into the sport. If you look at it, it’s not completely different than what we did with Sphere. We’ll continue to provide these foundational technologies and world-leading models in the broadest category possible, whether that’s working with the team at Sphere on the next film, helping athletes optimize their training, or reimagining fan experiences. Our foundational technology and models can be applied to so many more places across media, sports and entertainment.\n\nKoester: What excites me is the shared experience aspect of it. A lot of what we’re seeing in entertainment has been singular and isolated. But don’t underestimate the impact of having a shared immersive experience with somebody; actually going from being a passive, individual viewer to actively experiencing it alongside other people. To be able to share an experience like “The Wizard of Oz,” fully immersive, with your closest friends around you, there’s such power in that.\n\nLearn more about how this dream became a reality with Google Cloud.\n\nCustom Content from WSJ is a unit of The Wall Street Journal Advertising Department. The Wall Street Journal news organization was not involved in the creation of this content.\n\nWSJ Membership\n\nCustomer Service\n\nTools & Features",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 2,
       "Sentiment_Score": 1,
       "Keywords": "AI in Entertainment, Immersive Experience, Generative AI, Partnership"
     },
@@ -110,7 +110,7 @@
       "Content": "Mar 01, 2026\n\nOver the Rainbow: The Intersection of AI and Entertainment\n\nThanks to a close collaboration between creatives and technologists, a classic film became a modern immersive experience.\n\nEntertainment is one of the United States’ most successful industries, with American entertainment and media accounting for roughly a third of the global market. AI is poised to play a critical role in shepherding a new era of creativity for this industry, as illustrated by a partnership between Google and Sphere to bring “The Wizard of Oz” to life. In this interview, Jennifer Koester, president and chief operating officer, Sphere, and Oliver Parker, vice president, global generative AI GTM, Google Cloud, discuss the opportunities for AI to enhance the creative process, the importance of emotionally fulfilling entertainment experiences, and how AI can help preserve historically significant stores of classic film, television and visual art.\n\nWe often discuss AI in the context of business speed and operational efficiency, yet this partnership seems focused on creating a sense of wonder. How do you see the role of advanced technology in shifting entertainment from passive viewing to a fully immersive experience?\n\nJennifer Koester: People are demanding elevated entertainment experiences, and that’s what we’re focused on at Sphere. It’s about building immersive experiences that can’t happen in any other venue. And a lot of what we do to deliver those experiences is made possible through advanced technology.\n\nWhen we looked at the challenges of taking a film made in 1939 and bringing it to the world’s highest-resolution screen, we knew we couldn’t do it with traditional creative techniques alone. We had to bring in AI to help with these challenges and that’s where the partnership with Google came together, to solve issues hand in hand with creatives and technologists.\n\nFrom the start, being respectful and honoring this film was critical to us. We licensed all materials, and the models used were fine-tuned on these original source materials, from set designs to schematics and outtakes, using all of the original footage and archival footage in existence to ensure we maintained the film’s integrity.\n\nOliver Parker: People often view speed as an operational metric but, in this context, it’s a creative enabler. When AI handles the heavy lifting—like rendering complex environments or processing hundreds of shots simultaneously—you compress timelines while allowing the creators to focus on artistry. We had people with deep technical capabilities who didn’t know a lot about movies collaborating with people who know a lot about movies but not about deep technology. It was an incredible thing, with hundreds of artists and technologists building together in real time.\n\nKoester: There’s a conversation we had after about 300 takes of a scene, where an engineer said, “Well, it looks good. It’s doing exactly what you want.” A producer then pointed out that the emotional aspect wasn’t where we needed it to be. When you think about Sphere, it’s an emotional experience so you’ve got to put AI tools in the hands of creatives who understand how to bring emotion to life. It’s not about AI for AI’s sake.\n\nCan you explain how Google tools like Veo and Imagen were used by creatives in this process, and some of the challenges you faced?\n\nParker: Projecting a 1939 film on a 160,000 square foot, 16K curved screen requires more than just stretching the image; it demands deep immersion. We used Gemini to analyze scenes and identify elements that needed additional detail. Then we used Veo and Imagen to perform “outpainting,” where the AI predicts how the landscape would look 10 or 20 feet beyond the camera’s original view. This allowed us to extend horizon lines so a cornfield or poppy field can fill the screen. Or, in a scene where an actor was just off-screen in the original, we painted them in, ensuring the full immersive experience matched the massive scale of the Sphere screen.\n\nHow can AI be used to help preserve deteriorating, historically significant film and art that might otherwise be lost to time? Are there any lessons from your work with Sphere that can be applied to these broader preservation goals?\n\nKoester: We’ve had a tremendous response to “The Wizard of Oz,” having sold over 2 million tickets, attracting audiences from around the world and across generations. What that tells me is we had an opportunity to bring this experience, this beloved film, to life in a way that brought it back around again, breathing new life into it. You see families come in, and I’m not sure that kids these days would be watching “The Wizard of Oz” but for seeing it at Sphere and immersing themselves in the experience. I think there’s a lot of excitement about the potential to continue to use AI to resurrect some of these beloved classics.\n\nOne of the tools from Google that we used with “The Wizard of Oz” was called Super Resolution. That can be an important tool when you think about looking at older films that are shot in such low resolution and the ability to use AI to bring it up to 8K or 16K. That can be done in timelines a lot shorter and a lot quicker than if you were to do that manually.\n\nWe’ll continue to hone the tools that we’ve helped develop with Google, as we think about the next immersive experience. To me, the work we did here represents to the world that we’re willing to challenge the status quo, take tools that were sometimes controversial, deploy them in an ethical and responsible way, and push the industry forward. The collective response we’ve received reflects that we made a really good decision in charging forward with this very difficult task.\n\nParker: Film stock was organic, historically. It decays and loses color. We are now training AI models on these frames to recognize specific degradation patterns, like scratches or dust, and it can mathematically reconstruct missing information based on surrounding data. When you consider the incredible history that’s sitting in archives, we see a huge opportunity for revitalization, bringing existing content back to life in the way it was truly imagined when it first came out. AI is a phenomenal way to make that happen.\n\nLooking ahead, what is the next big leap in AI and entertainment you are excited about?\n\nKoester: We constantly work on pushing the boundaries of immersive entertainment. The tornado scene, using 4D elements at Sphere—wind, leaves—to bring the chaos to life is very representative of where we need to continue to go. It wasn’t just AI technology; we have haptics in our seats and the world’s most advanced sound system. It’s the combination of all these technical tools creating immersive experiences that excites me.\n\nWhat we did with “The Wizard of Oz” is only a start; we can go much further. Continuing to allow creatives to use AI tools will drive that vision, not just what you see on the screen, but also, to Oliver’s point, unlocking solutions to difficulties in processing and production. That opens up time for our creatives to focus much more on the actual immersive aspects of what we’re doing.\n\nParker: There is an incredible opportunity in entertainment in its broadest terms. We recently released a tool called Genie, which is about immersive world models where you create your own destiny in a videolike environment. And I agree with Jen that we’re just at the beginning of what we can do with tools like Veo and Imagen.\n\n“The Wizard of Oz” has done so well because you took great technology and put it in the hands of the creators. Entertainment is a creative industry, but you have to enable it and unleash it. As a partner of Team USA, Google Cloud collaborated with U.S. Olympians to create a custom AI tool ahead of the Olympic Winter Games. The tool leverages leading-edge research and Google AI models to help athletes analyze their movements and optimize training, giving fans new context into the sport. If you look at it, it’s not completely different than what we did with Sphere. We’ll continue to provide these foundational technologies and world-leading models in the broadest category possible, whether that’s working with the team at Sphere on the next film, helping athletes optimize their training, or reimagining fan experiences. Our foundational technology and models can be applied to so many more places across media, sports and entertainment.\n\nKoester: What excites me is the shared experience aspect of it. A lot of what we’re seeing in entertainment has been singular and isolated. But don’t underestimate the impact of having a shared immersive experience with somebody; actually going from being a passive, individual viewer to actively experiencing it alongside other people. To be able to share an experience like “The Wizard of Oz,” fully immersive, with your closest friends around you, there’s such power in that.\n\nLearn more about how this dream became a reality with Google Cloud.\n\nCustom Content from WSJ is a unit of The Wall Street Journal Advertising Department. The Wall Street Journal news organization was not involved in the creation of this content.\n\nWSJ Membership\n\nCustomer Service\n\nTools & Features",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 2,
       "Sentiment_Score": 1,
       "Keywords": "AI in Entertainment, Immersive Experience, Generative AI, Partnership"
     },
@@ -124,9 +124,9 @@
       "Content": "Block , the payments company founded by Jack Dorsey that includes Square and Cash App, said Thursday that it plans to lay off 40% of its workforce, or more than 4,000 employees.\n\nDorsey alluded to artificial-intelligence tools as the reason for the cuts in a letter to shareholders.\n\n“The core thesis is simple,” wrote Dorsey. “Intelligence tools have changed what it means to build and run a company.”\n\nShares rallied more than 20% in after-hours trading.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Layoffs, AI Impact, Workforce Reduction, Business Transformation"
+      "Keywords": "Layoffs, AI Impact, Workforce Reduction, Company Restructuring"
     },
     {
       "Ticker": "NVDA",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "Earnings Report, Investor Sentiment, AI Bubble, Valuation Concerns"
+      "Keywords": "Earnings Report, Investor Sentiment, AI Bubble Fears, Valuation Concerns"
     },
     {
       "Ticker": "NVDA",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "AI Fears, Market Reaction, Growth Projections, Tech Stock Pressure"
+      "Keywords": "AI Fears, Market Volatility, Tech Stock Performance, AI Disruption"
     },
     {
       "Ticker": "NVDA",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "AI Disruption, Market Skepticism, Earnings Performance, Tech Sector Weakness"
+      "Keywords": "AI Fears, Market Reaction, Tech Sector Pressure, Free Cash Flow"
     },
     {
       "Ticker": "NVDA",
@@ -182,7 +182,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "AI Fears, Market Volatility, Earnings Beat, Tech Valuations"
+      "Keywords": "AI Fears, Market Volatility, Tech Stock Performance, Free Cash Flow"
     },
     {
       "Ticker": "INTC",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 1,
       "Sentiment_Score": 0,
-      "Keywords": "Executive Privilege, National Security, Congressional Oversight, Whistleblower"
+      "Keywords": "Executive Privilege, National Security, Whistleblower Complaint, Political Intel"
     },
     {
       "Ticker": "NVDA",
@@ -224,7 +224,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Record Sales, AI Bubble, Earnings Beat, Profit Growth"
+      "Keywords": "Record Sales, AI Bubble Fears, Data Center Growth, Profitability"
     },
     {
       "Ticker": "AAPL",
@@ -238,7 +238,7 @@
       "Language": "en",
       "Related_Score": 1,
       "Sentiment_Score": 0,
-      "Keywords": "Bankruptcy Filing, Legal Counsel, Creditors Request"
+      "Keywords": "Bankruptcy Filing, Legal Counsel, Creditors Committee, Life Sciences"
     },
     {
       "Ticker": "AAPL",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Semiconductor Supply Chain, Reshoring, Geopolitical Risk, Manufacturing"
+      "Keywords": "Semiconductor Supply Chain, Reshoring, Geopolitical Risk, Manufacturing Technology"
     },
     {
       "Ticker": "AAPL",
@@ -266,7 +266,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Semiconductor Supply Chain, Reshoring, Geopolitical Risk, Manufacturing"
+      "Keywords": "Semiconductor Supply Chain, Reshoring Initiative, Geopolitical Concerns, Manufacturing Investment"
     },
     {
       "Ticker": "INTC",
@@ -280,7 +280,7 @@
       "Language": "en",
       "Related_Score": 1,
       "Sentiment_Score": 0,
-      "Keywords": "Executive Privilege, Classified Information, Whistleblower Complaint, Government Transparency"
+      "Keywords": "Executive Privilege, Classified Intelligence, Whistleblower, Congressional Oversight"
     },
     {
       "Ticker": "AAPL",
@@ -294,7 +294,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Antitrust, Regulatory Pressure, Contract Clauses, Competition Law"
+      "Keywords": "Antitrust, Regulatory Pressure, Contract Compliance, Competition Law"
     },
     {
       "Ticker": "NVDA",
@@ -308,7 +308,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "AI Economics, Market Valuation, Customer Spending, Investor Concerns"
+      "Keywords": "AI Bubble, Investor Skepticism, Customer Spending, Valuation Concerns"
     },
     {
       "Ticker": "META",
