@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-02",
-  "total_reports": 34,
+  "total_reports": 35,
   "reports": [
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZQ03X:0/",
+      "Date": "2026-03-02",
+      "Time": "14:53:42",
+      "Title": "台灣匯市：台幣兌美元午後擴大貶幅至逾2角，因國際美元走強及外資匯出",
+      "Content": "台幣兌美元 周一午後擴大貶值幅度至逾2角。交易員表示，因中午國際美元強彈，加上外資午後大舉匯出，促台幣進一步走貶；惟央行進場調節，使台幣貶幅維持在2角左右。\n\n“中午美元彈了一大段，但出口商很多，（台幣）就是卡在這里。”一大型商銀交易員說，“下午換歐洲進來，兩邊（外資和出口商買賣）力道都蠻強的。”\n\n一中型銀行交易員指出，隨台幣貶至31.450以上價位，出口商紛紛進場拋匯，稍稍緩和台幣貶勢。\n\n本地時間15:08，台幣貶值2.03角報31.454；而台灣加權指數 TWSE:TAIEX收低0.9%報35,095.09點。（完）",
+      "ContentLength": 265,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-02 15:42:44"
+    },
     {
       "Source": "TradingView - Reuters Stocks",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZQ0DV:0/",
