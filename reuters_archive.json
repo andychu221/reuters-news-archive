@@ -1,7 +1,29 @@
 {
   "last_updated": "2026-03-02",
-  "total_reports": 28,
+  "total_reports": 30,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3U700O:0/",
+      "Date": "2026-03-02",
+      "Time": "09:09:53",
+      "Title": "台灣股市：盤初大跌逾2%，因中東戰事引發避險情緒升溫",
+      "Content": "台灣股市周一盤初重挫逾2%，因中東戰事引發避險情緒升溫導致台股隨亞洲股市回落，權重股台積電 首當其沖拖累大盤下跌。\n\n當地時間9:03，台股加權指數 TWSE:TAIEX跌2.01%報34,703.82點；台積電跌2.01%報1,955台幣。\n\n美國和以色列對伊朗發動了數十年來最猛烈的打擊，伊朗最高領袖哈梅內伊遇襲身亡。伊朗稱此次打擊是無端且非法的，並以導彈還擊以色列以及至少另外七個國家，其中包括駐有美國基地的海灣國家。(完)",
+      "ContentLength": 215,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-02 09:42:44"
+    },
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZQ02H:0/",
+      "Date": "2026-03-02",
+      "Time": "09:06:16",
+      "Title": "台灣匯市：台幣兌美元早盤走貶，中東衝突升高令投資人避險",
+      "Content": "台幣兌美元 周一盤初貶幅擴大至逾1.5角破31.400，主要反應美國及以色列周六打擊伊朗引發中東衝突升高，市場緊盯後續外資流向。\n\n本地時間9:15，台幣兌美元貶1.51角報31.401，交易區間在31.330-31.402；台股 TWSE:TAIEX則跌0.79%，盤初一度跌逾2%。\n\n分析師認為，美國與以色列周六突襲伊朗，短線台股恐隨全球股市陷入修正，暫先觀察回測五及10日均線能否有守，陸續消化高檔獲利了結賣壓，並嚴防外資變臉提款匯出，短線料資金轉向避險概念商品。(完)",
+      "ContentLength": 239,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-02 09:42:47"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3ZQ00Q:0/",
