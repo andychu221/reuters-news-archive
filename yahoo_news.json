@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T15:31:46.139Z",
-  "total_news_count": 166,
+  "last_updated": "2026-03-03T15:36:36.948Z",
+  "total_news_count": 168,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-03",
+      "Time": "23:22:01",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer on Marvell: “Hold on to It”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-marvell-hold-152201980.html",
+      "Content": "Marvell Technology, Inc. (NASDAQ: MRVL ) is one of the stocks on Jim Cramer’s radar . When a club member mentioned that they have a position in the stock and asked what they should do, Cramer commented:",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-03",
@@ -100,6 +110,16 @@
       "Title": "Broadcom CEO Pay Jumps to $205.3 Million on AI Push",
       "URL": "https://finance.yahoo.com/news/broadcom-ceo-pay-jumps-205-132515489.html",
       "Content": "This article first appeared on GuruFocus .\nBroadcom ( NASDAQ:AVGO ) disclosed that Chief Executive Officer Hock Tan received total compensation of $205.3 million for 2025, a sharp increase from $2.63 million in 2024, reflecting a pay structure now heavily aligned with the company's artificial intelligence ambitions. According to a regulatory filing released Monday, $202.4 million of Tan's latest package came from equity awards, while his base salary remained largely unchanged at $1.2 million. The prior year's lower total was due to the absence of stock awards, underscoring how significantly equity incentives shaped this year's figure.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-03",
+      "Time": "21:19:00",
+      "Source": "Zacks",
+      "Title": "MRVL Q4 Earnings to Gain From Custom AI & Connectivity Products",
+      "URL": "https://finance.yahoo.com/news/mrvl-q4-earnings-gain-custom-131900665.html",
+      "Content": "Marvell Technology, Inc. MRVL is set to report fourth-quarter fiscal 2026 results on March 5, 2026. Investor attention is firmly focused on surging demand for MRVL’s Custom AI and Connectivity products due to the AI-driven data center business.\nMarvell Technology has been experiencing robust adoption of its custom AI silicon and electro-optics solutions in recent quarters, cementing its position in the AI infrastructure market. With data center revenues now accounting for the bulk of its total sales, Marvell Technology is expected to reflect robust growth in this high-demand business.",
       "Language": "en"
     },
     {
