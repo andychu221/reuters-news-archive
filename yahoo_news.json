@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T15:14:29.148Z",
-  "total_news_count": 164,
+  "last_updated": "2026-03-03T15:31:46.139Z",
+  "total_news_count": 166,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-03",
+      "Time": "22:55:51",
+      "Source": "GuruFocus.com",
+      "Title": "AWS Hit By Drone Strikes",
+      "URL": "https://finance.yahoo.com/news/aws-hit-drone-strikes-145551029.html",
+      "Content": "This article first appeared on GuruFocus .\nAmazon Web Services ( NASDAQ:AMZN ) is dealing with real world fallout from the escalating Middle East conflict after drone strikes damaged infrastructure in both the UAE and Bahrain, leading to service disruptions across two regions.\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-03",
@@ -20,6 +30,16 @@
       "Title": "Diagnostics startup Droplet Biosciences partners with Nvidia to speed cancer test results",
       "URL": "https://finance.yahoo.com/news/diagnostics-startup-droplet-biosciences-partners-140310497.html",
       "Content": "March 3 (Reuters) - Diagnostics firm Droplet Biosciences said on Tuesday it is collaborating with Nvidia to use ‌the chipmaker's AI infrastructure to speed up post-surgery cancer ‌test results.\nThe company has been using Nvidia Parabricks, a GPU-accelerated software suite, ​to drastically speed up genomic data analysis for DNA sequencing.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-03",
+      "Time": "22:12:00",
+      "Source": "Zacks",
+      "Title": "Vodafone Partners With Amazon Satellites for Bigger Global Footprint",
+      "URL": "https://finance.yahoo.com/news/vodafone-partners-amazon-satellites-bigger-141200683.html",
+      "Content": "Vodafone Group Public Limited Company VOD has inked a deal with Amazon.com, Inc. &rsquo;s AMZN subsidiary Amazon Leo to connect 4G and 5G mobile masts in remote areas in Europe and Africa. The agreement aims to leverage Amazon&rsquo;s low Earth orbit (LEO) satellite network to strengthen Vodafone&rsquo;s network reach while potentially lowering infrastructure costs.\n\nPer the agreement, Amazon Leo will provide satellite backhaul connectivity of up to 1 Gbps download speeds and 400 Mbps upload speeds to link Vodafone&rsquo;s 4G and 5G mobile masts in hard-to-reach regions. Rather than deploying expensive fiber infrastructure to remote base stations, Vodafone will use LEO satellite connections to bridge the digital divide.\n\nThe rollout will begin this year in Germany and other European markets, followed by a phased expansion across Africa through Vodacom, Vodafone&rsquo;s African subsidiary. Amazon Leo currently has more than 200 satellites in orbit, with hundreds more built and ready for launch &mdash; signaling rapid scaling potential.\n\nVodafone is striving hard to improve network efficiency to meet the exponential growth in data traffic. The company had earlier joined forces with Meta Platforms Inc. META to optimize the delivery of short-form videos and ensure efficient utilization of existing network infrastructure. Meta has made improvements to its video engineering and infrastructure deployment systems for more efficient video delivery. Vodafone has freed up network capacity at key 4G and 5G sites in high-traffic areas like shopping centers and transport hubs. Implementing these optimizations across Vodafone has boosted network efficiency in the European markets without compromising the viewing experience.\n\nVodafone had also partnered with Nokia Corporation NOK to run a commercial 5G Open RAN pilot study in Italy. This offered a platform for more independent software providers, start-ups and local firms to collaborate for innovation. By unlocking network efficiencies with common operability, software delivery and increased hardware sharing, Nokia has reduced the total cost of ownership for mobile operators. The company is well-positioned for the ongoing technology cycle, given the strength of its end-to-end portfolio.\n\nAs the telecom industry moves toward hybrid terrestrial-satellite architectures, Vodafone&rsquo;s ploy to leverage LEO satellites could strengthen its competitive positioning, particularly in Africa, where connectivity gaps remain substantial.\nWant the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days.",
       "Language": "en"
     },
     {
