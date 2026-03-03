@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-03T14:43:54.111Z",
-  "total_news_count": 160,
+  "last_updated": "2026-03-03T15:00:14.397Z",
+  "total_news_count": 163,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-03",
+      "Time": "22:40:00",
+      "Source": "Motley Fool",
+      "Title": "Is Nvidia Stock a Buy as Revenue Continues to Soar?",
+      "URL": "https://finance.yahoo.com/m/548b2b83-7603-37e1-8288-9d5472f6b630/is-nvidia-stock-a-buy-as.html",
+      "Content": "Last week, Nvidia (NASDAQ: NVDA) once again showed why it is the most dominant player in the artificial intelligence (AI) infrastructure space when it released fiscal 2026 fourth-quarter financial results. The results show that the company continues to see extraordinary revenue growth, as demand for its graphics processing units (GPUs) remains insatiable.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-03",
+      "Time": "22:27:56",
+      "Source": "Reuters",
+      "Title": "Diagnostics startup Droplet Biosciences partners with Nvidia to speed cancer test results",
+      "URL": "https://finance.yahoo.com/news/diagnostics-startup-droplet-biosciences-partners-140310497.html",
+      "Content": "March 3 (Reuters) - Diagnostics firm Droplet Biosciences said on Tuesday it is collaborating with Nvidia to use ‌the chipmaker's AI infrastructure to speed up post-surgery cancer ‌test results.\nThe company has been using Nvidia Parabricks, a GPU-accelerated software suite, ​to drastically speed up genomic data analysis for DNA sequencing.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-03",
@@ -80,6 +100,16 @@
       "Title": "Nvidia Named Morgan Stanley's Top Semiconductor Pick Over Micron",
       "URL": "https://finance.yahoo.com/news/nvidia-named-morgan-stanleys-top-130950447.html",
       "Content": "This article first appeared on GuruFocus .\nNvidia ( NVDA , Financials ) was reinstated as Morgan Stanley's top semiconductor pick , replacing Micron ( MU , Financials ) in the firm's rankings.\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-03",
+      "Time": "20:55:00",
+      "Source": "Zacks",
+      "Title": "Will Higher Semiconductor Revenues Help AVGO Stock Beat Q1 Earnings?",
+      "URL": "https://finance.yahoo.com/news/higher-semiconductor-revenues-help-avgo-125500856.html",
+      "Content": "Broadcom ’s AVGO first-quarter fiscal 2026 results, set to be reported on March 4, are expected to reflect the benefits of expanding AI offerings. AVGO’s Semiconductor segment revenues are anticipated to have benefited from strong demand for custom AI accelerators (XPUs), which are a type of application-specific integrated circuits (ASICs) necessary to train Generative AI models.\n\nAI revenues jumped 74% year over year to $6.5 billion in the fourth quarter of fiscal 2025. AVGO’s networking portfolio is gaining from strong demand for Tomahawk 6 products, as well as the Jericho 4 Ethernet fabric router. AI revenues are expected to double year over year to $8.2 billion. Broadcom expects semiconductor revenues to jump 50% year over year to $12.3 billion in the first quarter of fiscal 2026. The Zacks Consensus Estimate for Broadcom’s Semiconductor revenues is pegged at $12.11 billion, indicating growth of 47.5% from the figure reported in the year-ago quarter.\n\nClick here to learn how AVGO’s overall fiscal first-quarter performance is likely to have been.",
       "Language": "en"
     },
     {
