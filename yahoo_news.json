@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T19:14:37.920Z",
-  "total_news_count": 200,
+  "last_updated": "2026-03-03T19:31:37.619Z",
+  "total_news_count": 201,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-04",
+      "Time": "02:59:24",
+      "Source": "GuruFocus.com",
+      "Title": "Amazon Says Drone Strikes Hit AWS Sites in UAE, Bahrain",
+      "URL": "https://finance.yahoo.com/news/amazon-says-drone-strikes-hit-185924385.html",
+      "Content": "This article first appeared on GuruFocus .\nAmazon ( AMZN , Financials ) announced that its cloud computing division , Amazon Web Services, was affected by drone attacks that destroyed buildings in the UAE and Bahrain.The corporation didn't say how bad the damage was or if it affected customers' operations. The strikes happened during a time of rising violence in the Middle East.AWS has data centers all around the world and offers cloud infrastructure services to businesses and governments. Any long-term interruption in the area might hurt business clients who depend on local data capacity.Amazon hasn't said anything more about when things will be back to normal or what they will do if something goes wrong. In the next disclosures, investors will probably keep an eye on information about how operations will continue and what the possible financial effects would be.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-04",
