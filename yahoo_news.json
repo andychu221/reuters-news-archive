@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T20:31:42.244Z",
-  "total_news_count": 215,
+  "last_updated": "2026-03-03T20:39:52.374Z",
+  "total_news_count": 216,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-03-04",
+      "Time": "03:49:00",
+      "Source": "Motley Fool",
+      "Title": "Here's Everything Investors Need to Know About Oklo's Meta Deal",
+      "URL": "https://finance.yahoo.com/m/f0000287-d212-366b-ae65-16900288439b/here%27s-everything-investors.html",
+      "Content": "Oklo (NYSE: OKLO) is one of several companies attempting to build small modular nuclear reactors (SMRs). The concept is very attractive, but the proof of concept is actually to build and place an SMR. That hasn't happened just yet. However, Oklo's recent deal with technology giant Meta Platforms (NASDAQ: META) is an important step in the right direction.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-04",
