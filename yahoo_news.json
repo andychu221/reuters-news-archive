@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-03-03T11:51:36.712Z",
-  "total_news_count": 2,
+  "last_updated": "2026-03-03T12:00:50.204Z",
+  "total_news_count": 22,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-03",
+      "Time": "19:30:00",
+      "Source": "Motley Fool",
+      "Title": "Is Nvidia a No-Brainer Buy Right Now?",
+      "URL": "https://finance.yahoo.com/m/44e87e8c-f313-324d-af81-15a995579993/is-nvidia-a-no-brainer-buy.html",
+      "Content": "Nvidia (NASDAQ: NVDA) hasn't generally been known as a dirt cheap stock. Investors have rushed to get in on this artificial intelligence (AI) leader over the past several years, and that's pushed valuation higher. The company has established itself as the dominant AI chip company, so investors expect this player to benefit as the high-growth AI story unfolds.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-03",
+      "Time": "19:14:23",
+      "Source": "GuruFocus.com",
+      "Title": "Morgan Stanley Turns Bullish on Nvidia Again -- Here's Why",
+      "URL": "https://finance.yahoo.com/news/morgan-stanley-turns-bullish-nvidia-111423861.html",
+      "Content": "This article first appeared on GuruFocus .\nMorgan Stanley reinstated the chipmaker Nvidia ( NASDAQ:NVDA ) as its top pick in the semiconductor sector, replacing Micron Technology, according to a Monday research note.\nAnalyst Joseph Moore said investor debate has centered on whether memory stocks reflect a longer earnings cycle than processor makers. He indicated the firm sees similar strength across both segments, though expectations beyond 2026 remain limited. Morgan Stanley maintains an Overweight rating on Nvidia with a $260 price target.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-03",
+      "Time": "16:22:00",
+      "Source": "Motley Fool",
+      "Title": "Should You Buy Broadcom Stock Before Thursday? Here's What History and Wall Street Suggest",
+      "URL": "https://finance.yahoo.com/m/c183f87d-7709-3fd6-99ef-815b2444e6eb/should-you-buy-broadcom-stock.html",
+      "Content": "Broadcom (NASDAQ: AVGO) may not get the attention of some of its peers in the technology sector, but make no mistake: the company is a key player in the space. Its products represent a broad cross-section of tech infrastructure and are a crucial part of the artificial intelligence (AI) revolution.\nShareholders have been the ultimate beneficiaries as Broadcom leverages this opportunity, driving its sales and profits higher. This, in turn, has driven its stock price up 437% over the past three years (as of this writing) and up 60% during the past 12 months.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-03",
+      "Time": "13:54:18",
+      "Source": "Insider Monkey",
+      "Title": "Jim Cramer on Broadcom: “This Is One of Those That’s Just Too Hard to Own Right Now”",
+      "URL": "https://finance.yahoo.com/news/jim-cramer-broadcom-one-those-055418848.html",
+      "Content": "Broadcom Inc. (NASDAQ: AVGO ) is one of the stocks in focus this week under Jim Cramer’s game plan . Cramer highlighted the hurdles faced by the stock, as he remarked:",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-03",
+      "Time": "13:01:30",
+      "Source": "GuruFocus.com",
+      "Title": "Riot Platforms Inc (RIOT) Q4 2025 Earnings Call Highlights: Record Revenue Growth Amid ...",
+      "URL": "https://finance.yahoo.com/news/riot-platforms-inc-riot-q4-050130379.html",
+      "Content": "This article first appeared on GuruFocus .\nTotal Revenue: $647 million, a 72% increase year over year.\nBitcoin Mining Revenue: $576 million, 89% of total revenue.\nEngineering and Other Revenues: $71 million, 11% of total revenue.\nNet Loss: $663 million or $1.95 per diluted share.\nNon-GAAP Adjusted EBITDA: $13 million.\nNet Cost of Power: $0.037 per kilowatt hour.\nPower Curtailment Credits: $56.7 million.\nBitcoin Production: 5,686 Bitcoin, a 18% increase from 2024.\nYear-End Bitcoin Holdings: 18,005 Bitcoin valued at $1.6 billion.\nHash Rate Deployed: 38.5 exahash, 3.5% of global network hash rate.\nCost to Mine per Bitcoin: $49,645.\nEngineering Backlog: $224.6 million, a 302% increase from 2024.\nAMD Lease Contract Value: $311 million over a 10-year base term.\nAverage Annual Net Operating Income from AMD Lease: $25 million.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-03",
+      "Time": "08:05:00",
+      "Source": "Motley Fool",
+      "Title": "Here's Why Some Analysts Still Think Micron Technology's Stock Can Surge Higher",
+      "URL": "https://finance.yahoo.com/m/77efb746-a9e0-3d28-afe7-ee98718a0c91/here%27s-why-some-analysts.html",
+      "Content": "Micron Technology (NASDAQ: MU) has been a scorching hot growth stock to own. In the past 12 months, it has risen by around 340% in value, as it benefits from strong demand due to artificial intelligence. The company, which sells memory and storage products, has been generating some impressive results that have resulted in the stock being a red-hot buy.",
+      "Language": "en"
+    },
     {
       "Ticker": "8299.TWO",
       "Date": "2026-03-03",
@@ -13,6 +73,96 @@
       "Language": "zh"
     },
     {
+      "Ticker": "AMD",
+      "Date": "2026-03-03",
+      "Time": "06:25:58",
+      "Source": "Investing.com",
+      "Title": "Nvidia stock slips on report of US chip export caps to China",
+      "URL": "https://finance.yahoo.com/news/nvidia-stock-slips-report-us-222558110.html",
+      "Content": "Investing.com -- Nvidia (NASDAQ:NVDA) fell 0.6% after hours Monday and Advanced Micro Devices (NASDAQ:AMD) fell 0.5% following a Bloomberg report that US officials are considering caps on AI chip exports to Chinese companies.\nThe report said the Trump administration has discussed limiting Chinese firms to buying 75,000 of Nvidia’s H200 chips each. Shipments of AMD’s MI325 chips, which have similar capabilities, would also count toward a customer’s cap, according to people familiar with the matter.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-03",
+      "Time": "06:20:00",
+      "Source": "Motley Fool",
+      "Title": "Does AMD Have an OpenAI Problem?",
+      "URL": "https://finance.yahoo.com/m/9fba0328-4071-346d-ba9e-c8db5ed88048/does-amd-have-an-openai.html",
+      "Content": "Advanced Micro Devices (NASDAQ: AMD) stock is coming off an impressive year in 2025 when its shares soared 77% and flew past rival Nvidia , which gained 39%. It's not often that AMD outshines its much larger rival, but with the chipmaker generating some strong growth and launching next-gen chips that have investors hopeful can take market share from Nvidia, the stock took off.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-03",
+      "Time": "06:00:23",
+      "Source": "Motley Fool",
+      "Title": "Why Broadcom Stock Sank Today",
+      "URL": "https://finance.yahoo.com/m/ee7d79c6-9cda-3ede-9c4c-c03d9494e65d/why-broadcom-stock-sank-today.html",
+      "Content": "Broadcom (NASDAQ: AVGO) might be on the front line of the artificial intelligence (AI) revolution, but that enviable position wasn't reflected in its stock market performance on Monday. Investors traded out of the tech hardware specialist's shares following an analyst's price target cut. Although the share price decline wasn't drastic, Broadcom landed in negative territory, down 0.2%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "QCOM",
+      "Date": "2026-03-03",
+      "Time": "04:35:43",
+      "Source": "Insider Monkey",
+      "Title": "Wells Fargo Bullish on QUALCOMM (QCOM) Amid $100+ Billion AI Inference Market Opportunity",
+      "URL": "https://finance.yahoo.com/news/wells-fargo-bullish-qualcomm-qcom-203543620.html",
+      "Content": "QUALCOMM Incorporated (NASDAQ:QCOM) is one of the most undervalued AI stocks to buy now .\nAnalysts at Wells Fargo believe QUALCOMM Incorporated (NASDAQ:QCOM) may lift broader sentiment once more clarity emerges surrounding the company’s AI and data center strategy. The AI inference market opportunity exceeds $ 100 billion, which the firm’s analysts believe is not currently reflected in the company’s share price. Analysts expect QUALCOMM Incorporated (NASDAQ:QCOM) to capitalize on the attractive opportunity, projecting $5-$7 billion in annual revenue in 2027.\nWith this outlook, Wells Fargo raised QUALCOMM Incorporated (NASDAQ:QCOM)’s price target from $135 to $150 on February 24, 2026, while upgrading the stock from ‘Underweight’ to ‘Equal Weight’.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-03",
+      "Time": "04:33:58",
+      "Source": "GuruFocus.com",
+      "Title": "Micron Gets Street High $550 Price Target Ahead of Earnings",
+      "URL": "https://finance.yahoo.com/news/micron-gets-street-high-550-203358070.html",
+      "Content": "This article first appeared on GuruFocus .\nMicron ( MU , Financials ) received a new Street high price target of $550 from Stifel ahead of its fiscal second-quarter earnings report on March 18.\nWarning! GuruFocus has detected 6 Warning Sign with MU.\nList of 52-Week Lows\nList of 3-Year Lows\nList of 5-Year Lows\nIs MU fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-03",
+      "Time": "03:51:18",
+      "Source": "GuruFocus.com",
+      "Title": "AMD Shares Slip After Launch of Ryzen AI 400 Desktop Chips",
+      "URL": "https://finance.yahoo.com/news/amd-shares-slip-launch-ryzen-195118671.html",
+      "Content": "This article first appeared on GuruFocus .\nAMD ( AMD , Financials ) shares fell 2.52% even as the company introduced its new Ryzen AI 400 series desktop processors, marking its first expansion of Ryzen AI chips beyond laptops.\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-03",
+      "Time": "01:10:01",
+      "Source": "Zacks",
+      "Title": "Will Micron (MU) Beat Estimates Again in Its Next Earnings Report?",
+      "URL": "https://finance.yahoo.com/news/micron-mu-beat-estimates-again-171001824.html",
+      "Content": "Looking for a stock that has been consistently beating earnings estimates and might be well positioned to keep the streak alive in its next quarterly report? Micron (MU), which belongs to the Zacks Computer - Integrated Systems industry, could be a great candidate to consider.\nThis chipmaker has seen a nice streak of beating earnings estimates, especially when looking at the previous two reports. The average surprise for the last two quarters was 14.10%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "QCOM",
+      "Date": "2026-03-02",
+      "Time": "23:33:00",
+      "Source": "Zacks",
+      "Title": "Can Qualcomm's 6G Push With Ericsson Collaboration Fuel Its Shares?",
+      "URL": "https://finance.yahoo.com/news/qualcomms-6g-push-ericsson-collaboration-153300661.html",
+      "Content": "Qualcomm Incorporated QCOM advanced its 6G efforts by expanding its partnership with Ericsson ERIC to coordinate on key radio technologies and validate them through joint lab prototypes. The joint effort signals meaningful progress toward future 6G standards and commercialization.\n\nThe collaboration moved beyond concepts and built key physical-layer technologies in a prototype system, including a 400 MHz component carrier with 30 kHz subcarrier spacing for 3GPP Release 20. Initial work in the 6-8 GHz centimeter-wave band also shows potential for improved cell-edge performance with devices featuring four transmit-receive antennas.\n\nIn addition to radio technology, both companies are also testing Artificial Intelligence (AI) and Augmented Reality (AR) experiences with new devices and stronger infrastructure to support AI-native 6G networks with improved uplink coverage and wide-area performance.\n\nThe shift toward continuous, multi-device agentic AI workloads is driving higher demands for uplink capacity. Per Ericsson’s latest ConsumerLab report, daily use of agentic AI could reach 40% of consumers by 2030, with uplink data demand expected to triple every five years, highlighting the need for next-generation network performance. The partnership strengthens Qualcomm’s strategy to lead in modem, Radio Frequency and AI-connected edge technologies as the industry prepares for commercial 6G in the coming years.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMAT",
+      "Date": "2026-03-02",
+      "Time": "22:00:05",
+      "Source": "Zacks",
+      "Title": "Applied Materials, Inc. (AMAT) is Attracting Investor Attention: Here is What You Should Know",
+      "URL": "https://finance.yahoo.com/news/applied-materials-inc-amat-attracting-140005962.html",
+      "Content": "Applied Materials (AMAT) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term.\nShares of this maker of chipmaking equipment have returned +15.5% over the past month versus the Zacks S&P 500 composite's -1.3% change. The Zacks Electronics - Semiconductors industry, to which Applied Materials belongs, has lost 0.9% over this period. Now the key question is: Where could the stock be headed in the near term?",
+      "Language": "en"
+    },
+    {
       "Ticker": "8299.TWO",
       "Date": "2026-03-02",
       "Time": "04:10:00",
@@ -21,6 +171,56 @@
       "URL": "https://tw.stock.yahoo.com/news/%E8%B7%9F%E9%80%B2%E5%8E%9F%E5%BB%A0-%E7%BE%A4%E8%81%AF-%E6%96%B0%E8%A8%82%E5%96%AE%E5%B0%87%E6%8E%A1%E9%A0%90%E4%BB%98%E6%AC%BE-201000086.html",
       "Content": "群聯電子（8299）近日發函客戶，通知調整付款條件，未來新訂單將採預付款或縮短付款天期。該公司指出，AI基礎建設擴張帶動NAND需求快速升溫，上游原廠陸續收緊帳期與交易條件，為確保產能與供貨穩定，必須同步調整資金安排。\n根據群聯2月23日發出的通知，部分NAND供應商已要求預付款或提前收款。據了解，NAND原廠的付款條件並不一致，但鎧俠等大廠已要求預付款提貨。\n群聯表示，過去一段時間曾為協助客戶穩定供應承擔部分財務壓力，如今在供應鏈條件轉變下，調整付款機制是為提升材料取得效率與營運彈性，確保出貨不中斷。\n此外，針對市場關注缺貨是否緩解，該公司坦言，目前供給仍然緊張，缺貨情況並未明顯改善，幾乎所有NAND原廠產能皆處於偏緊狀態，庫存水位仍低。\n外電報導指出，SK海力士先前亦提到，NAND與DRAM庫存約僅剩四周，後續供給恐進一步趨緊。\n至於部分外資報告認為，NAND供給已有改善，對此，群聯回應，各家原廠策略不同，但整體擴產態度審慎，產能優先配置於高毛利產品及CSP、AI相關應用客戶。\n在資金布局方面，群聯國內第三次無擔保轉換公司債（CB3）已募集60.6億元並於2月6日掛牌交易，資金全數到位。\n市場關注是否再度募資，該公司表示，將視營運與市場環境審慎評估，如有需要不排除持續強化財務彈性。法人認為，在原廠付款條件轉趨嚴格之際，資本實力將成為供應鏈競爭關鍵。\n業界分析，目前記憶體原廠的趨勢為優先生產高獲利產品、聚焦策略客戶。在AI伺服器與雲端資料中心需求強勁帶動下，NAND產業供需結構正加速重整，資源將逐步向高附加價值客戶集中。\n業界觀察指出，在政策導向下，中國企業優先採用國產記憶體，價格未必如外界想像低廉；若無補貼支撐，實際成本未必具顯著優勢。\n整體而言，在AI浪潮推動下，NAND市場短期仍將維持供不應求格局，付款條件趨嚴與資源重新分配，恐成今年產業常態。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "AMAT",
+      "Date": "2026-03-01",
+      "Time": "10:46:47",
+      "Source": "Insider Monkey",
+      "Title": "Morgan Stanley Boosts Applied Materials (AMAT) Target on Strong DRAM Spending Outlook",
+      "URL": "https://finance.yahoo.com/news/morgan-stanley-boosts-applied-materials-024647977.html",
+      "Content": "Applied Materials, Inc. (NASDAQ: AMAT ) is included among the 13 Best Performing Long Term Stocks to Invest in .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-27",
+      "Time": "21:40:00",
+      "Source": "Zacks",
+      "Title": "ADI's AI-Based Data Center Products Gain Traction: What's Ahead?",
+      "URL": "https://finance.yahoo.com/news/adis-ai-based-data-center-134000826.html",
+      "Content": "Analog Devices ADI is experiencing robust traction for its data center products. ADI’s data center business is emerging as a key AI-driven growth engine and has increased 50% year over year in fiscal 2025 and continued to accelerate in the first quarter of fiscal 2026, supported by rising AI infrastructure investments.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-26",
+      "Time": "22:15:24",
+      "Source": "Zacks",
+      "Title": "Analog Devices, Inc. (ADI) Hit a 52 Week High, Can the Run Continue?",
+      "URL": "https://finance.yahoo.com/news/analog-devices-inc-adi-hit-141524489.html",
+      "Content": "A strong stock as of late has been Analog Devices (ADI) . Shares have been marching higher, with the stock up 13.6% over the past month. The stock hit a new 52-week high of $363.2 in the previous session. Analog Devices has gained 33% since the start of the year compared to the 0.2% gain for the Zacks Computer and Technology sector and the 27.8% return for the Zacks Semiconductor - Analog and Mixed industry.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-26",
+      "Time": "22:00:07",
+      "Source": "Zacks",
+      "Title": "Here is What to Know Beyond Why Analog Devices, Inc. (ADI) is a Trending Stock",
+      "URL": "https://finance.yahoo.com/news/know-beyond-why-analog-devices-140007916.html",
+      "Content": "Analog Devices (ADI) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of the stock.\nShares of this semiconductor maker have returned +13.6% over the past month versus the Zacks S&P 500 composite's -0.3% change. The Zacks Semiconductor - Analog and Mixed industry, to which Analog Devices belongs, has gained 12.6% over this period. Now the key question is: Where could the stock be headed in the near term?",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ADI",
+      "Date": "2026-02-26",
+      "Time": "20:58:34",
+      "Source": "Barchart",
+      "Title": "How Is Analog Devices’ Stock Performance Compared to Other Semiconductor Stocks?",
+      "URL": "https://finance.yahoo.com/m/23c89c2f-3212-3a55-9b82-c8e71cad3c84/how-is-analog-devices%E2%80%99-stock.html",
+      "Content": "Analog Devices, Inc. (ADI) is a leading global semiconductor company specializing in high-performance analog, mixed-signal, and digital signal-processing (DSP) integrated circuits that bridge the physical and digital worlds. Founded in 1965 and headquartered in Wilmington, Massachusetts, ADI supplies precision signal-chain solutions that sense, measure, interpret, connect, and power real-world phenomena, such as temperature, motion, sound, and voltage, across industrial, automotive, communications, and consumer markets.",
+      "Language": "en"
     }
   ]
 }
