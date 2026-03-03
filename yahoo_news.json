@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T19:31:37.619Z",
-  "total_news_count": 201,
+  "last_updated": "2026-03-03T19:37:03.554Z",
+  "total_news_count": 202,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-04",
+      "Time": "03:06:46",
+      "Source": "GuruFocus.com",
+      "Title": "Marvell Technology Q4 Earnings Preview: What To Expect From Upcoming Report",
+      "URL": "https://finance.yahoo.com/news/marvell-technology-q4-earnings-preview-190646790.html",
+      "Content": "This article first appeared on GuruFocus .\nMarvell Technology ( NASDAQ:MRVL ) is set to report fiscal fourth-quarter results after the market close on March 5, with analysts projecting year-over-year growth in both earnings and revenue.\nWall Street expects adjusted earnings of $0.79 per share for the January quarter, up from $0.60 a year earlier. Revenue is forecast to rise about 21% to $2.2 billion, supported by demand for artificial intelligence and data center chips, as well as custom silicon programs tied to major cloud customers.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-04",
