@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T16:14:37.704Z",
-  "total_news_count": 183,
+  "last_updated": "2026-03-03T16:39:40.330Z",
+  "total_news_count": 185,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-03-04",
+      "Time": "00:25:00",
+      "Source": "Motley Fool",
+      "Title": "Meta Plans to Spend Up to $135 Billion on AI This Year. Here Are 2 Stocks Poised to Profit.",
+      "URL": "https://finance.yahoo.com/m/9f81402f-5882-3ded-9f25-a1d7259e87b7/meta-plans-to-spend-up-to.html",
+      "Content": "Spending on artificial intelligence (AI) is not slowing, but remains hot at the start of 2026. Leading cloud providers are planning significant increases to their capital spending budgets in 2026, and the social media giant Meta Platforms is following suit.\nDuring its fourth-quarter earnings call, Meta said it will spend up to $135 billion this year to support AI initiatives across its Superintelligence Labs and core business. This spells growing demand for top chip and server suppliers for the company's AI data centers.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-03",
@@ -20,6 +30,16 @@
       "Title": "Trump Weighs 75,000 H200 Cap as Nvidia China Shipments Could Hit 1 Million",
       "URL": "https://finance.yahoo.com/news/trump-weighs-75-000-h200-154517859.html",
       "Content": "This article first appeared on GuruFocus .\nUS officials are weighing tighter guardrails on Nvidia ( NASDAQ:NVDA ) as the company attempts to reengage with China's AI market, with the Trump administration discussing a potential cap of 75,000 H200 chips per Chinese customer, according to people familiar with the matter. Shipments of Advanced Micro Devices' ( NASDAQ:AMD ) MI325 accelerators would count toward the same ceiling. While total exports to China could still reach as many as 1 million units under an upper bound set earlier in the regulatory process, the per-customer restriction would materially shape how much capacity leading Chinese technology firms can realistically secure. The proposed 75,000-unit threshold is less than half of what companies such as Alibaba ( NYSE:BABA ) and ByteDance have privately indicated they hope to purchase, suggesting that even an approved framework may fall short of initial demand expectations.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-03",
+      "Time": "23:38:46",
+      "Source": "GuruFocus.com",
+      "Title": "Microsoft Partner OpenAI Revises Pentagon Deal After Backlash",
+      "URL": "https://finance.yahoo.com/news/microsoft-partner-openai-revises-pentagon-153846141.html",
+      "Content": "This article first appeared on GuruFocus .\nMicrosoft ( MSFT , Financials ) partner OpenAI said it revised its recent agreement with the U.S. Department of Defense after backlash over the timing and terms of the deal.\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.",
       "Language": "en"
     },
     {
