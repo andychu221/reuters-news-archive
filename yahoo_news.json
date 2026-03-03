@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T16:43:34.728Z",
-  "total_news_count": 188,
+  "last_updated": "2026-03-03T17:00:12.805Z",
+  "total_news_count": 189,
   "news": [
     {
       "Ticker": "META",
@@ -190,6 +190,16 @@
       "Title": "Diagnostics startup Droplet Biosciences partners with Nvidia to speed cancer test results",
       "URL": "https://finance.yahoo.com/news/diagnostics-startup-droplet-biosciences-partners-140310497.html",
       "Content": "March 3 (Reuters) - Diagnostics firm Droplet Biosciences said on Tuesday it is collaborating with Nvidia to use ‌the chipmaker's AI infrastructure to speed up post-surgery cancer ‌test results.\nThe company has been using Nvidia Parabricks, a GPU-accelerated software suite, ​to drastically speed up genomic data analysis for DNA sequencing.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-03",
+      "Time": "22:14:00",
+      "Source": "Zacks",
+      "Title": "Credo & TensorWave Team Up to Power Next-Gen AMD AI Clusters",
+      "URL": "https://finance.yahoo.com/news/credo-tensorwave-team-power-next-141400578.html",
+      "Content": "Credo Technology Group Holding Ltd. CRDO recently partnered with TensorWave to build reliable, production-grade AI infrastructure at scale. TensorWave, an AMD-exclusive AI cloud provider, is focused on delivering high-performance infrastructure optimized for large-scale training and inference. As cluster sizes grow, network stability becomes just as important as raw GPU performance. That is where Credo&rsquo;s ZeroFlap (ZF) portfolio comes in.",
       "Language": "en"
     },
     {
