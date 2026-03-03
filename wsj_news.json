@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T23:01:54.760Z",
+  "last_updated": "2026-03-03T11:06:57.098Z",
   "total_news_count": 145,
   "news": [
     {
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Infrastructure, Cloud Computing, Capital Expenditure, European Expansion"
+      "Keywords": "AI Infrastructure, Cloud Expansion, Capital Expenditure, European Market"
     },
     {
       "Ticker": "NVDA",
@@ -42,7 +42,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Strategic Investment, AI Infrastructure, Advanced Optics, Supply Chain"
+      "Keywords": "AI Infrastructure, Advanced Optics, Supply Chain Investment, Manufacturing Capacity"
     },
     {
       "Ticker": "AAPL",
@@ -54,9 +54,9 @@
       "Content": "This is an edition of the WSJ Technology newsletter, a weekly digest of tech columns, big stories and personal tech advice. If you’re not subscribed, sign up here.\n\nI traveled to Texas and Arizona to see up close how Apple is helping to rebuild semiconductor manufacturing in the U.S.\n\nIn a whirlwind, three-day trip, I saw incredible technology: a 35-foot-tall cylinder that creates 600-pound torpedoes of pure silicon, an intricate ceiling-mounted subway system to transport chip wafers through various production stages, a $400 million machine that patterns wafers with a wavelength of light only found on the sun.\n\nThere weren’t many people buzzing around, a reminder that the biggest reason to reshore chip-making isn’t to drive mass employment. The factories are distinct from iPhone assembly operations, concentrated in China, which employ hundreds of thousands of people.\n\nApple played a major role building Taiwan Semiconductor Manufacturing into the colossus of the chip industry by committing to make its latest iPhone chips in the company’s Taiwan plants.\n\nNow it’s pressuring suppliers to bring this foundational technology of the modern economy here. Rising geopolitical tensions over Taiwan—which China claims as its own territory and has threatened to take over—have added urgency to the effort.\n\nThe U.S. efforts of Apple and its suppliers are modest relative to the global semiconductor supply chain, and Apple’s purchases represent a small percentage of its total demand for chips. But it’s a start, and in chip-making, success is measured in decades, not years.\n\n—Rolfe is a tech reporter based in San Francisco.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "Semiconductor Manufacturing, Supply Chain Diversification, Geopolitical Risk, Reshoring"
+      "Keywords": "Semiconductor Manufacturing, Geopolitical Risk, Supply Chain Diversification, US Reshoring"
     },
     {
       "Ticker": "NVDA",
@@ -68,9 +68,9 @@
       "Content": "Nvidia plans to unveil a new processor specially tailored to help OpenAI and other customers build faster, more efficient tools, a major shake-up to its business that is poised to reset the AI race.\n\nThe company is designing a new system for “inference” computing, a form of processing that allows AI models to respond to queries, according to people familiar with the plans. The new platform, set to be revealed at Nvidia’s GTC developer conference in San Jose next month, will incorporate a chip designed by the startup Groq, the people said.\n\nInference computing has been the subject of intense industry competition. Rivals Google and Amazon have designed chips that compete with Nvidia’s flagship systems. And the explosion of autonomous coding in the tech workforce has created demand for new chips that can more efficiently handle complex AI-related tasks.\n\nOpenAI has agreed to become one of the largest customers of the new processor, some of the people said, representing a major win for Nvidia. The ChatGPT maker, which is one of Nvidia’s largest customers, has spent the past few months shopping for more efficient alternatives to Nvidia’s chips, and signed a deal with a chip startup last month that provides it with new options.\n\nEarlier Friday, OpenAI alluded to the new processor when it announced it would sign up for a major purchase of “dedicated inference capacity” from Nvidia, alongside a $30 billion investment from the chip giant. It also signed a major new deal to use Amazon’s Trainium chips.\n\nNvidia has dominated the business of designing and selling GPUs—graphics processing units—a type of processor that can perform billions of simple tasks simultaneously. But for the first time since the start of the AI boom, it is confronting the limits of its flagship product. As the market shifts towards inference, Nvidia is feeling pressure from some customers to produce chips that can more efficiently power AI applications.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
-      "Sentiment_Score": 0,
-      "Keywords": "AI Inference, New Product Development, Market Competition, Customer Partnerships"
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "AI Inference, New Chip Development, Customer Contracts, Market Competition"
     },
     {
       "Ticker": "GOOG",
@@ -84,7 +84,7 @@
       "Language": "en",
       "Related_Score": 1,
       "Sentiment_Score": -1,
-      "Keywords": "Wealth Tax, Tax Migration, Real Estate Investment, Urban Economics"
+      "Keywords": "Wealth Tax, Geographic Relocation, Tax Policy, Urban Economics"
     },
     {
       "Ticker": "AMZN",
@@ -112,7 +112,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Strategy, Cost Efficiency, In-house Chips, Competitive Landscape"
+      "Keywords": "AI Cost Strategy, In-house Chips, Enterprise AI, Competitive Lag"
     },
     {
       "Ticker": "AMZN",
@@ -124,9 +124,9 @@
       "Content": "Sell the thing everyone wants, and charge less for it: For Amazon .com, that’s been a winning formula for many years.\n\nAmazon’s new artificial intelligence czar, Peter DeSantis, thinks the company can use it in the AI race, where it needs a win after falling far behind competitors in developing cutting-edge models and popular applications for consumers and businesses.\n\n“AI has a cost problem,” he said. “If we ultimately want AI to transform everything, the costs have to be different.”\n\nAmazon, he said, has the expertise and the infrastructure to achieve that. Under DeSantis, Amazon plans to use its in-house chips to develop AI models more cheaply than competitors. It’s betting on strong demand for enterprise AI products that make up for their lack of all-purpose power with task-specific customization. And it’s still hoping that the large language model technology that powers chatbots can supercharge its Alexa-branded smart home offerings.\n\nThe company on Friday also announced a $50 billion commitment to OpenAI.\n\nIn a fiercely competitive—and expensive—race for AI superiority, OpenAI, Anthropic and Google are considered by some observers to be closing in on humanlike artificial intelligence. In creating its AI unit in 2023, Amazon signaled similar ambitions, choosing “Amazon AGI” as its name in a nod to the concept of artificial general intelligence. Amazon’s flagship Nova model has lagged behind others in capability, according to independent benchmarking firms.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 5,
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Investment, Strategic Partnership, Cost Leadership, In-house Silicon"
+      "Keywords": "AI Cost Strategy, In-house Chips, Strategic Investment, Enterprise AI"
     },
     {
       "Ticker": "GOOG",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 2,
       "Sentiment_Score": 1,
-      "Keywords": "AI in Entertainment, Generative AI, Immersive Experience, Creative Technology"
+      "Keywords": "AI in Entertainment, Immersive Experience, Creative Technology, Partnership"
     },
     {
       "Ticker": "GOOG",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 2,
       "Sentiment_Score": 1,
-      "Keywords": "AI in Entertainment, Generative AI, Immersive Experience, Creative Technology"
+      "Keywords": "AI in Entertainment, Immersive Experience, Creative Technology, Partnership"
     },
     {
       "Ticker": "INTC",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Workforce Reduction, AI Impact, Business Transformation, Stock Performance"
+      "Keywords": "Workforce Reduction, AI Impact, Business Model Shift, Stock Performance"
     },
     {
       "Ticker": "NVDA",
@@ -180,9 +180,9 @@
       "Content": "Nvidia delivered another blockbuster earnings report Wednesday night. On Thursday, shares fell anyway.\n\nThe world’s largest publicly traded company posted record quarterly sales of $68.1 billion, blowing past analyst expectations and marking the chip maker’s best growth rate in four quarters. It wasn’t enough: Shares fell 5.5%, dragging the Nasdaq composite down more than 1%.\n\nSome investors said the slide shows how, for AI-linked companies, the bar to please investors—and assuage bubble worries—keeps getting higher. That is particularly true for Nvidia, the industry’s bellwether, and a driver of the markets’ rebound from April’s tariff turmoil.\n\nNvidia’s decline was also the latest sign of a pattern that has defined the early part of 2026: Corporate earnings have been strong, but investors remain unmoved.\n\nWith roughly 94% of S&P 500 companies having reported fourth-quarter results, profits have grown 15% from a year earlier—the fifth-straight quarter of double-digit profit growth, according to FactSet. Revenue growth has accelerated to 9.5%. Despite those strong earnings, the index is up less than 1% for the year.\n\nTechnology stocks have borne the brunt of investors’ skepticism, as concerns mount about stretched valuations and AI’s impact on corporate earnings. The S&P 500’s information-technology sector is on track for its fourth straight monthly decline, its longest losing streak since 2018, according to Dow Jones Market Data. Materials, meanwhile, are rising for a fourth consecutive month, their longest winning streak since 2021.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": -1,
-      "Keywords": "Earnings Report, Investor Sentiment, AI Bubble Concerns, Market Skepticism"
+      "Keywords": "Earnings Report, Investor Sentiment, AI Bubble Concerns, Valuation Skepticism"
     },
     {
       "Ticker": "NVDA",
