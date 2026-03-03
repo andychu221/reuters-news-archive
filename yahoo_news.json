@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-03T19:40:05.230Z",
-  "total_news_count": 204,
+  "last_updated": "2026-03-03T20:00:35.546Z",
+  "total_news_count": 213,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-04",
+      "Time": "03:14:54",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia Commits $4 Billion to AI Data Center Optics Suppliers",
+      "URL": "https://finance.yahoo.com/news/nvidia-commits-4-billion-ai-191454781.html",
+      "Content": "This article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) has agreed to deploy another $4 billion into the artificial intelligence supply chain, committing $2 billion each to Lumentum Holdings Inc. ( NASDAQ:LITE ) and Coherent Corp. ( NYSE:COHR ) in multiyear arrangements that include purchase agreements and access rights for advanced laser components. The funding, according to the companies' statements, will support research and development. The move fits into Nvidia's broader strategy of reinvesting its substantial profits to reinforce the infrastructure behind AI systems, following prior investments in data center operator CoreWeave Inc. and AI developer OpenAI, initiatives that have helped stimulate demand for its chips.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-03-04",
@@ -13,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "NVDA",
+      "Date": "2026-03-04",
+      "Time": "03:13:00",
+      "Source": "Motley Fool",
+      "Title": "Nvidia Just Dumped Its Entire $182 Million Applied Digital Stake. Should You Follow?",
+      "URL": "https://finance.yahoo.com/m/9573a925-1c41-3cad-a550-751ed43ceae1/nvidia-just-dumped-its-entire.html",
+      "Content": "As the beating heart of the artificial intelligence (AI) boom, Nvidia is a kingmaker in the industry. When it takes a stake in a company, the market pays attention -- so too when it exits a position.\nAnd that's exactly what Nvidia has done with AI data center developer Applied Digital (NASDAQ: APLD) . After acquiring a significant stake in the company, Nvidia just sold all of its 7.7 million shares.",
+      "Language": "en"
+    },
+    {
       "Ticker": "GOOGL",
       "Date": "2026-03-04",
       "Time": "03:11:48",
@@ -20,6 +40,16 @@
       "Title": "Nvidia Backed Startup Targets $20 Billion",
       "URL": "https://finance.yahoo.com/news/nvidia-backed-startup-targets-20-191148760.html",
       "Content": "This article first appeared on GuruFocus .\nReflection AI, a startup backed by Nvidia ( NASDAQ:NVDA ), is reportedly in talks to raise new funding that could value the company at more than $20 billion, a sharp jump from where it stood just months ago.\nAccording to reports, the New York based firm is aiming to raise at least $2 billion in fresh capital. That would more than double the $8 billion valuation it secured in October after raising $2 billion, and mark another leap from the $545 million valuation it carried a year before that. The speed of that climb shows how aggressively investors are backing open AI development.\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\nFounded by former Google DeepMind researchers, Reflection builds open models that developers can freely download and modify. The company has also been hiring talent with experience on systems like OpenAI's GPT 5 and Google's Gemini, signaling its ambition to compete at the highest level.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-04",
+      "Time": "03:10:31",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia's China Access Questioned",
+      "URL": "https://finance.yahoo.com/news/nvidias-china-access-questioned-191031861.html",
+      "Content": "This article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) may be facing another hurdle in China as U.S. officials consider placing a cap on how many of its H200 AI chips any single Chinese company can buy.\nAccording to reports, the discussion centers around limiting purchases to 75,000 H200 chips per customer. That may sound like a large number, but for companies building large scale AI models, it could meaningfully slow expansion plans. Advanced Micro Devices ( NASDAQ:AMD ) could also be pulled into the framework, with its MI325 accelerators reportedly counting toward the same cap.\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\nThe timing is notable. The U.S. had only recently allowed limited H200 shipments to China, reopening a channel that had been heavily restricted. At the same time, China has been weighing its own import constraints as it pushes domestic alternatives.",
       "Language": "en"
     },
     {
@@ -43,6 +73,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMD",
+      "Date": "2026-03-04",
+      "Time": "02:53:10",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia, AMD, Intel, and Broadcom Lead Chip Stock Sell-off Amid Iran Crisis",
+      "URL": "https://finance.yahoo.com/news/nvidia-amd-intel-broadcom-lead-185310509.html",
+      "Content": "This article first appeared on GuruFocus .\nU.S. semiconductor stocks moved lower on Tuesday as geopolitical tensions in the Middle East weighed on global markets, following coordinated U.S. and Israeli strikes on Iran.\nShares of Nvidia ( NASDAQ:NVDA ) fell about 3%, while Advanced Micro Devices ( NASDAQ:AMD ) declined roughly 4%. Broadcom ( NASDAQ:AVGO ) slipped nearly 3%, and Qualcomm ( NASDAQ:QCOM ) edged down about 2%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-04",
+      "Time": "02:53:10",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia, AMD, Intel, and Broadcom Lead Chip Stock Sell-off Amid Iran Crisis",
+      "URL": "https://finance.yahoo.com/news/nvidia-amd-intel-broadcom-lead-185310509.html",
+      "Content": "This article first appeared on GuruFocus .\nU.S. semiconductor stocks moved lower on Tuesday as geopolitical tensions in the Middle East weighed on global markets, following coordinated U.S. and Israeli strikes on Iran.\nShares of Nvidia ( NASDAQ:NVDA ) fell about 3%, while Advanced Micro Devices ( NASDAQ:AMD ) declined roughly 4%. Broadcom ( NASDAQ:AVGO ) slipped nearly 3%, and Qualcomm ( NASDAQ:QCOM ) edged down about 2%.",
+      "Language": "en"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-03-04",
       "Time": "02:48:32",
@@ -53,6 +103,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "AVGO",
+      "Date": "2026-03-04",
+      "Time": "02:47:00",
+      "Source": "TheStreet",
+      "Title": "5-star analyst resets Broadcom price target before earnings",
+      "URL": "https://finance.yahoo.com/m/4686a0f6-35e6-3a31-b3f4-0ac193c3c39f/5-star-analyst-resets.html",
+      "Content": "Broadcom ( AVGO ) stock has gained almost 60% in the past year, at the time of writing, Tuesday morning, March 3, according to Yahoo Finance . Meanwhile, the SPDR S&P 500 index ( SPY ) is up about 15.52% in the same period.\nA semiconductor giant with a vast product portfolio spanning wired infrastructure, wireless communications, enterprise storage, and industrial end markets has not only beaten the S&P 500 but also outpaced all but one Magnificent 7 member.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-04",
+      "Time": "02:35:00",
+      "Source": "Motley Fool",
+      "Title": "Wall Street Is Wrong About Micron Stock. Here's Why.",
+      "URL": "https://finance.yahoo.com/m/f2d45241-3699-3797-a24c-7784147756fc/wall-street-is-wrong-about.html",
+      "Content": "Micron Technology (NASDAQ: MU) has been a winning stock in recent times thanks to its key role in the artificial intelligence (AI) revolution. The company's shares have soared more than 300% over the past year as customers rush to Micron's memory and storage products.\nThe company confirmed this trend in the latest quarter, with AI demand fueling record revenue and free cash flow. And Micron expects the momentum to continue.",
+      "Language": "en"
+    },
+    {
       "Ticker": "TSLA",
       "Date": "2026-03-04",
       "Time": "02:29:05",
@@ -60,6 +130,16 @@
       "Title": "Tesla CEO Musk's X, xAI Plan to Repay $17.5 Billion in Debt",
       "URL": "https://finance.yahoo.com/news/tesla-ceo-musks-x-xai-182905430.html",
       "Content": "This article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) CEO Elon Musk's social media platform X and artificial intelligence startup xAI plan to repay roughly $17.5 billion in debt tied to the companies, Bloomberg News reported, citing people familiar with the matter.\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-04",
+      "Time": "02:23:47",
+      "Source": "Motley Fool",
+      "Title": "Why Micron Stock Is Plummeting Today",
+      "URL": "https://finance.yahoo.com/m/d067195c-4da2-3705-8b22-f3efd736e041/why-micron-stock-is.html",
+      "Content": "Micron (NASDAQ: MU) stock is seeing a valuation pullback in Tuesday's trading. The memory-chip specialist's share price was down 7.1% as of 1 p.m. ET amid a 1.3% level slide for the S&P 500 and a 1.4% decline for the Nasdaq Composite .\nMicron announced today that it had started shipping customer sampled for its latest LPDRAM module for artificial intelligence ( AI ) data centers. The stock also received a price-target increase from a high-profile investment firm. Despite the positive news, the U.S. and Israel's war with Iran is dragging the company's share price lower.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
       "Language": "en"
     },
     {
@@ -110,6 +190,16 @@
       "Title": "Can Investing in Apple Stock Double Your Money?",
       "URL": "https://finance.yahoo.com/m/136ed2ea-c5ec-3115-bf55-3d3697c2f6c4/can-investing-in-apple-stock.html",
       "Content": "A good test for a growth stock is whether you think it can double in value. That's because if you see that much potential upside, it likely means it has attractive growth opportunities in the future.\nOne stock that's been a great growth investment over the years is Apple (NASDAQ: AAPL) , known for its popular iPhones. If you invested $10,000 in the stock 10 years ago, it would have more than doubled your money -- your investment would be worth around $105,000 today.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-04",
+      "Time": "00:44:21",
+      "Source": "Barchart",
+      "Title": "Dear Broadcom Stock Fans, Mark Your Calendars for March 4",
+      "URL": "https://finance.yahoo.com/m/f4a0779d-a0b8-33df-b658-e02ab25b8f04/dear-broadcom-stock-fans%2C.html",
+      "Content": "While Nvidia (NVDA) gets the lion’s share of investors’ attention for the popularity of its advanced semiconductor chips, it would be a huge mistake to overlook Broadcom (AVGO). The chipmaker is carving out its own space in the market with specialty products that are cheaper than Nvidia’s chips.\nWith Broadcom’s earnings report coming up on March 4, what should investors expect from the chipmaker?",
       "Language": "en"
     },
     {
