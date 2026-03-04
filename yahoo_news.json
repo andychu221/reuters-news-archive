@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-04T18:31:40.053Z",
-  "total_news_count": 518,
+  "last_updated": "2026-03-04T18:40:04.050Z",
+  "total_news_count": 521,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-05",
+      "Time": "02:19:11",
+      "Source": "GuruFocus.com",
+      "Title": "Tesla Rises as BofA Reinstates Buy Rating",
+      "URL": "https://finance.yahoo.com/news/tesla-rises-bofa-reinstates-buy-181911664.html",
+      "Content": "This article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) gained in premarket trading after Bank of America reinstated coverage of the electric vehicle maker with a Buy rating, calling it a leader in consumer autonomy.\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-05",
+      "Time": "02:17:31",
+      "Source": "GuruFocus.com",
+      "Title": "Alphabet Sued Over Gemini in Wrongful Death Claim",
+      "URL": "https://finance.yahoo.com/news/alphabet-sued-over-gemini-wrongful-181731208.html",
+      "Content": "This article first appeared on GuruFocus .\nAlphabet ( GOOGL , Financials ) is facing a lawsuit alleging its Gemini chatbot contributed to the death of a Florida man, in what the complaint describes as the first wrongful death claim tied to Googles AI products.\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-03-05",
@@ -230,6 +250,16 @@
       "Title": "Tech stocks today: Apple unveils low-cost MacBook Neo, CoreWeave inks deal with Perplexity",
       "URL": "https://finance.yahoo.com/news/live/tech-stocks-today-apple-unveils-low-cost-macbook-neo-coreweave-inks-deal-with-perplexity-152527129.html",
       "Content": "Apple's ( AAPL ) three-day product release schedule continued on March 4, with the debut of a new low-cost MacBook Neo computer.\nThe $599 MacBook Neo has the same price point as Apple's new entry-level smartphone , the iPhone 17e, which the company announced on Monday. Other product announcements included two new iPad Airs and new MacBook Air and MacBook Pro laptops with more powerful M5 chips.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "LITE",
+      "Date": "2026-03-04",
+      "Time": "23:22:45",
+      "Source": "Barchart",
+      "Title": "A $2 Billion Reason to Buy Lumentum Stock Now",
+      "URL": "https://finance.yahoo.com/m/def6f9fc-f3a6-3c50-8dfc-17e1066e7ce3/a-%242-billion-reason-to-buy.html",
+      "Content": "Chip and AI supply chain stocks have grabbed investor attention this year as demand for data center gear and networking kits ramps up with the AI boom. Not every supplier will benefit equally, but when a major platform player signals a large strategic tie-up, traders tend to listen.\nThat’s precisely why Lumentum (LITE) looks interesting now. Optical-networking giant surged after Nvidia (NVDA) disclosed expanded partnerships and investment commitments. Nvidia’s roughly $2 billion backing acts as a visible demand signal for Lumentum’s lasers and photonics components, which power high-speed links inside AI servers and hyperscale networks.",
       "Language": "en"
     },
     {
