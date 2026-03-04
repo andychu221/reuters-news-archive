@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T21:00:28.476Z",
-  "total_news_count": 537,
+  "last_updated": "2026-03-04T21:14:48.350Z",
+  "total_news_count": 538,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-05",
+      "Time": "04:32:20",
+      "Source": "Motley Fool",
+      "Title": "Apple Just Made a Power Move to Gain Market Share",
+      "URL": "https://finance.yahoo.com/m/95b8f878-ce72-3ce6-9fa2-40ec33c9a254/apple-just-made-a-power-move.html",
+      "Content": "When it comes to the smartphone market, Apple (NASDAQ: AAPL) has long been the biggest winner. Even when the company didn't have the largest market share, it long commanded the largest share of the profits. The final gem in the company's crown came in 2025, when the iPhone became the year's top seller, accounting for 20% of the market, according to Counterpoint Research. The company is also the market leader in several other product categories .",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-05",
