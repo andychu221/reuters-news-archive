@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T22:43:44.040Z",
-  "total_news_count": 570,
+  "last_updated": "2026-03-04T23:00:21.402Z",
+  "total_news_count": 571,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "06:33:00",
+      "Source": "TheStreet",
+      "Title": "Morgan Stanley changes its Nvidia position for the rest of 2026",
+      "URL": "https://finance.yahoo.com/m/6feeb1ca-e7c7-3f36-9fdc-a18a2477b1be/morgan-stanley-changes-its.html",
+      "Content": "Wall Street just handed Nvidia ( NVDA ) a major vote of confidence. Morgan Stanley analyst Joseph Moore reinstated Nvidia as the firm's top semiconductor pick on Monday, knocking Micron Technology ( MU ) off that spot after memory stocks delivered a jaw-dropping 300% to 900% run since the call was made months ago.",
+      "Language": "en"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-03-05",
