@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T09:44:09.950Z",
-  "total_news_count": 421,
+  "last_updated": "2026-03-04T10:00:10.884Z",
+  "total_news_count": 423,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-04",
+      "Time": "17:30:00",
+      "Source": "Motley Fool",
+      "Title": "Why March Could Be a Turning Point for Nvidia Stock",
+      "URL": "https://finance.yahoo.com/m/b49c243b-83d0-3d11-b49c-4b9edfdebc39/why-march-could-be-a-turning.html",
+      "Content": "Nvidia (NASDAQ: NVDA) stock has blasted higher over the past several years, and this is for a very good reason: The company has assembled an artificial intelligence (AI) empire, becoming the key player in this high-growth industry.\nAnalysts expect the AI market to reach beyond $2 trillion by the early part of the next decade, and Nvidia is set to benefit. The tech giant sells the graphics processing units (GPUs) that are the most sought-after worldwide due to their speed and efficiency. They power tasks that are unavoidable along the AI path, such as the training of large language models.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-04",
@@ -21,6 +31,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E8%B7%8C1494%E9%BB%9E%EF%BC%81%E8%AD%89%E4%BA%A4%E6%89%80%E4%BF%A1%E5%BF%83%E5%96%8A%E8%A9%B1%EF%BC%9A%E4%BB%8D%E5%85%B7%E9%9F%8C%E6%80%A7%E3%80%81%E5%B0%87%E5%AF%86%E5%88%87%E6%B3%A8%E6%84%8F-091430229.html",
       "Content": "受到美國與以色列聯手對伊朗發動軍事行動影響，全球金融市場避險情緒顯著攀升，台股今（4）日收在32,828點，下跌1,494點，跌幅 4.35%。證交所表示，儘管近期股市受地緣政治影響，台股仍展現韌性，會密切留意國際事件。\n證交所表示，雖然國際政經局勢引發波動，使亞洲主要股市受戰火衝擊全面下挫。臺股憑藉健全基本面，且2025年加權股價指數全年漲幅達25.74%，位居亞洲市場前列，今日之跌勢主要係受國際突發變數衝擊所致，若參酌前期漲勢規模，當前波動仍屬國際局勢干擾下之震盪調整。\n此外，今日成交值仍突破新台幣1兆元大關，顯示市場資金流動性充裕，儘管近期股市受地緣政治影響，台股仍展現韌性，相較亞洲其他主要市場表現更具支撐。\n觀察國內基本面，我國整體經濟表現狀況優良。受惠於人工智慧與高效能運算需求強勁，2025年全年出口達6,407.5億美元，創歷史新高。主計總處數據顯示，2025年經濟成長率達8.68%，預估2026年將維持7.71%的高成長，表現優於全球及鄰近國家。\n上市公司部分，2025年全體上市公司營收達新台幣47.6兆元，年增13.82%。2026年1月份全體上市公司(不含金融保險業及投控公司)營收，更較2025年同期成長30.71％，顯示基本面穩健，營收續創佳績。\n證交所指出，雖然受地緣政治風險影響，台股短期內可能面臨波動，但中長期而言，在我國經濟穩健成長的背景下，資本市場仍深具成長潛力。\n針對近期國際政經局勢動盪導致臺股波動，證交所表示，將持續密切注意相關國際事件對市場之影響。觀察我國各項經濟數據，顯示台股基本面依然穩固，且上市公司具備應對環境變化的韌性，呼籲投資人應回歸基本面理性評估，審慎面對近期走勢。\n陳依旻／財經特派記者副組長，主跑央行、證交所、投信投顧等",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-04",
+      "Time": "16:59:00",
+      "Source": "Motley Fool",
+      "Title": "Nvidia Stock vs. Sandisk Stock: Billionaires Buy One and Sell the Other",
+      "URL": "https://finance.yahoo.com/m/df1c3310-6dc1-3a08-b899-50e52b1de45b/nvidia-stock-vs.-sandisk.html",
+      "Content": "In the past year, Nvidia (NASDAQ: NVDA) stock has increased 46%, while Sandisk (NASDAQ: SNDK) shares have added 1,220%. But two hedge fund billionaires bought Nvidia and sold Sandisk in the fourth quarter.\nCliff Asness at AQR Capital Management bought 3.9 million shares of Nvidia, increasing his stake by 18%. He also sold 318,600 shares of Sandisk, reducing his stake by 22%. Nvidia is now the largest position in his portfolio. Sandisk does not rank among the top 50.\nSteven Schonfeld at Schonfeld Strategic Advisors bought 2 million shares of Nvidia, more than tripling his stake. He also sold 41,800 shares of Sandisk, reducing his stake by 27%. Nvidia is now the third-largest position in his portfolio. Sandisk does not rank among the top 50.",
+      "Language": "en"
     },
     {
       "Ticker": "SNDK",
