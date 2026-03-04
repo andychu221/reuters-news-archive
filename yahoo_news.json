@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T21:44:00.194Z",
-  "total_news_count": 553,
+  "last_updated": "2026-03-04T22:00:04.875Z",
+  "total_news_count": 554,
   "news": [
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-05",
+      "Time": "05:18:18",
+      "Source": "Reuters",
+      "Title": "Broadcom sees revenue above estimates as AI fuels custom chip demand",
+      "URL": "https://finance.yahoo.com/news/broadcom-forecasts-second-quarter-revenue-211818853.html",
+      "Content": "March 4 (Reuters) - Chip designer Broadcom forecast second-quarter revenue above Wall Street estimates on Wednesday, a sign of strong demand for advanced chips ‌used in data centers powering artificial intelligence applications.\nBig Tech firms such ‌as Alphabet, Microsoft , Amazon and Meta are expected to spend at least $630 billion to build AI ​infrastructure this year, which would boost demand for chips, servers, storage and networking equipment from companies like Broadcom.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-03-05",
