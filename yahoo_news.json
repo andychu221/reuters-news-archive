@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T20:14:39.520Z",
-  "total_news_count": 533,
+  "last_updated": "2026-03-04T20:31:42.640Z",
+  "total_news_count": 534,
   "news": [
     {
       "Ticker": "INTC",
@@ -20,6 +20,16 @@
       "Title": "Is Micron Stock Going to $500?",
       "URL": "https://finance.yahoo.com/m/0303a500-5549-3d28-a73a-6d4e31d880b7/is-micron-stock-going-to-%24500%3F.html",
       "Content": "Micron Technology (NASDAQ: MU) has recently become one of the hottest artificial intelligence (AI) stocks on the market, with shares already up by 50% so far this year amid soaring demand for data center hardware. The company's high-bandwidth memory chips have become integral for training and running large language models (LLMs).",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-05",
+      "Time": "03:18:09",
+      "Source": "GuruFocus.com",
+      "Title": "Amazon Stock Rises After $427 Million Campus Deal",
+      "URL": "https://finance.yahoo.com/news/amazon-stock-rises-427-million-191809155.html",
+      "Content": "This article first appeared on GuruFocus .\nAmazon.com ( NASDAQ:AMZN ) has agreed to acquire George Washington University's Virginia Science and Technology campus for $427 million to expand its artificial intelligence data infrastructure.\nThe property is located in Ashburn, Virginia, a major U.S. data center corridor. A campus publication indicated the transaction permits development of a data or technology facility on the site. Amazon did not provide additional comment on its intended use.",
       "Language": "en"
     },
     {
