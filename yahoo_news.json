@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T11:20:21.611Z",
-  "total_news_count": 448,
+  "last_updated": "2026-03-04T11:39:52.510Z",
+  "total_news_count": 450,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-04",
+      "Time": "18:38:12",
+      "Source": "Insider Monkey",
+      "Title": "Udemy Inc (UDMY) Brings Google, OpenAI on Board for AI Learning",
+      "URL": "https://finance.yahoo.com/news/udemy-inc-udmy-brings-google-103812768.html",
+      "Content": "Udemy Inc (NASDAQ:UDMY) is among the best NASDAQ penny stocks to buy according to analysts . On February 19, Udemy Inc (NASDAQ:UDMY) announced the launch of an AI training plan in partnership with Google. This arrangement will see Udemy’s learners worldwide benefit from Google’s AI professional certification through a plan dubbed “Learn AI with Google.” This package offers the Udemy community three months of hands-on practice with Google AI Pro as well as the chance to earn industry-recognized credentials.\nAccording to Udemy, this plan is designed to meet the growing workplace demand for AI skills.",
+      "Language": "en"
+    },
     {
       "Ticker": "2408.TW",
       "Date": "2026-03-04",
@@ -361,6 +371,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E8%B7%8C-%E5%85%89%E6%98%8E-%E5%AE%9C%E9%80%B2-%E7%B2%BE%E5%85%83%E6%95%B2%E9%80%B2%E7%A7%91%E6%8A%80%E6%AC%8A%E5%80%BC%E8%82%A1-084051194.html",
       "Content": "（中央社記者曾仁凱台北2026年3月4日電）美伊開戰引發市場賣壓，台股今天大跌1494.77點，創史上第3大跌點。光明 (4420) 、宜進 (1457) 、精元 (2387) 等上市櫃公司，過去一段時間陸續買進鴻海、廣達、台積電等科技權值股，不約而同公告達標，引發市場聯想是否趁今天大舉補貨。\n紡織廠光明今天公告，於今年1月13日至3月4日期間，總共投下新台幣8997.8萬元，以每股均價224.95元，買進鴻海400張。取得目的為投資理財。此次光明砸下8997萬元敲進鴻海，對照公司目前資本額4.04億元，金額超過公司股本的2成。\n與光明同集團的宜進今天也公告，連同旗下子公司億東，於去年11月18日至今年3月4日，合計投下3.3億元，以每股均價約275元，合力取得廣達1200張，取得目的為提高資金運用效益。\n鍵盤廠精元今天也代子公司竣立科技公告，從去年3月10日至今年3月4日，共投下3.26億元，以每股均價1306元，取得250張台積電，取得目的為財務投資。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-04",
+      "Time": "16:34:13",
+      "Source": "Bloomberg",
+      "Title": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares",
+      "URL": "https://finance.yahoo.com/news/billionaire-tesla-whale-says-bought-083413988.html",
+      "Content": "(Bloomberg) -- Billionaire Leo KoGuan, who emerged a few years ago as one of the biggest individual shareholders of Tesla Inc., said he bought 1 million shares of Nvidia Corp. on Tuesday.\n“I am convinced AI is NOT a bubble, it is only the beginning,” KoGuan posted on X on Wednesday.\nMost Read from Bloomberg",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
