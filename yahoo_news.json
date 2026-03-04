@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-04T22:20:14.661Z",
-  "total_news_count": 560,
+  "last_updated": "2026-03-04T22:32:00.054Z",
+  "total_news_count": 562,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-03-05",
+      "Time": "06:05:00",
+      "Source": "Motley Fool",
+      "Title": "How Buying Sandisk Today Could 10x Your Net Worth",
+      "URL": "https://finance.yahoo.com/m/a5fa922f-a7e7-3f67-85a2-5ce864074ef8/how-buying-sandisk-today.html",
+      "Content": "An investment of $1,000 made in shares of Sandisk (NASDAQ: SNDK) just over a year ago -- when it separated from Western Digital and started trading on the stock market -- is worth an impressive $15,670 as of this writing.\nThis stunning multibagger performance is the result of a terrific jump in Sandisk's revenue and earnings in recent quarters. The company is riding the wave of eye-popping demand for its flash storage memory chips. Given that the demand for its products is outpacing supply, Sandisk benefits from a favorable pricing environment that's driving exponential growth in its earnings.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-05",
+      "Time": "05:32:43",
+      "Source": "Reuters",
+      "Title": "Amazon cuts more jobs; this time in robotics unit",
+      "URL": "https://finance.yahoo.com/news/amazon-cuts-more-jobs-time-212928090.html",
+      "Content": "By Greg Bensinger\nSAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters.\nThis comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-05",
