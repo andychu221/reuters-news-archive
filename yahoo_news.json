@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-04T12:31:41.904Z",
-  "total_news_count": 458,
+  "last_updated": "2026-03-04T12:39:46.604Z",
+  "total_news_count": 461,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-04",
+      "Time": "20:23:12",
+      "Source": "Investing.com",
+      "Title": "Bank of America resumes Tesla stock coverage. Here’s the new price target",
+      "URL": "https://finance.yahoo.com/news/bank-america-resumes-tesla-stock-122312432.html",
+      "Content": "Investing.com -- Bank of America has resumed coverage of Tesla with a Buy rating, assigning it a new price target in a note on Wednesday, arguing that the company remains the clear leader in consumer autonomy and is well-positioned for the next phase of the Auto 2.0 landscape.\nAnalyst Alexander Perry wrote that BofA is “reinstating TSLA at Buy with a $460 PO,” citing the company’s potential to dominate robotaxi services and autonomous mobility.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-04",
+      "Time": "20:21:51",
+      "Source": "GuruFocus.com",
+      "Title": "Tesla Faces Union Push at Berlin Gigafactory",
+      "URL": "https://finance.yahoo.com/news/tesla-faces-union-push-berlin-122151637.html",
+      "Content": "This article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) is facing a renewed push from Germany's powerful IG Metall union to gain greater influence at the company's Gigafactory in Gruenheide near Berlin, where employees are voting for a new works council.\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-04",
@@ -10,6 +30,16 @@
       "Title": "Cathie Wood Loads Up on Alibaba and Amazon -- Sells TSMC and Baidu",
       "URL": "https://finance.yahoo.com/news/cathie-wood-loads-alibaba-amazon-120512174.html",
       "Content": "This article first appeared on GuruFocus .\nCathie Wood's ARK Invest exchange-traded funds adjusted several holdings on March 3, adding to select technology and aviation names while trimming others.\nAmong purchases, ARK bought 138,270 shares of Alibaba ( NYSE:BABA ) valued at about $18.75 million. The stock fell nearly 5% during the session amid broader market weakness tied to geopolitical tensions. The firm also added 62,579 shares of Amazon ( NASDAQ:AMZN ) for roughly $13 million after reports that some of its data center operations were affected by regional unrest.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-04",
+      "Time": "20:01:00",
+      "Source": "Motley Fool",
+      "Title": "Here's What Nobody Tells You Before You Buy a Nasdaq-100 ETF",
+      "URL": "https://finance.yahoo.com/m/02cd8b64-a958-3036-b264-4b6ac74ab367/here%27s-what-nobody-tells-you.html",
+      "Content": "It's no secret that the stock market's returns in recent years have been fueled by technology stocks. Companies like Nvidia (NASDAQ: NVDA) , Meta Platforms (NASDAQ: META) , and Broadcom (NASDAQ: AVGO) have performed extraordinarily well, and are a big reason why the Nasdaq-100 has gained more than 500% in the past decade alone.",
       "Language": "en"
     },
     {
