@@ -1,7 +1,62 @@
 {
-    "last_updated": "2026-03-03T16:07:20.284Z",
-    "total_news_count": 84,
+    "last_updated": "2026-03-04T22:09:48.845Z",
+    "total_news_count": 89,
     "news": [
+        {
+            "Ticker": "AVGO",
+            "Date": "2026-03-05",
+            "Time": "05:15:00",
+            "Title": "Broadcom Inc. Announces First Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend",
+            "URL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0dTNzJWNnctNU5pRW15eGhMMmdhTzkzYVRDWTZVcW1UMVJFMjg5N1pZblVuVXNudVhES3NrbEN2NklPaWQ0dFNuNGY1bHJfV19jRnl4Tnc1ak1CdGhNcUZwMnMyVFE2TjNlLXRUenFqbU5FMTR5S2REdERXbXV4eWxoZHZ5MXNfaU00amhBVVFDVEVuaXNUdA",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-03",
+            "Time": "22:05:00",
+            "Title": "Microsoft Rural Health Resiliency Program and Pivot Point Consulting Drive AI-Enabled Innovation by Bringing Dragon Copilot to Rural Hospitals Nationwide – Company Announcement - FT.com",
+            "URL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTy1yM0kwbHdzZEE3R0dic1lYREptNUF1T2JWSkl3SmxwSGNRWVc0ZUszdmdJVDVRXzVxbnhjV2xwU0VwVkpIdkVkSURySjR4cjFYT2ttZTlyTFNqcWxIZ2twT2VLRlY3VnVqRFlHMHJ0anhua3BOelRDQ2k4QTVsb2pWMW14XzhNWmUtRU5LMW45VnM2UDNtSw",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-03",
+            "Time": "22:00:00",
+            "Title": "Apple introduces the new MacBook Air with M5 – Company Announcement",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnhqMUVYdlJibVhZZlVEenVXZFpPQ1FIYnNJVkxJTXlkS2dkRkRxZ1pGMFhxb3VDN3A0SWZHNzRYaVR6QklvWUEtOG05Y3Ayak9uMU9jVlQwODVXMEU2WXFOVzBzN3ZHcDAyaTN0V0R5cUY4SW1vWUlRQnV6eTduSE1rT0g4WTBFRE5aUmtidFA4NXZQQU12WTVuaWV1VVdoQjAzN1dR",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-03-03",
+            "Time": "21:31:00",
+            "Title": "ESS Announces Agreement to Join Salt River Project and Google Long Duration Energy Storage Collaboration",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmY1VnZNLXdnQVczUUJjQmxoTDFkS05MQXVDdzBpSTVXQjVhai1SRUhvR0pESXhWZzdCVnZyb1I3UW9pY2NaOHBMay01VGtJRFRZQ1FHNXRwUUo0TXAydVNyZW16Z3VFZGJ2RTZKV0hka1lLdHF1VlVnc3o3ZjNtTzBWejRDdG9MRVkzT0JtdEtJZWQwclk0VmJQOW5JNHBkSGEyVmVB",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-03",
+            "Time": "20:57:00",
+            "Title": "Sonata Software Among the First Companies to Be Recognized as a Microsoft Frontier Partner",
+            "URL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmRLV0h6TDc1MXgzVHdtMzdBVFVmRWhqUlFxdFhsMGcxYnVqekVzb0xWelVsVlVHWll5a2Jic0Fab0V4ZnZzRGdZT2o3REN6eUtxb013bDNON0pjeUZkMVZIOTMwdHR5R1RSeEFLRFZJdDY5a2t1ZkdFb1FEaTIwZWFiUFVxazRhVktvRnF0TERKWWdzTmRaSw",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "INTC",
             "Date": "2026-03-03",
