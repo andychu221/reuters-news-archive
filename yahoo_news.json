@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T14:19:47.434Z",
-  "total_news_count": 482,
+  "last_updated": "2026-03-04T14:39:39.047Z",
+  "total_news_count": 483,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-04",
+      "Time": "21:49:31",
+      "Source": "TipRanks",
+      "Title": "ESS Tech enters Project New Horizon framework with Salt River Project, Google",
+      "URL": "https://finance.yahoo.com/news/ess-tech-enters-project-horizon-134931115.html",
+      "Content": "ESS Tech ( GWH ) announced a collaboration framework with Salt River Project and Google ( GOOG ) for Project New Horizon to advance energy storage at SRP’s Copper Crossing Energy and Research Center in Florence, Arizona. Project New Horizon is a five-megawatt, 50 megawatt hour system that will deploy ESS’ iron flow Energy Base technology and represents a significant commercial validation milestone for the company’s utility-scale platform. The pilot is expected to support SRP’s evaluation of emerging non-lithium LDES technologies.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-04",
