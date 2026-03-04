@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T23:14:41.735Z",
+  "last_updated": "2026-03-04T23:15:36.032Z",
   "total_news_count": 572,
   "news": [
     {
@@ -10,7 +10,11 @@
       "Title": "Is Texas Instruments Incorporated (TXN) A Good Stock To Buy Now?",
       "URL": "https://finance.yahoo.com/news/texas-instruments-incorporated-txn-good-225925987.html",
       "Content": "We came across a bullish thesis on Texas Instruments Incorporated on Arya’s Substack. In this article, we will summarize the bulls’ thesis on TXN. Texas Instruments Incorporated's share was trading at $202.67 as of March 3rd. TXN’s trailing and forward P/E were 38.50 and 31.85 respectively according to Yahoo Finance.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Texas Instruments (TXN) is the subject of a bullish investment thesis.\n• The stock was trading at $202.67 as of March 3rd.\n• Trailing and forward P/E ratios are 38.50 and 31.85, respectively.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Bullish Thesis, Stock Price, P/E Ratio"
     },
     {
       "Ticker": "NVDA",
@@ -20,7 +24,11 @@
       "Title": "Morgan Stanley changes its Nvidia position for the rest of 2026",
       "URL": "https://finance.yahoo.com/m/6feeb1ca-e7c7-3f36-9fdc-a18a2477b1be/morgan-stanley-changes-its.html",
       "Content": "Wall Street just handed Nvidia ( NVDA ) a major vote of confidence. Morgan Stanley analyst Joseph Moore reinstated Nvidia as the firm's top semiconductor pick on Monday, knocking Micron Technology ( MU ) off that spot after memory stocks delivered a jaw-dropping 300% to 900% run since the call was made months ago.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Morgan Stanley has reinstated Nvidia (NVDA) as its top semiconductor pick.\n• This move displaced Micron Technology (MU) from the top spot.\n• Memory stocks, including Micron, have seen substantial gains (300%-900%) since Morgan Stanley's previous call.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "Top Pick, Semiconductor Sector, Analyst Rating, Market Share"
     },
     {
       "Ticker": "2330.TW",
@@ -40,7 +48,11 @@
       "Title": "How Buying Sandisk Today Could 10x Your Net Worth",
       "URL": "https://finance.yahoo.com/m/a5fa922f-a7e7-3f67-85a2-5ce864074ef8/how-buying-sandisk-today.html",
       "Content": "An investment of $1,000 made in shares of Sandisk (NASDAQ: SNDK) just over a year ago -- when it separated from Western Digital and started trading on the stock market -- is worth an impressive $15,670 as of this writing.\nThis stunning multibagger performance is the result of a terrific jump in Sandisk's revenue and earnings in recent quarters. The company is riding the wave of eye-popping demand for its flash storage memory chips. Given that the demand for its products is outpacing supply, Sandisk benefits from a favorable pricing environment that's driving exponential growth in its earnings.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• An investment of $1,000 in Sandisk (SNDK) just over a year ago is now worth $15,670.\n• This performance is attributed to a significant jump in Sandisk's revenue and earnings.\n• The company is experiencing high demand for its flash storage memory chips, leading to favorable pricing and exponential earnings growth.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "Multibagger, Revenue Growth, Earnings Growth, Flash Memory, Demand Supply"
     },
     {
       "Ticker": ".TWII",
@@ -100,7 +112,11 @@
       "Title": "Amazon cuts more jobs; this time in robotics unit",
       "URL": "https://finance.yahoo.com/news/amazon-cuts-more-jobs-time-212928090.html",
       "Content": "By Greg Bensinger\nSAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters.\nThis comes after a January cut of about ​16,000 jobs with the company at the time hinting layoffs would continue.\nMore from Yahoo Scout",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Amazon confirmed layoffs across its robotics unit, affecting at least 100 white-collar jobs.\n• This follows a previous layoff of approximately 16,000 employees in January.\n• The company had previously indicated that further layoffs would occur.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Layoffs, Workforce Reduction, Robotics Unit"
     },
     {
       "Ticker": "INTC",
@@ -110,7 +126,11 @@
       "Title": "2 Artificial Intelligence (AI) Stocks That Wall Street Loves but Most Investors Haven't Heard Of",
       "URL": "https://finance.yahoo.com/m/1910bb7b-613a-3495-9e4e-c3b0930d9374/2-artificial-intelligence.html",
       "Content": "When it comes to stock investing, popularity does not always translate into gains. One only has to look at ad platform The Trade Desk or social media site Pinterest to know that user traffic does not necessarily translate into a rising stock price.\nConversely, other stocks grow while largely escaping the notice of most investors or even the financial media. This appears to be the case for these two artificial intelligence (AI) stocks .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• The article discusses AI stocks that are favored by Wall Street but less known to the general investor.\n• It contrasts popular stocks like The Trade Desk and Pinterest, where user traffic doesn't guarantee stock gains.\n• It mentions a report on a little-known company providing critical technology for Nvidia and Intel.",
+      "Related_Score": 3,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Stocks, Undiscovered Gems, Investment Thesis, Market Sentiment"
     },
     {
       "Ticker": "AVGO",
@@ -120,7 +140,11 @@
       "Title": "Broadcom sees revenue above estimates as AI fuels custom chip demand",
       "URL": "https://finance.yahoo.com/news/broadcom-forecasts-second-quarter-revenue-211818853.html",
       "Content": "March 4 (Reuters) - Chip designer Broadcom forecast second-quarter revenue above Wall Street estimates on Wednesday, a sign of strong demand for advanced chips ‌used in data centers powering artificial intelligence applications.\nBig Tech firms such ‌as Alphabet, Microsoft , Amazon and Meta are expected to spend at least $630 billion to build AI ​infrastructure this year, which would boost demand for chips, servers, storage and networking equipment from companies like Broadcom.\nMore from Yahoo Scout",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Broadcom forecasts second-quarter revenue above Wall Street estimates.\n• Strong demand for advanced chips used in AI data centers is driving this forecast.\n• Major tech firms like Alphabet, Microsoft, and Amazon are expected to spend at least $630 billion on AI infrastructure this year.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "Revenue Forecast, AI Infrastructure, Data Center Demand, Semiconductor"
     },
     {
       "Ticker": ".TWII",
@@ -180,7 +204,11 @@
       "Title": "Apple Just Made a Power Move to Gain Market Share",
       "URL": "https://finance.yahoo.com/m/95b8f878-ce72-3ce6-9fa2-40ec33c9a254/apple-just-made-a-power-move.html",
       "Content": "When it comes to the smartphone market, Apple (NASDAQ: AAPL) has long been the biggest winner. Even when the company didn't have the largest market share, it long commanded the largest share of the profits. The final gem in the company's crown came in 2025, when the iPhone became the year's top seller, accounting for 20% of the market, according to Counterpoint Research. The company is also the market leader in several other product categories .",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) has historically commanded the largest share of profits in the smartphone market.\n• In 2025, the iPhone became the top seller, capturing 20% of the market.\n• The company also holds a market leadership position in several other product categories.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Market Share, Profitability, Smartphone Market, Product Leadership"
     },
     {
       "Ticker": "2408.TW",
@@ -360,7 +388,11 @@
       "Title": "Why Intel Rallied Today",
       "URL": "https://finance.yahoo.com/m/0f902a5c-7a08-3e4e-bc93-95ce25030a52/why-intel-rallied-today.html",
       "Content": "Shares of Intel (NASDAQ: INTC) were rallying on Wednesday, up 6.1% as of 1:37 p.m. EDT.\nMany technology and AI-related companies were rebounding from yesterday's sell-off today; however, Intel shares might have gotten an added boost when its Chief Financial Officer, David Zinsner, spoke at a technology conference this morning.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Intel (INTC) shares rallied 6.1% on Wednesday.\n• The broader tech and AI sectors were also rebounding.\n• Intel's Chief Financial Officer's comments at a conference may have provided an additional boost.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, Tech Rebound, CFO Commentary"
     },
     {
       "Ticker": "AVGO",
@@ -370,7 +402,11 @@
       "Title": "Broadcom Faces Earnings Test as Shares Slide 23% Despite AI Revenue Surge",
       "URL": "https://finance.yahoo.com/news/broadcom-faces-earnings-test-shares-195839499.html",
       "Content": "This article first appeared on GuruFocus .\nBroadcom ( NASDAQ:AVGO ) is heading into its earnings report with expectations running high, though recent trading patterns suggest strong results alone may not be enough to shift the stock's recent trajectory. Shares have fallen about 23% from a December record, trailing the S&P 500 as investors rotate away from some of the largest technology companies amid concerns about the sustainability of massive spending tied to artificial intelligence infrastructure. Even so, the company remains positioned near the center of that spending cycle as a chip partner to companies such as Alphabet and other hyperscale AI developers.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Broadcom (AVGO) faces an earnings report with high expectations, but recent stock performance has been weak.\n• Shares have fallen 23% from a December record, underperforming the S&P 500.\n• Investors are rotating away from large tech companies due to concerns about the sustainability of AI infrastructure spending.\n• Broadcom is a key chip partner for hyperscale AI developers like Alphabet.",
+      "Related_Score": 5,
+      "Sentiment_Score": -1,
+      "Keywords": "Earnings Report, Stock Volatility, AI Spending, Investor Rotation"
     },
     {
       "Ticker": "MU",
@@ -380,7 +416,11 @@
       "Title": "Is Micron Stock Going to $500?",
       "URL": "https://finance.yahoo.com/m/0303a500-5549-3d28-a73a-6d4e31d880b7/is-micron-stock-going-to-%24500%3F.html",
       "Content": "Micron Technology (NASDAQ: MU) has recently become one of the hottest artificial intelligence (AI) stocks on the market, with shares already up by 50% so far this year amid soaring demand for data center hardware. The company's high-bandwidth memory chips have become integral for training and running large language models (LLMs).",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Micron Technology (MU) is a leading AI stock, with shares up 50% year-to-date.\n• Soaring demand for data center hardware is driving this performance.\n• The company's high-bandwidth memory chips are crucial for training and running large language models (LLMs).",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "AI Stock, Data Center Demand, High-Bandwidth Memory, LLMs"
     },
     {
       "Ticker": "AMZN",
@@ -390,7 +430,11 @@
       "Title": "Amazon Stock Rises After $427 Million Campus Deal",
       "URL": "https://finance.yahoo.com/news/amazon-stock-rises-427-million-191809155.html",
       "Content": "This article first appeared on GuruFocus .\nAmazon.com ( NASDAQ:AMZN ) has agreed to acquire George Washington University's Virginia Science and Technology campus for $427 million to expand its artificial intelligence data infrastructure.\nThe property is located in Ashburn, Virginia, a major U.S. data center corridor. A campus publication indicated the transaction permits development of a data or technology facility on the site. Amazon did not provide additional comment on its intended use.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Amazon.com (AMZN) has agreed to acquire George Washington University's Virginia Science and Technology campus for $427 million.\n• The acquisition aims to expand Amazon's artificial intelligence data infrastructure.\n• The campus is located in Ashburn, Virginia, a significant data center hub.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Acquisition, Data Center Expansion, AI Infrastructure, Real Estate"
     },
     {
       "Ticker": "INTC",
@@ -400,7 +444,11 @@
       "Title": "XRP Is Soaring Today -- Is the Cryptocurrency a Buy?",
       "URL": "https://finance.yahoo.com/m/edd3cadd-6401-3f59-b602-c4852a040f77/xrp-is-soaring-today-is.html",
       "Content": "XRP (CRYPTO: XRP) is surging in Wednesday's trading. As of 1:40 p.m. ET, the cryptocurrency's token price had jumped 5.4% over the past 24 hours. Meanwhile, Bitcoin was up 6.6% over the stretch, and Ethereum had gained 7.8%.\nValuations for cryptocurrencies and stocks are rapidly moving higher today in response to new information suggesting that the U.S. and Israel's war with Iran could draw to a close earlier than previously expected. The New York Times reported this morning that Iran's Ministry of Intelligence had indicated to the CIA that it was open to discussions that could end the war.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• XRP (CRYPTO:XRP) is surging, up 5.4% in 24 hours, alongside Bitcoin and Ethereum.\n• The rise in cryptocurrency valuations is linked to expectations of an earlier end to the U.S.-Iran conflict.\n• The article also mentions a report on a little-known company critical for Nvidia and Intel.",
+      "Related_Score": 1,
+      "Sentiment_Score": 1,
+      "Keywords": "Cryptocurrency, Geopolitical Impact, Market Sentiment"
     },
     {
       "Ticker": "AMD",
@@ -410,7 +458,11 @@
       "Title": "Piper Sandler and Jefferies Stay Bullish on Advanced Micro Devices, Inc. (AMD) After Meta Deal",
       "URL": "https://finance.yahoo.com/news/piper-sandler-jefferies-stay-bullish-190029504.html",
       "Content": "Advanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the 15 AI Stocks With Explosive Growth Potential .",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Piper Sandler and Jefferies maintain a bullish stance on Advanced Micro Devices, Inc. (AMD).\n• This positive outlook follows a deal with Meta.\n• AMD is identified as one of the 15 AI Stocks With Explosive Growth Potential.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Analyst Rating, Bullish Outlook, AI Stocks, Growth Potential"
     },
     {
       "Ticker": "MSFT",
@@ -420,7 +472,11 @@
       "Title": "Melius Research and Stifel Downgrade Microsoft Corporation (MSFT) to Hold",
       "URL": "https://finance.yahoo.com/news/melius-research-stifel-downgrade-microsoft-190025125.html",
       "Content": "Microsoft Corporation (NASDAQ: MSFT ) is one of the 15 AI Stocks With Explosive Growth Potential .",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Melius Research and Stifel have downgraded Microsoft Corporation (MSFT) to a 'Hold' rating.\n• Despite the downgrade, Microsoft is still listed among the 15 AI Stocks With Explosive Growth Potential.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Analyst Rating, Downgrade, AI Stocks, Growth Potential"
     },
     {
       "Ticker": "INTC",
@@ -430,7 +486,11 @@
       "Title": "Forget Betting Markets: The Best Prediction You Can Make Right Now Is Buying This AI Stock",
       "URL": "https://finance.yahoo.com/m/c6269c7d-56e0-3f42-b32e-955a0f611c2e/forget-betting-markets%3A-the.html",
       "Content": "When it comes to artificial intelligence (AI) stocks , there are numerous compelling options to choose from. But in general, the market has already discovered them. So while these companies' growth potential may be huge, much of that hoped-for growth has already been priced into their stocks.\nIf you're hoping to find an investment with truly massive upside potential, it may be wise to look for AI opportunities in stocks that the market doesn't typically associate with artificial intelligence. The company below, which most investors classify strictly as an electric vehicle (EV) stock, might actually be your best AI bet right now.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• The article suggests looking beyond popular AI stocks for significant upside potential.\n• Many well-known AI companies have already seen their growth priced into their stocks.\n• It highlights an electric vehicle (EV) stock that may be a strong AI investment opportunity.",
+      "Related_Score": 3,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Investment, Growth Potential, Market Valuation, Contrarian Investing"
     },
     {
       "Ticker": "MU",
@@ -440,7 +500,11 @@
       "Title": "Micron: Why the Recent Pullback is an Opportunity",
       "URL": "https://finance.yahoo.com/news/micron-why-recent-pullback-opportunity-185200276.html",
       "Content": "Micron Technology Company Overview Zacks Rank #1 (Strong Buy) stock Micron ( MU ) is a leading provider of semiconductor memory solutions. The Idaho-based company manufactures and markets high-performance memory and storage technologies, including Dynamic Random Access Memory (DRAM), NAND flash memory, NOR Flash, 3D Xpoint memory, and other technologies. Its solutions are used in leading-edge computing, consumer, networking, and mobile products. The company’s mission is to be the most efficient and innovative global provider of semiconductor memory solutions.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Micron (MU) is a leading provider of semiconductor memory solutions, holding a Zacks Rank #1 (Strong Buy).\n• The company manufactures DRAM, NAND flash memory, and other advanced memory technologies.\n• Its solutions are critical for computing, consumer, networking, and mobile products.",
+      "Related_Score": 4,
+      "Sentiment_Score": 2,
+      "Keywords": "Semiconductor Memory, DRAM, NAND Flash, Strong Buy, Market Leader"
     },
     {
       "Ticker": "AAPL",
@@ -450,7 +514,11 @@
       "Title": "Apple Launches $599 MacBook Neo",
       "URL": "https://finance.yahoo.com/m/51b6ad32-fb74-3ddc-8019-df7929d8900b/apple-launches-%24599-macbook.html",
       "Content": "This article first appeared on GuruFocus .\nApple ( AAPL , Financials ) unveiled a new entry-level laptop called the MacBook Neo , expanding its product lineup with a device designed to compete in the low-cost personal computer segment.\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\nThe 13-inch MacBook Neo is powered by Apple's A18 Pro processor, the same chip that debuted in the iPhone 16 Pro. The laptop will be available in four color options silver, indigo, blush and citrus and features side firing speakers.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple has launched the MacBook Neo, an entry-level laptop priced at $599.\n• This device aims to compete in the low-cost personal computer segment.\n• The MacBook Neo is powered by the A18 Pro processor, also found in the iPhone 16 Pro.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Product Launch, Entry-Level Laptop, PC Market, Processor"
     },
     {
       "Ticker": "TSLA",
@@ -460,7 +528,11 @@
       "Title": "Tesla Rises as BofA Reinstates Buy Rating",
       "URL": "https://finance.yahoo.com/news/tesla-rises-bofa-reinstates-buy-181911664.html",
       "Content": "This article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) gained in premarket trading after Bank of America reinstated coverage of the electric vehicle maker with a Buy rating, calling it a leader in consumer autonomy.\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Tesla (TSLA) shares gained in premarket trading after Bank of America reinstated a 'Buy' rating.\n• BofA identifies Tesla as a leader in consumer autonomy.\n• The article notes potential warning signs detected by GuruFocus.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Analyst Rating, Buy Rating, Consumer Autonomy, EV Sector"
     },
     {
       "Ticker": "GOOGL",
@@ -470,7 +542,11 @@
       "Title": "Alphabet Sued Over Gemini in Wrongful Death Claim",
       "URL": "https://finance.yahoo.com/news/alphabet-sued-over-gemini-wrongful-181731208.html",
       "Content": "This article first appeared on GuruFocus .\nAlphabet ( GOOGL , Financials ) is facing a lawsuit alleging its Gemini chatbot contributed to the death of a Florida man, in what the complaint describes as the first wrongful death claim tied to Googles AI products.\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Alphabet (GOOGL) is facing a lawsuit alleging its Gemini chatbot contributed to a wrongful death.\n• This is reportedly the first wrongful death claim linked to Google's AI products.\n• The article notes potential warning signs detected by GuruFocus.",
+      "Related_Score": 4,
+      "Sentiment_Score": -2,
+      "Keywords": "Lawsuit, AI Chatbot, Gemini, Wrongful Death Claim, Legal Risk"
     },
     {
       "Ticker": "INTC",
@@ -480,7 +556,11 @@
       "Title": "Why CoreWeave Stock Charged Higher on Wednesday",
       "URL": "https://finance.yahoo.com/m/1c15fe85-726a-3ccc-83cc-6662c9617a1a/why-coreweave-stock-charged.html",
       "Content": "CoreWeave (NASDAQ: CRWV) stock charged sharply higher today, gaining as much as 9.1%. As of 12:41 p.m. ET, the stock was still up 8.1%.\nThe artificial intelligence (AI) neocloud specialist reported a multiyear deal that bodes well for the future.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• CoreWeave (CRWV) stock surged as much as 9.1% on Wednesday.\n• The AI neocloud specialist reported a multiyear deal that is positive for its future.\n• The article also references a report on a little-known company critical for Nvidia and Intel.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, AI Cloud, Strategic Deal, Growth Catalyst"
     },
     {
       "Ticker": "NVDA",
@@ -490,7 +570,11 @@
       "Title": "Nvidia Stock Climbs After Tesla Billionaire Loads Up $180 Million",
       "URL": "https://finance.yahoo.com/news/nvidia-stock-climbs-tesla-billionaire-180557771.html",
       "Content": "This article first appeared on GuruFocus .\nNvidia Shares Rise After Billionaire Leo KoGuan Buys 1 Million; Stock Up Nearly 1.5% on Wednesday.\nBillionaire investor Leo KoGuan purchased 1 million shares of Nvidia ( NASDAQ:NVDA ) this week and indicated he may acquire an additional 1 million shares, according to a Wednesday social media post.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) shares rose after billionaire Leo KoGuan purchased 1 million shares.\n• The purchase was reportedly worth approximately $180 million.\n• KoGuan may acquire an additional 1 million shares.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Insider Buying, Billionaire Investor, AI Theme, Share Purchase"
     },
     {
       "Ticker": "NVDA",
@@ -500,7 +584,11 @@
       "Title": "Billionaire Leo KoGuan Buys 1 Million Nvidia Shares, Plans Another 1 Million",
       "URL": "https://finance.yahoo.com/news/billionaire-leo-koguan-buys-1-180210387.html",
       "Content": "This article first appeared on GuruFocus .\nBillionaire investor Leo KoGuan said he purchased 1 million shares of Nvidia ( NASDAQ:NVDA ) on Tuesday, signaling what could be a renewed vote of confidence in the artificial intelligence theme at a time when parts of the market appear uneasy. Nvidia closed at $180.05 in New York that day, suggesting the purchase may have been worth roughly $180 million. In a post on X the following day, KoGuan wrote that he believes AI is NOT a bubble and may only be at the beginning of a much larger investment cycle.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Billionaire investor Leo KoGuan purchased 1 million Nvidia (NVDA) shares on Tuesday, valued at roughly $180 million.\n• This signals confidence in the AI theme amidst market unease.\n• KoGuan believes AI is at the beginning of a larger investment cycle, not a bubble.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Billionaire Investor, AI Confidence, Investment Cycle, Share Purchase"
     },
     {
       "Ticker": "MU",
@@ -510,7 +598,11 @@
       "Title": "Why Micron Stock Is Soaring Today",
       "URL": "https://finance.yahoo.com/m/43d275d4-26c4-3ce9-b808-56313b08d8cf/why-micron-stock-is-soaring.html",
       "Content": "Micron (NASDAQ: MU) stock is bouncing back Wednesday after a substantial sell-off in Tuesday's trading . The company's share price was up 7.1% as of 12:30 p.m. ET. At the same point in the session, the S&P 500 had risen 0.8%, and the Nasdaq Composite was up 1.3%.\nInvestors moved out of tech stocks in response to fears stemming from the U.S. and Israel's war with Iran, but that trend is reversing today. The market seems to be betting that the conflict could be resolved in the not-too-distant future, and Micron's valuation is getting a boost .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Micron (MU) stock rebounded on Wednesday, up 7.1%, after a significant sell-off.\n• The rebound is attributed to a reversal of investor fears related to the U.S.-Iran conflict.\n• The market is betting on a potential resolution of the conflict, boosting Micron's valuation.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Rebound, Market Sentiment, Geopolitical Risk, Data Center Hardware"
     },
     {
       "Ticker": "TSLA",
@@ -520,7 +612,11 @@
       "Title": "Viral Tesla FSD video shows why human drivers are a big problem",
       "URL": "https://finance.yahoo.com/m/4e189d62-6485-389f-8d07-c5ff87e0d880/viral-tesla-fsd-video-shows.html",
       "Content": "In 2024, Tesla finally admitted what most people who had used the technology already knew: Full Self-Driving was not the Level 4 autonomous driving experience that had been promised for years.\nThe company was forced to add \"Supervised\" to the official FSD name.\nSAE International (formerly the Society of Automotive Engineers) considers advanced driver assistance systems, such as GM Super Cruise and Tesla Full Self-Driving, to be Level 2 automation, which requires the driver to remain engaged.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Tesla admitted that its Full Self-Driving (FSD) system is not Level 4 autonomous driving.\n• The official name was updated to include 'Supervised'.\n• SAE International classifies Tesla FSD as Level 2 automation, requiring driver engagement.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Autonomous Driving, FSD, Level 2 Automation, Product Misrepresentation"
     },
     {
       "Ticker": "TSLA",
@@ -530,7 +626,11 @@
       "Title": "Tesla Shares Climbs After BofA Reinstates \"Buy\" Sees $460 Upside",
       "URL": "https://finance.yahoo.com/news/tesla-shares-climbs-bofa-reinstates-172313915.html",
       "Content": "This article first appeared on GuruFocus .\nTesla ( NASDAQ:TSLA ) gained nearly 3% on Wednesday after Bank of America resumed coverage with a Buy rating and a $460 price target.\nThe bank cited Tesla's positioning in autonomous driving, describing the company as a potential leader in consumer-focused self-driving technology. Analyst Alexander Perry said Tesla could scale its robotaxi operations more efficiently than competitors, supported by its camera-based system and data collected from its existing vehicle fleet.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Tesla (TSLA) shares gained nearly 3% after Bank of America resumed coverage with a 'Buy' rating and a $460 price target.\n• BofA cited Tesla's positioning in autonomous driving and potential leadership in consumer-focused self-driving technology.\n• The bank believes Tesla can scale robotaxi operations efficiently.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Analyst Rating, Buy Rating, Autonomous Driving, Robotaxi, Price Target"
     },
     {
       "Ticker": "QCOM",
@@ -540,7 +640,11 @@
       "Title": "Could Qualcomm Stock Be the Best Data Center Investment Here?",
       "URL": "https://finance.yahoo.com/m/90cf60d6-edb6-39f5-a02c-a1506d82cf6d/could-qualcomm-stock-be-the.html",
       "Content": "With a dividend yield of 2.6%, Qualcomm (QCOM) may be one of the most undervalued artificial intelligence stocks to buy today. All as it pushes into the AI data center market, focusing heavily on inferencing (running AI models), directly challenging Nvidia’s dominance. Fueling further upside potential, the company’s acquisitions of Alphawave Semi and Ventana Micro Systems are seen as strongly supporting Qualcomm’s market competitiveness.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Qualcomm (QCOM) is highlighted as a potentially undervalued AI stock with a 2.6% dividend yield.\n• The company is focusing on the AI data center market, particularly inferencing.\n• Acquisitions of Alphawave Semi and Ventana Micro Systems are expected to enhance Qualcomm's market competitiveness.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "AI Data Center, Inferencing, Dividend Yield, Market Competitiveness"
     },
     {
       "Ticker": "NVDA",
@@ -550,7 +654,11 @@
       "Title": "After Soaring Nearly 1,300% in 5 Years, Can Nvidia's Stock Still Rise Higher?",
       "URL": "https://finance.yahoo.com/m/d3acee77-c160-3a3f-b37e-725cb6828a96/after-soaring-nearly-1%2C300%25.html",
       "Content": "If you were fortunate enough to invest in Nvidia (NASDAQ: NVDA) five years ago, you're sitting on some significant gains. The chipmaker's stock has soared close to 1,300% during that stretch. To put into terms just how incredible that is, consider that the S&P 500 has risen by just 78% over that same period. Nvidia has blown past those returns.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) stock has surged nearly 1,300% in the past five years.\n• This performance significantly outpaces the S&P 500's gain of 78% over the same period.\n• The article questions if Nvidia's stock can continue to rise.",
+      "Related_Score": 4,
+      "Sentiment_Score": 2,
+      "Keywords": "Stock Performance, Historical Returns, AI Growth, Market Outperformance"
     },
     {
       "Ticker": "GFS",
@@ -560,7 +668,11 @@
       "Title": "GlobalFoundries Inc. (GF) Up More Than 13% Since Q4 2025 Earnings",
       "URL": "https://finance.yahoo.com/news/globalfoundries-inc-gf-more-13-171813987.html",
       "Content": "​GlobalFoundries Inc. (NASDAQ: GFS ) is one of the Best Up and Coming AI Stocks to Buy . GlobalFoundries Inc. (NASDAQ:GFS) has gained more than 13% since its fiscal Q4 2025 earnings were released on February 11. The company posted a quarterly revenue of $1.83 billion, which remained flat year-over-year, but topped estimates by $26.62 million. The EPS came in at $0.55 ahead of expectations.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• GlobalFoundries Inc. (GFS) has gained over 13% since its Q4 2025 earnings release.\n• The company reported quarterly revenue of $1.83 billion, flat year-over-year but exceeding estimates by $26.62 million.\n• EPS of $0.55 also came in ahead of expectations.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Earnings Report, Revenue Beat, EPS Beat, Semiconductor Foundry"
     },
     {
       "Ticker": "ARM",
@@ -570,7 +682,11 @@
       "Title": "Arm Holdings plc (ARM) Enters a Multi-Year Partnerships With Tensor",
       "URL": "https://finance.yahoo.com/news/arm-holdings-plc-arm-enters-171756338.html",
       "Content": "​Arm Holdings plc (NASDAQ: ARM ) is one of the Best Up and Coming AI Stocks to Buy . On February 23, Arm Holdings plc (NASDAQ:ARM) and Tensor announced their multi-year strategic partnership to power the world’s first agentic AI personal Robocar. It is a level 4 autonomous vehicle designed for personal use and can operate intelligently without a human driver.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Arm Holdings plc (ARM) has entered a multi-year strategic partnership with Tensor.\n• The partnership aims to power the world's first agentic AI personal Robocar, a Level 4 autonomous vehicle.\n• Arm Holdings is listed as one of the Best Up and Coming AI Stocks to Buy.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "Strategic Partnership, AI, Autonomous Vehicle, Robocar, Emerging Tech"
     },
     {
       "Ticker": "INTC",
@@ -580,7 +696,11 @@
       "Title": "Intel CEO Tan reconsidering fate of chipmaker's new manufacturing tech, CFO says",
       "URL": "https://finance.yahoo.com/news/intel-ceo-lip-bu-tan-170225829.html",
       "Content": "March 4 (Reuters) - Intel CEO Lip-Bu Tan is now starting to recognize its 18A manufacturing technology as a potential offering for ‌external clients after relegating it largely to internal use last ‌year, Chief Financial Officer David Zinsner said on Wednesday during a tech conference in ​San Francisco.\nMore from Yahoo Scout",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Intel CEO Lip-Bu Tan is reportedly reconsidering the use of its 18A manufacturing technology for external clients.\n• The technology was largely relegated to internal use last year.\n• CFO David Zinsner shared this information at a tech conference.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Manufacturing Technology, 18A Process, External Clients, Strategic Shift"
     },
     {
       "Ticker": "INTC",
@@ -590,7 +710,11 @@
       "Title": "Intel CEO Lip-Bu Tan reconsidering fate of chipmaker's 18A manufacturing tech, CFO says",
       "URL": "https://finance.yahoo.com/news/intel-ceo-lip-bu-tan-170225829.html",
       "Content": "March 4 (Reuters) - Intel ( INTC ) CEO ‌Lip-Bu Tan ‌is now starting ​to recognize its 18A manufacturing technology ‌as ⁠a potential offering for ⁠external clients after ​relegating ​it ​largely to ‌internal use last year, Chief Financial Officer David Zinsner ‌said ​on ​Wednesday ​during a ‌tech conference in ​San ​Francisco.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Intel CEO Lip-Bu Tan is reportedly reconsidering the use of its 18A manufacturing technology for external clients.\n• The technology was largely relegated to internal use last year.\n• CFO David Zinsner shared this information at a tech conference.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Manufacturing Technology, 18A Process, External Clients, Strategic Shift"
     },
     {
       "Ticker": "INTC",
@@ -600,7 +724,11 @@
       "Title": "Why Nebius Group Stock Charged Higher on Wednesday",
       "URL": "https://finance.yahoo.com/m/766ccaef-5e67-30d9-bb20-68a7823f58c7/why-nebius-group-stock.html",
       "Content": "Nebius Group (NASDAQ: NBIS) stock surged sharply higher today, gaining as much as 10.3%. As of 11:37 a.m. ET, the stock was still up 9.9%.\nThe artificial intelligence (AI) neocloud specialist reported an important development that gave shareholders reason to cheer.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nebius Group (NBIS) stock surged 10.3% on Wednesday.\n• The AI neocloud specialist reported a significant development that boosted shareholder confidence.\n• The article also references a report on a little-known company critical for Nvidia and Intel.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, AI Cloud, Positive Development, Growth Catalyst"
     },
     {
       "Ticker": "ARM",
@@ -610,7 +738,11 @@
       "Title": "Why Arm Holdings Stock Surged 21% Higher in February",
       "URL": "https://finance.yahoo.com/m/17868e49-b89d-38e3-bd2f-f811c4945aec/why-arm-holdings-stock-surged.html",
       "Content": "Shares of the semiconductor designer Arm Holdings (NASDAQ: ARM) jumped 20.9% in February, according to data provided by S&P Global Market Intelligence , after the company's third-quarter revenue and earnings beat Wall Street's consensus estimates and as sales from Arm's data center royalty revenue surged higher.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Arm Holdings (ARM) stock jumped 20.9% in February.\n• This surge followed third-quarter results that beat Wall Street's consensus estimates.\n• Sales from Arm's data center royalty revenue also saw a significant increase.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, Earnings Beat, Revenue Growth, Data Center"
     },
     {
       "Ticker": "TSLA",
@@ -620,7 +752,11 @@
       "Title": "BofA bullish on Tesla, calls it the 'current leader' in autonomy and soon robotaxis",
       "URL": "https://finance.yahoo.com/news/bofa-bullish-on-tesla-calls-it-the-current-leader-in-autonomy-and-soon-robotaxis-164643460.html",
       "Content": "Bank of America reinstated coverage of Tesla ( TSLA ) with a Buy rating and bullish outlook on the company’s robotaxi and autonomous efforts.\nIn a long and wide-ranging note, analyst Alexander Perry gave Tesla a $460 price target, based on the investment bank’s sum-of-the-parts analysis. Perry picked up Tesla and BofA’s auto coverage after longtime analyst John Murphy left the firm.\nTesla shares rose 3% in early trade.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Bank of America reinstated coverage of Tesla (TSLA) with a 'Buy' rating and a $460 price target.\n• BofA views Tesla as the current leader in autonomy and well-positioned for robotaxis.\n• The analyst cited Tesla's potential to scale robotaxi operations efficiently.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Analyst Rating, Buy Rating, Autonomous Driving, Robotaxi, Price Target"
     },
     {
       "Ticker": "MU",
@@ -630,7 +766,11 @@
       "Title": "Are Memory Stocks Old News? Why Morgan Stanley Just Snubbed Micron.",
       "URL": "https://finance.yahoo.com/m/ce12c6ac-c579-31ac-bd34-b53d6bf6173e/are-memory-stocks-old-news%3F.html",
       "Content": "Financial services major Morgan Stanley has been convinced to remove memory leader Micron (MU) as its top pick and replace it with Nvidia (NVDA). Raising doubts over the sustainability of the current strong demand, John Moore, an analyst at the firm, said, “There is a commonly voiced view that memory stocks are pricing in a much longer and more durable cycle than processor stocks; we actually somewhat disagree with that. Our memory conversations with clients are very similar to NVIDIA conversations - a clear recognition that conditions are exceptional in both right now, But [sic] a very strong peak year at current valuations has been viewed as more investable for memory, because upward revisions are more dynamic. There is not much conviction about 2027 for either stock.”",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Morgan Stanley removed memory leader Micron (MU) as its top pick, replacing it with Nvidia (NVDA).\n• The firm doubts the sustainability of the current strong demand cycle for memory stocks.\n• Analyst John Moore believes memory stocks are pricing in a longer cycle than processor stocks, but sees current valuations as more investable for memory due to dynamic upward revisions.",
+      "Related_Score": 5,
+      "Sentiment_Score": -1,
+      "Keywords": "Analyst Downgrade, Top Pick, Memory Market, Cycle Dynamics, Valuation"
     },
     {
       "Ticker": "META",
@@ -640,7 +780,11 @@
       "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
       "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
       "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Meta Platforms (META) canceled the development of its most advanced custom AI chips due to design struggles.\n• The company will now focus on a simpler version of the AI training chip.\n• This is Meta's second scrapped AI training chip design, highlighting the difficulty in chip development, even with partners like Broadcom.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "AI Chip Development, Design Challenges, Strategic Shift, Meta Platforms"
     },
     {
       "Ticker": "GOOGL",
@@ -650,7 +794,11 @@
       "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
       "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
       "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Meta Platforms (META) canceled the development of its most advanced custom AI chips due to design struggles.\n• The company will now focus on a simpler version of the AI training chip.\n• This is Meta's second scrapped AI training chip design, highlighting the difficulty in chip development, even with partners like Broadcom.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "AI Chip Development, Design Challenges, Strategic Shift, Meta Platforms"
     },
     {
       "Ticker": "AMZN",
@@ -660,7 +808,11 @@
       "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
       "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
       "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Meta Platforms (META) canceled the development of its most advanced custom AI chips due to design struggles.\n• The company will now focus on a simpler version of the AI training chip.\n• This is Meta's second scrapped AI training chip design, highlighting the difficulty in chip development, even with partners like Broadcom.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "AI Chip Development, Design Challenges, Strategic Shift, Meta Platforms"
     },
     {
       "Ticker": "INTC",
@@ -670,7 +822,11 @@
       "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
       "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
       "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Meta Platforms (META) canceled the development of its most advanced custom AI chips due to design struggles.\n• The company will now focus on a simpler version of the AI training chip.\n• This is Meta's second scrapped AI training chip design, highlighting the difficulty in chip development, even with partners like Broadcom.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "AI Chip Development, Design Challenges, Strategic Shift, Meta Platforms"
     },
     {
       "Ticker": ".TWII",
@@ -700,7 +856,11 @@
       "Title": "Why Is NXP (NXPI) Down 2.5% Since Last Earnings Report?",
       "URL": "https://finance.yahoo.com/news/why-nxp-nxpi-down-2-163004692.html",
       "Content": "It has been about a month since the last earnings report for NXP Semiconductors (NXPI). Shares have lost about 2.5% in that time frame, underperforming the S&P 500.\nBut investors have to be wondering, will the recent negative trend continue leading up to its next earnings release, or is NXP due for a breakout? Before we dive into how investors and analysts have reacted as of late, let's take a quick look at its most recent earnings report in order to get a better handle on the important drivers.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• NXP Semiconductors (NXPI) shares have declined approximately 2.5% in the month following its last earnings report.\n• This performance has underperformed the S&P 500 during the same period.\n• The article questions whether the negative trend will continue before the next earnings release.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Stock Performance, Post-Earnings, Market Underperformance, Trend Analysis"
     },
     {
       "Ticker": "AAPL",
@@ -710,7 +870,11 @@
       "Title": "Budget iPhone 17e to Boost Apple Revenues? ETFs to Consider",
       "URL": "https://finance.yahoo.com/news/budget-iphone-17e-boost-apple-162900022.html",
       "Content": "The iPhone had a record-breaking fiscal first quarter of 2026, driven by exceptional demand and all-time high sales across all geographic regions, as highlighted by CEO Tim Cook in the company&rsquo;s press release. Apple AAPL reported that iPhone revenues surged 23% year over year to $85.27 billion in its last reported quarter, handily exceeding market expectations.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple's (AAPL) iPhone revenues surged 23% year-over-year to $85.27 billion in the fiscal first quarter of 2026.\n• This growth was driven by exceptional demand and record sales across all regions.\n• The iPhone revenue significantly exceeded market expectations.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Revenue Growth, iPhone Sales, Q1 Earnings, Market Expectations"
     },
     {
       "Ticker": "NVDA",
@@ -720,7 +884,11 @@
       "Title": "What Nvidia's Blockbuster Quarter Tells Us About the State of the Stock Market and Artificial Intelligence Trade",
       "URL": "https://finance.yahoo.com/m/a186aa88-575f-35c5-b15e-1bf2cc3fe230/what-nvidia%27s-blockbuster.html",
       "Content": "After investors anxiously waited last week for artificial intelligence giant Nvidia (NASDAQ: NVDA) to deliver its fiscal 2026 fourth-quarter report, the company provided them with better-than-expected results and issued better-than-expected guidance for its current quarter. Furthermore, its gross margin guidance was solid.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) reported better-than-expected results for its fiscal 2026 fourth quarter.\n• The company also issued better-than-expected guidance for the current quarter.\n• Nvidia's gross margin guidance was also solid.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "Earnings Report, Guidance, Gross Margin, AI Growth"
     },
     {
       "Ticker": "INTC",
@@ -730,7 +898,11 @@
       "Title": "What Nvidia's Blockbuster Quarter Tells Us About the State of the Stock Market and Artificial Intelligence Trade",
       "URL": "https://finance.yahoo.com/m/a186aa88-575f-35c5-b15e-1bf2cc3fe230/what-nvidia%27s-blockbuster.html",
       "Content": "After investors anxiously waited last week for artificial intelligence giant Nvidia (NASDAQ: NVDA) to deliver its fiscal 2026 fourth-quarter report, the company provided them with better-than-expected results and issued better-than-expected guidance for its current quarter. Furthermore, its gross margin guidance was solid.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) reported better-than-expected results for its fiscal 2026 fourth quarter.\n• The company also issued better-than-expected guidance for the current quarter.\n• Nvidia's gross margin guidance was also solid.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "Earnings Report, Guidance, Gross Margin, AI Growth"
     },
     {
       "Ticker": "AAPL",
@@ -740,7 +912,11 @@
       "Title": "Apple Expands Mac Portfolio With New Devices: Can They Revive Growth?",
       "URL": "https://finance.yahoo.com/news/apple-expands-mac-portfolio-devices-155300057.html",
       "Content": "Apple AAPL is expanding its Mac portfolio with the launch of MacBook Air and MacBook Pro. The devices come at an opportune time as the iPhone maker faces stiff competition from the likes of Lenovo, HP HPQ and Dell Technologies DELL. In the first quarter of fiscal 2026, Mac sales of $8.39 billion decreased 6.7% year over year and accounted for 5.8% of net sales. The figure missed the Zacks Consensus Estimate by 7.54%.\n\nIntroduction of M5 Pro and M5 Max chips, built using a new Apple-designed Fusion Architecture, which connects two dies into a single SoC, boosts performance. These chips combine two third-generation 3-nanometer (nm) dies with high bandwidth and low latency using advanced packaging. The two dies include a powerful new CPU, a scalable GPU, Media Engine, unified memory controller, Neural Engine and Thunderbolt 5 capabilities.\n\nThe new MacBook Air is powered by the latest M5, which features a faster CPU and next-generation GPU with a Neural Accelerator in each core. MacBook Air offers starting storage at 512GB with faster SSD technology, and is configurable up to 4TB. Apple’s N1 wireless chip delivers Wi-Fi 7 and Bluetooth 6 for seamless connectivity on the go, and the device features a 12MP Center Stage camera, up to 18 hours of battery life, and an immersive sound system with Spatial Audio.\n\nThe 14-inch and 16-inch MacBook Pro, powered by M5 Pro and M5 Max, adds superior performance and AI capabilities. MacBook Pro features a new CPU with the world’s fastest CPU core, a next-generation GPU with a Neural Accelerator in each core, and higher unified memory bandwidth, altogether delivering up to four times AI performance compared with the previous generation, and up to eight times AI performance compared to M1 models. MacBook Pro now comes with up to two times faster SSD performance and starts at 1TB of storage for M5 Pro and 2TB for M5 Max. The new MacBook Pro includes N1, an Apple-designed wireless networking chip that enables Wi-Fi 7 and Bluetooth 6.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) is launching new MacBook Air and MacBook Pro models featuring M5 Pro and M5 Max chips.\n• These chips offer significantly improved performance and AI capabilities, with up to eight times AI performance compared to M1 models.\n• Mac sales decreased 6.7% year-over-year in Q1 fiscal 2026, missing estimates.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Product Launch, New Chips, AI Performance, Mac Sales, Market Competition"
     },
     {
       "Ticker": "NVDA",
@@ -750,7 +926,11 @@
       "Title": "How Nvidia became the cornerstone of modern computing",
       "URL": "https://finance.yahoo.com/m/2524715b-364e-3266-9ec8-8228624d7f7b/how-nvidia-became-the.html",
       "Content": "If you’re feeling envious of Nvidia , well, that’s the idea.\nIn fact, the green-eyed monster is baked right into the AI chipmaking titan’s name, since it is a mash-up of the Latin word invidia, meaning “envy,” and the letters NV for “next version.”\nThe name is intended to evoke the idea of creating products that others would envy, and Nvidia’s ( NVDA ) green logo is designed to evoke the phrase — you guessed it — “green with envy.”",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia's name is derived from the Latin word 'invidia' (envy) and 'NV' for 'next version'.\n• The company aims to create products that evoke envy in competitors.\n• Its green logo is also designed to symbolize 'green with envy'.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Brand Strategy, Competitive Advantage, Market Positioning"
     },
     {
       "Ticker": "AAPL",
@@ -760,7 +940,11 @@
       "Title": "Tech stocks today: Apple unveils low-cost MacBook Neo, CoreWeave inks deal with Perplexity",
       "URL": "https://finance.yahoo.com/news/live/tech-stocks-today-apple-unveils-low-cost-macbook-neo-coreweave-inks-deal-with-perplexity-152527129.html",
       "Content": "Apple's ( AAPL ) three-day product release schedule continued on March 4, with the debut of a new low-cost MacBook Neo computer.\nThe $599 MacBook Neo has the same price point as Apple's new entry-level smartphone , the iPhone 17e, which the company announced on Monday. Other product announcements included two new iPad Airs and new MacBook Air and MacBook Pro laptops with more powerful M5 chips.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) unveiled the MacBook Neo, a low-cost laptop priced at $599.\n• This follows the announcement of the iPhone 17e at the same price point.\n• New iPad Airs and updated MacBook Air/Pro models with M5 chips were also announced.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Product Launch, Low-Cost Laptop, PC Market, New Models"
     },
     {
       "Ticker": "LITE",
@@ -770,7 +954,11 @@
       "Title": "A $2 Billion Reason to Buy Lumentum Stock Now",
       "URL": "https://finance.yahoo.com/m/def6f9fc-f3a6-3c50-8dfc-17e1066e7ce3/a-%242-billion-reason-to-buy.html",
       "Content": "Chip and AI supply chain stocks have grabbed investor attention this year as demand for data center gear and networking kits ramps up with the AI boom. Not every supplier will benefit equally, but when a major platform player signals a large strategic tie-up, traders tend to listen.\nThat’s precisely why Lumentum (LITE) looks interesting now. Optical-networking giant surged after Nvidia (NVDA) disclosed expanded partnerships and investment commitments. Nvidia’s roughly $2 billion backing acts as a visible demand signal for Lumentum’s lasers and photonics components, which power high-speed links inside AI servers and hyperscale networks.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Lumentum (LITE) is gaining investor attention due to the AI boom and increased demand for data center gear.\n• Nvidia (NVDA) disclosed expanded partnerships and investment commitments totaling approximately $2 billion in Lumentum.\n• This significant backing from Nvidia acts as a strong demand signal for Lumentum's optical-networking components.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "AI Supply Chain, Data Center Demand, Strategic Partnership, Investment, Optical Networking"
     },
     {
       "Ticker": "MSFT",
@@ -780,7 +968,11 @@
       "Title": "Jim Cramer Says He Is “Very Worried About Microsoft”",
       "URL": "https://finance.yahoo.com/news/jim-cramer-says-very-worried-150919456.html",
       "Content": "Microsoft Corporation (NASDAQ: MSFT ) is one of the stocks Jim Cramer looked at . When a caller asked if the stock is a hold right now, Cramer remarked:",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Jim Cramer expressed significant concern about Microsoft Corporation (MSFT).\n• When asked if the stock is a hold, Cramer's response indicated worry.",
+      "Related_Score": 3,
+      "Sentiment_Score": -2,
+      "Keywords": "Analyst Sentiment, Market Concern, Stock Outlook"
     },
     {
       "Ticker": "AAPL",
@@ -790,7 +982,11 @@
       "Title": "Apple debuts $599 MacBook Neo, targeting schools and small businesses",
       "URL": "https://finance.yahoo.com/news/apple-debuts-599-macbook-neo-targeting-schools-and-small-businesses-145728066.html",
       "Content": "Apple ( AAPL ) unveiled its MacBook Neo, the company's long-rumored foray into the low-cost computer market, at an event in New York on Wednesday.\nStarting at $599, the Neo comes in four colors, including the splashy yellow-green Citrus, and is designed to appeal to consumers, schools, and businesses looking for a more affordable option than Apple's recently refreshed $1,099 MacBook Air.\nThe Neo features a 13-inch screen — a bit smaller than the standard MacBook Air's 13.6-inch display — and runs Apple's A18 Pro processor, similar to the chip that powers the company's iPhone 16 Pro and 16 Pro Max.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) has launched the MacBook Neo, a new low-cost laptop starting at $599.\n• The device targets consumers, schools, and businesses seeking an affordable option.\n• It features a 13-inch screen and is powered by the A18 Pro processor, similar to the iPhone 16 Pro.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Product Launch, Low-Cost Laptop, PC Market, Processor"
     },
     {
       "Ticker": "INTC",
@@ -800,7 +996,11 @@
       "Title": "Why SoFi Stock Fell 22% Last Month",
       "URL": "https://finance.yahoo.com/m/9a5caebc-a624-3f03-b0c2-ac77608d1e94/why-sofi-stock-fell-22%25-last.html",
       "Content": "Last month, shares of SoFi Technologies (NASDAQ: SOFI) , a financial technology (fintech) services company, tumbled 22.1%, according to data provided by S&P Global Market Intelligence , as some investors reevaluated their exposure to some areas of the market.\nWhile no company-specific news drove SoFi lower in February, a few factors likely contributed to the stock's decline, including investor unease about the company's high valuation and the Federal Reserve's pause on interest rate cuts. It's also likely that investors fled SoFi stock as part of a broader shift toward safer investments.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• SoFi Technologies (SOFI) shares fell 22.1% in February.\n• Factors contributing to the decline include investor reevaluation, high valuation concerns, and the Federal Reserve's pause on interest rate cuts.\n• Investors may have shifted towards safer investments.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Stock Performance, Valuation Concerns, Interest Rates, Market Rotation"
     },
     {
       "Ticker": "2330.TW",
@@ -820,7 +1020,11 @@
       "Title": "Wall Street Analysts Think Analog Devices (ADI) Is a Good Investment: Is It?",
       "URL": "https://finance.yahoo.com/news/wall-street-analysts-think-analog-143004324.html",
       "Content": "Investors often turn to recommendations made by Wall Street analysts before making a Buy, Sell, or Hold decision about a stock. While media reports about rating changes by these brokerage-firm employed (or sell-side) analysts often affect a stock's price, do they really matter?\nLet's take a look at what these Wall Street heavyweights have to say about Analog Devices (ADI) before we discuss the reliability of brokerage recommendations and how to use them to your advantage.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• The article discusses whether Wall Street analyst recommendations for Analog Devices (ADI) indicate a good investment.\n• It questions the actual impact and reliability of sell-side analyst ratings on stock prices.\n• The piece aims to guide investors on how to effectively use brokerage recommendations.",
+      "Related_Score": 3,
+      "Sentiment_Score": 0,
+      "Keywords": "Analyst Ratings, Sell-Side Research, Investment Decisions, Stock Valuation"
     },
     {
       "Ticker": "AAPL",
@@ -830,7 +1034,11 @@
       "Title": "Apple debuts $599 MacBook Neo to challenge Chromebooks, Windows PCs",
       "URL": "https://finance.yahoo.com/news/apple-debuts-599-macbook-neo-142248754.html",
       "Content": "By Akash Sriram and Stephen Nellis\nMarch 4 (Reuters) - Apple on Wednesday unveiled the MacBook Neo, a lower-priced addition to its laptop lineup starting at $599, as it looks to broaden ‌its reach in a price-sensitive PC market while rivals face tighter supply of memory chips.\nA ‌lower-priced laptop marks one of Apple's most aggressive entry points into the PC market in years. The new MacBook will be ​powered by the A18 Pro chip, the same processor that debuted in the company's iPhone 16 Pro models in 2024.\nMore from Yahoo Scout",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) unveiled the MacBook Neo, a new laptop priced at $599, to broaden its reach in the PC market.\n• This move aims to compete in a price-sensitive segment, especially as rivals face memory chip supply constraints.\n• The MacBook Neo is powered by the A18 Pro chip, also used in the iPhone 16 Pro models.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Product Launch, Low-Cost Laptop, PC Market, Processor, Market Strategy"
     },
     {
       "Ticker": "TXN",
@@ -840,7 +1048,11 @@
       "Title": "Investors Heavily Search Texas Instruments Incorporated (TXN): Here is What You Need to Know",
       "URL": "https://finance.yahoo.com/news/investors-heavily-search-texas-instruments-140004434.html",
       "Content": "Texas Instruments (TXN) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\nOver the past month, shares of this chipmaker have returned -10%, compared to the Zacks S&P 500 composite's -1.3% change. During this period, the Zacks Semiconductor - General industry, which Texas Instruments falls in, has lost 1.1%. The key question now is: What could be the stock's future direction?",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Texas Instruments (TXN) has been one of the most searched stocks on Zacks.com.\n• Shares have returned -10% over the past month, underperforming the S&P 500 (-1.3%) and the Semiconductor - General industry (-1.1%).\n• The article poses the question of the stock's future direction.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Stock Performance, Market Underperformance, Semiconductor Industry, Investor Interest"
     },
     {
       "Ticker": "ON",
@@ -850,7 +1062,11 @@
       "Title": "ON Semiconductor Corporation (ON) is Attracting Investor Attention: Here is What You Should Know",
       "URL": "https://finance.yahoo.com/news/semiconductor-corporation-attracting-investor-attention-140004566.html",
       "Content": "ON Semiconductor Corp. (ON) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\nShares of this semiconductor components maker have returned +6.7% over the past month versus the Zacks S&P 500 composite's -1.3% change. The Zacks Semiconductor - Analog and Mixed industry, to which ON Semiconductor Corp. belongs, has gained 2.8% over this period. Now the key question is: Where could the stock be headed in the near term?",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• ON Semiconductor Corp. (ON) is attracting significant investor attention.\n• Shares have gained 6.7% over the past month, outperforming the S&P 500 (-1.3%) and the Semiconductor - Analog and Mixed industry (2.8%).\n• The article explores the potential near-term direction of the stock.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, Market Outperformance, Semiconductor Industry, Investor Attention"
     },
     {
       "Ticker": ".TWII",
@@ -870,7 +1086,11 @@
       "Title": "Microchip Technology Stock: Is MCHP Outperforming the Technology Sector?",
       "URL": "https://finance.yahoo.com/m/1e59a323-b176-379c-9c56-9b24c7209029/microchip-technology-stock%3A.html",
       "Content": "Chandler, Arizona-based Microchip Technology Incorporated (MCHP) develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas and internationally. The company has a market cap of $38.6 billion and operates through Semiconductor Products and Technology Licensing segments.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Microchip Technology Incorporated (MCHP) is based in Chandler, Arizona.\n• The company develops and manufactures embedded control solutions.\n• It operates through Semiconductor Products and Technology Licensing segments and has a market cap of $38.6 billion.",
+      "Related_Score": 3,
+      "Sentiment_Score": 0,
+      "Keywords": "Embedded Control, Semiconductor Solutions, Market Cap, Business Segments"
     },
     {
       "Ticker": "GOOGL",
@@ -880,7 +1100,11 @@
       "Title": "ESS Tech enters Project New Horizon framework with Salt River Project, Google",
       "URL": "https://finance.yahoo.com/news/ess-tech-enters-project-horizon-134931115.html",
       "Content": "ESS Tech ( GWH ) announced a collaboration framework with Salt River Project and Google ( GOOG ) for Project New Horizon to advance energy storage at SRP’s Copper Crossing Energy and Research Center in Florence, Arizona. Project New Horizon is a five-megawatt, 50 megawatt hour system that will deploy ESS’ iron flow Energy Base technology and represents a significant commercial validation milestone for the company’s utility-scale platform. The pilot is expected to support SRP’s evaluation of emerging non-lithium LDES technologies.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• ESS Tech has entered a collaboration framework with Salt River Project and Google (GOOG) for Project New Horizon.\n• This project aims to advance energy storage at SRP’s Copper Crossing Energy and Research Center.\n• The five-megawatt, 50 megawatt-hour system will deploy ESS's iron flow Energy Storage technology, representing a commercial validation milestone.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Energy Storage, Collaboration, Renewable Energy, Technology Validation"
     },
     {
       "Ticker": "8299.TWO",
@@ -910,7 +1134,11 @@
       "Title": "Intel's Boardroom Changes Keep Coming",
       "URL": "https://finance.yahoo.com/news/intels-boardroom-changes-keep-coming-124917402.html",
       "Content": "This article first appeared on GuruFocus .\nIntel ( NASDAQ:INTC ) is about to see another shift in its boardroom . Longtime director and current board chair Frank Yeary said he plans to step down after the company's annual shareholder meeting on May 13, 2026 , bringing an end to a 17-year stint on Intel's board.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Intel's board chair, Frank Yeary, plans to step down after the annual shareholder meeting on May 13, 2026.\n• This marks the end of his 17-year tenure on the board.\n• The article suggests ongoing boardroom shifts at Intel.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Board Changes, Corporate Governance, Director Retirement"
     },
     {
       "Ticker": "META",
@@ -920,7 +1148,11 @@
       "Title": "Meta Quietly Assembles New AI Engine",
       "URL": "https://finance.yahoo.com/news/meta-quietly-assembles-ai-engine-124420711.html",
       "Content": "This article first appeared on GuruFocus .\nMeta Platforms ( NASDAQ:META ) is quietly putting together a new applied AI engineering organization as it ramps up its push toward what it calls superintelligence , according to a Wall Street Journal report citing an internal memo.\nWarning! GuruFocus has detected 2 Warning Sign with META.\nIs META fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Meta Platforms (META) is reportedly assembling a new applied AI engineering organization.\n• This initiative is part of its increased focus on achieving 'superintelligence'.\n• The information comes from a Wall Street Journal report citing an internal memo.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "AI Engineering, Superintelligence, Strategic Initiative, Internal Development"
     },
     {
       "Ticker": "GOOGL",
@@ -930,7 +1162,11 @@
       "Title": "Rising Tensions Force Tech Pullback In Dubai",
       "URL": "https://finance.yahoo.com/news/rising-tensions-force-tech-pullback-123945118.html",
       "Content": "This article first appeared on GuruFocus .\nAmazon ( NASDAQ:AMZN ), Nvidia ( NASDAQ:NVDA ), and Alphabet's Google ( NASDAQ:GOOG ) are pulling back some operations in Dubai as rising tensions tied to the U.S.Iran conflict ripple across the Gulf, prompting office closures, remote work policies, and travel disruptions that have left some employees stranded.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Amazon (AMZN), Nvidia (NVDA), and Alphabet's Google (GOOG) are scaling back some operations in Dubai.\n• This pullback is due to rising geopolitical tensions related to the U.S.-Iran conflict.\n• The situation has led to office closures, remote work policies, and travel disruptions.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Geopolitical Risk, Operational Impact, Dubai, Tech Sector"
     },
     {
       "Ticker": ".TWII",
@@ -950,7 +1186,11 @@
       "Title": "2 Monster Stocks to Hold for the Next 5 Years",
       "URL": "https://finance.yahoo.com/m/c00522fe-aab3-35bd-ac7e-e472cf7b3225/2-monster-stocks-to-hold-for.html",
       "Content": "Apple (NASDAQ: AAPL) and Meta Platforms (NASDAQ: META) are among the largest corporations on equity markets. Both have produced outstanding returns over the past decade or so.\nAnd the good news for investors is that these tech leaders still have plenty of growth fuel and could, once again, beat the market through the next five years (and beyond).\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\nRead on to learn more about these monster stocks.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Apple (AAPL) and Meta Platforms (META) are highlighted as 'monster stocks' with strong long-term growth potential.\n• Both companies have delivered outstanding returns over the past decade.\n• They are expected to continue outperforming the market over the next five years and beyond.",
+      "Related_Score": 3,
+      "Sentiment_Score": 2,
+      "Keywords": "Long-Term Growth, Market Outperformance, Tech Leaders, Investment Potential"
     },
     {
       "Ticker": ".TWII",
@@ -970,7 +1210,11 @@
       "Title": "Intel Chair Frank Yeary to Retire",
       "URL": "https://finance.yahoo.com/news/intel-chair-frank-yeary-retire-122646296.html",
       "Content": "This article first appeared on GuruFocus .\nIntel ( INTC , Financials ) said longtime board chair Frank Yeary will retire after the companys annual shareholder meeting in May, marking another leadership change as CEO Lip-Bu Tan continues efforts to reshape the chipmaker.\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Intel's longtime board chair, Frank Yeary, will retire after the company's annual shareholder meeting in May.\n• This leadership change is part of CEO Lip-Bu Tan's efforts to reshape the chipmaker.\n• GuruFocus has detected warning signs related to Intel.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Board Leadership, Corporate Restructuring, Executive Retirement"
     },
     {
       "Ticker": "TSLA",
@@ -980,7 +1224,11 @@
       "Title": "Bank of America resumes Tesla stock coverage. Here’s the new price target",
       "URL": "https://finance.yahoo.com/news/bank-america-resumes-tesla-stock-122312432.html",
       "Content": "Investing.com -- Bank of America has resumed coverage of Tesla with a Buy rating, assigning it a new price target in a note on Wednesday, arguing that the company remains the clear leader in consumer autonomy and is well-positioned for the next phase of the Auto 2.0 landscape.\nAnalyst Alexander Perry wrote that BofA is “reinstating TSLA at Buy with a $460 PO,” citing the company’s potential to dominate robotaxi services and autonomous mobility.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Bank of America has resumed coverage of Tesla (TSLA) with a 'Buy' rating and a $460 price target.\n• The bank considers Tesla the clear leader in consumer autonomy and well-positioned for the 'Auto 2.0' landscape.\n• Analyst Alexander Perry believes Tesla can dominate robotaxi services and autonomous mobility.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Analyst Rating, Buy Rating, Autonomous Driving, Robotaxi, Price Target"
     },
     {
       "Ticker": "TSLA",
@@ -990,7 +1238,11 @@
       "Title": "Tesla Faces Union Push at Berlin Gigafactory",
       "URL": "https://finance.yahoo.com/news/tesla-faces-union-push-berlin-122151637.html",
       "Content": "This article first appeared on GuruFocus .\nTesla ( TSLA , Financials ) is facing a renewed push from Germany's powerful IG Metall union to gain greater influence at the company's Gigafactory in Gruenheide near Berlin, where employees are voting for a new works council.\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Germany's IG Metall union is pushing for greater influence at Tesla's Berlin Gigafactory.\n• Employees are voting for a new works council amidst a campaign marked by legal challenges.\n• Voting concluded on Wednesday, with results expected the same day.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Labor Relations, Unionization, Gigafactory, Industrial Relations"
     },
     {
       "Ticker": "AMZN",
@@ -1000,7 +1252,11 @@
       "Title": "Cathie Wood Loads Up on Alibaba and Amazon -- Sells TSMC and Baidu",
       "URL": "https://finance.yahoo.com/news/cathie-wood-loads-alibaba-amazon-120512174.html",
       "Content": "This article first appeared on GuruFocus .\nCathie Wood's ARK Invest exchange-traded funds adjusted several holdings on March 3, adding to select technology and aviation names while trimming others.\nAmong purchases, ARK bought 138,270 shares of Alibaba ( NYSE:BABA ) valued at about $18.75 million. The stock fell nearly 5% during the session amid broader market weakness tied to geopolitical tensions. The firm also added 62,579 shares of Amazon ( NASDAQ:AMZN ) for roughly $13 million after reports that some of its data center operations were affected by regional unrest.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Cathie Wood's ARK Invest purchased 138,270 shares of Alibaba (BABA) valued at approximately $18.75 million.\n• ARK Invest also added 62,579 shares of Amazon (AMZN) for roughly $13 million.\n• These purchases occurred amid broader market weakness and reports of data center operations being affected by regional unrest.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Portfolio Adjustment, ETF Holdings, Institutional Buying, Data Center Operations"
     },
     {
       "Ticker": "2330.TW",
@@ -1040,7 +1296,11 @@
       "Title": "Here's What Nobody Tells You Before You Buy a Nasdaq-100 ETF",
       "URL": "https://finance.yahoo.com/m/02cd8b64-a958-3036-b264-4b6ac74ab367/here%27s-what-nobody-tells-you.html",
       "Content": "It's no secret that the stock market's returns in recent years have been fueled by technology stocks. Companies like Nvidia (NASDAQ: NVDA) , Meta Platforms (NASDAQ: META) , and Broadcom (NASDAQ: AVGO) have performed extraordinarily well, and are a big reason why the Nasdaq-100 has gained more than 500% in the past decade alone.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Technology stocks like Nvidia (NVDA), Meta Platforms (META), and Broadcom (AVGO) have significantly driven the Nasdaq-100's performance.\n• The Nasdaq-100 has gained over 500% in the past decade.\n• These companies have demonstrated extraordinary performance.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Market Drivers, Nasdaq-100, Tech Stocks, Performance Analysis"
     },
     {
       "Ticker": ".TWII",
@@ -1070,7 +1330,11 @@
       "Title": "Broadcom Earnings Are the Latest to Try to Climb AI Wall of Fear",
       "URL": "https://finance.yahoo.com/news/broadcom-earnings-latest-try-climb-114413855.html",
       "Content": "(Bloomberg) -- Wall Street is expecting Broadcom Inc. to report strong earnings after the close on Wednesday, but based on recent trading patterns, even surpassing that high bar may not be enough to reverse the stock’s months-long slump.\nThe chipmaker’s shares are down 24% from a December record, well underperforming the S&P 500 Index. The selloff is part of investors’ broader rotation away from the largest technology companies due to fears about the sustainability of the hundreds of billions of dollars committed to developing artificial intelligence capabilities. Broadcom, which is the seventh-most valuable company in the S&P 500 at $1.5 trillion, is a chipmaking partner with Alphabet Inc. and other AI giants, making it a beneficiary of that largesse.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Broadcom Inc. (AVGO) is expected to report strong earnings, but its stock has been in a slump, down 24% from its December record.\n• The selloff is attributed to investor rotation away from large tech companies due to concerns about the sustainability of AI infrastructure spending.\n• Broadcom is a key chipmaking partner for AI giants like Alphabet.",
+      "Related_Score": 5,
+      "Sentiment_Score": -1,
+      "Keywords": "Earnings Report, Stock Performance, AI Spending, Investor Rotation, Semiconductor Partner"
     },
     {
       "Ticker": "MU",
@@ -1080,7 +1344,11 @@
       "Title": "Micron Ships 256GB LPDRAM Module for AI Data Centers",
       "URL": "https://finance.yahoo.com/news/micron-ships-256gb-lpdram-module-113926017.html",
       "Content": "This article first appeared on GuruFocus .\nMicron Technology ( MU , Financials ) has begun shipping customer samples of its new 256GB SOCAMM2 low-power DRAM module, which the company says offers the highest capacity currently available for CPU-attached LPDRAM in data centers.\nWarning! GuruFocus has detected 2 Warning Sign with MU.\nIs MU fairly valued? Test your thesis with our free DCF calculator.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Micron Technology (MU) has started shipping customer samples of its new 256GB SOCAMM2 low-power DRAM module.\n• This module offers the highest capacity currently available for CPU-attached LPDRAM in data centers.\n• The product is designed for AI data centers.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "Product Launch, DRAM Module, Data Center, AI Hardware, High Capacity"
     },
     {
       "Ticker": "2408.TW",
@@ -1150,7 +1418,11 @@
       "Title": "Why Vertiv Stock Soared 37% in February",
       "URL": "https://finance.yahoo.com/m/e6256fd9-83ad-33ac-9ff5-08a5e3706da1/why-vertiv-stock-soared-37%25.html",
       "Content": "Shares of Vertiv Holdings (NYSE: VRT) , which specializes in providing cooling and power solutions for artificial intelligence (AI) data centers, soared 36.9% in February, according to data from S&P Global Market Intelligence . For context, last month the S&P 500 index edged down 0.9% and the tech-heavy Nasdaq Composite index dropped 3.4%.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Vertiv Holdings (VRT) shares soared 36.9% in February.\n• Vertiv specializes in cooling and power solutions for AI data centers.\n• This performance significantly outpaced the S&P 500 and Nasdaq Composite during the same period.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, Data Center Infrastructure, AI Demand, Market Outperformance"
     },
     {
       "Ticker": ".TWII",
@@ -1200,7 +1472,11 @@
       "Title": "Udemy Inc (UDMY) Brings Google, OpenAI on Board for AI Learning",
       "URL": "https://finance.yahoo.com/news/udemy-inc-udmy-brings-google-103812768.html",
       "Content": "Udemy Inc (NASDAQ:UDMY) is among the best NASDAQ penny stocks to buy according to analysts . On February 19, Udemy Inc (NASDAQ:UDMY) announced the launch of an AI training plan in partnership with Google. This arrangement will see Udemy’s learners worldwide benefit from Google’s AI professional certification through a plan dubbed “Learn AI with Google.” This package offers the Udemy community three months of hands-on practice with Google AI Pro as well as the chance to earn industry-recognized credentials.\nAccording to Udemy, this plan is designed to meet the growing workplace demand for AI skills.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Udemy Inc (UDMY) has launched an AI training plan in partnership with Google.\n• Learners will gain access to Google's AI professional certification through the 'Learn AI with Google' plan.\n• This initiative aims to meet the growing demand for AI skills in the workplace.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "AI Training, Partnership, Professional Certification, Workforce Development"
     },
     {
       "Ticker": "2408.TW",
@@ -1370,7 +1646,11 @@
       "Title": "The Zacks Analyst Blog Highlights Broadcom, AT&T, Vertex and InterGroup",
       "URL": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-broadcom-093400570.html",
       "Content": "For Immediate Release Chicago, IL &ndash; March 4, 2026 &ndash; Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Broadcom Inc. AVGO, AT&T Inc. T, Vertex Pharmaceuticals Inc. VRTX and The InterGroup Corp. INTG.\nHere are highlights from Tuesday&rsquo;s Analyst Blog:\nTop Research Reports for Broadcom, AT&T and Vertex Pharma\nThe Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 12 major stocks, including Broadcom Inc., AT&T Inc. and Vertex Pharmaceuticals Inc., as well as a micro-cap stock The InterGroup Corp. The Zacks microcap research is unique as our research content on these small and under-the-radar companies is the only research of its type in the country.\n\nThese research reports have been hand-picked from the roughly 70 reports published by our analyst team today.\n\nYou can see all of today&rsquo;s research reports here >>>\n\nAhead of Wall Street\n\nThe daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning.\n\nYou can read today's AWS here >>> Pre-Markets Lower on War/Oil Uncertainty\n\nToday's Featured Research Reports\n\nShares of Broadcom have gained +4.5% over the past six months against the Zacks Electronics - Semiconductors industry&rsquo;s gain of +20.3%. The company is experiencing strong momentum fueled by growth in AI semiconductors and continued success with its VMware integration. Strong demand for its networking products and custom AI accelerators (XPUs) has been noteworthy.\n\nBroadcom&rsquo;s AI segment benefits from custom accelerators and advanced networking technology that supports large-scale AI deployments with improved performance and efficiency. Broadcom expects first-quarter fiscal 2026 AI revenues to double to $8.2 billion.\n\nAVGO&rsquo;s networking portfolio is gaining from strong demand for Tomahawk 6 products, as well as the Jericho 4 Ethernet fabric router. The acquisition of VMware has benefited Infrastructure software solutions. A rich partner base is a key catalyst. However, gross margin in the fiscal first quarter is expected to contract sequentially. High debt level is a headwind.\n\n(You can read the full research report on Broadcom here >>> )\n\nAT&T&rsquo;s shares have underperformed the Zacks Wireless National industry over the past six months (-3.2% vs. -2.9%). The company&rsquo;s wireline division is struggling with persistent losses in access lines due to competitive pressures. The high debt burden remains a concern.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Broadcom Inc. (AVGO) has gained 4.5% over six months, underperforming its industry.\n• Momentum is driven by AI semiconductors and VMware integration, with strong demand for networking products and custom AI accelerators.\n• Broadcom expects Q1 fiscal 2026 AI revenues to double to $8.2 billion; gross margin is expected to contract sequentially.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "AI Semiconductors, VMware Integration, Networking Products, Revenue Growth, Margin Outlook"
     },
     {
       "Ticker": "2408.TW",
@@ -1430,7 +1710,11 @@
       "Title": "Why March Could Be a Turning Point for Nvidia Stock",
       "URL": "https://finance.yahoo.com/m/b49c243b-83d0-3d11-b49c-4b9edfdebc39/why-march-could-be-a-turning.html",
       "Content": "Nvidia (NASDAQ: NVDA) stock has blasted higher over the past several years, and this is for a very good reason: The company has assembled an artificial intelligence (AI) empire, becoming the key player in this high-growth industry.\nAnalysts expect the AI market to reach beyond $2 trillion by the early part of the next decade, and Nvidia is set to benefit. The tech giant sells the graphics processing units (GPUs) that are the most sought-after worldwide due to their speed and efficiency. They power tasks that are unavoidable along the AI path, such as the training of large language models.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) has built a dominant position in the AI industry, supplying essential GPUs for tasks like training large language models.\n• The AI market is projected to exceed $2 trillion by the early next decade.\n• Nvidia is well-positioned to capitalize on this significant market growth.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "AI Market Dominance, GPUs, Large Language Models, Market Growth, Investment Opportunity"
     },
     {
       "Ticker": ".TWII",
@@ -1460,7 +1744,11 @@
       "Title": "Zacks.com featured highlights include NVIDIA, Micron and Vertiv",
       "URL": "https://finance.yahoo.com/news/zacks-com-featured-highlights-nvidia-090400287.html",
       "Content": "For Immediate Release Chicago, IL – March 4, 2026 – Stocks in this week’s article are NVIDIA Corp. NVDA, Micron Technology, Inc. MU and Vertiv Holdings Co VRT.\n3 Best Profitable AI Stocks to Buy for March 2026\nAs March gets underway, investors should focus on companies that deliver solid returns after covering for operating and non-operating expenses. As a result, profitable businesses tend to be more appealing than those operating at a loss. To assess profitability, analysts rely on accounting ratios, most notably the net income ratio, which measures a company’s bottom-line performance.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• NVIDIA, Micron, and Vertiv are highlighted in this week's Zacks.com featured highlights.\n• The article focuses on profitable AI stocks to buy for March 2026.\n• Profitability is assessed using accounting ratios like the net income ratio.",
+      "Related_Score": 3,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Stocks, Profitability, Investment Strategy, Market Analysis"
     },
     {
       "Ticker": "NVDA",
@@ -1470,7 +1758,11 @@
       "Title": "Nvidia Stock vs. Sandisk Stock: Billionaires Buy One and Sell the Other",
       "URL": "https://finance.yahoo.com/m/df1c3310-6dc1-3a08-b899-50e52b1de45b/nvidia-stock-vs.-sandisk.html",
       "Content": "In the past year, Nvidia (NASDAQ: NVDA) stock has increased 46%, while Sandisk (NASDAQ: SNDK) shares have added 1,220%. But two hedge fund billionaires bought Nvidia and sold Sandisk in the fourth quarter.\nCliff Asness at AQR Capital Management bought 3.9 million shares of Nvidia, increasing his stake by 18%. He also sold 318,600 shares of Sandisk, reducing his stake by 22%. Nvidia is now the largest position in his portfolio. Sandisk does not rank among the top 50.\nSteven Schonfeld at Schonfeld Strategic Advisors bought 2 million shares of Nvidia, more than tripling his stake. He also sold 41,800 shares of Sandisk, reducing his stake by 27%. Nvidia is now the third-largest position in his portfolio. Sandisk does not rank among the top 50.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Billionaire investors Cliff Asness and Steven Schonfeld bought significant stakes in Nvidia (NVDA) in Q4.\n• Both billionaires also sold shares of Sandisk (SNDK) during the same period.\n• Nvidia has become a top holding for both investors, while Sandisk is not among their top positions.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "Institutional Investment, Billionaire Activity, Portfolio Allocation, AI vs. Storage"
     },
     {
       "Ticker": "SNDK",
@@ -1480,7 +1772,11 @@
       "Title": "Nvidia Stock vs. Sandisk Stock: Billionaires Buy One and Sell the Other",
       "URL": "https://finance.yahoo.com/m/df1c3310-6dc1-3a08-b899-50e52b1de45b/nvidia-stock-vs.-sandisk.html",
       "Content": "In the past year, Nvidia (NASDAQ: NVDA) stock has increased 46%, while Sandisk (NASDAQ: SNDK) shares have added 1,220%. But two hedge fund billionaires bought Nvidia and sold Sandisk in the fourth quarter.\nCliff Asness at AQR Capital Management bought 3.9 million shares of Nvidia, increasing his stake by 18%. He also sold 318,600 shares of Sandisk, reducing his stake by 22%. Nvidia is now the largest position in his portfolio. Sandisk does not rank among the top 50.\nSteven Schonfeld at Schonfeld Strategic Advisors bought 2 million shares of Nvidia, more than tripling his stake. He also sold 41,800 shares of Sandisk, reducing his stake by 27%. Nvidia is now the third-largest position in his portfolio. Sandisk does not rank among the top 50.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Billionaire investors Cliff Asness and Steven Schonfeld bought significant stakes in Nvidia (NVDA) in Q4.\n• Both billionaires also sold shares of Sandisk (SNDK) during the same period.\n• Nvidia has become a top holding for both investors, while Sandisk is not among their top positions.",
+      "Related_Score": 5,
+      "Sentiment_Score": 1,
+      "Keywords": "Institutional Investment, Billionaire Activity, Portfolio Allocation, AI vs. Storage"
     },
     {
       "Ticker": "QCOM",
@@ -1490,7 +1786,11 @@
       "Title": "Zacks Investment Ideas feature highlights: Axon Enterprise, Qualcomm and Sandisk",
       "URL": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-085400561.html",
       "Content": "For Immediate Release Chicago, IL &ndash; March 4, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Axon Enterprise AXON, Qualcomm QCOM and Sandisk Corporation SNDK.\nHow Taser Shocked Wall Street in the Early 2000s\nIn 2002, &ldquo;stun gun&rdquo; maker Taser, now called Axon Enterprise , went on one of the most stunning runs in Wall Street history. From late October 2002 to its top in December of 2004, Taser soared from $0.40 to $33.45, registering a mind-blowing 8,262.50% return.\nWhat drove Taser&rsquo;s euphoric move? The answer is the perfect storm of product innovation, luck, and a lack of competition. In 2003, Taser perfected its non-lethal weapon, the TASER X26. Because the X26 was less bulky and lighter than its early models, Taser was able to become the gold standard of non-lethal technology for police departments across the country.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Zacks Investment Ideas highlights Axon Enterprise, Qualcomm (QCOM), and Sandisk (SNDK).\n• The article references Taser's (now Axon) significant stock run in the early 2000s driven by product innovation.\n• It suggests Qualcomm is well-positioned in the AI data center market.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Investment Ideas, Stock Analysis, AI Data Center, Market Trends"
     },
     {
       "Ticker": "SNDK",
@@ -1500,7 +1800,11 @@
       "Title": "Zacks Investment Ideas feature highlights: Axon Enterprise, Qualcomm and Sandisk",
       "URL": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-085400561.html",
       "Content": "For Immediate Release Chicago, IL &ndash; March 4, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Axon Enterprise AXON, Qualcomm QCOM and Sandisk Corporation SNDK.\nHow Taser Shocked Wall Street in the Early 2000s\nIn 2002, &ldquo;stun gun&rdquo; maker Taser, now called Axon Enterprise , went on one of the most stunning runs in Wall Street history. From late October 2002 to its top in December of 2004, Taser soared from $0.40 to $33.45, registering a mind-blowing 8,262.50% return.\nWhat drove Taser&rsquo;s euphoric move? The answer is the perfect storm of product innovation, luck, and a lack of competition. In 2003, Taser perfected its non-lethal weapon, the TASER X26. Because the X26 was less bulky and lighter than its early models, Taser was able to become the gold standard of non-lethal technology for police departments across the country.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Zacks Investment Ideas highlights Axon Enterprise, Qualcomm (QCOM), and Sandisk (SNDK).\n• The article references Taser's (now Axon) significant stock run in the early 2000s driven by product innovation.\n• It suggests Qualcomm is well-positioned in the AI data center market.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Investment Ideas, Stock Analysis, AI Data Center, Market Trends"
     },
     {
       "Ticker": ".TWII",
@@ -1550,7 +1854,11 @@
       "Title": "Zacks Investment Ideas feature highlights: Garmin and Apple",
       "URL": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-084900096.html",
       "Content": "For Immediate Release Chicago, IL &ndash; March 4, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Garmin Ltd. GRMN and Apple AAPL.\nBest Tech Stock to Buy in March: Soaring GRMN Before a Breakout?\nGarmin Ltd. soared near all-time highs and a potential breakout level after its beat-and-raise Q4 report on February 18.\nThe GPS powerhouse, which operates across Fitness, Outdoor, Aviation, Marine & Auto OEM, grew its adjusted EPS by 16% in FY25, following a 32% expansion in FY24. Its upward earnings revisions land the GPS technology innovator a Zacks Rank #1 (Strong Buy) right now.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Zacks Investment Ideas features Garmin (GRMN) and Apple (AAPL).\n• Garmin soared near all-time highs after a Q4 beat-and-raise report, with adjusted EPS growing 16% in FY25.\n• Garmin holds a Zacks Rank #1 (Strong Buy).",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Stock Performance, Earnings Beat, Strong Buy, Investment Recommendation"
     },
     {
       "Ticker": ".TWII",
@@ -1590,7 +1898,11 @@
       "Title": "Billionaire Tesla Whale Says He Bought 1 Million Nvidia Shares",
       "URL": "https://finance.yahoo.com/news/billionaire-tesla-whale-says-bought-083413988.html",
       "Content": "(Bloomberg) -- Billionaire Leo KoGuan, who emerged a few years ago as one of the biggest individual shareholders of Tesla Inc., said he bought 1 million shares of Nvidia Corp. on Tuesday.\n“I am convinced AI is NOT a bubble, it is only the beginning,” KoGuan posted on X on Wednesday.\nMost Read from Bloomberg",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Billionaire Leo KoGuan, a major Tesla shareholder, announced buying 1 million Nvidia (NVDA) shares.\n• KoGuan believes AI is not a bubble but is at the beginning of a larger investment cycle.\n• The purchase was made on Tuesday.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "Billionaire Investor, AI Confidence, Investment Cycle, Share Purchase"
     },
     {
       "Ticker": ".TWII",
@@ -1800,7 +2112,11 @@
       "Title": "Physical AI Is Less Than 3% of Nvidia's Revenue. Here's How It Could Transform Nvidia By 2035.",
       "URL": "https://finance.yahoo.com/m/ac6f516d-dad1-3586-b3b9-3e68bfe1ef53/physical-ai-is-less-than-3%25.html",
       "Content": "If you tuned into Nvidia 's (NASDAQ: NVDA) Feb. 25 earnings call, you probably caught record numbers such as $215.9 billion in fiscal 2026 revenue, $120.1 billion in net income, or $96.6 billion in free cash flow.\nThose are incredibly impressive results. But data centers comprised 89.7% of Nvidia's fiscal 2026 revenue, while other segments like gaming, artificial intelligence (AI) personal computing, professional visualization, and automotive and robotics are having a relatively small effect.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia reported record fiscal 2026 revenue of $215.9 billion, net income of $120.1 billion, and free cash flow of $96.6 billion.\n• Data centers accounted for 89.7% of fiscal 2026 revenue.\n• Other segments like gaming and AI personal computing have a smaller impact on revenue.",
+      "Related_Score": 5,
+      "Sentiment_Score": 0,
+      "Keywords": "Financial Results, Revenue Breakdown, Data Center Dominance, Segment Performance"
     },
     {
       "Ticker": ".TWII",
@@ -1850,7 +2166,11 @@
       "Title": "Bitdeer Technologies Group (BTDR) Revenue Beats Estimates Despite EBITDA Shortfall",
       "URL": "https://finance.yahoo.com/news/bitdeer-technologies-group-btdr-revenue-073034316.html",
       "Content": "Bitdeer Technologies Group (NASDAQ: BTDR ) ranks among the most shorted stocks to buy according to analysts . On February 13, Needham reduced its price target for Bitdeer Technologies Group (NASDAQ:BTDR) to $22 from $30 while retaining a Buy rating on the company’s shares. The revision comes after Bitdeer’s Q4 results, which showed revenue above estimates, though adjusted EBITDA fell short.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Bitdeer Technologies Group (BTDR) reported Q4 revenue above estimates, but adjusted EBITDA fell short.\n• Needham reduced its price target for BTDR to $22 from $30 while maintaining a 'Buy' rating.\n• The company is listed among the most shorted stocks to buy.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Earnings Report, Revenue Beat, EBITDA Shortfall, Price Target Reduction"
     },
     {
       "Ticker": ".TWII",
@@ -1920,7 +2240,11 @@
       "Title": "Should You Buy Nvidia Stock Before March 19? History Offers Compelling Evidence",
       "URL": "https://finance.yahoo.com/m/c7e3dd88-09ce-3baf-8646-85b5396acb2c/should-you-buy-nvidia-stock.html",
       "Content": "One of the signature occasions for Nvidia (NASDAQ: NVDA) investors each year is the company's GPU Technology Conference (GTC). While the schedule varies, the event historically takes place once or twice each year and serves as a gathering for developers and a showcase of Nvidia's latest products. Since the dawn of artificial intelligence (AI) in early 2023, GTC has become \"the world's premier AI and accelerated computing conference,\" according to the company.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia's (NVDA) GPU Technology Conference (GTC) is a key event for developers and product showcases.\n• Since early 2023, GTC has become a premier AI and accelerated computing conference.\n• The article suggests March 19th could be a turning point for Nvidia stock.",
+      "Related_Score": 4,
+      "Sentiment_Score": 1,
+      "Keywords": "GTC Conference, AI, Accelerated Computing, Product Showcase, Stock Catalyst"
     },
     {
       "Ticker": ".TWII",
@@ -2100,7 +2424,11 @@
       "Title": "Prediction: 2 Stocks That'll Be Worth More Than Microsoft 10 Years From Now",
       "URL": "https://finance.yahoo.com/m/2922c442-cfb9-31f4-a44f-16261436cc20/prediction%3A-2-stocks-that%27ll.html",
       "Content": "Microsoft is currently the world's fourth-largest company by market capitalization, with a market cap of $2.9 trillion. However, I think two companies with smaller market caps look poised to surpass it over the next decade.\nWhile Microsoft has a strong cloud computing unit and is a leader in enterprise software, where enterprise software shakes out in the age of artificial intelligence (AI) is still a big unknown. Let's look at two companies that can grow to become bigger than Microsoft.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Microsoft (MSFT) has a market capitalization of $2.9 trillion.\n• The article predicts two smaller companies will surpass Microsoft in market cap within 10 years.\n• While Microsoft leads in cloud and enterprise software, its future in the AI era is uncertain.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Market Cap, Future Growth, AI Impact, Competitive Landscape"
     },
     {
       "Ticker": "2454.TW",
@@ -2130,7 +2458,11 @@
       "Title": "German union aims for breakthrough at Tesla Berlin plant",
       "URL": "https://finance.yahoo.com/news/german-union-aims-breakthrough-tesla-060852052.html",
       "Content": "By Rachel More\nBERLIN, March 4 (Reuters) - Germany's top industrial union is fighting for more influence at Tesla 's gigafactory outside ‌Berlin, where staff are voting for a new works ‌council after a campaign marked by mud-slinging and legal challenges.\nVoting began on Monday ​at Tesla's Gruenheide plant, the U.S. electric car maker's only European production site, with results expected later Wednesday.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Germany's leading industrial union is seeking increased influence at Tesla's Berlin Gigafactory.\n• Employees are voting for a new works council, following a contentious campaign.\n• Voting concluded on Wednesday, with results expected the same day.",
+      "Related_Score": 4,
+      "Sentiment_Score": -1,
+      "Keywords": "Labor Relations, Unionization, Gigafactory, Industrial Relations"
     },
     {
       "Ticker": ".TWII",
@@ -2190,7 +2522,11 @@
       "Title": "Micron Technology, Inc. (MU) Announces the Grand Opening of its Semiconductor Assembly and Test Facility in Sanand, Gujarat, India",
       "URL": "https://finance.yahoo.com/news/micron-technology-inc-mu-announces-054801694.html",
       "Content": "Micron Technology, Inc. (NASDAQ: MU ) is among the 13 Most Undervalued S&P 500 Stocks to Invest In .",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Micron Technology, Inc. (MU) announced the grand opening of its semiconductor assembly and test facility in Sanand, Gujarat, India.\n• Micron is listed among the 13 Most Undervalued S&P 500 Stocks to Invest In.",
+      "Related_Score": 3,
+      "Sentiment_Score": 1,
+      "Keywords": "Manufacturing Facility, India Expansion, Undervalued Stocks, Semiconductor"
     },
     {
       "Ticker": ".TWII",
@@ -2230,7 +2566,11 @@
       "Title": "Malaysia anti-graft agency probing government deal with chip firm Arm Holdings",
       "URL": "https://finance.yahoo.com/news/malaysia-anti-graft-agency-probing-050434543.html",
       "Content": "KUALA LUMPUR, March 4 (Reuters) - Malaysia's anti-graft agency said on Wednesday that it ‌is investigating corruption and fraud allegations ‌involving a 1.1 billion ringgit ($279 million) deal between the ​Malaysian government and British chip firm Arm Holdings.\nAuthorities were also looking into a proposed takeover of IJM Corp by local conglomerate ‌Sunway, Malaysian Anti-Corruption Commission ⁠chief Azam Baki said at a press conference.\nMore from Yahoo Scout",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Malaysia's anti-graft agency is investigating corruption and fraud allegations related to a 1.1 billion ringgit ($279 million) deal between the Malaysian government and Arm Holdings.\n• The investigation also involves a proposed takeover of IJM Corp by Sunway.\n• The allegations concern a deal involving the British chip firm.",
+      "Related_Score": 3,
+      "Sentiment_Score": -1,
+      "Keywords": "Corruption Allegations, Government Deal, Regulatory Investigation, Chip Firm"
     },
     {
       "Ticker": ".TWII",
@@ -2290,7 +2630,11 @@
       "Title": "5-star analyst resets Marvell forecast before earnings",
       "URL": "https://finance.yahoo.com/m/ece66174-991b-3b0d-a219-19a354033479/5-star-analyst-resets-marvell.html",
       "Content": "Marvell ( MRVL ) stock is down almost 8% year to date, at the time of writing, Tuesday afternoon, March 3, according to Yahoo Finance. Marvell’s stock downward trend started a few days after the release of the Q3 earnings report on Dec. 2.\nThe stock was first hit on Dec. 5 by The Information reporting that Microsoft is considering Broadcom ( AVGO ) as a possible chip design partner. Benchmark Equity Research on Dec. 8 downgraded Marvell stock to hold from buy and withdrew its price target, citing the company's loss of business with Amazon, reported TipRanks .",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Marvell (MRVL) stock is down almost 8% year-to-date.\n• The downward trend began after its Q3 earnings report and news that Microsoft is considering Broadcom (AVGO) as a chip design partner.\n• Benchmark downgraded Marvell to 'Hold' citing loss of business with Amazon.",
+      "Related_Score": 5,
+      "Sentiment_Score": -1,
+      "Keywords": "Stock Performance, Downgrade, Loss of Business, Chip Partnerships"
     },
     {
       "Ticker": "2330.TW",
@@ -2420,7 +2764,11 @@
       "Title": "Tesla vs. Amazon: Which AI Stock Is the Better Buy Now?",
       "URL": "https://finance.yahoo.com/m/f10d30b4-54c8-3653-997d-fa74c7093dc9/tesla-vs.-amazon%3A-which-ai.html",
       "Content": "Given the market's recent pullback, many investors are likely scouring their watchlists for oversold stocks with durable long-term growth stories. Two popular companies with clear long-term tailwinds that have been hit particularly hard in early 2026 are Tesla (NASDAQ: TSLA) and Amazon (NASDAQ: AMZN) . Both businesses are heavily investing in artificial intelligence (AI) and are well-positioned to benefit from its ongoing adoption.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Tesla (TSLA) and Amazon (AMZN) are both heavily investing in AI and are positioned to benefit from its adoption.\n• Both companies have experienced significant pullbacks in early 2026.\n• The article aims to determine which AI stock is a better buy.",
+      "Related_Score": 4,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Investment, Stock Comparison, Market Pullback, Growth Potential"
     },
     {
       "Ticker": "AMZN",
@@ -2430,7 +2778,11 @@
       "Title": "Tesla vs. Amazon: Which AI Stock Is the Better Buy Now?",
       "URL": "https://finance.yahoo.com/m/f10d30b4-54c8-3653-997d-fa74c7093dc9/tesla-vs.-amazon%3A-which-ai.html",
       "Content": "Given the market's recent pullback, many investors are likely scouring their watchlists for oversold stocks with durable long-term growth stories. Two popular companies with clear long-term tailwinds that have been hit particularly hard in early 2026 are Tesla (NASDAQ: TSLA) and Amazon (NASDAQ: AMZN) . Both businesses are heavily investing in artificial intelligence (AI) and are well-positioned to benefit from its ongoing adoption.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Tesla (TSLA) and Amazon (AMZN) are both heavily investing in AI and are positioned to benefit from its adoption.\n• Both companies have experienced significant pullbacks in early 2026.\n• The article aims to determine which AI stock is a better buy.",
+      "Related_Score": 4,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Investment, Stock Comparison, Market Pullback, Growth Potential"
     },
     {
       "Ticker": ".TWII",
@@ -2540,7 +2892,11 @@
       "Title": "Prediction: Nvidia (NVDA) Will Be Worth More Than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft Combined by 2030",
       "URL": "https://finance.yahoo.com/m/37a69f88-d0d8-37a2-b62c-67a12e74d696/prediction%3A-nvidia-%28nvda%29.html",
       "Content": "Nvidia (NASDAQ: NVDA) is one of the most impressive companies we've ever seen. It is dominating the computing hardware realm and has become the primary option to run all of the generative artificial intelligence (AI) workloads that are coming online. However, we're still in the early innings of the buildout, leaving plenty of room for upside for Nvidia.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Nvidia (NVDA) is dominating the computing hardware realm and is the primary option for generative AI workloads.\n• The company is expected to be worth more than Alphabet, Apple, Amazon, Tesla, Meta, and Microsoft combined by 2030.\n• The current AI buildout is still in its early stages, indicating significant upside potential for Nvidia.",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "AI Dominance, Generative AI, Market Leadership, Future Valuation, Growth Potential"
     },
     {
       "Ticker": "2330.TW",
@@ -2970,7 +3326,11 @@
       "Title": "Microsoft and Alphabet Spend Billions On AI: A Closer Look",
       "URL": "https://finance.yahoo.com/news/microsoft-alphabet-spend-billions-ai-235000534.html",
       "Content": "Among the bunch of big-time spenders concerning the AI frenzy, a pair of Mag 7 members involved in the cloud, including Microsoft MSFT and Alphabet GOOGL, stick out considerably, with each pouring billions into their respective AI efforts.\nExtremely high capital expenditures (CapEx) have been a sensitive topic among the bunch, though all three remain more than committed to the future growth runways expected to stem from the investments. Let’s take a closer look at just how much the tech giants are spending.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Microsoft (MSFT) and Alphabet (GOOGL) are investing billions in their respective AI efforts.\n• Both companies are experiencing extremely high capital expenditures (CapEx) related to AI.\n• They remain committed to the future growth expected from these investments.",
+      "Related_Score": 4,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Investment, Capital Expenditure, Cloud Computing, Tech Giants"
     },
     {
       "Ticker": "GOOGL",
@@ -2980,7 +3340,11 @@
       "Title": "Microsoft and Alphabet Spend Billions On AI: A Closer Look",
       "URL": "https://finance.yahoo.com/news/microsoft-alphabet-spend-billions-ai-235000534.html",
       "Content": "Among the bunch of big-time spenders concerning the AI frenzy, a pair of Mag 7 members involved in the cloud, including Microsoft MSFT and Alphabet GOOGL, stick out considerably, with each pouring billions into their respective AI efforts.\nExtremely high capital expenditures (CapEx) have been a sensitive topic among the bunch, though all three remain more than committed to the future growth runways expected to stem from the investments. Let’s take a closer look at just how much the tech giants are spending.",
-      "Language": "en"
+      "Language": "en",
+      "AI_Summary": "• Microsoft (MSFT) and Alphabet (GOOGL) are investing billions in their respective AI efforts.\n• Both companies are experiencing extremely high capital expenditures (CapEx) related to AI.\n• They remain committed to the future growth expected from these investments.",
+      "Related_Score": 4,
+      "Sentiment_Score": 0,
+      "Keywords": "AI Investment, Capital Expenditure, Cloud Computing, Tech Giants"
     },
     {
       "Ticker": "8299.TWO",
