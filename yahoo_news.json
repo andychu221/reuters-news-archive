@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-04T17:31:46.405Z",
-  "total_news_count": 505,
+  "last_updated": "2026-03-04T17:39:57.353Z",
+  "total_news_count": 510,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-05",
+      "Time": "01:33:00",
+      "Source": "TheStreet",
+      "Title": "Viral Tesla FSD video shows why human drivers are a big problem",
+      "URL": "https://finance.yahoo.com/m/4e189d62-6485-389f-8d07-c5ff87e0d880/viral-tesla-fsd-video-shows.html",
+      "Content": "In 2024, Tesla finally admitted what most people who had used the technology already knew: Full Self-Driving was not the Level 4 autonomous driving experience that had been promised for years.\nThe company was forced to add \"Supervised\" to the official FSD name.\nSAE International (formerly the Society of Automotive Engineers) considers advanced driver assistance systems, such as GM Super Cruise and Tesla Full Self-Driving, to be Level 2 automation, which requires the driver to remain engaged.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-05",
+      "Time": "01:23:13",
+      "Source": "GuruFocus.com",
+      "Title": "Tesla Shares Climbs After BofA Reinstates \"Buy\" Sees $460 Upside",
+      "URL": "https://finance.yahoo.com/news/tesla-shares-climbs-bofa-reinstates-172313915.html",
+      "Content": "This article first appeared on GuruFocus .\nTesla ( NASDAQ:TSLA ) gained nearly 3% on Wednesday after Bank of America resumed coverage with a Buy rating and a $460 price target.\nThe bank cited Tesla's positioning in autonomous driving, describing the company as a potential leader in consumer-focused self-driving technology. Analyst Alexander Perry said Tesla could scale its robotaxi operations more efficiently than competitors, supported by its camera-based system and data collected from its existing vehicle fleet.",
+      "Language": "en"
+    },
     {
       "Ticker": "ARM",
       "Date": "2026-03-05",
@@ -40,6 +60,36 @@
       "Title": "Why Arm Holdings Stock Surged 21% Higher in February",
       "URL": "https://finance.yahoo.com/m/17868e49-b89d-38e3-bd2f-f811c4945aec/why-arm-holdings-stock-surged.html",
       "Content": "Shares of the semiconductor designer Arm Holdings (NASDAQ: ARM) jumped 20.9% in February, according to data provided by S&P Global Market Intelligence , after the company's third-quarter revenue and earnings beat Wall Street's consensus estimates and as sales from Arm's data center royalty revenue surged higher.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-05",
+      "Time": "00:46:43",
+      "Source": "Yahoo Finance",
+      "Title": "BofA bullish on Tesla, calls it the 'current leader' in autonomy and soon robotaxis",
+      "URL": "https://finance.yahoo.com/news/bofa-bullish-on-tesla-calls-it-the-current-leader-in-autonomy-and-soon-robotaxis-164643460.html",
+      "Content": "Bank of America reinstated coverage of Tesla ( TSLA ) with a Buy rating and bullish outlook on the company’s robotaxi and autonomous efforts.\nIn a long and wide-ranging note, analyst Alexander Perry gave Tesla a $460 price target, based on the investment bank’s sum-of-the-parts analysis. Perry picked up Tesla and BofA’s auto coverage after longtime analyst John Murphy left the firm.\nTesla shares rose 3% in early trade.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-05",
+      "Time": "00:40:00",
+      "Source": "Motley Fool",
+      "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
+      "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
+      "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-05",
+      "Time": "00:40:00",
+      "Source": "Motley Fool",
+      "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
+      "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
+      "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
       "Language": "en"
     },
     {
