@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T19:39:43.351Z",
-  "total_news_count": 529,
+  "last_updated": "2026-03-04T20:00:24.579Z",
+  "total_news_count": 532,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-05",
+      "Time": "03:25:00",
+      "Source": "Motley Fool",
+      "Title": "Is Micron Stock Going to $500?",
+      "URL": "https://finance.yahoo.com/m/0303a500-5549-3d28-a73a-6d4e31d880b7/is-micron-stock-going-to-%24500%3F.html",
+      "Content": "Micron Technology (NASDAQ: MU) has recently become one of the hottest artificial intelligence (AI) stocks on the market, with shares already up by 50% so far this year amid soaring demand for data center hardware. The company's high-bandwidth memory chips have become integral for training and running large language models (LLMs).",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-05",
@@ -10,6 +20,16 @@
       "Title": "XRP Is Soaring Today -- Is the Cryptocurrency a Buy?",
       "URL": "https://finance.yahoo.com/m/edd3cadd-6401-3f59-b602-c4852a040f77/xrp-is-soaring-today-is.html",
       "Content": "XRP (CRYPTO: XRP) is surging in Wednesday's trading. As of 1:40 p.m. ET, the cryptocurrency's token price had jumped 5.4% over the past 24 hours. Meanwhile, Bitcoin was up 6.6% over the stretch, and Ethereum had gained 7.8%.\nValuations for cryptocurrencies and stocks are rapidly moving higher today in response to new information suggesting that the U.S. and Israel's war with Iran could draw to a close earlier than previously expected. The New York Times reported this morning that Iran's Ministry of Intelligence had indicated to the CIA that it was open to discussions that could end the war.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-05",
+      "Time": "03:00:29",
+      "Source": "Insider Monkey",
+      "Title": "Piper Sandler and Jefferies Stay Bullish on Advanced Micro Devices, Inc. (AMD) After Meta Deal",
+      "URL": "https://finance.yahoo.com/news/piper-sandler-jefferies-stay-bullish-190029504.html",
+      "Content": "Advanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the 15 AI Stocks With Explosive Growth Potential .",
       "Language": "en"
     },
     {
@@ -200,6 +220,16 @@
       "Title": "BofA bullish on Tesla, calls it the 'current leader' in autonomy and soon robotaxis",
       "URL": "https://finance.yahoo.com/news/bofa-bullish-on-tesla-calls-it-the-current-leader-in-autonomy-and-soon-robotaxis-164643460.html",
       "Content": "Bank of America reinstated coverage of Tesla ( TSLA ) with a Buy rating and bullish outlook on the company’s robotaxi and autonomous efforts.\nIn a long and wide-ranging note, analyst Alexander Perry gave Tesla a $460 price target, based on the investment bank’s sum-of-the-parts analysis. Perry picked up Tesla and BofA’s auto coverage after longtime analyst John Murphy left the firm.\nTesla shares rose 3% in early trade.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-05",
+      "Time": "00:44:25",
+      "Source": "Barchart",
+      "Title": "Are Memory Stocks Old News? Why Morgan Stanley Just Snubbed Micron.",
+      "URL": "https://finance.yahoo.com/m/ce12c6ac-c579-31ac-bd34-b53d6bf6173e/are-memory-stocks-old-news%3F.html",
+      "Content": "Financial services major Morgan Stanley has been convinced to remove memory leader Micron (MU) as its top pick and replace it with Nvidia (NVDA). Raising doubts over the sustainability of the current strong demand, John Moore, an analyst at the firm, said, “There is a commonly voiced view that memory stocks are pricing in a much longer and more durable cycle than processor stocks; we actually somewhat disagree with that. Our memory conversations with clients are very similar to NVIDIA conversations - a clear recognition that conditions are exceptional in both right now, But [sic] a very strong peak year at current valuations has been viewed as more investable for memory, because upward revisions are more dynamic. There is not much conviction about 2027 for either stock.”",
       "Language": "en"
     },
     {
