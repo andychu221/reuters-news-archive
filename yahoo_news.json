@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-04T16:00:23.234Z",
-  "total_news_count": 492,
+  "last_updated": "2026-03-04T16:15:04.356Z",
+  "total_news_count": 496,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "00:00:00",
+      "Source": "Motley Fool",
+      "Title": "What Nvidia's Blockbuster Quarter Tells Us About the State of the Stock Market and Artificial Intelligence Trade",
+      "URL": "https://finance.yahoo.com/m/a186aa88-575f-35c5-b15e-1bf2cc3fe230/what-nvidia%27s-blockbuster.html",
+      "Content": "After investors anxiously waited last week for artificial intelligence giant Nvidia (NASDAQ: NVDA) to deliver its fiscal 2026 fourth-quarter report, the company provided them with better-than-expected results and issued better-than-expected guidance for its current quarter. Furthermore, its gross margin guidance was solid.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-04",
@@ -10,6 +20,16 @@
       "Title": "How Nvidia became the cornerstone of modern computing",
       "URL": "https://finance.yahoo.com/m/2524715b-364e-3266-9ec8-8228624d7f7b/how-nvidia-became-the.html",
       "Content": "If you’re feeling envious of Nvidia , well, that’s the idea.\nIn fact, the green-eyed monster is baked right into the AI chipmaking titan’s name, since it is a mash-up of the Latin word invidia, meaning “envy,” and the letters NV for “next version.”\nThe name is intended to evoke the idea of creating products that others would envy, and Nvidia’s ( NVDA ) green logo is designed to evoke the phrase — you guessed it — “green with envy.”",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-04",
+      "Time": "23:25:27",
+      "Source": "Yahoo Finance",
+      "Title": "Tech stocks today: Apple unveils low-cost MacBook Neo, CoreWeave inks deal with Perplexity",
+      "URL": "https://finance.yahoo.com/news/live/tech-stocks-today-apple-unveils-low-cost-macbook-neo-coreweave-inks-deal-with-perplexity-152527129.html",
+      "Content": "Apple's ( AAPL ) three-day product release schedule continued on March 4, with the debut of a new low-cost MacBook Neo computer.\nThe $599 MacBook Neo has the same price point as Apple's new entry-level smartphone , the iPhone 17e, which the company announced on Monday. Other product announcements included two new iPad Airs and new MacBook Air and MacBook Pro laptops with more powerful M5 chips.",
       "Language": "en"
     },
     {
@@ -70,6 +90,26 @@
       "Title": "Apple debuts $599 MacBook Neo to challenge Chromebooks, Windows PCs",
       "URL": "https://finance.yahoo.com/news/apple-debuts-599-macbook-neo-142248754.html",
       "Content": "By Akash Sriram and Stephen Nellis\nMarch 4 (Reuters) - Apple on Wednesday unveiled the MacBook Neo, a lower-priced addition to its laptop lineup starting at $599, as it looks to broaden ‌its reach in a price-sensitive PC market while rivals face tighter supply of memory chips.\nA ‌lower-priced laptop marks one of Apple's most aggressive entry points into the PC market in years. The new MacBook will be ​powered by the A18 Pro chip, the same processor that debuted in the company's iPhone 16 Pro models in 2024.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TXN",
+      "Date": "2026-03-04",
+      "Time": "22:00:04",
+      "Source": "Zacks",
+      "Title": "Investors Heavily Search Texas Instruments Incorporated (TXN): Here is What You Need to Know",
+      "URL": "https://finance.yahoo.com/news/investors-heavily-search-texas-instruments-140004434.html",
+      "Content": "Texas Instruments (TXN) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\nOver the past month, shares of this chipmaker have returned -10%, compared to the Zacks S&P 500 composite's -1.3% change. During this period, the Zacks Semiconductor - General industry, which Texas Instruments falls in, has lost 1.1%. The key question now is: What could be the stock's future direction?",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ON",
+      "Date": "2026-03-04",
+      "Time": "22:00:04",
+      "Source": "Zacks",
+      "Title": "ON Semiconductor Corporation (ON) is Attracting Investor Attention: Here is What You Should Know",
+      "URL": "https://finance.yahoo.com/news/semiconductor-corporation-attracting-investor-attention-140004566.html",
+      "Content": "ON Semiconductor Corp. (ON) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance in the near future.\nShares of this semiconductor components maker have returned +6.7% over the past month versus the Zacks S&P 500 composite's -1.3% change. The Zacks Semiconductor - Analog and Mixed industry, to which ON Semiconductor Corp. belongs, has gained 2.8% over this period. Now the key question is: Where could the stock be headed in the near term?",
       "Language": "en"
     },
     {
