@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-04T18:00:29.736Z",
-  "total_news_count": 513,
+  "last_updated": "2026-03-04T18:14:52.360Z",
+  "total_news_count": 517,
   "news": [
     {
       "Ticker": "TSLA",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "GFS",
+      "Date": "2026-03-05",
+      "Time": "01:18:13",
+      "Source": "Insider Monkey",
+      "Title": "GlobalFoundries Inc. (GF) Up More Than 13% Since Q4 2025 Earnings",
+      "URL": "https://finance.yahoo.com/news/globalfoundries-inc-gf-more-13-171813987.html",
+      "Content": "​GlobalFoundries Inc. (NASDAQ: GFS ) is one of the Best Up and Coming AI Stocks to Buy . GlobalFoundries Inc. (NASDAQ:GFS) has gained more than 13% since its fiscal Q4 2025 earnings were released on February 11. The company posted a quarterly revenue of $1.83 billion, which remained flat year-over-year, but topped estimates by $26.62 million. The EPS came in at $0.55 ahead of expectations.",
+      "Language": "en"
+    },
+    {
       "Ticker": "ARM",
       "Date": "2026-03-05",
       "Time": "01:17:56",
@@ -40,6 +50,16 @@
       "Title": "Arm Holdings plc (ARM) Enters a Multi-Year Partnerships With Tensor",
       "URL": "https://finance.yahoo.com/news/arm-holdings-plc-arm-enters-171756338.html",
       "Content": "​Arm Holdings plc (NASDAQ: ARM ) is one of the Best Up and Coming AI Stocks to Buy . On February 23, Arm Holdings plc (NASDAQ:ARM) and Tensor announced their multi-year strategic partnership to power the world’s first agentic AI personal Robocar. It is a level 4 autonomous vehicle designed for personal use and can operate intelligently without a human driver.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "01:02:25",
+      "Source": "Reuters",
+      "Title": "Intel CEO Tan reconsidering fate of chipmaker's new manufacturing tech, CFO says",
+      "URL": "https://finance.yahoo.com/news/intel-ceo-lip-bu-tan-170225829.html",
+      "Content": "March 4 (Reuters) - Intel CEO Lip-Bu Tan is now starting to recognize its 18A manufacturing technology as a potential offering for ‌external clients after relegating it largely to internal use last ‌year, Chief Financial Officer David Zinsner said on Wednesday during a tech conference in ​San Francisco.\nMore from Yahoo Scout",
       "Language": "en"
     },
     {
@@ -143,6 +163,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-03-05",
+      "Time": "00:29:00",
+      "Source": "Zacks",
+      "Title": "Budget iPhone 17e to Boost Apple Revenues? ETFs to Consider",
+      "URL": "https://finance.yahoo.com/news/budget-iphone-17e-boost-apple-162900022.html",
+      "Content": "The iPhone had a record-breaking fiscal first quarter of 2026, driven by exceptional demand and all-time high sales across all geographic regions, as highlighted by CEO Tim Cook in the company&rsquo;s press release. Apple AAPL reported that iPhone revenues surged 23% year over year to $85.27 billion in its last reported quarter, handily exceeding market expectations.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-03-05",
       "Time": "00:00:00",
@@ -160,6 +190,16 @@
       "Title": "What Nvidia's Blockbuster Quarter Tells Us About the State of the Stock Market and Artificial Intelligence Trade",
       "URL": "https://finance.yahoo.com/m/a186aa88-575f-35c5-b15e-1bf2cc3fe230/what-nvidia%27s-blockbuster.html",
       "Content": "After investors anxiously waited last week for artificial intelligence giant Nvidia (NASDAQ: NVDA) to deliver its fiscal 2026 fourth-quarter report, the company provided them with better-than-expected results and issued better-than-expected guidance for its current quarter. Furthermore, its gross margin guidance was solid.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-04",
+      "Time": "23:53:00",
+      "Source": "Zacks",
+      "Title": "Apple Expands Mac Portfolio With New Devices: Can They Revive Growth?",
+      "URL": "https://finance.yahoo.com/news/apple-expands-mac-portfolio-devices-155300057.html",
+      "Content": "Apple AAPL is expanding its Mac portfolio with the launch of MacBook Air and MacBook Pro. The devices come at an opportune time as the iPhone maker faces stiff competition from the likes of Lenovo, HP HPQ and Dell Technologies DELL. In the first quarter of fiscal 2026, Mac sales of $8.39 billion decreased 6.7% year over year and accounted for 5.8% of net sales. The figure missed the Zacks Consensus Estimate by 7.54%.\n\nIntroduction of M5 Pro and M5 Max chips, built using a new Apple-designed Fusion Architecture, which connects two dies into a single SoC, boosts performance. These chips combine two third-generation 3-nanometer (nm) dies with high bandwidth and low latency using advanced packaging. The two dies include a powerful new CPU, a scalable GPU, Media Engine, unified memory controller, Neural Engine and Thunderbolt 5 capabilities.\n\nThe new MacBook Air is powered by the latest M5, which features a faster CPU and next-generation GPU with a Neural Accelerator in each core. MacBook Air offers starting storage at 512GB with faster SSD technology, and is configurable up to 4TB. Apple’s N1 wireless chip delivers Wi-Fi 7 and Bluetooth 6 for seamless connectivity on the go, and the device features a 12MP Center Stage camera, up to 18 hours of battery life, and an immersive sound system with Spatial Audio.\n\nThe 14-inch and 16-inch MacBook Pro, powered by M5 Pro and M5 Max, adds superior performance and AI capabilities. MacBook Pro features a new CPU with the world’s fastest CPU core, a next-generation GPU with a Neural Accelerator in each core, and higher unified memory bandwidth, altogether delivering up to four times AI performance compared with the previous generation, and up to eight times AI performance compared to M1 models. MacBook Pro now comes with up to two times faster SSD performance and starts at 1TB of storage for M5 Pro and 2TB for M5 Max. The new MacBook Pro includes N1, an Apple-designed wireless networking chip that enables Wi-Fi 7 and Bluetooth 6.",
       "Language": "en"
     },
     {
