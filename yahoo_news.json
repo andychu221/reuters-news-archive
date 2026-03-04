@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-04T17:00:56.782Z",
-  "total_news_count": 498,
+  "last_updated": "2026-03-04T17:14:44.825Z",
+  "total_news_count": 502,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "01:02:25",
+      "Source": "Reuters",
+      "Title": "Intel CEO Lip-Bu Tan reconsidering fate of chipmaker's 18A manufacturing tech, CFO says",
+      "URL": "https://finance.yahoo.com/news/intel-ceo-lip-bu-tan-170225829.html",
+      "Content": "March 4 (Reuters) - Intel ( INTC ) CEO ‌Lip-Bu Tan ‌is now starting ​to recognize its 18A manufacturing technology ‌as ⁠a potential offering for ⁠external clients after ​relegating ​it ​largely to ‌internal use last year, Chief Financial Officer David Zinsner ‌said ​on ​Wednesday ​during a ‌tech conference in ​San ​Francisco.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "01:01:30",
+      "Source": "Motley Fool",
+      "Title": "Why Nebius Group Stock Charged Higher on Wednesday",
+      "URL": "https://finance.yahoo.com/m/766ccaef-5e67-30d9-bb20-68a7823f58c7/why-nebius-group-stock.html",
+      "Content": "Nebius Group (NASDAQ: NBIS) stock surged sharply higher today, gaining as much as 10.3%. As of 11:37 a.m. ET, the stock was still up 9.9%.\nThe artificial intelligence (AI) neocloud specialist reported an important development that gave shareholders reason to cheer.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "00:40:00",
+      "Source": "Motley Fool",
+      "Title": "Latest News From Amazon and Meta Shows Why Alphabet Is the AI Stock to Beat",
+      "URL": "https://finance.yahoo.com/m/51e559ca-d8be-3348-b7b8-96331e72eced/latest-news-from-amazon-and.html",
+      "Content": "Recent news coming out of Meta Platforms (NASDAQ: META) and Amazon (NASDAQ: AMZN) offers the latest proof for why Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the best artificial intelligence (AI) stocks to own.\nAccording to a report from The Information, Meta canceled the development of its most advanced custom AI chips after struggling with its design. It had planned to use the chips to help train its AI models. Instead, the social media giant will focus on a simpler version. This is the second AI training chip design that Meta has scrapped, demonstrating how difficult it can be to design these chips, even with the help of a company like Broadcom .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-05",
@@ -131,6 +161,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A13%E4%BA%A4%E6%98%93%E6%97%A5%E8%B7%8C2585%E9%BB%9E-%E8%9E%8D%E8%B3%87%E9%A4%98%E9%A1%8D%E6%B8%9B132%E5%84%84-135236532.html",
       "Content": "（中央社記者潘智義台北2026年03月4日電）台股今天收跌1494.77點，創史上第3大跌點，3個交易日連續下跌，累計下挫2585.61點，台股今天融資餘額新台幣3766.16億元，較前一交易日減少77.41億元；台股3個交易日融資餘額減132.44億元。\n台股今天收在32828.88點，跌1494.77點，成交值新台幣1兆325.86億元。\n台積電 (2330) 今天融資餘額2萬2209張，較前一交易日減少126張；聯電 (2303) 融資餘額7萬8349張，較前一交易日減少1860張。\n元大台灣50 (0050) 今天融資餘額1萬1351張，較前一交易日增加2954張。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "MCHP",
+      "Date": "2026-03-04",
+      "Time": "21:52:01",
+      "Source": "Barchart",
+      "Title": "Microchip Technology Stock: Is MCHP Outperforming the Technology Sector?",
+      "URL": "https://finance.yahoo.com/m/1e59a323-b176-379c-9c56-9b24c7209029/microchip-technology-stock%3A.html",
+      "Content": "Chandler, Arizona-based Microchip Technology Incorporated (MCHP) develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas and internationally. The company has a market cap of $38.6 billion and operates through Semiconductor Products and Technology Licensing segments.",
+      "Language": "en"
     },
     {
       "Ticker": "GOOGL",
