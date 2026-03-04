@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-04T14:51:34.636Z",
-  "total_news_count": 485,
+  "last_updated": "2026-03-04T15:15:04.620Z",
+  "total_news_count": 488,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-04",
+      "Time": "22:57:28",
+      "Source": "Yahoo Finance",
+      "Title": "Apple debuts $599 MacBook Neo, targeting schools and small businesses",
+      "URL": "https://finance.yahoo.com/news/apple-debuts-599-macbook-neo-targeting-schools-and-small-businesses-145728066.html",
+      "Content": "Apple ( AAPL ) unveiled its MacBook Neo, the company's long-rumored foray into the low-cost computer market, at an event in New York on Wednesday.\nStarting at $599, the Neo comes in four colors, including the splashy yellow-green Citrus, and is designed to appeal to consumers, schools, and businesses looking for a more affordable option than Apple's recently refreshed $1,099 MacBook Air.\nThe Neo features a 13-inch screen — a bit smaller than the standard MacBook Air's 13.6-inch display — and runs Apple's A18 Pro processor, similar to the chip that powers the company's iPhone 16 Pro and 16 Pro Max.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-04",
+      "Time": "22:50:00",
+      "Source": "Motley Fool",
+      "Title": "Why SoFi Stock Fell 22% Last Month",
+      "URL": "https://finance.yahoo.com/m/9a5caebc-a624-3f03-b0c2-ac77608d1e94/why-sofi-stock-fell-22%25-last.html",
+      "Content": "Last month, shares of SoFi Technologies (NASDAQ: SOFI) , a financial technology (fintech) services company, tumbled 22.1%, according to data provided by S&P Global Market Intelligence , as some investors reevaluated their exposure to some areas of the market.\nWhile no company-specific news drove SoFi lower in February, a few factors likely contributed to the stock's decline, including investor unease about the company's high valuation and the Federal Reserve's pause on interest rate cuts. It's also likely that investors fled SoFi stock as part of a broader shift toward safer investments.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-04",
+      "Time": "22:22:48",
+      "Source": "Reuters",
+      "Title": "Apple debuts $599 MacBook Neo to challenge Chromebooks, Windows PCs",
+      "URL": "https://finance.yahoo.com/news/apple-debuts-599-macbook-neo-142248754.html",
+      "Content": "By Akash Sriram and Stephen Nellis\nMarch 4 (Reuters) - Apple on Wednesday unveiled the MacBook Neo, a lower-priced addition to its laptop lineup starting at $599, as it looks to broaden ‌its reach in a price-sensitive PC market while rivals face tighter supply of memory chips.\nA ‌lower-priced laptop marks one of Apple's most aggressive entry points into the PC market in years. The new MacBook will be ​powered by the A18 Pro chip, the same processor that debuted in the company's iPhone 16 Pro models in 2024.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-04",
