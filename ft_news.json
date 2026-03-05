@@ -1,7 +1,40 @@
 {
-    "last_updated": "2026-03-04T22:09:48.845Z",
-    "total_news_count": 89,
+    "last_updated": "2026-03-05T10:06:04.527Z",
+    "total_news_count": 92,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-05",
+            "Time": "17:24:23",
+            "Title": "Nvidia stops production of chips intended for Chinese market",
+            "URL": "https://www.ft.com/content/47f1cf56-209f-46fb-a437-f769b9ccb2cb",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-05",
+            "Time": "13:00:04",
+            "Title": "Apple’s Eddy Cue: ‘This is just the beginning’ for US Formula 1 coverage",
+            "URL": "https://www.ft.com/content/a1789d2d-b755-49e3-ab83-8841d59ffa80",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-05",
+            "Time": "08:01:01",
+            "Title": "Can Nvidia’s margins last?",
+            "URL": "https://www.ft.com/content/ae8dc056-1613-414b-ba75-c34aba0056f2",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AVGO",
             "Date": "2026-03-05",
