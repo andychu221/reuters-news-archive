@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T14:20:28.965Z",
-  "total_news_count": 823,
+  "last_updated": "2026-03-05T14:31:48.031Z",
+  "total_news_count": 824,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-05",
+      "Time": "21:50:22",
+      "Source": "Reuters",
+      "Title": "Amazon launches AI-enabled platform to automate healthcare administrative tasks",
+      "URL": "https://finance.yahoo.com/news/amazon-launches-ai-enabled-platform-135022786.html",
+      "Content": "By Sahil Pandey\nMarch 5 (Reuters) - Amazon's ( AMZN ) cloud unit, AWS, said on Thursday it had launched an ‌artificial intelligence-enabled platform that aims to ease access ‌to care for patients and cut administrative work for healthcare ​providers.\nThe agentic AI-led platform, Amazon Connect Health, integrates with electronic health records that clinicians use for patient verification, appointment scheduling, compiling medical histories, clinical documentation, and medical coding, ‌AWS said in ⁠a blog post.\nIt is designed to operate around the clock, booking appointments instantly and ⁠escalating complex cases to staff as needed. It leverages specialized learning techniques on healthcare-specific data sets and guidelines.",
+      "Language": "en"
+    },
     {
       "Ticker": "2408.TW",
       "Date": "2026-03-05",
