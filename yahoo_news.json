@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-05T14:31:48.031Z",
-  "total_news_count": 824,
+  "last_updated": "2026-03-05T14:39:28.339Z",
+  "total_news_count": 826,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-05",
+      "Time": "22:26:20",
+      "Source": "Reuters",
+      "Title": "Codelco, Microsoft sign AI deal for mining operations",
+      "URL": "https://finance.yahoo.com/news/codelco-microsoft-sign-ai-deal-142620790.html",
+      "Content": "SANTIAGO, March 5 (Reuters) - Chile's state-owned Codelco, the world's largest copper producer, and Microsoft ‌signed a memorandum of understanding to evaluate ‌joint initiatives in artificial intelligence, advanced analytics, automation and digital ​security, the miner said on Thursday.\nKEY CONTEXT",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-05",
+      "Time": "22:06:02",
+      "Source": "Reuters",
+      "Title": "CVS taps Google Cloud to roll out AI-powered health platform",
+      "URL": "https://finance.yahoo.com/news/cvs-taps-google-cloud-roll-140602248.html",
+      "Content": "March 5 (Reuters) - CVS Health will launch an AI-enabled platform in partnership with Alphabet's Google Cloud ‌unit that will bring together data from diverse ‌sources to help customers manage their health in real time, they ​said on Thursday.\nHealth100 will be an integrated health care engagement platform for customers, regardless of the pharmacy or insurer they use. The initial launch of Health100 will be ‌in 2026, with ⁠details expected to be revealed at The Check Up, Google's annual health event later ⁠in March.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-05",
