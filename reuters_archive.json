@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-05",
-  "total_reports": 78,
+  "total_reports": 79,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Bonds",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T3ZT0AG:0/",
+      "Date": "2026-03-05",
+      "Time": "10:59:17",
+      "Title": "台灣債市：指標五及10年債早盤電子盤暫無成交，關注國際債市偏空氛圍",
+      "Content": "台灣指標五及10年公債周四早盤電子盤暫無成交；交易員稱，早上指標券電子盤交投依舊冷清，僅傳出處所有五年券115/1期 (A15101=TWO)撮合成交在1.345%，持續較上日微升，主要反應國際債市偏空，並觀望美國非農就業報告。 \n\n 他們指出，短線國際債市變數仍多，除了中東戰事外，市場也擔憂美國非農就業數據及美聯儲(FED)議息會議等重要基本面議題，皆將牽動美債進一步走勢。\n\n“國際債市偏空，買盤覺得不用著急可以慢慢買。”一大型銀行交易員說。\n\n本地時間10:41，五年期公債115/1期 (A15101=TWO)及10年公債115/3期 (A15103=TWO)電子盤尚無成交；台股則大彈2.67%。\n\n交易員預估，115/1期殖利率交易區間在1.33-1.36%；115/3期殖利率區間則在1.40-1.45%。（完）\n\n最新相關報導鏈接：\n\n--美國債市：收益率連續第三日攀升，通脹風險陰雲籠罩",
+      "ContentLength": 403,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-05 11:42:42"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3ZS0LH:0/",
