@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T12:43:49.216Z",
-  "total_news_count": 815,
+  "last_updated": "2026-03-05T13:00:15.520Z",
+  "total_news_count": 818,
   "news": [
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-05",
+      "Time": "20:25:48",
+      "Source": "GuruFocus.com",
+      "Title": "AMD Shares Rise on Meta AI Deal, Chip Demand",
+      "URL": "https://finance.yahoo.com/news/amd-shares-rise-meta-ai-122548085.html",
+      "Content": "This article first appeared on GuruFocus .\nAdvanced Micro Devices ( AMD , Financials ) shares climbed after the chipmaker announced new artificial intelligence initiatives and a major partnership with Meta Platforms ( META , Financials ).\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-03-05",
@@ -10,6 +20,26 @@
       "Title": "AMD Shares Rise on Meta AI Deal, Chip Demand",
       "URL": "https://finance.yahoo.com/news/amd-shares-rise-meta-ai-122548085.html",
       "Content": "This article first appeared on GuruFocus .\nAdvanced Micro Devices ( AMD , Financials ) shares climbed after the chipmaker announced new artificial intelligence initiatives and a major partnership with Meta Platforms ( META , Financials ).\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\nIs AMD fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "20:24:58",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia Shifts Focus After China Chip Roadblock",
+      "URL": "https://finance.yahoo.com/news/nvidia-shifts-focus-china-chip-122458420.html",
+      "Content": "This article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) is reportedly shifting its manufacturing plans after export restrictions stalled sales of its H200 AI chips to China , pushing the company to focus more heavily on its next generation Vera Rubin platform , according to a Financial Times report.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-05",
+      "Time": "20:08:19",
+      "Source": "GuruFocus.com",
+      "Title": "AMD Stock Pops as Ryzen AI 400 Chips Hit Strong Demand",
+      "URL": "https://finance.yahoo.com/news/amd-stock-pops-ryzen-ai-120819245.html",
+      "Content": "This article first appeared on GuruFocus .\nAdvanced Micro Devices ( NASDAQ:AMD ) rose nearly 6% on Wednesday. This sharp rally was driven by strong demand for artificial intelligence (AI) processors and growing catalysts from major collaborations with Meta Platforms ( NASDAQ:META ).\nThe agreement with Meta covers a 6-gigawatt deployment using AMD's Instinct GPUs to support the social media company's AI systems. The move highlights AMD's growing footprint in AI infrastructure, as businesses increasingly invest in AI technologies.",
       "Language": "en"
     },
     {
