@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-05T10:50:18.076Z",
-    "total_news_count": 157,
+    "last_updated": "2026-03-05T22:42:36.006Z",
+    "total_news_count": 159,
     "news": [
+        {
+            "Ticker": "META",
+            "Date": "2026-03-05",
+            "Time": "23:13:00",
+            "Title": "Meta to Open Up WhatsApp to Rival AI Chatbots for a Fee Following EU Objections - WSJ",
+            "URL": "https://www.wsj.com/business/meta-to-open-up-whatsapp-to-rival-ai-chatbots-for-a-fee-following-eu-objections-10330fe0",
+            "AI_Summary": "",
+            "Content": "Meta Platforms said it will let rival artificial-intelligence chatbots communicate with users on its WhatsApp messaging platform after the European Commission said it could impose a temporary injunction on the company as part of an antitrust probe into its AI policy.\n\nThe commission told Meta last month it was concerned that a new policy—which prevents rivals like ChatGPT from using a tool on WhatsApp for businesses that allows them to talk to users—could breach the bloc’s competition rules. It said there was an “urgent need” to put protective measures in place to prevent “serious and irreparable harm” to the market for general purpose AI assistants, pending Meta’s right of defense.\n\nMeta notified the commission of its plan to reinstate rival AI providers’ access to WhatsApp for a fee, a spokesperson for the European Union executive said, adding that officials are analyzing how the move could affect its probe.\n\n“For the next 12 months, we’ll support general purpose AI chatbots using the WhatsApp Business API in Europe in response to the European Commission’s regulatory process,” a WhatsApp spokesperson said. “We believe that this removes the need for any immediate intervention as it gives the European Commission the time it needs to conclude its investigation,” the spokesperson said.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "AVGO",
             "Date": "2026-03-05",
@@ -10,6 +21,17 @@
             "URL": "https://www.wsj.com/tech/ai/broadcoms-ai-business-is-booming-the-rest-is-complicated-eaaba206",
             "AI_Summary": "",
             "Content": "Perhaps the hardest thing about being in the artificial-intelligence chip business in 2026 is that big numbers don’t seem that big anymore.\n\nBroadcom’s numbers aren’t as sizable as Nvidia’s . But the company, once known for the radio-frequency chips it supplies to Apple, has built a strong AI chip business in its own right. Strong enough that the company said Wednesday that it has “line of sight” to sales from that business topping $100 billion in 2027. Broadcom’s entire annual revenue now sits at just under $70 billion.\n\nBut like Nvidia, Broadcom is having a hard time impressing investors with such blowout projections.\n\nBroadcom’s stock rose in after-hours trading Wednesday following its fiscal first-quarter report, but that comes on the heels of a drubbing the shares have taken of late. The stock had lost more than 20% since the company’s previous results, which also exceeded Wall Street’s estimates.\n\nNvidia’s stock has slumped more than 6% since its strong quarterly report last week. Meanwhile, the shares of Microsoft, Amazon.com and Google’s parent, Alphabet, which are each spending hundreds of billions of dollars on AI build-outs, are in the red this year.\n\nAt this point, clearing that level of AI funk is likely beyond any single company’s ability. Broadcom is at least putting up an effort.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-05",
+            "Time": "10:00:00",
+            "Title": "MacBook Neo and iPhone 17e First Impressions: The Return of Cheap and Cheerful - WSJ",
+            "URL": "https://www.wsj.com/tech/personal-tech/macbook-neo-and-iphone-17e-first-impressions-6187a113",
+            "AI_Summary": "",
+            "Content": "Every now and then, Apple sets aside its palette of austere silvers and grays, using both color and lower price points to appeal to a broader, mostly younger, audience. Sometimes it’s successful. Sometimes…not so much.\n\nThe new MacBook Neo and iPhone 17e are Apple’s latest bid for budget-conscious customers. Can a $599 price tag and candy-colored hues make up for the trade-offs of low-cost hardware?\n\nHere are my first impressions after spending half a day with the new gear, and my thoughts about what Apple’s past says about its present strategy.\n\nOn Wednesday, Apple splayed out its latest devices in an industrial New York warehouse. The MacBook Neo’s bright “citrus” hue immediately stood out against the brick walls. It isn’t quite brat—more akin to the Yellow Chartreuse liqueur.\n\nThe keyboard keys and footpads are coated to match the bright aluminum shell, which is a fun touch. But what really matters is how well this laptop can run apps, since it’s powered by a chip last seen in the iPhone 16 Pro.\n\nI opened over 25 browser tabs. The Neo seemed to handle those well. I saw a demo of apparel design in an app called Pixelmator Pro, and a live 3-D game from Apple Arcade, and it did fine there too. I need more time to test the Neo, though, to see how much real life it can take.",
             "Source": "WSJ",
             "Language": "en"
         },
