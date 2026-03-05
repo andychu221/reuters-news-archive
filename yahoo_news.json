@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T00:20:27.609Z",
-  "total_news_count": 583,
+  "last_updated": "2026-03-05T00:31:48.239Z",
+  "total_news_count": 585,
   "news": [
     {
       "Ticker": "2408.TW",
@@ -115,6 +115,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 1,
       "Keywords": "Bullish Thesis, Stock Price, P/E Ratio"
+    },
+    {
+      "Ticker": "LRCX",
+      "Date": "2026-03-05",
+      "Time": "06:45:04",
+      "Source": "Zacks",
+      "Title": "Lam Research (LRCX) Exceeds Market Returns: Some Facts to Consider",
+      "URL": "https://finance.yahoo.com/news/lam-research-lrcx-exceeds-market-224504574.html",
+      "Content": "In the latest close session, Lam Research (LRCX) was up +2.63% at $222.99. The stock outperformed the S&P 500, which registered a daily gain of 0.78%. At the same time, the Dow added 0.49%, and the tech-heavy Nasdaq gained 1.29%.\nPrior to today's trading, shares of the semiconductor equipment maker had lost 5.58% lagged the Computer and Technology sector's loss of 3.59% and the S&P 500's loss of 1.33%.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
@@ -349,6 +359,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "記憶體產業, 籌碼面清洗, 基本面, 逢低布局, 龍頭股"
+    },
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-03-05",
+      "Time": "05:02:01",
+      "Source": "Barchart",
+      "Title": "Citron Research Is Betting Against Sandisk Stock. Should You?",
+      "URL": "https://finance.yahoo.com/m/3a6fb18b-01a0-3380-8342-6aaac13eb9fc/citron-research-is-betting.html",
+      "Content": "It has been a great 12 months for Sandisk (SNDK) and its investors. SNDK stock is up more than 1,100% in the past 52 weeks on strong optimism that the company’s NAND flash storage products and other computing memory devices will continue to be in high demand. Sandisk was the best-performing stock in all of the S&P 500 ($SPX) in 2025, and is continuing its strong performance with a 150% year-to-date (YTD) gain.",
+      "Language": "en"
     },
     {
       "Ticker": "AAPL",
