@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-05T19:31:46.371Z",
-  "total_news_count": 862,
+  "last_updated": "2026-03-05T19:39:48.331Z",
+  "total_news_count": 865,
   "news": [
     {
       "Ticker": "AMZN",
@@ -23,6 +23,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSLA",
+      "Date": "2026-03-06",
+      "Time": "03:03:00",
+      "Source": "TheStreet",
+      "Title": "Tesla just made a move no other AI company has tried",
+      "URL": "https://finance.yahoo.com/m/8f9f331b-3a61-3dec-91e7-7345295fb645/tesla-just-made-a-move-no.html",
+      "Content": "Elon Musk made one of his boldest claims yet about Tesla's future on March 4, posting on X that Tesla will be among the companies to develop AGI and will \"probably\" be the first to achieve it in humanoid form through its Optimus robot program.\nThe statement instantly grabbed Wall Street 's attention. Tesla stock gained more than 3% in the session that followed, as investors weighed what an AGI-capable Optimus robot could mean for a company already carrying a massive premium valuation tied to its AI and robotics ambitions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-06",
+      "Time": "02:58:48",
+      "Source": "GuruFocus.com",
+      "Title": "Meta Opens WhatsApp to Rival AI Chatbots in EU",
+      "URL": "https://finance.yahoo.com/news/meta-opens-whatsapp-rival-ai-185848563.html",
+      "Content": "This article first appeared on GuruFocus .\nMeta Platforms ( META , Financials ) said it will allow competing artificial intelligence chatbots to operate on WhatsApp in Europe for the next 12 months, a move aimed at addressing regulatory concerns from the European Union.\nWarning! GuruFocus has detected 2 Warning Sign with META.\nIs META fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-03-06",
       "Time": "02:09:24",
@@ -40,6 +60,16 @@
       "Title": "Nvidia sinks on report of global AI chip export rules",
       "URL": "https://finance.yahoo.com/news/nvidia-sinks-report-global-ai-180924078.html",
       "Content": "Investing.com -- NVIDIA Corporation (NASDAQ:NVDA) fell 1.7% Thursday afternoon and Advanced Micro Devices (NASDAQ:AMD) dropped 2% after Bloomberg reported that the Trump administration is drafting regulations requiring licenses for AI chip exports worldwide.\nThe proposed rules would require companies to seek US government approval for virtually all exports of AI accelerators from Nvidia and AMD , expanding current restrictions that cover around 40 countries to a global framework, according to people familiar with the matter cited by Bloomberg.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MKSI",
+      "Date": "2026-03-06",
+      "Time": "01:20:02",
+      "Source": "Zacks",
+      "Title": "Why MKS (MKSI) Might be Well Poised for a Surge",
+      "URL": "https://finance.yahoo.com/news/why-mks-mksi-might-well-172002945.html",
+      "Content": "MKS (MKSI) appears an attractive pick given a noticeable improvement in the company's earnings outlook. The stock has been a strong performer lately, and the momentum might continue with analysts still raising their earnings estimates for the company.\nThe rising trend in estimate revisions, which is a result of growing analyst optimism on the earnings prospects of this maker of analysis and processing equipment for semiconductor companies, should get reflected in its stock price. After all, empirical research shows a strong correlation between trends in earnings estimate revisions and near-term stock price movements. Our stock rating tool -- the Zacks Rank -- is principally built on this insight.",
       "Language": "en"
     },
     {
