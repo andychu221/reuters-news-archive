@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-03-05T00:44:19.009Z",
-  "total_news_count": 608,
+  "last_updated": "2026-03-05T01:00:57.020Z",
+  "total_news_count": 613,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "08:43:31",
+      "Source": "Insider Monkey",
+      "Title": "Wedbush Raises Nvidia (NVDA) Price Target to $300",
+      "URL": "https://finance.yahoo.com/news/wedbush-raises-nvidia-nvda-price-004331124.html",
+      "Content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best WallStreetBets stocks to buy according to analysts . On March 2, Wedbush raised NVIDIA Corporation’s (NASDAQ:NVDA) price target from $230 to $300. It maintained the previous Outperform rating on the stock. The main reason for raising the price target was the earnings report on February 25 . Analysts were bullish on the stock even prior to the Q4 earnings. For instance, Oppenheimer analyst Rick Schafer reaffirmed his Buy rating and price target of $265 for NVIDIA Corporation (NASDAQ:NVDA) on February 19.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-05",
+      "Time": "08:42:54",
+      "Source": "Insider Monkey",
+      "Title": "New Ryzen Series Chips Add to Advanced Micro Devices’ (AMD) Bull Thesis",
+      "URL": "https://finance.yahoo.com/news/ryzen-series-chips-add-advanced-004254226.html",
+      "Content": "Advanced Micro Devices Inc. (NASDAQ:AMD) is one of the best WallStreetBets stocks to buy according to analysts . On March 2, Advanced Micro Devices Inc. (NASDAQ:AMD) revealed its new Ryzen AI 400 Series and the Ryzen AI PRO 400 Series chips. These new AI processors will be instrumental in powering on-device AI acceleration, especially those for high-performance laptops and PCs. Jack Huynh, the senior vice president and general manager of Computing and Graphics Group, explained how the new chips will help fulfill the demand for intelligent AI assistants:\nAccording to a February 19 report, Advanced Micro Devices Inc. (NASDAQ:AMD) is also stepping in to support a $300M loan for data center company Crusoe. The loan will be used to deploy AMD’s artificial intelligence accelerators in an Ohio data center. The report said that the loan is being provided by Goldman Sachs (GS). And it will be secured by AMD’s AI accelerators and related equipment, according to the source familiar with the matter.\nMoreover, if Crusoe cannot find customers for the chips, Advanced Micro Devices Inc. (NASDAQ:AMD) will rent them from the data center company.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-05",
+      "Time": "08:39:50",
+      "Source": "Insider Monkey",
+      "Title": "Broadcom Inc. (AVGO) Strengthens Position Across Semiconductors and Enterprise Software",
+      "URL": "https://finance.yahoo.com/news/broadcom-inc-avgo-strengthens-position-003950175.html",
+      "Content": "Broadcom Inc. (NASDAQ:AVGO) is one of the best blue chip stocks to buy for the long term . On March 2, at Mobile World Congress in Barcelona, Broadcom Inc. (NASDAQ:AVGO) unveiled VMware Telco Cloud Platform 9 (TCP 9). This is the next version of the company’s private cloud platform for telecom data centers. It is built on VMware Cloud Foundation 9 and designed to help global telecom operators cut costs while delivering sovereign cloud and AI services from a unified infrastructure.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "08:39:41",
+      "Source": "Insider Monkey",
+      "Title": "NVIDIA Corporation (NVDA) Powers the Next Era of Cloud and High-Performance Computing",
+      "URL": "https://finance.yahoo.com/news/nvidia-corporation-nvda-powers-next-003941297.html",
+      "Content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the best blue chip stocks to buy for the long term . On March 3, Akamai Technologies (NASDAQ:AKAM) announced it has acquired thousands of NVIDIA Blackwell GPUs to expand its distributed cloud infrastructure for AI inference workloads. The $14.2 billion cybersecurity and cloud computing company, whose stock has risen 26% over the past six months, said the deployment will support AI research, fine‑tuning, and post‑training optimization across its global network while reducing latency and data-transfer issues.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-05",
@@ -354,6 +394,16 @@
       "Title": "Lam Research (LRCX) Exceeds Market Returns: Some Facts to Consider",
       "URL": "https://finance.yahoo.com/news/lam-research-lrcx-exceeds-market-224504574.html",
       "Content": "In the latest close session, Lam Research (LRCX) was up +2.63% at $222.99. The stock outperformed the S&P 500, which registered a daily gain of 0.78%. At the same time, the Dow added 0.49%, and the tech-heavy Nasdaq gained 1.29%.\nPrior to today's trading, shares of the semiconductor equipment maker had lost 5.58% lagged the Computer and Technology sector's loss of 3.59% and the S&P 500's loss of 1.33%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-05",
+      "Time": "06:35:02",
+      "Source": "Zacks",
+      "Title": "Broadcom Inc. (AVGO) Tops Q1 Earnings and Revenue Estimates",
+      "URL": "https://finance.yahoo.com/news/broadcom-inc-avgo-tops-q1-223502747.html",
+      "Content": "Broadcom Inc. (AVGO) came out with quarterly earnings of $2.05 per share, beating the Zacks Consensus Estimate of $2.04 per share. This compares to earnings of $1.6 per share a year ago. These figures are adjusted for non-recurring items.\nThis quarterly report represents an earnings surprise of +0.76%. A quarter ago, it was expected that this chipmaker would post earnings of $1.87 per share when it actually produced earnings of $1.95, delivering a surprise of +4.28%.",
       "Language": "en"
     },
     {
