@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T08:00:13.770Z",
-  "total_news_count": 743,
+  "last_updated": "2026-03-05T08:31:45.742Z",
+  "total_news_count": 744,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-05",
+      "Time": "15:28:17",
+      "Source": "Insider Monkey",
+      "Title": "TD Cowen Reaffirms Buy Rating on Amazon (AMZN)",
+      "URL": "https://finance.yahoo.com/news/td-cowen-reaffirms-buy-rating-072817645.html",
+      "Content": "Amazon.com Inc. (NASDAQ: AMZN ) is one of the 15 best stocks to invest in according to billionaires .\nOn February 28, TD Cowen maintained a Buy rating with a $300 price target on Amazon.com Inc. (NASDAQ:AMZN). The firm views OpenAI’s announcement as “a positive signal for AWS.”\nFollowing OpenAI’s disclosure of a strategic partnership and $50 billion investment from Amazon.com Inc. (NASDAQ:AMZN), the firm noted that OpenAI will expand its AWS compute commitment by $100B, which includes leveraging 2 gigawatts of AWS Trainium capacity.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-03-05",
