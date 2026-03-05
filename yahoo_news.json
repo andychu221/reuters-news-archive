@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-05T02:00:27.144Z",
-  "total_news_count": 646,
+  "last_updated": "2026-03-05T02:14:41.953Z",
+  "total_news_count": 648,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "09:58:26",
+      "Source": "Motley Fool",
+      "Title": "Why Wix Stock Popped Today",
+      "URL": "https://finance.yahoo.com/m/333faf68-668e-345a-8fe4-da801e782d91/why-wix-stock-popped-today.html",
+      "Content": "Shares of Wix.com (NASDAQ: WIX) rallied on Wednesday after the cloud-based web development specialist highlighted the success of its artificial intelligence (AI) initiatives.\nBy the close of trading, Wix's stock price was up more than 12%.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "09:25:00",
+      "Source": "Motley Fool",
+      "Title": "Better Artificial Intelligence Stock: Nvidia vs. AMD",
+      "URL": "https://finance.yahoo.com/m/921845de-4fee-3e91-815f-5e1cbeea32e8/better-artificial.html",
+      "Content": "Nvidia (NASDAQ: NVDA) is the hands-down leader in artificial intelligence (AI) processors, but rival Advanced Micro Devices (NASDAQ: AMD) has struck some high-profile deals lately that have piqued investor interest.\nWith Nvidia predicting annual AI infrastructure spending of up to $4 trillion by 2030, investors may be wondering which company will grab the biggest piece of the pie over the coming years.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-05",
