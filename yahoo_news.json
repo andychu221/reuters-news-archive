@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T20:39:36.006Z",
-  "total_news_count": 871,
+  "last_updated": "2026-03-05T21:00:17.496Z",
+  "total_news_count": 872,
   "news": [
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-06",
+      "Time": "04:00:29",
+      "Source": "GuruFocus.com",
+      "Title": "Credo Shares Jump 10% as Broadcom Backs Copper Over Optical Tech",
+      "URL": "https://finance.yahoo.com/news/credo-shares-jump-10-broadcom-200029682.html",
+      "Content": "This article first appeared on GuruFocus .\nCredo Technologies ( NASDAQ:CRDO ) shares climbed more than 10% on Thursday, while Lumentum ( NASDAQ:LITE ) and Coherent ( NYSE:COHR ) fell 2% and 3%, respectively, following comments from Broadcom ( NASDAQ:AVGO ) on preferred data-center interconnect technology.\nBroadcom said it favors direct-attach copper for connecting large processor racks in AI data centers, citing lower latency, reduced power use, and cost advantages compared with co-packaged optics (CPOs). The company noted that copper can scale from 100G to 400G in rack-level clusters, even as optical solutions remain important for larger, scaled-out deployments.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-03-06",
