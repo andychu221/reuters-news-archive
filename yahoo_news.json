@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T13:00:15.520Z",
-  "total_news_count": 818,
+  "last_updated": "2026-03-05T13:14:36.980Z",
+  "total_news_count": 821,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "20:42:00",
+      "Source": "Motley Fool",
+      "Title": "Intel Stock Dropped by More Than 6% in February. Here's What Happened.",
+      "URL": "https://finance.yahoo.com/m/5dbc78c0-55fb-3dc0-8878-021b41226e70/intel-stock-dropped-by-more.html",
+      "Content": "After years of struggle for Intel (NASDAQ: INTC) , its 84% stock price surge in 2025 offered shareholders some confidence that a turnaround was taking shape at the chipmaker.\nInvestors were looking for signs that its momentum could carry over into 2026, but Intel's shares dropped by 6.5% in February, showing how quickly confidence can shift.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-03-05",
@@ -30,6 +40,26 @@
       "Title": "Nvidia Shifts Focus After China Chip Roadblock",
       "URL": "https://finance.yahoo.com/news/nvidia-shifts-focus-china-chip-122458420.html",
       "Content": "This article first appeared on GuruFocus .\nNvidia ( NASDAQ:NVDA ) is reportedly shifting its manufacturing plans after export restrictions stalled sales of its H200 AI chips to China , pushing the company to focus more heavily on its next generation Vera Rubin platform , according to a Financial Times report.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-05",
+      "Time": "20:22:38",
+      "Source": "GuruFocus.com",
+      "Title": "Intel Faces Lawmaker Scrutiny Over China Linked Chip Tools",
+      "URL": "https://finance.yahoo.com/news/intel-faces-lawmaker-scrutiny-over-122238965.html",
+      "Content": "This article first appeared on GuruFocus .\nIntel ( INTC , Financials ) is facing scrutiny from U.S. lawmakers over its testing of semiconductor manufacturing equipment from ACM Research, a company with ties to China.\nWarning! GuruFocus has detected 8 Warning Signs with INTC.\nIs INTC fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-05",
+      "Time": "20:14:00",
+      "Source": "Motley Fool",
+      "Title": "Is Apple Stock Going to $1,000?",
+      "URL": "https://finance.yahoo.com/m/4c7333f3-dbfd-34a8-96e7-5a79eb94aeff/is-apple-stock-going-to.html",
+      "Content": "As evidenced by its market cap of $3.9 trillion, Apple (NASDAQ: AAPL) is one of the most valuable businesses on the face of the planet. To get to this point, it's no surprise that the share price has performed exceptionally well. Just in the past decade, it has soared 953% (as of March 2).\nInvestors are always thinking about the future. Is Apple stock headed to $1,000?\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
       "Language": "en"
     },
     {
