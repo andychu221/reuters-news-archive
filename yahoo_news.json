@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T21:14:46.189Z",
-  "total_news_count": 873,
+  "last_updated": "2026-03-05T21:36:49.711Z",
+  "total_news_count": 874,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-06",
+      "Time": "05:08:20",
+      "Source": "Reuters",
+      "Title": "Marvell forecasts first quarter revenue above estimates",
+      "URL": "https://finance.yahoo.com/news/marvell-forecasts-first-quarter-revenue-210820027.html",
+      "Content": "March 5 (Reuters) - Chip designer Marvell Technology forecast ‌first-quarter revenue above Wall ‌Street estimates on Thursday, signaling ​rising demand for custom semiconductors used in data centers to support artificial ‌intelligence applications.\nShares ⁠of the company rose around 6% in ⁠extended trading.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-06",
