@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T17:39:34.050Z",
-  "total_news_count": 849,
+  "last_updated": "2026-03-05T18:00:19.426Z",
+  "total_news_count": 850,
   "news": [
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-06",
+      "Time": "01:03:30",
+      "Source": "GuruFocus.com",
+      "Title": "Broadcom Shares Jump After CEO Projects AI Chip Revenue Over $100 Billion",
+      "URL": "https://finance.yahoo.com/news/broadcom-shares-jump-ceo-projects-170330730.html",
+      "Content": "This article first appeared on GuruFocus .\nBroadcom ( NASDAQ:AVGO ) climbed 6% early Thursday after reporting fiscal first-quarter results that exceeded analyst expectations, driven by rising demand for artificial intelligence (AI) infrastructure.\nThe semiconductor and software company said AI-related revenue more than doubled year over year to $8.4 billion. Total sales rose 29% to $19.31 billion, slightly above analysts' forecast of $19.26 billion. Adjusted earnings reached $2.05 per share, surpassing the $2.03 estimate.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-03-06",
