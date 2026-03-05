@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T05:43:58.755Z",
-  "total_news_count": 703,
+  "last_updated": "2026-03-05T06:00:29.128Z",
+  "total_news_count": 706,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "13:50:00",
+      "Source": "Motley Fool",
+      "Title": "Stock-Split Watch: Is Nvidia Next?",
+      "URL": "https://finance.yahoo.com/m/d634fa48-58e6-3d0c-a671-b6568ff8420c/stock-split-watch%3A-is-nvidia.html",
+      "Content": "One of the biggest winners of the artificial intelligence (AI) boom has been chipmaker Nvidia (NASDAQ: NVDA) . The company's revenue has soared more than 1,000% over the last five years, and its share price has done the same.\nBut unlike many other hot AI companies , Nvidia has issued numerous stock splits to keep its shares affordable, including two in the last five years alone. With shares now up more than 50% since the last split, is another split coming? Here's what we know.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-05",
@@ -13,6 +23,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "13:12:22",
+      "Source": "Reuters",
+      "Title": "Nvidia halts China-bound H200 output, shifts TSMC capacity to Vera Rubin, FT reports",
+      "URL": "https://finance.yahoo.com/news/nvidia-refocuses-tsmc-capacity-export-051222259.html",
+      "Content": "March 5 (Reuters) - Nvidia has stopped production of its second-most advanced artificial intelligence ‌chips, known as H200 chips, intended for ‌the Chinese market, the Financial Times reported on Thursday.\nThe ​U.S. chipmaker has reallocated manufacturing capacity at chip contract maker TSMC away from making H200 chips to its next-generation Vera Rubin hardware, the ‌report said, ⁠citing two people with knowledge of the matter.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-03-05",
       "Time": "13:07:02",
@@ -21,6 +41,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E8%AD%B7%E5%8F%B0%E8%82%A1-%E6%94%BF%E9%99%A2-%E8%B7%8C%E5%B9%85%E5%B0%8F%E6%96%BC%E6%97%A5%E9%9F%93%E8%82%A1-%E9%81%A9%E6%99%82%E7%A5%AD%E5%87%BA%E7%A9%A9%E5%AE%9A%E6%8E%AA%E6%96%BD-050702638.html",
       "Content": "因中東情勢影響，台股近日大幅波動，市場關注政府會否出手，對此，行政院與金管會5日重申，台股基本面良好，且2～4日跌幅低於日韓等市場，將密切關注，適時採取相關穩定措施。\n行政院長卓榮泰5日在行政院院會指出，台股2～4日跌幅，較日韓等市場低，目前尚在可控的範圍內，尤其今（5日）已呈現較大幅度的上漲趨勢，但仍請財政部、金管會密切關注中東情勢發展及金融市場的動態，適時採取相關穩定措施。\n金管會證期局副局長黃厚銘在政院院會後記者會表示，近期受中東情勢影響，國際股市及台股波動較大，統計115年3月2日至3月4日台股集中市場跌幅7.3%，亞洲主要股市上海跌1.93%、香港跌5.19%、日本跌7.82%、韓國跌18.43%，台股跌幅介於亞洲主要股市之間。\n不過黃厚銘強調，台股日前雖然下跌，但基本面仍相當良好。今年截至1月底本益比約25.84倍，現金殖利率2.06%（加計股票股利為2.12%），國內上市櫃公司115年1月底營收金額為4.724兆元，較去年同期成長30.96%，營收金額為歷年同期最高。\n對於後續措施，黃厚銘指出，將適時督導證交所及櫃買中心於盤後發布新聞稿，呼籲投資人理性面對短期波動。並持續密切關注國際政經情勢發展及台股相關指標變化，適時採行相應之措施。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-05",
+      "Time": "12:50:00",
+      "Source": "Motley Fool",
+      "Title": "Nvidia vs. Amazon: Which AI Stock Is a Better Buy Now?",
+      "URL": "https://finance.yahoo.com/m/3d8fd36a-df63-3cf2-b890-c8c168905d80/nvidia-vs.-amazon%3A-which-ai.html",
+      "Content": "When it comes to the artificial intelligence (AI) boom, few companies are as central to it as Nvidia (NASDAQ: NVDA) and Amazon (NASDAQ: AMZN) . Even more, both companies have seen their revenue growth rates accelerate recently.\nStill, if you were to judge strictly by the two companies' growth rates alone, choosing between the two would be easy. Nvidia posted a staggering 73% year-over-year revenue increase to $68.1 billion. And Amazon's sales rose 14% to $213.4 billion, reflecting a more diversified operational base.",
+      "Language": "en"
     },
     {
       "Ticker": "AMZN",
