@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-05T18:39:57.408Z",
-  "total_news_count": 854,
+  "last_updated": "2026-03-05T19:00:34.656Z",
+  "total_news_count": 859,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-06",
+      "Time": "02:09:24",
+      "Source": "Investing.com",
+      "Title": "Nvidia sinks on report of global AI chip export rules",
+      "URL": "https://finance.yahoo.com/news/nvidia-sinks-report-global-ai-180924078.html",
+      "Content": "Investing.com -- NVIDIA Corporation (NASDAQ:NVDA) fell 1.7% Thursday afternoon and Advanced Micro Devices (NASDAQ:AMD) dropped 2% after Bloomberg reported that the Trump administration is drafting regulations requiring licenses for AI chip exports worldwide.\nThe proposed rules would require companies to seek US government approval for virtually all exports of AI accelerators from Nvidia and AMD , expanding current restrictions that cover around 40 countries to a global framework, according to people familiar with the matter cited by Bloomberg.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-06",
+      "Time": "02:09:24",
+      "Source": "Investing.com",
+      "Title": "Nvidia sinks on report of global AI chip export rules",
+      "URL": "https://finance.yahoo.com/news/nvidia-sinks-report-global-ai-180924078.html",
+      "Content": "Investing.com -- NVIDIA Corporation (NASDAQ:NVDA) fell 1.7% Thursday afternoon and Advanced Micro Devices (NASDAQ:AMD) dropped 2% after Bloomberg reported that the Trump administration is drafting regulations requiring licenses for AI chip exports worldwide.\nThe proposed rules would require companies to seek US government approval for virtually all exports of AI accelerators from Nvidia and AMD , expanding current restrictions that cover around 40 countries to a global framework, according to people familiar with the matter cited by Bloomberg.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-06",
@@ -53,6 +73,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "AVGO",
+      "Date": "2026-03-06",
+      "Time": "00:43:00",
+      "Source": "Zacks",
+      "Title": "Broadcom Q1 Earnings Beat Estimates, Revenues Up Y/Y, Shares Rise",
+      "URL": "https://finance.yahoo.com/news/broadcom-q1-earnings-beat-estimates-164300443.html",
+      "Content": "Broadcom AVGO reported first-quarter fiscal 2026 non-GAAP earnings of $2.05 per share, beating the Zacks Consensus Estimate by 0.99% and jumping 28.1% year over year.\n\nRevenues rallied 29.5% year over year to $19.31 billion and beat the Zacks Consensus Estimate by 0.13%.\n\nAVGO shares jumped more than 4% at the time of writing this article. The stock has appreciated 83.2% in the trailing 12 months compared with the Zacks Computer & Technology sector’s return of 31.5%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-06",
+      "Time": "00:31:00",
+      "Source": "Zacks",
+      "Title": "AMD Expands AI Portfolio With New Ryzen Chips: Can the Tech Deliver?",
+      "URL": "https://finance.yahoo.com/news/amd-expands-ai-portfolio-ryzen-163100046.html",
+      "Content": "Advanced Micro Devices AMD is expanding its AI Ryzen portfolio, with the new Ryzen AI 400 Series and Ryzen AI PRO 400 Series desktop processors, as announced at Mobile World Congress. The latest Ryzen AI 400 Series processors will help OEMs, including HP and Lenovo, offer next-gen AI PCs across high-performance desktops, laptops and mobile workstations. AMD is also expanding the Ryzen AI 400 Series mobile portfolio to include workstations.\n\nAMD’s Ryzen AI 400 Series processors are the first for next-generation desktop AI PCs that support Microsoft Copilot+ PC experiences. The processors feature high-performance “Zen 5” central processing unit (CPU) cores with AMD RDNA 3.5 graphics, and a dedicated AMD XDNA 2 neural processing unit (NPU). The NPUs provide up to 50 TOPS of AI compute, which enables these processors help users run AI assistants and productivity tools locally on the PC, thereby securing data.\n\nAMD is set to benefit from an expanding AI PC portfolio with the launch of the Ryzen AI 9 HX PRO 470 that delivers up to 30% faster multithreaded performance compared to Intel’ s INTC Core Ultra X7 358. The processor features a high-performance NPU that delivers up to 60 TOPS of AI compute, and leverages advanced on-device AI acceleration to deliver measurable efficiency gains.\n\nThe expanding AI PC portfolio is expected to boost AMD’s Client and Gaming segment revenues, which jumped 51% year over year in 2025. For the first quarter of 2026, the company expects strong Client and Gaming segment revenue growth on a year-over-year basis but a decline sequentially due to seasonality.",
+      "Language": "en"
+    },
+    {
       "Ticker": "SWKS",
       "Date": "2026-03-06",
       "Time": "00:30:14",
@@ -70,6 +110,16 @@
       "Title": "Why Is Lumentum (LITE) Up 46.2% Since Last Earnings Report?",
       "URL": "https://finance.yahoo.com/news/why-lumentum-lite-46-2-163010508.html",
       "Content": "It has been about a month since the last earnings report for Lumentum (LITE). Shares have added about 46.2% in that time frame, outperforming the S&P 500.\nWill the recent positive trend continue leading up to its next earnings release, or is Lumentum due for a pullback? Well, first let's take a quick look at the latest earnings report in order to get a better handle on the recent drivers for Lumentum Holdings Inc. before we dive into how investors and analysts have reacted as of late.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-06",
+      "Time": "00:30:04",
+      "Source": "Zacks",
+      "Title": "Advanced Micro (AMD) Up 0.9% Since Last Earnings Report: Can It Continue?",
+      "URL": "https://finance.yahoo.com/news/advanced-micro-amd-0-9-163004209.html",
+      "Content": "It has been about a month since the last earnings report for Advanced Micro Devices (AMD). Shares have added about 0.9% in that time frame, outperforming the S&P 500.\nBut investors have to be wondering, will the recent positive trend continue leading up to its next earnings release, or is Advanced Micro due for a pullback? Before we dive into how investors and analysts have reacted as of late, let's take a quick look at its latest earnings report in order to get a better handle on the important drivers.",
       "Language": "en"
     },
     {
