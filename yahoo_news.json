@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-05T17:00:28.430Z",
-  "total_news_count": 841,
+  "last_updated": "2026-03-05T17:14:32.307Z",
+  "total_news_count": 842,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-06",
+      "Time": "00:59:07",
+      "Source": "GuruFocus.com",
+      "Title": "Apple, Microsoft, Palantir Lead Wedbush Top Tech Picks Amid Iran Tensions",
+      "URL": "https://finance.yahoo.com/news/apple-microsoft-palantir-lead-wedbush-165907289.html",
+      "Content": "This article first appeared on GuruFocus .\nAmid ongoing geopolitical friction with Iran, Wedbush Securities highlighted Apple ( NASDAQ:AAPL ), Microsoft ( NASDAQ:MSFT ), ServiceNow (NOW), and seven other tech firms as top picks to navigate market uncertainty.\nThe analysts described these companies as defensive names with resilient business models, pointing to exposure in cybersecurity and government contracts. Palantir ( NASDAQ:PLTR ) is singled out for its AI-powered platform, which is increasingly used in U.S. federal defense projects.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-06",
