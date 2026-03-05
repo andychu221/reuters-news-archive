@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-05T11:20:30.498Z",
-  "total_news_count": 802,
+  "last_updated": "2026-03-05T11:39:47.303Z",
+  "total_news_count": 804,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-03-05",
+      "Time": "19:13:54",
+      "Source": "GuruFocus.com",
+      "Title": "Meta Pushes Deeper Into Custom AI Chips",
+      "URL": "https://finance.yahoo.com/news/meta-pushes-deeper-custom-ai-111354863.html",
+      "Content": "This article first appeared on GuruFocus .\nMeta Platforms ( NASDAQ:META ) is exploring a bigger role for its own custom chips as it looks for ways to support the growing demands of artificial intelligence, including eventually using in house silicon to train AI models , according to comments from CFO Susan Li reported by Bloomberg.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-05",
+      "Time": "18:50:00",
+      "Source": "Motley Fool",
+      "Title": "2 Popular Artificial Intelligence (AI) Stocks to Sell Before They Drop by as Much as 94%, According to Select Wall Street Analysts",
+      "URL": "https://finance.yahoo.com/m/9712dd8e-a74e-30f9-a9e7-a92637e85ccd/2-popular-artificial.html",
+      "Content": "Both Tesla (NASDAQ: TSLA) and Palantir (NASDAQ: PLTR) have gotten off to rough starts this year, but some analysts think more pain could be in store for their shareholders.\nGLJ Research reiterated its sell rating on Tesla with a 12-month price target of $25.28 in late February. That implies a 94% downside from its current share price of about $409.\nRBC Capital's Rishi Jaluria reiterated his sell rating on Palantir with a price target of $50 ahead of its fourth-quarter earnings report. That implies a 63% downside from its current share price of about $135.",
+      "Language": "en"
+    },
     {
       "Ticker": "2379.TW",
       "Date": "2026-03-05",
