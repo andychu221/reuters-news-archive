@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-06T22:20:20.902Z",
-  "total_news_count": 1136,
+  "last_updated": "2026-03-06T23:00:10.924Z",
+  "total_news_count": 1138,
   "news": [
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-07",
+      "Time": "06:01:00",
+      "Source": "Motley Fool",
+      "Title": "Broadcom's Growth Is Accelerating. Time to Buy the Stock?",
+      "URL": "https://finance.yahoo.com/m/b1208713-1677-3236-ba68-17b86c106cc4/broadcom%27s-growth-is.html",
+      "Content": "Given the market's enthusiasm for artificial intelligence (AI) infrastructure, investors have good reason to actively seek companies demonstrating real, verifiable financial benefits from the boom.\nOne stock that has been a major beneficiary is Broadcom (NASDAQ: AVGO) . The semiconductor and infrastructure software specialist just delivered a blowout quarterly report. Not only did Broadcom's top-line growth accelerate, but the company also provided robust forward guidance. CEO Hock Tan has positioned the company perfectly to capture surging demand for the underlying hardware powering the AI revolution.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "05:26:04",
+      "Source": "Reuters",
+      "Title": "Nvidia sets $4 million target cash bonus for CEO Huang under fiscal 2027 plan",
+      "URL": "https://finance.yahoo.com/news/nvidia-sets-4-million-cash-212604965.html",
+      "Content": "March 6 (Reuters) - Nvidia ( NVDA ) has adopted a new variable compensation plan ‌for fiscal 2027 that sets ‌a target cash bonus of $4 million for CEO ​Jensen Huang, according to a regulatory filing on Friday.\nThe plan, approved by Nvidia's compensation committee on March 2, ‌ties executive ⁠cash bonuses to the achievement of specific revenue goals for ⁠the fiscal year ending January 31, 2027.\nMore from Yahoo Scout",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-07",
