@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T01:20:08.521Z",
+  "last_updated": "2026-03-06T01:20:31.940Z",
   "total_news_count": 930,
   "news": [
+    {
+      "Ticker": "2379.TW",
+      "Date": "2026-03-06",
+      "Time": "09:02:10",
+      "Source": "中央社財經",
+      "Title": "【公告】瑞昱 2026年2月合併營收104.82億元 年增-7.41%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%91%9E%E6%98%B1-2026%E5%B9%B42%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6104-82%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E-010210123.html",
+      "Content": "<div><p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text-batcave\">日期： 2026 年 03 月 06日</p><p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text-batcave\">上市公司：瑞昱 (2379)</p><p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text-batcave\">單位：仟元</p><table class=\"atom-table w-full mb-module-gap\"><thead><tr><th><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">【公告】瑞昱 2026年2月合併營收 (單位：仟元)</p></th></tr></thead><tbody><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">項目</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">合併營業收入淨額</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">本月</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">10,482,135</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">去年同期</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">11,321,090</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">增減金額</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-838,955</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">增減百分比</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">-7.41</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">本年累計</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">24,059,773</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">去年累計</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">23,189,792</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">增減金額</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">869,981</p></td></tr><tr><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">增減百分比</p></td><td><p class=\"break-words leading-[1.63] text-px16 lg:leading-[1.8] lg:text-px18 text-batcave\">3.75</p></td></tr></tbody></table></div>",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-03-06",
@@ -295,16 +305,6 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "地緣政治風險, 油價飆升, 通膨擔憂, 股市震盪"
-    },
-    {
-      "Ticker": "KLAC",
-      "Date": "2026-03-06",
-      "Time": "07:00:03",
-      "Source": "Zacks",
-      "Title": "Here's Why KLA (KLAC) Fell More Than Broader Market",
-      "URL": "https://finance.yahoo.com/news/heres-why-kla-klac-fell-230003274.html",
-      "Content": "In the latest trading session, KLA (KLAC) closed at $1,426.14, marking a -3.37% move from the previous day. This change lagged the S&P 500's 0.57% loss on the day. At the same time, the Dow lost 1.61%, and the tech-heavy Nasdaq lost 0.26%.\nThe stock of maker of equipment for manufacturing semiconductors has risen by 12.9% in the past month, leading the Computer and Technology sector's loss of 0.64% and the S&P 500's loss of 0.15%.",
-      "Language": "en"
     },
     {
       "Ticker": "QCOM",
