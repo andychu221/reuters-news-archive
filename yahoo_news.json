@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T10:31:52.003Z",
-  "total_news_count": 1049,
+  "last_updated": "2026-03-06T10:36:32.749Z",
+  "total_news_count": 1050,
   "news": [
     {
       "Ticker": "2408.TW",
@@ -11,6 +11,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%88%E6%8F%90%E6%AC%BE%EF%BC%81%E5%8F%B0%E5%A1%91%E5%AE%A3%E5%B8%83%E4%BB%8A%E8%B5%B7%E8%A6%81%E8%B3%A3%E5%8D%97%E4%BA%9E%E7%A7%91619%E8%90%AC%E5%BC%B5-%E4%BC%B0%E5%85%A5%E8%A2%8B144%E5%84%84%E5%85%83-101308401.html",
       "Content": "台塑（1301）今（6）日公告，董事會通過處分南亞科（2408）6.19萬張股票，以今日收盤價233元估算，預計交易總金額約144.39億元。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-06",
+      "Time": "18:12:15",
+      "Source": "Reuters",
+      "Title": "Marvell Tech shares rally on forecast for multi-year AI-chip growth",
+      "URL": "https://finance.yahoo.com/news/marvell-tech-shares-rally-forecast-101215862.html",
+      "Content": "March 6 (Reuters) - Marvell Technology shares surged nearly 12% before the opening bell on Friday as investors bet on strengthening demand for its ‌AI-focused custom chips and interconnect technologies following an upbeat long-term forecast.\nAI‑chip ‌spending has accelerated industry-wide. Broadcom, a key supplier of custom accelerators and networking silicon, this week ​projected more than $100 billion in AI chip sales next year, underscoring demand widening beyond Nvidia and deepening hyperscaler build-outs.",
+      "Language": "en"
     },
     {
       "Ticker": "2344.TW",
