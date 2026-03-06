@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T14:36:32.314Z",
-  "total_news_count": 1085,
+  "last_updated": "2026-03-06T14:40:03.433Z",
+  "total_news_count": 1087,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-06",
+      "Time": "22:17:43",
+      "Source": "TipRanks",
+      "Title": "Waystar announces expanded collaboration with Google Cloud",
+      "URL": "https://finance.yahoo.com/news/waystar-announces-expanded-collaboration-google-141743621.html",
+      "Content": "Waystar ( WAY ) announced an expanded collaboration with Google ( GOOG ) Cloud to accelerate its agentic AI capabilities and advance the industry toward an autonomous revenue cycle. Waystar delivers the mission-critical infrastructure that healthcare providers need to get paid. Across an extensively deployed payer-provider-patient network and more than one million providers, Waystar captures and normalizes rich financial and clinical data that fuels its AI-powered platform. By learning from downstream payment outcomes, Waystar creates a self-learning revenue cycle that continuously improves upstream prior authorization, patient coverage identification, and denial prevention – generating a powerful flywheel effect that delivers increasingly accurate, outcome-driven automation.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-06",
@@ -20,6 +30,16 @@
       "Title": "Is Nvidia (NVDA) Shifting its Investment Strategy Towards OpenAI and Anthropic?",
       "URL": "https://finance.yahoo.com/news/nvidia-nvda-shifting-investment-strategy-134938526.html",
       "Content": "NVIDIA Corporation (NASDAQ: NVDA ) is one of the Best IT Stocks to Buy According to Wall Street Analysts . On March 4, Reuters reported that NVIDIA Corporation (NASDAQ:NVDA)’s latest comments suggest that the company may be nearing the end of its investments in AI leaders OpenAI and Anthropic as both firms eye potential public listings. At a recent Morgan Stanley conference, Nvidia CEO Jensen Huang noted that a $100 billion dollar investment in OpenAI is probably not in the cards as the company expects an IPO. He also noted that the $10 billion stake in Anthropic is likely Nvidia’s final one, amid reports of the startup’s potential public debut despite its ongoing Pentagon dispute. In September 2025, Nvidia and OpenAI had discussed a potential $100 billion deal. However, Nvidia recently finalized a $30 billion investment deal calling it to be the last opportunity to invest in a “consequential company.” Moreover, a recent report by the Financial Times also suggests that Nvidia and OpenAI have abandoned their $100 billion deal considering the health of the AI sector.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-06",
+      "Time": "21:47:52",
+      "Source": "Insider Monkey",
+      "Title": "Microsoft (MSFT) to Deliver New Cloud PC Devices With ASUS and Dell",
+      "URL": "https://finance.yahoo.com/m/e8ebcd7c-ad4f-390b-a696-a14171fea119/microsoft-%28msft%29-to-deliver.html",
+      "Content": "Microsoft Corporation (NASDAQ: MSFT ) is one of the Best IT Stocks to Buy According to Wall Street Analysts . On February 26, Microsoft Corporation (NASDAQ:MSFT) announced that it is collaborating with ASUS and Dell to launch two new Cloud PC devices including the ASUS NUC 16 and Dell Pro Desktop.\nManagement highlighted that the Cloud PC devices are designed for seamless access to Windows 365 Cloud PCs. These PCs can boot directly into the cloud-hosted Windows environment, eliminating local data, apps, or admin access to minimize vulnerabilities. Microsoft launched Windows 365 Link in 2024, which pioneered this device category by allowing users to connect to their Cloud PCs in seconds through a locked-down OS called Windows CPC. The company has collaborated with ASUS and Dell to expand the Cloud PC device portfolio.",
       "Language": "en"
     },
     {
