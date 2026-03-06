@@ -1,7 +1,29 @@
 {
-    "last_updated": "2026-03-06T04:06:12.319Z",
-    "total_news_count": 93,
+    "last_updated": "2026-03-06T10:06:21.877Z",
+    "total_news_count": 95,
     "news": [
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-06",
+            "Time": "16:24:54",
+            "Title": "Middle East war strengthens case for renewables, says Microsoft energy chief",
+            "URL": "https://www.ft.com/content/001a7cb8-96a9-4b6c-95ad-d609976141c9",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-06",
+            "Time": "13:00:20",
+            "Title": "Iran hits Amazon data centres in jolt to Gulf AI drive",
+            "URL": "https://www.ft.com/content/09fa5c20-2c8f-4f41-9d91-c78476eaac20",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-06",
