@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T18:36:41.080Z",
-  "total_news_count": 1105,
+  "last_updated": "2026-03-06T18:39:57.422Z",
+  "total_news_count": 1107,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-07",
+      "Time": "02:22:52",
+      "Source": "GuruFocus.com",
+      "Title": "Tesla Stock Falls -- Why Analysts See Big Value in Megapack Batteries",
+      "URL": "https://finance.yahoo.com/news/tesla-stock-falls-why-analysts-182252987.html",
+      "Content": "This article first appeared on GuruFocus .\nShares of Tesla ( NASDAQ:TSLA ) dipped about 2% on Friday morning as investors weighed fresh commentary on the company's energy business and broader demand tied to the rapid expansion of artificial intelligence data centers.\nThe move followed a report from William Blair analyst Jed Dorsheimer, who reviewed global data-center construction trends and said demand for new facilities remains elevated. His tracking database shows more than 2,100 planned or announced projects, up about eight percent from the prior month, with total capacity in the pipeline estimated at roughly 174 gigawatts.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-03-07",
@@ -60,6 +70,16 @@
       "Title": "Nvidia pauses new AI startup bets after backing OpenAI, Anthropic",
       "URL": "https://finance.yahoo.com/m/927031d7-fefc-36b4-bcf0-ba57343b73c8/nvidia-pauses-new-ai-startup.html",
       "Content": "Nvidia (NASDAQ: NVDA) appears ready to step back from making major equity investments in artificial intelligence startups.\nSpeaking at the Morgan Stanley Technology, Media and Telecom conference in San Francisco on March 4, Nvidia CEO Jensen Huang suggested the chipmaker may have written its final big checks to leading AI developers such as OpenAI and Anthropic.\nThe company recently reduced its investment commitment to OpenAI from a previously announced $100 billion deal to roughly $30 billion . Huang also indicated that Nvidia’s $10 billion investment in Anthropic, made in November, may mark the end of its direct backing of AI startups.\nWhile the official explanation centers on the companies potentially going public later this year, the broader picture suggests Nvidia may be repositioning itself to avoid conflicts as AI competition escalates.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-07",
+      "Time": "00:30:11",
+      "Source": "Zacks",
+      "Title": "Alphabet (GOOGL) Down 9.2% Since Last Earnings Report: Can It Rebound?",
+      "URL": "https://finance.yahoo.com/news/alphabet-googl-down-9-2-163011251.html",
+      "Content": "A month has gone by since the last earnings report for Alphabet (GOOGL). Shares have lost about 9.2% in that time frame, underperforming the S&P 500.\nBut investors have to be wondering, will the recent negative trend continue leading up to its next earnings release, or is Alphabet due for a breakout? Well, first let's take a quick look at the most recent earnings report in order to get a better handle on the recent catalysts for Alphabet Inc. before we dive into how investors and analysts have reacted as of late.",
       "Language": "en"
     },
     {
