@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-05T10:06:04.527Z",
-    "total_news_count": 92,
+    "last_updated": "2026-03-06T04:06:12.319Z",
+    "total_news_count": 93,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-06",
+            "Time": "06:48:42",
+            "Title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges",
+            "URL": "https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-05",
