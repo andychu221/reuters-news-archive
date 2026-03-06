@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T18:39:57.422Z",
-  "total_news_count": 1107,
+  "last_updated": "2026-03-06T19:00:32.008Z",
+  "total_news_count": 1110,
   "news": [
     {
       "Ticker": "TSLA",
@@ -10,6 +10,26 @@
       "Title": "Tesla Stock Falls -- Why Analysts See Big Value in Megapack Batteries",
       "URL": "https://finance.yahoo.com/news/tesla-stock-falls-why-analysts-182252987.html",
       "Content": "This article first appeared on GuruFocus .\nShares of Tesla ( NASDAQ:TSLA ) dipped about 2% on Friday morning as investors weighed fresh commentary on the company's energy business and broader demand tied to the rapid expansion of artificial intelligence data centers.\nThe move followed a report from William Blair analyst Jed Dorsheimer, who reviewed global data-center construction trends and said demand for new facilities remains elevated. His tracking database shows more than 2,100 planned or announced projects, up about eight percent from the prior month, with total capacity in the pipeline estimated at roughly 174 gigawatts.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "02:17:00",
+      "Source": "TheStreet",
+      "Title": "Analyst rethinks under-the-radar stock backed by Nvidia",
+      "URL": "https://finance.yahoo.com/m/be911825-8717-3508-adf6-1918df265bd0/analyst-rethinks.html",
+      "Content": "Nvidia ’s ( NVDA ) backing is often seen as a vote of confidence in a company’s technology and growth potential.\nThe U.S. chip giant announced this week that it will invest $2 billion in Lumentum Holdings ( LITE ) and another $2 billion in Coherent Corp. ( COHR ), as it looks to strengthen supply chains needed for the massive buildout of AI infrastructure.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-07",
+      "Time": "02:13:42",
+      "Source": "Motley Fool",
+      "Title": "Why Micron Stock Is Sinking Today",
+      "URL": "https://finance.yahoo.com/m/2e2a09dd-050c-3e6f-baef-3965c4e6e3bf/why-micron-stock-is-sinking.html",
+      "Content": "Micron (NASDAQ: MU) stock is getting hit with another round of sell-offs in Friday's trading. The company's share price was down 2.8% as of 12:45 p.m. ET. At the same point in the daily session, the S&P 500 and the Nasdaq Composite had fallen 1.2% and 1.3%, respectively. The memory-chip leader's stock had been down as much as 5% earlier in the session.",
       "Language": "en"
     },
     {
@@ -70,6 +90,16 @@
       "Title": "Nvidia pauses new AI startup bets after backing OpenAI, Anthropic",
       "URL": "https://finance.yahoo.com/m/927031d7-fefc-36b4-bcf0-ba57343b73c8/nvidia-pauses-new-ai-startup.html",
       "Content": "Nvidia (NASDAQ: NVDA) appears ready to step back from making major equity investments in artificial intelligence startups.\nSpeaking at the Morgan Stanley Technology, Media and Telecom conference in San Francisco on March 4, Nvidia CEO Jensen Huang suggested the chipmaker may have written its final big checks to leading AI developers such as OpenAI and Anthropic.\nThe company recently reduced its investment commitment to OpenAI from a previously announced $100 billion deal to roughly $30 billion . Huang also indicated that Nvidia’s $10 billion investment in Anthropic, made in November, may mark the end of its direct backing of AI startups.\nWhile the official explanation centers on the companies potentially going public later this year, the broader picture suggests Nvidia may be repositioning itself to avoid conflicts as AI competition escalates.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "QCOM",
+      "Date": "2026-03-07",
+      "Time": "00:30:15",
+      "Source": "Zacks",
+      "Title": "Why Is Qualcomm (QCOM) Up 0.5% Since Last Earnings Report?",
+      "URL": "https://finance.yahoo.com/news/why-qualcomm-qcom-0-5-163015807.html",
+      "Content": "A month has gone by since the last earnings report for Qualcomm (QCOM). Shares have added about 0.5% in that time frame, outperforming the S&P 500.\nBut investors have to be wondering, will the recent positive trend continue leading up to its next earnings release, or is Qualcomm due for a pullback? Well, first let's take a quick look at the most recent earnings report in order to get a better handle on the recent drivers for QUALCOMM Incorporated before we dive into how investors and analysts have reacted as of late.",
       "Language": "en"
     },
     {
