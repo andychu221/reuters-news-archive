@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-03-06T16:36:47.435Z",
-  "total_news_count": 1099,
+  "last_updated": "2026-03-06T18:00:27.089Z",
+  "total_news_count": 1103,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "01:35:00",
+      "Source": "Motley Fool",
+      "Title": "Jensen Huang Just Delivered Incredible News for Nvidia Investors",
+      "URL": "https://finance.yahoo.com/m/fc52f429-159b-3488-82d3-f58a6b62c339/jensen-huang-just-delivered.html",
+      "Content": "Nvidia (NASDAQ: NVDA) supplies the world's best graphics processing units (GPUs), which are the primary chips used to power the development of artificial intelligence (AI) software. Now, it's gearing up to ship processors based on its new Rubin GPU architecture, which will offer further increases in performance over its industry-leading Blackwell chips.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "01:35:00",
+      "Source": "Motley Fool",
+      "Title": "Nvidia's CEO Says \"the Agentic AI Inflection Point Has Arrived.\" Here's Why Investors Should Listen.",
+      "URL": "https://finance.yahoo.com/m/0d6a5c59-9986-3c95-ba32-cffda87a7c3e/nvidia%27s-ceo-says-%22the.html",
+      "Content": "Nvidia (NASDAQ: NVDA) published its fourth-quarter results after the market closed on Feb. 25 and once again posted sales and earnings that surpassed Wall Street's expectations. It recorded non-GAAP (adjusted) earnings per share (EPS) of $1.62 on sales of $68.13 billion, beating the analysts' average estimates for EPS of $1.53 on revenue of $66.21 billion.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "01:29:08",
+      "Source": "Insider Monkey",
+      "Title": "NVIDIA Corporation (NVDA) Price Target Increased to $220 at Deutsche Bank",
+      "URL": "https://finance.yahoo.com/news/nvidia-corporation-nvda-price-target-172908747.html",
+      "Content": "NVIDIA Corporation (NASDAQ: NVDA ) is among the 10 Stocks That Could Skyrocket in 2026 .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "01:13:45",
+      "Source": "TheStreet",
+      "Title": "Nvidia pauses new AI startup bets after backing OpenAI, Anthropic",
+      "URL": "https://finance.yahoo.com/m/927031d7-fefc-36b4-bcf0-ba57343b73c8/nvidia-pauses-new-ai-startup.html",
+      "Content": "Nvidia (NASDAQ: NVDA) appears ready to step back from making major equity investments in artificial intelligence startups.\nSpeaking at the Morgan Stanley Technology, Media and Telecom conference in San Francisco on March 4, Nvidia CEO Jensen Huang suggested the chipmaker may have written its final big checks to leading AI developers such as OpenAI and Anthropic.\nThe company recently reduced its investment commitment to OpenAI from a previously announced $100 billion deal to roughly $30 billion . Huang also indicated that Nvidia’s $10 billion investment in Anthropic, made in November, may mark the end of its direct backing of AI startups.\nWhile the official explanation centers on the companies potentially going public later this year, the broader picture suggests Nvidia may be repositioning itself to avoid conflicts as AI competition escalates.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-06",
