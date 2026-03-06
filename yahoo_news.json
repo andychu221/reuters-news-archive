@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T01:44:29.239Z",
-  "total_news_count": 954,
+  "last_updated": "2026-03-06T02:14:40.241Z",
+  "total_news_count": 957,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-03-06",
+      "Time": "09:37:00",
+      "Source": "TheStreet",
+      "Title": "Apple’s latest product is a game-changer",
+      "URL": "https://finance.yahoo.com/m/9236b6c7-319e-3019-bf89-047f57e08d36/apple%E2%80%99s-latest-product-is-a.html",
+      "Content": "Apple ( AAPL ) stock has gained about 11% in the past year, at the time of writing, Thursday morning, March 5, according to Yahoo Finance . Meanwhile, the SPDR S&P 500 index ( SPY ) is up almost 19% in the same period.\nLagging behind the S&P 500 isn’t exactly a good result for the company. However, it isn’t a measure of the company's value, but of sentiment. The artificial boom has heavily inflated the price tags of some AI-heavy stocks, while Apple has been seen as an AI laggard.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-06",
@@ -63,6 +73,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-03-06",
+      "Time": "09:11:29",
+      "Source": "TheStreet",
+      "Title": "Who owns Apple? Institutional holdings & executives’ shares",
+      "URL": "https://finance.yahoo.com/m/4ec5a8a4-222c-3793-a1a5-53f65b8014da/who-owns-apple%3F-institutional.html",
+      "Content": "Apple is the world’s second-largest publicly traded company, valued at more than $3.8 trillion as of this article's last update. The company has rewarded investors handsomely, both in terms of its rising stock price and its quarterly dividend payments, which resumed in 2012.\nIts shares are held by both institutional and individual investors . Here’s what you need to know about the company's largest institutional, executive, and individual shareholders.",
+      "Language": "en"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-03-06",
       "Time": "09:11:00",
@@ -91,6 +111,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%85%A8%E9%9D%A2%E6%94%B6%E8%B7%8C%E5%BD%B1%E9%9F%BF-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E4%B8%8B%E6%BB%91227%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%96%8B1880%E5%85%83-010749000.html",
       "Content": "即時中心／綜合報導\n美國與以色列聯合對伊朗發動「史詩怒火行動（Operation Epic Fury）」邁入一週，國際油價持續高漲，引發投資人對通膨以及聯準會是否會降息的擔憂，美股週四（5日）全面收跌。台股今（6）日開盤走低，下跌189點、以33,483.94點開出，隨後持續下滑，目前指數來到33,445.4點、下跌227.54點。台積電ADR下跌1.00％，今台積電（2330）以1,880元開出、下滑20元。\n電子權值股方面，鴻海（2317）開221元，跌3元；聯發科（2454）以1,745元，下滑30元；廣達（2382）開287元，跌2.5元；台達電（2308）以1,340元開出，漲5元；日月光投控（3711）開346元，跌7.5元；聯電（2303）開62.1元平盤價；大立光（3008）開2,325元，跌35元。\n金融方面，富邦金（2881）以89.8元開出，跌0.7元；國泰金（2882）開73元，下滑0.6元；中信金（2891）以50.9元開出，跌0.6元；兆豐金（2886）開39.2元，跌0.1元；華南金（2880）下跌0.6元，開34.8元；第一金（2892）開28.8元，下跌0.25元；合庫金（5880）以23.35元開出，小跌0.05元。\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n原文出處： 快新聞／美股全面收跌影響！台股早盤下滑227點 台積電開1880元",
       "Language": "zh"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-06",
+      "Time": "09:07:14",
+      "Source": "Motley Fool",
+      "Title": "Why Okta Stock Popped Today",
+      "URL": "https://finance.yahoo.com/m/7d80697a-42b3-3c94-a476-3c4b205000f9/why-okta-stock-popped-today.html",
+      "Content": "Shares of Okta (NASDAQ: OKTA) rallied on Thursday after the identity security and access management specialist highlighted a new, artificial intelligence (AI)-driven growth opportunity.\nBy the close of trading, Okta's stock price was up 11%.\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
