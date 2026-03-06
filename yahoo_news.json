@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-03-05T23:44:29.285Z",
-  "total_news_count": 898,
+  "last_updated": "2026-03-06T00:00:38.089Z",
+  "total_news_count": 904,
   "news": [
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-06",
+      "Time": "07:31:09",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, March 5: Broadcom Rallies as as AI Chip Demand Strengthens Revenue Outlook",
+      "URL": "https://finance.yahoo.com/m/499be035-f135-36f3-95e9-1498a0620136/stock-market-today%2C-march-5%3A.html",
+      "Content": "Broadcom (NASDAQ:AVGO) , a provider of semiconductor devices and infrastructure software, closed Thursday at $332.6, up 4.75%. The stock moved higher after premarket earnings and guidance highlighted accelerating AI-driven revenue growth. Investors are now assessing whether demand for AI infrastructure can support Broadcom’s long-term sales targets.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-06",
+      "Time": "07:30:00",
+      "Source": "Motley Fool",
+      "Title": "This AI Stock is Now Nvidia's Biggest Holding. Is it a Buy?",
+      "URL": "https://finance.yahoo.com/m/67bda73f-18c4-3d97-bba9-1a6da2dafb77/this-ai-stock-is-now-nvidia%27s.html",
+      "Content": "Nvidia (NASDAQ: NVDA) is the name most of us think of when we think of artificial intelligence (AI). The company dominates the AI chip market with top products such as its Blackwell and Blackwell Ultra platforms, and these have led to explosive earnings growth.\nBut this tech giant isn't just a major player in the AI landscape; it's also an investor in other AI companies. Nvidia is ideally positioned to do this as it has visibility on what's happening in the AI market and what's to come.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-06",
+      "Time": "07:20:31",
+      "Source": "Motley Fool",
+      "Title": "Nvidia and AMD Could Face Worldwide AI Chip Export Controls Imposed By the Trump Administration",
+      "URL": "https://finance.yahoo.com/m/90641541-01ef-3788-8c63-db38d6a51755/nvidia-and-amd-could-face.html",
+      "Content": "Nvidia (NASDAQ: NVDA) and Advanced Micro Devices (NASDAQ: AMD) have been among the leading providers of the specialized processors used for artificial intelligence. These graphics processing units (GPUs) were originally designed to speed up graphics in video games -- hence the name. However, these semiconductors proved equally adept at accelerating AI processing, which sent demand for the chips soaring, due to the rising adoption of AI.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-06",
+      "Time": "07:20:31",
+      "Source": "Motley Fool",
+      "Title": "Nvidia and AMD Could Face Worldwide AI Chip Export Controls Imposed By the Trump Administration",
+      "URL": "https://finance.yahoo.com/m/90641541-01ef-3788-8c63-db38d6a51755/nvidia-and-amd-could-face.html",
+      "Content": "Nvidia (NASDAQ: NVDA) and Advanced Micro Devices (NASDAQ: AMD) have been among the leading providers of the specialized processors used for artificial intelligence. These graphics processing units (GPUs) were originally designed to speed up graphics in video games -- hence the name. However, these semiconductors proved equally adept at accelerating AI processing, which sent demand for the chips soaring, due to the rising adoption of AI.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-06",
+      "Time": "07:11:41",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, Mar. 5: Nvidia Edges Higher as Investors Weigh AI Data Center Spending Outlook",
+      "URL": "https://finance.yahoo.com/m/4be7c33d-fbee-36ee-b41a-86397b267cb8/stock-market-today%2C-mar.-5%3A.html",
+      "Content": "Nvidia (NASDAQ:NVDA) , which develops GPUs and AI hardware/software solutions, closed Thursday at $183.34, up 0.16%. The stock’s modest gain follows as overnight coverage highlights bullish 2026 price targets, potential stock split, and continued AI-driven earnings growth, which investors are monitoring to assess Nvidia’s long-term prospects.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-06",
+      "Time": "07:09:34",
+      "Source": "TheStreet",
+      "Title": "Legendary trader slams billion dollar Nvidia GPU deal for AI push",
+      "URL": "https://finance.yahoo.com/m/177450eb-98de-37b0-92ec-6196e2203760/legendary-trader-slams.html",
+      "Content": "Crypto miner turned AI infrastructure firm IREN (NASDAQ: IREN) is ramping up its ambitions in artificial intelligence.\nOn March 5, IREN announced the expansion of its equity fundraising capacity while purchasing a new fleet of Nvidia (NASDAQ: NVDA) GPUs.\nHowever, the strategy is already drawing scrutiny from one of Wall Street’s most well-known skeptics.",
+      "Language": "en"
+    },
     {
       "Ticker": "2408.TW",
       "Date": "2026-03-06",
