@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-06T11:21:11.218Z",
-  "total_news_count": 1061,
+  "last_updated": "2026-03-06T11:39:58.337Z",
+  "total_news_count": 1063,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-06",
+      "Time": "19:23:00",
+      "Source": "Motley Fool",
+      "Title": "Is Alphabet Stock Going to $1,000?",
+      "URL": "https://finance.yahoo.com/m/19e8eecf-d1bf-3f4e-a8fb-a78334425741/is-alphabet-stock-going-to.html",
+      "Content": "Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is one of the most successful companies that the world has ever seen. Its gargantuan market cap of $3.7 trillion trails only Nvidia and Apple . With its popular platforms and apps, this business deserves credit for making the internet more accessible for people.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-06",
+      "Time": "19:11:48",
+      "Source": "GuruFocus.com",
+      "Title": "Microsoft's AI Strategy Is Winning Over Wall Street",
+      "URL": "https://finance.yahoo.com/news/microsofts-ai-strategy-winning-over-111148118.html",
+      "Content": "This article first appeared on GuruFocus .\nShares of Microsoft ( NASDAQ:MSFT ) are in focus after an analyst at Jefferies reiterated a bullish view on the software company, citing its position in enterprise artificial intelligence adoption.\nJefferies analyst Brent Thill maintained a Buy rating on the stock and set a price target of $675. The analyst said Microsoft appears well placed to capture rising corporate spending on AI, helped by the integration of its cloud platform Azure with productivity tools such as Microsoft 365.",
+      "Language": "en"
+    },
     {
       "Ticker": "2408.TW",
       "Date": "2026-03-06",
