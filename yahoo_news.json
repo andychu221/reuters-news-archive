@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T01:00:21.124Z",
-  "total_news_count": 929,
+  "last_updated": "2026-03-06T01:20:08.521Z",
+  "total_news_count": 930,
   "news": [
     {
       "Ticker": "2454.TW",
@@ -295,6 +295,16 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "地緣政治風險, 油價飆升, 通膨擔憂, 股市震盪"
+    },
+    {
+      "Ticker": "KLAC",
+      "Date": "2026-03-06",
+      "Time": "07:00:03",
+      "Source": "Zacks",
+      "Title": "Here's Why KLA (KLAC) Fell More Than Broader Market",
+      "URL": "https://finance.yahoo.com/news/heres-why-kla-klac-fell-230003274.html",
+      "Content": "In the latest trading session, KLA (KLAC) closed at $1,426.14, marking a -3.37% move from the previous day. This change lagged the S&P 500's 0.57% loss on the day. At the same time, the Dow lost 1.61%, and the tech-heavy Nasdaq lost 0.26%.\nThe stock of maker of equipment for manufacturing semiconductors has risen by 12.9% in the past month, leading the Computer and Technology sector's loss of 0.64% and the S&P 500's loss of 0.15%.",
+      "Language": "en"
     },
     {
       "Ticker": "QCOM",
