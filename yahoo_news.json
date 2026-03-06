@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T19:00:32.008Z",
-  "total_news_count": 1110,
+  "last_updated": "2026-03-06T19:14:52.155Z",
+  "total_news_count": 1112,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-07",
+      "Time": "02:33:57",
+      "Source": "Motley Fool",
+      "Title": "Why Plug Power Stock Rocketed 20% Higher This Week",
+      "URL": "https://finance.yahoo.com/m/88bf64d0-aca7-3a20-a3a0-f06c085b817a/why-plug-power-stock-rocketed.html",
+      "Content": "It's been a volatile week of trading. There's uncertainty surrounding the ongoing conflict in the Middle East, and oil prices have spiked. Amid the global unpredictability, Plug Power (NASDAQ: PLUG) stock rocketed as much as 30% higher this week after the energy company reported earnings.\nWith several hours remaining in Friday trading, Plug stock was up by about 20% for the week, according to data provided by S&P Global Market Intelligence .\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-03-07",
@@ -40,6 +50,16 @@
       "Title": "Anthropic Threatens Legal Fight With Pentagon",
       "URL": "https://finance.yahoo.com/news/anthropic-threatens-legal-fight-pentagon-175540150.html",
       "Content": "This article first appeared on GuruFocus .\nAnthropic is weighing a legal challenge after the Pentagon labeled the AI startup a supply chain risk to U.S. national security , a move that has already triggered canceled federal contracts and heightened tensions between the company and Washington.\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MCHP",
+      "Date": "2026-03-07",
+      "Time": "01:42:00",
+      "Source": "Zacks",
+      "Title": "Can Microchip's Expanding Portfolio Help Its Stock Deliver in 2026?",
+      "URL": "https://finance.yahoo.com/news/microchips-expanding-portfolio-help-stock-174200228.html",
+      "Content": "Microchip Technology MCHP shares have gained 16.2% in a year, underperforming the Zacks Semiconductor – Analog and Mixed industry’s return of 44.7% and the Zacks Computer & Technology sector’s appreciation of 31.6%. The company is facing challenging macroeconomic conditions and high inventory levels. Microchip’s channel inventory decreased to 201 days at the end of the third quarter of fiscal 2026, while underutilization stood at $51.7 million.\n\nThe company’s expanding portfolio is expected to boost prospects. Today, MCHP announced a 24-channel mixed-signal IC named LX4580, designed to simplify high-reliability control systems in aviation and defense. The LX4580 is offered in a compact 144-pin LQFP package, providing a redundant architecture for mission-critical and fault-tolerant applications.\n\nOn Jan. 15, Silicon Storage Technology (\"SST\"), a subsidiary of MCHP, and United Microelectronics announced the completion of all requirements for SST’s embedded SuperFlash Gen 4. It has been released to production with full automotive grade 1 capability on UMC’s 28HPC+foundry process platform.\n\nOn Jan.13, 2026, Microchip announced the release of its JANPTX family of non-hermetic plastic Transient Voltage Suppressor devices that meet the MIL-PRF-19500 qualification, offering high-reliability protection for aerospace and defense applications. The company launched a custom-designed software on Jan. 8 for its MEC1723 Embedded Controller, specifically designed to provide support for NVIDIA DGX Spark personal AI supercomputers.",
       "Language": "en"
     },
     {
