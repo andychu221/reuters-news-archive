@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-06T01:20:31.940Z",
-  "total_news_count": 930,
+  "last_updated": "2026-03-06T01:39:50.168Z",
+  "total_news_count": 933,
   "news": [
     {
       "Ticker": "2379.TW",
@@ -317,6 +317,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "MSFT",
+      "Date": "2026-03-06",
+      "Time": "06:45:03",
+      "Source": "Zacks",
+      "Title": "Microsoft (MSFT) Gains As Market Dips: What You Should Know",
+      "URL": "https://finance.yahoo.com/news/microsoft-msft-gains-market-dips-224503504.html",
+      "Content": "Microsoft (MSFT) ended the recent trading session at $410.68, demonstrating a +1.35% change from the preceding day's closing price. The stock exceeded the S&P 500, which registered a loss of 0.57% for the day. Elsewhere, the Dow lost 1.61%, while the tech-heavy Nasdaq lost 0.26%.\nThe stock of software maker has fallen by 2.17% in the past month, lagging the Computer and Technology sector's loss of 0.64% and the S&P 500's loss of 0.15%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-06",
+      "Time": "06:45:02",
+      "Source": "Zacks",
+      "Title": "Meta Platforms (META) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "URL": "https://finance.yahoo.com/news/meta-platforms-meta-falls-more-224502632.html",
+      "Content": "Meta Platforms (META) closed at $660.41 in the latest trading session, marking a -1.1% move from the prior day. The stock's change was less than the S&P 500's daily loss of 0.57%. Meanwhile, the Dow lost 1.61%, and the Nasdaq, a tech-heavy index, lost 0.26%.\nThe social media company's shares have seen a decrease of 0.19% over the last month, surpassing the Computer and Technology sector's loss of 0.64% and falling behind the S&P 500's loss of 0.15%.",
+      "Language": "en"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-03-06",
       "Time": "06:40:00",
@@ -475,6 +495,16 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "ADR, 台積電, 股價表現, 匯率折算"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-06",
+      "Time": "05:42:47",
+      "Source": "Barchart",
+      "Title": "Down 15% in 2026, Should You Buy the Dip in Microsoft Stock?",
+      "URL": "https://finance.yahoo.com/m/2d342a3f-fd91-391d-9229-7f4add904457/down-15%25-in-2026%2C-should-you.html",
+      "Content": "Despite its robust presence, even the strongest technology leaders sometimes encounter rough times in the market. This seems to be true for Microsoft (MSFT), whose stock price is decreasing considerably from its late 2025 highs despite its growing cloud and artificial intelligence (AI) businesses. Although ishares rose above $550 in the last 12 months, they have since decreased considerably and are now trading near $410. This represents a 25% drop from highs and is a sign of a corrected stock price for Microsoft.",
+      "Language": "en"
     },
     {
       "Ticker": "AMZN",
