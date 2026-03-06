@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-06T21:44:02.912Z",
-  "total_news_count": 1131,
+  "last_updated": "2026-03-06T22:00:08.786Z",
+  "total_news_count": 1133,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "05:26:04",
+      "Source": "Reuters",
+      "Title": "Nvidia sets $4 million cash bonus for CEO Huang under 2027 compensation plan",
+      "URL": "https://finance.yahoo.com/news/nvidia-sets-4-million-cash-212604965.html",
+      "Content": "March 6 (Reuters) - Nvidia ‌has ‌adopted a new ​variable compensation plan for ‌fiscal ⁠year 2027, setting ⁠a ​target ​cash bonus ​of $4 ‌million for CEO Jensen Huang, according ‌to ​a ​regulatory ​filing ‌on Friday.\n(Reporting ​by ​Jaspreet Singh ​in ‌Bengaluru; Editing ​by Tasim ​Zahid)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "05:13:00",
+      "Source": "Motley Fool",
+      "Title": "Alphabet and Nvidia Just Might Be the Ultimate AI Stocks. But Which Will Be the Bigger Winner Over the Next 10 Years?",
+      "URL": "https://finance.yahoo.com/m/cd5de918-2c0a-3398-8983-f002306afb78/alphabet-and-nvidia-just.html",
+      "Content": "Both Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Nvidia (NASDAQ: NVDA) have established themselves as foundational pillars of the artificial intelligence (AI) revolution. But when looking ahead over a 10-year horizon, the question isn't whether both businesses will succeed -- it's which stock offers the better risk-adjusted path for investors from today's starting line.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-03-07",
