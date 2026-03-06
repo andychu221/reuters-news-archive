@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-06T21:14:44.406Z",
-  "total_news_count": 1125,
+  "last_updated": "2026-03-06T21:39:48.048Z",
+  "total_news_count": 1128,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-07",
+      "Time": "05:13:00",
+      "Source": "Motley Fool",
+      "Title": "Alphabet and Nvidia Just Might Be the Ultimate AI Stocks. But Which Will Be the Bigger Winner Over the Next 10 Years?",
+      "URL": "https://finance.yahoo.com/m/cd5de918-2c0a-3398-8983-f002306afb78/alphabet-and-nvidia-just.html",
+      "Content": "Both Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Nvidia (NASDAQ: NVDA) have established themselves as foundational pillars of the artificial intelligence (AI) revolution. But when looking ahead over a 10-year horizon, the question isn't whether both businesses will succeed -- it's which stock offers the better risk-adjusted path for investors from today's starting line.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-07",
+      "Time": "05:08:29",
+      "Source": "Bloomberg",
+      "Title": "Oracle and OpenAI End Plans to Expand Flagship Data Center",
+      "URL": "https://finance.yahoo.com/news/oracle-openai-end-plans-expand-201106441.html",
+      "Content": "(Bloomberg) -- Oracle Corp. and OpenAI have scrapped plans to expand a flagship artificial intelligence data center in Texas after negotiations dragged over financing and OpenAI’s changing needs.\nThe collapsed talks created an opening for Meta Platforms Inc. to step in and consider leasing the planned expansion site in Abilene, Texas, from developer Crusoe, according to people familiar with the matter. Nvidia Corp., the leading AI chipmaker, helped facilitate Meta’s discussions with the developer, said the people, who asked not to be identified because the talks are private.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-07",
@@ -180,6 +200,16 @@
       "Title": "Marvell Jumps 10% Premarket After Earnings Beat, Analysts Lift Price Targets",
       "URL": "https://finance.yahoo.com/news/marvell-jumps-10-premarket-earnings-173942500.html",
       "Content": "This article first appeared on GuruFocus .\nMarvell Technology ( NASDAQ:MRVL ) drew strong investor attention Friday after the semiconductor company reported fourth-quarter results and guidance that exceeded expectations, sending its shares roughly 10% higher in premarket trading. The upbeat report triggered a wave of analyst reactions pointing to strengthening demand tied to artificial intelligence infrastructure. BofA upgraded Marvell to Buy from Neutral and lifted its price target to $110 from $90, saying the company's earnings call strengthened confidence in its exposure to AI optical connectivity and highlighted potential opportunities tied to Microsoft ( NASDAQ:MSFT ) custom chip programs. Analysts also suggested the company could be approaching a turning point in the transition tied to Amazon ( NASDAQ:AMZN ) custom chip efforts.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-07",
+      "Time": "01:35:48",
+      "Source": "Barchart",
+      "Title": "Tesla Put Option Premiums are High - Attractive to Short Shellers and Value Investors",
+      "URL": "https://finance.yahoo.com/m/60f54b06-360f-3662-a433-ebd7ff34b7f3/tesla-put-option-premiums-are.html",
+      "Content": "Tesla, Inc. ( TSLA ) one-month put options command high premiums, making them attractive to short sellers. It also offers an attractive way for value investors to set a lower potential buy-in price.\nFor example, it's possible to sell short a 6.6% lower put option expiring in one month and make an immediate 3.0% yield. This article will delve into this play.",
       "Language": "en"
     },
     {
