@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-06T19:14:52.155Z",
-  "total_news_count": 1112,
+  "last_updated": "2026-03-06T19:39:47.097Z",
+  "total_news_count": 1114,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-07",
+      "Time": "03:27:48",
+      "Source": "GuruFocus.com",
+      "Title": "Microsoft keeps Anthropic AI available despite Pentagon blacklist",
+      "URL": "https://finance.yahoo.com/news/microsoft-keeps-anthropic-ai-available-192748270.html",
+      "Content": "This article first appeared on GuruFocus .\nMicrosoft ( NASDAQ:MSFT ) says it plans to keep Anthropic's AI tools available to customers , even after the Pentagon labeled the startup a potential supply-chain risk.\nAccording to a CNBC report, Microsoft confirmed that Anthropic's modelsincluding its Claude AIwill continue to be accessible across several of its platforms , such as Microsoft 365, GitHub, and the company's AI Foundry services. The only exception will be projects tied directly to the U.S. Department of War , which fall under the government's new restrictions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-07",
+      "Time": "03:16:42",
+      "Source": "GuruFocus.com",
+      "Title": "House Panel Advances 12-Bill Online Child Safety Package Targeting Big Tech",
+      "URL": "https://finance.yahoo.com/news/house-panel-advances-12-bill-191642516.html",
+      "Content": "This article first appeared on GuruFocus .\nLawmakers in Washington are again turning their focus toward Big Tech's role in protecting children online, as a key House committee advances a broad package of legislation targeting digital platforms. The effort could affect companies including Meta Platforms ( NASDAQ:META ), Alphabet ( NASDAQ:GOOG ) and Apple ( NASDAQ:AAPL ), which operate or support major social media ecosystems used by millions of young users. The package, consisting of 12 bills, represents the committee's most substantial move this year to address concerns around how online platforms may expose minors to harmful content, scams, drug sales and gambling. The proposal is moving forward with support from House Republican leadership, potentially clearing the way for a vote on the House floor.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-07",
