@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-06T22:06:51.981Z",
-    "total_news_count": 96,
+    "last_updated": "2026-03-07T10:06:15.323Z",
+    "total_news_count": 97,
     "news": [
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-03-07",
+            "Time": "09:10:33",
+            "Title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
+            "URL": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "MSFT",
             "Date": "2026-03-06",
