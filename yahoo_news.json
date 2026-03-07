@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-06T23:45:02.860Z",
-  "total_news_count": 1140,
+  "last_updated": "2026-03-07T00:00:12.362Z",
+  "total_news_count": 1142,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "07:24:00",
+      "Source": "Motley Fool",
+      "Title": "Nvidia Posts Earnings. Wall Street Says \"That's It?\"",
+      "URL": "https://finance.yahoo.com/m/a1cae8d0-5284-3e19-9bec-4d2869e473a1/nvidia-posts-earnings.-wall.html",
+      "Content": "In this podcast, Motley Fool contributors Tyler Crowe, Matt Frankel, and Jon Quast discuss:\nNvidia 's earnings.\nThe evolving landscape for CPUs and GPUs.\nThe bull vs. bear look at MercadoLibre 's earnings.\nThe Trade Desk 's quarterly results.\nTo catch full episodes of all The Motley Fool's free podcasts, check out our podcast center . When you're ready to invest, check out this top 10 list of stocks to buy .",
+      "Language": "en"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-03-07",
@@ -119,6 +129,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "AI Software, Data Mining, Court Ruling, Technology Provider"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-07",
+      "Time": "04:40:17",
+      "Source": "Barchart",
+      "Title": "A $100 Billion and More Reasons to Buy Broadcom Stock Now",
+      "URL": "https://finance.yahoo.com/m/3e241600-41a2-34b1-9faa-a0c771a71f21/a-%24100-billion-and-more.html",
+      "Content": "AI stocks may have lost some of their shine in 2026, but Broadcom's (AVGO) management made a striking revelation during the first-quarter fiscal 2026 earnings call that could change how investors view the company's position in the AI boom.\nLet’s find out what that is — and whether it's still not too late to grab AVGO stock.",
+      "Language": "en"
     },
     {
       "Ticker": "INTC",
