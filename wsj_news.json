@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T23:01:49.421Z",
+  "last_updated": "2026-03-07T11:06:56.343Z",
   "total_news_count": 163,
   "news": [
     {
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 2,
       "Sentiment_Score": -1,
-      "Keywords": "Geopolitical Risk, Employee Safety, Corporate Events"
+      "Keywords": "Geopolitical Risk, Employee Safety, Corporate Event"
     },
     {
       "Ticker": "QCOM",
@@ -40,9 +40,9 @@
       "Content": "The AI Agent in Your Pocket: Qualcomm’s CEO on the Future of Mobile\n\nThanks to AI, the smartphone of the future may look nothing like the apps we use today. In this episode of Bold Names, WSJ’s Tim Higgins sits down with Qualcomm CEO Cristiano Amon to discuss the seismic shift from apps to AI agents.\n\nWall Street Journal\n\nWSJ’s Bold Names brings you conversations with the leaders of the bold-named companies featured in the pages of The Wall Street Journal. Hosts Tim Higgins and Christopher Mims speak to CEOs and business leaders in interviews that challenge conventional wisdom and take you inside the decisions being made in the C-suite and beyond.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Agents, Future of Mobile, Smartphone Technology"
+      "Keywords": "AI Agents, Future of Mobile, Smartphone Evolution, CEO Interview"
     },
     {
       "Ticker": "META",
@@ -56,7 +56,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -1,
-      "Keywords": "Regulatory Scrutiny, AI Policy, Antitrust, WhatsApp"
+      "Keywords": "AI Regulation, Antitrust, WhatsApp API, European Commission"
     },
     {
       "Ticker": "AVGO",
@@ -70,7 +70,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Chips, Revenue Projections, Investor Sentiment, Capital Expenditure"
+      "Keywords": "AI Chips, Revenue Projections, Investor Sentiment, Semiconductor Market"
     },
     {
       "Ticker": "AAPL",
@@ -84,7 +84,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Product Launch, Pricing Strategy, Budget Devices, Market Share"
+      "Keywords": "Product Launch, Affordable Devices, Consumer Strategy, Hardware Performance"
     },
     {
       "Ticker": "AAPL",
@@ -98,7 +98,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Pricing Strategy, Market Share Gain, Supply Chain Costs, Competitive Landscape"
+      "Keywords": "Market Share Gain, Pricing Strategy, Memory Chip Costs, Competitive Advantage"
     },
     {
       "Ticker": "AAPL",
@@ -111,8 +111,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 3,
-      "Sentiment_Score": 1,
-      "Keywords": "Product Features, Pricing, Chip Performance, AI Capabilities"
+      "Sentiment_Score": 0,
+      "Keywords": "Product Features, Price Point, Chip Performance, AI Capabilities"
     },
     {
       "Ticker": "GOOG",
@@ -126,7 +126,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": -2,
-      "Keywords": "AI Safety, Product Liability, Mental Health, Chatbot Ethics"
+      "Keywords": "AI Safety, Chatbot Ethics, Wrongful Death Lawsuit, Mental Health Impact"
     },
     {
       "Ticker": "NVDA",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Financial Reporting, Non-GAAP Metrics, Investor Relations, Corporate Governance"
+      "Keywords": "Financial Reporting, Non-GAAP Metrics, Investor Transparency, Stock-Based Compensation"
     },
     {
       "Ticker": "META",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Content Licensing, Partnerships, News Media, Data Training"
+      "Keywords": "AI Content Licensing, News Corp Partnership, Data Training, Revenue Stream"
     },
     {
       "Ticker": "META",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Content Licensing, Partnerships, News Media, Data Training"
+      "Keywords": "AI Content Licensing, News Corp Partnership, Data Training, Revenue Stream"
     },
     {
       "Ticker": "META",
@@ -238,7 +238,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Product Features, Pricing, Storage Capacity, Software Support"
+      "Keywords": "Budget Smartphone, Product Features, Software Support, Value Proposition"
     },
     {
       "Ticker": "AMZN",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Data Center Expansion, AI Infrastructure, Capital Investment, Cloud Computing"
+      "Keywords": "AI Infrastructure, Data Center Expansion, Cloud Computing, Capital Investment"
     },
     {
       "Ticker": "NVDA",
