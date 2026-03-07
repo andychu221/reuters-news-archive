@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-07T04:43:48.059Z",
-  "total_news_count": 1181,
+  "last_updated": "2026-03-07T05:00:11.470Z",
+  "total_news_count": 1182,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-07",
+      "Time": "12:33:00",
+      "Source": "TheStreet",
+      "Title": "5-star analyst revamps Nvidia stock price target",
+      "URL": "https://finance.yahoo.com/m/f2666480-f382-3348-8dd8-0ddabd4b5b6a/5-star-analyst-revamps-nvidia.html",
+      "Content": "Nvidia ’s ( NVDA ) bull case just got another massive vote of confidence from Wall Street .\nMatt Bryson , a 5-star Wedbush analyst ( per TipRanks ), just bumped his price target on Nvidia stock to $300 from $230 , maintaining an outperform rating, which shows even more confidence in the longevity of the AI buildout.",
+      "Language": "en"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-03-07",
