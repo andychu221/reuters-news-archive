@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-07T10:06:15.323Z",
-    "total_news_count": 97,
+    "last_updated": "2026-03-08T10:09:31.430Z",
+    "total_news_count": 101,
     "news": [
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-08",
+            "Time": "13:00:05",
+            "Title": "Samsung seeks AI deals to challenge Apple’s smartphone lead",
+            "URL": "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "GOOG",
             "Date": "2026-03-07",
@@ -41,6 +52,17 @@
             "Time": "06:48:42",
             "Title": "US considers tying Nvidia and AMD AI chip exports to foreign investment pledges",
             "URL": "https://www.ft.com/content/30d0b1df-ad8c-42eb-852b-dad53acaecfc",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-05",
+            "Time": "23:30:00",
+            "Title": "Wolters Kluwer partners with Microsoft to bring trusted clinical intelligence to Microsoft productivity workflows",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnZOTFhwbEg1eklnMDNLcjI3Q1ZaZm5SWnFXckN6VERyX21uczZuR1I1LXhCVlBTaGZiVnFueVJzYmRycV9xZkhteFlkYlo2ekRQdlA5QVZ2NzZwUmU5b1JhUnRydDQ4aDBOaldsV3poYWNNNWpQYk1FVEp3elMwU3FBVUhrclpMNHRLVGZlblBFa1p2Y2MwNUlDXzF4ZUVPbWE5SFFB",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
@@ -102,6 +124,17 @@
             "Language": "en"
         },
         {
+            "Ticker": "QCOM",
+            "Date": "2026-03-04",
+            "Time": "00:06:00",
+            "Title": "Keysight and Qualcomm Advance RF Digital Twins to Scale Massive MIMO and AI-Native 6G Research",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjZIV1pDd0lHQjRxMHRVTmtCYVRjZVJnNHVvRnBRTjRRdzdOYjRXTnZlQXBTTGRmZXdmYWFnaFhTeUJKYnZ3S3V6Wl9kS3VVU3dHME1hQmppSm5GTVR4NFowY2lYaUVnZ3JoMjFsUThIcV9OZ2s3Mk5nVHhJSmUwd1lxeFZTMHUtT3ZrY0JENk1zM21CWDN6N1lCUnhLeTlLSjd6Q2pn",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
             "Ticker": "MSFT",
             "Date": "2026-03-03",
             "Time": "22:05:00",
@@ -129,6 +162,17 @@
             "Time": "21:31:00",
             "Title": "ESS Announces Agreement to Join Salt River Project and Google Long Duration Energy Storage Collaboration",
             "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmY1VnZNLXdnQVczUUJjQmxoTDFkS05MQXVDdzBpSTVXQjVhai1SRUhvR0pESXhWZzdCVnZyb1I3UW9pY2NaOHBMay01VGtJRFRZQ1FHNXRwUUo0TXAydVNyZW16Z3VFZGJ2RTZKV0hka1lLdHF1VlVnc3o3ZjNtTzBWejRDdG9MRVkzT0JtdEtJZWQwclk0VmJQOW5JNHBkSGEyVmVB",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMD",
+            "Date": "2026-03-03",
+            "Time": "21:00:00",
+            "Title": "Akash Systems Announces World's First Diamond Cooled AI Servers with AMD Instinct™ MI350X GPUs and MiTAC Computing – Company Announcement - FT.com",
+            "URL": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZXQ4UTN6Ql83emR6NUFOVHUxWHRpajY3eFg0Yl9OVE50S3lMck9BWXhsekFaakFrVEYwV2YzSW94cVJrQkF0WklwRDVUS0FqY1kzTURlOEgzdHNmdThxakVJY25xc1ZUbmlFUXd5OWRHWWEwSHVCTzlXRm1qUzBoQTlCZnlMUTFOV0E2VVpra1k3T1lTaWc",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
