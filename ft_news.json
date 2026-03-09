@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-09T16:06:30.277Z",
-    "total_news_count": 103,
+    "last_updated": "2026-03-09T22:06:50.840Z",
+    "total_news_count": 104,
     "news": [
         {
             "Ticker": "NVDA",
@@ -8,6 +8,17 @@
             "Time": "22:39:59",
             "Title": "Sheryl Sandberg and Nick Clegg join Nvidia-backed AI start-up Nscale",
             "URL": "https://www.ft.com/content/531f7512-94aa-4e97-b986-2dcd8e8cb4c0",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-09",
+            "Time": "21:23:30",
+            "Title": "Nvidia and ABB launch partnership for AI-enabled autonomous robots",
+            "URL": "https://www.ft.com/content/c77d99a4-8d75-4f34-8a71-6b1361ebb9b9",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
