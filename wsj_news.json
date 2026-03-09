@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T23:02:01.390Z",
+  "last_updated": "2026-03-09T11:07:05.007Z",
   "total_news_count": 177,
   "news": [
     {
@@ -14,7 +14,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Geopolitics, AI Chips, Supply Chain, Taiwan, National Security"
+      "Keywords": "Geopolitics, AI Chips, Supply Chain, Oil Prices"
     },
     {
       "Ticker": "TSLA",
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Direct Sales Model, Dealer Network, Antitrust, EV Strategy, Legal Challenge"
+      "Keywords": "Dealership Model, Direct Sales, Electric Vehicles, Regulatory Challenge"
     },
     {
       "Ticker": "AMZN",
@@ -42,7 +42,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Shipping Costs, E-commerce, Consumer Behavior, Logistics, Delivery Speed"
+      "Keywords": "Shipping Costs, E-commerce, Consumer Behavior, Logistics"
     },
     {
       "Ticker": "AMZN",
@@ -56,7 +56,7 @@
       "Language": "en",
       "Related_Score": 2,
       "Sentiment_Score": -1,
-      "Keywords": "Bankruptcy, Retail Footprint, Restructuring, Luxury Market, Supplier Relations"
+      "Keywords": "Retail Bankruptcies, Store Closures, Luxury Retail, Restructuring"
     },
     {
       "Ticker": "QCOM",
@@ -70,7 +70,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Brand Building, Partnerships, Consumer Marketing, Sports Sponsorship, Market Expansion"
+      "Keywords": "Brand Building, Partnerships, Consumer Marketing, Mobile Processors"
     },
     {
       "Ticker": "INTC",
@@ -82,9 +82,9 @@
       "Content": "New Albany, Ohio\n\nThe future is late in coming to this Columbus suburb. “For sale” and “now hiring” signs and construction were all in evidence when I visited late last year. Cranes hovered above half-finished buildings, near farmland and houses bearing Ohio State flags.\n\nIntel selected New Albany for a large semiconductor facility that was supposed to begin making chips by 2025. But Ohio One, as the project is known, has faced repeated delays. Completion now isn’t expected until the early 2030s. “I’d be lying if I didn’t say I was a little disappointed,” Mayor Sloan Spalding said.\n\nLocal officials remain confident the project will come to fruition, but its struggles show that public-private partnerships, however welcome, can’t be insulated from market forces and politics.\n\nState actors from economic-development groups to Gov. Mike DeWine worked to secure Ohio One. The state gave $2 billion in “public incentives,” according to U.S. Sen. Bernie Moreno, who in September 2025 released a letter demanding Intel prove this “investment” wasn’t a “charade” or even “potential fraud.”\n\nStates compete to land such projects in what Greg Lawson, a senior research fellow at the free-market Buckeye Institute, has called an “arms race.” Gov. DeWine speaks in similar terms, saying, “I can’t unilaterally disarm, and I’m damn well not gonna do it.”\n\nNo one disputes chips are essential. They’re in everything from consumer products to military hardware. For backers of Ohio One, they are too important for our supply ever to be in doubt. “There are a lot of things that we don’t make in America that we need to make in America. Chips are part of that,” says U.S. Sen. Jon Husted. As lieutenant governor, Mr. Husted played a role in securing the Ohio One deal.\n\nOhio leaders backed Intel, but the market has favored Nvidia and other chip makers, who took the lead as Intel’s stock fluctuated and its leadership changed.\n\nThere’s “always gonna be those ups and downs,” says Jason Hall, CEO of the Columbus Partnership, a nonprofit that promotes economic development in the region.\n\nOhio lawmakers expected a boon from the Chips and Science Act, which President Biden backed and signed. The 2022 law to improve domestic semiconductor capacity directed billions at projects such as Ohio One. But Mr. Husted says the Biden administration dragged its feet in sending money Ohio’s way. And the bill included requirements—such as one mandating child care—of little relevance to making chips.\n\n“It was like urgency, urgency, urgency, and then bureaucracy, bureaucracy, bureaucracy,” Mr. Husted says. And now the Trump administration has taken a stake in the company. It’s “not ideal,” Mr. Husted says, but it’s preferable to the Biden administration’s dithering.\n\nIntel has invested about $7 billion in Ohio One, generating construction jobs and spurring other industries. The question now is whether the lavishly funded project can do more than stoke a local economy for a couple of years.\n\nOhio’s manufacturing sector has struggled recently. There was a “violent gutting of the core of our economy,” says J.P. Nauseef, president of nonprofit JobsOhio. But there have been signs of economic life, especially around Columbus, the state capital, driven by the technology and defense industries.\n\nIntel professes confidence. “Ohio One remains a critical component to Intel’s long-term plans to advance U.S. technology and manufacturing leadership,” the company said in a statement to the Journal. In a recent report submitted to the Ohio Department of Development, Intel’s Jim Evers wrote that the project “remains part of our long-term plans for U.S. manufacturing.”\n\nLeaders such as Mr. DeWine share this optimism. “We’re still very, very happy we were able to get Intel here, and we think the future looks good,” he said.\n\nGiven the sunk costs, it would be shocking for Ohio One to founder. “I don’t wanna say ‘too big to fail,’ ” Mr. Spalding says. “It’s too important to fail.”\n\nThat economic importance, the statewide buy-in and the national-security stakes do set the project apart. But Ohio One’s travails argue for a stable and friendly business climate to attract investment instead of rolling “out the red carpet for any one particular business,” as Mr. Lawson puts it. Red carpets won’t protect even the most popular projects from political undulations and market uncertainty.\n\nMr. Butler is deputy editor of WSJ.com’s Free Expression newsletter.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Semiconductor Manufacturing, Government Incentives, Project Delays, Supply Chain, Economic Development"
+      "Keywords": "Semiconductor Manufacturing, Project Delays, Government Incentives, Supply Chain"
     },
     {
       "Ticker": "GOOG",
@@ -96,9 +96,9 @@
       "Content": "DUBAI—More than 1,000 people in town for a Google corporate sales extravaganza were stuck in this Persian Gulf emirate when the conflict with Iran broke out last weekend, people familiar with the matter said.\n\nGoogle’s cloud unit had just wrapped up its big annual “Accelerate” show in Dubai last Friday when—hours later—the missiles and drones started flying.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 2,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Geopolitical Risk, Employee Safety, Event Disruption, Corporate Travel, Regional Instability"
+      "Keywords": "Geopolitical Risk, Employee Safety, Business Travel, Conflict Zone"
     },
     {
       "Ticker": "GOOG",
@@ -110,9 +110,9 @@
       "Content": "DUBAI—More than 1,000 people in town for a Google corporate sales extravaganza were stuck in this Persian Gulf emirate when the conflict with Iran broke out last weekend, people familiar with the matter said.\n\nGoogle’s cloud unit had just wrapped up its big annual “Accelerate” show in Dubai last Friday when—hours later—the missiles and drones started flying.\n\nSudden airspace closures left Google employees who had decided to stay on for the weekend stranded, people familiar with the matter said. Staffers from around the globe, many of whom came with their families, scrambled to secure seats on a trickle of flights home, the people said.\n\nMany were stuck in hotels, waiting for instructions from local authorities, creating a challenge for the company as it sought to get employees home and out of harm’s way, the people said.\n\n“Grounded by a regional escalation that has paralyzed one of the busiest travel hubs on Earth, it’s hard not to feel scared,” Yasmeen Ahmad, a Google Cloud executive, wrote Tuesday on LinkedIn, where she said she used Google’s AI tools to stay informed.\n\nSince Saturday, Google has arranged for many of its staffers stuck in Dubai to leave, and the number still stranded there has fallen significantly, said one of the people and another person familiar with the matter.\n\n“While I am deeply relieved to be home and safe, it honestly doesn’t feel like a real return yet,” Paris-based Google engineer Samy Fadel posted Tuesday on LinkedIn after getting back to France. “Many of my colleagues and fellow travelers are still trying to get back to their families as airspace disruptions and evacuations continue across the region.”\n\n“Our focus is on the safety and well-being of our employees in the region,” the company said.\n\nGoogle’s glut of stranded staff is a notable example of a broad phenomenon. Large companies have long flocked to Gulf states as a conference hub, drawn by their extensive flight connections, opulent meeting spaces and, in the case of Dubai, its nightlife and entertainment.\n\nThat has led to outsize corporate evacuations. Private-charter company Elevate Aviation was hired by a corporate client this week to evacuate some 1,000 staff and their families from the region, and ended up using an airport in Oman for the first tranche of departures, Elevate’s chief executive told the Journal.\n\nOverall nearly 20,000 Americans had returned to the U.S. from the Middle East since the conflict began, State Department spokesman Dylan Johnson said Thursday. Those figures didn’t include American citizens who have fled to other countries or are still in transit to the U.S., the State Department said.\n\nFrance’s foreign minister said Thursday that the country evacuated 750 people from the Middle East, with 5,000 still waiting to leave.\n\nThe region has heavily courted tech titans, with AI data center capacity projected by PwC to triple by 2030, to 3.3 gigawatts from 1 gigawatt. High-profile initiatives include Stargate U.A.E., unveiled during a visit by President Trump last year.\n\nDubai in particular has grown rapidly as the region’s business and finance hub, thanks to its easy visa and capital policies, and a carefully crafted reputation as a well-managed oasis removed from the broader region’s conflicts.\n\nThe war has pierced that comfortable bubble. Iran had fired around 1,400 missiles and drones at the U.A.E. as of Thursday, according to the government, which said most had been intercepted.\n\nAmong the facilities damaged in the country over the past week were two Amazon Web Services data centers, which the Amazon cloud computing arm said took direct hits.\n\nThe Iranian attacks are aimed at expanding the war and its economic impact to put pressure on the U.S. and Israel to bring it to an end. They hit during the height of the U.A.E. tourist season.\n\nThe country’s main airports were shut by airspace restrictions and drone attacks but have since allowed a number of flights, opening an exit for some trapped travelers. Others have made it out by traveling overland to neighboring Oman. Still others sheltered in mountain resorts or lined up rides on private planes to get out.\n\nMultiple people contacted by The Wall Street Journal in the days just before the war said they had received no communications from their companies about the risks of the looming conflict or contingency plans in the event it kicked off. The U.A.E. government didn’t send out any advisories either and didn’t sound alerts when the shooting started.\n\nDubai beachgoers initially watched the first missile intercepts explode overhead with curiosity, then went about their weekends—until the bombardments picked up and a few drones slammed into the city, sending them running for cover.\n\nBy midweek, Dubai was getting back to work, with the city’s trademark heavy traffic back in full swing, complicated by GPS jamming aimed at thwarting drone attacks. But the war continued, with alerts about incoming attacks sounding Thursday and Friday.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 2,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Geopolitical Risk, Employee Safety, Event Disruption, Corporate Travel, Regional Instability"
+      "Keywords": "Geopolitical Risk, Employee Evacuation, Business Continuity, Cloud Computing"
     },
     {
       "Ticker": "AAPL",
@@ -124,9 +124,9 @@
       "Content": "Tech empires rise and fall so quickly that the mind can hardly conceive of one lasting half a century, but it’s true: In 1976, two 20-somethings named Steve (Jobs and Wozniak) asked their 41-year-old mentor, Ron Wayne, to file the paperwork that created Apple Computer.\n\nLike most people who reach midlife, Apple has a complicated history. The path from a bunch of young people assembling computers in a Silicon Valley garage to the international titan it is today was far from linear. Early successes in helping define and popularize the personal computer were followed by a troubled adolescence that almost proved fatal. That crisis moment created the opportunity for a storied rebirth, setting Apple on the trajectory that has made it one of this century’s most profitable and valuable companies, currently valued near $4 trillion.\n\n“Apple: The First 50 Years” tells the stories that lie behind dozens of Apple’s tech creations. David Pogue has seen many of those years up close, having written for Macworld magazine before becoming a columnist for the New York Times and a correspondent for PBS’s “Nova” and “CBS Sunday Morning.” Apple’s successes are famous, but Mr. Pogue doesn’t steer away from discussing the dead-end products and corporate malfunctions. While tech media tends to focus on hot new products and strong personalities, Mr. Pogue’s book is resolutely a biography of Apple Inc. itself—one of the most distinctive characters in American business history.\n\nIn the early days, Silicon Valley was still full of fruit orchards and Apple was far from the carefully styled corporate behemoth it became. Steve Wozniak and Steve Jobs were a perfect (if unlikely) match. Mr. Wozniak performed a series of technical miracles while designing the components of the earliest Apple computers. Meanwhile, Jobs tapped his innate marketing sensibilities to start selling computers preassembled in friendly plastic cases. This decision made the devices far more appealing to consumers who would never think of building one out of component parts.\n\nEarly Apple computers worked like all computers at the time: Users typed in commands via a keyboard. Just as the Apple II was taking off, however, Jobs and other Apple employees (most notably Jef Raskin) became inspired by inventions being created at research labs such as the nearby Xerox PARC, whose staff was building devices with entirely different interfaces. These computers let a user guide a pointer with a mouse, clicking on interface elements and selecting commands from drop-down menus.\n\nPopular myth might suggest the Mac was born full-fledged from Jobs’s brow, but as Mr. Pogue details, the truth was much messier. A different Apple computer, the Lisa, had a windowing interface but was so expensive that it had been an overnight flop. Raskin’s Macintosh team was working on building a much simpler and cheaper computer—but Jobs took over the project and kicked Raskin out. Jobs redefined the Mac as a smaller, constrained riff on the Lisa, and that design is what made its debut in a Ridley Scott-directed commercial during the Super Bowl in 1984 and changed how people thought computers should work.\n\nMr. Pogue does not spare any details about the trouble the company went through in the 1980s and ’90s. Jobs was ousted in 1985 by the chief executive he recruited; he started NeXT Computer, purchased Pixar and only returned to Apple when the company was on the brink of running out of money.\n\nThese days the corporation doesn’t like to draw attention to that interregnum period, but anyone who believes it was a complete wasteland will be surprised by the numerous successes discussed here, including the PowerBook, which defined the design of modern laptops, and the Newton MessagePad, a handheld computer that was the butt of jokes at the time but now can be seen as a decade-too-early forerunner of the iPhone.\n\nA big problem was that early Mac sales success cloaked some of the severe technical problems that almost led to the company’s failure. Most notably, it struggled to produce a modern multitasking operating system to replace the Mac—and eventually had to buy NeXT to acquire one.\n\nBack in the ’80s and ’90s, Apple’s tiny user base was mostly at universities and in the art and design departments of various firms. Only upon Jobs’s return in 1997 did the company undertake a strategy that would make it appeal to a much larger audience. Apple almost immediately introduced the bulbous and translucent iMac, a hit product that gave the company the necessary cash flow to survive until he could transform the entire business. It’s about as dramatic a business narrative as you could think up.\n\nIf Jobs’s return to Apple isn’t the pivot point of the Apple story, that title probably belongs to the introduction of the iPod in 2001. Apple’s pocket music player largely owed its existence to one fortuitous meeting Apple executives had with the maker of a tiny hard drive that didn’t seem to have any practical application. As Jon Rubinstein, then a hardware executive at Apple recounts: “They go, ‘Hey we’ve got this thing. We don’t really know what to do with it.’” But Apple’s team, Mr. Pogue writes, knew that “a hard drive the size of an Oreo” would be the perfect platform for a portable music player, and they negotiated exclusive access to the drive.\n\nThe iPod broke out of Apple’s traditional markets, became a mainstream hit and drove customers into Apple’s newly opened retail stores. Improved Mac sales followed. Most of all the iPod led Jobs to consider a future where Apple did not merely make personal computers but also produced small, hand-held devices.\n\nMr. Pogue doesn’t limit himself to the creation myths behind the biggest products. After the iPod, there was an iPod mini, an iPod nano and an iPod shuffle. Readers less enrapt about the details of these might find themselves skimming sections about them, or those about operating-system updates and later iMac models.\n\nThe book’s sweet spot is probably the 2007 introduction of the iPhone, the groundbreaking smartphone that remains the core of Apple’s business. This device was the perfect combination of different projects at Apple, including a touch interface that was originally intended to drive an iPad-like tablet. But the handheld form factor of the iPod, among other factors, influenced the decision to make a phone instead.\n\nJobs’s decision to forgo the physical keyboard that was standard at the time, thanks to the popularity of BlackBerry devices, was risky: Engineers kept trying and failing to build usable software-based keyboards but couldn’t get one that met Jobs’s exacting standards. (Modern iPhone users frustrated with how easy it is to make mistakes on the keyboard would be horrified by some of the original approaches illustrated in the book.) In the end, they figured it out. Apple’s business exploded with the introduction of the iPhone and the App Store, with annual sequels that increased market share and profits.\n\nAs Mr. Pogue moves closer to the present day, the candid observations of people involved in building these products begin to fade. The Apple of the second Jobs era was much more tightly guarded than in the wild early days, and many of the main characters still work in the industry, including at Apple. (Mr. Pogue did speak on the record with several current employees, an unusual degree of cooperation for Apple—though those recollections are largely anodyne, honed through years of public-relations training.)\n\nThe author does leave room for some of the company’s post-iPhone triumphs: The iPad was Apple’s last significant product whose design was driven by Jobs before he died in 2011, and more than 15 years after its introduction, the tablet still is the definitive product in its category. The company’s wireless AirPods headphones may at first have seemed “shockingly weird,” as Mr. Pogue writes, but these days it’s more notable when people opt for wired models instead.\n\nThe era of Jobs’s successor, Tim Cook, is hard to grasp from a historical perspective. Surely there are many great anecdotes about the creation of the Apple Watch, Vision Pro and the rise of Apple’s in-house chip-design group, all of which will come out when the principals involved have retired. Mr. Cook’s era will mostly be known for its relentless drive toward efficiency and an increased focus on subscription services, which do well for the company’s bottom line but might make for fewer delightful tales told out of school.\n\nTo write a biography of a corporation that has lived numerous lives in its 50 years is a huge task, and Mr. Pogue’s easy style fits with the enthusiastic culture that has surrounded Apple’s products from the very beginning. While the stories from the ’70s and early ’80s might be familiar to readers of other Apple-focused histories, Mr. Pogue was right to include them as a part of this definitive history.\n\nPerhaps for some far-off future anniversary of the company, a book may come along to tell the true story of Apple’s past 15 years of product development. Who knows how many more lives Apple might have lived, and how many more hit products it will have launched, by then?",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
-      "Sentiment_Score": 1,
-      "Keywords": "Company History, Product Innovation, Market Leadership, Corporate Strategy, Valuation"
+      "Related_Score": 2,
+      "Sentiment_Score": 0,
+      "Keywords": "Company History, Tech Evolution, Product Development, Market Valuation"
     },
     {
       "Ticker": "QCOM",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Agents, Mobile Technology, Future of Smartphones, Innovation, Industry Trends"
+      "Keywords": "AI Agents, Mobile Technology, Future of Smartphones, Semiconductors"
     },
     {
       "Ticker": "NVDA",
@@ -152,9 +152,9 @@
       "Content": "The war is starting to come home for U.S. investors.\n\nA new surge in oil prices sent stocks lower, extending moves that have rippled through financial markets and threatened to set off convulsions in the world economy.\n\nThe widening war in the Middle East has forced a de facto closure of the Strait of Hormuz, trapping thousands of ships in the Persian Gulf while forcing Gulf oil producers to slash output and Asian refiners to hunt for alternative supplies. Iran’s unconfirmed claim that it hit an American oil tanker with a missile added to the supply concerns.\n\nU.S. crude futures rose 8.5% to $81.01 a barrel, in the largest single-day move since 2020, bringing gains over the past five sessions to 25%. The West Texas Intermediate benchmark settled at its highest level since July 2024. Treasury yields climbed, and economically sensitive stocks such as Caterpillar, Goldman Sachs and airlines tumbled.\n\n“From a market psyche standpoint, the longer this lasts, the dimmer the prospect looks that it’s going to be resolved in a sustainable way. And the prospect of material economic impact starts rising,” said Kevin Khang, senior global economist at Vanguard Group.\n\nWorries that a sustained climb in oil prices could stoke inflation and slow investment worldwide have hit markets from Tokyo to New York in recent days. Thursday’s stock selloff hit stocks and sectors that are exposed to oil prices, interest rates and economic growth the hardest. Airlines, banks, industrials and logistics companies all took a hit.\n\nThe Dow Jones Industrial Average shed 785 points, or 1.6%, while the S&P 500 was 0.6% lower. The Nasdaq composite fell 0.3%.\n\nShares of Caterpillar, Goldman Sachs, and Walmart weighed on the Dow, all dropping at least 3.5%. The Russell 2000 small cap index, which tends to be more economically sensitive, shed 1.9%. The U.S. Global Jets ETF, which tracks the airline industry, tumbled about 4.5%. Energy was one of three of the S&P 500 sectors to finish green; the eight others declined.\n\n“The only hedge against the war so far has been energy stocks and commodities,” Yardeni Research President Ed Yardeni wrote to clients Thursday.\n\nA prolonged Strait of Hormuz closure would “increase the risk of stagflationary economic outcomes” and leave the Federal Reserve in a “straitjacket,” unable to cut rates because of rising inflation even if the economy weakened, Yardeni added.\n\nThose worries helped drive the yield on the 10-year Treasury note, which helps set borrowing costs throughout the economy, up to 4.145% from 4.081% on Wednesday.\n\nDerivative traders came into this week projecting two interest rate cuts this year, but have quickly dialed back those expectations amid the jump in oil and gas prices. By Thursday, they saw less than a 50% chance of two more cuts.\n\nThe 2-year Treasury yield, which often rises and falls with investors’ expectations for short-term rates set by the Fed, has climbed from 3.37% at Friday’s lows to 3.599% Thursday.\n\nElsewhere, shares of Nvidia and other chip makers fell after Bloomberg News reported that the Trump administration has written draft regulations that would restrict AI chip shipments to anywhere in the world without American approval. Nvidia regained ground by the close, edging 0.2% higher, and AMD ended 1.3% lower.\n\nMeanwhile, shares of Oracle gained after a report that it will cut thousands of jobs to handle a cash crunch from its AI data center expansion effort. Software broadly gained, with shares of Salesforce, Intuit and ServiceNow all up more than 4%.\n\nOverseas, South Korea’s Kospi stock index soared 9.6% one day after dropping 12% in its worst-ever crash. The index has posted huge moves of late amid investor speculation on its chip and memory makers.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Geopolitical Risk, Oil Prices, Inflation, Interest Rates, Semiconductor Regulations"
+      "Keywords": "Geopolitical Risk, Oil Prices, Inflation, Interest Rates"
     },
     {
       "Ticker": "MSFT",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "AI Security, Government Contracts, Supply Chain Risk, Autonomous Weapons, Regulatory Scrutiny"
+      "Keywords": "AI Regulation, National Security, Government Contracts, Supply Chain Risk"
     },
     {
       "Ticker": "META",
@@ -182,7 +182,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "AI Policy, Antitrust, European Union, WhatsApp Business API, Regulatory Compliance"
+      "Keywords": "AI Policy, Antitrust, Messaging Platforms, European Regulation"
     },
     {
       "Ticker": "META",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "AI Policy, Antitrust, European Union, WhatsApp Business API, Regulatory Compliance"
+      "Keywords": "AI Regulation, Antitrust, WhatsApp Business, European Union"
     },
     {
       "Ticker": "AVGO",
@@ -210,7 +210,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Revenue, Future Projections, Semiconductor Market, Stock Performance, Diversification"
+      "Keywords": "AI Chips, Revenue Projections, Semiconductor Market, Investor Sentiment"
     },
     {
       "Ticker": "AAPL",
@@ -224,7 +224,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Chip Revenue, Customer Diversification, Inventory Growth, Software Business, Supply Chain Management"
+      "Keywords": "AI Revenue, Custom Accelerators, Semiconductor Inventory, Customer Diversification"
     },
     {
       "Ticker": "NVDA",
@@ -236,9 +236,9 @@
       "Content": "The Dow Jones Industrial Average fell sharply and U.S. oil prices pushed above $80 a barrel for the first time in more than a year as the widening Iran conflict threatened to set off convulsions in the world economy.\n\nThe blue-chip index skidded 1.6%, or 785 points, while the S&P 500 fell 0.6% and the Nasdaq composite declined 0.3%.\n\nBrent crude, the global energy benchmark, climbed above $85 a barrel while U.S. crude jumped 8.5% to $81.01, its highest price since July 2024 and its biggest one-day jump since 2020.\n\nThe latest market moves came as attacks in the Mideast spread to more countries. The de-facto closure of the Strait of Hormuz has trapped thousands of ships in the Persian Gulf, forcing Gulf producers to slash output and Asian refiners to hunt for alternative supplies.\n\nInvestors say markets could continue to be rocky until tankers can start reliably moving through the strait again, freeing almost one-fifth of daily oil and liquefied natural gas supplies.\n\nMeanwhile, the conflict between the U.S. and Iran continued to escalate, with Israel saying it started another wave of large-scale strikes on Tehran, while Iran fired more missiles toward Israel. Azerbaijan promised a response after it said Iran’s regional attacks had spread to its territory, and Saudi Arabia said it intercepted missiles and drones.\n\nU.S. Treasury yields rose for a fourth day in a row, with higher oil prices casting doubt on the prospect of immediate interest-rate cuts.\n\nShares of Nvidia and other chipmakers faced pressure after Bloomberg News reported that the Trump administration has written draft regulations that would restrict AI chip shipments to anywhere in the world without American approval, though Nvidia pared losses later in the afternoon and finished slightly higher on the day.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Geopolitical Risk, Oil Prices, Interest Rates, Semiconductor Regulations, Market Volatility"
+      "Keywords": "Geopolitical Risk, Oil Prices, Market Selloff, AI Chip Restrictions"
     },
     {
       "Ticker": "AAPL",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Product Launch, Affordable Devices, Market Share, Consumer Electronics, Pricing Strategy"
+      "Keywords": "Product Launch, Affordable Devices, Market Share, Consumer Electronics"
     },
     {
       "Ticker": "AAPL",
@@ -266,7 +266,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Product Launch, Affordable Devices, Pricing Strategy, Market Segmentation, Consumer Electronics"
+      "Keywords": "New Product Launch, Budget Segment, Consumer Pricing, Mobile Technology"
     },
     {
       "Ticker": "AVGO",
@@ -280,7 +280,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Revenue Growth, Customer Expansion, Semiconductor Demand, Earnings Beat, Share Buyback"
+      "Keywords": "AI Revenue Growth, Custom Accelerators, Hyperscalers, Semiconductor Demand"
     },
     {
       "Ticker": "AAPL",
@@ -294,7 +294,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Market Share, Pricing Strategy, Memory Chip Prices, Competitive Advantage, Ecosystem Lock-in"
+      "Keywords": "Market Share Strategy, Pricing Power, Memory Chip Shortage, Competitive Advantage"
     },
     {
       "Ticker": "AAPL",
@@ -308,7 +308,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Product Launch, Affordable Laptop, Pricing, Performance, Apple Intelligence"
+      "Keywords": "Product Launch, Affordable Laptop, AI Features, Consumer Pricing"
     },
     {
       "Ticker": "GOOG",
@@ -322,7 +322,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -2,
-      "Keywords": "AI Harms, Wrongful Death, Chatbot Behavior, Mental Health, Product Liability"
+      "Keywords": "AI Harms, Chatbot Liability, Mental Health, Wrongful Death"
     },
     {
       "Ticker": "NVDA",
