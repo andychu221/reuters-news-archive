@@ -1,7 +1,29 @@
 {
-    "last_updated": "2026-03-08T10:09:31.430Z",
-    "total_news_count": 101,
+    "last_updated": "2026-03-09T16:06:30.277Z",
+    "total_news_count": 103,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-09",
+            "Time": "22:39:59",
+            "Title": "Sheryl Sandberg and Nick Clegg join Nvidia-backed AI start-up Nscale",
+            "URL": "https://www.ft.com/content/531f7512-94aa-4e97-b986-2dcd8e8cb4c0",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-09",
+            "Time": "21:00:03",
+            "Title": "Microsoft adds Anthropic AI models to its Copilot workplace tools",
+            "URL": "https://www.ft.com/content/0978b9ad-d345-4aad-bed2-37c22fbf3214",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AAPL",
             "Date": "2026-03-08",
