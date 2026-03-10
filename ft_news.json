@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-09T22:06:50.840Z",
-    "total_news_count": 104,
+    "last_updated": "2026-03-10T10:06:33.986Z",
+    "total_news_count": 105,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-10",
+            "Time": "12:40:07",
+            "Title": "Amazon holds engineering meeting following AI-related outages",
+            "URL": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-09",
