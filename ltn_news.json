@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-10T13:37:37.992Z",
-  "total_news_count": 424,
+  "last_updated": "2026-03-10T14:37:30.111Z",
+  "total_news_count": 426,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-03-10",
+      "Time": "21:54:56",
+      "Source": "自由時報",
+      "Title": "聯發科發表MediaTek Genio平台  採用台積電3奈米展現強大邊緣AI運算力",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5365852",
+      "Content": "〔記者卓怡君／台北報導〕IC設計龍頭聯發科（2454）今日在德國紐倫堡舉辦的Embedded World 2026展會上發表一系列賦能各式物聯網產品與應用的全新MediaTek Genio平台，包括Genio Pro、Genio 420以及 Genio 360。其中，聯發科Genio Pro系列是針對高效能物聯網與嵌入式系統所推出的高階（Premium）解決方案；Genio 420與Genio 360則專為智慧家庭、零售、工控與商用物聯網裝置所設計，以為其提供系統等級的邊緣AI效能。聯發科Genio Pro預計第1季送樣、第3季量產，Genio 420預計4月送樣，Genio 360系列已開始送樣。\n\n 聯發科物聯網事業部總經理王鎮國表示，基於聯發科長期在先進製程上開發高效能系統的優異成果，Genio Pro將聯發科在旗艦級行動通訊與運算領域的優異技術注入物聯網市場，帶來卓越的裝置端生成式AI運算能力與業界領先的多媒體支援，相信Genio Pro是製造商在設計AI與生成式AI應用時的首選。\n\n Genio Pro採用台積電（2330）3奈米先進製程，並整合全大核Arm v9.2架構CPU，含1顆Arm Cortex-X925核心、3顆Cortex-X4核心、4顆Cortex-A720核心。此CPU架構能支援高階應用程式高達260K DMIPS的運算效能；Genio Pro亦整合Arm Immortalis-G925 GPU，提供3.1 TFLOPS運算與繪圖效能。\n\n Genio Pro搭載聯發科第8代NPU，支援超過50 TOPS系統等級的生成式AI加速，並擁有NeuroPilot架構以支援Pytorch、ONNX Runtime、TFLite （LiteRT），為機器視覺與物體分類等傳統AI任務提供無與倫比的加速效能。在生成式 AI 應用上，Genio Pro平台針對參數高達7B的大型語言模型，可支援高達23 token/s的生成速率。\n\n 為賦能高階機器人與無人機應用的多相機感測器融合需求，Genio Pro支援多達16 顆鏡頭，並支援高達3組4K顯示器，以打造豐富的使用者介面；同時，為滿足不同目標應用與市場需求，Genio Pro 支援多種 Linux 作業系統，包括Yocto、Debian 與Ubuntu發行版。該平台亦支援開源的ROS（機器人作業系統）架構，以簡化機器人應用程式的開發。\n\n 聯發科持續拓展旗下Genio 系列，以滿足更多元的物聯網應用與不同層次的裝置需求。全新推出的Genio 420物聯網平台整合16GB LPDDR5X記憶體，幫助業界應對BOM的成本挑戰。這款採用6奈米製程的物聯網平台，提供高達7.2 TOPS系統等級AI算力，同時賦予OEM廠商高度的設計彈性，可整合各式多媒體應用，支援2.5K60雙螢幕顯示或UW5K60及4K60的單螢幕顯示。此外，Genio 420與Genio 720與Genio 520的腳位相容（pin-to-pin compatible），讓OEM夥伴能無縫地在不同平台間擴展其產品設計。\n\n 此外，聯發科亦推出Genio 360與Genio 360P系列平台，將強大的生成式AI處理與大核運算能力導入主流的裝置中。在 AI 效能上，Genio 360與Genio 360P分別提供6 TOPS與8.5 TOPS系統級的AI算力，可支援裝置端處理最高達2B參數LLM的生成式AI。在多媒體與記憶體上，Genio 360系列支援4K60單螢幕或FHD60雙螢幕顯示，以及具備高階影像編解碼能力，並支援8GB LPDDR4X-3733記憶體。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-03-10",
+      "Time": "21:54:56",
+      "Source": "自由時報",
+      "Title": "聯發科發表MediaTek Genio平台  採用台積電3奈米展現強大邊緣AI運算力",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5365852",
+      "Content": "〔記者卓怡君／台北報導〕IC設計龍頭聯發科（2454）今日在德國紐倫堡舉辦的Embedded World 2026展會上發表一系列賦能各式物聯網產品與應用的全新MediaTek Genio平台，包括Genio Pro、Genio 420以及 Genio 360。其中，聯發科Genio Pro系列是針對高效能物聯網與嵌入式系統所推出的高階（Premium）解決方案；Genio 420與Genio 360則專為智慧家庭、零售、工控與商用物聯網裝置所設計，以為其提供系統等級的邊緣AI效能。聯發科Genio Pro預計第1季送樣、第3季量產，Genio 420預計4月送樣，Genio 360系列已開始送樣。\n\n 聯發科物聯網事業部總經理王鎮國表示，基於聯發科長期在先進製程上開發高效能系統的優異成果，Genio Pro將聯發科在旗艦級行動通訊與運算領域的優異技術注入物聯網市場，帶來卓越的裝置端生成式AI運算能力與業界領先的多媒體支援，相信Genio Pro是製造商在設計AI與生成式AI應用時的首選。\n\n Genio Pro採用台積電（2330）3奈米先進製程，並整合全大核Arm v9.2架構CPU，含1顆Arm Cortex-X925核心、3顆Cortex-X4核心、4顆Cortex-A720核心。此CPU架構能支援高階應用程式高達260K DMIPS的運算效能；Genio Pro亦整合Arm Immortalis-G925 GPU，提供3.1 TFLOPS運算與繪圖效能。\n\n Genio Pro搭載聯發科第8代NPU，支援超過50 TOPS系統等級的生成式AI加速，並擁有NeuroPilot架構以支援Pytorch、ONNX Runtime、TFLite （LiteRT），為機器視覺與物體分類等傳統AI任務提供無與倫比的加速效能。在生成式 AI 應用上，Genio Pro平台針對參數高達7B的大型語言模型，可支援高達23 token/s的生成速率。\n\n 為賦能高階機器人與無人機應用的多相機感測器融合需求，Genio Pro支援多達16 顆鏡頭，並支援高達3組4K顯示器，以打造豐富的使用者介面；同時，為滿足不同目標應用與市場需求，Genio Pro 支援多種 Linux 作業系統，包括Yocto、Debian 與Ubuntu發行版。該平台亦支援開源的ROS（機器人作業系統）架構，以簡化機器人應用程式的開發。\n\n 聯發科持續拓展旗下Genio 系列，以滿足更多元的物聯網應用與不同層次的裝置需求。全新推出的Genio 420物聯網平台整合16GB LPDDR5X記憶體，幫助業界應對BOM的成本挑戰。這款採用6奈米製程的物聯網平台，提供高達7.2 TOPS系統等級AI算力，同時賦予OEM廠商高度的設計彈性，可整合各式多媒體應用，支援2.5K60雙螢幕顯示或UW5K60及4K60的單螢幕顯示。此外，Genio 420與Genio 720與Genio 520的腳位相容（pin-to-pin compatible），讓OEM夥伴能無縫地在不同平台間擴展其產品設計。\n\n 此外，聯發科亦推出Genio 360與Genio 360P系列平台，將強大的生成式AI處理與大核運算能力導入主流的裝置中。在 AI 效能上，Genio 360與Genio 360P分別提供6 TOPS與8.5 TOPS系統級的AI算力，可支援裝置端處理最高達2B參數LLM的生成式AI。在多媒體與記憶體上，Genio 360系列支援4K60單螢幕或FHD60雙螢幕顯示，以及具備高階影像編解碼能力，並支援8GB LPDDR4X-3733記憶體。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-03-10",
