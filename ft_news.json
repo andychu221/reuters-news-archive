@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-10T16:10:31.289Z",
-    "total_news_count": 106,
+    "last_updated": "2026-03-10T22:06:21.703Z",
+    "total_news_count": 107,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-11",
+            "Time": "04:12:03",
+            "Title": "Amazon leads record US corporate borrowing rush with nearly $50bn bond sales",
+            "URL": "https://www.ft.com/content/6a509e25-e8bc-41cb-a727-6b7b2bc387e0",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-10",
