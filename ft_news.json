@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-10T22:06:21.703Z",
-    "total_news_count": 107,
+    "last_updated": "2026-03-11T10:05:45.593Z",
+    "total_news_count": 109,
     "news": [
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-11",
+            "Time": "07:27:08",
+            "Title": "Microsoft backs Anthropic in legal fight with the Pentagon",
+            "URL": "https://www.ft.com/content/4efa382a-3c77-4515-bb0f-ab5f0450037e",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AMZN",
             "Date": "2026-03-11",
@@ -85,6 +96,17 @@
             "Time": "09:10:33",
             "Title": "Google gives CEO Sundar Pichai new pay deal worth up to $692mn",
             "URL": "https://www.ft.com/content/1d3fa4f9-ec94-49ff-b22f-bd69b92be8ce",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-03-07",
+            "Time": "08:06:24",
+            "Title": "Letter: Google Maps review that was a bit close to home",
+            "URL": "https://www.ft.com/content/9bf97e45-c1ab-4465-98d8-275cc7735fa8",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
