@@ -1,12 +1,34 @@
 {
-    "last_updated": "2026-03-11T10:05:45.593Z",
-    "total_news_count": 109,
+    "last_updated": "2026-03-11T16:06:07.056Z",
+    "total_news_count": 111,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-11",
+            "Time": "20:07:31",
+            "Title": "Nvidia strikes $2bn deal with AI cloud provider Nebius",
+            "URL": "https://www.ft.com/content/6552f428-31ec-4132-bc42-8cba1e1a08cb",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "MSFT",
             "Date": "2026-03-11",
             "Time": "07:27:08",
             "Title": "Microsoft backs Anthropic in legal fight with the Pentagon",
+            "URL": "https://www.ft.com/content/4efa382a-3c77-4515-bb0f-ab5f0450037e",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-11",
+            "Time": "07:27:08",
+            "Title": "Microsoft backs Anthropic in legal fight with Pentagon",
             "URL": "https://www.ft.com/content/4efa382a-3c77-4515-bb0f-ab5f0450037e",
             "AI_Summary": "",
             "Content": "",
