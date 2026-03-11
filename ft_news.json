@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-11T16:06:07.056Z",
-    "total_news_count": 111,
+    "last_updated": "2026-03-11T22:05:55.841Z",
+    "total_news_count": 112,
     "news": [
+        {
+            "Ticker": "INTC",
+            "Date": "2026-03-12",
+            "Time": "01:32:07",
+            "Title": "Intel shareholder claims board gave US an equity stake to avoid Trump’s social media attacks",
+            "URL": "https://www.ft.com/content/55069559-56da-4468-9151-70872f66203a",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-11",
