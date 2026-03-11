@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-11T21:36:32.915Z",
-  "total_news_count": 288,
+  "last_updated": "2026-03-11T21:39:20.812Z",
+  "total_news_count": 290,
   "news": [
     {
       "Ticker": "AMZN",
@@ -40,6 +40,26 @@
       "Title": "Apple MacBook Neo Wins Early Praise for Price, Design",
       "URL": "https://finance.yahoo.com/m/a49d33b4-ef90-3e56-8d52-8f399bae441b/apple-macbook-neo-wins-early.html",
       "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) received positive early reviews for its new MacBook Neo , a $599 laptop aimed at expanding the company's reach in the budget PC market.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple's cheapest MacBook debuted last week and hit shops Wednesday. The company targets iPad, Chromebook, and entry-level Windows laptop users and students and first-time Mac buyers.The 2.7-pound 13-inch MacBook Neo features Apple's A18 Pro processor, first introduced in the iPhone 16 Pro. The MacBook-like laptop sports a 1080p webcam, headphone jack, and aluminum casing. Silver, indigo, blush, and citrus.The device's price-to-performance was commended early on. Some said the laptop can edit RAW photos or light 4K videos for regular usage. Apple cut premium features from their more expensive laptops to $599. The base variant offers a 60 Hz display and slower USB-C connections without Touch ID, a backlit keyboard, or MagSafe charging.\n\nCritics stated the MacBook Neo featured Apple's metal style and sturdy craftsmanship despite trade-offs. The device may allow Apple to compete directly with cheaper laptops from Microsoft, Google, and HP, experts say.The MacBook Air series costs $1,099. Apple laptops start $500 cheaper with the launch. A $100 education discount helps U.S. students. Apple appears more focused in attracting new customers than upgrading Macs with Neo. The device is touted as a \"first Mac,\" to increase Apple hardware and software sales.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-12",
+      "Time": "04:32:30",
+      "Source": "GuruFocus.com",
+      "Title": "Princeton Digital Group Plans Up to $5 Billion Debt for AI Data Centers",
+      "URL": "https://finance.yahoo.com/news/princeton-digital-group-plans-5-203230262.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe artificial intelligence buildout across Asia is accelerating , and infrastructure operators are lining up billions to keep pace with demand. Singapore-based Princeton Digital Group said it plans to raise as much as $5 billion in debt this year to finance new AI data centers across India, Indonesia, Malaysia and Japan, underscoring the scale of capital now flowing into the region's computing backbone. The Warburg Pincus-backed company already operates AI-focused data centers across seven Asian markets with a portfolio exceeding 1.8 gigawatts of capacity.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nChief executive and co-founder Rangu Salgame said the company is operating in what he described as an investment supercycle tied to artificial intelligence, with long-term demand for computing power continuing to drive new projects. The planned financing will be supported in part by a banking group including Barclays, BNP Paribas, Deutsche Bank and Standard Chartered. According to the company, more than $4 billion of the borrowing could be tied to specific data center assets in Mumbai, Jakarta, Johor and Tokyo, while roughly $750 million may be raised at the parent-company level as part of an expanded sustainability-linked loan.\n\nThe strategy reflects a broader shift in how AI infrastructure is financed. Data center operators are increasingly borrowing against future revenue tied to long-term contracts with hyperscale customers, often spanning 10 to 12 years, creating predictable cash flows that lenders are willing to fund. Morgan Stanley estimates AI-related data center spending could reach about $2.9 trillion between 2025 and 2028, with roughly half potentially requiring external financing. At the same time, major technology companies including Microsoft ( NASDAQ:MSFT ), Alphabet ( NASDAQ:GOOG ), Amazon ( NASDAQ:AMZN ) and Meta ( NASDAQ:META ) have projected combined capital expenditures approaching $650 billion this year as they compete to secure computing capacity for artificial intelligence.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-12",
+      "Time": "04:31:04",
+      "Source": "GuruFocus.com",
+      "Title": "Meta Expands In-House AI Chip Roadmap",
+      "URL": "https://finance.yahoo.com/news/meta-expands-house-ai-chip-203104090.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta ( NASDAQ:META ) introduced updates to its in-house Meta Training and Inference Accelerator chip roadmap. The MTIA 300 is already deployed for ranking and recommendation workloads. The MTIA 400 has completed lab testing and is on the path to data center deployment. The MTIA 450 and 500 are scheduled for mass deployment in 2027 and optimized specifically for generative AI inference.\n\nMeta works with Broadcom ( NASDAQ:AVGO ) on elements of chip design and uses Taiwan Semiconductor Manufacturing ( NYSE:TSM ) to fabricate the processors.\n\nThe MTIA chips are not designed to replace Nvidia ( NASDAQ:NVDA ) GPUs used for large language model training. Instead, they are intended to absorb inference workloads that scale directly with user activity across Facebook, Instagram, and Meta AI. Across the MTIA 300 through MTIA 500 roadmap, Meta expects HBM bandwidth to increase roughly 4.5x and compute FLOPS to increase about 25x, with new chips released on an approximately six-month cadence tied to the company's data center expansion.\n\nIn February, Meta also signed agreements with both Nvidia and Advanced Micro Devices ( NASDAQ:AMD ) to purchase tens of billions of dollars in off-the-shelf AI chips, underscoring that MTIA is intended to complement external procurement rather than replace it.\n\nMeta shares were little changed intraday.",
       "Language": "en"
     },
     {
