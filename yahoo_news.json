@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-11T13:39:25.522Z",
-  "total_news_count": 141,
+  "last_updated": "2026-03-11T14:00:04.627Z",
+  "total_news_count": 145,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-11",
+      "Time": "21:44:56",
+      "Source": "Yahoo Finance",
+      "Title": "Tech stocks today: Anthropic says Pentagon ban could cost it billions, Nvidia invests in Nebius",
+      "URL": "https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-says-pentagon-ban-could-cost-it-billions-nvidia-invests-in-nebius-134456626.html",
+      "Content": "Artificial intelligence continues to make waves in markets, spurring new investments and concerns each week.\n\nOn Wednesday, Nvidia ( NVDA ) announced a $2 billion investment in Nebius to help the AI cloud firm deploy more than 5 gigawatts of data center ​capacity by ​the ​end of 2030. The deal followed a rare blog post from CEO Jensen Huang on Tuesday, arguing that AI represents the largest infrastructure build-out in human history, spanning industries from energy to software.\n\nOracle's ( ORCL ) earnings beat upheld the AI narrative, sending shares up over 13% on a better-than-expected outlook, even as investors aren't fully sold on the level of investment in its data centers.\n\nMeanwhile, the clash between Anthropic ( ANTH.PVT ) and the US Department of Defense continues to unfold. The AI startup filed a lawsuit against the Department of Defense on Monday to block a ban on the company after the Pentagon labeled it a \"supply chain risk for national security.\"\n\nAnthropic CEO Dario Amodei vowed to fight the designation , which is usually reserved for foreign adversaries, writing that Anthropic has \"no choice but to challenge it in court.\"\n\nAs US federal agencies like the Treasury Department begin to revoke access to Anthropic , other AI players have offered the Pentagon alternative services. OpenAI ( OPAI.PVT ) reached a deal with the military, which elicited pushback from employees and users. And on Tuesday, Alphabet's Google said it was introducing AI agents at the Department of Defense for unclassified work.\n\nFollow along for the latest updates on the tech sector.\n\n26 mins ago Grace O'Donnell\n\nAnthropic says Pentagon blacklisting could cost it billions in revenue\n\nAnthropic's ( ANTH.PVT ) lawyers told a judge the company could lose hundreds of millions or even billions of dollars in revenue this year because of the Defense Department's designation of the company as a \"supply chain risk\" following a high-profile feud between the Pentagon and the AI startup.\n\nOne of Anthropic's attorneys, Michael Mongan, said the firm has already seen some of its enterprise customers pull or shorten contracts, while others have expressed doubt about working with the company, Bloomberg reported.\n\nAnthropic is suing to block the US government from applying the supply chain risk label, which is usually reserved for foreign adversaries. The move to ban Anthropic from working with the federal government followed a breakdown in contract negotiations over AI safety guardrails.\n\nThe judge moved up the hearing for the case from April 3 to March 24.\n\nIn a significant move, Microsoft ( MSFT ) has also weighed in on the issue. The tech giant, which has stakes in Anthropic ( ANTH.PVT ) and OpenAI ( OPAI.PVT ) and is a major government contractro, filed a court brief supporting Anthropic's lawsuit. Microsoft said the action against Anthropic \"directly impacted\" it and could delay IT services contracts.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-11",
+      "Time": "21:12:59",
+      "Source": "GuruFocus.com",
+      "Title": "Micron and Applied Materials Stock Jumps on AI Memory Deals",
+      "URL": "https://finance.yahoo.com/news/micron-applied-materials-stock-jumps-131259213.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApplied Materials ( NASDAQ:AMAT ) shares gained about 2% on Tuesday after the chip equipment maker said it entered partnerships with Micron Technology ( NASDAQ:MU ) and South Korea's SK Hynix ( HXSCL ) to develop next-generation artificial intelligence (AI) memory solutions.\n\nWarning! GuruFocus has detected 6 Warning Sign with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron shares also rose about 3% following the announcement.\n\nThe agreements will see Applied Materials collaborate with Micron on advanced DRAM, high-bandwidth memory (HBM), and NAND solutions designed to improve energy efficiency in AI systems. The partnership will combine Applied Materials' EPIC (Equipment and Process Innovation and Commercialization) Center in Silicon Valley with Micron's innovation center in Boise, Idaho, to support semiconductor development in the U.S.\n\nSeparately, the long-term deal with SK Hynix will focus on accelerating next-generation DRAM and HBM for AI and high-performance computing. Engineers from SK Hynix will work with Applied Materials teams at the EPIC Center on materials, process integration, and 3D advanced packaging.\n\nThe partnerships come amid rapid expansion of AI infrastructure by U.S. technology companies, including Alphabet ( NASDAQ:GOOGL ), OpenAI, and Microsoft ( NASDAQ:MSFT ). This growth has increased demand for memory chips, tightened supply, and contributed to rising prices.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMAT",
+      "Date": "2026-03-11",
+      "Time": "21:12:59",
+      "Source": "GuruFocus.com",
+      "Title": "Micron and Applied Materials Stock Jumps on AI Memory Deals",
+      "URL": "https://finance.yahoo.com/news/micron-applied-materials-stock-jumps-131259213.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApplied Materials ( NASDAQ:AMAT ) shares gained about 2% on Tuesday after the chip equipment maker said it entered partnerships with Micron Technology ( NASDAQ:MU ) and South Korea's SK Hynix ( HXSCL ) to develop next-generation artificial intelligence (AI) memory solutions.\n\nWarning! GuruFocus has detected 6 Warning Sign with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron shares also rose about 3% following the announcement.\n\nThe agreements will see Applied Materials collaborate with Micron on advanced DRAM, high-bandwidth memory (HBM), and NAND solutions designed to improve energy efficiency in AI systems. The partnership will combine Applied Materials' EPIC (Equipment and Process Innovation and Commercialization) Center in Silicon Valley with Micron's innovation center in Boise, Idaho, to support semiconductor development in the U.S.\n\nSeparately, the long-term deal with SK Hynix will focus on accelerating next-generation DRAM and HBM for AI and high-performance computing. Engineers from SK Hynix will work with Applied Materials teams at the EPIC Center on materials, process integration, and 3D advanced packaging.\n\nThe partnerships come amid rapid expansion of AI infrastructure by U.S. technology companies, including Alphabet ( NASDAQ:GOOGL ), OpenAI, and Microsoft ( NASDAQ:MSFT ). This growth has increased demand for memory chips, tightened supply, and contributed to rising prices.",
+      "Language": "en"
+    },
     {
       "Ticker": "000660.KS",
       "Date": "2026-03-11",
@@ -10,6 +40,16 @@
       "Title": "Micron and Applied Materials Stock Jumps on AI Memory Deals",
       "URL": "https://finance.yahoo.com/news/micron-applied-materials-stock-jumps-131259213.html",
       "Content": "This article first appeared on GuruFocus .\n\nApplied Materials ( NASDAQ:AMAT ) shares gained about 2% on Tuesday after the chip equipment maker said it entered partnerships with Micron Technology ( NASDAQ:MU ) and South Korea's SK Hynix ( HXSCL ) to develop next-generation artificial intelligence (AI) memory solutions.\n\nWarning! GuruFocus has detected 6 Warning Sign with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron shares also rose about 3% following the announcement.\n\nThe agreements will see Applied Materials collaborate with Micron on advanced DRAM, high-bandwidth memory (HBM), and NAND solutions designed to improve energy efficiency in AI systems. The partnership will combine Applied Materials' EPIC (Equipment and Process Innovation and Commercialization) Center in Silicon Valley with Micron's innovation center in Boise, Idaho, to support semiconductor development in the U.S.\n\nSeparately, the long-term deal with SK Hynix will focus on accelerating next-generation DRAM and HBM for AI and high-performance computing. Engineers from SK Hynix will work with Applied Materials teams at the EPIC Center on materials, process integration, and 3D advanced packaging.\n\nThe partnerships come amid rapid expansion of AI infrastructure by U.S. technology companies, including Alphabet ( NASDAQ:GOOGL ), OpenAI, and Microsoft ( NASDAQ:MSFT ). This growth has increased demand for memory chips, tightened supply, and contributed to rising prices.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-11",
+      "Time": "21:06:22",
+      "Source": "GuruFocus.com",
+      "Title": "AMD CEO to Meet Samsung Chief as AI Memory Demand Surges",
+      "URL": "https://finance.yahoo.com/news/amd-ceo-meet-samsung-chief-130622132.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( AMD , Financials ) CEO Lisa Su is scheduled to meet Samsung Electronics Chairman Jay Y. Lee in South Korea next week to discuss cooperation on securing supplies of high-bandwidth memory used in artificial intelligence chips.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to a report by Maeil Business Newspaper that cites industry insiders, Su plans to go to South Korea on March 18 and will also meet with Choi Soo-yeon, the head of Naver.\n\nSamsung did not want to talk about the meeting that was arranged. Naver said that a meeting with AMD was planned, but they didn't say what would be on the agenda.\n\nThe talks are happening because there is a lot of demand for sophisticated memory technologies including high-bandwidth memory, DRAM, and NAND. These are important parts of AI accelerators used in data centers. These memory chips are used by companies like AMD and Nvidia (NVDA, Financials) to run big AI systems.\n\nThe source added that AMD and Naver may also talk about working together on a larger scale, such as increasing the supply of semiconductors for data centers, building sovereign AI infrastructure, and working together on new computer technologies.\n\nSu's visit will happen at the same time as Nvidia's annual GTC developer conference in San Jose, which is from March 16 to March 19 and usually has big news about AI hardware and software.",
       "Language": "en"
     },
     {
