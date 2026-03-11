@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-11",
-  "total_reports": 135,
+  "total_reports": 136,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3V505R:0/",
+      "Date": "2026-03-11",
+      "Time": "09:35:04",
+      "Title": "台灣股市：早盤開高走高漲逾2%並重回月線，跟隨亞洲股市反彈",
+      "Content": "台灣股市周三早盤開高走高，漲幅逾2%並重回月線（約33,302點），隨著亞洲股市明顯反彈。\n\n本地時間09：30，台灣加權指數 TWSE:TAIEX大升2.6%報33,623點，同時間日本股市 勁升2.05%；韓股 亦大漲3.1%。\n\n 美國股市周二漲勢降溫，標普500指數回吐早盤漲幅轉跌，投資者評估美以對伊朗戰爭提前結束的希望漸淡、軍事威脅再度升級以及經濟滯脹擔憂持續等因素。（完）",
+      "ContentLength": 193,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-11 09:42:42"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T3ZY1HF:0/",
