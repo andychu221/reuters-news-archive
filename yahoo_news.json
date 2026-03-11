@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-11T15:31:32.770Z",
-  "total_news_count": 170,
+  "last_updated": "2026-03-11T15:39:23.792Z",
+  "total_news_count": 172,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-03-11",
+      "Time": "23:18:01",
+      "Source": "Investing.com",
+      "Title": "Meta unveils four custom AI chips for data center growth",
+      "URL": "https://finance.yahoo.com/news/meta-unveils-four-custom-ai-151801743.html",
+      "Content": "Investing.com -- Meta on Wednesday announced four custom, in-house chips designed for artificial intelligence tasks as part of the company's data center expansion plans.\n\nThe specialized silicon is part of the Meta Training and Inference Accelerator, or MTIA, family of chips, which the company first revealed publicly in 2023 before releasing a second-generation version in 2024.\n\nMeta said it is developing and deploying four new generations of MTIA chips within the next two years to support ranking and recommendations, along with generative AI workloads. The company stated this represents a much faster pace than typical chip cycles.\n\nMeta Vice President of Engineering Yee Jiun Song told CNBC that by designing custom chips, which are then manufactured by Taiwan Semiconductor, the social media company can squeeze more price per performance across its data center fleet rather than relying only on vendors.\n\n\"This also provides us with, with more diversity in terms of silicon supply, and insulates us from price changes to some extent,\" Song said. \"This is a little bit more leverage.\"\n\nThe first new chip, MTIA 300, was deployed a few weeks ago and is intended to help train smaller AI models that underpin Meta's core ranking and recommendation tasks, Song said. These tasks include showing people relevant content and online ads within the company's family of apps like Facebook and Instagram.\n\nThe upcoming chips are intended for more cutting-edge generative AI-related inference tasks like creating images and videos based on people's written prompts. The chips will not be used for training giant large language models, Song said.\n\nMeta said in a blog post that it had finished testing the MTIA 400 and is \"on the path to deploying it in our data centers,\" while the other two chips will be operational in 2027.\n\n\"It's unusual for any silicon company or team to be releasing a new chip every six months. It's a very quick cadence,\" Song said. \"And the big reason for this is that we find ourselves building out capacity so quickly at the moment, and spending so much on CapEX, that at any given time we want to have the state-of-the-art chip to deploy.\"\n\nSong said the company expects the chips to have a \"standard five-plus years of useful lifetime.\"\n\nMeta's AI spending includes a data center in Louisiana and two others in Ohio and Indiana. Meta is also reportedly looking to lease space at the Stargate site in Texas after OpenAI and Oracle scrapped plans to expand the AI data center site, according to Bloomberg.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-11",
+      "Time": "23:02:30",
+      "Source": "GuruFocus.com",
+      "Title": "Google Acquires Wiz in Biggest Deal Ever of $32 Billion",
+      "URL": "https://finance.yahoo.com/news/google-acquires-wiz-biggest-deal-150230622.html",
+      "Content": "This article first appeared on GuruFocus .\n\nGoogle ( NASDAQ:GOOGL ) just announced that it has completed its $32 billion acquisition of cybersecurity firm Wiz, marking the company's largest deal to date.\n\nWiz will be integrated into Google's cloud unit, while its products and services will remain compatible with other major cloud platforms, including Amazon Web Services, Microsoft Azure, and Oracle Cloud. The offerings will also be available through partner security solutions.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nAnalysts note the acquisition strengthens Google Cloud's cybersecurity capabilities at a time when businesses and governments increasingly rely on cloud services and generative AI. The deal aligns with the company's stated goal of helping organizations innovate while managing digital risks.\n\nWiz co-founder Assaf Rappaport said the integration allows the firm to scale its security mission across diverse environments, maintaining support for all major cloud and code platforms. The combination of Google's AI resources and Wiz's expertise is expected to enhance preventive measures against cyber breaches.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-11",
