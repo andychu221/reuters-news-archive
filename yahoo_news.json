@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-11T07:14:11.313Z",
-  "total_news_count": 89,
+  "last_updated": "2026-03-11T07:39:29.923Z",
+  "total_news_count": 92,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-11",
+      "Time": "15:22:00",
+      "Source": "Motley Fool",
+      "Title": "Why I'm Avoiding Lucid Stock Like the Plague",
+      "URL": "https://finance.yahoo.com/m/cdffb6ba-c30e-30a4-9267-6c3dffd97f0e/why-i%27m-avoiding-lucid-stock.html",
+      "Content": "Lucid Group (NASDAQ: LCID) is a company I track very closely. I believe in its business model over the long term. Last year, the company's former CEO revealed that Lucid plans to slowly evolve from a car manufacturer into a tech supplier, and I believe that approach would come with lower capital needs, higher margins, and greater stickiness with customers.\n\nBut there's a problem: This savvy approach to business strategy doesn't necessarily make the company a wise investment. And there's one obvious reason why.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nLucid isn't a compelling investment versus Rivian or Tesla\n\nAs mentioned, I'm a big fan of Lucid's strategy to focus more on technology versus manufacturing. The only issue is that competing EV stocks , including Rivian (NASDAQ: RIVN) and Tesla (NASDAQ: TSLA) , are pursuing a similar strategy. And unfortunately for Lucid, both Rivian and Tesla are better financed with bright prospects for scaling their technological visions.\n\nTesla's vision is clear: Invest heavily in artificial intelligence (AI) and self-driving technologies to pursue gigantic opportunities like robotaxis, a market some experts predict will eventually be worth $5 trillion to $10 trillion. While it doesn't seem as if Tesla will be marketing its technology to other carmakers, it has the capital and name recognition to pursue this opportunity purely for its own needs.\n\nRivian is also investing heavily in AI to fuel its autonomous driving dreams. But its strategy explicitly involves commercializing its technology for other automakers, as evidenced by its multibillion-dollar partnership with Volkswagen . Volkswagen will be explicitly relying on Rivian for the software side of its vehicle strategy.\n\nWhat about Lucid? Lucid did forge an impressive partnership with Uber Technologies last year to help power that company's robotaxi arm. Importantly, however, the deal was mostly struck to supply Uber with physical vehicles, as Uber doesn't have the capability to manufacture its own fleet. But Uber will be relying on another firm, Nuro Inc., for most of its autonomous software needs.\n\nIn an industry rife with failures, Lucid has successfully secured long-term financial partners, brought several luxury models to market, and attracted deep-pocketed customers like Uber. But when it comes to AI and autonomous driving investments, both Rivian and Tesla are arguably further ahead, both on paper and in terms of actual deployments.\n\nTesla's $1.2 trillion market cap may scare off some investors. But Rivian's $19 billion valuation is far more palatable. That's a premium compared to Lucid's $3.2 billion valuation. But Rivian's path to commercializing its autonomy technology is much clearer. From an investment standpoint, there's simply no room for Lucid when compared to Tesla's might and Rivian's promise.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-11",
+      "Time": "15:06:47",
+      "Source": "Reuters",
+      "Title": "Canal+ taps Google's AI for video production, content recommendation",
+      "URL": "https://finance.yahoo.com/news/canal-taps-googles-ai-video-070647113.html",
+      "Content": "March 11 - French media group Canal+ on Wednesday said it had struck a ‌multi-year partnership with Alphabet's Google Cloud to ‌deploy generative artificial intelligence across its production operations and streaming ​platform.\n\nWith Netflix spending on AI-driven recommendation engines and Amazon embedding machine learning deep into Prime Video , CANAL+ is betting that Google's firepower can help it ‌punch above its ⁠weight as it races toward a target of up to 100 million subscribers ⁠by 2030 after swallowing South Africa's MultiChoice.\n\nWhat are Canal+'s subscriber growth targets for 2030?\n\nWhat competitive advantages does this partnership provide Canal+?\n\nHow will Google Cloud's AI transform Canal+'s operations?\n\nHow does Canal+'s AI strategy compare to Netflix?\n\n* Canal+ will provide Google's video generative AI Veo 3 toproduction ​teams * It ​says this will ​allow creators to pre-visualize ‌scenesbefore shooting or recreate historical moments from a singlearchival photograph * The tools will be made available to production companiesworking on films supported by Canal+ * Partnership includes intellectual property protections,with CANAL+ stating that ‌its rights and asset ownership ​will be\"deeply protected\" within the ​secure technical environmentprovided ​by Google Cloud * Canal+ will use ‌Google's AI technology to index ​its entirecontent ​library and improve personalised recommendations on itsCanal+ App * Rollout will cover European and African markets ​where theApp is ‌available, with deployment set to begin in ​June 2026\n\n(Reporting by Leo Marchandon in Gdansk; ​Editing by Matt Scuffham)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-11",
+      "Time": "14:33:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Meta to Acquire AI-Only Social Media Platform Moltbook",
+      "URL": "https://finance.yahoo.com/m/401867ee-7797-30c8-80ad-62e0be5d3a13/meta-to-acquire-ai-only.html",
+      "Content": "Moltbook’s team will join Meta’s Superintelligence Labs division in the tech giant’s latest move to scale up its AI-related talent and capabilities.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-11",
