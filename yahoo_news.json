@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T00:14:20.257Z",
-  "total_news_count": 307,
+  "last_updated": "2026-03-12T00:31:31.910Z",
+  "total_news_count": 308,
   "news": [
     {
       "Ticker": "INTC",
@@ -30,6 +30,16 @@
       "Title": "Why Nebius Stock Surged Today",
       "URL": "https://finance.yahoo.com/m/8c89d731-e0e5-33b4-9208-e934b4401717/why-nebius-stock-surged-today.html",
       "Content": "Shares of Nebius Group (NASDAQ: NBIS) climbed on Wednesday after the Amsterdam-based artificial intelligence (AI) cloud provider struck a strategic partnership with semiconductor juggernaut Nvidia (NASDAQ: NVDA) .\n\nBy the close of trading, Nebius' stock price was up more than 16%.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAccelerating the AI boom\n\nNvidia and Nebius will work together to design AI factories, deploy data center infrastructure, and optimize inference -- the process of using a trained AI model to generate results.\n\nAs part of the agreement, Nvidia will invest $2 billion in Nebius. The chipmaker said the investment reflects Nebius' \"unique depth of engineering expertise across the full AI technology stack.\"\n\n\"Nebius has been built for AI since day one -- not adapted from a general-purpose cloud, but designed for what developers actually need,\" Nebius CEO Arkady Volozh said in a press release. \"Now with Nvidia, we are extending that throughout the stack -- from gigawatt-scale AI factories to inference and software -- as we build one of the first and largest clouds for all AI builders everywhere.\"\n\nSoaring demand for AI infrastructure\n\nNebius will also gain early access to the latest generation of Nvidia's accelerated computing platform. These tools, along with the cash from Nvidia's investment, are intended to help Nebius deploy over 5 gigawatts of capacity by the end of 2030.\n\n\"Nebius is building an AI cloud designed for the agentic era, fully integrated from silicon to software and powered by Nvidia's next-generation accelerated compute,\" Nvidia CEO Jensen Huang said. \"Together, we are scaling the cloud to meet the surging global demand for intelligence.\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-12",
+      "Time": "06:53:00",
+      "Source": "The Wall Street Journal",
+      "Title": "Amazon’s Win Against Perplexity Kicks AI Shopping Wars Into High Gear",
+      "URL": "https://finance.yahoo.com/m/dc595142-92f5-34ad-9272-87a7b3379d55/amazon%E2%80%99s-win-against.html",
+      "Content": "A judge ruled that Amazon can keep outside AI bots off its site for now, but retailers are preparing for a new normal in shopping.",
       "Language": "en"
     },
     {
