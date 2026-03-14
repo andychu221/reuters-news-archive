@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-12T22:05:54.657Z",
-    "total_news_count": 114,
+    "last_updated": "2026-03-14T10:06:01.529Z",
+    "total_news_count": 115,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-14",
+            "Time": "05:00:05",
+            "Title": "Nvidia prepares AI ‘inference’ chip launch to counter rising challengers",
+            "URL": "https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "TSLA",
             "Date": "2026-03-13",
