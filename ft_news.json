@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-14T10:06:01.529Z",
-    "total_news_count": 115,
+    "last_updated": "2026-03-15T10:06:25.995Z",
+    "total_news_count": 116,
     "news": [
         {
             "Ticker": "NVDA",
@@ -8,6 +8,17 @@
             "Time": "05:00:05",
             "Title": "Nvidia prepares AI ‘inference’ chip launch to counter rising challengers",
             "URL": "https://www.ft.com/content/849fab2d-0d04-411d-8fbb-7fe3b515f5bf",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-13",
+            "Time": "09:18:57",
+            "Title": "Letter: AI outages expose Amazon’s ‘moral crumple zone’",
+            "URL": "https://www.ft.com/content/edb2bf1d-14ab-49bd-913a-036710cb7398",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
