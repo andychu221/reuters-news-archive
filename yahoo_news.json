@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-15T21:14:24.980Z",
-  "total_news_count": 360,
+  "last_updated": "2026-03-15T22:00:08.181Z",
+  "total_news_count": 361,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-16",
+      "Time": "05:34:00",
+      "Source": "Motley Fool",
+      "Title": "Should You Buy Micron Before Earnings? Here's the 1 Thing That Matters.",
+      "URL": "https://finance.yahoo.com/m/0bffdc48-4e38-3773-95c2-c2b34d0d2b70/should-you-buy-micron-before.html",
+      "Content": "Micron Technology (NASDAQ: MU) will report its fiscal second-quarter 2026 earnings on March 18. Wall Street expects average revenue of about $19.1 billion, up roughly 137.4% year over year, and earnings of about $8.60 per share, more than five times higher year over year. This sharp surge in expected top-line and bottom-line numbers is largely driven by rising artificial intelligence (AI)-related memory demand.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAI servers require enormous amounts of memory to train and run large models, pushing up demand for dynamic random-access memory (DRAM) and high-bandwidth memory (HBM).\n\nHence, the key metric to watch as Micron heads into its earnings call is not simply whether the company beats consensus estimates. Instead, the most important factor is whether the memory supply demand mismatch will persist through 2026 and continue translating into strong pricing power for Micron.\n\nMemory pricing dynamics\n\nHistorically, memory has been a cyclical segment of the semiconductor industry. While prices surge during periods of shortages, they typically decline once new capacity enters the market.\n\nHowever, in the current environment , Micron's management has noted that memory demand is significantly higher than the available industry supply. The tight supply demand conditions are expected to persist beyond 2026. The company also indicated that it could meet only 50% to two-thirds of the memory requirements of several of its key customers.\n\nDemand for HBM has been soaring, especially as it is placed close to GPUs in AI accelerators and used extensively for training and running AI models. As models grow larger, context windows expand, and reasoning workloads become more complex, memory requirements across data centers are rising rapidly. Micron has already sold out its entire available HBM supply for calendar year 2026.\n\nDespite the soaring demand, supply cannot expand at the same pace since new semiconductor fabrication facilities -- or fabs -- take years to build. Micron also expects to add meaningful capacity only from 2027 onward.\n\nIn this environment, investors should pay attention to management's commentary on pricing trends and available supply. If Micron manages to sustain higher pricing and margins for longer than in previous memory cycles, the company's stock may continue to soar in the next few years.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-16",
