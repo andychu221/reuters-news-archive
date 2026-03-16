@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-15T10:06:25.995Z",
-    "total_news_count": 116,
+    "last_updated": "2026-03-16T10:06:14.614Z",
+    "total_news_count": 117,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-16",
+            "Time": "08:01:04",
+            "Title": "China’s answer to Amazon launches rival European ecommerce service",
+            "URL": "https://www.ft.com/content/17035508-d34c-4c54-afc5-621adad26d98",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-14",
