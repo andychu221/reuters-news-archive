@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-16T23:17:39.373Z",
-  "total_news_count": 328,
+  "last_updated": "2026-03-16T23:31:35.881Z",
+  "total_news_count": 329,
   "news": [
+    {
+      "Ticker": "TSEM",
+      "Date": "2026-03-17",
+      "Time": "07:14:26",
+      "Source": "Motley Fool",
+      "Title": "Why Tower Semiconductor Stock Jumped Today",
+      "URL": "https://finance.yahoo.com/m/ddf974c7-d462-34d2-8957-ab76a6eb1cd0/why-tower-semiconductor-stock.html",
+      "Content": "Shares of Tower Semiconductor (NASDAQ: TSEM) climbed on Monday after the manufacturer of analog integrated circuits announced a partnership with photonic networking upstart Oriole Networks.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAn intriguing collaboration\n\nTower and Oriole will work together to develop ultra-low latency networking for artificial intelligence ( AI ) infrastructure.\n\nTower's advanced silicon photonics platform is designed to work well with high-speed optical interconnects, which use light rather than electrical signals to transmit data.\n\nOriole's networking technology helps to accelerate machine learning workloads. Its Photonic Routing Infrastructure for Scalable Models (PRISM) uses light to enable nanosecond-level optical circuit switching for AI tasks, while also reducing power consumption and cooling requirements.\n\n\"We are excited to expand our silicon photonics applications beyond traditional data center transceivers and into the network fabric itself,\" Tower executive Ed Preisler said. \"Our joint work with Oriole is a key step toward bringing AI back-end networking to market that can scale clusters and break through today's latency wall.\"\n\nSurging demand for high-speed networking\n\nAs AI systems grow more complex, they not only require larger arrangements of more powerful processors but also better networking solutions that connect them. If Tower and Oriole can provide tools that can alleviate network bottlenecks and make it easier to achieve peak computing performance, they will likely enjoy booming demand for their tech.\n\nTower highlighted industry reports that peg AI networking as an over $80 billion market by 2030.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-17",
