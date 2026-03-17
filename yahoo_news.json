@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T14:14:40.577Z",
-  "total_news_count": 443,
+  "last_updated": "2026-03-17T14:19:41.239Z",
+  "total_news_count": 444,
   "news": [
     {
       "Ticker": "INTC",
@@ -20,6 +20,16 @@
       "Title": "Nvidia Targets $1 Trillion AI Chip Opportunity by 2027",
       "URL": "https://finance.yahoo.com/news/nvidia-targets-1-trillion-ai-134545004.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) said its artificial intelligence chip revenue opportunity could reach at least $1 trillion by 2027, doubling its prior outlook of $500 billion through 2026 as demand shifts toward real-time AI applications.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nChief Executive Jensen Huang announced new products, including a central processing unit and an AI system built with technology licensed from Groq, during the company's GTC conference in San Jose. The move reflects Nvidia's push into inference computing, where AI models generate responses for users, a market seeing increased competition from CPUs and custom chips.\n\nNvidia has dominated AI training workloads, but companies such as OpenAI and Meta are now focusing on deploying AI services to large user bases. This transition is driving demand for inference infrastructure, including CPUs, an area historically led by Intel.\n\nHuang said inference demand is accelerating, describing it as a key growth driver. He added that standalone CPU sales are expected to become a multi-billion-dollar business.\n\nShares rose modestly following the announcement, signaling cautious investor optimism. The company's next catalyst will be further details on its Rubin and future Feynman chip platforms.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-03-17",
+      "Time": "21:39:59",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia Pushes Further Into Real World AI",
+      "URL": "https://finance.yahoo.com/news/nvidia-pushes-further-real-world-133959119.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) is teaming up more closely with STMicroelectronics ( NYSE:STM ) as both companies push into what's being called physical AI, a space that focuses on bringing AI into real world machines like robots and industrial systems.\n\nWarning! GuruFocus has detected 11 Warning Signs with STM.\n\nIs STM fairly valued? Test your thesis with our free DCF calculator.\n\nAt the core of the partnership is the integration of STM's sensors, STM32 microcontrollers and motor control technologies into Nvidia's robotics platforms, including Holoscan Sensor Bridge and Isaac Sim. These tools are already used by developers to train and simulate AI systems before deploying them in real world environments.\n\nThe idea is to make the entire process smoother, from building AI models to getting them working with actual hardware. STMicroelectronics said the collaboration is aimed at speeding up how quickly companies can develop and roll out advanced robotics systems. By aligning STM's hardware with Nvidia's simulation platforms, developers can train systems virtually and then transfer them into real world machines with fewer delays and lower costs.",
       "Language": "en"
     },
     {
