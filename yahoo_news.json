@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-17T12:39:33.877Z",
-  "total_news_count": 426,
+  "last_updated": "2026-03-17T13:00:00.322Z",
+  "total_news_count": 429,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-17",
+      "Time": "20:57:14",
+      "Source": "GuruFocus.com",
+      "Title": "IBM Stock Rises on Nvidia AI Partnership",
+      "URL": "https://finance.yahoo.com/news/ibm-stock-rises-nvidia-ai-125714757.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIBM ( NYSE:IBM ) shares climbed about 1.2% on Monday after the company said it is broadening its partnership with Nvidia to help enterprises deploy artificial intelligence systems at scale.\n\nThe collaboration centers on combining data analytics tools, infrastructure, and consulting services to support companies transitioning AI projects from testing to production. The firms said the effort aims to address challenges such as dispersed data environments, compliance demands, and computing limitations.\n\nWarning! GuruFocus has detected 2 Warning Signs with BABA.\n\nIs IBM fairly valued? Test your thesis with our free DCF calculator.\n\nAs part of the agreement, IBM's watsonx.data SQL engine is being integrated with Nvidia's cuDF software to speed up large-scale data queries. The companies cited internal testing with Nestle's Order-to-Cash system, where processing time was reduced and operating costs declined, demonstrating improved performance metrics.\n\nIBM also said it plans to make Nvidia's Blackwell Ultra GPUs available on IBM Cloud beginning in early the second quarter of 2026. The hardware will be integrated across Red Hat AI Factory systems and related cloud services.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-17",
+      "Time": "20:57:11",
+      "Source": "GuruFocus.com",
+      "Title": "Nvidia CEO Signals Trillion-Dollar AI Era -- Should You Buy NVDA Stock Now?",
+      "URL": "https://finance.yahoo.com/news/nvidia-ceo-signals-trillion-dollar-125711628.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) Chief Executive Jensen Huang said the company expects about $1 trillion in AI-related computing demand by 2027, highlighting what he described as a broader transition in how data centers process workloads, according to a keynote presentation at the company's GTC conference in San Jose.\n\nHuang said growth in inference, the phase where AI systems generate outputs, is accelerating as artificial intelligence moves beyond model training. He suggested the industry is entering a new computing cycle, supported by expanded use of Nvidia's accelerated hardware and software ecosystem.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe executive pointed to partnerships and product updates, including next-generation chips such as Vera Rubin and related infrastructure designs aimed at improving processing speed and energy efficiency. He also emphasized continued expansion of the company's CUDA platform, which he said is now embedded across major computing ecosystems.\n\nNvidia has been working with partners including IBM ( NYSE:IBM ) and Dell ( NYSE:DELL ) on AI data platforms, targeting faster data processing for enterprise customers. Huang framed the outlook as part of a structural shift in computing demand, driven by growing adoption of AI applications across industries.\n\nShould You Buy NVDA Stock?\n\nBased on the one year price targets offered by 57 analysts, the average target price for NVIDIA Corp is $262.32 with a high estimate of $432.78 and a low estimate of $138.00. The average target implies a upside of +43.17% from the current price of $183.22.\n\nBased on the consensus recommendation from 65 brokerage firms, NVIDIA Corp's ( NASDAQ:NVDA ) average brokerage recommendation is currently 1.7, indicating a \"Outperform\" status. The rating scale ranges from 1 to 5, where 1 signifies Strong Buy, and 5 denotes Sell.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO",
+      "Date": "2026-03-17",
+      "Time": "20:42:18",
+      "Source": "Insider Monkey",
+      "Title": "Broadcom (AVGO) AI Chip Revenue Could Exceed $100 Billion by 2027, Rosenblatt Maintains Buy",
+      "URL": "https://finance.yahoo.com/news/broadcom-avgo-ai-chip-revenue-124218654.html",
+      "Content": "Broadcom Inc. (NASDAQ: AVGO ) ranks among the best FAANG+ stocks to invest in right now . On March 5, Rosenblatt boosted its price target for Broadcom Inc. (NASDAQ:AVGO) to $500, up from an unknown previous level, while retaining a Buy rating on the company’s shares. The firm referenced Broadcom’s first-quarter fiscal 2026 results, which matched expectations, and second-quarter revenue projections, which beat average forecasts by 10%.\n\nRosenblatt emphasized comments from CEO Hock Tan, who stated that the company’s fiscal 2027 visibility has significantly increased, with the company adding a path to achieving AI chip revenue of more than $100 billion.\n\nMeanwhile, Baird had recently boosted its price target for Broadcom Inc. (NASDAQ:AVGO) to $630 from $420, maintaining an Outperform rating on the stock. The firm praised Broadcom’s unique ASIC technology and execution skills, as well as its strong networking deployment, which increases product mix. According to Baird, Anthropic rack installations are no longer expected to reduce XPU margins for Broadcom Inc. (NASDAQ:AVGO).\n\nBroadcom Inc. (NASDAQ:AVGO) is a semiconductor and infrastructure software company. It designs and supplies products, including custom chips, networking solutions, and enterprise software used across industries such as cloud computing, telecommunications, and data centers.\n\nWhile we acknowledge the potential of AVGO as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-03-17",
