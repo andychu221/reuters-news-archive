@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T23:17:32.197Z",
-  "total_news_count": 579,
+  "last_updated": "2026-03-17T23:31:46.045Z",
+  "total_news_count": 580,
   "news": [
     {
       "Ticker": "INTC",
@@ -20,6 +20,16 @@
       "Title": "Exclusive-Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
       "URL": "https://finance.yahoo.com/news/exclusive-nvidia-preparing-groq-chips-225044559.html",
       "Content": "By Max A. Cherney and Stephen Nellis\n\nSAN JOSE, California, March 17 (Reuters) - Nvidia is preparing a version of its Groq artificial-intelligence chips ‌that can be sold to the Chinese market, two sources ‌familiar with the matter told Reuters on Tuesday.\n\nNvidia acquired Groq, an AI chip startup, late last ​year in a $17 billion deal and showed a new lineup of products based around its chips at its annual developer conference in San Jose, California, this week.\n\nHow does Nvidia's Groq acquisition impact its AI inference capabilities?\n\nHow do export licenses affect Nvidia's Chinese operations?\n\nWhat is Nvidia's strategy for selling AI chips in China?\n\nWhat are the differences between AI training and inference markets?\n\nThe move to develop a version of the chips for the Chinese market ‌comes as Nvidia CEO ⁠Jensen Huang said that the company has restarted production of its H200 chips, the predecessor to its current flagship chip, ⁠after obtaining export licenses from U.S. President Donald Trump's administration and purchase orders from Chinese customers.\n\nNvidia plans to tap Groq's chips for what is known as inference, ​where ​AI systems answer questions, write code or ​carry out tasks for users. ‌In the products Nvidia showed this week, the company plans to use its forthcoming Vera Rubin chips, which cannot be sold in China, in combination with the Groq chips.\n\nWhile Nvidia dominates the market for training AI systems, it faces much more competition in the inference market. Several major Chinese firms, ‌including AI heavyweights such as Baidu, already ​produce their own inference chips.\n\nThe chips being readied ​for China are not downgraded ​versions or made specifically for the Chinese market, one of ‌the sources told Reuters. But the ​new variant can ​be adapted to work with other systems, the source said, adding that the Groq chip is expected to be available in May.\n\nNvidia did not ​immediately respond to a ‌request for comment.\n\n(Reporting by Stephen Nellis and Max A. Cherney in ​San Jose, California; Additional reporting by Yelin Mo in Beijing; Editing ​by Peter Henderson and Matthew Lewis)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-18",
+      "Time": "06:42:41",
+      "Source": "Investing.com",
+      "Title": "Amazon to slash USPS volume in shift toward in-house logistics - WSJ",
+      "URL": "https://finance.yahoo.com/news/amazon-slash-usps-volume-shift-224241425.html",
+      "Content": "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) is preparing to significantly reduce its reliance on the U.S. Postal Service, targeting a cut of at least two-thirds of its current shipping volume by this fall.\n\nAccording to The Wall Street Journal, citing people familiar with the matter, the e-commerce giant aims to slash its postal volume by at least two-thirds by this fall. The aggressive timeline aligns with the October expiration of Amazon’s current delivery contract with the agency.\n\nLast year, the Postal Service handled over one billion packages for Amazon, representing nearly 15% of the agency’s total domestic volume. These guaranteed shipments provided a rare pillar of stability for the USPS, which reported a $9 billion net loss in fiscal 2025.\n\nTo accommodate growing parcel demand, the Postal Service recently invested heavily in new facilities and automated sorting machinery. Analysts warn that if Amazon’s volume is not replaced, this expensive new infrastructure risks becoming significantly under-utilized.\n\nThe shift was reportedly disclosed during a confidential bidding process for \"last-mile\" services initiated by Postmaster General David Steiner. Steiner maintains that competitive bidding is essential to determine the true market value of the agency’s delivery network.\n\nAmazon reportedly grew concerned about the bidding timeline, fearing it would lack sufficient time to adjust its logistics network if its proposal was rejected. Consequently, the company has already begun ratcheting down its reliance on the postal system to mitigate potential disruptions.\n\nIf a new agreement is not reached, Amazon may be forced to accelerate investments in its own proprietary delivery fleet. While the company handles most urban deliveries, it still relies on the USPS for 30% to 40% of its more expensive rural routes.\n\nResults of the current bidding competition are expected to be released during the second quarter of this year. Both parties now face a high-stakes summer of negotiations that will redefine the landscape of American e-commerce logistics.",
       "Language": "en"
     },
     {
