@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-17T12:16:01.360Z",
-  "total_news_count": 45,
+  "last_updated": "2026-03-17T13:16:00.330Z",
+  "total_news_count": 46,
   "news": [
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-03-17",
+      "Time": "20:56:00",
+      "Source": "經濟日報",
+      "Title": "群聯發表aiDAPTIV多層級記憶體架構技術 重新定義邊緣AI推論能力",
+      "URL": "https://money.udn.com/money/story/5612/9386190?from=edn_search_result",
+      "Content": "聯合報 記者簡永祥／台北即時報導\n\n儲存型快閃記憶體（NAND Flash）控制晶片暨NAND儲存解決方案整合服務領導廠商 群聯 ( 8299) 今日宣布將於GTC展會展示其aiDAPTIVTM多層級記憶體架構技術，如何在由輝達（ NVIDIA） 平台驅動的本地邊緣AI系統中，支援更大型AI模型與長上下文推論。\n\n群聯表示，目前產業正面臨日益嚴峻的記憶體供給短缺狀況，而對AI就緒平台 (AI-ready platforms) 的需求卻持續快速攀升。由於針對專有資料進行微調 與推論需要大量運算與記憶體資源，也使得企業在投資AI基礎設施與邊緣AI設備時面臨挑戰。隨著AI解決方案成本上升與AI工作流程瓶頸增加，也進一步拖慢企業將AI創新轉化為實際營收的上市時程。\n\n為解決此問題，群聯推出 aiDAPTIV多層級記憶體架構技術，專為邊緣AI應用打造。透過搭載aiDAPTIV技術的群聯企業級Pascari SSD 作為全新的 AI 記憶體層級，aiDAPTIV 技術能夠在 GPU 記憶體、系統 RAM 與NAND Flash快閃記憶體之間，智慧延伸並管理 AI 運算的工作記憶體。\n\n隨NVIDIA的AI基礎設施持續提升GPU記憶體能力以支援資料中心推論工作負載，群聯這次發表展示了aiDAPTIV技術如何將多層級記憶體架構 導入地端邊緣AI系統。\n\n群聯強調，aiDAPTIV 技術利用專為持續分頁（sustained paging）與上下文保存（context retention）而優化設計的高耐久度快閃記憶體 ，支援在固定GPU硬體配置下進行記憶體密集需求的AI推論與AI模型微調工作負載。透過 aiDAPTIV 的多層級記憶體架構技術，企業可在本地邊緣系統上運作日益成長的 AI 工作負載，並同時兼顧資料隱私並提升長期AI基礎設施投資效率。\n\n群聯執行長潘健成表示：「傳統記憶體管理機制並非為 AI 應用所設計，而今日的 AI 基礎設施也已無法再依賴通用型的記憶體管理方式。透過 aiDAPTIV 多層級記憶體架構技術，我們打造了一個具備 AI 感知能力的記憶體架構 (AI-aware architecture)，能在多層級記憶體之間延伸AI有效記憶體容量，使本地邊緣 AI 平台在不增加 GPU 硬體的情況下，也能支援更大型模型與長上下文推論，協助企業在維持邊緣 AI 工作負載的同時，更可有效地規畫AI基礎設施投資。」\n\n群聯在GTC大會，發表aiDAPTIV多層級記憶體架構技術，重新定義邊緣AI推論能力。圖／群聯提供",
+      "Language": "zh"
+    },
     {
       "Ticker": "3443.TW",
       "Date": "2026-03-17",
