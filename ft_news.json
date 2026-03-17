@@ -1,7 +1,29 @@
 {
-    "last_updated": "2026-03-16T10:06:14.614Z",
-    "total_news_count": 117,
+    "last_updated": "2026-03-17T10:05:44.099Z",
+    "total_news_count": 119,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-17",
+            "Time": "14:59:37",
+            "Title": "Nvidia’s Jensen Huang predicts $1tn in AI chip revenue over 2 years",
+            "URL": "https://www.ft.com/content/205591d9-2785-4897-808c-739dc223b3d0",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-03-17",
+            "Time": "08:40:38",
+            "Title": "TikTok and Meta in algorithm race to promote and exploit rage",
+            "URL": "https://www.ft.com/content/a5833b06-414d-42a4-a8f1-c8b05901448e",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AMZN",
             "Date": "2026-03-16",
