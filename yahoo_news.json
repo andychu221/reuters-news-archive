@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T23:39:47.161Z",
-  "total_news_count": 583,
+  "last_updated": "2026-03-18T00:00:05.629Z",
+  "total_news_count": 585,
   "news": [
     {
       "Ticker": "INTC",
@@ -17,9 +17,29 @@
       "Date": "2026-03-18",
       "Time": "06:50:44",
       "Source": "Reuters",
+      "Title": "Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
+      "URL": "https://finance.yahoo.com/news/exclusive-nvidia-preparing-groq-chips-225044559.html",
+      "Content": "(Corrects to show Nvidia licensed technology from Groq rather than buying company in paragraph 2)\n\nBy Max A. Cherney and Stephen Nellis\n\nSAN JOSE, ‌California, March 17 (Reuters) - Nvidia is preparing a version of its Groq ‌artificial-intelligence chips that can be sold to the Chinese market, two sources familiar with the matter ​told Reuters on Tuesday.\n\nWhat challenges does Nvidia face in China's AI market?\n\nWhy is Nvidia preparing Groq chips for China?\n\nWhat technology did Nvidia license from Groq?\n\nHow do these chips differ from Nvidia's flagship products?\n\nNvidia licensed technology from Groq, an AI chip startup, late last year in a $17 billion deal and showed a new lineup of products based around its chips at its annual developer conference in San Jose, California, this week.\n\nThe move ‌to develop a version ⁠of the chips for the Chinese market comes as Nvidia CEO Jensen Huang said that the company has restarted production of ⁠its H200 chips, the predecessor to its current flagship chip, after obtaining export licenses from U.S. President Donald Trump's administration and purchase orders from Chinese customers.\n\nNvidia plans to ​tap Groq's ​chips for what is known as inference, ​where AI systems answer questions, ‌write code or carry out tasks for users. In the products Nvidia showed this week, the company plans to use its forthcoming Vera Rubin chips, which cannot be sold in China, in combination with the Groq chips.\n\nWhile Nvidia dominates the market for training AI systems, it faces much more competition in the inference ‌market. Several major Chinese firms, including AI heavyweights ​such as Baidu, already produce their own inference ​chips.\n\nThe chips being readied for ​China are not downgraded versions or made specifically for the ‌Chinese market, one of the sources told ​Reuters. But the ​new variant can be adapted to work with other systems, the source said, adding that the Groq chip is expected to be available in May.\n\nNvidia ​did not immediately respond to ‌a request for comment.\n\n(Reporting by Stephen Nellis and Max A. Cherney ​in San Jose, California; Additional reporting by Yelin Mo in Beijing; ​Editing by Peter Henderson and Matthew Lewis)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-18",
+      "Time": "06:50:44",
+      "Source": "Reuters",
       "Title": "Exclusive-Nvidia preparing Groq chips that can be sold in Chinese market, sources say",
       "URL": "https://finance.yahoo.com/news/exclusive-nvidia-preparing-groq-chips-225044559.html",
       "Content": "By Max A. Cherney and Stephen Nellis\n\nSAN JOSE, California, March 17 (Reuters) - Nvidia is preparing a version of its Groq artificial-intelligence chips ‌that can be sold to the Chinese market, two sources ‌familiar with the matter told Reuters on Tuesday.\n\nNvidia acquired Groq, an AI chip startup, late last ​year in a $17 billion deal and showed a new lineup of products based around its chips at its annual developer conference in San Jose, California, this week.\n\nHow does Nvidia's Groq acquisition impact its AI inference capabilities?\n\nHow do export licenses affect Nvidia's Chinese operations?\n\nWhat is Nvidia's strategy for selling AI chips in China?\n\nWhat are the differences between AI training and inference markets?\n\nThe move to develop a version of the chips for the Chinese market ‌comes as Nvidia CEO ⁠Jensen Huang said that the company has restarted production of its H200 chips, the predecessor to its current flagship chip, ⁠after obtaining export licenses from U.S. President Donald Trump's administration and purchase orders from Chinese customers.\n\nNvidia plans to tap Groq's chips for what is known as inference, ​where ​AI systems answer questions, write code or ​carry out tasks for users. ‌In the products Nvidia showed this week, the company plans to use its forthcoming Vera Rubin chips, which cannot be sold in China, in combination with the Groq chips.\n\nWhile Nvidia dominates the market for training AI systems, it faces much more competition in the inference market. Several major Chinese firms, ‌including AI heavyweights such as Baidu, already ​produce their own inference chips.\n\nThe chips being readied ​for China are not downgraded ​versions or made specifically for the Chinese market, one of ‌the sources told Reuters. But the ​new variant can ​be adapted to work with other systems, the source said, adding that the Groq chip is expected to be available in May.\n\nNvidia did not ​immediately respond to a ‌request for comment.\n\n(Reporting by Stephen Nellis and Max A. Cherney in ​San Jose, California; Additional reporting by Yelin Mo in Beijing; Editing ​by Peter Henderson and Matthew Lewis)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-18",
+      "Time": "06:45:14",
+      "Source": "The Wall Street Journal",
+      "Title": "Nvidia Prepares to Take Its Next Step in China's AI Market",
+      "URL": "https://finance.yahoo.com/m/edb5fe93-50b5-3823-89a2-ea928a5693a2/nvidia-prepares-to-take-its.html",
+      "Content": "Nvidia has resumed making its H200 processors for sale in China, Chief Executive Jensen Huang said Tuesday, signaling a possible shift in the chip maker's fortunes in the world’s second-largest market. The Trump administration and Nvidia have been involved in a complicated tango over the sales of the company's advanced artificial-intelligence chips in China. The U.S. said in December it would allow Nvidia to sell its H200 processor in China, as long as the company shared 25% of its sales with the U.S. government.",
       "Language": "en"
     },
     {
