@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-18T21:39:23.549Z",
-  "total_news_count": 796,
+  "last_updated": "2026-03-18T22:00:19.655Z",
+  "total_news_count": 799,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-19",
+      "Time": "05:46:02",
+      "Source": "Reuters",
+      "Title": "Acquihires, often used by Big Tech, are a 'red flag,' DOJ antitrust head says",
+      "URL": "https://finance.yahoo.com/news/acquihires-often-used-big-tech-214602965.html",
+      "Content": "March 18 (Reuters) - Companies’ efforts to sidestep U.S. antitrust scrutiny through tactics such as “acquihires” - a strategy ‌some Big Tech firms use to snap up ‌talent at artificial intelligence startups - are a “red flag,” the top U.S. antitrust enforcer ​told Reuters on Wednesday.\n\nAcquihires, where the world's biggest technology firms pay large sums in deals with promising startups to take their technology and talent, but stop short of formally acquiring the ‌target, are increasingly being ⁠viewed by antitrust regulators as an attempt to evade merger rules. In one recent example, Nvidia ⁠in December agreed to license chip technology from startup Groq and hire its CEO, without buying the company.\n\nWhat was Nvidia's recent acquihire deal with Groq?\n\nWhat are acquihires and how do they work?\n\nHow do acquihires differ from traditional merger reviews?\n\nWhy do antitrust regulators view acquihires as problematic?\n\nWhen companies make ​acquisitions, they ​hand over information about a ​proposed transaction to federal antitrust ‌enforcers. \"Acquihires\" allow companies to essentially absorb other firms without going through that formal merger review process.\n\n\"When I see conduct that appears aimed to circumvent that process, as a litigator, as an enforcer, that's more of a red flag to me ‌than if you had just participated ​and complied\" with the review process, ​said Acting Assistant Attorney ​General Omeed Assefi.\n\nHe said companies should be willing ‌to engage in the merger ​review process. That ​way, the DOJ can quickly understand and address any concerns, or, if the deal has no competitive issues, ​end its review ‌early and let the deal close, he said.\n\nAssefi declined ​to discuss ongoing matters or particular companies.\n\n(Reporting by Jody ​Godoy; editing by David Gaffen)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-19",
+      "Time": "05:40:20",
+      "Source": "Motley Fool",
+      "Title": "Stock Market Today, March 18: Fed Leaves Rates Unchanged, and Markets Fall on Inflation Fears",
+      "URL": "https://finance.yahoo.com/m/7a3c2161-112a-3725-8527-019a92b5a7fa/stock-market-today%2C-march-18%3A.html",
+      "Content": "The S&P 500 (SNPINDEX:^GSPC) fell 1.36% to 6,624.70, the Nasdaq Composite (NASDAQINDEX:^IXIC) lost 1.46% to 22,152.42, and the Dow Jones Industrial Average (DJINDICES:^DJI) dropped 1.63% to 46,225.16 after the Federal Reserve highlighted inflation concerns.\n\nEnergy stocks pushed upwards in intraday trading as oil prices spiked. Chevron (NYSE:CVX) inched up 0.32% to finish at $198.61, but Exxon Mobil (NYSE:XOM) could not hold its gains, closing down 0.77% at $157.59. Macy's (NYSE:M) surged on strong sales and Q4 earnings that beat expectations.\n\nCloudflare (NYSE:NET) soared on news of a potential stablecoin partnership with crypto exchange Coinbase (NASDAQ:COIN) . Memory chip giant Micron Technology (NASDAQ:MU) fell in after-hours trading, despite a Q1 earnings beat. SanDisk (NASDAQ:SNDK) rose during the day on continued AI memory optimism, but slipped after market close. Advanced Micro Devices (NASDAQ:AMD) edged higher on a new Samsung chip partnership.\n\nWhat this means for investors\n\nAs expected, the Fed held interest rates steady today, signaling just one cut this year. Chair Jerome Powell stressed that rate cuts would not happen until inflation fell. Today’s Producer Price Index data came in higher than expected, further pressuring stocks.\n\nClimbing oil prices added to investor worries, as Brent crude topped $110 per barrel. Gasoline prices reached $3.84 a gallon, the highest since Sept. 2023. In addition to the immediate upswing in energy prices, Citadel Securities' analysts warn a prolonged conflict in Iran could pose broader growth risks. Investors may see further downside in stocks if traffic flow remains restricted through the Strait of Hormuz soon.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-19",
+      "Time": "05:29:26",
+      "Source": "Insider Monkey",
+      "Title": "Nvidia (NVDA), Hyundai, Kia Expand Partnership for Next-Gen Autonomous Systems",
+      "URL": "https://finance.yahoo.com/news/nvidia-nvda-hyundai-kia-expand-212926252.html",
+      "Content": "Nvidia Corporation (NASDAQ: NVDA ) is one of the best growth stocks to buy right now . On March 16, Hyundai Motor Group, Kia, and Nvidia announced an expanded partnership to accelerate the development of next-gen autonomous driving systems. By using the Nvidia DRIVE Hyperion platform, the collaboration aims to combine Hyundai’s software-defined vehicle/SDV expertise and massive fleet data with Nvidia’s AI and accelerated computing power.\n\nThis unified framework is designed to support a scalable autonomous stack, ranging from Level 2+ driver assistance in production vehicles to Level 4 robotaxi innovation through Hyundai’s JV, Motional. The partnership focuses on a data-driven development cycle. By using real-world data collected from Hyundai and Kia’s global vehicle fleets, the companies will train and refine AI models in simulation and then deploy them back into vehicles. This continuous loop allows the autonomous systems to learn and improve based on diverse, real-world driving conditions, significantly shortening the timeline for validating and scaling advanced safety features.\n\nKey leaders from both organizations emphasized that this milestone is critical for realizing a vision of safe, reliable mobility. The integration of Nvidia Corporation’s (NASDAQ:NVDA) AI infrastructure into Hyundai’s vehicle engineering leadership is expected to differentiate its technological competitiveness in the rapidly evolving SDV market. This move ensures that as vehicles transition into computers on wheels, they possess the necessary processing power to handle the complex computations required for high-level autonomy and intelligent cabin experiences.\n\nNvidia Corporation (NASDAQ:NVDA) is a data center scale AI infrastructure company that operates through two segments: Compute & Networking and Graphics.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-03-19",
