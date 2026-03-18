@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-18T16:05:56.150Z",
-    "total_news_count": 124,
+    "last_updated": "2026-03-18T22:10:24.426Z",
+    "total_news_count": 127,
     "news": [
         {
             "Ticker": "MSFT",
@@ -47,6 +47,17 @@
             "Language": "en"
         },
         {
+            "Ticker": "INTC",
+            "Date": "2026-03-18",
+            "Time": "01:00:00",
+            "Title": "ASUS Republic of Gamers Strix Laptop Lineup Returns With the Latest Intel Core Ultra 9 290HX Plus Processors",
+            "URL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWd3YWRKcWhGU044dTJEVkhFdkJOeTY4ckNBV3pBUnRCREk3SXhIbk43QzM2MnU4NnA0d0JyREdtQ1psTUNTMFBaRWs1OG45WU9sZDcweEE4M1RNNXFKWlJoV0ZjMWpFRHZKZ19VX3hSbC1kSTYwN3RVVjVTTVBOSkM1aGFxZkNIalNuUHlsbzI2Nkt1R1cxTg",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
             "Ticker": "AMZN",
             "Date": "2026-03-17",
             "Time": "20:30:24",
@@ -74,6 +85,28 @@
             "Time": "08:40:38",
             "Title": "TikTok and Meta in algorithm race to promote and exploit rage",
             "URL": "https://www.ft.com/content/a5833b06-414d-42a4-a8f1-c8b05901448e",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-16",
+            "Time": "21:00:00",
+            "Title": "Apple introduces AirPods Max 2 – Company Announcement",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa1ZEU2I2d0dWV3l3cHFMTV9VcndPQktCMURQUUkzYUc3U3ZwYU5DYTE4R2ZVRExDblhsRHBtUVlvb09pcnI2OXJrcmtEUFBnbjN3Tk52a2lTbnVGOHdxbVpqd0dQYXBSMk9ma0xPSmdmUmNXejY2MldYYXVPQ3pSei1HZWNkWmw4bWo0NkJoQnJzNlFvRDVZRkFYcDloZVlRNy1tVjBB",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-03-16",
+            "Time": "19:08:00",
+            "Title": "Nebius Signs New AI Infrastructure Agreement with Meta – Company Announcement",
+            "URL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWc5N3dVa3luSzNXb2hYUWtZaXlBV2xpMW1saUdac0thZU9XaGpGcTNJbkhDWnpNVTF0bzNnbzdLYWFFSTJNV2JjcThLVFl1S2FTeXl4S3Z2U1FHY1BsaThYWG5TNlNyeEVMNzZIczdWSDVGV3RqdmRZZ3NWUG9PQnVVdW81SmZzZDRCeFNGRktTcWFVamw4bnBTMWVyVkpXZE1ib1lB",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
