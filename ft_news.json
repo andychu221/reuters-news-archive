@@ -1,7 +1,51 @@
 {
-    "last_updated": "2026-03-17T10:05:44.099Z",
-    "total_news_count": 119,
+    "last_updated": "2026-03-18T10:06:01.124Z",
+    "total_news_count": 123,
     "news": [
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-18",
+            "Time": "13:00:27",
+            "Title": "Microsoft weighs legal action over $50bn Amazon-OpenAI cloud deal",
+            "URL": "https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-03-18",
+            "Time": "05:34:14",
+            "Title": "Microsoft reshuffles AI team to catch up on Copilot and model building",
+            "URL": "https://www.ft.com/content/60646cbf-0445-4841-81e1-32efc4b32907",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-18",
+            "Time": "04:38:47",
+            "Title": "Nvidia restarts manufacturing of AI chips for China",
+            "URL": "https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-03-17",
+            "Time": "20:30:24",
+            "Title": "When Amazon and JD.com lock horns, it’s shoppers that win",
+            "URL": "https://www.ft.com/content/c90aee36-1d5e-4a44-bc83-51f244ccd056",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "NVDA",
             "Date": "2026-03-17",
