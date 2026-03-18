@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-18T10:06:01.124Z",
-    "total_news_count": 123,
+    "last_updated": "2026-03-18T16:05:56.150Z",
+    "total_news_count": 124,
     "news": [
         {
             "Ticker": "MSFT",
@@ -8,6 +8,17 @@
             "Time": "13:00:27",
             "Title": "Microsoft weighs legal action over $50bn Amazon-OpenAI cloud deal",
             "URL": "https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
+        {
+            "Ticker": "GOOG",
+            "Date": "2026-03-18",
+            "Time": "13:00:25",
+            "Title": "Why Alphabet’s VC arm has doubled down on Europe",
+            "URL": "https://www.ft.com/content/f6dfc90d-7a6a-4a5f-ad56-cd9d3e1ef62a",
             "AI_Summary": "",
             "Content": "",
             "Source": "Financial Times",
