@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-03-19T13:14:34.000Z",
-  "total_news_count": 892,
+  "last_updated": "2026-03-19T13:39:55.049Z",
+  "total_news_count": 895,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-19",
+      "Time": "21:22:53",
+      "Source": "GuruFocus.com",
+      "Title": "US Battery Capacity Hits 100% Domestic Supply as Output Reaches 70 GWh",
+      "URL": "https://finance.yahoo.com/sectors/energy/articles/us-battery-capacity-hits-100-132253545.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe US is starting to close a critical gap in its energy supply chain, with new data pointing to a sharp buildout in domestic battery capacity that could reshape how power is delivered to AI-driven infrastructure. According to the US Energy Storage Coalition, the country now has enough manufacturing capacity to supply 100% of its energy-storage systems domestically, up from just 7 gigawatt hours in 2023 to around 70 today. The expansion is being supported by rising electricity demand from data centers and artificial intelligence, alongside policy incentives that continue to support battery deployment. Companies operating in this space, including Tesla ( NASDAQ:TSLA ), are positioned within a system where storage is becoming increasingly important to stabilizing grids and meeting industrial power needs.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe shift is also moving upstream into battery-cell production, an area where the US has historically depended on imports. Domestic cell manufacturing capacity has risen from zero in 2024 to about 20 gigawatt hours, enough to cover roughly a third of local demand. Looking ahead, the coalition expects capacity to expand fivefold and potentially exceed domestic demand by the end of 2026. While China remains the dominant global supplier of battery cells, the US buildout reflects a broader effort to reduce reliance on overseas supply chains. At the same time, some utilities are showing early signs of favoring domestically produced batteries, particularly as energy security and sourcing considerations come into sharper focus.\n\nPricing dynamics remain closely balanced. Chinese batteries are still generally cheaper, but US-produced systems are becoming more competitive as tariffs and federal tax credits narrow the gap. Battery incentives have remained in place under President Donald Trump's policy framework, supporting the economics of local manufacturing. Imports accounted for about two-thirds of US battery-cell supply last year, though that mix could shift as domestic production scales. For investors, the trend may point to a gradual reallocation rather than an abrupt shift, with energy storage emerging as a key enabler of AI growth and a central piece of the evolving power market.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-03-19",
+      "Time": "21:19:54",
+      "Source": "GuruFocus.com",
+      "Title": "Musk Speeds Up Tesla's Next-Gen AI Chip",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/musk-speeds-teslas-next-gen-131954521.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) looks like it's trying to move faster on its AI roadmap, with Elon Musk saying the company could tape out its next-generation AI6 chip as early as December.\n\nThat's earlier than many would have expected, and it hints at how aggressively Tesla is pushing its in-house chip development. Musk noted that AI itself could help speed up the design process, which is an interesting twist given these chips are meant to power everything from self-driving systems to Optimus robots. The AI6 chip would follow the current AI5, marking another step up in performance and efficiency.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nOn the manufacturing side, Samsung ( SSNLF ) is expected to handle production under a $16.5 billion deal, using its advanced 2nm process. But even if Tesla hits that December tape-out target, actual production isn't expected until the second half of 2027, so there's still a long runway before these chips show up at scale.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-19",
+      "Time": "20:55:15",
+      "Source": "GuruFocus.com",
+      "Title": "Alphabet's Power Deal Signals AI Infrastructure Push",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/alphabets-power-deal-signals-ai-125515668.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) has agreed to a 20-year power purchase agreement with DTE Energy ( NYSE:DTE ) to support a new data center in Michigan. It is tied to the development of up to 2.7 GW of new solar capacity. Alongside the agreement, Alphabet is committing $10 million to an energy impact fund aimed at supporting local reliability and clean energy initiatives. Alphabet shares are down 0.60% intraday.\n\nWarning! GuruFocus has detected 7 Warning Signs with TMDX.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nGoogle said the structure is designed to ensure access to clean energy as it scales infrastructure, reflecting a need to align compute growth with long-term power availability. Rather than relying on existing grid access, the company is effectively pairing new capacity with new power supply. The combination of direct procurement and targeted investment suggests a more integrated approach, where electricity becomes part of the buildout, not a separate constraint.\n\nThe scale of the agreement puts energy more directly into focus. It raises questions about how power availability could shape the pace and location of future deployments, particularly as AI workloads become more energy-intensive. For Alphabet, that shifts the equation, securing power starts to look as critical as securing chips and data center capacity.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-19",
