@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-18T22:10:24.426Z",
-    "total_news_count": 127,
+    "last_updated": "2026-03-19T10:06:14.461Z",
+    "total_news_count": 128,
     "news": [
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-03-19",
+            "Time": "13:00:29",
+            "Title": "Apple supplier Murata starts US-China rare earths decoupling",
+            "URL": "https://www.ft.com/content/42252fe0-008d-48e1-912e-b925a382c70e",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "MSFT",
             "Date": "2026-03-18",
