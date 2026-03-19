@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T23:01:49.331Z",
+  "last_updated": "2026-03-19T11:07:01.705Z",
   "total_news_count": 230,
   "news": [
     {
@@ -14,7 +14,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Open AI Models, AI Development, Coalition Building, Competitive Landscape"
+      "Keywords": "Open AI Models, AI Development, Industry Collaboration"
     },
     {
       "Ticker": "NVDA",
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Concerns, Market Sentiment"
     },
     {
       "Ticker": "NVDA",
@@ -42,7 +42,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Concerns, Market Sentiment"
     },
     {
       "Ticker": "NVDA",
@@ -56,7 +56,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "China Market, Export Controls, AI Chip Sales, Geopolitical Risk"
+      "Keywords": "China Market, AI Chip Sales, Regulatory Approval, Demand Signals"
     },
     {
       "Ticker": "TSLA",
@@ -68,9 +68,9 @@
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG, said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Infrastructure"
+      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
     },
     {
       "Ticker": "TSLA",
@@ -82,9 +82,9 @@
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG , said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Infrastructure"
+      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
     },
     {
       "Ticker": "AMZN",
@@ -98,7 +98,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Delivery Network, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Costs, Delivery Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "AMZN",
@@ -112,7 +112,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Delivery Network, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Costs, Delivery Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "NVDA",
@@ -126,7 +126,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Inferencing, Product Launch, Stock Reaction, Guidance Clarity"
+      "Keywords": "AI Inferencing, Product Launch, Sales Forecast, Market Reaction"
     },
     {
       "Ticker": "MSFT",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Reorganization, Product Strategy, User Experience, AI Models"
+      "Keywords": "AI Reorganization, Copilot Strategy, User Experience, Product Integration"
     },
     {
       "Ticker": "AMZN",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Prime Membership"
+      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Subscription Services"
     },
     {
       "Ticker": "AMZN",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, Competitive Response, E-commerce Logistics, Market Share"
+      "Keywords": "Delivery Speed, Competitive Landscape, E-commerce Logistics, Pricing Strategy"
     },
     {
       "Ticker": "NVDA",
@@ -182,7 +182,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Capital Spending, Chip Specialization, Market Shift"
+      "Keywords": "AI Inference, AI Training, Chip Specialization, Market Shift, Capital Expenditure"
     },
     {
       "Ticker": "NVDA",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
+      "Keywords": "Autonomous Agents, AI Software, Enterprise AI, Platform Strategy"
     },
     {
       "Ticker": "NVDA",
@@ -210,7 +210,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
+      "Keywords": "Autonomous Agents, AI Software, Enterprise AI, Platform Strategy"
     },
     {
       "Ticker": "NVDA",
@@ -224,7 +224,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Hardware Innovation, Performance Leap, AI Factories"
+      "Keywords": "AI Inference, New Product Launch, Performance Improvement, AI Factories"
     },
     {
       "Ticker": "NVDA",
@@ -238,7 +238,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Hardware Innovation, Performance Leap, AI Factories"
+      "Keywords": "AI Inference, New Product Launch, Performance Improvement, AI Factories"
     },
     {
       "Ticker": "NVDA",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Global AI Strategy, Data Center Investment, Geopolitical Competition, Technology Export"
+      "Keywords": "AI Infrastructure, Data Center Investment, Geopolitical Strategy, Technology Export"
     },
     {
       "Ticker": "TSLA",
@@ -266,7 +266,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Trademark Dispute, Autonomous Vehicle, Brand Protection, International Expansion"
+      "Keywords": "Trademark Dispute, Autonomous Vehicles, Brand Protection, Legal Challenges"
     },
     {
       "Ticker": "NVDA",
@@ -280,7 +280,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Infrastructure, Data Center Capacity, Partnership, Demand Growth"
+      "Keywords": "AI Infrastructure, Data Center Capacity, Cloud Computing, Meta Investment"
     },
     {
       "Ticker": "NVDA",
@@ -293,8 +293,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Market Shift, Hardware Requirements, Agentic AI"
+      "Sentiment_Score": 0,
+      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Growth"
     },
     {
       "Ticker": "NVDA",
@@ -307,8 +307,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Market Shift, Hardware Requirements, Agentic AI"
+      "Sentiment_Score": 0,
+      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Growth"
     },
     {
       "Ticker": "AAPL",
@@ -322,7 +322,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "AI Investment, Capital Allocation, Competitive Strategy, Infrastructure Spending"
+      "Keywords": "AI Investment, Capital Allocation, Competitive Strategy, Market Returns"
     },
     {
       "Ticker": "AAPL",
