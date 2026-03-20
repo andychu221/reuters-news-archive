@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T11:07:00.953Z",
+  "last_updated": "2026-03-20T23:01:50.160Z",
   "total_news_count": 230,
   "news": [
     {
@@ -26,9 +26,9 @@
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC conference this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for AI inferencing that was announced at the event.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation, Future Growth"
+      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
     },
     {
       "Ticker": "NVDA",
@@ -40,9 +40,9 @@
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC event this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for artificial-intelligence inferencing that was announced at the conference.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation, Future Growth"
+      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
     },
     {
       "Ticker": "NVDA",
@@ -54,7 +54,7 @@
       "Content": "SAN JOSE, Calif.—Nvidia has restarted manufacturing of its H200 processors for sale in China, Chief Executive Jensen Huang said Tuesday, signaling a possible shift in the chip giant’s fortunes in the world’s second-largest market.\n\nNvidia and the Trump administration have been involved in a complicated tango over the sales of its advanced artificial-intelligence chips in China. Last April, the Commerce Department halted exports of the H20, a processor Nvidia designed especially for the China market, but reversed course in August.\n\nChinese officials, however, discouraged customers in their country from buying the H20, and Nvidia was at the same time seeking licenses for its more-advanced Blackwell chips. In late August, Nvidia halted production of its H20 chip.\n\nThe company’s fortunes turned again in December, when the U.S. said it would allow Nvidia to sell its H200 processor—a chip that is a generation behind its most powerful series of GPUs—in China, as long as the company shared 25% of its sales with the U.S. government. GPUs, or graphics processing units, are powerful chips used in training AI models. In late January, after Huang visited China, officials there signaled they would approve H200 sales as well.\n\nBut until Tuesday, the status of the H200 in China was unclear. In Nvidia’s most recent earnings report, the company said that although it had received approval to ship “small amounts of H200 products” to China, “to date we have not generated any revenue” from those sales.\n\nSpeaking at the company’s GTC event Tuesday, Huang said that in recent weeks, demand signals out of China have strengthened.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "China Market, Regulatory Approval, AI Chip Sales, Demand Signals"
     },
@@ -98,7 +98,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Strategy, USPS Revenue, Package Volume, Contract Negotiation"
     },
     {
       "Ticker": "AMZN",
@@ -112,7 +112,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Strategy, USPS Revenue, Package Volume, Contract Negotiation"
     },
     {
       "Ticker": "NVDA",
@@ -126,7 +126,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Inferencing, Product Launch, Market Expectations, Stock Performance"
+      "Keywords": "AI Inferencing, Product Launch, GTC Conference, Stock Performance"
     },
     {
       "Ticker": "MSFT",
@@ -139,7 +139,7 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
-      "Sentiment_Score": 0,
+      "Sentiment_Score": 1,
       "Keywords": "AI Reorganization, Copilot Strategy, User Experience, Product Unification"
     },
     {
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Subscription Service"
+      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Prime Membership"
     },
     {
       "Ticker": "AMZN",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
+      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
     },
     {
       "Ticker": "NVDA",
@@ -210,7 +210,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
+      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
     },
     {
       "Ticker": "NVDA",
@@ -224,7 +224,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Product Launch, Performance Leap, Hardware Innovation"
+      "Keywords": "AI Inference, Chip Sales Projection, Hardware Innovation, Performance Leap"
     },
     {
       "Ticker": "NVDA",
@@ -238,7 +238,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Product Launch, Performance Leap, Hardware Innovation"
+      "Keywords": "AI Inference, Chip Sales Projection, Hardware Innovation, Performance Leap"
     },
     {
       "Ticker": "NVDA",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Global AI Expansion, Data Center Investment, Geopolitical Strategy, Chip Supply"
+      "Keywords": "AI Infrastructure, Data Center Investment, Geopolitical Strategy, Chip Supply"
     },
     {
       "Ticker": "TSLA",
@@ -266,7 +266,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Trademark Dispute, Autonomous Vehicles, Brand Protection, International Expansion"
+      "Keywords": "Trademark Dispute, Autonomous Vehicles, Brand Protection, Legal Challenge"
     },
     {
       "Ticker": "NVDA",
@@ -294,7 +294,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Shift"
+      "Keywords": "AI Inference, GPU Technology, Hardware Requirements, Agentic AI"
     },
     {
       "Ticker": "NVDA",
@@ -308,7 +308,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Shift"
+      "Keywords": "AI Inference, GPU Technology, Hardware Requirements, Agentic AI"
     },
     {
       "Ticker": "AAPL",
