@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T23:01:50.705Z",
+  "last_updated": "2026-03-20T11:07:00.953Z",
   "total_news_count": 230,
   "news": [
     {
@@ -14,7 +14,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Open AI Models, AI Development, Coalition Building, Foundation Models"
+      "Keywords": "Open AI Models, AI Development, Industry Collaboration, Foundation Models"
     },
     {
       "Ticker": "NVDA",
@@ -28,7 +28,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Investor Sentiment"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation, Future Growth"
     },
     {
       "Ticker": "NVDA",
@@ -42,7 +42,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Investor Sentiment"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation, Future Growth"
     },
     {
       "Ticker": "NVDA",
@@ -54,9 +54,9 @@
       "Content": "SAN JOSE, Calif.—Nvidia has restarted manufacturing of its H200 processors for sale in China, Chief Executive Jensen Huang said Tuesday, signaling a possible shift in the chip giant’s fortunes in the world’s second-largest market.\n\nNvidia and the Trump administration have been involved in a complicated tango over the sales of its advanced artificial-intelligence chips in China. Last April, the Commerce Department halted exports of the H20, a processor Nvidia designed especially for the China market, but reversed course in August.\n\nChinese officials, however, discouraged customers in their country from buying the H20, and Nvidia was at the same time seeking licenses for its more-advanced Blackwell chips. In late August, Nvidia halted production of its H20 chip.\n\nThe company’s fortunes turned again in December, when the U.S. said it would allow Nvidia to sell its H200 processor—a chip that is a generation behind its most powerful series of GPUs—in China, as long as the company shared 25% of its sales with the U.S. government. GPUs, or graphics processing units, are powerful chips used in training AI models. In late January, after Huang visited China, officials there signaled they would approve H200 sales as well.\n\nBut until Tuesday, the status of the H200 in China was unclear. In Nvidia’s most recent earnings report, the company said that although it had received approval to ship “small amounts of H200 products” to China, “to date we have not generated any revenue” from those sales.\n\nSpeaking at the company’s GTC event Tuesday, Huang said that in recent weeks, demand signals out of China have strengthened.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "China Market, AI Chip Sales, Regulatory Approval, Demand Signals"
+      "Keywords": "China Market, Regulatory Approval, AI Chip Sales, Demand Signals"
     },
     {
       "Ticker": "TSLA",
@@ -68,7 +68,7 @@
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG, said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
     },
@@ -82,7 +82,7 @@
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG , said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 3,
+      "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
     },
@@ -98,7 +98,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, USPS Revenue, Package Volume, Contract Negotiation"
+      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "AMZN",
@@ -112,7 +112,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, USPS Revenue, Package Volume, Contract Negotiation"
+      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "NVDA",
@@ -126,7 +126,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Inference, Product Launch, Market Expectations, Stock Performance"
+      "Keywords": "AI Inferencing, Product Launch, Market Expectations, Stock Performance"
     },
     {
       "Ticker": "MSFT",
@@ -139,8 +139,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "AI Reorganization, Product Strategy, User Experience, Copilot Development"
+      "Sentiment_Score": 0,
+      "Keywords": "AI Reorganization, Copilot Strategy, User Experience, Product Unification"
     },
     {
       "Ticker": "AMZN",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Prime Membership"
+      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Subscription Service"
     },
     {
       "Ticker": "AMZN",
@@ -168,7 +168,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, Competitive Landscape, E-commerce Strategy, Logistics Network"
+      "Keywords": "Delivery Speed, Competitive Landscape, E-commerce Logistics, Market Share"
     },
     {
       "Ticker": "NVDA",
@@ -182,7 +182,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Training vs Inference, Chip Specialization, Capital Expenditure"
+      "Keywords": "AI Inference, Capital Expenditure, Chip Specialization, Market Shift"
     },
     {
       "Ticker": "NVDA",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
+      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
     },
     {
       "Ticker": "NVDA",
@@ -210,7 +210,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
+      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, Platform Strategy"
     },
     {
       "Ticker": "NVDA",
@@ -224,7 +224,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Product Launch, Performance Metrics, AI Chip Sales"
+      "Keywords": "AI Inference, Product Launch, Performance Leap, Hardware Innovation"
     },
     {
       "Ticker": "NVDA",
@@ -238,7 +238,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Product Launch, Performance Metrics, AI Chip Sales"
+      "Keywords": "AI Inference, Product Launch, Performance Leap, Hardware Innovation"
     },
     {
       "Ticker": "NVDA",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Infrastructure, Data Center Investment, Geopolitical Strategy, Technology Export"
+      "Keywords": "Global AI Expansion, Data Center Investment, Geopolitical Strategy, Chip Supply"
     },
     {
       "Ticker": "TSLA",
@@ -280,7 +280,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Infrastructure, Data Center Capacity, Partnership Deal, Cloud Computing"
+      "Keywords": "AI Infrastructure, Data Center Capacity, Cloud Computing, Strategic Partnership"
     },
     {
       "Ticker": "NVDA",
@@ -294,7 +294,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, GPU Technology, Agentic AI, Computing Demand"
+      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Shift"
     },
     {
       "Ticker": "NVDA",
@@ -308,7 +308,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, GPU Technology, Agentic AI, Computing Demand"
+      "Keywords": "AI Inference, GPU Technology, Agentic AI, Demand Shift"
     },
     {
       "Ticker": "AAPL",
