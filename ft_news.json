@@ -1,7 +1,18 @@
 {
-    "last_updated": "2026-03-19T10:06:14.461Z",
-    "total_news_count": 128,
+    "last_updated": "2026-03-20T10:06:08.677Z",
+    "total_news_count": 129,
     "news": [
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-03-20",
+            "Time": "15:19:09",
+            "Title": "Supermicro co-founder charged in conspiracy to export Nvidia chips to China",
+            "URL": "https://www.ft.com/content/d605ebac-bfae-4cec-a7d9-8696f2a5d748",
+            "AI_Summary": "",
+            "Content": "",
+            "Source": "Financial Times",
+            "Language": "en"
+        },
         {
             "Ticker": "AAPL",
             "Date": "2026-03-19",
