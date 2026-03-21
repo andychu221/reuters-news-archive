@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T11:06:55.584Z",
+  "last_updated": "2026-03-21T23:01:44.930Z",
   "total_news_count": 230,
   "news": [
     {
@@ -8,13 +8,13 @@
       "Time": "19:00:00",
       "Title": "Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It - WSJ",
       "URL": "https://www.wsj.com/cio-journal/companies-say-the-risks-of-open-artificial-intelligence-models-are-worth-it-0d3ee664",
-      "AI_Summary": "• Nvidia is developing 'open' AI models with publicly available code.\n• This initiative provides an alternative to proprietary AI giants like OpenAI.\n• The Nemotron Coalition will advance AI development through shared resources.\n• Key members include Cursor, Mistral AI, and Perplexity.",
+      "AI_Summary": "• Nvidia is developing open AI models with public code as an alternative to proprietary giants.\n• The Nemotron Coalition aims to advance frontier AI models through shared resources.\n• Key members include Cursor, Mistral AI, and Perplexity.\n• This initiative promotes collaboration in AI development.",
       "Content": "SAN JOSE, Calif.—Nvidia is mobilizing an effort to create “open” artificial intelligence models that make their code publicly available and provide an alternative to proprietary giants such as OpenAI and Anthropic.\n\nThe Nemotron Coalition will advance development of frontier-level foundation models through shared expertise, data and compute, Nvidia Chief Executive Jensen Huang said Monday. Inaugural members include model developers and AI labs Cursor, Black Forest Labs, LangChain, Mistral AI, Perplexity, Reflection AI, Sarvam and Thinking Machines Lab.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "Open AI Models, AI Development, Coalition Building, Shared Expertise"
+      "Sentiment_Score": 0,
+      "Keywords": "Open AI Models, AI Collaboration, Foundation Models, AI Development"
     },
     {
       "Ticker": "NVDA",
@@ -22,13 +22,13 @@
       "Time": "17:30:00",
       "Title": "Nvidia’s Next Act Will Be Its Biggest—and Toughest - WSJ",
       "URL": "https://www.wsj.com/finance/stocks/nvidias-next-act-will-be-its-biggestand-toughest-a9223741",
-      "AI_Summary": "• Nvidia projected $1 trillion in revenue for two chip families by 2027.\n• This forecast is considered a floor, excluding new offerings like Groq inference chips.\n• Analysts expected around $965 billion in data center revenue for the period.\n• Despite strong projections, Nvidia's stock has shown minimal movement, trading flat year-to-date.\n• Concerns about AI spending sustainability and competitive pressures are impacting investor sentiment.",
+      "AI_Summary": "• Nvidia projects $1 trillion in revenue for two chip families by 2027, exceeding analyst expectations of $965 billion.\n• The stock has shown minimal movement despite strong forecasts, slipping 2% year-to-date.\n• Nvidia's P/E multiple is below the S&P 500 for the first time in over a decade.\n• Investor concerns focus on the sustainability of AI spending and future growth beyond the current cycle.",
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC conference this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for AI inferencing that was announced at the event.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
+      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
     },
     {
       "Ticker": "NVDA",
@@ -36,13 +36,13 @@
       "Time": "17:30:00",
       "Title": "Nvidia’s Next Act Will Be Its Biggest—and Toughest - WSJ",
       "URL": "https://www.wsj.com/finance/stocks/nvidias-next-act-will-be-its-biggestand-toughest-a9223741",
-      "AI_Summary": "• Nvidia projects $1 trillion in revenue for two chip families by 2027.\n• This forecast exceeds analyst expectations of $965 billion for data center revenue.\n• Stock performance has been flat despite strong projections, down over 2% YTD.\n• Investors are concerned about AI spending sustainability and future growth legs.",
+      "AI_Summary": "• Nvidia projects $1 trillion in revenue for two chip families by 2027, exceeding analyst expectations of $965 billion.\n• The stock has shown minimal movement despite strong forecasts, slipping 2% year-to-date.\n• Nvidia's P/E multiple is below the S&P 500 for the first time in over a decade.\n• Investor concerns focus on the sustainability of AI spending and future growth beyond the current cycle.",
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC event this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for artificial-intelligence inferencing that was announced at the conference.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 4,
+      "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
+      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
     },
     {
       "Ticker": "NVDA",
@@ -50,7 +50,7 @@
       "Time": "06:07:00",
       "Title": "Nvidia Says It Is Restarting Production of AI Chips for Sale in China - WSJ",
       "URL": "https://www.wsj.com/tech/ai/nvidia-says-it-is-restarting-production-of-ai-chips-for-sale-in-china-eea7029e",
-      "AI_Summary": "• Nvidia has restarted manufacturing of its H200 processors for sale in China.\n• The U.S. government allowed sales of H200 processors in China with a 25% revenue share.\n• Chinese officials signaled approval for H200 sales after CEO Huang's visit.\n• Nvidia has not yet generated revenue from H200 sales in China.\n• Demand signals from China have strengthened recently.",
+      "AI_Summary": "• Nvidia has restarted production of H200 processors for sale in China.\n• This follows U.S. government approval to sell the H200, with a 25% revenue share.\n• Demand signals from China have strengthened recently.\n• This indicates a potential positive shift in the Chinese market for Nvidia.",
       "Content": "SAN JOSE, Calif.—Nvidia has restarted manufacturing of its H200 processors for sale in China, Chief Executive Jensen Huang said Tuesday, signaling a possible shift in the chip giant’s fortunes in the world’s second-largest market.\n\nNvidia and the Trump administration have been involved in a complicated tango over the sales of its advanced artificial-intelligence chips in China. Last April, the Commerce Department halted exports of the H20, a processor Nvidia designed especially for the China market, but reversed course in August.\n\nChinese officials, however, discouraged customers in their country from buying the H20, and Nvidia was at the same time seeking licenses for its more-advanced Blackwell chips. In late August, Nvidia halted production of its H20 chip.\n\nThe company’s fortunes turned again in December, when the U.S. said it would allow Nvidia to sell its H200 processor—a chip that is a generation behind its most powerful series of GPUs—in China, as long as the company shared 25% of its sales with the U.S. government. GPUs, or graphics processing units, are powerful chips used in training AI models. In late January, after Huang visited China, officials there signaled they would approve H200 sales as well.\n\nBut until Tuesday, the status of the H200 in China was unclear. In Nvidia’s most recent earnings report, the company said that although it had received approval to ship “small amounts of H200 products” to China, “to date we have not generated any revenue” from those sales.\n\nSpeaking at the company’s GTC event Tuesday, Huang said that in recent weeks, demand signals out of China have strengthened.",
       "Source": "WSJ",
       "Language": "en",
@@ -64,13 +64,13 @@
       "Time": "05:55:00",
       "Title": "Tesla, LG Bet On U.S. Batteries With $4.3 Billion Michigan Plant - WSJ",
       "URL": "https://www.wsj.com/business/autos/tesla-lg-bet-on-u-s-batteries-with-4-3-billion-michigan-plant-9591b12c",
-      "AI_Summary": "• Tesla and LG Energy Solution are partnering on a $4.3 billion Michigan battery plant.\n• The factory will produce battery cells for Tesla's energy storage business.\n• These batteries will power utilities and AI data centers.\n• LG acquired the plant stake after GM scaled back EV ambitions.\n• This partnership aims to create a robust domestic battery supply chain.",
+      "AI_Summary": "• Tesla and LG Energy Solution are partnering on a $4.3 billion battery plant in Michigan.\n• The factory will produce battery cells for Tesla's energy storage business, including Megapack 3.\n• These cells will power utilities and AI data centers.\n• This strengthens the domestic battery supply chain.",
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG, said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
+      "Keywords": "Energy Storage, Battery Supply Chain, Domestic Manufacturing, AI Data Centers"
     },
     {
       "Ticker": "TSLA",
@@ -78,13 +78,13 @@
       "Time": "05:55:00",
       "Title": "Tesla, LG Bet on U.S. Batteries With $4.3 Billion Michigan Plant - WSJ",
       "URL": "https://www.wsj.com/business/autos/tesla-lg-bet-on-u-s-batteries-with-4-3-billion-michigan-plant-9591b12c",
-      "AI_Summary": "• Tesla and LG Energy Solution are partnering on a $4.3 billion Michigan battery plant.\n• The factory will produce battery cells for Tesla's energy-storage business.\n• These cells will power utilities and AI data centers.\n• The plant was originally intended for GM's EVs but LG acquired GM's stake.\n• This partnership aims to create a robust domestic battery supply chain.",
+      "AI_Summary": "• Tesla and LG Energy Solution are partnering on a $4.3 billion battery plant in Michigan.\n• The factory will produce battery cells for Tesla's energy storage business, including Megapack 3.\n• These cells will power utilities and AI data centers.\n• This strengthens the domestic battery supply chain.",
       "Content": "A Michigan battery factory once meant for General Motors’ electric vehicles has a new partner: Tesla .\n\nLG Energy Solution , the battery unit of Korean electronics giant LG , said it would produce battery cells for Tesla’s fast-growing energy-storage business at a new factory in Lansing, Mich. Those cells will eventually power utilities and artificial-intelligence data centers.\n\nLG once planned to make batteries for GM’s EVs at the factory, but as the automaker pulled back on its electric ambitions, it sold its stake in the venture to LG last year. The new $4.3 billion LG-Tesla tie-up was part of a Trump administration announcement on Tuesday, among dozens of other deals, as part of its “energy dominance agenda.”\n\n“American-made cells will power Tesla’s Megapack 3 energy-storage systems produced in Houston, creating a robust domestic battery supply chain,” according to the Interior Department.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Battery Production, Energy Storage, Supply Chain, AI Data Centers"
+      "Keywords": "Energy Storage, Battery Supply Chain, Domestic Manufacturing, AI Data Centers"
     },
     {
       "Ticker": "AMZN",
@@ -92,13 +92,13 @@
       "Time": "05:37:00",
       "Title": "Exclusive | Amazon Plans Drastic Cut in Packages It Sends Through the Post Office - WSJ",
       "URL": "https://www.wsj.com/business/retail/amazon-plans-drastic-cut-in-packages-it-sends-through-the-post-office-93d0f6db",
-      "AI_Summary": "• Amazon plans to significantly reduce package volume shipped via the U.S. Postal Service.\n• The reduction could cost USPS millions in lost revenue.\n• Amazon wants to cut volume by at least two-thirds by this fall.\n• USPS delivered over a billion packages for Amazon last year, ~15% of total volume.\n• USPS reported a net loss of $9 billion in fiscal 2025.",
+      "AI_Summary": "• Amazon plans to significantly reduce package volume shipped via the U.S. Postal Service (USPS).\n• This reduction could cost USPS millions in revenue, impacting its financial stability.\n• Amazon aims to cut volume by at least two-thirds by fall.\n• USPS delivered over a billion packages for Amazon last year.",
       "Content": "Amazon.com is planning to sharply cut the number of packages it ships through the U.S. Postal Service, a move that could cost the agency millions of dollars in much-needed revenue.\n\nThe e-commerce giant, long the Postal Service’s biggest customer, has already begun ratcheting down its postal volume and wants to reduce it by at least two-thirds by this fall, when its current contract with the agency expires, according to people familiar with the matter.\n\nUSPS delivered more than a billion packages for Amazon last year, close to 15% of all the packages that the Postal Service delivered in the country. Amazon’s guaranteed volumes have been a source of stability for the agency, which has operated at a loss for most of the past two decades. In fiscal 2025, it reported a net loss of $9 billion.\n\nThe Postal Service has expanded its parcel-delivery capacity in recent years, building bigger facilities and buying new machines to process boxes, which replaced aging equipment that focused on letter mail. If the decline in volumes from Amazon isn’t adequately managed, the new equipment and facilities could end up being under-utilized. The Postal Service may also have to find more ways to cut costs.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Costs, Delivery Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "AMZN",
@@ -106,13 +106,13 @@
       "Time": "05:37:00",
       "Title": "Exclusive | Amazon Plans Drastic Cut in Packages Sent Via Already-Struggling Postal Service - WSJ",
       "URL": "https://www.wsj.com/business/retail/amazon-usps-package-volume-change-93d0f6db",
-      "AI_Summary": "• Amazon plans to significantly reduce package volume shipped via the U.S. Postal Service.\n• The reduction aims to be at least two-thirds by fall, potentially costing USPS billions.\n• USPS delivered over a billion packages for Amazon last year, about 15% of its total.\n• Amazon's reduced volume could lead to under-utilization of USPS's expanded parcel capacity.\n• USPS reported a net loss of $9 billion in fiscal 2025.",
+      "AI_Summary": "• Amazon plans to significantly reduce package volume shipped via the U.S. Postal Service (USPS).\n• This reduction could cost USPS billions in revenue, impacting its financial stability.\n• Amazon aims to cut volume by at least two-thirds by fall.\n• USPS delivered over a billion packages for Amazon last year.",
       "Content": "Amazon.com is planning to sharply cut the number of packages it ships through the U.S. Postal Service, a move that could cost the agency billions of dollars in much-needed revenue.\n\nThe e-commerce giant, long the Postal Service’s biggest customer, has already begun ratcheting down its postal volume and wants to reduce it by at least two-thirds by this fall, when its current contract with the agency expires, according to people familiar with the matter.\n\nUSPS delivered more than a billion packages for Amazon last year, close to 15% of all the packages that the Postal Service delivered in the country. Amazon’s guaranteed volumes have been a source of stability for the agency, which has operated at a loss for most of the past two decades. In fiscal 2025, it reported a net loss of $9 billion.\n\nThe Postal Service has expanded its parcel-delivery capacity in recent years, building bigger facilities and buying new machines to process boxes, which replaced aging equipment that focused on letter mail. If the decline in volumes from Amazon isn’t adequately managed, the new equipment and facilities could end up being underutilized. The Postal Service may also have to find more ways to cut costs.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
+      "Keywords": "Logistics Costs, Delivery Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "NVDA",
@@ -120,13 +120,13 @@
       "Time": "00:15:00",
       "Title": "Nvidia’s Super Bowl Plays to the Crowd - WSJ",
       "URL": "https://www.wsj.com/tech/ai/nvidias-super-bowl-plays-to-the-crowd-8cf6f47b",
-      "AI_Summary": "• Nvidia's GTC conference keynote focused on Vera Rubin AI platforms and Groq partnership.\n• The new Groq chip is designed for AI inferencing tasks.\n• Inferencing is seen as a potential weak point in Nvidia's portfolio.\n• The announcement of the Groq chip was not a surprise to the market.\n• Nvidia's stock saw a modest gain during the keynote, but gains were short-lived.",
+      "AI_Summary": "• Nvidia unveiled Vera Rubin AI platform and a new Groq chip for AI inferencing.\n• The Groq chip integration was anticipated, limiting surprise impact on stock.\n• Stock saw a modest gain of 1.6% during the keynote.\n• Sales forecast clarification led to a short-lived bump.",
       "Content": "Nvidia and Apple are two very different companies with one problem in common: Both have a hard time springing any surprises.\n\nNvidia is hosting its annual GTC conference in San Jose, Calif., this week. The opening keynote by CEO Jensen Huang on Monday devoted most of its time to Vera Rubin, the next generation of the company’s AI computing platforms. Included in that will be a new type of chip from the company’s partnership with a startup called Groq, which was announced barely four months ago.\n\nThat chip is specifically designed to handle tasks related to AI inferencing. This is when AI models produce answers to queries. Inferencing is seen as a potential weak point in Nvidia’s portfolio. Its GPU chips have been typically designed to handle the demanding workloads for AI training.\n\nThe speed at which Nvidia is incorporating Groq into its products is indeed impressive. The Groq chips will be available with the Vera Rubin systems that start shipping later this year.\n\nBut none of that counted as much of a surprise. Huang talked at length about Vera Rubin at the CES conference in January, and The Wall Street Journal reported last month that the new Groq chip would be unveiled at the conference.\n\nNvidia’s stock closed Monday with a 1.6% gain, about a percentage point below where it was trading at the beginning of the keynote. A bump when Huang appeared to double a sales forecast he gave six months ago proved short-lived. It quickly became clear he was speaking about different time periods.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Inferencing, Product Launch, Market Expectations, Stock Performance"
+      "Keywords": "AI Inferencing, Product Launch, Market Expectations, AI Platforms"
     },
     {
       "Ticker": "MSFT",
@@ -134,13 +134,13 @@
       "Time": "23:00:00",
       "Title": "Microsoft Seeks More Coherence in AI Efforts With Copilot Reorganization - WSJ",
       "URL": "https://www.wsj.com/tech/ai/microsoft-seeks-more-coherence-in-ai-efforts-with-copilot-reorganization-a985b374",
-      "AI_Summary": "• Microsoft is reorganizing teams working on its Copilot AI product.\n• The goal is to unify Microsoft 365 Copilot and consumer Copilot for a cohesive experience.\n• Jacob Andreou will lead product, growth, and engineering for Copilot.\n• Mustafa Suleyman will focus on proprietary AI models and superintelligence.\n• This reorganization aims to deliver more coherent and competitive AI experiences.",
+      "AI_Summary": "• Microsoft is reorganizing Copilot AI teams to unify product experiences.\n• This aims to address disjointed user experience and consumer confusion.\n• Leadership changes include Jacob Andreou overseeing Copilot and Mustafa Suleyman focusing on AI models.\n• The goal is to deliver more coherent and competitive AI offerings.",
       "Content": "Microsoft is reorganizing the teams that work on the different versions of its flagship Copilot AI product, altering a strategy that some employees said created a disjointed user experience and consumer confusion.\n\nThe software giant is unifying the teams that work on its Microsoft 365 Copilot productivity offerings and the consumer version of Copilot, according to a memo from Microsoft Chief Executive Satya Nadella reviewed by The Wall Street Journal.\n\nJacob Andreou, who leads product and growth for Microsoft AI, will become executive vice president of Copilot, in charge of its design, product, growth and engineering. Mustafa Suleyman, Microsoft AI’s chief executive, will now focus primarily on the company’s proprietary AI models and its drive toward what it calls superintelligence. The Microsoft 365 apps will be led by a group of executives that include Ryan Roslansky, chief executive of LinkedIn and an executive vice president at Microsoft.\n\nWith the changes, Microsoft moves away from having distinct commercial and consumer Copilot products and toward one product experience across its business and consumer applications.\n\nThe new setup will enable Microsoft to deliver more coherent and competitive experiences that can evolve as AI models advance, Nadella said in his memo. He also said its AI models are more critical than ever to its success during the next decade.\n\nMicrosoft’s shake-up is happening as the company is working to drive up sign-ups for its commercial Microsoft 365 Copilot while increasing adoption of its consumer version, which lives on its own app and on the Edge browser.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "AI Product Strategy, User Experience, Product Unification, Market Competition"
+      "Sentiment_Score": 0,
+      "Keywords": "AI Reorganization, Product Strategy, User Experience, AI Models"
     },
     {
       "Ticker": "AMZN",
@@ -148,13 +148,13 @@
       "Time": "18:49:00",
       "Title": "Amazon Launches 1-Hour Delivery in Hundreds of U.S. Cities - WSJ",
       "URL": "https://www.wsj.com/tech/amazon-launches-1-hour-delivery-in-hundreds-of-u-s-cities-27cf8f55",
-      "AI_Summary": "• Amazon launched 1-hour delivery in hundreds of U.S. cities for a fee.\n• Three-hour delivery is available in over 2,000 locations.\n• The service focuses on household essentials and health items.\n• One-hour delivery costs $9.99 for Prime members, $19.99 for non-Prime.",
+      "AI_Summary": "• Amazon launched 1-hour delivery for $9.99 (Prime) in hundreds of U.S. cities.\n• 3-hour delivery is available in over 2,000 locations for $4.99 (Prime).\n• This service focuses on essentials like household items and medications.\n• The expansion aims to meet customer demand for faster convenience.",
       "Content": "Amazon has launched faster delivery options, allowing customers in certain cities across the U.S. to have products delivered in an hour for a fee.\n\nThe e-commerce giant said Tuesday that one-hour delivery is now available in hundreds of locations, and that three-hour delivery is available in over 2,000 locations. The new options will allow customers to shop for products typically found in a local supercenter, such as household essentials, health and beauty items and over-the-counter medications, for quick delivery.\n\nThe expedited delivery options have been available in parts of major metropolitan areas including Los Angeles, Chicago and Washington D.C., as well as smaller cities such as Des Moines, Iowa, and Boise, Idaho, Amazon said. Availability extends to certain surrounding suburbs, and the company said it aims to continue expanding the service.\n\nOne-hour delivery has been priced at $9.99 for Amazon Prime members and $19.99 for non-Prime members. Three-hour delivery will cost $4.99 and $14.99, respectively, the company said.\n\nCustomers can see which items are eligible for expedited delivery with new messaging next to product names, or shoppers can view a dedicated storefront shopping page of eligible items in areas where one-hour and three-hour delivery is available, the company said.\n\n“Our customers are busier than ever and are looking for new ways to save time while keeping their households running,” said Udit Madan, senior vice president of worldwide operations. “We saw an opportunity to use our unique operational expertise and delivery network to help make customers’ lives a little easier.”",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, Customer Convenience, E-commerce Logistics, Subscription Service"
+      "Keywords": "Delivery Speed, Customer Convenience, Logistics Network, E-commerce Operations"
     },
     {
       "Ticker": "AMZN",
@@ -162,13 +162,13 @@
       "Time": "18:49:00",
       "Title": "Amazon Launches 1-Hour Delivery in Hundreds of U.S. Cities - WSJ",
       "URL": "https://www.wsj.com/business/retail/amazon-launches-1-hour-delivery-in-hundreds-of-u-s-cities-27cf8f55",
-      "AI_Summary": "• Amazon is rolling out 1-hour and 3-hour delivery services across the U.S.\n• This move aims to counter competition from Walmart and other shippers.\n• One-hour delivery is available in hundreds of locations, 3-hour in over 2,000.\n• Pricing for 1-hour delivery is $9.99 (Prime) / $19.99 (non-Prime).\n• The company plans to continue expanding these expedited delivery options.",
+      "AI_Summary": "• Amazon is rolling out 1-hour and 3-hour delivery services across the U.S.\n• This move aims to counter competition from Walmart and intensifying shipping rivalry.\n• 1-hour delivery costs $9.99 (Prime), 3-hour delivery costs $4.99 (Prime).\n• The service targets essentials and is expanding to hundreds of locations.",
       "Content": "Amazon said it is rolling out one-hour and three-hour delivery services across the U.S., as it moves to fend off a growing threat from Walmart and faces intensifying shipping competition.\n\nThe e-commerce giant said Tuesday that one-hour delivery is now available in hundreds of locations, and that three-hour delivery is available in over 2,000 locations. The new options will allow customers to shop for products typically found in a local supercenter, such as household essentials, health and beauty items and over-the-counter medications, for quick delivery.\n\nThe expedited delivery options have been available in parts of large metropolitan areas including Los Angeles, Chicago and Washington, D.C., as well as smaller cities such as Des Moines, Iowa, and Boise, Idaho, Amazon said. Availability extends to certain surrounding suburbs, and the company said it aims to continue expanding the service.\n\nOne-hour delivery has been priced at $9.99 for Amazon Prime members and $19.99 for non-Prime members. Three-hour delivery will cost $4.99 and $14.99, respectively, the company said.",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, Competitive Landscape, E-commerce Logistics, Market Share"
+      "Keywords": "Delivery Speed, Competitive Landscape, E-commerce Logistics, Customer Service"
     },
     {
       "Ticker": "NVDA",
