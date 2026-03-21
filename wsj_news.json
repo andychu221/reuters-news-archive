@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T23:01:50.160Z",
+  "last_updated": "2026-03-21T11:06:55.584Z",
   "total_news_count": 230,
   "news": [
     {
@@ -14,7 +14,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Open AI Models, AI Development, Industry Collaboration, Foundation Models"
+      "Keywords": "Open AI Models, AI Development, Coalition Building, Shared Expertise"
     },
     {
       "Ticker": "NVDA",
@@ -26,9 +26,9 @@
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC conference this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for AI inferencing that was announced at the event.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 5,
+      "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
     },
     {
       "Ticker": "NVDA",
@@ -40,9 +40,9 @@
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC event this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for artificial-intelligence inferencing that was announced at the conference.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
-      "Related_Score": 5,
+      "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Future Growth, Valuation, Data Center Revenue"
+      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Future Growth"
     },
     {
       "Ticker": "NVDA",
@@ -56,7 +56,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "China Market, Regulatory Approval, AI Chip Sales, Demand Signals"
+      "Keywords": "China Market, AI Chip Sales, Regulatory Approval, Demand Signals"
     },
     {
       "Ticker": "TSLA",
@@ -98,7 +98,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Strategy, USPS Revenue, Package Volume, Contract Negotiation"
+      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "AMZN",
@@ -112,7 +112,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Logistics Strategy, USPS Revenue, Package Volume, Contract Negotiation"
+      "Keywords": "Logistics Costs, Shipping Volume, USPS Revenue, Contract Negotiation"
     },
     {
       "Ticker": "NVDA",
@@ -126,7 +126,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "AI Inferencing, Product Launch, GTC Conference, Stock Performance"
+      "Keywords": "AI Inferencing, Product Launch, Market Expectations, Stock Performance"
     },
     {
       "Ticker": "MSFT",
@@ -140,7 +140,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Reorganization, Copilot Strategy, User Experience, Product Unification"
+      "Keywords": "AI Product Strategy, User Experience, Product Unification, Market Competition"
     },
     {
       "Ticker": "AMZN",
@@ -154,7 +154,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Delivery Speed, E-commerce Logistics, Customer Convenience, Prime Membership"
+      "Keywords": "Delivery Speed, Customer Convenience, E-commerce Logistics, Subscription Service"
     },
     {
       "Ticker": "AMZN",
@@ -182,7 +182,7 @@
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "AI Inference, Capital Expenditure, Chip Specialization, Market Shift"
+      "Keywords": "AI Inference, Chip Specialization, Capital Expenditure, Market Shift"
     },
     {
       "Ticker": "NVDA",
@@ -196,7 +196,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
+      "Keywords": "Autonomous Agents, Enterprise Software, AI Strategy, Platform Development"
     },
     {
       "Ticker": "NVDA",
@@ -210,7 +210,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Autonomous Agents, Software Toolkit, Enterprise AI, OpenClaw Platform"
+      "Keywords": "Autonomous Agents, Enterprise Software, AI Strategy, Platform Development"
     },
     {
       "Ticker": "NVDA",
@@ -223,8 +223,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Chip Sales Projection, Hardware Innovation, Performance Leap"
+      "Sentiment_Score": 1,
+      "Keywords": "AI Inference, Hardware Innovation, Performance Leap, Groq Partnership"
     },
     {
       "Ticker": "NVDA",
@@ -237,8 +237,8 @@
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "AI Inference, Chip Sales Projection, Hardware Innovation, Performance Leap"
+      "Sentiment_Score": 1,
+      "Keywords": "AI Inference, Hardware Innovation, Performance Leap, Groq Partnership"
     },
     {
       "Ticker": "NVDA",
@@ -252,7 +252,7 @@
       "Language": "en",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "AI Infrastructure, Data Center Investment, Geopolitical Strategy, Chip Supply"
+      "Keywords": "Global AI Expansion, Data Center Investment, Geopolitical Strategy, Semiconductor Exports"
     },
     {
       "Ticker": "TSLA",
@@ -266,7 +266,7 @@
       "Language": "en",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Trademark Dispute, Autonomous Vehicles, Brand Protection, Legal Challenge"
+      "Keywords": "Trademark Dispute, Autonomous Vehicles, Brand Protection, International Expansion"
     },
     {
       "Ticker": "NVDA",
