@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-21T22:00:22.879Z",
-  "total_news_count": 258,
+  "last_updated": "2026-03-21T22:14:19.033Z",
+  "total_news_count": 259,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-22",
+      "Time": "05:34:00",
+      "Source": "Motley Fool",
+      "Title": "Better Semiconductor Stock: Broadcom vs. Marvell Technology",
+      "URL": "https://finance.yahoo.com/m/03a41b4e-a0be-3830-a76d-6d1215da4fa5/better-semiconductor-stock%3A.html",
+      "Content": "Artificial intelligence (AI) infrastructure spending is booming, and hyperscalers (owners of large data centers) are increasingly looking to turn to custom AI chips called ASICs (application-specific integrated circuits) to help them reduce costs. ASICs are hardwired chips that are preprogrammed to perform specific tasks. While hyperscalers are responsible for developing these chips themselves, they typically need help in turning their designs into physical chips that can be manufactured at scale with acceptable yields.\n\nTwo of the companies benefiting from this trend are Marvell Technology (NASDAQ: MRVL) and Broadcom (NASDAQ: AVGO) . However, while they are leaders in the field, they approach the ASIC market in two very different ways.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nASIC leaders\n\nWhen it comes to ASICs, Broadcom provides customers with an end-to-end solution that is tied closely to its networking portfolio in order to optimize performance. The company is a leader in SerDes (Serializer/Deserializer) technology, which enables high-speed chip-to-chip communication, and it also has strong capabilities in advanced packaging that can improve chip efficiency and reduce power consumption. As a result, Broadcom customers typically become deeply integrated into its ecosystem, giving it a sticky solution.\n\nMarvell Technology, on the other hand, is typically better suited for customers who want more control over their architectures. The company is particularly strong in optical connectivity and DSPs (digital signal processors) that are used in data center interconnects, and it tends to offer a more of an à la carte approach to ASIC designs.\n\nBroadcom is the market leader in the ASIC space, with around a 60% market share. The company's largest customer is Alphabet , which it helped develop its highly regarded tensor processing units (TPUs). It is also working with several other custom AI chip customers who are developing their own custom ASICs, including OpenAI and Meta Platforms .\n\nMarvell's biggest ASIC customer, meanwhile, is Amazon ; it contributes some of its intellectual property to Amazon's Trainium chips. However, it is widely believed that Marvell has lost its position as lead partner on future iterations to the Taiwanese company AIchip. Microsoft is a big emerging partner, although there have been rumors that it potentially wants to shift to Broadcom. Overall, Marvell says it has AI ASIC design wins with more than 20 customers.\n\nStory Continues\n\nIn addition to ASICs, both Broadcom and Marvell have other businesses that are benefiting from AI infrastructure spending. Broadcom is seeing strong growth in its networking business, while Marvell's interconnect business has been growing quickly.\nThe verdict Both Broadcom and Marvell are projecting huge AI ASIC revenue growth in the coming years. However, I think Broadcom ultimately has more visibility and that its highly integrated approach more effectively locks in customers. Meanwhile, its success with TPUs is a big feather in its cap, and TPUs alone should be a big growth driver. As such, Broadcom is the ASIC AI stock I'd want to own.",
+      "Language": "en"
+    },
     {
       "Ticker": "AVGO",
       "Date": "2026-03-22",
