@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-22T18:14:25.487Z",
-  "total_news_count": 402,
+  "last_updated": "2026-03-22T18:32:01.119Z",
+  "total_news_count": 403,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-03-23",
+      "Time": "02:10:26",
+      "Source": "Motley Fool",
+      "Title": "Why Arm Holdings Stock Rallied This Week",
+      "URL": "https://finance.yahoo.com/m/eb861367-9fdd-3cca-b058-42bed5b526b8/why-arm-holdings-stock.html",
+      "Content": "Shares of Arm Holdings (NASDAQ: ARM) climbed this past week, following bullish analyst commentary.\n\nAccording to data from S&P Global Market Intelligence , Arm's stock price rose by more than 14%.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAn overlooked AI winner\n\nHSBC analyst Frank Lee upgraded his rating on Arm's stock to buy. He also more than doubled his price target to $205. That implies potential gains of 55% for investors who buy shares now.\n\nLee believes Wall Street is underestimating the \"game-changing\" impact of artificial intelligence ( AI ) on Arm's business. The British chip designer has been largely reliant on the slow-growing smartphone market in recent years.\n\nNow, however, Arm stands to benefit from a forthcoming surge in AI-driven demand for high-performance server processors, according to Lee.\n\nA powerful new growth driver\n\nGraphics processing units (GPUs) have fueled the early stages of the AI boom. With their parallel processing capabilities, which enable them to break up complex computing tasks into smaller ones and execute them simultaneously, GPUs are well-suited for AI model training.\n\nYet central processing units (CPUs), with their sequential processing, can offer energy efficiency and cost advantages for certain AI inference workloads. Inference is the use of a trained model to make a prediction or decision.\n\nLee, in turn, estimates that Arm's server CPU royalty revenue will surge by 76% annually over the next half-decade. That would place it at about $4 billion by fiscal 2031. For context, Arm generated $4 billion in total revenue in fiscal 2025.\n\nAdding a lucrative and rapidly growing revenue stream of this size would likely drive Arm's share price sharply higher in the coming years. Lee's new price target, in turn, may prove conservative.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-23",
