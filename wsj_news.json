@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T11:06:51.950Z",
+  "last_updated": "2026-03-22T23:01:42.658Z",
   "total_news_count": 230,
   "news": [
     {
@@ -8,7 +8,7 @@
       "Time": "19:00:00",
       "Title": "Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It - WSJ",
       "URL": "https://www.wsj.com/cio-journal/companies-say-the-risks-of-open-artificial-intelligence-models-are-worth-it-0d3ee664",
-      "AI_Summary": "• Nvidia is developing 'open' AI models with publicly available code.\n• This initiative provides an alternative to proprietary AI giants like OpenAI.\n• The Nemotron Coalition will foster frontier model development through shared resources.\n• Key AI labs and developers are joining the coalition.",
+      "AI_Summary": "• Nvidia is developing open AI models with public code.\n• This initiative offers an alternative to proprietary AI giants.\n• The Nemotron Coalition will advance AI development through shared resources.\n• Key AI labs and developers are joining the coalition.",
       "Content": "SAN JOSE, Calif.—Nvidia is mobilizing an effort to create “open” artificial intelligence models that make their code publicly available and provide an alternative to proprietary giants such as OpenAI and Anthropic.\n\nThe Nemotron Coalition will advance development of frontier-level foundation models through shared expertise, data and compute, Nvidia Chief Executive Jensen Huang said Monday. Inaugural members include model developers and AI labs Cursor, Black Forest Labs, LangChain, Mistral AI, Perplexity, Reflection AI, Sarvam and Thinking Machines Lab.",
       "Source": "WSJ",
       "Language": "en",
@@ -22,13 +22,13 @@
       "Time": "17:30:00",
       "Title": "Nvidia’s Next Act Will Be Its Biggest—and Toughest - WSJ",
       "URL": "https://www.wsj.com/finance/stocks/nvidias-next-act-will-be-its-biggestand-toughest-a9223741",
-      "AI_Summary": "• Nvidia projects $1 trillion in revenue for two chip families by 2027.\n• This forecast exceeds analyst expectations of $965 billion for data center revenue.\n• Stock performance has been flat despite strong projections, down 2% YTD.\n• Valuation multiple is below the S&P 500 for the first time in a decade.\n• Investor concerns about AI spending sustainability are impacting the stock.",
+      "AI_Summary": "• Nvidia projects $1T in sales for two chip families by 2027.\n• This forecast exceeds analyst expectations of $965B.\n• Stock performance is flatlining despite strong projections.\n• Concerns about AI spending sustainability are impacting investor sentiment.\n• Nvidia's P/E multiple is below the S&P 500 for the first time in a decade.",
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC conference this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for AI inferencing that was announced at the event.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Forward Guidance"
+      "Keywords": "AI Spending, Revenue Projection, Investor Sentiment, Valuation Multiple, Sustainability Concerns"
     },
     {
       "Ticker": "NVDA",
@@ -36,13 +36,13 @@
       "Time": "17:30:00",
       "Title": "Nvidia’s Next Act Will Be Its Biggest—and Toughest - WSJ",
       "URL": "https://www.wsj.com/finance/stocks/nvidias-next-act-will-be-its-biggestand-toughest-a9223741",
-      "AI_Summary": "• Nvidia projects $1 trillion in revenue for two chip families by 2027.\n• This forecast exceeds analyst expectations of $965 billion for data center revenue.\n• Stock performance has been flat despite strong projections, down 2% YTD.\n• Valuation multiple is below the S&P 500 for the first time in a decade.\n• Investor concerns about AI spending sustainability are impacting the stock.",
+      "AI_Summary": "• Nvidia projects $1T in sales for two chip families by 2027.\n• This forecast exceeds analyst expectations of $965B.\n• Stock performance is flatlining despite strong projections.\n• Concerns about AI spending sustainability are impacting investor sentiment.\n• Nvidia's P/E multiple is below the S&P 500 for the first time in a decade.",
       "Content": "It says something about Nvidia’s current state when a trillion dollars in sales counts as mundane.\n\nNvidia hasn’t achieved that yet. But the company used its GTC event this week to project that much in revenue for just two of its chip families for the three-year period ending in 2027. And Chief Executive Officer Jensen Huang later made clear that forecast is a floor, as it doesn’t include some of the company’s latest offerings like the new Groq chip for artificial-intelligence inferencing that was announced at the conference.\n\nWall Street’s projections for Nvidia’s business were already robust. But the trillion-dollar forecast still counts as a beat, as analysts were expecting Nvidia’s total data center revenue of around $965 billion for the specified period, according to consensus estimates from Visible Alpha.\n\nAnd yet, investors are yawning. Nvidia’s stock has barely budged over the two days since the conference started. That continues a subpar recent performance, with the shares slipping more than 2% since the start of the year. Nvidia’s stock has essentially flatlined even as its results—and projected business—keep surging higher. The world’s most valuable company now commands a multiple of projected earnings below the S&P 500 for the first time in more than a decade, according to data from FactSet.\n\nThere is a mix of reasons. Investors have been growing more concerned with the sustainability of AI spending. Most of the megacap tech giants draining their free cash flow to buy Nvidia’s chips have seen their stocks fare even worse this year.\n\nThe capital spending plans broadcast by those companies over the last couple of months also didn’t leave much mystery as to who would be the biggest beneficiary. Daniel Newman, CEO of market research firm Futurum, noted that even the $1 trillion forecast “did not fully answer the question the market is asking now, which is whether Nvidia has another real upside leg beyond the already massive AI infrastructure cycle that investors have been underwriting for two years.”",
       "Source": "WSJ",
       "Language": "en",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI Spending Sustainability, Data Center Revenue, Valuation Multiple, Forward Guidance"
+      "Keywords": "AI Spending, Revenue Projection, Investor Sentiment, Valuation Multiple, Sustainability Concerns"
     },
     {
       "Ticker": "NVDA",
