@@ -1,7 +1,29 @@
 {
   "last_updated": "2026-03-23",
-  "total_reports": 26,
+  "total_reports": 28,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3V505T:0/",
+      "Date": "2026-03-23",
+      "Time": "09:24:53",
+      "Title": "台灣股市：跟隨亞股重挫盤初一度大跌逾3%，擔憂中東局勢惡化",
+      "Content": "台灣股市 TWSE:TAIEX周一盤初開低大跌一度逾3%後略縮減跌勢，市場擔憂中東局勢再度惡化，亞股包括韓股、日本股市均大幅下挫。\n\n本地時間09：14，台股大跌2.21%報32,803點；約同時，韓國及日本股市亦齊挫，分別跌5.48%、跌4.78%。\n\n 亞洲股市周一下跌，美國公債收益率升至八個月高點。此前，美國與伊朗相互升級威脅，以色列則計劃繼續進行“數周”的戰鬥，導致油價再次劇烈波動。（完）",
+      "ContentLength": 200,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-23 09:42:39"
+    },
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T40B02R:0/",
+      "Date": "2026-03-23",
+      "Time": "09:08:01",
+      "Title": "台灣匯市：台幣兌美元早盤再創逾10個月低位，中東局勢令外資大舉拋股匯出",
+      "Content": "台幣兌美元 周一盤初貶幅擴大逾1角至32.088，再創逾10個月盤中低位。因擔憂中東戰爭推升通脹及利率，外資持續拋售台股並匯出，令台幣持續向下探底。\n\n本地時間9:12，台幣兌美元貶1.18角報32.088，交易區間在31.990-32.088，盤中前低為2025年5月2日的32.105；台股 TWSE:TAIEX則重挫2.30%，盤初一度跌逾3%。\n\n美元周一有望反彈，隨著中東危機中報復性威脅不斷升級，市場風險偏好受挫，避險資產需求上升。(完)",
+      "ContentLength": 225,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-23 09:42:42"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T40B00P:0/",
