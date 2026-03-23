@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T18:39:41.798Z",
-  "total_news_count": 879,
+  "last_updated": "2026-03-23T18:43:12.056Z",
+  "total_news_count": 881,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -43,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-03-24",
+      "Time": "02:05:00",
+      "Source": "三立新聞網 setn.com",
+      "Title": "Jefferies亞洲論壇　共推台股10強理由曝",
+      "URL": "https://tw.news.yahoo.com/jefferies%E4%BA%9E%E6%B4%B2%E8%AB%96%E5%A3%87-%E5%85%B1%E6%8E%A8%E5%8F%B0%E8%82%A110%E5%BC%B7%E7%90%86%E7%94%B1%E6%9B%9D-180500002.html",
+      "Content": "財經中心／廖珪如報導\n\n在Jefferies亞洲論壇上，法人指出，未來兩年AI產業成長動能將高度集中於Google與NVIDIA兩大科技巨頭，兩者在AI伺服器與運算架構的布局，將主導2026至2027年產業發展方向。\n\nGPU 與 TPU 出貨量大幅躍升：關鍵零組件供應鏈優先受惠\n\nGPU 與 TPU 出貨量大幅躍升：關鍵零組件供應鏈優先受惠法人分析，Google自研TPU持續擴大部署規模，預估2026年出貨量約400萬顆，2027年將進一步提升至700萬顆。機櫃數方面，TPU V7今年約36,000台，合計V5/V6/V7總數達63,000台，2027年有望成長至109,000台，年增約73%。另一方面，NVIDIA GPU出貨量預估由2026年的800萬顆提升至2027年的1,000萬顆，其中GB系列機櫃出貨約71,000台，搭配Vera Rubin架構，整體機櫃規模可望達75,000台，若ODM產能順利，甚至具備上看80,000台的潛力。在供應鏈布局上，法人建議聚焦具瓶頸優勢的關鍵零組件廠商，包括銅箔基板（CCL）廠台光電（2383）、PCB廠金像電（2368）、載板廠欣興（3037）以及電源供應廠台達電（2308），可望優先受惠AI伺服器需求成長。\n\nNVIDIA 啟動 GPU 與 LPU 深度整合：解決 LLM 推論延遲與成本痛點\n\n此外，NVIDIA亦提出GPU與LPU（語言處理單元）深度整合的新架構策略。法人指出，此一變革源自其收購AI新創Groq，目標在解決大型語言模型（LLM）推論過程中的延遲與成本瓶頸。新一代LPX機櫃將整合256顆LPU加速器、128GB SRAM與高達640TB/s的內部頻寬，並透過NVLink高速互連與GPU協同運算，使系統可動態分配推論任務，提升運算效率與即時回應能力。法人預估，至2027年全球LPU需求將達約300萬顆，對應約11,700台機櫃，ODM組裝可望由鴻海與緯創等廠商承接。\n\n台積電 CoWoS 產能與資本支出躍進：本土設備商市占率看升至三成\n\n在製造端方面，台積電先進封裝產能與資本支出將成為關鍵推力。法人預估，至2027年底，台積電CoWoS月產能將提升至17萬片，全年可用產能達186萬片，年增約60%；資本支出則預估達650億至700億美元，高於2026年的約540億美元。法人進一步指出，隨先進封裝技術由CoWoS邁向下一代CoPoS，本土設備供應鏈市占率可望由目前約10%提升至30%，相關受惠廠商包括鴻勁（7769）、致茂（2360）、旺矽（6223）、弘塑（3131）、志聖（2467）及萬潤（6187）。\n\n三立新聞網提醒您：\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-03-24",
       "Time": "02:05:00",
@@ -51,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/ea83b5ef-5ff5-39be-a930-4689458001f4/2-signals-to-watch-after.html",
       "Content": "Investors might be surprised by the market reaction to Micron Technology 's (NASDAQ: MU) earnings report. Despite quarterly revenue nearly tripling and profits up almost ninefold, the stock price dropped after the report.\n\nSome investors may dismiss the price action as \"buying the rumor and selling the news.\" However, the decline may point to deeper concerns, and knowing that, investors need to keep these two points in mind.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\n1. Investors are still skittish about AI stocks\n\nAI stocks have struggled in recent months, and the post-earnings sell-off may confirm the challenges. This has happened amid increasingly elevated valuations, massive capital expenditures (capex), and concerns about what the tech landscape looks like as more companies and platforms adopt AI.\n\nInvestors had turned to Micron as it seemed to have mostly escaped the sell-off. Over the last year, the stock price jumped by nearly 340%. The company benefited as demand for its high-bandwidth memory (HBM) chips exploded. Since it is one of only three companies that produce this memory, it is in a strong position in the market.\n\nStill, it is not immune to the aforementioned AI-related challenges. It has pledged to spend $25 billion on capex in fiscal 2026. Although that is far less than Alphabet 's $175 billion to $185 billion pledge, it is a significant amount for a company with only about $14.5 billion in liquidity. Investors (and potential investors) will want to keep an eye on how Micron manages the costs of this capex.\n\n2. A chip industry downturn is unlikely anytime soon\n\nMoreover, while investors should not assume that Micron stock has escaped cyclicality, it is unlikely to experience a down cycle anytime soon. Admittedly, history has shown that down cycles affect the memory business more than counterparts in other areas of the semiconductor industry . Fortunately, high demand for HBM has mitigated the effects of industry cycles, and now, investors can focus on the company's massive growth.\n\nIn the second quarter of fiscal 2026 (ended Feb. 26), revenue of $24 billion increased by 195% yearly. Also, since costs and expenses rose at a much slower pace, its quarterly net income of $14 billion far surpassed the $1.6 billion earned in the year-ago quarter.\n\nLooking forward to fiscal Q3, Micron forecast revenue of $33.5 billion at the midpoint, amounting to 260% yearly growth if it matches that estimate. Furthermore, Bloomberg Intelligence estimates a compound annual growth rate for the HBM market of 42% through 2033. When also factoring in the 21 P/E ratio, Micron stock is more likely to rise than fall in the foreseeable future. If the growth rate does slow significantly, that could signal an end to Micron's current run.\n\nStory Continues\n\nMoving forward with Micron\n\nUltimately, industry skittishness or an eventual industry downturn should not discourage Micron stock investors. But investors should take market concerns and industry downturns seriously as they appear.\n\nI'm pretty confident that growth in the HBM memory market will continue for years to come. Additionally, that rising demand should mitigate the effects of any industry down cycle that does eventually come.\n\nHence, while investors may need to keep an eye on industry cycles, Micron stock should continue to crush the market amid this unprecedented demand.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-03-24",
+      "Time": "02:04:21",
+      "Source": "自立晚報",
+      "Title": "近半台股投資人轉向配息與成長兼具ETF",
+      "URL": "https://tw.news.yahoo.com/%E8%BF%91%E5%8D%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E4%BA%BA%E8%BD%89%E5%90%91%E9%85%8D%E6%81%AF%E8%88%87%E6%88%90%E9%95%B7%E5%85%BC%E5%85%B7etf-180421320.html",
+      "Content": "【記者柯安聰台北報導】台股震盪不減散戶熱情，根據集保資料指出，3月初台股ETF受益人大增59.7萬人，顯示中東的地緣衝突，並未澆熄投資人對台股的期待。根據摩根投信與LINE Bank（連線商業銀行）在23日公布的【2026台股投資人DNA問卷調查】發現，即使台股加權指數已突破3萬點，但依然有58%民眾看好台股大盤並願意持續加碼；甫進入台灣市場1年的「主動式ETF」更獲得55%投資人的青睞，顯見主動式ETF對投資人參與台股市場的重要性已明顯提高。\n\n摩根投信指出，調查顯示對於這波台股的震盪，「資歷越深、越敢加碼」；尤其是投資經驗在 5 年以上的台股投資人，積極加碼的意願更高達69.7%；而經驗在1年以下的投資人，加碼意願也有52.8%，即便毫無經驗的投資人，願意小試水溫的比例也有 43.3%；顯示在大盤指數突破3萬點後，投資台股已成為跨年齡的主題。\n\n此外，調查數據也顯示，在所有受訪者中，平均有55%的比例願意將主動式 ETF 納入投資組合，29歲以下的年輕族群有47.9%，50歲以上的投資人更高達61.6%，顯示台股主動式ETF已越來越受投資人青睞。\n\n特別的是，台股投資人已不再滿足於功能單一的投資產品。根據調查顯示，現在平均已有48% 的受訪者轉向選擇追求兼具『市值成長與穩定配息』的新策略，至於偏好市值型(追求資產成長)的比例為37%、追求配息與現金流的比例則是降到15% ；顯示儘管在台股ETF市場裡，目前多數投資人手上仍有配息型的商品，但他們也在尋求更多的成長機會。\n\n為了滿足投資人期待，摩根投信推出台灣首檔紀律性執行掩護性買權(covered call)策略的主動式ETF：摩根台灣鑫收益主動式 ETF（00401A），將摩根資產管理集團海外成功經驗帶入台灣，以追求「收益＋成長」一舉兩得。\n\n摩根投信董事長唐德瑜表示，00401A是台灣首檔紀律性執行掩護性買權(Covered call)策略的台股ETF，在這個策略下，當前投資人的兩大痛點：想要高配息但淨值難推進、想要追成長但淨值卻高波動，皆可望獲得一定程度的解決。更重要的是，在擁有權利金收益的基礎上，經理團隊會有更大的選股空間，替投資人積極布局具高成長性的股票，讓ETF的淨值也能跟著動，力求「魚與熊掌兼得」。\n\nLINE Bank同步表示，為了在波動中讓客戶可以快速並有效的參與台股，LINE Bank領先市場，率先推出24小時全線上申購服務，該項服務讓投資人無須臨櫃填寫紙本，即可直接在線上申購新募集的ETF，且可同步享有「全面0申購手續費」、「0匯費」的優惠。摩根台灣鑫收益主動式ETF將於3月23日至27日募集，投資人可以用每單位新台幣10元，最低1萬元的申購金額，全面參與台股收益與成長的機會。（自立電子報2026/3/23）",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
