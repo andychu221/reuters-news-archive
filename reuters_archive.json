@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-23",
-  "total_reports": 32,
+  "total_reports": 33,
   "reports": [
+    {
+      "Source": "TradingView - Reuters FX",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T40B0G4:0/",
+      "Date": "2026-03-23",
+      "Time": "14:39:21",
+      "Title": "台灣匯市：台幣兌美元走貶逾2角創近11個月低位，外資大舉匯出",
+      "Content": "台幣兌美元 周一午後擴大貶幅至逾2角，創近11個月低位。交易員稱中東局勢緊張，全球股市重挫，外資大賣持股，也同步匯出，導致台幣一舉貶破32大關。\n\n本地時間14：53，台幣兌美元貶2.22角報32.192，創近11個月低位（盤中前低是2025年4月30日盤中32.240。）\n\n周一新興亞洲股市下跌，韓國股市跌幅居前，亞幣則繼續承壓，因為中東局勢不斷升級以及對戰爭長期化的擔憂，導致油價維持在每桶110美元以上，並打擊了市場風險偏好。\n\n台灣股市 TWSE:TAIEX周一收低逾2%，盤中跌幅一度超3%，因市場擔憂中東局勢恐再惡化，包括韓股、日本股市等均大幅下挫。(完)",
+      "ContentLength": 285,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-23 15:42:46"
+    },
     {
       "Source": "TradingView - Reuters Stocks",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T40B0E0:0/",
