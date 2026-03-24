@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-24T17:19:45.754Z",
-  "total_news_count": 251,
+  "last_updated": "2026-03-24T17:31:30.622Z",
+  "total_news_count": 252,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-03-25",
+      "Time": "01:02:23",
+      "Source": "Reuters",
+      "Title": "Arm unveils new AI chip, expects it to add billions in annual revenue",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/arm-unveils-ai-chip-expects-170223282.html",
+      "Content": "By Max A. Cherney\n\nSAN FRANCISCO, March 24 (Reuters) - Arm Holdings announced a new artificial intelligence data center chip on Tuesday which it said will add billions of dollars of revenue ‌and represent a significant shift in the company's strategy.\n\nThe new chip, called the AGI CPU, ‌will address data-crunching needed for a specific type of AI that is able to act on behalf of users with minimal ​oversight, instead of responding to queries as part of a chatbot.\n\nSo-called agentic AI has jump-started demand for the central processing units (CPUs) produced by the likes of Intel and Advanced Micro Devices.\n\nArm shares gained 1% in early afternoon trading as the stock has advanced 25% this year.\n\nFor years, Arm, majority-owned by Japan's SoftBank Group, has relied ‌only on intellectual property for revenue, ⁠licensing its designs to companies such as Qualcomm and Nvidia and then collecting a royalty payment based on the number of units sold.\n\nLast year, Arm signaled to ⁠investors it was investing in making its own chip, a process that can cost hundreds of millions of dollars, and that the company had hired key executives to assist with the effort. The AGI CPU will be the ​first chip ​under that new strategy.\n\n\"It's a very pivotal moment for ​the company,\" CEO Rene Haas said in ‌an interview with Reuters.\n\nThe new chip will be overseen by Mohamed Awad, head of the company's cloud AI business, and Arm has additional designs in the works that it plans to release at 12- to 18-month intervals.\n\nMeta Platforms will be the company's lead partner for the AGI CPU and the two companies worked together on the design. Arm's customers for the new chip include ChatGPT maker OpenAI , Cloudflare, SAP and ‌SK Telecom.\n\nTaiwan Semiconductor Manufacturing Co is fabricating the device on ​its 3-nanometer technology and is made from two distinct pieces of ​silicon that operate as a single chip. ​Arm plans to put it into volume production in the second half of ‌this year but has received test chips that ​function as expected.\n\n\"It's back, and ​it works, and it's doing everything we thought it would,\" Haas said, referring to the new chip.\n\nIn addition to the chip itself, Arm is working with server makers such as Lenovo and ​Quanta Computer to offer complete systems.\n\nFor ‌its current fiscal year, Wall Street expects Arm to generate a net profit of $1.75 per ​share on revenue of $4.91 billion, according to LSEG estimates.\n\n(Reporting by Max A. Cherney in ​San Francisco; Editing by Muralikumar Anantharaman and Nick Zieminski)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-25",
