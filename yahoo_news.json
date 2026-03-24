@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T16:14:17.609Z",
-  "total_news_count": 228,
+  "last_updated": "2026-03-24T16:19:47.004Z",
+  "total_news_count": 229,
   "news": [
     {
       "Ticker": "NVDA",
@@ -283,6 +283,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "Memory Market, AI Demand, Data Centers, Pricing Power, Semiconductor Cycle"
+    },
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-03-24",
+      "Time": "21:43:00",
+      "Source": "Zacks",
+      "Title": "Arista Focusing More on CloudEOS Edge: The Next Growth Driver?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/arista-focusing-more-cloudeos-edge-134300378.html",
+      "Content": "Arista Networks, Inc. ANET is increasingly focusing on CloudEOS Edge as it expands beyond data center switching into cloud, WAN and enterprise edge networking. The move aligns with the growing shift toward multi-cloud and distributed IT environments. As enterprises adopt hybrid and multi-cloud strategies, demand is rising for secure, low-latency and unified networking. CloudEOS Edge helps to address this demand by enabling seamless connectivity and routing across cloud providers, reducing complexity and vendor lock-in.\n\nCloudEOS Edge builds on Arista’s core strength – its EOS (Extensible Operating System) software and CloudVision platform – by extending consistent networking capabilities across public clouds and edge locations. This enables enterprises to manage networks as software-defined infrastructure, improving automation, visibility and scalability.\n\nArista has made several additions to its multi-cloud and cloud-native software product family with CloudEOS Edge. It has introduced new cognitive Wi-Fi software that delivers intelligent application identification, automated troubleshooting and location services. This supports video conferencing applications like Google Hangouts, Microsoft Teams and Zoom, providing a competitive advantage against its rivals. CloudEOS Edge positions Arista to benefit from the ongoing shift to cloud-native and edge networking.\n\nOther Tech Firms Focusing on Cloud Networking\n\nCisco Systems, Inc. CSCO is the largest player in the networking space. The company has a strong presence in the router and switch market. It has retained a leadership position in WLAN and Ethernet switching and is rapidly expanding its presence in the network security domain. Cisco provides Next-Generation Network Routers that transport data, voice and video information from one IP network to another. It is expanding its Agentic AI footprint with the introduction of Webex AI Agent, Cisco AI Assistant for Webex Contact Center, Workflow Automation in Cisco AI Assistant for Webex, AI Capabilities in Webex Control Hub and Webex Calling Customer Assist. Its strategy of integrating AI across security and collaboration platforms and developing agentic capabilities across the portfolio is a key catalyst for improving customer experience.\n\nCiena Corporation CIEN is likely to benefit from the increased network traffic, higher demand for bandwidth and adoption of cloud architecture. Ciena is currently the only provider offering a 1.6 terabit WAN solution and anticipates maintaining this lead in next-generation optical technology for at least two years. It is progressing on industry-first wins with cloud providers. Additionally, it is expanding its customer base for coherent routing and securing deals with international service providers and enterprise clients. Ciena’s Cloud and Service Provider customers are prioritizing network investments to support AI-driven traffic growth, highlighting long-term opportunities for its Systems and Interconnects businesses.\n\nStory Continues\n\nANET’s Price Performance, Valuation and Estimates\n\nArista has surged 55.3% over the past year against the industry’s decline of 12.6%.\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, Arista trades at a forward price-to-sales ratio of 14.51, above the industry tally of 3.76.\n\nThe Zacks Consensus Estimate for Arista’s earnings for 2026 has increased 6.7% over the past 60 days.\n\nArista currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
