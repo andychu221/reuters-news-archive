@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T12:44:25.052Z",
-  "total_news_count": 243,
+  "last_updated": "2026-03-24T12:54:33.700Z",
+  "total_news_count": 244,
   "news": [
     {
       "Ticker": "MSFT",
@@ -71,6 +71,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-cloud-faces-unexpected-war-120616250.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) is running into real-world challenges in its cloud business, after confirming that its AWS Bahrain region has been disrupted by the ongoing conflict in the Middle East.\n\nThe company didn't go into full detail, but said the disruption is tied to the situation on the ground, with drone activity in the area playing a role. AWS added that it's working closely with local authorities and focusing on employee safety while trying to restore operations. This is now the second time in about a month that the conflict has impacted its infrastructure, which is starting to raise bigger questions around reliability in sensitive regions.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nIn the meantime, Amazon has been actively moving customers out of the affected region, helping shift workloads to other AWS locations. A large number of clients are already up and running elsewhere, but there's still no clear timeline on when Bahrain will fully recover. Earlier incidents in the region caused power outages and even physical damage to infrastructure, including issues with electricity supply and water damage from fire suppression efforts.",
       "Language": "en"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-03-24",
+      "Time": "19:56:42",
+      "Source": "中央社財經",
+      "Title": "外資賣超121億元連4賣　重砍力積電逾8萬張居首",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85121%E5%84%84%E5%85%83%E9%80%A34%E8%B3%A3-%E9%87%8D%E7%A0%8D%E5%8A%9B%E7%A9%8D%E9%9B%BB%E9%80%BE8%E8%90%AC%E5%BC%B5%E5%B1%85%E9%A6%96-115642955.html",
+      "Content": "（中央社記者吳家豪台北2026年03月24日電）台股今天開高走低，終場下跌110.26點，收32612.24點，外資及陸資賣超新台幣121.87億元，連續4個交易日賣超，以賣超力積電8.08萬張最多，並減碼面板股群創4.24萬張、友達2.51萬張，另外也續砍元大台灣50逾2.18萬張。\n\n台股今天早盤受中東衝突暫緩激勵，反彈至33361.46點、大漲638點，但賣壓出籠，大盤失守33000點，記憶體與載板族群走弱，加權指數尾盤翻黑收32612.24點，下跌110.26點，跌幅0.34%，成交值降至6643.52億元。\n\n三大法人今天合計賣超200.77億元，其中，自營商賣超104.84億元，連4賣，投信買超25.94億元，連3買，外資及陸資賣超121.87億元，連4賣。\n\n根據證交所資料，外資今天賣超個股集中在晶圓代工、面板及權值股，前10名依序為力積電 (6770) 、群創 (3481) 、友達 (2409) 、元大台灣50 (0050) 、元大滬深300正2（00637L）、華邦電 (2344) 、期街口布蘭特正2（00715L）、台聚 (1304) 、群益台灣精選高息（00919）、國泰金 (2882) 。\n\n外資同步加碼記憶體、航運及塑化股，今天買超前10名個股依序為南亞科 (2408) 、大聯大 (3702) 、新興 (2605) 、南亞 (1303) 、旺宏 (2337) 、第一金 (2892) 、長榮航 (2618) 、兆豐金 (2886) 、元大金 (2885) 、瑞軒 (2489) 。\n\n投信買超族群集中在金融股，前10名依序為台新新光金 (2887) 、中信金 (2891) 、國泰金、富邦金 (2881) 、文曄 (3036) 、瑞軒、創見 (2451) 、聯電 (2303) 、致茂 (2360) 、宏碁 (2353) 。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
