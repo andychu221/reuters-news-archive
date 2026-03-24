@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T16:10:10.732Z",
-  "total_news_count": 227,
+  "last_updated": "2026-03-24T16:14:17.609Z",
+  "total_news_count": 228,
   "news": [
     {
       "Ticker": "NVDA",
@@ -15,6 +15,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "AGI, Artificial General Intelligence, AI, Nvidia CEO, Jensen Huang"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-03-24",
+      "Time": "23:44:44",
+      "Source": "Motley Fool",
+      "Title": "The Artificial Intelligence (AI) Trade Is Splitting in Two. Here's How to Pick the Right Side in 2026.",
+      "URL": "https://finance.yahoo.com/m/7bad7eb4-abdf-390e-b8cf-5f33c0ceccfd/the-artificial-intelligence.html",
+      "Content": "The rapid growth of the artificial intelligence ( AI ) market generated strong tailwinds for many tech companies over the past few years. Chipmakers like Nvidia (NASDAQ: NVDA) flourished by selling data center GPUs to process complex AI tasks. At the same time, software companies like Microsoft upgraded their cloud-based software with AI algorithms.\n\nOver the next decade, the AI market will likely expand and evolve as more companies use AI software to optimize, accelerate, and automate their operations. From 2026 to 2033, the global AI market could expand at a 30.6% CAGR, according to Grand View Research.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nHowever, the AI market is also splitting into two as it expands. Let's take a look at those two markets -- training and inference -- and see which one will grow faster in 2026 and beyond.\n\nTraining vs. inference\n\nThe AI training market focuses on \"teaching\" AI algorithms by crunching massive amounts of data. These training sessions, which run on large GPU clusters in data centers, are expensive and can last weeks to months per model.\n\nA handful of large AI companies are training their large language models (LLMs) to control this market. The leaders in this race include OpenAI's GPT , Meta 's Llama, and Alphabet 's Google Gemini. All of these companies have been pouring billions of dollars into their data centers to train those LLMs, but that spending is cyclical and can sputter out after some big upfront investments.\n\nThe inference market focuses on actually using software to access that data. It's what happens when people ask OpenAI's ChatGPT or Google Gemini a question, or use AI software to create content. Many AI-oriented companies now spend more on inference than on training, and inference is generally considered a more stable, recurring revenue stream.\n\nHow will that split affect AI companies?\n\nNvidia profited from the initial boom in the AI training market, as its discrete GPUs are optimized for training AI in data centers. It now controls more than 90% of that market, while AMD ranks a distant second with its cheaper GPUs. Google has also been developing its own custom TPUs to train its AI algorithms and reduce its dependence on Nvidia.\n\nNvidia also locks in its clients with its proprietary software and services, which are optimized for its own GPUs. That first-mover advantage, market dominance, and sticky ecosystem will make it the leading chip play in the AI training market for the foreseeable future.\n\nStory Continues\n\nHowever, Nvidia's GPUs are still general-purpose AI chips that are better at training algorithms than handling inference-oriented software. That's left it vulnerable to Broadcom (NASDAQ: AVGO) , which develops application-specific integrated circuits (ASICs) to accelerate AI inference for hyperscalers -- as well as other developers of customized AI chips.\n\nMany of Nvidia's top GPU customers, including Google and Meta, are buying Broadcom's AI accelerators and building their own custom chips to handle their own queries. At scale, these chips can process AI tasks at a lower cost than Nvidia's training-oriented GPUs.\n\nTo keep pace with that shift, Nvidia entered a $20 billion, non-exclusive licensing deal with the AI inference start-up Groq last December. Under that deal, Nvidia is developing a new language processing unit (LPU) to counter Broadcom and others in the inference market.\n\nIs there a right \"side\" to pick in this AI split?\n\nMany of these AI leaders -- including Nvidia, Google, and Meta -- straddle the training and inference markets. However, the split could also turn Broadcom and other inference-oriented chipmakers into hotter AI plays than Nvidia over the next few years.\n\nNvidia's big investment in Groq clearly indicates the inference market could generate more stable growth than the volatile training market. So while Nvidia could still be a great play on the growth of the broader AI market, investors should pay close attention to rising inference players like Broadcom -- which could generate even bigger gains than training-oriented AI companies.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
