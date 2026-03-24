@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-24T16:31:36.675Z",
-  "total_news_count": 231,
+  "last_updated": "2026-03-24T16:40:21.940Z",
+  "total_news_count": 234,
   "news": [
     {
       "Ticker": "NVDA",
@@ -41,6 +41,16 @@
       "Keywords": "AI Market, Training vs. Inference, GPU, ASIC, Market Share"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-03-24",
+      "Time": "23:35:09",
+      "Source": "Reuters",
+      "Title": "Poland to start work on a digital services tax, deputy PM says",
+      "URL": "https://finance.yahoo.com/economy/policy/articles/poland-start-digital-services-tax-153509921.html",
+      "Content": "WARSAW, March 24 (Reuters) - Poland's government will start work on a digital services tax bill, Deputy Prime Minister and Digitalisation ‌Minister Krzysztof Gawkowski said on Tuesday, setting up a ‌potential clash with key ally the United States.\n\nMany countries, particularly in Europe, have levied ​taxes on the sales revenue of digital service providers, including Alphabet's Google, Meta's Facebook, Apple and Amazon. The issue has been a longstanding trade irritant for multiple U.S. administrations.\n\nMore from Yahoo Scout\n\nHow might this tax impact US-Poland relations?\n\nWhat is Poland's proposed digital services tax rate?\n\nWhich companies would be affected by Poland's tax?\n\nWhat revenue thresholds trigger the digital services tax?\n\nWhen plans for the tax were announced ‌in 2025, U.S. ambassador ⁠to Poland Tom Rose called them \"self destructive\", saying it would harm relations with Washington. The U.S. embassy in ⁠Warsaw did not immediately respond to a request for comment on Tuesday.\n\nGawkowski said in a post on social media platform X that the ​new bill ​would ensure fair competition for Polish ​companies, higher budget revenues, and ‌more funds for technology development and digitalisation in Poland.\n\n\"It's time for a level playing field. Today, global platforms often pay lower taxes than locally operating companies. This undermines competition and limits budget revenues. We're changing that,\" he added.\n\nThe bill assumes revenues from selected digital services, ‌including online advertising, platforms connecting users, ​and data trading, would be taxed up ​to 3%, but that ​would only apply to companies with global revenues of ‌over 1 billion euros ($1.16 billion) and ​above 25 million ​zlotys ($6.79 million) in Poland.\n\nThe initiative follows the announcement of plans to limit access to social media for children under 15 ​in Poland, which could ‌also put Warsaw at odds with firms such as Meta ​and Elon Musk's X.\n\n($1 = 0.8625 euros)\n\n($1 = 3.6845 zlotys)\n\n(Reporting by ​Anna Wlodarczak-Semczuk; Editing by Ros Russell)",
+      "Language": "en"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-03-24",
       "Time": "23:18:18",
@@ -53,6 +63,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "AI Monetization, Cloud Growth, Azure, Enterprise AI, Revenue Growth"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-03-24",
+      "Time": "23:16:35",
+      "Source": "Bloomberg",
+      "Title": "Microsoft to Rent Texas Data Center Dropped by Oracle, OpenAI",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-rent-texas-data-center-151635052.html",
+      "Content": "(Bloomberg) -- Microsoft Corp. has agreed to rent a data center project in Texas that was originally being developed for Oracle Corp. and OpenAI, according to people familiar with the situation.\n\nRepresenting about 700 megawatts of capacity, the site in Abilene is adjacent to Oracle’s and OpenAI’s flagship Stargate campus. Microsoft struck the deal with developer Crusoe after the two companies walked away from talks to occupy the site, said the people, who were granted anonymity to discuss a private matter.\n\nThe world’s largest software maker has stepped up data-center leasing in an attempt to meet demand for its cloud-computing customers as well as for internal work on artificial intelligence. During its most recent quarter, Microsoft inked about $50 billion in commitments to lease server farms under development. The flurry of activity marks a reversal from about this time last year, when the company hit pause on many data center projects.\n\nEarlier this month, Bloomberg reported that negotiations for Oracle and OpenAI to occupy the facilities on the Abilene site had dragged over financing and OpenAI’s often-changing needs before falling apart. OpenAI said at the time that it opted to use alternative data centers.\n\nMeta Platforms Inc. also discussed renting the site, and The Information earlier reported that Microsoft, too, was in talks to lease it.\n\nMicrosoft, Crusoe and Meta all declined to comment.\n\nThe Abilene site is among the highest-profile of the AI era, and will now feature two rivals — Microsoft and Oracle — on the same greater campus. Oracle has been rapidly filling buildings there with servers, which are used by OpenAI to train and deploy its products.\n\nMore stories like this are available on bloomberg.com\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
     },
     {
       "Ticker": "META",
@@ -81,6 +101,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "地緣政治,基本面,結構性成長,AI供應鏈,股利政策"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-24",
+      "Time": "23:03:00",
+      "Source": "Zacks",
+      "Title": "Can IBM's AI Innovation for the Masters Tournament Benefit Its Shares?",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/ibms-ai-innovation-masters-tournament-150300928.html",
+      "Content": "International Business Machines Corporation IBM and the organizers of the Masters Tournament have collaborated to introduce new AI-powered features on the Masters digital platforms to enhance the fan experience. Built on its artificial intelligence (AI) technology and supported by over 30 years of collaboration, these innovations help fans better enjoy, understand and connect with the tournament’s historic moments and live action.\n\nIBM has introduced Master's Vault Search, a feature powered by its watsonx platform. It uses AI agents built on Granite small language models and controlled through watsonx Orchestrate to help fans explore more than 50 years of tournament history using simple questions. The system analyzes archived broadcasts using optical character recognition, speech-to-text transcription, and scene detection, allowing viewers to instantly locate iconic moments from the past, making the large archive easy to search and turning it into an interactive experience for fans.\n\nIBM has also improved its AI-powered Hole Insights feature to give real-time analysis of every shot during the tournament. It tracks the exact position of a ball and compares it with previous data to predict outcomes like birdie, par, or bogey. These insights help fans better understand the game and the challenges of playing at Augusta National Golf Club.\n\nThrough events like the Masters Tournament and partnerships with Wimbledon Championships, the company continues to expand its presence in AI. By combining strong data expertise with modern tools, IBM is enabling organizations and fans to access and use information more effectively in real time.\n\nHow Are Competitors Advancing in the Sports Technology Market?\n\nIBM faces competition from Microsoft Corporation MSFT and Alphabet Inc. GOOGL. Microsoft is using AI and cloud technology to improve sports experiences for fans and teams. The company has partnered with leagues such as the English Premier League and the National Football League to provide real-time match insights, personalized content, and better data analysis. Its AI tools also help coaches and organizations make faster and smarter decisions during games.\n\nAlphabet is expanding its role in sports technology by using AI to deliver smarter insights, better engagement and advanced data solutions. It is working with leagues like the Indian Premier League to enhance digital experiences using Gemini AI. Alphabet is also supporting the Los Angeles 2028 Olympics with AI and cloud technology to improve performance and viewing experience.\n\nStory Continues\n\nIBM’s Price Performance, Valuation & Estimates\n\nIBM shares have lost 0.6% over the past year against the industry’s growth of 93.1%.\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, IBM trades at a forward price-to-sales ratio of 3.24, below the industry average of 3.95.\n\nEarnings estimates for 2026 have increased 1.5% to $12.37 over the past 60 days, while the same for 2027 have rose 1.5% to $13.30.\n\nIBM currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "SNDK",
