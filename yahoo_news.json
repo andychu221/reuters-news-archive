@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-24T05:14:26.908Z",
-  "total_news_count": 1084,
+  "last_updated": "2026-03-24T05:39:21.180Z",
+  "total_news_count": 1085,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-24",
+      "Time": "13:21:38",
+      "Source": "Reuters",
+      "Title": "Exclusive-Amazon says AWS' Bahrain region 'disrupted' following drone activity",
+      "URL": "https://finance.yahoo.com/news/exclusive-amazon-says-aws-bahrain-052138396.html",
+      "Content": "By Greg Bensinger\n\nSAN FRANCISCO, March 23 (Reuters) - Amazon said on Monday its Amazon Web Services ‌region in Bahrain has been \"disrupted\" amid the current ‌conflict in the Middle East.\n\nThe disruption is due to drone ​activity in the area, an Amazon spokesperson said, following a Reuters inquiry. Reuters is first to report on the disruption.\n\nAmazon said it is helping to migrate customers ‌to alternate AWS ⁠regions while it recovers, though it did not provide additional details such as ⁠the extent of the damage or how long it anticipates the disruption to last.\n\n\"As this situation evolves and, ​as we ​have advised before, we ​request those with workloads ‌in the affected regions continue to migrate to other locations,\" Amazon said in a statement Monday night.\n\nAWS is Amazon's cloud computing unit and critical for the operation of many well-known websites and government operations. ‌It is also the company's ​main driver of profits.\n\nThe disruption ​marks the second ​time since the start of the U.S.-Israeli ‌war on Iran that AWS' ​Bahrain region ​has been struck by drones. Earlier this month AWS reported that facilities in Bahrain and the ​United Arab Emirates ‌had been affected by power outages and ​it was working to recover.\n\n(Reporting by Greg Bensinger; ​Editing by Sonali Paul)",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-24",
