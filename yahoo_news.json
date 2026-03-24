@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-24T13:14:55.689Z",
-  "total_news_count": 247,
+  "last_updated": "2026-03-24T13:31:30.327Z",
+  "total_news_count": 248,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-03-24",
+      "Time": "21:20:13",
+      "Source": "GuruFocus.com",
+      "Title": "What's Going On With Alibaba Stock Tuesday",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/alibaba-shares-jump-high-speed-132013375.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlibaba Group ( NYSE:BABA ) shares rose about 3% in Hong Kong on Tuesday after the company broadened its in-house chip push with a new processor aimed at agentic AI and inference workloads.\n\nIts Damo Academy introduced the XuanTie C950, a RISC-V-based central processing unit designed for cloud computing. RISC-V is an open-source chip architecture that competes with designs from Arm Holdings ( NASDAQ:ARM ) and Intel ( NASDAQ:INTC ).\n\nWarning! GuruFocus has detected 5 Warning Signs with BABA.\n\nIs BABA fairly valued? Test your thesis with our free DCF calculator.\n\nAlibaba said the C950 can be tuned for specific inference tasks, allowing customers to adjust performance for different uses. Chinese media reported that the chip runs at 3.2 GHz and is more than three times faster than the prior XuanTie C920.\n\nThe launch adds to Alibaba's semiconductor efforts through its T-Head unit as it tries to build more of its own artificial intelligence infrastructure. The company is competing with Nvidia (NVDA) and Huawei Technologies in China's AI race, while CEO Eddie Wu said last week that Alibaba's proprietary AI accelerators have already moved into mass production.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-03-24",
