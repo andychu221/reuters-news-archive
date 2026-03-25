@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-25T22:39:32.549Z",
-  "total_news_count": 885,
+  "last_updated": "2026-03-25T22:44:27.619Z",
+  "total_news_count": 891,
   "news": [
     {
       "Ticker": "INTC",
@@ -23,6 +23,46 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-03-26",
+      "Time": "05:41:44",
+      "Source": "中央社財經",
+      "Title": "友達ADR25日上漲0.10美元漲幅2.23%折台股14.63元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr25%E6%97%A5%E4%B8%8A%E6%BC%B20-10%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%852-23-%E6%8A%98%E5%8F%B0%E8%82%A114-63%E5%85%83-214144195.html",
+      "Content": "(中央社台北2026年 3月26日電)友達光電在OTC US掛牌ADR以4.58元作收，上漲0.10美元，漲幅 2.23%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股友達每股為 14.63元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n4.58\n\n0.10\n\n2.23\n\n31.952\n\n14.6\n\n3/24\n\n4.48\n\n-0.20\n\n-4.27\n\n32.028\n\n14.3\n\n3/23\n\n4.68\n\n-0.07\n\n-1.47\n\n32.092\n\n15.0\n\n3/20\n\n4.75\n\n-0.09\n\n-1.86\n\n31.970\n\n15.1\n\n3/19\n\n4.84\n\n-0.06\n\n-1.22\n\n31.953\n\n15.4\n\n3/18\n\n4.90\n\n-0.00\n\n-0.10\n\n31.832\n\n15.6\n\n3/17\n\n0.05\n\n1.13\n\n31.885\n\n3/16\n\n4.85\n\n-0.19\n\n-3.77\n\n31.948\n\n3/13\n\n5.04\n\n-0.24\n\n-4.55\n\n31.918\n\n16.0\n\n3/12\n\n5.28\n\n0.13\n\n2.52\n\n31.845\n\n16.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-03-26",
+      "Time": "05:41:40",
+      "Source": "中央社財經",
+      "Title": "中華電信ADR25日上漲0.06美元漲幅0.14%折台股135.89元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr25%E6%97%A5%E4%B8%8A%E6%BC%B20-06%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-14-%E6%8A%98%E5%8F%B0%E8%82%A1135-89%E5%85%83-214140350.html",
+      "Content": "(中央社台北2026年 3月26日電)中華電信在NYSE掛牌ADR 以 42.53美元作收，上漲0.06美元，漲幅 0.14%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股中華電信每股為135.89元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n42.53\n\n0.06\n\n0.14\n\n31.952\n\n135.8\n\n3/24\n\n42.47\n\n0.24\n\n0.57\n\n32.028\n\n136.0\n\n3/23\n\n42.23\n\n0.48\n\n1.15\n\n32.092\n\n135.5\n\n3/20\n\n41.75\n\n-1.34\n\n-3.11\n\n31.970\n\n133.4\n\n3/19\n\n43.09\n\n0.01\n\n0.02\n\n31.953\n\n137.6\n\n3/18\n\n43.08\n\n-0.29\n\n-0.67\n\n31.832\n\n137.1\n\n3/17\n\n43.37\n\n0.29\n\n0.67\n\n31.885\n\n138.2\n\n3/16\n\n0.39\n\n0.91\n\n31.948\n\n3/13\n\n42.69\n\n0.03\n\n0.07\n\n31.918\n\n136.2\n\n3/12\n\n42.66\n\n-0.23\n\n-0.54\n\n31.845",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-03-26",
+      "Time": "05:41:38",
+      "Source": "中央社財經",
+      "Title": "聯電ADR25日上漲0.26美元漲幅2.87%折台股59.49元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr25%E6%97%A5%E4%B8%8A%E6%BC%B20-26%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%852-87-%E6%8A%98%E5%8F%B0%E8%82%A159-49%E5%85%83-214138930.html",
+      "Content": "(中央社台北2026年 3月26日電)聯電在NYSE掛牌 ADR以9.31美元作收，上漲0.26美元，漲幅 2.87%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股聯電每股為 59.49元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n9.31\n\n0.26\n\n2.87\n\n31.952\n\n59.4\n\n3/24\n\n9.05\n\n-0.04\n\n-0.44\n\n32.028\n\n57.9\n\n3/23\n\n9.09\n\n-0.03\n\n-0.33\n\n32.092\n\n58.3\n\n3/20\n\n9.12\n\n-0.14\n\n-1.51\n\n31.970\n\n3/19\n\n9.26\n\n-0.43\n\n31.953\n\n59.1\n\n3/18\n\n9.30\n\n-0.22\n\n-2.31\n\n31.832\n\n59.2\n\n3/17\n\n9.52\n\n0.05\n\n0.53\n\n31.885\n\n60.7\n\n3/16\n\n9.47\n\n0.20\n\n2.16\n\n31.948\n\n60.5\n\n3/13\n\n9.27\n\n-0.08\n\n-0.86\n\n31.918\n\n3/12\n\n9.35\n\n-0.35\n\n-3.61\n\n31.845\n\n59.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2303.TW",
+      "Date": "2026-03-26",
+      "Time": "05:41:38",
+      "Source": "中央社財經",
+      "Title": "聯電ADR25日上漲0.26美元漲幅2.87%折台股59.49元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr25%E6%97%A5%E4%B8%8A%E6%BC%B20-26%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%852-87-%E6%8A%98%E5%8F%B0%E8%82%A159-49%E5%85%83-214138930.html",
+      "Content": "(中央社台北2026年 3月26日電)聯電在NYSE掛牌 ADR以9.31美元作收，上漲0.26美元，漲幅 2.87%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股聯電每股為 59.49元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n9.31\n\n0.26\n\n2.87\n\n31.952\n\n59.4\n\n3/24\n\n9.05\n\n-0.04\n\n-0.44\n\n32.028\n\n57.9\n\n3/23\n\n9.09\n\n-0.03\n\n-0.33\n\n32.092\n\n58.3\n\n3/20\n\n9.12\n\n-0.14\n\n-1.51\n\n31.970\n\n3/19\n\n9.26\n\n-0.43\n\n31.953\n\n59.1\n\n3/18\n\n9.30\n\n-0.22\n\n-2.31\n\n31.832\n\n59.2\n\n3/17\n\n9.52\n\n0.05\n\n0.53\n\n31.885\n\n60.7\n\n3/16\n\n9.47\n\n0.20\n\n2.16\n\n31.948\n\n60.5\n\n3/13\n\n9.27\n\n-0.08\n\n-0.86\n\n31.918\n\n3/12\n\n9.35\n\n-0.35\n\n-3.61\n\n31.845\n\n59.5",
+      "Language": "zh"
+    },
+    {
       "Ticker": "ARM",
       "Date": "2026-03-26",
       "Time": "05:40:18",
@@ -41,6 +81,26 @@
       "URL": "https://finance.yahoo.com/m/1954e8fe-2089-3cf3-a38f-28329ff3d050/stock-market-today%2C-march-25%3A.html",
       "Content": "Advanced Micro Devices (NASDAQ:AMD) , a designer of microprocessors and graphics chips, closed at $220.27, up 7.26% Wednesday after reports highlighted CPU price hike plans, robust AI infrastructure demand. CPU pricing power headlines and optimism about new AI accelerators and partnerships are also supporting the rally, and investors are watching how these trends translate into April earnings and guidance for AI infrastructure revenue.\n\nThe company’s trading volume reached 47.2 million shares, which is about 31% above its three-month average of 36 million shares. Advanced Micro Devices went public in 1980 and has grown 6893% since its IPO.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) added 0.54% to finish Wednesday at 6,591.9, while the Nasdaq Composite (NASDAQINDEX:^IXIC) climbed 0.77% to close at 21,929.83. Among semiconductors, Nvidia (NASDAQ:NVDA) closed at $178.68, up 1.99%, while Intel (NASDAQ:INTC) finished at $47.18, rising 7.08% as investors reassessed AI and CPU prospects across the group.\n\nWhat this means for investors\n\nAdvanced Micro Devices shares rose following reports of planned CPU price increases, indicating stronger pricing power amid robust AI infrastructure demand. The company’s ability to raise prices suggests tighter supply conditions and a stronger position in core markets, while continued momentum in AI-focused products and a large accelerator order tied to AI deployments reinforce its role in meeting expanding data center demand.\n\nModerately bullish trading flows and increased options activity further supported the stock’s gains as investors positioned around the stock. Investors will be monitoring whether higher pricing and sustained AI demand will lead to margin expansion and stronger guidance in upcoming earnings.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-03-26",
+      "Time": "05:31:36",
+      "Source": "中央社財經",
+      "Title": "台積電ADR25日上漲4.50美元漲幅1.31%折台股2222.26元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr25%E6%97%A5%E4%B8%8A%E6%BC%B24-50%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-31-%E6%8A%98%E5%8F%B0%E8%82%A12222-26%E5%85%83-213136491.html",
+      "Content": "(中央社台北2026年 3月26日電)台積電在NYSE掛牌 ADR以347.75美元作收，上漲4.50美元，漲幅 1.31%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股台積電每股為 2222.26元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n347.75\n\n4.50\n\n1.31\n\n31.952\n\n2222.2\n\n3/24\n\n343.25\n\n4.80\n\n1.42\n\n32.028\n\n2198.7\n\n3/23\n\n338.45\n\n9.21\n\n2.80\n\n32.092\n\n2172.3\n\n3/20\n\n329.24\n\n-9.55\n\n-2.82\n\n31.970\n\n2105.1\n\n3/19\n\n338.79\n\n-0.78\n\n-0.23\n\n31.953\n\n2165.0\n\n3/18\n\n339.57\n\n-6.41\n\n-1.85\n\n31.832\n\n2161.8\n\n3/17\n\n345.98\n\n6.70\n\n1.98\n\n31.885\n\n2206.3\n\n3/16\n\n340.23\n\n1.92\n\n0.57\n\n31.948\n\n2173.9\n\n3/13\n\n338.31\n\n1.60\n\n0.48\n\n31.918\n\n2159.6\n\n3/12\n\n336.71\n\n-17.85\n\n-5.03\n\n31.845\n\n2144.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-03-26",
+      "Time": "05:31:36",
+      "Source": "中央社財經",
+      "Title": "台積電ADR25日上漲4.50美元漲幅1.31%折台股2222.26元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr25%E6%97%A5%E4%B8%8A%E6%BC%B24-50%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-31-%E6%8A%98%E5%8F%B0%E8%82%A12222-26%E5%85%83-213136491.html",
+      "Content": "(中央社台北2026年 3月26日電)台積電在NYSE掛牌 ADR以347.75美元作收，上漲4.50美元，漲幅 1.31%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 3月25日新台幣匯市收盤價31.952元計算，相當台股台積電每股為 2222.26元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n3/25\n\n347.75\n\n4.50\n\n1.31\n\n31.952\n\n2222.2\n\n3/24\n\n343.25\n\n4.80\n\n1.42\n\n32.028\n\n2198.7\n\n3/23\n\n338.45\n\n9.21\n\n2.80\n\n32.092\n\n2172.3\n\n3/20\n\n329.24\n\n-9.55\n\n-2.82\n\n31.970\n\n2105.1\n\n3/19\n\n338.79\n\n-0.78\n\n-0.23\n\n31.953\n\n2165.0\n\n3/18\n\n339.57\n\n-6.41\n\n-1.85\n\n31.832\n\n2161.8\n\n3/17\n\n345.98\n\n6.70\n\n1.98\n\n31.885\n\n2206.3\n\n3/16\n\n340.23\n\n1.92\n\n0.57\n\n31.948\n\n2173.9\n\n3/13\n\n338.31\n\n1.60\n\n0.48\n\n31.918\n\n2159.6\n\n3/12\n\n336.71\n\n-17.85\n\n-5.03\n\n31.845\n\n2144.5",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
