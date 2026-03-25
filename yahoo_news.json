@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-03-25T19:44:33.400Z",
-  "total_news_count": 830,
+  "last_updated": "2026-03-25T20:00:19.681Z",
+  "total_news_count": 839,
   "news": [
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-26",
+      "Time": "03:47:24",
+      "Source": "GuruFocus.com",
+      "Title": "Intel, AMD Stocks Jump After Reports of 15% CPU Price Increase",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-stocks-jump-reports-194724096.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( NASDAQ:AMD ) and Intel ( NASDAQ:INTC ) shares climbed 4% on Wednesday morning, buoyed by reports of planned price increases for central processing units and a broader market rally.\n\nNikkei Asia reported that Intel and AMD each told customers they intend to raise prices across their CPU product lines, with increases starting in March and April. Multiple sources indicated average hikes of 10% to 15%, with some products seeing larger adjustments.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nBroader equity markets also gained ground after reports that the U.S. drafted a 15-point plan to halt fighting in the Middle East. S&P 500 futures rose about 0.6%, and oil prices fell 5% to below $100 a barrel, easing concerns over energy-driven inflation that had weighed on technology stocks.\n\nNo company-specific news emerged on Tuesday, though AMD had recently announced expanded partnerships, including a deal with Meta to deploy 6 gigawatts of graphics processing units. The semiconductor sector has also drawn support from government efforts to boost domestic supply chains, adding to investor confidence in chipmakers.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-26",
+      "Time": "03:46:54",
+      "Source": "GuruFocus.com",
+      "Title": "Intel, AMD Supply Constraints Weigh on PC and Server Manufacturers",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-amd-supply-constraints-weigh-194654259.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( AMD , Financials ) and Intel ( INTC , Financials ) are having more trouble getting enough CPUs, which puts further pressure on PC and server makers who are already having trouble getting enough memory chips.A study says that the tighter supply of central processing units is causing problems for hardware producers all along the supply chain, including firms that deal with personal computers, enterprise servers, and other related parts. Manufacturers who rely on a consistent supply of processors and memory may have a harder time planning production and shipping on time because of the extra stress.The most recent constraint is important since CPUs are still a key part of both consumer and business systems. If Intel or AMD has a long-term shortage, it might affect big device makers and cloud infrastructure providers. This is especially true since demand is still related to AI workloads, business upgrades, and PC replacement cycles.The research talks about a bigger semiconductor imbalance, when several component shortages are affecting the same end markets at the same time. If replacement parts become difficult to get, system producers face the danger of higher input costs, fewer units being available, and pressure on their margins.Investors will probably look for comments from AMD, Intel, and key OEMs about supply recovery, order backlogs, and how these things may affect revenue patterns in the near future.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-26",
+      "Time": "03:46:36",
+      "Source": "GuruFocus.com",
+      "Title": "Micron Launches $5.4 Billion Debt Tender Offer",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-launches-5-4-billion-194636427.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( MU , Financials ) started cash tender offers to buy back up to $5.4 billion of its outstanding senior notes. This is part of the memory chipmaker's plan to control its debt.The offers include numerous types of debt, such as 5.300% notes due in 2031, 5.650% notes due in 2032, 5.875% notes due in 2033 in two series, 5.800% notes due in 2035, and 6.050% notes due in 2035. The move lets Micron change its capital structure and pay down or restructure higher-cost debts.Companies commonly utilize debt tender offers to cut their interest costs, lengthen their maturities, or make their liability mix easier to manage. For Micron, this move comes at a time when investors are intently watching how money is being spent in the semiconductor industry, where expenditure has gone up along with demand for artificial intelligence and memory infrastructure.The move didn't impact the company's operational outlook, but it does show that the company is actively managing its balance sheet at a time when chipmakers are trying to find a balance between growth spending and shareholder expectations. After the news came out, Micron shares slid 1.9% in premarket trade.In the following quarters, investors will probably pay more attention to how many people take part in the tender offers and whether the firm does anything further to change its funding situation.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-03-26",
+      "Time": "03:46:32",
+      "Source": "GuruFocus.com",
+      "Title": "This Chip Rally Is Telling A Different Story",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/chip-rally-telling-different-story-194632660.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAMD ( NASDAQ:AMD ) and Intel ( NASDAQ:INTC ) are giving chip stocks a lift Wednesday, and the reason is pretty telling. Pricing power may finally be showing up in parts of the AI supply chain.\n\nAMD jumped more than 6% while Intel climbed nearly 8% after reports that both companies plan to raise CPU prices starting in March and April. The driver seems simple. Demand tied to agentic AI workloads is picking up faster than supply can keep up. That is already starting to show up on the ground, with PC makers like HP and Dell seeing a noticeable supply gap since late February that has only been getting wider.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe strength is spreading across the space. Nvidia is up more than 3% as it continues expanding into CPUs, while Arm surged over 18% after unveiling its own data center chip. Other names like Qualcomm, Texas Instruments, Broadcom, and Marvell are also moving higher, pointing to a broader tailwind.\n\nBut it is not a clean rally. Memory and storage names like Micron, Seagate, and Western Digital are under pressure after Google introduced new ways to reduce memory usage in AI models.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-26",
+      "Time": "03:46:28",
+      "Source": "GuruFocus.com",
+      "Title": "SLB, Nvidia Expand AI Partnership for Energy Sector",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/slb-nvidia-expand-ai-partnership-194628867.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSLB ( SLB , Financials ) and Nvidia ( NVDA , Financials ) have been working together since 2008 to create AI infrastructure and domain-specific models for the energy sector. Now, they are expanding their alliance.The firms will work on three main things: building infrastructure for AI factories, using generative AI models that are made for energy applications, and making sure that SLB's digital platforms can handle massive amounts of data more efficiently. The work will combine Nvidia's AI software, such Omniverse and Nemotron models, with SLB's Delfi and Lumi platforms.SLB is likely to be a modular design partner for Nvidia's AI data center systems. This will make it easier and cheaper to increase processing power. The goal of the program is to turn energy data into useful information that can be used to improve exploration, production, and operational efficiency.As energy firms speed up their investments in digital technologies like machine learning and automation to boost productivity and handle large datasets, the alliance comes at the right time. Over the past six months, SLB shares have gone up roughly 48%, which shows that investors believe in its digital and AI approach.Investors will keep an eye on how soon the partnership leads to commercial deployments and revenue growth as demand for AI-powered industrial solutions grows.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-26",
+      "Time": "03:46:10",
+      "Source": "GuruFocus.com",
+      "Title": "Today's Market: Dow jumps 250 points, Nasdaq Rises Nearly 1% as U.S. plan to end Iran war",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/todays-market-dow-jumps-250-194610559.html",
+      "Content": "This article first appeared on GuruFocus .\n\nU.S. stocks climbed Wednesday as reports that the U.S. sent Iran a 15-point peace plan drove oil prices lower and eased geopolitical concerns. The S&P 500 rose about 0.5%, while the Dow Jones Industrial Average added roughly 0.5%. Nasdaq climbed nearly 1%.\n\nWest Texas Intermediate crude fell 3% to near $89 a barrel, and Brent dropped a similar margin to about $100 a barrel. Treasury yields also declined as investors weighed the prospect of de-escalation in the Middle East.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nIranian state media said Tehran rejected the U.S. ceasefire offer and instead laid out a five-point counterproposal that included control over the Strait of Hormuz. The two sides appear far apart, and attacks have continued, leaving uncertainty in place.\n\nTechnology shares supported the broader market, with chipmakers including Nvidia ( NASDAQ:NVDA ) and Advanced Micro Devices ( NASDAQ:AMD ) gaining ground. Investors have been watching the conflict closely, as a prolonged war could keep oil prices elevated and complicate the Federal Reserve's inflation outlook.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-03-26",
@@ -13,6 +73,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": "MU",
+      "Date": "2026-03-26",
+      "Time": "03:27:48",
+      "Source": "Motley Fool",
+      "Title": "Why Micron Stock Is Falling Today",
+      "URL": "https://finance.yahoo.com/m/2fe1f527-c535-31d2-a941-f8cc15bb8ab2/why-micron-stock-is-falling.html",
+      "Content": "The broader market is enjoying bullish momentum today, but Micron (NASDAQ: MU) stock is losing ground in the session . The company's share price was down 3.9% as of 3:05 p.m. ET. The S&P 500 was up 0.4% at the same point in the trading session, and the Nasdaq Composite had risen 0.8%.\n\nThe market is moving higher today in response to hopes that a resolution to the war with Iran could help mitigate inflationary pressures , but Micron stock is moving lower in response to a pair of unrelated catalysts. In addition to sell-offs connected to a new research note from Wells Fargo , the memory-chip specialist's share price is moving lower today following news that one of its biggest rivals could soon list its stock on a major U.S. exchange.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nCould AI efficiency improvements hurt Micron?\n\nMicron's high-bandwidth-memory (HBM) chips have been crucial components in advanced artificial intelligence ( AI ) processors built around chips from Nvidia and AMD . In a recent report, Wells Fargo analysts pointed to a blog post from Alphabet' s Google Research division outlining the technical capabilities of its new TurboQuant quantization method. TurboQuant is apparently capable of compressing key large-language-model (LLM) data to a substantial degree without any accuracy loss . Technologies along these lines could potentially lead to softer demand for Micron's advanced memory chips.\n\nOne of Micron's biggest competitors could soon hit the U.S. stock market\n\nAccording to a report from Reuters today, SK Hynix is gearing up to list its stock on a U.S. exchange in the second half of the year. While SK Hynix listing on a U.S. exchange wouldn't have any fundamental impact on Micron's business, it could divert investment dollars away from Micron. The potential diversionary impact isn't something investors should be concerned about over the long term , but it could introduce a source of downside volatility for the stock in the near term .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-03-26",
+      "Time": "03:06:00",
+      "Source": "Motley Fool",
+      "Title": "Prediction: Micron Will Be One of the Best-Performing Stocks of 2026",
+      "URL": "https://finance.yahoo.com/m/61618ad2-6923-3ba9-a0c1-87f4a92305fc/prediction%3A-micron-will-be.html",
+      "Content": "Micron (NASDAQ: MU) has been one of the best stocks to own over the past year. If you bought shares 12 months ago, you're already up around 350%.\n\nThe company is one of the top providers of memory chips and other data storage products, and it has emerged as a top artificial intelligence (AI) stock due to a deep supply-and-demand imbalance in the memory market. However, after hearing what Micron's management had to say about its outlook, I think there is plenty more room for this stock to run in 2026.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nMicron can't come close to meeting demand\n\nAI computing units need a ton of different components, and memory is one of them. Compared to logic chips such as GPUs, there's not as much differentiation between the wares of the various memory providers. As a result, the market treats memory chips largely as commodities, which means their prices are primarily driven by supply-and-demand economics. Currently, demand for those chips is high, and supply is constrained by production capacity. This has caused prices to soar, benefiting Micron and its peers.\n\nWhile Micron has plans to get more production capacity online in 2027, that doesn't affect 2026. During the fiscal 2026 Q2 conference call last week, management noted that for some of its key customers, the company would only be able to fulfill about one-half to two-thirds of their demand in the medium term. While management didn't define \"medium term,\" I think it's safe to assume that it means about one year.\n\nSo, Micron can't produce nearly enough memory chips to meet demand over the next year, and with demand slated only to rise over the next few years, it's sitting in a great spot. In fiscal Q3, management expects revenue to come in at around $33.5 billion, up from $23.9 billion in fiscal Q2 (which ended Feb. 26) and up from $13.6 billion in fiscal Q1. Investors seldom see growth ramps like that, and based on that outlook, the stock is incredibly cheap.\n\nMicron trades for just 7.3 times forward earnings, which shows the market's skepticism about how long this memory chip supply-and-demand imbalance will last. However, if demand stays high for several years and production capacity remains constrained -- as I think it will -- Micron could be one of the best-performing stocks in the market in 2026 and maybe over the next few years as well.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-03-26",
       "Time": "03:06:00",
@@ -20,6 +100,16 @@
       "Title": "Prediction: Micron Will Be One of the Best-Performing Stocks of 2026",
       "URL": "https://finance.yahoo.com/m/61618ad2-6923-3ba9-a0c1-87f4a92305fc/prediction%3A-micron-will-be.html",
       "Content": "Micron (NASDAQ: MU) has been one of the best stocks to own over the past year. If you bought shares 12 months ago, you're already up around 350%.\n\nThe company is one of the top providers of memory chips and other data storage products, and it has emerged as a top artificial intelligence (AI) stock due to a deep supply-and-demand imbalance in the memory market. However, after hearing what Micron's management had to say about its outlook, I think there is plenty more room for this stock to run in 2026.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nMicron can't come close to meeting demand\n\nAI computing units need a ton of different components, and memory is one of them. Compared to logic chips such as GPUs, there's not as much differentiation between the wares of the various memory providers. As a result, the market treats memory chips largely as commodities, which means their prices are primarily driven by supply-and-demand economics. Currently, demand for those chips is high, and supply is constrained by production capacity. This has caused prices to soar, benefiting Micron and its peers.\n\nWhile Micron has plans to get more production capacity online in 2027, that doesn't affect 2026. During the fiscal 2026 Q2 conference call last week, management noted that for some of its key customers, the company would only be able to fulfill about one-half to two-thirds of their demand in the medium term. While management didn't define \"medium term,\" I think it's safe to assume that it means about one year.\n\nSo, Micron can't produce nearly enough memory chips to meet demand over the next year, and with demand slated only to rise over the next few years, it's sitting in a great spot. In fiscal Q3, management expects revenue to come in at around $33.5 billion, up from $23.9 billion in fiscal Q2 (which ended Feb. 26) and up from $13.6 billion in fiscal Q1. Investors seldom see growth ramps like that, and based on that outlook, the stock is incredibly cheap.\n\nMicron trades for just 7.3 times forward earnings, which shows the market's skepticism about how long this memory chip supply-and-demand imbalance will last. However, if demand stays high for several years and production capacity remains constrained -- as I think it will -- Micron could be one of the best-performing stocks in the market in 2026 and maybe over the next few years as well.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-03-26",
+      "Time": "03:05:11",
+      "Source": "Insider Monkey",
+      "Title": "Why Is Hewlett Packard Enterprise (HPE) One of the Best Undervalued Stocks Under $50 to Invest In Now?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-190511405.html",
+      "Content": "Hewlett Packard Enterprise Company (NYSE: HPE ) is one of the best undervalued stocks under $50 to invest in now . Hewlett Packard Enterprise Company (NYSE:HPE) announced on March 17 the HPE AI Grid, which is an end-to-end solution built on the NVIDIA reference architecture aimed at securely connecting and distributing inference clusters across regional and far‑edge sites. It stated that the HPE AI Grid allows the deployment and operation of thousands of distributed inference sites by service providers, turning AI installations into a single intelligent system.\n\nHewlett Packard Enterprise Company (NYSE:HPE) further stated that predictable, low‑latency, distributed infrastructure is required by AI‑native applications, and the HPE AI Grid solution, which makes up a part of NVIDIA AI Computing by HPE portfolio, delivers predictable, ultra‑low latency performance at scale for real‑time AI services, zero‑touch provisioning, and automated security with integrated orchestration.\n\nIn another development, Hewlett Packard Enterprise Company (NYSE:HPE) announced on March 16 a significant expansion of the NVIDIA AI Computing by HPE portfolio. It stated that through its deep partnership and co-engineering with NVIDIA, HPE delivers an “advanced portfolio of integrated and validated systems that speed time to value for AI while addressing scale, security, and governance requirements”.\n\nHewlett Packard Enterprise Company (NYSE:HPE) is a global edge-to-cloud company that provides technology, information technology, and enterprise products, services, and solutions. The company’s operations are divided into the following segments: Server, Hybrid Cloud, Intelligent Edge, Financial Services, and Corporate Investments and Other.\n\nWhile we acknowledge the potential of HPE as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nDisclosure: None. <a class=\"link \" hr",
       "Language": "en"
     },
     {
