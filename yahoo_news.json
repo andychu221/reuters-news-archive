@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-26T03:31:29.718Z",
-  "total_news_count": 1012,
+  "last_updated": "2026-03-26T03:39:24.404Z",
+  "total_news_count": 1013,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-03-26",
+      "Time": "11:25:00",
+      "Source": "Motley Fool",
+      "Title": "OpenAI Just Became Broadcom's Newest Chip Customer. Here's Why That's a Massive Deal for 2026.",
+      "URL": "https://finance.yahoo.com/m/b5b43f8b-e9da-3a2d-a4ae-e51f2198f6c4/openai-just-became-broadcom%27s.html",
+      "Content": "For the past few years, Nvidia has dominated the artificial intelligence (AI) hardware market. Its graphics processing units (GPUs) have transformed it into the single most valuable company in the world by market cap. But that's changing.\n\nSeveral companies involved in the software side of the AI industry are working to develop their own hardware, so they're not reliant on Nvidia.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAlphabet , Google's parent company, is the most prominent example. Its tensor processing unit (TPU) is a direct competitor to Nvidia's GPU for certain AI applications.\n\nIt's not the only company looking to move away from Nvidia, though. OpenAI , the company behind ChatGPT, is also looking for an alternative to Nvidia. And it seems OpenAI has found it in Broadcom (NASDAQ: AVGO) .\n\nDesigner chips\n\nBroadcom co-develops chips and other hardware with other companies. In fact, it's Google's partner in developing the TPU. But Google isn't the only company making use of Broadcom's services.\n\nThe company also works with Microsoft , Amazon , Meta , and now with OpenAI.\n\nLate last year, the two companies entered into a multiyear partnership to co-develop 10 gigawatts of custom AI accelerators more attuned to the needs of OpenAI's software than the more general-purpose Nvidia hardware it has been using.\n\nThe deal is no doubt concerning for Nvidia, but it also speaks to a broader move away from GPUs and toward custom chips. Anthropic , OpenAI's main rival and the company behind Claude, is doing the same thing.\n\nAt around the same time as OpenAI signed its agreement with Broadcom, Anthropic announced that it would expand its use of Google's Cloud, and along with that, it would bring 1 gigawatt's worth of computing capacity with Google/Broadcom TPU chips.\n\nAdvanced Micro Devices has long been looked at as a potential competitor to Nvidia. But it seems Broadcom may present the larger threat, as companies seem to want to move toward chips designed for the specific needs of their particular AI programs.\n\nThat's exactly what Google did with its TPU, and it's the direction OpenAI and Anthropic are moving in. That alone would make Broadcom worth a look, but it's also got some very solid financials backing it up as well.\n\nChipping in, big time\n\nFor the whole of 2025, Broadcom saw its revenue climb 24% over 2024 to hit $63.8 billion. The company's diluted earnings per share (EPS) grew 40% over the same period.\n\nStory Continues\n\nThe company is also running a net profit margin of 36.57% and a healthy balance sheet with a debt-to-equity ratio of 0.83.\n\nBut perhaps the biggest news is that Broadcom anticipates its AI semiconductor revenue to double to $8.2 billion this year.\n\nThe OpenAI deal is huge for Broadcom, but it's clearly just one small part of what's driving the company's growth. And if the company's AI revenue projections are to be believed, then this is one company you'll want to give a serious look at this year.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-26",
