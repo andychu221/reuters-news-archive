@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-27",
-  "total_reports": 82,
+  "total_reports": 83,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3V506E:0/",
+      "Date": "2026-03-27",
+      "Time": "09:21:01",
+      "Title": "台灣股市：盤初隨亞股一度大跌逾2%，中東局勢未明美股重挫",
+      "Content": "台灣股市 TWSE:TAIEX周五盤初一度大跌逾2%後略有縮減；因中東局勢仍不安，上日美國股市收盤普遍重挫，並波及亞洲股市。\n\n本地時間09:12，台股下跌1.56%報32,816點。約同時，韓國股市 下挫3.29%，日本股市 (.N2e25)則下挫1.9%。\n\n 納斯達克指數周四暴跌逾2%，確認進入修正區間，而標普500指數和道指跌幅均超過1%。由於擔心美以聯軍對伊朗的戰爭升級，投資者紛紛尋求避險，導致油價飆升，並加劇了通脹擔憂。\n\n美國總統特朗普周四表示，應伊朗政府請求，他將暫停對伊朗能源設施的襲擊10天，並稱與德黑蘭的談判進展“非常順利”。不過此前一名伊朗高級官員對路透表示，美國提出的結束衝突提議“單方面且不公平”。 （完）",
+      "ContentLength": 319,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-27 09:42:46"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T40E1F1:0/",
