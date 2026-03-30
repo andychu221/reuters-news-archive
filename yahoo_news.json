@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-30T18:15:50.581Z",
-  "total_news_count": 261,
+  "last_updated": "2026-03-30T18:40:58.530Z",
+  "total_news_count": 263,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-03-31",
+      "Time": "02:30:36",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Unveils Critique to Sharpen AI Research",
+      "URL": "https://finance.yahoo.com/news/microsoft-unveils-critique-sharpen-ai-183036212.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) rolled out a new set of artificial intelligence upgrades , including a deep research system called Critique that is designed to make Copilot more useful for complex work.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe centerpiece is a multi-model approach. Instead of relying on a single AI system to generate an answer, Critique brings several models together to produce, review and refine responses before presenting a final result. The idea is straightforward: better cross-checking should lead to better output.\n\nMicrosoft is also introducing tools that let users compare how different models respond to the same prompt. One feature, called Council, can generate side-by-side reports and use a separate judge model to highlight differences, surface unique insights and summarize the strongest points.\n\nThat matters because one of the biggest complaints about AI assistants is that they can sound confident while getting key facts wrong. Microsoft is clearly trying to address that weakness by building more review and verification into the workflow.\n\nFor Microsoft, the launch is another step in turning Copilot into a more serious productivity platform for research, writing and decision-making. Investors will be watching to see whether these upgrades increase adoption and help Microsoft stand out as competition in enterprise AI continues to intensify.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-03-31",
+      "Time": "02:20:12",
+      "Source": "Yahoo Finance",
+      "Title": "AI Shopping Shift Puts Amazon, Walmart in Focus",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/ai-shopping-shift-puts-amazon-182012788.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( AMZN , Financials ) and Walmart ( WMT , Financials ) are emerging as key beneficiaries of artificial intelligence in retail, as analysts point to a shift in how consumers search for and purchase products online.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nKeyBanc noted that AI is still in its early stages, but it is already starting to change how people shop online after hearing from the Shoptalk 2026 conference. The company thinks that AI platforms were responsible for roughly 0.4% of online sales in the U.S. in 2025. This number might rise to around 10% by 2029.\n\nIt looks like the chance favors big, well-known stores. Companies that are big, have good logistics, and have a well-known brand are likely to be better able to adapt as AI-driven shopping changes.\n\nEarly observations show that the terrain is still broken up. In certain situations, businesses like Walmart, Target, and Home Depot are showing up more often than Amazon in AI search results. This shows how rapidly things are changing.\n\nAlong with AI, other developments are also changing retail. For example, GLP-1 medicines are changing how people shop, resale platforms are becoming more popular, and more money is going into automation.\n\nInvestors should take away this: AI is becoming a major long-term factor in e-commerce, and the firms who adapt the fastest might have a permanent advantage.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-03-31",
