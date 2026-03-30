@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-03-30",
-  "total_reports": 97,
+  "total_reports": 98,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_P8T3U7017:0/",
+      "Date": "2026-03-30",
+      "Time": "09:10:25",
+      "Title": "台灣股市：盤初一度大跌逾2%，中東衝突不斷令通脹疑慮揮之不去",
+      "Content": "台灣股市 TWSE:TAIEX周一盤初一度大跌逾2%；因中東衝突不斷升級，國際油價居高不下令市場對通脹的擔憂加劇。\n\n本地時間09:04，台股下跌1.74%報32,545.77點，最大權值股台積電 跌1.92%報1,785台幣。\n\n美國股市周五大幅下挫，三大股指均收於七個多月來的最低點，道指確認已進入修正區間，持續一個多月的中東戰事繼續抑制市場風險偏好。（完）",
+      "ContentLength": 181,
+      "HasTables": false,
+      "ScrapedAt": "2026-03-30 09:42:44"
+    },
     {
       "Source": "TradingView - Reuters Brief",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T40H082:0/",
