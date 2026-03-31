@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T17:15:11.074Z",
-  "total_news_count": 406,
+  "last_updated": "2026-03-31T17:21:19.551Z",
+  "total_news_count": 407,
   "news": [
     {
       "Ticker": "INTC",
@@ -503,6 +503,16 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "Quantum Computing, Cybersecurity Threat, Cryptocurrency, Bitcoin, Post-Quantum Cryptography"
+    },
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-03-31",
+      "Time": "22:54:00",
+      "Source": "Yahoo Finance",
+      "Title": "ANET's Margin Expansion Moderates: Can Growth Be Sustained?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/anets-margin-expansion-moderates-growth-145400433.html",
+      "Content": "Arista Networks Inc. ANET reported a non-GAAP operating income of $3.85 billion in 2025, up from $2.94 billion in 2024. Non-GAAP operating margin improves to 48.2% from 47.5% a year ago.\n\nThe company’s operating margin continues to be driven by healthy demand in the AI networking market. Its software native architecture, which includes a unified software stack across various use cases, including WAN routing, campus and data center infrastructure, sets it apart from its competitors. This ensures lower incremental operating costs per dollar of revenue and ensures better economies of scale.\n\nGrowing demand for 400G, 800G switches and adoption of AI networking architecture by hyperscalers across data centers are also driving growth. However, the company witnessed a significant rise in operating expenses as well. Research & development costs rose to $348.4 million from $285 million. Sales and marketing expenses also increased to $139.1 million from $111 million due to a rise in headcount and new product introduction costs. These growing expenditures partially reverse the positive trend.\n\nAccounts payable day was 66 days up from 55 days in the first quarter. This actually improves cash flow and also improves liquidity, allowing Arista to invest more in research and development and marketing without putting too much pressure on operating margin. However, the company is highly exposed to hyperscalers’ AI spending. Growing geopolitical unrest and macro headwinds can hinder the AI spending decision and hinder the company’s operating margin growth.\n\nHow Are Competitors Faring?\n\nArista faces competition from Hewlett Packard Enterprise Company HPE and Cisco Systems, Inc. CSCO. HPE reported a non-GAAP operating profit of $1.18 billion compared with $780 million in the year-ago quarter. The non-GAAP operating margin improved to 12.7%, up 280 basis points from the year-ago quarter. HPE is benefiting from a robust demand environment for its edge-to-cloud platform, GreenLake, as customers are undergoing a major digital transformation.\n\nIn the second quarter of fiscal 2026, Cisco reported total non-GAAP operating expenses of $5.04 billion, up 6.2% year over year. As a percentage of revenues, operating expenses declined 110 bps year over year. Consequently, Cisco reported a non-GAAP operating income of $5.31 billion, up 9.3% year over year. Operating margin contracted 10 bps year over year to 34.6%. Despite recent contraction, strong demand for AI infrastructure and security solutions is expected to drive the company’s margin in the upcoming quarters.\n\nStory Continues\n\nANET’s Price Performance, Valuation & Estimates\n\nShares of Arista have surged 47.9% over the past year against the industry’s decline of 13.3%.\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, Arista trades at a forward price-to-sales ratio of 12.36, above the industry average.\n\nThe Zacks Consensus Estimate for Arista’s earnings for 2026 has increased over the past 60 days.\n\nArista currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "INTC",
