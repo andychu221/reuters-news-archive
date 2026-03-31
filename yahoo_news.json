@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-03-31T16:32:54.378Z",
-  "total_news_count": 384,
+  "last_updated": "2026-03-31T16:38:19.149Z",
+  "total_news_count": 386,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-31",
+      "Time": "23:57:35",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Takes $2 Billion Stake in Marvell",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-takes-2-billion-stake-155735379.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology ( NASDAQ:MRVL ) rose 9.29% in premarket trading after deepening ties with Nvidia ( NASDAQ:NVDA ), joining its NVLink Fusion ecosystem as Nvidia invested a $2 billion equity stake in the company. The move positions Marvell more directly within Nvidia's expanding AI infrastructure stack, particularly in high-speed interconnects and custom silicon.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nUnder the arrangement, Marvell will supply custom XPUs and NVLink Fusion-compatible scale-up networking, while Nvidia contributes its Vera CPU, ConnectX NICs, BlueField DPUs, NVLink interconnect, and Spectrum-X switches. The companies will also collaborate on silicon photonics technology.\n\nThe deal extends Nvidia's strategy of deepening ties with silicon partners rather than competing with them outright. NVLink Fusion allows hyperscalers to integrate custom XPUs directly into Nvidia's rack-scale systems, preserving their own chip investments while staying within Nvidia's ecosystem.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-03-31",
@@ -97,6 +107,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "Robotics Solutions, AI Collaboration, Semiconductor Integration, Edge Processing, Physical AI"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-03-31",
+      "Time": "23:45:48",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell Shares Jump After Nvidia Takes $2 Billion Stake",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/marvell-shares-jump-nvidia-takes-154548565.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology ( NASDAQ:MRVL ) shares climbed more than 10% on Tuesday after Nvidia ( NASDAQ:NVDA ) said it would invest $2 billion in the chip designer and deepen a partnership focused on AI infrastructure and telecom networks.\n\nUnder the agreement , Marvell will supply custom AI accelerators, or XPUs, along with networking gear designed to work with Nvidia's NVLink Fusion platform. Nvidia said it will contribute its Vera CPU, ConnectX network interface cards, BlueField data processing units, NVLink interconnect and Spectrum-X switches.\n\nWarning! GuruFocus has detected 5 Warning Signs with MRVL.\n\nIs MRVL fairly valued? Test your thesis with our free DCF calculator.\n\nThe companies also said they will collaborate on telecom applications, including Nvidia Aerial AI-RAN for 5G and 6G systems. That effort is aimed at bringing more artificial intelligence tools into mobile network infrastructure.\n\nNvidia chief executive Jensen Huang said demand for AI inference is rising and that customers are building out so-called AI factories, while Marvell chief executive Matt Murphy said the expanded tie-up reflects growing demand for faster connectivity and optical networking.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
