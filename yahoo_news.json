@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T01:44:59.069Z",
-  "total_news_count": 551,
+  "last_updated": "2026-04-01T01:52:31.057Z",
+  "total_news_count": 554,
   "news": [
     {
       "Ticker": ".TWII",
@@ -113,6 +113,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-04-01",
+      "Time": "09:07:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈ETF成分股調整〉群益00923換股4進4出 華通、華邦電等低碳獲利尖兵股入列",
+      "URL": "https://tw.stock.yahoo.com/news/etf%E6%88%90%E5%88%86%E8%82%A1%E8%AA%BF%E6%95%B4-%E7%BE%A4%E7%9B%8A00923%E6%8F%9B%E8%82%A14%E9%80%B24%E5%87%BA-%E8%8F%AF%E9%80%9A-%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%AD%89%E4%BD%8E%E7%A2%B3%E7%8D%B2%E5%88%A9%E5%B0%96%E5%85%B5%E8%82%A1%E5%85%A5%E5%88%97-010740465.html",
+      "Content": "臺灣指數公司公告 3 檔台股 ETF 追蹤指數成分股定審結果，其中，永豐 ESG 低碳高息 (00930-TW)、台新永續高息中小 (00936-TW) 並無異動，而群益台 ESG 低碳 50(00923-TW) 此次換股四進四出，新增納入具備高獲利能力 (ROE) 且碳排放密度優異的 AI 半導體、高階通路與電子零組件尖兵，包括華通、華邦電、文曄、穎崴，顯見指數正由傳統市值權重，轉向低碳競爭力靠攏。\n\n00923 追蹤「臺灣指數公司特選臺灣 ESG 低碳 50 指數」，成分股納入與刪除之變動將自 2026 年 4 月 1 日起生效。本次換股新增納入 4 檔，分別為華通 (2313-TW)、華邦電 (2344-TW)、文曄 (3036-TW)、穎崴 (6515-TW)；同時刪除 4 檔成分股，分別為東元 (1504-TW)、英業達 (2356-TW)、和碩 (4938-TW)、上海商銀 (5876-TW)。\n\n00923 於 2023 年 3 月 8 日掛牌上市，核心邏輯並非單純追蹤市值，而是透過 ESG 評分、低碳密度 (營收碳排比) 以及獲利能力 (ROE) 進行三重篩選。\n\n從此次換股名單來觀察，穎崴與文曄分別屬於半導體測試介面與全球電子通路，在 AI 浪潮下，這些企業的獲利成長性較高，且其「碳排放密度」相對於傳統重工業或舊型代工廠更具競爭力。而華通與華邦電皆為電子零組件廠商，此次入選成分股，顯示公司在能源管理或碳排控制上已達到指數門檻，足以替換獲利能力下滑或碳排效率不佳的舊成員。\n\n進一步觀察剔除名單，上海商銀等金融股雖被市場視為低碳，但 00923 有市值規模與獲利成長的動態比較，若其他科技股的分數更高，金融股的權重就容易下滑，甚至摔出成分股。而英業達與和碩皆為代工廠，東元則是重電指標股，這些公司面臨傳統製造轉型的挑戰，若碳排放密度未能跟上同業的減碳速度，或者 ROE 未達前段班，便會被篩選機制剔除。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-04-01",
       "Time": "09:07:00",
@@ -130,6 +140,16 @@
       "Title": "台股開盤漲169.34點",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%BC%B2169-34%E9%BB%9E-010539476.html",
       "Content": "（中央社台北1日電）台北股市今天開盤漲169.34點，加權股價指數為31892.33點，成交金額新台幣78.74億元。1150401",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-04-01",
+      "Time": "09:03:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Kioxia部分產線EOL釋出，華邦電和旺宏可望受益",
+      "URL": "https://tw.stock.yahoo.com/news/kioxia%E9%83%A8%E5%88%86%E7%94%A2%E7%B7%9A%E4%B9%8Beol%E9%87%8B%E5%87%BA-%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%92%8C%E6%97%BA%E5%AE%8F%E5%8F%AF%E6%9C%9B%E5%8F%97%E7%9B%8A-010353514.html",
+      "Content": "【財訊快報／記者李純君報導】記憶體大廠Kioxia於2026年3月31日發布EOL（產品終止供應）通知，宣布將停止供應包括15奈米、24奈米與32奈米的製程，及BiCS Flash第三代在內的多項NAND Flash產品，隨市場供需將出現變化，SLC等的台資NAND晶片供應商華邦電(2344)和旺宏(2337)，將可受益。Kioxia發出公開信，通知客戶，停止供應包括15奈米、24奈米與32奈米的製程，及BiCS Flash第三代在內的，SLC、MLC、TLC及Wafer、BGA、TSOP、eMMC、UFS等多種封裝與應用的NAND。\n\n依照EOL，Kioxia最後接單日為2026年9月30日，最終出貨將延續至2028年12月31日。Kioxia此舉，主要是持續退出成熟與舊世代製程，將資源集中於更高層數3D NAND與先進產品。\n\n事實上，15奈米、24奈米與32奈米的製程，及BiCS Flash第三代在內的多項NAND Flash產品，屬於相當成熟的舊製程產品，Kioxia退出意味著其持續往先進與主流製程邁進，而目前還有相關業務的，則是主攻SLC等非高階NAND晶片的華邦電與旺宏，即使這些中低階產線在需求端未有起色，但考量供應端的持續退出，無疑替SLC等NAND晶片注入新生機，晶片報價可望因產出減少而報價上漲，替旺宏與華邦電營運加分。",
       "Language": "zh"
     },
     {
@@ -291,6 +311,16 @@
       "URL": "https://finance.yahoo.com/m/68ae1065-b861-322a-aac4-b2602109ebdf/should-you-buy-palantir-stock.html",
       "Content": "Palantir Technologies (NASDAQ: PLTR) has emerged as a major beneficiary of rising U.S. defense spending. However, investors need to assess this opportunity in the context of the company's valuation. Congress has already approved a $901 billion U.S. military budget for 2026. Additionally, the Pentagon is seeking around $200 billion in supplemental funding amid the ongoing Iran conflict.\n\nImportantly, the Pentagon plans to allocate over $153 billion toward modernization initiatives in 2026, including new ships, artificial intelligence (AI) technologies, and advanced weapons. This shift in spending directly benefits data analytics and enterprise AI player Palantir .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nGovernment spending is becoming software-driven\n\nThe Pentagon plans to adopt Palantir's Maven AI system as a \"program of record,\" effectively making it a core military platform with stable, long-term funding visibility. That designation can help reduce revenue volatility for the company's government business.\n\nPalantir's government business is already gaining momentum. U.S. government revenue soared 55% year over year to roughly $1.8 billion in 2025, reflecting expanding deployments across defense programs. The company's Gotham and Maven platforms are increasingly embedded in real-time decision-making across battlefield data and target identification. Hence, these deployments are highly sticky and difficult to replace with competitor systems.\n\nPalantir's Artificial Intelligence Platform (AIP) and proprietary ontology framework (which relates an organization's physical assets to digital counterparts) are also driving strong traction in the commercial segment. In fiscal 2025, U.S. commercial revenue soared 109% year over year to around $1.4 billion.\n\nPalantir also reported $4.3 billion in total contract value in the fourth quarter, up 138% year over year. The company's top 20 customers noted a 45% year-over-year increase in trailing-12-month revenue to $94 million in the fourth quarter. This highlights increasing success in cross-selling and upselling strategies.\n\nDespite these strengths, Palantir's high valuation remains a concern. The company trades at over 77 times forward earnings, leaving limited room for execution missteps.\n\nHence, although Palantir remains well-positioned to benefit from the Pentagon's increased spending, long-term investors should adopt a disciplined approach and gradually build positions during pullbacks rather than buying aggressively at elevated levels.\n\nStory Continues",
       "Language": "en"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-04-01",
+      "Time": "08:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "4/1起「特選臺灣ESG低碳50指數」納華通、華邦電等/刪東元、英業達等",
+      "URL": "https://tw.stock.yahoo.com/news/4-1%E8%B5%B7-%E7%89%B9%E9%81%B8%E8%87%BA%E7%81%A3esg%E4%BD%8E%E7%A2%B350%E6%8C%87%E6%95%B8-%E7%B4%8D%E8%8F%AF%E9%80%9A-%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%AD%89-000200319.html",
+      "Content": "「臺灣指數公司特選臺灣ESG低碳50指數」成分股審核結果\n\n臺灣指數公司公布「臺灣指數公司特選臺灣ESG低碳50指數」成分股定期審核結果。成分股納入和刪除之變動將自2026年3月31日(星期二)交易結束後生效(亦即自2026年4月1日(星期三)起生效)。\n\n成分股納入(4)：2313華通、2344華邦電、3036文曄、6515穎崴\n\n成分股刪除(4)：1504東元、2356英業達、4938和碩、5876上海商銀\n\n*註：成分股納入、刪除名單係定審後成分股新名單與定審資料日(20260310)成分股名單對照之結果。\n\n證交所、櫃買中心3/31公告注意有價證券名單\n\n扛不住了 家電業掀漲價潮(經濟日報，無內文)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT",
