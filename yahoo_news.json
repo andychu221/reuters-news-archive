@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-01T00:10:14.922Z",
-  "total_news_count": 518,
+  "last_updated": "2026-04-01T00:15:05.081Z",
+  "total_news_count": 520,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-04-01",
+      "Time": "07:28:50",
+      "Source": "Yahoo Finance",
+      "Title": "Why Marvell Stock Jumped Today",
+      "URL": "https://finance.yahoo.com/m/1aa90064-a8d2-334d-b47e-a2a5f8d2c761/why-marvell-stock-jumped-today.html",
+      "Content": "Shares of Marvell Technology (NASDAQ: MRVL) surged on Tuesday after the data solutions provider formed a strategic partnership with Nvidia (NASDAQ: NVDA) .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAccelerating AI connectivity\n\nThe two tech leaders will work together to advance the artificial intelligence ( AI ) boom. Marvell will supply custom processors and networking technology that integrates seamlessly with Nvidia's AI computing platform.\n\nMarvell's chips can be customized by cloud-computing network operators and other high-performance computing providers to speed up AI workloads.\n\n\"The world is racing to build AI factories,\" Nvidia CEO Jensen Huang said. \"Together with Marvell, we are enabling customers to leverage Nvidia's AI infrastructure ecosystem and scale to build specialized AI compute.\"\n\nMarvell and Nvidia will also co-develop silicon photonics technology, which uses light to transmit data faster and more efficiently.\n\nMarvell acquired Celestial AI -- a pioneer in high-bandwidth, power-efficient photonics connectivity solutions -- for $3.25 billion in cash and stock in December.\n\n\"Our expanded partnership with Nvidia reflects the growing importance of high-speed connectivity, optical interconnect, and accelerated infrastructure in scaling AI,\" Marvell CEO Matt Murphy said.\n\nNvidia's cash should spur Marvell's expansion\n\nAs part of the deal, Nvidia will invest $2 billion in Marvell. Murphy intends to use the funds to meet the booming demand for Marvell's AI-focused products.\n\n\"This just helps turbocharge our growth and our opportunity,\" Murphy said during an interview with CNBC.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-04-01",
@@ -29,6 +39,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "strategic partnership, AI, connectivity, custom processors, silicon photonics"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-04-01",
+      "Time": "07:25:00",
+      "Source": "Yahoo Finance",
+      "Title": "Warren Buffett Made a $19.8 Billion Bet and It's Not on AI",
+      "URL": "https://finance.yahoo.com/m/b194232e-16e3-3ca5-8a54-6b97dd200a5e/warren-buffett-made-a-%2419.8.html",
+      "Content": "In his last quarter as CEO of Berkshire Hathaway (NYSE: BRKB) , legendary investor Warren Buffett made one very large buy.\n\nBut he didn't buy shares of his largest position Apple (NASDAQ: AAPL) , or his longtime holding Bank of America (NYSE: BAC) , or one of his other artificial intelligence (AI) picks , Amazon (NASDAQ: AMZN) . In fact, he sold more that 7 million shares of each of those.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAnd instead of putting the money into another AI company, he picked up more than 8 million shares of a different company in one of his longtime favorite industries: oil. Here's how Buffett made one of his last plays into one of his best.\n\nBuffett's bad buy?\n\nBuffett's surprise investment was in oil major Chevron (NYSE: CVX) . He spent more than $1 billion to bring Berkshire Hathaway's total position in Chevron up to $19.8 billion.\n\nThis was a bold move for Buffett, because even though he's no stranger to investments in oil and gas companies, Chevron's share price lagged the performance of the S&P 500 by more than 10% in 2025, so it wasn't looking like a surefire winner. But Buffett likes a bargain, so he picked up shares for an average price of about $132 a share.\n\nBuffett's brilliant buy\n\nOf course, even the \"Oracle of Omaha\" couldn't have known in late 2025 what was on the horizon in the oil and gas industry in 2026, but the timing certainly seems to have worked out for him.\n\nFirst, the capture of Venezuelan president Nicolas Maduro in January may have opened up new long-term opportunities in Venezuela for Chevron. Most oil producers aren't expecting much of an impact on their finances, considering they have no current operations in Venezuela and no plans to begin any. Chevron, though, is the exception, as the lone U.S. oil major actively drilling for oil in the country. Of course, the situation in Venezuela is still new and unpredictable, but if any company were to benefit, it would be Chevron.\n\nWhat's really caused Chevron's stock to rise, though, are the skyrocketing global energy prices due to the closure of the Strait of Hormuz by Iran. With crude oil prices soaring, Chevron's stock price is now up 37% year to date, at $209 per share. That handily beats the S&P 500, which is down 4.8% so far in 2026:\n\nThat means Berkshire has already seen a 58% return on its latest Chevron investment... in less than six months. It's one final masterstroke by a master investor: a bold Buffett move that paid off, and will likely continue to pay dividends (both literally and figuratively) in years to come.\n\nStory Continues",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
