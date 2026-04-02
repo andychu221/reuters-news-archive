@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-02T13:15:23.833Z",
-  "total_news_count": 1034,
+  "last_updated": "2026-04-02T13:38:11.469Z",
+  "total_news_count": 1035,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-04-02",
+      "Time": "21:26:44",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia and Marvell Team Up to Power Next Wave of AI",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-marvell-team-power-next-132644922.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) is teaming up with Marvell Technology ( MRVL , Financials ) in a way that says a lot about where the AI market is headed.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nAt first glance, the headline is the $2 billion investment . But the bigger story is what the two companies are actually working on together. According to Wedbush, this partnership is really centered on Nvidia's NVLink Fusion, along with technologies tied to AI memory, optical networking and silicon photonics.\n\nThat may sound highly technical, but the idea is pretty simple. AI systems are getting bigger, faster and far more demanding. It is no longer enough to just build powerful chips. Those chips also need to communicate with each other quickly and efficiently, especially inside large data centers running advanced AI workloads.\n\nThat is where Marvell fits in. The company has built a strong position in networking and connectivity, which makes it a useful partner for Nvidia as it expands beyond GPUs and deeper into the full AI infrastructure stack.\n\nFor investors, this deal feels like another reminder that the next phase of AI is not just about who has the best chip. It is also about who can build the fastest, most connected system around it.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-04-02",
