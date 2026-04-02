@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T16:11:27.223Z",
+  "last_updated": "2026-04-02T16:12:05.344Z",
   "total_news_count": 1090,
   "news": [
     {
@@ -11,10 +11,10 @@
       "URL": "https://finance.yahoo.com/m/e039086f-687a-36ee-bf35-7db277cca5cb/the-market-is-choppy.-here.html",
       "Content": "In 2025, all three of the U.S. stock market's major indexes -- the S&P 500 , Nasdaq Composite , and Dow Jones Industrial Average -- finished the year in the green, increasing 16.4%, 20.4%, and 13%, respectively. So far this year, it has been a completely different story. All of them are in the negative through March. Investors don't like it, but right now the market is doing what it tends to do: Go through ups and downs. These cycles aren't spread out evenly, though. Some sectors have started the year on a much more positive path than others. With ...",
       "Language": "en",
-      "AI_Summary": "• The broader market has experienced a downturn in early 2025, with major indexes like the S&P 500, Nasdaq Composite, and Dow Jones Industrial Average in negative territory.\n• Several sectors are outperforming the general market, including Energy (up nearly 40%), Utilities (up 8%), Consumer Staples (up 7.5%), Materials (up 7.4%), and Industrials (up 1.4%).\n• The energy sector's strength is attributed to rising crude oil prices driven by Middle East conflict, with Chevron and ExxonMobil showing significant year-to-date gains.\n• Utilities are benefiting from the AI boom, providing power for data centers, while Consumer Staples offer stability.\n• Materials companies supply essential components for data centers, and Industrials are seeing increased demand from AI projects and defense spending.",
+      "AI_Summary": "• The market is experiencing volatility, with major indexes down year-to-date.\n• Several sectors are outperforming the broader market, including Energy (up nearly 40%), Utilities (up 8%), Consumer Staples (up 7.5%), Materials (up 7.4%), and Industrials (up 1.4%).\n• Energy sector gains are attributed to rising crude oil prices due to Middle East conflict.\n• Utilities are benefiting from increased power demand for data centers driven by AI.\n• Consumer staples offer predictability, while Materials and Industrials are supported by infrastructure spending and AI-related projects.",
       "Related_Score": 2,
       "Sentiment_Score": 0,
-      "Keywords": "market downturn, sector performance, energy, utilities, consumer staples, materials, industrials, AI impact"
+      "Keywords": "market volatility, sector performance, energy prices, AI data centers, consumer staples"
     },
     {
       "Ticker": "NVDA",
@@ -25,10 +25,10 @@
       "URL": "https://finance.yahoo.com/m/5abc0984-cbe4-399d-8f19-eb1661860669/3-reasons-spacex-may-be-a.html",
       "Content": "SpaceX played a pivotal role in transforming the space industry by way of its reusable rockets and Starlink satellite internet service. The swirling rumors of a SpaceX IPO are one of the few topics that have investors excited in an otherwise turbulent stock market. With that said, investors may need a reality check: Going public sometimes brings serious risks that aren't always obvious on the surface. Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" ...",
       "Language": "en",
-      "AI_Summary": "• SpaceX's potential IPO faces scrutiny due to its high $1.25 trillion valuation, which is largely based on unproven future promises.\n• Investors will focus on hard numbers like Starlink revenue growth and profitability, which could lead to a stock nosedive if growth decelerates.\n• The company's heavy reliance on Elon Musk, whose attention is split across multiple ventures, poses a significant risk.\n• Regulatory hurdles from agencies like the FAA and FCC, along with execution risks inherent in space exploration, add further complexity.\n• The article suggests that a SpaceX IPO likely carries risks that most investors would prefer to avoid.",
-      "Related_Score": 1,
+      "AI_Summary": "• SpaceX's potential IPO faces scrutiny due to its high $1.25 trillion valuation, which is largely based on unproven future promises.\n• Public market investors will focus on hard numbers like revenue growth from Starlink and profitability, which could lead to a stock nosedive if growth decelerates.\n• The company's heavy reliance on Elon Musk's vision and divided attention across multiple ventures (Tesla, X, Neuralink) poses a significant risk.\n• Regulatory hurdles from the FAA and FCC, along with execution risks inherent in space exploration (e.g., rocket failures), present further challenges.\n• The article suggests that a SpaceX IPO likely carries risks that most investors would prefer to avoid.",
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "SpaceX, IPO risk, valuation, Elon Musk, regulatory hurdles, execution risk"
+      "Keywords": "IPO risk, valuation, Elon Musk dependency, regulatory hurdles, space exploration"
     },
     {
       "Ticker": "NVDA",
@@ -39,10 +39,10 @@
       "URL": "https://finance.yahoo.com/m/d07271f9-4bd4-3846-96c4-f2f0377ba610/which-generation-is-the-most.html",
       "Content": "Over half (55%) of investors surveyed believe artificial intelligence (AI) will have a positive impact on the stock market over the next 10 years, according to recent research by The Motley Fool . But opinions vary ...",
       "Language": "en",
-      "AI_Summary": "• A survey reveals that 55% of investors anticipate a positive impact from artificial intelligence (AI) on the stock market over the next decade.\n• Millennials exhibit the highest level of optimism regarding AI's market impact (73%), surpassing Gen Z (66%), Gen X (61%), and Baby Boomers (46%).\n• Younger investors' greater exposure to AI tools like ChatGPT and Claude is a likely driver of their bullish sentiment.\n• Millennials' extended investment experience may have allowed them to capitalize on AI stock growth, such as Nvidia, which saw a 1,220% increase over five years.\n• The article highlights Nvidia's GPUs as a key component in early AI development, contributing to its appeal among investors.",
+      "AI_Summary": "• Millennials are the most bullish generation about AI stocks, with 73% expecting a positive market impact, followed by Gen Z (66%), Gen X (61%), and Baby Boomers (46%).\n• Younger investors' bullishness is linked to their familiarity and usage of AI tools like ChatGPT.\n• Millennials' longer investment history and potential personal gains from AI stocks like Nvidia (up 1,220% in five years) contribute to their optimism.\n• Nvidia's GPUs played a crucial role in early AI development, making it a popular investment.\n• The article suggests that personal investment experience and observed returns from AI companies drive bullish sentiment.",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "AI stocks, investor sentiment, millennials, Gen Z, market impact, Nvidia, generative AI"
+      "Sentiment_Score": 1,
+      "Keywords": "AI stocks, generational sentiment, millennial investors, Gen Z, Nvidia"
     },
     {
       "Ticker": "NVDA",
@@ -53,10 +53,10 @@
       "URL": "https://finance.yahoo.com/m/1e766313-2920-3759-8565-b6fc808fb415/this-tech-etf-is-down-16%25.html",
       "Content": "Major market indexes have been steadily declining over the past few weeks, and tech stocks have been hit particularly hard. The tech-heavy Nasdaq Composite (NASDAQINDEX: ^IXIC) recently entered correction territory, falling by nearly 13% from its peak, as of this writing. On the surface, right now may seem like a terrible time to invest in tech stocks. But ...",
       "Language": "en",
-      "AI_Summary": "• The tech-heavy Nasdaq Composite has entered correction territory, down nearly 13% from its peak, and tech stocks have been hit hard.\n• The author is actively buying the Vanguard Information Technology ETF (VGT), which is down approximately 16.4% from its peak.\n• The ETF's price drop is viewed as a discount opportunity rather than a loss, emphasizing a long-term investment mindset.\n• VGT holds 318 stocks, with top holdings including Nvidia, Apple, and Microsoft (44% of assets), offering diversification across the tech sector.\n• The ETF has a history of surviving market downturns and has delivered substantial long-term returns since its inception in 2004.",
-      "Related_Score": 5,
+      "AI_Summary": "• The tech-heavy Nasdaq Composite has entered correction territory, down nearly 13% from its peak.\n• The Vanguard Information Technology ETF (VGT) is down 16.4% from its peak but is seen as a buying opportunity.\n• The author is consistently investing in VGT, viewing the price drop as a discount rather than a loss.\n• VGT is diversified, holding 318 stocks, with top holdings including Nvidia, Apple, and Microsoft (44% of assets).\n• The ETF has a strong long-term track record, delivering ~1,550% total returns since its inception in 2004, suggesting resilience through market downturns.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "tech ETF, market correction, buying the dip, Vanguard Information Technology ETF, diversification, long-term investing"
+      "Keywords": "tech ETF, market correction, buy the dip, diversification, long-term investment"
     },
     {
       "Ticker": "INTC",
@@ -67,10 +67,10 @@
       "URL": "https://finance.yahoo.com/m/d07271f9-4bd4-3846-96c4-f2f0377ba610/which-generation-is-the-most.html",
       "Content": "Over half (55%) of investors surveyed believe artificial intelligence (AI) will have a positive impact on the stock market over the next 10 years, according to recent research by The Motley Fool . But opinions vary ...",
       "Language": "en",
-      "AI_Summary": "• A survey reveals that 55% of investors anticipate a positive impact from artificial intelligence (AI) on the stock market over the next decade.\n• Millennials exhibit the highest level of optimism regarding AI's market impact (73%), surpassing Gen Z (66%), Gen X (61%), and Baby Boomers (46%).\n• Younger investors' greater exposure to AI tools like ChatGPT and Claude is a likely driver of their bullish sentiment.\n• Millennials' extended investment experience may have allowed them to capitalize on AI stock growth, such as Nvidia, which saw a 1,220% increase over five years.\n• The article highlights Nvidia's GPUs as a key component in early AI development, contributing to its appeal among investors.",
+      "AI_Summary": "• Millennials are the most bullish generation about AI stocks, with 73% expecting a positive market impact, followed by Gen Z (66%), Gen X (61%), and Baby Boomers (46%).\n• Younger investors' bullishness is linked to their familiarity and usage of AI tools like ChatGPT.\n• Millennials' longer investment history and potential personal gains from AI stocks like Nvidia (up 1,220% in five years) contribute to their optimism.\n• Nvidia's GPUs played a crucial role in early AI development, making it a popular investment.\n• The article suggests that personal investment experience and observed returns from AI companies drive bullish sentiment.",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "AI stocks, investor sentiment, millennials, Gen Z, market impact, Nvidia, generative AI"
+      "Sentiment_Score": 1,
+      "Keywords": "AI stocks, generational sentiment, millennial investors, Gen Z, Nvidia"
     },
     {
       "Ticker": "LITE",
@@ -81,10 +81,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/lumentum-lite-open-greensboro-plant-150327808.html",
       "Content": "Lumentum Holdings Inc. (NASDAQ: LITE ) is one of the best US stocks to buy and hold for the next 3 years . On March 26, Lumentum announced plans to ...",
       "Language": "en",
-      "AI_Summary": "• Lumentum Holdings Inc. (LITE) is opening a new 240,000-square-foot manufacturing facility in Greensboro, North Carolina.\n• The plant will produce advanced indium phosphide (InP) optical devices, including lasers essential for large-scale AI data centers.\n• Nvidia will be a primary customer, supporting the expansion of critical US infrastructure.\n• Lumentum plans to invest hundreds of millions of dollars, creating over 400 manufacturing and engineering jobs.\n• The facility is expected to ramp up full production by mid-2028, enhancing Lumentum's domestic capabilities and supply chain resilience.",
+      "AI_Summary": "• Lumentum Holdings Inc. (LITE) is opening a new 240,000-square-foot manufacturing facility in Greensboro, North Carolina.\n• The facility will produce advanced indium phosphide/InP optical devices, including lasers essential for large-scale AI data centers.\n• Nvidia will be a primary customer, supporting the expansion of critical US infrastructure.\n• Lumentum plans to invest hundreds of millions of dollars, creating over 400 manufacturing and engineering jobs.\n• The facility is expected to ramp up full production by mid-2028, enhancing Lumentum's domestic production capabilities and supply chain resilience.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Lumentum, AI data center, lasers, manufacturing facility, Nvidia, supply chain resilience"
+      "Keywords": "AI data center lasers, manufacturing expansion, indium phosphide, Nvidia customer, job creation"
     },
     {
       "Ticker": "INTC",
@@ -95,10 +95,10 @@
       "URL": "https://finance.yahoo.com/m/0b1cff35-9a6d-38b7-86ab-d9d94561d07b/3-growth-stocks-to-buy-as-ai.html",
       "Content": "Recently, reports surfaced that Lockheed Martin , a leading defense contractor, had been targeted in a hacking breach that may have exposed sensitive data, including information on its F-35 fighter jet. It's obvious why protecting classified weapons data is important, but the stakes in cybersecurity are high for almost every enterprise for one reason or another. So cybersecurity will likely remain a crucial budget item for companies worldwide, ...",
       "Language": "en",
-      "AI_Summary": "• The increasing sophistication of AI threats makes cybersecurity a critical budget item for companies globally.\n• CrowdStrike's Falcon platform utilizes AI for threat detection, with a total addressable market estimated at $149 billion, potentially rising to $325 billion by 2030.\n• Palo Alto Networks is pivoting to an integrated security platform for the AI era, with management guiding for 22%-23% revenue growth this year.\n• Zscaler specializes in cloud-native zero-trust security, a market projected to grow at a 16.5% annualized rate through 2030.\n• AI agents are identified as a major growth driver for zero-trust security due to emerging security weaknesses.",
+      "AI_Summary": "• Cybersecurity is becoming increasingly critical due to sophisticated AI-driven threats, as highlighted by a breach at Lockheed Martin.\n• CrowdStrike's Falcon platform uses AI for threat detection, with an estimated total addressable market (TAM) of $149 billion, potentially rising to $325 billion by 2030.\n• Palo Alto Networks is pivoting to an integrated security platform for the AI era, recently acquiring CyberArk for $25 billion, and expects revenue growth of 22-23% this year.\n• Zscaler specializes in cloud-native zero-trust security, with the market projected to grow at a 16.5% CAGR through 2030 to $84 billion, driven by agentic AI.\n• The article identifies these three companies as strong buys in the cybersecurity sector due to their AI integration and market positioning.",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "cybersecurity, AI threats, CrowdStrike, Palo Alto Networks, Zscaler, zero-trust security"
+      "Keywords": "cybersecurity, AI threats, endpoint security, zero-trust, platformization"
     },
     {
       "Ticker": "AMZN",
@@ -109,10 +109,10 @@
       "URL": "https://finance.yahoo.com/m/a980e076-8319-301d-a94c-e8b90a9d9920/amazon-vs.-apple%3A-which-is.html",
       "Content": "Artificial intelligence (AI) continues to be a driving force in the markets as the use cases for AI accelerate. Some of the newest ways people are using AI today are the agentic type, like having a large-language model (LLM) find the best flights or make a grocery order. As the opportunity evolves, it's expanding. According to Grand View Research, the AI market opportunity was $391 billion last year, and it's expected to increase at a compound annual growth rate of 30.6%, reaching nearly $3.5 trillion by 2033. Will AI create the world's first trillionaire? Our team just released ...",
       "Language": "en",
-      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) is investing heavily in its AWS cloud business for AI, planning $200 billion in capital expenditures in 2026, primarily for AWS.\n• AWS offers a wide range of AI services and reported a 24% sales increase in Q4 2025.\n• Apple (AAPL) is taking a more conservative approach, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its 2.5 billion active devices.\n• The market is beginning to favor Apple's prudent spending strategy over Amazon's high investment in AI development.",
+      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) plans to spend $200 billion in capital expenditures in 2026, primarily on AWS, to maintain its lead in AI development and cloud services.\n• AWS offers a wide array of AI services and products like SageMaker, contributing to Amazon's strong overall growth (14% YoY sales increase in Q4 2025).\n• Apple (AAPL) is taking a more prudent approach to AI, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its existing ecosystem of 2.5 billion active devices.\n• The article presents a comparison between Amazon's high-spending strategy and Apple's ecosystem-focused approach to AI, deeming Apple the more conservative option.",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI market, Amazon, Apple, AWS, cloud computing, generative AI, hyperscalers"
+      "Keywords": "AI market, cloud computing, capital expenditure, AWS, Apple ecosystem"
     },
     {
       "Ticker": "AAPL",
@@ -123,10 +123,10 @@
       "URL": "https://finance.yahoo.com/m/a980e076-8319-301d-a94c-e8b90a9d9920/amazon-vs.-apple%3A-which-is.html",
       "Content": "Artificial intelligence (AI) continues to be a driving force in the markets as the use cases for AI accelerate. Some of the newest ways people are using AI today are the agentic type, like having a large-language model (LLM) find the best flights or make a grocery order. As the opportunity evolves, it's expanding. According to Grand View Research, the AI market opportunity was $391 billion last year, and it's expected to increase at a compound annual growth rate of 30.6%, reaching nearly $3.5 trillion by 2033. Will AI create the world's first trillionaire? Our team just released ...",
       "Language": "en",
-      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) is investing heavily in its AWS cloud business for AI, planning $200 billion in capital expenditures in 2026, primarily for AWS.\n• AWS offers a wide range of AI services and reported a 24% sales increase in Q4 2025.\n• Apple (AAPL) is taking a more conservative approach, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its 2.5 billion active devices.\n• The market is beginning to favor Apple's prudent spending strategy over Amazon's high investment in AI development.",
+      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) plans to spend $200 billion in capital expenditures in 2026, primarily on AWS, to maintain its lead in AI development and cloud services.\n• AWS offers a wide array of AI services and products like SageMaker, contributing to Amazon's strong overall growth (14% YoY sales increase in Q4 2025).\n• Apple (AAPL) is taking a more prudent approach to AI, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its existing ecosystem of 2.5 billion active devices.\n• The article presents a comparison between Amazon's high-spending strategy and Apple's ecosystem-focused approach to AI, deeming Apple the more conservative option.",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI market, Amazon, Apple, AWS, cloud computing, generative AI, hyperscalers"
+      "Keywords": "AI market, cloud computing, capital expenditure, AWS, Apple ecosystem"
     },
     {
       "Ticker": "INTC",
@@ -137,10 +137,10 @@
       "URL": "https://finance.yahoo.com/m/a980e076-8319-301d-a94c-e8b90a9d9920/amazon-vs.-apple%3A-which-is.html",
       "Content": "Artificial intelligence (AI) continues to be a driving force in the markets as the use cases for AI accelerate. Some of the newest ways people are using AI today are the agentic type, like having a large-language model (LLM) find the best flights or make a grocery order. As the opportunity evolves, it's expanding. According to Grand View Research, the AI market opportunity was $391 billion last year, and it's expected to increase at a compound annual growth rate of 30.6%, reaching nearly $3.5 trillion by 2033. Will AI create the world's first trillionaire? Our team just released ...",
       "Language": "en",
-      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) is investing heavily in its AWS cloud business for AI, planning $200 billion in capital expenditures in 2026, primarily for AWS.\n• AWS offers a wide range of AI services and reported a 24% sales increase in Q4 2025.\n• Apple (AAPL) is taking a more conservative approach, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its 2.5 billion active devices.\n• The market is beginning to favor Apple's prudent spending strategy over Amazon's high investment in AI development.",
-      "Related_Score": 5,
+      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) plans to spend $200 billion in capital expenditures in 2026, primarily on AWS, to maintain its lead in AI development and cloud services.\n• AWS offers a wide array of AI services and products like SageMaker, contributing to Amazon's strong overall growth (14% YoY sales increase in Q4 2025).\n• Apple (AAPL) is taking a more prudent approach to AI, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its existing ecosystem of 2.5 billion active devices.\n• The article presents a comparison between Amazon's high-spending strategy and Apple's ecosystem-focused approach to AI, deeming Apple the more conservative option.",
+      "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "AI market, Amazon, Apple, AWS, cloud computing, generative AI, hyperscalers"
+      "Keywords": "AI market, cloud computing, capital expenditure, AWS, Apple ecosystem"
     },
     {
       "Ticker": "NVDA",
@@ -151,10 +151,10 @@
       "URL": "https://finance.yahoo.com/m/a980e076-8319-301d-a94c-e8b90a9d9920/amazon-vs.-apple%3A-which-is.html",
       "Content": "Artificial intelligence (AI) continues to be a driving force in the markets as the use cases for AI accelerate. Some of the newest ways people are using AI today are the agentic type, like having a large-language model (LLM) find the best flights or make a grocery order. As the opportunity evolves, it's expanding. According to Grand View Research, the AI market opportunity was $391 billion last year, and it's expected to increase at a compound annual growth rate of 30.6%, reaching nearly $3.5 trillion by 2033. Will AI create the world's first trillionaire? Our team just released ...",
       "Language": "en",
-      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) is investing heavily in its AWS cloud business for AI, planning $200 billion in capital expenditures in 2026, primarily for AWS.\n• AWS offers a wide range of AI services and reported a 24% sales increase in Q4 2025.\n• Apple (AAPL) is taking a more conservative approach, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its 2.5 billion active devices.\n• The market is beginning to favor Apple's prudent spending strategy over Amazon's high investment in AI development.",
+      "AI_Summary": "• The AI market is rapidly expanding, projected to reach nearly $3.5 trillion by 2033, with a CAGR of 30.6%.\n• Amazon (AMZN) plans to spend $200 billion in capital expenditures in 2026, primarily on AWS, to maintain its lead in AI development and cloud services.\n• AWS offers a wide array of AI services and products like SageMaker, contributing to Amazon's strong overall growth (14% YoY sales increase in Q4 2025).\n• Apple (AAPL) is taking a more prudent approach to AI, partnering with Alphabet for its Gemini LLM to power Siri, leveraging its existing ecosystem of 2.5 billion active devices.\n• The article presents a comparison between Amazon's high-spending strategy and Apple's ecosystem-focused approach to AI, deeming Apple the more conservative option.",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "AI market, Amazon, Apple, AWS, cloud computing, generative AI, hyperscalers"
+      "Keywords": "AI market, cloud computing, capital expenditure, AWS, Apple ecosystem"
     },
     {
       "Ticker": "SNDK",
@@ -165,10 +165,10 @@
       "URL": "https://finance.yahoo.com/m/ce9547e0-311e-3c2a-b872-7ffe6cb106c1/1-year-since-the-liberation.html",
       "Content": "Reciprocal tariffs were announced a year ago, on what President Trump referred to as \" Liberation Day\" for the country. Tariffs were imposed on many countries that the president believed were being unfair to the U.S., and the initial market reaction was one of panic, with the S&P 500 proceeding to fall. In ...",
       "Language": "en",
-      "AI_Summary": "• Sandisk (SNDK) has been the top-performing stock on the S&P 500 over the past year, up 1,200% since its spin-off from Western Digital.\n• The strong performance is driven by high demand for flash memory due to AI and the need for high-speed storage solutions.\n• Sandisk's revenue in the most recent quarter was over $3 billion, a 61% year-over-year increase, with net income jumping from $104 million to $803 million.\n• The company expects revenue to potentially climb as high as $4.8 billion in the current quarter.\n• Despite its rally, Sandisk's stock trades at less than 13 times expected future earnings, considered cheap relative to the S&P 500 average.",
+      "AI_Summary": "• Sandisk (SNDK) has been the top-performing stock on the S&P 500 over the past year, up 1,200% since its spin-off from Western Digital.\n• The strong performance is driven by high demand for flash memory due to AI and the need for high-speed storage solutions.\n• In its most recent quarter, Sandisk reported revenue of over $3 billion (up 61% YoY) and net income jumped from $104 million to $803 million.\n• The company expects revenue to climb as high as $4.8 billion in the current quarter.\n• Despite its rally, Sandisk's valuation appears reasonable with a forward P/E of less than 13, suggesting potential for continued growth.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Sandisk, flash memory, AI demand, revenue growth, net income, valuation, semiconductor"
+      "Keywords": "flash memory, AI demand, revenue growth, net income, valuation"
     },
     {
       "Ticker": "INTC",
@@ -179,10 +179,10 @@
       "URL": "https://finance.yahoo.com/m/03b75771-cd21-3e30-b0ed-a181505e8c68/is-palantir-actually.html",
       "Content": "Palantir Technologies (NASDAQ: PLTR) is a polarizing company, but one area of consensus is the valuation. It's seen as extremely expensive, and most metrics support that notion. Case ...",
       "Language": "en",
-      "AI_Summary": "• Palantir Technologies (PLTR) is often considered expensive, trading at 226 times trailing earnings.\n• However, its Price-to-Earnings-to-Growth (PEG) ratio is 0.964, suggesting it is slightly undervalued.\n• This discrepancy is due to Palantir's earnings per share growth of 232% year-over-year in 2025.\n• Profit margins reached a high of 43% in Q4 2025, up from 10% in Q4 2024, contributing to earnings growth.\n• Despite the PEG ratio, the author believes the growth rate justifies a premium, but Palantir is not considered definitively undervalued.",
+      "AI_Summary": "• Palantir Technologies (PLTR) is often considered expensive, trading at 226 times trailing earnings.\n• However, its PEG ratio is 0.964, indicating it may be undervalued when considering its earnings growth rate.\n• Palantir's earnings per share grew 232% year-over-year in 2025, partly due to improved profit margins reaching 43% in Q4 2025.\n• The article suggests that while the PEG ratio indicates undervaluation, the rapid margin expansion might be a one-time event.\n• The author concludes that Palantir is not definitively undervalued, but its growth rate justifies a premium.",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Palantir, valuation, PEG ratio, earnings growth, profit margins, AI stock"
+      "Keywords": "valuation, PEG ratio, earnings growth, profit margins, AI stock"
     },
     {
       "Ticker": "SNDK",
@@ -193,10 +193,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-defends-memory-stocks-141309232.html",
       "Content": "Sandisk Corporation (NASDAQ: SNDK ) is one of the Stocks That Can Make You Richer in 2026 . On March 26, Morgan Stanley released a research note defending memory ...",
       "Language": "en",
-      "AI_Summary": "• Morgan Stanley is defending memory stocks, including Sandisk Corporation (SNDK), following a sector-wide sell-off.\n• Analyst Joseph Moore raised Sandisk's price target to $690 and maintained a Buy rating.\n• The sell-off is attributed to concerns about durability, demand disruption, and productivity, though Morgan Stanley views memory stocks as more durable than anticipated.\n• Memory supply is deemed crucial for AI infrastructure buildout and agentic CPUs.\n• A shortage of memory chips is intensifying business for companies, with customers willing to pay upfront to secure volumes.",
+      "AI_Summary": "• Morgan Stanley defends memory stocks, including Sandisk Corporation (SNDK), amid a sector sell-off.\n• Analyst Joseph Moore raised Sandisk's price target to $690 with a Buy rating, citing the stock's durability despite market concerns.\n• Sandisk has fallen around 20.2% since March 19 but is considered more durable than market expectations.\n• Memory supply is crucial for AI infrastructure buildout and agentic CPUs.\n• A shortage of memory chips is intensifying business for companies like Sandisk, as customers are willing to pay upfront to secure volumes.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Sandisk, memory stocks, Morgan Stanley, price target, AI infrastructure, supply shortage"
+      "Keywords": "memory stocks, price target, AI infrastructure, supply shortage, NAND flash"
     },
     {
       "Ticker": ".TWII",
@@ -217,10 +217,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-microsoft-stock-140200690.html",
       "Content": "Microsoft MSFT has had a rough run in recent months, with its stock shedding 28.6% in the past six-month period, underperforming the Zacks Computer and Technology sector's decline of 7.9% as the underlying business continues to post impressive growth. The decline reflects broader macro headwinds, AI-related cost concerns and shifting investor appetite for high-multiple technology names. Yet the fundamentals that define Microsoft's long-term investment thesis remain largely intact. Investors currently holding shares may find it prudent to stay the course, while those looking for entry may be better served waiting ...",
       "Language": "en",
-      "AI_Summary": "• Microsoft (MSFT) stock has declined 28.6% in the past six months, underperforming the tech sector.\n• This decline is attributed to macro headwinds, AI-related cost concerns, and investor preference for lower-multiple stocks.\n• Microsoft's Intelligent Cloud segment revenue grew nearly 29% year-over-year to $32.9 billion in Q2 fiscal 2026.\n• Azure revenue increased 39%, with management projecting 37%-38% growth for Q3 fiscal 2026, and capacity constraints are expected to persist.\n• AI monetization is gaining traction, with reorganized Copilot leadership and expanded Microsoft 365 Copilot features, driving commercial bookings up 230%.",
+      "AI_Summary": "• Microsoft (MSFT) stock has declined 28.6% in the past six months, underperforming the tech sector.\n• The decline is attributed to macro headwinds, AI-related cost concerns, and investor preference for lower-multiple stocks.\n• Microsoft's Intelligent Cloud segment revenue grew nearly 29% YoY to $32.9 billion in Q2 fiscal 2026, with Azure and cloud services up 39%.\n• Azure is expected to grow 37-38% in Q3 fiscal 2026 and remains capacity-constrained, indicating strong demand.\n• AI monetization is gaining traction, with reorganized Copilot leadership and expanded features, driving commercial bookings up 230% and a backlog of $625 billion.",
       "Related_Score": 5,
       "Sentiment_Score": -1,
-      "Keywords": "Microsoft, stock performance, cloud growth, Azure, AI monetization, earnings"
+      "Keywords": "stock performance, cloud growth, Azure, AI monetization, enterprise adoption"
     },
     {
       "Ticker": "GOOGL",
@@ -231,10 +231,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-microsoft-stock-140200690.html",
       "Content": "Microsoft MSFT has had a rough run in recent months, with its stock shedding 28.6% in the past six-month period, underperforming the Zacks Computer and Technology sector's decline of 7.9% as the underlying business continues to post impressive growth. The decline reflects broader macro headwinds, AI-related cost concerns and shifting investor appetite for high-multiple technology names. Yet the fundamentals that define Microsoft's long-term investment thesis remain largely intact. Investors currently holding shares may find it prudent to stay the course, while those looking for entry may be better served waiting ...",
       "Language": "en",
-      "AI_Summary": "• Microsoft (MSFT) stock has declined 28.6% in the past six months, underperforming the tech sector.\n• This decline is attributed to macro headwinds, AI-related cost concerns, and investor preference for lower-multiple stocks.\n• Microsoft's Intelligent Cloud segment revenue grew nearly 29% year-over-year to $32.9 billion in Q2 fiscal 2026.\n• Azure revenue increased 39%, with management projecting 37%-38% growth for Q3 fiscal 2026, and capacity constraints are expected to persist.\n• AI monetization is gaining traction, with reorganized Copilot leadership and expanded Microsoft 365 Copilot features, driving commercial bookings up 230%.",
-      "Related_Score": 5,
+      "AI_Summary": "• Microsoft (MSFT) stock has declined 28.6% in the past six months, underperforming the tech sector.\n• The decline is attributed to macro headwinds, AI-related cost concerns, and investor preference for lower-multiple stocks.\n• Microsoft's Intelligent Cloud segment revenue grew nearly 29% YoY to $32.9 billion in Q2 fiscal 2026, with Azure and cloud services up 39%.\n• Azure is expected to grow 37-38% in Q3 fiscal 2026 and remains capacity-constrained, indicating strong demand.\n• AI monetization is gaining traction, with reorganized Copilot leadership and expanded features, driving commercial bookings up 230% and a backlog of $625 billion.",
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Microsoft, stock performance, cloud growth, Azure, AI monetization, earnings"
+      "Keywords": "stock performance, cloud growth, Azure, AI monetization, enterprise adoption"
     },
     {
       "Ticker": "GOOGL",
@@ -245,10 +245,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/roku-slumps-12-ytd-heres-140000884.html",
       "Content": "Roku Inc. ROKU shares have experienced significant volatility and a notable 12% year-to-date (YTD) decline, underperforming the broader Zacks Consumer Discretionary sector and the Zacks Broadcast Radio and Television industry. ROKU shares have also lagged behind competitors like Amazon AMZN, Alphabet GOOGL and Apple AAPL during the same period. While Amazon declined 8.9%, Alphabet and Apple saw relatively smaller drops of 6.1% and 5.1%, respectively. Roku’s sharp stock price decline can be attributed to investor concerns around its competitive positioning and near-term growth visibility. Large ecosystem players Amazon, ...",
       "Language": "en",
-      "AI_Summary": "• Roku Inc. (ROKU) shares are down 12% year-to-date, underperforming competitors like Amazon, Alphabet, and Apple.\n• Concerns about Roku's competitive positioning and growth visibility are driving the decline, with large ecosystem players strengthening their connected TV capabilities.\n• Roku's devices business is a drag, with projected negative gross margins for 2026.\n• Despite challenges, the platform revenue is expected to grow 18% in 2026 to $4.89 billion, with strong gross margins (51%-52%).\n• AI-driven enhancements in content discovery and ad targeting are expected to fuel monetization and international growth.",
+      "AI_Summary": "• Roku Inc. (ROKU) shares are down 12% year-to-date, lagging behind competitors like Amazon, Alphabet, and Apple.\n• Concerns about Roku's competitive positioning and growth visibility stem from large ecosystem players strengthening their connected TV and advertising capabilities.\n• Roku's devices business is a drag, with projected negative gross margins in 2026, and its distribution strategy faces obstacles, such as Walmart migrating its TV brand.\n• Despite challenges, Roku's platform revenue grew 18% in 2025 to $4.145 billion and is projected to grow another 18% in 2026.\n• The company has a large user base (over 90 million households) and expects AI-driven enhancements to fuel monetization and engagement.",
       "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "Roku, connected TV, advertising, platform revenue, AI, international growth"
+      "Keywords": "connected TV, advertising platform, platform revenue, user base, AI enhancements"
     },
     {
       "Ticker": "INTC",
@@ -259,10 +259,10 @@
       "URL": "https://finance.yahoo.com/m/d52ad7f5-c9ba-3077-882c-65e3c3bf9a72/here%27s-why-ups-shares.html",
       "Content": "UPS (NYSE: UPS) shares declined by 15.2% in March, according to data from S&P Global Market Intelligence . While the overall market declined, UPS notably underperformed, raising questions about its full-year guidance. The conflict in the Persian Gulf has significant consequences for UPS' operations and profitability, and it's not just about the ...",
       "Language": "en",
-      "AI_Summary": "• UPS shares declined 15.2% in March, significantly underperforming the overall market.\n• The conflict in the Persian Gulf is impacting UPS operations through rising fuel costs and increased third-party transportation expenses.\n• Logistics companies are overhauling trade routes due to the conflict, likely leading to increased costs.\n• A shift in trade routes caused by previous tariffs on China has already pressured UPS's margins, as China-to-US trade is its most profitable.\n• Investors anticipate negative news for UPS's international segment and a potential downward revision of full-year guidance.",
+      "AI_Summary": "• UPS shares declined 15.2% in March, significantly underperforming the overall market.\n• The conflict in the Persian Gulf impacts UPS through rising fuel costs, increased third-party transportation expenses, and potential demand destruction.\n• Logistics companies are overhauling trade routes due to the conflict, likely increasing costs for UPS.\n• A shift in trade routes caused by previous tariffs on China has already pressured UPS's margins, as China-to-US trade is its most profitable route.\n• Investors should anticipate potential bad news in UPS's international segment and a possible downward revision to full-year guidance, with concerns about maintaining its dividend.",
       "Related_Score": 2,
       "Sentiment_Score": -1,
-      "Keywords": "UPS, logistics, fuel costs, trade routes, margins, earnings guidance"
+      "Keywords": "logistics, fuel costs, trade routes, margin pressure, earnings guidance"
     },
     {
       "Ticker": "MSFT",
@@ -273,10 +273,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/soundhound-vs-big-tech-voice-135000553.html",
       "Content": "SoundHound AI SOUN is positioning itself as a focused, voice-first AI player at a time when large technology companies are expanding aggressively into conversational and agentic AI. The company’s latest results highlight strong momentum, but the key question is whether its niche strengths can hold up against Big Tech scale. Strong Growth & Expanding Adoption of SOUN SoundHound delivered a record ...",
       "Language": "en",
-      "AI_Summary": "• SoundHound AI (SOUN) is a voice-first AI player facing intense competition from Big Tech companies.\n• The company reported record 2025 revenue, nearly doubling year-over-year to $169 million, with broad-based growth across sectors.\n• SoundHound's core advantage is its 'agentic AI' framework, offering flexibility and deep domain expertise in voice AI.\n• Challenges include competition from Microsoft and Alphabet, which possess unmatched scale, distribution, and capital.\n• SoundHound is operating at a loss while investing heavily in R&D, and its stock has declined 39.3% in the past three months.",
-      "Related_Score": 5,
+      "AI_Summary": "• SoundHound AI (SOUN) is a focused voice-first AI player facing intense competition from Big Tech.\n• The company reported record 2025 revenue of $169 million (nearly doubling YoY), with Q4 revenue up 59%, driven by broad adoption across industries.\n• SoundHound's core advantage is its 'agentic AI' framework and deep domain expertise in voice AI, offering flexibility and measurable outcomes.\n• Challenges include competition from Microsoft and Alphabet, which possess unmatched scale, distribution, and capital.\n• SoundHound is still operating at a loss and investing heavily in R&D, with its stock down 39.3% in the past three months.",
+      "Related_Score": 4,
       "Sentiment_Score": 0,
-      "Keywords": "SoundHound AI, voice AI, agentic AI, Big Tech competition, Microsoft, Alphabet, profitability"
+      "Keywords": "voice AI, agentic AI, Big Tech competition, revenue growth, R&D investment"
     },
     {
       "Ticker": "GOOGL",
@@ -287,10 +287,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/soundhound-vs-big-tech-voice-135000553.html",
       "Content": "SoundHound AI SOUN is positioning itself as a focused, voice-first AI player at a time when large technology companies are expanding aggressively into conversational and agentic AI. The company’s latest results highlight strong momentum, but the key question is whether its niche strengths can hold up against Big Tech scale. Strong Growth & Expanding Adoption of SOUN SoundHound delivered a record ...",
       "Language": "en",
-      "AI_Summary": "• SoundHound AI (SOUN) is a voice-first AI player facing intense competition from Big Tech companies.\n• The company reported record 2025 revenue, nearly doubling year-over-year to $169 million, with broad-based growth across sectors.\n• SoundHound's core advantage is its 'agentic AI' framework, offering flexibility and deep domain expertise in voice AI.\n• Challenges include competition from Microsoft and Alphabet, which possess unmatched scale, distribution, and capital.\n• SoundHound is operating at a loss while investing heavily in R&D, and its stock has declined 39.3% in the past three months.",
-      "Related_Score": 5,
+      "AI_Summary": "• SoundHound AI (SOUN) is a focused voice-first AI player facing intense competition from Big Tech.\n• The company reported record 2025 revenue of $169 million (nearly doubling YoY), with Q4 revenue up 59%, driven by broad adoption across industries.\n• SoundHound's core advantage is its 'agentic AI' framework and deep domain expertise in voice AI, offering flexibility and measurable outcomes.\n• Challenges include competition from Microsoft and Alphabet, which possess unmatched scale, distribution, and capital.\n• SoundHound is still operating at a loss and investing heavily in R&D, with its stock down 39.3% in the past three months.",
+      "Related_Score": 3,
       "Sentiment_Score": 0,
-      "Keywords": "SoundHound AI, voice AI, agentic AI, Big Tech competition, Microsoft, Alphabet, profitability"
+      "Keywords": "voice AI, agentic AI, Big Tech competition, revenue growth, R&D investment"
     },
     {
       "Ticker": "SNDK",
@@ -301,10 +301,10 @@
       "URL": "https://finance.yahoo.com/m/443402c1-f670-3be8-a2f8-66f648b31f93/if-you-invested-%2410%2C000-in.html",
       "Content": "It was a year ago today, on April 2, 2025, that reciprocal tariffs were announced on what President Trump referred to as \"Liberation Day.\" The initial sentiment on the markets was poor, and stocks would end up tanking on fears of higher prices. However, that pessimism would be short-lived, and stocks would start rallying. The S&P 500 would go on to finish the year up 16%, in what would be its third straight year of above-average ...",
       "Language": "en",
-      "AI_Summary": "• Sandisk (SNDK), a memory and storage company, has been the top performer on the S&P 500 over the past year, up nearly 1,400%.\n• Demand for its products has surged due to AI and the need for high-speed storage solutions.\n• Over the last two quarters, Sandisk generated $5.3 billion in revenue, a 42% increase year-over-year, with earnings nearly tripling.\n• Sandisk is the only profitable company among the three highlighted stocks (Opendoor, Newegg, Sandisk) and is considered the safest investment.\n• Despite strong performance, potential risks include falling prices for storage and memory products if supply catches up with demand.",
+      "AI_Summary": "• Sandisk (SNDK), a memory and storage company, has been the top performer on the S&P 500 over the past year, up nearly 1,400%.\n• Demand for its products is driven by AI and the need for high-speed storage solutions, leading to increased prices and significant revenue growth.\n• Over the last two quarters, Sandisk generated $5.3 billion in revenue (up 42% YoY), with earnings nearly tripling.\n• It is the only profitable company among the three highlighted stocks (Opendoor, Newegg, Sandisk) and is considered the safest investment.\n• Despite strong performance, potential risks include falling prices for memory and storage products if supply catches up with demand.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Sandisk, memory, storage, AI, revenue growth, earnings, profitability, semiconductor"
+      "Keywords": "memory storage, AI infrastructure, revenue growth, profitability, market dynamics"
     },
     {
       "Ticker": "ARM",
@@ -315,10 +315,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/ibm-arm-team-ai-flexibility-134541947.html",
       "Content": "This article first appeared on GuruFocus . IBM ( NYSE:IBM ) is teaming up with Arm ( NASDAQ:ARM ...",
       "Language": "en",
-      "AI_Summary": "• IBM and Arm are collaborating to enhance flexibility in enterprise systems for rising AI demands.\n• The partnership aims to simplify running Arm-based applications on IBM platforms by expanding virtualization.\n• This initiative seeks to reduce costs associated with power and infrastructure by leveraging Arm's energy-efficient designs with IBM's enterprise systems.\n• Both companies aim to build shared layers for easier application migration across different environments.\n• The collaboration focuses on improving performance and efficiency for growing AI workloads.",
+      "AI_Summary": "• IBM and Arm are collaborating to enhance AI flexibility in enterprise systems by simplifying the integration of Arm-based applications into IBM's platforms.\n• The partnership aims to expand virtualization, allowing developers to run Arm workloads without extensive rebuilding.\n• The collaboration focuses on improving performance and efficiency, potentially reducing power and infrastructure costs associated with growing AI workloads.\n• Both companies aim to build shared layers for easier application migration across different environments.\n• This strategic alliance addresses the growing need for interoperability and cost-efficiency in AI infrastructure.",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "IBM, Arm, AI, enterprise systems, virtualization, energy efficiency, collaboration"
+      "Keywords": "AI flexibility, enterprise systems, Arm architecture, IBM platforms, virtualization"
     },
     {
       "Ticker": "NVDA",
@@ -329,10 +329,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-ramping-production-134335194.html",
       "Content": "Micron Technology, Inc. (NASDAQ: MU ) is one of the Stocks That Can Make You Richer in 2026 . On March 16, Micron Technology, Inc. (NASDAQ:MU) at the GTC ...",
       "Language": "en",
-      "AI_Summary": "• Micron Technology (MU) is ramping up production of advanced products for NVIDIA's next-generation Vera Rubin systems.\n• Micron began volume shipments of HBM4 36GB 12H in Q1 2026, delivering significantly higher bandwidth and better power efficiency than previous generations.\n• The HBM4 is specifically designed for NVIDIA Vera Rubin GPUs, with samples of HBM4 48GB 16H also being shipped.\n• Micron is also in high-volume production of industry-first SOCAMM2 and Gen6 SSDs for Vera Rubin NVL72 racks.\n• This collaboration ensures compute and memory are integrated from the design phase for NVIDIA's systems.",
+      "AI_Summary": "• Micron Technology (MU) is ramping up production of advanced products for NVIDIA's next-generation Vera Rubin systems.\n• Micron began volume shipments of HBM4 36GB 12H in Q1 2026, delivering over 2.8 TB/s bandwidth per stack with improved power efficiency.\n• The HBM4 is designed specifically for NVIDIA Vera Rubin GPUs, with samples of HBM4 48GB 16H also being shipped.\n• Micron is also in high-volume production of industry-first SOCAMM2 and Gen6 SSDs for Vera Rubin NVL72 racks.\n• This collaboration ensures compute and memory are integrated from the design phase, supporting advanced AI systems.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Micron, Nvidia, HBM4, Vera Rubin, AI systems, memory, GPUs, collaboration"
+      "Keywords": "HBM4, AI memory, Nvidia Vera Rubin, data center solutions, compute-memory integration"
     },
     {
       "Ticker": "MU",
@@ -343,10 +343,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-ramping-production-134335194.html",
       "Content": "Micron Technology, Inc. (NASDAQ: MU ) is one of the Stocks That Can Make You Richer in 2026 . On March 16, Micron Technology, Inc. (NASDAQ:MU) at the GTC ...",
       "Language": "en",
-      "AI_Summary": "• Micron Technology (MU) is ramping up production of advanced products for NVIDIA's next-generation Vera Rubin systems.\n• Micron began volume shipments of HBM4 36GB 12H in Q1 2026, delivering significantly higher bandwidth and better power efficiency than previous generations.\n• The HBM4 is specifically designed for NVIDIA Vera Rubin GPUs, with samples of HBM4 48GB 16H also being shipped.\n• Micron is also in high-volume production of industry-first SOCAMM2 and Gen6 SSDs for Vera Rubin NVL72 racks.\n• This collaboration ensures compute and memory are integrated from the design phase for NVIDIA's systems.",
+      "AI_Summary": "• Micron Technology (MU) is ramping up production of advanced products for NVIDIA's next-generation Vera Rubin systems.\n• Micron began volume shipments of HBM4 36GB 12H in Q1 2026, delivering over 2.8 TB/s bandwidth per stack with improved power efficiency.\n• The HBM4 is designed specifically for NVIDIA Vera Rubin GPUs, with samples of HBM4 48GB 16H also being shipped.\n• Micron is also in high-volume production of industry-first SOCAMM2 and Gen6 SSDs for Vera Rubin NVL72 racks.\n• This collaboration ensures compute and memory are integrated from the design phase, supporting advanced AI systems.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Micron, Nvidia, HBM4, Vera Rubin, AI systems, memory, GPUs, collaboration"
+      "Keywords": "HBM4, AI memory, Nvidia Vera Rubin, data center solutions, compute-memory integration"
     },
     {
       "Ticker": "NVDA",
@@ -357,10 +357,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-maintains-buy-rating-134321044.html",
       "Content": "NVIDIA Corporation (NASDAQ: NVDA ) is one of the Stocks That Can Make You Richer in 2026 . On March 27, Wolfe Research reiterated an Outperform ...",
       "Language": "en",
-      "AI_Summary": "• Wolfe Research reiterated an Outperform rating and a $275.00 price target on NVIDIA Corporation (NVDA).\n• The rating follows Nvidia's GTC announcement of Rubin Ultra Pods for agentic AI datacenters, designed as a reference architecture.\n• These pods, incorporating components like CPU, storage, and Groq, have the potential to add 50% incremental revenue over VR compute racks alone.\n• The Groq 3 LPX rack offers an additional 25% incremental opportunity by enabling low-latency inference for premium service tiers.\n• Wolfe estimates $150 million in Nvidia content per pod, with Nvidia CEO Jensen Huang suggesting potential production of 200 pods weekly.",
+      "AI_Summary": "• Wolfe Research maintains an Outperform rating and $275.00 price target on NVIDIA (NVDA).\n• The rating follows Nvidia's GTC announcement of Rubin Ultra Pods for agentic AI datacenters, designed as a reference architecture.\n• These pods, incorporating components like CPU, storage, and Groq, could add 50% incremental revenue over VR compute racks alone.\n• The Groq 3 LPX rack offers an estimated 25% incremental opportunity by enabling low-latency inference.\n• Wolfe estimates $150 million in Nvidia content per pod, with Jensen Huang suggesting potential production of 200 pods weekly.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Nvidia, Wolfe Research, Outperform rating, Rubin Ultra Pods, agentic AI, datacenter, Groq, price target"
+      "Keywords": "agentic AI, datacenter architecture, Rubin Ultra Pods, Groq, incremental revenue"
     },
     {
       "Ticker": "GOOGL",
@@ -371,10 +371,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-raised-pt-alphabet-134310464.html",
       "Content": "Alphabet Inc. (NASDAQ: GOOGL ) is one of the Stocks That Can Make You Richer in 2026 . On March 27, Wells Fargo raised the ...",
       "Language": "en",
-      "AI_Summary": "• Wells Fargo raised its price target on Alphabet Inc. (GOOGL) to $397 while maintaining a Buy rating.\n• Key catalysts for Google Cloud growth include TPU licensing deals and the Wiz acquisition, projected to enhance operating income by 6% in 2026 and 14% in 2027.\n• Citizens maintained a Market Outperform rating, citing Google's strong position in the growing internet search market driven by AI tools.\n• A clear path exists for returns on elevated capex spending through Google Cloud Platform expansion and AI integration across Alphabet's products.\n• Alphabet's total addressable market for internet search is increasing due to AI-powered advertiser capabilities.",
+      "AI_Summary": "• Wells Fargo raised its price target on Alphabet Inc. (GOOGL) to $397 while maintaining a Buy rating.\n• Key catalysts for Google Cloud growth include TPU licensing deals and the Wiz acquisition, projected to enhance operating income by 6% in 2026 and 14% in 2027.\n• Citizens maintained a Market Outperform rating, citing Google's strong position in the growing internet search market driven by AI tools.\n• A clear path exists for returns on elevated capex through Google Cloud Platform expansion and broader AI integration.\n• Alphabet's diverse portfolio and AI advancements position it well for future growth.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Alphabet, Google Cloud, Wells Fargo, Buy rating, TPU, Wiz acquisition, AI, internet search"
+      "Keywords": "price target, Google Cloud, TPU licensing, AI integration, market position"
     },
     {
       "Ticker": "AMZN",
@@ -385,10 +385,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-planning-smartphone-134257305.html",
       "Content": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the Stocks That Can Make You Richer in 2026 . According to a report by Reuters on March 20, Amazon.com, Inc. ...",
       "Language": "en",
-      "AI_Summary": "• Amazon.com, Inc. (AMZN) is reportedly planning a comeback in the smartphone market with a new device called 'Transformer'.\n• The device aims to be a personalization hub deeply synced with Alexa, potentially bypassing traditional app stores using AI.\n• Amazon seeks to capture mobile user data by integrating phone activity with purchase history to enhance Prime benefits.\n• The initiative aligns with Jeff Bezos' vision of a voice-driven assistant.\n• There is no public information on pricing, revenue targets, or timelines, and the project could be shelved.",
+      "AI_Summary": "• Amazon.com (AMZN) is reportedly developing a new smartphone called 'Transformer' for a potential comeback in the market.\n• The device aims to be a personalization hub deeply synced with Alexa, potentially bypassing traditional app stores through AI for seamless use.\n• Amazon seeks to capture mobile user data by integrating phone activity with purchase history to enhance Prime benefits.\n• The initiative aligns with Jeff Bezos' vision of a voice-driven assistant.\n• There is no public information on pricing, revenue targets, or timelines, and the project could be shelved.",
       "Related_Score": 4,
-      "Sentiment_Score": 0,
-      "Keywords": "Amazon, smartphone, Transformer, Alexa, AI, mobile data, ecosystem"
+      "Sentiment_Score": 1,
+      "Keywords": "smartphone development, Alexa integration, AI personalization, user data, Amazon ecosystem"
     },
     {
       "Ticker": "2330.TW",
@@ -409,10 +409,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/job-cuts-rise-25-ai-133737672.html",
       "Content": "This article first appeared on GuruFocus . U.S. employers announced 60,620 job cuts in March, up 25% from February, and this ...",
       "Language": "en",
-      "AI_Summary": "• U.S. employers announced 60,620 job cuts in March, a 25% increase from February, with AI cited as a growing reason.\n• Despite the month-over-month increase, overall layoffs are down 78% compared to the previous year and 16% from the prior quarter.\n• Tech sector layoffs are significant, with 18,720 cuts in March and 52,050 year-to-date, impacting companies like Dell, Oracle, and Meta.\n• Approximately 13% of total Q1 layoffs (27,645) were linked to AI, indicating a shift in company budgets towards AI development.\n• Companies are actively reallocating budgets towards AI, sometimes at the expense of existing roles.",
-      "Related_Score": 2,
+      "AI_Summary": "• U.S. employers announced 60,620 job cuts in March, a 25% increase from February, with AI increasingly cited as a reason.\n• Despite the month-over-month increase, total layoffs are down 78% year-over-year and 16% from the previous quarter.\n• Tech sector layoffs led the increase, with 18,720 cuts in March, tied to companies like Dell, Oracle, and Meta.\n• AI-related layoffs accounted for 15,341 cuts in March and 27,645 in Q1, representing about 13% of total cuts.\n• Companies are shifting budgets towards AI, sometimes necessitating role reductions.",
+      "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "job cuts, layoffs, AI, technology sector, Meta, budget reallocation"
+      "Keywords": "job cuts, layoffs, artificial intelligence, tech sector, budget reallocation"
     },
     {
       "Ticker": "META",
@@ -423,10 +423,10 @@
       "URL": "https://finance.yahoo.com/m/f20b23df-b3f0-3b38-ac4e-07410e3f074e/nebius-just-signed-%2446.html",
       "Content": "The demand for artificial intelligence (AI) data center capacity has been exceeding supply, and Nebius Group (NASDAQ: NBIS) is one of the companies that's trying to plug this gap. It has been building new data centers at an aggressive pace. The neocloud infrastructure company operates data centers equipped with powerful graphics processing units (GPUs), renting out their capacity to customers looking to run AI workloads. Yet Nebius isn't just a company that rents out processing power. It also provides access to ...",
       "Language": "en",
-      "AI_Summary": "• Nebius Group (NBIS) is expanding its data center capacity to meet the high demand for AI workloads, signing significant contracts.\n• Nebius has secured long-term contracts with Meta Platforms and Microsoft totaling over $46 billion for dedicated GPU infrastructure capacity.\n• The contract with Meta could reach $27 billion, while the Microsoft contract is valued at $17.4 billion, potentially increasing to $19.4 billion.\n• Nebius plans to significantly increase its connected data center capacity from 170 MW at the end of 2025 to 800-1,000 MW by the end of 2026.\n• Analysts forecast massive revenue growth for Nebius, with an expected $28 billion in cumulative revenue over the next three years.",
+      "AI_Summary": "• Nebius Group (NBIS) is expanding aggressively to meet the high demand for AI data center capacity, which is currently exceeding supply.\n• The company provides GPU-equipped data centers, LLMs, and inference tools for AI workloads and applications.\n• Nebius has secured significant long-term contracts with Meta Platforms and Microsoft, totaling over $46 billion in potential backlog.\n• These contracts include a five-year deal with Microsoft worth up to $19.4 billion and a deal with Meta potentially reaching $27 billion.\n• Nebius plans to significantly increase its data center capacity, from 170 MW at the end of 2025 to 800-1,000 MW by the end of 2026, partly funded by Meta.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Nebius Group, AI data center, GPU infrastructure, Meta, Microsoft, revenue growth, backlog"
+      "Keywords": "AI data center, GPU infrastructure, cloud contracts, revenue backlog, capacity expansion"
     },
     {
       "Ticker": "MSFT",
@@ -437,10 +437,10 @@
       "URL": "https://finance.yahoo.com/m/f20b23df-b3f0-3b38-ac4e-07410e3f074e/nebius-just-signed-%2446.html",
       "Content": "The demand for artificial intelligence (AI) data center capacity has been exceeding supply, and Nebius Group (NASDAQ: NBIS) is one of the companies that's trying to plug this gap. It has been building new data centers at an aggressive pace. The neocloud infrastructure company operates data centers equipped with powerful graphics processing units (GPUs), renting out their capacity to customers looking to run AI workloads. Yet Nebius isn't just a company that rents out processing power. It also provides access to ...",
       "Language": "en",
-      "AI_Summary": "• Nebius Group (NBIS) is expanding its data center capacity to meet the high demand for AI workloads, signing significant contracts.\n• Nebius has secured long-term contracts with Meta Platforms and Microsoft totaling over $46 billion for dedicated GPU infrastructure capacity.\n• The contract with Meta could reach $27 billion, while the Microsoft contract is valued at $17.4 billion, potentially increasing to $19.4 billion.\n• Nebius plans to significantly increase its connected data center capacity from 170 MW at the end of 2025 to 800-1,000 MW by the end of 2026.\n• Analysts forecast massive revenue growth for Nebius, with an expected $28 billion in cumulative revenue over the next three years.",
-      "Related_Score": 5,
+      "AI_Summary": "• Nebius Group (NBIS) is expanding aggressively to meet the high demand for AI data center capacity, which is currently exceeding supply.\n• The company provides GPU-equipped data centers, LLMs, and inference tools for AI workloads and applications.\n• Nebius has secured significant long-term contracts with Meta Platforms and Microsoft, totaling over $46 billion in potential backlog.\n• These contracts include a five-year deal with Microsoft worth up to $19.4 billion and a deal with Meta potentially reaching $27 billion.\n• Nebius plans to significantly increase its data center capacity, from 170 MW at the end of 2025 to 800-1,000 MW by the end of 2026, partly funded by Meta.",
+      "Related_Score": 4,
       "Sentiment_Score": 2,
-      "Keywords": "Nebius Group, AI data center, GPU infrastructure, Meta, Microsoft, revenue growth, backlog"
+      "Keywords": "AI data center, GPU infrastructure, cloud contracts, revenue backlog, capacity expansion"
     },
     {
       "Ticker": "MU",
@@ -451,10 +451,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/global-memory-chip-shortage-drive-133500157.html",
       "Content": "Applied Materials AMAT, being the leading manufacturer of wafer fabrication equipment products, is benefiting from the huge demand from chip manufacturers serving the AI market and the supply shortage of memory chips in late 2025, as memory production is being redirected toward high-margin AI applications, including HBM and DDR5. ...",
       "Language": "en",
-      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturers and a shortage of memory chips.\n• Memory production is shifting towards high-margin AI applications like HBM and DDR5, driving demand for AMAT's wafer fabrication equipment (WFE).\n• AMAT is deepening partnerships with SK hynix and Micron Technology for R&D on next-generation memory for AI applications.\n• The company expects its foundry, logic, DRAM, and HBM businesses to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on high-margin AI processes are expected to drive double-digit growth throughout 2026.",
-      "Related_Score": 5,
+      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturing and a memory chip shortage, redirecting production to high-margin AI applications.\n• The company is experiencing massive upside from AI-driven capital expenditures, with memory makers driving demand for its wafer fabrication equipment (WFE) products.\n• AMAT is de-risking its business by focusing on high-margin AI-related processes and deepening partnerships with memory makers like Micron Technology for R&D.\n• Its leading-edge foundry, logic, DRAM, and HBM businesses are expected to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on AI processes are expected to drive double-digit growth throughout 2026.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Applied Materials, AI chips, memory shortage, wafer fabrication equipment, HBM, DRAM, semiconductor"
+      "Keywords": "wafer fabrication equipment, AI chips, memory shortage, WFE growth, semiconductor manufacturing"
     },
     {
       "Ticker": "AMAT",
@@ -465,10 +465,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/global-memory-chip-shortage-drive-133500157.html",
       "Content": "Applied Materials AMAT, being the leading manufacturer of wafer fabrication equipment products, is benefiting from the huge demand from chip manufacturers serving the AI market and the supply shortage of memory chips in late 2025, as memory production is being redirected toward high-margin AI applications, including HBM and DDR5. ...",
       "Language": "en",
-      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturers and a shortage of memory chips.\n• Memory production is shifting towards high-margin AI applications like HBM and DDR5, driving demand for AMAT's wafer fabrication equipment (WFE).\n• AMAT is deepening partnerships with SK hynix and Micron Technology for R&D on next-generation memory for AI applications.\n• The company expects its foundry, logic, DRAM, and HBM businesses to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on high-margin AI processes are expected to drive double-digit growth throughout 2026.",
-      "Related_Score": 5,
+      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturing and a memory chip shortage, redirecting production to high-margin AI applications.\n• The company is experiencing massive upside from AI-driven capital expenditures, with memory makers driving demand for its wafer fabrication equipment (WFE) products.\n• AMAT is de-risking its business by focusing on high-margin AI-related processes and deepening partnerships with memory makers like Micron Technology for R&D.\n• Its leading-edge foundry, logic, DRAM, and HBM businesses are expected to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on AI processes are expected to drive double-digit growth throughout 2026.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Applied Materials, AI chips, memory shortage, wafer fabrication equipment, HBM, DRAM, semiconductor"
+      "Keywords": "wafer fabrication equipment, AI chips, memory shortage, WFE growth, semiconductor manufacturing"
     },
     {
       "Ticker": "LRCX",
@@ -479,10 +479,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/global-memory-chip-shortage-drive-133500157.html",
       "Content": "Applied Materials AMAT, being the leading manufacturer of wafer fabrication equipment products, is benefiting from the huge demand from chip manufacturers serving the AI market and the supply shortage of memory chips in late 2025, as memory production is being redirected toward high-margin AI applications, including HBM and DDR5. ...",
       "Language": "en",
-      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturers and a shortage of memory chips.\n• Memory production is shifting towards high-margin AI applications like HBM and DDR5, driving demand for AMAT's wafer fabrication equipment (WFE).\n• AMAT is deepening partnerships with SK hynix and Micron Technology for R&D on next-generation memory for AI applications.\n• The company expects its foundry, logic, DRAM, and HBM businesses to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on high-margin AI processes are expected to drive double-digit growth throughout 2026.",
-      "Related_Score": 5,
+      "AI_Summary": "• Applied Materials (AMAT) is benefiting from high demand for AI market chip manufacturing and a memory chip shortage, redirecting production to high-margin AI applications.\n• The company is experiencing massive upside from AI-driven capital expenditures, with memory makers driving demand for its wafer fabrication equipment (WFE) products.\n• AMAT is de-risking its business by focusing on high-margin AI-related processes and deepening partnerships with memory makers like Micron Technology for R&D.\n• Its leading-edge foundry, logic, DRAM, and HBM businesses are expected to be the fastest-growing WFE segments in 2026.\n• AMAT's diverse portfolio and focus on AI processes are expected to drive double-digit growth throughout 2026.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Applied Materials, AI chips, memory shortage, wafer fabrication equipment, HBM, DRAM, semiconductor"
+      "Keywords": "wafer fabrication equipment, AI chips, memory shortage, WFE growth, semiconductor manufacturing"
     },
     {
       "Ticker": "AMD",
@@ -493,10 +493,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/mrvls-integration-nvidia-next-growth-133200400.html",
       "Content": "Marvell Technology MRVL recently expanded its partnership with NVIDIA to strengthen its long-term growth outlook by embedding it deeper into the fast-growing AI infrastructure ecosystem. MRVL will integrate into NVIDIA’s AI ecosystem like NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems that remain fully ...",
       "Language": "en",
-      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem.\n• The collaboration focuses on NVIDIA's NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems compatible with NVIDIA platforms.\n• Marvell provides custom silicon, optical interconnects, and silicon photonics, positioning it as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances Marvell's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.",
+      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem, including NVLink Fusion and AI-RAN.\n• This integration allows customers to build custom AI XPU systems compatible with NVIDIA platforms, positioning MRVL as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances MRVL's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.\n• MRVL's data center business, contributing 74.4% of revenues ($6.1 billion), is its main growth engine, showing 46.5% YoY growth.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Marvell Technology, Nvidia, AI infrastructure, custom silicon, NVLink Fusion, data center, partnership"
+      "Keywords": "AI infrastructure, custom silicon, NVLink Fusion, data center business, strategic partnership"
     },
     {
       "Ticker": "AVGO",
@@ -507,10 +507,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/mrvls-integration-nvidia-next-growth-133200400.html",
       "Content": "Marvell Technology MRVL recently expanded its partnership with NVIDIA to strengthen its long-term growth outlook by embedding it deeper into the fast-growing AI infrastructure ecosystem. MRVL will integrate into NVIDIA’s AI ecosystem like NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems that remain fully ...",
       "Language": "en",
-      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem.\n• The collaboration focuses on NVIDIA's NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems compatible with NVIDIA platforms.\n• Marvell provides custom silicon, optical interconnects, and silicon photonics, positioning it as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances Marvell's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.",
+      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem, including NVLink Fusion and AI-RAN.\n• This integration allows customers to build custom AI XPU systems compatible with NVIDIA platforms, positioning MRVL as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances MRVL's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.\n• MRVL's data center business, contributing 74.4% of revenues ($6.1 billion), is its main growth engine, showing 46.5% YoY growth.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Marvell Technology, Nvidia, AI infrastructure, custom silicon, NVLink Fusion, data center, partnership"
+      "Keywords": "AI infrastructure, custom silicon, NVLink Fusion, data center business, strategic partnership"
     },
     {
       "Ticker": "MRVL",
@@ -521,10 +521,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/mrvls-integration-nvidia-next-growth-133200400.html",
       "Content": "Marvell Technology MRVL recently expanded its partnership with NVIDIA to strengthen its long-term growth outlook by embedding it deeper into the fast-growing AI infrastructure ecosystem. MRVL will integrate into NVIDIA’s AI ecosystem like NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems that remain fully ...",
       "Language": "en",
-      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem.\n• The collaboration focuses on NVIDIA's NVLink Fusion and AI-RAN, enabling customers to build custom AI XPU systems compatible with NVIDIA platforms.\n• Marvell provides custom silicon, optical interconnects, and silicon photonics, positioning it as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances Marvell's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.",
+      "AI_Summary": "• Marvell Technology (MRVL) is expanding its partnership with NVIDIA to integrate deeper into the AI infrastructure ecosystem, including NVLink Fusion and AI-RAN.\n• This integration allows customers to build custom AI XPU systems compatible with NVIDIA platforms, positioning MRVL as a key enabler of scalable AI systems.\n• NVIDIA's $2 billion investment signals confidence and could attract more large-scale customers.\n• The partnership enhances MRVL's revenue visibility and opens high-margin opportunities in hyperscaler and AI data center markets.\n• MRVL's data center business, contributing 74.4% of revenues ($6.1 billion), is its main growth engine, showing 46.5% YoY growth.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Marvell Technology, Nvidia, AI infrastructure, custom silicon, NVLink Fusion, data center, partnership"
+      "Keywords": "AI infrastructure, custom silicon, NVLink Fusion, data center business, strategic partnership"
     },
     {
       "Ticker": "AMD",
@@ -535,10 +535,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003842.html",
       "Content": "Investors often turn to recommendations made by Wall Street analysts before making a Buy, Sell, or Hold decision about a stock. While media reports about rating changes by these brokerage-firm employed (or sell-side) analysts often affect a stock's price, do they really matter? Before we discuss the reliability of brokerage recommendations and how to use them to your advantage, let's see what these Wall Street heavyweights think about Advanced Micro Devices (AMD). Advanced Micro currently ...",
       "Language": "en",
-      "AI_Summary": "• Advanced Micro Devices (AMD) has an average brokerage recommendation (ABR) of 1.61 (Strong Buy to Buy) based on 46 recommendations.\n• 31 of these recommendations are Strong Buy, and 2 are Buy, indicating strong analyst sentiment.\n• The article cautions that brokerage recommendations can be biased due to vested interests and may not always predict price movements accurately.\n• The Zacks Rank, based on earnings estimate revisions, is presented as a more reliable indicator of near-term stock performance.\n• Near-term stock price movements are strongly correlated with trends in earnings estimate revisions, according to empirical research.",
-      "Related_Score": 3,
+      "AI_Summary": "• Advanced Micro Devices (AMD) has an average brokerage recommendation (ABR) of 1.61 (Strong Buy to Buy) based on 46 recommendations.\n• 31 of these recommendations are Strong Buy, and 2 are Buy, indicating strong analyst sentiment.\n• The article cautions that brokerage recommendations can be biased due to vested interests and may not always predict stock price movements accurately.\n• It highlights the Zacks Rank as a more reliable indicator, driven by earnings estimate revisions.\n• Investors are advised to use ABR as a validation tool for their own research rather than a sole decision-making factor.",
+      "Related_Score": 2,
       "Sentiment_Score": 1,
-      "Keywords": "AMD, analyst recommendations, brokerage sentiment, Zacks Rank, earnings estimate revisions, stock performance"
+      "Keywords": "analyst recommendations, brokerage sentiment, Zacks Rank, earnings estimate revisions, stock valuation"
     },
     {
       "Ticker": "AMZN",
@@ -549,10 +549,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-cgi-team-modernize-government-132949144.html",
       "Content": "This article first appeared on GuruFocus . Amazon ( NASDAQ:AMZN ) is linking up with CGI (GIB) in a ...",
       "Language": "en",
-      "AI_Summary": "• Amazon (AMZN) and CGI are entering a multi-year deal to modernize government agencies' IT systems with cloud and AI.\n• The partnership aims to improve fraud detection, data-driven decision-making, and operational efficiency within the public sector.\n• A significant focus is placed on enhancing security and inter-agency collaboration.\n• For Amazon, this expands its presence in the government sector, known for its steady, long-term contracts.\n• For CGI, this collaboration scales its existing work with AWS, leveraging cloud migration and AI integration.",
+      "AI_Summary": "• Amazon (AMZN) and CGI are entering a multi-year deal to modernize government agencies' IT systems with cloud and AI solutions.\n• The partnership aims to improve fraud detection, data-driven decision-making, and operational efficiency within the public sector.\n• It also focuses on enhancing security and inter-agency collaboration.\n• For Amazon, this expands its government sector presence, offering steady, long-term business.\n• For CGI, it scales its existing AWS collaboration, potentially leading to sticky, long-term system implementations.",
       "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Amazon, CGI, government IT, cloud, AI modernization, cybersecurity, AWS"
+      "Keywords": "government modernization, cloud migration, AI solutions, public sector IT, AWS partnership"
     },
     {
       "Ticker": "META",
@@ -563,10 +563,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/china-signals-openness-meta-deal-132833226.html",
       "Content": "This article first appeared on GuruFocus . Meta Platforms ( META , Financials ) is back in the spotlight after China said it supports cross-border ...",
       "Language": "en",
-      "AI_Summary": "• China has signaled support for cross-border business deals and technology cooperation, provided they comply with laws.\n• This statement comes amid scrutiny of Meta Platforms' reported $2 billion acquisition of Chinese AI startup Manus.\n• Chinese regulators are reportedly investigating potential violations of investment laws related to the Manus acquisition.\n• The deal's sensitive technology aspect means it will face close examination.\n• The situation highlights the growing political and legislative complexities surrounding AI growth globally for Meta.",
+      "AI_Summary": "• Meta Platforms (META) is reportedly seeking to acquire Chinese AI startup Manus for $2 billion, facing scrutiny from Chinese regulators.\n• China has signaled support for cross-border deals but emphasizes adherence to the law, indicating close examination of sensitive technology transactions.\n• Reports of co-founders being unable to leave China add complexity and risk to the potential acquisition.\n• The deal highlights the growing political and legislative complexities surrounding AI growth globally.\n• The status of the transaction and any official statements from Chinese regulators or Meta will be key catalysts.",
       "Related_Score": 3,
       "Sentiment_Score": -1,
-      "Keywords": "Meta Platforms, China, AI startup acquisition, regulatory scrutiny, investment laws, political risk"
+      "Keywords": "AI acquisition, regulatory scrutiny, cross-border deals, geopolitical risk, sensitive technology"
     },
     {
       "Ticker": "NVDA",
@@ -577,10 +577,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-marvell-team-power-next-132644922.html",
       "Content": "This article first appeared on GuruFocus . Nvidia ( NVDA , Financials ) is teaming up with Marvell Technology ( MRVL , Financials ...",
       "Language": "en",
-      "AI_Summary": "• Nvidia (NVDA) is partnering with Marvell Technology (MRVL), with Nvidia investing $2 billion.\n• The collaboration focuses on Nvidia's NVLink Fusion and technologies related to AI memory, optical networking, and silicon photonics.\n• The goal is to improve communication speed and efficiency between chips within large data centers running advanced AI workloads.\n• Marvell's expertise in networking and connectivity complements Nvidia's expansion beyond GPUs into the full AI infrastructure stack.\n• This partnership signifies that the next phase of AI success depends on building fast, connected systems around powerful chips.",
+      "AI_Summary": "• Nvidia (NVDA) is partnering with Marvell Technology (MRVL), with Nvidia investing $2 billion in the collaboration.\n• The partnership focuses on Nvidia's NVLink Fusion and technologies related to AI memory, optical networking, and silicon photonics.\n• The goal is to improve communication speed and efficiency between chips within large data centers running advanced AI workloads.\n• Marvell's expertise in networking and connectivity complements Nvidia's GPU offerings, expanding Nvidia's role in the full AI infrastructure stack.\n• This deal signifies that the next phase of AI success depends on building fast, connected systems around powerful chips.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Nvidia, Marvell Technology, AI, partnership, NVLink Fusion, data center, networking, silicon photonics"
+      "Keywords": "AI infrastructure, strategic partnership, NVLink Fusion, optical networking, silicon photonics"
     },
     {
       "Ticker": "MRVL",
@@ -591,10 +591,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-marvell-team-power-next-132644922.html",
       "Content": "This article first appeared on GuruFocus . Nvidia ( NVDA , Financials ) is teaming up with Marvell Technology ( MRVL , Financials ...",
       "Language": "en",
-      "AI_Summary": "• Nvidia (NVDA) is partnering with Marvell Technology (MRVL), with Nvidia investing $2 billion.\n• The collaboration focuses on Nvidia's NVLink Fusion and technologies related to AI memory, optical networking, and silicon photonics.\n• The goal is to improve communication speed and efficiency between chips within large data centers running advanced AI workloads.\n• Marvell's expertise in networking and connectivity complements Nvidia's expansion beyond GPUs into the full AI infrastructure stack.\n• This partnership signifies that the next phase of AI success depends on building fast, connected systems around powerful chips.",
+      "AI_Summary": "• Nvidia (NVDA) is partnering with Marvell Technology (MRVL), with Nvidia investing $2 billion in the collaboration.\n• The partnership focuses on Nvidia's NVLink Fusion and technologies related to AI memory, optical networking, and silicon photonics.\n• The goal is to improve communication speed and efficiency between chips within large data centers running advanced AI workloads.\n• Marvell's expertise in networking and connectivity complements Nvidia's GPU offerings, expanding Nvidia's role in the full AI infrastructure stack.\n• This deal signifies that the next phase of AI success depends on building fast, connected systems around powerful chips.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Nvidia, Marvell Technology, AI, partnership, NVLink Fusion, data center, networking, silicon photonics"
+      "Keywords": "AI infrastructure, strategic partnership, NVLink Fusion, optical networking, silicon photonics"
     },
     {
       "Ticker": "MSFT",
@@ -605,10 +605,10 @@
       "URL": "https://finance.yahoo.com/m/b5b06f7e-86d0-347b-b153-df74baca3a0f/chevron-could-build-a-%247.html",
       "Content": "Chevron (NYSE: CVX) and investment fund Engine No. 1 are working to finalize a deal with Microsoft (NASDAQ: MSFT) to build a new natural gas-fired power plant in Texas. The proposed 2.5-gigawatt (GW) facility would be one of the largest in the country. It would provide power to a large AI data center campus. The energy ...",
       "Language": "en",
-      "AI_Summary": "• Chevron (CVX) is in talks with Microsoft (MSFT) and Engine No. 1 to build a $7 billion, 2.5-gigawatt natural gas-fired power plant in Texas.\n• The facility would power a large AI data center campus, capitalizing on surging power demand from tech companies.\n• This project could provide Chevron with a new growth engine by converting associated natural gas into electricity.\n• The partnership aims to build large-scale 'power foundries' to meet the massive electricity needs of AI data centers.\n• Securing Microsoft as a customer would enhance Chevron's ability to achieve its robust long-term growth outlook.",
-      "Related_Score": 5,
+      "AI_Summary": "• Chevron (CVX) is in talks with Microsoft (MSFT) and Engine No. 1 to build a $7 billion, 2.5 GW natural gas-fired power plant in Texas.\n• The plant would supply power to a large AI data center campus, capitalizing on surging power demand from tech companies.\n• This project could turn associated natural gas produced in Chevron's oil operations into power, utilizing excess gas that might otherwise be flared.\n• The deal would provide Chevron with a new growth engine, supporting its outlook for over 10% compound annual free cash flow growth through 2030.\n• This initiative aligns with Chevron's strategy to build new energy businesses and reduce cash flow volatility through long-term contracts.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Chevron, Microsoft, AI data center, power plant, natural gas, growth engine, energy infrastructure"
+      "Keywords": "AI data center power, natural gas plant, energy infrastructure, Chevron growth, Microsoft partnership"
     },
     {
       "Ticker": "META",
@@ -619,10 +619,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-announced-partnership-132352888.html",
       "Content": "Meta Platforms, Inc. (NASDAQ: META ) is one of the Stocks That Can Make You Richer in 2026 . On March 27, Meta Platforms, Inc. (NASDAQ:META) announced its partnership with ...",
       "Language": "en",
-      "AI_Summary": "• Meta Platforms (META) has partnered with Entergy Louisiana to power its $10 billion hyperscale data center in Northeast Louisiana.\n• The deal ensures Meta covers its full electricity costs without burdening regular customers, potentially saving customers $2 billion over 20 years.\n• Meta will contribute $120 million to Entergy's The Power to Care program and $140 million for energy efficiency initiatives.\n• Morgan Stanley lowered its price target on Meta to $775 but maintained a Buy rating, citing investor sentiment lows.\n• The stock trades at approximately 15 times the firm's 2027 EPS estimate, considered a compelling buy opportunity.",
+      "AI_Summary": "• Meta Platforms (META) has partnered with Entergy Louisiana to power its $10 billion hyperscale data center in Northeast Louisiana.\n• The agreement ensures Meta covers its full electricity costs, resulting in an estimated $2 billion savings for Entergy customers over 20 years.\n• Meta will also contribute $120 million to The Power to Care program and $140 million for energy efficiency initiatives.\n• Morgan Stanley lowered its price target on Meta to $775 but maintained a Buy rating, citing investor sentiment lows due to AI ROI, macro, and regulatory concerns.\n• The stock trades at approximately 15 times the firm's 2027 EPS estimate, presenting a compelling buy opportunity.",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "Meta Platforms, Entergy Louisiana, data center, renewable energy, power costs, investor sentiment, AI"
+      "Keywords": "data center, renewable energy, electricity costs, investor sentiment, AI ROI"
     },
     {
       "Ticker": ".TWII",
@@ -643,10 +643,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-rated-outperform-ai-130914978.html",
       "Content": "Alphabet Inc. (NASDAQ: GOOGL ) ranks among the best stocks with the most insider ownership to buy now . On March 27, Citizens reaffirmed ...",
       "Language": "en",
-      "AI_Summary": "• Citizens reaffirmed a Market Outperform rating on Alphabet Inc. (GOOGL) with a $385 price objective.\n• The total addressable market for internet search is growing, with Google benefiting from AI-powered advertiser capabilities.\n• The company has a clear path to recoup increased capital expenditures through Google Cloud Platform expansion and AI integration.\n• Alphabet has launched new AI models, including Gemini 3.1 Flash Live audio model and Lyria 3 Pro music generation model.\n• Alphabet holds a dominant position in markets like Google Search, Google Cloud, and YouTube.",
+      "AI_Summary": "• Citizens reaffirmed its Market Outperform rating on Alphabet Inc. (GOOGL) with a $385 price objective.\n• The total addressable market for internet search is increasing, with Google benefiting from AI-powered advertiser capabilities.\n• The company has a clear path to recoup increased capital expenditure through Google Cloud Platform expansion and AI integration across its products.\n• Recent product launches include the Gemini 3.1 Flash Live audio model and the Lyria 3 Pro music generation model.\n• Alphabet holds a dominant position in key markets like Google Search, Google Cloud, and YouTube.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Alphabet, Google, AI growth, internet search, Google Cloud, market outperform, Gemini"
+      "Keywords": "market outperform, Google Cloud, AI advertising, search market, product innovation"
     },
     {
       "Ticker": "AAPL",
@@ -657,10 +657,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-talks-buy-globalstar-9-122543017.html",
       "Content": "This article first appeared on GuruFocus . Amazon ( NASDAQ:AMZN ) is in talks to acquire Globalstar ( NASDAQ:GSAT ) in ...",
       "Language": "en",
-      "AI_Summary": "• Amazon (AMZN) is reportedly in talks to acquire satellite telecommunications group Globalstar (GSAT) for approximately $9 billion.\n• The deal would enhance Amazon's satellite operations to compete with SpaceX's Starlink.\n• A complicating factor is Apple's (AAPL) 20% stake in Globalstar, acquired for $1.5 billion in 2024.\n• Globalstar reserves 85% of its network capacity for Apple's emergency texting feature on iPhones.\n• The acquisition would bolster Amazon's Project Kuiper constellation, which aims to operate over 7,700 low-orbit satellites.",
-      "Related_Score": 5,
+      "AI_Summary": "• Amazon (AMZN) is reportedly in talks to acquire satellite telecommunications group Globalstar (GSAT) for approximately $9 billion.\n• The deal would enhance Amazon's satellite operations to compete with SpaceX's Starlink.\n• A complicating factor is Apple's (AAPL) 20% stake in Globalstar, acquired for $1.5 billion in 2024, requiring separate negotiation.\n• Globalstar reserves 85% of its network capacity for Apple's iPhone emergency texting feature.\n• The acquisition would bolster Amazon's Project Kuiper constellation, aiming for over 7,700 satellites to compete in high-speed internet access.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Amazon, Globalstar, satellite, acquisition, Apple, SpaceX, Project Kuiper"
+      "Keywords": "satellite acquisition, telecommunications, Project Kuiper, Starlink competition, Apple stake"
     },
     {
       "Ticker": "AMZN",
@@ -671,10 +671,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-talks-buy-globalstar-9-122543017.html",
       "Content": "This article first appeared on GuruFocus . Amazon ( NASDAQ:AMZN ) is in talks to acquire Globalstar ( NASDAQ:GSAT ) in ...",
       "Language": "en",
-      "AI_Summary": "• Amazon (AMZN) is reportedly in talks to acquire satellite telecommunications group Globalstar (GSAT) for approximately $9 billion.\n• The deal would enhance Amazon's satellite operations to compete with SpaceX's Starlink.\n• A complicating factor is Apple's (AAPL) 20% stake in Globalstar, acquired for $1.5 billion in 2024.\n• Globalstar reserves 85% of its network capacity for Apple's emergency texting feature on iPhones.\n• The acquisition would bolster Amazon's Project Kuiper constellation, which aims to operate over 7,700 low-orbit satellites.",
-      "Related_Score": 5,
+      "AI_Summary": "• Amazon (AMZN) is reportedly in talks to acquire satellite telecommunications group Globalstar (GSAT) for approximately $9 billion.\n• The deal would enhance Amazon's satellite operations to compete with SpaceX's Starlink.\n• A complicating factor is Apple's (AAPL) 20% stake in Globalstar, acquired for $1.5 billion in 2024, requiring separate negotiation.\n• Globalstar reserves 85% of its network capacity for Apple's iPhone emergency texting feature.\n• The acquisition would bolster Amazon's Project Kuiper constellation, aiming for over 7,700 satellites to compete in high-speed internet access.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "Amazon, Globalstar, satellite, acquisition, Apple, SpaceX, Project Kuiper"
+      "Keywords": "satellite acquisition, telecommunications, Project Kuiper, Starlink competition, Apple stake"
     },
     {
       "Ticker": "INTC",
@@ -685,10 +685,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-doubles-down-ai-sambanova-122335199.html",
       "Content": "This article first appeared on GuruFocus . Intel ( NASDAQ:INTC ) is preparing to expand its investment in artificial intelligence chip ...",
       "Language": "en",
-      "AI_Summary": "• Intel (INTC) is increasing its investment in AI chip developer SambaNova Systems, potentially raising its ownership to roughly 9%.\n• This move is part of Intel's broader AI strategy to strengthen its position in AI infrastructure.\n• SambaNova develops chips and software for training and running AI models, areas experiencing expanding demand.\n• The partnership reflects strategic alignment, particularly for cloud and data center applications.\n• Intel previously explored a potential acquisition of SambaNova, indicating a strong interest in the company's technology.",
+      "AI_Summary": "• Intel (INTC) is increasing its investment in AI chip developer SambaNova Systems, potentially raising its ownership to roughly 9%.\n• This move is part of Intel's broader AI strategy to strengthen its position in AI infrastructure.\n• SambaNova develops chips and software for training and running AI models, areas experiencing expanding demand.\n• The partnership reflects strategic alignment, particularly for cloud and data center applications.\n• Intel previously explored a potential acquisition of SambaNova, indicating a strong strategic interest.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Intel, SambaNova Systems, AI chips, investment, AI infrastructure, cloud, data center"
+      "Keywords": "AI chip development, strategic investment, AI infrastructure, cloud applications, data center"
     },
     {
       "Ticker": "MU",
@@ -699,10 +699,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/five-below-international-paper-highlighted-122200419.html",
       "Content": "For Immediate Release Chicago, IL &ndash; April 2, 2026 &ndash; Zacks Equity Research shares Five Below FIVE as the Bull of the Day and International Paper IP as the Bear of the Day. In addition, Zacks Equity Research provides analysis on &mdash;Micron Technology, Inc. MU and Lam Research Corp. LRCX. Here is a synopsis of all three stocks: Bull of the Day: Let me tell you something, this is exactly the kind of stock that gets interesting when the market starts getting selective. This company has built a business model around trend-right merchandise, impulse purchases, and a price point that ...",
       "Language": "en",
-      "AI_Summary": "• Five Below (FIVE) is highlighted as a 'Bull of the Day' due to its business model focused on trend-right merchandise and impulse purchases at an accessible price point.\n• The company's store growth runway and expansion strategy provide both earnings growth and long-term multiple support.\n• Analyst estimates for Five Below's current and next year EPS have been revised upward, with forecast EPS growth of 17.54% for the current year.\n• International Paper (IP) is highlighted as a 'Bear of the Day' due to cyclical demand weakness, restructuring costs, and plant closures.\n• The company faces challenges from softening demand in packaging and uneven industrial activity, leading to a Zacks Rank #5 (Strong Sell).",
+      "AI_Summary": "• Zacks Equity Research names Five Below (FIVE) as Bull of the Day and International Paper (IP) as Bear of the Day.\n• Five Below is highlighted for its business model appealing to budget-conscious consumers, strong traffic trends, and expanding margins.\n• The retailer has a significant store growth runway, with analysts revising estimates upward, leading to a Zacks Rank #1 (Strong Buy).\n• International Paper (IP) faces challenges from cyclical demand weakness, restructuring costs, and corporate separation, leading to a Zacks Rank #5 (Strong Sell).\n• Demand softness in packaging and uneven industrial activity are key concerns for International Paper.",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Five Below, International Paper, retail, discount retailer, earnings growth, demand weakness, Zacks Rank"
+      "Keywords": "retail sector, discount retailer, store growth, cyclical demand, earnings outlook"
     },
     {
       "Ticker": "LRCX",
@@ -713,10 +713,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/five-below-international-paper-highlighted-122200419.html",
       "Content": "For Immediate Release Chicago, IL &ndash; April 2, 2026 &ndash; Zacks Equity Research shares Five Below FIVE as the Bull of the Day and International Paper IP as the Bear of the Day. In addition, Zacks Equity Research provides analysis on &mdash;Micron Technology, Inc. MU and Lam Research Corp. LRCX. Here is a synopsis of all three stocks: Bull of the Day: Let me tell you something, this is exactly the kind of stock that gets interesting when the market starts getting selective. This company has built a business model around trend-right merchandise, impulse purchases, and a price point that ...",
       "Language": "en",
-      "AI_Summary": "• Five Below (FIVE) is highlighted as a 'Bull of the Day' due to its business model focused on trend-right merchandise and impulse purchases at an accessible price point.\n• The company's store growth runway and expansion strategy provide both earnings growth and long-term multiple support.\n• Analyst estimates for Five Below's current and next year EPS have been revised upward, with forecast EPS growth of 17.54% for the current year.\n• International Paper (IP) is highlighted as a 'Bear of the Day' due to cyclical demand weakness, restructuring costs, and plant closures.\n• The company faces challenges from softening demand in packaging and uneven industrial activity, leading to a Zacks Rank #5 (Strong Sell).",
+      "AI_Summary": "• Zacks Equity Research names Five Below (FIVE) as Bull of the Day and International Paper (IP) as Bear of the Day.\n• Five Below is highlighted for its business model appealing to budget-conscious consumers, strong traffic trends, and expanding margins.\n• The retailer has a significant store growth runway, with analysts revising estimates upward, leading to a Zacks Rank #1 (Strong Buy).\n• International Paper (IP) faces challenges from cyclical demand weakness, restructuring costs, and corporate separation, leading to a Zacks Rank #5 (Strong Sell).\n• Demand softness in packaging and uneven industrial activity are key concerns for International Paper.",
       "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Five Below, International Paper, retail, discount retailer, earnings growth, demand weakness, Zacks Rank"
+      "Keywords": "retail sector, discount retailer, store growth, cyclical demand, earnings outlook"
     },
     {
       "Ticker": "TSM",
@@ -727,10 +727,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/tsm-meet-fy26-margin-guidance-121400784.html",
       "Content": "Taiwan Semiconductor Manufacturing Company TSM, also known as TSMC, has consistently delivered strong gross margins over the past few quarters despite mounting cost pressures from overseas fab expansion. To capitalize on the growing demand for advanced and artificial intelligence (AI) chips, the company is expanding production outside Taiwan, including new fabs in the United ...",
       "Language": "en",
-      "AI_Summary": "• Taiwan Semiconductor Manufacturing Company (TSMC) is expanding production globally, including new fabs in the US, Japan, and Europe, to meet AI chip demand.\n• The US expansion involves investing $165 billion in Arizona for five fabrication facilities and two advanced packaging facilities.\n• Overseas fabs are more expensive, potentially causing near-term margin dilution of 2-4%, but TSMC expects to meet 2026 gross margin targets.\n• Gross margin rose year-over-year to 62.3% in Q4 2025, with Q1 2026 guidance between 63%-65%.\n• Revenues grew 25.5% year-over-year to $33.73 billion in Q4 2025, with analysts projecting continued momentum driven by AI chip demand.",
+      "AI_Summary": "• Taiwan Semiconductor Manufacturing Company (TSMC) is expanding production globally (US, Japan, Europe) to meet AI chip demand, investing $165 billion in the US alone.\n• Overseas fabs are more expensive, potentially causing near-term margin dilution of 2-4%, but TSMC expects scale, automation, and incentives to mitigate this.\n• Gross margin rose YoY to 62.3% in Q4 2025, and Q1 2026 guidance is 63-65%, indicating strong profitability.\n• Revenues grew 25.5% YoY to $33.73 billion in Q4 2025, with analysts projecting 34.9% growth in 2026.\n• TSMC's robust demand for advanced nodes and high factory utilization are expected to help meet 2026 gross margin targets.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "TSMC, AI chips, fab expansion, gross margin, revenue growth, semiconductor, global expansion"
+      "Keywords": "fab expansion, AI chips, gross margin, revenue growth, semiconductor supply chain"
     },
     {
       "Ticker": "GFS",
@@ -741,10 +741,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/tsm-meet-fy26-margin-guidance-121400784.html",
       "Content": "Taiwan Semiconductor Manufacturing Company TSM, also known as TSMC, has consistently delivered strong gross margins over the past few quarters despite mounting cost pressures from overseas fab expansion. To capitalize on the growing demand for advanced and artificial intelligence (AI) chips, the company is expanding production outside Taiwan, including new fabs in the United ...",
       "Language": "en",
-      "AI_Summary": "• Taiwan Semiconductor Manufacturing Company (TSMC) is expanding production globally, including new fabs in the US, Japan, and Europe, to meet AI chip demand.\n• The US expansion involves investing $165 billion in Arizona for five fabrication facilities and two advanced packaging facilities.\n• Overseas fabs are more expensive, potentially causing near-term margin dilution of 2-4%, but TSMC expects to meet 2026 gross margin targets.\n• Gross margin rose year-over-year to 62.3% in Q4 2025, with Q1 2026 guidance between 63%-65%.\n• Revenues grew 25.5% year-over-year to $33.73 billion in Q4 2025, with analysts projecting continued momentum driven by AI chip demand.",
-      "Related_Score": 5,
+      "AI_Summary": "• Taiwan Semiconductor Manufacturing Company (TSMC) is expanding production globally (US, Japan, Europe) to meet AI chip demand, investing $165 billion in the US alone.\n• Overseas fabs are more expensive, potentially causing near-term margin dilution of 2-4%, but TSMC expects scale, automation, and incentives to mitigate this.\n• Gross margin rose YoY to 62.3% in Q4 2025, and Q1 2026 guidance is 63-65%, indicating strong profitability.\n• Revenues grew 25.5% YoY to $33.73 billion in Q4 2025, with analysts projecting 34.9% growth in 2026.\n• TSMC's robust demand for advanced nodes and high factory utilization are expected to help meet 2026 gross margin targets.",
+      "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "TSMC, AI chips, fab expansion, gross margin, revenue growth, semiconductor, global expansion"
+      "Keywords": "fab expansion, AI chips, gross margin, revenue growth, semiconductor supply chain"
     },
     {
       "Ticker": "AMZN",
@@ -755,10 +755,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-climbs-bets-jaw-121244554.html",
       "Content": "The race to control the future of artificial intelligence just took a massive leap forward with a record-shaking deal. On Wednesday, Amazon stock (AMZN) rose 1% in pre-market trading following the news that it is leading a historic $122 billion funding round for OpenAI . This investment pushes the valuation of the ChatGPT creator ...",
       "Language": "en",
-      "AI_Summary": "• Amazon (AMZN) is leading a $122 billion funding round for OpenAI, pledging up to $50 billion, including an initial $15 billion investment.\n• This investment values OpenAI at $852 billion and allows it to utilize Amazon's cloud and hardware resources, including Trainium chips.\n• Nvidia (NVDA) and SoftBank (SFTBY) also committed $30 billion each to the funding round.\n• OpenAI is winding down its standalone video tool Sora to focus on a unified AI superapp, generating $2 billion in monthly revenue.\n• The funding prepares OpenAI for its expected 2026 IPO, marking a significant step in the AI race.",
+      "AI_Summary": "• Amazon (AMZN) is leading a $122 billion funding round for OpenAI, pledging up to $50 billion, including an initial $15 billion investment.\n• This deal values OpenAI at $852 billion and allows it to utilize Amazon's cloud and hardware resources, including Trainium chips.\n• Nvidia (NVDA) and SoftBank (SFTBY) also committed $30 billion each to the round.\n• OpenAI is winding down its standalone video tool Sora to focus on a unified AI superapp, generating $2 billion in monthly revenue.\n• The funding prepares OpenAI for its expected 2026 IPO, solidifying its independence and market lead.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Amazon, OpenAI, funding round, AI, cloud computing, IPO, Nvidia, valuation"
+      "Keywords": "OpenAI funding, AI superapp, cloud partnership, valuation, IPO preparation"
     },
     {
       "Ticker": "MU",
@@ -769,10 +769,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/rising-ai-storage-needs-fuel-121000023.html",
       "Content": "Micron Technology, Inc. ’s MU NAND business is well-positioned to benefit from the rapid growth in artificial intelligence (AI) workloads, which is driving the demand for storage solutions. AI models require fast access to massive datasets, increasing the need for high-performance storage, especially in data centers. Micron Technology is already seeing strong traction in NAND, particularly in data center solid-state drives (SSDs). In the ...",
       "Language": "en",
-      "AI_Summary": "• Micron Technology's (MU) NAND business is well-positioned to benefit from the growth in AI workloads driving demand for storage solutions.\n• AI models require fast access to massive datasets, increasing the need for high-performance data center SSDs.\n• Micron's NAND revenues soared 169% year-over-year to $5 billion in Q2 fiscal 2026, driven by strong demand for data center SSDs.\n• The NAND market is currently undersupplied, with favorable pricing conditions expected through fiscal 2027.\n• Micron's NAND business is projected to account for 21.5% of total revenues in fiscal 2026, reaching $23.64 billion.",
+      "AI_Summary": "• Micron Technology's (MU) NAND business is well-positioned to benefit from AI workload growth driving demand for storage solutions.\n• NAND revenues soared 169% YoY and 82% sequentially to $5 billion in Q2 fiscal 2026, driven by strong data center SSD demand.\n• Data center SSDs are essential for AI infrastructure, and Micron has increased its SSD market share for the fourth consecutive year.\n• The NAND market is currently undersupplied, with favorable pricing conditions expected through fiscal 2027.\n• Micron's NAND business is projected to reach $23.64 billion in fiscal 2026 revenues (178% YoY increase) and $37.49 billion in fiscal 2027.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Micron Technology, NAND, AI, data center SSDs, storage solutions, revenue growth, market share"
+      "Keywords": "NAND flash, AI storage, data center SSDs, market share, revenue growth"
     },
     {
       "Ticker": "SNDK",
@@ -783,10 +783,10 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/rising-ai-storage-needs-fuel-121000023.html",
       "Content": "Micron Technology, Inc. ’s MU NAND business is well-positioned to benefit from the rapid growth in artificial intelligence (AI) workloads, which is driving the demand for storage solutions. AI models require fast access to massive datasets, increasing the need for high-performance storage, especially in data centers. Micron Technology is already seeing strong traction in NAND, particularly in data center solid-state drives (SSDs). In the ...",
       "Language": "en",
-      "AI_Summary": "• Micron Technology's (MU) NAND business is well-positioned to benefit from the growth in AI workloads driving demand for storage solutions.\n• AI models require fast access to massive datasets, increasing the need for high-performance data center SSDs.\n• Micron's NAND revenues soared 169% year-over-year to $5 billion in Q2 fiscal 2026, driven by strong demand for data center SSDs.\n• The NAND market is currently undersupplied, with favorable pricing conditions expected through fiscal 2027.\n• Micron's NAND business is projected to account for 21.5% of total revenues in fiscal 2026, reaching $23.64 billion.",
+      "AI_Summary": "• Micron Technology's (MU) NAND business is well-positioned to benefit from AI workload growth driving demand for storage solutions.\n• NAND revenues soared 169% YoY and 82% sequentially to $5 billion in Q2 fiscal 2026, driven by strong data center SSD demand.\n• Data center SSDs are essential for AI infrastructure, and Micron has increased its SSD market share for the fourth consecutive year.\n• The NAND market is currently undersupplied, with favorable pricing conditions expected through fiscal 2027.\n• Micron's NAND business is projected to reach $23.64 billion in fiscal 2026 revenues (178% YoY increase) and $37.49 billion in fiscal 2027.",
       "Related_Score": 5,
       "Sentiment_Score": 2,
-      "Keywords": "Micron Technology, NAND, AI, data center SSDs, storage solutions, revenue growth, market share"
+      "Keywords": "NAND flash, AI storage, data center SSDs, market share, revenue growth"
     },
     {
       "Ticker": ".TWII",
@@ -827,10 +827,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/vymi-vs-vig-vs-vym-112405108.html",
       "Content": "Income-focused investors often look to dividend ETFs as an easy way to generate steady passive income without picking individual stocks. Among Vanguard’s most popular options are the Vanguard High Dividend Yield ETF (VYM), Vanguard Dividend Appreciation ETF (VIG), and Vanguard International High Dividend Yield ETF (VYMI)—each offering a different mix of yield, growth, and global exposure. Using TipRanks’ ...",
       "Language": "en",
-      "AI_Summary": "• The Vanguard High Dividend Yield ETF (VYM) offers exposure to high-dividend-paying U.S. companies with a low expense ratio (0.04%).\n• VYM pays a quarterly dividend of $0.862 per share, yielding 2.37%, focusing on stability and consistency.\n• Top holdings in VYM include Broadcom (AVGO), JPMorgan Chase (JPM), and Exxon Mobil (XOM).\n• The Vanguard Dividend Appreciation ETF (VIG) focuses on U.S. companies with a history of increasing dividends.\n• The Vanguard International High Dividend Yield ETF (VYMI) provides exposure to international high-dividend stocks, with a 3.63% yield.",
+      "AI_Summary": "• The article compares three Vanguard dividend ETFs: VYMI (International High Dividend Yield), VYM (High Dividend Yield), and VIG (Dividend Appreciation).\n• VYMI offers global exposure with a 3.63% yield, VYM focuses on stability with a 2.37% yield, and VIG targets dividend growth with a 1.61% yield.\n• Top holdings for VYMI include Roche, Novartis, and HSBC; for VYM include Broadcom (AVGO), JPMorgan Chase, and Exxon Mobil; for VIG include AVGO, Apple, and Eli Lilly.\n• VYMI is suitable for higher yield and global diversification, VYM for stability and consistency, and VIG for conservative dividend growth.\n• The choice depends on investor priorities regarding income, growth, or geographic exposure.",
       "Related_Score": 2,
       "Sentiment_Score": 0,
-      "Keywords": "dividend ETFs, VYM, VIG, VYMI, Vanguard, income investing, passive income"
+      "Keywords": "dividend ETFs, ETF comparison, yield, dividend growth, diversification"
     },
     {
       "Ticker": "AVGO",
@@ -841,10 +841,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-billionaire-ray-112204271.html",
       "Content": "Broadcom Inc. (NASDAQ:AVGO) is one of the 15 Best Stocks to Buy According to Billionaire Ray Dalio . Broadcom Inc. (NASDAQ:AVGO) became of interest to Bridgewater Associates just before the AI boom swept markets. The fund first bought a stake in the ...",
       "Language": "en",
-      "AI_Summary": "• Broadcom Inc. (AVGO) is a significant AI stock, with Bridgewater Associates increasing its stake to 1.17 million shares.\n• The company has a two-engine growth strategy combining high-growth AI hardware with stable, high-margin software.\n• Broadcom's competitive advantage includes marketing custom AI chips (XPUs) as a cost-efficient alternative to GPUs.\n• The acquisition of VMware has been transitioned to a subscription model, focusing on high-value enterprise bundles.\n• Broadcom is considered one of the few NVIDIA competitors in the AI hardware space.",
+      "AI_Summary": "• Broadcom Inc. (AVGO) is a key AI stock for hedge funds, with Bridgewater Associates increasing its stake.\n• The company has a two-engine growth strategy combining high-growth AI hardware with stable, high-margin software.\n• Broadcom's competitive advantage includes custom AI chips and the successful transition of VMware to a subscription model.\n• It is considered a significant competitor to Nvidia in the AI chip market.\n• The acquisition of VMware has been highlighted as a case study in effective corporate management.",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "Broadcom, AI stocks, custom AI chips, XPUs, VMware, hedge funds, Nvidia competitor"
+      "Sentiment_Score": 1,
+      "Keywords": "AI hardware, AI software, custom AI chips, VMware acquisition, competitive advantage"
     },
     {
       "Ticker": ".TWII",
@@ -955,10 +955,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-090700729.html",
       "Content": "For Immediate Release Chicago, IL &ndash; April 2, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Ark Invest&rsquo;s ARKK, SK Telecom SKM, NVIDIA NVDA, Nebius NBIS and Sandisk SNDK. OpenAI & Anthropic Prove the AI Revolution Is Just Starting Currently, geopolitical uncertainty is dominating Wall Street headlines. However, beneath the surface the AI industry remains scorching hot. Below is the latest evidence: OpenAI Valuation, Revenues Soar While most public artificial ...",
       "Language": "en",
-      "AI_Summary": "• OpenAI's latest fundraising round secured $122 billion in committed capital, valuing the company at $852 billion.\n• OpenAI is generating $2 billion in monthly revenue, with enterprise clients making up 40% of revenue.\n• Ark Invest has invested in OpenAI, which now represents approximately 3% of the ARKK ETF.\n• Anthropic, another AI company, has an annualized revenue run rate of $14 billion and a valuation of $600 billion.\n• Publicly traded AI bellwethers like NVIDIA have historically low forward PE ratios, while companies like Nebius and Sandisk are expected to achieve triple-digit revenue growth in 2026.",
-      "Related_Score": 5,
+      "AI_Summary": "• The AI industry remains robust, evidenced by OpenAI's $122 billion funding round, valuing it at $852 billion, and Anthropic's $14 billion annualized revenue run rate.\n• OpenAI is generating $2 billion in monthly revenue, with enterprise revenue expected to reach 50% by year-end.\n• Ark Invest has invested significantly in OpenAI, now comprising ~3% of its ARKK ETF.\n• NVIDIA (NVDA) has its lowest forward PE ratio in 7 years, while AI pick-and-shovel stocks like Nebius and Sandisk are projected to grow revenue at triple-digit rates in 2026.\n• Despite geopolitical uncertainty, the AI sector shows strong private market valuations and historically undervalued public bellwethers.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "OpenAI, Anthropic, AI revolution, fundraising, valuation, revenue growth, NVIDIA, Nebius, Sandisk"
+      "Keywords": "AI industry, OpenAI valuation, Anthropic revenue, NVIDIA PE ratio, growth stocks"
     },
     {
       "Ticker": "SNDK",
@@ -969,10 +969,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-090700729.html",
       "Content": "For Immediate Release Chicago, IL &ndash; April 2, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Ark Invest&rsquo;s ARKK, SK Telecom SKM, NVIDIA NVDA, Nebius NBIS and Sandisk SNDK. OpenAI & Anthropic Prove the AI Revolution Is Just Starting Currently, geopolitical uncertainty is dominating Wall Street headlines. However, beneath the surface the AI industry remains scorching hot. Below is the latest evidence: OpenAI Valuation, Revenues Soar While most public artificial ...",
       "Language": "en",
-      "AI_Summary": "• OpenAI's latest fundraising round secured $122 billion in committed capital, valuing the company at $852 billion.\n• OpenAI is generating $2 billion in monthly revenue, with enterprise clients making up 40% of revenue.\n• Ark Invest has invested in OpenAI, which now represents approximately 3% of the ARKK ETF.\n• Anthropic, another AI company, has an annualized revenue run rate of $14 billion and a valuation of $600 billion.\n• Publicly traded AI bellwethers like NVIDIA have historically low forward PE ratios, while companies like Nebius and Sandisk are expected to achieve triple-digit revenue growth in 2026.",
-      "Related_Score": 5,
+      "AI_Summary": "• The AI industry remains robust, evidenced by OpenAI's $122 billion funding round, valuing it at $852 billion, and Anthropic's $14 billion annualized revenue run rate.\n• OpenAI is generating $2 billion in monthly revenue, with enterprise revenue expected to reach 50% by year-end.\n• Ark Invest has invested significantly in OpenAI, now comprising ~3% of its ARKK ETF.\n• NVIDIA (NVDA) has its lowest forward PE ratio in 7 years, while AI pick-and-shovel stocks like Nebius and Sandisk are projected to grow revenue at triple-digit rates in 2026.\n• Despite geopolitical uncertainty, the AI sector shows strong private market valuations and historically undervalued public bellwethers.",
+      "Related_Score": 4,
       "Sentiment_Score": 1,
-      "Keywords": "OpenAI, Anthropic, AI revolution, fundraising, valuation, revenue growth, NVIDIA, Nebius, Sandisk"
+      "Keywords": "AI industry, OpenAI valuation, Anthropic revenue, NVIDIA PE ratio, growth stocks"
     },
     {
       "Ticker": "2408.TW",
@@ -1031,10 +1031,10 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-uber-weride-082800296.html",
       "Content": "For Immediate Releases Chicago, IL &ndash; April 2, 2026 &ndash; Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include Uber Technologies UBER, WeRide WRD and Amazon&rsquo;s AMZN. Here are highlights from Thursday&rsquo;s Analyst Blog: Dubai Robotaxi Push by Uber & We Ride: AV Growth Heating Up? Uber Technologies , in collaboration with WeRide , a Chinese autonomous vehicle company, launched fully driverless, fare-charging robotaxi services in Dubai. This rollout ...",
       "Language": "en",
-      "AI_Summary": "• Uber Technologies and WeRide have launched fully driverless, fare-charging robotaxi services in Dubai, marking a significant milestone in AV collaboration.\n• The service operates without a safety driver across select routes, aligning with Dubai's goal of making 25% of journeys autonomous by 2030.\n• Uber is also partnering with Amazon's Zoox to deploy purpose-built robotaxis, with services expected to launch in Las Vegas and expand to Los Angeles.\n• Uber's partnership-focused approach allows it to accelerate its asset-light AV model by leveraging third-party developers.\n• This strategy helps Uber sidestep heavy R&D costs and positions it as a key player in the evolving autonomous mobility ecosystem.",
-      "Related_Score": 4,
+      "AI_Summary": "• Uber Technologies and WeRide have launched fully driverless, fare-charging robotaxi services in Dubai, marking a significant AV milestone.\n• The service operates without a safety driver across select routes, aligning with Dubai's goal of 25% autonomous journeys by 2030.\n• Uber is also partnering with Amazon's Zoox to deploy purpose-built robotaxis, with services expected to launch in Las Vegas and expand to Los Angeles.\n• Uber's strategy focuses on partnerships to avoid heavy R&D costs, positioning itself as a leading mobility aggregator.\n• This expansion into autonomous mobility strengthens Uber's global ambitions and its asset-light AV model.",
+      "Related_Score": 3,
       "Sentiment_Score": 1,
-      "Keywords": "Uber, WeRide, robotaxi, autonomous vehicles, Dubai, Amazon Zoox, AV strategy"
+      "Keywords": "robotaxi, autonomous vehicles, Dubai, Uber partnership, Zoox"
     },
     {
       "Ticker": "2408.TW",
@@ -1075,10 +1075,10 @@
       "URL": "https://finance.yahoo.com/m/59b6ce02-405f-336b-b413-91afe08a45d6/nasdaq-correction%3A-buy-2.html",
       "Content": "The Nasdaq Composite (NASDAQINDEX: ^IXIC) entered correction territory on March 26 , when it closed more than 10% below its record high. But corrections have historically been buying opportunities because the Nasdaq has never failed to recoup its losses. Most Wall Street analysts believe two trillion-dollar companies are deeply undervalued: Will AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing ...",
       "Language": "en",
-      "AI_Summary": "• Meta Platforms (META) has a median target price implying 50% upside, driven by its AI-focused growth strategy.\n• The company's machine learning models and custom AI chips are improving user engagement and ad performance, with ad impressions up 12% last year.\n• Morgan Stanley highlights Meta's long runway for further engagement and monetization improvements through AI.\n• Broadcom (AVGO) has a median target price implying 52% upside, driven by its AI networking chips and custom AI accelerators (XPUs).\n• Broadcom's AI networking revenue increased 60% in Q1, and its XPUs offer a cost-efficient alternative to Nvidia GPUs for specific workloads.",
+      "AI_Summary": "• Meta Platforms (META) and Broadcom (AVGO) are identified as two trillion-dollar AI stocks with significant upside potential, according to Wall Street analysts.\n• Meta has a median target price implying 50% upside, driven by its AI-focused growth strategy, user engagement, and improved ad performance.\n• Morgan Stanley highlights Meta's long runway for monetization and the potential of Meta AI for agentic commerce.\n• Broadcom has a median target price implying 52% upside, driven by its AI networking revenue growth (up 60% in Q1) and custom AI accelerator chips.\n• While both stocks are considered strong AI plays, Broadcom offers non-AI revenue streams and a dividend, making it potentially less risky than Nvidia.",
       "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "Meta Platforms, Broadcom, AI stocks, upside potential, Wall Street targets, machine learning, custom AI chips"
+      "Sentiment_Score": 1,
+      "Keywords": "AI stocks, upside potential, Meta Platforms, Broadcom, analyst targets"
     },
     {
       "Ticker": "ARM",
@@ -1089,10 +1089,10 @@
       "URL": "https://finance.yahoo.com/m/0b5e7322-4cd3-3613-adc0-14ed7cfc2e8d/amazon%2C-apple%2C-and-nvidia.html",
       "Content": "Amazon , Apple , and Nvidia are among the largest, richest, and most powerful tech companies on Earth. It's hard to properly emphasize just how much these companies depend on Arm Holdings (NASDAQ: ARM) for its proprietary instruction set architecture. They literally cannot build chips without Arm licensing, not without walking away from an ecosystem that they've spent years wading deeper into. Will AI create the world's first ...",
       "Language": "en",
-      "AI_Summary": "• Arm Holdings (ARM) licenses its proprietary instruction set architecture (ISA), essential for chip development by companies like Amazon, Apple, and Nvidia.\n• Arm is entering the chip market with its first production CPU designed for agentic AI workloads, expecting $1 billion in chip revenue by 2028.\n• The AGI CPU is positioned as additive to the AI market, not a direct competitor to Arm's licensing customers.\n• Arm holds significant leverage over major tech players due to the catastrophic capability issues of switching ISAs.\n• Despite strong growth prospects, Arm's stock is considered expensive with a high P/E ratio, and dollar-cost averaging is suggested for potential investors.",
+      "AI_Summary": "• Arm Holdings (ARM) is indispensable for major tech companies like Amazon, Apple, and Nvidia, as they rely on its licensed instruction set architecture (ISA) for chip development.\n• Arm has unveiled its first production chip, an AGI CPU designed for agentic AI workloads, aiming for $1 billion in chip revenue by 2028 and $15 billion by 2031.\n• This move into chip production is seen as additive, not directly competitive, to its customers, leveraging quadrupled CPU demand from agentic AI.\n• Companies like Amazon (Graviton), Apple (Apple silicon), and Nvidia (Grace, Vera CPUs) depend on Arm's ISA for their critical chips.\n• Despite a high valuation (P/E of 200), Arm's core business and growth prospects, coupled with potential upside from the new CPU, suggest long-term potential, though dollar-cost averaging is advised due to market volatility.",
       "Related_Score": 5,
       "Sentiment_Score": 1,
-      "Keywords": "Arm Holdings, AI chips, ISA licensing, agentic AI, CPU, data center, growth stock"
+      "Keywords": "ISA licensing, AI chips, agentic AI, CPU development, semiconductor ecosystem"
     },
     {
       "Ticker": "6770.TW",
@@ -1285,10 +1285,10 @@
       "URL": "https://finance.yahoo.com/m/2b690556-8254-322c-9b6b-1bcf18be413a/nvidia-vs.-broadcom%3A-which-ai.html",
       "Content": "The artificial intelligence (AI) era continues to gain momentum. Total capital expenditures among top AI companies could hit $700 billion this year. All these investments have driven a chip supercycle that has propelled Nvidia (NASDAQ: NVDA) , the runaway leader in AI GPU chips, to mind-blowing growth over the past several years. But the AI industry is already changing, and quickly. Demand for AI inference ...",
       "Language": "en",
-      "AI_Summary": "• Nvidia (NVDA) leads in AI GPU chips, benefiting from a massive existing installation base and its CUDA platform.\n• Nvidia's Blackwell chip is performing well, and the upcoming Vera Rubin platform is designed for inference applications and agentic AI.\n• Nvidia forecasts potential sales exceeding $1 trillion from Blackwell and Vera Rubin through 2027, driven by agentic AI demand.\n• Broadcom (AVGO) is a major player in custom AI accelerator chips (ASICs), partnering with major AI companies like Alphabet, OpenAI, and Meta.\n• Broadcom forecasts its AI chip sales to surge significantly over $100 billion by fiscal year 2027, offering a dividend yield of 0.86%.",
+      "AI_Summary": "• The AI era is driving a chip supercycle, with Nvidia (NVDA) leading in AI GPUs and Broadcom (AVGO) emerging as a power player in custom AI accelerator chips.\n• Nvidia benefits from a massive existing installation base and its CUDA platform, with its Blackwell chip and upcoming Vera Rubin platform targeting inference applications.\n• Nvidia forecasts over $1 trillion in sales from Blackwell and Vera Rubin through 2027, driven by agentic AI demand.\n• Broadcom designs custom ASICs for specific AI needs, partnering with major AI companies like Alphabet, OpenAI, and Meta Platforms.\n• Broadcom forecasts AI chip sales to surge significantly over $100 billion in fiscal year 2027, while Nvidia's business is almost entirely AI-focused, making it potentially riskier but offering higher growth.",
       "Related_Score": 5,
       "Sentiment_Score": 0,
-      "Keywords": "Nvidia, Broadcom, AI supercycle, GPUs, ASICs, inference, agentic AI, data center chips"
+      "Keywords": "AI supercycle, AI GPUs, custom ASICs, inference applications, chip manufacturers"
     },
     {
       "Ticker": ".TWII",
