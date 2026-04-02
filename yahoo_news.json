@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-02T18:20:35.189Z",
-  "total_news_count": 1137,
+  "last_updated": "2026-04-02T18:32:11.333Z",
+  "total_news_count": 1138,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-04-03",
+      "Time": "02:24:24",
+      "Source": "Yahoo Finance",
+      "Title": "Micron and Sandisk Dip Seen as Opportunity",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-dip-seen-opportunity-182424208.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( MU , Financials ) and Sandisk have both pulled back recently , but at least one analyst thinks investors might be looking at it the wrong way.\n\nWarning! GuruFocus has detected 2 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMizuho argues the dip is less about real weakness and more about growing worries that memory demand has peaked. The firm says those fears are overdone and if anything, the opposite could be happening.\n\nThe reasoning is pretty straightforward. As AI systems get more efficient, they do not necessarily use fewer resources. In many cases, they end up being used more widely, which actually increases demand for hardware like memory.\n\nIt is a pattern the analyst compares to past tech cycles. Improvements like virtualization or faster networking were supposed to reduce demand, but instead led to more usage and more spending. AI could follow the same path.\n\nThere are also technical shifts happening, like better data handling and faster inference, that could allow larger models to run more efficiently and at greater scale.\n\nFor investors, the takeaway is simple: if AI keeps expanding the way many expect, memory may remain a key beneficiary, even after short-term volatility.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-04-03",
