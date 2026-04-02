@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-04-02T20:15:35.099Z",
-  "total_news_count": 1172,
+  "last_updated": "2026-04-02T20:32:01.101Z",
+  "total_news_count": 1174,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-04-03",
+      "Time": "04:25:26",
+      "Source": "Yahoo Finance",
+      "Title": "Mizuho Says Micron, SanDisk Selloff Is Overdone, Reiterates Outperform",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/mizuho-says-micron-sandisk-selloff-202526363.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMizuho Securities is pushing back against the recent selloff in Micron Technology ( NASDAQ:MU ) and SanDisk ( NASDAQ:SNDK ), arguing that investor concerns around a potential peak memory cycle could be overstated. In a note to clients, analyst Vijay Rakesh suggested the weakness in both names may reflect sentiment rather than fundamentals, pointing to structural demand drivers tied to artificial intelligence that could continue to build rather than fade.\n\nWarning! GuruFocus has detected 3 Warning Signs with VG.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nRakesh highlighted recent progress in AI efficiency, including TurboQuantfirst explored in 2025with additional results now showing improvements in inference performance, alongside newly released algorithms from Google ( NASDAQ:GOOG ). He argued that these types of advancements may reinforce a familiar pattern where better efficiency drives greater usage, referencing prior cycles where virtualization ultimately increased server demand and where the DeepSeek launch in 2025 coincided with accelerating AI growth despite initial concerns about a slowdown.\n\nLooking ahead, Rakesh pointed to several technology shifts that could further support memory demand, including the transition from copper to optical networking with significantly higher bandwidth, which he believes may increase AI server capital expenditures rather than reduce them. He also noted that KV cache compression could enable larger language models, faster inference, and improved token economics, potentially driving incremental spending across the ecosystem. Mizuho maintains Outperform ratings on both Micron and SanDisk, with price targets of $530 and $710, respectively, reflecting a view that the current drawdown may present a buying opportunity rather than a signal of a structural peak.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-04-03",
+      "Time": "04:22:19",
+      "Source": "Yahoo Finance",
+      "Title": "Chip Stocks Fall After Trump Iran Warning",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-fall-trump-iran-202219472.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAI and chip stocks took a hit Thursday after President Donald Trump warned the U.S. could strike Iran extremely hard in the next few weeks, putting investors on edge.\n\nThe reaction was pretty immediate. The Nasdaq dropped about 2%, while the S&P 500 fell 1.3% and the Dow slipped close to 1.4%. At the same time, oil prices spiked hard, with Brent up 7.6% and WTI jumping 12.2%, which tends to rattle markets even more. From there, the pressure spread quickly across semiconductors. Nvidia ( NASDAQ:NVDA ) was down about 2%, AMD fell nearly 3%, and Broadcom ( NASDAQ:AVGO ) and Qualcomm ( NASDAQ:QCOM ) also slid in that 2% to 3% range. Micron ( NASDAQ:MU ) was hit harder, dropping around 5%, while Arm ( NASDAQ:ARM ) and Marvell ( NASDAQ:MRVL ) each fell about 4%.\n\nWarning! GuruFocus has detected 3 Warning Sign with AVGO.\n\nIs AVGO fairly valued? Test your thesis with our free DCF calculator.\n\nIt was not just chips. Networking and optical names like Arista ( NYSE:ANET ), Lumentum ( NASDAQ:LITE ), Coherent ( NYSE:COHR ) and Corning ( NYSE:GLW ) also moved lower, while equipment players like ASML and Lam Research ( NASDAQ:LRCX ) were down around 3%. A few names held up better, with Applied Optoelectronics ( NASDAQ:AAOI ) jumping 7% and Intel ( NASDAQ:INTC ) ticking up slightly.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-04-03",
