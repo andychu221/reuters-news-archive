@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T20:40:16.367Z",
-  "total_news_count": 1177,
+  "last_updated": "2026-04-02T20:44:30.969Z",
+  "total_news_count": 1178,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -21,6 +21,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/mizuho-says-micron-sandisk-selloff-202526363.html",
       "Content": "This article first appeared on GuruFocus .\n\nMizuho Securities is pushing back against the recent selloff in Micron Technology ( NASDAQ:MU ) and SanDisk ( NASDAQ:SNDK ), arguing that investor concerns around a potential peak memory cycle could be overstated. In a note to clients, analyst Vijay Rakesh suggested the weakness in both names may reflect sentiment rather than fundamentals, pointing to structural demand drivers tied to artificial intelligence that could continue to build rather than fade.\n\nWarning! GuruFocus has detected 3 Warning Signs with VG.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nRakesh highlighted recent progress in AI efficiency, including TurboQuantfirst explored in 2025with additional results now showing improvements in inference performance, alongside newly released algorithms from Google ( NASDAQ:GOOG ). He argued that these types of advancements may reinforce a familiar pattern where better efficiency drives greater usage, referencing prior cycles where virtualization ultimately increased server demand and where the DeepSeek launch in 2025 coincided with accelerating AI growth despite initial concerns about a slowdown.\n\nLooking ahead, Rakesh pointed to several technology shifts that could further support memory demand, including the transition from copper to optical networking with significantly higher bandwidth, which he believes may increase AI server capital expenditures rather than reduce them. He also noted that KV cache compression could enable larger language models, faster inference, and improved token economics, potentially driving incremental spending across the ecosystem. Mizuho maintains Outperform ratings on both Micron and SanDisk, with price targets of $530 and $710, respectively, reflecting a view that the current drawdown may present a buying opportunity rather than a signal of a structural peak.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-03",
+      "Time": "04:23:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "戰火殺不死台股！5檔高含積人數逆勢創高　散戶早就偷偷撿",
+      "URL": "https://tw.news.yahoo.com/%E6%88%B0%E7%81%AB%E6%AE%BA%E4%B8%8D%E6%AD%BB%E5%8F%B0%E8%82%A1-5%E6%AA%94%E9%AB%98%E5%90%AB%E7%A9%8D%E4%BA%BA%E6%95%B8%E9%80%86%E5%8B%A2%E5%89%B5%E9%AB%98-%E6%95%A3%E6%88%B6%E6%97%A9%E5%B0%B1%E5%81%B7%E5%81%B7%E6%92%BF-202300626.html",
+      "Content": "財經中心／余國棟報導\n\n3月台股飽受中東戰火衝擊，好壞股通通跌，不過，隨川普「二週停戰說」利多出鞘，帶旺台股護國神山台積電及高含積量ETF股價補血復甦，除股價飆升外，其中，更有5檔高含積量ETF三月獲投資人超前部署、低接資金默默吃貨，激勵受益人數再攀歷史新高!\n\n根據集保統計，截至3/27止，持有台積電4成以上的台股高含積量ETF中，新光00904、元大0050、富邦0052、國泰00922與凱基009816共4檔，受益人數攀升至歷史新高，其中，受益人數最多的是元大0050，全台受益人高達約270萬人；為國人ETF最愛；績效方面，新光00904表現出線，今年來至3/31為止，累積含息報酬率達20.11%，超越台積電的13.92%，也大幅領先加權指數的9.53%，另外，富邦0052、元大0050、國泰00922等3檔，首季累積報酬率也贏過大盤，績效表現亮眼，吸引受益人數同步翻揚。\n\n新光臺灣半導體30(00904)ETF經理人詹佳峯表示，台積電近期股價回落，不減未來兩三年基本面亮麗前景，加上又是台股政府護盤重心，預計隨美伊戰事劃下休止符後，未來股價仍有機會恢復基本面表現。更值得注意的是，當今全球AI需求熱潮持續火熱，帶旺最直接受惠的是全球半導體產業，正迎來新一輪漲價週期，表示半導體行業正從去庫存週期，轉向量價齊升的新階段，結構性的投資機會正在浮現。\n\n半導體繼存儲晶片價格攀升後，類比晶片、功率元件及晶圓代工也紛紛啟動漲價潮，詹佳峯預估，半導體行業價格上行趨勢明確，次產業鏈的廠商獲利空間，將隨著漲價傳導效應逐漸展開，背後代表電子產業下游需求回暖，提供半導體整體庫存出清、供給端產能出現擴張，整體景氣熱度持續回升等基本面利多。儘管最近Google新發布的AI記憶體壓縮技術TurboQuant出現，引發市場對未來儲存設備需求減少的擔憂，造成記憶體股價走跌，不過，從未來AI發展歷程來看，台股半導體供應鏈未來數年仍持續受惠AI基建升浪。\n\n中東地緣政治衝擊，屬市場短線利空因素，造成台股短線波動劇烈，台新投信ETF投資團隊分析，事後來看，都是提供投資人長線逢回加碼優質資產的布局良機，尤其是台股，自2023年進入AI時代以來，每遇地緣衝突事件，盤勢拉回期間從事後來看，多是投資買點，例如2023/10/11哈瑪斯攻擊以色列，攻擊發生後3個月，台股反彈5.5%，6個月後上漲25%；另外，2024/4/15伊朗攻擊以色列，攻擊發生3個月後，大盤反彈約18.1%，6個月後上漲16.2%，顯示全球地緣政治衝突事件，不影響全球AI大趨勢格局。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
     },
     {
       "Ticker": "ARM",
