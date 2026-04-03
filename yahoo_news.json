@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-04-03T17:15:25.278Z",
-  "total_news_count": 1367,
+  "last_updated": "2026-04-03T17:39:59.115Z",
+  "total_news_count": 1369,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-04-04",
+      "Time": "01:06:37",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft shifts to paid Copilot push after 3% adoption disappoints investors",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-shifts-paid-copilot-push-170637102.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) is recalibrating its AI monetization strategy after investor feedback raised concerns about weak early conversion, shifting its focus toward selling Copilot as a paid product rather than emphasizing free adoption within its software ecosystem. According to remarks shared internally by Judson Althoff, who leads Microsoft's commercial business, the company set what he described as pretty big audacious goals for Copilot sales in the March quarter and appears to have largely achieved them, suggesting some early progress as the company leans into a more revenue-driven approach for its flagship workplace AI tool.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThat pivot follows a softer-than-expected starting point, as Microsoft disclosed in January that only about 3% of its office software customers were paying for Copilot, a figure that did not meet investor expectations for early monetization. With a base of roughly 450 million office users, the company is now concentrating on converting enterprise customers into paying subscribers rather than prioritizing broad free usage, a shift that reflects both analyst feedback and rising competitive pressure across the AI landscape. Althoff described the environment as a dog fight at the customer level, with Microsoft positioning itself around secure deployment and access to multiple leading AI models as it competes with OpenAI and other players.\n\nPricing remains a key lever in this transition. Copilot is offered at about $30 per user per month, while a newly introduced bundled offering that integrates AI into workplace software is priced around $99 per user per month, potentially creating a clearer monetization pathway. Management indicated that paid subscription targets for the current quarter could come in materially above prior levels, which may be closely watched as a signal of improving traction. Shares rose modestly following the report, even as the stock remains down significantly year-to-date, suggesting that investors are looking for clearer evidence that Microsoft's AI investments can translate into sustained revenue growth.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-04",
+      "Time": "00:54:11",
+      "Source": "Yahoo Finance",
+      "Title": "Google Tweaks Gemini Pricing To Cut AI Costs",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/google-tweaks-gemini-pricing-cut-165411746.html",
+      "Content": "This article first appeared on GuruFocus .\n\nGoogle ( NASDAQ:GOOG ) is changing how it prices Gemini, and the idea is pretty straightforward: give developers more control over how much they spend based on how fast they need things to run.\n\nInstead of a one-size-fits-all setup, Google is now offering different tiers like Standard, Flex, Priority, Batch and Caching. Each one is built for a different kind of workload. For example, if speed is not critical, the Flex tier lets you run tasks at about a 50% discount by using off-peak capacity, though results can take anywhere from 1 to 15 minutes. The Batch option is even slower, with jobs taking up to 24 hours, but it also comes with similar cost savings.\n\nWarning! GuruFocus has detected 3 Warning Sign with JPM.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nOn the flip side, if something needs to happen instantly, like a chatbot or fraud detection system, the Priority tier is there, but it costs 75% to 100% more than standard. Then there is the Caching tier, which helps cut costs when you are working with repeated data or large files.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-04-04",
