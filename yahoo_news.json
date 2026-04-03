@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-03T18:15:14.854Z",
-  "total_news_count": 1383,
+  "last_updated": "2026-04-03T18:20:39.091Z",
+  "total_news_count": 1384,
   "news": [
+    {
+      "Ticker": "STM",
+      "Date": "2026-04-04",
+      "Time": "02:02:56",
+      "Source": "Yahoo Finance",
+      "Title": "STMicroelectronics (STM) Expands 800V Portfolio with Nvidia Collaboration",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/stmicroelectronics-stm-expands-800v-portfolio-180256631.html",
+      "Content": "STMicroelectronics (NYSE: STM ) is one of the best future stocks to buy for the next 5 years . On March 17, STMicroelectronics announced the expansion of its 800 VDC power conversion portfolio through the introduction of new 12V and 6V architectures developed in collaboration with Nvidia. These solutions complement the company’s existing 800 VDC to 50V stage and are designed to support the 800 VDC reference design.\n\nThis expansion aims to provide a complete portfolio for power distribution within gigawatt-scale AI datacenter infrastructure, using STMicroelectronics’ (NYSE:STM) power, analog, and mixed-signal technologies with custom chip and package-level designs. The new architectures address the industry’s shift toward diverse server configurations and power delivery topologies required for high-density AI infrastructures.\n\nWhile the 12V converter enables high-efficiency distribution from rack-level power shelves to advanced AI accelerators, the 6V path allows OEMs to move the bus closer to the GPU. These developments help reduce copper usage, minimize resistive losses, and improve transient performance. The 50V, 12V, and 6V intermediate DC buses are expected to coexist depending on specific rack density, GPU configuration, and cooling strategies. Technically, the direct 800 VDC to 12V conversion eliminates traditional intermediate stages to reduce system-level losses and simplify integration for future GPU generations.\n\nPixabay/Public Domain\n\nSTMicroelectronics (NYSE:STM) is a technology company that specializes in semiconductor products and operates through four segments: AM&S (Analog products, MEMS & Sensors Group), P&D (Power and Discrete products), EMP (Embedded Processing), and D&RF (RF Products).\n\nWhile we acknowledge the potential of STM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nSTMicroelectronics (STM) Expands 800V Portfolio with Nvidia Collaboration\n\nSTMicroelectronics (STM) Expands 800V Portfolio with Nvidia Collaboration Pixabay/Public Domain\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-04-04",
