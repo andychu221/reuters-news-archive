@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-06T22:40:11.441Z",
-  "total_news_count": 368,
+  "last_updated": "2026-04-06T22:43:50.955Z",
+  "total_news_count": 370,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-07",
+      "Time": "06:29:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股盤前／美伊談判仍卡關！美股連四紅台指夜盤強漲　台股今有望拚止跌",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%89%8D-%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E4%BB%8D%E5%8D%A1%E9%97%9C-%E7%BE%8E%E8%82%A1%E9%80%A3%E5%9B%9B%E7%B4%85%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E5%BC%B7%E6%BC%B2-%E5%8F%B0%E8%82%A1%E4%BB%8A%E6%9C%89%E6%9C%9B%E6%8B%9A%E6%AD%A2%E8%B7%8C-222900103.html",
+      "Content": "財經中心／余國棟報導\n\n美國股市周一（6）日延續反彈氣勢，四大指數全面收紅，其中那斯達克指數上漲117點（+0.54%）、標普500指數上漲0.44%，費城半導體指數更強勢上漲1.06%，顯示科技股與半導體族群重新獲得資金青睞。美股四大指數全面小幅上漲，其中標普500 與那斯達克指數連續第四個交易日收紅，創下自1月以來最長連漲紀錄。市場情緒回穩，主因在於投資人對美國與伊朗之間停火談判仍抱持期待，儘管伊朗方面拒絕立即停火，但雙方仍持續透過外交管道協商，讓市場不至於全面轉空。\n\n美股續漲 VIX恐慌指數維持高位\n\n不過，地緣政治風險仍未解除，美國總統川普持續對伊朗釋出強硬訊號，甚至警告若荷姆茲海峽未恢復通行，將面臨更嚴厲軍事行動。此舉使得油價維持高檔震盪，WTI原油仍在每桶112美元附近徘徊，布蘭特原油也站穩109美元之上，市場對通膨再起的疑慮並未完全消散。同時，VIX恐慌指數仍維持在24以上高位，顯示市場仍處於「邊走邊看」的觀望格局。\n\n美國最新數據呈現分歧。服務業擴張動能放緩，就業市場出現降溫跡象，但3月非農新增17.8萬人優於預期，顯示經濟仍具韌性。不過，通膨指標「支付價格」升至近兩年高點，也讓市場對聯準會降息時程產生不確定性，成為壓抑股市上行空間的重要因素。\n\n台股今開盤有望止跌反攻\n\n回到台股，從期貨與籌碼面觀察，市場短線有機會出現技術性反彈。上週四台指期夜盤上漲372點，顯示國際盤帶動偏多氣氛回溫；台積電期貨盤後上漲15元，更直接替權值股注入強心針，再加上連假期間國際股市呈現上漲格局，揭有利於今（7）日現貨開盤表現。此外，融資減少7億元，代表市場槓桿資金略為退場，有助於籌碼沉澱，降低短線殺盤壓力。\n\n然而，從前一交易日來看，三大法人合計賣超達372億元，其中外資單日大舉賣超387億元，顯示國際資金仍偏向保守。外資期貨未平倉淨空單達3.4萬口，進一步強化市場對後市震盪的預期。不過，隨著費半指數反彈，加上AI題材仍具長線支撐，包括先進製程、AI伺服器與記憶體族群，有望在短線止穩後重新吸引買盤進場。\n\n利多與風險交錯 觀察油價\n\n台股短線正處於「利多與風險交錯」的關鍵時刻。一方面，美股連續上漲、期貨轉強，加上融資減肥，有利於反彈；另一方面，中東戰事與油價高檔壓力仍未解除，外資持續偏空操作，也限制反彈空間。\n\n投資人此刻操作上宜採取保守中帶彈性的策略，短線可留意權值股與AI族群是否出現止穩訊號，但不宜過度追高，並持續關注國際政經變數變化。今日台股能否真正止跌反攻，關鍵仍在於台積電表現與外資態度是否同步轉多，將成為盤勢最重要觀察指標。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。",
+      "Language": "zh"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-04-07",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-jump-long-term-221647887.html",
       "Content": "Investing.com -- Broadcom Inc (NASDAQ:AVGO) shares climbed 2.6% in after-hours trading Monday following the disclosure of major long-term agreements with Google (NASDAQ:GOOGL). The Monday filing reveals a deep commitment to co-developing custom silicon and networking infrastructure through the coming years.\n\nUnder the new terms, the companies entered into a \"Long Term Agreement for Broadcom to develop and supply custom Tensor Processing Units (“TPUs”) for Google’s future generations of TPUs.\" This partnership ensures Broadcom remains the primary design partner for the specialized chips that power Google’s most advanced artificial intelligence models.\n\nThe collaboration also includes a \"Supply Assurance Agreement for Broadcom to supply networking and other components to be used in Google’s next-generation AI racks through up to 2031.\" These components are critical for connecting massive clusters of chips required to train and run neural networks like Google’s Gemini.\n\nBeyond the hardware production, the deal extends to third-party AI developers through a tri-party expansion involving Anthropic PBC. The filing notes that \"Anthropic, beginning in 2027, will access through Broadcom approximately 3.5 gigawatts\" of next-generation TPU-based compute capacity.\n\nThis massive allocation of power and silicon underscores the growing scale of AI infrastructure investments as firms race for dominance. Investors likely view the 2031 timeline as a significant signal of predictable, high-margin revenue for Broadcom’s custom ASIC business.\n\nWall Street continues to reward Broadcom’s unique position as a key beneficiary of the AI buildout alongside industry leader Nvidia. By locking in long-term commitments with hyperscale customers, the chipmaker continues to solidify its role at the center of the global AI supply chain.\n\nBroadcom shares jump on long-term AI chip and networking deals with Google\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity\n\nWolfe Research outlines eight risks that could spark stock declines in 2026",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-07",
+      "Time": "06:04:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普伊朗拒停火方案！道瓊上揚165點 台積電ADR小漲近1％",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E4%BC%8A%E6%9C%97%E6%8B%92%E5%81%9C%E7%81%AB%E6%96%B9%E6%A1%88-%E9%81%93%E7%93%8A%E4%B8%8A%E6%8F%9A165%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%B0%8F%E6%BC%B2%E8%BF%911-220455538.html",
+      "Content": "美國總統川普7日期限逼近之際升高對伊朗的軍事威脅，加上伊朗已拒絕美方提出的立即停火方案，並堅持要求戰爭「永久結束」。市場原先對停火前景的期待降溫，國際油價盤中也走升。道瓊工業指數終場上漲165.21點。。輝達上漲0.25美元，或0.14%，收177.64美元。台積電ADR上漲2.69美元，或0.79%，收341.73美元。\n\n道瓊工業指數終場上漲165.21點，或0.36%，收46669.88點。\n\n那斯達克指數上漲117.16點，或0.54%，收21996.34點。\n\n標普500指數上漲29.14點，或0.44%，收6611.83點。\n\n費城半導體指數上漲82.72點，或1.06%，收7916.11點。",
+      "Language": "zh"
     },
     {
       "Ticker": "MU",
