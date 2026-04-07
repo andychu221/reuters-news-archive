@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-07T18:15:00.443Z",
-  "total_news_count": 677,
+  "last_updated": "2026-04-07T18:20:40.162Z",
+  "total_news_count": 678,
   "news": [
+    {
+      "Ticker": "ASML.AS",
+      "Date": "2026-04-08",
+      "Time": "02:12:48",
+      "Source": "Yahoo Finance",
+      "Title": "ASML Slides as U.S. Targets China Sales",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/asml-slides-u-targets-china-181248611.html",
+      "Content": "This article first appeared on GuruFocus .\n\nShares of ASML Holding ( NASDAQ:ASML ) fell 3.94% in Amsterdam on Tuesday, the first trading day after U.S. lawmakers last week introduced bipartisan legislation that could further restrict the Dutch chipmaking equipment giant's access to China. The bill, dubbed the MATCH Act, would go beyond existing controls by blocking not only sales but also the servicing of ASML's deep ultraviolet immersion lithography tools to major Chinese chipmakers. The proposal, if adopted and enforced by Dutch authorities, would represent the first meaningful tightening since 2024.\n\nThe financial impact estimates varied across analysts. ASML has forecast China at 20% of total revenue in 2026, down from roughly 30% in 2025, though it noted sales of older machines would be unaffected. Analysts estimate the financial hit could range from a low single-digit percentage impact on sales to as much as a 10% reduction in earnings per share.\n\nThe bill still needs to clear both the House and Senate, with a Senate version expected later this month. The legislation also directs the U.S. to push allies to adopt their own tighter measures before any unilateral action is taken, giving the Netherlands and Japan a 150-day window to comply.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-04-08",
