@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T21:40:13.370Z",
-  "total_news_count": 1103,
+  "last_updated": "2026-04-08T21:44:28.818Z",
+  "total_news_count": 1113,
   "news": [
     {
       "Ticker": "META",
@@ -21,6 +21,16 @@
       "URL": "https://finance.yahoo.com/m/edab3ab7-764a-3301-a182-b49ba8253e8e/these-growth-stocks-surged.html",
       "Content": "While Nvidia remains the poster child for the artificial intelligence (AI) infrastructure buildout, it has been far from the best-performing stock in the space over the past year. While Nvidia's stock is up a strong 60% over this period, Micron Technology (NASDAQ: MU) has a 300% gain, and Sandisk (NASDAQ: SNDK) is up nearly 1,400%.\n\nMicron and Sandisk are both riding strong trends in the memory market, although they are involved in different aspects of it. What's even crazier is that even after these huge gains, both Micron and Sandisk still trade at modest forward price-to-earnings (P/E) ratios. Micron trades at a forward P/E of 3.7 times fiscal 2027 (ending August 2027) analysts' earnings estimates, while Sandisk trades at an 8 times multiple for its fiscal 2027 ending in June 2027.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nWhile both are seeing huge growth and have what appear to be attractive valuations, whether the stocks are good buys at current levels is a bit more complicated. Let's dive in and see how they got here and what's next.\n\nRiding the memory wave\n\nThe memory market is broken down into two distinct parts. DRAM (dynamic random access memory) is the memory that translates into computing speed. It's extremely fast but volatile, which means that once power is lost, so is all the data. NAND, or flash memory, is significantly slower than DRAM but is nonvolatile, able to store data over long periods of time.\n\nDRAM is more complex and difficult to manufacture, and as such, three primary companies essentially form an oligopoly in the field: Micron, along with Korean companies Samsung and SK Hynix . These three companies have seen their revenue and gross margins surge over the past year as the DRAM market is currently in short supply.\n\nThe reason for this is that in order for graphic processing units (GPUs) and other AI chips to perform optimally, they need to be packaged with a special form of DRAM called high-bandwidth memory (HBM) that lets these chips quickly offload and retrieve data. This is leading to surging demand. Adding to the tightness in the market, HBM can use upwards of three times the wafer capacity of ordinary DRAM. As such, all DRAM prices have skyrocketed.\n\nNAND is also currently in short supply, and prices have also soared. The reasons behind this are a bit different, however. Flash memory saw a surge in demand during the pandemic as consumers ramped up spending on electronics. However, that turned out to be a pull-forward in demand that did not last, and an oversupply of NAND led to prices crashing and gross margins turning negative. This caused the big memory makers to cut flash production and turn more of their focus on DRAM.\n\nStory Continues\n\nHowever, with the rise of AI data centers, demand for huge solid-state drives (SSD) that use flash memory soon skyrocketed. With capacity cut and demand surging, NAND prices also skyrocketed. This has greatly benefited Sandisk, which is a pure-play NAND maker.\n\nWhere do the memory makers go from here?\n\nWhy both Micron and Sandisk trade at such low multiples is because the memory markets have historically been very cyclical with big boom-and-bust cycles. As such, investors aren't betting their current earnings power will last. On top of that, announcements around compression algorithms, such as Alphabet 's TurboQuant, that could potentially reduce cache memory needs, have hurt the stocks.\n\nHowever, unlike past cycles, today's memory supercycle is backed by a huge structural growth driver in AI. This is especially true for HBM, which is directly tied to GPU usage. DRAM contracts have historically been less than a year, often a quarter, but the massive need for HBM is starting to lead to long-term contracts of three to five years with minimum commitments. This is a big change to the industry that can help reduce the cyclicality for Micron.\n\nThe NAND market, meanwhile, is looking to have its HBM moment with high bandwidth flash (HBF). This is designed specifically for AI inference and bridges the gap between HBM and SSDs. However, it is still very early, and widespread adoption could be years away.\n\nOverall, both Micron and Sandisk need to shed their cyclical labels to move higher from here. In my view, Micron is much closer to this. It's already signed one five-year HBM contract, and if this type of agreement can become the industry standard, it should be able to command a higher multiple. That's why I think it is the better buy of the two.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "05:00:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "不只台積電賺！台股187家EPS超狂　謝金河點名「這2產業」：Q1獲利嚇人",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%8D%E5%8F%AA%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B3%BA-%E5%8F%B0%E8%82%A1187%E5%AE%B6eps%E8%B6%85%E7%8B%82-%E8%AC%9D%E9%87%91%E6%B2%B3%E9%BB%9E%E5%90%8D-%E9%80%992%E7%94%A2%E6%A5%AD-q1%E7%8D%B2%E5%88%A9%E5%9A%87%E4%BA%BA-210000618.html",
+      "Content": "財經中心／施郁韻報導\n\n台股9日收盤以34761點作收，上漲1531點，寫下史上第2多， 台積電 （2330）則漲90元，幅度超過4.84%。對此，財信傳媒董事長謝金河指出，台灣去年賺超過1個股本的公司高達187家，除了向用心經營企業的經營者致敬外，並點名這2產業第一季會有驚人獲利。\n\n謝金河在臉書以「台股壯濶的底氣」為題發文，提到每年這時候，上市上櫃公司會公布整年度的財務報表，形容就像一個人去醫院健檢的報告，股價經過一段時間的奔馳後，可以用來檢視是否超漲？並且作為預測未來營運的基底。\n\n謝金河表示，去年全體上市櫃公司淨利4.53兆元，寫下歷史紀錄，從前總統蔡英文上任第一年（2016年）的1.88兆開始逐年增長，2020年疫情來襲，數位轉型為台灣帶來大機會，台積電那年淨利5178億元，也將台股推升突破高懸30年的12682點，台股獲利突破2兆元到2.46兆。2021年到4.34兆，那年台積電賺5965億元，台塑四寶賺4144億元，這是傳統產業最好的一年。\n\n謝金河接著說，到了2022中國內捲殺戮開始，淨利小退至3.98兆。然後是暴力升息，2023年跌至2.91兆，到了2024年才回到4.06兆，去年的4.53兆，台積電貢獻顯著，台積電大賺1.7178兆，佔38%，真正扮演護國神山的角色。\n\n謝金河說，很多人都覺得台積電是一個人武林，但仔細檢視每家公司的EPS，才發現台灣企業超強的獲利能力，從高到低檢視一遍，數字令人驚嘆，去年EPS超過100元的有4家，緯穎、大立光、信驊、川湖；賺超過50元的有11家，台積電66.26排在第9，聯發科66.16第10，EPS超過30元的公司有38家。\n\n謝金河指出，台灣去年賺超過一個股本的公司居然高達187家，「這真的要向用心經營企業的經營者致敬」；「今年會有什麼新局？我看記憶體及通路商第一季的獲利會很嚇人，富邦投顧陳奕光董事長估今年淨利上看5.99兆，如果是這樣，這將是支撐台股的最重要底氣！台灣正在AI軍備競賽的熱浪上！」",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
@@ -201,6 +211,96 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-jumping-today-201053337.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) advanced about 8% on Wednesday, lifted by a positive analyst assessment and broad strength in technology shares.\n\nAnalyst KC Rajkumar said the chipmaker appears to have resolved client wafer supply problems that weighed on its first-quarter outlook three months ago. Unfulfilled demand may carry into future quarters, the note showed.\n\nWarning! GuruFocus has detected 8 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nActivity at Intel's 7-nanometer and 14-nanometer nodes appears robust, with those older lines running at full utilization. The supply shortfall could reach roughly 50% of current demand, Rajkumar added. The analyst suggested Intel might report first-quarter results above the midpoint of its revenue guidance.\n\nLynx Equity raised its price target on the stock to $70 from $65, applying a higher price-to-sales multiple of six times compared with five times previously.\n\nThe firm cited improved near-term execution and longer-term potential. The analyst also questioned Intel's recent buyback of its 49% stake in its Ireland fab, speculating whether an external customer could be involved.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美伊停火二周》台股漲點 史上第二",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E4%BA%8C%E5%91%A8-%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%BB%9E-%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C-201000236.html",
+      "Content": "美國與伊朗停火兩周，帶動台股在內的亞股8日強漲。台股方面，集三大法人千億資金全力湧進，尤其外資報復性回補、史上第二大買超1,177億元搶進，鎖定台積電以史上第七大買超357億元敲單，推升加權指數終場上漲1,531點至34,761點，創史上第二大漲點，成交量放大至8,941億元。法人表示，台股8日長紅K棒突破三角收斂區，看好4月有望挑戰歷史新高。\n\n三大法人8日同步站在買方，合計買超台股1,583億元，除了外資，自營商買超358.68億元也寫下歷史最多紀錄，投信則買超47.2億元；盤面上計有109家上市櫃公司漲停，千金股來到40檔創歷史新高，逢低強力護盤的八大公股行庫則趁勢換銀彈，賣超313.83億元，也寫下史上單日賣超最多。\n\n台新投顧總經理黃文清表示，台股突破盤局，看好加權指數4月有望再挑戰歷史新高35,579點，雖美伊需再觀察，但目前態度雙方都不希望事端擴大，即使有波動，短期內應不會再破戰爭後的3月9日低點31,529點。\n\n技術面來看，黃文清指出，8日長紅K棒突破了3月18日的頸線，代表市場信心回籠，盤勢再度回到短中長期偏多格局，預估台股將震盪盤堅且挑戰新高，兩周的停火時間，可視為偏多操作的黃金期，市場資金將聚焦於強勢股，如矽光子、光通訊、檢測等，台積電將在16日舉行法說會，以往慣例相關概念股有望吸引市場目光，包括設備耗材SoIC、CoWoS等族群可望有所表現。\n\n第一金投顧董事長黃詣庭表示，目前距離前波歷史高點差距不到千點，突破35,000點之後，將會面臨前波兆元天量的套牢壓力區，10日的美伊談判若順利，加上即將迎來台積電法說會，有望釋出利多展望，加權指數將朝前高挺進。\n\n觀察近期雙方交火時，指數皆有再跌破前低，逐漸鈍化，即使談判破局，加權指數跌回33,000點～33,500點的月線附近震盪，但短期內要再破底的機率不高。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "7檔台股ETF 近一年績效翻倍",
+      "URL": "https://tw.stock.yahoo.com/news/7%E6%AA%94%E5%8F%B0%E8%82%A1etf-%E8%BF%91-%E5%B9%B4%E7%B8%BE%E6%95%88%E7%BF%BB%E5%80%8D-201000639.html",
+      "Content": "美國總統川普宣布美伊戰事停火兩周，台股迎來報復性反彈，回顧川普開啟關稅戰以來近一年，台股加權指數雖然尚未回到35,000點，但已有多檔主動台股ETF率先創高；被動台股原型ETF創收盤新高有元大富櫃50（006201）、國泰台灣科技龍頭（00881）、中信小資高價30（00894）、中信上櫃ESG30（00928）等。若以近一年績效而言，有七檔已翻倍，其中以中信小資高價30（00894）的124.57％居冠。\n\n中信投信表示，台灣能在關稅新秩序中走出獨立行情，關鍵在於AI時代不可或缺的高科技供應能力。台灣企業掌握全球約90％的AI伺服器生產市占、並握有約70％的半導體代工市占，使台灣在AI伺服器與半導體等關鍵品項上具備替代性低的競爭條件。同時台灣官方統計顯示2025年整體出口成長34.8％，且部分科技相關產品未被納入關稅涵蓋範圍，讓台灣得以避開額外的對美貿易成本壓力。\n\n新光臺灣半導體30（00904）ETF投資團隊指出，中東戰火造成台股首季回檔，預計第二季指數維持震盪，僅個股表現出頭，唯戰爭地緣政治利空，燒熄不了全球AI剛需，半導體身為AI科技之母，台廠半導體產業鏈，更扮演AI晶片領頭羊與AI基建軍火庫，預計16日召開的台積電最新法說，將釋出產業景氣暢旺風向球，除半導體先進製程外、包括記憶體的存儲晶片、類比晶片、功率元件及成熟晶圓代工也啟動漲價潮，半導體行業價格上行趨勢明確，供給端產能出現擴張，整體景氣熱度持續回升。\n\n野村臺灣新科技50（00935）經理人林怡君認為，雖短線仍須留意美股半導體與ADR波動，但市場焦點已回歸基本面。展望第二季，AI資本支出與高效能運算需求持續擴張，台股中長期多頭架構未變，科技型ETF仍是市場配置重心。但除了半導體，台股仍有許多科技次產業亦能受惠於AI成長趨勢且具備創新優勢，因此基金持股橫跨先進製程、封裝、電源、散熱、網通與測試等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "高貴不貴 台股40千金達陣",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AB%98%E8%B2%B4%E4%B8%8D%E8%B2%B4-%E5%8F%B0%E8%82%A140%E5%8D%83%E9%87%91%E9%81%94%E9%99%A3-201000112.html",
+      "Content": "美伊達成停火共識，8日台股多頭火力猛攻，千金股百花齊放，台股40千金達陣，寫歷史新紀錄，早盤宜鼎、AES-KY、金像電、雙鴻等齊步攻上千元，盤中更一口氣直接衝上41千金。\n\n富邦投顧董事長陳奕光樂觀看今年底台股會有50千金，明年每半年至少增加5千金，年底有機會挑戰60千金。\n\n華南投顧董事長呂仁傑也表示，千金股是短線反彈動能最強的標的，但也可看到市場資金快進快出。目前市場不缺錢，缺的是信心，在停戰消息激勵下，千金股高貴不貴，貴還是會再買。\n\n旺矽漲停攻上4,310元，首度站上4,000元俱樂部，也成高價股三哥，股王信驊及股后穎崴攜手攻上漲停，信驊12,615元也刷歷史新高。\n\n除了千金三王齊攻漲停外，台光電、嘉澤、奇鋐、竑騰等17檔盤中都飆上漲停。\n\n惟最後金像電打開漲停收在998元大漲7.66％，台股最後收40千金，收盤仍有14千金漲停；萬潤收在980元，9日蓄勢再戰千元；不過，AES-KY及雙鴻各收在1,015元及1,005元，上演擦邊球的戲碼，能否守穩續向上攻，將攸關台股40千金之後是進或是退。\n\n法人提醒，10日美伊才要談判，台股8日一次強彈1,531點，直接反應利多，談判通常不會一次成功，會來回折衝，雜訊會很多，甜甜價最多到9日為止，建議投資人仍要留心追高的風險；隨著千金股本益比飆高至數十倍至百倍以上者眾，要提防漲多有「泡沫」的風險，除非未來獲利跟著上來。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股被動ETF旺 前十強犀利",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%A2%AB%E5%8B%95etf%E6%97%BA-%E5%89%8D%E5%8D%81%E5%BC%B7%E7%8A%80%E5%88%A9-201000772.html",
+      "Content": "美伊戰爭現轉機，美國總統川普7日宣布，延後兩周對伊朗採取大規模軍事行動，伊朗隨後表示，接受為期兩周的停火協議，國際油價瞬間暴跌17％，台股加權指數8日收盤大漲1,531點，重返34,000點關卡之上，帶動台股被動ETF績效勁揚，8日績效前十強皆大漲6％以上，較加權指數超額報酬達3成以上。\n\n台新臺灣IC設計（00947）研究團隊表示，市場資金正以最直接的方式回應AI浪潮的下一場演進。近期美國首檔記憶體主題ETF的Roundhill Memory ETF（DRAM）正式掛牌，前三大持股 Micron、Samsung與SK hynix 合計權重逾7成，顯現全球資金正透過「產品化」方式集中布局記憶體產業。成份股也將台股的南亞科、華邦電納入其中，進一步反映台灣記憶體供應鏈在全球AI基礎設施中的關鍵地位。\n\n野村投信指出，AI產業需求展望仍是支撐市場長期趨勢的核心動能，然而，美伊紛爭狀況反覆，對荷姆茲海峽通行與原油供應造成潛在衝擊，推升油價與通膨預期，成為近期市場主要干擾因素。短線需留意地緣政治與通膨數據對市場情緒的影響，但中長期在AI需求持續成長、CSP 投入力道不減的支撐下，台股仍具備結構性投資機會。\n\n富邦科技ETF（0052）經理人洪珮甄認為，台灣在全球半導體供應鏈中具關鍵地位，涵蓋先進製程、封裝測試及IC設計等領域，產業競爭優勢明確，可望成為AI浪潮下最直接受惠市場之一。展望後市，市場仍處於風險與機會並存格局。整體而言，AI長期成長趨勢不變，但短期仍需留意地緣政治與利率變動帶來的評價調整壓力。基本面支撐下，科技產業仍具長線成長動能，AI基礎建設持續扮演台股核心驅動力。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "00400A掛牌 搶搭台股順風車",
+      "URL": "https://tw.stock.yahoo.com/news/00400a%E6%8E%9B%E7%89%8C-%E6%90%B6%E6%90%AD%E5%8F%B0%E8%82%A1%E9%A0%86%E9%A2%A8%E8%BB%8A-201000374.html",
+      "Content": "美伊宣布停火兩周令避險情緒衰退，油價自高檔回落，亞股普遍飆漲，台股8日大漲1,531點，收34,761點。國泰投信指出，市場現處於短期情緒修復期，後續通膨壓力與風險資產表現，將取決於正式協議的簽署及荷莫茲海峽通行狀況。面對變幻莫測的金融情勢，被動布局已難滿足追求超額報酬目標的投資者，9日掛牌的主動式台股ETF「主動國泰動能高息（00400A）」上市即熱度飆升，再創ETF話題，主打國泰投信獲獎連連的台股團隊親自操盤，特別是具備月配息機制，更具吸引力。\n\n國泰投信指出，傳統被動式ETF雖具備持股透明與低成本優勢，但成份股定期調整機制易產生遞延效應。相比之下，主動式ETF結合專業團隊選股策略與ETF的交易便利性，能在市場波動中動態布局。為提供投資人更多元的投資需求，國泰投信旗下第一檔主動式ETF「主動國泰動能高息（00400A）」，結合「收益防守」與「動能成長」雙重優勢，篩選具備優質殖利率的標的，也強調成份股發展潛力，讓投資人有機會避免陷入「領了股息卻賠掉價差」的高息陷阱。\n\n主動國泰動能高息經理人梁恩溢表示，00400A在主動式ETF甚具特色，由專業經理團隊親自掌舵，為國內首檔導入「每月收益分配」機制的台股主動式ETF，其核心目標在於讓投資人不僅能分享優質台股組合長期資本增值的豐碩成果，更能透過現金流分配，在國際政經情勢震盪、台股波動加劇的環境下，緩解投資心理上的「波動焦慮」。\n\n00400A另一大優勢為主動出擊，在選股邏輯上，該團隊秉持緊抓趨勢、追逐具高度成長性與強勁動能產業的戰略方向，現階段台股正處於AI應用普及化、半導體供應鏈重組等重大結構性變革中，單一指數難以涵蓋所有黑馬股，團隊透過深厚的產業研究實力，優先配置具有高度護城河、技術領先，且獲利動能持續上修、擁有高現金流的企業，無論是上游的先進封裝、IC設計，或是下游的雲端伺服器與邊緣運算，團隊皆能靈活切換投資比重。這種以動能成長為主軸、收益防守為基底的混血策略，協助投資人掌握台股長線紅利。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "12檔主動台股ETF 績效勝大盤",
+      "URL": "https://tw.stock.yahoo.com/news/12%E6%AA%94%E4%B8%BB%E5%8B%95%E5%8F%B0%E8%82%A1etf-%E7%B8%BE%E6%95%88%E5%8B%9D%E5%A4%A7%E7%9B%A4-201000759.html",
+      "Content": "美伊為期兩周的停火、原油價格跌破每桶100美元利多下，台股應聲大漲1,531.56點，市場投資新寵主動式台股ETF表現更出色，12檔單日與今年來平均漲幅分別為6.07％、25.19％，雙雙打敗大盤的4.61％、20.02％。\n\n主動群益科技創新（00992A）經理人陳朝政表示，台股首要焦點應放在AI相關科技產業及其供應鏈，這些領域包括電源管理、高效能運算基礎設施以及半導體設備廠務工程等，具備較高的成長潛力。基本面穩健的產業與族群仍具備顯著的布局價值。預期包含載板、設備、半導體、光通訊、記憶體等相關族群仍將持續受惠產業趨勢的發展。\n\n主動國泰動能高息（00400A）經理人梁恩溢指出，現階段台股正處於AI應用普及化、半導體供應鏈重組等重大結構性變革中，單一指數難以涵蓋所有黑馬股，配置具有高度護城河、技術領先，且獲利動能持續上修、擁有高現金流企業，包括先進封裝、IC 設計，或下游雲端伺服器與邊緣運算，靈活切換投資比重。\n\n主動第一金台股優（00994A）經理人張正中認為，科技產業仍推動新一輪投資週期，雲端服務公司持續加碼AI基礎設施，估今年美國四大CSP資本支出達6,176億美元，年增率約6成；台灣電子業高階晶片、伺服器、記憶體與散熱等供應鏈環節具備優勢，預期持續受惠雲端資本支出循環，營運能見度高、獲利動能強。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資：台積季季旺到2027年底",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87-%E5%8F%B0%E7%A9%8D%E5%AD%A3%E5%AD%A3%E6%97%BA%E5%88%B02027%E5%B9%B4%E5%BA%95-201000282.html",
+      "Content": "台積電法說前熱度持續加溫，花旗環球、摩根士丹利、高盛及摩根大通證券等攜手凝聚市場焦點，並展現對台積電營運動能高度信心，最吸睛之處在於，據外資估算，台積電單季營收從去年首季低點起算，很可能一直成長到2027年底，足足三年時間內根本看不到淡季，呈現「季季旺」。\n\n台積電法說會進入倒數一周時間，外資看台積電目標價持續墊高，繼摩根士丹利2,288元、花旗環球2,800元、摩根大通2,400元之後，高盛將台積電股價預期升至2,750元，在主要外資機構中僅次於花旗環球證券。\n\n台積電過往第一季營運相對較淡，主要受工作天數較少與消費性電子產品的拉貨時程所牽動，但在邁入AI時代後，此情況悄悄發生變化。摩根士丹利證券半導體產業分析師詹家鴻說明，儘管近期觀察到智慧機半導體訂單出現調整，但包括AI與網通在內的高效能運算（HPC）客戶需求強勁，可有效填補產能，預期台積電第二季營收將季增5％～10％。\n\n高盛證券同樣認為，台積電營運動能仍由AI主導，無論在AI GPU、AI ASIC平台，甚至AI相關傳統伺服器CPU需求均持續升溫，AI需求快速填補相關產能缺口；因此，智慧機、消費性產品客戶下修訂單的短期雜音，並不會成為結構性風險。\n\n觀察各大外資所做財務模型，台積電單季營收數字自去年第二季恢復正成長，迄今不見轉差跡象，連傳統淡季的第一季都將比去年第四季成長，這股季季高的力道不只延續至第四季，更可能延伸至2027年第四季，屆時單季營收有望上看1.84兆元新境界，相當平均每月營收都有6,000億元左右水準。再觀察短期毛利率表現，就算戰爭因素推升化學原料成本，惟台積電受惠產能利用率提升，大摩預期，第二季毛利率仍可維持約64％～65％水準，大致符合市場共識。\n\n高盛證券進一步上調台積電年度營收成長性，考量3奈米與5奈米製程產能利用率滿載，輔以生產效率持續改善，將台積電今年至2027年以美元計價營收年增率預估，由成長33％與28％，調高至35％與30％，至於2028年年增率依然有29％高水準。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美伊停火二周》台股漲點 史上第二",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E4%BA%8C%E5%91%A8-%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%BB%9E-%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%BA%8C-201000236.html",
+      "Content": "美國與伊朗停火兩周，帶動台股在內的亞股8日強漲。台股方面，集三大法人千億資金全力湧進，尤其外資報復性回補、史上第二大買超1,177億元搶進，鎖定台積電以史上第七大買超357億元敲單，推升加權指數終場上漲1,531點至34,761點，創史上第二大漲點，成交量放大至8,941億元。法人表示，台股8日長紅K棒突破三角收斂區，看好4月有望挑戰歷史新高。\n\n三大法人8日同步站在買方，合計買超台股1,583億元，除了外資，自營商買超358.68億元也寫下歷史最多紀錄，投信則買超47.2億元；盤面上計有109家上市櫃公司漲停，千金股來到40檔創歷史新高，逢低強力護盤的八大公股行庫則趁勢換銀彈，賣超313.83億元，也寫下史上單日賣超最多。\n\n台新投顧總經理黃文清表示，台股突破盤局，看好加權指數4月有望再挑戰歷史新高35,579點，雖美伊需再觀察，但目前態度雙方都不希望事端擴大，即使有波動，短期內應不會再破戰爭後的3月9日低點31,529點。\n\n技術面來看，黃文清指出，8日長紅K棒突破了3月18日的頸線，代表市場信心回籠，盤勢再度回到短中長期偏多格局，預估台股將震盪盤堅且挑戰新高，兩周的停火時間，可視為偏多操作的黃金期，市場資金將聚焦於強勢股，如矽光子、光通訊、檢測等，台積電將在16日舉行法說會，以往慣例相關概念股有望吸引市場目光，包括設備耗材SoIC、CoWoS等族群可望有所表現。\n\n第一金投顧董事長黃詣庭表示，目前距離前波歷史高點差距不到千點，突破35,000點之後，將會面臨前波兆元天量的套牢壓力區，10日的美伊談判若順利，加上即將迎來台積電法說會，有望釋出利多展望，加權指數將朝前高挺進。\n\n觀察近期雙方交火時，指數皆有再跌破前低，逐漸鈍化，即使談判破局，加權指數跌回33,000點～33,500點的月線附近震盪，但短期內要再破底的機率不高。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-09",
+      "Time": "04:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "權證市場焦點－弘塑 在手訂單暢旺",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%AC%8A%E8%AD%89%E5%B8%82%E5%A0%B4%E7%84%A6%E9%BB%9E-%E5%BC%98%E5%A1%91-%E5%9C%A8%E6%89%8B%E8%A8%82%E5%96%AE%E6%9A%A2%E6%97%BA-201000311.html",
+      "Content": "半導體設備廠弘塑（3131）業績跟著台積電（2330）起舞，伴隨著台積電與日月光投控（3711）持續擴增CoWoS、CoPoS、SoIC、WMCM產能，相關設備股訂單滿手，弘塑也搭上此多頭列車，今年營運續看漲。\n\n受惠CoWoS與WMCM雙雙擴產，法人樂觀預估弘塑今年設備出貨量將達200至250台，營收也將同步增長，呈雙位數成長，且下半年在新廠投產下，外包比例可望隨之下降，整體獲利能力也會跟著提升。\n\n弘塑今年營運持續出紅盤，就連工作天數銳減的2月，也依然維持強勁成長動能，單月營收以5.81億元，不僅繳出年增51.8％的亮眼成績單，連月增幅也達到10.2％，另外，累計前二月營收11.08億元，亦呈年增47％，也算是一開春就逢春。\n\n＊【權證投資必有風險，本專區資訊僅供參考，並不構成邀約、招攬或其他任何建議與推薦，請讀者審慎為之】",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
