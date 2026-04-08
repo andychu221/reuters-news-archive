@@ -1,7 +1,18 @@
 {
   "last_updated": "2026-04-08",
-  "total_reports": 177,
+  "total_reports": 178,
   "reports": [
+    {
+      "Source": "TradingView - Reuters Stocks",
+      "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T40R03L:0/",
+      "Date": "2026-04-08",
+      "Time": "09:19:05",
+      "Title": "台灣股市：早盤大漲逾3%，美伊同意停火兩周提高風險偏好",
+      "Content": "台灣股市周三早盤大漲逾3.6%，受惠特朗普（川普）有意暫時停火兩周，令油價暴跌，市場風險偏好大增。\n\n本地時間09:09，台股 TWSE:TAIEX上漲3.56%報34,402.45點；同時間最大權重股--台積電 大漲3.76%報1,930台幣。\n\n美國總統特朗普態度突然逆轉，他周二表示已同意與伊朗達成為期兩周的停火協議，此時距離他給德黑蘭設定的最後期限僅剩不到兩小時。（完）",
+      "ContentLength": 189,
+      "HasTables": false,
+      "ScrapedAt": "2026-04-08 09:42:44"
+    },
     {
       "Source": "TradingView - Reuters FX",
       "URL": "https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T40Q1CP:0/",
