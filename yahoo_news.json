@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-04-09T13:32:33.971Z",
-  "total_news_count": 1325,
+  "last_updated": "2026-04-09T13:40:25.286Z",
+  "total_news_count": 1329,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-04-09",
+      "Time": "21:37:10",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Launches Muse Spark AI Model for Products",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/meta-launches-muse-spark-ai-133710230.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta ( META , Financials ) has introduced a new artificial intelligence model called Muse Spark , marking the first release from its Superintelligence group as the company steps up its focus on product-driven AI.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe new model is part of Meta's larger \"Muse\" series, which the company calls a disciplined and research-based way to develop advanced AI systems. Muse Spark is different from past models that were more focused on research. It is meant to power real goods and user experiences.\n\nThe rollout is part of Meta's plan to use AI increasingly in all of its platforms, such as social media, messaging, and digital ads. The corporation is making AI a key part of its efforts to get people to use its products and make money from them, rather than merely a research project.\n\nThe move also comes at a time when competition in artificial intelligence is getting tougher, as big tech companies try to roll out models that can support both consumer and business use cases on a large scale.\n\nInvestors will probably keep an eye on how quickly Meta adds Muse Spark to its ecosystem and whether it leads to real increases in user engagement, ad performance, and overall revenue growth.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-04-09",
+      "Time": "21:15:16",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon’s Jassy says AI revenue run rate is over $15 Bln, hints at future chip sale",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-jassy-says-ai-revenue-131516736.html",
+      "Content": "Investing.com -- Amazon’s chief executive officer, Andy Jassy, in a letter to shareholders on Thursday, said that Amazon’s AI services at its cloud-computing unit are generating annualized revenue of more than $15 billion in the first quarter of 2026, easing some investor worries around increased company spending billions of dollars in its AI push.\n\nShares in the company rose 2% in pre-market hours of trading.\n\nAmazon, like its competitors, faces pressure to demonstrate that its AI investments will yield results. In February, the e-commerce giant projected its capital expenditures would reach $200 billion this year, primarily targeting AI development and infrastructure—a number that unsettled investors and raised concerns about a potential industry bubble.\n\n“We are willing to make large capex investments and endure short-term FCF headwinds for the substantial medium to long-term FCF surplus. AI is a once-in-a-lifetime opportunity where the current growth is unprecedented and the future growth even bigger,” Jassy said.\n\nThis is the first time the technology giant has disclosed numbers for a business it has backed with a major investment to compete with its immediate rivals, such as NVIDIA Corporation (NASDAQ:NVDA), Microsoft Corporation (NASDAQ:MSFT), and Alphabet Inc Class A (NASDAQ:GOOGL) Google.\n\nCitron Research, in an X post, said, ‘Too compelling not to comment on Amazon,’ and set a $300 price target on the stock.\n\nJassy also said that Amazon’s custom chip business is growing rapidly, as large tech firms are starting to make their own chips to reduce dependence on chipmakers like Nvidia.\n\nThe letter said that the company’s chip business, which includes Graviton processors, Trainium AI chips, and Nitro networking cards, has doubled its annualized revenue run rate to over $20 billion, up ​from the $10 billion the company disclosed alongside its fourth-quarter results.\n\nCitron said that Amazon’s chip business is “another trillion-dollar company hidden inside Amazon”.\n\n“If our chips business was a stand-alone business, and sold chips produced this year to AWS and other third parties (as other leading chips companies do), our annual run rate would be ~$50 billion”.\n\nJassy also hinted towards future chip sales to other firms by saying that “There’s so much demand for our chips that it’s quite possible we’ll sell racks of them to third parties in the future”.\n\nAmazon’s Jassy says AI revenue run rate is over $15 Bln, hints at future chip sale\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nGoldman expects lower but still attractive stock market returns in 2026",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-04-09",
@@ -23,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-09",
+      "Time": "21:02:25",
+      "Source": "Yahoo Finance",
+      "Title": "Intel and Google to double down on AI CPUs with expanded partnership",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-google-double-down-ai-130225134.html",
+      "Content": "April 9 (Reuters) - Intel and Google have expanded their partnership to advance the use of artificial intelligence-focused central processing units and ‌to develop custom infrastructure processors, as shifting use of AI ‌drives renewed demand for traditional computing chips.\n\nCompanies are increasingly moving away from using AI ​for training models to deploying them, fueling the need for generalist CPU chips designed to handle heavy workloads.\n\nMore from Yahoo Scout\n\nHow are CPUs becoming important for AI deployment?\n\nHow could this partnership help Intel's market position?\n\nHow does Intel's Google partnership expand their AI infrastructure?\n\nWhat infrastructure processing units will Intel develop?\n\nUnder the agreement, announced on Thursday, Alphabet's Google unit will continue to deploy Intel's Xeon processors that support a broad ‌range of workloads such ⁠as inference and general-purpose computing. The company will also use Intel's latest Xeon 6 chips.\n\nIntel and Google will also ⁠expand the co-development of custom infrastructure processing units (IPUs), which can handle tasks traditionally managed by the CPU, enabling more efficient computing.\n\n\"Scaling AI requires more than ​accelerators - it ​requires balanced systems. CPUs and IPUs ​are central to delivering the ‌performance, efficiency and flexibility modern AI workloads demand,\" said Intel CEO Lip-Bu Tan.\n\nSurging demand for agentic AI systems - which perform complex, multi-step operations beyond simple chatbot functionality - has boosted the requirement for significantly more CPU processing power.\n\nThe surge in demand for CPUs could help Intel to strengthen ‌its balance sheet and acquire new customers ​after the chip manufacturer lost market share ​to rivals during the early ​years of the AI boom.\n\nThe company said on Tuesday ‌it will join Elon Musk's Terafab ​AI chip complex ​project with SpaceX and Tesla to power the billionaire's robotics and data center ambitions.\n\nIntel also plans to take full ownership of its ​Ireland manufacturing facility, where ‌it makes Xeon server processors, by buying back the stake ​it had sold to Apollo Global Management.\n\n(Reporting by Zaheer Kachwala ​in Bengaluru; Editing by Sriraj Kalluvila)",
+      "Language": "en"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-04-09",
       "Time": "21:02:25",
@@ -30,6 +60,16 @@
       "Title": "Intel and Google to double down on AI CPUs with expanded partnership",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-google-double-down-ai-130225134.html",
       "Content": "April 9 (Reuters) - Intel and Google have expanded their partnership to advance the use of artificial intelligence-focused central processing units and ‌to develop custom infrastructure processors, as shifting use of AI ‌drives renewed demand for traditional computing chips.\n\nCompanies are increasingly moving away from using AI ​for training models to deploying them, fueling the need for generalist CPU chips designed to handle heavy workloads.\n\nMore from Yahoo Scout\n\nHow are CPUs becoming important for AI deployment?\n\nHow could this partnership help Intel's market position?\n\nHow does Intel's Google partnership expand their AI infrastructure?\n\nWhat infrastructure processing units will Intel develop?\n\nUnder the agreement, announced on Thursday, Alphabet's Google unit will continue to deploy Intel's Xeon processors that support a broad ‌range of workloads such ⁠as inference and general-purpose computing. The company will also use Intel's latest Xeon 6 chips.\n\nIntel and Google will also ⁠expand the co-development of custom infrastructure processing units (IPUs), which can handle tasks traditionally managed by the CPU, enabling more efficient computing.\n\n\"Scaling AI requires more than ​accelerators - it ​requires balanced systems. CPUs and IPUs ​are central to delivering the ‌performance, efficiency and flexibility modern AI workloads demand,\" said Intel CEO Lip-Bu Tan.\n\nSurging demand for agentic AI systems - which perform complex, multi-step operations beyond simple chatbot functionality - has boosted the requirement for significantly more CPU processing power.\n\nThe surge in demand for CPUs could help Intel to strengthen ‌its balance sheet and acquire new customers ​after the chip manufacturer lost market share ​to rivals during the early ​years of the AI boom.\n\nThe company said on Tuesday ‌it will join Elon Musk's Terafab ​AI chip complex ​project with SpaceX and Tesla to power the billionaire's robotics and data center ambitions.\n\nIntel also plans to take full ownership of its ​Ireland manufacturing facility, where ‌it makes Xeon server processors, by buying back the stake ​it had sold to Apollo Global Management.\n\n(Reporting by Zaheer Kachwala ​in Bengaluru; Editing by Sriraj Kalluvila)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-04-09",
+      "Time": "20:59:37",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Says AI Voice Still Needs Work",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-says-ai-voice-still-125937859.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) says artificial intelligence still has a long way to go before voice commands feel truly natural, underscoring both the promise and the limits of current AI tools.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMustafa Suleyman, Microsoft's AI chief, said models and agents still need much more training to accurately understand human intent through spoken conversation. His comments, reported by Semafor, came as he discussed MAI-Transcribe-1, Microsoft's new voice transcription model.\n\nThe issue, he said, is that information can be lost when speech is converted into text for an AI system to process. That makes transcription a critical early step for improving voice-driven assistants and agents, especially as more users begin interacting with AI through natural speech rather than typed prompts.\n\nThe remarks matter because voice remains one of the clearest ways AI could become more useful in everyday life, from workplace software to consumer applications. But they also show that the technology is not yet where companies want it to be.\n\nSuleyman also said Microsoft's revised agreement with OpenAI gave the company more room to pursue its own frontier models and broader AI self-sufficiency. Investors will likely watch how quickly Microsoft can turn that ambition into competitive products.",
       "Language": "en"
     },
     {
