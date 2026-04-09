@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T13:40:25.286Z",
-  "total_news_count": 1329,
+  "last_updated": "2026-04-09T13:44:18.482Z",
+  "total_news_count": 1332,
   "news": [
     {
       "Ticker": "META",
@@ -41,6 +41,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/sifive-raises-400-million-atreides-130536660.html",
       "Content": "By Stephen Nellis\n\nSAN FRANCISCO, April 9 (Reuters) - Silicon Valley startup SiFive said on Thursday it has raised a $400 million round of funding from Atreides Management, ‌ Nvidia and others to enter the booming market for data-center central processor chips.\n\nThe ‌round brings SiFive's valuation to $3.65 billion, and CEO Patrick Little told Reuters he expects it to be the ​firm's last round of funding before filing for a public offering, though he did not say when SiFive plans to do so.\n\nMore from Yahoo Scout\n\nHow does Arm's strategic shift create opportunities for SiFive?\n\nWhat are SiFive's plans for data center processors?\n\nWhat is SiFive's business model and competitive advantage?\n\nHow much funding did SiFive raise and from whom?\n\nSiFive does not sell chips but instead sells blueprints that customers such as Alphabet's Google can customize for their own internal chip designs. That ‌intellectual property business was for ⁠decades dominated by Arm Holdings, but Arm last month unveiled its own chips, making Arm for the first time a potential competitor to ⁠many of its longtime customers.\n\nLittle said that Arm's new strategic direction opened an opportunity for SiFive to win over new customers. SiFive's designs use a new open chip standard called RISC-V ​that is ​overseen by a nonprofit foundation and not controlled ​by any single company, the way ‌that Arm's chip technology is.\n\n\"There's uncertainty about where their tried-and-true suppliers are going to be able to take them over the coming years,\" Little said of SiFive's customers. \"And so all of them have become comfortable, because we've worked with them for a decade, that RISC-V has now matured to the point where it can be that option for ‌them.\"\n\nSiFive will use the $400 million in funding to develop ​a design for a central processor unit for ​data centers. That market is heating ​up, with Arm introducing an offering last month, Nvidia entering the market ‌and Intel seeing so much demand ​it could not keep ​up.\n\n\"We've decided that we're going after the highest brass ring in the data center,\" Little said.\n\nIn addition to Atreides and Nvidia, other investors in the round included Apollo, ​D1 Capital Partners, Point72, and ‌accounts advised by T. Rowe Price Investment Management, as well as previous ​investors Prosperity 7 Ventures, Capital Group and Sutter Hill Ventures.\n\n(Reporting by Stephen Nellis ​in San Francisco; Editing by Matthew Lewis)",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-09",
+      "Time": "21:02:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "證交所公告33檔有價證券遭列注意股　台積電入列",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%AD%89%E4%BA%A4%E6%89%80%E5%85%AC%E5%91%8A33%E6%AA%94%E6%9C%89%E5%83%B9%E8%AD%89%E5%88%B8%E9%81%AD%E5%88%97%E6%B3%A8%E6%84%8F%E8%82%A1-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%A5%E5%88%97-130232725.html",
+      "Content": "（中央社記者曾仁凱台北2026年4月9日電）美伊戰爭停火2週，台股週三大漲1531.56點，創史上第2大收盤漲點，今天收盤續揚99.78點，收34861.16點。台灣證券交易所9日公布注意有價證券資訊，包括台積電 (2330) 在內，多達33檔有價證券因股價或量能異常，遭列注意股。\n\n證交所今天公布注意有價證券資訊，多達33檔有價證券遭列為注意股，其中最受矚目的是，護國神山台積電也入列，列入理由是「6個營業日起迄2個營業日收盤價價差達195元且當日收盤價為最近6個營業日收盤價最高者。」\n\n另外，森崴能源 (6806) 因認列風電工程代墊款損失，去年虧損達新台幣159.42億元，每股稅後淨損高達60元，因「最近6個營業日累積收盤價跌幅達39.1%」，也遭列為注意股。\n\n根據證交所公告，9日遭列注意股的33檔包括華邦電凱基54購14、佳和、台揚、台積電、致茂、燿華、金像電、全新、兆赫、一詮、瑞軒、奇鋐、欣興、大量、創意、聯鈞、辛耘、健策、世芯-KY、貿聯-KY、雙鍵、乙盛-KY、聯茂、緯穎、騰輝電子-KY、嘉基、森崴能源、汎銓、康霈*、聯友金屬-創、尖點、南電、高力。（編輯：張良知）1150409",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
@@ -93,6 +103,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-09",
+      "Time": "20:56:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI新瓶頸曝光！台積電主管罕見受訪 揭「沒台灣不行」",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%96%B0%E7%93%B6%E9%A0%B8%E6%9B%9D%E5%85%89-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%BB%E7%AE%A1%E7%BD%95%E8%A6%8B%E5%8F%97%E8%A8%AA-%E6%8F%AD-%E6%B2%92%E5%8F%B0%E7%81%A3%E4%B8%8D%E8%A1%8C-125602362.html",
+      "Content": "隨著AI運算需求暴增，半導體產業中一個長期被忽略的環節——先進封裝，正成為全球科技供應鏈的下一個瓶頸。所有高階AI晶片都需要經過精密封裝，才能把運算晶片與高頻寬記憶體整合成最終可用產品。然而，目前全球絕大多數的先進封裝產能仍集中在台灣與亞洲，美國本土尚未建立完整能力。\n\n目前即使晶片已在美國亞利桑那州先進晶圓廠完成製造，台積電仍將100%晶片送回台灣進行封裝，之後才能交付客戶。美國財經媒體CNBC報導中指出，這種「美製晶片仍需回台」的現象，凸顯先進封裝對AI產業的重要性，也暴露出供應鏈的脆弱環節。\n\n台積電北美封裝解決方案主管Paul Rousseau近日罕見接受CNBC專訪，透露相關需求正大幅增長，並解析先進封裝如何成為延續摩爾定律的新途徑。\n\n為何美製晶片仍回台\n\n目前台積電雖已在亞利桑那州鳳凰城設有先進晶圓廠，但從當地生產出來的晶片，仍必須送回台灣封裝，原因在於先進封裝產能仍高度集中在台灣。\n\n台積電已規劃在亞利桑那州興建2座先進封裝廠，但尚未公布完工時間。在此之前，美國製晶片仍得在美國完成製造後，再送回台灣進行後段封裝，之後才能交付客戶。\n\nTechSearch International首席封裝研究員Jan Vardaman指出，如果能直接在亞利桑那州晶圓廠旁完成封裝，客戶一定會更滿意，因為不必再讓晶片往返美國與亞洲，可大幅縮短交貨時間。\n\n除了時間成本，來回運輸也增加供應鏈壓力。當AI晶片需求持續增加，任何一個後段流程塞車，都可能拖慢整體出貨。\n\n輝達包產能市場吃緊\n\n台積電目前最先進、已量產的封裝技術，是CoWoS。Paul Rousseau表示，相關需求正在快速升高，CoWoS的複合年成長率已達80%。\n\n目前輝達已預訂台積電大部分CoWoS產能，也讓市場變得格外緊繃。由於訂單過滿，台積電甚至將部分較簡單的封裝流程，委由日月光與艾克爾（Amkor）等廠商協助處理。\n\n身為全球最大半導體封裝與測試代工廠，日月光預估其先進封裝業務在2026年將翻倍成長，並已在台灣擴建新廠。台積電也同步在台灣與亞利桑那州各擴建2座新封裝廠，希望逐步緩解產能不足。\n\nCoWoS為何變關鍵\n\n過去數十年，單一晶片會先從一片晶圓中切割出來，再封裝進系統中。但AI出現後，晶片複雜度大幅提高，更先進的封裝方法應運而生。\n\n如今，多顆晶粒會被整合成一顆更大的晶片，例如將邏輯晶片與高頻寬記憶體一起封裝，最終形成GPU。先進封裝的作用，就是把這些晶粒連接起來，並讓它們能與整個系統互相傳遞資料。\n\nPaul Rousseau表示，CoWoS「實際上是摩爾定律向3D方向的自然延伸。」當單一晶片內已無法再塞進更多電晶體，業界只能透過更複雜的封裝方式，繼續提升運算能力。\n\nCoWoS屬於2.5D封",
+      "Language": "zh"
+    },
+    {
       "Ticker": "TSLA",
       "Date": "2026-04-09",
       "Time": "20:39:58",
@@ -111,6 +131,16 @@
       "URL": "https://finance.yahoo.com/news/tesla-ceo-elon-musks-secret-business-weapon-think-about-existential-threats-123234962.html",
       "Content": "Listen and subscribe to Opening Bid Unfiltered on Apple Podcasts , Amazon Music , Spotify , YouTube , or wherever you find your favorite podcasts.\n\nIt was a ho-hum first day as Tesla's ( TSLA ) president for Jon McNeill.\n\n\"I walked into that [factory door] entrance. I got my name badge. I stood in the line with a lot of other factory workers who were starting that day. And we all started together and walked through that door,\" McNeill told me in a new episode of Yahoo Finance's Opening Bid Unfiltered podcast (video above; listen in below).\n\nNow a board member at General Motors ( GM ) and Lululemon ( LULU ), McNeill served as a president at Tesla from 2015 to 2018. During that time, revenue at the electric vehicle maker grew from $2 billion to $20 billion.\n\nIn his new book \" The Algorithm ,\" McNeill breaks down what made Tesla so successful, from its processes to how billionaire CEO Elon Musk thinks.\n\n\"I think what Elon constantly does is he looks at what is the existential threat to the business right now,\" McNeill said.\n\nFor Tesla, it means \"you have to have autonomous cars because nobody's going to choose a car that doesn't become a chauffeur if they have a choice. And the second is you've got to be a low-cost manufacturer. And the proxy for that is robotics ... And so [Musk] focuses just on those two things,\" McNeill said.\n\nTesla's stock could use a new jolt of Musk magic. The stock is down 23% this year, making it the worst-performing member of the \"Magnificent Seven.\"\n\nIts poor performance reflects several factors.\n\nTesla delivered 358,023 vehicles in the first quarter, missing analyst estimates of 366,000 to 370,000 units. Although this represents a 6.3% increase year over year, the growth came from a depressed baseline, and the absolute numbers showed a significant sequential decline from the record-breaking fourth quarter of last year.\n\nThe expiration of the $7,500 federal EV tax credit at the end of last year dealt a major blow to US demand. Additionally, persistent high interest rates have made vehicle financing more expensive for the average buyer.\n\nSee more from the Opening Bid podcast\n\nMeanwhile, Tesla is facing brutal pressure from Chinese electric vehicle rivals like BYD ( BYDDY ), as well as legacy automakers such as Mercedes-Benz ( MBG.DE ), General Motors, and Ford ( F ). They have continued to forge ahead with EV production, albeit at a slower pace.\n\nTo keep Tesla bulls engaged, Musk is promising 2026 will be a big year for new products.\n\nTesla’s dedicated robotaxi (aka Cybercab), a vehicle designed without a steering wheel or pedals, is slated to begin initial production this month. It will be at the center of Tesla's new autonomous ridesharing network.\n\nStory Continues\n\nMusk is also accelerating the training of its Optimus humanoid robot, with the goal of deploying it for \"repetitive or boring tasks\" within its own factories by the end of the year.\n\nMcNeill said, \"I think he's [Musk] going to go down as this generation's maybe best industrialist, for sure. But probably best inventor and best entrepreneur, for sure.\"\n\nEach week, Yahoo Finance Executive Editor Brian Sozzi fields insight-filled conversations and chats with the biggest names in business and markets on Opening Bid Unfiltered . You can find more episodes on our video hub or watch on your preferred streaming service .\n\nBrian Sozzi is Yahoo Finance's Executive Editor and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nStockStory aims to help individual investors beat the market.\n\nStockStory aims to help individual investors beat the market. Each week, Yahoo Finance Executive Editor Brian Sozzi fields insight-filled conversations and chats with the biggest names in business and markets on Opening Bid Unfiltered . You can find more episodes on our video hub or watch on your preferred streaming service .\n\nBrian Sozzi is Yahoo Finance's Executive Editor and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , <a data-i13n=\"cpos:20;pos:1\" href=\"https://www.instagram.com/briansozzi/\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:Instagram;cpos:20;po",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-09",
+      "Time": "20:19:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中東戰事擾台股3月跌掉3691點 這19檔ETF強勢填息",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E6%93%BE%E5%8F%B0%E8%82%A13%E6%9C%88%E8%B7%8C%E6%8E%893691%E9%BB%9E-%E9%80%9919%E6%AA%94etf%E5%BC%B7%E5%8B%A2%E5%A1%AB%E6%81%AF-121949479.html",
+      "Content": "近日美伊戰爭停火好消息激勵台股再度向歷史高點挺進，不過，檢視 3 月台股走勢大幅震盪，大盤 3 月累計重挫 3691.5 點，仍有 19 檔 ETF 除息後順利填息，其中 12 檔更是上演一日填息。\n\n根據統計，3 月共有 27 檔台股 ETF 除息，除息日多落在 3 月中下旬，其中 19 檔順利填息，其中，主動統一台股增長 (00981A-TW)、中信成長高股息 (00934-TW)、統一台灣高息動能 (00939-TW)、復華台灣科技優息 (00929-TW) 等 12 檔只花 1 天就順利填息；而保德信市值動能 50 (009803-TW)、富邦臺灣優質高息 (00730-TW) 等 4 檔也只花 2 天就完成填息。\n\n玉山投信指出，填息速度反映了 ETF 的選股效果，若台股 ETF 能挑選到相對抗跌甚至具有成長性的標的，不僅有利於填息速度，也能展現在績效上，且這些優質產業龍頭配息率往往具一定水準，即使是市值型 ETF 同樣能有不錯的配息表現；另外，ETF 在權值龍頭、成長性高之 AI 供應鏈族群、防禦型產業的配置比重，也是影響 ETF 價格的重要因子。\n\n009803 經理人楊立楷指出，台股現在除了看國際地緣政治變化，焦點亦轉向下週將登場的晶圓龍頭大廠法說會，特別是 2 奈米製程量產進度和 GAA 架構之下的毛利率表現，由於 AI 與高效能運算需求橫跨雲端至終端，讓市場期待 2 奈米製程有望於今年下半年進入大幅成長期，在製程升級之下有助於供應鏈利潤同步擴張的正向循環。\n\n在美伊戰爭方面，楊立楷表示，雖然消息面仍具高度不確定性，然近期荷姆茲海峽航運已緩步恢復船隻通行，有利市場情緒回溫與通膨預期降溫，惟須留意後續荷姆茲海峽開放狀況、能源價格走勢是否再度導致避險情緒回籠、外資回補力道是否具備連續性等觀察點。\n\n楊立楷認為，AI 給予台股抵禦油價的護城河，台股 4 月以來的漲勢在全球主要股市中也相對亮眼，但目前融資餘額仍維持在接近 4000 億元之高水位，顯示市場整體情緒仍偏樂觀，籌碼穩定度仍需時間去化，預料短期股市仍將偏震盪，延續近期資金輪動格局機率高。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
