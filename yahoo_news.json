@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T22:40:25.432Z",
-  "total_news_count": 1479,
+  "last_updated": "2026-04-09T22:44:23.630Z",
+  "total_news_count": 1488,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -11,6 +11,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-announces-google-commitment-future-223615420.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) is attempting to reassert its position in data center infrastructure, with Alphabet's Google ( NASDAQ:GOOG ) committing to adopt future generations of its Xeon processors as part of a newly announced multiyear agreement. The partnership also includes plans for Google to customize Intel's infrastructure processing units, which are designed to manage networking, security, and storage functions. While financial terms were not disclosed, the agreement could signal a deeper level of integration between the two companies as demand for AI-related compute continues to expand.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe development comes as Intel works through a broader effort to regain traction in data centers after ceding share to competitors such as Advanced Micro Devices ( NASDAQ:AMD ) and to internal silicon programs developed by customers including Google. Xeon processors previously held more than 99% market share and served as a primary profit driver, but that position has weakened in recent years. Under CEO Lip-Bu Tan, Intel appears focused on capturing a larger portion of AI infrastructure spending, with its CPUs potentially positioned as complementary components within increasingly complex system architectures.\n\nThat shift could align with evolving AI workloads, where CPUs are being used to orchestrate training environments and support inference tasks alongside specialized accelerators like those from Nvidia ( NASDAQ:NVDA ). Google's AI infrastructure leadership indicated confidence in Intel's Xeon roadmap to meet performance and efficiency requirements, with both companies highlighting a more balanced system design aimed at improving utilization and reducing complexity. For investors, while near-term financial impact remains undisclosed, the agreement could suggest Intel is beginning to rebuild its role within next-generation AI data center deployments.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "06:34:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積拉尾盤 台股黑翻紅…卡位權王法說行情及美財報概念股",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E6%8B%89%E5%B0%BE%E7%9B%A4-%E5%8F%B0%E8%82%A1%E9%BB%91%E7%BF%BB%E7%B4%85-%E5%8D%A1%E4%BD%8D%E6%AC%8A%E7%8E%8B%E6%B3%95%E8%AA%AA%E8%A1%8C%E6%83%85%E5%8F%8A%E7%BE%8E%E8%B2%A1%E5%A0%B1%E6%A6%82%E5%BF%B5%E8%82%A1-223457088.html",
+      "Content": "中東局勢一變再變，台股昨（9）日因觀望氣氛濃厚，行情黏著平盤上下狹幅震盪，直至最後一盤出現神祕買盤拉動 台積電 （2330）神龍擺尾，推升加權指數瞬間黑翻紅，終場漲99點收34,861點。法人指出，盤勢短期仍受中東局勢影響，但市場買盤已轉向提前卡位台積電法說、美股財報概念股。\n\n台股昨日在東北亞股市萬綠叢中一點紅，相較日、韓股開低走低，台股開盤一度漲123點，儘管後因美伊對和談條件看法不一而走弱，但人氣不退，指數僅小黑震盪，成交8,722億元，只比前一交易日微減2.4%。\n\n台積電昨日股價幾乎都在平盤之下，最低跌20元至1,930元，但最後一盤急拉15元，終場漲5元收1,955元。從券商買賣超分析台積電最後一盤搶買的8,726張買家，主要來自美林、高盛、花旗環球、宏遠、安泰等證券，法人解讀為除外資外，短線中實戶或大戶也都進場，預先卡位台積電法說行情。\n\n三大法人連續三日同步站在買方，合計買超393.3億元。外資昨日買超317.7億元，連三買，但台指期未平倉淨空單增921口至33,399口；投信買超13.5億元，連七買；自營商買超61.9億元，連三買。\n\n展望後市，綜合第一金投顧董事長黃詣庭、統一投顧董事長黎方國看法，地緣政治風險仍大，將持續干擾市場。不過，台積電下周將舉行法說會，內外資法人同步看多，美國科技股也將陸續公布財報，有利台股往上攻堅。\n\n【看原文連結】",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -33,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-10",
+      "Time": "06:10:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "和平談判有望解決中東衝突！美股反彈收高　台積電ADR小跌0.11％",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%92%8C%E5%B9%B3%E8%AB%87%E5%88%A4%E6%9C%89%E6%9C%9B%E8%A7%A3%E6%B1%BA%E4%B8%AD%E6%9D%B1%E8%A1%9D%E7%AA%81-%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BD%88%E6%94%B6%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%B0%8F%E8%B7%8C0-11-221033015.html",
+      "Content": "即時中心／綜合報導\n\n由於美國和伊朗即將談判化解衝突，以色列也同意與黎巴嫩談判，緩解外界對於脆弱的停火協議擔憂，國際油價漲幅收斂，美股主要指數週四（9日）反彈走高。終場道瓊工業指數上漲275.88點、0.58％，收在48,185.8點；標普五百上揚0.62％；以科技股為主的那斯達克指數上漲0.83％；費城半導體指數也走揚2.10％。另台指期夜盤上揚298點、漲幅0.85％，收在35,222點。\n\n在美國掛牌ADR中，台積電ADR小跌0.11％；日月光ADR走揚1.53％；聯電ADR則上漲0.63％。\n\n終場道瓊工業指數上漲275.88點、0.58％，收48,185.80點。\n\n標普五百指數上漲41.85點、0.62％，收6,824.66點。\n\n那斯達克指數上漲187.42點、0.83％，收22,822.42點。\n\n費城半導體指數上漲178.62點、2.10％，收8,689.53點。\n\n布蘭特原油（Brent Crude）終場上漲1.17美元、1.2％，每桶以95.92美元作收；紐約西德州原油（WTI）漲3.46美元、3.7％，每桶收在97.87美元。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／和平談判有望解決中東衝突！美股反彈收高 台積電ADR小跌0.11％",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-04-10",
       "Time": "06:04:00",
@@ -53,6 +73,46 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "05:41:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR9日上漲0.51美元漲幅9.71%折台股18.29元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr9%E6%97%A5%E4%B8%8A%E6%BC%B20-51%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%859-71-%E6%8A%98%E5%8F%B0%E8%82%A118-29%E5%85%83-214121449.html",
+      "Content": "(中央社台北2026年 4月10日電)友達光電在OTC US掛牌ADR以5.76美元作收，上漲0.51美元，漲幅 9.71%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股友達每股為 18.29元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n5.76\n\n0.51\n\n9.71\n\n31.748\n\n18.2\n\n4/ 8\n\n5.25\n\n0.27\n\n5.42\n\n31.785\n\n16.6\n\n4/ 7\n\n4.98\n\n-0.23\n\n-4.41\n\n31.967\n\n15.9\n\n4/ 6\n\n5.21\n\n0.00\n\n31.972\n\n4/ 2\n\n0.29\n\n5.89\n\n4/ 1\n\n4.92\n\n0.67\n\n15.76\n\n31.949\n\n15.7\n\n3/31\n\n4.25\n\n-0.05\n\n-1.16\n\n31.980\n\n13.5\n\n3/30\n\n4.30\n\n-0.04\n\n-0.92\n\n31.996\n\n13.7\n\n3/27\n\n4.34\n\n-0.14\n\n-3.13\n\n31.880\n\n13.8\n\n3/26\n\n4.48\n\n-0.10\n\n-2.18\n\n31.905\n\n14.2",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "05:41:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR9日下跌0.15美元跌幅0.35%折台股134.87元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr9%E6%97%A5%E4%B8%8B%E8%B7%8C0-15%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-35-%E6%8A%98%E5%8F%B0%E8%82%A1134-87%E5%85%83-214117184.html",
+      "Content": "(中央社台北2026年 4月10日電)中華電信在NYSE掛牌ADR 以 42.48美元作收，下跌0.15美元，跌幅 0.35%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股中華電信每股為134.87元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n42.48\n\n-0.15\n\n-0.35\n\n31.748\n\n134.8\n\n4/ 8\n\n42.63\n\n0.38\n\n0.90\n\n31.785\n\n135.5\n\n4/ 7\n\n42.25\n\n-0.13\n\n-0.31\n\n31.967\n\n135.0\n\n4/ 6\n\n42.38\n\n-0.03\n\n-0.07\n\n31.972\n\n4/ 2\n\n42.41\n\n0.02\n\n0.05\n\n4/ 1\n\n42.39\n\n0.15\n\n0.36\n\n31.949\n\n135.4\n\n3/31\n\n42.24\n\n0.23\n\n0.55\n\n31.980\n\n3/30\n\n42.01\n\n-0.17\n\n31.996\n\n134.4\n\n3/27\n\n42.08\n\n-0.47\n\n-1.10\n\n31.880\n\n134.1\n\n3/26\n\n42.55\n\n31.905\n\n135.7",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "05:41:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR9日上漲0.06美元漲幅0.63%折台股60.51元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr9%E6%97%A5%E4%B8%8A%E6%BC%B20-06%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-63-%E6%8A%98%E5%8F%B0%E8%82%A160-51%E5%85%83-214115884.html",
+      "Content": "(中央社台北2026年 4月10日電)聯電在NYSE掛牌 ADR以9.53美元作收，上漲0.06美元，漲幅 0.63%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股聯電每股為 60.51元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n9.53\n\n0.06\n\n0.63\n\n31.748\n\n60.5\n\n4/ 8\n\n9.47\n\n0.16\n\n1.72\n\n31.785\n\n60.2\n\n4/ 7\n\n9.31\n\n0.62\n\n7.13\n\n31.967\n\n59.5\n\n4/ 6\n\n8.69\n\n0.02\n\n0.23\n\n31.972\n\n55.5\n\n4/ 2\n\n8.67\n\n-0.30\n\n-3.34\n\n55.4\n\n4/ 1\n\n8.97\n\n-0.01\n\n-0.11\n\n31.949\n\n57.3\n\n3/31\n\n8.98\n\n0.37\n\n4.30\n\n31.980\n\n57.4\n\n3/30\n\n8.61\n\n-0.26\n\n-2.93\n\n31.996\n\n55.1\n\n3/27\n\n8.87\n\n-0.15\n\n-1.66\n\n31.880\n\n56.5\n\n3/26\n\n9.02\n\n-0.29\n\n-3.11\n\n31.905\n\n57.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2303.TW",
+      "Date": "2026-04-10",
+      "Time": "05:41:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR9日上漲0.06美元漲幅0.63%折台股60.51元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr9%E6%97%A5%E4%B8%8A%E6%BC%B20-06%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-63-%E6%8A%98%E5%8F%B0%E8%82%A160-51%E5%85%83-214115884.html",
+      "Content": "(中央社台北2026年 4月10日電)聯電在NYSE掛牌 ADR以9.53美元作收，上漲0.06美元，漲幅 0.63%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股聯電每股為 60.51元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n9.53\n\n0.06\n\n0.63\n\n31.748\n\n60.5\n\n4/ 8\n\n9.47\n\n0.16\n\n1.72\n\n31.785\n\n60.2\n\n4/ 7\n\n9.31\n\n0.62\n\n7.13\n\n31.967\n\n59.5\n\n4/ 6\n\n8.69\n\n0.02\n\n0.23\n\n31.972\n\n55.5\n\n4/ 2\n\n8.67\n\n-0.30\n\n-3.34\n\n55.4\n\n4/ 1\n\n8.97\n\n-0.01\n\n-0.11\n\n31.949\n\n57.3\n\n3/31\n\n8.98\n\n0.37\n\n4.30\n\n31.980\n\n57.4\n\n3/30\n\n8.61\n\n-0.26\n\n-2.93\n\n31.996\n\n55.1\n\n3/27\n\n8.87\n\n-0.15\n\n-1.66\n\n31.880\n\n56.5\n\n3/26\n\n9.02\n\n-0.29\n\n-3.11\n\n31.905\n\n57.5",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-04-10",
       "Time": "05:38:14",
@@ -61,6 +121,26 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-sndk-made-best-213814726.html",
       "Content": "Sandisk Corporation (NASDAQ: SNDK ) is one of the 10 Best Performing Blue Chip Stocks to Buy . On April 2, Mizuho recommended buying shares of Sandisk Corporation (NASDAQ:SNDK) after a recent decline linked to TurboQuant concerns.\n\nMizuho’s analyst told investors in a research note that TurboQuant was first explored in 2025 but new results recently highlight improvements in AI inference performance. The research firm noted that performance improvement “actually accelerates the adoption flywheel (Jevons paradox).” Mizuho also believes that the shift from copper to optical technology, which offers ten times more bandwidth, could increase spending on AI servers instead of reducing it. The research firm further stated that worries about OpenAI’s Sora video wind-down are misplaced and that memory demand could see an upside in 2027.\n\nOn April 3, Bernstein also showed confidence in Sandisk Corporation (NASDAQ:SNDK) by setting a price objective of $1,000 with an Outperform rating. The firm described the recent drop in the share price, caused by concerns over Google’s new TurboQuant algorithm, as an overreaction by the market. Bernstein argued that the impact of TurboQuant has been overstated.\n\nThe research firm’s analysis indicates that hard disk drive demand is expected to remain largely unchanged and any effects on NAND flash memory demand should be minimal.\n\nSandisk Corporation (NASDAQ:SNDK) is an American computer technology company that designs and manufactures flash solutions and advanced memory technologies, including SSDs, memory cards, and USB Flash Drives.\n\nWhile we acknowledge the potential of SNDK as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nWhy Sandisk (SNDK) Made the Best Performing Blue Chip Stocks List\n\nWhy Sandisk (SNDK) Made the Best Performing Blue Chip Stocks List On April 3, Bernstein also showed confidence in Sandisk Corporation (NASDAQ:SNDK) by setting a price objective of $1,000 with an Outperform rating. The firm described the recent drop in the share price, caused by concerns over Google’s new TurboQuant algorithm, as an overreaction by the market. Bernstein argued that the impact of TurboQuant has been overstated.\n\nDisclosure: None. <a href=\"https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:Follow Insider Monkey on Google News;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"{\"yLinkElement\":\"contex",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "05:36:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR9日下跌0.41美元跌幅0.11%折台股2320.72元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr9%E6%97%A5%E4%B8%8B%E8%B7%8C0-41%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-11-%E6%8A%98%E5%8F%B0%E8%82%A12320-72%E5%85%83-213613417.html",
+      "Content": "(中央社台北2026年 4月10日電)台積電在NYSE掛牌 ADR以365.49美元作收，下跌 0.41美元，跌幅 0.11%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股台積電每股為 2320.72元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n365.49\n\n-0.41\n\n-0.11\n\n31.748\n\n2320.7\n\n4/ 8\n\n365.90\n\n20.58\n\n5.96\n\n31.785\n\n2326.0\n\n4/ 7\n\n345.32\n\n3.56\n\n1.04\n\n31.967\n\n2207.7\n\n4/ 6\n\n341.76\n\n2.72\n\n0.80\n\n31.972\n\n2185.3\n\n4/ 2\n\n339.04\n\n-2.45\n\n-0.72\n\n2167.9\n\n4/ 1\n\n341.49\n\n3.54\n\n1.05\n\n31.949\n\n2182.0\n\n3/31\n\n337.95\n\n21.45\n\n6.78\n\n31.980\n\n2161.5\n\n3/30\n\n316.50\n\n-10.24\n\n-3.13\n\n31.996\n\n2025.3\n\n3/27\n\n326.74\n\n0.63\n\n0.19\n\n31.880\n\n2083.2\n\n3/26\n\n326.11\n\n-21.64\n\n-6.22\n\n31.905\n\n2080.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-10",
+      "Time": "05:36:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR9日下跌0.41美元跌幅0.11%折台股2320.72元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr9%E6%97%A5%E4%B8%8B%E8%B7%8C0-41%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-11-%E6%8A%98%E5%8F%B0%E8%82%A12320-72%E5%85%83-213613417.html",
+      "Content": "(中央社台北2026年 4月10日電)台積電在NYSE掛牌 ADR以365.49美元作收，下跌 0.41美元，跌幅 0.11%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 4月 9日新台幣匯市收盤價31.748元計算，相當台股台積電每股為 2320.72元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n4/ 9\n\n365.49\n\n-0.41\n\n-0.11\n\n31.748\n\n2320.7\n\n4/ 8\n\n365.90\n\n20.58\n\n5.96\n\n31.785\n\n2326.0\n\n4/ 7\n\n345.32\n\n3.56\n\n1.04\n\n31.967\n\n2207.7\n\n4/ 6\n\n341.76\n\n2.72\n\n0.80\n\n31.972\n\n2185.3\n\n4/ 2\n\n339.04\n\n-2.45\n\n-0.72\n\n2167.9\n\n4/ 1\n\n341.49\n\n3.54\n\n1.05\n\n31.949\n\n2182.0\n\n3/31\n\n337.95\n\n21.45\n\n6.78\n\n31.980\n\n2161.5\n\n3/30\n\n316.50\n\n-10.24\n\n-3.13\n\n31.996\n\n2025.3\n\n3/27\n\n326.74\n\n0.63\n\n0.19\n\n31.880\n\n2083.2\n\n3/26\n\n326.11\n\n-21.64\n\n-6.22\n\n31.905\n\n2080.9",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -121,6 +201,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/aletheia-capital-remains-buy-advanced-211424638.html",
       "Content": "​Advanced Micro Devices, Inc. (NASDAQ: AMD ) is one of the Hot Growth Stocks to Invest in Right Now . On March 30, Aletheia Capital reiterated a Buy rating on Advanced Micro Devices, Inc. (NASDAQ:AMD) with a price target of $333.\n\n​The firm finds Advanced Micro Devices as one of the major benefactors of the next stage of AI, which is Agentic AI. The firm said in a research note that CPUs are more suitable semiconductors compared to GPUs for Agentic computing because it involves tasks such as reasoning, orchestration, and coordination across multiple AI models rather than pure number‑crunching.\n\n​Aletheia Capital noted that AMD is already a leader in server CPUs, and the company’s role in the AI compute has transformed from being mainly a “second‑source” GPU vendor to a full‑stack AI compute provider, combining CPUs and Instinct‑series AI GPUs. The firm sees two major growth engines for the company, including continued GPU share gains from a low base as the company’s Instinct accelerators gain traction. Secondly, the firm sees massive expansion in server CPU demand, driven by AI‑intensive workloads and large‑scale data center builds.\n\n​Advanced Micro Devices, Inc. (NASDAQ:AMD) is a global semiconductor company that manufactures GPUs, microprocessors, and high-performance computing solutions and serves a number of high-growth industries like gaming, data centers, and AI.\n\nWhile we acknowledge the potential of AMD as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nDisclosure: None. Follow Insider M",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-04-10",
+      "Time": "05:10:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤前要聞〉台股朝3萬5挺進、乙烯2月以來翻倍漲、亞洲海運區間航線兩波調漲",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%89%8D%E8%A6%81%E8%81%9E-%E5%8F%B0%E8%82%A1%E6%9C%9D3%E8%90%AC5%E6%8C%BA%E9%80%B2-%E4%B9%99%E7%83%AF2%E6%9C%88%E4%BB%A5%E4%BE%86%E7%BF%BB%E5%80%8D%E6%BC%B2-%E4%BA%9E%E6%B4%B2%E6%B5%B7%E9%81%8B%E5%8D%80%E9%96%93%E8%88%AA%E7%B7%9A%E5%85%A9%E6%B3%A2%E8%AA%BF%E6%BC%B2-211002065.html",
+      "Content": "4/10 台股盤前要聞\n\n1. 台股 9 日在美伊雖達成短期停火協議，但荷姆茲海峽仍未解封狀況下，能源供應與經濟安全面臨嚴峻挑戰，終場翻紅上漲 99.78 點，收 34,861 點，成交量為 8,442 億元與昨日持平。三大法人同步買超 394.36 億元，外資買超 317.79 億元，買超友達 ( 2409-TW ) 13.09 萬張最多，並大砍 4 檔記憶體類股。\n\n2. 貨櫃三雄長榮 ( 2603-TW )、陽明 ( 2609-TW ) 和萬海 ( 2615-TW ) 9 日公布 3 月合併營收與上月均接近持平，但仍較去年同期衰退，不過，均提到許多樞紐港口出現壅塞跡象，萬海也提到亞洲區間航線於 4 月實施兩波調漲；法人認為，海運業績有望穩步向上。\n\n3. 藥華藥 ( 6446-TW ) 9 日宣布，董事會決議以 加幣 5000 萬元 (約 新台幣 11.5 億元) 收購加拿大藥廠 FORUS 100% 股權，進一步鞏固並拓展加拿大市場。\n\n<div class=\"bg-marshmallow mx-2 h-[92px] w-[85%] flex-shrink-0 rounded-lg lg:h-[120px] lg:w-[calc(50%-1",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
