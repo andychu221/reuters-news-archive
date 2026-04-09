@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-09T22:44:23.630Z",
-  "total_news_count": 1488,
+  "last_updated": "2026-04-09T23:00:49.558Z",
+  "total_news_count": 1491,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-04-10",
+      "Time": "06:36:15",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Announces Google Commitment To Future Xeon Chips In AI Push",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-announces-google-commitment-future-223615420.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) is attempting to reassert its position in data center infrastructure, with Alphabet's Google ( NASDAQ:GOOG ) committing to adopt future generations of its Xeon processors as part of a newly announced multiyear agreement. The partnership also includes plans for Google to customize Intel's infrastructure processing units, which are designed to manage networking, security, and storage functions. While financial terms were not disclosed, the agreement could signal a deeper level of integration between the two companies as demand for AI-related compute continues to expand.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe development comes as Intel works through a broader effort to regain traction in data centers after ceding share to competitors such as Advanced Micro Devices ( NASDAQ:AMD ) and to internal silicon programs developed by customers including Google. Xeon processors previously held more than 99% market share and served as a primary profit driver, but that position has weakened in recent years. Under CEO Lip-Bu Tan, Intel appears focused on capturing a larger portion of AI infrastructure spending, with its CPUs potentially positioned as complementary components within increasingly complex system architectures.\n\nThat shift could align with evolving AI workloads, where CPUs are being used to orchestrate training environments and support inference tasks alongside specialized accelerators like those from Nvidia ( NASDAQ:NVDA ). Google's AI infrastructure leadership indicated confidence in Intel's Xeon roadmap to meet performance and efficiency requirements, with both companies highlighting a more balanced system design aimed at improving utilization and reducing complexity. For investors, while near-term financial impact remains undisclosed, the agreement could suggest Intel is beginning to rebuild its role within next-generation AI data center deployments.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-04-10",
@@ -40,6 +50,26 @@
       "Title": "Amazon Commits $25 Billion To Data Center Expansion",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-commits-25-billion-data-222843726.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) is continuing its data center buildout in a big way, committing a total of $25 billion to expand its footprint in Mississippi as AI demand keeps ramping up.\n\nThe latest push includes another $11 billion going into a Madison County facility and about $1 billion to turn a former manufacturing plant in Hinds County into a data center. Amazon said the projects will create around 2,000 high-skilled jobs, though it's still unclear how many of those will be permanent roles. It's also investing in the energy side, backing five renewable projects expected to generate about 616 megawatts of carbon-free power to support the growing infrastructure.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nZooming out, this fits into a much larger trend. AWS already runs close to 400 data centers across the U.S., and most of that capacity sits in the eastern region. With AI workloads exploding, Amazon is clearly trying to stay ahead by building out capacity as fast as possible.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-04-10",
+      "Time": "06:16:54",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, April 9: Intel Rises After Expanding Google Cloud AI Partnership for Data Center Push",
+      "URL": "https://finance.yahoo.com/m/203dd19a-6c0f-3f9c-bdf4-73fcda82feaa/stock-market-today%2C-april-9%3A.html",
+      "Content": "Intel (NASDAQ:INTC) , which designs and manufactures microprocessors and related technologies, closed Thursday at $61.72, up 4.70%. The stock moved higher as investors reacted to an expanded Google Cloud AI infrastructure partnership, while also watching how Intel’s Xeon and custom IPU roadmap supports its broader AI data center ambitions.\n\nThe company’s trading volume reached 154.3 million shares, which is roughly 39% above compared with its three-month average of 110.7 million shares. Intel went public in 1980 and has grown 18860% since its IPO.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) added 0.61% to finish at 6,824.66, while the Nasdaq Composite (NASDAQINDEX:^IXIC) climbed 0.83% to 22,822.42. Among semiconductors, Advanced Micro Devices (NASDAQ:AMD) closed at $236.64 (+2.08%), and Nvidia (NASDAQ:NVDA) ended at $183.91 (+1.01%), as chipmakers continued to benefit from AI-related spending themes.\n\nWhat this means for investors\n\nIntel shares rose after an expanded Google Cloud partnership added to its push into AI data center infrastructure, with Google set to deploy Xeon CPUs and custom IPUs for next-generation cloud workloads. The move comes as Intel continues efforts to rebuild competitiveness in a market led by Nvidia and Advanced Micro Devices. Analyst target increases tied to Intel Foundry Services and its 18A process, seen as key to improving its manufacturing position, further supported the rally.\n\nThe share price increase also reflects reports of potential chip-packaging collaborations with major cloud providers, which could create new foundry-related revenue streams beyond Intel’s core processor business. Investors will be watching whether these partnerships drive sustained demand for Intel’s data center chips and whether foundry and packaging initiatives will be generating significant revenue.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-04-10",
+      "Time": "06:16:54",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, April 9: Intel Rises After Expanding Google Cloud AI Partnership for Data Center Push",
+      "URL": "https://finance.yahoo.com/m/203dd19a-6c0f-3f9c-bdf4-73fcda82feaa/stock-market-today%2C-april-9%3A.html",
+      "Content": "Intel (NASDAQ:INTC) , which designs and manufactures microprocessors and related technologies, closed Thursday at $61.72, up 4.70%. The stock moved higher as investors reacted to an expanded Google Cloud AI infrastructure partnership, while also watching how Intel’s Xeon and custom IPU roadmap supports its broader AI data center ambitions.\n\nThe company’s trading volume reached 154.3 million shares, which is roughly 39% above compared with its three-month average of 110.7 million shares. Intel went public in 1980 and has grown 18860% since its IPO.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) added 0.61% to finish at 6,824.66, while the Nasdaq Composite (NASDAQINDEX:^IXIC) climbed 0.83% to 22,822.42. Among semiconductors, Advanced Micro Devices (NASDAQ:AMD) closed at $236.64 (+2.08%), and Nvidia (NASDAQ:NVDA) ended at $183.91 (+1.01%), as chipmakers continued to benefit from AI-related spending themes.\n\nWhat this means for investors\n\nIntel shares rose after an expanded Google Cloud partnership added to its push into AI data center infrastructure, with Google set to deploy Xeon CPUs and custom IPUs for next-generation cloud workloads. The move comes as Intel continues efforts to rebuild competitiveness in a market led by Nvidia and Advanced Micro Devices. Analyst target increases tied to Intel Foundry Services and its 18A process, seen as key to improving its manufacturing position, further supported the rally.\n\nThe share price increase also reflects reports of potential chip-packaging collaborations with major cloud providers, which could create new foundry-related revenue streams beyond Intel’s core processor business. Investors will be watching whether these partnerships drive sustained demand for Intel’s data center chips and whether foundry and packaging initiatives will be generating significant revenue.",
       "Language": "en"
     },
     {
