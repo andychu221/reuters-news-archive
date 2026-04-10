@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-10T12:16:13.741Z",
-  "total_news_count": 115,
+  "last_updated": "2026-04-10T13:16:13.273Z",
+  "total_news_count": 116,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-10",
+      "Time": "21:02:00",
+      "Source": "經濟日報",
+      "Title": "輝達 Rubin Ultra 到底採幾晶粒封裝？大摩洩天機：台積電恐與 Intel 搶單",
+      "URL": "https://money.udn.com/money/story/5612/9434618?from=edn_search_result",
+      "Content": "經濟日報 記者崔馨方／即時報導\n\nAI晶片競爭升溫，輝達（NVIDIA）與Google新架構推升先進封裝需求，帶動GPU與TPU相關議題浮上檯面。摩根士丹利（大摩）證券指出，市場聚焦台積電 （2330） CoWoS-L能否克服「九倍光罩」挑戰，並抗衡英特爾（Intel）搶奪NVIDIA與Google的訂單；同時也看好聯發科 （2454） 3奈米TPU量產進度，成長動能明確，重申「優於大盤」評等。\n\nGoogle宣戰輝達後，市場對NVIDIA GPU與Google TPU的技術之爭產生興趣，同時也引發相關供應鏈技術議題。事實上，台積電CoWoS-L為NVIDIA Rubin Ultra及Google 2奈米TPU的關鍵封裝方案，若「大光罩尺寸」晶片相關技術瓶頸未能突破，Intel的EMIB-T技術，恐在Google 2奈米TPU及其他ASIC專案中，搶占台積電部分市占。\n\n大摩大中華區半導體主管詹家鴻指出，隨著下一代AI GPU與ASIC晶片尺寸放大，相關技術與晶圓代工選擇也引發市場關注。事實上，目前市場聚焦當中兩大議題：一是NVIDIA Rubin Ultra每顆封裝究竟採雙晶粒（two-die）或四晶粒（four-die）設計；二是Google 2奈米TPU（HumuFish）採用「九倍光罩（nine-reticle）」架構下，將選擇Intel EMIB-T或台積電CoWoS-L封裝方案，成為後續觀察焦點。\n\n詹家鴻進一步分析，無論採雙晶粒或四晶粒封裝，兩者在散熱設計上將出現差異；同時，伺服器機櫃GPU密度提升，也將影響未來擴充（scale-up）過程中共同封裝光學（CPO）技術的導入節奏。\n\n詹家鴻指出，上述的關鍵核心在於「台積電CoWoS-L能否以具成本效益的方式，支援九倍光罩晶片設計」。儘管CoWoS在效能與可靠性優於Intel EMIB-T，但中介層翹曲（warpage）等技術挑戰，仍有待進一步克服。\n\n事實上，詹家鴻在近期的矽光子研討會觀察到，台積電2027年CoWoS技術路線已納入「九倍光罩」設計，因此技術可行性無虞。另外，無論NVIDIA Rubin Ultra採雙晶粒或四晶粒封裝，對台積電晶圓產能消耗，以及日月光 （3711） 、京元電 （2449） 的封測需求影響有限。不過，Google 2奈米TPU（HumuFish）最終將採用IntelEMIB-T、台積電CoWoS-L，或雙軌並行方案，市場仍持續觀察中。\n\n值得注意的是，日前美國晶片大廠博通（Broadcom）為強化特殊應用IC（ASIC）布局，宣布與AI新創公司Anthropic及Google擴大三方戰略合作。儘管引發市場對聯發科於TPU供應鏈地位的疑慮，但詹家鴻認為不影響中長期展望。\n\n詹家鴻分析，根據供應鏈調查，聯發科3奈米TPU（代號ZebraFish）預計於2026年下半年如期量產，全年出貨約40萬顆、貢獻營收約16億美元的目標具備達成可行性。此外，詹家鴻樂觀看好聯發科2027年ABF載板供應，出貨量可望進一步放大至250萬顆、挹注約100億美元營收，成長動能明確，因此重申「優於大盤」評等。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-04-10",
