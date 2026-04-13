@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T17:21:07.443Z",
-  "total_news_count": 2429,
+  "last_updated": "2026-04-13T17:32:17.504Z",
+  "total_news_count": 2430,
   "news": [
     {
       "Ticker": "INTC",
@@ -159,6 +159,16 @@
       "Related_Score": 2,
       "Sentiment_Score": 0,
       "Keywords": "AI trade, portfolio repositioning, tech sector, market dynamics, diversification"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-04-13",
+      "Time": "23:38:00",
+      "Source": "Yahoo Finance",
+      "Title": "New Launches & Announcements From Partners Drive ARM: Here's How",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/launches-announcements-partners-drive-arm-153800776.html",
+      "Content": "Arm Holdings Plc ARM is expanding its customer base and gaining popularity in the electronics and semiconductor industry through newly launched and announced products by its partners. This strengthens ARM’s position as a leading technology developer and provider of high-performance, energy-efficient AI solutions and Central Processing Unit (CPU) products and drives its sustainability and top-line growth.\n\nARM is enhancing its position, driven by the growth of its AI-driven business units, comprising edge AI, physical AI and cloud AI. In the edge AI unit, which comprises smartphone and IoT businesses, ARM recently signed two additional compute subsystem (CSS) licenses for edge AI tablets and smartphones. This brings the company to 21 CSS licenses across 12 companies, helping partners get to market faster by lowering integration risk and complexity.\n\nCloud AI, which encompasses data center and networking, requires CPU coordination across many continuously running agentic AIs. This demand consequently drives growth in ARM’s higher core-count and power-efficient CPU chips. Recently, Amazon Web Services (AWS) launched its fifth-generation Graviton processor by integrating it with Arm-based Nitro and Triennium accelerators. Meanwhile, NVIDIA paired its GPUs (Graphics Processing Units) with Arm-based Grace CPUs and Bluefield.\n\nARM’s Physical AI unit, which includes automotive and robotics, is also experiencing growth. Recently, Rivian, an electric vehicle builder, announced that its third-generation Autonomy Computer will be based on the Arm-based Rivian Autonomy Processor, while Tesla announced its upcoming Optimus humanoid robot to be powered by a custom Arm-based AI processor and platform.\n\nARM’s Share Price Performance, Valuation & Estimates\n\nThe stock has gained 41.7% over the past year, outperforming one of its competitors, Qnity Electronics, Inc. Q, but falling short of another peer, Credo Technology Group Holding Ltd CRDO, and the industry. The industry and CRDO surged 105.8% and 205.8%, respectively, while Q gained 34.7% over the past year.\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, ARM trades at a 12-month forward price-to-earnings ratio of 69.45X. It trades higher than Qnity Electronics’ 33.33X, Credo Technology Group’s 26.33X and the industry’s 26.69X.\n\nStory Continues\n\nArm Holdings has a Value Score of F, while Q and CRDO carry a Value Score of D and F, respectively. The Zacks Consensus Estimate for ARM’s earnings for 2026 and 2027 has increased marginally over the past month.\n\nARM currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "AAPL",
