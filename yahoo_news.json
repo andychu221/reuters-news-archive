@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-13T10:21:15.669Z",
-  "total_news_count": 2317,
+  "last_updated": "2026-04-13T10:40:14.573Z",
+  "total_news_count": 2318,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-13",
+      "Time": "17:40:00",
+      "Source": "Yahoo Finance",
+      "Title": "Catalyst Alert: Anthropic Deal Makes Alphabet Stock a Must-Buy",
+      "URL": "https://finance.yahoo.com/m/97004556-f884-30cc-bc0f-2ba9e04fb086/catalyst-alert%3A-anthropic.html",
+      "Content": "In another sign that Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) is becoming one of the top artificial intelligence (AI) chip companies, it recently announced it had expanded its partnership with Anthropic to let the large language model (LLM) maker deploy more of its Tensor Processing Units (TPUs). Alphabet, of course, is best known for its Google search business, but it's gaining a new AI-powered revenue source through its custom TPUs.\n\nAlphabet developed its TPUs with Broadcom 's help more than a decade ago and has used these chips to power most of its internal workflows over the years. Because of this, its entire hardware and software ecosystems have been optimized around these chips. While the chips were originally designed for their TensorFlow framework (hence the name), the move to support other frameworks, such as JAX and PyTorch, has opened the door for them to be used by external customers, as well.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAnthropic had already agreed to acquire $21 billion in TPUs from Broadcom to be deployed this year. This new deal is for 3.5 gigawatts of TPU compute capacity to be delivered starting in 2027. The TPUs will be deployed through Alphabet's cloud computing service, Google Cloud, and also provided directly by Broadcom. The deployments remain contingent on Anthropic's continued commercial success.\n\nLetting Broadcom sell TPU racks directly to Anthropic so the company can manage its own servers is a big shift in Alphabet's strategy. However, it's likely a quite profitable one. Earlier, Morgan Stanley estimated that for every 500,000 TPUs Alphabet sells, it would equate to around $13 billion in additional revenue and $0.40 in earnings per share. Even for the size of a company like Alphabet, those are some big numbers.\n\nTime to buy Alphabet stock\n\nAlphabet has established itself as an AI leader, being the only company with both a top-tier foundation AI model and its own top-notch AI chips. Its proprietary chips give it a significant structural cost advantage, as it can train its models and run inference much lower cost than competitors, which mostly rely on Nvidia graphics processing units (GPUs). It also has powerful distribution and ad networks that enable it to monetize its AI models, as well as those of others.\n\nThe shift to selling its TPUs to customers, meanwhile, adds another powerful revenue stream. With the stock trading at a forward price-to-earnings of 25 times 2027 earnings estimates, this AI leader is a buy.\n\nStory Continues",
+      "Language": "en"
+    },
     {
       "Ticker": "AVGO",
       "Date": "2026-04-13",
