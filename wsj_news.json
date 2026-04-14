@@ -1,7 +1,29 @@
 {
-    "last_updated": "2026-04-14T11:08:02.392Z",
-    "total_news_count": 120,
+    "last_updated": "2026-04-14T22:54:31.026Z",
+    "total_news_count": 122,
     "news": [
+        {
+            "Ticker": "TSM",
+            "Date": "2026-04-15",
+            "Time": "00:22:00",
+            "Title": "TSMC Shows Where AI Demand is Headed - WSJ",
+            "URL": "https://www.wsj.com/tech/ai/tsmc-shows-where-ai-demand-is-headed-a3a3c246",
+            "AI_Summary": "",
+            "Content": "Investors remain as fixated as ever on reading the tea leaves for signs of AI demand. They should look carefully at the companies that face the highest stakes if they get it wrong.\n\nTaiwan Semiconductor Manufacturing is one of those. The company better known as TSMC is the world’s largest producer of the type of advanced semiconductors that power everything from AI servers to smartphones to personal computers.\n\nTSMC’s business is lucrative, but also expensive to operate. Proof of that: While its customer list includes the world’s richest companies (Nvidia, Apple and Google), they have studiously avoided getting into chip manufacturing themselves.\n\nHow expensive? TSMC used its last earnings report three months ago to project capital expenditures between $52 billion and $56 billion this year. That was well above the $44 billion Wall Street had been expecting and more than 60% higher than what TSMC’s capex bill has averaged over the past five years.\n\nRunaway capital spending is hardly unique in the AI race. But if companies like Amazon, Microsoft and Google overshoot a bit in their data-center build-outs, they at least have the comfort of knowing they eventually can make use of that capacity.\n\nUnderused chip-production facilities have high fixed costs and can immediately weigh on the bottom line. “If we didn’t do it carefully, that would be a big disaster to TSMC for sure,” its chief, CC Wei, said in the company’s last earnings call.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-04-14",
+            "Time": "20:25:00",
+            "Title": "Why Amazon Is Buying Starlink Rival Globalstar in $11 Billion Deal - WSJ",
+            "URL": "https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16",
+            "AI_Summary": "",
+            "Content": "Amazon.com is buying satellite operator Globalstar in a deal the companies estimated at about $10.8 billion, seeking to build a business connecting consumer smartphones with satellite internet connections.\n\nThe deal would give Amazon’s Leo satellite venture a boost as it vies with SpaceX’s dominant Starlink network. The Elon Musk-controlled satellite business has been launching satellites designed to connect consumer devices and signing agreements with mobile carriers.\n\nHere is what’s at stake:\n\nA big factor in the deal is Globalstar’s control over spectrum resources, which Amazon could use to provide satellite links to smartphones. Those wireless assets would enable a plan from Amazon to deploy its own direct-to-device satellite fleet beginning in 2028, subject to telecom regulators’ approval.\n\nAmazon’s Leo has more than 200 satellites so far, and the company has secured permission to deploy more than 7,000 broadband satellites. Amazon didn’t specify Tuesday how many direct-to-device satellites it plans to launch over time.\n\nSpaceX’s overall Starlink fleet numbers around 10,000 operational satellites, and the company plans to launch thousands more in the years ahead. Starlink has deployed more than 650 satellites dedicated to providing connections to cellphones as of the end of last year, connecting more than 12 million people, according to the company.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "META",
             "Date": "2026-04-13",
