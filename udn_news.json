@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-15T00:15:55.540Z",
-  "total_news_count": 173,
+  "last_updated": "2026-04-15T01:16:03.883Z",
+  "total_news_count": 174,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-04-15",
+      "Time": "08:26:00",
+      "Source": "經濟日報",
+      "Title": "外資估台積電今年營收年增可望逾30% 2028年資本支出增百億達800億元",
+      "URL": "https://money.udn.com/money/story/5612/9442298?from=edn_search_result",
+      "Content": "經濟日報 記者廖賢龍／即時報導\n\n美系大行表示，台積電 （2330） 15日法說會有可能上調2026年營收展望從接近30%的年成長到30%中段。券商將2028年資本支出由700億上修到800億元，維持2026/2027年資本支出仍為550億/650億元。另外，觀察2027年EUV訂單提高，反映3奈米需求轉強，來自HBM base die、LPU、CPU等需求。\n\n美系大行指出，受限於CoWoS僅能支援至9.7倍光罩尺寸，而AI晶片與封裝持續放大。且Intel EMIB-T 裡的DTC嵌入矽橋中並與TSV並列，用於提供貼近晶粒的高頻去耦。可實現更優異的電力供應、降低雜訊，並支援高速HBM4記憶體整合。券商觀察愛普 （6531） 協助Google與聯發科 （2454） 在Intel EMIB-T中生產DTC。同時也觀察Google與AWS已接觸Intel EMIB-T進行機構測試（MTV）。\n\n美系券商認為，台積電考量近期晶片尺寸擴大需求與Intel競爭，可能會提早CoPoS時程於2028年就上，尺寸包含300mm與500mm，並導入結合SoIC的3.5D封裝（Meta MTIA正在評估），採用玻璃核心基板解決超過9.7倍光罩尺寸的翹曲問題。\n\n券商仍不確定這些下一代晶片將如何在Intel EMIB-T與台積電CoWoS/CoPoS之間分配。其分配將取決於1.Intel EMIB-T良率；2.台積電CoWoS光罩限制；3.CoPoS時程。\n\n且目前載板產能吃緊，僅日廠Ibiden在為EMIB-T擴產，其餘廠商都在觀望中，這更加深不確定性。美系大行持續追蹤。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2388.TW",
       "Date": "2026-04-14",
