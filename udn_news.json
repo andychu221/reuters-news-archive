@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-19T18:15:55.078Z",
-  "total_news_count": 43,
+  "last_updated": "2026-04-19T19:16:04.497Z",
+  "total_news_count": 44,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-04-20",
+      "Time": "02:25:00",
+      "Source": "經濟日報",
+      "Title": "[會員] Google 新 TPU 來了 帶旺聯發科、廣達、英業達等協力廠",
+      "URL": "https://money.udn.com/money/story/5612/9451632?from=edn_search_result",
+      "Content": "經濟日報 記者秦鈺翔／台北報導\n\nGoogle年度盛會「Google Cloud Next '26」將於美西時間4月22日至24日在拉斯維加斯盛大登場，市場預期將端出最新v8架構張量處理器（TPU），引爆新一波TPU熱潮，帶旺台積電、聯發科、鴻海、廣達、英業達等協力廠。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-04-19",
