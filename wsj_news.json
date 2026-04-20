@@ -1,7 +1,40 @@
 {
-    "last_updated": "2026-04-20T11:25:54.857Z",
-    "total_news_count": 134,
+    "last_updated": "2026-04-20T22:47:52.619Z",
+    "total_news_count": 137,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-04-21",
+            "Time": "06:15:00",
+            "Title": "Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal - WSJ",
+            "URL": "https://www.wsj.com/tech/ai/anthropic-amazon-tighten-bond-in-5-billion-investment-and-computing-deal-b9d8e513",
+            "AI_Summary": "",
+            "Content": "Amazon said Monday that it would invest an additional $5 billion in Anthropic, part of a broadening partnership that will see the two tech companies collaborate more closely.\n\nAmazon said its total investment could be as high as $25 billion if the partnership hits certain commercial milestones. As part of the agreement, Anthropic, which has increasingly been hampered by a shortage of the computing power needed to serve its popular artificial intelligence models, agreed to purchase more than $100 billion of Amazon’s cloud services. Anthropic said it would make use of 5 gigawatts’ worth of Amazon’s AI chips as part of the agreement.\n\nThe investment comes as competition in the AI industry heats up ahead of the expected public offerings of Anthropic and its rival OpenAI.\n\nAmazon is rapidly expanding spending on new data centers and chip designs. The company has said that it would spend $200 billion on capital expenditures this year, much of it on AI-related investments, including new data centers. The pace of investment has led some analysts to question whether Amazon could justify the spending with enough new business. Amazon shares rose nearly 3% in after-hours trading on Monday.\n\nAmazon’s partnership with Anthropic started in 2023 when the e-commerce and cloud computing giant invested $4 billion in the AI startup. Today, Anthropic is both a strategic investment and a key customer for Amazon Web Services and the company’s AI chips, dubbed Trainium.\n\nIn October, Amazon opened one of the largest AI data centers for Anthropic in Indiana called Project Rainier, which is powered by half-a-million Trainium 2 chips. Ultimately, that number is set to double, Amazon has said.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-04-21",
+            "Time": "04:43:00",
+            "Title": "Apple Hardware Executive John Ternus to Become CEO - WSJ",
+            "URL": "https://www.wsj.com/tech/apple-announces-ceo-john-ternus-2826465d",
+            "AI_Summary": "",
+            "Content": "Apple announced Monday that John Ternus, an affable mechanical engineer who rose through the ranks of the company’s hardware division, will be its next chief executive, succeeding Tim Cook.\n\nTernus is currently Apple’s senior vice president of hardware engineering. His appointment will take effect Sept. 1, and Cook will become executive chairman, replacing longtime chair Art Levinson.\n\nTernus, 50, steps into the shoes of two giants of American business. Steve Jobs, who led the invention of the most popular consumer product in history, and Cook, who squeezed so much profit from the iPhone that Apple became the world’s most valuable company.\n\nCook will be remembered for creating immense value. During his tenure, Apple’s market value grew by nearly $3.7 trillion, surpassing the value created by any other American CEO in total dollars, save Nvidia’s Jensen Huang.\n\nKnown for deft politicking inside the giant company, where he has worked for 25 years, Ternus was widely seen as the leading candidate to succeed Cook. As a top hardware executive, he worked on the iPad, then later the Mac and AirPods before taking over responsibility for all of Apple’s products, including its most important, the iPhone.\n\n“John is a deep collaborator,” said Chris Deaver, a former Apple human resources staffer who worked with Ternus. “Having a great product leader at the helm right now is a good future indicator for Apple.”",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AVGO",
+            "Date": "2026-04-21",
+            "Time": "03:00:00",
+            "Title": "Broadcom CFO on M&A Discipline With an Innovation Edge - WSJ",
+            "URL": "https://deloitte.wsj.com/cfo/broadcom-cfo-on-m-a-discipline-with-an-innovation-edge-b65d196c",
+            "AI_Summary": "",
+            "Content": "As Broadcom’s finance chief, Kirsten Spears is steering her finance team and the wider enterprise through a complex and critical time for its two core industries: semiconductors and software. As Spears explains in the following interview, the company—which has managed a series of acquisitions in recent years to expand its revenue mix from pure hardware to diversified technology—is guided by an adherence to simplicity and speed. Those principles extend to system integrations of newly acquired companies and the importance of making sufficient investments in R&D.\n\nSpears has served as Broadcom’s vice president and CFO since 2020 after roles as corporate controller and management positions in accounting and reporting at LSI, which Broadcom acquired. Prior to LSI, Spears worked for Raychem, managing a variety of accounting functions; and for Bank of America, managing branch operations. Spears discusses how she and her team support Broadcom by enforcing clear performance guardrails and disciplined investments intended to protect margins and drive long-term growth.\n\nQ: Broadcom operates in highly complex sectors. How do you set priorities for finance to support the company’s growth?\n\nSpears: We are a financially disciplined company, but we won’t sacrifice innovation for that discipline. They need to coexist.\n\nAs we balance spending across operational needs and innovation, we also avoid overengineering things. We aren’t spending on moonshots to make ourselves successful. My role is to provide the financial guardrails, ensuring we fuel innovation while maintaining a disciplined annual plan. We keep things simple. Complexity leads to over-engineered systems and excess headcount, which is exactly what we dismantle when we acquire a company.\n\nBroadcom is known for rapid and successful integrations. What is your advice for CFOs navigating the M&A process?\n\nFirst, you have to buy the right asset. If you don’t start with a market leader, you’re in trouble. The companies we acquire have to meet financial criteria involving market position, gross margins, cash flow, and shareholder returns. They also typically have a desirable technology that is a market leader in its space.\n\nSecond, avoid the “beauty contest” within the integration process. Many companies hire third parties to compare systems and processes, this process versus that process. At Broadcom, we use an “adopt and go” strategy. We know our internal systems are efficient and simple. We usually dismantle the acquired company’s systems quickly to bring everyone into one environment for better controls, efficiency, and transparency. You have to move quickly with the end state in mind.\n\nHow do you approach finance’s process and organizational structure for managing costs and ROI?\n\nWe provide each division with financial guardrails in our annual plan. If a business has a reason to deviate from those plans, it needs to make a case for it. For example, if we need a technology offering to sustain a competitive edge, we discuss it as part of the annual plan.\n\nFor oversight and planning, we have general managers who conduct product reviews that inform our annual plan and future cost estimates for each of our 26 businesses. We have finance professionals embedded in every division along with human resources and legal experts to help leadership stay on track. We reinforce the finance objectives and hold forecasting reviews to ensure the plan’s guardrails are followed. At Broadcom, everybody is aware of financial guardrails, but I don’t see them getting in the way of innovation.\n\n—by Craig Schneider, senior writer, Executive Perspectives in The Wall Street Journal, Deloitte Services LP",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "TSLA",
             "Date": "2026-04-20",
