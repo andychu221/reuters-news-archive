@@ -1,7 +1,40 @@
 {
-    "last_updated": "2026-04-21T11:16:49.202Z",
-    "total_news_count": 138,
+    "last_updated": "2026-04-21T22:50:00.736Z",
+    "total_news_count": 141,
     "news": [
+        {
+            "Ticker": "AMZN",
+            "Date": "2026-04-22",
+            "Time": "03:33:00",
+            "Title": "Amazon.com to Offer Program for GLP-1 Weight-Loss Drugs - WSJ",
+            "URL": "https://www.wsj.com/health/pharma/amazon-com-to-offer-program-for-glp-1-weight-loss-drugs-72465385",
+            "AI_Summary": "",
+            "Content": "Amazon.com is offering a GLP-1 weight-loss program that integrates primary-care services with the technology company’s pharmacy business.\n\nThe company said Tuesday the new program is designed to provide continuing medical supervision—allowing clinicians to monitor progress, adjust treatments and address related health conditions—compared with one-off weight-management solutions from other providers.\n\nWith the program, Amazon One Medical members can get Novo Nordisk’s Wegovy and Eli Lilly’s Foundayo GLP-1 pills for weight management starting at $25 a month with insurance coverage, or $149 a month for cash-pay options.\n\nThe $149 cash-pay price for a starter dose aligns with those offered through programs from the likes of Hims & Hers Health , Walgreens and Weight Watchers. However, required membership and visit fees can vary. Amazon One Medical costs $99 a year for Prime members.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-04-22",
+            "Time": "00:10:00",
+            "Title": "The AI Spending Spree Is Far from Over - WSJ",
+            "URL": "https://www.wsj.com/tech/ai/the-ai-spending-spree-is-far-from-over-026c17df",
+            "AI_Summary": "",
+            "Content": "The AI spending race among the world’s largest companies is now in its third year—with no end in sight.\n\nWhen Microsoft, Amazon, Meta Platforms and Google-parent Alphabet report their quarterly results on the same afternoon next week, investors will scrutinize the capital expenditures line item. And with good reason. Those four companies spent a combined $410 billion on capex last year, which is nearly triple what they spent in 2022.\n\nThe launch of ChatGPT late that year sparked a technological arms race. Four of the world’s largest companies by revenue and market capitalization suddenly feared that falling behind in AI meant early obsolescence. That fear is still a driving force; Amazon, Meta and Google’s parent all used their quarterly reports three months ago to project big jumps in capital spending this year.\n\nMicrosoft remains the wild card. Because the software giant has a fiscal year that ends in June, it typically doesn’t forecast for calendar-year periods. But Wall Street analysts still expect a 31% jump in Microsoft’s total capital spending for 2026, according to estimates from Visible Alpha. That would make for as much as $674 billion in total capital spending for the four companies this year. And it would mark the third year in a row that total combined spending growth has exceeded 60%.\n\nEven the deepest pockets in the world can’t sustain that level of spending for long. Unless, that is, AI starts to drive significant revenue and earnings growth.\n\nThe rub is that pulling back now could also look like an admission of weakness—especially with AI model makers OpenAI and Anthropic sharply growing their own revenue ahead of expected public offerings later this year. That gives the big tech companies little incentive to tap the spending brakes.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-04-21",
+            "Time": "10:45:00",
+            "Title": "The Rise of Apple’s New CEO: A Hardware Expert Takes Over in the AI Era - WSJ",
+            "URL": "https://www.wsj.com/tech/the-rise-of-apples-new-ceo-a-hardware-expert-takes-over-in-the-ai-era-bdc7046e",
+            "AI_Summary": "",
+            "Content": "The Mac Mini was sorely in need of an update, and John Ternus hoped he didn’t need to go through design guru Jony Ive.\n\nYears ago, before Ternus was tapped to take the helm of one of the world’s biggest and most influential companies, he led Apple’s Mac hardware division. It was one of many stops as he rose through the ranks of the insular company and learned to navigate its curious internal politics.\n\nThe AI revolution that would make the Mac Mini hugely popular was still years away, yet software developers needed a new version with updated chips. A new enclosure for the Mini could require work by Ive’s industrial design department that could lead to delays.\n\nTernus ordered the update after determining that the design wouldn’t need a major change, people familiar with the move said. He didn’t dwell on the product’s profit potential, focusing instead on its value to Apple’s overall ecosystem. It was one of many episodes that showed his decisiveness, keen understanding of Apple’s culture and products, and how to get things done inside the company, the people said.\n\nOver his 25-year career at Apple, those characteristics have propelled Ternus all the way to the company’s top job, which he will take over Sept. 1, the company announced Monday, instantly making him one of the highest-profile corporate leaders in the world. Longtime Apple CEO Tim Cook will become executive chairman, a role he expects to hold for several years.\n\nTernus will follow two corporate legends. Steve Jobs developed the most lucrative product in history, the iPhone. Cook squeezed trillions of dollars of value from the smartphone thanks to the supply chain he built and the services and ancillary products he rolled out.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "AMZN",
             "Date": "2026-04-21",
