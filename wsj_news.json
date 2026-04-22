@@ -1,7 +1,40 @@
 {
-    "last_updated": "2026-04-22T11:15:12.111Z",
-    "total_news_count": 143,
+    "last_updated": "2026-04-22T22:59:13.893Z",
+    "total_news_count": 147,
     "news": [
+        {
+            "Ticker": "TSLA",
+            "Date": "2026-04-23",
+            "Time": "05:37:00",
+            "Title": "Tesla’s $1.4 Billion Surprise for Wall Street - WSJ",
+            "URL": "https://www.wsj.com/finance/teslas-1-4-billion-surprise-for-wall-street-c4799819",
+            "AI_Summary": "",
+            "Content": "This is an edition of the What’s News newsletter, which helps you catch up on the headlines and understand the news, free in your inbox daily. If you’re not subscribed, sign up here.\n\nBlocking the cash deliveries is part of an effort to pressure Baghdad to dismantle Iranian-backed militias. In a statement that didn’t allude to the move, the Central Bank of Iraq said it wasn’t short of U.S. currency. In contrast, the U.S. is trying to reset ties with a reclusive African country that controls important real estate along the Red Sea, a shipping corridor that Iran is threatening to choke off. Meanwhile, mediators are pushing to get Iran and the U.S. back into negotiations Friday. For more news and analysis on the Iran war, read WSJ’s live blog.\n\nThe company reported $22.4 billion in revenue for the period ending March 31, up 16% from the first quarter of last year. Net-income grew 17%. Revenue from its automotive business increased 16% from the year prior. However, Tesla’s first-quarter results mark a steady decline in revenue and earnings since the third-quarter peak last year when Tesla’s sales were spurred by an expiring federal tax credit of $7,500 per vehicle.\n\nThe billionaire alleged the company froze valuable digital tokens over his refusal to invest more money. If World Liberty hadn’t done so, he could’ve made $276 million by selling his WLFI tokens, the lawsuit said. World Liberty’s CEO, Zach Witkoff, called the suit a “desperate attempt to deflect attention from Sun’s own misconduct” and “entirely meritless.” When Sun bought his tokens, he was facing fraud charges from the SEC; last month, he settled the case without admitting wrongdoing. A Sun spokesperson has said his investment decisions weren’t politically motivated.\n\nUnder the agreement being discussed, the U.S. government would loan the discount carrier as much as $500 million, receiving in return warrants to take a potential significant stake in Spirit, people familiar with the matter said. The White House said the president and the Commerce Department are keeping track of the situation. A Spirit deal would expand a series of private-sector investments that Trump has overseen in his second term. Spirit filed for chapter 11 bankruptcy in November 2024 and last August.\n\nThe two-year EU loan that Ukraine is poised to receive for its war efforts, after Hungary dropped its veto. The move came after Kyiv said it had fixed a damaged oil pipeline at the center of a monthslong standoff with Hungary’s departing prime minister, Viktor Orbán. European money has become a lifeline for Ukraine after U.S. withdrew financial support.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "TSLA",
+            "Date": "2026-04-23",
+            "Time": "04:19:00",
+            "Title": "Tesla Surprises Wall Street With Better Profits, $1.4 Billion in Free Cash Flow - WSJ",
+            "URL": "https://www.wsj.com/business/autos/tesla-earnings-q1-2026-tsla-stock-image-72a9a58e",
+            "AI_Summary": "",
+            "Content": "Tesla reported better revenue and earnings in the first quarter—and surprised Wall Street with positive free cash—when compared with last year’s period.\n\nThe company reported $22.4 billion in revenue for the first quarter, up 16% from the first quarter of last year. Revenue from its automotive business increased 16% from the year prior, and the company said the recent run-up in gasoline prices has helped sales slightly.\n\nEnergy business revenue, which comes from selling industrial and residential battery storage, was previously a bright spot for the company, but it fell 12% in the first quarter. Even so, Tesla’s net income grew 17%. And despite analyst consensus that the company could have negative free cash flow for the first time in two years, Tesla reported positive free cash flow of $1.4 billion.\n\nChief Financial Officer Vaibhav Taneja said Tesla will have negative free cash flow for the rest of the year as it prepares to spend $25 billion on capital expenditures in 2026.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "NVDA",
+            "Date": "2026-04-22",
+            "Time": "22:27:00",
+            "Title": "Google Introduces Specialized Chip for New Wave of AI Computing - WSJ",
+            "URL": "https://www.wsj.com/tech/ai/google-tpux-inference-chip-7930f2d0",
+            "AI_Summary": "",
+            "Content": "Google has raised the stakes in the contest to develop the world’s fastest and most efficient artificial-intelligence chips.\n\nThe Alphabet unit has developed a new computer processor that is customized for the type of computing operations involved in querying, rather than training, AI models. Demand for that type of computing, known as inference, is exploding as businesses embrace AI agents capable of writing software and performing other tasks.\n\nThe company plans to unveil its eighth generation of Tensor Processing Units, or TPUs, this week at a company event in Las Vegas. Google has been developing an inference-specific chip for several years, people familiar with the matter said, and in recent months enlisted a small group of AI companies to test the chip’s capabilities.\n\nGoogle is also introducing a separate chip customized for training, the process by which AI models are fed data and taught how to respond to queries.\n\n“If you don’t have inference, you cannot cover the cost of your training,” said Thomas Kurian, chief executive of Google’s Cloud unit. “So eventually inference is going to be at least as big, if not bigger, than the training market.”\n\nThe development sharpens the rivalry between Google’s custom semiconductor business and market leader Nvidia, as growing use of agentic AI brings a surge in demand for faster, more energy-efficient chips. The chip giant last month unveiled its own inference solution, a server composed of its signature graphics processing units, or GPUs, paired with chips from the startup Groq, whose technology Nvidia licensed as part of a $20 billion deal last year.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "AAPL",
             "Date": "2026-04-22",
@@ -46,6 +79,17 @@
             "URL": "https://www.wsj.com/tech/ai/the-ai-spending-spree-is-far-from-over-026c17df",
             "AI_Summary": "",
             "Content": "The AI spending race among the world’s largest companies is now in its third year—with no end in sight.\n\nWhen Microsoft, Amazon, Meta Platforms and Google-parent Alphabet report their quarterly results on the same afternoon next week, investors will scrutinize the capital expenditures line item. And with good reason. Those four companies spent a combined $410 billion on capex last year, which is nearly triple what they spent in 2022.\n\nThe launch of ChatGPT late that year sparked a technological arms race. Four of the world’s largest companies by revenue and market capitalization suddenly feared that falling behind in AI meant early obsolescence. That fear is still a driving force; Amazon, Meta and Google’s parent all used their quarterly reports three months ago to project big jumps in capital spending this year.\n\nMicrosoft remains the wild card. Because the software giant has a fiscal year that ends in June, it typically doesn’t forecast for calendar-year periods. But Wall Street analysts still expect a 31% jump in Microsoft’s total capital spending for 2026, according to estimates from Visible Alpha. That would make for as much as $674 billion in total capital spending for the four companies this year. And it would mark the third year in a row that total combined spending growth has exceeded 60%.\n\nEven the deepest pockets in the world can’t sustain that level of spending for long. Unless, that is, AI starts to drive significant revenue and earnings growth.\n\nThe rub is that pulling back now could also look like an admission of weakness—especially with AI model makers OpenAI and Anthropic sharply growing their own revenue ahead of expected public offerings later this year. That gives the big tech companies little incentive to tap the spending brakes.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-04-21",
+            "Time": "17:30:00",
+            "Title": "Tim Cook Told Me His Advice for Apple’s Next CEO - WSJ",
+            "URL": "https://www.wsj.com/tech/apple-tim-cook-advice-john-ternus-steve-jobs-2934ed33",
+            "AI_Summary": "",
+            "Content": "When Tim Cook became the leader of the world’s most important tech company, Steve Jobs looked him in the eyes and gave him an unexpected piece of advice that would guide all of his decisions as the CEO of Apple.\n\nDon’t ask what I would do, Jobs told Cook. Just do the right thing.\n\nSo what will Cook tell the person who comes after him?\n\nAs it happens, I asked him that very question just weeks before Apple announced that Cook was stepping down and would be replaced by John Ternus.\n\nThat day, Cook was in an unusually reflective mood. With Apple’s 50th anniversary right around the corner, he was putting the past half-century in perspective, reminiscing about early prototypes of the products that turned a startup in a garage into the most valuable company on the planet. But he didn’t need to be staring directly at the past to remember what Jobs told him 15 years ago. Cook never forgot it.\n\nIn fact, when I asked for the one piece of advice that he would give his own successor, he answered as if the question was already on his mind.",
             "Source": "WSJ",
             "Language": "en"
         },
