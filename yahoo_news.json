@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-04-22T04:20:38.479Z",
-  "total_news_count": 10,
+  "last_updated": "2026-04-22T04:40:43.133Z",
+  "total_news_count": 2,
   "news": [
-    {
-      "Ticker": "2388.TW",
-      "Date": "2026-04-22",
-      "Time": "09:13:00",
-      "Source": "Yahoo奇摩股市",
-      "Title": "台股焦點：威盛(2388.TW)",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E5%A8%81%E7%9B%9B-2388-tw-011300888.html",
-      "Content": "MoneyDJ新聞 2026-04-22 09:13:02 數位內容中心 發佈\n\n威盛（2388.TW）盤中走強，成交價來到80元，上漲9.89%，成交量8173張，均價78.97元。\n\n威盛主力業務涵蓋x86平台IC解決方案、CPU與晶片組、嵌入式晶片及車用電子，並布局高速傳輸介面IC與數位看板應用。威盛3月合併營收11.28億元，累計營收21.35億元，近期營收水位回升。\n\n車用電子、嵌入式系統與邊緣運算設備需求持續推進，數位看板與高速傳輸相關應用也維持產品更新節奏。IC設計業者近來同步聚焦工控、車載與智慧終端等市場，威盛產品線橫跨運算平台與專用晶片，與相關應用市場連動性高。\n\n台股焦點：金麗科(3228.TW)\n\n台股焦點：威盛(2388.TW)\n\n資料來源- MoneyDJ理財網",
-      "Language": "zh"
-    },
     {
       "Ticker": "AMZN",
       "Date": "2026-04-22",
@@ -31,76 +21,6 @@
       "URL": "https://finance.yahoo.com/m/cd695ced-41ec-35cf-a42a-25262eea9b35/why-the-nasdaq%27s-artificial.html",
       "Content": "The \"Great Rotation\" out of growth and artificial intelligence (AI) stocks and into value stocks has proved to be short-lived, and the tech-heavy Nasdaq Composite index is once again leading the market's charge upward. There has been some nervousness around the conflict with Iran and AI infrastructure spending, but the technology looks like it is still in its early stages. AI models are only getting better, and agentic AI is still in its infancy.\n\nAlthough the infrastructure hardware sellers are getting much of the buzz, I think two of the companies doing a lot of the spending are well positioned to be huge AI winners over the long haul. That's why I would be buying Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) and Amazon (NASDAQ: AMZN) right now.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nAlphabet: The ultimate AI play\n\nAlphabet has the most complete AI stack of any company. This starts with its Tensor Processing Units (TPUs), which are custom chips it began developing more than a decade ago. It has optimized its entire hardware and software ecosystem around these application-specific integrated circuits (ASICs), and has continually improved upon them throughout the years. The chips are now in their seventh generation, and their eighth generation arrives later this year.\n\nThis has given the company a big cost advantage for both AI model training and running inference workloads. The company is also letting customers deploy TPUs within its cloud computing platform, Google Cloud, and is just starting to let certain big customers buy them for use in their own data centers.\n\nAt the same time, Alphabet has used its TPUs to create its world-class AI foundational model, Gemini, which has been gaining share as a stand-alone app. But more importantly, Alphabet is embedding its AI capabilities across its products to make them better and drive growth, including with its core Google Search business.\n\nThe company has a huge advantage in distribution and its ad network, so it has become a leader in the consumer space. And its recent acquisition of the cloud security provider Wiz also makes it a leader in AI data center cybersecurity.\n\nGiven Alphabet's built-in cost and ecosystem advantages, it is a top AI stock to own, both during this rally and for the long term.\n\nAmazon: Don't underestimate this cloud giant\n\nAs the largest cloud infrastructure provider in the world, Amazon has unmatched scale in the space. The company also has developed its own custom chips, which gives it a cost advantage as well.\n\nStory Continues\n\nIts AI accelerators are not as established as Alphabet's TPUs, but this is still a big business. The company built a huge data center using its Trainium chips dedicated to Anthropic that came online toward the end of last year, and management recently announced that its chips are a $20 billion run-rate business.\n\nAmazon also said that this would be about a $50 billion business when including the chips it is deploying for its internal use. While this isn't counted in revenue, the semiconductors still save the company money in capital expenditures and on inference costs.\n\nIt also has its own custom central processing units. Supply of such chips is expected to be one of the next big AI infrastructure bottlenecks, and with its Graviton chip, the company is very well positioned for agentic AI.\n\nAmazon's cloud segment is its largest profit center, and it is starting to see its revenue growth accelerate, but its e-commerce business remains strong. The company is using its leadership in AI, automation, and robotics to increase efficiency and drive impressive operating leverage in e-commerce. This, in turn, is leading to strong profitability growth in the segment.\n\nAs the market leader in cloud computing and e-commerce, Amazon is a great stock to own as the market shifts back toward favoring growth stocks.",
       "Language": "en"
-    },
-    {
-      "Ticker": "3035.TW",
-      "Date": "2026-04-22",
-      "Time": "04:10:00",
-      "Source": "Yahoo奇摩股市",
-      "Title": "國外指數期貨贏家專欄－智原多頭態勢強 震盪盤堅看待",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%A4%96%E6%8C%87%E6%95%B8%E6%9C%9F%E8%B2%A8%E8%B4%8F%E5%AE%B6%E5%B0%88%E6%AC%84-%E6%99%BA%E5%8E%9F%E5%A4%9A%E9%A0%AD%E6%85%8B%E5%8B%A2%E5%BC%B7-%E9%9C%87%E7%9B%AA%E7%9B%A4%E5%A0%85%E7%9C%8B%E5%BE%85-201000956.html",
-      "Content": "ASIC設計服務大廠智原（3035）期貨20日在多方買盤追捧下成功克服季線反壓，短均同步向上發散，技術指標也全面呈現偏多立場，盤面多頭趨勢強勁，且在本周Google Cloud Next大會題材的助力下，市場資金持續湧入TPU與AI ASIC應用等相關領域，建議可以震盪盤堅的格局正面看待。\n\n結構面觀察，智原營運正進入轉型期。隨公司IP業務維持成長以及NRE系列案件能見度提升，預期量產收入逐漸回溫，營收可望逐季成長。更值得留意的是，智原技術升級所帶來的中長期動能。目前智原已取得5奈米ASIC專案，並推進至4奈米甚至更先進的節點，顯示其客戶結構與技術門檻提升。",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "2388.TW",
-      "Date": "2026-04-22",
-      "Time": "04:10:00",
-      "Source": "Yahoo奇摩股市",
-      "Title": "熱門股－威盛 轉投資題材點火",
-      "URL": "https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E8%82%A1-%E5%A8%81%E7%9B%9B-%E8%BD%89%E6%8A%95%E8%B3%87%E9%A1%8C%E6%9D%90%E9%BB%9E%E7%81%AB-201000385.html",
-      "Content": "威盛（2388）本業營運回溫，轉投資布局受矚目，激勵短多資金搶進，股價於4月急漲，21日股價亮燈漲停，以72.8元作收，累計4月漲幅近四成。法人關注威盛近期產供與投片情況，傳出部分產品供給偏緊，價格有所調整，近期投片量也較去年第四季增加。\n\n本業營運外，威盛轉投資布局亦受矚目，涵蓋光通訊上游砷化鎵晶圓、磷化銦晶圓及MOCVD磊晶等領域，相關產線陸續進入量產。威盛轉投資陸廠正進行資本市場規劃，亦增添市場想像空間。",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "2388.TW",
-      "Date": "2026-04-21",
-      "Time": "09:52:00",
-      "Source": "Yahoo奇摩股市",
-      "Title": "威盛員工認股權憑證於114年第四季行使所發行之普通股已上市115,000股",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B%E5%93%A1%E5%B7%A5%E8%AA%8D%E8%82%A1%E6%AC%8A%E6%86%91%E8%AD%89%E6%96%BC114%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%AD%A3%E8%A1%8C%E4%BD%BF%E6%89%80%E7%99%BC%E8%A1%8C%E4%B9%8B%E6%99%AE%E9%80%9A%E8%82%A1%E5%B7%B2%E4%B8%8A%E5%B8%82115-000%E8%82%A1-015200775.html",
-      "Content": "公開資訊觀測站公告\n\n(2388)威盛-威盛電子股份有限公司（公司代號：2388）員工認股權憑證於114年第4季行使所發行之普通股股票已上市股數。\n\n一、上市股票代號：2388。\n\n二、上市股票數量：普通股115,000股。\n\n三、上開公司已於115年1月15日將相關資訊公告於公開資訊觀測站。\n\n四、其他：本次申報上市之普通股股票經濟部核准變更登記日期為115年04月15日，加計本次發行普通股後之變更登記普通股股數餘額為555,789,941股。(含私募及限制買賣股數計0股)\n\n台股焦點：威盛(2388.TW)\n\n4/21起「中小型A級動能50指數」納信錦、直得等/刪中砂、中華化等\n\n資料來源- MoneyDJ理財網",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "5347.TWO",
-      "Date": "2026-04-17",
-      "Time": "19:46:16",
-      "Source": "Yahoo奇摩股市",
-      "Title": "【公告】補充說明世界董事會同意世界及子公司VSMC向台灣積體電路製造(股)公司取得無形資產(對應原113/06/26公告)",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%A3%9C%E5%85%85%E8%AA%AA%E6%98%8E%E4%B8%96%E7%95%8C%E8%91%A3%E4%BA%8B%E6%9C%83%E5%90%8C%E6%84%8F%E4%B8%96%E7%95%8C%E5%8F%8A%E5%AD%90%E5%85%AC%E5%8F%B8vsmc%E5%90%91%E5%8F%B0%E7%81%A3%E7%A9%8D%E9%AB%94%E9%9B%BB%E8%B7%AF%E8%A3%BD%E9%80%A0-%E8%82%A1-%E5%85%AC%E5%8F%B8%E5%8F%96%E5%BE%97%E7%84%A1%E5%BD%A2%E8%B3%87%E7%94%A2-%E5%B0%8D%E6%87%89%E5%8E%9F113-114616135.html",
-      "Content": "日 期：2026年04月17日\n\n公司名稱：世界 (5347)\n\n主 旨：補充說明世界董事會同意世界及子公司VSMC向台灣積體電路製造(股)公司取得無形資產(對應原113/06/26公告)\n\n發言人：黃惠蘭\n\n說 明：\n\n1. 原公告日期：\n\n113/06/26\n\n2. 簡述原公告申報內容：\n\n(1)公告本公司董事會同意本公司及子公司VSMC向台灣積體電路製造(股)\n\n公司取得無形資產。\n\n(2)交易數量為130nm~40nm BCD等7項技術授權，金額為US$150M。\n\n3. 變動緣由及主要內容：\n\n(1)依「公開發行公司取得或處分資產處理準則」相關規定，調整原公告之授權金額，\n\n增加US$10M，調整後總授權金額為US$160M。\n\n(2)本年度本公司及子公司機器設備及相關廠務設備資本預算增加US$10M，\n\n係因應12吋產線實際營運需求所致。\n\n4. 變動後對公司財務業務之影響：\n\n5. 其他應敘明事項：",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "5347.TWO",
-      "Date": "2026-04-17",
-      "Time": "19:34:09",
-      "Source": "Yahoo奇摩股市",
-      "Title": "【公告】世界董事會決議變更115年股東常會召集事由",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%96%E7%95%8C%E8%91%A3%E4%BA%8B%E6%9C%83%E6%B1%BA%E8%AD%B0%E8%AE%8A%E6%9B%B4115%E5%B9%B4%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E5%8F%AC%E9%9B%86%E4%BA%8B%E7%94%B1-113409739.html",
-      "Content": "日 期：2026年04月17日\n\n公司名稱：世界 (5347)\n\n主 旨：世界董事會決議變更民國一一五年股東常會召集事由\n\n發言人：黃惠蘭\n\n說 明：\n\n1.董事會決議日期：115/04/17\n\n2.股東會召開日期：115/05/28\n\n3.股東會召開地點：新竹科學園區園區三路123號本公司會議廳\n\n4.股東會召開方式(實體股東會/視訊輔助股東會/視訊股東會)：實體股東會\n\n5.召集事由一：報告事項\n\n(1)：民國一一四年度營業報告\n\n(2)：審計委員會查核報告\n\n(3)：民國一一四年度員工(含基層員工)及董事酬勞分派情形報告\n\n(4)：募集海外第一次無擔保轉換公司債報告\n\n6.召集事由二：承認事項\n\n(1)：承認本公司民國一一四年度之營業報告書及財務報表\n\n(2)：承認本公司民國一一四年度盈餘分派案\n\n7.召集事由三：討論事項\n\n(1)：核准修訂本公司章程\n\n(2)：核准發行民國一一五年限制員工權利新股案(新增)\n\n8.臨時動議：\n\n9.停止過戶起始日期：115/03/30\n\n10.停止過戶截止日期：115/05/28\n\n11.其他應敘明事項：無",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "5347.TWO",
-      "Date": "2026-04-17",
-      "Time": "19:24:56",
-      "Source": "Yahoo奇摩股市",
-      "Title": "【公告】世界董事會同意發行民國115年限制員工權利新股案",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%96%E7%95%8C%E8%91%A3%E4%BA%8B%E6%9C%83%E5%90%8C%E6%84%8F%E7%99%BC%E8%A1%8C%E6%B0%91%E5%9C%8B115%E5%B9%B4%E9%99%90%E5%88%B6%E5%93%A1%E5%B7%A5%E6%AC%8A%E5%88%A9%E6%96%B0%E8%82%A1%E6%A1%88-112456284.html",
-      "Content": "日 期：2026年04月17日\n\n公司名稱：世界 (5347)\n\n主 旨：世界董事會同意發行民國115年限制員工權利新股案\n\n發言人：黃惠蘭\n\n說 明：\n\n1.董事會決議日期:115/04/17\n\n2.預計發行價格:無償發行\n\n3.預計發行總額(股):發行總額為新台幣200,000仟元，每股面額10元，共計普通股\n\n20,000仟股。實際發行股數將於發行限制員工權利新股案核准後另提董事會決議之。\n\n4.既得條件:\n\n-員工自獲配限制員工權利新股後，須符合以下各項條件方可既得：(1)於各既得\n\n期間屆滿日仍在職；(2)各既得期間內未曾有違反任何與本公司或從屬公司之工作\n\n規則等情事；(3)達成本公司或從屬公司所設定員工個人績效評核指標與公司營運\n\n成果指標，指標內容請詳本次限制員工權利新股發行辦法。\n\n-各年度可既得之最高股份比例為：發行後屆滿二年30%、屆滿三年30%、以及\n\n屆滿四年40%。\n\n-員工個人績效評核指標為：既得期間屆滿之最近一年度評核須達S（含）以上。\n\n-公司營運成果指標為：以毛利率（GM%）、每股盈餘（EPS）、每股現金股利（DPS）\n\n及ESG成果為績效指標，各項指標所佔權重及目標條件如下表說明。各項指標分別\n\n設定目標值，達成目標值之各項指標，其該年度既得股數係各自以對應之權重比例\n\n計算，未達目標值之各項指標，其該年度既得股數之對應權重比例則為0%，達成\n\n其一目標條件即視為達成該項指標。各年度可既得股數以既得日前最近一期經會\n\n計師查核簽證之年度合併財務報告為計算基礎計算之，計算結果到股為止，未滿\n\n一股者無條件捨去。\n\n績效指標 權重 目標\n\n毛利率 30% 高於公司前一年毛利率且大於23%、或高於前三年毛利率\n\n平均值、或大於25%\n\n每股盈餘 30% 高於公司前一年每股盈餘、或高於前三年每股盈餘平均值、\n\n或每股盈餘高於新台幣4.5元(註)\n\n每股現金股利 30% 不低於前一年每股股利、或不低於新台幣4.5元(註)\n\nESG成果 10% MSCI年度ESG評級為BBB(含)以上、或台灣ESG評鑑上櫃\n\n公司不分類前5%、或入選Dow Jones Best-in-Class\n\nWorld Index(註)\n\n註:1)本限制員工權利新股於發行後，如公司因現金增資、盈餘轉增資、資本公積\n\n轉增資、公司債轉換或認股權之行使、合併增資，或因現金增資參與發行海外存託\n\n憑證等情形，致流通在外股份總數變動而產生股權稀釋或其他影響時，應依反稀釋\n\n規定調整。\n\n2)每股現金股利分配計算年度與績效指標年度相同。\n\n3)衡量MSCI年度ESG評級之年度或衡量ESG評鑑成績之年度或衡量Dow Jones\n\nBest-in-Class World Index入選之年度與毛利率、每股盈餘之績效指標年度相同。\n\n5.員工未符既得條件或發生繼承之處理方式:\n\n遇有員工未達既得條件者，由本公司無償收回已獲配股數並予以註銷。其他各項\n\n情事處理方式(包括但不限於發生繼承)，則授權本公司董事長依本次限制員工權利\n\n新股發行辦法辦理。\n\n6.其他發行條件:依本次限制員工權利新股發行辦法規定。\n\n7.員工之資格條件:\n\n-以本公司與從屬公司之全職正式員工為限，且與本公司未來發展高度相關，個人\n\n表現對公司營運具影響力及特定關鍵人才為限。\n\n-實際被給與員工及可獲得限制員工權利新股之數量，將參酌年資、職級、工作\n\n績效、整體貢獻、特殊功績或其它管理上需參考之條件等因素，由董事長核定後\n\n提報董事會同意。經理人、具員工身分之董事者應先經薪資報酬委員會同意，再\n\n提報董事會決議。非經理人、非具董事身分之員工，應提報審計委員會同意，再\n\n提報董事會決議。\n\n8.辦理本次限制員工權利新股之必要理由:\n\n為吸引及留任公司所需專業人才、激勵員工長期服務及提昇員工向心力，以期\n\n共同創造公司及股東利益與環境、社會及公司治理成果。\n\n9.可能費用化之金額:\n\n假定20,000仟股於民國一一六年至一一八年間分次發行，基於既得條件，暫估\n\n費用化總金額約為新台幣2,400佰萬元。依前述假設估計，暫估民國一一六年至\n\n一二二年之費用化金額分別約為新台幣139佰萬元、416佰萬元、638佰萬元、\n\n622佰萬元、383佰萬元、162佰萬元及40佰萬元。\n\n10.對公司每股盈餘稀釋情形:\n\n綜上暫估民國一一六年至一二二年費用化金額對每股盈餘稀釋情形之影響金額\n\n分別約為新台幣0.04元、0.14元、0.21元、0.20元、0.12元、0.05元及0.01元，\n\n對本公司每股盈餘可能之稀釋尚屬有限，故對股東權益尚無重大影響。\n\n11.其他對股東權益影響事項:無\n\n12.員工獲配或認購新股後未達既得條件前受限制之權利:\n\n既得期間除繼承外，員工不得將該限制員工權利新股出售、質押、轉讓、贈與他人\n\n、設定，或作其他方式之處分。其他權利受限制情形，依本次限制員工權利新股\n\n發行辦法辦理。\n\n13.其他重要約定事項(含股票信託保管等):\n\n本公司將以股票信託保管之方式辦理本次發行之限制員工權利新股。\n\n14.其他應敘明事項:\n\n本次限制員工權利新股之各項條件，如因主管機關指示或相關法令規則修訂而有\n\n修訂或調整之必要時，擬提請股東常會授權董事會或其授權之人全權處理所有\n\n發行限制員工權利新股相關事宜。",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "5347.TWO",
-      "Date": "2026-04-17",
-      "Time": "19:13:40",
-      "Source": "Yahoo奇摩股市",
-      "Title": "【公告】世界將於5月5日召開線上法人說明會",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%96%E7%95%8C%E5%B0%87%E6%96%BC5%E6%9C%885%E6%97%A5%E5%8F%AC%E9%96%8B%E7%B7%9A%E4%B8%8A%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-111340790.html",
-      "Content": "日 期：2026年04月17日\n\n公司名稱：世界 (5347)\n\n主 旨：世界將於5月5日召開線上法人說明會\n\n發言人：黃惠蘭\n\n說 明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/05/05\n\n1.召開法人說明會之日期：115/05/05\n\n2.召開法人說明會之時間：14 時 00 分\n\n3.召開法人說明會之地點：線上法人說明會\n\n4.法人說明會擇要訊息：公司將於法人說明會中，公布2026年第一季的財務結果以及對2026年第二季的營運展望。法人說明會當日請造訪下列網址：\n\nhttps://www.zucast.com/webcast/Wv15tPvV\n\n5.其他應敘明事項：完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
-      "Language": "zh"
     }
   ]
 }
