@@ -1,7 +1,62 @@
 {
-    "last_updated": "2026-04-23T11:22:33.373Z",
-    "total_news_count": 153,
+    "last_updated": "2026-04-23T22:57:26.981Z",
+    "total_news_count": 160,
     "news": [
+        {
+            "Ticker": "INTC",
+            "Date": "2026-04-24",
+            "Time": "04:16:00",
+            "Title": "Intel Sales Rise 7% as AI Agents Drive Growth - WSJ",
+            "URL": "https://www.wsj.com/business/earnings/intel-sales-rise-7-as-ai-agents-drive-growth-0b2b71f7",
+            "AI_Summary": "",
+            "Content": "The rise of artificial-intelligence agents and a host of new partnerships are helping breathe new life into chip maker Intel , which just a year ago had been left for dead.\n\nOn Thursday, Intel reported sales of $13.6 billion for the March quarter, up 7% from the year-earlier period and beating estimates from analysts polled by FactSet by 11%. Shares traded as much as 20% higher after markets closed.\n\nIntel had largely sat out the AI revolution because it failed to develop a processor that could rival Nvidia’s signature graphics processing units, or GPUs, and because its advanced chip- fabrication business couldn’t keep pace with rival Taiwan Semiconductor Manufacturing.\n\nBut over the past year, as AI firms have deployed large language models and other tools that are operated by autonomous AI “agents,” the humble CPU—a more basic kind of computer brain that Intel specializes in—has come back into vogue.Also helping: a 10% stake that the Trump administration unveiled last summer, and an announcement that Intel will join Tesla and SpaceX’s Terafab project, which includes a major chip-fabrication plant in Austin, Texas, as a strategic partner.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-04-24",
+            "Time": "02:11:00",
+            "Title": "Meta to Lay Off 10% of Employees in May - WSJ",
+            "URL": "https://www.wsj.com/tech/meta-will-lay-off-8-000-employees-in-may-memo-ce8b97f0",
+            "AI_Summary": "",
+            "Content": "Meta Platforms will lay off 10% of staff, or roughly 8,000 people, in May as it seeks to streamline its operations and pay for massive investments in artificial intelligence, the company said Thursday in an internal memo.\n\nIn the memo sent to current employees that was viewed by The Wall Street Journal, Chief People Officer Janelle Gale said the cuts were necessary to allow the company to operate more efficiently and to offset its investments. “This is not an easy tradeoff and it will mean letting go of people who have made meaningful contributions to Meta during their time here,” Gale wrote.\n\nThe company said it would also cancel plans to hire for 6,000 open roles, the memo said. Affected employees will be notified on May 20.\n\nA Meta spokesperson declined to comment.\n\nMeta plans to spend up to $135 billion on AI infrastructure this year as it seeks to build what it calls personal superintelligence for its 3.5 billion daily users. The company released its first new AI model in a year, called Muse Spark, earlier this month, and said it has plans for more releases soon.\n\nTo train its new models, Meta rolled out a tool earlier this week that will track employees’ keystrokes, mouse movements and click locations to teach “the next generation of our AI models to use computers,” according to another internal memo viewed by the Journal.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-04-24",
+            "Time": "00:50:00",
+            "Title": "Microsoft Offers Buyouts to 7% of Workforce - WSJ",
+            "URL": "https://www.wsj.com/tech/microsoft-offers-buyouts-to-7-of-workforce-755b8534",
+            "AI_Summary": "",
+            "Content": "Microsoft is offering long-tenured employees voluntary buyouts, a first for the software giant as it continues to reorganize staff around its push to accelerate its artificial-intelligence efforts.\n\nThe voluntary retirement program, as Microsoft calls it, is part of a broader shift by Microsoft to alter its performance system and how it awards bonuses and stock options, according to a memo to employees from Chief People Officer Amy Coleman viewed by The Wall Street Journal.\n\n“Across the company, we’re looking at where we can simplify to move faster and deliver the solutions our customers count on,” Coleman wrote. “To sustain this pace, we have to stay focused on doing great work, trusting and empowering our managers, and simplifying to support everyone.” Coleman wrote that the voluntary buyout is being offered to a small percentage of long-serving U.S. employees.\n\nRoughly 7% of the company’s U.S. employees are eligible, according to a person familiar with the matter. To be eligible, employees must be at a senior director level or below, and their years of employment and age must add up to at least 70. The company is also changing the way it awards stock, with it no longer being directly tied to bonuses.\n\nMicrosoft employed about 125,000 people in the U.S. as of June 2025.\n\nThe AI boom, and Microsoft’s urgency to respond to it, have set off a cascade of changes in the past year at the 51-year-old company.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "TSLA",
+            "Date": "2026-04-23",
+            "Time": "22:45:00",
+            "Title": "Tesla Promises Upgrade for Customers Who Bought Cars That Can’t Drive Autonomously - WSJ",
+            "URL": "https://www.wsj.com/business/autos/tesla-promises-upgrade-for-customers-who-bought-cars-that-cant-drive-autonomously-acc431d0",
+            "AI_Summary": "",
+            "Content": "Tesla said it would offer hardware upgrades or trade-in discounts to the millions of customers who own its older vehicles that don’t have the technology to drive autonomously.\n\nChief Executive Elon Musk said on a call with investors that the older technology, known as Hardware 3, isn’t capable of handling fully autonomous rides, as the company previously promised.\n\nTesla has said those vehicles, which were produced before 2024, had the computer and cameras necessary to drive autonomously once Tesla’s software became sophisticated enough.\n\n“Unfortunately, Hardware 3 simply does not have the capability to achieve unsupervised FSD,” Musk said, referencing the company’s driver assistance software, which is called Full Self-Driving (Supervised). “We did think at one point it would have that.”",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "TSM",
+            "Date": "2026-04-23",
+            "Time": "19:36:00",
+            "Title": "ASML Loses Nearly $17 Billion of Value as TSMC Shuns Top-End Machines - WSJ",
+            "URL": "https://www.wsj.com/tech/asml-loses-nearly-17-billion-of-value-as-tsmc-shuns-top-end-machines-f625906e",
+            "AI_Summary": "",
+            "Content": "ASML shares fell after chip giant Taiwan Semiconductor Manufacturing Co. said it has no plans to buy the Dutch group’s high-end lithography machines because they are too expensive.\n\nShares in ASML—which is Europe’s most valuable company—slid 3% in early afternoon trade on the continent. The fall wiped out 14.32 billion euros, equivalent to $16.76 billion, of ASML’s stock market value.\n\nThe Taiwanese group’s new A13 node doesn’t require it to purchase ASML’s most advanced ultraviolet lithography units, known as High-NA EUV machines, TSMC’s co-chief operating officer Kevin Zhang said, according to a Bloomberg report.\n\nZhang’s comments cast a shadow on broader market optimism around semiconductor stocks that had pushed the Nasdaq to a record high Wednesday, Swissquote senior analyst Ipek Ozkardeskaya said.\n\nASML’s lithography machines are used by chip makers like TSMC and Samsung Electronics to print complex circuit designs onto silicon wafers. The Dutch company has said that its most-advanced machines would make that process more efficient.\n\n“We see this as a modest negative versus our base case” for ASML, analysts at UBS wrote in a note to clients.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
         {
             "Ticker": "MSFT",
             "Date": "2026-04-23",
@@ -9,7 +64,18 @@
             "Title": "Microsoft Needs Copilot to Get Back in the Air - WSJ",
             "URL": "https://www.wsj.com/tech/ai/microsoft-needs-copilot-to-get-back-in-the-air-6a9746d5",
             "AI_Summary": "",
-            "Content": "Even in the turbulent market of 2026, going from “AI winner” to “AI loser” status in six months seems excessive.\n\nUnfortunately for Microsoft , the complexity of the company’s business model also means its new label can’t be shaken off quickly. But patient investors should be rewarded, as the world’s largest software company by revenue still has notable strengths in the artificial-intelligence world.\n\nWhile Microsoft’s stock has rebounded some recently along with other megacap techs, it remains down about 17% over the past six months. The company has lost more than $800 billion in market cap from its peak in late October, putting the stock at under 24 times projected earnings. That is around the same multiple it fetched just before OpenAI launched ChatGPT in late 2022, according to FactSet data.\n\nThat launch made Microsoft the presumed early winner of the AI race, given its prescient investment of billions of dollars in Sam Altman’s startup. But three years in, that race has racked up huge investment bills with less impressive business contributions—at least apparent ones.\n\nLooming large among Microsoft’s concerns now is its suite of Copilot AI tools. Copilot got off the ground in late 2023, bringing AI features to Microsoft’s ubiquitous productivity software, among other offerings. But while paying users of corporate Copilot software have grown to about 15 million in its latest quarter, they represent only about 3.5% of its enormous user base, according to Bank of America analysts.\n\nThat isn’t tremendous 2½ years in, especially when considering how the competition is faring. AI-developer Anthropic’s Claude Cowork AI tools, which autonomously handle common corporate tasks like file management and compiling data, have taken off in recent months—to the extent that Microsoft recently felt the need to add them to its Copilot suite. Paying fees to Anthropic when users tap into Cowork surely makes Copilot less lucrative for Microsoft.",
+            "Content": "Even in the turbulent market of 2026, going from “AI winner” to “AI loser” status in six months seems excessive.\n\nUnfortunately for Microsoft , the complexity of the company’s business model also means its new label can’t be shaken off quickly. But patient investors should be rewarded, as the world’s largest software company by revenue still has notable strengths in the artificial-intelligence world.\n\nWhile Microsoft’s stock has rebounded some recently along with other megacap techs, it remains down about 17% over the past six months. The company has lost more than $800 billion in market cap from its peak in late October, putting the stock at under 24 times projected earnings. That is around the same multiple it fetched just before OpenAI launched ChatGPT in late 2022, according to FactSet data.\n\nThat launch made Microsoft the presumed early winner of the AI race, given its prescient investment of billions of dollars in Sam Altman’s startup. But three years in, that race has racked up huge investment bills with less impressive business contributions—at least apparent ones.\n\nLooming large among Microsoft’s concerns now is its suite of Copilot AI tools. Copilot got off the ground in late 2023, bringing AI features to Microsoft’s ubiquitous productivity software, among other offerings. But while paying users of corporate Copilot software have grown to about 15 million in its latest quarter, they represent only about 3.5% of its enormous user base, according to Bank of America analysts.\n\nThat isn’t tremendous 2½ years in, especially when considering how the competition is faring. AI-developer Anthropic’s Claude Cowork AI tools, which autonomously handle common corporate tasks like file management and compiling data, have taken off in recent months—to the extent that Microsoft recently felt the need to add them to its Copilot suite. Paying fees to Anthropic when users tap in to Cowork surely makes Copilot less lucrative for Microsoft.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "META",
+            "Date": "2026-04-23",
+            "Time": "16:57:00",
+            "Title": "EssilorLuxottica Shares Fall as Investors Weigh Impact of Smartglasses - WSJ",
+            "URL": "https://www.wsj.com/business/essilorluxottica-shares-fall-as-investors-weigh-impact-of-smartglasses-0fa914a7",
+            "AI_Summary": "",
+            "Content": "Shares in EssilorLuxottica fell after revenue growth eased at the start of the year following a boom in smartglasses sales last year.\n\nThe Franco-Italian eyewear giant booked 11% organic growth in its top line over the first three months of the year, slowing from the 18% it recorded in the final months of 2025, it said in an update late Wednesday. Last year’s exceptional growth was boosted by sales of 7 million pairs of smartglasses over the full year, a huge jump from the 2 million pairs it sold in 2023 and 2024 combined following the launch of the first Ray-Ban model in partnership with tech group Meta, which provides the software.\n\nThat initial explosion in sales is now fading, with the smartglasses category contributing an increase in the mid-single digits over the first quarter, finance chief Stefano Grassi told analysts in a call following the update. There have also been questions of supply bottlenecks, with Meta saying at the start of the year it would pause European rollout of smart Ray-Bans on the back of surging demand from Americans.\n\nParis-listed shares in EssilorLuxottica fell 4.2% in Thursday’s opening trading to 193.10 euros.",
             "Source": "WSJ",
             "Language": "en"
         },
@@ -87,6 +153,17 @@
             "URL": "https://www.wsj.com/tech/personal-tech/new-apple-ceo-future-hardware-ai-e85b2b10",
             "AI_Summary": "",
             "Content": "Apple’s chief-executive-to-be, John Ternus, is a hardware guy. Though we can’t say for sure what his tenure will bring, there seems to be consensus: putting the focus back on the devices.\n\nOn Monday, the company said Ternus will take over the top spot from Tim Cook in September.\n\nTernus joined as a mechanical engineer in 2001, before ascending to the leadership team in 2013. Yet even in the subsequent years, as software ate the world, Apple built its preeminence in consumer electronics on hardware. You might use services from Google, Meta, Amazon.com, Netflix and Microsoft, but there’s a good chance you access them on an Apple phone, laptop or tablet—or all three. And now, with artificial intelligence at every turn, Apple is showing that its own emphasis on hardware will keep it in the game.\n\nHence putting the hardware guy in charge. Even if Apple’s software guy, Craig Federighi, has the charisma (and the hair). In a world where you can vibe-code software in minutes, Apple entrenching its market position as a maker of first-rate physical things makes sense.\n\nBut Ternus will need to do more than just keep the iPhone machine running. Like Cook, Ternus will have to navigate complex geopolitics threatening Apple’s supply chain and face regulatory battles around the world. And he’ll have to figure out how Apple hardware fits in the AI-enabled future.\n\nHere’s what we can glean about Apple’s next chapter from Ternus’s past roles and his impending ascension.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "AAPL",
+            "Date": "2026-04-22",
+            "Time": "06:43:00",
+            "Title": "John Ternus Has Big Shoes to Fill at Apple. Luckily, Tim Cook Has a Playbook for That. - WSJ",
+            "URL": "https://www.wsj.com/business/john-ternus-has-big-shoes-to-fill-at-apple-luckily-tim-cook-has-a-playbook-for-that-d1a1f3ee",
+            "AI_Summary": "",
+            "Content": "How will John Ternus ever succeed Tim Cook’s legacy at Apple?\n\nNo one knows that daunting challenge quite like Cook himself.\n\nIn his first months in 2011 as Apple’s chief executive, Cook faced endless doubts. How, after all, could Apple keep the hit products coming without its visionary founder, Steve Jobs? Jobs loomed so large over Apple that one staffer owned a car with the vanity plate “WWSJD”: What Would Steve Jobs Do?\n\nCook found a way to step out of Jobs’s shadow by leaning in to his strengths as an operations guru and collaborator. He also made a series of moves early on that set the company on a new, even higher-performing course.",
             "Source": "WSJ",
             "Language": "en"
         },
