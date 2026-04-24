@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-24T12:15:15.676Z",
-  "total_news_count": 415,
+  "last_updated": "2026-04-24T12:32:28.617Z",
+  "total_news_count": 416,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-04-24",
+      "Time": "20:00:06",
+      "Source": "Yahoo Finance",
+      "Title": "AMD and Arm stocks rally: How shifting CPU-to-GPU ratios are reshaping AI markets",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amd-arm-stocks-rally-shifting-120006035.html",
+      "Content": "Investing.com -- Advanced Micro Devices (NASDAQ:AMD) shares rose 12% Friday, while Arm Holdings (NASDAQ:ARM) gained 8%, following growing anticipation that the artificial intelligence boom for CPUs has arrived.\n\nCPUs, or central processing units, serve as the main processors in computers and servers, handling general computing tasks. This contrasts with GPUs, or graphics processing units, which are specialized for parallel processing and have been the primary chips used in AI training. AMD manufactures both CPUs and GPUs for data centers and PCs, while Arm designs CPU architectures that are licensed to chipmakers.\n\nThe gains came after Intel reported strong quarterly results and rose 27%, driven by robust server CPU demand. The momentum reflects a shift in AI infrastructure requirements, as newer AI workloads require significantly more CPU capacity relative to GPUs.\n\nAccording to Northland analyst Gus Richard, the CPU-to-GPU ratio in AI systems is shifting dramatically across different applications. The ratio moves from 1:8 for training to 1:4 for inference and 1:2 for agentic AI, indicating accelerating server CPU demand.\n\nEvercore ISI analyst Mark Lipacis noted that the fastest growing AI workloads need substantially more CPUs, and might even flip the CPU:GPU ratio from 1:8 to 8:1, representing what he termed a \"CPU Renaissance.\"\n\nRBC Capital analyst Srini Pajjuri commented that \"Server CPU demand continues to outpace supply on the back of AgenticAI,\" suggesting the trend could continue into 2027 despite intense competition in the sector.\n\nStifel analyst Ruben Roy observed that demand continues to significantly outpace supply across all business areas in the server market, with volume and pricing both contributing to the strength.\n\nAMD and Arm stocks rally: How shifting CPU-to-GPU ratios are reshaping AI markets\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nAs Claude disrupts stock market, Anthropic researcher warns ’world is in peril’",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-04-24",
