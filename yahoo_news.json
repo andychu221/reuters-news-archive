@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-04-27T13:15:08.559Z",
-  "total_news_count": 963,
+  "last_updated": "2026-04-27T13:40:36.912Z",
+  "total_news_count": 971,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-04-27",
+      "Time": "21:16:15",
+      "Source": "Yahoo Finance",
+      "Title": "China Kills Meta's Manus Deal, Sending a Warning to Its AI Sector",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/china-kills-metas-manus-deal-131615258.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) was unchanged after China's National Development and Reform Commission ordered the cancellation of its $2 billion acquisition of agentic AI startup Manus, as Beijing moved to stop AI talent and intellectual property from being acquired by US entities. Meta did not respond to requests for comment.\n\nThe deal, announced in December 2025, gave Meta control of Manus, an AI agent startup that passed $100 million in annual recurring revenue eight months after launch and was widely described as China's next DeepSeek. In March, co-founders Xiao Hong and Ji Yichao were barred from leaving China as regulators reviewed the deal. The NDRC's cancellation order makes clear that relocation will not shield Chinese-founded AI companies from scrutiny.\n\nAlfredo Montufar-Helu, a managing director at Ankura China Advisors, said that the intervention reflects how AI has become central to strategic competition between the two largest economies. \"China is saying we will prevent foreign acquisition of assets we consider important for national security and AI is now clearly one of them,\" he said. The decision could add another issue to the agenda of a planned mid-May summit between President Trump and President Xi Jinping.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-04-27",
+      "Time": "21:11:16",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon and Meta team up to scale AI infrastructure",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-team-scale-ai-131116451.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) just landed another big AI win, teaming up with Meta ( NASDAQ:META ) in a deal that shows how serious both companies are about scaling their infrastructure.\n\nThe headline number says a lot. Meta is planning to roll out tens of millions of Amazon's Graviton chips to power its AI systems. These are not generic chips either. The newer Graviton5 is built for heavy workloads like real time reasoning, search, and handling complex, multi step tasks, which are becoming core to how AI actually gets used. For Meta, it is also about not relying on just one source of compute as demand keeps climbing.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nStep back, and you can see a bigger pattern forming. Amazon is not just renting out cloud space anymore. It is pushing its own chips as a key part of the AI stack, and deals like this suggest that strategy is starting to click. It also pulls in a wider ecosystem, with suppliers like Marvell, Astera Labs, and Credo likely benefiting as this buildout continues.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-04-27",
+      "Time": "21:11:16",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon and Meta team up to scale AI infrastructure",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amazon-meta-team-scale-ai-131116451.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) just landed another big AI win, teaming up with Meta ( NASDAQ:META ) in a deal that shows how serious both companies are about scaling their infrastructure.\n\nThe headline number says a lot. Meta is planning to roll out tens of millions of Amazon's Graviton chips to power its AI systems. These are not generic chips either. The newer Graviton5 is built for heavy workloads like real time reasoning, search, and handling complex, multi step tasks, which are becoming core to how AI actually gets used. For Meta, it is also about not relying on just one source of compute as demand keeps climbing.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nStep back, and you can see a bigger pattern forming. Amazon is not just renting out cloud space anymore. It is pushing its own chips as a key part of the AI stack, and deals like this suggest that strategy is starting to click. It also pulls in a wider ecosystem, with suppliers like Marvell, Astera Labs, and Credo likely benefiting as this buildout continues.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-04-27",
+      "Time": "21:10:46",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft will no longer have exclusive access to OpenAI's technology",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-end-exclusive-license-openais-131046378.html",
+      "Content": "April 27 (Reuters) - Microsoft ( MSFT ) will no longer have exclusive ‌access to OpenAI ( OPAI.PVT )'s artificial ‌intelligence models and products, a significant ​change that would allow the startup to sell its technology across rival cloud platforms ‌including Amazon ⁠and Google.\n\nShares of Microsoft tumbled nearly 3% after ⁠the announcement on Monday, while Alphabet and Amazon gained ​slightly.\n\nMore from Yahoo Scout\n\nHow did stock markets react to partnership changes?\n\nHow will this affect Microsoft's AI competitive position?\n\nWhat changes in Microsoft's OpenAI partnership agreement?\n\nWhat does Microsoft retain under the new agreement?\n\nUnder the ​reworked ​partnership, Microsoft will ‌remain OpenAI's primary cloud partner and have a license to OpenAI intellectual property through 2032.\n\nThe Windows maker has emerged ‌as a major ​player in the ​artificial ​intelligence race in recent ‌years thanks to ​its early ​bet and access to technology from the ChatGPT creator.\n\n(Reporting ​by ‌Aditya Soni and Akash ​Sriram in Bengaluru; Editing ​by Mrigank Dhaniwala)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-04-27",
+      "Time": "21:10:46",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft will no longer have exclusive access to OpenAI's technology",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-end-exclusive-license-openais-131046378.html",
+      "Content": "April 27 (Reuters) - Microsoft ( MSFT ) will no longer have exclusive ‌access to OpenAI ( OPAI.PVT )'s artificial ‌intelligence models and products, a significant ​change that would allow the startup to sell its technology across rival cloud platforms ‌including Amazon ⁠and Google.\n\nShares of Microsoft tumbled nearly 3% after ⁠the announcement on Monday, while Alphabet and Amazon gained ​slightly.\n\nMore from Yahoo Scout\n\nHow did stock markets react to partnership changes?\n\nHow will this affect Microsoft's AI competitive position?\n\nWhat changes in Microsoft's OpenAI partnership agreement?\n\nWhat does Microsoft retain under the new agreement?\n\nUnder the ​reworked ​partnership, Microsoft will ‌remain OpenAI's primary cloud partner and have a license to OpenAI intellectual property through 2032.\n\nThe Windows maker has emerged ‌as a major ​player in the ​artificial ​intelligence race in recent ‌years thanks to ​its early ​bet and access to technology from the ChatGPT creator.\n\n(Reporting ​by ‌Aditya Soni and Akash ​Sriram in Bengaluru; Editing ​by Mrigank Dhaniwala)",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-04-27",
@@ -20,6 +70,36 @@
       "Title": "Intel's rally keeps going as some investors stay bullish",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/intels-rally-keeps-going-investors-130548578.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) has already made a huge move, but at least some investors think there is still more left in it.\n\nKKM Financial CEO Jeff Kilburg is sticking with the stock, even after it more than doubled recently and followed a big run the year before. From his perspective, there is no clear signal to step out yet. He keeps coming back to one simple idea: the momentum is still there, and until that changes, he wants to stay in.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nWhat has really shifted is the story around Intel itself. A couple of years ago, sentiment was pretty negative. Now, things look different. The foundry business, which used to be seen as a weak spot, is expected to turn profitable, potentially bringing in around $3 billion next year. Add in projects like Terafab and a strong recent earnings report, and the narrative has clearly improved.\n\nAt the same time, Kilburg is not ignoring the risks. He did admit that all the attention Intel is getting right now makes him a bit uneasy. But even with that, he is not ready to call the top.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-04-27",
+      "Time": "21:00:44",
+      "Source": "Yahoo Finance",
+      "Title": "SoftBank draws Big Tech into massive AI data center project",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/softbank-draws-big-tech-massive-130044229.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSoftBank ( SFTBY ) is pulling in some of the biggest names in tech for its massive U.S. data center project, with Google ( NASDAQ:GOOG ) and Microsoft ( NASDAQ:MSFT ) reportedly among those looking to lock in capacity.\n\nTo put the scale into perspective, this is not just another data center. The Ohio project could reach 10 gigawatts and involve as much as $500 billion in total investment. SoftBank plans to build out the infrastructure and power, while the companies that lease space would bring in their own systems and chips. It is a shared model that helps spread out the cost while still moving quickly to meet demand.\n\nWarning! GuruFocus has detected 8 Warning Signs with SFTBY.\n\nIs SFTBY fairly valued? Test your thesis with our free DCF calculator.\n\nAnd demand is really the key here. AI workloads are exploding, and companies are scrambling to secure enough compute to keep up. That is why names like Nvidia ( NASDAQ:NVDA ), Meta ( NASDAQ:META ), and OpenAI are also being mentioned. Everyone wants a seat at the table because capacity is becoming just as important as the technology itself.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-27",
+      "Time": "21:00:44",
+      "Source": "Yahoo Finance",
+      "Title": "SoftBank draws Big Tech into massive AI data center project",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/softbank-draws-big-tech-massive-130044229.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSoftBank ( SFTBY ) is pulling in some of the biggest names in tech for its massive U.S. data center project, with Google ( NASDAQ:GOOG ) and Microsoft ( NASDAQ:MSFT ) reportedly among those looking to lock in capacity.\n\nTo put the scale into perspective, this is not just another data center. The Ohio project could reach 10 gigawatts and involve as much as $500 billion in total investment. SoftBank plans to build out the infrastructure and power, while the companies that lease space would bring in their own systems and chips. It is a shared model that helps spread out the cost while still moving quickly to meet demand.\n\nWarning! GuruFocus has detected 8 Warning Signs with SFTBY.\n\nIs SFTBY fairly valued? Test your thesis with our free DCF calculator.\n\nAnd demand is really the key here. AI workloads are exploding, and companies are scrambling to secure enough compute to keep up. That is why names like Nvidia ( NASDAQ:NVDA ), Meta ( NASDAQ:META ), and OpenAI are also being mentioned. Everyone wants a seat at the table because capacity is becoming just as important as the technology itself.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-27",
+      "Time": "20:49:23",
+      "Source": "Yahoo Finance",
+      "Title": "Veteran analyst revamps Alphabet stock price target ahead of earnings",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-revamps-alphabet-stock-124923328.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) drew a higher price target from BMO Capital after the bank said the company remains its top way to play artificial intelligence and cloud growth.\n\nBMO Capital analyst Brian Pitz raised its target to $410 from $400 and kept an Outperform rating on Alphabet. The firm said Alphabet's position across the AI stack still stands out in its coverage, while search trends suggest Google's AI Overviews may be gaining traction. Alphabet climbed about 2% after the call.\n\nWarning! GuruFocus has detected 4 Warning Signs with TM.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe bank also lifted its 2026 Google Cloud estimate by 5%, which now implies 44% year-over-year growth. BMO said cloud demand remains firm, with supply constraints appearing to be the main limit on faster expansion. Alphabet's revenue growth and PEG ratio, which the firm put at 0.9, also supported its bullish view.\n\nBMO said Alphabet's shares have already climbed about 120% over the past year, but it still sees room for further gains. The upgrade adds to a growing list of positive calls tied to Alphabet's search, cloud and AI momentum.\n\nAlphabet is scheduled to release its first-quarter 2026 earnings for Q1 2026 on Wednesday, April 29, 2026, after the market closes.",
       "Language": "en"
     },
     {
