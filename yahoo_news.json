@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-29T17:38:44.051Z",
-  "total_news_count": 1149,
+  "last_updated": "2026-04-29T17:40:25.502Z",
+  "total_news_count": 1153,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-04-30",
+      "Time": "01:13:29",
+      "Source": "Yahoo Finance",
+      "Title": "Meta's $2 Billion Manus Deal Ordered Unwound, Triggering AI Industry Shift",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/metas-2-billion-manus-deal-171329254.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe fallout from Meta Platforms Inc.'s ( NASDAQ:META ) attempted $2 billion acquisition of Manus is beginning to reshape how AI founders think about global expansion, as regulatory pressure from Beijing forces a rethink of cross-border structures. MiroMind, founded by Chen Tianqiao, has introduced strict internal protocols to block the sharing of code, data, and personnel between its Chinese and overseas units after drawing scrutiny linked to the Manus deal. Authorities ultimately ordered the transaction unwound following a months-long investigation into potential technology transfer issues, and Chen indicated the company's response building operational firewalls could be a necessary compromise despite limiting collaboration across regions.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe situation appears to highlight a broader shift in how Chinese regulators approach offshore AI structures, particularly where domestic innovation could intersect with foreign ownership. Manus, while incorporated in Singapore after relocating key staff in 2025, still faced intervention, suggesting geographic restructuring alone may not fully mitigate regulatory concerns. Chen noted that officials had earlier cautioned his team against transferring technology abroad without approval, prompting MiroMind to formalize a localized operating model where each region operates independently. At the same time, regulators have moved to tighten oversight of US investment into leading AI firms and offshore listings, which could add another layer of complexity for startups seeking international capital.\n\nAgainst that backdrop, Chen is moving ahead with a structure that could serve as a template for others navigating similar constraints. His Shanda Group has committed $2 billion to AI initiatives, including $100 million allocated to MiroMind, which now employs more than 60 scientists across Singapore, Tokyo, and Seattle. The company is preparing to begin external fundraising in the second half of the year as it approaches meaningful revenue through partnerships with asset managers and energy infrastructure providers. Even so, the evolving environment could push globally oriented founders to reconsider their domestic footprint, particularly as access to US capital once a defining advantage for earlier entrepreneurs becomes increasingly uncertain.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-04-30",
@@ -23,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "GOOGL",
+      "Date": "2026-04-30",
+      "Time": "01:01:24",
+      "Source": "Yahoo Finance",
+      "Title": "Google Amends Pentagon AI Deal, Grants API Access for Classified Work",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/google-amends-pentagon-ai-deal-170124128.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet's Google ( NASDAQ:GOOG ) is pushing further into defense-linked artificial intelligence, reaching an amended agreement with the US Department of Defense that could expand how its commercial AI systems are used in classified military environments. The deal, signed Monday afternoon according to a person familiar with the matter, centers on providing the Pentagon with API access, enabling direct integration with Google's software rather than custom-built models. Company representatives framed the structure as a measured approach, suggesting that offering standardized access to commercial systems, including on Google infrastructure, could support national security needs while staying aligned with existing industry practices.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nAt the same time, internal tensions appear to be resurfacing. Hundreds of AI researchers at Google reportedly sent a letter to Chief Executive Officer Sundar Pichai urging the company to avoid making its systems available for classified defense workloads, pointing to concerns that such technologies can centralize power and introduce risks through potential errors. The situation echoes earlier friction, including the 2018 backlash over Project Maven, where employee protests ultimately led Google to step away from renewing a Pentagon contract tied to drone footage analysis, despite the company's position at the time that the work was intended for non-offensive purposes.\n\nThe timing also intersects with shifting dynamics inside the Pentagon's AI ecosystem. Following a breakdown earlier this year with Anthropic over military AI usage, the Defense Department has been reassessing its supplier base and exploring alternative partners. In that context, Google's willingness to provide infrastructure-level access without committing to custom model development could position it as a more flexible option. At the same time, past decisionssuch as withdrawing from a $100 million Pentagon drone swarm challenge after an internal ethics reviewsuggest the company is still navigating how far it is prepared to align its AI capabilities with defense applications.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NXPI",
       "Date": "2026-04-30",
       "Time": "00:59:58",
@@ -33,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "MSFT, INTC",
       "Date": "2026-04-30",
       "Time": "00:57:45",
       "Source": "Yahoo Finance",
@@ -60,6 +80,16 @@
       "Title": "TSMC Exits Arm Stake With $231M Share Sale",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/tsmc-exits-arm-stake-231m-165236940.html",
       "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing Company ( TSM , Financials ) has divested its last stake in Arm Holdings , raking in some $231 million in the process.TSMC Partners, a company-owned firm, sold around 1.11 million Arm shares on April 28 and 29 for an average price of $207.65 per share, the firm said. TSMC does not have any ownership in the chip creator following the deal. The business filing anticipated the sale would have an impact of $174 million on retained earnings.In its 2023 initial public offering, TSMC bought shares for $51 each, paying almost $100 million for a stake in Arm. The business has since steadily cut its position, including a 2024 sale of 850,000 shares for nearly $102 million.This current purchase marks the conclusion of TSMC's exit and cashes in on the investment, with Arm's valuation more than doubling since its IPO.The decision comes as chip companies reconsider how they should spend capital despite growing demand for advanced processors needed for artificial intelligence and high-performance computing.Arm shares plunged around 8% in trading ahead of the report, illustrating the recent volatility in companies tied to the chip industry.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-04-30",
+      "Time": "00:50:56",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Faces EU Charges Over Child Safety Rules",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/meta-faces-eu-charges-over-165056913.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( META , Financials ) has been slapped with additional European Union penalties over allegations that Facebook and Instagram failed to adequately prevent youngsters younger than 13 from using the platforms.The European Commission stated Meta's implementation of age restrictions and technologies to detect and remove underage users were not sufficient. The results are the result of a two-year inquiry under the Digital Services Act, which requires big tech platforms to remove illegal and dangerous content.EU officials estimated 10-12% of children under 13 in Europe use Facebook and Instagram despite company restrictions banning them from the services.Meta can reply to the charges and offer adjustments before authorities make a final decision. If found in breach, the corporation might face a fine of up to 6% of global annual revenue.The case adds to regulatory pressure on Meta across Europe and potentially result in tougher age checks, risk assessments and kid safety restrictions. Investors will be looking for a change in platform policies or penalties for Meta.",
       "Language": "en"
     },
     {
@@ -100,6 +130,16 @@
       "Title": "Buy, Sell, or Hold Astera Labs Stock at $200?",
       "URL": "https://finance.yahoo.com/m/28695261-10d1-3f9c-aad8-abc1a53f497b/buy%2C-sell%2C-or-hold-astera.html",
       "Content": "Shares of Astera Labs (NASDAQ: ALAB) have rebounded sharply in April alongside the broader market rally, and the stock is now up 18% year to date, closing at $196 on April 27. Demand for the company's chips remains strong in data centers, but its valuation is also among the priciest in semiconductor stocks , trading at nearly 80 times forward earnings estimates. Is it still worth buying at around $200 a share?\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAstera's Intelligent Connectivity Platform is seeing strong demand. As AI data centers require an exponential increase in computing power and efficiency, Astera is addressing that need head-on, driving revenue up 92% year over year in the fourth quarter of 2025.\n\nThe platform combines software, chiplets, and modules that function like the data center's nervous system. As data centers pack more graphics processing units (GPUs) into each server, demand for Astera's products rises.\n\nAI servers have gone from about eight GPUs two years ago to roughly 72 per rack today, and that figure is expected to keep climbing toward more than 1,000. That's why management believes its addressable market could expand 10x to $25 billion over the next five years.\n\nEven so, the high valuation means Astera has to deliver the goods. The stock has been volatile, so investors should expect more of that. But it could also fall if data center spending pauses or if competition starts to pressure Astera's ability to win new deployments. Yet the premium also reflects the additional computing capacity needed, especially as AI agents become more widely used and put added strain on existing infrastructure.\n\nIf Astera grows into its addressable market, today's price could look reasonable by 2030. I'd lean toward holding and possibly buying a small position.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-04-30",
+      "Time": "00:23:04",
+      "Source": "Yahoo Finance",
+      "Title": "Corning (GLW), Meta (META) Break Ground on $6B Optical Cable Facility Expansion",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-meta-meta-break-162304748.html",
+      "Content": "Corning Incorporated (NYSE: GLW ) is one of the best performing S&P 500 stocks so far in 2026. On March 31, Corning and Meta (NASDAQ: META ) officially broke ground on a significant expansion of Corning’s optical cable manufacturing facility in Hickory, North Carolina. This project is a key component of a multiyear agreement valued at up to $6 billion, established in January, to accelerate the buildout of advanced AI data centers in the US.\n\nAs the anchor customer for this expansion, Meta will use Corning’s latest innovations in optical fiber and connectivity to support its growing AI infrastructure and application ecosystem. The new state-of-the-art facility is expected to strengthen the domestic supply chain and reinforce North Carolina’s position as a global hub for optical manufacturing. Corning, which already employs over 5,000 people in the state, anticipates that this expansion could increase its local workforce by 15% to 20%.\n\nracorn/Shutterstock.com\n\nThis collaboration highlights a shift toward long-term, high-scale partnerships between tech giants and hardware manufacturers. By securing a domestic supply of critical optical technology, Meta ensures the resilience of its infrastructure while supporting American manufacturing jobs. For Corning Incorporated (NYSE:GLW), the expansion marks a milestone in its 175-year history, using its long-standing presence in North Carolina to meet the rapid speed and scale requirements of the current AI era.\n\nCorning Incorporated (NYSE:GLW) provides glass for flat panel desktop monitors, notebook computers, display televisions, and other information display applications, carrier network, and enterprise network products. The company’s operations are divided into the following segments: Optical Communications, Display, Specialty Materials, Automotive, and Life Sciences.\n\nWhile we acknowledge the potential of GLW as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nCorning (GLW), Meta (META) Break Ground on $6B Optical Cable Facility Expansion\n\nCorning (GLW), Meta (META) Break Ground on $6B Optical Cable Facility Expansion racorn/Shutterstock.com\n\nDisclosure: None. <a class=\"link \" href=\"https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ?hl=en-US",
       "Language": "en"
     },
     {
