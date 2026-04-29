@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T18:32:39.734Z",
-  "total_news_count": 1161,
+  "last_updated": "2026-04-29T18:40:12.644Z",
+  "total_news_count": 1163,
   "news": [
     {
       "Ticker": "INTC",
@@ -43,7 +43,27 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "GOOGL",
+      "Date": "2026-04-30",
+      "Time": "01:43:51",
+      "Source": "Yahoo Finance",
+      "Title": "Google Withdraws From $100 Million Pentagon Drone Swarm AI Challenge",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/google-withdraws-100-million-pentagon-174351983.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) appears to have taken a sudden step back from a high-profile $100 million Pentagon challenge focused on voice-controlled autonomous drone swarms, withdrawing only weeks after submitting a proposal that had already been selected to advance. The company informed US officials on Feb. 11 that it would not continue in the six-month program, citing a lack of resourcing, though internal records reviewed suggest an ethics review may have played a role in the decision. The initiative, led by US Special Operations Command's Defense Autonomous Warfare Group and the Defense Innovation Unit, is designed to allow commanders to direct drone swarms using voice commands translated into digital instructions, potentially reshaping how these systems are coordinated in real time.\n\nWarning! GuruFocus has detected 4 Warning Signs with PLTR.\n\nIs PLTR fairly valued? Test your thesis with our free DCF calculator.\n\nThe decision could underscore ongoing internal friction within Google as its expanding AI capabilities intersect with defense-related use cases. Hundreds of the company's AI researchers have raised objections to classified military involvement, and a recent letter to Chief Executive Sundar Pichai reportedly urged leadership to avoid enabling such deployments. While some employees involved in the drone effort expressed disappointment, Google indicated it is prioritizing opportunities that align more closely with its current technical strengths and resources. At the same time, the company has continued to broaden its relationship with the Pentagon, including amendments to existing agreements that allow access to its AI models for lawful government purposes, while maintaining that it is not developing bespoke systems for lethal applications.\n\nThe broader competitive landscape remains active, with companies including OpenAI, Palantir ( NASDAQ:PLTR ), and xAI selected to continue in the multi-stage program, which is expected to expand into areas such as target awareness and full mission execution from launch to termination. This development comes as leading AI firms increasingly navigate the balance between commercial innovation and defense collaboration, with Anthropic also encountering friction with the Pentagon over limits tied to autonomous weapons. Google's evolving position from the 2018 Project Maven backlash to more recent efforts to expand defense-oriented AI offerings and potentially deploy its Gemini systems more broadly within Pentagon environments suggests the company is still calibrating how far it is willing to engage in national security initiatives that carry both strategic opportunity and ethical complexity.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-04-30",
+      "Time": "01:40:00",
+      "Source": "Yahoo Finance",
+      "Title": "Analysts trim Microsoft-linked crypto stock's target despite AI push",
+      "URL": "https://finance.yahoo.com/m/f7c0b9c6-67cf-398c-8339-886ffab422f6/analysts-trim.html",
+      "Content": "Iren Limited (Nasdaq: IREN) is a popular Bitcoin (BTC) mining company that has been gradually expanding its artificial intelligence (AI) operations.\n\nWhile Bitcoin mining was once a profitable business, a number of factors such as rising energy prices, higher difficulty levels, lower rewards, and the Bitcoin crash have made it difficult for miners to continue operations.\n\nRelated: What is Bitcoin mining? Explained\n\nMost Bitcoin miners like Iren have found it both convenient and lucrative to pivot to AI operations because of their ready data infrastructure.\n\nIn fact, the company signed a $9.7 billion agreement with Microsoft (Nasdaq: MSFT) in November 2025 to deliver NVIDIA (Nasdaq: NVDA) GB300s-powered cloud infrastructure.\n\nHowever, a leading group of analysts has now cut the IREN stock price target.\n\nMore News:\n\nPopular crypto company dumps $162 million in Bitcoin\n\nAnother crypto company sells Bitcoin amid 50% crash\n\nBitcoin miners face steep costs as they pivot to AI and HPC, HIVE chair says\n\nBernstein analysts cut IREN's price target\n\nBernstein analysts have trimmed their price target on the IREN stock by 20% from $125 to $100, Investing.com reported on Apr. 27.\n\nHowever, they still chose it as the top pick among AI-focused Bitcoin mining companies and highlighted its rapid pivot toward an AI cloud provider.\n\nThe analysts argued their decision to lower the stock price target isn't related to IREN's AI prospects.\n\nInstead, it's the company's scaling back of Bitcoin mining operations and an increase in shares outstanding from recent equity issuances that have led to the analysts trimming their target.\n\nBernstein analysts expect IREN's AI cloud revenue to hit $2.6 billion in 2027 and $6 billion by 2030, when the company expects to operate a fleet of 275,000 GPUs, in contrast to only 150,000 currently.\n\nAs far as the Bitcoin mining revenue is concerned, the analysts expect it to plunge in the coming years before it hits zero in the fiscal year 2030. In fact, they expect IREN to fully wind down mining operations in the coming years.\n\nDespite the ups and downs, the IREN stock is up 17% this year. It was trading at $43.21 at press time, down 2.77% in a day.\n\nRelated: Analyst predicts 60% upside for Riot Platforms stock ahead of earnings\n\nThis story was originally published by TheStreet on Apr 29, 2026, where it first appeared in the MARKETS section. Add TheStreet as a Preferred Source by clicking here.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, AAPL",
       "Date": "2026-04-30",
       "Time": "01:26:00",
       "Source": "Yahoo Finance",
