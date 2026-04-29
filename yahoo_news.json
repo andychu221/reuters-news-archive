@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T21:00:43.404Z",
+  "last_updated": "2026-04-29T21:15:17.617Z",
   "total_news_count": 1198,
   "news": [
     {
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, TSM, NVDA",
       "Date": "2026-04-30",
       "Time": "04:24:00",
       "Source": "Yahoo Finance",
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-04-30",
       "Time": "04:20:01",
       "Source": "Yahoo Finance",
@@ -43,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM, NVDA",
       "Date": "2026-04-30",
       "Time": "04:18:47",
       "Source": "Yahoo Finance",
