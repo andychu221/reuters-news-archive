@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-04-29T19:40:42.923Z",
-  "total_news_count": 1174,
+  "last_updated": "2026-04-29T20:01:35.221Z",
+  "total_news_count": 1177,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-04-30",
+      "Time": "03:28:32",
+      "Source": "Yahoo Finance",
+      "Title": "Veteran Analyst Revamps Micron Price Target for the Next 12 Months",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-revamps-micron-price-192832888.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) drew a higher price target from TD Cowen on Tuesday after the brokerage said the memory-chip maker may benefit from a margin profile that supports longer-term earnings power.\n\nTD Cowen lifted its target to $660 from $550 and kept a Buy rating on Micron. The firm said Micron's long-term agreements appear to be built around a gross margin floor near 60% and a ceiling in the high 80% range.\n\nWarning! GuruFocus has detected 6 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron, which has been a favored name in AI memory, may also benefit from demand tied to artificial intelligence CPUs, the firm said. TD Cowen said the stock's next driver may be durability rather than near-term profit upside.\n\nFor Micron, the firm said earnings could top Wall Street estimates in the current and next quarters, with calendar 2027 estimates still above the market view. It also flagged possible pressure later in the year if margins move lower from recent levels.",
+      "Language": "en"
+    },
     {
       "Ticker": "META, MSFT, GOOGL, AMZN",
       "Date": "2026-04-30",
@@ -10,6 +20,16 @@
       "Title": "S&P 500 Slides Ahead of Meta, Amazon, Microsoft Earnings",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/p-500-slides-ahead-meta-192706771.html",
       "Content": "This article first appeared on GuruFocus .\n\nU.S. stocks slipped on Wednesday as traders weighed higher oil prices, a closing Federal Reserve meeting and earnings from Alphabet ( NASDAQ:GOOGL ), Amazon ( NASDAQ:AMZN ), Meta Platforms ( NASDAQ:META ) and Microsoft ( NASDAQ:MSFT ).\n\nThe S&P 500 fell 0.3%, the Nasdaq Composite lost 0.4% and the Dow Jones Industrial Average dropped 315 points, or 0.6%.\n\nBoeing and Goldman Sachs were among the biggest drags, while investors shifted attention to the day's policy and earnings events.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nOil prices rose again after reports that President Donald Trump has told aides to prepare for a longer blockade of Iranian ports. West Texas Intermediate futures climbed 6% to above $106 a barrel, while Brent crude gained 6% to top $118.\n\nThe Federal Reserve is due to finish its April meeting later Wednesday, with no policy change widely expected. Traders are also watching whether the session marks Jerome Powell's final meeting as chair, while tech names including Alphabet, Meta Platforms and Microsoft remain in focus for guidance on AI spending.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-04-30",
+      "Time": "03:25:53",
+      "Source": "Yahoo Finance",
+      "Title": "AMD Rises as Susquehanna Lifts Price Target",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-susquehanna-lifts-price-192553643.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( AMD , Financials ) rose somewhat in premarket trading after Susquehanna increased its price target on the chipmaker ahead of first-quarter reports.The firm raised its target to $375 from $300, citing more confidence in AMD's future as investors are betting on demand for artificial intelligence and data center chips.Pre-market: AMD shares up 1.6% The move comes as semiconductor stocks are still vulnerable to predictions over AI infrastructure spending, server demand and pricing power.The company is expected to release first quarter results on May 5. Investors will look for data center revenue, AI chip demand and margin trends for signals that AMD can continue to take share in high-performance computing.The increased objective adds to recent optimism around AMD, while expectations also have risen after a robust rally in chip stocks.",
       "Language": "en"
     },
     {
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "AMD, META",
       "Date": "2026-04-30",
       "Time": "03:16:47",
       "Source": "Yahoo Finance",
@@ -63,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "AMD, AVGO, META",
       "Date": "2026-04-30",
       "Time": "02:06:00",
       "Source": "Yahoo Finance",
@@ -160,6 +180,16 @@
       "Title": "Meta's $2 Billion Manus Deal Ordered Unwound, Triggering AI Industry Shift",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/metas-2-billion-manus-deal-171329254.html",
       "Content": "This article first appeared on GuruFocus .\n\nThe fallout from Meta Platforms Inc.'s ( NASDAQ:META ) attempted $2 billion acquisition of Manus is beginning to reshape how AI founders think about global expansion, as regulatory pressure from Beijing forces a rethink of cross-border structures. MiroMind, founded by Chen Tianqiao, has introduced strict internal protocols to block the sharing of code, data, and personnel between its Chinese and overseas units after drawing scrutiny linked to the Manus deal. Authorities ultimately ordered the transaction unwound following a months-long investigation into potential technology transfer issues, and Chen indicated the company's response building operational firewalls could be a necessary compromise despite limiting collaboration across regions.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe situation appears to highlight a broader shift in how Chinese regulators approach offshore AI structures, particularly where domestic innovation could intersect with foreign ownership. Manus, while incorporated in Singapore after relocating key staff in 2025, still faced intervention, suggesting geographic restructuring alone may not fully mitigate regulatory concerns. Chen noted that officials had earlier cautioned his team against transferring technology abroad without approval, prompting MiroMind to formalize a localized operating model where each region operates independently. At the same time, regulators have moved to tighten oversight of US investment into leading AI firms and offshore listings, which could add another layer of complexity for startups seeking international capital.\n\nAgainst that backdrop, Chen is moving ahead with a structure that could serve as a template for others navigating similar constraints. His Shanda Group has committed $2 billion to AI initiatives, including $100 million allocated to MiroMind, which now employs more than 60 scientists across Singapore, Tokyo, and Seattle. The company is preparing to begin external fundraising in the second half of the year as it approaches meaningful revenue through partnerships with asset managers and energy infrastructure providers. Even so, the evolving environment could push globally oriented founders to reconsider their domestic footprint, particularly as access to US capital once a defining advantage for earlier entrepreneurs becomes increasingly uncertain.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AVGO, MU",
+      "Date": "2026-04-30",
+      "Time": "01:10:00",
+      "Source": "Yahoo Finance",
+      "Title": "Capitalizing on the AI Buildout: High-Conviction Stock Picks",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/capitalizing-ai-buildout-high-conviction-171000922.html",
+      "Content": "An updated edition of the March 11, 2026, article .\n\nArtificial Intelligence (AI) allows machines to analyze large volumes of data, identify patterns, and make independent decisions. It is transforming sectors like robotics, healthcare, finance, cybersecurity, and e-commerce by simulating human intelligence through technologies such as machine learning, deep learning and natural language processing. Advances in multimodal learning and enhanced context awareness are accelerating AI adoption. From chatbots and medical diagnosis to fraud detection and autonomous systems, AI has become a key driver of organizational agility, while significantly improving productivity and operational efficiency.\n\nPer Gartner, global AI spending is expected to hit $2.52 trillion in 2026, indicating 44% growth over 2025. According to the Boston Consulting Group, CEOs plan to spend 1.7% of revenues in 2026. U.S. tech giants, including Microsoft MSFT, Alphabet GOOGL and Meta Platforms, have been at the forefront of bringing remarkable advances to AI technology, well supported by powerful AI chips and custom accelerators from NVIDIA NVDA, AMD, Broadcom AVGO and Micron Technology MU. The deals between OpenAI and AMD, as well as OpenAI and NVIDIA, reflect growing demand for AI chips. Alphabet&rsquo;s Tensor Processing Units are also gaining traction. Broadcom&rsquo;s extended partnership with Meta Platforms will see the companies co-develop multiple generations of META&rsquo;s custom AI chips.\n\nAI models continue to evolve thanks to strong spending on developing large language models (LLMs). Microsoft-backed OpenAI introduced GPT-5 chat, which represents a major improvement in natural language understanding and generation capabilities. Expanding its generative AI footprint, Alphabet introduced Nano Banana Pro, which is built on Gemini 3 Pro. Alphabet is infusing AI into its search business in order to attract more users, while Meta Platforms&rsquo; focus on integrating AI into its platforms is driving user engagement. Both initiatives are driving ad revenue growth.\n\nWe believe that the rapid deployment of AI technology and huge spending on its development efforts offer significant growth opportunities for investors. Our Artificial Intelligence Screen is an invaluable source for identifying AI stocks with massive growth prospects.\n\nExplore 36 cutting-edge investment themes with Zacks Thematic Investing Screens and uncover your next big opportunity .\n\n3 AI Stocks to Buy Right Now\n\nMicron Technology is benefiting from surging demand for HBM and robust DRAM pricing recovery. DRAM revenues accounted for more than 79% of Micron&rsquo;s total sales in the second quarter of fiscal 2026. The pricing benefits are likely to be driven by rising AI server demand, causing a scarcity in the availability of cutting-edge DRAM supplies. This will support Micron&rsquo;s margin expansion and profitability. This Zacks Rank #1 (Strong Buy) company is capitalizing on the AI boom with its HBM3E solutions, which are increasingly being adopted by major hyperscalers and enterprise customers. You can see the complete list of today&rsquo;s Zacks #1 Rank stocks here.\n\nMicron is poised to be the key beneficiary of surging AI-related infrastructure spending, as companies continue to build out GPU clusters and AI data centers that require advanced memory solutions. AI PCs are an important part of Micron&rsquo;s growth plan. An expanding partner base that includes the likes of NVIDIA, AMD and Intel, is enabling Micron to capture a larger share of the AI infrastructure market. Deepening relationship with major cloud and enterprise customers ensures stable revenue streams and reduces the risk of pricing volatility.\n\nBroadcom &rsquo;s prospects benefit from rising AI revenues. Semiconductor business benefits from strong AI revenues, which surged 106% year over year in the first quarter of fiscal 2026. AI networking revenues grew 60% year over year and represented one-third of AI revenues, while AVGO&rsquo;s revenues from XPUs jumped 140% year over year.\n\nBroadcom&rsquo;s AI momentum is expected to continue, thanks to a clientele that includes Google, Meta Platforms and Anthropic. This Zacks Rank #1 company continues to gain market share in AI networking, driven by the first-to-market Tomahawk 6 switch at 100 terabit per second, as well as Broadcom&rsquo;s 200G SerDes, which are capturing demand from hyperscalers. Tomahawk 6 delivers exceptional flexibility with support for 100G and 200G SerDes. It provides one of the industry&rsquo;s most comprehensive sets of AI routing capabilities and interconnect options, built to handle the demand of AI clusters scaling beyond one million XPUs.\n\nBroadcom expects a positive second-quarter fiscal 2026 performance, with AI revenues of $10.7 billion, suggesting a 140% year-over-year upsurge. AI networking is expected to accelerate in the second quarter of fiscal 2026 and grow to 40% of the total AI revenues.\n\nNVIDIA has been a key beneficiary of the AI boom, which has driven strong demand for its graphics processing units (GPUs) and computing solutions. This Zacks Rank #2 (Buy) company&rsquo;s data center business is benefiting from higher shipments of the Blackwell GPU computing platforms that are used for the training and inference of large language models, recommendation engines and generative AI applications. The demand for NVIDIA&rsquo;s Blackwell GPU computing platforms has been a key catalyst as cloud providers and enterprises scale their AI infrastructure.\n\nThe Blackwell architecture has been at the core of revenue growth for a while now, and NVIDIA is planning to release another architecture, Rubin. The company has already unveiled six new chips under this architecture, comprising the Vera CPU, Rubin GPU, NVLink 6 Switch, ConnectX-9, SuperNIC, BlueField-4 DPUs and Spectrum-6 Ethernet Switch. NVIDIA&rsquo;s leadership in AI chip development positions it well for sustained revenue growth in the data center segment. NVIDIA&rsquo;s outlook for the first quarter of fiscal 2027 remains upbeat. The company expects first-quarter revenues to increase 77% year over year to $78 billion, reflecting continued momentum in AI-driven demand.\n\nStory Continues",
       "Language": "en"
     },
     {
