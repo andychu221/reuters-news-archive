@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-29T17:15:47.886Z",
-  "total_news_count": 1148,
+  "last_updated": "2026-04-29T17:32:18.165Z",
+  "total_news_count": 1149,
   "news": [
     {
       "Ticker": "TSLA",
@@ -20,6 +20,16 @@
       "Title": "Apple Plans AI Photo Editing Overhaul Across iOS 27, macOS 27",
       "URL": "https://finance.yahoo.com/m/09485356-e384-3bc8-aad6-4446fc6ca0ff/apple-plans-ai-photo-editing.html",
       "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is preparing what could be a meaningful reset in its software strategy, with a sharper push into artificial intelligence aimed at closing a visible gap in photo editing. The company is developing a new suite of AI-driven tools under its Apple Intelligence platform for iOS 27, iPadOS 27 and macOS 27, expected this fall, as it looks to better compete with Android rivals that have spent years advancing in this category. The move suggests Apple is repositioning image editing as a core battleground, where differentiation could increasingly hinge on how effectively AI is embedded into everyday workflows.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nAt the product level, Apple is introducing a redesigned editing interface anchored by an Apple Intelligence Tools section, featuring Extend, Enhance, Reframe and an updated Clean Up tool. These capabilities are designed to let users expand images beyond their original frame, improve lighting and color automatically, and adjust perspective after capture, particularly for spatial photos tied to Vision Pro. Processing is said to occur on-device within seconds, reinforcing Apple's approach to privacy and performance. That said, development appears uneven. Internal testing has indicated that some features, especially Extend and Reframe, may not yet perform reliably, while the existing Clean Up tool has already drawn user criticism for inconsistencies such as visual artifacts and inaccurate fills. As a result, there is a possibility Apple could refine, delay or scale back certain features ahead of release.\n\nBeyond imaging, Apple's broader software roadmap appears to be centered on two priorities: expanding Apple Intelligence and tightening system performance. Planned updates include a dedicated Siri app, a redesigned interface that more closely resembles a chatbot, and the ability for Siri to handle multiple commands within a single request, alongside support for alternative voice agents via the App Store. At the same time, Apple is working to improve battery life and reduce bugs following last year's more design-focused overhaul. Taken together, the strategy suggests Apple is attempting to balance innovation with execution discipline, as competitive pressure from Alphabet's Google and Samsung continues to build in AI-driven user experiences.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NXPI",
+      "Date": "2026-04-30",
+      "Time": "00:59:58",
+      "Source": "Yahoo Finance",
+      "Title": "NXP Jumps 10% After Forecasting Up To $3.55 Billion Q2 Revenue",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nxp-jumps-10-forecasting-3-165958524.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNXP Semiconductors NV ( NASDAQ:NXPI ) is starting to show signs of a cycle turning, with the chipmaker delivering a second-quarter revenue outlook that came in ahead of expectations and drove a sharp move in late trading. The company guided for revenue of $3.35 billion to $3.55 billion, above the $3.27 billion consensus estimate compiled by Bloomberg, while shares climbed more than 10% after hours, adding to a 6.1% gain already recorded this year through the prior close. Chief Executive Officer Rafael Sotomayor indicated that the momentum already in place is expected to build further through the remainder of 2026, suggesting the recovery could be entering a more durable phase.\n\nWarning! GuruFocus has detected 6 Warning Sign with NXPI.\n\nIs NXPI fairly valued? Test your thesis with our free DCF calculator.\n\nThe improving outlook comes as analog chipmakers begin to move out of a roughly two-year demand downturn, largely tied to elevated inventories that customers accumulated during the pandemic-era chip shortage. NXP, which derives more than half of its revenue from the automotive segment, appears to be benefiting as those inventories normalize and order patterns stabilize. First-quarter revenue rose 12% to $3.18 billion, slightly above expectations, while the company projected an adjusted gross margin range of 57.5% to 58.5% for the current quarter, broadly in line with estimates. That combination of steady margins and improving revenue visibility could indicate that conditions across its core markets are stabilizing.\n\nAcross the broader sector, peers Texas Instruments Inc. ( NASDAQ:TXN ) and STMicroelectronics NV ( NYSE:STM ) have also reported results that exceeded expectations, supported in part by increased spending tied to the global artificial intelligence buildout. Analysts have pointed to strengthening order trends and growing backlogs, with Morgan Stanley analyst Joseph Moore noting improving momentum across both the broader cycle and automotive end markets, while Oppenheimer analyst Rick Schafer highlighted expanding backlog levels at NXP. Taken together, these signals suggest demand could be broadening beyond AI-related spending and into more traditional industrial and automotive markets, potentially supporting a more balanced recovery for analog chipmakers.",
       "Language": "en"
     },
     {
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "TSM",
+      "Ticker": "ARM, TSM",
       "Date": "2026-04-30",
       "Time": "00:52:36",
       "Source": "Yahoo Finance",
