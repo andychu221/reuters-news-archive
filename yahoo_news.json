@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-04-30T18:01:23.049Z",
-  "total_news_count": 1369,
+  "last_updated": "2026-04-30T18:15:21.072Z",
+  "total_news_count": 1371,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-01",
+      "Time": "01:50:33",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Stock Rally May Not Be Done Even After 100% Jump",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rally-may-not-175033889.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) still has room to run, according to KKM Financial founder and CEO Jeff Kilburg, who said he is keeping his position despite the chipmaker's sharp rally. Intel has more than doubled after a 100% gain this year and an 85% rise last year, but Kilburg said he sees no reason to take profits.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel climbed as much as 22% after its first-quarter results topped Wall Street estimates, while its second-quarter revenue outlook also came in above expectations. Kilburg said the move reflects stronger momentum in the stock rather than a short-term trade.\n\nIntel's foundry turnaround has also helped the case, he said. The business, which had not generated a profit, is expected to bring in about $3 billion next year, with TerraFab seen as a key shift in Intel's trajectory.\n\nKilburg said Intel remains an essential company and noted that while the stock's popularity makes him cautious, he does not see the trend fading. He also pointed to strength in semiconductors more broadly, even as some software names remain under pressure.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-01",
+      "Time": "01:40:33",
+      "Source": "Yahoo Finance",
+      "Title": "\"Magnificent Seven\" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers",
+      "URL": "https://finance.yahoo.com/m/0d551398-9453-3742-a943-bca4fe5e2db3/%22magnificent-seven%22-companies.html",
+      "Content": "Four \"Magnificent Seven\" companies reported earnings after the market closed on April 29, resulting in a busy night and day, as investors parsed through the reports to determine winners and losers.\n\nThe broader market also had an interesting response today, with the Dow Jones Industrial Average blasting higher by over 700 points, while the Nasdaq Composite rose marginally, as of X p.m. ET.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe four companies that reported last night were Microsoft , Amazon , Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) , and Meta Platforms . Here were the results:\n\nMicrosoft reported adjusted earnings per share (EPS) of $4.27, beating Wall Street consensus estimates by $0.21. Revenue of $82.89 billion beat estimates by $1.5 billion.\n\nAmazon reported EPS of $2.78 beat estimates by $1.10. Revenue of $181.5 billion beat by over $4 billion.\n\nAlphabet, the parent company of Google, reported adjusted EPS of $2.62, missing estimates by a penny. Revenue of nearly $110 billion beat estimates by $2.7 billion.\n\nMeta reported adjusted EPS of $7.31, beating estimates by $0.52. Revenue of roughly $56.3 billion beat estimates by $860 million.\n\nWhile some companies beat estimates by more than others, there are clearly other factors impacting the market's reaction to these earning prints. Here are the winners and losers.\n\nCompanies that spend big need to show even bigger results\n\nAs of this writing, the market had rewarded Alphabet, sending its stock up nearly 8%. The other three stocks were all in the red. Amazon was down roughly 1.7%, Microsoft was down 5%, and Meta was down nearly 9%.\n\nAll four companies raised their capital expenditure guidance for the year, signaling that investments in AI infrastructure are not slowing. The cloud providers also reported staggering growth. Microsoft said its Azure cloud business saw revenue surge nearly 40% year over year, above estimates.\n\nAmazon Web Services (AWS) reported revenue growth of 28%, 200 basis points (2%) above estimates. Google took the cake, reporting cloud revenue up 63% year over year, ahead of Wall Street's 47% growth estimate. Google Cloud's backlog also nearly doubled to $460 billion.\n\nWhile this is certainly positive for the artificial intelligence sector as a whole, AI-capex investments are also starting to really eat into free cash flow (FCF), which is why the bar is seemingly set so high.\n\nStory Continues\n\nIn the quarter, Amazon reported FCF of roughly $1.2 billion, down from nearly $26 billion a year earlier. Meta increased its FCF by about $2 billion year over year, but capex has really cut into it, and the company spent less on capex than analysts expected in the quarter, yet still raised its full-year capex guide.\n\nMeta also reported a 20 million decline in users across its platform from the prior quarter, due to \"internet disruptions in Iran, as well as a restriction on access to WhatsApp in Russia.\" Management also said that damages from lawsuits associated with \"youth safety\" could be material.\n\nWinners and losers\n\nWall Street is no longer willing to be lenient on this massive capex spend. The message is clear: if you are going to spend big, you'd better blow out earnings.\n\nGoogle clearly did this most emphatically. Google Cloud now accounts for 18% of the company's revenue, and it is also seeing strong sales from its custom chips. \"Google Cloud is differentiated because we are the only provider to offer first-party solutions across the entire enterprise AI stack,\" CEO Sundar Pichai said on Alphabet's earnings call.\n\nMeta raised its full-year capex guidance but expects second-quarter revenue to be in line with consensus estimates. Not going to cut it in this environment.\n\nThe one stock I think is being oversold today is Microsoft, which reported better Azure growth and said Copilot seats increased by 5 million in the quarter to 20 million overall. Maybe it's not ChatGPT-like growth, but it's still strong growth. The company also guided for Azure revenue growth of 39% to 40% in the current quarter, which is also very strong, given the size of the business.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-05-01",
@@ -13,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, META, MSFT, AMZN",
+      "Ticker": "INTC, NVDA, META, MSFT, AMZN",
       "Date": "2026-05-01",
       "Time": "01:30:00",
       "Source": "Yahoo Finance",
