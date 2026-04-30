@@ -1,9 +1,29 @@
 {
-  "last_updated": "2026-04-30T12:40:57.043Z",
-  "total_news_count": 1319,
+  "last_updated": "2026-04-30T13:01:01.067Z",
+  "total_news_count": 1322,
   "news": [
     {
-      "Ticker": "META",
+      "Ticker": "NVDA",
+      "Date": "2026-04-30",
+      "Time": "20:48:56",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia (NVDA) Unveils Nemotron 3 Nano Omni Multimodal MoE Reasoning Model",
+      "URL": "https://finance.yahoo.com/m/8c45a6ca-fd53-31b9-afac-12fd4642a058/nvidia-%28nvda%29-unveils.html",
+      "Content": "NVIDIA Corporation (NASDAQ: NVDA ) is one of the most active US stocks to buy right now . On April 28, NVIDIA unveiled Nemotron 3 Nano Omni, an open, multimodal reasoning model designed to unify vision, audio, and language capabilities into a single system. Built on a 30B-A3B hybrid mixture-of-experts/MoE architecture, the model eliminates the need for separate perception models, which typically cause latency and fragmented context.\n\nBy combining these modalities, the Omni model delivers 9x higher throughput than comparable open omni models, providing a production-ready path for developers to build faster and more cost-effective AI agents. The model sets a new efficiency benchmark, topping six leaderboards for complex document intelligence and audio-video understanding. It is engineered to act as the eyes-and-ears within agentic workflows, such as computer use, where it can interpret high-resolution screen recordings in real time.\n\nThis capability allows sub-agents to navigate graphical user interfaces and reason across dense visual structures like charts and tables with high fidelity, a significant leap forward for enterprise analysis and compliance tasks. Released with open weights and training datasets, Nemotron 3 Nano Omni offers organizations full transparency and deployment flexibility across local hardware, such as NVIDIA Corporation (NASDAQ:NVDA) Jetson, or cloud environments.\n\nNVIDIA Corporation (NASDAQ:NVDA) is a fabless semiconductor and AI computing company that designs GPUs, AI accelerators, APIs, and SoC units. Through its CUDA ecosystem, the company enables industries ranging from autonomous vehicles to scientific research by advancing AI, accelerated computing, and data center infrastructure.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nNvidia (NVDA) Unveils Nemotron 3 Nano Omni Multimodal MoE Reasoning Model\n\nNvidia (NVDA) Unveils Nemotron 3 Nano Omni Multimodal MoE Reasoning Model This capability allows sub-agents to navigate graphical user interfaces and reason across dense visual structures like charts and tables with high fidelity, a significant leap forward for enterprise analysis and compliance tasks. Released with open weights and training datasets, Nemotron 3 Nano Omni offers organizations full transparency and deployment flexibility across local hardware, such as NVIDIA Corporation (NASDAQ:NVDA) Jetson, or cloud environments.\n\nDisclosure: None. <a class=\"link \" href=\"https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:Follow Insider Monkey on Google News;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-04-30",
+      "Time": "20:33:59",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia B300 Servers Hit $1M in China Amid Export Curbs",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-b300-servers-hit-1m-123359514.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) B300 artificial intelligence servers are selling for about $1 million in China , nearly double U.S. prices, as supply tightens under export restrictions.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe spike is a scarcity premium caused by U.S. curbs on sales of advanced chips and a crackdown on grey-market routes that formerly catered to Chinese consumers. The identical systems are available in the US for roughly $550,000.\n\nThe demand from Chinese tech firms is still robust, especially for high-performance computers to train and infer AI models. Some companies are avoiding outright ownership of restricted gear because of regulatory issues, while others are tapping into rental markets, where monthly costs have also soared.\n\nNvidia's B300 server is one of the company's most powerful systems for AI tasks, and it features eight advanced GPUs and high-bandwidth memory. Supply limitations have also increased due to uncertainty regarding shipments of other advanced processors, particularly the H200.\n\nChinese enterprises are looking for alternatives and competition is intensifying. Chinese firms such as Huawei are trying to get more market share in AI chips, challenging the dominance of Nvidia.\n\nThe price discrepancy shows how geopolitical limits are altering the global AI infrastructure markets, with supply shortages and regional demand leading to stark divergences in hardware prices.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "QCOM, AMD, META",
       "Date": "2026-04-30",
       "Time": "20:23:53",
       "Source": "Yahoo Finance",
@@ -20,6 +40,16 @@
       "Title": "JPMorgan downgrades Meta on limited visibility into AI product pipeline",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-meta-limited-visibility-122024660.html",
       "Content": "Investing.com -- JPMorgan has downgraded Meta Platforms Inc. from Overweight to Neutral and cut its price target from $825 to $725, citing heavy infrastructure spending and limited visibility into the company’s artificial intelligence product pipeline.\n\nAnalyst Doug Anmuth acknowledged Meta’s recent revenue strength but raised concerns about longer-term returns on the company’s AI investments.\n\n\"While we’re encouraged by META’s +33% Y/Y revenue growth which has been supported by AI-driven ad stack optimizations, accelerating impression growth, & engagement gains, we believe full-stack AI competition is intensifying and Meta has a more challenging path to returns on heavy AI capex beyond advertising,\" Anmuth wrote.\n\nJPMorgan pointed to Google and Amazon as better-positioned rivals, noting both companies have deeper enterprise integrations and clearer paths to multi-year returns on AI capital spending.\n\nMeta raised its 2026 capital expenditure guidance by $10 billion to a range of $125 billion to $145 billion. JPMorgan now projects Meta’s capex will grow 42% to $202 billion in 2027, resulting in negative free cash flow of $4 billion in 2026 and $24 billion in 2027.\n\nAnmuth flagged additional near-term headwinds, including tougher year-over-year comparisons, Middle East conflict exposure, European regulatory implementation and foreign exchange pressures.\n\n\"For now, we’re moving to Neutral-rated & believe shares could remain pressured as investors look for greater clarity on agentic products and how Muse models will help drive incremental revenue beyond advertising,\" Anmuth wrote.\n\nJPMorgan’s $725 price target is based on 21 times its 2027 GAAP earnings-per-share estimate of $34.01.\n\nJPMorgan downgrades Meta on limited visibility into AI product pipeline\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-04-30",
+      "Time": "20:16:01",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia expands into legal tech with new investment",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-expands-legal-tech-investment-121601273.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNVIDIA Corporation ( NASDAQ:NVDA ) is still pushing deeper into the AI ecosystem, and this time it's making a move into legal tech with a new investment in startup Legora.\n\nThe company's venture arm, NVentures, backed the Swedish firm as part of a $50 million extension to its Series D round, which now values Legora at $5.6 billion and brings total funding to $600 million. Other names in the round include Atlassian, Adams Street, and Insight. Nvidia didn't disclose how much it put in, but the direction is pretty clear. It's not just about chips anymore, it's about backing the companies that will actually use them.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nLegora is building AI tools designed to help lawyers automate routine work and move faster through complex tasks. It's an interesting entry point for Nvidia, since this is its first known bet in legal tech. The broader idea seems to be getting closer to where AI is being applied day to day, not just where it's being built.",
       "Language": "en"
     },
     {
