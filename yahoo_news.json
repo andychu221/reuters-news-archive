@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-04-30T11:45:11.344Z",
-  "total_news_count": 1316,
+  "last_updated": "2026-04-30T12:40:57.043Z",
+  "total_news_count": 1319,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-04-30",
+      "Time": "20:23:53",
+      "Source": "Yahoo Finance",
+      "Title": "Semiconductor stocks rise on Big Tech earnings, Qualcomm beat",
+      "URL": "https://finance.yahoo.com/markets/article/semiconductor-stocks-rise-on-big-tech-earnings-qualcomm-beat-122353859.html",
+      "Content": "What happened: Semiconductor stocks rose on Thursday. Qualcomm ( QCOM ) surged 9% in premarket trading, while peers Broadcom ( AVGO ), Intel ( INTC ), and AMD ( AMD ) climbed higher as well.\n\nWhat’s behind the move: Big Tech earnings from companies like Meta Platforms ( META ) and Microsoft ( MSFT ) showed hyperscalers plan to grow their capital expenditures on artificial intelligence infrastructure.\n\nWall Street sees the makers of the central processing units (CPUs) needed for agentic AI, such as Intel and AMD, as beneficiaries of the trade. The cost of memory and data storage has also benefited players like Sandisk ( SNDK ), Western Digital ( WDC ), and Seagate ( STX ), which rallied premarket following Seagate’s strong results .\n\nMore from Yahoo Scout\n\nHow is agentic AI driving chip demand?\n\nWhich chip companies benefited from Big Tech spending?\n\nWhy did semiconductor stocks surge on Thursday?\n\nWhat drove Qualcomm's strong quarterly performance?\n\nMeanwhile, Qualcomm’s better-than-expected first quarter results also lifted the broader chip sector. The maker of smartphone processors said it sees the market for Chinese phones bottoming in the current quarter, a positive sign for the company. It also said it expects to ship custom silicon to an unnamed hyperscaler later this year.\n\nWhat else you need to know: Semiconductor stocks have been on fire in recent weeks amid investors’ growing focus on agentic AI, in which bots or agents act on users’ behalf.\n\nThis week, Qualcomm surged roughly 15% after tech analyst Ming-Chi Kuo from TF International Securities said that OpenAI ( OPAI.PVT ) is working with Qualcomm to develop smartphone processors.\n\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre .\n\nClick here for an in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-04-30",
+      "Time": "20:20:24",
+      "Source": "Yahoo Finance",
+      "Title": "JPMorgan downgrades Meta on limited visibility into AI product pipeline",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-downgrades-meta-limited-visibility-122024660.html",
+      "Content": "Investing.com -- JPMorgan has downgraded Meta Platforms Inc. from Overweight to Neutral and cut its price target from $825 to $725, citing heavy infrastructure spending and limited visibility into the company’s artificial intelligence product pipeline.\n\nAnalyst Doug Anmuth acknowledged Meta’s recent revenue strength but raised concerns about longer-term returns on the company’s AI investments.\n\n\"While we’re encouraged by META’s +33% Y/Y revenue growth which has been supported by AI-driven ad stack optimizations, accelerating impression growth, & engagement gains, we believe full-stack AI competition is intensifying and Meta has a more challenging path to returns on heavy AI capex beyond advertising,\" Anmuth wrote.\n\nJPMorgan pointed to Google and Amazon as better-positioned rivals, noting both companies have deeper enterprise integrations and clearer paths to multi-year returns on AI capital spending.\n\nMeta raised its 2026 capital expenditure guidance by $10 billion to a range of $125 billion to $145 billion. JPMorgan now projects Meta’s capex will grow 42% to $202 billion in 2027, resulting in negative free cash flow of $4 billion in 2026 and $24 billion in 2027.\n\nAnmuth flagged additional near-term headwinds, including tougher year-over-year comparisons, Middle East conflict exposure, European regulatory implementation and foreign exchange pressures.\n\n\"For now, we’re moving to Neutral-rated & believe shares could remain pressured as investors look for greater clarity on agentic products and how Muse models will help drive incremental revenue beyond advertising,\" Anmuth wrote.\n\nJPMorgan’s $725 price target is based on 21 times its 2027 GAAP earnings-per-share estimate of $34.01.\n\nJPMorgan downgrades Meta on limited visibility into AI product pipeline\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-04-30",
+      "Time": "20:13:16",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon explores possible reboot of The Apprentice",
+      "URL": "https://finance.yahoo.com/m/9683d081-e339-3643-bd38-78f63f73c1e6/amazon-explores-possible.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) is kicking around ideas for what to do with The Apprentice, including a possible reboot, though it's still very early and nothing has been set in motion yet.\n\nAccording to a Wall Street Journal report, one of the ideas being discussed internally is bringing in Donald Trump Jr. as the host if the show were to return. But right now, that's about as far as it goes. Amazon itself described the talks as preliminary, and people familiar with the situation say the project isn't even in active development or being pitched outside the company.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe backdrop here is Amazon's ownership of MGM, which gives it partial rights to the show alongside Trump's production company. That means it has the ability to revisit the franchise if it thinks there's value in it. Still, the Trump family hasn't been contacted, and there's no clear timeline or commitment at this stage.",
+      "Language": "en"
+    },
     {
       "Ticker": "META, MSFT, AMZN, AAPL, TSLA",
       "Date": "2026-04-30",
