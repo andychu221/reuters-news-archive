@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-01T20:32:36.644Z",
-  "total_news_count": 239,
+  "last_updated": "2026-05-01T20:40:43.280Z",
+  "total_news_count": 240,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-05-02",
+      "Time": "04:24:08",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia, Google, Microsoft Win Major Pentagon AI Contracts",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-google-microsoft-win-major-202408743.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe U.S. Department of War has struck agreements with seven technology companies to bring frontier AI tools onto classified networks, widening its access to systems for military and intelligence work.\n\nThe companies include OpenAI, Alphabet ( NASDAQ:GOOG ), through Google, SpaceX-owned xAI, Microsoft ( NASDAQ:MSFT ), Amazon Web Services, Nvidia ( NASDAQ:NVDA ) and startup Reflection AI. The department said the work will support both IL6 and IL7 environments, security levels used for sensitive government systems.\n\nWarning! GuruFocus has detected 9 Warning Signs with NBIS.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nOfficials said the effort fits the Pentagon's AI Acceleration Strategy across warfighting, intelligence and enterprise operations. The department said GenAI.mil has already been used by more than 1.3 million personnel, suggesting growing internal demand for AI tools. The move also follows a broader push by the government to diversify suppliers rather than rely on a single partner.\n\nAnthropic was not among the seven and remains in a separate dispute with the department over access terms. The company has challenged the Pentagon's demands for broader model access, even as the government continues to expand its AI vendor pool this year.",
+      "Language": "en"
+    },
     {
       "Ticker": "SNDK",
       "Date": "2026-05-02",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "AMZN, AAPL",
       "Date": "2026-05-02",
       "Time": "03:25:00",
       "Source": "Yahoo Finance",
