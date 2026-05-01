@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T22:32:18.390Z",
-  "total_news_count": 254,
+  "last_updated": "2026-05-01T22:40:25.129Z",
+  "total_news_count": 255,
   "news": [
     {
       "Ticker": "INTC",
@@ -33,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "MSFT, GOOGL, AMZN",
+      "Date": "2026-05-02",
+      "Time": "05:23:00",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Takes the Spotlight Among Mag 7 Hyperscalers",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-takes-spotlight-among-mag-212300312.html",
+      "Content": "Alphabet GOOGL ) took the spotlight among the other Mag 7 hyperscalers that reported quarterly results this week, alongside Amazon AMZN ) and Microsoft MSFT ).\n\nDelivering a stellar Q1 report on Wednesday, Alphabet’s net sales were up 24% YoY to $94.66 billion and comfortably topped estimates of $92.22 billion. More impressive, Alphabet’s Q1 EPS surged 82% to $5.11 and crushed expectations of $2.64 per share by 93%.\n\nThe statement was clear: Alphabet is firing on all cylinders as Google Search and YouTube growth remained healthy with double-digit rates, and cloud acceleration was on full display.\n\nImage Source: Zacks Investment Research\n\nGoogle Cloud Delivers Market-Leading Growth\n\nAt a pivotal moment, when the AI boom is being defined by the hyperscale race, Alphabet’s cloud growth was dramatically stronger than Microsoft's and Amazon’s.\n\nLast quarter, Microsoft’s cloud revenue spiked 29% YoY to $54.5 billion, with Amazon Web Services (AWS) revenue seeing a 28% spike to $37.6 billion.\n\nStill, Alphabet’s acceleration was on another level as Google Cloud reported its fastest growth rate ever, with Q1 revenue soaring 63% YoY to a quarterly peak of $20 billion.\n\nThe primary growth drivers were Alphabet’s enterprise AI infrastructure offerings, which are growing in popularity thanks to its Gemini-based solutions, with a cloud backlog that nearly doubled to over $460 billion. Alphabet highlighted that Gemini Enterprise is seeing tremendous momentum, with 40% growth quarter over quarter in paid monthly active users.\n\nNotably, Google’s AI products and tools are built on its Gemini family of AI models, including enterprise agents, workplace automation tools, developer assistants, and AI-powered cloud services.\n\nThe cherry on top was that Alphabet stated this was its strongest quarter ever for consumer AI plans, driven by its Gemini app. This pushed Alphabet’s paid subscribers to a record 350 million, including YouTube and Google One (cloud storage subscription).\n\nAlphabet’s Strategic Spend Is Delivering the Goods\n\nIgniting a sharp post-earnings rally in Alphabet stock was that it appears to be capitalizing on the massive spending being seen among the Mag 7 hyperscalers and is starting to provide the clearest justification to keep doing so.\n\nAlthough Alphabet significantly increased its 2026 capital expenditures (CapEx) guidance due to surging AI cloud demand, it still came in beneath Amazon’s updated commitment of $200 billion and is in line with Microsoft’s plan to spend $190 billion.\n\nAlphabet's CapEx outlook is now $180-$190 billion, with management stating 2027 CapEx will significantly increase beyond these levels. It’s noteworthy that the spending is focused on AI technical infrastructure, including data centers, tensor processing units (TPUs), and cloud capacity.\n\nStory Continues\n\nJustifying the increase in CapEx is that Alphabet repeatedly emphasized that AI infrastructure demand is outpacing available compute, stating its record cloud revenue would have been higher if capacity were available.\n\nBottom Line\n\nAlphabet’s cloud segment is becoming a serious growth engine as it continues to battle Amazon and Microsoft for market share. With the hyperscale race heating up, AI investments are fueling the broader expansion of these tech giants, and Alphabet appears to be separating itself from the pack.\n\nTo that point, Alphabet’s AI products are clearly driving both usage and revenue, and most importantly, its profitability has expanded significantly.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, SNDK",
       "Date": "2026-05-02",
       "Time": "05:21:00",
       "Source": "Yahoo Finance",
