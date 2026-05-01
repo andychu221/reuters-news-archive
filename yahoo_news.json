@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-01T16:10:53.421Z",
-  "total_news_count": 183,
+  "last_updated": "2026-05-01T16:15:37.945Z",
+  "total_news_count": 189,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-05-01",
+      "Time": "23:58:13",
+      "Source": "Yahoo Finance",
+      "Title": "Apple delivers strong quarter with upbeat outlook",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-delivers-strong-quarter-upbeat-155813427.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple Inc. ( NASDAQ:AAPL ) put up a strong quarter, but what really stood out wasn't just the numbers, it was the tone of what comes next.\n\nThe company beat expectations for fiscal Q2, helped by steady iPhone demand, but the real surprise came with its outlook. Apple is now guiding for 14% to 17% revenue growth next quarter, well ahead of what the Street was expecting. And then there's margins. Gross margins are projected at 47.5% to 48.5%, which is impressive considering memory costs are going up. That was one of the biggest worries coming in, and Apple basically just brushed it aside.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nAnalysts picked up on that quickly. There's a growing sense that demand is holding up better than expected, especially across iPhones and Macs. Some of that is also tied to AI-related usage, with devices like the Mac mini and MacBook Neo seeing stronger traction. But beyond products, Apple's scale is doing a lot of the work here. It's managing supply and costs in a way that others are struggling to match.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-01",
+      "Time": "23:57:14",
+      "Source": "Yahoo Finance",
+      "Title": "Why Roblox Stock Malfunctioned Today",
+      "URL": "https://finance.yahoo.com/m/d4f5b034-a17a-3197-8920-84d67dcacfd3/why-roblox-stock.html",
+      "Content": "Roblox Corporation (NYSE: RBLX) stock crashed 15.1% through 11:15 a.m. ET Friday after reporting mixed earnings in its Q1 report last night.\n\nHeading into the quarter, analysts forecast the popular online video game platform would report a $0.41-per-share loss, and the good news is that Roblox lost only $0.35 per share -- an earnings \"beat.\" Bookings forecast to exceed $1.7 billion fell short of that mark, however -- a \"miss.\"\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nRoblox Q1 earnings\n\nRoblox has never earned a profit. According to analysts polled by S&P Global Market Intelligence , Roblox is not expected ever to report a profit, as far out as analysts publish estimates (2030). This forces analysts and investors to focus on numbers other than just the usual \"earnings calculated under generally accepted accounting principles\" ( GAAP ) when evaluating Roblox stock.\n\nWhat numbers, precisely?\n\nSales growth: up 39% to $1.4 billion in Q1 at Roblox.\n\nBookings (or put another way, anticipated future sales) growth: up 43% to $1.7 billion.\n\nAnd daily average users growth, up 35%, and hours of gamer engagement -- up 43%.\n\nAnd of course, the most important number of all: Free cash flow, which for Roblox was $596 million in Q1, up 40% year over year.\n\nWhat's next for Roblox stock?\n\nThose numbers all look quite good for Roblox, but it was one number in particular that upset investors today, and that was bookings. Turning to guidance, Roblox told investors it expects bookings to grow only to $1.6 billion or so in Q2, and perhaps $7.5 billion through the end of the year. Problem is, Wall Street analysts wanted to see Roblox promise $1.9 billion in Q2 bookings, and $8.4 billion for the year.\n\nRoblox failed to do that.\n\nThis is why Roblox stock is down today.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-05-01",
@@ -15,6 +35,36 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "ARK Invest, Cathie Wood, portfolio rotation, AI exposure, semiconductor stocks"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-05-01",
+      "Time": "23:43:10",
+      "Source": "Yahoo Finance",
+      "Title": "Apple beats expectations but flags rising costs",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-beats-expectations-flags-rising-154310012.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple Inc. ( NASDAQ:AAPL ) just delivered a strong quarter, but it's also starting to flag where things could get a bit tougher going forward.\n\nOn the earnings call, CEO Tim Cook pointed to memory costs as a growing issue. He said prices are set to be significantly higher in the June quarter and will likely have a bigger impact beyond that. It's been building gradually. The impact was minimal late last year, picked up a bit in the March quarter, and now looks like it's becoming a more meaningful headwind.\n\nWarning! GuruFocus has detected 6 Warning Sign with XOM.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThat said, the business itself is still holding up well. Apple reported EPS of $2.01 on revenue of $111.18 billion, up 16.5% Y/Y, both ahead of expectations. Margins came in at 49.3%, even with some pressure from tariffs already factored in. The stock was up about 3.2% premarket, which tells you investors are still focused on the demand side, especially with strong iPhone 17 momentum.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-01",
+      "Time": "23:39:02",
+      "Source": "Yahoo Finance",
+      "Title": "Intel's Sambanova deal gets U.S. antitrust clearance",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intels-sambanova-deal-gets-u-153522284.html",
+      "Content": "By Jody Godoy\n\nMay 1 (Reuters) - U.S. ‌antitrust authorities have ‌completed their review of ​Intel's investment in SambaNova, a chip startup chaired by ‌Intel ⁠CEO Lip-Bu Tan, according to a ⁠regulatory notice circulated on Friday.\n\nIntel ​put $35 ​million ​into SambaNova ‌in February, which, along with other financing, boosted Intel’s stake in the startup ‌to 8.2% ​from ​6.8% ​last year.\n\nIntel has ‌planned to invest ​another $15 ​million in SambaNova, Reuters reported ​on ‌April 1.\n\n(Reporting by ​Jody Godoy in ​New York)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-05-01",
+      "Time": "23:34:41",
+      "Source": "Yahoo Finance",
+      "Title": "Apple is nearing its first record close since December after earnings",
+      "URL": "https://finance.yahoo.com/markets/article/apple-is-nearing-its-first-record-close-since-december-after-earnings-153441950.html",
+      "Content": "Apple’s ( AAPL ) shaky breakout attempt is back from the brink.\n\nThe iPhone maker is now on track for its first record closing high since Dec. 2, flipping last week’s failed breakout into a fresh test of its all-time high zone.\n\nThe move is a sharp reversal from last week’s setup , when Apple’s breakout was already under pressure after the stock slipped back from resistance.\n\nAt the time, Apple had three big issues hitting at once: CEO Tim Cook’s planned departure, earnings, and a breakout that was starting to look vulnerable. Friday’s earnings reaction appears to have gone a long way toward easing those succession fears — at least in the stock.\n\nMore from Yahoo Scout\n\nWhat are AAPL's key technical resistance levels?\n\nWhat drove Apple's stock recovery from failed breakout?\n\nHow does Apple compare to other Magnificent Seven stocks?\n\nHow did Apple's earnings results exceed analyst expectations?\n\nApple jumped nearly 5% after stronger-than-expected quarterly results , as the company topped estimates on iPhone and China sales.\n\nThat puts the technical picture back in focus.\n\nThe old $278 to $280 barrier has turned into the key area to hold, while the $286 to $289 zone marks the next hurdle near Apple’s record highs.\n\nA close in that range would mark Apple’s first record finish in roughly five months — and bring the stock back into the same record-high conversation as Amazon ( AMZN ), Alphabet ( GOOG , GOOGL ), and Nvidia ( NVDA ). All three have already notched record highs in recent days.\n\nApple had been one of the biggest “Magnificent Seven” laggards since the market’s March 30 low. Now it is helping confirm that the megacap rally is spreading beyond the AI leaders.\n\nHold above $278 to $280, and the breakout to new highs is alive. Fall back below it, and the failed-breakout risk returns.\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com .\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nApple stock nears first record closing high since December after clearing shaky technical breakout\n\nApple stock nears first record closing high since December after clearing shaky technical breakout The move is a sharp reversal from last week’s setup , when Apple’s breakout was already under pressure after the stock slipped back from resistance.\n\n<button class=\"icon-btn fin-size-medium rounded yf-r7dg9i\" data-ylk=\"elm:arrow;sec:ddq-module;subsec:carousel;itc:1;slk:prev\" data-yga=\"{\"yLinkElement\":\"arrow\",\"yModuleName\":\"ddq-module\",\"ySubModuleName\":\"carousel&quo\n\nApple stock is testing new all-time highs after the company reported strong Q2 earnings. (Reuters/Brendan McDermid/File Photo) · REUTERS / REUTERS\n\nApple stock is testing new all-time highs after the company reported strong Q2 earnings. (Reuters/Brendan McDermid/File Photo) · REUTERS / REUTERS Jared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com .\n\n<span",
+      "Language": "en"
     },
     {
       "Ticker": "META, GOOGL",
@@ -113,6 +163,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "Alphabet, GOOGL, price target, Q1 results, Google Cloud, AI investment, Anthropic"
+    },
+    {
+      "Ticker": "MPWR",
+      "Date": "2026-05-01",
+      "Time": "22:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "Monolithic Power's Q1 Earnings Beat Estimates on Solid Revenue Growth",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/monolithic-powers-q1-earnings-beat-143500296.html",
+      "Content": "Monolithic Power Systems, Inc. MPWR reported strong first-quarter 2026 results, with both adjusted earnings and revenues surpassing the Zacks Consensus Estimate.\n\nThe Kirkland, WA-based company reported a strong 26.1% year-over-year revenue increase, driven by solid demand in enterprise data and communications. Growth was supported by higher adoption of power solutions for AI servers, optical modules and networking equipment. Its diversified strategy and new customer wins also helped maintain growth across segments.\n\nNet Income\n\nNet income, on a GAAP basis, was $193.2 million or $3.92 per share compared with $135.1 million or $2.81 per share in the year-ago quarter. Top-line growth boosted the bottom line during the quarter.\n\nNon-GAAP net income improved to $251.3 million or $5.10 per share from $193.8 million or $4.04 per share in the prior-year quarter. The bottom line surpassed the Zacks Consensus Estimate by 21 cents.\n\nMonolithic Power Systems, Inc. Price, Consensus and EPS Surprise\n\nMonolithic Power Systems, Inc. price-consensus-eps-surprise-chart | Monolithic Power Systems, Inc. Quote\n\nRevenues\n\nMonolithic Power generated revenues of $804.2 million, up from $637.6 million in the year-ago quarter, primarily driven by solid growth in the Enterprise Data market, representing 32.7% of total revenues in the first quarter of 2026. The top line beat the Zacks Consensus Estimate of $781.1 million.\n\nBy end markets, Enterprise Data increased to $262.8 million from $132.9 million in the year-ago quarter, owing to higher sales of power management solutions for AI and server applications. Net sales from Storage and Computing revenues were $174.4 million, down 7.5% year over year. In the first quarter, the Automotive end market contributed $152.4 million in revenues, up 5.1% year over year due to higher sales of Advanced Driver Assistance Systems power solutions.\n\nIndustrial revenues were $48.6 million compared with $42.6 million in the year-ago quarter. The Communications end market registered $111.5 million in revenues, up from $71.8 million, driven by higher sales of power solutions for optical modules and switches. Net sales from the Consumer end market decreased to $54.5 million from $56.9 million in the year-ago quarter.\n\nOther Details\n\nNon-GAAP gross margin was 55.5% compared with 55.7% in the year-earlier period. Non-GAAP operating expenses were $158.3 million compared with $133.5 million reported a year ago. Non-GAAP operating income was $288 million, up from $221.5 million, owing to higher revenues.\n\nCash Flow & Liquidity\n\nDuring the March quarter, the company generated an operating cash flow of $250.3 million compared with $256.4 million in the prior-year quarter. As of March 31, 2026, cash and cash equivalents and short-term investments totaled $1.37 billion, with other long-term liabilities of $119.2 million.\n\nStory Continues\n\nZacks Rank\n\nMonolithic Power currently carries a Zacks Rank #2 (Buy). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .\n\nUpcoming Releases\n\nArista Networks Inc. ANET is scheduled to release first-quarter 2026 earnings on May 5. The Zacks Consensus Estimate for earnings is pegged at 81 cents per share, suggesting growth of 24.62% from the year-ago reported figure.\n\nArista has a long-term earnings growth expectation of 17.94%. The company delivered an average earnings surprise of 9% in the last four reported quarters.\n\nCDW Corporation CDW is set to release first-quarter 2026 earnings on May 6. The Zacks Consensus Estimate for earnings is pegged at $2.28 per share, implying growth of 6.05% from the year-ago reported figure.\n\nCDW has a long-term earnings growth expectation of 7.25%. The company delivered an average earnings surprise of 5.72% in the last four reported quarters.\n\nMotorola Solutions, Inc. MSI is set to release first-quarter 2026 earnings on May 7. The Zacks Consensus Estimate for earnings is pegged at $3.25 per share, implying growth of 2.2% from the year-ago reported figure.\n\nMotorola has a long-term earnings growth expectation of 9.4%. The company delivered an average earnings surprise of 5.66% in the last four reported quarters.",
+      "Language": "en"
     },
     {
       "Ticker": "META",
