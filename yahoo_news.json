@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-01T12:32:27.946Z",
-  "total_news_count": 140,
+  "last_updated": "2026-05-01T12:41:22.978Z",
+  "total_news_count": 143,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-01",
+      "Time": "20:26:52",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft: Heavy CapEx, Clear AI Payoff Path",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-heavy-capex-clear-ai-122652581.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft's ( NASDAQ:MSFT ) latest earnings report had a big focus on how the company is monetising artificial intelligence, with growth in revenue, cloud services, and AI adoption figures.\n\nRevenue grew 18% year-on-year to $82.9 billion, while adjusted operating income grew 20% to $38.4 billion. The company's operating margin widened to some 46%, despite higher investment in AI technology, showing continued pricing and productivity improvements.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe company's cloud unit, Azure, continued to grow strongly, with revenue up 40% year-on-year. Managers indicated the market is growing faster than capacity, with more raw material needed. It expects this growth to continue in the coming quarters as capacity increases.\n\nMicrosoft's AI business passed $37 billion on an annualized run rate (more than doubling year-on-year). Active paid seats of Copilot topped 20 million, and usage grew. Microsoft is furthering its shift from a subscription to a mixed subscription and usage-based business model to monetize more value from its installed base.\n\nInvestment highlighted in cash flows. Cash flow from operations was up 26% to $46.7 billion, but free cash flow declined to $15.8 billion owing to capex of over $30 billion this quarter. This was largely in the form of shorter-lived assets to enable AI inference, such as GPUs and CPUs.\n\nDeclared estimated remaining performance obligations (RPO) for the commercial segment were $627 billion, giving an indication of the potential future revenues. Investments were linked to this backlog, as executives noted they plan to invest to address demand.\n\nThis is an inflection point, as investments in infrastructure have a negative impact on free cash flow in the short term, but build capacity for the future of AI.",
+      "Language": "en"
+    },
     {
       "Ticker": "SNDK",
       "Date": "2026-05-01",
@@ -13,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-05-01",
+      "Time": "20:26:06",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Platforms Signals More Layoffs Amid Rising AI Costs",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-signals-more-layoffs-122606947.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( META , Financials ) is preparing for deeper workforce cuts as it ramps up spending on artificial intelligence.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nCEO Mark Zuckerberg told employees that the company is reallocating resources toward compute infrastructure, a shift that is forcing reductions elsewhere including headcount.\n\nWe have two major cost centers: infrastructure and people, Zuckerberg said, adding that higher investment in AI means less capital available for staffing. Meta plans to lay off about 10% of its workforce starting May 20 and left the door open to more cuts later this year.\n\nThe comments come as the company reorganizes around an AI-native structure and pushes to build autonomous AI agents. While Zuckerberg said efficiency tools are not directly driving layoffs, he acknowledged uncertainty about how the transition will unfold.\n\nThe shift has seen internal backlash from employees, underscoring the friction between Meta's aggressive AI push and the stability of its personnel. Investors now are focusing on how greater AI spending will effect margins and the long term.",
+      "Language": "en"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-05-01",
       "Time": "20:11:31",
@@ -20,6 +40,16 @@
       "Title": "Sandisk stock falls despite strong earnings report as investors 'sell the news' after powerful rally",
       "URL": "https://finance.yahoo.com/markets/article/sandisk-stock-falls-despite-strong-earnings-report-as-investors-sell-the-news-after-powerful-rally-121131080.html",
       "Content": "What happened: Sandisk ( SNDK ) stock fell more than 6% in premarket on Friday.\n\nWhat’s behind the move: Investors appeared to “sell the news” after the memory chipmaker posted strong beats on the top and bottom lines in its fiscal third quarter. Revenue of $5.95 billion increased from $4.72 billion, and the company’s adjusted earnings of $23.41 per share sailed past Wall Street expectations of $14.51.\n\nSandisk sees fourth quarter revenue in the range of $7.75 billion to $8.25 billion, above a consensus estimate of $6.65 billion.\n\nWhat else you need to know: Sandisk stock has surged this year as memory has become a key bottleneck in computing. Bullish sentiment from Wall Street has driven the stock to new highs: The stock is up almost 300% year to date and hit a record high on Thursday prior to its quarterly results.\n\nMore from Yahoo Scout\n\nHow has memory becoming computing bottleneck affected SanDisk?\n\nWhat drove SanDisk's impressive revenue and earnings growth?\n\nWhat are analyst concerns about SanDisk's future performance?\n\nWhy did SanDisk stock fall despite strong earnings?\n\nWhile a majority of Wall Street analysts have a Buy rating on the stock, Morningstar Research Services equity analyst William Kerwin has the equivalent of a Hold.\n\n“When we take a longer-term view here, we think that this pricing up cycle is finite,” Kerwin told Yahoo Finance on Wednesday. “We think it's going to go on for the next couple of years here, but once it peaks, we think investors may get caught holding the bag with a precipitous down cycle thereafter when pricing comes back down to earth.”\n\nMeanwhile, Susquehanna Research raised its price target on the stock to $2,000 per share on Friday from $1,000.\n\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre .\n\nClick here for an in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, AMZN",
+      "Date": "2026-05-01",
+      "Time": "20:00:05",
+      "Source": "Yahoo Finance",
+      "Title": "Pentagon signs AI deals with Nvidia, Microsoft, AWS and Reflection",
+      "URL": "https://finance.yahoo.com/m/718048bf-6273-3663-8aac-b8a103798c43/pentagon-signs-ai-deals-with.html",
+      "Content": "Investing.com -- The Pentagon announced Friday that it has secured agreements with four additional technology companies to deploy advanced artificial intelligence tools on classified military networks, according to a Bloomberg report Friday.\n\nNvidia Corp., Microsoft Corp., Reflection AI Inc., and Amazon Web Services have all entered into agreements with the U.S. Defense Department for operational use, according to a Defense Department statement. Two defense officials familiar with the matter confirmed the deals.\n\nThese companies join SpaceX, OpenAI, and Google in recently agreeing to provide AI tools for Pentagon classified networks. The statement marks the first official Pentagon confirmation of a new deal with Google that was reported earlier this week.\n\n\"These agreements accelerate the transformation toward establishing the United States military as an AI-first fighting force,\" the statement said.\n\nThe Pentagon finalized its agreement with Amazon Web Services late Thursday, according to two Pentagon officials briefed on the discussions.\n\nThe push to assemble a coalition of technology companies for military AI deployment comes as the Pentagon seeks to develop alternatives to Anthropic PBC's Claude tool. A dispute between Anthropic and senior defense officials highlighted ongoing tensions between the Pentagon and Silicon Valley regarding AI use in military operations.\n\nPentagon signs AI deals with Nvidia, Microsoft, AWS and Reflection\n\nWolfe Research outlines eight risks that could spark stock declines in 2026\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
       "Language": "en"
     },
     {
