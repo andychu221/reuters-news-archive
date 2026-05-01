@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-01T23:01:14.478Z",
-  "total_news_count": 256,
+  "last_updated": "2026-05-01T23:15:15.073Z",
+  "total_news_count": 257,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-05-02",
+      "Time": "06:38:09",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 1: Apple Jumps After Record Quarter and $100 Billion Share Buyback",
+      "URL": "https://finance.yahoo.com/m/37c8d4bb-9f6b-3d9b-aaad-cb887e9cb473/stock-market-today%2C-may-1%3A.html",
+      "Content": "Apple (NASDAQ:AAPL) , a consumer electronics and software giant, closed Friday at $280.25, up 3.28%. The stock moved higher after Apple reported record quarterly results, issued upbeat guidance, and expanded its capital-return plans. Investors are watching whether demand for the iPhone and MacBook Neo sustains double-digit revenue growth. Trading volume reached 76 million shares, about 63% above its three-month average of 46.6 million shares. Apple IPO'd in 1980 and has grown 218,248% since going public.\n\nHow the markets moved today\n\nThe S&P 500 added 0.28% to finish at 7,229, while the Nasdaq Composite gained 0.89% to close at 25,114. Within the technology sector, Microsoft closed at $414.44, up 1.63%, while HP finished at $20.83, down 0.14%, underscoring mixed reactions across device makers.\n\nWhat this means for investors\n\nAfter rising 3% today, Apple is again nearing all-time highs, despite being critiqued by many in the market for “missing” the broader AI revolution . During Q2, Apple’s sales grew 17%, and EPS rose 22%, sailing past analysts’ expectations. Management guided for sales to increase between 14% and 17% in Q2.\n\nSeveral analysts raised their price targets on the stock, citing that Apple could be an AI beneficiary despite largely sitting out the massive capex spending cycle engulfing its mega-cap tech peers. My most intriguing takeaway from the quarter was that higher-than-expected demand for Apple’s MacBook Neo helped set a March record for new Mac users.\n\nDespite being a $4 trillion company, Apple continues to find new ways to deliver solid growth for its shareholders.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-02",
       "Time": "06:25:00",
       "Source": "Yahoo Finance",
