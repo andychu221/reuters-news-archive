@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-02T19:40:16.601Z",
-  "total_news_count": 314,
+  "last_updated": "2026-05-02T20:00:40.601Z",
+  "total_news_count": 315,
   "news": [
     {
-      "Ticker": "AMZN",
+      "Ticker": "MU",
+      "Date": "2026-05-03",
+      "Time": "03:43:00",
+      "Source": "Yahoo Finance",
+      "Title": "Micron vs. SanDisk: Which Stock Is the Better Buy for the AI Boom?",
+      "URL": "https://finance.yahoo.com/m/ef33426c-a0f1-3869-9aa6-86a722391538/micron-vs.-sandisk%3A-which.html",
+      "Content": "The S&P 500 has produced a 441% return over the past 20 years. That's good, but the 8.9% annual gain is still below the returns Micron (NASDAQ: MU) and SanDisk (NASDAQ: SNDK) have posted over the past year.\n\nBoth companies specialize in memory storage solutions, which have become hot amid the AI boom. Here's what investors should consider if they want to choose between these leading AI stocks .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nMicron has more market share and a diversified product mix\n\nMicron is the larger company when you look at market cap and revenue. SanDisk's market cap crossed $100 billion earlier this year, while Micron is worth more than half a trillion dollars. Furthermore, Micron earned $23.86 billion in Q2 fiscal year 2026 revenue compared to SanDisk's $5.95 billion in Q3 fiscal year 2026 revenue.\n\nThe larger size also comes with a more diversified product mix than SanDisk. Micron boasts a rich portfolio of DRAM, NAND, and HBM memory and storage products, while SanDisk makes virtually all of its revenue from NAND-based storage products.\n\nMicron has more alternatives if NAND demand cools, while SanDisk is a pure play in that industry. However, it may be several years before demand slows down. SanDisk's Q3 fiscal year 26 results pointed to 97% sequential revenue growth and 251% year-over-year sales growth. SanDisk's Q4 fiscal year 2026 outlook calls for $8 billion in revenue at the midpoint, which implies 34% sequential growth.\n\nThose numbers can slow down if NAND demand declines, but SanDisk's recent financial results do not suggest that outcome is likely in the future.\n\nSanDisk's faster growth results in a premium valuation\n\nSanDisk trades at a higher forward P/E ratio than Micron. Its 21 forward P/E ratio is quite attractive in the tech industry, but it's still higher than Micron's 9 forward P/E ratio. A lower P/E ratio suggests that a stock is more undervalued.\n\nWhile Micron wins with the forward P/E ratio, SanDisk's revenue and net income growth rates are much higher than Micron's. Accelerated growth can result in a more favorable valuation for SanDisk in the future.\n\nFor instance, SanDisk more than quadrupled its net income sequentially. Micron's 163% sequential net income growth is still impressive, but it's not on the same level as SanDisk, which also delivered higher year-over-year revenue growth than Micron.\n\nStory Continues\n\nThis outperformance should continue. Tucked away in SanDisk's earnings report is a key detail about the consumer segment, which is down by 10% sequentially. It's still up by 44% year over year, but the important thing is that SanDisk's slowest-growing segment is making up a smaller portion of total sales.\n\nThe slow-growing consumer segment made up 33.7% of Q3 fiscal year 2025 revenue, but it was only 13.8% of Q3 fiscal year 2026 revenue. As the consumer makes up a smaller segment of total revenue, the hypergrowth segments -- Data Center and Edge -- will make up a larger portion of total sales and dictate future results.\n\nMicron touts four business segments in its earnings results. All four of them are growing sequentially, with the Core Data Center Business Unit posting the highest sequential revenue growth. It doesn't have a slower-moving segment that will gradually have less of an impact on future results like SanDisk.\n\nBoth picks present solid upside potential\n\nMicron and SanDisk have both outperformed the S&P 500 by a wide margin this year. Attractive sequential growth positions both memory storage providers to deliver exceptional long-term returns.\n\nAlthough it's hard to choose between one and the other, SanDisk has a slight edge. It's growing at a higher rate than Micron, and faster growth often translates into more outsize stock returns. While SanDisk depends exclusively on NAND, that's not a problem if the product remains in strong demand, as SanDisk's earnings results demonstrate.\n\nMicron has a lower valuation right now, but that can change as SanDisk's high-growth segments make up a higher percentage of total revenue and drown out its consumer business.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, AMZN",
       "Date": "2026-05-03",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-03",
       "Time": "02:51:00",
       "Source": "Yahoo Finance",
