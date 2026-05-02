@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-01T23:40:17.782Z",
-  "total_news_count": 258,
+  "last_updated": "2026-05-02T00:00:33.753Z",
+  "total_news_count": 259,
   "news": [
     {
-      "Ticker": "META",
+      "Ticker": "NVDA",
+      "Date": "2026-05-02",
+      "Time": "07:25:00",
+      "Source": "Yahoo Finance",
+      "Title": "Data Center Demand Drove Vertiv's Earnings up 83%, but Is This AI Infrastructure Play Worth its Lofy Valuation?",
+      "URL": "https://finance.yahoo.com/m/f4aae1a1-24ec-3835-9382-6bb52206e19a/data-center-demand-drove.html",
+      "Content": "Shares of Vertiv (NYSE: VRT) have climbed over 250% in the past year, as investors recognized the company's role in providing the critical power and cooling for the build-out of AI data centers. This run has pushed the stock to roughly 47 times forward earnings, a multiple we're not used to seeing for an industrial business of this kind.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nFirst-quarter adjusted earnings, reported last week, grew 83% year over year as the company converted a project backlog that more than doubled last year to over $15 billion. The growth stems from the shift to high-density AI racks, which require advanced liquid-cooling systems that Vertiv provides.\n\nThe need for liquid cooling takes hold\n\nAs AI workloads drive higher rack power densities, liquid cooling is being adopted as the primary thermal solution for the most power-hungry compute rows. This new liquid-cooled infrastructure operates alongside traditional air-cooled systems that still handle the rest of the data center floor.\n\nMost of these new AI deployments use advanced direct-to-chip liquid cooling, where fluid circulates through cold plates attached to high-performance chips to draw heat away. That heat is removed through the facility's cooling systems, with one of Vertiv's solutions reducing annual cooling energy consumption by up to 70%.\n\nVertiv provides the entire chain, including coolant distribution units, pumps, heat rejection, and the service layer to maintain them, which increases its content and value per rack. Demand for the company's solutions drove impressive growth in its Americas segment with organic sales up 44% in the first quarter, fueled by spending from U.S. hyperscalers .\n\nVertiv's collaborations with silicon partners, such as Nvidia , give it visibility into the technical requirements for future deployments. Meanwhile, the $15 billion backlog establishes a reliable revenue stream for the next 12 to 18 months. The size and quality of these orders reduces near-term cyclical risk.\n\nBacklog conversion drives margin expansion\n\nConverting these larger, more complex projects is generating incremental margins of more than 30%. That profitability showed up in the first quarter as adjusted operating margins expanded 430 basis points to 20.8%, underpinning the company's raised forecast for 30% organic growth and 51% earnings growth in 2026.\n\nStory Continues\n\nThe growth in cash flow helps fund the capacity expansion required to meet demand, and provides a cushion for the persistent weakness in the EMEA segment, where organic sales fell 29% in the quarter. While management expects a recovery in the second half, the primary driver for the company remains the build-out in the Americas.\n\nWhile the valuation is stretched, the physical requirements of purpose-built data centers, coupled with the sheer spending, create durable demand for Vertiv's solutions . For long-term investors looking for a core holding tied to AI infrastructure, Vertiv is a solid choice.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU, META",
       "Date": "2026-05-02",
       "Time": "07:07:30",
       "Source": "Yahoo Finance",
