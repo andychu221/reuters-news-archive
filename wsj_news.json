@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-01T23:03:33.841Z",
-    "total_news_count": 178,
+    "last_updated": "2026-05-02T11:05:10.135Z",
+    "total_news_count": 181,
     "news": [
         {
             "Ticker": "META",
@@ -10,6 +10,17 @@
             "URL": "https://www.wsj.com/tech/meta-platforms-acquires-humanoid-robot-startup-assured-robot-intelligence-721423da",
             "AI_Summary": "",
             "Content": "Meta Platforms acquired Assured Robot Intelligence, a startup trying to build humanoid robots.\n\nThe company declined to disclose the terms of the deal. The acquisition was reported earlier by Bloomberg.\n\n“We acquired Assured Robot Intelligence, a company at the frontier of robotic intelligence designed to enable robots to understand, predict, and adapt to human behaviors in complex and dynamic environments,” a Meta spokesperson said in a Friday statement.\n\nThe startup’s team, led by Lerrel Pinto and Xiaolong Wang, will join Meta to focus on optimizing its models for robotics applications, the spokesperson said.\n\nDisclosure of Meta’s deal comes two days after the company boosted its projected capital expenditures for this year, citing expectations of higher component prices and additional artificial-intelligence data-center costs. The company raised its projected capital spending by $10 billion to a new range of $125 billion to $145 billion for 2026.\n\nMeta has shifted resources away from its augmented reality initiative known as the Metaverse and toward AI. Last month, the company released a new large language model called Muse Spark, which Meta has said is competitive with leading models from Google, OpenAI, and Anthropic.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "INTC",
+            "Date": "2026-05-02",
+            "Time": "04:37:00",
+            "Title": "S&P 500 Extends Longest Weekly Winning Streak Since Late 2024 - WSJ",
+            "URL": "https://www.wsj.com/finance/stocks/s-p-500-extends-longest-weekly-winning-streak-since-late-2024-7cefd3ad",
+            "AI_Summary": "",
+            "Content": "Stocks’ stellar war-defying run continued on Friday.\n\nThe S&P 500 and Nasdaq closed at fresh records after Iran handed Washington a new proposal for ending the war, offering hints of compromise. The two sides remain far apart, The Wall Street Journal reported, but investors nonetheless took it as an encouraging sign, sending Brent crude oil futures down 2% to $108.17 a barrel.\n\nThe S&P 500 closed higher for a fifth consecutive week, the longest streak since 2024, and is now up 14% over the past month. Cease-fire hopes helped kick off the rally, and artificial-intelligence speculation, soaring tech stocks and some positive economic data points have extended it.\n\n“Bears have largely capitulated,” said Mark Hackett, chief markets strategist at Nationwide.\n\nTech led the way again on Friday. A strong earnings report lifted Apple 3.3% higher. The iPhone maker’s sales surged, beating Wall Street’s expectations, and might have been even better if not for the constrained supply of advanced chips that power its devices, executives said on a call with analysts.\n\nThat shortage is fueling a powerful rally in chip and memory stocks this year. Intel was among this week’s best performers, adding 21% to extend its year-to-date gain to 170%. Qualcomm and Sandisk also posted double-digit weekly gains.",
             "Source": "WSJ",
             "Language": "en"
         },
@@ -47,6 +58,17 @@
             "Language": "en"
         },
         {
+            "Ticker": "GOOG",
+            "Date": "2026-05-01",
+            "Time": "04:50:00",
+            "Title": "Investors Ride Google, Caterpillar to Market’s Best Month Since 2020 - WSJ",
+            "URL": "https://www.wsj.com/finance/stocks/investors-ride-google-caterpillar-to-markets-best-month-since-2020-ca0fc08a",
+            "AI_Summary": "",
+            "Content": "U.S. stocks rolled through a divided Federal Reserve, war in the Middle East and a gantlet of tech earnings to wrap up their best month in six years.\n\nThe major indexes moved higher on Thursday, powered by strong results from Google parent Alphabet and heavy-machinery giant Caterpillar . In what was a recurring theme for markets in April, enthusiasm for corporate earnings and the artificial intelligence revolution trumped concerns over conflict, inflation and interest rates.\n\n“The tailwinds from this global industrial build-out can overwhelm the difficulty in absorbing the energy costs,” said David Waddell, chief investment strategist at Waddell and Associates. “It’s kind of astounding how much they’ve gone up.”\n\nThe S&P 500 index rose 1% to a record, while the Nasdaq composite gained 0.9% to close at its seventh record-high of the year. The Dow Jones Industrial Average rose 1.6%, or 790 points.\n\nFor the month, the S&P 500 rose 10%, the Nasdaq increased 15% and the Dow added 7%. The S&P 500 and the Nasdaq had their best monthly performance since November and April 2020, respectively.\n\nAlphabet, helmed by CEO Sundar Pichai, surged 10%, ending the session with a market value of $4.65 trillion. Alphabet on Thursday saw the biggest one-day market-cap increase in its history—and the second-largest on record for a U.S. business.\n\nA new AI darling more than made up for some of the Dow industrials’ poor performers. Caterpillar, known for its giant yellow dump trucks and bulldozers, surged 9% to an all-time closing high after reporting AI-fueled demand for its power-generation equipment.\n\nMeta Platforms plunged nearly 9%, wiping out around $175 billion in market cap, while Microsoft slid around 4% and Amazon gained 0.8% as investors closely scrutinized the market’s most important companies for signs that their prolific AI spending is paying off.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
             "Ticker": "AAPL",
             "Date": "2026-05-01",
             "Time": "04:33:00",
@@ -54,6 +76,17 @@
             "URL": "https://www.wsj.com/tech/apple-aapl-q2-earnings-report-2026-stock-063f5af5",
             "AI_Summary": "",
             "Content": "Tim Cook’s successor will inherit strong iPhone and Mac sales, but also rising costs.\n\nApple reported that revenue from iPhones rose 21.7% to nearly $57 billion in the second quarter compared with the prior year as customers, excited by the iPhone 17 lineup, continued to upgrade their devices at a brisk pace. That powered Apple to quarterly sales of $111.2 billion, results that exceeded Wall Street expectations.\n\nThe results might have been better if not for the constrained supply of advanced chips that power Apple’s devices, said Apple Chief Financial Officer Kevan Parekh. And Apple said results will continue to be strong, projecting that revenue will leap between 14% and 17% during the current quarter, far higher than analysts’ estimate of 10%.\n\nShares rose 2% in after-hours trading.\n\nThe company also undershot its estimates of demand for Mac computers, Cook said on the company’s earnings call, which has led to longer wait times for customers.\n\nAt the same time, Apple’s gross profit margin, a measure that is closely watched by investors, came in at an iPhone-era record of 49.3% for the company.",
+            "Source": "WSJ",
+            "Language": "en"
+        },
+        {
+            "Ticker": "MSFT",
+            "Date": "2026-04-30",
+            "Time": "17:30:00",
+            "Title": "The Clock Is Ticking for Big Tech to Make AI Pay - WSJ",
+            "URL": "https://www.wsj.com/tech/ai/the-clock-is-ticking-for-big-tech-to-make-ai-pay-b5048a8e",
+            "AI_Summary": "",
+            "Content": "The biggest tech companies are spending a fortune on AI now. They, and their shareholders, will be paying for it for years to come.\n\nEarnings reports from Microsoft, Amazon.com, Meta Platforms and Google parent Alphabet on Wednesday all showed the companies continuing on a path of blowout capital expenditures. A collective $133 billion went out the door during the first quarter, up about 70% from a year earlier. The four are now on track to spend a combined $725 billion this year, according to updated capital-spending projections issued with Wednesday’s reports.\n\nThe sharp spending growth is driving another important number higher as well. Depreciation charges surged at all four companies, totaling $41.6 billion for the most recent quarter.\n\nWhen companies make capital investments, they don’t count the outlays immediately as expenses. Rather, these capital assets have to be depreciated over a period of time. So the impact on profits is delayed. But a multitrillion-dollar bill will have to wash through in coming years, taking a bite out of reported profits.\n\nAnd the impact of the past few years’ spending is already growing fast—all the more so since the lifespan of AI chips and servers is relatively short compared with other types of assets. Microsoft, Amazon, Meta and Google all depreciate their server equipment over five to six years. This means the record amount of capex being spent now will be charged against their earnings over the next several years.\n\nAnat Ashkenazi, Alphabet’s finance chief, acknowledged on a call with analysts Wednesday that depreciation would put pressure on profits. She said at an investor conference in March that even with Google’s scale, it was “not a small number to offset.”",
             "Source": "WSJ",
             "Language": "en"
         },
