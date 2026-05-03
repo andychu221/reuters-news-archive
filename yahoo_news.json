@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-03T16:40:12.524Z",
-  "total_news_count": 384,
+  "last_updated": "2026-05-03T17:00:31.828Z",
+  "total_news_count": 385,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-04",
+      "Time": "00:47:00",
+      "Source": "Yahoo Finance",
+      "Title": "Jensen Huang Just Announced Something Big. Here's What It Means for Nvidia Stock.",
+      "URL": "https://finance.yahoo.com/m/5ff23f05-c933-3e2f-94e3-46fa41e6408d/jensen-huang-just-announced.html",
+      "Content": "If there's one company that's done more for artificial intelligence (AI) than any other, it's probably Nvidia (NASDAQ: NVDA) . Nvidia hasn't just developed powerful GPU processors that can handle the massive computing requirements of AI; it has built an entire AI-friendly ecosystem of platforms, products, and AI architecture.\n\nSo it shouldn't come as a surprise to anyone that Nvidia CEO Jensen Huang is already looking forward to the next big thing: a computing revolution that could make Nvidia's current top-of-the-line GPUs look like a 1980s-era pocket calculator by comparison. I'm talking about quantum computing.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nGetting in on the ground floor\n\nQuantum computing -- which replaces traditional computing's binary bits of 0s and 1s with \"qubits\" that can be both 0s and 1s simultaneously -- is incredibly powerful. In a recent test, a 105-qubit quantum computer solved a math problem in less than five minutes that would have taken the world's fastest supercomputer over 10 septillion years.\n\nThe thing is, right now quantum computers are massive, unreliable, expensive, and impossible to use without specialized knowledge . And although Huang knows that no Nvidia GPU can match a quantum chip's processing power, Nvidia can help them become more practical.\n\nThat's why Huang just announced that Nvidia is releasing the world's first open-source quantum AI models, dubbed Nvidia Ising. They're designed to help quantum processors run useful applications at scale.\n\n\"AI is essential to making quantum computing practical,\" said Huang. \"With Ising, AI becomes the control plane -- the operating system of quantum machines -- transforming fragile qubits to scalable and reliable quantum-GPU systems.\"\n\nPlenty of companies like Rigetti Computing and IonQ are working on increasing the speed and accuracy of quantum computers. Huang is wise not to try to join that fight. But by creating the tools to bring quantum computing into the mainstream, Nvidia is guaranteeing itself a seat at the table. And that should pay off nicely for Nvidia shareholders down the road.",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-05-03",
