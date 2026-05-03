@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-03T15:40:07.365Z",
-  "total_news_count": 375,
+  "last_updated": "2026-05-03T16:01:02.152Z",
+  "total_news_count": 377,
   "news": [
+    {
+      "Ticker": "QCOM",
+      "Date": "2026-05-03",
+      "Time": "23:51:09",
+      "Source": "Yahoo Finance",
+      "Title": "Jim Cramer Says “QUALCOMM Was Considered More of a Niche Cell Phone Play, and No Longer”",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-qualcomm-considered-155109009.html",
+      "Content": "QUALCOMM Incorporated (NASDAQ: QCOM ) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout . Cramer highlighted the company’s latest deal with a hyperscaler, as he said:\n\nQUALCOMM, okay, this one was up 15% today. It had been an out-of-favor semi. Now, it’s in favor. They just landed a big account with a hyperscaler. We don’t know which one, but we do know that QUALCOMM was considered more of a niche cell phone play, and no longer.\n\nPhoto by Adam Nowakowski on Unsplash\n\nQUALCOMM Incorporated (NASDAQ:QCOM) supplies wireless technologies, chips, and software for mobile, automotive, and IoT applications. During the April 7 episode, a caller asked whether the stock was a good buy at the level it was at the time, and Cramer replied:\n\nNo. No, we don’t want to, but why don’t you just go buy Arm? I mean, I think Arm’s much better than Qualcomm. Qualcomm, I think, is making a series of missteps. Arm is making a series of good steps.\n\nWhile we acknowledge the potential of QCOM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nDisclosure: None. <a href=\"https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:Follow Insider Monkey on Google News;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"{\"yLinkElement\":\"context_link\",\"yModuleName\":\"co",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-03",
+      "Time": "23:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "3 Quantum Computing Stocks That Have Massive Upside in May",
+      "URL": "https://finance.yahoo.com/m/77b56934-e958-36e5-8e74-7ad7fc78f323/3-quantum-computing-stocks.html",
+      "Content": "Quantum computing isn't a faraway technology that has no implications for modern computing practices. Everyone knows it's coming, and there are several applications where quantum computing technology is being deployed right now. I think there are a handful of quantum stocks that are incredible buys right now, and investors should consider adding to them in May.\n\nOn my short list, I've got IonQ (NYSE: IONQ) , D-Wave Quantum (NYSE: QBTS) , and Nvidia (NASDAQ: NVDA) (yes, Nvidia), and all of them have big upside in the coming months and beyond.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nIonQ\n\nIonQ is probably the most popular pure-play quantum computing company out there. It has gained popularity due to its impressive technology. IonQ holds the world record for the most accurate quantum computer, and is significantly ahead of many of its peers in this important factor.\n\nThe company was also recently selected as a recipient of one of the government's DARPA (Defense Advanced Research Projects Agency) contracts. Along with other contract winners, this puts IonQ's technology on the fast track to be deployed to military applications, which is a major opportunity for quantum computing.\n\nAll of this bodes well for IonQ's future and will give it the resources to continue pursuing its vision of quantum technology. IonQ isn't anywhere close to profitable yet, so it needs all of the funding it can get to pursue its goals and fend off other, well-funded quantum computing competitors . I think IonQ is a phenomenal quantum investment. However, investors need to be patient as it will still be several years before viable quantum computing hits the mainstream.\n\nD-Wave Quantum\n\nWhile IonQ is pursuing a general-purpose quantum computer, D-Wave Quantum is working on more specialized ones. These devices use a technique known as quantum annealing, which looks for the lowest-energy state in the system to find the optimal answer. These devices are suited for optimization problems, such as logistic network analysis and schedule creation, two tasks that are already being tackled in the real world.\n\nIf D-Wave can continue growing its footprint in the manufacturing world with purpose-built quantum computers that are relevant now, it can become a viable business in the near future. Right now, it's still quite unprofitable, with its revenue only coming in at $24.6 million in 2025 versus total operating expenses of $121 million. It's going to take a bit more adoption before it becomes a viable business, but I have confidence it will, making it a solid quantum stock pick.\n\nStory Continues\n\nNvidia\n\nNvidia may not be the first company you think of when discussing quantum computing stocks. In fact, it's not even building a quantum processing unit. Instead, it believes the future is a hybrid approach, where quantum computers and existing accelerated computing infrastructure work in tandem to optimize computing solutions.\n\nThe semiconductor giant is releasing several tools to ensure that its computing units are the ideal choice for the traditional computing side of the hybrid operation. It released an AI model that helps with quantum error correction , has adapted its CUDA software to have quantum-specific models (CUDA-Q), and launched NVQLink, which allows quantum computers to plug into existing accelerated computing networks.\n\nAll of this adds up to a company that's capitalizing on the current AI build-out while positioning itself for a quantum future. With Nvidia still slated to be a major beneficiary of the AI arms race, I think that makes it an excellent buy now. Couple that with a smart and reasonable quantum computing strategy, and I think Nvidia is one of the best buys in the entire market.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-05-03",
@@ -33,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMZN, INTC",
+      "Ticker": "NVDA, AMZN, INTC",
       "Date": "2026-05-03",
       "Time": "23:00:00",
       "Source": "Yahoo Finance",
