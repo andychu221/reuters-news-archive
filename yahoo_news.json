@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-03T20:00:39.454Z",
-  "total_news_count": 403,
+  "last_updated": "2026-05-03T20:15:19.076Z",
+  "total_news_count": 404,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-05-04",
+      "Time": "03:54:00",
+      "Source": "Yahoo Finance",
+      "Title": "CoreWeave's Next Earnings Report: 3 Things That Could Make -- or Break -- the Stock",
+      "URL": "https://finance.yahoo.com/m/435ceee9-9a5e-32ca-af09-e1267a889c64/coreweave%27s-next-earnings.html",
+      "Content": "Earnings season can sometimes be overwhelming. Companies beat estimates, miss expectations, and update guidance. But for some businesses, those numbers don't tell the full story.\n\nThat's the case with CoreWeave (NASDAQ: CRWV) . It isn't like most well-established tech companies. It's still in build mode, spending heavily to scale infrastructure for the AI boom.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nSo, the real question for the upcoming earnings report -- due May 7 -- isn't \"How much did the company earn?\" The more relevant question is this: Is it delivering what it promised? Here are three things investors should be watching.\n\n1. Are contracts turning into real revenue?\n\nCoreWeave has already done good work in securing demand. The company has signed tens of billions of dollars in long-term contracts ($66.8 billion in revenue backlog as of the fourth quarter of 2025) with major artificial intelligence (AI) players, giving it strong visibility into future growth. But backlog alone doesn't create value.\n\nIt only matters if CoreWeave can turn those contracts into capacity, and then into revenue . This is where execution becomes critical. Investors should look for steady quarter-over-quarter growth, signals that deployments are running on schedule, and any indication of delays. This week's report will be one look at these things.\n\n2. Is the company growing more efficiently over time?\n\nOne of the biggest challenges with CoreWeave's business model is the high cost of scaling. It needs to invest heavily in GPUs, data centers, power, and networking to support growing demand.\n\nBut at this stage, investors are no longer just looking for growth. They want to see early signs of efficiency. The key question is whether each new dollar of investment is generating more value than previous ones.\n\nIf capital spending stabilizes while revenue continues to grow, it suggests the model is becoming more scalable. Improvements in utilization and deployment efficiency would reinforce that view. Investors should also track margins trend in earnings announcements.\n\n3. Is the customer base getting more diversified?\n\nToday, CoreWeave relies heavily on a small number of large customers. That's normal for a company serving the first wave of AI demand.\n\nBut over time, that concentration, if unmanaged, becomes a risk. Hence, the next phase of growth should show a broader customer base, expansion into new industries, and deeper relationships beyond just a few key clients.\n\nStory Continues\n\nThis matters because customer mix ultimately determines bargaining power. A diversified base creates stability and pricing flexibility, while concentration can shift leverage toward customers.\n\nIn short, keep an eye on new customer announcements in the next earnings report.\n\nWhat does it mean for investors?\n\nCoreWeave is experiencing massive demand growth, but can it deliver at scale? Can it grow efficiently? Can it build a durable customer base?\n\nIf the answer to all those is yes, the company can move closer to becoming a core piece of the AI economy. If not, the risks become much harder to ignore.\n\nFor investors, the coming earnings release will provide some hints on the company's progress on those fronts. If the progress is positive, it will strengthen the long-term case for holding the stock.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ON, NVDA",
       "Date": "2026-05-04",
       "Time": "03:50:10",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO, AMZN",
+      "Ticker": "INTC, NVDA, AVGO, AMZN",
       "Date": "2026-05-04",
       "Time": "03:27:00",
       "Source": "Yahoo Finance",
