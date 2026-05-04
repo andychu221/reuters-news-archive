@@ -1,9 +1,39 @@
 {
-  "last_updated": "2026-05-04T17:40:24.954Z",
-  "total_news_count": 513,
+  "last_updated": "2026-05-04T18:01:02.317Z",
+  "total_news_count": 518,
   "news": [
     {
-      "Ticker": "META, GOOGL",
+      "Ticker": "QCOM",
+      "Date": "2026-05-05",
+      "Time": "01:48:08",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Poaches Second Qualcomm Executive in AI Talent Push",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-poaches-second-qualcomm-executive-174808614.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ) appointed former Qualcomm executive Alex Katouzian as executive vice president and general manager of Client Computing and Physical AI, marking another senior hire from a key chip rival.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nKatouzian will join Intel this month and report directly to CEO Lip-Bu Tan. He previously served as executive vice president and group general manager of mobile, compute and extended reality at Qualcomm Technologies.\n\nIntel said Katouzian will help align its client computing business with physical AI systems, including robotics, autonomous machines and other AI devices. The appointment suggests Intel is looking to broaden its PC business into faster-growing AI hardware markets.\n\nThe hire follows Intel's January appointment of former Qualcomm executive Eric Demers as senior vice president of GPU architecture.\n\nIntel also named Pushkar Ranade chief technology officer, making permanent a role he had held on an interim basis. Ranade will also remain chief of staff to Tan.\n\nThe leadership changes come as Intel works to improve investor confidence and reposition its business around AI-related growth opportunities. The next catalyst will be how quickly the new team can translate strategy into product momentum and market share gains.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-05-05",
+      "Time": "01:31:21",
+      "Source": "Yahoo Finance",
+      "Title": "Morgan Stanley Lifts Targets on Semiconductor Stocks",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-lifts-targets-semiconductor-173121215.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMorgan Stanley is leaning further into the semiconductor trade, raising price targets across several names as the tone around the sector keeps improving during earnings season.\n\nThe bank lifted targets on GlobalFoundries ( NASDAQ:GFS ) to $58 from $47, IonQ ( NYSE:IONQ ) to $47 from $38, AMD ( NASDAQ:AMD ) to $360 from $255, Microchip Technology ( NASDAQ:MCHP ) to $92 from $69, and Navitas ( NASDAQ:NVTS ) to $12.50 from $4.50. The message behind the moves is simple, the chip market is not just holding up, it is starting to broaden out.\n\nWarning! GuruFocus has detected 9 Warning Signs with GFS.\n\nIs GFS fairly valued? Test your thesis with our free DCF calculator.\n\nFor GlobalFoundries, the optimism is tied to potential pricing gains in trailing edge foundry and growing interest in areas like silicon photonics. AMD still has solid demand backing it, although Morgan Stanley is being a bit careful on how quickly GPU revenues ramp later in the year. Navitas is a different story. The stock is already up more than 140% this year and trading near 33x forward sales, which the bank sees as leaving very little margin for error despite decent execution so far.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-05",
+      "Time": "01:21:15",
+      "Source": "Yahoo Finance",
+      "Title": "How Intel Stock More Than Doubled Last Month",
+      "URL": "https://finance.yahoo.com/m/4c96cb32-b6c6-39ff-a1a2-e57895303a6b/how-intel-stock-more-than.html",
+      "Content": "The stock market soared last month, as the S&P 500 (SNPINDEX: ^GSPC) index gained 10.4% in April. But some stocks rose even higher. For example, Intel (NASDAQ: INTC) shares rose 114.1% in April 2026, according to data from S&P Global Market Intelligence .\n\nIt takes a village to raise a child, and it takes several catalysts to double a classic semiconductor stock in 30 days or less. On the other hand, all of Intel's tailwinds can be traced back to the ongoing artificial intelligence (AI) boom.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nIntel's April hat trick of good news\n\nIn my eyes, Intel's April run boils down to three separate (but related) events:\n\nOn April 9, Intel's Foundry-branded chip manufacturing services scored a couple of massive wins. The unit signed a long-term partnership with Tesla (NASDAQ: TSLA) , making Intel a founding partner of the upcoming Terafab chip-making facility. At the same time, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) committed to using Intel Xeon processors and jointly developed accelerators in Google Cloud's AI operations. Intel's stock rose 10.5% that week.\n\nThe big boom came on April 23, when Intel crushed Wall Street's targets in its first-quarter report. Revenue grew 7% year over year to $13.6 billion while earnings swung to an adjusted profit of $0.29 per share. Analysts had expected earnings near $0.02 per share on sales in the neighborhood of $12.4 billion. The Data Center and AI division posted 22% revenue growth; Foundry sales increased by 16%. Intel's stock skyrocketed 23.6% the next day.\n\nFinally, Intel confirmed that demand for AI chips is so high that customers are paying top dollar for chips that failed parts of the quality testing. The company can disable chip sections with significant manufacturing errors and still find customers willing to pay a premium for the working sections. In other words, Intel is making money from imperfect wafers formerly destined for the scrap heap. This revelation was good for another 12.1% stock jump on April 29.\n\nAfter a 400% rally, Intel stock is still a relative bargain\n\nIntel's turnaround effort is paying off . As of this writing on May 4, the stock has bounced 412% from the 52-week lows of May 2025. The stock has outperformed arch rivals (and fellow market-beaters) Advanced Micro Devices (NASDAQ: AMD) and Nvidia (NASDAQ: NVDA) over the last year:\n\nStory Continues\n\nINTC data by YCharts\n\nEven so, Intel's stock is priced at 9.0 times trailing sales while AMD and Nvidia trade at 16.0 and 30.3 times sales, respectively. I'm a happy shareholder as Intel's changing business plan helps it capitalize on unprecedented chip demand from AI customers.\n\nIt took Intel's stock more than 25 years to eclipse the all-time peak prices of the dot-com era, but now it's done.\n\nAnd I expect the success story to continue from here.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD, META, GOOGL",
       "Date": "2026-05-05",
       "Time": "01:21:08",
       "Source": "Yahoo Finance",
@@ -13,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "QCOM, INTC",
       "Date": "2026-05-05",
       "Time": "01:05:24",
       "Source": "Yahoo Finance",
@@ -33,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "NVDA, GOOGL",
       "Date": "2026-05-05",
       "Time": "00:58:32",
       "Source": "Yahoo Finance",
@@ -213,6 +243,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMD",
+      "Date": "2026-05-05",
+      "Time": "00:00:03",
+      "Source": "Yahoo Finance",
+      "Title": "Advanced Micro Devices (AMD) is a Great Momentum Stock: Should You Buy?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-great-160003224.html",
+      "Content": "Momentum investing is all about the idea of following a stock's recent trend, which can be in either direction. In the \"long context,\" investors will essentially be \"buying high, but hoping to sell even higher.\" And for investors following this methodology, taking advantage of trends in a stock's price is key; once a stock establishes a course, it is more than likely to continue moving in that direction. The goal is that once a stock heads down a fixed path, it will lead to timely and profitable trades.\n\nWhile many investors like to look for momentum in stocks, this can be very tough to define. There is a lot of debate surrounding which metrics are the best to focus on and which are poor quality indicators of future performance. The Zacks Momentum Style Score, part of the Zacks Style Scores, helps address this issue for us.\n\nBelow, we take a look at Advanced Micro Devices (AMD) , which currently has a Momentum Style Score of A. We also discuss some of the main drivers of the Momentum Style Score, like price change and earnings estimate revisions.\n\nIt's also important to note that Style Scores work as a complement to the Zacks Rank, our stock rating system that has an impressive track record of outperformance. Advanced Micro Devices currently has a Zacks Rank of #2 (Buy). Our research shows that stocks rated Zacks Rank #1 (Strong Buy) and #2 (Buy) and Style Scores of \"A or B\" outperform the market over the following one-month period.\n\nYou can see the current list of Zacks #1 Rank Stocks here >>>\n\nSet to Beat the Market?\n\nIn order to see if AMD is a promising momentum pick, let's examine some Momentum Style elements to see if this chipmaker holds up.\n\nLooking at a stock's short-term price activity is a great way to gauge if it has momentum, since this can reflect both the current interest in a stock and if buyers or sellers have the upper hand at the moment. It's also helpful to compare a security to its industry; this can show investors the best companies in a particular area.\n\nFor AMD, shares are up 3.66% over the past week while the Zacks Computer - Integrated Systems industry is up 1.46% over the same time period. Shares are looking quite well from a longer time frame too, as the monthly price change of 65.77% compares favorably with the industry's 16.5% performance as well.\n\nWhile any stock can see its price increase, it takes a real winner to consistently beat the market. That is why looking at longer term price metrics -- such as performance over the past three months or year -- can be useful as well. Shares of Advanced Micro Devices have increased 72.97% over the past quarter, and have gained 264.92% in the last year. On the other hand, the S&P 500 has only moved 4.43% and 30.47%, respectively.\n\nStory Continues\n\nInvestors should also take note of AMD's average 20-day trading volume. Volume is a useful item in many ways, and the 20-day average establishes a good price-to-volume baseline; a rising stock with above average volume is generally a bullish sign, whereas a declining stock on above average volume is typically bearish. Right now AMD is averaging 39,735,608 shares for the last 20 days..\n\nEarnings Outlook\n\nThe Zacks Momentum Style Score encompasses many things, including estimate revisions and a stock's price movement. Investors should note that earnings estimates are also significant to the Zacks Rank, and a nice path here can be promising. We have recently been noticing this with AMD.\n\nOver the past two months, 6 earnings estimates moved higher compared to none lower for the full year. These revisions helped boost AMD's consensus estimate, increasing from $6.70 to $6.80 in the past 60 days. Looking at the next fiscal year, 6 estimates have moved upwards while there have been no downward revisions in the same time period.\n\nBottom Line\n\nGiven these factors, it shouldn't be surprising that AMD is a #2 (Buy) stock and boasts a Momentum Score of A. If you're looking for a fresh pick that's set to soar in the near-term, make sure to keep Advanced Micro Devices on your short list.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NXPI",
       "Date": "2026-05-05",
       "Time": "00:00:02",
@@ -233,7 +273,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "CRUS",
+      "Ticker": "QCOM, ADI, CRUS",
       "Date": "2026-05-04",
       "Time": "23:55:00",
       "Source": "Yahoo Finance",
@@ -273,7 +313,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "LRCX",
+      "Ticker": "AVGO",
+      "Date": "2026-05-04",
+      "Time": "23:23:00",
+      "Source": "Yahoo Finance",
+      "Title": "Credo Technology Stock Up 28% YTD: Is There More Upside Ahead?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-stock-28-ytd-152300025.html",
+      "Content": "Credo Technology Group Holding Ltd CRDO has been on an impressive run in 2026, with the stock climbing roughly 28.2% year to date. The surge has been buoyed by the AI infrastructure cycle that is driving demand for high-speed, energy-efficient data center connectivity solutions.\n\nCredo is a leading provider of high-speed connectivity solutions for the AI infrastructure. At the core of Credo’s business is its Serializer/Deserializer (SerDes) and Digital Signal Processor (“DSP”) technology stack. Leveraging this foundation, Credo offers a diversified suite of solutions, including integrated circuits (ICs), retimers, optical DSPs, Active Electrical Cables (AECs), SerDes chiplets and SerDes IP licensing.\n\nCRDO’s focus on high-performance, energy-efficient connectivity solutions gives it strategic relevance as hyperscalers and cloud service providers overhaul their network architectures.\n\nBut after such a sharp move, the obvious question is: is there still meaningful upside left?\n\nLet’s dig deeper to find out.\n\nMultiple Tailwinds Offer CRDO Long Runway for Growth\n\nAECs are the primary growth engine for CRDO as they now play an increasingly critical role in AI-driven networking deployments. According to Credo, adoption of zero-flap AECs is accelerating because they deliver up to 1,000x higher reliability while consuming roughly 50% less power compared with optical alternatives. These advantages are particularly valuable in large XPU clusters, where network failures can disrupt operations and lead to high costs.\n\nManagement added that the industry was still in the early stages of AEC adoption, implying a long runway for growth as AI infrastructure deployments accelerate.\n\nCredo’s hyperscaler traction is central to its AEC strength. Three hyperscalers each contributed more than 10% of total revenues in the last reported quarter, reflecting strong adoption of Credo’s high-reliability AEC solutions. Credo has also secured a fifth hyperscaler customer, further strengthening its position within the global cloud ecosystem. Beyond the traditional hyperscalers, Credo is also seeing increasing demand from emerging Neocloud providers.\n\nApart from AEC, CRDO is now focusing on the IC portfolio (retimers and DSPs). Credo’s PCIe retimer program remains on track for design wins in fiscal 2026 and revenue contributions in the next fiscal year. Also, PCIe Gen6 AECs are sampling now and slated for mass production in the first half of fiscal 2027.\n\nImage Source: Zacks Investment Research\n\nGross margins have been improving. The long-term non-GAAP gross margin framework remains 63%-65%, with recent quarters running at or above the top end with the fiscal fourth quarter guided to 64%-66%.\n\nStory Continues\n\nFrequent product launches (Cardinal optical DSP, Robin optical DSP family and Blue Heron) are expected to aid CRDO in expanding its market share moving forward. CRDO is increasing its focus on three new product families that broaden the total addressable market and boost the long-term growth strategy. These include Zero-Flap optics, Active Linear Cables and OmniConnect gearboxes. CRDO recently announced the general availability of next-generation 800G 2×DR4 ZF optical transceivers, designed to eliminate optical link flaps that often disrupt large-scale AI infrastructure.\n\nCRDO’s M&A to Boost Competitive Edge\n\nApart from organic growth, CRDO is now ramping up its M&A efforts to gain an edge against rivals. After acquiring high-speed connectivity IP innovator CoMira Solutions and microLED technology firm, Hyperlume, CRDO recently announced a deal to acquire DustPhotonics for $750 million (cash plus stock and performance-based incentives). The company will bring Silicon Photonics Photonic Integrated Circuit (SiPho PIC) capabilities or optical transceivers in-house.\n\nThe deal accelerates the optical roadmap, reduces supply dependence, lowers costs at scale and broadens its footprint within the optical industry. This addition, coupled with ZF Optical Transceivers and optical DSPs, Credo expects optical revenues to exceed $500 million in fiscal 2027. The deal is projected to close by the second quarter of calendar 2026 and be accretive to non-GAAP EPS by fiscal 2027.\n\nThe company remains “well capitalized” to continue to fuel the next leg of growth, while maintaining a considerable cash buffer. Credo’s $1.3 billion strong cash position enables it to continue investments in product innovation and pursue accretive M&A. This also continues to help CRDO deepen its technology moat and broaden the addressable market amid increasing competitive pressure.\n\nHowever, macroeconomic uncertainties, exposure to the AI investment cycle amid increasing market competition from the likes of Broadcom AVGO, Marvell Technology MRVL and Astera Labs ALAB may impact CRDO’s growth trajectory. Customer concentration is also a concern.\n\nCRDO Stock vs. Peers\n\nThough CRDO has gained 28.2% year to date, it is still below the Electronic-Semiconductors gain of 34%. The broader Computer and Technology sector and the S&P 500 are up 10.9% and 6.5%, respectively.\n\nPrice Performance\n\nMRVL, ALAB and AVGO stock prices are up 94.1%, 21.9% and 21.7%, respectively.\n\nWhat to Make of CRDO’s Premium Valuation?\n\nIn terms of the forward 12-month price/earnings ratio, CRDO is trading at 39.29, higher than the Electronic-Semiconductors sector’s multiple of 33.83.\n\nThe premium appears justified given the company’s explosive revenue growth, strong profitability, expanding hyperscaler relationships and growing exposure to the rapidly scaling AI data center market.\n\nIn comparison, Broadcom trades at a forward 12-month P/S multiple of 28.79, while Astera Labs and Marvell are trading at a multiple of 75.26 and 39.19, respectively.\n\nWhy CRDO Still Has Room to Run\n\nAt present, CRDO flaunts a Zacks Rank #1 (Strong Buy).\n\nThe company is aligned with one of the most powerful trends in technology, the rise of AI-driven infrastructure. While risks around competition, customer concentration and valuation persist, the long-term growth story seems compelling.\n\nDespite near-term challenges, the stock still appears to offer attractive upside for those willing to ride the volatility.\n\nYou can see the complete list of today’s Zacks #1 Rank stocks here.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMAT, LRCX",
       "Date": "2026-05-04",
       "Time": "23:22:00",
       "Source": "Yahoo Finance",
