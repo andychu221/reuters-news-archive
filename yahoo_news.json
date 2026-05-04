@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-04T06:15:10.456Z",
-  "total_news_count": 415,
+  "last_updated": "2026-05-04T06:40:10.643Z",
+  "total_news_count": 416,
   "news": [
+    {
+      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Date": "2026-05-04",
+      "Time": "14:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "This Major Tech Stock Could Be the Biggest Loser From AI",
+      "URL": "https://finance.yahoo.com/m/2b2847c9-27fd-3366-a817-e00a85f59f0c/this-major-tech-stock-could.html",
+      "Content": "In the past few days after the four biggest AI \"hyperscalers\" reported earnings April 29, Meta Platforms (NASDAQ: META) stock has gotten hammered. The shares have declined by about 9% since then and are down 7.8% year to date.\n\nMeanwhile, other AI stocks are up. Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) shares have gained 10% since the company reported earnings on Wednesday, and Amazon (NASDAQ: AMZN) is up 2% in that time frame. Microsoft (NASDAQ: MSFT) shares also declined after earnings, but not as severely as Meta.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nOut of the four major AI stocks that reported earnings last week, Alphabet seems to be separating itself from the rest of the pack, while Meta Platforms risks falling behind.\n\nWhy is Meta stock struggling? Let's look at a few reasons why Meta Platforms might become the biggest loser in the AI race.\n\nToo much AI capex, too little ROI\n\nThe biggest reason for Meta stock's recent decline is that investors are spooked about the company's massive AI capex spending. On its April 29 earnings call, Meta announced that it expects to spend $125 billion to $145 billion on capital expenditures in 2026, up from $115 billion to $135 billion.\n\nThe company claims that it's using AI to improve the performance of its content recommendations, optimize advertising, and boost productivity. On the recent earnings call about first-quarter 2026 results, CEO Mark Zuckerberg said, \"We're seeing more and more examples where one or two people are building something in a week that would have previously taken dozens of people months.\"\n\nMeta is also selling AI glasses that seem to be gaining popularity -- Zuckerberg said that the number of daily users for Meta AI glasses has tripled year over year. But none of this is reassuring enough to investors who worry that the company won't recoup its AI capex costs.\n\nMeta: Falling behind other AI companies?\n\nHere's the problem with Meta's AI strategy: The company is a buyer, not a seller of AI services. Other AI stocks like Alphabet and Amazon are doing well because those companies sell AI cloud services to other companies. Microsoft also sells AI cloud services, even though its Copilot AI product doesn't seem to be as popular and successful as Google Gemini tools.\n\nCompared to these other higher-performing AI stocks, Meta doesn't yet have a clear path for how it's making money with AI. Meta might be developing great AI capabilities behind the scenes to improve its platforms and processes -- but is that enough to generate significant ROI on $125 billion per year?\n\nStory Continues\n\nInvestors aren't convinced. Meta's AI investments are highly speculative and might not pay off anytime soon. On the most recent earnings call, when analysts asked about monetization of Meta's AI models, Meta executives didn't offer a lot of specific details.\n\nMeta Platforms still has a massive worldwide user base and a highly lucrative advertising business. But investors who buy Meta for its AI growth story might be disappointed. Out of all the major hyperscaler AI stocks, Meta could be the biggest loser.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, TSM",
       "Date": "2026-05-04",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, NVDA",
+      "Ticker": "MSFT, GOOGL, INTC, NVDA",
       "Date": "2026-05-04",
       "Time": "09:33:00",
       "Source": "Yahoo Finance",
