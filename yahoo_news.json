@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T14:20:27.682Z",
+  "last_updated": "2026-05-04T14:41:02.835Z",
   "total_news_count": 463,
   "news": [
     {
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, NVDA",
+      "Ticker": "MSFT, GOOGL, AMZN, AAPL, NVDA",
       "Date": "2026-05-04",
       "Time": "21:35:48",
       "Source": "Yahoo Finance",
@@ -163,7 +163,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, AVGO, MU",
+      "Ticker": "META, AAPL, AVGO, MU",
       "Date": "2026-05-04",
       "Time": "20:34:00",
       "Source": "Yahoo Finance",
