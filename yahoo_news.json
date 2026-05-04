@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-04T01:44:44.907Z",
-  "total_news_count": 412,
+  "last_updated": "2026-05-04T02:00:42.073Z",
+  "total_news_count": 413,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-04",
+      "Time": "09:33:00",
+      "Source": "Yahoo Finance",
+      "Title": "3 Surprising Quantum Computing Stocks Robinhood Investors Love",
+      "URL": "https://finance.yahoo.com/m/c52296eb-f0e6-3824-9bc6-0a3e94732568/3-surprising-quantum.html",
+      "Content": "Quantum computing is moving closer to real-world applications, and the pace of technological development -- and the excitement around its possibilities -- has pushed quantum computing stocks to the forefront of many investors' minds.\n\nAnd the payoff for companies getting in on the ground floor of this technology now could be huge. McKinsey estimates that the quantum computing market could be worth $100 billion by 2035.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nA quick peek at the top 10 most popular stocks on Robinhood reveals three tech companies already making big waves in quantum computing: Nvidia (NASDAQ: NVDA) , Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) , and Microsoft (NASDAQ: MSFT) .\n\nHere's why these tech stocks could be the surprise winners in the quantum computing market.\n\nNvidia has the biggest quantum computing potential\n\nNvidia recently made some big news when it announced a collection of open-source artificial intelligence (AI) models, called Ising, that help calibrate quantum computing processors. The company says that Ising results in decoding that is up to 2.5 times faster and 3 times more accurate than traditional methods.\n\nThat's a big deal because one of the biggest hurdles to the real-world applications of quantum computers is that they make many errors.\n\nWith Ising, Nvidia is preparing for a world where hybrid computing -- a mixture of traditional computers and quantum computers -- solves big problems. IBM recently said hybrid computers using central processing units (CPUs), graphics processing units (GPUs), and quantum processing units (QPUs) \"unlock performance and accuracy beyond what any one of them can achieve on their own.\"\n\nThese hybrid computers, powered by Nvidia's advanced GPUs, could be a boon to the company in the years ahead. To make that a reality, releasing Ising to help make quantum computing more efficient helps establish Nvidia as an integral part of future iterations of the tech -- and more GPU sales down the road.\n\nAlphabet's got its own error-reduction strategy\n\nAlphabet is also one of the top 10 most popular stocks on Robinhood, and the company has made significant strides in quantum computing over the past few years.\n\nOne of the most important has been its Willow processor, which Google Quantum Labs debuted at the end of 2024. Willow is a 105-qubit processor that set a new industry benchmark, performing a complex calculation in about five minutes that would take a supercomputer 10 septillion years.\n\nStory Continues\n\nWhat's even more impressive is that when additional qubits are added to Willow, the error rate actually decreases rather than increases, making fault-tolerant quantum computers more of a reality.\n\nThat hardware breakthrough was a major deal for the company and the quantum computing industry, and Alphabet recently followed up with its Quantum Echoes algorithm, which demonstrated a 13,000x speed advantage in simulating complex physics. This marked a big step toward practical applications for quantum computers in materials science and chemistry.\n\nWhen you add all of this up and combine it with the fact that Alphabet has a massive research and development budget and $73.3 billion in free cash flow in 2025, it's easy to see how the company can successfully play the long game in quantum computing.\n\nMicrosoft has its own quantum computing strategy\n\nNot to be outdone by its tech rivals, Microsoft has jumped headfirst into quantum computing, too. And one of its biggest breakthroughs came last year when the company announced its Majorana 1 processor, which can create stable, rapid qubits -- a unit of measurement for quantum computers.\n\nThe company says that Majorana 1 will eventually allow the company to reach 1 million qubits on a single processor.\n\nWhat's more, Microsoft has a partnership with IonQ , Rigetti Computing , and others to give customers access to quantum computing services for research. And as quantum computing becomes more useful, Microsoft's Azure Quantum platform could become more of a core service in the coming years.\n\nAnd like Nvidia, Microsoft is working on hybrid computing systems, including a project to have commercial quantum computers working with Microsoft's AI supercomputers by 2029, which \"will be doing calculations that classical machines cannot do,\" according to Zulfi Alam, Microsoft's corporate vice president of quantum.\n\nWith Microsoft, Nvidia, and Alphabet already making big moves in quantum computing -- and benefiting from current AI trends -- these companies are perfectly poised to remain top tech stocks for years to come.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-05-04",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, AMD, INTC",
       "Date": "2026-05-04",
       "Time": "08:53:36",
       "Source": "Yahoo Finance",
