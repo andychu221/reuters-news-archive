@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-04T09:00:45.151Z",
-  "total_news_count": 426,
+  "last_updated": "2026-05-04T09:15:27.506Z",
+  "total_news_count": 427,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-05-04",
+      "Time": "17:04:00",
+      "Source": "Yahoo Finance",
+      "Title": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year.",
+      "URL": "https://finance.yahoo.com/m/fb103b62-fd39-3bb0-a0d5-74dfaa4690c8/want-to-buy-spacex-before-its.html",
+      "Content": "In the past year, the S&P 500 (SNPINDEX: ^GSPC) advanced 27% and the Nasdaq-100 advanced 38%. Those are impressive returns by any standard, but the Ark Venture Fund (NASDAQMUTFUND: ARKVX) soared 67% because it is heavily invested in two private companies: SpaceX and OpenAI.\n\nHere's what investors should know.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nArk Venture Fund has crushed the S&P 500 since its inception\n\nThe Ark Venture Fund is an actively managed closed-end interval fund. The manager, Ark Invest, says it seeks to capture long-term capital appreciation by owning both private and public equities that are relevant to its theme of disruptive innovation.\n\nAs of May 3, the Ark Venture Fund had approximately 80% of its assets invested in private companies, while the remaining 20% were invested in public companies. The top 10 positions are listed by weight below:\n\nSpaceX : 13.8%\n\nOpenAI: 9.2%\n\nKalshi: 4.3%\n\nReplit: 3.8%\n\nAyar Labs: 3.4%\n\nFigure AI: 3.2%\n\nAnthropic : 3%\n\nDatabricks: 2.5%\n\nZipline International: 2.3%\n\nRadiant Industries: 2.1%\n\nThe Ark Venture Fund has returned 152% (28.3% annually) since its inception in August 2022, while the S&P 500 has returned 69% (15.2% annually) during the same period. The primary reason the fund outperformed by more than 80 percentage points is exposure to SpaceX and OpenAI, though exposure to Anthropic has also contributed.\n\nTo elaborate, SpaceX's valuation has increased 730% to $1.25 trillion since Ark first took a stake in the rocket and satellite company in late 2023. Meanwhile, OpenAI's valuation has surged 870% to $852 billion since Ark first took a stake in the artificial intelligence start-up in early 2024.\n\nBoth companies are reportedly planning to list shares in 2026, and the IPOs will likely be catalysts for further price appreciation. Reuters reports that SpaceX is seeking an initial valuation of $1.75 trillion, while OpenAI is seeking an initial valuation of $1 trillion.\n\nThe Ark Venture Fund is relatively risky and somewhat inconvenient\n\nThe Ark Venture Fund is relatively risk and somewhat inconvenient for a few reasons. First, it is an interval fund, meaning investors cannot sell shares at their discretion. Instead, Ark provides liquidity by offering to purchase shares on a quarterly basis. But total redemptions are limited to 5% of outstanding shares each quarter, meaning investors may not be able to sell their entire position in one go.\n\nStory Continues\n\nSecond, the Ark Venture Fund has a minimum investment of $500. While not an enormous sum of money, it still puts the fund out of reach for some potential investors. The fund also has a net expense ratio of 2.9%, meaning shareholders will pay $290 annually on every $10,000 invested.\n\nThird, unlike many closed-end funds, the Ark Venture Fund does not list shares on a stock exchange, nor does Ark intend to list shares on any exchange in the future. Retail investors can only buy shares through two platforms: Titan Investment Management or SoFi Invest. That is somewhat inconvenient for investors who don't already use those trading platforms.\n\nLess risky and more convenient ways to own SpaceX before its IPO\n\nInvestors looking for less risky and more convenient exposure to SpaceX before its IPO have a few options.\n\nThe Baron Partners Fund Retail Shares (NASDAQMUTFUND: BPTRX) has 33% of its assets invested in SpaceX. It is a mutual fund currently open to new investors, but the fund lists its initial minimum allocation at $2,000. Unlike the Ark Venture Fund, the Baron Partners Fund can be sold on any trading day. But the fund still has a very high expense ratio of 2.4%.\n\nAlphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) owned 6.1% of SpaceX as of December 2025, according to Bloomberg. That means its stake is currently worth $76 billion, but if SpaceX goes public at $1.75 trillion, Alphabet's stake will be worth $106 billion. The change in valuation will be reflected in the company's GAAP earnings. Alternatively, Alphabet could sell its stake after the IPO and reinvest the funds in artificial intelligence initiatives.\n\nHere's the big picture: I've discussed three ways investors can get exposure to SpaceX prior to its IPO. The most risky option is the Ark Venture Fund because it's not listed on a U.S. securities exchange and investors have limited opportunities to sell shares. The least risky option is Alphabet because the company has strong growth prospects in its own right.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-04",
       "Time": "16:41:00",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "INTC, NVDA, AVGO",
       "Date": "2026-05-04",
       "Time": "16:26:00",
       "Source": "Yahoo Finance",
