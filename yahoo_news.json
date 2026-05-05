@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T11:01:11.728Z",
+  "last_updated": "2026-05-05T11:15:35.739Z",
   "total_news_count": 628,
   "news": [
     {
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-05",
       "Time": "18:36:00",
       "Source": "Yahoo Finance",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, GOOGL",
+      "Ticker": "INTC, META, GOOGL",
       "Date": "2026-05-05",
       "Time": "18:22:00",
       "Source": "Yahoo Finance",
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MSFT",
+      "Ticker": "AAPL, NVDA, MSFT",
       "Date": "2026-05-05",
       "Time": "18:11:32",
       "Source": "Yahoo Finance",
