@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-05T18:01:05.348Z",
-  "total_news_count": 715,
+  "last_updated": "2026-05-05T18:15:12.124Z",
+  "total_news_count": 716,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-06",
+      "Time": "01:31:00",
+      "Source": "Yahoo Finance",
+      "Title": "Oracle Stock Is Still Down Year to Date, As Many AI Stocks Soar. Here's What's Going On.",
+      "URL": "https://finance.yahoo.com/m/699e4e55-337e-387c-ac4e-d257a7fdcec0/oracle-stock-is-still-down.html",
+      "Content": "The market's enthusiasm for artificial intelligence (AI) has lifted just about every name with a credible foothold in the build-out. Alphabet and Amazon have hit fresh all-time highs as their cloud divisions accelerate. AI chipmaker Nvidia is close to a $5 trillion market capitalization, and Broadcom and Intel have joined the rally; Intel alone climbed 114% in April.\n\nAnd then there is Oracle (NYSE: ORCL) . Shares have rebounded some in the past week, rising about 10%, but they remain far below their 52-week high of more than $345. And even with the stock's recent rebound, it's down more than 6% year to date as of this writing.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThat is an unusual look for a company sitting on more contracted future revenue than just about any rival.\n\nSo what gives? A heavy debt load funding a build-out largely tied to one anchor customer -- a posture that contrasts with the more diversified backlog Amazon described in its latest earnings call.\n\nA backlog like nothing the company has seen\n\nThe most recent quarter -- Oracle's fiscal third quarter of 2026 (the period ended Feb. 28, 2026), reported in March -- was, by the database giant's own description, the strongest in more than 15 years. Total revenue rose 22% to $17.2 billion, with cloud revenue jumping 44% to $8.9 billion. The standout was infrastructure-as-a-service -- Oracle's offering that rents out raw computing power for AI training and inference. That business grew 84% year over year -- an acceleration from 68% in the prior quarter.\n\nThen there is the contract backlog, which Oracle calls remaining performance obligations, or RPO. It ended the quarter at $553 billion, more than four times the level of a year earlier and a $29 billion step-up from just three months prior. For perspective, that backlog is larger than Oracle's entire market capitalization of about $525 billion as of this writing.\n\nAdditionally, Oracle's AI infrastructure revenue alone surged 243% in the quarter.\n\nTurning to profitability, Oracle's gross margin on that capacity came in at 32% -- well ahead of the 30% management had guided to. Further, non-GAAP (adjusted) earnings per share rose 21% to $1.79, and the company nudged its fiscal 2027 revenue forecast to $90 billion from $89 billion. It was Oracle's first quarter since 2009 in which both organic revenue and adjusted earnings per share grew by 20% or more in U.S. dollars.\n\nStory Continues\n\nA build-out funded with debt -- and one anchor tenant\n\nBut here's where many investors likely have concerns.\n\nMost of that swelling backlog ties back to a small group of AI customers, and one looms very large. Oracle's roughly $300 billion, five-year compute deal with OpenAI -- announced last September as part of the Stargate joint venture-- is the linchpin of the bull case and, increasingly, the source of the bear case too.\n\nWhen the Wall Street Journal reported in late April that OpenAI had missed internal revenue and user targets, and that the start-up's chief financial officer had voiced concern about its ability to fund future compute commitments, Oracle shares unsurprisingly fell sharply.\n\nThe other complication is how the build-out is being paid for.\n\nOracle is on track to spend roughly $50 billion in capital expenditures in fiscal 2026, more than double its fiscal 2025 spending .\n\nIt's funding this build-out with the help of significant debt.\n\nOracle's long-term debt sat at about $125 billion exiting the quarter -- and trailing-12-month free cash flow has swung deeply negative as the company pours money into data centers ahead of the revenue.\n\nWith this said, Oracle executive Doug Kehring has emphasized that much of the new AI capacity is supported by customer prepayments or customer-supplied chips, which softens the blow to the balance sheet.\n\nBut this is still a risky setup.\n\nThat backdrop helps explain why the stock has lagged its soaring AI peers. Cloud rivals like Alphabet and Amazon are funding their AI buildouts mostly from internal cash flow, while chip suppliers like Nvidia and Broadcom are selling into the boom rather than borrowing into it.\n\nOracle is doing something ambitious -- and arguably riskier -- by leveraging up to lock in long-dated compute contracts whose economics may or may not play out as projected.\n\nFor investors who believe the AI build-out is still in its early innings, this tension could be the opportunity. After all, the backlog is real -- and demand from AI customers has not yet shown signs of cooling in Oracle's own results. Further, shares now sit well below their September peak last year. But for investors who believe in Oracle and want to buy this dip, being measured makes sense given the risks.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-05-06",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-06",
       "Time": "01:05:00",
       "Source": "Yahoo Finance",
