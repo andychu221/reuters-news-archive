@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T00:37:55.437Z",
-  "total_news_count": 785,
+  "last_updated": "2026-05-06T01:01:43.778Z",
+  "total_news_count": 786,
   "news": [
     {
       "Ticker": "MRVL",
@@ -27,7 +27,7 @@
       "Keywords": "AI infrastructure, data center, server CPU, TAM expansion, revenue growth"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "MU, SNDK",
       "Date": "2026-05-06",
       "Time": "06:43:00",
       "Source": "Yahoo Finance",
@@ -49,6 +49,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "AI turnaround, Terafab project, semiconductor manufacturing, strategic partnership, revenue growth"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-06",
+      "Time": "06:31:00",
+      "Source": "Yahoo Finance",
+      "Title": "CoreWeave Earnings Loom: What Estimates Say",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/coreweave-earnings-loom-estimates-223100284.html",
+      "Content": "The 2026 Q1 earnings season has been very positive so far, with growth for S&P 500 members that have reported so far remaining rock-solid. This week’s reporting docket has several companies related to the AI frenzy on deck, including CoreWeave CRWV. But how do expectations stack up heading into the release?\n\nCoreWeave Earnings\n\nAs a reminder, CRWV is a high-performance cloud provider that gives companies easy access to thousands of world-class chips, enabling them to train complex models faster and cheaper without having to buy and manage the expensive hardware themselves.\n\nThe EPS outlook for CRWV remains cloudy, reflecting significant spending on AI infrastructure to support heavy computing needs. The negative EPS revisions shouldn’t be a focus point for investors to fret over, with its backlog results likely to be the biggest driver behind post-earnings sentiment. Keep in mind that the company’s sales backlog totaled $66.8 billion at the end of its FY25, reflecting a record.\n\nEarnings for the upcoming release are currently forecasted to fall 48% YoY, whereas sales are forecasted to grow by a triple-digit 100%. The company’s sales growth has remained outsized, as shown below.\n\nImage Source: Zacks Investment Research\n\nKeep in mind that CoreWeave and fellow AI favorite NVIDIA NVDA are deeply intertwined through a strategic partnership and a significant ownership stake. The favorable relationship allows CRWV to get its hands on the magical NVIDIA chips before most, which is what CoreWeave’s AI infrastructure is built around. To little surprise, both sales and EPS revisions for NVIDIA concerning its current and next fiscal year continue to show a high level of bullishness, with its results expected later in May.\n\nBottom Line\n\nThe EPS outlook for CoreWeave's CRWV upcoming release remains cloudy, reflecting the significant spending on AI infrastructure to support all the heavy computing needs. However, backlog results will be what investors really care about, letting us know if all the heavy investments will pay off in the future.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA, GOOGL",
