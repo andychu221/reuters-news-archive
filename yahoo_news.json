@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T14:37:54.697Z",
-  "total_news_count": 152,
+  "last_updated": "2026-05-06T14:41:00.495Z",
+  "total_news_count": 158,
   "news": [
     {
       "Ticker": "INTC",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "GOOGL, AMZN, INTC",
       "Date": "2026-05-06",
       "Time": "21:37:36",
       "Source": "Yahoo Finance",
@@ -63,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-06",
+      "Time": "21:17:30",
+      "Source": "Yahoo Finance",
+      "Title": "Anthropic, Google Deal Highlights Growing AI Compute Demand",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/anthropic-google-deal-highlights-growing-131730256.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAnthropic (ANTHRO) is going all in on compute, reportedly lining up a massive $200 billion commitment to Google ( NASDAQ:GOOG ) over the next 5 years for cloud services and AI chips.\n\nThat kind of number tells you how intense the demand has become. The deal could make Anthropic one of Google Cloud's biggest customers, potentially accounting for more than 40% of its revenue backlog. It is essentially about locking in access to Google's TPU capacity well ahead of time, with deployment expected to start scaling around 2027 as usage ramps.\n\nWarning! GuruFocus has detected 8 Warning Signs with WES.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nWhat is driving this is pretty straightforward. Anthropic's Claude models are seeing growing enterprise adoption, and the company needs guaranteed compute to keep up. At the same time, it is not relying on just one provider. Anthropic continues to work with Amazon ( NASDAQ:AMZN ) and Nvidia ( NASDAQ:NVDA ) as well, spreading out its infrastructure bets while still securing large chunks of capacity where it can.",
+      "Language": "en"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-05-06",
       "Time": "21:16:26",
@@ -80,6 +90,56 @@
       "Title": "Apple faces supply strain from strong Mac demand",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-supply-strain-strong-131602172.html",
       "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is starting to feel the strain from strong demand, pulling its highest memory Mac mini and Mac Studio configurations from its online store as supply tightens.\n\nThe 64 GB Mac mini and the 256 GB RAM Mac Studio are no longer available, just days after Apple also removed a lower storage Mac mini option, effectively pushing up the entry price. What this points to is not weak demand, but the opposite. CEO Tim Cook recently said demand for these models has been stronger than expected, especially for Mac mini, which was the top selling desktop in China during the March quarter.\n\nWarning! GuruFocus has detected 1 Warning Sign with LSE:WPM.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe bottleneck is on the supply side. Apple is dealing with limited availability of advanced chip manufacturing nodes, which is restricting how many high end configurations it can produce. Cook noted that supply constraints could last for several months, likely affecting both the current and next quarter as the company works to balance demand.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-06",
+      "Time": "21:15:51",
+      "Source": "Yahoo Finance",
+      "Title": "Medline (MDLN) Launches AI-Powered Mpower Platform to Enhance Healthcare Supply Chain Resiliency",
+      "URL": "https://finance.yahoo.com/sectors/healthcare/articles/medline-mdln-launches-ai-powered-131551532.html",
+      "Content": "Medline Inc. (NASDAQ: MDLN ) is one of the best young stocks to buy and hold for the next decade . On May 4, Medline officially launched Mpower, a cloud-based, AI-powered digital control tower designed to enhance supply chain resiliency for healthcare providers. Developed in collaboration with Microsoft and informed by feedback from US health systems, the platform integrates predictive analytics and workflow automation into a single dashboard.\n\nThis technology allows providers to anticipate potential disruptions, identify at-risk items early, and streamline product substitutions, reducing the operational burden on clinical and supply chain teams. The platform features an integrated AI chat agent that uses Medline Inc.’s (NASDAQ:MDLN) manufacturing and distribution data to offer real-time visibility into inventory and demand forecasts. Mpower is built on Microsoft Azure and integrates with Office 365, ensuring a secure and familiar environment for users with minimal training requirements.\n\nBy automating approval workflows and providing proactive optimization tools, the system aims to help organizations navigate global supply chain volatility more effectively. Early data from the initial release involving ten health systems indicates significant performance improvements, including a more than 50% efficiency gain in order substitution workflows. Additionally, organizations utilizing Mpower alongside Medline’s AutoSub program reported a 1-2% increase in unadjusted fill-rates.\n\nMedline Inc. (NASDAQ:MDLN) is a medical instruments & supplies company that serves hospitals, post-acute facilities, and nursing homes through two segments: Medline Brand and Supply Chain Solutions.\n\nWhile we acknowledge the potential of MDLN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nMedline (MDLN) Launches AI-Powered Mpower Platform to Enhance Healthcare Supply Chain Resiliency\n\nMedline (MDLN) Launches AI-Powered Mpower Platform to Enhance Healthcare Supply Chain Resiliency By automating approval workflows and providing proactive optimization tools, the system aims to help organizations navigate global supply chain volatility more effectively. Early data from the initial release involving ten health systems indicates significant performance improvements, including a more than 50% efficiency gain in order substitution workflows. Additionally, organizations utilizing Mpower alongside Medline’s AutoSub program reported a 1-2% increase in unadjusted fill-rates.\n\nDisclosure: None. <a class=\"link \" href=\"https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFV2x1YzJsa1pYSnRiMjVyWlhrdVkyOXRLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:Follow Insider Monkey on Google News;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"{\"yLinkElement\":\"context_link\",\"yModuleName\":&",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-06",
+      "Time": "21:13:47",
+      "Source": "Yahoo Finance",
+      "Title": "Big Tech is letting the U.S. test AI models before launch",
+      "URL": "https://finance.yahoo.com/m/ad736d76-2750-3071-80a3-1c6d1225b146/big-tech-is-letting-the-u.s..html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ), Microsoft ( NASDAQ:MSFT ) and xAI are giving the U.S. government an early look at their AI models, allowing officials to test how these systems behave before they are released publicly.\n\nThe work is being coordinated through the Commerce Department's Center for AI Standards and Innovation, which will run pre deployment checks and targeted research on these frontier models. The idea is to get a better handle on capabilities and risks early, rather than reacting after launch. With this step, the three companies join OpenAI and Anthropic, which had already agreed to similar arrangements.\n\nWarning! GuruFocus has detected 2 Warning Sign with NVO.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThis is part of a broader shift in how AI is being handled. The government is not just watching from the sidelines anymore, it is getting directly involved in evaluating systems before they go live. The agency has already completed more than 40 such evaluations, including on models that are still unreleased. Microsoft also noted it is expanding similar efforts internationally, working with the U.K.'s AI Security Institute to test safeguards and potential risks.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-06",
+      "Time": "21:13:10",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft may shelve 2030 clean energy target as AI lifts power use, Bloomberg News reports",
+      "URL": "https://finance.yahoo.com/sectors/energy/articles/microsoft-may-shelve-2030-clean-131310252.html",
+      "Content": "May 6 (Reuters) - Microsoft is considering delaying or abandoning its 2030 goal of matching its entire hourly ‌electricity use with renewable energy purchases, Bloomberg News ‌reported on Wednesday, citing people familiar with the matter.\n\nThe expensive and ​energy-intensive push for data centers is reshaping the feasibility of Microsoft's climate commitments that were made before the AI era and rank among the industry's most ambitious targets, the ‌report said.\n\nThe discussions were ⁠ongoing and no final decision has been made, Bloomberg News added.\n\nMicrosoft did not immediately respond ⁠to a Reuters request for comment.\n\nLike rivals Amazon and Alphabet, the Windows maker is spending hundreds of billions of ​dollars to ​build out artificial intelligence ​infrastructure needed to power ‌services such as its Copilot assistant and Azure cloud service.\n\nSome of the new data centers tech companies are developing are expected to have multiple gigawatts of capacity. A single gigawatt is enough to roughly power 750,000 U.S. homes.\n\nThe ‌rush to power those data centers ​has sparked a flurry of ​deals, including those for ​nuclear energy. It has also boosted demand ‌for natural gas, which some ​industry executives have ​said is faster and easier to deploy than renewables.\n\nMicrosoft in 2024 agreed a power deal with Constellation ​Energy to help ‌resurrect a unit of the Three Mile Island ​nuclear plant in Pennsylvania.\n\n(Reporting by Aditya Soni in ​Bengaluru; Editing by Leroy Leo)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-05-06",
+      "Time": "21:12:56",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Develops Advanced AI Assistant for Everyday Tasks",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/meta-develops-advanced-ai-assistant-131256084.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( META , Financials ) is developing a highly personalized artificial intelligence assistant designed to perform everyday tasks for users, according to a report from the Financial Times.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe company is building so-called agentic AI tools powered by its Muse Spark model. The assistant is reportedly being tested internally and is designed to complete more complex actions with less human input than traditional chatbots.\n\nThe report said Meta's new system is intended to compete with OpenClaw, an OpenAI-backed platform capable of connecting software and hardware tools while learning from user activity.\n\nSeparately, The Information reported that Meta is training an internal AI agent codenamed Hatch, with plans to complete testing by the end of June. Meta also aims to integrate AI shopping tools into Instagram before the fourth quarter of 2026.\n\nThe development comes as Meta sharply increases spending on AI infrastructure and products. Last month, the company raised its annual capital expenditure forecast as it continues investing billions into artificial intelligence capabilities.\n\nInvestors are closely watching whether Meta's expanding AI ecosystem can generate stronger engagement and long-term revenue growth while justifying rising spending levels.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-05-06",
+      "Time": "21:11:18",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Stock Slips as Publishers Escalate AI Copyright Fight in New Lawsuit",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-slips-publishers-escalate-131118870.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) slipped about 1% on Tuesday after a group of major publishers filed a federal lawsuit in Manhattan, raising new questions over how the company trained its artificial intelligence systems, according to a court filing.\n\nThe case was brought by Elsevier ( NYSE:RELX ), Macmillan Publishers, Cengage Group, Hachette Livre and McGraw Hill (MH), along with author Scott Turow, who allege Meta ( NASDAQ:META ) used large volumes of copyrighted material without permission to build its Llama AI models. The filing claims the data may have been sourced without proper licensing or authorization.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs RELX fairly valued? Test your thesis with our free DCF calculator.\n\nThe plaintiffs argue that this approach could pressure traditional publishing revenues by enabling AI systems to generate summaries and book-style content that competes directly with original works.\n\nMeta ( NASDAQ:META ) has previously prevailed in a related legal challenge but now faces renewed scrutiny as publishers say the new claims are broader in scope. The company is expected to contest the allegations, setting up another high-stakes courtroom battle over whether AI training on copyrighted material qualifies as fair use in the evolving tech landscape involving Nvidia ( NASDAQ:NVDA ) and Tesla ( NASDAQ:TSLA ).",
       "Language": "en"
     },
     {
