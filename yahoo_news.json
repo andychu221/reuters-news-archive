@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-06T21:40:37.293Z",
-  "total_news_count": 249,
+  "last_updated": "2026-05-06T22:00:44.943Z",
+  "total_news_count": 251,
   "news": [
+    {
+      "Ticker": "AMD, MU",
+      "Date": "2026-05-07",
+      "Time": "05:40:55",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 6: Markets Break New Ground on Hopes for U.S.-Iran Peace Deal",
+      "URL": "https://finance.yahoo.com/m/7fac7e65-4702-32da-a014-0ecd7857f16d/stock-market-today%2C-may-6%3A.html",
+      "Content": "The S&P 500 (SNPINDEX:^GSPC) rose 1.46% to 7,365.12, the Nasdaq Composite (NASDAQINDEX:^IXIC) jumped 2.02% to 25,838.94, and the Dow Jones Industrial Average (DJINDICES:^DJI) gained 1.24% to 49,910.59 as tumbling oil and AI strength lifted major indexes.\n\nMarket movers\n\nAdvanced Micro Devices (NASDAQ:AMD) surged more than 18% after a blowout AI-driven quarter and outlook, while Micron Technology (NASDAQ:MU) extended its gains, taking its market cap to over $750 billion. Corning (NYSE:GLW) jumped on a $500 million AI-infrastructure deal with Nvidia (NASDAQ:NVDA) . Disney (NYSE:DIS) advanced on better-than-expected streaming- and parks-led results.\n\nWhat this means for investors\n\nArtificial intelligence (AI) demand and oil prices again drove markets today, Wednesday. Major indexes reached record highs on easing U.S.-Iran concerns and chip-driven optimism. WTI crude fell about 7% to close at $95 a barrel as hopes that the two sides might agree on a plan to reopen the Strait of Hormuz eased energy pressures.\n\nThe increased risk appetite buoyed semiconductor stocks, helped by AMD’s strong forecast and results. AMD isn’t alone: Some analysts predict this S&P 500 quarterly earnings season will be the strongest since 2021, despite conflict concerns. The S&P 500 has gained almost 8% so far this year, and the Nasdaq is up over 11%.\n\nHowever, there are also correction fears, with commentators drawing parallels with the dot-com bubble and looking for confirmation that the soft-landing narrative remains intact. For investors, cautious optimism continues to reign.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, AMD",
+      "Date": "2026-05-07",
+      "Time": "05:28:56",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 6: AMD Surges After Q1 Beat and Strong Q2 Data Center Outlook",
+      "URL": "https://finance.yahoo.com/m/fa888ec0-1e7e-3b9d-ad51-09a009baf2da/stock-market-today%2C-may-6%3A.html",
+      "Content": "Advanced Micro Devices (NASDAQ:AMD) , a leading CPU and GPU provider for PCs and data centers, closed Wednesday at $421.39, rising 18.61%. The stock moved higher after a Q1 2026 earnings beat and stronger Q2 guidance that underscored robust AI and data center demand. Investors will watching closley on how sustained AI infrastructure spending will support future revenue growth.\n\nThe company’s trading volume reached 85.2 million shares, which is about 113% above compared with its three-month average of 40 million shares.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) climbed 1.46% to 7,365.12, while the Nasdaq Composite (NASDAQINDEX:^IXIC) advanced 2.02% to finish at 25,839. Within semiconductors, industry peers Nvidia (NASDAQ:NVDA) closed at $207.83, up 5.77%, and Intel (NASDAQ:INTC) finished at $113.01, rising 4.49% as investors responded to the AI-focused chip rally.\n\nWhat this means for investors\n\nAMD shares rose sharply after first-quarter results demonstrated strong AI-driven revenue, highlighted by a 57% increase in data center sales. The company reported total revenue of $10.3 billion, up 38% year-over-year, and non-GAAP earnings of $1.37 per share. Guidance for approximately $11.2 billion in second-quarter revenue further signaled robust demand for server CPUs and AI accelerators.\n\nThese results prompted Wall Street to reevaluate AMD’s position in AI computing. Goldman Sachs raised its price target to $450 and emphasized AMD’s potential in enterprise agentic AI. The key question is whether AMD can maintain its second-quarter revenue outlook and continue data center growth, especially as Nvidia sets the pace in GPUs and Intel remains a key competitor for server workloads.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-05-07",
