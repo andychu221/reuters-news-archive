@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-07T12:16:11.926Z",
-  "total_news_count": 316,
+  "last_updated": "2026-05-07T12:32:43.236Z",
+  "total_news_count": 318,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-07",
+      "Time": "20:28:40",
+      "Source": "Yahoo Finance",
+      "Title": "Arm's Record Quarter Isn't Enough After a 100% Rally",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/arms-record-quarter-isnt-enough-122840231.html",
+      "Content": "This article first appeared on GuruFocus .\n\nArm Holdings plc ( NASDAQ:ARM ) fell 5.05% in pre-market trading despite reporting record Q4 fiscal 2026 revenue of $1.49 billion, up 20% year over year and ahead of the $1.47 billion consensus. Non-GAAP EPS of $0.60 beat the $0.58 estimate. Licensing revenue grew 29% to $819 million, and full-year revenue reached a record $4.92 billion, marking the third consecutive year of 20%-plus growth.\n\nThe decline reflects the gap between what the market priced in and what was delivered. Royalty revenue grew just 11% year over year to $671 million, well behind the 29% pace of licensing, suggesting smartphone and consumer electronics shipments are not compounding as quickly as the broader platform. For Q1 fiscal 2027, Arm guided revenue to $1.26 billion at the midpoint and non-GAAP EPS to $0.40, in line with what Wall Street was expecting.\n\nArm shares had surged roughly 55% in the month leading into the print and are up more than 100% year-to-date, leaving the stock exposed to anything short of a decisive beat. Data center royalties more than doubled year over year in Q4. Looking further out, Arm is targeting $15 billion in AGI CPU revenue and $10 billion in IP revenue by fiscal 2031, which it expects to translate to more than $9 in non-GAAP EPS.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-07",
+      "Time": "20:24:02",
+      "Source": "Yahoo Finance",
+      "Title": "Arm holdings Stock Sinks After AI Demand Warning Sparks Supply Fears",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stock-sinks-ai-122402810.html",
+      "Content": "This article first appeared on GuruFocus .\n\nArm Holdings ( NASDAQ:ARM ) shares swung in extended trading Wednesday after the chip designer reported quarterly revenue and profit above Wall Street estimates, while investor attention shifted to comments about supply capacity and rising demand for artificial intelligence processors.\n\nArm shares initially jumped more than 10% after the report before reversing course and falling about 6% in after-hours trading as investors weighed supply concerns against long-term AI growth expectations.\n\nWarning! GuruFocus has detected 3 Warning Sign with ARM.\n\nIs ARM fairly valued? Test your thesis with our free DCF calculator.\n\nArm ( NASDAQ:ARM ) posted fiscal fourth-quarter adjusted earnings of 60 cents per share on revenue of $1.49 billion for the period ended March. Revenue rose about 20% from a year earlier and came in slightly ahead of analyst expectations.\n\nArm said demand forecasts tied to its chip business have increased, though supply constraints across areas including memory, wafer production and packaging may limit near-term fulfillment capacity. Executives indicated current infrastructure could support about half of projected demand levels as customers expand AI-related deployments.\n\nArm also continues to broaden its business model beyond licensing, with the company expecting revenue contributions from internally developed chips later this fiscal year. Meta Platforms (META) is expected to become an early customer for Arm's AI-focused processors.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-05-07",
