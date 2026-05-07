@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-07T00:20:36.858Z",
-  "total_news_count": 263,
+  "last_updated": "2026-05-07T00:32:31.195Z",
+  "total_news_count": 264,
   "news": [
     {
-      "Ticker": "INTC",
+      "Ticker": "ARM, INTC",
       "Date": "2026-05-07",
       "Time": "08:03:35",
       "Source": "Yahoo Finance",
@@ -67,6 +67,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "record earnings, revenue growth, AI demand, data center, AGI CPU"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-07",
+      "Time": "06:30:02",
+      "Source": "Yahoo Finance",
+      "Title": "Compared to Estimates, Arm Holdings (ARM) Q4 Earnings: A Look at Key Metrics",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-arm-holdings-arm-223002844.html",
+      "Content": "Arm Holdings (ARM) reported $1.49 billion in revenue for the quarter ended March 2026, representing a year-over-year increase of 20.1%. EPS of $0.60 for the same period compares to $0.55 a year ago.\n\nThe reported revenue represents a surprise of +1.67% over the Zacks Consensus Estimate of $1.47 billion. With the consensus EPS estimate being $0.58, the EPS surprise was +4.11%.\n\nWhile investors scrutinize revenue and earnings changes year-over-year and how they compare with Wall Street expectations to determine their next move, some key metrics always offer a more accurate picture of a company's financial health.\n\nAs these metrics influence top- and bottom-line performance, comparing them to the year-ago numbers and what analysts estimated helps investors project a stock's price performance more accurately.\n\nHere is how Arm Holdings performed in the just reported quarter in terms of the metrics most widely monitored and projected by Wall Street analysts:\n\nAnnualized contract value : $1.66 billion versus the two-analyst average estimate of $1.65 billion.\n\nRevenue- License and other : $819 million versus $769.66 million estimated by five analysts on average. Compared to the year-ago quarter, this number represents a +29.2% change.\n\nRevenue- Royalty : $671 million compared to the $694.93 million average estimate based on five analysts. The reported number represents a change of +10.5% year over year.\n\nView all Key Company Metrics for Arm Holdings here>>>\n\nShares of Arm Holdings have returned +45.2% over the past month versus the Zacks S&P 500 composite's +10.3% change. The stock currently has a Zacks Rank #3 (Hold), indicating that it could perform in line with the broader market in the near term.",
+      "Language": "en"
     },
     {
       "Ticker": "AMAT",
