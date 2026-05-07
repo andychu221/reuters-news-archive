@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T12:40:11.355Z",
-  "total_news_count": 322,
+  "last_updated": "2026-05-07T13:01:04.308Z",
+  "total_news_count": 324,
   "news": [
     {
       "Ticker": "AMZN",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMD",
+      "Date": "2026-05-07",
+      "Time": "20:25:35",
+      "Source": "Yahoo Finance",
+      "Title": "AMD Jumps on AI Surge, Profit Nearly Doubles",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amd-jumps-ai-surge-profit-122535510.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( AMD , Financials ) shares hit an all-time high as the chipmaker reported first quarter results that topped expectations, fueled by a jump in demand for artificial intelligence infrastructure and data center chips.Shares jumped as much as 18.6% in Wednesday trade, ending at $421.39, after investors cheered the company's profits growth and strong guidance.AMD announced net income of $1.38 billion in the first quarter, up 95% from $709 million a year ago. The semiconductor sector continued to be reshaped by AI-related demand, with revenue up 38% to $10.25 billion from $7.4 billion.Chief Executive Lisa Su said there was accelerating demand for AI infrastructure and the company's data center business was the primary growth driver. She also noted the growing customer interest in AMD's future MI450 Series accelerators and Helios systems.It projected second quarter revenue of about $11.2 billion, plus or minus $300 million, which would equate to nearly 46% growth at the midpoint, the company said.Wall Street sentiment remained favorable with analysts remaining upbeat on the firm as competition heats up in the AI chip market heading into the second half of 2026.",
+      "Language": "en"
+    },
+    {
       "Ticker": "ARM",
       "Date": "2026-05-07",
       "Time": "20:24:02",
@@ -40,6 +50,16 @@
       "Title": "Arm holdings Stock Sinks After AI Demand Warning Sparks Supply Fears",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stock-sinks-ai-122402810.html",
       "Content": "This article first appeared on GuruFocus .\n\nArm Holdings ( NASDAQ:ARM ) shares swung in extended trading Wednesday after the chip designer reported quarterly revenue and profit above Wall Street estimates, while investor attention shifted to comments about supply capacity and rising demand for artificial intelligence processors.\n\nArm shares initially jumped more than 10% after the report before reversing course and falling about 6% in after-hours trading as investors weighed supply concerns against long-term AI growth expectations.\n\nWarning! GuruFocus has detected 3 Warning Sign with ARM.\n\nIs ARM fairly valued? Test your thesis with our free DCF calculator.\n\nArm ( NASDAQ:ARM ) posted fiscal fourth-quarter adjusted earnings of 60 cents per share on revenue of $1.49 billion for the period ended March. Revenue rose about 20% from a year earlier and came in slightly ahead of analyst expectations.\n\nArm said demand forecasts tied to its chip business have increased, though supply constraints across areas including memory, wafer production and packaging may limit near-term fulfillment capacity. Executives indicated current infrastructure could support about half of projected demand levels as customers expand AI-related deployments.\n\nArm also continues to broaden its business model beyond licensing, with the company expecting revenue contributions from internally developed chips later this fiscal year. Meta Platforms (META) is expected to become an early customer for Arm's AI-focused processors.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-07",
+      "Time": "20:21:12",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Partners With Corning to Expand U.S. AI Fiber Capacity",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-partners-corning-expand-u-122112157.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) and Corning ( GLW , Financials ) announced a partnership to expand U.S. production of optical connectivity products used in artificial intelligence data centers, as surging AI demand continues to reshape the technology supply chain.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe businesses said the agreement will meet demand for fiber-optic systems that connect thousands of processors in major AI facilities.\n\nCorning wants to tenfold its U.S. optical connectivity manufacturing capacity and increase domestic fiber production by over 50%. The development will include three innovative manufacturing sites in North Carolina and Texas, creating over 3,000 jobs.\n\nRising AI infrastructure spending benefits vendors outside semiconductor manufacturers, according to the announcement. Nvidia is a top AI chip manufacturer, but data center buildouts are increasing demand for networking, connectivity, and optical equipment for high-performance computing. Corning stock rose over 19% after the announcement.\n\nBy 2026, the specialized glass company hopes to reach a $20 billion annualized sales run rate. Corning predicted $30 billion in 2028 and $40 billion in 2030 yearly revenue. Hyperscale cloud firms are investing more in infrastructure to enable generative AI applications and data-intensive workloads, prompting the alliance.",
       "Language": "en"
     },
     {
