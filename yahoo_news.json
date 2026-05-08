@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-08T13:40:29.564Z",
-  "total_news_count": 532,
+  "last_updated": "2026-05-08T14:00:37.304Z",
+  "total_news_count": 533,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-08",
+      "Time": "21:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "Is Quantum Computing a Buy Right Now?",
+      "URL": "https://finance.yahoo.com/m/d8630afc-a199-353e-bf58-00b4096ac6b8/is-quantum-computing-a-buy.html",
+      "Content": "It's been a bumpy start to 2026 for the buzzworthy tech company, Quantum Computing (NASDAQ: QUBT) . Shares of the photonics and quantum optics enterprise were up more than 20% year to date in January but are now trading down nearly 8%. On Monday, May 11, Quantum will announce its first-quarter 2026 results. This has investors wondering where the stock will go next and whether to buy in.\n\nQuantum Computing recently launched NeuraWave, which is a photonics-based reservoir computing platform. NeuraWave is supposed to deliver ultra-low latency and low power consumption for edge AI workloads with potential applications across several industries. Quantum is taking orders for the platform, which is commercially promising and a massive milestone for the business.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nWhile revenue isn't substantial yet, it is growing and expected to show a jump in the May earnings report. Quantum Computing, as a company and as a concept, is still quite early on. There's a lot of optimism and excitement surrounding the industry. Still, it's competing against well-established giants such as Nvidia , which has a stronghold on the AI infrastructure market .\n\nQuantum Computing can't afford any missteps right now. The stock closely tracks investor sentiment around AI and quantum computing . In the past month, Quantum Computing has rebounded by 37%, but is still down by more than 28% over the past six months.\n\nAs the company approaches an important earnings report, investors considering the future of Quantum Computing should understand there's significant upside, but it comes with substantial risk and volatility. Profitability is still far off. Investors must be patient as this technology hits the market. Right now, I'd still wait and see with Quantum Computing. After this earnings release, we'll know more about NeuraWave's impact and growth trajectory.",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-05-08",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "NVDA, META",
       "Date": "2026-05-08",
       "Time": "21:14:01",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-08",
       "Time": "20:56:45",
       "Source": "Yahoo Finance",
