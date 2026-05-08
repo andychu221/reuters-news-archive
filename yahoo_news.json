@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-08T16:00:58.146Z",
-  "total_news_count": 561,
+  "last_updated": "2026-05-08T16:16:01.717Z",
+  "total_news_count": 562,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-05-09",
+      "Time": "00:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "4 Dividend Stocks to Double Up on Right Now",
+      "URL": "https://finance.yahoo.com/m/911d8124-ea79-3158-ba7a-fe86951647ad/4-dividend-stocks-to-double.html",
+      "Content": "As oil prices swing wildly lower, some may view it as a time to step away from energy stocks. But it would be a mistake to lump all energy stocks together, and you may miss an opportunity, as power demand worldwide is only increasing.\n\nThe companies that can meet that rising demand will be long-term beneficiaries, and they can pay out the increased earnings they generate from that demand as dividends. I'm talking about companies like Energy Transfer (NYSE: ET) , Enbridge (NYSE: ENB) , Duke Energy (NYSE: DUK) , and NextEra Energy (NYSE: NEE) .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nI picked these companies because of their relatively low betas, which make the stocks less volatile than the broader market. Each also offers a dividend yield above 2.5% as of this writing, which can create meaningful long-term total return potential. We'll start with the highest yields and work our way down.\n\n1. Energy Transfer\n\nEnergy Transfer is well positioned to capitalize on natural gas demand from data centers, with over 140,000 miles of pipeline and related infrastructure. According to the International Energy Agency, natural gas is the third-largest source of electricity for data centers worldwide, and Energy Transfer has been busy lining up big-name clients.\n\nIt has agreements with Oracle to supply natural gas to three of its data centers, as well as with Entergy Louisiana, which will provide energy for Meta Platforms ' data center project. It also just announced that it entered into an agreement for natural gas transportation services with Nexus Data Centers for an artificial intelligence (AI) hyperscale campus in Texas. That growing demand from data centers for natural gas can continue to support Energy Transfer's hefty dividend, which currently yields 6.6%.\n\n2. Enbridge\n\nEnbridge is known for its natural gas business, as it is not only the largest natural gas distribution company in Canada, but also serves over 1 million customers in Ohio and 90% of Utah's population. In addition to its natural gas business, it has some big-name clients through its solar projects, including Meta Platforms, Toyota Motor , and AT&T .\n\nEnbridge isn't a Dividend King yet, as it hasn't achieved 50 consecutive years of dividend increases. Still, it's on the path to get there, with 31 years of consecutive increases that showcase its dependability. The yield on that payout is also quite favorable at 5.1%.\n\nStory Continues\n\n3. Duke Energy\n\nDuke is the owner of a broad energy portfolio, which ranges from traditional to alternative resources. With what we've seen with oil prices, that diversification helps the company avoid reliance on just one commodity that could experience wild price swings. With different energy resources, if one segment of its business is underperforming, it has others that can offset the losses.\n\nOne of its operations worth pointing out here in particular is its nuclear energy operations, as it runs 11 units across North and South Carolina, and the company has plenty of opportunities ahead as the nuclear market expands. According to Fortune Business Insights, the global nuclear power market is expected to grow from $41.6 billion in 2026 to $52.6 billion by 2034. For its dividend, Duke has paid one out for 100 years straight, and that dividend currently yields 3.3%.\n\n4. NextEra\n\nThe last company on this list owns the regulated utility provider Florida Power & Light (FPL), which delivers reliable cash flow to NextEra. For 2025, FPL reported net income of $5 billion, up from the $4.5 billion generated in 2024.\n\nIt also has long-term contracted businesses in storage, renewables, gas generation, and nuclear. For its nuclear energy operations, it runs seven units, and Alphabet signed a 25-year agreement with the company to purchase carbon-free nuclear power from a plant in Iowa, expected to be operational by early 2029.\n\nNextEra's dividend payout has the lowest yield on this list at 2.5%, but it has also shown the most stock price appreciation over the last 12 months, boosting total returns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-08",
       "Time": "23:50:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-08",
       "Time": "23:35:00",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD, ARM",
+      "Ticker": "INTC, AMD, ARM",
       "Date": "2026-05-08",
       "Time": "23:07:05",
       "Source": "Yahoo Finance",
