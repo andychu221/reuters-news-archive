@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-08T18:32:32.054Z",
-  "total_news_count": 579,
+  "last_updated": "2026-05-08T18:40:35.158Z",
+  "total_news_count": 583,
   "news": [
+    {
+      "Ticker": "META, MSFT",
+      "Date": "2026-05-09",
+      "Time": "02:22:35",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia, Apple and Microsoft may be trading at best valuations in years",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-apple-microsoft-may-trading-182235268.html",
+      "Content": "This article first appeared on GuruFocus .\n\nU.S. technology stocks including Nvidia ( NASDAQ:NVDA ), Apple ( NASDAQ:AAPL ), Microsoft ( NASDAQ:MSFT ), Alphabet ( NASDAQ:GOOGL ), Amazon ( NASDAQ:AMZN ), Meta Platforms ( NASDAQ:META ) and Tesla ( NASDAQ:TSLA ) may offer some of their most attractive valuations in years after another strong earnings season, according to analysts.\n\nTechnology stocks have continued to benefit from artificial intelligence-driven demand, while earnings growth has helped reduce valuation pressures that had raised concerns about a potential bubble in large-cap tech shares during 2024 and 2025. Analysts said AI-related equities are trading at their widest discount to fair value since 2019.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nTechnology stocks also received support from rising capital expenditure plans among major U.S. hyperscalers, with combined 2026 spending projections now tracking near $725 billion, above earlier expectations, according to Saxo Bank estimates cited in the report.\n\nSome analysts, however, cautioned that maintaining elevated AI-related spending and profit growth over the long term could become more difficult as competition intensifies and infrastructure constraints emerge. BNP Paribas Asset Management also pointed to limitations tied to AI processing capacity, while strategists at J.P. Morgan Private Bank said technology remains central to investor positioning across growth, defensive and AI-related themes.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-09",
+      "Time": "02:22:03",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft shares fall as top hedge fund dumps $8B stake on AI fears",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-shares-fall-top-hedge-182203769.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) shares edged down about 1.2% on Friday morning after reports that hedge fund TCI reduced its position in the company, according to a Financial Times report citing an investor letter, the report said.\n\nMicrosoft ( NASDAQ:MSFT ) said concerns outlined by TCI pointed to artificial intelligence advances potentially reshaping productivity software, including Office workflows, while also raising uncertainty around Azure cloud competitiveness, as rapid AI adoption could alter how enterprise users interact with core productivity tools, particularly in enterprise cloud services.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft ( NASDAQ:MSFT ) stake changes showed TCI trimmed its holding from roughly 10% of its portfolio to below 1%, effectively exiting most of an estimated $8 billion position, marking a near-complete exit from the position and signaling a broader portfolio reallocation, sources said.\n\nMicrosoft ( NASDAQ:MSFT ) also saw related portfolio shifts as TCI increased exposure to Alphabet, though investors continue to assess how AI competition may influence long-term earnings visibility for major tech firms, reflecting shifting exposure within large-cap technology holdings amid evolving AI competition dynamics, even as AI reshapes sector competition.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-05-09",
+      "Time": "02:22:01",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Slips After TCI Cuts Stake",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-slips-tci-cuts-stake-182201821.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) shares slipped after reports that hedge fund TCI sharply reduced its position in the technology giant due to concerns about the long-term impact of artificial intelligence on its business.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to the Financial Times, TCI sold nearly all of its roughly $8 billion Microsoft stake. The fund reportedly said rapid AI advances could disrupt Microsoft's Office productivity software and create risks for its Azure cloud platform.\n\nTCI reduced Microsoft from about 10% of its portfolio at the end of 2025 to less than 1% by the end of March, the report said. At the same time, the hedge fund increased its position in Alphabet (GOOGL, Financials) to roughly 5% of its portfolio, making Google its largest technology investment.\n\nFor investors, the move reflects growing debate over which major technology companies are best positioned to benefit from the next phase of AI adoption. While Microsoft remains a leading AI player through its OpenAI partnership and cloud infrastructure business, some investors are increasingly questioning how AI could reshape traditional software markets.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-09",
+      "Time": "02:15:16",
+      "Source": "Yahoo Finance",
+      "Title": "Apollo, Blackstone reportedly in talks for $35B Broadcom financing deal",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/apollo-blackstone-reportedly-talks-35b-181516138.html",
+      "Content": "Investing.com -- Apollo Global Management Inc. and Blackstone Inc. are in discussions with Broadcom Inc. regarding approximately $35 billion in financing to support the chipmaker’s artificial intelligence chip development, according to a Bloomberg report Friday.\n\nThe financing would rank among the largest private credit transactions on record. The funds are reportedly intended to support Broadcom’s production of chips designed for AI applications..\n\nTerms of the potential agreement remain under negotiation and may change, the report said..\n\nIn April, Broadcom disclosed in a regulatory filing that it entered a long-term agreement to develop and supply custom tensor processing units for Google, alongside a separate contract to provide networking and other components for Google’s next-generation AI racks through 2031.\n\nBroadcom also announced an expanded partnership with Google and Anthropic, designed to give Anthropic access to an additional 3.5 gigawatts of next-generation TPU-based AI compute capacity through Broadcom beginning in 2027, contingent on Anthropic’s continued commercial performance. At the time, Broadcom stated the companies were in talks with financial partners to support the deployment.\n\nLast year, Meta Platforms Inc. secured nearly $30 billion in financing from Blue Owl Capital Inc. and Pacific Investment Management Co. for its data center facility in Louisiana.\n\nApollo, Blackstone reportedly in talks for $35B Broadcom financing deal\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "ARM",
       "Date": "2026-05-09",
