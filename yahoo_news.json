@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-08T22:32:34.945Z",
-  "total_news_count": 622,
+  "last_updated": "2026-05-08T23:00:57.687Z",
+  "total_news_count": 623,
   "news": [
+    {
+      "Ticker": "AMD",
+      "Date": "2026-05-09",
+      "Time": "06:39:59",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 8: Rackspace Surges on AMD AI Cloud Agreement",
+      "URL": "https://finance.yahoo.com/m/fbf222cb-67fa-364b-bc80-ac44fc4a3058/stock-market-today%2C-may-8%3A.html",
+      "Content": "Rackspace Technology (NASDAQ:RXT) , a provider of end-to-end multi-cloud technology services, closed at $5.49, up 55.97%. Shares surged after the company announced an AI cloud infrastructure partnership with AMD focused on governed enterprise AI for regulated customers, and investors are watching how this collaboration could drive future demand.\n\nThe company’s trading volume reached 150.9 million shares, which is about 389% above compared with its three-month average of 30.6 million shares. Rackspace Technology went public in 2020 and has fallen 66% since its IPO.\n\nHow the markets moved today\n\nThe broader markets advanced Friday, with the S&P 500 (SNPINDEX:^GSPC) rising 0.84% to 7,398.93 and the Nasdaq Composite (NASDAQINDEX:^IXIC) gaining 1.71% to finish at 26,247.08. Among software - infrastructure peers, Akamai Technologies (NASDAQ:AKAM) closed at $147.71, up 26.58%, while Cloudflare (NYSE:NET) finished at $196.13, down 23.62%, reflecting sharply different reactions to growth and restructuring news.\n\nWhat this means for investors\n\nRackspace Technology shares surged after the company signed a memorandum of understanding with AMD to develop a governed Enterprise AI Cloud infrastructure for regulated customers. The agreement is still a framework rather than a confirmed revenue contract, but it gives Rackspace a more specific AI offering at a time when healthcare, finance, government, and sovereign-cloud customers are seeking infrastructure that meets security and compliance requirements.\n\nThe move also came alongside improved first-quarter results, with revenue rising 2% to $678 million and the company returning to profitability, posting about $8 million in net income. Rack Space’s Public Cloud revenue grew to $443 million while Private Cloud revenue declined to $235 million. The next market-moving signal will be whether Rackspace can turn the AMD framework into customer workloads that generate recurring managed-cloud revenue within regulated industries.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL, INTC, TSM",
       "Date": "2026-05-09",
