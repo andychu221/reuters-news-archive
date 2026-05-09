@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-09T14:40:14.337Z",
-  "total_news_count": 773,
+  "last_updated": "2026-05-09T15:00:38.487Z",
+  "total_news_count": 774,
   "news": [
     {
-      "Ticker": "META, GOOGL",
+      "Ticker": "NVDA",
+      "Date": "2026-05-09",
+      "Time": "22:49:32",
+      "Source": "Yahoo Finance",
+      "Title": "NVIDIA Corp. (NVDA) Partners with Corning to Boost Optical Connectivity Manufacturing Capacity",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-partners-corning-144932745.html",
+      "Content": "NVIDIA Corp. (NASDAQ: NVDA ) is one of the Best American AI Stocks to Buy Now . On May 6, NVIDIA announced a multiyear commercial and technology partnership with Corning Inc. aimed at expanding the U.S.-based manufacture of the advanced optical connectivity solutions needed to power next-generation AI infrastructure.\n\nUnder the partnership, Corning will boost its U.S.-based optical connectivity manufacturing capacity by 10x and expand its U.S. fiber production capacity by more than 50% to meet the accelerating demand driven by AI factory buildouts. Corning will also construct three new advanced manufacturing facilities in North Carolina and Texas, which are expected to create more than 3,000 new, high-paying American jobs.\n\nNVIDIA said Corning’s expanded capacity will supply the optical connectivity that hyperscale data centers use to deploy NVIDIA-accelerated computing at scale. It added:\n\n“Modern AI workloads require thousands of NVIDIA GPUs — requiring unprecedented volumes of high-performance optical fiber, connectivity and photonics to move data at extraordinary speed and scale. As AI factories grow larger and more numerous, optical connectivity becomes an important component of the AI infrastructure.”\n\nAccording to 70 analyst ratings compiled by CNN, 93% rated Nvidia Buy, while 6% rated it Hold. NVIDIA has an average price target of $267.50, a 36.13% upside from the current price of $196.50.\n\nNVIDIA Corp. (NASDAQ:NVDA) designs and manufactures graphics processing units (GPUs), system-on-a-chip units (SoCs), and AI hardware and software. Its GPUs are used in gaming, high-performance computing, AI training, and inference and serve as the backbone of data center infrastructure worldwide.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nNvidia (NVDA) Unveils Nemotron 3 Nano Omni Multimodal MoE Reasoning Model\n\nNvidia (NVDA) Unveils Nemotron 3 Nano Omni Multimodal MoE Reasoning Model Under the partnership, Corning will boost its U.S.-based optical connectivity manufacturing capacity by 10x and expand its U.S. fiber production capacity by more than 50% to meet the accelerating demand driven by AI factory buildouts. Corning will also construct three new advanced manufacturing facilities in North Carolina and Texas, which are expected to create more than 3,000 new, high-paying American jobs.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU, META, GOOGL",
       "Date": "2026-05-09",
       "Time": "22:20:00",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMZN, INTC",
+      "Ticker": "NVDA, AMZN, INTC",
       "Date": "2026-05-09",
       "Time": "21:50:00",
       "Source": "Yahoo Finance",
