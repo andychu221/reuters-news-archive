@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-09T17:15:30.772Z",
-  "total_news_count": 785,
+  "last_updated": "2026-05-09T18:00:26.603Z",
+  "total_news_count": 786,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-10",
+      "Time": "01:25:00",
+      "Source": "Yahoo Finance",
+      "Title": "Jensen Huang Just Made a Major Announcement. Here's What It Means for Nvidia Investors.",
+      "URL": "https://finance.yahoo.com/m/bf0943e4-d989-36a0-b0e0-8c2e39b489bb/jensen-huang-just-made-a.html",
+      "Content": "Over the past few years, Nvidia (NASDAQ: NVDA) has gone from a mid-tier tech company to the world's most valuable public company, with a market cap of over $5.1 trillion as of May 7. It has the artificial intelligence (AI) boom to thank, but you could make the strong case that the AI boom wouldn't have happened without Nvidia.\n\nNvidia isn't just stopping at its highly sought-after GPUs, either. Its CEO, Jensen Huang , announced that the company had created the world's first family of open-source quantum AI models, called Nvidia Ising.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nIf you're wondering what that means, you're not alone. But to put it semi-simply: Quantum computing is a new way of solving massive problems that is millions of times more powerful than a traditional computer or supercomputer. The problem, though, is that quantum computing is still in its early stages and has too many errors and stability issues to be a viable mainstream option.\n\nInstead of joining companies like Alphabet , IonQ , and IBM that are building hardware to make quantum computing work, Nvidia is building the AI software to manage them. No matter who winds up making the best quantum computing hardware, Nvidia is trying to control the \"brains\" of it.\n\nQuantum computing is a ways off from being commercially practical, but Nvidia Ising shows that the company is positioning itself as part of an emerging technology, even if nothing tangible may come of it in the next decade. That's the long-term vision investors should appreciate.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-05-10",
