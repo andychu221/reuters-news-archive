@@ -1,9 +1,39 @@
 {
-  "last_updated": "2026-05-11T21:43:34.433Z",
-  "total_news_count": 1112,
+  "last_updated": "2026-05-11T22:01:03.055Z",
+  "total_news_count": 1115,
   "news": [
     {
-      "Ticker": "META",
+      "Ticker": "MU",
+      "Date": "2026-05-12",
+      "Time": "05:50:36",
+      "Source": "Yahoo Finance",
+      "Title": "Micron Stock Extends Hot Streak. AI Supercycle Sends Chip Stocks Soaring",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-extends-hot-streak-215036273.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron ( NASDAQ:MU ) shares advanced on Monday even as broader equities were little changed, supported by an ongoing rally in memory chips tied to supply shortages and artificial intelligence demand.\n\nMicron shares rose about 5% in morning trading, with Micron outperforming a flat S&P 500 as most sectors weakened under pressure from higher energy prices and geopolitical concerns, traders said chip stocks are benefiting from tight supply conditions.\n\nWarning! GuruFocus has detected 6 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron has gained in 11 of the last 15 sessions and has more than doubled since late March as investors bet on a potential memory chip supercycle driven by AI infrastructure demand driven by hyperscaler AI buildouts and persistent memory shortages.\n\nMicron continued to trade separately from broader markets, alongside other chipmakers as the Roundhill memory ETF DRAM climbed while major indices were largely unchanged, with analysts noting improving margin expectations across the sector. South Korea's SK Hynix and Samsung Electronics also advanced in line with the sector while analysts expect margins above 75% by 2026 globally.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-12",
+      "Time": "05:35:31",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Expands AI Investment Push",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-expands-ai-investment-push-213531266.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) has accelerated its role as an investor in the artificial intelligence supply chain , committing more than $40 billion this year to companies tied to AI infrastructure.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe chipmaker recently agreed to invest up to $2.1 billion in data center operator IREN and up to $3.2 billion in Corning, which is expanding optical technology production for Nvidia systems.\n\nThe strategy reflects Nvidia's effort to build out the broader AI ecosystem around its chips, including data centers, optical networking, photonics and cloud infrastructure. Nvidia has also invested in companies such as CoreWeave, Nebius, Marvell, Lumentum and Coherent.\n\nThe company's largest recent commitment was a $30 billion investment in OpenAI, deepening its relationship with one of the biggest buyers of AI computing capacity.\n\nFor investors, the deals show Nvidia is using its balance sheet to secure capacity and strengthen demand for its hardware. However, some analysts have warned the strategy could raise questions about how much AI demand is organic versus supported by Nvidia's own financing.\n\nInvestors will look for more detail on Nvidia's expanding investment portfolio when the company reports quarterly earnings.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-12",
+      "Time": "05:27:14",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 11: Iren Falls After $2 Billion Convertible Notes Offering Pressures Shares",
+      "URL": "https://finance.yahoo.com/m/15211ce4-e73c-361c-b27d-34ff50fad51e/stock-market-today%2C-may-11%3A.html",
+      "Content": "Iren (NASDAQ:IREN) operates renewable-powered data centers for Bitcoin (CRYPTO:BTC) mining and AI cloud services. Shares closed at $55.15, down 9.89%, after the company announced a $2 billion convertible notes offering. Last week, Iren reported a fiscal Q3 earnings miss, but added news of an AI infrastructure cloud services contract with Nvidia (NASDAQ:NVDA) . Investors will be watching how new debt supports its Nvidia-backed AI infrastructure buildout.\n\nTrading volume reached 108.4 million shares, coming in about 187% above its three-month average of 37.8 million shares. Iren IPO'd in 2021 and has grown 126% since going public.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) inched up 0.19% to 7,413, while the Nasdaq Composite (NASDAQINDEX:^IXIC) added 0.10% to close at 26,274. Among data centers and cloud computing peers, CoreWeave (NASDAQ:CRWV) closed at $114.70, up 0.48%, and Riot Platforms (NASDAQ:RIOT) finished at $25.34, gaining 5.23% as investors weighed crypto exposure.\n\nWhat this means for investors\n\nAfter Iren shares had soared more than 50% in just the past month, the company announced a plan to raise fresh capital today. Iren will offer $2 billion in convertible senior notes due 2033. While details of the offering, including interest rate, initial conversion rate, and pricing weren’t yet announced, investors sold the stock on the prospect of further dilution to existing shareholders. Leverage risk also continues to grow as Iren invests to grow its cloud computing capacity.\n\nLast week the company failed to impress investors with its fiscal Q3 results with revenue decreasing sequentially as Iren works to transition from Bitcoin mining to AI cloud services .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, META",
       "Date": "2026-05-12",
       "Time": "05:26:14",
       "Source": "Yahoo Finance",
