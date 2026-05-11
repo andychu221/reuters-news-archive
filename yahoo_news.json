@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-11T17:00:50.932Z",
-  "total_news_count": 1073,
+  "last_updated": "2026-05-11T17:15:34.240Z",
+  "total_news_count": 1075,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-12",
+      "Time": "01:00:14",
+      "Source": "Yahoo Finance",
+      "Title": "AMD Rises on Server CPU Supercycle Call",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amd-rises-server-cpu-supercycle-170014885.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( AMD , Financials ) rose after GF Securities said AMD, Intel and Qualcomm are likely to benefit from a server CPU supercycle tied to artificial intelligence infrastructure growth.\n\nWarning! GuruFocus has detected 9 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nThe firm said CPUs are becoming more important as AI workloads shift from training toward inference and agentic AI. GF Securities expects the server CPU market to grow from $26 billion in 2025 to $135 billion by 2030, representing a five-year compound annual growth rate of 38%.\n\nAMD and Intel are expected to be the main near-term beneficiaries because x86 chips remain dominant in servers. GF Securities forecast AMD's server CPU business will grow 73% in 2026, while Intel's data center and AI segment could grow 39%.\n\nThe firm also said Qualcomm could become a longer-term winner as it expands into data center CPUs, with more details expected at its June 24 investor day.\n\nFor investors, the report adds to optimism that AI demand is broadening beyond GPUs into CPUs and full server platforms.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-05-12",
@@ -13,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-05-12",
+      "Time": "00:54:34",
+      "Source": "Yahoo Finance",
+      "Title": "Intel stock pops on advanced AI packaging partnership report",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-pops-advanced-ai-165434807.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) shares rose more than 2% on Monday morning after a report said the chipmaker is working with SK hynix on advanced packaging technology used in high-end semiconductors.\n\nThe report said SK hynix is carrying out research and development on 2.5D packaging with Intel, citing sources close to the matter. SK hynix shares also climbed in South Korea after the report.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel's Embedded Multi-die Interconnect Bridge, or EMIB, lets several semiconductor dies be linked through small silicon bridges. That approach differs from Taiwan Semiconductor's (TSM) chip-on-wafer-substrate, or CoWoS, method, which uses a larger silicon interposer.\n\nThe report comes as CoWoS capacity at TSMC has been seen as a bottleneck for advanced AI chips and other high-end semiconductors.\n\nFor Intel, a closer role in packaging could help it position its technology against one of the industry's most widely used manufacturing solutions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-12",
       "Time": "00:35:00",
       "Source": "Yahoo Finance",
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, META, MSFT, GOOGL, AMZN",
       "Date": "2026-05-12",
       "Time": "00:21:20",
       "Source": "Yahoo Finance",
