@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-11T09:00:31.808Z",
-  "total_news_count": 963,
+  "last_updated": "2026-05-11T09:15:08.271Z",
+  "total_news_count": 964,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-11",
+      "Time": "16:55:00",
+      "Source": "Yahoo Finance",
+      "Title": "If I Had to Start Over With $1,000 in Tech Stocks Today, Here's Exactly What I'd Buy",
+      "URL": "https://finance.yahoo.com/m/d2e37953-9ac1-3d66-ac51-ac661e28d68c/if-i-had-to-start-over-with.html",
+      "Content": "Some people think they need a ton of money to get started investing. That's not the case at all. Fractional shares allow you to invest in great companies with little upfront cash. You can also find attractive stocks with affordable share prices on a modest budget.\n\nIf I had to start over with just $1,000, I'd focus on tech stocks . Why? The tech sector has been the best way to obtain market-beating returns over the last 20 years. I suspect that will remain true over the next decade and beyond. And here's exactly which tech stocks I'd buy with $1,000 right now.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\n1. Alphabet\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is my top pick. The main reason I like Google's parent so much is that it's a leader in nearly every key technology trend that I expect will shape the future.\n\nYou probably won't be surprised to learn that artificial intelligence (AI) is the technology I think will be most impactful. Alphabet is an AI pioneer, forging the way for the current AI renaissance. More importantly, the company is well-positioned to benefit from the rising adoption of AI in multiple ways.\n\nGoogle Cloud is the fastest-growing of the big three cloud service providers. Gemini consistently ranks among the most powerful AI models. Alphabet has incorporated generative AI throughout its products, including Google Search and its Workspace productivity suite, boosting revenue and profitability in the process. The company's Tensor Processing Units (TPUs) are in such high demand for AI applications that Google has begun selling the chips to external customers for the first time.\n\nAlphabet also stands at the vanguard of two technologies that could see explosive growth over the next few years -- autonomous driving and quantum computing . Alphabet's Waymo unit operates the world's first autonomous ride-hailing service, having served over 20 million rides to date. Google Quantum AI has achieved two major quantum computing milestones and is working to build a large-scale multi-purpose quantum computer.\n\n2. Nvidia\n\nIt would be hard to omit Nvidia (NASDAQ: NVDA) from the list. The company's graphics processing units (GPUs) remain the gold standard for training and deploying AI models. Even with rising competition, Nvidia doesn't appear to be in any danger of being knocked off its perch.\n\nStory Continues\n\nThe company's AI moat runs deep. Nvidia's rapid development cycle enables it to introduce new, more powerful chips faster than rivals. Its CUDA software platform, which enables applications to harness the power of GPUs, is so widely used that Nvidia's technology is incredibly sticky.\n\nLike Alphabet, Nvidia is a leader in self-driving vehicle technology. Although it doesn't operate an autonomous ride-hailing service as Waymo does, the company's autonomous driving technology is used by top carmakers including China's BYD (OTC: BYDDF) (OTC: BYDDY) , General Motors (NYSE: GM) , Hyundai , Mercedes-Benz (OTC: MBGYY) , Rivian (NASDAQ: RIVN) , and Volvo (OTC: VLVLY) .\n\nRobotics is another huge market opportunity for Nvidia. The company's Isaac Sim robotics simulation platform allows customers to test robot software before deploying it in the real world. Its Jetson platform enables advanced AI to run on robots.\n\n3. Apple\n\nBuying one share each of Alphabet and Nvidia would take a little over $600 at current prices. What would I do with the remaining amount of my initial $1,000, assuming I didn't use fractional trading? I'd scoop up a share of Apple (NASDAQ: AAPL) .\n\nAdmittedly, I don't expect that Apple will deliver the level of growth that Alphabet and Nvidia will. However, I think that Warren Buffett was right when he said in 2020 that Apple is \"probably the best business I know in the world.\"\n\nApple continues to demonstrate just how strong its ecosystem is. CEO Tim Cook described the demand for the new iPhone 17 as \"extraordinary.\" The company's services revenue reached an all-time high in the quarter ending March 28, 2026. Apple saw double-digit percentage revenue growth across every geographic region.\n\nI fully expect that Apple will emerge as a major player in the lucrative AI smart glasses market. The company reportedly plans to unveil its first devices in late 2026 with a full launch in early 2027.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII, 2330.TW",
       "Date": "2026-05-11",
@@ -13,7 +23,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-11",
       "Time": "16:26:00",
       "Source": "Yahoo Finance",
