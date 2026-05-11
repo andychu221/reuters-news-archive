@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T22:40:23.788Z",
-  "total_news_count": 1121,
+  "last_updated": "2026-05-11T22:43:45.122Z",
+  "total_news_count": 1125,
   "news": [
     {
       "Ticker": "LITE",
@@ -23,6 +23,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-05-12",
+      "Time": "05:46:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR11日上漲0.20美元漲幅3.48%折台股18.69元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr11%E6%97%A5%E4%B8%8A%E6%BC%B20-20%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%853-48-%E6%8A%98%E5%8F%B0%E8%82%A118-69%E5%85%83-214616941.html",
+      "Content": "(中央社台北2026年 5月12日電)友達光電在OTC US掛牌ADR以5.95美元作收，上漲0.20美元，漲幅 3.48%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 5月11日新台幣匯市收盤價31.415元計算，相當台股友達每股為 18.69元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/11\n\n5.95\n\n0.20\n\n3.48\n\n31.415\n\n18.6\n\n5/ 8\n\n5.75\n\n-0.03\n\n-0.52\n\n31.429\n\n18.0\n\n5/ 7\n\n5.78\n\n-0.07\n\n-1.20\n\n31.409\n\n18.1\n\n5/ 6\n\n5.85\n\n0.29\n\n5.31\n\n31.488\n\n18.4\n\n5/ 5\n\n5.55\n\n0.35\n\n6.83\n\n31.605\n\n17.5\n\n5/ 4\n\n5.20\n\n0.44\n\n9.24\n\n31.610\n\n16.4\n\n5/ 1\n\n4.76\n\n0.17\n\n3.70\n\n31.648\n\n15.0\n\n4/30\n\n4.59\n\n-0.77\n\n-14.37\n\n14.5\n\n4/29\n\n5.36\n\n0.03\n\n0.56\n\n31.557\n\n16.9\n\n4/28\n\n5.33\n\n-0.10\n\n-1.84\n\n31.518\n\n16.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-12",
+      "Time": "05:46:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR11日下跌0.71美元跌幅1.62%折台股135.40元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr11%E6%97%A5%E4%B8%8B%E8%B7%8C0-71%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-62-%E6%8A%98%E5%8F%B0%E8%82%A1135-40%E5%85%83-214612917.html",
+      "Content": "(中央社台北2026年 5月12日電)中華電信在NYSE掛牌ADR 以 43.10美元作收，下跌0.71美元，跌幅 1.62%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 5月11日新台幣匯市收盤價31.415元計算，相當台股中華電信每股為135.40元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/11\n\n43.10\n\n-0.71\n\n-1.62\n\n31.415\n\n135.4\n\n5/ 8\n\n43.81\n\n0.45\n\n1.04\n\n31.429\n\n137.6\n\n5/ 7\n\n43.36\n\n0.02\n\n0.05\n\n31.409\n\n136.1\n\n5/ 6\n\n43.34\n\n0.23\n\n0.53\n\n31.488\n\n136.4\n\n5/ 5\n\n43.11\n\n0.28\n\n0.65\n\n31.605\n\n136.2\n\n5/ 4\n\n42.83\n\n-0.32\n\n-0.74\n\n31.610\n\n135.3\n\n5/ 1\n\n43.15\n\n-0.19\n\n-0.44\n\n31.648\n\n136.5\n\n4/30\n\n0.37\n\n0.86\n\n137.1\n\n4/29\n\n42.97\n\n-0.60\n\n-1.38\n\n31.557\n\n135.6\n\n4/28\n\n43.57\n\n-0.03\n\n-0.07\n\n31.518\n\n137.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-05-12",
+      "Time": "05:46:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR11日上漲0.17美元漲幅1.10%折台股97.95元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr11%E6%97%A5%E4%B8%8A%E6%BC%B20-17%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-10-%E6%8A%98%E5%8F%B0%E8%82%A197-95%E5%85%83-214610531.html",
+      "Content": "(中央社台北2026年 5月12日電)聯電在NYSE掛牌 ADR以15.59美元作收，上漲0.17美元，漲幅 1.10%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 5月11日新台幣匯市收盤價31.415元計算，相當台股聯電每股為 97.95元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/11\n\n15.59\n\n0.17\n\n1.10\n\n31.415\n\n97.9\n\n5/ 8\n\n15.42\n\n0.26\n\n1.72\n\n31.429\n\n96.9\n\n5/ 7\n\n15.16\n\n-0.07\n\n-0.46\n\n31.409\n\n95.2\n\n5/ 6\n\n15.23\n\n1.22\n\n8.71\n\n31.488\n\n95.9\n\n5/ 5\n\n14.01\n\n1.03\n\n7.94\n\n31.605\n\n88.5\n\n5/ 4\n\n12.98\n\n-0.54\n\n31.610\n\n82.0\n\n5/ 1\n\n13.05\n\n-0.01\n\n-0.08\n\n31.648\n\n82.6\n\n4/30\n\n13.06\n\n0.31\n\n2.43\n\n4/29\n\n12.75\n\n1.09\n\n9.35\n\n31.557\n\n80.4\n\n4/28\n\n11.66\n\n-0.03\n\n-0.26\n\n31.518\n\n73.5",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-05-12",
       "Time": "05:42:26",
@@ -31,6 +61,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-taps-swiss-debt-market-214226534.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) is preparing to issue Swiss franc bonds for the first time, marking another step by Big Tech hyperscalers to broaden their funding base as artificial intelligence spending continues to rise. The company has mandated BNP Paribas SA, Deutsche Bank ( NYSE:DB ), and JPMorgan Chase ( NYSE:JPM ) for a six-part Swiss franc bond sale with maturities ranging from three to 25 years, according to a person familiar with the matter. The move could give Amazon access to a market where demand for high-grade US corporate issuers remains steady, while also allowing the company to tap multiple investor groups across different parts of the maturity curve.\n\nWarning! GuruFocus has detected 4 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAmazon said the proceeds would be used for general business purposes, including supporting investment and capital expenditure, as well as repaying upcoming debt maturities. The potential Swiss franc debut comes after a wave of large European bond issuance from technology companies seeking to diversify beyond dollar debt while raising capital linked to AI infrastructure investment. Alphabet ( NASDAQ:GOOG ), Google's parent company, raised about 3 billion Swiss francs, or $3.9 billion, in February, the largest corporate borrowing ever in that market, while Amazon's debut euro bond in March set the same record for that currency.\n\nThe broader investment backdrop remains significant for investors. Amazon, Meta Platforms ( NASDAQ:META ), Microsoft ( NASDAQ:MSFT ), and Alphabet are planning to invest as much as $725 billion this year in AI data center equipment and other capital expenditure, a bigger total than previously expected. Apostolos Bantis, managing director of fixed income at Union Bancaire Privee Ubp SA, said the Swiss market continues to offer steady demand for high-grade names and a strong bid for familiar US corporate issuers. Bantis also noted that issuing several maturities at once can help borrowers reach different investor pockets, raise more money, and keep concessions tight while the window remains open.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-05-12",
+      "Time": "05:41:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR11日下跌7.14美元跌幅1.73%折台股2541.72元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr11%E6%97%A5%E4%B8%8B%E8%B7%8C7-14%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-73-%E6%8A%98%E5%8F%B0%E8%82%A12541-72%E5%85%83-214108154.html",
+      "Content": "(中央社台北2026年 5月12日電)台積電在NYSE掛牌 ADR以404.54美元作收，下跌7.14美元，跌幅 1.73%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 5月11日新台幣匯市收盤價31.415元計算，相當台股台積電每股為 2541.72元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/11\n\n404.54\n\n-7.14\n\n-1.73\n\n31.415\n\n2541.7\n\n5/ 8\n\n411.68\n\n-2.47\n\n-0.60\n\n31.429\n\n2587.7\n\n5/ 7\n\n414.15\n\n-5.35\n\n-1.28\n\n31.409\n\n2601.6\n\n5/ 6\n\n419.50\n\n25.09\n\n6.36\n\n31.488\n\n2641.8\n\n5/ 5\n\n394.41\n\n-7.20\n\n-1.79\n\n31.605\n\n2493.0\n\n5/ 4\n\n401.61\n\n3.94\n\n0.99\n\n31.610\n\n2538.9\n\n5/ 1\n\n397.67\n\n1.61\n\n0.41\n\n31.648\n\n2517.0\n\n4/30\n\n396.06\n\n2.23\n\n0.57\n\n2506.9\n\n4/29\n\n393.83\n\n1.49\n\n0.38\n\n31.557\n\n2485.6\n\n4/28\n\n392.34\n\n-12.64\n\n-3.12\n\n31.518\n\n2473.1",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
