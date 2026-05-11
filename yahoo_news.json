@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-11T10:40:14.922Z",
-  "total_news_count": 980,
+  "last_updated": "2026-05-11T10:44:02.272Z",
+  "total_news_count": 991,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-11",
+      "Time": "18:35:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股收漲帶動台股今漲逾百點收4萬1　台積電大跌55元",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E6%94%B6%E6%BC%B2%E5%B8%B6%E5%8B%95%E5%8F%B0%E8%82%A1%E4%BB%8A%E6%BC%B2%E9%80%BE%E7%99%BE%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-060400065.html",
+      "Content": "【記者許麗珍／台北報導】美國4月非農就業數據優於市場預期，激勵美股4大指數收漲。台股今開高走高，收盤上漲186.12點或0.45%，收在41,790.06點，成交金額11155.48億元。台積電今開盤下跌25元，終場大跌55元，收2235元。\n\n美伊再次發生衝突，市場期待中東戰爭結束的期望受挫，另因美國公布4月新增11萬5000人就業數據，較原先預期2倍多，優於預期，激勵美股收紅。本週美國總統川普預計前往中國訪問，美國資深官員指出，川普將與中國國家主席習近平持續就台灣議題進行對話，不預期美國政策有任何改變。\n\n美股8日表現，標準普爾500和那斯達克指數再創歷史新高。道瓊工業指數終場上漲12.19點，或0.02%，收在49609.16點；標準普爾500指數上漲61.82點，或0.84%，收在7398.93點；以科技股為主的那斯達克指數上漲440.88點，或1.71%，收在26247.08點；費城半導體指數上漲614.507點，或5.51%，收在11775.500點。\n\n台股8日下跌329.84點，收在41603.94點，外資及陸資轉為賣超新台幣120.84億元，終止連續4個交易日買超。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-11",
+      "Time": "18:22:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股上漲撐匯價　新台幣小升1.4分收31.415元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2%E6%92%90%E5%8C%AF%E5%83%B9-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%B0%8F%E5%8D%871-4%E5%88%86%E6%94%B631-415%E5%85%83-102206108.html",
+      "Content": "（中央社記者潘姿羽台北11日電）美伊局勢持續僵持，美元指數重返98之上，不過台股上攻動能延續，為 新台幣 提供支撐，今天盤中再次挺進31.3元價位，收盤收31.415元，升1.4分，台北及元太外匯市場總成交金額22.875億美元。\n\n美國跟伊朗談判觸礁，國際油價再次啟動漲勢，避險情緒升溫，支撐美元指數反彈，亞幣升貶互見。\n\n儘管亞幣走勢分歧，近期新台幣匯率與台股、外資動向高度連動，而美國經濟數據顯示景氣仍具韌性，加上AI與半導體族群續強，均有助台股延續多頭氣勢。台股今天開高震盪走高，一度攻上42021.78點，隨後漲勢收斂，終場上漲186.12點，收41790.06點。\n\n新台幣兌美元今天以31.41元開盤，而後隨台股走高，匯價穩步走揚，盤中最高觸及31.35元，不過外資偏雙向操作，加上進口商逢低敲進美元，抑制升幅，收盤價未能站上31.3元。\n\n外匯交易員表示，美伊談判觸礁，但市場普遍認為這僅是雙方拉鋸過程，未進一步升高衝突，因此金融市場反應有限，股匯市仍由資金面主導；不過台股漲破42000點後，上方賣壓沉重，加上川習會即將登場，投資人轉趨觀望，估新台幣短線轉為偏升盤整，靜待消息面更為明朗。\n\n央行統計，主要亞幣今天各自表現，人民幣在川習會題材激勵之下，升值0.08%，新台幣小升0.04%，日圓貶值0.18%，韓元跌0.28%。（編輯：張均懋）1150511",
+      "Language": "zh"
+    },
     {
       "Ticker": "AAPL, INTC",
       "Date": "2026-05-11",
@@ -11,6 +31,56 @@
       "URL": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-ai-chipmaker-cerebras-to-stage-blockbuster-ipo-nvidias-jensen-huang-goes-to-china-100000740.html",
       "Content": "Chipmakers got a boost on Friday, helping to lift US stocks to record highs, after the Wall Street Journal reported that Apple ( AAPL ) and Intel ( INTC ) reached a deal that will have Intel supply the iPhone maker with chips.\n\nTech stocks may get another lift on Monday, as UAE-based AI chipmaker Cerebras is expected to make a splashy public debut. The startup counts Amazon ( AMZN ) and OpenAI ( OPAI.PVT ) among its customers, and its inital public offering is likely to be the biggest IPO of 2026 so far.\n\nIn other tech news, several tech executives, including Nvidia ( NVDA ) CEO Jensen Huang and Apple ( AAPL ) CEO Tim Cook, are expected to join the US delegation to Beijing. President Trump and Chinese President Xi Jinping are scheduled to meet later this week to discuss trade, the war in Iran, powerful AI models, and more.\n\nMeanwhile, the Elon Musk versus OpenAI ( OPAI.PVT ) trial, which wrapped up its second week on Thursday, is set to resume on Monday.\n\nMusk’s lawsuit against one of the world’s most valuable private companies has provided a number of details about the inner workings of OpenAI and the relationships between Musk, his fellow co-founders, CEO Sam Altman, and president Greg Brockman, former chief technology officer Mira Murati, and former board member, and mother of four of Musk’s children, Shivon Zilis.\n\nLIVE 2 updates\n\n12 mins ago Grace O'Donnell\n\nCerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​\n\nUnited Arab Emirates-based artificial intelligence chipmaker Cerebras Systems is set to raise the size and price of its initial public offering amid hot demand for shares of the AI company, according to Reuters.\n\nReuters reports:\n\nThe ‌company is considering a new IPO price range of $150-$160 a share, up from $115-$125 a share, and raising the number of shares ​marketed to 30 million from 28 million, said the sources, who asked not to be identified because the information isn't public yet.\n\nAt the top of the new range, Cerebras would raise roughly $4.8 billion, up from $3.5 billion under its original terms, though the figures remain subject to change before pricing, the people said.\n\nThe increase follows a broader ‌surge in AI adoption that has ⁠driven sharp demand for high-performance chips and turned semiconductors into a key bottleneck in the technology supply chain. Cerebras' IPO has drawn orders for more than 20 ⁠times the number of shares available, the people said, as the chipmaker looks to manage surging interest ahead of its May 13 pricing.\n\n14 mins ago Grace O'Donnell\n\nEverything you need to know from the first 2 weeks of the Musk v. OpenAI trial\n\nThe trial between Tesla ( TSLA ) CEO Elon Musk and OpenAI ( OPAI.PVT ) picks back up on Monday.\n\nMusk is seeking damages and a reversal of OpenAI’s transition to a for-profit.\n\nHe contends that OpenAI’s CEO Sam Altman and president Greg Brockman duped him into donating millions of dollars to get the company off the ground with the understanding that it would remain a nonprofit. OpenAI, however, says Musk is angry that the company rejected his offer to merge it with Tesla ( TSLA ) and name him CEO of the new entity.\n\nYahoo Finance’s Daniel Howley recaps the biggest moments so far in the trial:\n\nOpenAI filed court documents claiming that Musk tried to gauge Brockman’s interest in a settlement before the start of the trial. When Brockman suggested both sides drop their claims against each other, Musk allegedly told Brockman he would turn him and Altman into “the most hated men in America.”\n\nThe case will decide the future of OpenAI and whether it will continue to operate as a for-profit entity or revert to a nonprofit structure.\n\nDuring his testimony this week, Brockman claimed Musk wanted to become CEO of OpenAI because he needed $80 billion to build a city on Mars .\n\nBrockman also disclosed that he holds a roughly $30 billion stake in the AI company , as well as holdings in other Altman-backed companies.\n\nLIVE\n\n2 updates\n\n12 mins ago\n\nGrace O'Donnell\n\n14 mins ago\n\nOpenAI CEO Sam Altman arrives at the Ronald V. Dellums Federal Building on April 30, 2026, in Oakland, Calif. (Benjamin Fanjoy/Getty Images) · Benjamin Fanjoy via Getty Images\n\nOpenAI CEO Sam Altman arrives at the Ronald V. Dellums Federal Building on April 30, 2026, in Oakland, Calif. (Benjamin Fanjoy/Getty Images) · Benjamin Fanjoy via Getty Images Yahoo Finance’s Daniel Howley recaps the biggest moments so far in the trial:\n\nBrockman also disclosed that he holds a roughly <a rel class=\"link yahoo-link\" href=\"https://finance.yahoo.com/markets/stocks/articles/openai-co-founder-discloses-nearly-30-billion-stake-financial-ties-to-altman-234848710.html\" data-i13n=\"slk:$30 billion stake in the AI company;cpos:7;pos:1\" data-ylk=\"slk:$30 billion stake in the AI company;slk:$30 billion stake in the AI company;cpos:7;pos:1;elm:context_link;itc:0;sec:content-canvas;outcm:mb_qualified_link;_E:mb_qualified_link;ct:story;\" data-yga=\"{\"yLinkPosition\":\"7\",\"yLinkElement\":\"context_link\",\"yPosition\":\"1\",\"yModuleName\":\"content-canvas\",&quot",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-11",
+      "Time": "17:54:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "面板漲價.跨入AI有成 群創亮燈.友達漲5.6%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9D%A2%E6%9D%BF%E6%BC%B2%E5%83%B9-%E8%B7%A8%E5%85%A5ai%E6%9C%89%E6%88%90-%E7%BE%A4%E5%89%B5%E4%BA%AE%E7%87%88-%E5%8F%8B%E9%81%94%E6%BC%B25-6-095420330.html",
+      "Content": "[ 非凡新聞 ]攝影熊汝璽\n\n近期受惠面板報價上漲、AI PC換機潮，以及世界盃賽事題材帶動，還有群創與台積電合作積極切入先進封裝，友達也布局Micro LED與CPO應用，面板廠從顯示產業跨入AI與半導體應用的已經看見成果。週一面板類股大漲7.78%，群創強勢亮燈漲停，成交量更突破41萬張，衝上台股成交量冠軍。\n\n輕輕揮動手指，就能在車上玩起互動遊戲，群創近年積極發展的智慧座艙，透過面板應用讓乘坐體驗升級。此外群創還積極投入先進封裝FOPLP，近期傳出與台積電合作，成功打入SpaceX供應鏈，每月產量已飆升至4000萬顆，正式邁入規模化生產階段。\n\n台經院研究員 曾俊洲：「因為先進封裝最主要就是說，因為在AI的這個發展態勢下，那其實這個封裝的從原本的這種晶圓的這個封裝，轉換成這個面板級的，這個封裝其實那個面積是可以明顯的一個擴大，然後另外就是說它的這個成本，或者是相關的這種優勢，其實相對都是比較好的。」\n\n群創董事長洪進揚在股東會中，強調群創半導體先進封裝技術，已站在第一領先群位置，至於友達董事長彭浪，也在股東報告書中表示，微軟即將終止Windows10作業系統支援，加上AI PC需求持續升溫，有望帶動企業與消費者換機潮。再加上世界盃賽事題材，也可望推升電視與顯示器需求回升。而是市場也關注，友達在Micro LED與CPO應用。\n\n台經院研究員 曾俊洲：「那因為今年來看的話，就是這個標準化的這塊，其實大概就是一個持穩的一個態勢，那在這個客製化跟這個非顯示是這塊有，比較一個成長的動能，所以今年可望就是有一個，這個獲利成長的一個表現。」\n\n專家指出，面板廠後續能否放大客製化，與非顯示業務，將是改善獲利結構，甚至轉虧為盈的關鍵。新應用能不能真正放量，成為支撐營運成長的新動能。\n\n運達投顧分析師 吳官隆：「整個中國部分它的稼動率有上升以及有做減產動作，那再加上說還有這個，大家很期待世界盃足球，所以看起來他的短線上，有這個四大利多的齊集，那基本上形態是漂亮的，那最主要它的最大優勢，我覺得是股價相對便宜，因為很多股票相比它的股價算相對親切，一般投資人也好入手。」\n\n在利多消息帶動下，周一面板類股漲幅高達7.78%，其中群創強勢亮燈漲停，成交量突破41萬張，衝上台股成交量第一名，元太開盤後也攻上漲停板，友達、彩晶漲幅也超過半根停板，面板族群強勢點火，代表市場開始重新檢視，面板廠從顯示產業，跨入AI與半導體應用的新價值。（記者許佑娟、熊汝璽／台北採訪報導）\n\n觀看原文...\n\n陳立武頒學位給黃仁勳 透露正在合作新產品!\n\n聯發科.高通投片減 台積電空出產能超微訂走\n\n黃仁勳怒批AI末日論 批CEO別自認什麼都懂",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-11",
+      "Time": "17:54:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股4萬點全民投資熱 00981A單周圈粉10萬人",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A14%E8%90%AC%E9%BB%9E%E5%85%A8%E6%B0%91%E6%8A%95%E8%B3%87%E7%86%B1-00981a%E5%96%AE%E5%91%A8%E5%9C%88%E7%B2%8910%E8%90%AC%E4%BA%BA-095411894.html",
+      "Content": "[ 非凡新聞 ]記者林浩宇\n\n台股熱，ETF更成為市場焦點。最新統計顯示，78檔台股原型ETF受益人數突破1455萬人，其中00981A單周大增超過10萬人，人氣最旺。不只台股ETF夯，越來越多投資人也開始布局美股、半導體等海外股票型ETF。隨著5月除息熱潮來臨，高股息ETF配息率甚至衝破雙位數，也讓ETF市場話題一波接一波。\n\n民眾：「聊哪支會漲，就聊哪支(股票)會漲。」\n\n現在上班族熱門話題，從午餐吃什麼，變成股票買什麼，ETF更成討論的中心之一，最新受益人數排行榜出爐，78檔台股原型ETF，上週受益人數淨增加15.7萬多人，整體人數超過1455萬人 創下新高。\n\n其中受益人數增加最多前五名，第一名是00981A單周大增10萬多人，上市不到一年，總受益人數已經攀升到86.2萬人，而國民ETF0050則排名第二名，股民不只對台股ETF買單，海外ETF也吸引不少股民眼光。\n\n民眾：「買了特斯拉跟輝達，算是近一年開的(證券戶)，就是聽說投資不錯，可以讓自己有被動收入。」\n\n民眾：「加碼美股的S&P500的，後面應該還是會漲吧，因為現在台股漲太兇了，我有跟同事討論，之後可能資金慢慢移到美股，所以我覺得美股可以布局一下。\n\n海外股票型ETF飆漲排行榜也揭曉，國泰臺韓科技00735漲幅超過90%是第一名，主動統一全球創新00988A，今年以來股價狂飆超過86%是第二名。\n\n至於海外股票型ETF受益人數，前兩名分別是復華富時不動產00712、國泰費城半導體00830，受益人數都超過13萬人。\n\n國泰投信ETF經理人 李翰林：「資金的布局上面，日本跟韓國其實以外資來看的話，是呈現一個明顯逢高獲利了結賣出的賣壓，資金就跑到美國市場上面。以過去一兩年的指數年漲幅來看，其實多半聚焦在半導體相關類股上，那今年就特別的明顯，像美股四大指數，標普500或者是像那斯達克，漲幅大概都有10幾%以內，但是像半導體相關類股，裡面表現特別突出的。」\n\n隨著5月除息旺季到來，高股息ETF也再度成為投資人關注焦點，多檔ETF配息率直接衝破雙位數，其中FT臺灣永續高息00961和中信成長高股息00934，年化配息率雙雙超過11%，ETF市場話題一波接一波，反映出全民投資熱潮持續發燒。（記者 林浩宇、邱文傑／台北報導）\n\n觀看原文...\n\n三星.SK海力士飆天價韓股收新高 日股翻黑\n\n金融三業Q1大賺3709億年增37% 創同期新高\n\n台積電跌破十日線壓盤 台股漲186點4萬2殘念",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-11",
+      "Time": "17:39:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股多頭助攻！永豐金前4月大賺158億元EPS突破1元 證券獲利暴增2.5倍",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%9A%E9%A0%AD%E5%8A%A9%E6%94%BB-%E6%B0%B8%E8%B1%90%E9%87%91%E5%89%8D4%E6%9C%88%E5%A4%A7%E8%B3%BA158%E5%84%84%E5%85%83eps%E7%AA%81%E7%A0%B41%E5%85%83-%E8%AD%89%E5%88%B8%E7%8D%B2%E5%88%A9%E6%9A%B4%E5%A2%9E2-5%E5%80%8D-093937681.html",
+      "Content": "永豐金控 (2890-TW) 今 (11) 日公布 2026 年 4 月自結財務數據，單月稅後純益 48.93 億元，月增 78%、年增 168%，累計前 4 月稅後純益達 158.33 億元，較前一年度成長 75%，每股稅後純益 (EPS) 為 1.09 元，創下歷史新高。年化股東權益報酬率達 18.25%。4 月獲利噴發關鍵動能來自於證券子公司，在台股多頭助攻下，永豐金證券 4 月獲利月增 252%，前 4 月累計獲利年增幅達 256%。\n\n觀察單月獲利表現，永豐金 4 月稅後純益為 48.93 億元，月增 78%。月度間的差異主要歸因於資本市場表現強勁。\n\n主要子公司永豐銀行 4 月稅後純益為 19.9 億元，月增 1%，整體表現維持穩定。京城銀行 4 月稅後純益為 4.93 億元，月增 17%，獲利增加主因利息淨收益與金融交易淨收益增加。永豐金證券 4 月稅後純益為 19.34 億元，月增 252%，強勁增長主要是由於手續費淨收益的成長與資本利得的顯著增加。\n\n永豐金控 2026 年前 4 月稅後純益為 158.33 億元，年增 75%，主要由核心子公司獲利創歷史新高的成果所驅動。\n\n主要子公司永豐銀行連續第六年創獲利新高紀錄，累計稅後純益達 93.38 億元，年增 16%。淨收益成長由利息淨收益及手續費淨收益的增長所帶動，年增長各為 25% 與 9%。資產品質維持良好，銀行逾放比率為 0.10%。\n\n京城銀行前 4 月稅後純益為 20.32 億元，除了 1 月份京城銀國際租賃處分利得 2.87 億元，利息淨收益、手續費淨收益與金融交易淨收益皆有成長。資產品質穩定，銀行逾放比率為 0.08%。\n\n永豐金證券前 4 月稅後純益達 42.96 億元，年增 256%，亦創下歷史同期新高，主要受惠於經紀與泛財管手續費淨收益成長，以及較高的資本利得。手續費淨收益年成長為 107%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-11",
+      "Time": "17:38:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超109億元 甩賣緯創5.3萬張、擴大減碼台積電1.7萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85109%E5%84%84%E5%85%83-%E7%94%A9%E8%B3%A3%E7%B7%AF%E5%89%B55-3%E8%90%AC%E5%BC%B5-%E6%93%B4%E5%A4%A7%E6%B8%9B%E7%A2%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB1-7%E8%90%AC%E5%BC%B5-093833083.html",
+      "Content": "台股今 (11) 日尾盤收漲 186 點，收在 41,790 點，4 萬 2 大關得而復失，外資持續站賣方，瞄準權值股進行提款，台積電遭賣 1.7 萬張，賣超金額達 400 億元；賣超緯創 3.6 萬張，力積電、京元電、中鋼等個股同步遭到調節。\n\n三大法人合計買超 49.34 億元，外資賣超 109.84 億元，呈現連 2 賣，自營商買超 37.3 億元，終止連 4 賣，投信持續加碼 121.88 億元，已連 14 買；期貨方面，外資減碼空單 305 口，未平倉空單口數降至 54,225 口，投信與自營商也雙雙加碼多單。\n\n外資今日瞄準權值股以及近日強漲股進行提款，如台積電 (2330-TW)，遭賣 1.77 萬張，緯創 (3231-TW)、力積電 (6770-TW)、中鋼 (2002-TW) 及京元電 (2449-TW) 都難逃調節賣壓，張數分別達 1.8 萬張至 5.3 萬張，低軌衛星概念股股華通 (2313-TW) 也有 1.6 萬張的賣超。\n\n外資買超青睞二線業者，包括面板的友達 (2491-TW)、電源供應器的康舒 (6282-TW)、組裝代工的金寶 (2312-TW) 以及晶圓代工的聯電 (2303-TW)，張數達 2.3 萬張至 3.1 萬張，凸顯資金開始擴散至二線供應商。\n\n投信也同樣青睞二線晶圓代工，包括世界 (5347-TW) 與聯電，合計敲進 5 千張，自營商也與外資有志一同，加碼群創、金寶、康舒，張數各自達 1,700 張以上。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-11",
+      "Time": "17:35:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股操盤人筆記】確定獲利成長方向，波動就只是途中的風景",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%93%8D%E7%9B%A4%E4%BA%BA%E7%AD%86%E8%A8%98-%E7%A2%BA%E5%AE%9A%E7%8D%B2%E5%88%A9%E6%88%90%E9%95%B7%E6%96%B9%E5%90%91-%E6%B3%A2%E5%8B%95%E5%B0%B1%E5%8F%AA%E6%98%AF%E9%80%94%E4%B8%AD%E7%9A%84%E9%A2%A8%E6%99%AF-093542102.html",
+      "Content": "加權股價指數近 6 個月表現： （資料來源：Bloomberg，截至 2026/05/06）\n\n野村腳勤觀點：\n\n產能不獨厚 GPU，ASIC 陣營迎來彎道超車機會\n\nAlphabet 憑藉著 TPU 與亮眼的財報表現，市值一舉攀升至 4.82 兆美元；相較之下，輝達市值回落至 4.85 兆美元，雙方差距縮小至不到 0.2 兆美元，顯然 AI 算力霸主的地位正面臨挑戰。當然，輝達晶片在 AI 訓練與算力領域依然是目前產業的天花板，然而 TPU 在效能 / 成本比的優勢顯然更符合 AI 推論時代對算力的需求；另一個關鍵因素，是 AI 供應鏈的地位越來越重要，尤其台積電在先進封裝產能上採取分散客戶策略，這不僅削弱了輝達過去近乎壟斷的地位，也給予其他 CSP 與 ASIC 陣營彎道超車的機會。也因此投資 AI 不只是關注基本面與 AI 技術演變就好，從供應鏈出發的邏輯也很重要，這是台灣的優勢，只有站在正確的陣營，才能在長期競爭中掌握優勢。\n\n經理人視角：\n\n大盤利多因素：\n\n（一) AI 投資強勁 ： 全球科技巨頭持續上調 2026 年資本支出，AI 投資循環尚未見頂\n\n（二） AI 供應鏈瓶頸成關鍵 ： T-Glass、Memory、CoWoS 缺貨看到 2027 年，漲價題材奠定台股底氣\n\n（三） 獲利動能上修 ： 野村投信預估 2026 全年台股整體 EPS+43.5%，持續上修並領先全球主要股市\n\n大盤利空因素：\n\n（一） 漲多就是利空 ： 歷史性漲幅引發獲利了結賣壓，籌碼凌亂導致股價短線震盪\n\n（二） 對等關稅違憲變數 ： 若關稅退稅將使美國雙帳赤字惡化並壓抑美元表現，出口型經濟體存在潛在壓力\n\n確定獲利成長方向，波動就只是途中的風景\n\n加權指數近期衝上高位，市場融資融券餘額同創新高，內外資合計的空單餘額也創新高，台股多空交戰，市場情緒擁擠且激昂。然而我們還是老話一句，回歸到行情的根本，我們看到最新財報後 CSP 繼續上修 2026 年資本支出上限至 7,600 億美元，並對明年釋出將「顯著成長」的看法；另一方面，本季台股企業 EPS 持續創高，並處於強勁的上修循環，從目前我們對供應鏈確認的狀況，AI 產業成長能見度放眼至 2028 年依然清晰，即便市場偶爾有「股價提前反映」的雜音，但只要 AI 應用持續發展，能見度便會從 2028 年往更長遠的未來延伸。股價的走勢從來不是直線，利多提前反映、情緒引發的修正、籌碼的洗滌，都會帶來股價的上下震盪，這都是市場常態，但只要確定產業趨勢與企業獲利長期向上，任何波動就只是途中風景，掌握正確的投資心態與投資方法便無所畏懼。\n\n本文提及之經濟走勢預測不必然代表基金之績效，基金投資風險請詳閱基金公開說明書。\n\n閱讀更多精彩文章\n\n<p class=\"mb-module-gap break-wor",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
@@ -31,6 +101,16 @@
       "URL": "https://finance.yahoo.com/m/55a7615f-7851-3836-8a24-9293137c346e/this-ai-stock-is-crushing.html",
       "Content": "Nvidia (NASDAQ: NVDA) remains the center of the artificial intelligence boom, but the stock is up just 15% in 2026, both because investors worry the current pace of AI spending is unsustainable and because they question the durability of Nvidia's dominance in the AI infrastructure market.\n\nMeanwhile, DigitalOcean (NYSE: DOCN) is a little-known cloud computing company whose aggressive expansion into AI services has led to tremendous shareholder returns. The stock is up 240% this year, and most Wall Street analysts say it's still undervalued. The median target price of $177 per share implies 8% upside from its current share price of $164.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nHere's what investors should know about these AI stocks.\n\nNvidia: The dominant supplier of AI infrastructure\n\nNvidia dominates the artificial intelligence infrastructure. The company is best known for its GPUs, chips that accelerate AI workloads, but its greatest competitive strength lies in vertical integration. Nvidia builds rack-scale AI systems comprising chips and networking, and it supplements its hardware with an unmatched software ecosystem of developers.\n\nThat full-stack strategy affords Nvidia a durable competitive moat. The company has nearly 90% market share in AI accelerators, and it captures over 40% of AI data center spending. Nvidia may lose some market share in the coming years as custom chips (e.g., Alphabet 's TPU) become more popular, but it will almost certainly remain the dominant supplier of AI infrastructure.\n\n\"Our pace of innovation, particularly at our scale, is unmatched, fueled by an annual R&D budget approaching $20 billion and our ability to extreme co-design across compute and networking across chips, systems, algorithms, and software,\" CFO Colette Kress recently told analysts. \"We intend to deliver x-factor leaps in performance per watt every generation and extend our leadership position over the long term.\"\n\nNvidia has an important catalyst on the horizon in the upcoming launch of its Vera Rubin platform, which brings together Rubin GPUs and Vera CPUs. It works with Groq 3 LPUs (language processing units) to speed up inference tasks. When paired with LPUs, Rubin GPUs deliver up to 35 times more throughput per watt than the previous generation of Blackwell GPUs.\n\nWall Street estimates Nvidia's adjusted earnings will increase at 53% annually through the fiscal year ending in January 2028. That makes the current valuation of 45 times adjusted earnings look quite reasonable. It's not too late for patient investors to buy Nvidia.\n\nStory Continues\n\nDigitalOcean: The cloud company simplifying AI services\n\nDigitalOcean provides cloud infrastructure and platform services to small and medium-sized businesses, particularly those in the technology sector. Hyperscalers like Amazon and Microsoft undoubtedly have broader portfolios, but their products are built for large customers with complex needs, deep pockets, and large IT departments.\n\nBy comparison, DigitalOcean offers fewer and less advanced services, but its platform is designed to simplify cloud computing. Its intuitive user interface with click-and-go options lets developers spin up servers and deploy applications quickly, often in just a few minutes. DigitalOcean also provides no-cost 24/7 technical support to all customers.\n\nThe number of inference tokens processed daily is projected to grow over tenfold by 2030, meaning demand for AI infrastructure is expected to increase substantially. DigitalOcean hopes to capitalize on this boom with its AI-Native Cloud, which brings together the servers and software needed for agentic workloads. CEO Paddy Srinivasan called it the \"most significant product launch\" in company history.\n\nDigitalOcean reported solid first-quarter financial results . Revenue increased 22% to $258 million, driven by exceptionally strong sales growth among AI customers. Non-GAAP net income dropped 21% to $0.44 per diluted share, but that was due to significant spending on AI infrastructure. \"We beat every financial target we shared in our last call,\" Srinivasan told analysts.\n\nDigitalOcean also gave very encouraging guidance, bolstered by what Srinivasan sees as a \"generational market opportunity\" in AI. The company says revenue growth will hit 26% in 2026, before accelerating to over 50% in 2027. Management previously predicted revenue would grow 30% next year, but the company recently secured 60 megawatts of additional compute capacity that will boost sales.\n\nWall Street estimates DigitalOcean's adjusted earnings will grow at 23% annually through 2028. That makes the current valuation of 81 times adjusted earnings look expensive. The market is excited by the upward revision to revenue guidance, and the stock has climbed more than 50% since the company reported earnings on May 5. I think investors should wait for a pullback before buying shares, or at least keep any purchases very small.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-11",
+      "Time": "17:24:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美好證4月底淨值破百億 核心持股有台積電",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%A5%BD%E8%AD%894%E6%9C%88%E5%BA%95%E6%B7%A8%E5%80%BC%E7%A0%B4%E7%99%BE%E5%84%84-%E6%A0%B8%E5%BF%83%E6%8C%81%E8%82%A1%E6%9C%89%E5%8F%B0%E7%A9%8D%E9%9B%BB-092401983.html",
+      "Content": "美好證券 (6021-TW) 近期發布 4 月自結稅後純益高達 9.96 億元，每股純益 (EPS) 衝上 3.235 元，每股淨值達 36.44 元；美好證今日表示，4 月淨值較 3 月底顯著增加約 15.7 億元至 112.35 億元，主要歸功於高度集中 AI 產業鏈投資組合，核心持股有台積電 (2330-TW)、鴻海 (2317-TW) 等。\n\n美好證營運主軸為「資產管理」和「高附加價值型財務顧問」雙模式，在多頭市場中發揮效能，而每股配發現金股利 2 元完成填息。\n\n美好證指出，長期布局 AI 產業鏈核心企業投資部位，核心持股有台積電 (2330-TW)、鴻海 (2317-TW)，有效創造可觀收益，隨著 AI 技術大幅提升生產力和效能，將持續為美好證鞏固資產端的回報基礎。\n\n美好證 4 月淨值躍升至 112.35 億元， 相較去年 4 月底約 68.89 億元，年增率高達 63.09%，美好證以「含配息淨值增加額之 30%」作為分派原則，每股配發 2 元現金股利，隨著市場買盤進場完成填息，反映投資人對於公司將「資產增值」轉化為「現金回饋」的營運模式，具備信心。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -90,6 +170,36 @@
       "Title": "台股42000點得而復失！台積電尾盤遭摜壓、聯發科股價續攻高",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A142000%E9%BB%9E%E5%BE%97%E8%80%8C%E5%BE%A9%E5%A4%B1-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E9%81%AD%E6%91%9C%E5%A3%93-%E8%81%AF%E7%99%BC%E7%A7%91%E8%82%A1%E5%83%B9%E7%BA%8C%E6%94%BB%E9%AB%98-085046165.html",
       "Content": "商傳媒 ｜記者顏康寧／台北報導\n\n台股 11 日開高震盪走高，盤中一度攻上 42,021.78 點，挑戰 42,000 點整數關卡，不過尾盤在台積電股價遭摜壓下，指數漲幅明顯收斂。加權指數終場上漲 186.12 點，收在 41,790.06 點，漲幅 0.45%，成交金額約新台幣 1 兆 1,135 億元。盤面呈現權值股分歧、資金轉向中小型股與題材股的結構，顯示台股雖維持多頭氣勢，但高檔震盪與追價風險同步升高。\n\n護國神山台積電成為壓抑大盤攻高的主要變數，台積電今日下跌 55 元，收在 2,235 元，跌幅約 2.4%，尾盤賣壓使大盤未能站穩 42,000 點。相較之下，聯發科延續強勢表現，上漲 250 元，收在 3,880 元，漲幅 6.89%，續創盤中與收盤新高。台達電上漲 45 元，收在 2,245 元；鴻海上漲 2 元，收在 252 元，成為撐盤要角之一。\n\n從類股表現觀察，電子類股指數上漲 0.48%，金融類股指數下跌 0.72%，代表中小型股的櫃買指數大漲 3.07%。資金明顯從單一權值股轉向具題材性的中小型族群，包括機器人、記憶體、設備與部分高價電子股，盤面呈現「指數高檔震盪、個股輪動加速」的格局。\n\n今日盤面焦點仍集中在 AI 供應鏈、半導體與高速運算相關族群。近期美股科技股與 AI 題材持續帶動市場風險偏好，台股在台積電、聯發科、鴻海、台達電等權值股牽動下，指數維持高檔；不過，隨著加權指數短線漲幅已大，市場追價力道開始出現分歧，部分資金選擇轉往櫃買市場與中小型題材股尋找補漲機會。\n\n值得注意的是，台股今日雖然收紅，但未能站穩 42,000 點，代表整數關卡上方仍有獲利了結與解套賣壓。部分專家認為，AI 伺服器、先進製程、記憶體與機器人題材仍是台股中期主軸，只要國際資金持續回流亞洲科技股，台股多頭架構尚未明顯破壞。尤其聯發科強勢創高，顯示資金並未完全撤出電子股，而是從台積電等大型權值股，轉向具成長想像空間的 IC 設計與高階電子族群。\n\n不過，也有分析師提醒，台股近期成交金額維持在兆元以上，代表市場熱度極高，也意味短線波動可能放大。若美國科技股回檔、美元利率預期反覆，或外資在高檔調節大型權值股，台股可能出現快速震盪。尤其指數連續挑戰 42,000 點未能站穩，短線投資人應留意追高風險。\n\n本分析僅供參考，不代表任何投資建議。投資者應注意全球半導體產能分配波動、地緣政治風險及終端需求轉向之不確定性。市場有風險，投資需謹慎，入市前請獨立評估或諮詢專業顧問。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-11",
+      "Time": "16:50:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電CoWoS積極擴產仍跟不上！外媒：SK海力士評估導入英特爾EMIB 整合記憶體與ASIC",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBcowos%E7%A9%8D%E6%A5%B5%E6%93%B4%E7%94%A2%E4%BB%8D%E8%B7%9F%E4%B8%8D%E4%B8%8A-%E5%A4%96%E5%AA%92-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%A9%95%E4%BC%B0%E5%B0%8E%E5%85%A5%E8%8B%B1%E7%89%B9%E7%88%BEemib-%E6%95%B4%E5%90%88%E8%A8%98%E6%86%B6%E9%AB%94%E8%88%87asic-085003518.html",
+      "Content": "外媒最新報導指出，南韓記憶體大廠 SK 海力士正與英特爾攜手合作，共同研發 2.5D 先進封裝技術，並評估引入英特爾開發的「嵌入式多晶片互連橋 (EMIB)」技術。\n\n根據《ZDNet》報導，目前 SK 海力士已著手測試，嘗試將 HBM 與系統半導體，整合至英特爾提供的 EMIB 嵌入式基板上，同時積極尋找適合量產的材料與零件，此舉意在應對當前 AI 產業爆發下先進封裝產能緊缺的挑戰。\n\n長期以來，台積電的 CoWoS 封裝技術在主導市場，SK 海力士也與台積電保持緊密合作，但受限於 AI 算力需求激增，CoWoS 正面臨嚴峻的供應短缺問題。\n\n相較之下，英特爾的 EMIB 技術因捨棄大面積矽中介層，改採嵌入式矽橋實現高頻寬、低成本的 Chiplet 互連，具備更低功耗、更低封裝成本以及對大型混合節點系統更優的可擴展性。\n\n中國國金證券將 EMIB 技術譽為「AI 大算力時代的橫向高速公路」，知名分析師郭明錤也透露，EMIB 先進封裝後段良率已提升至 90% 以上，雖仍以業界 FCBGA 普遍 98% 以上的標準為目標，但已展現成熟潛力。\n\n目前，包含谷歌、Meta 在內多家科技巨頭已將 EMIB 視為 CoWoS 極具前景的替代方案，英特爾也正跟至少兩家大型客戶持續磋商先進封裝服務，財務長 David Zinsner 表示，英特爾晶圓代工業務即將完成多項先進封裝交易，單項年營收潛力高達數十億美元。此外，整合矽通孔 (TSV) 的 EMIB-T 預計今年開始量產。\n\n市場分析指出，後摩爾時代先進封裝產能吃緊，正推動封裝方案加速迭代。由於 CoWoS 多數產能長期由輝達 GPU 佔據，加上 AI 催生超大封裝需求及美國製造考量，不僅 SK 海力士積極測試 EMIB，谷歌、Meta 等北美雲端服務供應商 (CSP) 也主動接洽英特爾 EMIB 解決方案，預估 ASIC 晶片未來有望從 CoWoS 轉向 EMIB 技術，供應鏈多元化趨勢愈發明顯。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-05-11",
+      "Time": "16:43:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》KOSPI指數再創高，半導體類股領漲",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-kospi%E6%8C%87%E6%95%B8%E5%86%8D%E5%89%B5%E9%AB%98-%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%A1%9E%E8%82%A1%E9%A0%98%E6%BC%B2-084300558.html",
+      "Content": "MoneyDJ新聞 2026-05-11 16:43:22 數位內容中心 發佈\n\n韓股今(11)日強勢上漲，韓國KOSPI指數收於7,822.24點，上漲324.24點或4.32%，盤中最高觸及7,899.32點，再創歷史新高，並進一步推升韓股總市值首度突破7,000兆韓元；韓國KOSDAQ指數收於1,207.34點，下跌0.38點或0.03%。\n\n盤面上，由半導體類股領漲，Samsung Electronics(005930.KS)漲6.33%，SK Hynix (000660.KS)漲11.51%，電機電子、製造、運輸設備與零件、流通及電信類股亦普遍上揚；能源、公用事業、製藥及部分防禦類股表現則相對疲弱。\n\n資金流向方面，今日外資為顯著淨賣方，淨賣出約3.49兆韓元，但散戶淨買入約2.87兆韓元、機構淨買入約6,303億韓元，呈現由內資承接外資賣壓的盤面結構。\n\n《韓股》KOSPI創收盤新高 半導體/科技股領漲\n\n直得布局系統整合，深化技術攻高精度應用\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-05-11",
+      "Time": "16:40:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《陸股》滬指登4200點/科創50寫新高；恆指漲0.05%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E8%82%A1-%E6%BB%AC%E6%8C%87%E7%99%BB4200%E9%BB%9E-%E7%A7%91%E5%89%B550%E5%AF%AB%E6%96%B0%E9%AB%98-%E6%81%86%E6%8C%87%E6%BC%B20-05-084000544.html",
+      "Content": "MoneyDJ新聞 2026-05-11 16:40:32 新聞中心 發佈\n\n川習會即將登場；中國公布4月CPI溫和回升，PPI年增2.8%、寫近四年新高；4月美元計出口年增14.1%、進口增25.3%，均勝預期，激勵滬深兩市三大指數今(11)日開高走揚，滬指站上4200點，創業板指突破3900點、創11年新高，科創50漲4.6%、刷新歷史新高。盤面上，市場熱點快速輪動，記憶體晶片、半導體、生物疫苗、CPO、MLCC等概念股強勢拉升，兩市逾百檔個股漲停。滬指終場以接近今日最高點作收，收漲1.08%，日K連八紅。\n\n上證指數今收於4225.02點、漲1.08%；深證成指收於15899.30點、漲2.16%；創業板指收於3928.97點、漲3.5%；科創50收於1716.69點、漲4.65%；中證A500收於6262.31點、漲1.76%。\n\n成交量方面，滬市今成交1兆5,844億元(人民幣,下同)，深市成交1兆9,545億元，兩市成交額達3兆5,389億元，相較前一交易日量增16%，成交量連續四日逾3兆元。\n\n從盤面上來看，先進封裝、記憶體晶片、MLCC、CPO、半導體、AI晶片、液冷伺服器等概念股表現強勢，貴金屬、航運、空運、油氣等則見回檔。中國國務院總理李強表示，要以更大力度、更實舉措加強基礎研究，多措並舉加大投入力度；中金公司認為，目前雲廠商和晶片環節估值正處於2023年以來的較低分位，尚未到2024年7月和2025年10月兩次泡沫擔憂估值普遍處於的高位水準；長電科技、中瓷電子、同有科技、普冉股份、冰輪環境、大元泵業、英威騰、大族激光、廣合科技、方正科技等多檔漲停。\n\n港股今日則相對沉悶，明顯遜於A股表現，香港恆生指數今早開低後震盪走跌，一度回測5日線支撐，午後回升至平盤附近整理。盤面上，半導體、汽車、原材料股漲幅居前，科網股則跌多漲少，恆生科技指數漲0.07%，貴金屬股明顯回檔。個股方面，納芯微漲逾15%，瀾起科技漲逾11%，中心國際漲逾4%，騰訊則跌逾1%，百度跌近3%，阿里巴巴跌逾3%；富智康公布Q1獲利年增1.86倍，股價漲逾2%。恆指終場微漲0.05%、收於26406.84點。\n\n《陸股》滬指漲1.17%，日K連五紅；恆指漲1.22%\n\n《陸股》滬指收跌0.19%、10日線失而復得；恆指日K連二黑\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
