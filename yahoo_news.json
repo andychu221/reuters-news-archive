@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T09:15:08.271Z",
+  "last_updated": "2026-05-11T09:40:18.667Z",
   "total_news_count": 964,
   "news": [
     {
-      "Ticker": "INTC",
+      "Ticker": "GOOGL, INTC",
       "Date": "2026-05-11",
       "Time": "16:55:00",
       "Source": "Yahoo Finance",
@@ -1165,18 +1165,14 @@
       "Keywords": "data center GPUs, AI accelerators, revenue growth, market share, semiconductor competition"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, NVDA",
       "Date": "2026-05-11",
       "Time": "01:25:40",
       "Source": "Yahoo Finance",
       "Title": "NVIDIA’s Huang says AI will make intelligence a commodity for billions",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-huang-says-ai-intelligence-172540508.html",
-      "Content": "Investing.com -- NVIDIA chief executive Jensen Huang said on Sunday that artificial intelligence will make intelligence itself a commodity accessible to anyone, from carpenters to shopkeepers, adding that the technology will reach billions of ...",
-      "Language": "en",
-      "AI_Summary": "• NVIDIA's CEO Jensen Huang believes AI will democratize intelligence, making it accessible to billions globally and driving a reindustrialization moment.\n• NVIDIA's chips are foundational to AI data centers built by major tech companies like Amazon, Microsoft, Google, and Meta.\n• Huang emphasized that AI will augment human capabilities rather than solely displace workers, urging responsible and optimistic engagement with the technology.",
-      "Related_Score": 3,
-      "Sentiment_Score": 2,
-      "Keywords": "AI, democratization of intelligence, semiconductors, data centers, human potential"
+      "Content": "Investing.com -- NVIDIA chief executive Jensen Huang said on Sunday that artificial intelligence will make intelligence itself a commodity accessible to anyone, from carpenters to shopkeepers, adding that the technology will reach billions of people who have never had access to computing power before.\n\nSpeaking at Carnegie Mellon University’s commencement ceremony, where he received an honorary doctorate, Huang framed the AI buildout as America’s reindustrialization moment, one requiring as many plumbers and ironworkers as engineers to construct chip factories and data centers across the country.\n\n\"We have the opportunity to close the technology divide—and bring the power of computing and intelligence to billions of people for the very first time,\" Huang told graduates.\n\nHis remarks come as NVIDIA dominates global supply of the semiconductors powering the AI industry, with the company’s chips underpinning data centers built by Amazon, Microsoft, Google and Meta, among others.\n\nHuang pushed back against fears that AI would displace workers, drawing a distinction between tasks and purpose. A radiologist, he said, does not merely read scans, they care for patients. AI automates the former, he argued, but elevates the latter.\n\n\"Every major technological revolution in history created fear alongside opportunity,\" he said. \"When society engages technology openly, responsibly, and optimistically, we expand human potential far more than we diminish it.\"\n\nHe called on scientists, engineers and policymakers to advance AI capabilities and safety in tandem, warning that guardrails must keep pace with the technology’s rapid development.\n\nHuang honored Carnegie Mellon’s foundational role in AI research, citing the university’s Logic Theorist program in the 1950s and its Robotics Institute, founded in 1979, as pillars of American technological leadership that the current generation must build upon.\n\nHe closed with a direct charge to graduates to treat AI as an inclusive tool rather than an elite one, and to treat the current moment as a mandate to build.\n\nNVIDIA’s Huang says AI will make intelligence a commodity for billions\n\nGoldman expects lower but still attractive stock market returns in 2026\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity",
+      "Language": "en"
     },
     {
       "Ticker": "AMZN",
