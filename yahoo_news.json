@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-11T12:20:38.911Z",
-  "total_news_count": 1002,
+  "last_updated": "2026-05-11T12:40:16.651Z",
+  "total_news_count": 1004,
   "news": [
+    {
+      "Ticker": "LITE",
+      "Date": "2026-05-11",
+      "Time": "20:37:47",
+      "Source": "Yahoo Finance",
+      "Title": "Lumentum Joins the Nasdaq-100 After a 1,230% Run",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/lumentum-joins-nasdaq-100-1-123747362.html",
+      "Content": "This article first appeared on GuruFocus .\n\nLumentum Holdings, Inc. ( NASDAQ:LITE ) rose 5.39% in pre-market trading after Nasdaq announced the company will join the Nasdaq-100 Index, replacing CoStar Group, Inc. ( NASDAQ:CSGP ), effective prior to market open on May 18, 2026.\n\nThe move also reflects how investor positioning around artificial intelligence infrastructure continues broadening beyond GPUs and compute providers into networking and optical connectivity suppliers. Lumentum makes optical and photonic products including the transceivers and components that underpin high-speed connectivity inside AI data centers.\n\nLumentum shares have risen more than 1,230% over the past year, one of the strongest runs in large-cap technology. The Nasdaq-100 is tracked by over 200 investment products with more than $600 billion in assets.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-11",
+      "Time": "20:34:14",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft's Kenya data center plans hit a new hurdle",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsofts-kenya-data-center-plans-123414256.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) has reportedly hit a snag in its plan to build a major data center in Kenya, with Bloomberg reporting that talks slowed after the company and its UAE based partner G42 sought guaranteed government payments for annual cloud capacity.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe project was announced in May 2024 as a $1 billion plus investment and was billed by Microsoft as the largest private sector digital investment in Kenya's history. G42 was expected to build the site to support Microsoft Azure's new East Africa Cloud Region, with an initial phase of about 100 MW that could have been operational this year.\n\nThe issue appears to be scale. Microsoft and G42 reportedly wanted Kenya to commit to paying for a set amount of capacity each year, but the government could not meet the guarantee level requested. Kenyan officials also said the project has not failed, though power needs and structuring are still being discussed.\n\nPresident William Ruto has already warned that a project of this size would strain Kenya's energy grid, saying the country would need to switch off half the country to power it. For investors, the delay is another reminder that AI and cloud growth increasingly depend on power availability, not just demand.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, TSM",
       "Date": "2026-05-11",
