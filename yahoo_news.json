@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-12T14:01:42.096Z",
-  "total_news_count": 1298,
+  "last_updated": "2026-05-12T14:15:36.839Z",
+  "total_news_count": 1302,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-12",
+      "Time": "22:13:55",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Hits Record as AI Trade Accelerates",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-hits-record-ai-trade-141355598.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) closed at a record high as investor enthusiasm for artificial intelligence chips continued to drive the stock higher ahead of earnings.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nShares rose 2% to $219.44, marking the companys third record close of the year. The move also extended Nvidias winning streak to four sessions, its strongest four-day stretch since late October.\n\nThe rally added roughly $550 billion in market value over four trading days, lifting Nvidias market capitalization to about $5.33 trillion. The previous record close was $216.61 on April 27.\n\nInvestors are looking ahead to Nvidias May 20 earnings report, which could be the next major test for the AI trade. Wall Street expects first-quarter revenue of $78.6 billion, up 78% from a year earlier.\n\nNvidia remains the leading AI chipmaker, but competition is growing. Intel and Advanced Micro Devices have both rallied sharply this year as investors bet on demand for AI inference chips.\n\nFor investors, the key question is whether Nvidia can keep turning AI demand into revenue growth while defending its lead. Analyst sentiment remains strong, with most Wall Street firms rating the stock buy or higher.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, INTC",
+      "Date": "2026-05-12",
+      "Time": "22:06:29",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Rally Faces Reality Check After Triple-Digit Surge",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-rally-faces-reality-check-140629622.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ) has been on a stunning run, but Bank of America is telling investors not to ignore the hard part of the turnaround.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe stock has more than tripled since late March as investors bet that Intel could win meaningful foundry business from Apple. A Wall Street Journal report said the companies reached a preliminary agreement for Intel to make some chips used in Apple devices after more than a year of talks.\n\nThat would be a major win for Intel. Bank of America analyst Vivek Arya estimates the opportunity could eventually represent a $35 billion to $40 billion market. If Intel captured even part of that business, it could add more than $10 billion in annual revenue over time.\n\nBut the payoff would not come quickly. Arya said Intel would likely need two to three years for factory expansion, testing and production preparation. Meaningful volumes may not arrive until 2028 or later.\n\nThat delay matters. New factories require heavy spending, and early production can pressure margins because of depreciation, startup costs and lower yields.\n\nBank of America raised its price target to $96 from $56, but kept an underperform rating because the target remains below Intel's current share price.\n\nFor investors, the story is no longer just about Apple. It is about whether Intel can turn excitement into real foundry revenue and lasting profit growth.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-05-12",
+      "Time": "21:40:53",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla China Sales Jump as Roadster Buzz Returns",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-sales-jump-roadster-134053904.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ) got a nice lift from China in April, but the market is not yet totally sure the trend will continue.The company's Shanghai Gigafactory churned out 79,478 Model 3 and Model Y vehicles in April, up roughly 36% from a year ago. The figure covers vehicles sold in mainland China and exported to overseas markets.That's a solid monthly showing for Tesla in the world's most competitive EV market. But the pressure isn't going away. Chinese competitors like as BYD, Nio and Xpeng are launching new models, offering purchasers additional choices and making it difficult to sustain growth.Tesla recently filed a new trademark for a Roadster badge, drawing attention to its long-delayed electric supercar. The Roadster was unveiled in 2017, however it has suffered multiple production delays.The China sales bump is more than just the Roadster hype for investors. The fundamental issue is whether Tesla can continue to grow volumes and defend margins against intense local competition.The next catalyst will be second quarter delivery data and any update on Roadster, robotaxi or Optimus timeframes.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-05-12",
@@ -23,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "INTC, NVDA, AVGO",
       "Date": "2026-05-12",
       "Time": "21:35:00",
       "Source": "Yahoo Finance",
@@ -80,6 +110,16 @@
       "Title": "Amazon Launches Its First Swiss Franc Bond",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-launches-first-swiss-franc-132549408.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon.com, Inc. ( NASDAQ:AMZN ) has launched its first-ever Swiss franc bond sale, offering notes across six maturities spanning three to 25 years in what would be a record six-part deal in that currency. Deal size has not yet been disclosed. BNP Paribas (BNP), Deutsche Bank, and JPMorgan ( NYSE:JPM ) are managing the transaction. Amazon shares dropped 0.84% in premarket trading.\n\nAmazon plans to spend $200 billion on data centers, chips, and other equipment this year and has been tapping multiple currencies to fund the buildout. In March, the company raised $54 billion across US and European markets, drawing near-record demand. Amazon's cloud unit posted its fastest quarterly growth in more than three years in Q1 2026, though capital spending of $44.2 billion came in above analyst expectations.\n\nAmazon, Microsoft ( NASDAQ:MSFT ), Alphabet ( NASDAQ:GOOG ), Meta ( NASDAQ:META ), and Oracle ( NYSE:ORCL ) are collectively forecast to spend around $725 billion on capital expenditures in 2026. However, last month, data-center-linked corporate bonds fell after reports that OpenAI missed its own user and revenue targets, a reminder that AI spending returns remain unproven.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-05-12",
+      "Time": "21:24:23",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla to invest $250 million in battery plant outside Berlin",
+      "URL": "https://finance.yahoo.com/news/tesla-invest-250-million-battery-132423587.html",
+      "Content": "BERLIN, May 12 (Reuters) - U.S. electric car maker Tesla will ‌invest almost $250 million in ‌ramping up battery cell production capacity at ​its factory outside Berlin, in a move set to boost jobs in the area and strengthen ‌its supply ⁠chain, the company said on Tuesday.\n\nThe investment is ⁠intended to create the conditions for annual production capacity of ​18 gigawatt ​hours at ​the site in ‌Gruenheide, south-east of the German capital, up from a previous 8 GWh, a statement said.\n\nMore from Yahoo Scout\n\nWhat employment impact will the battery expansion create?\n\nWhat is Tesla investing in at its Berlin factory?\n\nHow much will Tesla's battery production capacity increase?\n\nWhen will Tesla achieve full integrated production?\n\n\"The ramp-up of battery cell production will ‌also be accompanied ​by a significant increase ​in ​labour demand,\" the statement ‌added.\n\n\"From battery cells to ​electric vehicles, ​everything is expected to be produced at a single ​location starting ‌in 2027.\"\n\n(Reporting by Christoph Steitz ​and Rachel More, Editing ​by Linda Pasquini)",
       "Language": "en"
     },
     {
