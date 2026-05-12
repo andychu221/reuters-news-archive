@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-12T13:32:45.220Z",
-  "total_news_count": 1275,
+  "last_updated": "2026-05-12T13:40:40.655Z",
+  "total_news_count": 1281,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-12",
+      "Time": "21:36:21",
+      "Source": "Yahoo Finance",
+      "Title": "Google says it may have stopped a major AI powered cyberattack",
+      "URL": "https://finance.yahoo.com/m/361cd0f0-33ab-36e8-b408-41703471f613/google-says-it-may-have.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOG ) cybersecurity team says it may have stopped what could have turned into a large scale AI powered hacking campaign, highlighting how quickly artificial intelligence is becoming part of the global cyberwarfare landscape.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nIn a new report released Monday, Google's Threat Intelligence Group said it has high confidence that hackers used an AI model to help identify and exploit a zero day software vulnerability, allowing them to bypass two factor authentication protections. According to Google, the attackers appeared to be preparing for a broader mass exploitation campaign before the company stepped in.\n\nGoogle said its proactive discovery efforts may have prevented the vulnerability from being weaponized at a larger scale. The company did not identify the hacking group involved and added that it does not believe its Gemini AI model was used in the operation.\n\nThe report lands at a time when concerns are rapidly growing across the tech industry over how advanced AI systems could be misused by cybercriminals and state linked actors. Google specifically pointed to groups tied to China and North Korea as showing strong interest in using AI for vulnerability discovery and cyberattacks.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-12",
+      "Time": "21:34:56",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft reportedly saw OpenAI as a massive long term payday",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-reportedly-saw-openai-massive-133456409.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) reportedly believed its early bet on OpenAI could eventually generate a staggering $92 billion return, giving investors another glimpse into just how transformative the company expected the AI boom to become even before ChatGPT exploded into the mainstream.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to Bloomberg, the target appeared in Microsoft planning documents from early 2023 and was revealed Monday during testimony tied to Elon Musk's high profile lawsuit against OpenAI and Microsoft in federal court in California. Microsoft CEO Satya Nadella defended the investment strategy during testimony, telling the jury that the deal worked out well because we took the risk.\n\nMicrosoft invested roughly $13 billion into OpenAI through early 2023, a move that now looks increasingly historic given how quickly the startup's valuation has surged. OpenAI was reportedly valued at about $852 billion by the end of March, while Microsoft's stake was estimated at roughly $135 billion as of October.\n\nThe courtroom battle itself is becoming another major storyline in the AI race. Musk is suing OpenAI co founders Sam Altman and Greg Brockman, along with Microsoft, arguing the company abandoned its original nonprofit mission after he contributed about $38 million in early funding. Musk is also seeking to push OpenAI back toward nonprofit status.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-05-12",
+      "Time": "21:30:22",
+      "Source": "Yahoo Finance",
+      "Title": "Robin Hood Reaches 70% Of $1 Billion Endowment Goal",
+      "URL": "https://finance.yahoo.com/economy/policy/articles/robin-hood-reaches-70-1-133022079.html",
+      "Content": "This article first appeared on GuruFocus .\n\nRobin Hood is moving closer to building a permanent financial base for one of Wall Street's most visible poverty-fighting operations, with the foundation saying it is already 70% of the way toward its $1 billion endowment goal. The campaign is being anchored by a $100 million gift from the Bezos family, giving the New York-focused nonprofit a larger pool of dedicated capital to sustain its support for New Yorkers living below the poverty line. Annual fundraising is expected to continue alongside the endowment push, as reflected by Monday night's benefit, where the group raised about $73 million.\n\nWarning! GuruFocus has detected 4 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe effort has drawn support from several high-profile financial and philanthropic figures, including Robin Hood co-founder Paul Tudor Jones ( Trades , Portfolio ), Citadel's Ken Griffin, Eva and Glenn Dubin, and Michael Bloomberg, the founder of Bloomberg LP, the parent company of Bloomberg News. The gifts were announced at the Javits Center during an event that included performances by the Lumineers and comedian Pete Davidson, with roughly 3,000 guests dining on Chinese food in a nod to the meal where Robin Hood's founders first developed the idea for the philanthropy. The broader message is that Robin Hood is preparing for a longer-term future, as many of its original founders, who were in their 30s when the organization was conceived, are now in their 70s.\n\nThe endowment, called the Campaign for the Future, is designed to complement Robin Hood's annual fundraising rather than replace it, possibly giving the organization more financial durability over time. Paul Tudor Jones ( Trades , Portfolio ) said in a statement that establishing the endowment is critical to safeguarding Robin Hood's work in perpetuity, while the Bezos Family Foundation gift will help create the Jackie Bezos Endowment for Early Childhood at Robin Hood. That gift also includes a pledge of an additional $25 million, subject to a match, for a total of $150 million, honoring Jackie Bezos, the late mother of Amazon.com Inc. ( NASDAQ:AMZN ) co-founder Jeff Bezos, who served on Robin Hood's board for 10 years and was co-chair of her family's foundation. Since its inception in 1988, Robin Hood has allocated $3 billion to fight poverty in New York City.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, AMZN",
+      "Date": "2026-05-12",
+      "Time": "21:25:49",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Launches Its First Swiss Franc Bond",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-launches-first-swiss-franc-132549408.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com, Inc. ( NASDAQ:AMZN ) has launched its first-ever Swiss franc bond sale, offering notes across six maturities spanning three to 25 years in what would be a record six-part deal in that currency. Deal size has not yet been disclosed. BNP Paribas (BNP), Deutsche Bank, and JPMorgan ( NYSE:JPM ) are managing the transaction. Amazon shares dropped 0.84% in premarket trading.\n\nAmazon plans to spend $200 billion on data centers, chips, and other equipment this year and has been tapping multiple currencies to fund the buildout. In March, the company raised $54 billion across US and European markets, drawing near-record demand. Amazon's cloud unit posted its fastest quarterly growth in more than three years in Q1 2026, though capital spending of $44.2 billion came in above analyst expectations.\n\nAmazon, Microsoft ( NASDAQ:MSFT ), Alphabet ( NASDAQ:GOOG ), Meta ( NASDAQ:META ), and Oracle ( NYSE:ORCL ) are collectively forecast to spend around $725 billion on capital expenditures in 2026. However, last month, data-center-linked corporate bonds fell after reports that OpenAI missed its own user and revenue targets, a reminder that AI spending returns remain unproven.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-12",
+      "Time": "21:09:30",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft's $92 Billion OpenAI Return Target Grabs Investor Attention",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsofts-92-billion-openai-return-130930629.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft Corp. ( NASDAQ:MSFT ) is drawing fresh investor attention after court-disclosed planning documents showed the company had targeted a $92 billion return from its early OpenAI investments, a landmark AI bet that helped define the current cycle. The target appeared in Microsoft planning documents from early 2023 and was disclosed Monday in federal court in Oakland, California, where Chief Executive Officer Satya Nadella testified in Elon Musk's high-profile case against OpenAI and Microsoft. Nadella told the jury that the investments worked out well because we took the risk, a line that could sharpen investor focus on how much value Microsoft may have created by backing the ChatGPT maker before the AI trade became one of the market's most important themes.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft invested about $13 billion in OpenAI through early 2023, giving investors a clearer view of how large the company's early commitment had become before OpenAI's valuation surged. The ChatGPT maker's valuation climbed to $852 billion by the end of March, while Microsoft's stake was valued at about $135 billion as of October. Those figures could reinforce the argument that Microsoft's OpenAI exposure has become a major strategic asset, although the court case also puts renewed attention on the legal and competitive tensions surrounding a partnership that has helped reshape the software and AI landscape.\n\nMusk's 2024 lawsuit accuses OpenAI co founders Sam Altman and Greg Brockman of abandoning the startup's original nonprofit mission to benefit humanity as it moved toward operating as a for-profit business, while also alleging that Microsoft aided that shift. OpenAI, Altman, Brockman and Microsoft have denied wrongdoing, saying Musk's claims are baseless harassment meant to support his own AI startup, xAI, which launched in 2023. Microsoft and OpenAI have also clashed over partnership terms and moved into more direct competition over time, even as Microsoft received a 27% ownership stake in OpenAI as part of the startup's restructuring last year.",
+      "Language": "en"
+    },
     {
       "Ticker": "SNDK",
       "Date": "2026-05-12",
@@ -20,6 +70,16 @@
       "Title": "Broadcom stock target raised at Citi ahead of expected earnings beat",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-target-raised-citi-124653603.html",
       "Content": "Investing.com -- Citi raised its price target on Broadcom to $500 per share in a note on Tuesday, reiterating a Buy rating on the chipmaker and calling it its top semiconductor pick for 2026, ahead of the company's fiscal second-quarter earnings due June 3.\n\nThe bank said it models Broadcom's April-quarter and July-quarter sales and earnings per share modestly above consensus, driven by stronger artificial intelligence demand.\n\nCiti estimates AI revenue will grow from roughly 49% of total sales currently to approximately 81% by fiscal fourth-quarter 2028, with combined Google and Anthropic AI sales projected to reach around $80 billion and total AI sales hitting $115 billion in 2027, rising to $180 billion in 2028.\n\nThe revised $500 price target is based on a 20 times multiple applied to Citi's fiscal 2028 earnings-per-share estimate of $25, rolling forward from the prior fiscal 2027 base to reflect what the bank described as \"increased earnings visibility.\"\n\nCiti noted that Broadcom currently serves major AI customers Google, Meta, Anthropic, and OpenAI, plus two unnamed clients, and believes the company is engaged with three additional customers on custom AI chip development.\n\nThe bank also pushed back on concerns about Broadcom's enterprise software business, calling fears \"overblown\" and describing the segment as \"very sticky\" given deep integration across large enterprises.\n\nOn competitive risk, Citi said a five-year long-term agreement with Google should alleviate concerns about alternative chip development efforts, adding that it would be \"difficult for the competition to catch up technologically.\"\n\nBroadcom stock target raised at Citi ahead of expected earnings beat\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-05-12",
+      "Time": "20:41:36",
+      "Source": "Yahoo Finance",
+      "Title": "Meta loses key legal fight over publisher payments in Europe",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/meta-loses-key-legal-fight-124136650.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) lost an important legal fight in Europe on Tuesday after the European Union's top court sided with Italian regulators in a dispute over compensating publishers for the online use of news content.\n\nAt the center of the case was Meta's challenge against Italy's communications regulator, AGCOM, which pushed for a system requiring online platforms to fairly compensate publishers when using portions of their news articles. Meta argued that Italy's approach conflicted with broader EU copyright rules and challenged the regulator's authority to help determine what platforms should pay.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nBut the Court of Justice of the European Union backed the Italian regulator's position, saying publishers can be entitled to fair compensation when they authorize digital platforms to use their content online. The court also said these rules help strike a balance between business interests, intellectual property rights and media freedom.\n\nThe ruling is another sign that European regulators are continuing to take a tougher stance against major technology companies when it comes to content, copyright and platform power. It also arrives as publishers, authors and media companies globally are increasingly pushing back against how tech and AI firms use online content.",
       "Language": "en"
     },
     {
@@ -63,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-05-12",
       "Time": "20:29:00",
       "Source": "Yahoo Finance",
