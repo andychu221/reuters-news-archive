@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-12T08:28:39.811Z",
-  "total_news_count": 1206,
+  "last_updated": "2026-05-12T08:40:29.998Z",
+  "total_news_count": 1208,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-05-12",
+      "Time": "15:59:55",
+      "Source": "Yahoo Finance",
+      "Title": "Meta loses court fight over compensation to Italian publishers",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/meta-loses-court-fight-over-075955722.html",
+      "Content": "By Foo Yun Chee\n\nLUXEMBOURG, May 12 (Reuters) - Meta Platforms on Tuesday lost its fight ‌against an Italian regulatory order that it ‌should compensate publishers for using snippets of their news ​articles after Europe's top court sided with the Italian telecoms watchdog.\n\nThe case underscores the ongoing copyright battle between publishers and creators and tech companies ‌over the use ⁠of newspaper articles or authors' work for AI training that have triggered ⁠litigation against companies including Meta, OpenAI and Anthropic for infringement.\n\nMore from Yahoo Scout\n\nWhat broader copyright battles involve tech companies today?\n\nWhy did Meta lose its copyright case in Europe?\n\nWhat compensation must Meta pay Italian news publishers?\n\nHow does this ruling affect AI training practices?\n\n\"The Court finds that a right to ​fair compensation ​for publishers is ​consistent with EU law, ‌provided that that\n\nremuneration constitutes consideration for authorising their publications to be used online,\" the Luxembourg-based Court of Justice of the European Union (CJEU) said.\n\nThe case came before the Court after Meta challenged ‌the Italian communications authority AGCOM's ​power to set the ​compensation that online ​platforms should pay for using press ‌articles.\n\nMeta argued that such national ​measures are ​incompatible with rights already granted to publishers under the EU copyright legislation.\n\nAn Italian court ​subsequently sought ‌guidance from the CJEU.\n\nThe case is C-797/23 ​Meta Platforms Ireland (Fair compensation).\n\n(Reporting by Foo Yun ​Chee;Editing by Sudip Kar-Gupta)",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-05-12",
@@ -49,6 +59,16 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "台股,三大法人,賣超,投信,外資"
+    },
+    {
+      "Ticker": "GOOGL, AMZN",
+      "Date": "2026-05-12",
+      "Time": "14:50:42",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Kicks Off Debut Swiss Franc Bond Sale in Record Six Parts",
+      "URL": "https://finance.yahoo.com/markets/currencies/articles/amazon-kicks-off-debut-swiss-065042688.html",
+      "Content": "(Bloomberg) -- Amazon.com Inc. has begun the sale of its first Swiss franc bonds as it looks to raise a record six-part deal in the currency.\n\nMost Read from Bloomberg\n\nIran Makes New Offer on Uranium in Response to US, WSJ Says\n\nInside a Year of Chaos and Conflict at Kevin Hart’s Media Company\n\nEpstein's Black Card: How He Moved Women With His Amex\n\nTrump Rejects New Iran Peace Offer as ‘Totally Unacceptable’\n\nThe company is selling debt due in three, six, nine, 12, 18 and 25-years, according to a person familiar with the matter who asked not to be identified.\n\nIt’s the latest in a series of jumbo bond sales by US cloud computing firms known as hyperscalers, as they pour hundreds of billions of dollars into AI infrastructure. Investors have so far been eager buyers, placing orders several times the size of recent offerings.\n\nThe borrowing-binge has seen the tech companies diversify beyond dollar debt. Google parent company Alphabet Inc. raised about 3 billion Swiss francs ($3.9 billion) in February, the most on record by a corporate borrower, while Amazon’s own debut euro bond in March was the biggest ever in that currency.\n\nBetween them, Amazon, Microsoft Corp., Alphabet, Meta Platforms Inc. and Oracle have forecast capital expenditures of about $725 billion in 2026. Seattle-based Amazon alone plans to spend $200 billion this year on data centers, chips and other equipment.\n\nAmazon raised $54 billion in March, across US and European debt markets, garnering near-record demand even as concerns about the fallout of the US-Iran war rattled markets. It was preceded by Alphabet, which priced about $32 billion in dollar and euro notes in February, while Oracle Corp. raised $25 billion from a bond sale that attracted a record $129 billion of orders at its peak.\n\nWhile the bond sales have been enthusiastically received, some investors are becoming concerned that the deluge of spending on AI may not pay off. Those worries were underscored late last month when data-center linked US corporate debt fell following a report that OpenAI had missed its own targets for users and sales.\n\nAmazon’s cloud unit posted its fastest quarterly growth in more than three years, but capital spending of $44.2 billion to support that effort was more than analysts were expecting, a sign that build-out costs are higher than anticipated.\n\nBNP Paribas SA, Deutsche Bank AG and JPMorgan Chase & Co. are managing Amazon’s Swiss franc transaction. It is expected to price later on Tuesday.\n\nMost Read from Bloomberg Businessweek\n\nBehind the Claude Frenzy That Ate Up All the Mac Minis\n\nA $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work\n\nAmerica’s Most Infamous Nuclear Site Returns to Fuel the AI Boom\n\nRaising Cane’s Grew From an Idea a College Professor Hated\n\nThe Messy, Humiliating Courtroom Drama Between Elon Musk and OpenAI\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
     },
     {
       "Ticker": "2330.TW",
