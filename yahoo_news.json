@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-13T13:17:26.856Z",
-  "total_news_count": 240,
+  "last_updated": "2026-05-13T13:40:24.505Z",
+  "total_news_count": 241,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-13",
+      "Time": "21:14:52",
+      "Source": "Yahoo Finance",
+      "Title": "Apple criticises EU measures to help AI rivals access Google services",
+      "URL": "https://finance.yahoo.com/news/apple-criticises-eu-measures-help-131452453.html",
+      "Content": "By Foo Yun Chee\n\nBRUSSELS, May 13 (Reuters) - Apple on Wednesday echoed Google's criticism of EU antitrust regulators' efforts to force ‌the search giant to help AI rivals access its services, warning ‌the proposed measures pose risks to privacy, security and safety.\n\nApple was responding to the ​European Commission's call last month for feedback on draft measures to help Google comply with the Digital Markets Act, aimed at curbing Big Tech's power.\n\nMore from Yahoo Scout\n\nHow would proposed measures affect Google's AI services?\n\nWhat privacy risks does Apple identify with regulations?\n\nWhy is Apple involved in Google's regulatory case?\n\nWhat are Apple's concerns about EU Digital Markets Act?\n\nAlphabet-owned Google has said the proposals, which would let competing AI services interact ‌with Android apps to ⁠send emails, order food or share photos, would undermine key privacy and security safeguards for European users.\n\nApple, also ⁠subject to EU proposals to open up its ecosystem, said it has a strong interest in the case given its own operating systems for iPhones, ​iPads and ​Mac computers - highlighting the broader implications ​for how platforms must handle ‌third-party AI access.\n\n\"The DMs (draft measures) raise urgent and serious concerns. If confirmed, they would create profound risks for user privacy, security, and safety as well as device integrity and performance,\" Apple said in its submission.\n\n\"Those risks are especially acute in the context of rapidly evolving AI systems ‌whose capabilities, behaviours, and threat vectors remain ​unpredictable as we are now seeing time ​and again,\" it said.\n\nApple ​also questioned the EU regulator's technical expertise and objective.\n\n\"The ‌EC is redesigning an OS (operating system). ​It is substituting judgments ​made by Google's engineers for its own judgment based on less than three months of work. It is all the more ​dangerous given the only ‌value that can be discerned from the DMs guiding this ​work appears to be open and unfettered access.\"\n\n(Reporting by Foo ​Yun Chee. Editing by Mark Potter)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, TSM",
       "Date": "2026-05-13",
