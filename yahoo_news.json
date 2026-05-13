@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T22:40:20.251Z",
-  "total_news_count": 378,
+  "last_updated": "2026-05-13T22:43:42.303Z",
+  "total_news_count": 384,
   "news": [
     {
       "Ticker": "CSCO",
@@ -13,6 +13,46 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "05:57:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI樂觀情緒蓋過通膨利空  標普、那指創新高 台積電ADR收紅",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%A8%82%E8%A7%80%E6%83%85%E7%B7%92%E8%93%8B%E9%81%8E%E9%80%9A%E8%86%A8%E5%88%A9%E7%A9%BA-%E6%A8%99%E6%99%AE-%E9%82%A3%E6%8C%87%E5%89%B5%E6%96%B0%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%94%B6%E7%B4%85-215733876.html",
+      "Content": "由於投資者對科技領域的熱情高漲，即使新公布的美國4月PPI（生產者物價指數）飆升6%，創2022年12月以來最高漲幅，顯示美國通膨壓力升溫，也無法影響市場情緒。美股在人工智慧AI相關科技股帶動下大多收紅，標普與那指再創新高，與台股連動密切的費城半導體指數勁揚2.57%，道瓊在通膨疑慮下收黑。台積電ADR 收在399.80點，上漲2.52點，漲幅0.63%。\n\n道瓊工業指數下跌67.36點或0.14%，收報49693.20點。\n\n標普500指數上升43.29點或0.58%，收在7444.25點。\n\n那斯達克指數上揚314.14點或1.20%，收26402.34點。\n\n費城半導體指數勁揚300.72點或2.57%，收12017.98點。\n\n由於伊朗戰爭導致能源價格上漲，通貨膨脹的擔憂壓制了零售和銀行等行業的表現，美股科技股表現今天優於市場其他領域。輝達執行長黃仁勳與美國總統川普一同訪華，向投資者傳達輝達或許能夠在中國市場銷售人工智能晶片的積極訊號。輝達股價上漲超過 2%。美光科技的股價上漲超過 4%。\n\n在美國總統川普與中國國家主席習近平會晤前，國際油價震盪走低。\n\n紐約商品交易所西德州中級原油6月交割價下挫1.1%，報每桶101.02美元。\n\n倫敦北海布倫特原油7月交割價下跌2%，報每桶105.63美元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-14",
+      "Time": "05:51:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR13日上漲0.026美元漲幅0.40%折台股20.40元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr13%E6%97%A5%E4%B8%8A%E6%BC%B20-026%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-40-%E6%8A%98%E5%8F%B0%E8%82%A120-40%E5%85%83-215113357.html",
+      "Content": "(中央社台北2026年 5月14日電)友達光電在OTC US掛牌ADR以6.476美元作收，上漲0.026美元，漲幅 0.40%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 5月13日新台幣匯市收盤價31.506元計算，相當台股友達每股為 20.40元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/13\n\n6.47\n\n0.02\n\n0.40\n\n31.506\n\n20.4\n\n5/12\n\n6.45\n\n0.50\n\n8.40\n\n31.480\n\n20.3\n\n5/11\n\n5.95\n\n0.20\n\n3.48\n\n31.415\n\n18.6\n\n5/ 8\n\n5.75\n\n-0.03\n\n-0.52\n\n31.429\n\n18.0\n\n5/ 7\n\n5.78\n\n-0.07\n\n-1.20\n\n31.409\n\n18.1\n\n5/ 6\n\n5.85\n\n0.29\n\n5.31\n\n31.488\n\n18.4\n\n5/ 5\n\n5.55\n\n0.35\n\n6.83\n\n31.605\n\n17.5\n\n5/ 4\n\n5.20\n\n0.44\n\n9.24\n\n31.610\n\n16.4\n\n5/ 1\n\n4.76\n\n0.17\n\n3.70\n\n31.648\n\n15.0\n\n4/30\n\n4.59\n\n-0.77\n\n-14.37\n\n14.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-14",
+      "Time": "05:51:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR13日上漲0.18美元漲幅0.42%折台股137.05元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr13%E6%97%A5%E4%B8%8A%E6%BC%B20-18%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-42-%E6%8A%98%E5%8F%B0%E8%82%A1137-05%E5%85%83-215109632.html",
+      "Content": "(中央社台北2026年 5月14日電)中華電信在NYSE掛牌ADR 以 43.50美元作收，上漲0.18美元，漲幅 0.42%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 5月13日新台幣匯市收盤價31.506元計算，相當台股中華電信每股為137.05元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/13\n\n43.50\n\n0.18\n\n0.42\n\n31.506\n\n137.0\n\n5/12\n\n43.32\n\n0.22\n\n0.51\n\n31.480\n\n136.3\n\n5/11\n\n43.10\n\n-0.71\n\n-1.62\n\n31.415\n\n135.4\n\n5/ 8\n\n43.81\n\n0.45\n\n1.04\n\n31.429\n\n137.6\n\n5/ 7\n\n43.36\n\n0.02\n\n0.05\n\n31.409\n\n136.1\n\n5/ 6\n\n43.34\n\n0.23\n\n0.53\n\n31.488\n\n136.4\n\n5/ 5\n\n43.11\n\n0.28\n\n0.65\n\n31.605\n\n136.2\n\n5/ 4\n\n42.83\n\n-0.32\n\n-0.74\n\n31.610\n\n135.3\n\n5/ 1\n\n43.15\n\n-0.19\n\n-0.44\n\n31.648\n\n136.5\n\n4/30\n\n0.37\n\n0.86\n\n137.1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-05-14",
+      "Time": "05:51:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR13日下跌0.14美元跌幅0.87%折台股100.32元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr13%E6%97%A5%E4%B8%8B%E8%B7%8C0-14%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-87-%E6%8A%98%E5%8F%B0%E8%82%A1100-32%E5%85%83-215107239.html",
+      "Content": "(中央社台北2026年 5月14日電)聯電在NYSE掛牌 ADR以15.92美元作收，下跌0.14美元，跌幅 0.87%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 5月13日新台幣匯市收盤價31.506元計算，相當台股聯電每股為100.32元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/13\n\n15.92\n\n-0.14\n\n-0.87\n\n31.506\n\n100.3\n\n5/12\n\n16.06\n\n0.47\n\n3.01\n\n31.480\n\n101.1\n\n5/11\n\n15.59\n\n0.17\n\n1.10\n\n31.415\n\n97.9\n\n5/ 8\n\n15.42\n\n0.26\n\n1.72\n\n31.429\n\n96.9\n\n5/ 7\n\n15.16\n\n-0.07\n\n-0.46\n\n31.409\n\n95.2\n\n5/ 6\n\n15.23\n\n1.22\n\n8.71\n\n31.488\n\n95.9\n\n5/ 5\n\n14.01\n\n1.03\n\n7.94\n\n31.605\n\n88.5\n\n5/ 4\n\n12.98\n\n-0.54\n\n31.610\n\n82.0\n\n5/ 1\n\n13.05\n\n-0.01\n\n-0.08\n\n31.648\n\n82.6\n\n4/30\n\n13.06\n\n0.31\n\n2.43",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AVGO",
       "Date": "2026-05-14",
       "Time": "05:50:00",
@@ -21,6 +61,26 @@
       "URL": "https://finance.yahoo.com/m/320a75fc-34ce-3e92-88db-90c84331a7c3/should-you-buy-the-cerebras.html",
       "Content": "Cerebras is expected to make its public debut on Thursday, and investors just can't wait. After its initial public offering (IPO) filing a couple of weeks ago, the offering is 20 times oversubscribed, leading the company to increase its target share price to between $150 and $160 and increase the number of shares offered. The high end of that range would value the company at roughly $48.8 billion.\n\nThat might seem like small potatoes compared to competing AI semiconductor stocks like Nvidia (NASDAQ: NVDA) , which is worth more than 100 times that amount. Broadcom (NASDAQ: AVGO) is worth nearly $2 trillion, and AMD 's (NASDAQ: AMD) market cap tops $700 billion. But with Cerebras' excellent technological capabilities and potential disruption of AI inference data centers, investors might think it has a shot at competing with the big boys. Should you buy the stock at its IPO?\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nWhat's the advantage of using Cerebras' chips?\n\nCerebras designs wafer-scale chips that use an entire 12-inch silicon wafer. The result is a chip roughly 30 times the size of Nvidia's Blackwell B200 package with 19 times as many transistors per chip, Cerebras notes in its S-1 filing.\n\nMaking chips at that scale is no easy feat, but it comes with significant advantages. Since connections between logic cores and memory capacity are etched right into the silicon, Cerebras chips can process data much more quickly while using less power. Additionally, there's less overhead needed for networking and interconnect between chips. The result is a chip that can perform many AI inference tasks much more quickly and at lower costs than a traditional graphics processing unit ( GPU) cluster setup.\n\nThat's why Cerebras' infrastructure has caught the attention of OpenAI and Amazon (NASDAQ: AMZN) Web Services (AWS). OpenAI has committed $20 billion to rent 750 megawatts' worth of capacity directly from Cerebras between 2026 and 2028. Amazon plans to buy Cerebras' chips to work in conjunction with its own Trainium chips in Amazon-owned data centers.\n\nWhat are the risks facing Cerebras?\n\nThere are some major risks facing Cerebras as it makes its public debut.\n\nFirst and foremost, investors will note that Cerebras' backlog climbed to $24.6 billion at the end of 2025, with the majority of that attributable to its contract with OpenAI. In other words, Cerebras faces severe customer concentration risk. The AWS deal will diversify that revenue a bit, but Cerebras will likely have to prove itself before attracting more customers to its data center business.\n\nStory Continues\n\nTo that end, the company faces execution risk. It'll have to stand up 250 megawatts of computing capacity for OpenAI by the end of the year. Management has never built or operated a data center of that size before. If it encounters any issues scaling, it could negatively affect its OpenAI contract and its ability to attract additional customers.\n\nAdding to the scaling challenge is that Cerebras' chips are manufactured by Taiwan Semiconductor Manufacturing (NYSE: TSM) , which has seen tremendous demand for its services. Some of TSMC's biggest customers are exploring options for secondary sources, as the largest chip manufacturer sees growing demand for its leading-edge technology. TSMC, meanwhile, is retrofitting many of its existing facilities to add capacity for its leading-edge N3 and N2 processes while reducing capacity for N7 and N5.\n\nCerebras notably uses TSMC's N5 process for its wafer-scale chips. No other chip manufacturer can viably produce wafer-scale chips, creating a significant supply chain risk for Cerebras as it scales.\n\nHow does Cerebras stack up with other AI chip stocks?\n\nThere's no doubt that a small company with a massive backlog relative to its current revenue deserves a premium valuation even with the risks outlined. Cerebras already has the backlog in place to grow its revenue tenfold within a few years as long as it executes. At a valuation of $48.8 billion, it would trade for roughly 96 times its 2025 sales.\n\nTo put that in perspective, Nvidia currently trades for 25 times trailing-12-month sales. Broadcom trades for 29 times sales, and AMD trades for 19 times sales. Importantly, none of those companies are expected to grow their top lines as quickly as Cerebras. Still, none of them are slouches. Broadcom and AMD are each expected to double their revenue from 2026 to 2028, and Nvidia's expected to grow its top line 57%. What's more, Nvidia, Broadcom, and AMD are much less risky than Cerebras.\n\nCerebras' technology is compelling, but it's not a complete replacement for the chips made by Nvidia, AMD, or Broadcom. It will remain a subset of the overall AI chip market even as that subset continues to grow quickly. The $48.8 billion price tag on Cerebras' IPO looks like too much of a premium to pay, and investors may be better off waiting to see if the market offers a better entry point for the stock later.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-05-14",
+      "Time": "05:46:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR13日上漲2.52美元漲幅0.63%折台股2519.22元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr13%E6%97%A5%E4%B8%8A%E6%BC%B22-52%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-63-%E6%8A%98%E5%8F%B0%E8%82%A12519-22%E5%85%83-214604844.html",
+      "Content": "(中央社台北2026年 5月14日電)台積電在NYSE掛牌 ADR以399.80美元作收，上漲2.52美元，漲幅 0.63%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 5月13日新台幣匯市收盤價31.506元計算，相當台股台積電每股為 2519.22元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n5/13\n\n399.80\n\n2.52\n\n0.63\n\n31.506\n\n2519.2\n\n5/12\n\n397.28\n\n-7.26\n\n-1.79\n\n31.480\n\n2501.2\n\n5/11\n\n404.54\n\n-7.14\n\n-1.73\n\n31.415\n\n2541.7\n\n5/ 8\n\n411.68\n\n-2.47\n\n-0.60\n\n31.429\n\n2587.7\n\n5/ 7\n\n414.15\n\n-5.35\n\n-1.28\n\n31.409\n\n2601.6\n\n5/ 6\n\n419.50\n\n25.09\n\n6.36\n\n31.488\n\n2641.8\n\n5/ 5\n\n394.41\n\n-7.20\n\n31.605\n\n2493.0\n\n5/ 4\n\n401.61\n\n3.94\n\n0.99\n\n31.610\n\n2538.9\n\n5/ 1\n\n397.67\n\n1.61\n\n0.41\n\n31.648\n\n2517.0\n\n4/30\n\n396.06\n\n2.23\n\n0.57\n\n2506.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-14",
+      "Time": "05:26:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股暴殺523點！多頭派對GAME OVER？杜金龍「2指標」戒備 鴻海、光寶科誰會上300",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%AE%BA523%E9%BB%9E-%E5%A4%9A%E9%A0%AD%E6%B4%BE%E5%B0%8Dgame-over-%E6%9D%9C%E9%87%91%E9%BE%8D-2%E6%8C%87%E6%A8%99-212630693.html",
+      "Content": "台股昨（13）日盤中回測10日線，指數大跌523.82點收4萬1374點，投資人擔心，台股多頭派對是否即將結束。資深分析師杜金龍根據頭部量、融資餘額等2指標分析，表示短線雖然確實過熱，但還不到真正的「警戒線」，至於鴻海(2317)、光寶科(2301)預估2028年EPS各達21元、17元，獲利能見度高，股價站上300元指日可待。\n\n對近來本土法人看好台股年底上看6萬點，杜金龍在《鈔錢部署》節目指出，台股以目前短期高點4萬2156點，若台積電漲到3000元計算，大盤確實約可達5萬3，按照波浪理論推算，這波主升段將延續，今年高點目標初步看4萬3000~4萬7000點，但要到明年5月，才有機會挑戰5萬3。\n\n從籌碼面觀察，目前融資餘額與成交量雖高，但相較於民國79年、89年等歷史高峰，仍有增長空間，尚未達到絕對危險區，除非成交量來到2.5兆元左右，才是「頭部量」的真正警戒線。\n\n成交量佔M1B最高10%\n\n杜金龍指出，歷史上台股的極端大行情，成交量佔M1B（廣義貨幣供給）的比重會非常高，像是民國79年（1990年）高峰時，成交量佔比曾高達10%，換算現在約3兆元左右；民國89年（2000年）高峰則約8.4%，相當現在2.5兆元。\n\n由於目前台股上市櫃合計成交量約在2兆元上下，佔比約6%多，雖然短線量大，但比起過去8%~10%的歷史瘋狂水位，背後其實還有「餘裕」和成長空間。\n\n在融資餘額方面，融資餘額從低檔2900億元衝到4600億元，增幅156%，對照大盤漲幅約132%，確實增幅明顯超過大盤漲幅，代表短線散戶參與度太高，容易產生短線回檔的賣壓。\n\n但目前上市櫃融資餘額合計接近4800億元，對比民國89年曾達到5900多億元，加上現在台灣投資人的財富累積程度，目前的融資水位雖然在高檔，但尚未完全崩壞，只是短線需要注意「散戶過多」帶來的震盪風險。\n\n總結來說，杜金龍認為，台股目前的籌碼面與量能狀況是「短線過熱有回檔壓力，但長線尚未達到歷史極限噴出的頭部區」。\n\n鴻海36年年化報酬率20%\n\n此外，他特別點名鴻海，以今年EPS約21元來看，目前本益比僅10~12倍，相較於大盤明顯委屈，加上外資由賣轉買，目前「只欠東風」，短期先看265.5元前高，只要拉開漲勢，市場信心就會回流，且按巴菲特折現法計算，鴻海36年來的平均年化報酬率約20%，是1檔長線非常穩健的標的，仍有機會重返300元。\n\n此外，光寶科被視為「電力革命」的主流股，杜金龍盛讚，該公司44年來EPS都是正的，按2028年EPS17元、20倍本益比計算，股價有機會站上300元，適合錯過台達電(2308)漲幅的投資人，肯定光寶科具備落後補漲潛力，而以目前位階來看，有機會再漲4成左右。\n\n機器人概念股中的上銀(2049)，除題材性強，EPS表現趨穩，近日強勢拉漲停，代表法人開始進場；反觀直得(1597)雖然名氣大、近期漲幅猛，但需留意其營收成長性是否跟上股價。",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
