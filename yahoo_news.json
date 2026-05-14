@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-14T13:43:57.544Z",
-  "total_news_count": 556,
+  "last_updated": "2026-05-14T14:01:10.783Z",
+  "total_news_count": 557,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-14",
+      "Time": "21:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "Wall St opens higher as Nvidia gains; US-China talks, data in focus",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-higher-nvidia-133500909.html",
+      "Content": "May 14 (Reuters) - Wall Street stock indexes ‌opened higher ‌on Thursday as Nvidia's ​shares jumped, while investors assessed economic data and watched ‌developments around ⁠the high-stakes U.S.-China summit.\n\nThe Dow ⁠Jones Industrial Average rose 150.4 ​points, or ​0.30%, ​at the ‌open to 49,843.58. The S&P 500 rose 10.1 points, or 0.14%, at ‌the open to ​7,454.4, ​while ​the Nasdaq ‌Composite rose 23.1 points, ​or ​0.09%, to 26,425.468 at the ​opening ‌bell.\n\nMore from Yahoo Scout\n\nWhy did all major indexes open higher?\n\nHow did economic data impact market sentiment?\n\nWhat U.S.-China summit developments affected trading?\n\nWhat drove Nvidia's share price jump today?\n\n(Reporting by Ragini ​Mathur; Editing by ​Devika Syamnath)",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-05-14",
@@ -13,7 +23,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "AMD, INTC",
       "Date": "2026-05-14",
       "Time": "21:05:00",
       "Source": "Yahoo Finance",
