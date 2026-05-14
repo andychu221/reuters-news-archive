@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-14T15:01:39.962Z",
-  "total_news_count": 574,
+  "last_updated": "2026-05-14T15:15:31.044Z",
+  "total_news_count": 575,
   "news": [
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "AAPL",
+      "Date": "2026-05-14",
+      "Time": "22:50:42",
+      "Source": "Yahoo Finance",
+      "Title": "KeyBanc turns ’more cautious’ on Apple stock amid ’stretched’ valuation",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/keybanc-turns-more-cautious-apple-145042952.html",
+      "Content": "Investing.com -- KeyBanc Capital Markets is growing increasingly wary of Apple shares, saying the stock's valuation is \"stretched\" and that proprietary spending data points to \"initial cracks in the bulls' multi-year compounding growth view\" as U.S. hardware demand reverts toward normal seasonality.\n\nAnalyst Brandon Nispel maintained a Sector Weight rating on Apple , citing field-level data showing indexed spending fell 16% month-over-month in April, below the three-year average decline of 12%, while year-over-year growth decelerated sharply to negative 6% from positive 10% in March.\n\nKeyBanc believes the data underscores a key challenge for Apple bulls as future growth upside increasingly needs to come from international markets, particularly China and Asia-Pacific, where the firm acknowledges its data has less visibility.\n\nOn the upcoming fiscal third quarter, KeyBanc is modeling hardware revenue growth of 18.2% year-over-year, above the 15.4% consensus, with particular strength in iPhone at 24.6% year-over-year versus the consensus of 19.4%.\n\nHowever, despite the above-consensus near-term estimates, KeyBanc is \"struggling to find a case that warrants AAPL's valuation,\" which relies on an aggressive multi-year growth rate and a premium multiple.\n\nThe firm flagged Apple's historical business cyclicality, messaging from U.S. carriers pointing to fewer device subsidies and recent commentary from Verizon indicating upgrade rates have already begun to moderate as key concerns.\n\nWith Apple trading at approximately 23 times fiscal 2027 enterprise value-to-EBITDA and 32 times earnings, KeyBanc said the stock looks generally overvalued relative to its historical discount to the Nasdaq and other large-cap technology peers.\n\nKeyBanc turns ’more cautious’ on Apple stock amid ’stretched’ valuation\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nNvidia's new Alpamayo project: What it means for Tesla?",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-05-14",
       "Time": "22:46:47",
       "Source": "Yahoo Finance",
