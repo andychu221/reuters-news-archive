@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-14T09:40:46.776Z",
-  "total_news_count": 504,
+  "last_updated": "2026-05-14T09:44:36.200Z",
+  "total_news_count": 514,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "17:09:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電下一個秘密武器曝光！CoWoS之後 張曉強點名「COUPE」",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B-%E5%80%8B%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E6%9B%9D%E5%85%89-cowos%E4%B9%8B%E5%BE%8C-%E5%BC%B5%E6%9B%89%E5%BC%B7%E9%BB%9E%E5%90%8D-coupe-090957891.html",
+      "Content": "過去幾年，台積電先進封裝CoWoS隨AI熱潮快速竄紅，也帶動相關供應鏈成為市場焦點。不過，台積電業務開發及全球業務的資深副總經理暨副共同營運長張曉強今（14）日在2026年技術論壇台灣場次上指出，隨著進入AI與高速通訊時代，產業下一個需要記住的關鍵字，將會是「COUPE」，也就是緊湊型通用光子引擎（Compact Universal Optical Photonic Engine）。\n\n台積電今日在新竹舉辦年度技術論壇。張曉強表示，過去業界原本預估，全球半導體營收要到2030年才會達到1兆美元規模，但在AI需求強力推動下，今年半導體營收就將遠超過這項里程碑，等於提前達成長期產業目標。\n\n他指出，過去10年半導體主要成長動能來自智慧型手機，未來10年則毫無疑問將由AI接棒。\n\n針對技術創新的下一個關鍵，張曉強表示，如果說過去幾年市場熟悉的是CoWoS，那麼接下來AI時代的新名詞就是COUPE。COUPE技術的核心在於將光子傳輸與電子運算進行高效整合，這將是台積電推動AI系統性能持續增長的秘密武器，也是未來幾年半導體產業最重要的技術名詞之一。\n\n台積電說明，COUPE將整合共同封装光學（CPO）解決方案，與傳統銅線相比，基板上搭載COUPH的CPO可提供4倍的功耗效率且延遥減少90%，藉由在中介層上使用COUPE技術，效能可進一步提升，實現10倍的功耗效率與延遲減少95%。\n\n台積電也同步公布最新研發進展，搭載COUPE技術的全球首個200Gbps微環調變器（MRM），預計將於2026年進入量產。公司表示，在製程控制優勢下，該技術可實現低於1E-08的位元誤差率。後續台積電也將持續朝400Gbps調變器、多波長技術與多列光纖陣列單元推進，目標是在2030年達到4Tbps/mm的頻寬密度。\n\n除了技術布局，今年論壇另一項受到關注的焦點，是兩位新任副總袁立本與田博仁也擔任講者，展現台積電新一代管理與技術人才陸續浮上檯面。\n\n袁立本於2011年加入台積電，目前擔任業務開發組織副總經理，負責整合公司業務策略、技術藍圖，並與客戶及生態系合作夥伴溝通。在升任副總前，他曾任先進技術業務開發資深處長，負責先進邏輯技術、高效能運算、封裝與射頻技術組合。\n\n袁立本也曾在設計暨技術平台組織歷練，參與7奈米、5奈米技術的設計技術協同優化，以及在5奈米之後的下一世代邏輯技術路徑探尋（pathfinding）。\n\n在加入台積電之前，袁立本曾任美國新思科技（Synopsys）簽核分析產品事業部總監。他在全球擁有32項專利，其中包含22項美國專利。袁立本畢業於台灣大學電機工程學系，並於美國伊利諾大學厄巴納－香檳分校取得電機與電腦工程碩士及博士學位。\n\n田博仁目前擔任營運組織先進技術工程副總經理，並於2022年1月升任晶圓十二B廠資深廠長。他自1998年加入台積電後，長期投入晶圓廠營運與先進製程技術的落地量產。\n\n田博仁負責管理晶圓十二B廠，成功量產台積自28奈米到領先全球的2奈米等先進邏輯製程技術，貢獻涵蓋產品效能、良率、可靠度、生產力、成本控制與供應鏈管理等面向。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL, SNDK",
       "Date": "2026-05-14",
@@ -11,6 +21,56 @@
       "URL": "https://finance.yahoo.com/m/dd6531fb-ab4a-369c-84cd-0a6cd94285f8/the-profit-margins-for-these.html",
       "Content": "The artificial intelligence boom sometimes gets a bad rap for fueling pure speculation in companies with weak underlying businesses. But there are plenty of companies making significant profits now due to surging AI-related demand.\n\nThree connected to that space that boast enviable profit margins today are Micron Technology (NASDAQ: MU) , Sandisk (NASDAQ: SNDK) , and Broadcom (NASDAQ: AVGO) . These companies are experiencing booms in their businesses thanks to high demand for AI processors, storage, and memory, coupled with low supply.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAnd the result is that all of them are enjoying high profit margins that could persist for years.\n\nEnviable gross profit margins\n\nSandisk and Micron provide tech giants like Alphabet , Meta , Amazon , Microsoft , and others with memory and storage components, while Broadcom designs application-specific integrated circuits (ASICs) for many leading tech companies. These components have become integral to AI data centers at a time when technology companies are ramping up their AI spending; the leading hyperscalers plus Tesla plan to lay out a collective $750 billion on AI infrastructure this year alone.\n\nAs companies build more AI data centers , supplies of memory, storage, and AI processors have grown tight, allowing the companies that sell them to increase prices and book bigger profits. The result has been exceptional gross margins for Sandisk, Broadcom, and Micron.\n\nHere's what the companies' gross margins were in each of their most recent quarters.\n\nCompany\n\nGross Profit Margin\n\nSandisk\n\n78.4%\n\nBroadcom\n\nMicron Technology\n\n74.4%\n\nData sources: Sandisk, Micron, and Broadcom earnings reports.\n\nMargins that high are more commonly achieved by software companies, not hardware companies. But chipmakers and foundries are in the midst of expanding their production capacities in their bids to capture more of the undersupplied market; when those factories eventually come online and the supply-and-demand imbalances even out, these margins could eventually fall. But Sandisk, Broadcom, and Micron are reaping the benefits now by offering some of the most in-demand AI infrastructure components.\n\nCan the good times continue?\n\nThe two natural questions investors probably want answered after seeing gross margins this high are why they are so high, and whether they're sustainable. The answer to the first is fairly straightforward, while the second is a little more complicated.\n\nStory Continues\n\nGross margins for Sandisk, Micron, and Broadcom have spiked as demand for AI memory, storage, and processors has skyrocketed. Consider that one year ago, Micron's gross profit margin was just 37%, and Sandisk's was just 38%.\n\nAlphabet offers a great example of just how intense the AI spending spree is right now. The company plans to spend up to $190 billion this year on artificial intelligence infrastructure, and management says that in 2027, spending will \"significantly increase compared to 2026.\"\n\nSo, are these margins sustainable? Not exactly. The markets for these components are inherently cyclical (particularly for the memory chips made by Sandisk and Micron). New products and services debut (in this case, AI data centers powered by advanced AI models) and spur surges in demand. Production capacity gets added, and supply rises. Then demand tends to slacken, and the market dynamic reverses.\n\nEventually, AI data center infrastructure investments will cool -- nothing lasts forever. What's difficult to predict is just how long demand will stay elevated. At this point, though, there's no slowdown in sight. AI spending is still increasing, and even when it cools a bit, there will still be much more need for AI components than there was in the recent past.\n\nOwning some AI infrastructure stocks is probably a good idea\n\nWith the caveat that these companies have histories of boom-and-bust cycles, it's probably a good idea to have a little bit of exposure to them in your portfolio.\n\nMicron's shares actually look like a pretty good deal right now. They are trading at a price-to-earnings (P/E) ratio of around 35 right now, compared to the average P/E ratio for the tech sector of about 37. Broadcom and Sandisk are pricier, with ratios of 83 and 53, respectively.\n\nThat doesn't mean they're not worth buying amid surging AI demand, but investors should recognize that if they buy now, they're paying a premium.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:55:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "世新大學躲過私校倒閉潮 專家曝20年前投資神操作",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%96%E6%96%B0%E5%A4%A7%E5%AD%B8%E8%BA%B2%E9%81%8E%E7%A7%81%E6%A0%A1%E5%80%92%E9%96%89%E6%BD%AE-%E5%B0%88%E5%AE%B6%E6%9B%9D20%E5%B9%B4%E5%89%8D%E6%8A%95%E8%B3%87%E7%A5%9E%E6%93%8D%E4%BD%9C-085508034.html",
+      "Content": "台積電本月初衝上2345元歷史天價，今年迄今股價已上漲近44%，財信傳媒董事長謝金河在臉書發文分享，他過去曾建議世新大學的董事買進台積電，如今多年過去，台積電股價上漲為該校帶來豐沛的財源。\n\n謝金河表示，他曾經在世新開了一個學期的課，那個時候跟時任董事長成嘉玲熟識，2000年前後她詢問學校校務基金的錢怎麼投資，聽了建議後買進台積電，現在世新持有的台積電成為校務基金理財之母，帶來豐沛的財源，在眾多私校退場中財務卻相當從容。\n\n謝金河說，世新現任董事長周成虎近日也特別請他吃晚餐，周是洛杉磯La Verne大學公共行政博士，這次校務投資幾乎All in所有AI相關股。他看好世新有周董事長坐鎮，理財可以高枕無憂。\n\n謝金河提到，他過去也曾建議達新董事買台積電，2020年2月，達新把台中市大遠百旁的惠國段土地2593坪以83.75億元賣給興富發，達新的董事胡柏墩請教賣地變現的錢怎麼用，聽了建議全部換成台積電，除了股價增值，也可以用台積電的股息收入拿來配息給股東。\n\n謝金河說，達新把賣土地的錢換成台積電股票變成活水，保住流動性，而且，股價增值可以帶給公司更大的利益，包含達新董事胡柏墩及柳萬成都聽進他的話，大力買進台積電股票，那時候台積電股價在235.5元左右，只不過達新逢高賣出，現在剩下不多。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:53:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川習會爆「稀土換ASML機台」？華爾街示警：若交換成真 台韓3巨頭危險",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E7%BF%92%E6%9C%83%E7%88%86-%E7%A8%80%E5%9C%9F%E6%8F%9Basml%E6%A9%9F%E5%8F%B0-%E8%8F%AF%E7%88%BE%E8%A1%97%E7%A4%BA%E8%AD%A6-%E8%8B%A5%E4%BA%A4%E6%8F%9B%E6%88%90%E7%9C%9F-%E5%8F%B0%E9%9F%933%E5%B7%A8%E9%A0%AD%E5%8D%B1%E9%9A%AA-085319202.html",
+      "Content": "AI浪潮推升全球晶片股狂飆之際，市場擔憂「川習會」恐成為半導體行情的關鍵變數。專家警告，若美中達成「稀土換ASML設備」的協議，隨著中國大陸擴產壓低晶片價格，包括台積電、三星、SK 海力士等大廠定價權可能遭受衝擊，恐難保獲利優勢。\n\n《巴隆周刊》（Barron's）報導，美國總統川普與大陸國家主席習近平於14、15 日在北京舉行高峰會。資深研究機構 Gavekal Research執行長蓋夫（Louis-Vincent Gave）分析，美中雙方目前存在強烈的互補需求，美國急需補充稀土庫存，而中國大陸則渴望打破美方封鎖，取得艾司摩爾（ASML）的先進曝光機。\n\n他警告，若美中未來真的出現「稀土換ASML曝光機」的協議，恐改變全球半導體產業格局，甚至進一步壓低晶片價格。一旦中國取得更多先進製程能力，進而壓低全球晶片價格，對台積電、三星電子及SK海力士等主要晶片廠的定價能力也將面臨嚴峻挑戰。\n\n除了政治角力，中東局勢的惡化也為半導體需求蒙上陰影。蓋夫指出，伊朗戰爭不僅推升能源風險，更可能直接衝擊中東地區大型資料中心的投資進度，進而壓抑AI基礎建設的需求成長。此外，若油價與通膨壓力持續攀升，也可能讓全球央行更難啟動降息，進一步壓抑科技股估值。\n\n蓋夫表示，近期晶片股表現強勁，主要受惠AI需求持續爆發，以及企業第一季財報優於市場預期。費半指數上周更創下自2000年網際網路泡沫以來最大25日漲幅，其中，英特爾、美光強勢飆漲，更成為背後重要推手。\n\n對於AI概念股是否已經漲過頭，蓋夫並未完全轉趨悲觀。他認為，只要半導體企業持續上修獲利預估，加上市場對中東局勢降溫尚存期待，晶片股仍有機會延續漲勢。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:46:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI演進「實體化」！台積電揭秘1.5兆美元大布局",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%BC%94%E9%80%B2-%E5%AF%A6%E9%AB%94%E5%8C%96-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8F%AD%E7%A7%981-5%E5%85%86%E7%BE%8E%E5%85%83%E5%A4%A7%E5%B8%83%E5%B1%80-084600399.html",
+      "Content": "人工智慧正從生成式、代理式演進至實體AI，台積電預計半導體市場今年即將超越1兆美元門檻，並於2030年達到1.5兆美元 。台積電以A14、A16等先進製程與CoWoS技術，驅動HPC與AI領域的智慧革命 。\n\n半導體邁向兆元里程碑\n\n台積電表示，智慧革命正揭開序幕，人工智慧（AI）正從生成式AI（Generative AI）和代理式AI（Agentic AI）演進至實體AI（Physical AI） 。這場變革由先進半導體技術的功耗與效率驅動，原先預測2030年達標的1兆美元半導體市場，現在預計在今年就會提前超越門檻，並於2030年達到1.5兆美元 。其中，高效能運算（HPC）及AI領域佔整體市場的55%，是成長的主要動力 。\n\n先進邏輯技術邁向埃米世代\n\n在製程技術方面，台積電展示了清晰的技術發展藍圖。N2製程已於2025年第四季開始量產，而N2P與搭載超級電軌（Super Power Rail）的A16則計畫於2026年下半年分別進入量產與生產就緒階段 。針對A14技術的延伸，台積電推出可直接微縮的A13製程，相較於A14能節省6%的面積，並透過設計與技術協同優化（DTCO）提供額外的功耗與效能優勢，預計於2029年進入生產 。\n\n▼台積電提供\n\nCoWoS技術扮演關鍵角色\n\n針對AI訓練及推論需求，台積電的CoWoS技術扮演關鍵角色。2026年將生產全球最大的5.5倍光罩尺寸CoWoS，良率超過98% 。更先進的系統級晶圓（TSMC-SoW）技術能整合邏輯與HBM晶粒，使中介層尺寸放大超過40倍光罩尺寸，預計2029年推出更先進的SoW-X技術 。此外，具備3D互連的SoIC技術提供比2.5D更強的連接密度，A14對A14的堆疊計畫於2029年實現量產 。\n\n（封面圖/台積電官網）\n\n【 本文 由<a href=\"https://fnc.ebc.net.tw/?utm_source=yahoonews&utm_medium=referral&utm_campaign=site_link\" rel=\"nofo",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:34:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電新武器來了！ 搭載COUPE技術微環調變器 今年進入量產",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%96%B0%E6%AD%A6%E5%99%A8%E4%BE%86%E4%BA%86-%E6%90%AD%E8%BC%89coupe%E6%8A%80%E8%A1%93%E5%BE%AE%E7%92%B0%E8%AA%BF%E8%AE%8A%E5%99%A8-%E4%BB%8A%E5%B9%B4%E9%80%B2%E5%85%A5%E9%87%8F%E7%94%A2-083400050.html",
+      "Content": "台積電於2026年技術論壇宣布，半導體市場今年將提前跨越1兆美元大關 。透過首款200Gbps微環調變器（MRM）量產與MRAM、RRAM技術革新，台積電正以領先的矽光子及記憶體布局，驅動從生成式AI邁向實體AI的智慧革命 。\n\n矽光子COUPE技術領銜量產\n\n台積電在高效能運算（HPC）與AI領域持續突破，特別是針對傳輸效能與功耗的關鍵痛點，推出了緊湊型通用光子引擎（COUPE）技術 。台積電表示，搭載COUPE技術的全球首個200Gbps微環調變器（MRM）將於2026年正式進入量產 。這項技術能將共同封裝光學（CPO）解決方案整合，相較於傳統銅線，基板上的COUPE可提供4倍的功耗效率，並減少高達90%的延遲 。若在中介層上使用該技術，效能更可進階提升至10倍功耗效率與95%的延遲縮減 。台積電更預告，未來將持續擴展至400Gbps調變器與多波長技術，目標在2030年實現每毫米4Tbps的頻寬密度 。\n\n非揮發性記憶體轉向MRAM與RRAM\n\n針對特殊製程技術，台積電宣布非揮發性記憶體正加速朝向MRAM（磁阻隨機存取記憶體）與RRAM（電阻式隨機存取記憶體）發展，以支援製程從40/28/22奈米持續縮小至16/12奈米 。目前，40/28/22奈米的RRAM已自2022年起量產，而更先進的12奈米RRAM也已準備好進行客戶設計定案（tape-outs） 。在磁性記憶體方面，22奈米MRAM已穩定生產，16奈米版本則進入設計定案階段 。台積電強調，目前正開發能進一步提升邏輯密度與效能的12奈米MRAM，預計於2026年底前就緒 。\n\n車用與射頻技術的先進布局\n\n台積電在論壇中亦揭示了先進汽車技術的進程，N3A製程已於2025年第四季完成汽車應用認證，目前已有超過10個新設計定案 。此外，專為自動駕駛與實體AI設計的N2P「Auto-Use」製程設計套件也已啟動，而基於奈米片技術的N2A則預計在2028年首季取得認證 。在射頻技術領域，最新的N4CRF技術相較於前代，能為智慧型手機及AI眼鏡等RF SoC產品降低39%的功耗並縮減33%的面積 ，展現出台積電在多元應用領域的全面領先。\n\n（封面圖/東森新聞）\n\n【 本文 由 東森財經 提供",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:28:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台積技術論壇〉擴產火力全開 全球18座晶圓廠同步建設",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E6%8A%80%E8%A1%93%E8%AB%96%E5%A3%87-%E6%93%B4%E7%94%A2%E7%81%AB%E5%8A%9B%E5%85%A8%E9%96%8B-%E5%85%A8%E7%90%8318%E5%BA%A7%E6%99%B6%E5%9C%93%E5%BB%A0%E5%90%8C%E6%AD%A5%E5%BB%BA%E8%A8%AD-082807763.html",
+      "Content": "台積電 (2330-TW)(TSM-US) 今 (14) 日舉辦技術論壇，營運組織先進技術工程副總經理田博仁表示，為滿足全球客戶快速成長需求，台積電正以過去兩倍速度推進全球產能擴張，現階段正在全球新建與改造 18 座晶圓廠，其中包括 5 座先進封測廠，將同步強化先進製程晶圓產能與先進封裝產能。\n\n田博仁指出，台積電 2017 年至 2024 年平均每年新建 4 座新廠，但 2025 年至 2026 年間，擴張速度將提升至每年 9 座新廠，顯示公司正加速回應 AI、高效能運算 (HPC) 與先進封裝需求快速成長。2026 年，台積電計畫在台灣新建 4 座晶圓廠與 2 座先進封裝廠，並持續推進全球 12 吋晶圓廠布局。\n\n美國第二座廠 2027 年下半年生產 N3 製程\n\n在海外布局方面，美國亞利桑那州廠區已完成現有廠區與新土地取得，以支援後續擴張計畫。田副總表示，亞利桑那第一座晶圓廠已於 2024 年底開始生產 N4 製程，預計 2026 年產出將年增 1.8 倍；第二座晶圓廠預計 2026 年下半年開始設備移入，並於 2027 年下半年開始生產 N3 製程；第三座晶圓廠已在 2025 年上半年動工，第四座晶圓廠與第一座先進封裝廠也已進入初期建設階段。\n\n日本 28/22 奈米良率已達台灣水準\n\n日本熊本方面，第一座晶圓廠已進入 28 奈米與 22 奈米量產；第二座晶圓廠已於 2025 年開始建設，預計生產 N3 製程。田博仁表示，熊本廠 2026 年 N28 與 N22 產出目標，將達 2025 年的 2.3 倍，且 28 奈米、22 奈米良率已達與台灣廠相當水準。\n\n歐洲布局部分，德國德勒斯登 ESMC 建設進度順利，該廠將聚焦汽車與工業應用，支援歐洲客戶採用 28 奈米、22 奈米、16 奈米與 12 奈米製程技術。中國大陸廠區則將持續提供 16 奈米與 28 奈米產品。\n\n台灣是擴產核心\n\n台灣仍是台積電先進製程與先進封裝擴產核心。田博仁指出，目前台灣共有 12 座晶圓廠或先進封裝廠正在建設中，其中新竹 20 廠與高雄 22 廠是 N2 及更先進製程量產基地，兩座晶圓廠已開始量產；台中 25 廠則已於 2025 年動工，計畫 2028 年開始量產，預計生產 2 奈米及更先進製程。\n\nN2 首年產出比 N3 多 45%\n\n先進製程方面，田博仁表示，台積電最先進 N2 製程已進入量產，良率學習曲線優於 N3 同期進度，後續以 N2 為基礎、搭配 A16 製程，也將按計畫如期量產。為支援客戶對 2 奈米製程的強勁需求，台積電在研發與營運團隊「One Team」協作下，將於 2026 年同步啟動多座晶圓廠，N2 量產第一年產出將較 N3 同期高出 45%，2026 年至 2028 年 N2 產能預計將以約 70% 的年複合成長率擴大。\n\nN3/N5 產能至 2027 年 CAGR 達 25%\n\n除 N2 外，台積電也將持續擴大 N3 與 N5 產能。田博仁指出，儘管 N3 與 N5 製程技術複雜度高於 N7，但量產初期表現已優於 N7；2022 年至 2027 年，N3 與 N5 產能將以約 25% 的年複合成長率擴充，並透過不同製程節點間的彈性配置，提高產能調度效率。\n\n2027 年前先進封裝產能 CAGR 逾 80%\n\n在先進封裝方面，田博仁表示，CoWoS 與 SoIC 等 3DIC 技術持續推進，SoIC-X 已進入量產階段，相關產能預期將有超過 80% 的成長。為滿足 AI 應用對先進封裝的強勁需求，台積電 2022 年至 2027 年將以超過 80% 的年複合成長",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -23,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-05-14",
+      "Time": "16:11:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股》日經收跌0.98%、TOPIX跌1.03%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1-%E6%97%A5%E7%B6%93%E6%94%B6%E8%B7%8C0-98-topix%E8%B7%8C1-03-081100141.html",
+      "Content": "MoneyDJ新聞 2026-05-14 16:11:53 數位內容中心 發佈\n\n日股今(14)日盤中呈現高檔整理格局，午後呈現下跌走勢。日經225指數收於62654.05點，下跌618.06點或0.98%，盤中最高漲至63799.32點；東證股價指數(TOPIX)收於3879.27點，下跌40.21點或1.03%。\n\n個股方面，今日包括愛德萬測試(6857.JP)、Fanuc(6954.JP)、TDK(6762.JP)、SCREEN Holdings(7735.JP)、Murata Manufacturing(6981.JP)、ROHM(6963.JP)、Renesas Electronics(6723.JP)及Taiyo Yuden(6976.JP)等均同步收漲。\n\n就類股表現來看，以玻璃土石製品類股漲幅較突出，其他表現較佳者尚包括電機業、紙漿/紙業和化學業等。\n\n榮成4月稅前EPS 0.08元，呈「淡季不淡」態勢\n\n正隆響應環境部「袋袋箱傳」活動，推動資源循環\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-05-14",
       "Time": "16:10:00",
@@ -30,6 +100,16 @@
       "Title": "台股漲377點 三大法人買超175億 被動元件「6檔」噴漲停",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2377%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85175%E5%84%84-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6-6%E6%AA%94-%E5%99%B4%E6%BC%B2%E5%81%9C-081000258.html",
       "Content": "台股今（14）日開高走低，終場以41751點作收，上漲377點，漲幅0.91%，成交量來到1.21兆。三大法人合計買超175.27億，其中投信買超142.48億，外資結束連4日賣超，今日小買45.43億。\n\n觀察今日籌碼動向，外資及陸資買超45.43億，投信買超142.48億，自營商賣超12.63億，合計買超175.27億。\n\n權值股方面，台積電開高震盪收2270元，漲50元，漲幅2.25%，鴻海收244.5元，下跌2.59%，聯發科受證交所列入處置股影響，股價來到3405元，跌幅2.58%。\n\n今日被動元件、記憶體族群走勢強勁，被動元件類股中，國巨*、華新科、禾伸堂、光頡、鈺邦、天二科技共6檔漲停，凱美、興勤也有逾5%的漲幅；記憶體類股中，華邦電、群聯漲停，南亞科漲幅逾6%，力積電漲幅逾3%。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-05-14",
+      "Time": "16:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台股盤後》收漲377點、42K未攻克，惟收復5日線",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E6%BC%B2377%E9%BB%9E-42k%E6%9C%AA%E6%94%BB%E5%85%8B-%E6%83%9F%E6%94%B6%E5%BE%A95%E6%97%A5%E7%B7%9A-080200843.html",
+      "Content": "MoneyDJ新聞 2026-05-14 16:02:54 新聞中心 發佈\n\n美股週三費半指數漲逾2.5%、盤後CISCO季報利多再激勵NASDAQ電子盤走勢，台股今(14)日由台積電領軍，搭配電子權值股智邦、聯電鎖漲停，以及國巨*等被動元件、南亞科等記億體族群強攻下，雖然19大類股與十大權值股皆跌多漲少、日股午盤後翻黑壓抑大盤漲勢，加權指數終場仍收在41751.75點、42K得而復失，上漲377.25點或0.91%，仍順利收復5日線，成交量1兆2167.78億元。\n\nAI晶片、太空、光通訊概念股飆高，抵銷通膨數據比預期火熱、聯準會(Fed)將在可預見的未來維持限制性貨幣政策的疑慮，那斯達克指數、標準普爾500指數雙雙登上歷史收盤新高。亞洲股市方面，日經225指數早盤在半導體相關股揚升下呈現上漲，不過之後漲勢不繼、收跌0.98%；韓國KOSPI指數則收漲1.75%。\n\n今日電子股收漲1.2%、為19大類股表現最亮眼族群，主要係台積電挾輝達CEO最後一刻列入美方赴中代表團，且市場對台積今日技術論壇也抱有釋出利多的期待，相對尾盤亦見急拉效應，終場收在最高點2270元、上漲2.25%，而智邦挾CISCO美股盤後季報利多強攻漲停、聯電亦強勢鎖漲停，不過致茂重挫6%，創意、鴻海、聯發科、廣達同步收黑。惟在資金輪動下，被動元件族群獲點火，國巨*、華新科、禾伸堂、光頡、天二科技、鈺邦齊攻漲停；搭配三星大罷工在即，市場預期記憶體供需失衡狀況恐加劇下，華邦電、群聯鎖漲停，南亞科漲6%、宜鼎/創見漲逾5%。\n\n而橡膠漲1.1%、鋼鐵漲0.6%則居19大類股漲幅第二與第三，主要係正新Q1財報優預期、大成鋼4月營收創高的激勵效應；相對台塑四寶走勢仍不振、帶動塑膠股跌1.7%、玻陶股亦因台玻續挫1.6%帶動該類股下跌1.5%，加上汽車股下跌1.1%，係今日19大類股表現最差的三大族群。\n\n三大法人動向方面，今日三大法人合計買超175.27億元；其中，自營商賣超12.63億元，投信買超142.48億元，外資及陸資買超45.43億元。\n\n晶技Q2營收看個位數季增/年增；AI佔比逐年增\n\n三大趨勢，助力國巨迎榮景\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -91,6 +171,16 @@
       "Keywords": "AI, Observability, SaaS, Growth, Customer Acquisition"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-05-14",
+      "Time": "15:15:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Follow法人】外資轉買卻狂倒貨群創友達逾22萬張 鴻海也遭砍逾2萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E8%BD%89%E8%B2%B7%E5%8D%BB%E7%8B%82%E5%80%92%E8%B2%A8%E7%BE%A4%E5%89%B5%E5%8F%8B%E9%81%94%E9%80%BE22%E8%90%AC%E5%BC%B5-%E9%B4%BB%E6%B5%B7%E4%B9%9F%E9%81%AD%E7%A0%8D%E9%80%BE2%E8%90%AC%E5%BC%B5-071511324.html",
+      "Content": "（下午5點分更新買賣超個股）\n\n台股今（14）日盤中漲幅一度漲逾800點，終場上漲377點，以41,751點作收。三大法人今日由賣轉買，今日買超175.27億元，其中外資終止連4賣，今日轉買超45.42億元。對此，資深台股分析師江慶財表示，今日川習會互動釋出相對正面的訊號，讓原先市場擔憂的風險暫時降溫，也使外資對台股基本面的看法重新轉向正面。觀察今日籌碼動向，外資轉買卻狂倒貨面板雙虎群創（3481）、友達（2409），合計遭倒貨逾22萬張，鴻海（2317）也同步遭砍逾2萬張賣超。\n\n外資今日賣超前三大：群創、00403A、友達\n\n觀察今日賣超榜，由面板雙虎占前兩大，群創（3481）今外資再續砍逾20萬張居冠，慘淪賣超第一；其次則是主動統一升級50（00403A）拿下，遭外資砍逾9.2萬張，第三則是友達（2409），同步賣超逾2.4萬張。\n\n值得注意的是，鴻海（2317）今日下午召開法說會，遭外資賣超逾2.1萬張，和碩（4938）也同步賣超逾1.7萬張，以及衛星（2377）賣超逾1.5萬張。\n\n外資今日買超前三大：台新新光金、大成鋼、00981A\n\n今日買超方面以金融股台新新光金（2887）拿下，獲外資掃貨逾5.2萬張，為今日外資買盤重心，大成鋼（2027）也同樣獲得逾3.4萬張買超，排第二；主動統一台股增長（00981A）則是同步獲外資青睞，逾3.3萬張買超，居第三。\n\n其餘個股則包含二哥聯電（2303）獲外資掃貨逾2.4萬張，另外記憶體族群華邦電（2344）以及力積電（6770）也同步獲青睞，分別買超逾2.4萬張，以及1.6萬張。\n\n外資回心轉意！分析師：市場不確定性降溫\n\n江慶財表示，台股4月營收與獲利表現優於市場預期，也是外資回補的重要原因之一，尤其記憶體族群獲利表現超乎預期，進一步帶動市場信心。「公司最終還是要回歸基本面。」江慶材表示，只要沒有其他重大利空因素，台股後續仍有機會持續向上。\n\n他也提到，近期MSCI同步調升台股在全球標準型、亞洲區以及中小型成分股等三大指數權重，這種情況相對少見，代表台股在全球市場的重要性持續提升。雖然權重調整並非立即生效，但外資通常會提前布局卡位，加上目前台股成交量放大，也讓外資態度轉趨積極，「之前擔心的事情都沒有發生，所以外資回頭來看，可能認為之前賣錯了。」\n\n至於投信今日也持續買超142.47億元，已連17買。江慶財表示，因00403A上市初期，投信手上資金充足，通常第一天買超力道最大，後續則會逐步建立持股部位，金額也會慢慢趨緩。\n\n三大法人轉買超175億元 外資終止連4賣\n\n根據證交所公布籌碼動向，三大法人今日由賣轉買，合計買超為175.27億元，外資則終止連4賣，今日轉買超45.42億元。\n\n投信則是延續買超，今日買超142.47億元，已連呈17買；自營商今日也延續賣超，單日合計賣超為12.62億元，其中自行買賣部分賣超9億元，避險方面賣超3.62億元。\n\n台股今日開高走高，終場上漲377點，收在41,751點，成交金額達1.25兆元。台積電（2330）終場以2,270元作收，上漲50元。\n\n湯暖萱／財經特派記者，主跑主計處、營建、百貨紡織等",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII, 2330.TW",
       "Date": "2026-05-14",
       "Time": "15:11:32",
@@ -127,6 +217,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 1,
       "Keywords": "三大法人,買超,台股,投信,外資"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW, 2330.TW",
+      "Date": "2026-05-14",
+      "Time": "15:03:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科衝高卻回檔 台股漲377點盤中又見4萬2",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E8%A1%9D%E9%AB%98%E5%8D%BB%E5%9B%9E%E6%AA%94-%E5%8F%B0%E8%82%A1%E6%BC%B2377%E9%BB%9E%E7%9B%A4%E4%B8%AD%E5%8F%88%E8%A6%8B4%E8%90%AC2-070310904.html",
+      "Content": "[ 非凡新聞 ]記者林浩宇,攝影謝隆証\n\n台股520行情提前暖身！隨著川習會登場，市場樂觀情緒快速升溫，帶動今（14）日台股強勢反攻。在台積電、台達電等電子權值股同步走揚之下，記憶體、被動元件等族群也全面點火，加權指數盤中再度挑戰42000點整數大關。終場加權指數上漲377點，以41751點作收，成交量達1兆2585億元。\n\n市場一邊屏息等待川習會會談結果，另一邊資金已經先衝了，美股科技股強勢表態，也讓台股14日展開一波慶祝行情，台積電重返5日線，台達電、日月光等主要權值股同步走揚，帶動加權指數盤中一度大漲超過800點，再度攻上42000點整數大關，只可惜市場持續觀望，川習會後續發展，火力略顯不夠，再度上演5日線保衛戰。\n\n顧德投顧分析師 黃紫東：「按照過往的慣性來看，兩人的見面對台股的影響並不是那麼大，整體而言第一件事情，影響我們台灣的一些工具機，或者是一些封裝等等相關的產業，是不是畢竟在中國有設廠，整體而言台股的主流還是集中在記憶體、PCB族群，按照本身產業和技術上的突破，以及發展，這部分和川習會基本上聯動度就比較低。」\n\n觀察盤面焦點，記憶體很給「利」，南亞科、群聯雙雙飆出新天價，多檔個股漲幅也超過半根停板；被動元件族群同步火力全開，國巨、華新科等攻上漲停，蜜望實則是漲停後打開；矽光子族群也點火，大立光亮燈漲停。\n\n晶圓代工二哥聯電再亮紅燈；納入MSCI成分股的旺矽，更首度突破6000元，強勢攻上漲停；反觀森崴能源將在6月23日下市，股價直接殺到跌停，盤面上超過超過3萬多張賣單，排隊搶著逃命。\n\n隨著520行情即將到來，市場也開始期待，歷史是否會再度重演？根據統計，台股在520前5個交易日，上漲機率高達6成，在520過後漲率跟漲幅更明顯的攀高，後10個交易日台股的上漲機率高達100%。\n\n統一投顧資深分析師 陳立委：「其實今年是AI的元年，那在5月的題材是非常的多，那包括今天是台積電的技術論壇，台積電預計釋出一些半導體跟CPO的展望，那接下來19日是Google的I/O大會，20日除了總統的週年典禮之外，那時候可能會宣誓一些政策，或者是投資面的利多，這些也是會幫助股市上漲，也是NVIDIA輝達的財報公布日，那6月2日緊接著COMPUTEX電腦展。」\n\n不只520行情備受期待，從2016年至今近十年來看，若在歷年5月底進場布局，平均一年、二年、三年報酬率，分別為12%、25.1%、35.9%，呈現階梯式的成長。\n\n這也顯示5月底，正是布局台股的重要時間點，在多個題材帶動之下，市場也期待，這班多頭列車能再開往下一個高點。（記者林浩宇、謝隆証／台北報導）\n\n觀看原文...\n\n集保eGift領股東會紀念品免排 再祭千萬抽獎\n\nFed今年降息夢碎? 美PPI飆6% 通膨壓力加劇\n\n【台股盤後】台積電撐盤 台股上漲377點 收在41751點",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
