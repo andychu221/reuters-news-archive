@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T06:45:27.168Z",
-  "total_news_count": 464,
+  "last_updated": "2026-05-14T06:52:49.412Z",
+  "total_news_count": 470,
   "news": [
     {
       "Ticker": "META",
@@ -393,6 +393,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-05-14",
+      "Time": "11:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電訂單能見度看至2027，高雄/台中兩地擴產",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%A8%82%E5%96%AE%E8%83%BD%E8%A6%8B%E5%BA%A6%E7%9C%8B%E8%87%B32027-%E9%AB%98%E9%9B%84-%E5%8F%B0%E4%B8%AD%E5%85%A9%E5%9C%B0%E6%93%B4%E7%94%A2-030600101.html",
+      "Content": "MoneyDJ新聞 2026-05-14 11:06:58 數位內容中心 發佈\n\n華邦電（2344）針對中長期布局，已加速資本支出與產能擴充，預估2026年資本支出將提升至約405億元，約95％投入生產設備。高雄廠月產能規劃由15K提升至24K，台中Flash廠也將擴充測試設備與產能，並投入CUBE（客製化超高頻寬元件）相關設備以因應客戶需求。\n\n公司在法說會上指出，AI伺服器與高效能運算帶來的記憶體需求大增，同時主要記憶體原廠將資本支出轉向HBM與DDR5，造成DDR4、利基型DRAM及2D NAND供給收縮，推升成熟製程記憶體價格走高。華邦電表示，現有訂單能見度已延伸至2026年至2027年，相關產能規劃多數已被預訂。\n\n此外，董事會決議新增約73億元資本支出案，主要用於CUBE生產設備與Flash測試機台，以確保2027年相關產品可順利量產。公司並指出，部分設備交期延至2027年，但整體擴產進度維持推進。\n\n華邦電表示，目前持有部分低成本存貨，隨報價上升逐步釋出將有助毛利率表現。公司強調，短期內記憶體市場供需失衡及價格高檔仍主導營運表現。\n\n華邦電加速擴產高雄廠，再增73億資本支出\n\n南茂調價/擴產並進，拉抬今年營運動能\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-05-14",
       "Time": "10:56:31",
@@ -400,6 +410,16 @@
       "Title": "〈台積技術論壇〉廣達：AI有四大面向升級 期待台積電IVR、SoW發展",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E6%8A%80%E8%A1%93%E8%AB%96%E5%A3%87-%E5%BB%A3%E9%81%94-ai%E6%9C%89%E5%9B%9B%E5%A4%A7%E9%9D%A2%E5%90%91%E5%8D%87%E7%B4%9A-%E6%9C%9F%E5%BE%85%E5%8F%B0%E7%A9%8D%E9%9B%BBivr-sow%E7%99%BC%E5%B1%95-025631494.html",
       "Content": "廣達 (2382-TW) 副總經理趙茂贊今 (14) 日受邀至台積電 (2330-TW)(TSM-US) 技術論壇演講，並於會中表示，AI Scale-up 架構興起，帶動四大面向升級，包括 ASIC 數量、機櫃功耗、晶片 TDP 與 Fabric SerDes 速度，許多挑戰非供應商單方面能解決，尤其在 IVR、SoW 領域仍高度期待台積電的解決方案，支持 AI 持續高速成長。\n\n趙茂贊指出，從廣達角度觀察，AI scale-up 的成長速度可從四個面向來看，包括單一 cluster 內 ASIC 數量在約 10 年間將成長 72 倍、機櫃功耗成長 200 倍、晶片 TDP 成長 10 倍，以及 Fabric SerDes 速度成長 8 倍。這些變化代表 AI 運算需求不只是晶片效能提升，而是整個系統架構、電源、散熱與高速傳輸全面升級。\n\n他表示，近年 AI 興起後，Scale-up 成為關鍵。尤其自 2016 年 AI 專用伺服器問世以來，系統架構快速演進，從早期 8 顆 GPU 互連，逐步擴大至更高密度、更高功耗的 AI cluster。\n\n在電源設計方面，趙茂贊指出，早期 DGX-1 整機耗電約 5kW，但未來數年單一機櫃功耗可能進一步提升至 1MW 等級。當功耗大幅攀升時，電源轉換效率將成為關鍵，即使只有 1% 的效率差異，也會造成顯著能源損耗。\n\n他說，未來 AI 機櫃的電源架構將從過去的 12V、48V，朝 800V DC 等更高電壓發展，再一路轉換至 VCore。從系統角度來看，越靠近 VCore 越有利於效率提升，但同時會受限於面積、散熱與整合難度。廣達雖然也在思考自身 IVR 解決方案，但坦言，若要達到更終極的效率，仍期待台積電能提供更靠近核心的解決方案。\n\n散熱也是另一項關鍵挑戰。趙茂贊表示，隨著晶片 TDP 持續攀升，現有水冷板與晶片之間仍存在多層熱阻。最理想的狀態，是從機櫃到晶片裸晶之間只剩一層熱介面材料，但這已經不是系統廠單方面可以解決的問題，需要晶圓代工、封裝與系統廠共同整合。\n\n高速互連方面，趙茂贊表示，目前 AI 機櫃內大量使用銅線進行互連，但隨著 Fabric SerDes 速度從 56G、112G、224G 持續往 448G 推進，銅線在損耗、重量、線路密度與製造難度上都面臨瓶頸。他指出，若未來 ASIC 數量從數百顆擴大至上千顆甚至上萬顆，現有銅線架構將難以支撐，系統勢必要導入更多光互連，並從機櫃內部設計進一步延伸至跨機櫃、資料中心層級的整體架構。\n\n趙茂贊也提到，更長期來看，若能透過 SoW (system-on-wafer) 或大型交換器整合方案，將多顆晶片整合成超級交換器 (Super Switch)，將有機會大幅減少線纜數量並降低系統複雜度。他認為，這類技術未來相當重要，但同樣必須從系統層級出發，而不是單一元件或單一公司各自處理。\n\n趙茂贊指出，台灣半導體與系統供應鏈距離近，是未來推動 AI 系統整合的重要優勢。隨著 AI 晶片功耗持續提升，從封裝、散熱材料、電源模組到系統設計，都必須更早期協同開發，才能讓晶片效能在實際系統中充分發揮。\n\n趙茂贊總結，AI scale-up 帶來 ASIC 數量 72 倍、機櫃功耗 200 倍、晶片 TDP 10 倍與 SerDes 速度 8 倍的成長，凸顯 AI 基礎建設正進入全新階段。未來 AI 系統不再只是伺服器設計問題，也不只是晶片製造問題，而是從晶片、封裝、電源、散熱、互連到整機系統的跨層級整合工程，系統廠與台積電等半導體供應鏈的合作將更加關鍵。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-05-14",
+      "Time": "10:55:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科伺服器/LPDDR比重升，後續ASP看向上",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E4%BC%BA%E6%9C%8D%E5%99%A8-lpddr%E6%AF%94%E9%87%8D%E5%8D%87-%E5%BE%8C%E7%BA%8Casp%E7%9C%8B%E5%90%91%E4%B8%8A-025500011.html",
+      "Content": "MoneyDJ新聞 2026-05-14 10:55:24 數位內容中心 發佈\n\n南亞科（2408）近日公布營運動態，4月營收創單月歷史新高，營收成長主因為新世代DRAM產品出貨擴張及客戶結構調整，帶動平均售價走高與產品組合升級。\n\n在產品端，南亞科持續將比重由傳統消費性電子向高階伺服器及低功耗DRAM（LPDDR）傾斜。公司在高頻寬與低功耗規格的製程與模組整合能力已獲得主要客戶採用，致使企業級與伺服器類產品營收比重顯著提升。\n\n毛利率方面，隨著高階產品比重提升及製程良率改善，南亞科首季獲利表現優於市場預期。公司所公布的單季稅後每股盈餘（EPS）顯示獲利回升，並持續以製程優化與產品差異化維持毛利率水平，同時管控庫存以配合客戶交期需求。\n\n在供應鏈與產能部署上，南亞科正依客戶訂單需求調整產能配置，提升在LPDDR等關鍵規格的生產比例；公司透過製程及良率提升，提升單位產出效率。\n\n關於市場需求面，南亞科伺服器與人工智慧應用相關的記憶體需求呈現結構性成長，公司在與主要系統廠及ODM/EMS客戶的合作中，已取得部分新品設計採用，帶動今年以來營收及訂單動能增加。\n\n華邦電加速擴產高雄廠，再增73億資本支出\n\n台積電AI訂單推升產能利用率，HBM需求走揚\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -433,6 +453,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW, 8299.TWO",
+      "Date": "2026-05-14",
+      "Time": "10:26:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "群聯前4月狂賺逾10個股本！率隊南亞科晶豪科亮燈漲停 分析師看法出爐",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%A4%E8%81%AF%E5%89%8D4%E6%9C%88%E7%8B%82%E8%B3%BA%E9%80%BE10%E5%80%8B%E8%82%A1%E6%9C%AC%EF%BC%81%E7%8E%87%E9%9A%8A%E5%8D%97%E4%BA%9E%E7%A7%91%E6%99%B6%E8%B1%AA%E7%A7%91%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-022653054.html",
+      "Content": "記憶體大廠群聯（8299）公告4月自結每股盈餘高達34.56元，今年前4月累計已賺逾10個股本、創業界紀錄，激勵今（14）日記憶體族群全面噴發，盤中群聯、南亞科（2408）、晶豪科（3006）一度亮燈漲停；不過隨著大盤漲幅收斂，漲停陸續打開。分析師指出，記憶體族群過去在基本面強勁下仍壓抑整理長達數月，目前的上漲屬於資金回流的合理現象。\n\n觀察盤面記憶體股，截至上午10時15分，群聯暫報2,870元，上漲逾9%；南亞科報341元，上漲6%；華邦電（2344）、宜鼎（5289）也漲逾半根停板；旺宏（2337）大漲逾6%後回落，股價震盪翻黑下跌0.3%，暫報167.5元。\n\n群聯因近期股價波動達到資訊揭露規範，13日公告4月自結獲利數據，單月稅後淨利為76.4億元，較去年同期大增逾61倍，每股盈餘高達34.56元；光是今年前4月累計每股盈餘已逾103.36元，賺逾10個股本。\n\n華冠投顧分析師陳韋廷指出，記憶體族群目前具備強大的基本面支撐，其中群聯驚人的獲利能力帶動今股價跳空上漲，並提振整個記憶體族群的氣勢，尤其記憶體族群在這一波起漲前，股價已壓抑並整理兩、三個月，因此當資金流入這些位階較低的大族群時，漲勢顯得相當兇猛。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
       "Ticker": "LRCX",
       "Date": "2026-05-14",
       "Time": "10:19:13",
@@ -443,6 +473,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-05-14",
+      "Time": "10:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發114/12/24~115/5/13出清南亞科1,500張，獲利約6772萬元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC114-12-24-115-5-021000586.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(1459)聯發-依據「公開發行公司取得或處份資產處理準則」公告\n\n1.證券名稱:南亞科\n\n2.交易日期:114/12/24~115/5/13\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年05月13日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量1,500,000股\n\n每單位價格264.55元\n\n交易總金額396,821,000元\n\n6.處分利益（或損失）（取得有價證券者不適用）:處分利益67,717,269元\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n迄目前為止，累積持有本交易證券之數量為0股、金額0元\n\n持股比例為0%\n\n無權利受限情形\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n總資產比例:20.19%;股東權益比例:27.26%\n\n最近期財務報表中營運資金為1,158,483仟元\n\n10.取得或處分之具體目的:投資理財\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:無\n\n南亞科伺服器/LPDDR比重升，後續ASP看向上\n\n中環5/12~13處分南亞科1,420張，獲利約6233萬元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "TSM",
       "Date": "2026-05-14",
       "Time": "10:06:30",
@@ -451,6 +491,26 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/tsmc-says-global-chip-market-020630963.html",
       "Content": "By Wen-Yee Lee\n\nHSINCHU, Taiwan, May 14 (Reuters) - TSMC, the world's largest contract chipmaker, expects the global semiconductor market to exceed $1.5 trillion by 2030, topping ‌its previous forecast of $1 trillion, according to its presentation materials ahead of a tech ‌symposium on Thursday.\n\nHere are the details:\n\n• AI and high-performance computing are expected to account for 55% of ​the $1.5 trillion market, followed by smartphones with 20%, and automotive applications with 10%, according to TSMC.\n\n• TSMC said it has been expanding capacity at a faster pace in 2025 and 2026 and plans to build nine phases of wafer fabs and advanced packaging facilities ‌in 2026.\n\n• The chipmaker is ⁠projected to ramp up capacity for its most advanced 2-nanometer and next generation A16 chips, with a compounded annual growth rate (CAGR) of ⁠70% from 2026 to 2028.\n\n• TSMC said CAGR of capacity for its advanced packaging CoWoS (Chip on Wafer on Substrate) is forecast at more than 80% from 2022 to 2027. CoWoS is a ​key ​chip packaging technology widely used in AI chips ​including those designed by Nvidia .\n\n• The ‌company said AI accelerator wafer demand is projected to increase 11-fold from 2022 to 2026.\n\nTSMC'S GLOBAL FOOTPRINT\n\n• Arizona: The first fab is already in production. Tool move-in for the second fab is planned for the second half of 2026. Construction of a third fab is underway. Work on a fourth fab and the site's first advanced ‌packaging facility is expected to begin this year.\n\n• ​TSMC anticipates a 1.8-fold year-on-year increase in Arizona output ​by 2026, with yields comparable to ​those in Taiwan.\n\n• The chipmaker said it completed the purchase of ‌a second large parcel of land ​in Arizona for future ​expansion.\n\n• Japan: The first fab is currently in volume production for 22-nanometer and 28-nanometer products. Plans for the second fab have been upgraded to 3-nanometer in ​response to strong demand.\n\n• Germany: ‌The fab is currently under construction and progressing as scheduled. It plans ​to provide 28-nanometer and 22-nanometer technologies, followed by 16-nanometer and 12-nanometer technologies.\n\n(Reporting ​by Wen-Yee Lee; Editing by Kate Mayberry)",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-05-14",
+      "Time": "09:34:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中環5/12~13處分南亞科1,420張，獲利約6233萬元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%92%B05-12-13%E8%99%95%E5%88%86%E5%8D%97%E4%BA%9E%E7%A7%911-420%E5%BC%B5-%E7%8D%B2%E5%88%A9%E7%B4%846233%E8%90%AC%E5%85%83-013400127.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2323)中環-公告本公司處分有價證券\n\n1.證券名稱:南亞科 普通股\n\n2.交易日期:115/5/12~115/5/13\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年05月13日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量(仟股):1,420\n\n每單位價格(元):316.12\n\n交易總金額(元):448,889,181\n\n6.處分利益（或損失）（取得有價證券者不適用）:處分利益62,327,858元\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n持有餘額:2,673,000股、金額:608,150,180元\n\n持股比例:0.08%、權利受限情形: 無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:76.12%\n\n占歸屬於母公司業主之權益比例:109.33%\n\n營運資金數額:8,285,327仟元\n\n10.取得或處分之具體目的:投資組合\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:已於115/03/31授權有權交易人在115年第二季期間，得於集中交易市場進行有價證券交易\n\n聯發114/12/24~115/5/13出清南亞科1,500張，獲利約6772萬元\n\n中環4/29~5/13處分奇鋐135張，損失約26萬元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-05-14",
+      "Time": "09:22:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科114/12/3~115/5/13取得廠務設備一批，計約12.61億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91114-12-3-115-5-012200341.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:廠務設備\n\n2.事實發生日:114/12/3~115/5/13\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年5月13日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣1,261,067,586元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:富呈科技股份有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:供生產/營運使用\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:無\n\n聯發114/12/24~115/5/13出清南亞科1,500張，獲利約6772萬元\n\n中環5/12~13處分南亞科1,420張，獲利約6233萬元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
@@ -613,7 +673,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2408.TW",
+      "Ticker": "2344.TW, 2408.TW",
       "Date": "2026-05-14",
       "Time": "08:27:00",
       "Source": "Yahoo奇摩股市",
