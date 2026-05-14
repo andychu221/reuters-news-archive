@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-14T10:00:53.205Z",
-  "total_news_count": 514,
+  "last_updated": "2026-05-14T10:15:22.489Z",
+  "total_news_count": 515,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -13,7 +13,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AVGO, MU, GOOGL, SNDK",
+      "Ticker": "INTC, AVGO, MU, GOOGL, SNDK",
       "Date": "2026-05-14",
       "Time": "17:00:00",
       "Source": "Yahoo Finance",
@@ -303,6 +303,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "台股,台積電,AI,半導體,權值股"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-05-14",
+      "Time": "14:26:23",
+      "Source": "Yahoo Finance",
+      "Title": "Foxconn reports forecast-beating 19% jump in Q1 profit on AI demand",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-18-5-062623254.html",
+      "Content": "By Wen-Yee Lee, Yimou Lee and Ben Blanchard\n\nTAIPEI, May 14 (Reuters) - Taiwan's Foxconn, the world's largest contract electronics maker, reported on Thursday a 19% rise in first-quarter profit versus the same period ‌a year earlier, beating expectations due to strong global demand for AI products.\n\nMore from Yahoo Scout\n\nHow is Foxconn diversifying beyond traditional electronics manufacturing?\n\nWhat drove Foxconn's 19% first-quarter profit increase?\n\nWhat are Foxconn's manufacturing expansion plans for 2024?\n\nHow is AI demand impacting Foxconn's business strategy?\n\nNet profit for January-March for ‌ Nvidia 's biggest server maker and Apple 's top iPhone assembler was T$49.92 billion ($1.58 billion), versus a LSEG consensus estimate of T$48.88 billion.\n\nIn an earnings ​release, it stuck to its previous forecast of \"strong\" growth for revenue this year and said it also saw strong demand for AI servers. The company does not give numeric forecasts.\n\n“AI remains the most important growth driver this year,\" rotating CEO Michael Chiang said on an earnings call. He added that major cloud service providers have recently raised capital expenditure plans ‌for this year.\n\n\"AI is not a short-term ⁠theme, but a structural transformation of the industry.\"\n\nThe company expects its capital expenditures to grow by 30% this year from last year's T$174 billion as it expands manufacturing capacity for ⁠AI servers.\n\nFoxconn said it expects AI server rack shipments to more than double for the full year.\n\nIt added that demand for graphics processing unit servers and application-specific integrated circuits (ASIC) servers, which use customized chips designed by major cloud service providers, remains ​very strong, ​and that it also expects general-purpose servers to grow, driven ​by AI data center deployments.\n\nIt said some cloud ‌and networking products, particularly ASIC servers, have shifted to a consignment model in which customers provide key components instead of Foxconn purchasing them directly.\n\n\"We remain optimistic about our full-year performance,\" Chiang said, while adding that geopolitical developments, supply chain adjustments and fluctuations in raw material costs could have an impact on the industry.\n\nFoxconn, formally called Hon Hai Precision Industry, in April reported a 30% on-year jump in first-quarter revenue.\n\nMost of the iPhones Foxconn makes for Apple ‌are assembled in China, but it now produces the bulk of ​those sold in the United States in India. The company is also ​building factories in Mexico and Texas to make ​AI servers for Nvidia.\n\nFoxconn has also been looking to expand its footprint in electric vehicles, ‌which the company sees as a major future ​growth generator, though that has ​not always gone smoothly.\n\nIn August, Foxconn said it had struck a deal to sell a former car factory in Lordstown, Ohio, for $375 million, including its machinery. It had purchased the plant in 2022 to manufacture ​EVs.\n\nStory Continues\n\nThe company's shares have risen 6% ‌so far this year, underperforming the broader Taiwan index's 44% gain.\n\nFoxconn shares closed 2.6% lower on ​Thursday ahead of the earnings release.\n\n($1 = 31.5020 Taiwan dollars)\n\n(Reporting by Ben Blanchard, Wen-Yee Lee and Yimou ​Lee; Editing by Jacqueline Wong, Jamie Freed and Thomas Derpinghaus)",
+      "Language": "en"
     },
     {
       "Ticker": "AAPL, NVDA",
