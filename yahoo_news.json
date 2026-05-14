@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-14T10:20:45.823Z",
-  "total_news_count": 516,
+  "last_updated": "2026-05-14T10:32:08.856Z",
+  "total_news_count": 517,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-14",
+      "Time": "18:12:26",
+      "Source": "Yahoo Finance",
+      "Title": "New report shows AMD and ARM continue server share gains at Intel’s expense",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/report-shows-amd-arm-continue-101226769.html",
+      "Content": "Investing.com -- AMD and ARM continued to gain ground in the server chip market at Intel’s expense in the first quarter of 2026, according to a report from UBS, which also found that PC shipments came in below seasonal norms for the second consecutive quarter.\n\nTotal server CPU shipments rose roughly 6% quarter-on-quarter, or about 19% year-on-year, beating normal seasonal patterns of a 7% decline, the report said. On a unit basis, Intel ceded around 370 basis points of share, ending the quarter at 54.9%, while AMD gained 230 basis points to reach 27.4% and ARM gained 140 basis points to reach 17.7%.\n\n\"On a Y/Y basis ARM share increased from 11.5% to 17.7%, AMD grew from 24.1% to 27.4%, while INTC share declined from 64.4% to 54.9%,\" UBS analysts led by Timothy Arcuri noted.\n\nIn the x86 server market specifically, Intel’s revenue share dropped 490 basis points to 53.8%, while AMD reached 46.2%, as Intel’s server unit shipments declined 1% quarter-on-quarter against a 15% increase for AMD.\n\nUBS analysts said they do not expect the momentum to slow. After server CPU growth of 21% in 2025, the team said it sees no slowdown ahead as hyperscaler capital expenditure grows roughly 81% year-on-year and demand from agentic AI applications drives a step-change increase in CPU demand.\n\n\"While all CPU architectures will benefit from increasing AI demand near-term, we see strong hyperscaler adoption of ARM for head nodes and other applications in light of its power-efficient architecture, while AMD is well positioned with industry-leading core count combined with multithreading capabilities allowing to serve agentic workloads with multiple sub-agents on one device,\" they wrote.\n\nFor Intel, the analysts argued that its server roadmap \"will likely become more competitive with introduction of Coral Rapids lineup,\" and that the chipmaker should benefit on the PC side as locally-run agentic workloads drive demand over the medium term.\n\nIn the PC segment, first-quarter shipments fell 13% quarter-on-quarter, six points worse than the five-year seasonal median, reflecting a 6% year-on-year decline. UBS forecasts global PC unit shipments to fall roughly 11% in 2026 as memory price inflation weighs on demand, with AMD continuing to gain client share directly at Intel’s expense.\n\nLooking further out, UBS estimates the server CPU market could grow roughly fivefold by 2030, from around $30 billion in 2025 to approximately $170 billion, with ARM capturing 40 to 45% of total units by that point, up from 15% in 2025.\n\nStory Continues\n\nNew report shows AMD and ARM continue server share gains at Intel’s expense\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "CSCO",
       "Date": "2026-05-14",
