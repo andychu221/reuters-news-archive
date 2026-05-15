@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-15T00:40:16.068Z",
-  "total_news_count": 697,
+  "last_updated": "2026-05-15T00:44:50.198Z",
+  "total_news_count": 702,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-15",
+      "Time": "08:32:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電SoW、SoIC浮出水面，CPO的COUPE下半年進入on substrate",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBsow-soic%E6%B5%AE%E5%87%BA%E6%B0%B4%E9%9D%A2-cpo%E7%9A%84coupe%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%80%B2%E5%85%A5on-substrate-003206461.html",
+      "Content": "【財訊快報／記者李純君報導】台積電(2330)昨日技術論壇上，清晰可見先進封裝重要性已經大增，並成為下世代半導體先進製程的決戰點，相關技術除了台積電業務開發及全球業務資深副總經理暨副共同營運長張曉強所說的，台灣走在路上沒人不知道的『CoWoS』之外，還多次提及SoW、SoIC，以及大家都該關注的COUPE。而COUPE也正是現下最夯的CPO的封裝技術，台積電揭露了，今年下半年要量產的是on substrate。首先在系統級晶圓（TSMC-SoW）技術部分，台積電分析，SoW是一項創新的晶圓級整合技術，能整合邏輯與HBM晶粒，以應對AI訓練對運算能力日益增長的需求，SoW使中介層尺寸放大超過40倍光罩尺寸，允許最多整合64個HBM與16個運算晶片，並為實現完整的系統整合提供了一個極佳的替代平台。\n\n而台積電用於邏輯晶粒整合的SoW-P已自2024年起開始量產。更先進的SoW-X技術可整合邏輯與HBM晶粒，則預計於2029年就緒。\n\n至於TSMC-SoIC技術部分，台積電提到，相較於2.5D互連的CoWoS，具備3D互連的SoIC提供56倍的連接密度與5倍的功耗效率。具備9μm接合間距（bond pitch）的N7對N7 SoIC已自2023年開始量產，而6μm接合間距的版本則已於2025年進入量產。SoIC技術將持續微縮至具備6μm接合間距的N2對N2堆疊，預計2028年開始量產，並於2029年實現具4.5μm接合間距的A14對A14堆疊。\n\n至於CPO的封裝，台積電主導與創造的便是緊湊型通用光子引擎（COUPE）技術，光學晶片要離主晶片越近，傳輸越好、耗損越小，在台積電的研發上，主要可以分成幾個階段，首先是on PCB，再來是on substrate，預計今年下半年要量產，最後階段是on interposer。\n\n事實上，COUPE將整合共同封裝光學（CPO）解決方案，與傳統銅線相比，基板上搭載COUPE的CPO可提供4倍的功耗效率且延遲減少90%，藉由在中介層上使用COUPE技術，效能可進一步提升，實現10倍的功耗效率與延遲減少95%。\n\n台積電也補充，搭載COUPE技術的全球首個200Gbps微環調變器（MRM）將於2026年進入量產，採用COUPE技術的MRM在優異的製程控制下，實現低於1E-08的位元誤差率。此外，台積電也將持續擴展，以讓400Gbps的調變器、多波長技術與多列光纖陣列單元，於2030年實現4Tbps/mm的頻寬密度。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-15",
+      "Time": "08:31:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】AI熱潮　可望帶動台股續衝高",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-ai%E7%86%B1%E6%BD%AE-%E5%8F%AF%E6%9C%9B%E5%B8%B6%E5%8B%95%E5%8F%B0%E8%82%A1%E7%BA%8C%E8%A1%9D%E9%AB%98-003112750.html",
+      "Content": "日期：2026年 5月15日\n\n※盤勢分析\n\n輝達市值創新高，台積電技術論壇釋佳音，台股挑戰史高\n\n※昨日盤勢\n\n受惠於台積電技術論壇召開、思科財報亮眼，加上黃仁勳隨行川普訪中、以\n\n及三星罷工等多重利多激勵，台股以41,496點強勢跳空開出，盤中一度衝高至\n\n42,205點，展現多頭企圖心。終場收在41,751點，上漲377點，成交量維持在1.2\n\n兆元以上的健康水位，顯示市場追價意願仍屬熱絡。權值股方面，台積電上漲\n\n2.25%，鴻海下跌2.58%，聯發科下跌2.57%，廣達下跌1.76%，台達電下跌0.46%\n\n盤面強勢股，國巨*、尖點、聯電、智邦、宏達電、昇陽半導體、華新科、\n\n大立光、台表科、群聯、旺矽、精測等漲停；南亞科、玉晶光、台虹、尼克森、\n\n信昌電等漲幅6%以上；盤面弱勢股，保瑞、貿聯-KY、億光、森崴能源、印能科\n\n技等跌停；嘉澤、元晶、、倍利科、致茂、彩晶、萬潤等跌幅5%以上。終場台灣\n\n加權指數上漲 377.25 點，以41751.75點作收，成交量為1.21兆元。\n\n觀察盤面變化，三大類股漲跌互見，電子上漲1.21%、傳產下跌0.61%、金融\n\n下跌0.38%。在次族群部份以通信網路、半導體、電子表現較佳，分別上漲3.87%\n\n、1.94%、1.21%。\n\n※資金動向\n\n三大法人合計買超175.76億元。其中外資買超45.43億元，投信買超142.96\n\n億元，自營商賣超12.63億元。外資買超前五大為台新新光金、大成鋼、聯電、\n\n華邦電、燿華；賣超前五大為群創、友達、鴻海、和碩、彰銀。投信買超前五大\n\n為華邦電、元太、台積電、聯電、南亞科；賣超前五大為台新新光金、中信金、\n\n國泰金、裕民、富邦金。資券變化方面，融資增47.17億元，融資餘額為4991.35\n\n億元，融券增0.09萬張，融券餘額為22.9萬張。外資台指期部位，空單減少1673\n\n口，淨空單部位51068口，借券賣出金額280.44億元。類股成交比重：電子\n\n91.99%、傳產6.33%、金融1.68%。\n\n※今日盤勢分析\n\n《路透》引述消息來源報導，美國已批准約 10家中國公司購買輝達\n\n(NVDA-US) 的 H200 晶片，但目前尚未完成任何交付，消息一出帶動輝達股價上\n\n漲，市值破5.7兆美元再創新高；川習會釋出穩定訊號，同時 AI 熱潮再度點燃\n\n市場情緒，美股四大指數齊揚，台積電ADR上漲4.48%，台指期上漲723點，有利\n\n於台股挑戰新高。\n\n台股後市分析如下：第一、2026年台積電技術論壇聚焦「AI驅動的先進技術\n\n與擴產」，核心亮點為：CoWoS先進封裝產能及技術大幅領先、2奈米家族系列（\n\nN2, N2P, N2X, N2U）及A14/A13製程規劃、以及「AI三層蛋糕」整合策略。台積\n\n電不僅展示製程實力，更宣示由高效能運算（HPC）帶動的十年技術藍圖。\n\n第二、13 家上市金控 2026 年 4 月自結獲利全數出爐！單月合計賺逾千億\n\n、達1033億元，累計前 4 月合賺 2914.88 億元，創史上同期新高，年增約 63%\n\n。受惠於4 月台股瘋牛行情，證券業普遍賺得盆滿缽滿，銀行、人壽亦表現穩健\n\n，12 家金控獲利均較上月大幅成長，其中富邦金單月海賺 388.2 億元(不含\n\nFVOCI股票處分損益)，奪下單月、累計獲利及 EPS三冠王。\n\n第三、週四大盤留下一根帶有上影線的紅K棒，反映出在短線急漲後，上方\n\n確有獲利了結賣壓。目前指標呈現KD橫移、RSI略為向上、MACD紅柱體縮小，暗\n\n示盤勢進入高檔整理期。在此結構下，大盤若要突破前高，關鍵在於5日線能否\n\n守穩、權值股能否接續點火，以及成交量需維持兆元以上水準。\n\n第四、盤面資金聚焦被動元件、記憶體與光學鏡頭等族群，包括國巨、華新\n\n科、群聯、華邦電、大立光、今國光等表現強勢。\n\n※投資策略\n\n輝達H200晶片傳出美國將解禁放行銷往中國，股價及市值再創新高；台積電\n\n技術論壇釋出營運佳音，並勾勒未來技術藍圖，下週起尚有Google I/O大會、\n\n5/20輝達財報及6月上旬的Computex展，市場將持續圍繞 AI熱潮，可望帶動台股\n\n持續挑戰新高，惟短線正乖離大、外資期貨空單仍逾5萬口，操作建議低接不追\n\n高，布局績優AI股為首選，追蹤族群：台積電及先進製程/封裝、高速傳輸(含光\n\n傳輸)、載板與PCB、機箱滑軌、被動元件、航太衛星、特用化學及高殖利率概念\n\n等族群。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-05-15",
@@ -11,6 +31,26 @@
       "URL": "https://finance.yahoo.com/markets/currencies/articles/alphabets-60-billion-ai-debt-003042104.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) is pressing deeper into global debt markets as its AI funding needs continue to expand. After bankers were still finalizing the company's $17 billion bond sale, Alphabet was already preparing another deal, this time in yen. The company had previously tapped euros, Canadian dollars, dollars, pounds and Swiss francs, putting it on track to raise close to $60 billion once the yen offering is finalized. That four-month borrowing push is roughly four times the amount of bonds Alphabet sold in its first 26 years, highlighting how aggressively the Google parent is moving to finance an AI buildout that could require nearly $5 trillion in hyperscaler capital spending by the end of 2030.\n\nWarning! GuruFocus has detected 6 Warning Signs with TTWO.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nWall Street bankers view Alphabet's approach as a possible blueprint for other major technology companies, since the US market alone may not be enough to absorb the scale of AI-related borrowing without pressuring demand and funding costs. Tech companies have already sold more than $300 billion of debt to US investors to help fund AI spending, while nearly 40% of high-grade US corporate bond sales this year have come from technology companies and hyperscalers, excluding financial issuers, according to Barclays. Alphabet's foreign-market presence has also grown quickly, with about 22 billion of euro-denominated debt, making it the eighth-largest non-financial issuer in that market, while only about 55% of its bond debt is now in US dollars before the yen offering.\n\nFor investors, the bigger question is whether this AI-driven borrowing cycle could start reshaping global credit markets. Amazon ( NASDAQ:AMZN ) recently raised more than $3 billion in its first Swiss franc deal, while bankers and investors expect hyperscalers to keep searching overseas for capital as AI spending accelerates. Demand still appears available for now, especially because technology accounts for less than 5% of major euro, sterling and Swiss franc credit benchmarks, but repeated foreign-currency issuance could possibly crowd out local borrowers, weigh on existing bonds, or force wider concessions if investors begin worrying that another large hyperscaler deal is always around the corner.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-15",
+      "Time": "08:29:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】美股攻高、台積電ADR勁揚　投顧：台股有望再拚高",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E7%BE%8E%E8%82%A1%E6%94%BB%E9%AB%98-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%8B%81%E6%8F%9A-%E6%8A%95%E9%A1%A7-%E5%8F%B0%E8%82%A1%E6%9C%89%E6%9C%9B%E5%86%8D%E6%8B%9A%E9%AB%98-002910456.html",
+      "Content": "（中央社記者江明晏台北2026年5月15日電）美股攻高，台積電ADR漲4.48%、聯電ADR漲7.6%，台股期貨夜盤大漲723點，台股14日漲377.25點，收在41751.75點，投顧看好，台廠AI供應鏈營運進補，台股有望連動墊高、挑戰歷史新高。\n\n科技股漲勢持續，美股標普500、那指今天收盤續寫新高。道瓊工業指數上漲370.26點或0.75%；標普500指數上揚56.99點或0.77%；那斯達克指數上漲232.88點或0.88%；費城半導體指數揚升55.8點或0.46%。\n\n輝達股價上漲4.39%，至235.74美元；台積電ADR（美國存託憑證）上漲4.48%，至417.72美元，聯電ADR大漲7.6%。台股期貨夜盤大漲723點，漲幅1.74%，收在42359點。\n\n台股14日漲377.25點，收在41751.75點，成交值新台幣1兆2167.78億元。三大法人合計買超175.27億元，其中，自營商賣超12.63億元，投信買超142.47億元，外資及陸資買超45.43億元。\n\n投顧分析指出，四大雲端服務商表現亮眼，Google、Meta更上調資本支出，台廠主要AI供應鏈營運持續進補，整體上市櫃公司4月營收年增逾30%，以半導體產業為例，從GPU、ASIC、CPU、封裝測試一路延伸，硬體搶貨潮成為市場高度共識，台股也有望連動繼續墊高、挑戰歷史新高42253點之上。不過近期漲勢主要集中電子權值股，加上融資餘額疊加，也必須留意獲利賣壓。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-15",
+      "Time": "08:10:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI主線再燒，台積電ADR與輝達週四衝逾4%齊破頂，博通領軍硬體鏈攻高",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E4%B8%BB%E7%B7%9A%E5%86%8D%E7%87%92-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%88%87%E8%BC%9D%E9%81%94%E9%80%B1%E5%9B%9B%E8%A1%9D%E9%80%BE4-%E9%BD%8A%E7%A0%B4%E9%A0%82-%E5%8D%9A%E9%80%9A%E9%A0%98%E8%BB%8D%E7%A1%AC%E9%AB%94%E9%8F%88%E6%94%BB%E9%AB%98-001056711.html",
+      "Content": "【財訊快報／陳孟朔】美股AI交易週四再度升溫，人工智能贏家指數收漲1.00%，報402.25點，時隔兩個交易日再創收盤歷史新高，顯示資金仍未撤離AI主線，反而在硬體、晶片、雲端與部分軟體股之間重新分配。Fabrinet大漲7.24%居成分股之冠，Nebius集團勁揚6.70%，博通(Broadcom)收高5.52%，成為大型AI硬體鏈中最強勢標的之一。台積電ADR(美股代碼TSM)週四大漲4.48%至417.72美元，輝達(Nvidia)同步勁升4.39%至235.74美元股價連袂破頂，雙雙進入人工智能贏家指數表現前八名，反映市場對AI晶片供應鏈的風險偏好明顯回升。交易員指出，AI行情在先前高檔震盪後並未瓦解，資金反而回補具有訂單能見度、定價能力與先進製程支撐的核心標的，台積電與輝達同時走強，代表市場重新押注AI運算需求仍具中長線支撐。\n\n不過，AI族群內部並非全面齊漲，亞馬遜(Amazon)收跌1.08%，希捷科技(Seagate Technology)下滑1.54%，Lumentum跌2.77%，美光(Micron)跌3.44%，核電概念股Oklo回落3.52%，閃迪(SanDisk)重挫4.46%，Fluence Energy跌5.25%。市場人士表示，這顯示AI交易已從先前的「全面買進概念」進入更挑剔階段，資金偏好具備明確AI訂單、先進製程、ASIC、網通與高速傳輸題材的個股，對估值偏高或短線漲多標的則開始獲利了結。\n\nAI軟體先驅指數週四反彈0.95%，報103.56點，成分股多數收漲，C3.ai勁揚4.39%，ServiceNow上漲3.96%，甲骨文(Oracle)收高3.08%，表現居前；Snowflake與Datadog則最多下跌1.20%。分析師指出，AI軟體股雖重新獲得買盤支撐，但強度仍不及晶片與硬體鏈，顯示市場目前更相信AI基礎建設支出可立即轉化為營收，至於軟體端能否擴大利潤貢獻，仍有待後續財報與企業採用率驗證。",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -101,6 +141,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-expands-smaller-whole-foods-231729134.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon ( AMZN , Financials ) is taking its smaller Whole Foods Market Daily Shop format to Boston , Chicago and Philadelphia over the next two years.\n\nWarning! GuruFocus has detected 4 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe idea is simple: give city shoppers a faster way to grab fresh food, prepared meals and basic groceries close to home or work.\n\nThese stores are smaller than a regular Whole Foods, which makes them easier to fit into crowded neighborhoods where a full-size supermarket may not work.\n\nFor Amazon, the expansion gives Whole Foods more room to grow in cities without relying only on large stores. It also helps the company meet shoppers where they already are.\n\nInvestors will be watching whether the format brings in steady foot traffic and gives Amazon a stronger position in urban grocery retail.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-05-15",
+      "Time": "07:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股》川習會登場、輝達/台積ADR嗨 那指史高",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E5%B7%9D%E7%BF%92%E6%9C%83%E7%99%BB%E5%A0%B4-%E8%BC%9D%E9%81%94-%E5%8F%B0%E7%A9%8Dadr%E5%97%A8-%E9%82%A3%E6%8C%87%E5%8F%B2%E9%AB%98-231400081.html",
+      "Content": "MoneyDJ新聞 2026-05-15 07:14:02 郭妍希 發佈\n\n美國總統川普(Donald Trump)與中國國家主席習近平舉行全球矚目的高峰會，激勵科技股跳高，再加上整體經濟數據普遍穩健，美國四大指數14日全面走揚。\n\n道瓊工業平均指數5月14日終場上漲0.75%(370.26點)、收50,063.46點，創2月11日以來收盤新高。那斯達克指數上漲0.88%(232.88點)、收26,635.22點，連續第2個交易日創歷史收盤新高。標準普爾500指數上漲0.77%(56.99點)、收77,501.24點，連續第2個交易日創歷史收盤新高。費城半導體指數上漲0.46%(56.8點)、收12,073.78點。\n\n本次川習會準備商談諸多議題，當中包括貿易、美國對台軍售案以及重啟荷姆茲海峽。受到美國、以色列對伊朗發動戰爭影響，亞洲取得多數原油的重要通道荷姆茲海峽，至今仍處於關閉狀態。\n\n美國財政部長貝森特(Scott Bessent)週四(14日)接受CNBC專訪時表示，中國將動用對伊朗的影響力，協助重新開放荷姆茲海峽。他說，「重啟海峽非常符合他們的利益。」「我認為，在任何對伊朗領導層有話語權的層面上，他們都會在幕後展開運作。」\n\n中美元首峰會於14日舉行。綜合港媒及陸媒報導，習近平強調，中國開放的大門只會越開越大，美國企業正在深度參與中國改革開放，中方歡迎美國對中加強互利合作。會談結束後，習近平會見隨同川普訪中的美國企業家。川普表示，「我率領的代表團可以說是由世界上最偉大的企業家組成，他們也期待著能夠進行貿易和商業的合作」。\n\n路透社14日獨家引述三位知情人士透露，美國政府已核准約10家中國企業採購輝達(Nvidia Corp.)性能第二強的AI晶片「H200」，但至今尚未完成任何交付行動。這使重大技術交易陷入僵局，執行長黃仁勳(Jensen Huang)試圖在本週的訪中行程中尋求突破。\n\n消息人士指出，黃仁勳最初並未被列入白宮的北京代表團名單，但在受到川普邀請後加入行程。川普前往中國的途中，於阿拉斯加接上黃仁勳同行。此舉讓市場期待，這次行程有機會為H200晶片在中國銷售受阻的困境解套。\n\n輝達聞訊勁揚4.39%、收235.74美元，已連續第4個交易日創歷史收盤新高。輝達晶圓代工夥伴台積電(2330) ADR同步勁揚4.48%、收417.72美元。\n\n另一方面，川普接受Fox News專訪時表示，中國已同意採購200架波音(Boeing)飛機。這讓分析師感到失望。舉例來說，Jefferies原本預測會採購500架。波音應聲下挫4.73%、收229.21美元。\n\n全球網通設備龍頭思科(Cisco)受惠人工智慧(AI)基建訂單激增，上季財報 表現出色 ，並宣佈裁員4,000人以優先集中資源發展AI，股價跳空飆漲13.41%、收115.53美元，創歷史收盤新高。\n\nAI晶片新創商Cerebras 14日首度掛牌交易，終場收在311.07美元，較IPO定價(185美元)飛漲68.15%。Cerebras 13日將每股承銷價定為185美元，高於原先訂價區間150至160美元的上限，募資規模達55.5億美元，成為今年美股規模 最大的IPO案 。\n\nPalantir夥伴、AI無人機製造商Ondas Holdings Inc.公布優於預期的第一季營收並調高全年展望，主因2025年底以來積壓訂單激增了569%，股價聞訊飆漲26.52%、收11.21美元。\n\n全球晶片級光學解決方案領導廠商POET Technologies宣布與Lumilens簽訂光纖網路協議、未來五年規模上看5億美元，股價聞訊暴衝43.15%、收20.57美元。\n\n加密貨幣類股強彈，主因參議院委員會表決通過名為《清晰法案》(Clarity Act)的加密貨幣市場結構法案。這是針對加密貨幣產業制定的第一部重要法規。手上握有大量比特幣的獨立商業智能提供商微策略(Strategy Inc.)、加密貨幣交易所Coinbase Global Inc.、比特幣採礦商MARA Holdings, Inc.聞訊分別勁揚5.02%、5.06%、4.24%。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用 個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n星鏈挑戰者ASTS財報遜、衛星發射飄烏雲 股價摔\n\n非互惠實驗室若2年內汰除，耕興看大量外溢台灣\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "ADI",
