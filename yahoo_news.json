@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T13:01:09.113Z",
-  "total_news_count": 876,
+  "last_updated": "2026-05-15T13:15:11.789Z",
+  "total_news_count": 877,
   "news": [
     {
       "Ticker": "NVDA",
@@ -10,6 +10,16 @@
       "Title": "Nvidia Gets Cramer's China Backing",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-cramers-china-backing-125139027.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) received support from Jim Cramer , who said the company should be allowed to sell artificial intelligence chips in China.\n\nWarning! GuruFocus has detected 6 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nCramer argued that keeping Chinese companies dependent on U.S. technology may be better than forcing them to develop competing chips. His comments came as Nvidia CEO Jensen Huang visited China during President Donald Trump's summit with Chinese President Xi Jinping.\n\nNvidia's China business has been limited by U.S. export restrictions, and the company has said its guidance assumes no revenue from China. Still, investors are watching for signs that approved H200 chip sales could move forward.\n\nCramer said the stock remains attractive even without China because Nvidia continues to dominate the AI chip market. The next catalyst will be Nvidia's earnings report and any update on China demand.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-05-15",
+      "Time": "20:33:54",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Thinks The Chip Boom Is Just Getting Started",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/tsmc-thinks-chip-boom-just-123354526.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ) believes the global chip industry is heading toward a staggering $1.5 trillion market by 2030, underscoring just how massive the AI driven semiconductor boom could become over the rest of the decade.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\n\nThe forecast, which TSMC reiterated this week after previously discussing it during a U.S. technology symposium, reflects the company's growing confidence that artificial intelligence and high performance computing will dominate the next era of semiconductor demand. According to TSMC, AI and HPC alone are expected to make up roughly 55% of the projected $1.5 trillion market by 2030, far ahead of smartphones at 20% and automotive chips at 10%.\n\nThe company is already racing to keep up with that demand. TSMC said it plans to accelerate capacity expansion through 2025 and 2026, including nine additional phases of wafer fabs and advanced packaging facilities next year. Demand for its most advanced technologies, including 2 nanometer and A16 chips, is expected to grow at a 70% annualized pace between 2026 and 2028.\n\nOne of the biggest bottlenecks remains advanced packaging, especially CoWoS technology used to connect Nvidia's (NVDA) AI accelerators with high bandwidth memory systems. TSMC said CoWoS capacity is expected to grow at more than an 80% compound annual rate between 2022 and 2027, while AI accelerator wafer demand itself is projected to jump 11 fold from 2022 through 2026.\n\nThe expansion is happening globally. TSMC continues rapidly building out operations in Arizona, Japan and Germany as countries and companies push to secure semiconductor supply chains closer to home. In Arizona alone, the company expects output to increase 1.8 times year over year by 2026, with yields comparable to Taiwan.",
       "Language": "en"
     },
     {
@@ -63,7 +73,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "INTC, MU",
       "Date": "2026-05-15",
       "Time": "20:11:00",
       "Source": "Yahoo Finance",
