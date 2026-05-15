@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T16:10:38.937Z",
-  "total_news_count": 912,
+  "last_updated": "2026-05-15T16:16:16.246Z",
+  "total_news_count": 913,
   "news": [
     {
       "Ticker": "AMD",
@@ -15,6 +15,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "AI infrastructure, GPU, inference market, ROCm software, chiplet design"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-05-15",
+      "Time": "23:07:52",
+      "Source": "Yahoo Finance",
+      "Title": "Buy TSMC stock as ’recent concerns are overdone’: BofA",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/buy-tsmc-stock-recent-concerns-150752333.html",
+      "Content": "Investing.com -- Bank of America reiterated its Buy rating on Taiwan Semiconductor Manufacturing Co. in a note Friday following the chipmaker's technology symposium in Taiwan.\n\nThe bank argues that competitive fears surrounding its foundry dominance are overblown.\n\nAnalyst Haas Liu maintained a price target of 2,560 Taiwan dollars on the stock, saying the firm believes \"recent concerns are overdone\" as TSMC's scale and technological lead in advanced nodes continue to widen the gap with rivals.\n\nOn the 3nm and 5nm nodes, BofA noted that TSMC is targeting 25% compound annual capacity growth from 2022 to 2027, with 3nm capacity expected to reach 190,000 wafers per month by the fourth quarter of 2026, rising to 230,000 by 2027.\n\nThat compares to Samsung's SF3 and Intel's 18A processes, which BofA estimates at just 20,000 to 25,000 wafers per month at low yields prioritized for internal use, significantly limiting the risk that Apple shifts its M-series chipsets away from TSMC.\n\nAt the next-generation N2 node, BofA said TSMC is targeting 70% compound annual capacity growth from 2026 to 2028, rolling out five fabrication facilities simultaneously and cutting technology transfer times by 20%. Notably, N2 reached targeted defect density levels two quarters ahead of the schedule set by the 3nm ramp.\n\nOn advanced packaging, TSMC is growing CoWoS and SoIC capacity at 80% and 90% compound annual rates, respectively, through 2027.\n\nBofA highlighted that TSMC's CoWoS yield is already above 98%, while Intel's competing EMIB-T process remains at 80% to 85% pilot yield, creating execution risk for the U.S. chipmaker if it fails to reach 95% mass production yield by mid-2027.\n\nBuy TSMC stock as ’recent concerns are overdone’: BofA\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nGoldman expects lower but still attractive stock market returns in 2026",
+      "Language": "en"
     },
     {
       "Ticker": "TSM",
