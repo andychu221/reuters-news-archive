@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-15T13:15:11.789Z",
-  "total_news_count": 877,
+  "last_updated": "2026-05-15T13:40:41.811Z",
+  "total_news_count": 880,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-15",
+      "Time": "20:53:02",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Faces Next Step in OpenAI Trial",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-faces-next-step-openai-125302211.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) remains in focus after closing arguments concluded in the first phase of Elon Musk's lawsuit against OpenAI, Sam Altman, Greg Brockman and Microsoft.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMusk claims OpenAI moved away from its nonprofit mission and used his donations for unauthorized commercial purposes. His lawyers also accused Microsoft of aiding OpenAI's alleged breach of charitable trust.\n\nOpenAI's attorneys rejected those claims, saying no promises were made to Musk about OpenAI's structure and that his donations were used properly. Microsoft's lawyer said the company had no knowledge of the alleged events and did not participate in them.\n\nThe nine-person jury will begin deliberations Monday, though its verdict will be advisory. U.S. District Judge Yvonne Gonzalez Rogers will make the final liability decision.\n\nFor investors, the case matters because Microsoft remains deeply tied to OpenAI through its AI strategy and infrastructure spending.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-05-15",
@@ -10,6 +20,26 @@
       "Title": "Nvidia Gets Cramer's China Backing",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-cramers-china-backing-125139027.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) received support from Jim Cramer , who said the company should be allowed to sell artificial intelligence chips in China.\n\nWarning! GuruFocus has detected 6 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nCramer argued that keeping Chinese companies dependent on U.S. technology may be better than forcing them to develop competing chips. His comments came as Nvidia CEO Jensen Huang visited China during President Donald Trump's summit with Chinese President Xi Jinping.\n\nNvidia's China business has been limited by U.S. export restrictions, and the company has said its guidance assumes no revenue from China. Still, investors are watching for signs that approved H200 chip sales could move forward.\n\nCramer said the stock remains attractive even without China because Nvidia continues to dominate the AI chip market. The next catalyst will be Nvidia's earnings report and any update on China demand.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-15",
+      "Time": "20:46:43",
+      "Source": "Yahoo Finance",
+      "Title": "OpenAI May Need Even More Money For AI Race",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/openai-may-even-more-money-124643668.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft-backed ( NASDAQ:MSFT ) OpenAI may not be done raising money anytime soon, even after pulling off what its CFO described as the largest private fundraising round ever, highlighting just how expensive the global AI race is becoming.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nSpeaking with Bloomberg TV, OpenAI CFO Sarah Friar said the company's recent $122 billion funding round gives the ChatGPT maker a lot of optionality, but she also made clear that future fundraising remains very much on the table as demand for AI computing power keeps exploding.\n\nAccording to Friar, the company's future capital needs will largely depend on how quickly AI demand grows relative to OpenAI's ability to secure enough computing infrastructure. That gap between available AI compute and what OpenAI actually needs is increasingly becoming one of the defining challenges across the industry.\n\nFriar also signaled that public markets could eventually play a much bigger role in OpenAI's financing strategy. She noted that public markets are significantly bigger than private markets and could offer the company access to broader and more flexible funding options over time.\n\nThe comments reinforce how capital-intensive the AI boom has become. Training and running advanced AI systems now requires enormous investments in chips, data centers, power infrastructure, and cloud capacity, areas where Microsoft has become deeply intertwined with OpenAI through its multibillion-dollar partnership.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-15",
+      "Time": "20:45:35",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Sells Record Yen Bond",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-sells-record-yen-bond-124535331.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( GOOGL , Financials ) sold 576.5 billion yen, or about $3.6 billion, in yen-denominated bonds , marking the largest such sale by a foreign company.\n\nWarning! GuruFocus has detected 1 Warning Sign with MSFT.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe deal is Alphabet's first bond issue in Japan's currency and comes as the Google parent expands its funding sources during a major investment cycle. The company has already issued debt in euros, sterling, Canadian dollars and Swiss francs.\n\nInvestor demand was strong, according to Mizuho Securities, one of the underwriters. The sale topped the previous record set by Berkshire Hathaway, which issued 430 billion yen in bonds in 2019.\n\nAlphabet is raising funds as it plans as much as $190 billion in capital spending this year, largely tied to artificial intelligence infrastructure and data centers.\n\nThe bonds carry maturities from three years to 40 years, with coupons ranging from 1.965% to 4.599%.\n\nFor investors, the deal shows Alphabet is using global debt markets to support long-term AI growth while keeping its funding base broad.",
       "Language": "en"
     },
     {
