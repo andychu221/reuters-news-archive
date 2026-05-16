@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T01:40:23.412Z",
+  "last_updated": "2026-05-16T02:01:03.527Z",
   "total_news_count": 986,
   "news": [
     {
@@ -83,18 +83,14 @@
       "Language": "zh"
     },
     {
-      "Ticker": "ARM",
+      "Ticker": "QCOM, ARM",
       "Date": "2026-05-16",
       "Time": "06:57:38",
       "Source": "Yahoo Finance",
       "Title": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/arm-holdings-face-us-antitrust-225738249.html",
-      "Content": "May 15 (Reuters) - Arm Holdings is facing an antitrust probe by the U.S. Federal ‌Trade Commission over the British chip designer's ‌licensing ...",
-      "Language": "en",
-      "AI_Summary": "• Arm Holdings is reportedly under investigation by the U.S. Federal Trade Commission (FTC) regarding its semiconductor technology licensing practices.\n• The FTC is examining whether Arm is attempting to monopolize parts of the semiconductor market and if it will alter existing licensing agreements.\n• A significant portion of Arm's revenue is derived from licensing its technology and collecting royalties from companies like Nvidia and Apple.\n• Regulators in other countries, such as South Korea, are also scrutinizing Arm's licensing practices.",
-      "Related_Score": 4,
-      "Sentiment_Score": -1,
-      "Keywords": "antitrust probe, FTC, semiconductor technology, licensing agreements, market monopolization"
+      "Content": "May 15 (Reuters) - Arm Holdings faces an antitrust probe by the U.S. Federal Trade Commission over the British chip designer's ‌licensing of its semiconductor technology, part of global scrutiny of ‌the business, Bloomberg News reported on Friday.\n\nThe FTC is investigating whether Arm is trying ​to illegally monopolize parts of the semiconductor market, the report said. It is looking to assess whether Arm will reject or downgrade the licensing agreements for its chip blueprints used to design central processing units, the ‌report said, citing people ⁠familiar with the matter.\n\nMore from Yahoo Scout\n\nAre other regulators also investigating Arm's practices?\n\nWhat is the FTC investigating about Arm Holdings?\n\nWhat is the dispute between Qualcomm and Arm?\n\nHow does Arm's licensing business model work?\n\nThe U.S. regulator notified Arm of the investigation this year and demanded the company preserve ⁠documents, according to Bloomberg.\n\nArm declined to comment on any possible investigation. The FTC did not immediately respond to a request for comment.\n\nQualcomm and Arm are ​in a ​dispute over whether Qualcomm breached a ​contract with Arm after it ‌bought chip startup Nuvia.\n\nArm said in a statement: \"Qualcomm’s baseless allegation of anticompetitive conduct is nothing more than a desperate and underhanded attempt to obtain leverage in the parties’ ongoing commercial dispute for its own competitive benefit.\"\n\nQualcomm did not immediately respond to a request for comment.\n\nA big ‌portion of Arm's revenue comes from ​licensing its technology to companies such as ​ Nvidia and Apple and collecting ​royalty payments on design use.\n\nRegulators outside the U.S. are ‌also probing Arm's practices.\n\nSouth Korea's ​antitrust regulator was investigating ​the Seoul offices of Arm in November, as part of ongoing scrutiny of the company's licensing practices. Bloomberg reported that the ​South Korean investigation ‌stemmed from a complaint from Qualcomm, but Reuters could not ​verify that claim.\n\n(Reporting by Juby Babu in Mexico City; Editing ​by Shailesh Kuber and William Mallard)",
+      "Language": "en"
     },
     {
       "Ticker": "META",
