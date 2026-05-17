@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-17T20:15:16.885Z",
-  "total_news_count": 311,
+  "last_updated": "2026-05-17T20:40:14.062Z",
+  "total_news_count": 312,
   "news": [
+    {
+      "Ticker": "META, MSFT",
+      "Date": "2026-05-18",
+      "Time": "04:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "What Is the Cheapest \"Magnificent Seven\" Stock?",
+      "URL": "https://finance.yahoo.com/m/3dcdde44-73bf-3d63-a819-393814bb29f9/what-is-the-cheapest.html",
+      "Content": "The \"Magnificent Seven\" group of stocks includes some of the largest companies in the world, all of which are major players in the tech realm. This group is made up of:\n\nNvidia\n\nAlphabet\n\nApple\n\nMicrosoft (NASDAQ: MSFT)\n\nAmazon\n\nMeta Platforms (NASDAQ: META)\n\nTesla\n\nAll seven of these stocks are trillion-dollar companies by market cap. However, each stock varies in how good a deal it is. Some are quite expensive, while others are less pricey. So, which one represents the best value in the group? Let's take a look.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nWhat valuation metric is best?\n\nValuing a company can be tricky. There are all sorts of validation measures, and most of them have their use cases, but not every validation metric is relevant at any given time. The most common is the price-to-earnings metric, as it highlights net income as perhaps the most important part of a business. However, the net income metric can be skewed by depreciation or gain on investments. If one company owns another and that investment goes up, accounting practices require the owner to report a gain on investment, even if it didn't sell . To me, that's not true earnings, and when several companies are seeing major gains on investments from major artificial intelligence (AI) upstarts like Anthropic and OpenAI, it's difficult to use this metric.\n\nThe best metric I've found for these companies is operating cash flow. This metric solely examines how much cash a company's core business is producing. If there were no other activities (such as capital expenditures), this is how much money would be added to a company's cash pile at the end of the quarter. With several of the companies in the Magnificent Seven spending big on capital expenditures, I think this is the best metric to use to ensure the comparison from company to company is fair.\n\nTwo companies stand out as historically cheap\n\nFirst, let's start with the two most expensive stocks. Tesla is, by far, the most expensive on this list. It trades for about 95 times cash flow from operating activities (CFO) -- a level it has consistently traded at over the past three years. Nvidia is far cheaper at 56 times CFO, but it's still expensive. Still, Nvidia is growing at an impressive rate, and strong growth will likely drive this figure down throughout 2026.\n\nThese two being the most expensive probably surprised nobody, but what about the other five?\n\nStory Continues\n\nFrom this chart, it's clear that Meta Platforms is the cheapest, trading at an incredibly low 13 times CFO. That's among the lowest it has been valued at over the past three years, and could represent a good buying opportunity. If it returns to a more average 20 times CFO, that could result in a quick win for investors.\n\nAnother company I want to highlight is the second-cheapest from a CFO perspective: Microsoft. Microsoft now trades for less than 18 times CFO. However, if you look at its history, it used to trade in the mid-20s range and was either the highest-valued or second-highest valued in this more focused group of five stocks. The market has turned increasingly bearish on Microsoft's stock despite its business doing quite well. This could also be another screaming value, and investors should also consider Microsoft when doing some bargain shopping.\n\nDespite many calls saying that stocks are overvalued, the reality is that the big tech companies are all trading in their normal valuation ranges, at least from a CFO standpoint. That makes me bullish on the overall trajectory of the market, and gives me confidence to continue investing today.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-05-18",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-05-18",
       "Time": "03:35:00",
       "Source": "Yahoo Finance",
