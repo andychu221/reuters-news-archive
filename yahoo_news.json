@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-17T19:40:10.917Z",
-  "total_news_count": 307,
+  "last_updated": "2026-05-17T20:01:05.899Z",
+  "total_news_count": 308,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-18",
+      "Time": "03:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "The AI Stock With a 10-Year Head Start That Wall Street Still Hasn't Fully Priced In",
+      "URL": "https://finance.yahoo.com/m/a97d4449-1743-300e-87f2-555da596301c/the-ai-stock-with-a-10-year.html",
+      "Content": "As the expenses of building and running artificial intelligence (AI) data centers continue to surge, having lower costs is a huge advantage. One of the best ways to achieve this is with custom chips called application-specific integrated circuits (ASICs).\n\nASICs for AI are hardwired chips developed for specific tasks. Not only do they cost less than Nvidia's general-purpose graphics processing units (GPUs), but they are also more energy efficient, leading to significant cost savings when running inference .\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nAs more and more hyperscalers (owners of huge data centers) turn to ASICs for some of their AI computing needs, Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG) has a huge advantage in this area, having developed its tensor processing units (TPUs) more than a decade ago. The company has long run most of its internal infrastructure using its TPUs, and as such, it has optimized its entire hardware and software stack around its chips. This has given it a huge lead over competitors, most of which are still in the early days of their custom chip development.\n\nThe company introduced its eighth generation of chips in April, and for the first time, it will offer two different variations of TPUs, with one designed specifically for training and another for inference and agentic AI . The TPU 8t, its AI model training chip, is built for pure speed, while the TPU 8i has huge memory capacity and pairs with its custom Axion Arm -based central processing units (CPUs).\n\nAlphabet's TPUs have given it a big edge over competitors in the cloud computing space and AI model developers. In cloud computing, as capital expenditure budgets soar, the company is getting a lot more bang out of its buck than most other players, outside of perhaps Amazon , which also has its own chips, although not as renowned.\n\nMeanwhile, it has used its chips to train its world-class Gemini foundational model. By having its own chips, Alphabet can train its models and run inference at a much lower cost than competitors that rely mostly on GPUs. It then embeds its Gemini model into the rest of its business, like Search, which is helping drive growth in these areas as well.\n\nThe success of Alphabet's TPUs has also allowed it to start letting select customers buy them directly from its developer partner Broadcom to be deployed within Google Cloud and outside its data centers. This is another huge area of growth that is just beginning.\n\nStory Continues\n\nTime to buy the stock\n\nAlphabet is the most complete AI company, with its own top-notch chips and world-class AI model. Trading at a forward price-to-earnings ratio (P/E) of 28 on 2026 estimates that likely will prove to be conservative, the market has yet to fully bake in its long-term potential. I'd still be a buyer of the stock here.",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-05-18",
