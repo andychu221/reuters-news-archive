@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-18T16:27:23.393Z",
-  "total_news_count": 281,
+  "last_updated": "2026-05-18T16:32:38.074Z",
+  "total_news_count": 282,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-05-19",
+      "Time": "00:08:11",
+      "Source": "Yahoo Finance",
+      "Title": "Why Did Sandisk Stock Drop Today?",
+      "URL": "https://finance.yahoo.com/m/e73abab7-6d63-3a79-9b38-ecf9434237ab/why-did-sandisk-stock-drop.html",
+      "Content": "Sandisk (NASDAQ: SNDK) stock fell 6.1% through 11:25 a.m. ET Monday on some potentially worrisome news from its former parent company Western Digital (NASDAQ: WDC) , which announced today it is working hard to develop \"post-quantum cryptography hard drives\" for a world where AI has become ubiquitous , and need for NAND memory less intense.\n\nCuriously, Western Digital stock is also down today, though, which suggests not all investors may be thinking logically here.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nWhat the heck is a post-quantum cryptography hard drive?\n\nIn a press release this morning, Western Digital said it is in the process of qualifying \"high-capacity Ultrastar UltraSMR hard disk drives\" for sale. As WD sees it, AI is steadily moving to a world in which \"compute-centric deployments,\" where large language models (LLMs) are first trained, then used to answer questions (i.e, inference), become less important than remembering all the answers that have been given to all those questions.\n\nIn this brave new world, \"durability and security of that data\" become more relevant than rapid data transfer, and hard disk drives become more useful (and cheaper) than solid-state drives. At the same time, WD sees quantum computing becoming more powerful and capable of breaking into the data centers where data is stored, requiring additional security to prevent this.\n\nThis is the world for which Western Digital is preparing with its Ultrastar UltraSMR hard disk drives -- and it's one in which demand for Sandisk's NAND memory chips may cool.\n\nWhat's next for Sandisk\n\nAll this sounds great for Western Digital stock, and potentially less great for Sandisk -- but it's still not bad news. A world that needs more HDDs doesn't necessarily need fewer SSDs. It's entirely possible the need for both forms of storage will grow.\n\nAnd Sandisk stock will come out of this just fine.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-05-18",
