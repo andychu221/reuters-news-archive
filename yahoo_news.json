@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T10:00:53.557Z",
-  "total_news_count": 216,
+  "last_updated": "2026-05-18T10:15:12.399Z",
+  "total_news_count": 217,
   "news": [
     {
       "Ticker": "NVDA, MU",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMZN",
+      "Ticker": "INTC, NVDA, AMZN",
       "Date": "2026-05-18",
       "Time": "17:22:00",
       "Source": "Yahoo Finance",
@@ -111,6 +111,16 @@
       "URL": "https://tw.stock.yahoo.com/news/cpo%E5%B0%81%E6%B8%AC%E8%AD%B0%E9%A1%8C%E5%A4%AF-%E5%B0%81%E8%A3%9D%E7%9B%AE%E6%A8%99%E4%B8%AD%E4%BB%8B%E5%B1%A4%E5%B1%A4%E7%B4%9A-%E7%A9%8E%E5%B4%B4%E8%A1%9D%E5%88%BA%E5%85%89%E9%9B%BB%E5%90%8C%E6%B8%AC%E5%95%86%E6%A9%9F-083825877.html",
       "Content": "【財訊快報／記者李純君報導】股價超過萬元的測試介面廠穎崴(6515)積極爭取CPO商機，而2026年雖是被視為CPO技術商轉元年，但不論是封裝還是測試，均有技術門檻得跨過，封裝部分，台積電(2330)揭露COUPE今年將自on PCB推進到on substrate(載板)，但目標是on interposer(中介層)，而測試端，穎崴證實，得達到光電同測。人工智慧進入全新的發展階段，科技大廠指出，2027年全球AI基礎設施需求將達至少1兆美元，AI運算在過去兩年需求提升1萬倍，AI運算以翻倍方式增長爆發，矽光子及共同封裝光學可望成為延續這波需求算力提升的重要關鍵技術，雖然「銅退光進」已成產業重要趨勢，但業界均認為，短期內不可行，還會是處於「銅光並進」的架構。\n\n共同封裝光學（Co-Packaged Optics）是將電子和光子積體電路共同封裝在同個中介層的技術，後者將光引擎直接搬到晶片旁，大幅縮短距離、功耗；同時晶圓大廠和IC設計大廠於近期紛紛展示CPO技術的原型，2026年被視為CPO技術商轉元年，更是技術邁向放量的關鍵年。光就封裝部分，CPO定義，是將Optical Engine(光學引擎)直接整合於Interposer，並與ASIC、HBM共同封裝，再透過載板整合。日前台積電釋出COUPE(緊湊型通用光子引擎)技術，也有技術進程，今年下半年能自on PCB推進到on substrate，但目標是on substrate。\n\n而測試端，測試介面廠穎崴技術主管孫家彬在「CPO的進化論—矽光子的先進測試方法論（The Evolution of Co-Packaged Optics : Advanced Testing Methodologies for Silicon Photonics）」的演說中提到，進一步說明CPO為先進測試、高階封裝與半導體測試介面所帶來全新的機會與挑戰。\n\n孫家彬表示，隨著矽光子指標大廠在CPO傳輸訂出更高規的頻寬（400G）及高速（224 Gbps/ 448Gbps）的規格，穎崴的CPO解決方案持續升級，從Wafer/Chip Level、Package Level到Module Level等三個測試級別推出相對應的解決方案。其中，WLCSP晶圓級探針卡（WLCSP Probe Card）部分，Wafer Level可用在「上電下光」的測試，Chip Level則可用在「上光下電」的解決方案；同時，穎崴獨創微間距對位雙邊探測系統解決方案（Double Sided Probing System Total Solution）則針對Package Level(封裝層級)提供的CPO測試；穎崴的跨世代超導測試座HyperSocket主攻Module Level(模組層級)的測試需求。穎崴在此大趨勢已做好準備，目標是能取得更全面性的光電同測市場商機。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-18",
+      "Time": "16:24:05",
+      "Source": "Yahoo Finance",
+      "Title": "Trump tells Fortune he should have asked for bigger Intel stake",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/trump-tells-fortune-intel-stake-082405554.html",
+      "Content": "May 18 (Reuters) - U.S. President Donald Trump said he \"should have asked for more\" of a stake in ‌Intel on behalf of the U.S. government, in an ‌interview with Fortune magazine published on Monday.\n\nThe Trump administration last year took ​a 10% stake in Intel and announced an investment of about $10 billion in the chipmaker for building or expanding factories in the U.S.\n\nEight months after the deal, the government’s Intel position ‌has grown to ⁠be worth more than $50 billion.\n\n\"Do I get credit for it? Does anybody even know I did ⁠that?\" Trump told Fortune.\n\nWhen he was asked what the government’s exit strategy could be, the Fortune report said Trump believed he ​could ​sell shares slowly over time ​without causing the stock to ‌plummet.\n\nTrump said: \"Intel should be the biggest company in the world right now.\" Referring to TSMC 's chip dominance, he said: \"Intel would have all that business now,\" had he been the president earlier.\n\n\"If I had been president when all these companies ‌started sending their chips in from ​China, I would have put a ​tariff on that would ​have protected Intel,\" he said.\n\nFortune said Trump ‌gave the interview before his first ​visit to ​Beijing since 2017. The visit ended on Friday with no major breakthroughs on trade or tangible help from Beijing ​to end the ‌more than two-month-old U.S.-Israeli war on Iran.\n\n(Reporting by ​Ananya Palyekar and Akanksha Khushi in Bengaluru; Editing by ​Alex Richardson and Barbara Lewis)",
+      "Language": "en"
     },
     {
       "Ticker": "INTC",
