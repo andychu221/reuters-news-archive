@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-18T19:40:39.136Z",
-  "total_news_count": 317,
+  "last_updated": "2026-05-18T20:00:50.853Z",
+  "total_news_count": 319,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-19",
+      "Time": "03:23:55",
+      "Source": "Yahoo Finance",
+      "Title": "Dell, Nvidia CEOs discuss shift to personal AI computing at industry event",
+      "URL": "https://finance.yahoo.com/m/73db2c50-8c15-3842-b4b9-9cd780c04e71/dell%2C-nvidia-ceos-discuss.html",
+      "Content": "Investing.com -- Nvidia CEO Jensen Huang and Dell Technologies CEO Michael Dell outlined their vision for distributed computing during a Monday appearance with Bloomberg TV at Dell Technologies World 2026 in Las Vegas.\n\nThe executives discussed the evolution from personal computers to what Huang called \"personal AI,\" where computing needs to occur at the point of context rather than solely in the cloud. Huang explained that AI must run locally where information and action exist, whether on a laptop, in a factory, or inside an autonomous vehicle.\n\nDell said the PC remains central to productivity for knowledge work, with customers demanding more powerful devices to support hybrid AI capabilities. The company is embedding the ability to run small and local models inside PCs.\n\nHuang described how agentic AI has changed computing architecture. He said the technology requires building large language models as a \"brain,\" then adding what he called a harness that allows the model to access memory, networks and tools to function as a digital agent.\n\nNvidia is launching what Huang described as the highest performing CPU in the world, designed specifically for agentic AI. The company worked with Dell to create a new type of long-term memory for agents called the Dell AI Data Platform.\n\nDell said companies are discovering that reimagining workflows with this technology delivers improvements of 10 to 30 times rather than incremental gains of 10% to 30%.\n\nBoth executives said demand for AI infrastructure exceeds current supply, with memory and advanced semiconductors remaining constrained. Huang said the semiconductor supply chain is expanding but demand is growing faster.\n\nDell noted that agent frameworks inside companies require significantly more CPUs than previous computing models, as agents use tools constantly and quickly compared to human users.\n\nDell, Nvidia CEOs discuss shift to personal AI computing at industry event\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nNvidia's new Alpamayo project: What it means for Tesla?",
+      "Language": "en"
+    },
     {
       "Ticker": "META",
       "Date": "2026-05-19",
@@ -10,6 +20,16 @@
       "Title": "Meta lays out plans for May 20 layoffs, restructuring, internal document says",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-lays-out-plans-for-may-20-layoffs-restructuring-internal-document-says-191547511.html",
       "Content": "By Katie Paul\n\nNEW YORK, May 18 (Reuters) - Meta ‌ ( META ) is planning to carry ‌out its layoffs of 10% ​of its employees in three batches globally on Wednesday, with notifications going out ‌at 4 ⁠a.m. local time, according to an internal ⁠document seen by Reuters on Monday.\n\nIn the ​document, the ​Facebook ​owner's head of ‌human resources also told employees that \"many leaders will announce org changes\" in coordination with the layoffs.\n\nMore from Yahoo Scout\n\nWhat is the timeline for Meta's layoff process?\n\nHow is Meta restructuring around AI initiatives?\n\nWhat organizational changes is Meta implementing alongside layoffs?\n\nHow many Meta employees will be affected by layoffs?\n\nAs part ‌of that, the ​company plans ​to ​move 7,000 employees to ‌new initiatives related ​to ​AI workflows and to eliminate managerial roles, she ​said.\n\n(Reporting ‌by Katie Paul in ​New York; Editing by ​Chizu Nomiyama)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-19",
+      "Time": "02:56:12",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia CEO says he believes China market will open over time",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-says-he-believes-china-market-will-open-over-time-185612332.html",
+      "Content": "By Stephen Nellis\n\nSAN FRANCISCO, May 18 (Reuters) - Nvidia ( NVDA ) CEO ‌Jensen Huang said on ‌Monday that he believes China's market ​will open up to U.S. chip suppliers after accompanying U.S. President Donald Trump on ‌a trip ⁠to China last week.\n\nNvidia has received licenses from ⁠the U.S. government to sell its H200 chips ​but has ​not received ​approval from ‌Chinese officials who are fostering China's own chip suppliers. Trump's talks with Chinese President Xi Jinping produced no immediate ‌breakthrough for Nvidia ​to sell H200 ​chips.\n\nMore from Yahoo Scout\n\nWhy hasn't China approved Nvidia's H200 chip sales?\n\nWhat is Nvidia's current licensing status for H200 chips?\n\nWhat did Jensen Huang say about China market access?\n\nHow did Trump's China trip impact Nvidia's prospects?\n\n\"My ​sense is that ‌over time, the market ​will ​open,\" Huang said in an interview with Bloomberg Television ​at ‌an event hosted by ​Dell.\n\n(Reporting by Stephen Nellis in ​San Francisco)",
       "Language": "en"
     },
     {
