@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-19T23:15:05.916Z",
-  "total_news_count": 619,
+  "last_updated": "2026-05-19T23:40:21.844Z",
+  "total_news_count": 620,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-20",
+      "Time": "07:17:40",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, May 19: UiPath Slips as Korea Automation Cloud Launch Tests Regional Enterprise Demand",
+      "URL": "https://finance.yahoo.com/m/95bcacaa-6e00-3871-b141-b7e48a0fa9d8/stock-market-today%2C-may-19%3A.html",
+      "Content": "UiPath (NYSE:PATH) , an automation platform providing robotic process automation solutions, closed Tuesday’s session at $10.54, down 0.99%. The stock moved after a collaboration with Microsoft Korea to locally launch Automation Cloud, and investors are watching how this expands regional cloud automation adoption.\n\nThe company’s trading volume reached 41 million shares, which is about 28% above compared with its three-month average of 32.1 million shares. UiPath went public in 2021 and has fallen 85% since its IPO.\n\nHow the markets moved today\n\nS&P 500 (SNPINDEX:^GSPC) slipped 0.67% to 7,353.61, while the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 0.84% to finish at 25,870.71. Within software - infrastructure, industry peers Microsoft (NASDAQ:MSFT) closed at $417.42 (-1.44%) and ServiceNow (NYSE:NOW) ended at $101.83 (-1.54%), underscoring pressure across enterprise software names.\n\nWhat this means for investors\n\nUiPath shares moved modestly lower alongside enterprise software peers, even as the company announced a collaboration with Microsoft Korea to launch Automation Cloud locally in South Korea. The launch gives Korean enterprises access to UiPath’s cloud automation platform with local data-residency support, a factor that can matter for large organizations managing regulated or sensitive workflows.\n\nThe update aligns with UiPath’s broader effort to expand cloud-based automation through major technology partners rather than relying solely on direct enterprise sales. Future customer wins, or Microsoft-led deployments in South Korea would provide a clearer read on whether local Automation Cloud availability is converting into recurring cloud revenue.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-05-20",
