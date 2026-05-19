@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T12:15:08.295Z",
-  "total_news_count": 490,
+  "last_updated": "2026-05-19T12:32:19.505Z",
+  "total_news_count": 491,
   "news": [
     {
       "Ticker": "INTC",
@@ -20,6 +20,16 @@
       "Title": "Citi Sees Massive $131 Billion AI Opportunity for Intel Stock by 2030",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/citi-sees-massive-131-billion-114813964.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) shares are in focus on Monday after Citi raised its price target to $130 from $95 and said the server CPU market could expand much faster than previously expected, driven by demand tied to agentic artificial intelligence.\n\nCiti's new model puts the segment's total addressable market at $131.5 billion by 2030, up from $29.3 billion in 2025.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel ( NASDAQ:INTC ) is expected to keep a large share of that market, with Citi forecasting a 47% share by the end of the decade. The bank also lifted its data center sales estimates and pointed to possible upside from Intel's ASIC business, including its Mount Evans IPU, which is used by Google and extends to Anthropic.\n\nCiti broke the market into general-purpose CPUs, AI head nodes and agentic CPU applications. The last of those is expected to grow the fastest, reaching $59.4 billion by 2030 and accounting for 45% of the market, according to Citi.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-19",
+      "Time": "19:48:04",
+      "Source": "Yahoo Finance",
+      "Title": "Arm Falls on Reported US Antitrust Probe",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/arm-falls-reported-us-antitrust-114804527.html",
+      "Content": "This article first appeared on GuruFocus .\n\nArm Holdings ( NASDAQ:ARM ) is facing an antitrust investigation by the US Federal Trade Commission into the company's semiconductor licensing practices. The FTC is probing whether Arm is attempting to illegally monopolize parts of the chip market, with a specific focus on whether the company could refuse or downgrade CPU blueprint licenses for customers while scaling its own chip design efforts. Arm declined to comment. The stock is down 0.39% in premarket trading.\n\nArm's business model depends on licensing the chip blueprints that companies including Nvidia ( NASDAQ:NVDA ) and Apple ( NASDAQ:AAPL ) use to design central processing units, collecting royalties in return. The FTC's concern is that Arm's own push into chip design, announced in March, creates a commercial incentive to refuse or degrade those same licenses for customers who would compete with its new processor business. That potential conflict is at the heart of the probe.\n\nThe FTC investigation is not the first regulatory challenge to Arm's licensing practices. South Korea's competition authority conducted inspections at Arm's Seoul offices last year as part of a similar inquiry into the company's licensing conduct.",
       "Language": "en"
     },
     {
