@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-19T11:15:51.081Z",
-  "total_news_count": 475,
+  "last_updated": "2026-05-19T11:43:42.325Z",
+  "total_news_count": 482,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-19",
+      "Time": "18:48:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股熱期貨商ANC比率下滑　10業者擬增資發債因應",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%86%B1%E6%9C%9F%E8%B2%A8%E5%95%86anc%E6%AF%94%E7%8E%87%E4%B8%8B%E6%BB%91-10%E6%A5%AD%E8%80%85%E6%93%AC%E5%A2%9E%E8%B3%87%E7%99%BC%E5%82%B5%E5%9B%A0%E6%87%89-104826081.html",
+      "Content": "（中央社記者蘇思云台北2026年05月19日電）台股熱絡，期貨商ANC比率（調整後淨資本額占未沖銷部位所需保證金總額）下滑拉警報。金管會表示，14家專營期貨商目前並無業者碰觸ANC比率低於15%的紅線，合計10家業者規劃現金增資或發次順位債強化資本。\n\n期交所也組成專案小組，將檢視國際作法與現行公式是否需優化，目前尚未收到期交所研議報告。\n\n金管會證期局副局長黃仲豪指出，目前期貨商資本計提規定，是看期貨商風險調整後淨資本額（Adjusted Net Capital）比率，分子是期貨商調整後資本，分母為未沖銷保證金，因近期股市熱絡，部分業者契約部位變大，導致分母變大，有業者面臨ANC比例下降。\n\n依規定，期貨商ANC比率低於20%時應申報；低於15%時，應停止接單並提出改善計畫。\n\n黃仲豪說明，統計到5月15日止，國內14家專營期貨商ANC比率皆在15%以上，還沒出現停止接新單情況，但的確有ANC比例下降的情形。統計ANC比率20%以下僅1家，20%到30%有8家，30%以上有5家。\n\n金管會解釋，已請期交所密切監控期貨商ANC比率變化並輔導期貨商改善，如辦理增資等方式以充實營運資金，以及加強期貨自營與經紀業務風險控管。\n\n黃仲豪指出，業者陸續提出現金增資或發次順位債規劃，14家業者中，9家規劃現增、4家規劃發債，因部分業者兩管道都有採取，整體來看，合計10家業者規劃增資或發債。若業者增資時間急迫，期交所也提供方案，可透過放寬信用狀、透支額度方式，讓業者取得短期資金因應。\n\n至於通案檢討部分，黃仲豪指出，今年3月請期交所比較國際做法，包括原本公式的分子與分母計算方式、比率監理規範，是否有其他控管機制進行優化等。期交所已組成專案小組，並邀公會與業者進行討論，目前還沒收到期交所研議報告。\n\n外界關注台股前5月遭處置狀況，黃仲豪說明，今年以來統計到5月18日，遭處置的上市公司113家、上櫃公司126家，合計239家，相比之下，2024年、2025年同期分別為304檔、199檔，今年處置數量並未特別高。\n\n至於是否研議修改處置個股條件，黃仲豪說，目前已請證交所、櫃買中心研議現行機制是否有調整修正空間，包括注意股的要件、處置股處置時間等都會審慎研究。處置股的前一階段為注意股，條件包含漲跌幅、成交量異常、週轉率或集中度等問題，若成為處置股後，包含處置時間、方式都可以再來研究。",
+      "Language": "zh"
+    },
     {
       "Ticker": "TSM",
       "Date": "2026-05-19",
@@ -11,6 +21,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/asml-says-first-chips-high-104018009.html",
       "Content": "ANTWERP, May 19 (Reuters) - ASML expects to see the first ‌products created on the company's ‌new High-NA machines within months, the chief ​executive of the world's top computer chip equipment maker, Christophe Fouquet, said on Tuesday.\n\nThe tool will bring ‌down costs ⁠for patterning, or creating the circuitry of the most ⁠advanced chips, for both logic and memory applications, Fouquet said, ​speaking at ​a conference ​in Belgium organised ‌by research firm imec.\n\nMore from Yahoo Scout\n\nWhat are ASML's High-NA machines and their benefits?\n\nWhy did TSMC call High-NA tools too expensive?\n\nWhen will first High-NA machine products be available?\n\nHow much do High-NA machines cost customers?\n\n\"In the next few months, we will be looking at the first few products wherever, in memory, in logic, ‌being exposed on the ​High-NA system\", the ​CEO said.\n\nFouquet's ​remarks come weeks after ‌top customer TSMC said ​High-NA ​tools, which can cost up to $400 million each, were too expensive.\n\n(Reporting ​by ‌Toby Sterling in Antwerp and ​Nathan Vifflin in Gdansk. Editing ​by Mark Potter)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-19",
+      "Time": "18:40:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股大跌逾700點守住4萬點關卡　台積電跌收2205元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E8%B7%8C%E9%80%BE700%E9%BB%9E%E5%AE%88%E4%BD%8F4%E8%90%AC%E9%BB%9E%E9%97%9C%E5%8D%A1-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C%E6%94%B62205%E5%85%83-104000598.html",
+      "Content": "【記者許麗珍／台北報導】美股漲跌互見，台股今開低走低，早盤下跌逾百點，隨後跌幅加大，終場大跌716.26點或1.75%，收在40,175.56點，守住4萬點關卡，成交金額10880.73億元。權值股台積電今開盤下跌20元，收盤大跌35元，收2205元。\n\n華爾街股市今天走勢震盪漲跌互見 主要指數終場大多收挫。道瓊工業指數上漲159.95點或0.32%；標準普爾500指數微跌5.45點或0.07%；那斯達克指數下跌134.41點或0.51%；費城半導體指數下挫285.95點或2.47%。\n\n輝達（NVIDIA）財報公布前，股價下跌1.33%，台積電ADR（美國存託憑證）下跌2.08%，美光挫逾6%。\n\n台股18日終場下跌280.54點，收40891.82點。法人分析，台股先前創下歷史新高點42408點後指數震盪，顯示追價意願轉弱，市場開始產生過熱雜音，波動幅度大，籌碼狀況不如想像中穩定，台積電ADR動向為指標，並參考輝達財報，聯準會（Fed）預計6月中旬召開會議。\n\n【看原文連結】",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC, NVDA",
@@ -23,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-05-19",
+      "Time": "18:30:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股高檔震盪免驚 00984D第二次配息維持0.085元 最遲6/1買進",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA%E5%85%8D%E9%A9%9A-00984d%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%85%8D%E6%81%AF%E7%B6%AD%E6%8C%810-085%E5%85%83-%E6%9C%80%E9%81%B26-1%E8%B2%B7%E9%80%B2-103000088.html",
+      "Content": "全球股市在 AI 題材帶動下頻創新高，台股也維持多頭格局，但面對美伊戰事、通膨高於預期等變數，市場不確定性與高檔震盪風險同步升溫。聯博投信首檔主動式非投資等級債券 ETF 聯博優選全球非投資等級債券主動式 ETF (00984D-TW) 宣布第二次除息，每受益權單位配息金額維持 0.085 元，最遲 6 月 1 日買進便可參與配息。專家建議適度分散部分部位至非投資等級債，有助於在保留風險資產參與度的同時，成為兼顧收益與波動控管的理想股債搭配解方。\n\n聯博投信 ETF 發展部副總經理鍾郁婕表示，觀察過去 15 年非投資等級債價格走勢與股市高度連動，反映出企業獲利與信用風險持續改善。相較於股票，非投資等級債具備債息收入支撐，且波動通常低於股市，並非純粹的防禦性資產，而是能與股市形成良好搭配的配置工具。在面臨市場波動時，透過配置非投資等級債，投資人能有效分散風險並穩定收益。\n\n這次備受矚目的 00984D 聚焦於違約率較低的 BB 及 B 級券種，整體投資組合存續期間為 2.88 年，相對長天期券種而言，較不易受到利率不確定性因素影響。\n\n0984D 預計將於 6 月 2 日進行第二次除息，每受益權單位配息金額為 0.085 元，與第一次配息金額維持一致，顯現投資團隊在收益配置上的主動管理能力，投資人最晚須在 6 月 1 日買進便可參與此次配息。受惠於市場對資產配置需求升溫，該基金自 1 月份募集以來，截至 5 月 15 日，受益人數成長近 100%，規模成長也超過 50%。\n\n展望後市，聯博投信分析，今年以來非投資等級債各產業表現不一，主動選債成為獲取超額報酬的關鍵。目前非核心消費、能源與科技產業相對具備投資價值。\n\n能源產業方面，聯博投信看好基本面較佳、受惠監管放鬆的中游與獨立能源公司，尤其是美洲債券發行人較能免於中東衝突影響，加上近期併購活動頻繁，可望為債券持有人帶來可觀收益。\n\n科技產業方面，受惠 AI 算力基礎設施稀缺性的科技公司今年債價表現突出，仍具投資價值；軟體公司先前因市場擔憂 AI 顛覆性影響使債券評價承壓，但隨著企業獲利展現韌性，市場錯位反而提供合適價位選擇性加碼的絕佳機會。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AAPL",
       "Date": "2026-05-19",
       "Time": "18:30:00",
@@ -31,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/bf30289d-2432-3c63-9d1b-a10c0cb001fb/best-warren-buffett-stock-to.html",
       "Content": "For decades, investors have turned to Warren Buffett for investing inspiration, and this is for one clear reason. He helped deliver years of market-beating returns at the helm of Berkshire Hathaway . Buffett no longer leads the investment decisions at the holding company since he turned the chief executive officer position over to Greg Abel at the start of 2026.\n\nBut Buffett remains chairman of Berkshire Hathaway and says he makes himself available to help out if needed. Meanwhile, Abel has emphasized his desire to maintain the same investing principles that have ruled at the company over time. So it's no surprise that Abel, in the first quarter of this year, maintained positions in two of Buffett's favorite stocks: Apple (NASDAQ: AAPL) and Coca-Cola (NYSE: KO) .\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nWhich of these Buffett stocks makes the best buy right now? Let's find out.\n\nThe case for Apple\n\nBuffett originally bought shares of Apple back in 2016, and since then, he's praised chief Tim Cook numerous times -- including during Berkshire Hathaway's latest annual meeting earlier this month -- for his work.\n\nThough Buffett generally doesn't buy tech stocks, he sees Apple as a consumer-oriented company and one that's built a fantastic moat or competitive advantage. Customers love the iPhone and other Apple products so much that they are willing to wait for the next updates -- and even if they can get in on a rival product for a lower price, in most cases, they stick with Apple. Last year, seven of the top 10 smartphones sold globally, including the top-seller, were iPhones, according to Counterpoint Research.\n\nAll of this has helped Apple's earnings to advance, and now, as the company has this massive base of installed devices that it's built over time, it has a new growth driver: services revenue. Apple sells a variety of services to its users, and this creates recurrent revenue from devices sold. It's no surprise that services revenue has reached records quarter after quarter.\n\nToday, this and Apple's ongoing rollout of AI features could supercharge growth.\n\nThe case for Coca-Cola\n\nBuffett bought Coca-Cola shares over several years starting in the late 1980s, and this stock has been a staple in the Berkshire Hathaway portfolio ever since. The billionaire loves Coca-Cola for its moat, which we could consider its brand strength as well as its solid global distribution network. It would be very difficult for a competitor to unseat Coca-Cola due to those two elements.\n\nStory Continues\n\nBuffett also has praised Coca-Cola for its commitment to dividend growth. The company is a Dividend King, meaning it's raised its dividend annually for more than 50 years. This has worked out nicely for Buffett: Berkshire Hathaway's dividend from Coca-Cola grew from $75 million in 1994 to $704 million in 2022, the billionaire wrote in his 2022 letter to shareholders. Though most of us don't have the resources to buy as many shares as Berkshire Hathaway holds, we still can benefit from Coca-Cola's dividend payments over time -- without lifting a finger.\n\nCoca-Cola isn't known for delivering the explosive growth of a tech company, but it's proven its ability to steadily increase revenue over time and keep the brand a part of the consumer's daily buying habits. All of this makes Coca-Cola an attractive stock to own.\n\nWhich stock makes the better buy?\n\nThe answer to this depends on your investment style. If you're a cautious investor seeking passive income, Coca-Cola is the perfect choice for you. The company's dividend track record and high free cash flow suggest it will continue to keep rewarding shareholders. And Coca-Cola's solid moat may keep earnings progressively climbing, too.\n\nBut if you're looking for more growth, Apple is the better buy for you right now. The company is entering a transition period as Cook hands the CEO position over to John Ternus in September. While any change creates uncertainty, it also could lead to new growth opportunities and strategies -- it's important to note that Ternus has spent most of his career at Apple, knows the company well, and has expertise in product development. All of this means that for a growth investor, now may be an exciting time to pick up shares of this Buffett favorite.\n\nDon’t miss this second chance at a potentially lucrative opportunity\n\nEver feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $584,450 !*\n\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $57,222 !*\n\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $469,293 !*\n\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\n\nSee the 3 stocks »\n\n*Stock Advisor returns as of May 18, 2026\n\nAdria Cimino has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Apple and Berkshire Hathaway. The Motley Fool has a disclosure policy .\n\nBest Warren Buffett Stock to Buy Right Now: Apple vs Coca-Cola was originally published by The Motley Fool\n\nImage source: The Motley Fool.\n\nImage source: The Motley Fool. The case for Apple\n\n<button class=\"secondary-btn fin-size-large readmore-button rounded yf-r7dg9i\" data-ylk=\"elm:readmore;itc:1;sec:content-canvas;slk:Story%20Continues\" data-yga=\"{\"yLinkElement\":\"readmore\",\"yModuleName\":\"conten",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-19",
+      "Time": "18:20:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "520行情變調 外資再砍632億元連三賣 土洋法人對作金融和半導體股",
+      "URL": "https://tw.stock.yahoo.com/news/520%E8%A1%8C%E6%83%85%E8%AE%8A%E8%AA%BF-%E5%A4%96%E8%B3%87%E5%86%8D%E7%A0%8D632%E5%84%84%E5%85%83%E9%80%A3%E4%B8%89%E8%B3%A3-%E5%9C%9F%E6%B4%8B%E6%B3%95%E4%BA%BA%E5%B0%8D%E4%BD%9C%E9%87%91%E8%9E%8D%E5%92%8C%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1-102026556.html",
+      "Content": "電子權值股今 (19) 日下跌 716.26 點或 1.75%，收在 40175.56 最低點，成交量 1.09 兆元，本周 520 行情開始變調，日 K 線連三黑，外資連三賣，今天再砍 632.35 億元，漲多的半導體股首當其衝，其中台積電遭砍殺 1.7 萬張，外資轉向防禦型操作，資金轉向金融股，買超前 10 名中有 8 檔金融股，並與投信形成對作。\n\n觀察三大法人今天籌碼動向，外資賣超 632.35 億元，連 3 賣；自營商同站賣方，賣超 223.52 億元，連 6 賣；投信獨站買方，買超 71.77 億元，連 2 買，三大法人合計賣超 784.09 億元。\n\n外資今天雖然再度賣超，但將資金轉向金融族群，買超前 10 名中，有 8 檔為金融股，包括台新新光金 3.2 萬張，永豐金 3 萬張，中信金 3 萬張，國泰金 2.5 萬張，兆豐金 2.1 萬張，富邦金 1.4 萬張，凱基金 1.2 萬張。另外，也加碼中華電信 1.6 萬張，台灣大 1.3 萬張。\n\n外資賣超方面，今天則瞄準多檔主動式 ETF 進行減碼，賣超 00403A 主動統一升級 50 6.6 萬張，00981A 主動統一台股增長 6 萬張，00990A 主動元大 AI 新經濟 2.1 萬張，00991A 主動復華未來 50 1.1 萬張。\n\n記憶體族群同樣成為外資賣超對象，減碼華邦電 4.8 萬張，旺宏 4.7 萬張，力積電 3.1 萬張，南亞科 2 萬張。另外，外資也賣超群創 4.4 萬張，台積電 1.7 萬張，南亞 1.2 萬張，緯創 1.1 萬張，聯電 1.1 萬張，廣達 9728 張。\n\n投信賣超對象則與外資對作，減碼多檔金融股，賣超台新新光金 2.5 萬張，國泰金 1.7 萬張，中信金 1.5 萬張，凱基金 1.3 萬張，永豐金 1.3 萬張，華南金 1.2 萬張，元大金 1 萬張。其他個股方面，也賣超仁寶 1.9 萬張，長榮 4216 張，遠東新 4142 張。\n\n投信今天則最偏愛聯電，買超聯電 2.8 萬張，並同步加碼中華電 7872 張，華邦電 6220 張，強茂 5341 張，國巨 * 5005 張，英業達 4923 張，第一金 4766 張，彰銀 4496 張，台積電 4137 張，臻鼎 - KY 3553 張。",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC, NVDA, AMD, GOOGL",
@@ -61,6 +101,16 @@
       "URL": "https://finance.yahoo.com/m/cac4574c-5ad3-397e-8106-dbc13b34bdf6/vti-vs-voo%3A-which-one-is-the.html",
       "Content": "The Vanguard S&P 500 ETF (NYSEMKT: VOO) and the Vanguard Total Stock Market ETF (NYSEMKT: VTI) are two of the most well-known and widely invested funds in the world. With combined assets of more than $1.6 trillion, they serve as the cornerstone of countless portfolios.\n\nBut the two exchange-traded funds (ETFs) are not the same. Both offer market-cap weighted baskets of U.S. stocks, making them look and act very similar. But the latter's inclusion of mid- and small-cap stocks could be the differentiator that makes it the better opportunity at the moment.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nVTI and VOO are built differently\n\nThe Vanguard S&P 500 ETF tracks the S&P 500 , a basket of 500 of the largest U.S. stocks. The Vanguard Total Stock Market ETF follows the CRSP U.S. Total Market Index . Its aim is to include virtually every investable U.S. stock there is. It includes nearly 3,500 companies across all market caps.\n\nMetric\n\nIndex it mirrors\n\nCRSP U.S. Total Market Index\n\nS&P 500\n\nHoldings\n\n3,494\n\nExpense ratio\n\n0.03%\n\n10-year annualized return\n\n15.3%\n\n15.8%\n\nDividend yield\n\n1.1%\n\nTop sectors\n\nTech (39%)\n\nConsumer Discretionary (13%)\n\nIndustrials (12%)\n\nTech (35%)\n\nFinancials (12%)\n\nCommunication Services (11%)\n\nTop holdings\n\nNvidia (7.9%)\n\nApple (6.5%)\n\nMicrosoft (4.9%)\n\nNvidia (6.6%)\n\nApple (5.7%)\n\nMicrosoft (4.4%)\n\nData source: Vanguard.\n\nCurrently, there's about 88% overlap of holdings, which is obviously why the two funds perform so similarly. But the 10-year average annual return shows how smaller stocks have been a drag on performance for a while. Which of the two ETFs will excel going forward depends almost entirely on whether small caps can outperform large caps.\n\nWhy the current environment favors VTI\n\nU.S. stock market performance this year, especially in the tech sector, has been driven by strong earnings growth. Years of hype have finally translated into rapid revenue and earnings growth. Not only has that led to solid returns for investors, but it has also meant that valuations have actually been shrinking. Concerns about stock valuations being expensive haven't entirely gone away, but they've been mitigated over the past couple of quarters.\n\nWhat makes the case for small caps (and by extension the Vanguard Total Stock Market ETF ) over the next couple of years is that they're expected to finally participate in the earnings growth expansion. In 2026, small caps are forecast to see stronger earnings growth than the S&P 500 for the first time in years.\n\nStory Continues\n\nConsidering that the Vanguard S&P 500 ETF trades at a price-to-earnings (P/E) ratio of 27 and the Vanguard S&P Small-Cap 600 ETF (NYSEMKT: VIOO) trades at just 18 times earnings, that provides a strong opportunity for small-cap performance to match or exceed the performance of large caps in the coming years.\n\nThe case for small caps makes the case for the Vanguard Total Stock Market ETF. If this performance catch-up ultimately happens, this ETF becomes the better play.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-19",
+      "Time": "18:02:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股3天跌掉逾1500點 今年以來「關禁閉」達239檔",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A13%E5%A4%A9%E8%B7%8C%E6%8E%89%E9%80%BE1500%E9%BB%9E-%E4%BB%8A%E5%B9%B4%E4%BB%A5%E4%BE%86-%E9%97%9C%E7%A6%81%E9%96%89-%E9%81%94239%E6%AA%94-100212380.html",
+      "Content": "美股科技股回檔，加上素有「AI溫度計」的輝達(Nvidia)即將公布財報，市場不確定性因素拉高，台北股市連3個交易日以下跌收盤，共跌掉超過1500點。 金管會 今天(19日)表示上市櫃基本面仍穩健；對於外界關注大型權值股列入「處置」股票的條件是否修改，金管會也表示正積極研議中。\n\n美國股市走勢震盪，主要指數終場大多收跌。亞洲股市受影響，19日表現疲軟，韓國股市跌幅最為慘重，大跌超過3%。台北股市開低，雖一度力爭翻紅，但隨後跌勢擴大，終場下跌716跌，收40175點。三大法人中，外資大幅提款、賣超逾新台幣600億，自營商也跟著作空，賣超220多億，唯獨投信買超。\n\n台股3個交易日就跌掉逾1500點。金管會19日下午舉行例行記者會，金管會證期局副局長黃仲豪表示，到目前為止，國內上市櫃公司基本面都沒有改變，且屬於穩健格局。黃仲豪說：『(原音)以國內上市櫃公司來說，基本面應該還是屬於穩健的情況。幾個數字供參考，就是到4月底止，目前整體本益比是29.25，現金殖利率是1.84；如果以獲利來說，到4月底截止，上市櫃公司的營收是19.4兆元，這個也是比去年成長很多，成長幅度是31%。』\n\n另外，台股今年以來交易活絡，不少股票因短線波動過大，被證交所或櫃買中心列為「處置」股票，改以預收款券或是分盤撮合，延遲5分鐘或20分鐘撮合一次，希望防止市場投機炒作。根據金管會統計，今年以來到5月18日，共有239家上市櫃遭列「處置」股票，如果以近3年來看，只低於2024年的304檔。\n\n另外，IC設計龍頭聯發科遭處置，一度在立法院引發立委關注是否有必要修改權值股遭列處置的條件等。黃仲豪也表示，股票要落至「處置」前，會先列「注意」，也是希望提醒投資人注意漲跌幅、成交量異常、周轉率以及集中度的問題等，因此目前證交所和櫃買中心也正思考落到注意股時，是否就必須先做條件調整，甚至進入到處置股票時的時間需要多長(目前為10個交易日)，這些都正在進一步積極研究中。(編輯：沈鎮江)",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, META, MSFT, GOOGL, AMZN, AAPL, TSLA",
@@ -100,6 +150,26 @@
       "Title": "美伊戰爭、油價波動、機票調漲 不敵台股暢旺+出國旅遊熱",
       "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD-%E6%B2%B9%E5%83%B9%E6%B3%A2%E5%8B%95-%E6%A9%9F%E7%A5%A8%E8%AA%BF%E6%BC%B2-%E4%B8%8D%E6%95%B5%E5%8F%B0%E8%82%A1%E6%9A%A2%E6%97%BA-%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E7%86%B1-094743259.html",
       "Content": "一連4天的「2026台北國際觀光博覽會(TTE)」將於22日起在台北世貿中心登場，面對國際油價波動與燃油附加費調漲，暑假出國成本攀升，業者也在今天(19日)的展前記者會率先曝光今夏旅遊的新趨勢。\n\n由台北市旅行公會主辦的「2026台北國際觀光博覽會(TTE)」將於22日起一連4天在台北世貿中心盛大登場，除了展場規模升級至1.7萬平方米，集合近380家海內外旅遊業者，旅行社參展數也創下歷史新高，此外還匯聚了觀光署6大國家風景區管理處、20多個縣市政府與觀光機構以及12國海外觀光局參展。\n\n為了迎接即將來臨的暑期旺季，各家業者也在19日舉行的展前記者會上，搶先曝光最新的旅遊趨勢。雄獅集團總經理單葑就指出，受到美伊戰爭的影響，目前亞非旅遊線首當其衝，但是由於旅遊需求強勁，因此出現轉單效應。她說：『(原音)就是板塊挪移、旅遊的目的地稍微做一些調整跟改變，比較大的、明顯可以看到日韓較去年成長3成，另外還有紐西蘭、澳洲跟東南亞都較去年同期成長，那這塊就彌補到亞非線的部分，這第一個；第二個部份我們觀察到因為燃油稅的價格漲嘛，那團費的部分是有微調，但是沒有大家想像中的高，以日本線來看的話，大概是(新台幣)2千左右、漲幅大概5%；那長線的部分因為它單價比較高，漲幅大概就是3%-5%、大概5千上下。所以大家其實是可以接受的。』\n\n可樂旅遊發言人林冠賢也指出，由於國際油價波動漸趨平緩，機票價格也漸趨平穩，加上當前台股強強滾，國人出國旅遊熱度依舊不減。他說：『(原音)其實今年到目前為止，前幾個月跟去年同期相比，還往上成長。就是說旅遊對於消費者來說，油價當然是一個部分，那當然還有另外一個股市的部分也是我們觀察的一個方向。所以其實整個趨勢來看，都還是往上成長的。』\n\n事實上，林冠賢也觀察到，現在有更多消費者在意的並非價格，而是主題性的旅遊商品，只要主題獲得消費者青睞，即使單價較高，大家也願意買單，而且銷售狀況遠勝一般旅遊商品。即使在意價格的消費者，也可搭配這次的旅展優惠，甚至部分業者推出的暑期親子半價優惠，提前入手搶到便宜。(編輯：沈鎮江)",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-05-19",
+      "Time": "17:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《陸股》滬指漲0.92%、日K連二紅；恆指漲0.48%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E8%82%A1-%E6%BB%AC%E6%8C%87%E6%BC%B20-92-%E6%97%A5k%E9%80%A3%E4%BA%8C%E7%B4%85-%E6%81%86%E6%8C%87%E6%BC%B20-094400483.html",
+      "Content": "MoneyDJ新聞 2026-05-19 17:44:09 新聞中心 發佈\n\n中國滬深兩市三大指數今(19)日集體續開低，市場探底回升，三大指數漲跌不一，滬指漲近1%，科創50大漲逾3.8%。盤面上，電力、半導體、公用事業、IT服務、軟體開發、電網設備板塊漲幅居前，能源金屬、稀土、小金屬、航太裝備板塊跌幅居前。今兩市個股漲多跌少，上漲個股逾3,600檔。滬指終場收漲0.92%，日K連二紅。\n\n上證指數今收於4169.54點、漲0.92%；深證成指收於15569.91點、漲0.26%；創業板指收於3908.44點、跌0.16%；科創50收於1775.13點、漲3.81%；中證A500收於6121.09點、漲0.60%。\n\n成交量方面，滬市今成交1兆3,065億元(人民幣,下同)，深市成交1兆5,800億元，兩市成交額達2兆8,865億元，較前一交易日量減少。\n\n從盤面上來看，雲辦公、電力、智普AI板塊漲幅居前；賽馬概念、能源金屬、小金屬板塊跌幅居前。\n\n港股方面，香港恆生指數今日開盤上漲0.07%。盤面上，恆生科技指數漲0.26%，權重科技股多數上漲，騰訊漲逾2%，網易、百度、阿里巴巴、美團漲逾1%；石油庫存創紀錄暴跌，石油股午後拉升，中國海洋石油漲近3%。另一方面，半導體、晶片股下挫，英諾賽科跌逾8%；汽車股再度下挫，蔚來、理想汽車跌逾4%。恆指終場收於25797.85點、漲0.48%，日K翻紅。\n\n《陸股》滬指失守4200點、跌1.52%；恆指日K翻黑\n\n《陸股》滬指漲0.67%攀近11年高；恆指漲0.15%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-19",
+      "Time": "17:30:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中信金估今年GDP可望破8% 央行6月升半碼",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E4%BC%B0%E4%BB%8A%E5%B9%B4gdp%E5%8F%AF%E6%9C%9B%E7%A0%B48-%E5%A4%AE%E8%A1%8C6%E6%9C%88%E5%8D%87%E5%8D%8A%E7%A2%BC-093002759.html",
+      "Content": "[ 非凡新聞 ]記者林浩宇,攝影林秋強\n\n13家金控今年第一季全都繳出亮眼成績單，市場也高度關注接下來的法說會展望。今（19）日由中信金控打頭陣，舉辦第一季法說會，總經理高麗雪對下半年景氣釋出看法，不只預估今年GDP有機會突破8%，還認為今年央行有機會升息1碼。除此之外，中國信託銀行海外布局也持續擴張，不只跟著台積電前進美國鳳凰城，也同步加速海外市場布局。\n\n中信金總經理 高麗雪：「我不是總經的專家，我稍微講一下，我們內部對於幾個指標的看法。」\n\n中信金總經理高麗雪幽默自嘲，看得出來心情相當不錯，畢竟13家金控今年第一季全都繳出亮眼成績單，外界高度關注法說會展望，19日由中信金打頭陣，釋出下半年的景氣看法。\n\n中信金總經理 高麗雪：「央行也說貨幣政策相對是比較緊的，目前我們內部是預估，在6月有可能央行會升息半碼，那有可能到年底持續的話，有可能會再另外升息一個半碼，台幣如果升息一碼的話，對於我們的淨利差大概可以增加1.7個基點，對我們的淨利息收入大概會有將近11億元的正面挹注。」\n\n高麗雪指出，在台股強勢，以及央行貨幣政策偏緊的態度之下，預估新台幣匯率將朝30到30.5元靠攏，而今年的GDP表現更有機會超過8%。\n\n除了看好台灣經濟表現之外，更把目光瞄準海外市場，中信銀目前海外獲利占比已達35%，相比往年33%進一步提升，其中北美分子行獲利成長更高達28%，甚至還要跟進台積電腳步，前進美國鳳凰城布局。\n\n中信金總經理 高麗雪：「銀行會持續在洛杉磯的部分會設立分行，然後到德州會設立辦事處，這兩個駐點預計今年年底以前開業，那子行的部分，目前美國子行有20家當地的分行，我們也預計在鳳凰城開設新的分行，希望是可以更貼近的，來服務我們供應鏈的客戶。」\n\n不只跟隨台積電前往美國鳳凰城，隨著台積電進駐日本九州熊本，中信銀也預計在離熊本最近的經貿中心福岡，設立辦事處，並且已取得金管會核准。\n\n海外布局持續擴張，再加上保單的銷售狀況大幅成長，市場更期待，中信金今年能再繳出亮麗成績單，為這塊金融業的金字招牌，再度鍍上一層閃亮的黃金。（記者 林浩宇、林秋強／台北採訪報導）\n\n觀看原文...\n\n美伊拉鋸不排除升息? 美元反彈台幣貶破31.6\n\n台股破兆巨量券商豐收 元大證4月賺52億稱王\n\n斷油危機美再度妥協 俄油制裁豁免展延30天",
       "Language": "zh"
     },
     {
