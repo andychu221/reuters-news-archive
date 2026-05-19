@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-19T19:43:30.086Z",
-  "total_news_count": 584,
+  "last_updated": "2026-05-19T20:00:44.233Z",
+  "total_news_count": 585,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-05-20",
+      "Time": "03:30:52",
+      "Source": "Yahoo Finance",
+      "Title": "Why Micron Stock Just Popped Again",
+      "URL": "https://finance.yahoo.com/m/15fd8a0a-c1b9-38e2-8151-74cb1f3da02b/why-micron-stock-just-popped.html",
+      "Content": "The rollercoaster ride that is investing in Micron (NASDAQ: MU) stock continues, with yet another upturn following yesterday's decline.\n\nShares of the computer memory-maker started the day lower but gained 4% through 2:55 p.m. after it was revealed that two more big Wall Street investment banks have raised their price targets: Citigroup and Mizuho.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nWhy Wall Street loves Micron stock\n\nCiti's PT hike was the larger of the two, nearly doubling since the bank last chimed in, to $840 per share. (But Micron stock only costs $706 today, so that's a potential 19% gain.)\n\nMizuho's move from $740 to $800, albeit a smaller adjustment, is the more interesting note because it provides more insight into the analyst's thinking. As StreetInsider.com reports, Mizuho is forecasting continued strong pricing in both NAND and DRAM memory, not just through the end of this year, but also into 2027.\n\nInsatiable demand for both high-bandwidth memory (stacked DRAM chips) and eSSD (enterprise-scale solid-state drives) will drive price increases. Mizuho also sees potential for \"HBF\" (high bandwidth flash) memory \"to further tighten NAND supply in 2027E.\"\n\nBest of all (from Micron's perspective), there's a worker strike looming at Samsung, which could curtail supply and drive memory prices through the roof.\n\nWhat it means for Micron\n\nSo suffice it to say there's a lot of good news in this report for Micron today. Meanwhile, Mizuho notes the company is getting ready to report earnings barely a month from now, on June 24.\n\nAnalysts forecast 261% revenue growth to $33.6 billion, and for earnings to grow 10-fold to $19.02 per share. Admittedly, the worry lingers that this cyclical semiconductor stock must eventually suffer a downturn.\n\nThat probably won't happen this year, however -- and maybe not next year, either.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-05-20",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, AMZN",
+      "Ticker": "NVDA, MU, GOOGL, AMZN",
       "Date": "2026-05-20",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
