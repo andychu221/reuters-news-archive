@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-19T10:32:14.387Z",
-  "total_news_count": 465,
+  "last_updated": "2026-05-19T10:40:38.594Z",
+  "total_news_count": 466,
   "news": [
     {
-      "Ticker": "AAPL, TSLA",
+      "Ticker": "GOOGL",
+      "Date": "2026-05-19",
+      "Time": "18:05:41",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia's outlook will be a test of its strategy to maintain AI dominance",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidias-outlook-test-strategy-maintain-100541569.html",
+      "Content": "By Zaheer Kachwala and Stephen Nellis\n\nMay 19 (Reuters) - Nvidia is expected to deliver another blockbuster earnings report on Wednesday, but a shift in how artificial intelligence is used is raising doubts on how long its dominance in AI chips ‌can last.\n\nAfter years of near-monopoly in chips used to train AI systems, Nvidia is facing competition from tech giants building their ‌own chips to capture demand that is shifting toward processors that run AI systems, respond to queries and carry out tasks in real time.\n\nMore from Yahoo Scout\n\nWhat supply and capacity constraints face Nvidia currently?\n\nWhat competition is challenging Nvidia's AI chip dominance?\n\nWhat revenue growth is expected for Nvidia's quarter?\n\nHow is the inference market different from training?\n\nThis so-called inference market is ​much larger, but also more contested.\n\nTraditional rivals Intel and AMD are pushing processors better suited for the smaller, cost-sensitive workloads that dominate the market.\n\nMeanwhile, Alphabet has emerged as a key challenger, striking deals worth tens of billions of dollars for its custom tensor processing units. Amazon's chip business, including its Trainium processors, is also gaining ground.\n\n\"It's less so Nvidia versus TPUs, Nvidia versus AMD. I think it's more: is the Nvidia ecosystem as dominant moving forward, ‌as some of these new inference workloads start ⁠to proliferate,\" said John Belton, portfolio manager at Gabelli Funds, which holds Nvidia shares.\n\nNvidia's stock has risen about 19% this year, lagging a two-fold surge in AMD, Intel and Arm, as well as a 27% gain in ⁠Alphabet.\n\nTo defend its position, the chipmaker unveiled a new central processor and AI system built on technology from Groq in March, an inference-focused startup it bought.\n\nThose chips are not included in Nvidia's forecast for $1 trillion in sales from Blackwell and Rubin platforms by 2027 end, leaving investors to closely watch for signs ​of ​a new growth engine.\n\nInvestors will also be looking out for any sign of ​supply constraints. Nvidia's spending on supply commitments jumped from $50.3 ‌billion to $95.2 billion between the last two quarters of its latest fiscal year, but it has largely avoided a hit from a global memory chip crunch that have affected Qualcomm and Apple .\n\nREVENUE GROWTH ACCELERATES\n\nIn the April quarter, Nvidia is expected to post a 79% jump in revenue, its fastest growth in more than a year, according to LSEG data. Adjusted profit likely rose 81.8% to $42.97 billion.\n\nThe surge is being driven by massive spending from customers including Microsoft and Meta, with Big Tech expected to pour more than $700 billion into AI this year, up from ‌around $400 billion in 2025.\n\nNvidia CEO Jensen Huang has said the company has secured enough ​supplies to meet demand for several quarters, easing concerns about capacity constraints, but other ​risks are emerging.\n\nStory Continues\n\nA slower-than-expected buildout of data centers could limit ​near-term demand.\n\n\"The customers just simply don't have place to put the GPUs. They want to own as much ‌as they can. They want to buy as much as ​they can, but they don't really ​have the data centers to put them into,\" said Chaim Siegel, analyst at Elazar Advisors.\n\nChina remains another wildcard. Nvidia has yet to sell its H200 chips there, with Beijing pushing local alternatives, though Huang's recent trip alongside U.S. President Donald Trump has raised ​hopes for progress.\n\nAnalysts have also said Nvidia's profit ‌margins - expected to total 74.5% in the first quarter - could come under pressure later in the year due to higher ​memory and chip packaging costs and the ramp up of its Rubin chips.\n\n(Reporting by Zaheer Kachwala in Bengaluru and ​Stephen Nellis in San Francisco; Editing by Sayantani Ghosh and Arun Koyyur)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, MSFT, GOOGL, AMZN, AAPL, TSLA",
       "Date": "2026-05-19",
       "Time": "18:00:00",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK, MU",
+      "Ticker": "GOOGL, SNDK, MU",
       "Date": "2026-05-19",
       "Time": "17:26:00",
       "Source": "Yahoo Finance",
