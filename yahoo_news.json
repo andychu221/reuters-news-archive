@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T10:40:38.594Z",
-  "total_news_count": 466,
+  "last_updated": "2026-05-19T10:43:35.362Z",
+  "total_news_count": 470,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -43,6 +43,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-05-19",
+      "Time": "17:47:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美伊戰爭、油價波動、機票調漲 不敵台股暢旺+出國旅遊熱",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD-%E6%B2%B9%E5%83%B9%E6%B3%A2%E5%8B%95-%E6%A9%9F%E7%A5%A8%E8%AA%BF%E6%BC%B2-%E4%B8%8D%E6%95%B5%E5%8F%B0%E8%82%A1%E6%9A%A2%E6%97%BA-%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E7%86%B1-094743259.html",
+      "Content": "一連4天的「2026台北國際觀光博覽會(TTE)」將於22日起在台北世貿中心登場，面對國際油價波動與燃油附加費調漲，暑假出國成本攀升，業者也在今天(19日)的展前記者會率先曝光今夏旅遊的新趨勢。\n\n由台北市旅行公會主辦的「2026台北國際觀光博覽會(TTE)」將於22日起一連4天在台北世貿中心盛大登場，除了展場規模升級至1.7萬平方米，集合近380家海內外旅遊業者，旅行社參展數也創下歷史新高，此外還匯聚了觀光署6大國家風景區管理處、20多個縣市政府與觀光機構以及12國海外觀光局參展。\n\n為了迎接即將來臨的暑期旺季，各家業者也在19日舉行的展前記者會上，搶先曝光最新的旅遊趨勢。雄獅集團總經理單葑就指出，受到美伊戰爭的影響，目前亞非旅遊線首當其衝，但是由於旅遊需求強勁，因此出現轉單效應。她說：『(原音)就是板塊挪移、旅遊的目的地稍微做一些調整跟改變，比較大的、明顯可以看到日韓較去年成長3成，另外還有紐西蘭、澳洲跟東南亞都較去年同期成長，那這塊就彌補到亞非線的部分，這第一個；第二個部份我們觀察到因為燃油稅的價格漲嘛，那團費的部分是有微調，但是沒有大家想像中的高，以日本線來看的話，大概是(新台幣)2千左右、漲幅大概5%；那長線的部分因為它單價比較高，漲幅大概就是3%-5%、大概5千上下。所以大家其實是可以接受的。』\n\n可樂旅遊發言人林冠賢也指出，由於國際油價波動漸趨平緩，機票價格也漸趨平穩，加上當前台股強強滾，國人出國旅遊熱度依舊不減。他說：『(原音)其實今年到目前為止，前幾個月跟去年同期相比，還往上成長。就是說旅遊對於消費者來說，油價當然是一個部分，那當然還有另外一個股市的部分也是我們觀察的一個方向。所以其實整個趨勢來看，都還是往上成長的。』\n\n事實上，林冠賢也觀察到，現在有更多消費者在意的並非價格，而是主題性的旅遊商品，只要主題獲得消費者青睞，即使單價較高，大家也願意買單，而且銷售狀況遠勝一般旅遊商品。即使在意價格的消費者，也可搭配這次的旅展優惠，甚至部分業者推出的暑期親子半價優惠，提前入手搶到便宜。(編輯：沈鎮江)",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-05-19",
       "Time": "17:30:00",
@@ -51,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/90466e78-7793-33e3-ae82-5bb26305084f/could-cerebras-be-the-next.html",
       "Content": "Cerebras Systems (NASDAQ: CBRS) took the market by storm last week when it surged 68% on its first day of trading. The reason behind the excitement is clear. Cerebras offers something in great need right now: a high-performance AI chip to power workloads. In fact, the company even says its chip has surpassed the performance of graphics processing unit (GPU)-based systems -- here, we might think of AI chip market leader, Nvidia (NASDAQ: NVDA) , which is known for its GPUs.\n\nThanks to this market dominance, Nvidia has delivered multiple wins for investors in recent years -- in fact, over the past five, the stock has climbed 1,400%. Propelling this performance has been solid earnings growth. AI companies have rushed to Nvidia for compute, and this has helped revenue reach records well into the billions of dollars. The AI giant finished the latest full year with revenue of more than $215 billion, representing a 65% increase.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nNow, as Cerebras takes its first steps as a publicly traded company, it's reasonable to ask the following: Could this young AI company be the next Nvidia? Let's find out.\n\nCerebras' big chip\n\nSo, first, let's consider the point that makes Cerebras look very promising right now. The company has built a chip that's 58 times the size of Nvidia's B200 chip, and this size allows it to deliver great speed. Cerebras says that its Wafer-Scale Engine (WSE) has delivered up to 15 times faster inference -- this is the large language model's \"thinking\" process -- than systems powered by GPUs . And in certain situations, Cerebras says its chips have been 1,000 times faster. Cerebras' WSE 3 includes 4 trillion transistors to fuel a given job -- the company compares this to an Nvidia package of two GPUs that hold 208 billion transistors.\n\nCustomers may access the WSE either by ordering platforms for their data centers or by using them through the Cerebras Cloud or a third-party cloud. And Cerebras has seen gains in revenue as customers flock to this exciting solution. Revenue has soared about 2,000% from 2022 to last year, when it came in at $510 million.\n\nInvestors clearly liked Cerebras' progress in the AI market as the stock surged on its first day of trading -- May 14 -- and the company raised $5.5 billion for the biggest IPO this year. In the following trading session, however, the stock gave back some of the gains.\n\nStory Continues\n\nCerebras vs Nvidia\n\nNow, let's compare Cerebras to Nvidia. It works in the same space as the market leader, and they share the goal of making AI tasks faster and more efficient for customers. But it's important to note that their stories are much different. Nvidia was founded more than 30 years ago and has been building GPU expertise and market presence over that time. The GPU initially served the video gaming market, but as Nvidia recognized the chip's broad potential, the company built a parallel computing platform -- CUDA -- to pave the way to this expansion.\n\nNvidia then saw the AI opportunity ahead and decided to design GPUs specifically for this market. Meanwhile, the young Cerebras, founded in 2015, set its sights on offering compute to handle the massive needs that AI would surely bring.\n\nNvidia today continues to serve the gaming market and has expanded into AI, offering solutions tailored to specific industries -- from robotics to healthcare. Nvidia's biggest customers are tech giants such as Microsoft and Amazon , but the company serves smaller players too.\n\nWhat could create vulnerability\n\nCerebras has seen revenue climb, but one problem is that revenue comes from a limited number of customers -- that creates vulnerability because if one of these customers reduces spending, Cerebras may feel the impact. Last year, contracts with Mohamed bin Zayed University of Artificial Intelligence in the United Arab Emirates made up 62% of revenue. And Cerebras said in its prospectus that its dependence on this customer, as well as on Group 42 Holding Ltd and OpenAI, \"subjects us to a number of risks.\"\n\nTo become the next Nvidia, Cerebras must greatly grow its number of customers to include U.S. tech giants as well as others internationally. The company also must truly prove its strengths in AI over time -- and we should see this reflected in earnings reports, with revenue growth and eventually profitability.\n\nWhile profitability may come, it might be difficult for a newcomer like Cerebras to build an empire -- after all, Nvidia's ascent came after decades of research and growth.\n\nAs for stock price, history shows that new IPO companies don't necessarily outperform in their early years. Excluding first-day returns, IPO stocks have underperformed other companies of similar size by 3.6% per year in the five years following their operations, according to Jay Ritter, a finance professor at the University of Florida. So, if history is right, Cerebras may not be on track for an Nvidia-style run.\n\nIs Cerebras the next Nvidia? From a product, earnings, and stock performance perspective, I don't see this happening in the near term. But, as mentioned, Nvidia became the Nvidia we know today after decades of work. So, over the long run , if Cerebras builds on its strengths and expands across customers and industries, it could potentially become the new Nvidia.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-19",
+      "Time": "17:27:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "伯恩斯坦上調台積電目標價　估英特爾三星未縮小差距",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%BC%AF%E6%81%A9%E6%96%AF%E5%9D%A6%E4%B8%8A%E8%AA%BF%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9B%AE%E6%A8%99%E5%83%B9-%E4%BC%B0%E8%8B%B1%E7%89%B9%E7%88%BE%E4%B8%89%E6%98%9F%E6%9C%AA%E7%B8%AE%E5%B0%8F%E5%B7%AE%E8%B7%9D-092755521.html",
+      "Content": "（中央社紐約2026年05月18日綜合外電報導）CNBC等美國財經媒體報導，研究機構伯恩斯坦（Bernstein）今天發布報告，上調台積電ADR的目標價。分析師指出，英特爾與三星仍無法威脅台積電的領先地位。\n\n過去兩個月以來，科技投資人將焦點放在記憶體晶片需求激增，帶動英特爾（Intel）與超微（AMD）等企業股價急速飆升，如今漲勢才剛開始降溫。\n\n但根據伯恩斯坦，投資人忽略了晶圓代工巨擘台積電。台積電雖然表現落後費城半導體指數，但有望受惠於雲端服務供應商增加人工智慧（AI）資本支出。\n\n伯恩斯坦分析師馬克．李（Mark Li，音譯）及愛德華．侯（Edward Hou，音譯）在今天的報告中指出：「隨著投資人追逐近期漲勢背後的新題材，台積電目前相較費半指數約有20%的折價。然而，我們認為台積電是AI領域中最值得信賴的複利成長股。」\n\n他們表示，蘋果（Apple）最近與英特爾（Intel）達成協議，加上三星（Samsung）的競爭，並未對台積電的領先地位構成根本性威脅，而且幾乎沒有跡象顯示，英特爾或三星正縮小與台積電之間的技術差距。\n\n兩人指出：「三星晶圓代工正大幅改善，但其技術仍停留在4奈米或『2奈米』（實際相當於台積電3奈米）階段，而台積電已開始量產真正的2奈米。」\n\n另據Investing.com，伯恩斯坦今天將台積電ADR目標價從351美元上調至430美元，並且維持「優於大盤」的評級。",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL, SNDK, MU",
@@ -93,6 +113,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-19",
+      "Time": "17:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "大學光5/15~19取得台積電110張，計約2.45億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E5%AD%B8%E5%85%895-15-19%E5%8F%96%E5%BE%97%E5%8F%B0%E7%A9%8D%E9%9B%BB110%E5%BC%B5-%E8%A8%88%E7%B4%842-45%E5%84%84%E5%85%83-090200500.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(3218)大學光-公告本公司取得有價證券\n\n1.證券名稱:台灣積體電路製造股份有限公司 普通股\n\n2.交易日期:115/5/15~115/5/19\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年5月12日\n\n5.交易數量、每單位價格及交易總金額:\n\n(1)交易數量：110,000股\n\n(2)每單位價格：均價約2,231.23元\n\n(3)交易總金額：245,435,390元\n\n6.處分利益（或損失）（取得有價證券者不適用）:不適用\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n(1)累積持有本交易證券：295,000股\n\n(2)金額：新台幣639,430,592元\n\n(3)持股比例：0.0011%\n\n(4)權利受限情形：無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n(1)有價證券投資占總資產之比例：11.08%\n\n(2)有價證券投資占股東權益之比例：17.50%\n\n(3)營運資金：1,499,198仟元\n\n10.取得或處分之具體目的:財務投資\n\n11.本次交易表示異議董事之意見:不適用\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:無\n\n伯恩斯坦上調台積電目標價 估英特爾三星未縮小差距\n\n大學光 公告本公司取得有價證券\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-05-19",
       "Time": "17:01:21",
@@ -100,6 +130,16 @@
       "Title": "台股殺716點失守月線！記憶體倒成一片　資金走進防禦性類股",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%AE%BA716%E9%BB%9E%E5%A4%B1%E5%AE%88%E6%9C%88%E7%B7%9A-%E8%A8%98%E6%86%B6%E9%AB%94%E5%80%92%E6%88%90-%E7%89%87-%E8%B3%87%E9%87%91%E8%B5%B0%E9%80%B2%E9%98%B2%E7%A6%A6%E6%80%A7%E9%A1%9E%E8%82%A1-090121430.html",
       "Content": "受美股科技股走弱拖累，台股今（19）日開低走低，終場下跌716.26點，跌幅達1.75%，以40,175.56點作收，大盤指數連3跌，跌破月線，單日成交量達1兆880億元。市場觀望氣氛濃厚，資金明顯從位階過熱的電子股撤出，轉往防禦性標的尋求避險。\n\n電子權值股殺聲震天 高價股面臨修正\n\n今日盤面賣壓集中在大型電子權值股，台積電（2330）終場下跌35元，收在2,205元，單一個股就拖累大盤近280點。\n\n聯發科（2454）重挫7.21%，大跌245元至3,155元，台達電（2308）與日月光投控（3711）跌幅也都超過5%，雙雙失守重要整數關卡。\n\n高價股群同樣面臨評價修正的壓力，股后穎崴（6515）大跌逾7%，失守萬元大關，台股「雙萬金」格局宣告破滅。此外，多檔千金股如印能（7734）、愛普*（6531）、雍智科技（6683）等，更是直接被打入跌停。\n\n利空消息齊發 記憶體族群倒成一片\n\n記憶體族群今日慘遭血洗，成為盤面重災區。前波強勢的南亞科（2408）、華邦電（2344）、旺宏（2337）及群聯（8299）全數跌停鎖死，力積電（6770）與創見（2451）也跌逾半根停板。\n\n記憶體股價崩跌的主因來自多重利空夾擊，硬碟大廠希捷（Seagate）高層指出新建工廠耗時過長，且擔憂業界盲目擴產未來將面臨產能過剩的問題，此番言論引發市場對AI帶動的超級循環產生疑慮。\n\n此外，前三星電子半導體部門總裁慶桂顯公開示警，指出中國記憶體廠正激進擴產，全球供給最快將在2027年下半年激增，恐導致價格反轉下跌。加上DRAM現貨價格近期明顯轉弱，DDR4報價已跌破60美元大關，讓市場對景氣復甦的樂觀預期大幅降溫。\n\n資金急尋避風港 金融、電信逆勢撐盤\n\n在電子股血流成河之際，資金快速尋找避風港，轉入具備基本面與高殖利率護體的大型股。\n\n金融股扮演了穩盤要角，13家金控全面收紅。富邦金（2881）與兆豐金（2886）漲幅逾2%，國泰金（2882）、中信金（2891）等也同步走強，帶動整體金融類股逆勢上漲1.24%，成為盤面少數的抗跌指標。\n\n電信族群同樣表現亮眼，中華電（2412）爆出逾5.2萬張大量，收盤大漲4%至142.5元，創下歷史新高。台灣大與遠傳也分別有1%至2%的漲幅，發揮了防禦型標的的撐盤功能。\n\n外資大舉提款 市場靜待輝達財報\n\n觀察三大法人今日籌碼動向，整體賣壓明顯升溫，三大法人合計賣超高達784.09億元。\n\n其中，外資及陸資大舉提款632.35億元，自營商合計賣超223.52億元，僅投信逆勢買超71.77億元，持續在內資端撐盤。\n\n法人分析，今日大跌部分原因在於市場資金於輝達（Nvidia）公布財報前的觀望與避險賣壓。短期內台股預期將維持區間震盪，若輝達能釋出亮眼財測，加上6月電腦展的AI題材支撐，台股仍有機會在中下旬重啟攻勢。\n\n記憶體與先進晶片仍是最大挑戰 黃仁勳攜手戴爾打造AI代理長期記憶\n\n記憶體續漲2》撐不住就停賣！30美元產品被逼退市場\n\n記憶體續漲1》AI吸乾「關鍵資源」！華邦電急加碼73億擴產",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-05-19",
+      "Time": "16:49:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》半導體類股承壓，KOSPI指數收跌逾3%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%A1%9E%E8%82%A1%E6%89%BF%E5%A3%93-kospi%E6%8C%87%E6%95%B8%E6%94%B6%E8%B7%8C%E9%80%BE3-084900463.html",
+      "Content": "MoneyDJ新聞 2026-05-19 16:49:06 數位內容中心 發佈\n\n韓股今(19)日下挫，KOSPI指數終場收在7271.66點，下跌244.38點或3.25%；韓國KOSDAQ指數則收在1084.36點，下跌26.73點或2.41%。匯率方面，美元兌韓元收於1,507.8韓元，顯示韓元呈偏弱走勢。韓股今日跌幅反映市場因外資大規模賣出、國際利率與油價上揚，以及中東地緣政治不確定性交織導致的風險偏好降溫。\n\n資金面與宏觀方面，外資在韓國KOSPI指數市場進行大規模拋售，造成市場成交與波動性急劇放大；同時，美國長天期公債收益率走高與油價上揚推升美元需求，進一步擠壓韓股資金面。\n\n盤面上，半導體類股承壓，SK Hynix(000660.KS)跌5.16%，主要受到Seagate相關發言引發的供需疑慮，加上Micron等國際個股回檔傳導影響；Hyundai Motor(005380.KS)、SK Square(402340.KS)等大型股亦出現顯著下跌，整體拖累韓國KOSPI指數表現。\n\n產業輪動與個股方面，保險、食品飲料及電力與瓦斯等族群相對抗跌，表現強勢；相較之下，機械設備、證券、營建以及運輸設備與零組件等類股領跌。韓國KOSDAQ指數方面，多數中小型股同步下挫，且下跌家數明顯多於上漲家數。\n\n美股焦點：MGIC Investment Corporation(MTG.US) | 01:46:44(GMT+8)\n\n美房貸利率6.57%創3月來新高 房市回溫恐受挫\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
