@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-19T23:40:21.844Z",
-  "total_news_count": 620,
+  "last_updated": "2026-05-19T23:43:23.715Z",
+  "total_news_count": 623,
   "news": [
     {
       "Ticker": "MSFT",
@@ -11,6 +11,36 @@
       "URL": "https://finance.yahoo.com/m/95bcacaa-6e00-3871-b141-b7e48a0fa9d8/stock-market-today%2C-may-19%3A.html",
       "Content": "UiPath (NYSE:PATH) , an automation platform providing robotic process automation solutions, closed Tuesday’s session at $10.54, down 0.99%. The stock moved after a collaboration with Microsoft Korea to locally launch Automation Cloud, and investors are watching how this expands regional cloud automation adoption.\n\nThe company’s trading volume reached 41 million shares, which is about 28% above compared with its three-month average of 32.1 million shares. UiPath went public in 2021 and has fallen 85% since its IPO.\n\nHow the markets moved today\n\nS&P 500 (SNPINDEX:^GSPC) slipped 0.67% to 7,353.61, while the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 0.84% to finish at 25,870.71. Within software - infrastructure, industry peers Microsoft (NASDAQ:MSFT) closed at $417.42 (-1.44%) and ServiceNow (NYSE:NOW) ended at $101.83 (-1.54%), underscoring pressure across enterprise software names.\n\nWhat this means for investors\n\nUiPath shares moved modestly lower alongside enterprise software peers, even as the company announced a collaboration with Microsoft Korea to launch Automation Cloud locally in South Korea. The launch gives Korean enterprises access to UiPath’s cloud automation platform with local data-residency support, a factor that can matter for large organizations managing regulated or sensitive workflows.\n\nThe update aligns with UiPath’s broader effort to expand cloud-based automation through major technology partners rather than relying solely on direct enterprise sales. Future customer wins, or Microsoft-led deployments in South Korea would provide a clearer read on whether local Automation Cloud availability is converting into recurring cloud revenue.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-20",
+      "Time": "07:13:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股主動式基金規模破兆，摩根投信看好半導體、低軌衛星等四大主軸",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%B8%BB%E5%8B%95%E5%BC%8F%E5%9F%BA%E9%87%91%E8%A6%8F%E6%A8%A1%E7%A0%B4%E5%85%86-%E6%91%A9%E6%A0%B9%E6%8A%95%E4%BF%A1%E7%9C%8B%E5%A5%BD%E5%8D%8A%E5%B0%8E%E9%AB%94-%E4%BD%8E%E8%BB%8C%E8%A1%9B%E6%98%9F%E7%AD%89%E5%9B%9B%E5%A4%A7%E4%B8%BB%E8%BB%B8-231320236.html",
+      "Content": "【財訊快報／記者劉居全報導】今年以來，台股一路從3萬點邁向4萬2大關，驚驚漲的指數表現，不只讓台股主動式ETF獲得廣泛的關注，就連台股基金的規模增長也是盛況空前。根據統計，從去年12月起至今，在各類台股資產中，主動式ETF的占比已從3%快速成長到8%，共同基金的占比也從18%擴大到22%，至於被動式ETF的規模雖有擴張，但占比卻從去年底的79%下滑到70%，可見在台股各類資產中，訴求「主動式管理」的共同基金與主動式ETF，已逐漸成為新寵。根據投信投顧公會統計，截至去年12月起，台股共同基金的規模還在8,341.74億，被動式ETF的規模則為3.68兆，主動式ETF的規模僅有1,302億；但到今年4月底，台股共同基金的規模卻快速來到1.51兆，規模成長率為81.59%，主動式ETF的規模也大幅增長到5,295.37億，今年來成長率更高達3倍以上，而被動式ETF的規模雖然也增加到4.7兆元，但規模成長率僅有28.84%，可見從增量的角度來看，台股資產現在是「主動式管理」當道。\n\n摩根資產管理表示，台股基金規模的增長，除了反映市場價格的上漲外，投資人積極湧入申購也是推升力道之一。根據投信投顧公會統計，投資人對台股基金已出現連續7個月的淨流入，今年4月份的單月淨流入甚至高達215.6億元，部分績效優異的台股基金，也是推進台股基金淨申購增加的推手。\n\n摩根新興科技基金經理人葉鴻儒表示，AI在大型運算及頻寬速度提高的過程中，也會帶動高速傳輸需求的提升，而低軌衛星則受惠衛星直連手持裝置的題材，因此無論是在高速與高頻通訊關鍵材料的領域，台廠在全球佔有獨特優勢。以半導體更細部產業分類為例，隨著AI晶片複雜度的提升，晶圓測試項目與難度將同步增加，導致測試時間同步提升，因此在半導體領域，測試封裝就不再只是扮演單純的下游角色，而是攸關晶片價值提升的關鍵環節。\n\n此外，隨著AI資料中心的升級，電源廠商從過去單純的電力架構供應，轉型為切入高壓直流的核心電力環節，像電池備援系統與機櫃間的供電系統等，都讓關鍵電源廠商能參與的業務範圍大幅擴張，進而帶動股價表現。所以在台灣已經相對完整的科技鏈當中，目前更看好半導體、電力散熱、高速傳輸與低軌衛星等四大主軸。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-20",
+      "Time": "06:59:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "基金規模首破兆 台股資產「主動式」成大贏家",
+      "URL": "https://tw.news.yahoo.com/%E5%9F%BA%E9%87%91%E8%A6%8F%E6%A8%A1%E9%A6%96%E7%A0%B4%E5%85%86-%E5%8F%B0%E8%82%A1%E8%B3%87%E7%94%A2-%E4%B8%BB%E5%8B%95%E5%BC%8F-%E6%88%90%E5%A4%A7%E8%B4%8F%E5%AE%B6-225920323.html",
+      "Content": "【記者柯安聰台北報導】今年以來，台股一路從3萬點邁向4萬2大關，驚驚漲的指數表現，不只讓台股主動式ETF獲得廣泛的關注，就連台股基金的規模增長也是盛況空前！根據統計，從去年12月起至今，在各類台股資產中，主動式ETF的占比已從3%快速成長到8%，共同基金的占比也從18%擴大到22%，至於被動式ETF的規模雖有擴張，但占比卻從去年底的79%下滑到70%，可見在台股各類資產中，訴求「主動式管理」的共同基金與主動式ETF，已逐漸成為新寵。\n\n根據投信投顧公會統計，截至去年12月起，台股共同基金的規模還在8341.74億，被動式ETF的規模則為3.68兆，主動式ETF的規模僅有1302億；但到今年4月底，台股共同基金的規模卻快速來到1.51兆，規模成長率為81.59%，主動式ETF的規模也大幅增長到5295.37億，今年來成長率更高達3倍以上，而被動式ETF的規模雖然也增加到4.7兆元，但規模成長率僅有28.84%，可見從增量的角度來看，台股資產現在是「主動式管理」當道。\n\n摩根資產管理表示，台股基金規模的增長，除了反映市場價格的上漲外，投資人積極湧入申購也是推升力道之一。根據投信投顧公會統計，投資人對台股基金已出現連續7個月的淨流入，今年4月份的單月淨流入甚至高達215.6億台幣，部分績效優異的台股基金，也是推進台股基金淨申購增加的推手。\n\n摩根新興科技基金經理人葉鴻儒表示，AI在大型運算及頻寬速度提高的過程中，也會帶動高速傳輸需求的提升，而低軌衛星則受惠衛星直連手持裝置的題材，因此無論是在高速與高頻通訊關鍵材料的領域，台廠在全球佔有獨特優勢。以半導體更細部產業分類為例，隨著AI晶片複雜度的提升，晶圓測試項目與難度將同步增加，導致測試時間同步提升，因此在半導體領域，測試封裝就不再只是扮演單純的下游角色，而是攸關晶片價值提升的關鍵環節。\n\n此外，隨著AI資料中心的升級，電源廠商從過去單純的電力架構供應，轉型為切入高壓直流的核心電力環節，像電池備援系統與機櫃間的供電系統等，都讓關鍵電源廠商能參與的業務範圍大幅擴張，進而帶動股價表現。所以在台灣已經相對完整的科技鏈當中，目前更看好半導體、電力散熱、高速傳輸與低軌衛星等四大主軸。（自立電子報2026/5/19）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-05-20",
+      "Time": "06:42:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "公債利率狂飆 美股連三黑！  台積電ADR跌0.84％",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%82%B5%E5%88%A9%E7%8E%87%E7%8B%82%E9%A3%86-%E7%BE%8E%E8%82%A1%E9%80%A3%E4%B8%89%E9%BB%91-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C0-84-224215858.html",
+      "Content": "美債殖利率攀升，科技股回檔拖累大盤表現；輝達即將公布財報，市場觀望氣氛升溫，AI類股也面臨獲利了結壓力。美股週二(19日)再度收低，連續第三個交易日收黑。台積電ADR跌3.34美元或-0.84%、收392.61美元。\n\n道瓊工業指數下跌322.24點或0.65%，收報49363.88點。\n\n標普500指數下挫49.44點或0.67%，收在7353.61點。\n\n那斯達克指數滑落220.02點或0.84%，收25870.71點。\n\n費城半導體指數微幅上揚2.98點或0.03%，收11305.50點。\n\n中東戰事推升能源價格飆漲，使外界擔心通膨恐居高不下，引發美國公債拋售潮。美國10年期公債殖利率升破4.6%，30年期公債殖利率盤中一度觸及5.2%、近19年新高。輝達將於週三盤後公布財報，也將左右市場情緒，美股今天再度疲軟。\n\n美國總統川普18日發文稱，受中東多國請求，他已暫緩「原定明日針對伊朗的攻擊計畫」。投資人持續觀望美伊局勢發展，國際油價今天小幅收低。\n\n紐約商品交易所西德州中級原油6月交割價下跌89美分或0.82%，收報每桶107.77美元。倫敦北海布倫特原油7月結算價滑落82美分或0.73%，收在每桶 111.28美元。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
