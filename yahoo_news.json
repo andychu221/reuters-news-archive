@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-19T13:01:09.984Z",
-  "total_news_count": 502,
+  "last_updated": "2026-05-19T13:15:26.860Z",
+  "total_news_count": 503,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-19",
       "Time": "20:35:00",
       "Source": "Yahoo Finance",
@@ -211,6 +211,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%86%B1%E6%9C%9F%E8%B2%A8%E5%95%86anc%E6%AF%94%E7%8E%87%E4%B8%8B%E6%BB%91-10%E6%A5%AD%E8%80%85%E6%93%AC%E5%A2%9E%E8%B3%87%E7%99%BC%E5%82%B5%E5%9B%A0%E6%87%89-104826081.html",
       "Content": "（中央社記者蘇思云台北2026年05月19日電）台股熱絡，期貨商ANC比率（調整後淨資本額占未沖銷部位所需保證金總額）下滑拉警報。金管會表示，14家專營期貨商目前並無業者碰觸ANC比率低於15%的紅線，合計10家業者規劃現金增資或發次順位債強化資本。\n\n期交所也組成專案小組，將檢視國際作法與現行公式是否需優化，目前尚未收到期交所研議報告。\n\n金管會證期局副局長黃仲豪指出，目前期貨商資本計提規定，是看期貨商風險調整後淨資本額（Adjusted Net Capital）比率，分子是期貨商調整後資本，分母為未沖銷保證金，因近期股市熱絡，部分業者契約部位變大，導致分母變大，有業者面臨ANC比例下降。\n\n依規定，期貨商ANC比率低於20%時應申報；低於15%時，應停止接單並提出改善計畫。\n\n黃仲豪說明，統計到5月15日止，國內14家專營期貨商ANC比率皆在15%以上，還沒出現停止接新單情況，但的確有ANC比例下降的情形。統計ANC比率20%以下僅1家，20%到30%有8家，30%以上有5家。\n\n金管會解釋，已請期交所密切監控期貨商ANC比率變化並輔導期貨商改善，如辦理增資等方式以充實營運資金，以及加強期貨自營與經紀業務風險控管。\n\n黃仲豪指出，業者陸續提出現金增資或發次順位債規劃，14家業者中，9家規劃現增、4家規劃發債，因部分業者兩管道都有採取，整體來看，合計10家業者規劃增資或發債。若業者增資時間急迫，期交所也提供方案，可透過放寬信用狀、透支額度方式，讓業者取得短期資金因應。\n\n至於通案檢討部分，黃仲豪指出，今年3月請期交所比較國際做法，包括原本公式的分子與分母計算方式、比率監理規範，是否有其他控管機制進行優化等。期交所已組成專案小組，並邀公會與業者進行討論，目前還沒收到期交所研議報告。\n\n外界關注台股前5月遭處置狀況，黃仲豪說明，今年以來統計到5月18日，遭處置的上市公司113家、上櫃公司126家，合計239家，相比之下，2024年、2025年同期分別為304檔、199檔，今年處置數量並未特別高。\n\n至於是否研議修改處置個股條件，黃仲豪說，目前已請證交所、櫃買中心研議現行機制是否有調整修正空間，包括注意股的要件、處置股處置時間等都會審慎研究。處置股的前一階段為注意股，條件包含漲跌幅、成交量異常、週轉率或集中度等問題，若成為處置股後，包含處置時間、方式都可以再來研究。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-05-19",
+      "Time": "18:40:18",
+      "Source": "Yahoo Finance",
+      "Title": "ASML says first chips made with High-NA machines to arrive in months",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/asml-says-first-chips-high-104018009.html",
+      "Content": "By Toby Sterling and Nathan Vifflin\n\nANTWERP, May 19 (Reuters) - ASML expects the first chips made with its next-generation High-NA EUV machines to be delivered within months, Chief ‌Executive Christophe Fouquet said on Tuesday, as the Dutch company addresses concerns about the ‌new technology's costs.\n\nMore from Yahoo Scout\n\nWhy does TSMC consider High-NA machines expensive?\n\nHow does High-NA technology improve chip manufacturing?\n\nWhen will High-NA EUV chips be delivered?\n\nWhat drives AI boom's impact on chip sales?\n\nThe computer chip equipment maker's top customer TSMC said last month High-NA machines, which can cost up to $400 ​million each, were too expensive to use for now. Fouquet, however, expressed confidence in the technology's adoption.\n\n\"In the next few months, we will be looking at the first few products, in memory, in logic, being exposed on the High-NA system\", he told a conference organised by research firm imec in ‌Antwerp.\n\n\"Those technologies are expensive. They are ⁠requiring qualification. But they are always designed with the idea that over time they will lower the cost of patterning,\" Fouquet said.\n\nDemand from advanced chipmakers ⁠for ASML's EUV, or extreme ultraviolet, lithography tools used to print tiny chip circuits, has helped the Dutch manufacturer become Europe's most valuable company. Chipmakers are now testing the High NA, or high numerical ​aperture, version ​of the tool, which will be able to produce ​features up to 66% smaller - similar ‌to having a better focus on a camera.\n\nIntel has been the most aggressive in preparing to adopt ASML's High-NA tool, in an attempt to leapfrog competitors TSMC and Samsung. Memory chip makers including SK Hynix have also said they intend to use the new technology.\n\nTSMC has not ruled it out, but executive Kevin Zhang said it will stick with ASML's current EUV product for the ‌next several generations of chips as the company keeps ​squeezing out advances through innovative chip designs that don't ​require smaller lines.\n\nFouquet said the artificial intelligence ​boom is expected to keep chip sales rising by 20% per year ‌in the coming years.\n\nHe acknowledged that some in ​the industry fear ASML's ​production capacity may be a bottleneck in expanding chip production, as it was during the COVID pandemic. But in a nod to TSMC and Samsung executives who spoke earlier ​at the conference, he quipped that ‌they are the real bottleneck for AI as their firms must expand production - ​and buy more ASML products.\n\n(Reporting by Toby Sterling in Antwerp and Nathan Vifflin in ​Gdansk Editing by Mark Potter and Tomasz Janowski)",
+      "Language": "en"
     },
     {
       "Ticker": "TSM",
