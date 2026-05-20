@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-20T12:15:28.083Z",
-  "total_news_count": 753,
+  "last_updated": "2026-05-20T12:32:17.872Z",
+  "total_news_count": 754,
   "news": [
     {
-      "Ticker": "INTC, NVDA, AMD",
+      "Ticker": "LRCX",
+      "Date": "2026-05-20",
+      "Time": "20:01:36",
+      "Source": "Yahoo Finance",
+      "Title": "Lam Research opens Austria lab to advance chip packaging, cut costs",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/lam-research-opens-austria-lab-120136761.html",
+      "Content": "May 20 (Reuters) - Lam Research has opened a research lab in Salzburg, Austria, to advance a chip packaging technology ‌that promises to increase chip density and cut costs, ‌as the company looks to capitalize on surging AI demand for processors.\n\nThe U.S. ​chipmaking tools supplier said on Wednesday that the Salzburg facility will focus on panel-level packaging, which replaces the semiconductor industry's traditional circular silicon wafers with square panels.\n\nMore from Yahoo Scout\n\nWhat cost advantages does square panel technology offer?\n\nWhat is panel-level packaging technology in chip manufacturing?\n\nHow does Lam Research's Salzburg facility advance AI chip production?\n\nHow is AI demand driving semiconductor equipment innovation?\n\nRound wafers waste material at the ‌curved edges where full ⁠chips cannot be cut. Square panels can eliminate the dead space, allowing chipmakers to produce more chips ⁠per surface at a lower cost per unit — a crucial advantage as AI drives chip shortages.\n\nThe growing need for more complex and powerful ​chips ​has fueled a surge in demand ​for wafer fabrication equipment, ‌which are sophisticated and expensive tools provided by companies including Lam, Applied Materials, Dutch firm ASML and KLA Corp.\n\nLam's customers include Samsung Electronics and the world's leading contract chip manufacturer, Taiwan Semiconductor Manufacturing Co.\n\nThe company said the new R&D site builds on the ‌expertise of Semsysco GmbH, a Salzburg chip ​equipment firm founded in 2012 and ​acquired by Lam Research ​in 2022.\n\nThe Salzburg facility is Lam's first panel-focused ‌wet-processing lab, which uses liquid chemicals ​to clean and ​prepare semiconductor materials, the company said.\n\n\"This new campus, a state-of-the-art laboratory for panel-level processing, seamlessly bridges the gap from research ​and development to ‌production,\" Salzburg Governor Karoline Edtstadler said in a statement.\n\n(Reporting ​by Jaspreet Singh in Bengaluru and Stephen Nellis in San ​Francisco; Editing by Tasim Zahid)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM, SNDK, INTC, NVDA, AMD",
       "Date": "2026-05-20",
       "Time": "19:49:57",
       "Source": "Yahoo Finance",
