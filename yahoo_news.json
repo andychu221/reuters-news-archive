@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-20T17:40:32.527Z",
-  "total_news_count": 835,
+  "last_updated": "2026-05-20T18:01:40.372Z",
+  "total_news_count": 837,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-21",
+      "Time": "01:26:00",
+      "Source": "Yahoo Finance",
+      "Title": "Billionaire Philippe Laffont Dumped AI Titan Nvidia for the 11th Time in 12 Quarters. What Does He Know That Wall Street Doesn't?",
+      "URL": "https://finance.yahoo.com/m/848777a2-ab7f-38ef-823c-517402d911b5/billionaire-philippe-laffont.html",
+      "Content": "Although earnings season tends to hog all the glory, the quarterly filing of Form 13Fs with regulators can be equally important for investors. A 13F allows investors to track which stocks Wall Street's smartest money managers bought and sold in the latest quarter.\n\nFor instance, Coatue Management's billionaire asset manager, Philippe Laffont, was a busy bee during the first quarter. He sold out of 16 positions and pared down 22 others, none of which has a more impressive pedigree than the face of the artificial intelligence (AI) revolution, Nvidia (NASDAQ: NVDA) . It marked the 11th time in the last 12 quarters that Laffont dumped Nvidia stock, begging the question: What does he know that the rest of Wall Street doesn't?\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nBillionaire Philippe Laffont has shed 87% of his fund's stake in Nvidia\n\nDespite Nvidia's undisputed leadership position in AI graphics processing units (GPUs), Coatue Management's chief investor has been a persistent seller of Nvidia for the better part of three years (share counts have been adjusted to reflect Nvidia's 10-for-1 stock split in June 2024):\n\nQ1 2023 : 49,802,020 shares held\n\nQ2 2023 : 46,449,700 shares (-3,352,320)\n\nQ3 2023 : 45,410,400 shares (-1,039,300)\n\nQ4 2023 : 43,222,010 shares (-2,188,390)\n\nQ1 2024 : 13,851,410 shares (-29,370,600)\n\nQ2 2024 : 13,754,447 shares (-96,963)\n\nQ3 2024 : 10,138,161 shares (-3,616,286)\n\nQ4 2024 : 10,006,488 shares (-131,673)\n\nQ1 2025 : 8,545,835 shares (-1,460,653)\n\nQ2 2025 : 11,488,529 shares (+2,942,694)\n\nQ3 2025 : 9,870,743 shares (-1,617,786)\n\nQ4 2025 : 9,203,338 shares (-667,405)\n\nQ1 2026 : 6,331,620 shares (-2,871,718)\n\nCollectively, Coatue's position has been slashed by 87% in three years. The prevailing question is: Why?\n\nProfit-taking likely isn't the full story\n\nProfit-taking is the logical answer. Nvidia stock has skyrocketed by more than 700% since Coatue's position in the company peaked in the March-ended quarter of 2023. With Laffont often holding core positions for an average of two to three years, paring down this stake after an outsize return makes sense.\n\nBut profit-taking likely tells only part of the story.\n\nLaffont might also be concerned about competitive pressures. Though Nvidia's GPUs currently hold a virtual monopoly in enterprise data centers, many of its top customers by net sales are internally developing hardware to use in their own data centers.\n\nStory Continues\n\nWhile these chips don't pose a threat to Nvidia from an external sales or compute capabilities standpoint, they're notably cheaper and more readily accessible than Nvidia's advanced GPU lineup. In other words, Nvidia's leading customers may take up valuable data center real estate with their own chips, thereby offsetting the GPU scarcity that's helped fuel Nvidia's sky-high pricing power and otherworldly gross margin.\n\nAdditionally, history hasn't been kind to game-changing technologies or the companies leading the charge. Every next-big-thing trend for more than three decades has endured an early stage bubble-bursting event, brought about by investors overestimating the adoption and/or optimization of a new technology. While there's been no issue with GPU adoption, it'll likely take years before businesses optimize their sales and profits using AI.\n\nLastly, Nvidia's valuation may be behind billionaire Philippe Laffont's selling. We recently watched Palantir Technologies crush analysts' estimates and still fall after releasing its operating results. Though Nvidia's price-to-sales ratio is considerably cheaper than Palantir's, it's historically elevated, potentially limiting the stock's near-term upside.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-05-21",
@@ -53,7 +63,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "KLAC",
+      "Ticker": "MU",
+      "Date": "2026-05-21",
+      "Time": "00:57:27",
+      "Source": "Yahoo Finance",
+      "Title": "Chip Stocks Rise as Samsung Strike Risk Threatens Supply",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/chip-stocks-rise-samsung-strike-165727713.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( MU , Financials ), Nvidia and AMD moved higher Wednesday after failed labor talks at Samsung Electronics raised the risk of a strike that could affect global memory chip supply.\n\nWarning! GuruFocus has detected 7 Warning Signs with SSNLF.\n\nIs SSNLF fairly valued? Test your thesis with our free DCF calculator.\n\nThe move was strongest in memory-related stocks. Micron gained about 4% in premarket trading as investors weighed whether a Samsung strike could tighten supply and support pricing.\n\nSamsung is one of the world's largest memory chipmakers, so any disruption at its plants could ripple through the broader semiconductor market. That matters at a time when demand tied to artificial intelligence, data centers and advanced computing remains strong.\n\nOther chip names also gained as traders looked at how a possible supply squeeze could benefit competitors or support higher prices across parts of the sector.\n\nFor investors, the story is simple: even the threat of a production disruption at Samsung can move chip stocks quickly.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD, MU, KLAC",
       "Date": "2026-05-21",
       "Time": "00:56:29",
       "Source": "Yahoo Finance",
@@ -123,7 +143,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "LRCX",
+      "Ticker": "AMAT, LRCX",
       "Date": "2026-05-20",
       "Time": "23:58:00",
       "Source": "Yahoo Finance",
