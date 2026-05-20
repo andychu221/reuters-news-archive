@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-20T08:28:43.434Z",
-  "total_news_count": 700,
+  "last_updated": "2026-05-20T08:40:28.917Z",
+  "total_news_count": 702,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-05-20",
+      "Time": "16:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "Bill Ackman Dumped Most of His Alphabet Stock to Buy Microsoft Instead. Here's the Pattern Every Investor Should Study.",
+      "URL": "https://finance.yahoo.com/m/56cbe1b8-f7cf-34b1-94ca-f1aed2ebf265/bill-ackman-dumped-most-of.html",
+      "Content": "It's 13F season. Many of the world's greatest investors recently revealed the stocks they bought and sold in the first quarter of 2026. Billionaire Bill Ackman is one of them.\n\nAckman dumped most of his hedge fund's position in Google parent Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) in Q1. He redeployed the money, though, in large part to load up on another top AI stock -- Microsoft (NASDAQ: MSFT) . And there's a pattern with his moves that every investor should study.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nFollowing a pattern\n\nLet's go back to when Ackman first initiated a position in Alphabet in 2023. OpenAI had launched ChatGPT several months earlier. Google stumbled in the rollout of its rival AI model. Its shares sank. Ackman saw an opportunity to buy a great stock at a discount and began loading up on Alphabet. Since then, his initial investment has roughly quadrupled in value.\n\nThere are distinct similarities with Ackman's recent purchase of Microsoft. Shares of the software giant declined sharply in the first quarter of 2026. Some investors lumped Microsoft in with other SaaS stocks during the major sell-off dubbed the \"SaaSpocalypse.\" Others questioned the wisdom of Microsoft's significant increase in AI infrastructure investments. Again, Ackman saw an opportunity.\n\nDid the billionaire investor sour on Alphabet's prospects? Not at all. He posted on X (formerly Twitter):\n\nNote two key points in that tweet. First, Ackman pointed out that his hedge fund, Pershing Square Capital Management, has a \"finite capital base.\" Second, he focused on valuations. Ackman wrote that his fund was able to buy Microsoft \"at a valuation of 21 times forward earnings, broadly in line with the market multiple and well below Microsoft's trading average over the last few years.\"\n\nStory Continues\n\nThe lessons for investors who aren't billionaires\n\nShould other investors sell Alphabet stock and aggressively buy Microsoft because Ackman did? Absolutely not. However, there are some important lessons to learn from the billionaire's moves.\n\nFirst, like Ackman and his hedge fund, we all have a finite amount of money to invest. The question investors should continually ask is, \"What's the best way to deploy the money to generate the highest returns?\" Sometimes, that means selling a very good stock to buy an even better one.\n\nSecond, investors should always factor in the risk and margin of safety associated with any stock. Ackman determined that Microsoft had a greater margin of safety at its depressed valuation than Alphabet.\n\nThird, the stock market often creates opportunities to buy when prices don't accurately reflect a company's growth prospects. Be ready to capitalize on these opportunities when they arise, even if you have to sell a great stock to have enough cash to deploy. Even billionaires face this scenario from time to time.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-05-20",
@@ -15,6 +25,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 0,
       "Keywords": "earnings, AI, market volatility, semiconductors, geopolitical risk"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-05-20",
+      "Time": "15:22:44",
+      "Source": "Yahoo Finance",
+      "Title": "Analysts Express Optimism on Amazon (AMZN) Amid AWS and AI Growth",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/analysts-express-optimism-amazon-amzn-072244637.html",
+      "Content": "Paul Marshall and Ian Wace rank among the richest hedge fund managers in the world . Accounting for a 2.52% share ($2.76 billion) in the portfolio, Amazon.com, Inc. (NASDAQ: AMZN ) ranks as Marshall Wace’s top stock pick.\n\nOn May 13, Wolfe Research published its internet sector study, which included Amazon.com, Inc. (NASDAQ:AMZN) among its top picks. Wolfe forecasts that AWS acceleration will boost sales and EBITDA expectations, with the firm expecting AWS revenue growth in Q2 in the low-to-mid 30% range, vs the average expectation of 31%, citing gains from Anthropic, OpenAI, capacity expansion, and organic mid-teens percentage increases.\n\nThe firm additionally projects that Amazon.com, Inc. (NASDAQ:AMZN) should keep its share of the retail market, with potential operational income gains from marketing revenue growth, localization benefits, a move to third-party vendors, and incremental automation.\n\nMeanwhile, on May 14, analyst Justin Post of BofA Securities reaffirmed a Buy rating for AMZN shares, with a price objective of $310. The analyst emphasized Amazon’s new Alexa for Shopping, which combines Rufus’ extensive product knowledge with Alexa+’s customized intelligence to create an integrated AI shopping assistant. Early data indicates that Alexa+ users engage twice as frequently and make three times as many on-device transactions, while Rufus users are 60% more likely to make the switch.\n\nAccording to the analyst, Amazon.com, Inc. (NASDAQ:AMZN) reported $12 billion in additional GMV from Rufus in 2025, which is only around 1% of global GMV based on BofA projections, indicating a substantial runway for AI-fueled sales.\n\nAmazon.com, Inc. (NASDAQ:AMZN) is an American technology company that focuses on e-commerce, cloud computing, and other services, including digital streaming and artificial intelligence solutions.\n\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .",
+      "Language": "en"
     },
     {
       "Ticker": "TSM",
