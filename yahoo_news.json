@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-20T07:44:40.647Z",
-  "total_news_count": 697,
+  "last_updated": "2026-05-20T08:00:55.982Z",
+  "total_news_count": 699,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-20",
+      "Time": "15:41:37",
+      "Source": "Yahoo Finance",
+      "Title": "As stocks slump, cue Nvidia",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/stocks-slump-cue-nvidia-074137635.html",
+      "Content": "(Corrects paragraph 10 to say BoE kept interest rates on hold at its last meeting)\n\nA look at the day ahead in European and global markets from Kevin Buckland\n\nAs if ‌markets haven't been volatile enough, highly anticipated Nvidia earnings today could swing shares of the world's ‌most valuable company by $350 billion in either direction, based on options pricing.\n\nMore from Yahoo Scout\n\nWhat key economic data releases are markets watching?\n\nHow could Nvidia earnings impact global market volatility?\n\nWhat competitive challenges is Nvidia facing in AI?\n\nHow are geopolitical tensions affecting global markets?\n\nAnalysts predict another blockbuster report from the chipmaker at the centre ​of the global AI frenzy, but a key question will be whether Nvidia can remain dominant amid an evolution in how semiconductors are used - from training AI systems to running them.\n\nTraditional rivals Intel and AMD, as well as Google-owner Alphabet, are emerging as challengers in so-called inference chips.\n\nAnd Nvidia reports its first quarter at a fragile ‌time for markets: equities are being battered ⁠by a flare-up in inflation fears as the Iran war stokes higher oil prices, leading to worries about higher global interest rates and pushing bond yields worldwide to ⁠multi-year peaks.\n\nStocks are slumping around Asia and European equity futures are pointing lower, following declines for Wall Street overnight.\n\nPresident Donald Trump said on Tuesday that the U.S. may need to strike Iran again and that he had been ​an hour ​away from ordering an attack before postponing it after ​receiving an Iranian peace proposal.\n\nThe gears of geopolitics ‌are in motion across the globe, with Chinese President Xi Jinping hosting \"old friend\" Vladimir Putin, the Russian leader, less than a week after welcoming Trump, and Japanese Prime Minister Sanae Takaichi wrapping up a summit visit to Seoul on Wednesday.\n\nIn Europe, Indian leader Narendra Modi is in Rome, and Hungary's Peter Magyar goes to Poland in his first official trip abroad as prime minister, as he steers his country back toward the ‌European mainstream.\n\nBank of England policymakers, including Governor Andrew Bailey, speak ​to the Treasury Committee on topics such as the decision last ​month to keep rates on hold and ​the impact from the Iran war, with UK April CPI also due.\n\nThe U.S. Federal ‌Reserve releases minutes from April's meeting, when the ​board kept rates steady amid ​the biggest split since 1992, with one dissenter wanting a cut and - at the other end of the spectrum - three others pushing to excise dovish wording from the statement.\n\nMarkets are looking to ​incoming Fed Chair Kevin Warsh for guidance ‌on the path forward for both monetary policy and central bank independence.\n\nKey developments that could ​influence markets on Wednesday:\n\nStory Continues\n\n-Nvidia Q1 earnings\n\n-Fed minutes\n\n-UK CPI and PPI; Germany PPI; Euro area final ​HICP (all April)\n\n(Reporting by Kevin Buckland; Editing by Kate Mayberry)",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-05-20",
@@ -13,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, GOOGL",
+      "Ticker": "NVDA",
+      "Date": "2026-05-20",
+      "Time": "15:22:21",
+      "Source": "Yahoo Finance",
+      "Title": "UBS Raises Target on NVIDIA (NVDA) Ahead of Strong Revenue Forecast",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-target-nvidia-nvda-072221072.html",
+      "Content": "Ken Griffin ranks among the list of the richest hedge fund managers in the world . NVIDIA Corporation (NASDAQ: NVDA ) is Ken Griffin’s largest holding, accounting for 0.6% ($4.02 billion) of the billionaire’s total portfolio.\n\nOn May 14, UBS boosted its price target for NVIDIA Corporation (NASDAQ:NVDA) to $275 from $245, retaining a Buy rating on the company’s stock. The firm forecasts NVIDIA’s first-quarter revenue at about $81 billion, a $3 billion increase over the midrange $78 billion forecast.\n\nAccording to UBS, Rubin chip and computing board manufacturing is on pace to begin this quarter, although some optimization on rack-level cooling concerns appears to be postponing bulk production for racks into September/October. The firm stated that this shouldn’t pose a problem, given that demand for Blackwell remains high.\n\nThe firm also identified capital return, which includes both share repurchases and a possible dividend increase, as a key factor to watch this quarter.\n\nOn the same day, Cantor Fitzgerald maintained its Overweight rating on NVIDIA Corporation (NASDAQ:NVDA) and increased its price target to $350 from $300, with the firm citing forecasts for the company’s earnings potential in 2027.\n\nNVIDIA Corporation (NASDAQ:NVDA) is a fabless semiconductor and AI computing company that designs GPUs, AI accelerators, Application Programming Interfaces (APIs), and system-on-a-chip units. Through its CUDA ecosystem, the company enables industries ranging from autonomous vehicles to scientific research by advancing AI, accelerated computing, and data center infrastructure.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, MU, MSFT, GOOGL",
       "Date": "2026-05-20",
       "Time": "15:22:00",
       "Source": "Yahoo Finance",
@@ -43,7 +63,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-20",
       "Time": "14:50:00",
       "Source": "Yahoo Finance",
