@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-05-20T08:44:05.593Z",
-  "total_news_count": 707,
+  "last_updated": "2026-05-20T09:00:55.104Z",
+  "total_news_count": 709,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-20",
+      "Time": "16:47:00",
+      "Source": "Yahoo Finance",
+      "Title": "3 Stocks to Take Advantage of the $72 Billion Quantum Computing Industry",
+      "URL": "https://finance.yahoo.com/m/bdc81b64-b785-30b1-afd6-3de5cf6ee5eb/3-stocks-to-take-advantage-of.html",
+      "Content": "Quantum computing hasn't hit the mainstream yet, but it's coming. Several companies are excited about the prospects of quantum computing and how it can transform how we do business.\n\nMcKinsey & Company estimates that the quantum computing market could be worth up to $72 billion annually by 2035. That's a major market opportunity to capture. There are several competitors in this space, but I think three stocks are primed to do well. If you're looking to get started investing in quantum computing, I think these three make for an excellent core to build a section of your portfolio around.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nIonQ\n\nThe biggest problem with quantum computing right now is inaccuracy. Quantum computers use particles to perform computations, and measuring what's happening at the atomic level is difficult in the presence of significant background noise. So inaccuracies can easily enter a calculation. Every company in the quantum computing space is trying to solve this problem, but nobody has technology as accurate as IonQ (NYSE: IONQ) . While most companies struggle to reach 99.9% accuracy, IonQ has already achieved 99.99%.\n\nAs computing systems get larger, errors can compound. As a result, many available quantum computing devices are relatively small and cannot handle large workloads. However, IonQ is building a 256-qubit quantum computer using the same technology that enabled 99.99% accuracy. If this computer is successful, it puts IonQ on the fast track to becoming one of the top quantum computing investments .\n\nAlphabet\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) is one of the legacy tech companies competing in quantum computing, and it has announced several breakthroughs. Alphabet is self-funding its quantum research, unlike others that must raise capital from the public markets. If it can develop a viable quantum computer, it already has the infrastructure set up to monetize it via Google Cloud.\n\nThis makes Alphabet a safe bet, as even if its quantum chip fails to gain traction, it could still fill its data center with computers from IonQ and make money renting out its capabilities to clients via the cloud. That makes Alphabet a no-brainer investment in this space.\n\nNvidia\n\nLast is Nvidia (NASDAQ: NVDA) , which is solely focused on traditional computing units. However, it recognizes that quantum computing will affect the future, so it's doing several things to ensure that its computing units are used in the process. Nvidia believes that future computing will be a hybrid of traditional and quantum methods. This hybrid approach will require existing computing infrastructure, which is dominated by Nvidia graphics processing units (GPUs).\n\nStory Continues\n\nIn order to stay on top, Nvidia has tweaked its leading CUDA software to include quantum functions and renamed it CUDA-Q. It has also developed a generative artificial intelligence (AI) model to help with error correction, further advancing many companies' accuracy scores. It has also created NVQLink, which allows quantum computers to plug into existing computing networks.\n\nAll of this showcases that Nvidia is looking to bridge the gap between traditional and quantum computing methods. This is a great place to be, and Nvidia will still be a great investment even after the AI build-out is over and quantum computing hits the mainstream.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-05-20",
+      "Time": "16:07:02",
+      "Source": "Yahoo Finance",
+      "Title": "Tech leaders favoured by hedge funds last month, Hazeltree says",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tech-leaders-favoured-hedge-funds-080702489.html",
+      "Content": "LONDON, May 20 (Reuters) - Hedge funds stuck to their holdings in companies with ‌strong fundamentals in April, particularly technology ‌and semiconductor stocks, according to a report on Wednesday ​from data platform Hazeltree, in a month when the S&P 500 jumped over 10%.\n\nHere are the details about hedge fund positioning ‌in April:\n\nMore from Yahoo Scout\n\nWhich mega-cap stocks saw increased hedge fund interest?\n\nHow did hedge funds position in semiconductor stocks?\n\nWhat was the crowding pattern in semiconductor investments?\n\nHow did S&P 500 performance influence hedge fund holdings?\n\n• Among ⁠mega-cap stocks, Meta and Amazon.com experienced more than a 5% month-over-month increase ⁠in the number of funds holding long positions, Hazeltree said\n\n• Nvidia experienced a 4.5% ​decline, but ​remained a favourite ​long in the ‌semiconductor sector\n\n• The share of companies in the Philadelphia Semiconductor Index in which hedge funds hold net long positions rose to 57% in April from 53% in March\n\n• Crowding ‌in the U.S. semiconductor ​sector remained most pronounced ​on the long ​side in Nvidia, followed by ‌Broadcom and Lam Research\n\n• ​On the short ​side, ON Semiconductor was the most crowded name, followed by Microchip Technology and ​Monolithic Power ‌Systems\n\n(Reporting by Samuel Indyk; additional reporting ​by Nell Mackenzie; Editing by Amanda ​Cooper and Barbara Lewis)",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-05-20",
