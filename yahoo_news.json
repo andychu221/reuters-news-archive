@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-20T12:32:17.872Z",
-  "total_news_count": 754,
+  "last_updated": "2026-05-20T12:38:04.083Z",
+  "total_news_count": 755,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-05-20",
+      "Time": "20:26:10",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell Jumps 7% as Evercore ISI and Melius Both Raise Targets",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/marvell-jumps-7-evercore-isi-122610387.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology ( NASDAQ:MRVL ) jumped 7.10% intraday after Evercore ISI raised its price target to $155 from $133, maintaining an Outperform rating. However, the new target falls just below the current price of $180.95.\n\nMelius Research separately raised its target to $220 from $140, with its analyst noting that Trump's China trip produced no significant positive catalyst for the sector. The raise reflects conviction in the AI chip demand cycle rather than any near-term trade development. Both calls center on Marvell's positioning in custom AI silicon and data center networking as the primary driver.\n\nMarvell designs custom ASICs for hyperscaler customers and holds a growing presence in coherent optical and networking chips that sit at the infrastructure layer of AI training and inference. The stock has more than doubled year to date as custom silicon demand from cloud providers has accelerated faster than most analysts expected entering 2026.",
+      "Language": "en"
+    },
     {
       "Ticker": "LRCX",
       "Date": "2026-05-20",
