@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T10:38:03.164Z",
+  "last_updated": "2026-05-20T10:40:31.608Z",
   "total_news_count": 730,
   "news": [
     {
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "GOOGL, INTC",
       "Date": "2026-05-20",
       "Time": "18:05:00",
       "Source": "Yahoo Finance",
@@ -63,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "META, GOOGL, AMZN, INTC",
       "Date": "2026-05-20",
       "Time": "17:11:31",
       "Source": "Yahoo Finance",
