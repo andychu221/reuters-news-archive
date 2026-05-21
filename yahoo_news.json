@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T08:13:15.908Z",
+  "last_updated": "2026-05-21T08:15:18.086Z",
   "total_news_count": 978,
   "news": [
     {
@@ -221,18 +221,14 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "TSM, NVDA, AMD",
       "Date": "2026-05-21",
       "Time": "14:05:08",
       "Source": "Yahoo Finance",
       "Title": "AMD plans to invest over $10 billion across Taiwan's AI sector",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/amd-says-invest-over-10-060508010.html",
-      "Content": "May 21 (Reuters) - Advanced Micro Devices said on Thursday it would invest more than $10 billion in Taiwan's ‌AI sector to deepen strategic partnerships and boost its ‌capacity ...",
-      "Language": "en",
-      "AI_Summary": "• Advanced Micro Devices (AMD) plans to invest over $10 billion in Taiwan's AI sector to strengthen partnerships and boost AI chip capacity.\n• AMD is seen as a key challenger to Nvidia's dominance in the AI chip market.\n• The investment will focus on developing power-efficient technology for AI systems and processors, collaborating with Taiwanese firms like ASE and SPIL.\n• AMD's new Venice CPUs will utilize TSMC's advanced 2nm process technology.\n• This strategic move aims to leverage Taiwan's pivotal role in the global AI supply chain, anchored by TSMC.",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "AI sector investment, strategic partnerships, chip capacity, supply chain, advanced technology"
+      "Content": "May 21 (Reuters) - Advanced Micro Devices said on Thursday it would invest more than $10 billion in Taiwan's ‌AI sector to deepen strategic partnerships and boost its ‌capacity to build and assemble advanced AI chips.\n\nAnalysts and investors see AMD ​as a leading challenger to Nvidia 's dominance in the AI chip market.\n\nMore from Yahoo Scout\n\nWhich Taiwanese companies will AMD collaborate with for AI chips?\n\nWhat role does Taiwan play in the global AI supply chain?\n\nHow will AMD's Venice CPUs compete with Nvidia's dominance?\n\nWhy is AMD investing $10 billion in Taiwan's AI sector?\n\nHere are some details:\n\n• The U.S. chipmaker said it will collaborate with Taiwanese chip packaging and testing provider ASE ‌and its unit SPIL ⁠to develop more power-efficient technology for AI systems and processors.\n\n• The new power-efficient technology will support ⁠AMD's Venice CPUs, which are being built on Taiwan Semiconductor Manufacturing Co's (TSMC) advanced 2 nanometer process technology.\n\n• AMD said it ​was also ​working with Taiwanese partners including ​PTI, Sanmina, Wiwynn, Wistron ‌and Inventec.\n\n• \"As AI adoption accelerates, our global customers are rapidly scaling AI infrastructure to meet growing compute demand,\" AMD CEO Lisa Su said.\n\n• \"By combining AMD leadership in high-performance computing with the Taiwan ecosystem and our strategic global partners, we are ‌enabling integrated, rack-scale AI infrastructure ​that helps customers accelerate deployment of ​next-generation AI systems,\" she ​added.\n\n• Taiwan plays a pivotal role in the ‌global AI supply chain for ​companies including Nvidia ​and Apple . Its position is anchored by the world's largest contract chipmaker, TSMC.\n\n• In a separate statement, AMD ​also said that ‌it had started ramping up production of the Venice ​CPUs.\n\n(Reporting by Ananya Palyekar in Bengaluru; Editing by ​Mrigank Dhaniwala and Sherry Jacob-Phillips)",
+      "Language": "en"
     },
     {
       "Ticker": "AMD",
