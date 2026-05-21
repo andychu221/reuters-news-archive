@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-21T12:15:52.900Z",
-  "total_news_count": 1035,
+  "last_updated": "2026-05-21T12:32:03.275Z",
+  "total_news_count": 1036,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-05-21",
+      "Time": "20:09:11",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia CPU comments read positively for this chip stock: analyst",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-cpu-comments-read-positively-120911278.html",
+      "Content": "Investing.com -- Nvidia’s bullish comments on its Arm-based Vera CPU business are a positive signal for Arm , Jefferies said Wednesday, reiterating its Buy rating and $290 price target on the stock.\n\nOn its earnings call, Nvidia said it now has visibility for $20 billion of revenues this year from standalone Arm-based Vera CPUs, and that the chip opens up a brand new $200 billion total addressable market.\n\nJefferies analyst Janardan Menon said the figures point to a stronger royalty outlook for Arm and signal broader demand for Arm-based processors across the data centre.\n\n\"Nvidia has visibility for $20bn of standalone Vera CPU sales this year, which is positive for Arm’s royalty outlook,\" he said in a note.\n\nArm recently reached a 50% share of the hyperscaler CPU market, driven by the success of its Grace chip within Grace-Blackwell deployments, alongside existing Graviton-centric market share.\n\nMenon argued that Vera-Rubin deployments starting this year, combined with standalone Vera CPU shipments and continued growth in Graviton and Axion, should help push that share closer to 60% in the coming years.\n\nWhile the royalty rate on the Vera is estimated to be lower than on Grace, Menon said higher volumes should more than compensate, with data centre CPU royalty strength expected to \"offset any weakness on the smartphone side, leading to royalty growth or around 20% this year, in-line with guidance.\"\n\nThe more significant implication of Nvidia’s comments, in Menon’s view, is what they signal for Arm’s longer-term AGI CPU opportunity.\n\n\"We believe the current guidance from Arm for AGI CPU revenue to rise from $1bn in FY28 to $15bn in FY31 is likely to prove conservative,\" he wrote, adding that the TAM may be closer to $200 billion by FY31 than the $100 billion-plus figure Arm cited at its Everywhere event.\n\nJefferies forecasts $1.4 billion of AGI CPU revenue for Arm in FY28, ahead of company’s guidance of $1 billion.\n\nThe investment thesis from here, Menon argued, is more linked to the AGI CPU outlook than to royalties and licensing. \"We remain positive on Arm, with the market likely to price in the AGI CPU upside sooner rather than later,\" he said.\n\nNvidia CPU comments read positively for this chip stock: analyst\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-05-21",
