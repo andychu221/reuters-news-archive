@@ -1,9 +1,29 @@
 {
-  "last_updated": "2026-05-21T19:00:54.752Z",
-  "total_news_count": 1150,
+  "last_updated": "2026-05-21T19:15:36.355Z",
+  "total_news_count": 1152,
   "news": [
     {
-      "Ticker": "AMD, AVGO",
+      "Ticker": "TSLA",
+      "Date": "2026-05-22",
+      "Time": "03:10:08",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Stock Rises as China Finally Gets Musk's Self-Driving Push",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-china-finally-191008294.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) said its Full Self-Driving Supervised software is now available in China, opening the driver-assistance system to a major auto market.\n\nThe rollout follows earlier restrictions in China, where regulators have required local data storage and pushed Tesla to change the product's name in past versions. Tesla released its latest FSD version last month and has been expanding access outside the U.S. China is Tesla's second-largest market.\n\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe timing comes about a week after President Donald Trump's visit to China, which included CEO Elon Musk in the delegation. Tesla also faces tougher competition from Xiaomi, XPeng, Nio and BYD, all of which are pushing driver-assistance features in the market. Tesla sales in China have softened amid competition, with retail sales down 15% through April, while exports from the Shanghai plant have helped offset some of the pressure.\n\nTesla shares rose 2% in Thursday morning trading. The stock had climbed 3% on Wednesday and was back above its 200-day moving average again.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-05-22",
+      "Time": "03:07:18",
+      "Source": "Yahoo Finance",
+      "Title": "Amkor working with AMD on advanced packaging after acquiring more land in Arizona",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amkor-working-amd-advanced-packaging-190718157.html",
+      "Content": "By Stephen Nellis\n\nSAN FRANCISCO, May 21 (Reuters) - Amkor Technology is working with Advanced Micro Devices on packaging AMD's chips, ‌Amkor said on Thursday.\n\nEarlier this week, Amkor said it ‌had secured 67 additional acres of land in Arizona next to a 104-acre ​parcel where it is developing a new campus where it plans to start production in 2028.\n\nMore from Yahoo Scout\n\nWhat is Amkor's partnership with AMD about?\n\nHow is Amkor expanding its Arizona operations?\n\nHow is Amkor moving up the packaging value chain?\n\nWhat are Amkor's revenue projections through 2030?\n\nModern data center chips such as those from AMD and Nvidia consist of multiple chips packaged together, and ‌those packaging steps have ⁠become a key bottleneck in chip production.\n\nAmkor once specialized in less-complex chip packaging but is working to ⁠move into more advanced versions of the technology, including through a partnership with Taiwan Semiconductor Manufacturing where Amkor will use some of ​TSMC's ​technology at a facility in Arizona ​to offer some of ‌TSMC's older technologies to joint customers.\n\nWhile Amkor has previously disclosed planned work with Nvidia and Apple at the Arizona facility, Amkor CEO Kevin Engel told Reuters that the company is also working with AMD.\n\n\"We're moving up the value chain,\" Engel said. \"We're more integrated ‌with the customers, and that's really ​changing the dynamic to where we can ​extract more value out ​of our services.\"\n\nAt an investor event on Thursday, ‌Amkor said it expects to ​have between $8.5 billion ​and $9.5 billion of revenue by 2028 and $11 billion in sales by 2030.\n\nThe $9 billion midpoint of the 2028 forecast was slightly ​below analyst estimates ‌of $9.1 billion, according to data from LSEG. Amkor shares declined ​2.6% after the forecast.\n\n(Reporting by Stephen Nellis in San ​Francisco; Editing by Mark Porter)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, AMD, AVGO",
       "Date": "2026-05-22",
       "Time": "02:47:12",
       "Source": "Yahoo Finance",
