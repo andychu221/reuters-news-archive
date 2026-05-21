@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-21T12:32:03.275Z",
-  "total_news_count": 1036,
+  "last_updated": "2026-05-21T12:40:32.192Z",
+  "total_news_count": 1037,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-05-21",
+      "Time": "20:13:08",
+      "Source": "Yahoo Finance",
+      "Title": "Meta's $200 Billion AI Bet Puts Investors On Alert",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/metas-200-billion-ai-bet-121308275.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) is pushing one of the biggest AI infrastructure bets yet with Hyperion, its massive Louisiana data center project that could reshape how investors think about the company's capital spending cycle. The project, located in Richland Parish, is expected to cost Meta more than $200 billion and reach 5 gigawatts of compute capacity, roughly matching the electricity New York City uses on a winter day. The ambition is hard to miss: Meta is trying to secure the land, power, chips and infrastructure needed to compete more aggressively in AI, even as shareholders have already shown uneasiness after the company detailed plans to spend as much as $145 billion on capital projects this year alone.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe structure of the deal also matters. Meta helped assemble a major private-capital financing vehicle that leaves the company with a 20% stake in the campus, while Blue Owl Capital owns the rest, backed by $27 billion in debt from asset managers including Pacific Investment Management Co. That setup keeps the debt off Meta's balance sheet, but Meta still plans to buy and own the chips, whose cost could run into the tens of billions of dollars. The company has promised 300 full-time jobs by 2031 and 500 by 2035, while also potentially qualifying for property-tax reductions of as much as 80% if it meets job and investment targets.\n\nFor investors, Hyperion could be a powerful signal of Meta's willingness to spend through the AI cycle, but it also raises the pressure on returns. The project may give Meta more control over future compute capacity, yet the risks are not small: semiconductor equipment may need replacement every few years, local pushback is building around tax breaks, water usage, housing costs and construction disruption, and the broader AI investment boom still depends on whether future demand can justify today's spending. Richland Parish may be getting the kind of industrial lifeline it has sought for decades, but for Meta shareholders, the key question is whether this enormous buildout becomes a durable AI advantage or a costly reminder that the infrastructure race is moving faster than investor confidence.",
+      "Language": "en"
+    },
     {
       "Ticker": "ARM",
       "Date": "2026-05-21",
