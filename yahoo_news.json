@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-22T20:00:44.520Z",
-  "total_news_count": 400,
+  "last_updated": "2026-05-22T20:15:21.729Z",
+  "total_news_count": 401,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-23",
+      "Time": "03:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Nuclear Stock Face-Off: Is NuScale or BWX Technologies the Better Buy Right Now?",
+      "URL": "https://finance.yahoo.com/m/86938edd-26e8-3e95-a975-e1de6bc85682/nuclear-stock-face-off%3A-is.html",
+      "Content": "The nuclear energy market cooled off for about a decade after the 2011 Fukushima disaster prompted many countries to pause their nuclear projects. But over the past few years, the rapid expansion of the power-hungry artificial intelligencee ( AI ) and data center markets -- along with the rollout of safer, more efficient reactors -- has sparked renewed interest in nuclear power .\n\nNuScale (NYSE: SMR) and BWX Technologies (NYSE: BWXT) represent two different ways to profit from that trend. NuScale develops small modular reactors (SMRs) for constructing smaller nuclear power plants in remote areas. BWX is the only large-scale producer of specialized nuclear components, fuel systems, and naval reactor systems in North America.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nYet over the past 12 months, NuScale's stock plunged by more than 50%, while BWX's stock surged nearly 90%. Let's see why BWX crushed NuScale, and if it will remain the better nuclear stock.\n\nNuScale's growth trajectory is speculative\n\nNuScale's SMRs can be installed in vessels that are only 65 feet tall and nine feet wide, and they're prefabricated and assembled on-site. Its SMR generates only 77 MWe on its own, while conventional nuclear reactors typically generate more than 1,000 MWe. However, those SMRs can be deployed modularly to build larger plants in remote areas.\n\nNuScale is currently working with Fluor (NYSE: FLR) to deploy six of its 77 MWe reactors to build a 462 MWe plant for Romania's RoPower. However, it doesn't expect those reactors to come online until 2030 at the earliest. NuScale also plans to deploy up to six gigawatts of its SMR capacity across seven states for the Tennessee Valley Authority (TVA) in the U.S. Still, it won't activate those first reactors until the early 2030s.\n\nUntil those commercial reactors are deployed, NuScale will generate most of its revenue from front-end engineering and design (FEED) studies, licensing fees, and consulting work. From 2025 to 2028, analysts expect its revenue to grow from $31.5 million to $310.7 million as it locks in more contracts, but they expect its bottom line to stay in the red for the foreseeable future.\n\nThat growth trajectory looks explosive, but it's also speculative. With a market cap of $3.92 billion, it's already trading at 13 times 2028 sales -- so any unexpected setbacks or delays could crush its stock. It will also face more competitors in the SMR market, including BWX, over the next few years. That might be why Fluor, which owned more than half of NuScale's shares before its public debut, recently liquidated that entire position.\n\nStory Continues\n\nBWX's growth potential is clearer\n\nIn addition to being the top producer of specialized nuclear components in North America, BWX is one of the only companies authorized to handle regulated nuclear materials, work with high-assay enriched uranium (HALEU) and tri-structural isotropic (TRISO) fuel, and manufacture naval reactor components for the U.S. Navy. Its heavy exposure to the naval defense market also insulated it from the post-Fukushima slowdown in nuclear spending.\n\nBWX's scale and moat make it a linchpin of the nuclear energy market. But it's also developing microreactors -- even smaller than SMRs, with an energy output of 1.5 MWe -- for Project Pele, one of the most important U.S. advanced nuclear programs. Microreactors can also be deployed together to build nuclear power plants in remote and underserved areas.\n\nBWX's year-end backlog grew 50% year over year to $7.3 billion in 2025. That expansion was driven by more orders for naval propulsion components for submarines, commercial nuclear power components, and the gradual expansion of its microreactor business.\n\nFrom 2025 to 2028, analysts expect BWX's revenue and EPS to grow at CAGRs of 13% and 17%, respectively. Its stock isn't a bargain at 40 times next year's earnings, but its core strengths could justify that premium valuation.\n\nThe better buy: BWX Technologies\n\nNuScale might grow much larger once it deploys its first commercial SMRs. Unfortunately, it probably won't attract more attention as long as elevated Treasury yields and other macro headwinds drive investors away from speculative stocks. Therefore, it's still smarter to stick with BWX -- the established bellwether of the nuclear market -- in this choppy and unpredictable market.",
+      "Language": "en"
+    },
     {
       "Ticker": "AVGO, MU",
       "Date": "2026-05-23",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, MSFT",
+      "Ticker": "INTC, META, MSFT",
       "Date": "2026-05-23",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
