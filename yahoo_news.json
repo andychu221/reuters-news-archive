@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-23T16:40:22.511Z",
-  "total_news_count": 498,
+  "last_updated": "2026-05-23T17:01:22.989Z",
+  "total_news_count": 499,
   "news": [
     {
-      "Ticker": "GOOGL",
+      "Ticker": "NVDA, AVGO, GOOGL",
       "Date": "2026-05-24",
       "Time": "00:35:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "NVDA, MSFT",
       "Date": "2026-05-24",
       "Time": "00:23:00",
       "Source": "Yahoo Finance",
@@ -23,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, AMD, AVGO",
+      "Date": "2026-05-24",
+      "Time": "00:19:00",
+      "Source": "Yahoo Finance",
+      "Title": "This Artificial Intelligence (AI) Stock Will Beat Nvidia, AMD, Broadcom, and Intel to Become the Biggest Winner in AI Inference",
+      "URL": "https://finance.yahoo.com/m/995b248b-a125-3b56-8183-747649db071c/this-artificial-intelligence.html",
+      "Content": "Consulting giant Deloitte noted in November last year that inference workloads will be the next big thing in artificial intelligence (AI) in 2026. According to Deloitte, inference will account for two-thirds of AI computing power this year, up from 50% in 2025.\n\nDeloitte estimates the market for inference-focused AI chips could reach $50 billion this year. McKinsey, on the other hand, estimates that AI inference workloads in data centers could jump from almost 21 gigawatts (GW) last year to 93 GW in 2030, clocking a compound annual growth rate (CAGR) of 35%.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nNot surprisingly, there is a race among AI chipmakers to make inference-focused processors to capitalize on this lucrative growth opportunity. From Nvidia (NASDAQ: NVDA) to Advanced Micro Devices to Broadcom to Intel , everyone is trying to make the most efficient chips that can run AI inference applications cost-effectively in data centers and at the edge.\n\nHowever, I believe that these semiconductor companies will be beaten by Arm Holdings (NASDAQ: ARM) in the inference era. Let's look at the reasons why.\n\nArm Holdings is a top pick-and-shovel AI inference play\n\nAI inference isn't as compute intensive as the training phase. In fact, AI inference can be performed even by a central processing unit (CPU) in both data centers and on edge devices running inference workloads locally. Arm Holdings' focus on offering energy-efficient chip designs, which help chip designers make power-efficient chips with solid performance, has made the British company the go-to choice for several consumer electronics companies and chipmakers.\n\nNvidia, for instance, utilizes Arm's architecture for its Grace server CPU. Its latest Vera CPU, which the company will sell as a stand-alone product, is also based on Arm's latest AI-focused design architecture. Nvidia has started delivering its Vera CPUs to Anthropic, SpaceX, Oracle , and OpenAI to support agentic AI applications.\n\nNvidia believes that the Vera CPU could become a $20 billion business for the company this year. Even better, Nvidia sees a $200 billion revenue opportunity in the server market, suggesting that Arm's architecture could witness phenomenal adoption.\n\nOn the other hand, hyperscalers such as Google and Amazon have been turning to Arm's intellectual property (IP) as well to design their in-house CPUs for running AI inference workloads at scale. Even custom AI chip giant Broadcom has a long-standing relationship with Arm. The two companies have reportedly been working with OpenAI as well to develop custom AI processors.\n\nStory Continues\n\nImportantly, Arm's AI reach extends beyond just data centers. The company's architecture is utilized by MediaTek, Qualcomm , and Apple to manufacture smartphone and laptop chips that support AI capabilities. All this tells us that Arm is a top AI pick-and-shovel play that licenses its architecture to multiple companies for running AI workloads across multiple applications, ranging from smartphones to computers to data centers.\n\nWhat's more, Arm's diversified business model should ensure robust long-term revenue and earnings growth.\n\nThe company is poised to become significantly bigger in the next five years\n\nArm receives an upfront licensing fee from companies that use its IP to design chips. In addition, the company receives a royalty on the sale of each chip designed using its architecture. It is worth noting that the royalty rate for the company's AI-focused Armv9 architecture is nearly double that of the previous generation Armv8 architecture.\n\nNot surprisingly, Arm expects its royalty revenue to increase at a CAGR of 20% between fiscal 2026 and 2031. That's well above the 14% annual growth in royalty revenue it has seen over the past five years. And now, Arm's move into developing its own silicon has opened another revenue stream in addition to the licensing and royalty businesses.\n\nThe British tech giant estimates that its own CPU could generate $15 billion in annual revenue in fiscal 2031. In all, Arm is confident of achieving an overall revenue of $25 billion in fiscal 2031, a potential increase of more than 5x when compared to the $4.7 billion revenue it has clocked in the trailing-twelve months.\n\nEven better, Arm estimates that its non-GAAP earnings could exceed $9.00 per share in fiscal 2031, a significant improvement over the $1.77 earnings per share it clocked in fiscal 2026. That would translate into a 39% CAGR over the next five years. So, don't be surprised to see this AI stock soar impressively over the long run due to its solid earnings growth potential that could eclipse some of the biggest names in the semiconductor space.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-24",
       "Time": "00:05:00",
       "Source": "Yahoo Finance",
