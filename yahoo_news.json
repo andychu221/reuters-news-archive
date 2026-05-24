@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-24T15:00:49.334Z",
+  "last_updated": "2026-05-24T15:15:20.870Z",
   "total_news_count": 580,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-24",
       "Time": "22:25:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMZN",
+      "Ticker": "INTC, NVDA, AMZN",
       "Date": "2026-05-24",
       "Time": "22:20:00",
       "Source": "Yahoo Finance",
