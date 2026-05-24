@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-24T22:15:18.666Z",
-  "total_news_count": 603,
+  "last_updated": "2026-05-24T22:40:40.477Z",
+  "total_news_count": 604,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-05-25",
+      "Time": "06:30:00",
+      "Source": "Yahoo Finance",
+      "Title": "2 Quantum Computing Stocks That Are Further Along Than Anyone Is Giving Them Credit For",
+      "URL": "https://finance.yahoo.com/m/13915618-75f0-3a39-a391-96ea7ecef60c/2-quantum-computing-stocks.html",
+      "Content": "Quantum computing promises to be one of the next big things in technology, and that's prompted many growth investors to pile into the industry. But when we think \"next big thing,\" that doesn't necessarily mean tomorrow or even a year or two from now. One thing that's held some investors back from getting in on this high-potential technology is the idea that its usefulness may be many years or even decades away.\n\nEven experts haven't always been certain about when this exciting technology might become part of our daily lives. Early last year, Nvidia chief Jensen Huang said quantum computing was decades away from the point of being very useful. A few months later, Huang said otherwise and even announced the creation of a quantum computing research center. And Microsoft (NASDAQ: MSFT) co-founder Bill Gates said last year that the technology might be ready to solve big problems in three to five years.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe reason it's taking a while for quantum computing to become very useful is due to the complexity of the technology. It involves using qubits for calculations rather than the bits used by classical computers -- and qubits are fragile and often difficult to scale up. But there's reason to be optimistic about the progress of certain companies. In fact, two quantum stocks are further along than anyone is giving them credit for. Let's check them out.\n\n1. Microsoft\n\nYou probably know Microsoft well for its software suite, including popular products like Word and Excel, and you might even be familiar with the company's cloud computing business . These are major engines, driving years of revenue and profit growth -- and this has translated into returns for investors, too, with the stock rising 700% over the past decade.\n\nBut, while Microsoft is a well-established business you can count on, it's also exploring new technologies with the energy of a young start-up. In fact, in quantum computing , it's making major strides and progress that could reduce the time to usefulness. A little over a year ago, Microsoft introduced its Majorana 1 chip -- the big news here is that it uses a type of material, the topoconductor, which can lead to the production of more scalable and reliable qubits.\n\nAs Microsoft says, this architecture may address problems at an industrial scale in just a few years. The company is on track to fit one million qubits on a chip that can fit in your palm.\n\nStory Continues\n\nMeanwhile, Microsoft's financial strength can support the investment needed to reach this and related goals. All of this makes Microsoft the ideal choice for an investor looking for safety along with growth.\n\n2. IonQ\n\nIonQ (NYSE: IONQ) is a pure-play quantum computing company, so it represents more risk than a tech giant like Microsoft. Though the company generates revenue from its quantum systems, it isn't yet profitable on an operational basis and must continue to invest heavily in research and development. But this is pretty standard for a young company specializing in quantum computing.\n\nThis company reached a key milestone last year -- and one that's a record in the performance of quantum systems. IonQ delivered 99.99% two-qubit gate fidelity. What does this mean? IonQ tackled one of the biggest problems facing quantum computing these days, and that's the error rate. \"Two-qubit gate fidelity\" is a measure of accuracy, and reaching almost 100% is a huge accomplishment. So far, IonQ is the only quantum company to attain this accuracy level. IonQ says this sets it on the path to ramp up to millions of qubits by 2030, suggesting that usefulness may be right around the corner.\n\nIonQ is known for its technology of using atoms, transformed into trapped ions, as qubits -- they offer several advantages, including the ability to interact with each other and the fact that they can maintain superposition for quite some time.\n\nThough the quantum computing timeline still isn't certain, IonQ may be further along than anyone is giving it credit for.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA, AMD, AVGO",
       "Date": "2026-05-25",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, TSM, NVDA",
+      "Ticker": "MSFT, GOOGL, AMZN, INTC, TSM, NVDA",
       "Date": "2026-05-25",
       "Time": "05:38:00",
       "Source": "Yahoo Finance",
