@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T00:40:05.508Z",
-  "total_news_count": 613,
+  "last_updated": "2026-05-25T00:43:44.344Z",
+  "total_news_count": 614,
   "news": [
     {
       "Ticker": ".TWII",
@@ -29,6 +29,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "美股,台股,AI產業鏈,半導體,權值股"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-05-25",
+      "Time": "06:40:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》週一因佛誕節(補假)休市一天",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-%E9%80%B1-%E5%9B%A0%E4%BD%9B%E8%AA%95%E7%AF%80-%E8%A3%9C%E5%81%87-%E4%BC%91%E5%B8%82-224000298.html",
+      "Content": "MoneyDJ新聞 2026-05-25 06:40:50 黃文章 發佈\n\n韓股週一（5月25日）因佛誕節(補假)休市一天。\n\n韓股上週五(22日)走勢尚屬穩健。韓國KOSPI指數終場收在7847.71點，上漲32.12點或0.41%；韓國KOSDAQ指數則收在1161.13點，上漲55.16點或4.99%。KOSDAQ指數盤中因急漲觸發「sidecar」機制，一度暫停程式化交易。\n\n盤面上，大型權值股走勢分歧，Samsung Electronics(005930.KS)跌2.34%、SK Hynix(000660.KS)微幅上漲；相較之下，三星電機(009150.KS)與部分電池、電子零組件及生技題材在KOSPI指數內表現強勁，成為指數上漲的代表性推手。\n\n（圖片來源：MoneyDJ理財網資料庫）\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《韓股》KOSPI收漲0.41%，大型權值股走勢分歧\n\n美股焦點：Arthur J. Gallagher(AJG.US) | 03:35:09(GMT+8)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, MSFT",
