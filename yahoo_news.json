@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-05-25T17:00:48.890Z",
-  "total_news_count": 766,
+  "last_updated": "2026-05-25T17:15:46.948Z",
+  "total_news_count": 767,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "GFS",
+      "Date": "2026-05-26",
+      "Time": "00:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "The U.S. Government Is Investing $2 Billion in the Quantum Computing Space, But Did It Miss the Best Stock to Buy?",
+      "URL": "https://finance.yahoo.com/m/bb298b8c-6cd1-3e87-aca5-65986979f092/the-u.s.-government-is.html",
+      "Content": "The U.S. government announced plans to provide over $2 billion in incentives and investments to quantum computing companies under the CHIPS and Science Act, with the Commerce Department also set to take equity stakes in several of them. The Trump administration has been very keen on increasing domestic chip manufacturing, and many of the incentives will go toward quantum computing manufacturing.\n\nThe largest check will be written to a new IBM (NYSE: IBM) start-up called Anderon, which IBM said would be the country's first pure-play quantum foundry. The government will provide $1 billion in incentives, while IBM contributes another $1 billion, along with intellectual property and other assets. GlobalFoundries (NASDAQ: GFS) also signed a letter of intent to receive $375 million in incentives to help expand domestic quantum manufacturing with its new Quantum Technology Solutions business. The Commerce Department will also take about a 1% equity stake in GlobalFoundries.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nSeven other quantum computing companies will also receive equity investments, including Rigetti , D-Wave Quantum , and Infleqtion . Conspicuously absent from the list, though, is IonQ (NYSE: IONQ) , and the government may just have missed out on investing in the best quantum company out there.\n\nThe case for IonQ\n\nIt's quite surprising that the government didn't include IonQ among its investments, especially considering that the company is in the process of acquiring quantum foundry SkyWater Technology (NASDAQ: SKYT) . With the deal, the company is set to become the country's only vertically integrated quantum computing company, which should give it a speed-to-market and eventual scaling advantage.\n\nThat's just an added benefit, though, as the biggest reason to invest in the stock is that the company's technology has proven to be the most accurate. Accuracy is one of the biggest issues facing quantum computing, but with its trapped ion technology, which uses real atoms that are more stable than the fabricated qubits that competitors use, and the use of microwave antennae integrated directly onto chips, the company has been able to jump out to the lead in this area. IonQ has achieved 99.99% two-qubit gate fidelity, which is a record.\n\nEven 99.99% two-qubit gate fidelity is far from accurate enough for quantum computing, but it reaches a level where it becomes feasible to attack error correction with other methods. That's a huge milestone and sets IonQ apart from the rest of the pack.\n\nStory Continues\n\nWhile IonQ shares got a lift on the government's investment in the quantum sector, it was not nearly as much as the pure-play quantum computing stocks in which the government invested. That's a big opportunity to go buy the best of the bunch.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-26",
       "Time": "00:20:00",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-26",
       "Time": "00:20:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, SNDK",
+      "Ticker": "AAPL, NVDA, SNDK",
       "Date": "2026-05-26",
       "Time": "00:10:00",
       "Source": "Yahoo Finance",
