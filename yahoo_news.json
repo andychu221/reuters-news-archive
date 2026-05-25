@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T17:32:11.605Z",
-  "total_news_count": 769,
+  "last_updated": "2026-05-25T17:38:31.354Z",
+  "total_news_count": 770,
   "news": [
     {
       "Ticker": "ARM",
@@ -439,6 +439,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "agentic AI, Gemini models, cost efficiency, ecosystem integration, AI strategy"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-05-25",
+      "Time": "19:00:02",
+      "Source": "Yahoo Finance",
+      "Title": "Option Volatility And Earnings Report For May 25-29",
+      "URL": "https://finance.yahoo.com/m/95d55df1-ec69-3c8c-8996-0f37000f8ca8/option-volatility-and.html",
+      "Content": "Earnings season is winding down, but we still have a couple of big name companies reporting. This week we have Dell Technologies (DELL), Marvell Technology (MRVL), Snowflake (SNOW), Salesforce (CRM) and Costco (COST) all reporting.\n\nBefore a company reports earnings, implied volatility is usually high because the market is unsure about the outcome of the report. Speculators and hedgers create huge demand for the company’s options which increases the implied volatility, and therefore, the price of options.\n\nMore News from Barchart\n\nMicron Stock is Up over 133% From Its Lows - But Is MU Still Undervalued?\n\nNvidia Hikes Its Dividend and Buybacks Based on Surging FCF - Is NVDA Too Cheap?\n\nReal Money Flows + Fed Pause + Seasonal Timing: The AUD Setup Traders Are Watching!\n\nGet exclusive insights with the FREE Barchart Brief newsletter. Subscribe now for quick, incisive midday market analysis you won't find anywhere else.\n\nAfter the earnings announcement, implied volatility usually drops back down to normal levels.\n\nLet’s take a look at the expected range for these stocks. To calculate the expected range, look up the option chain and add together the price of the at-the-money put option and the at-the-money call option. Use the first expiry date after the earnings date. While this approach is not as accurate as a detailed calculation, it does serve as a reasonably accurate estimate.\n\nMonday\n\nMemorial Day Holiday\n\nTuesday\n\nNothing of note\n\nWednesday\n\nMRVL – 13.5%\n\nSNOW – 13.5%\n\nPDD – 6.5%\n\nCRM – 8.7%\n\nSNPS – 8.5%\n\nThursday\n\nDELL – 11.7%\n\nCOST – 3.7%\n\nFriday\n\nOption traders can use these expected moves to structure trades. Bearish traders can look at selling bear call spreads outside the expected range.\n\nBullish traders can sell bull put spreads outside the expected range, or look at naked puts for those with a higher risk tolerance.\n\nNeutral traders can look at iron condors. When trading iron condors over earnings, it is best to keep the short strikes outside the expected range.\n\nWhen trading options over earnings, it is best to stick to risk defined strategies and keep position size small. If the stock makes a larger than expected move and the trade suffers a full loss, it should not have more than a 1-3% effect on your portfolio.\n\nStocks With High Implied Volatility\n\nWe can use Barchart’s Stock Screener to find other stocks with high implied volatility.\n\nLet’s run the stock screener with the following filters:\n\nTotal call volume: Greater than 5,000\n\nMarket Cap: Greater than 40 billion\n\nIV Rank: Greater than 75%\n\nThis screener produces the following results sorted by IV Rank.\n\nStory Continues\n\nYou can refer to this article for details of how to find option trades for this earnings season.\n\nLast Week’s Earnings Moves\n\nBIDU +1.8% vs 7.9% expected\n\nHD +0.9% vs 5.0% expected\n\nNVDA -1.8% vs 7.5% expected\n\nINTU -20.0% vs 8.6% expected\n\nTGT -3.9% vs 8.0% expected\n\nWMT -7.3% vs 5.0% expected\n\nOverall, there were 4 out of 6 that stayed within the expected range. 2 out of moved higher following their announcement.\n\nUnusual Options Activity\n\nTSLA, SMCI, AAPL, NOK, TTWO, MU and RKLB all experienced unusual options activity last week.\n\nOther stocks with unusual options activity are shown below:\n\nPlease remember that options are risky, and investors can lose 100% of their investment. This article is for education purposes only and not a trade recommendation. Remember to always do your own due diligence and consult your financial advisor before making any investment decisions.",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
