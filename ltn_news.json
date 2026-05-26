@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-25T23:46:32.375Z",
-  "total_news_count": 241,
+  "last_updated": "2026-05-26T00:37:21.935Z",
+  "total_news_count": 242,
   "news": [
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-05-26",
+      "Time": "08:15:41",
+      "Source": "自由時報",
+      "Title": "力積電COMPUTEX 展示3D AI Foundry",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5449421",
+      "Content": "〔記者洪友芳／新竹報導〕台北國際電腦展（COMPUTEX 2026）將於 6月2日至6月5日 在台北南港展覽館登場，力積電（6770）規劃在COMPUTEX 以「3D AI Foundry」為主題，展示涵蓋3D WoW DRAM\n\n 堆疊技術，IPD（Si-Cap）、Interposer 等先進封裝關鍵零組件，搭配集團客戶 IP 及產品設計能力，鎖定 AI 運算對超大記憶體容量、高頻寬存取與高穩定電氣特性的需求，展現其在 AI 晶片與 3D WoW 晶片鍵合堆疊的技術實力與代工服務能力。\n\n 力積電表示，隨著AI 模型規模持續擴大，傳統架構面臨的「Memory Wall」與能耗挑戰日益嚴峻，透過 3D AI DRAM 與邏輯晶片整合技術，可有效縮短資料傳輸路徑、提升整體運算效率，並降低系統功耗，為 AI 應用帶來更高效能與更佳能源效率。\n\n 力積電指出，此次展區集結多家合作夥伴共同展出，包括愛普、晶豪科、Zentel Japan、智成與力晶微元等業者，展示 3D WoW 晶圓堆疊 IP 及產品設計方案。\n\n 此外，利翔航太、瑞相 與 智慧記憶 等合作夥伴也同步展示 AI 技術應用於無人機、智慧駕駛與 AI EDA 等應用領域的創新成果，進一步呈現「3D AI Foundry」從晶圓、封裝到終端應用的完整生態系布局。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-05-26",
