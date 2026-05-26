@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T12:01:10.600Z",
+  "last_updated": "2026-05-26T12:16:19.847Z",
   "total_news_count": 963,
   "news": [
     {
@@ -33,7 +33,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-26",
       "Time": "19:20:00",
       "Source": "Yahoo Finance",
@@ -53,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-05-26",
       "Time": "18:50:00",
       "Source": "Yahoo Finance",
@@ -103,7 +103,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "LITE",
+      "Ticker": "INTC, LITE",
       "Date": "2026-05-26",
       "Time": "18:20:00",
       "Source": "Yahoo Finance",
