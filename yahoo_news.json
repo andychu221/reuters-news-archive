@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T08:44:02.784Z",
-  "total_news_count": 1200,
+  "last_updated": "2026-05-27T09:01:23.903Z",
+  "total_news_count": 1201,
   "news": [
     {
       "Ticker": "AMZN",
@@ -13,7 +13,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, AMZN",
+      "Ticker": "NVDA, MU",
+      "Date": "2026-05-27",
+      "Time": "16:12:00",
+      "Source": "Yahoo Finance",
+      "Title": "Why 1 Top Wall Street Analyst Thinks Micron Stock Can Soar Another 85%",
+      "URL": "https://finance.yahoo.com/m/ac9ee5e7-fc48-35b0-90eb-aeecd9cac387/why-1-top-wall-street-analyst.html",
+      "Content": "Micron Technology (NASDAQ: MU) has been one of the biggest winners of the last 12 months. Shares of the memory chip maker have skyrocketed close to 850%. And one top Wall Street analyst thinks Micron has plenty of room to run.\n\nUBS Group (NYSE: UBS) analyst Timothy Arcuri raised his 12-month price target on Micron from $535 to $1,625 on Tuesday. His move sparked a huge rally for the tech stock . But based on Arcuri's price target, Micron could still soar another 85%.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nTrade like Nvidia\n\nArcuri is much more bullish about Micron for one primary reason: He likes the company's long-term agreements with customers. Micron now has enhanced agreements with fixed volume commitments from customers that range from three to five years. Such deals were practically unheard of in the past for memory chip companies, but the market dynamics have changed dramatically thanks to artificial intelligence (AI) demand.\n\nThese long-term agreements provide significant visibility in demand for Micron over the next few years. They should also make the company's earnings less lumpy. Sure, Micron may give up some revenue over the near term with these deals, but Arcuri likes the trade-off.\n\nThe UBS analyst based his $1,625 price target assuming that Micron would generate earnings per share of between $117 and $155 over the next three years. He also expects the stock to trade at around 15 times forward earnings.\n\nHowever, Arcuri believes that there's no reason why Micron shouldn't trade similarly to Nvidia (NASDAQ: NVDA) , which currently sports a forward price-to-earnings multiple of around 24.5. CNBC reported Arcuri as stating, \"The market will start to put a more 'normal' multiple on the stock and MU will continue to rerate higher.\"\n\nUBS isn't the only Wall Street firm that has become more bullish about Micron in recent days. Citigroup (NYSE: C) nearly doubled its price target on the stock last week. However, analysts are having trouble keeping up with Micron's rapid gains. Citi's target of $840 is already below the memory maker's share price.\n\nCan Micron really soar 85% higher?\n\nDespite its impressive returns over the last 12 months, Micron's shares only trade at 7.6 times forward earnings. That's a low multiple, even for a cyclical stock . It doesn't seem farfetched whatsoever that Micron could really soar another 85% higher as UBS projects.\n\nStory Continues\n\nHowever, there's still a risk that such optimism could be unfounded. Should the demand for high bandwidth memory slow, Micron's stock could sink.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, AVGO, GOOGL, AMZN",
       "Date": "2026-05-27",
       "Time": "16:10:00",
       "Source": "Yahoo Finance",
