@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-27T09:01:23.903Z",
-  "total_news_count": 1201,
+  "last_updated": "2026-05-27T09:15:51.129Z",
+  "total_news_count": 1202,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-27",
+      "Time": "16:39:00",
+      "Source": "Yahoo Finance",
+      "Title": "This ETF Is Seeing a Surge of Inflows Right Now: Is It Too Late to Buy In?",
+      "URL": "https://finance.yahoo.com/m/d91e958c-c3b6-3d6b-82af-4c2103120b98/this-etf-is-seeing-a-surge-of.html",
+      "Content": "Memory stocks are red-hot right now, led by juggernauts like Sandisk (NASDAQ: SNDK) , Western Digital (NASDAQ: WDC) , Seagate Technology (NASDAQ: STX) , and Micron Technology (NASDAQ: MU) , which are racking up triple-digit year-to-date returns.\n\nTwo months ago, a new exchange-traded fund (ETF) was launched to tap into the incredible growth from this industry: the Roundhill Memory ETF (NYSEMKT: DRAM) . Investors have certainly taken notice, as the ETF has already amassed $10 billion in assets since its April 2 launch, making it one of the fastest-growing new ETFs ever.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe Roundhill Memory ETF is actively managed, focusing on memory and storage chip companies from around the world, not just the U.S.\n\n\"Memory is a critical bottleneck of the AI [artificial intelligence] revolution, supported by a secular shift toward data-intensive applications and sustained demand growth,\" the ETF fact sheet states. \"DRAM provides investors with global exposure to a targeted basket of leading memory producers, positioned at the center of AI-driven demand for faster, more efficient data processing and storage.\"\n\nRoundhill promotes the DRAM fund as the first pure-play ETF that focuses exclusively on memory chip stocks . But investors should be aware that this popular new ETF is riskier than most.\n\nUp 90% since it launched\n\nThe Roundhill Memory ETF has only been around for about seven weeks, and already it has generated a 90% return, surging to about $52.82 per share as of May 25.\n\nWhen you look at the ETFʻs top holdings, you can see why. Along with the memory stocks mentioned above -- Micron, Sandisk, Western Digital, Seagate -- the portfolio also includes major Korean chipmakers SK Hynix and Samsung Electronics , along with Kioxia from Japan, among others.\n\nThere are only about 12 to 15 holdings in the portfolio, so it is highly concentrated.\n\nThere are certainly some red flags. The narrow focus of Roundhill Memory ETF on not just semiconductors, but a subset within the space, should elicit caution. These stocks will all move in tandem, and right now they are moving aggressively higher. But that won't always be the case.\n\nAnother red flag is that roughly 74% of the portfolio is concentrated in the top three holdings -- SK Hynix, Micron, and Samsung. That's an extremely top-heavy portfolio concentrated in three similar stocks, which makes the portfolio much riskier than the typical diversified ETF -- even a typical semiconductor ETF.\n\nStory Continues\n\nA third caution flag is the use of swap agreements and derivatives to amplify its gains, including a roughly 9% swap agreement in Micron. These derivatives generally carry higher risks than direct investments in a security, so while they may juice returns during a rally, they may increase declines during a downturn.\n\nHighly concentrated and risky\n\nThe good news is that there is a memory stock supercycle right now, where demand is outpacing supply due to the need for storage and memory for the massive AI computing infrastructure being built. That is driving the huge flows. But it will eventually peak, and there will be troughs, and this ETF will go in the other direction, perhaps aggressively so.\n\nSo, while this ETF will produce strong returns with its focus on this growth industry within the AI revolution when markets are up, it will not be without volatility. It helps that it is actively managed, so managers can make adjustments as needed. But it is highly concentrated in a specific area, so there's not going to be much diversification.\n\nSo while it is certainly not too late to invest in this ETF, investors should certainly make sure that the allocation to this concentrated, aggressive growth ETF is relatively small in a well-diversified portfolio.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-05-27",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO, GOOGL, AMZN",
+      "Ticker": "INTC, NVDA, AVGO, GOOGL, AMZN",
       "Date": "2026-05-27",
       "Time": "16:10:00",
       "Source": "Yahoo Finance",
