@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-28T20:01:14.264Z",
-  "total_news_count": 331,
+  "last_updated": "2026-05-28T20:15:32.909Z",
+  "total_news_count": 333,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-29",
+      "Time": "03:56:24",
+      "Source": "Yahoo Finance",
+      "Title": "ByteDance Moves Beyond Intel for AI Expansion",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/bytedance-moves-beyond-intel-ai-195624674.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ) is getting another reminder that big technology customers want more control over their own chips.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nByteDance, the company behind TikTok, is reportedly working on its own CPU chips to support its growing AI needs. The move comes as chip prices rise and delivery times stretch, making it harder for companies to expand data centers quickly.\n\nThe company plans to use the chips in its own servers for internal AI systems and products such as Coze, its AI agent platform. It is also testing two designs, one based on Arm technology and another using the open-source RISC-V system.\n\nFor ByteDance, the reason is simple. If it can make more of its own hardware, it does not have to rely as heavily on suppliers such as Intel.\n\nThat is not great news for Intel. The company is still a major CPU supplier, but more large customers are now exploring custom chips to cut costs, avoid delays and support AI workloads.\n\nFor investors, the concern is whether this trend slowly eats into Intel's long-term server chip demand.\n\nThe next test will be whether ByteDance can move from early chip testing to real deployment inside its data centers.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-05-29",
@@ -10,6 +20,16 @@
       "Title": "Donald Trump Delivers a Blunt Message for Micron Stock Investors",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/donald-trump-delivers-blunt-message-194858987.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) kept surging after President Donald Trump praised the chipmaker at a rally in New York, adding fresh momentum to a stock that has already had a huge run, according to Reuters .\n\nShares have climbed nearly 35% in five days and briefly pushed Micron above a $1 trillion market value for the first time this week. The rally followed UBS's target hike to $1,625 from $535 and reflected growing investor confidence in AI-related memory demand.\n\nWarning! GuruFocus has detected 6 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nTrump told the crowd Micron was great and said the company was investing more than $100 billion in Clay, New York. Micron has said its 2026 high-bandwidth memory supply is fully sold and that next-generation HBM4 production is underway, reinforcing the market's view that AI spending is still running hot.\n\nEven after the rally, Micron still trades at 8.42 times expected earnings over the next 12 months, well below the S&P 500 and Nasdaq 100, Reuters reported. That gap has helped keep bulls focused on whether the memory maker still has room to run.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-05-29",
+      "Time": "03:42:48",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX Investor Says Tesla-SpaceX Merger Is Only A Matter Of Time",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-says-tesla-spacex-194248210.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) could be heading toward one of the most consequential strategic questions in Elon Musk's corporate empire, as early SpaceX investor Peter Diamandis said a post-IPO merger between SpaceX and Tesla may be only a matter of timing. Speaking on Bloomberg Television, Diamandis said he sees the potential combination not as a question of whether it happens, but when, pointing to Musk's possible desire to consolidate control across his companies.\n\nWarning! GuruFocus has detected 9 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe core issue for investors is control. Diamandis argued that a merger could make sense because Musk holds super voting rights at SpaceX, where he had 85.1% control before the IPO filing, but does not have the same structure at publicly traded Tesla. That contrast matters because Musk has faced shareholder challenges at Tesla tied to governance and compensation, while SpaceX is headed for a June IPO that could possibly become the biggest ever.\n\nThe strategic case could stretch beyond governance. A combined company would bring together Tesla's ground-based vehicle fleet with SpaceX's space infrastructure, including Starship, potentially giving Musk the ability to operate across Cybercab robotaxis, Tesla vehicles with compute and power capability, and broader infrastructure on the ground and in space. Bloomberg reported that Musk previously held talks about such a transaction before SpaceX's combination with xAI, while Diamandis said he spoke with Musk broadly about the idea in both January and March.",
       "Language": "en"
     },
     {
