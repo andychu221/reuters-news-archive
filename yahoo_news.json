@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-28T19:40:46.324Z",
-  "total_news_count": 329,
+  "last_updated": "2026-05-28T20:01:14.264Z",
+  "total_news_count": 331,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-05-29",
+      "Time": "03:48:58",
+      "Source": "Yahoo Finance",
+      "Title": "Donald Trump Delivers a Blunt Message for Micron Stock Investors",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/donald-trump-delivers-blunt-message-194858987.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) kept surging after President Donald Trump praised the chipmaker at a rally in New York, adding fresh momentum to a stock that has already had a huge run, according to Reuters .\n\nShares have climbed nearly 35% in five days and briefly pushed Micron above a $1 trillion market value for the first time this week. The rally followed UBS's target hike to $1,625 from $535 and reflected growing investor confidence in AI-related memory demand.\n\nWarning! GuruFocus has detected 6 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nTrump told the crowd Micron was great and said the company was investing more than $100 billion in Clay, New York. Micron has said its 2026 high-bandwidth memory supply is fully sold and that next-generation HBM4 production is underway, reinforcing the market's view that AI spending is still running hot.\n\nEven after the rally, Micron still trades at 8.42 times expected earnings over the next 12 months, well below the S&P 500 and Nasdaq 100, Reuters reported. That gap has helped keep bulls focused on whether the memory maker still has room to run.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-05-29",
@@ -33,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "MU",
+      "Date": "2026-05-29",
+      "Time": "03:26:00",
+      "Source": "Yahoo Finance",
+      "Title": "If You Had Invested $1,000 in Micron 1 Year Ago, Here's How Much You'd Have Now. Is the Stock Still a Buy?",
+      "URL": "https://finance.yahoo.com/m/c9f3b59f-c988-3d5f-ace7-a1aefb7d62dc/if-you-had-invested-%241%2C000-in.html",
+      "Content": "Few investors a year ago would have predicted that Micron Technology (NASDAQ: MU) would deliver one of the U.S. stock market's most extraordinary 12-month runs. The shares traded in the mid-$90s as recently as late May 2025, and memory chips still carried the reputation of being one of the most cyclical corners of the semiconductor industry. A boom-and-bust pattern had defined the business for decades.\n\nBut the 12 months that followed have rewritten that story -- and rewarded shareholders accordingly. A $1,000 investment in Micron in late May, when shares were trading around $95, would have purchased about 10.5 shares. With Micron trading near $910 as of this writing, that position would now be worth approximately $9,500 -- a gain of about 850%. For comparison, the same $1,000 in an S&P 500 index fund over that span would be worth closer to $1,280.\n\nWill AI create the world's first trillionaire? Our team just released a report on a little-known company, called an \"Indispensable Monopoly,\" providing the critical technology Nvidia and Intel both need.\n\nContinue »\n\nSo how did the math get this far? And can Micron stock's run keep going from here?\n\nWhat's behind the surge\n\nThe short answer to why the stock has been going parabolic is that the artificial intelligence (AI) boom has led to an unprecedented surge in demand for Micron's high-bandwidth memory (HBM).\n\nBut let's dig in.\n\nWhen Micron reported its fiscal second quarter of 2026 (the period ended Feb. 26, 2026) in March, the figures looked unlike anything in the company's history. Revenue came in at $23.86 billion, nearly tripling from $8.05 billion in the year-ago period and rising 75% from $13.64 billion in the prior quarter. Net income jumped to $13.79 billion from $1.58 billion. And the company's non-GAAP (adjusted) gross margin expanded to about 75%, up from just 38% a year earlier.\n\nMost of that strength traces back to data-center demand, especially for HBM -- a specialized form of dynamic random-access memory (DRAM) that pairs with the processors at the heart of AI workloads. DRAM revenue overall reached a record $18.8 billion in the fiscal second quarter, accounting for nearly 80% of total sales. Pricing across the industry has climbed sharply because supply has not kept pace.\n\nAnd here's what's wild: Micron seems to only just be getting started. Management guided for fiscal third-quarter revenue of roughly $33.5 billion -- a single-quarter number that, as Micron CEO Sanjay Mehrotra noted on the company's fiscal second-quarter earnings call, \"exceeds the full-year revenue for every year in our company's history through fiscal 2024.\" Or here's another way to look at how incredible this guidance is: At the midpoint, that guidance implies year-over-year growth of about 260%.\n\nStory Continues\n\nManagement has also said that calendar 2026 HBM supply is effectively sold out, including for its HBM4 product.\n\nAnd earlier this year, the company raised its quarterly dividend by 30%, from $0.115 to $0.15 per share.\n\nWhere the stock goes from here\n\nA roughly 850% gain over the past year, of course, tells you that a lot of good news is already baked into the share price. As of this writing, Micron trades at a price-to-earnings ratio in the low 40s -- not unreasonable for a company growing this quickly, but a meaningful step up from the single-digit and low-teens multiples shares have historically commanded near memory-cycle peaks.\n\nA valuation like this arguably presumes that the AI-driven demand environment and the tight supply conditions that have come with it will persist for years to come. Further, investors paying current prices are effectively wagering that the memory cycle has been structurally reshaped -- that hyperscale data-center customers will continue absorbing more high-bandwidth memory and that Micron's pricing power will not roll over even as new fabrication capacity comes online globally.\n\nBut these assumptions run counter to what history has shown us. Memory has historically been among the most cyclical businesses in technology, and the same operating leverage that has driven margins to current highs would work just as forcefully in reverse if pricing softens.\n\nFor investors considering the stock today, exercising caution may make sense. Yes, the business is firing on all cylinders. But Micron stock's move higher has been so extreme that even a modest disappointment in demand or pricing could weigh heavily on shares. Patience -- or at least a small position size if you insist on owning shares -- may serve new buyers better than chasing the rally.",
+      "Language": "en"
+    },
+    {
       "Ticker": "GFS",
       "Date": "2026-05-29",
       "Time": "03:11:01",
@@ -43,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-29",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
