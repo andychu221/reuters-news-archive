@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-28T08:40:35.343Z",
-  "total_news_count": 168,
+  "last_updated": "2026-05-28T08:44:13.792Z",
+  "total_news_count": 179,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-05-28",
+      "Time": "16:25:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "致伸與聯發科合攻機器人商機，COMPUTEX 2026共同展示最新成果",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%87%B4%E4%BC%B8%E8%88%87%E8%81%AF%E7%99%BC%E7%A7%91%E5%90%88%E6%94%BB%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%95%86%E6%A9%9F-computex-2026%E5%85%B1%E5%90%8C%E5%B1%95%E7%A4%BA%E6%9C%80%E6%96%B0%E6%88%90%E6%9E%9C-082559821.html",
+      "Content": "【財訊快報／記者王宜弘報導】致伸(4915)週四(28日)宣布與晶片龍頭聯發科(2454)深化Edge AI戰略合作，於COMPUTEX 2026聯發科展區共同展示智慧機器人最新應用成果。此次以致伸AISF多感測融合技術架構為核心，整合Edge AI、視覺、聲學、人機介面與邊緣運算能力，結合MediaTek Genio物聯網平台，實現感知、運算與決策的端到端整合。\n\n致伸表示，透過雙方技術優勢互補，機器人在不依賴雲端連線的條件下，即可實現低延遲感知、自主互動與即時環境理解，強化智慧機器人於商業與工業場域中的應用潛力。\n\n致伸與聯發科於機器人領域的合作，將聚焦餐飲服務與工廠自動化兩大應用。在餐飲服務中，機器人整合LiDAR、VSLAM與多重AI視覺感測技術，實現窄通道導航、智慧避障與模組化任務載台切換能力，靈活應對複雜動線，大幅提升場域營運彈性與服務效率。\n\n至於在工廠與物流的應用領域中，透過高載重搬運、AI視覺人員跟隨與人機互動等技術，顯著強化自主運輸效率與作業安全性，展現AISF技術在複雜工業環境中的落地實力。",
+      "Language": "zh"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-05-28",
@@ -11,6 +21,26 @@
       "URL": "https://finance.yahoo.com/m/5b2e4f0f-9274-3bc9-8c57-b0d1ab52ff5b/amazon-just-delivered.html",
       "Content": "Amazon (NASDAQ: AMZN) has been one of the early winners of the artificial intelligence (AI) boom, as a user and developer of the technology. Through its e-commerce business, the company has applied AI systems to its fulfillment network to increase speed and efficiency and has been offering AI tools to customers as they shop. At the same time, Amazon Web Services (AWS), the cloud business, designs and sells AI products to its customers.\n\nAll of this is supercharging revenue now, and it may boost profit and lower costs for the company over the long run. So, Amazon has already been benefiting from the AI story, but it's well-positioned to gain in the next chapters too. On top of this, the technology titan recently delivered mind-boggling news to shareholders. Let's check it out.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAmazon's biggest profit driver\n\nAs mentioned, Amazon has two major businesses: e-commerce and cloud computing . Here, I'll focus on the latter as this is where Amazon is likely to excel in the AI market over time. And, importantly, it's also the company's biggest profit driver. In the latest quarter, AWS represented 60% of Amazon's total operating income.\n\nAWS is the world's biggest cloud services provider, offering a broad range of non-AI and AI services. This dominance is a major plus, as customers who already use this cloud provider are likely to stick with it as they enter the era of AI. And Amazon has made AI a key point of focus so that it's ready to address all of these customers' needs.\n\nOne area that stands out in particular is chips. You may think of Nvidia when you think of this business since Nvidia is the market leader. The company makes the world's most sought-after graphics processing units (GPUs), those that have proven themselves to be the fastest around. And customers can turn to AWS for Nvidia systems -- so AWS benefits from Nvidia's growth.\n\nAt the same time, AWS has also been designing its own chips -- both central processing units (CPUs), which are the main processors in computers, as well as a GPU-style chip to power AI. Why is AWS doing this? For a few reasons. First, demand is so high that one company alone probably can't fulfill it. Second, customers have a variety of needs and, in some cases, look for a lower-cost option for certain tasks. Finally, by designing its own chips, AWS can save on capital expenditures. By scaling its Trainium AI chip, for example, the company says it will save tens of billions of capex dollars annually.\n\nStory Continues\n\nA transition is happening\n\nAs if that wasn't enough good news, Amazon offered investors even more during its quarterly earnings report a few weeks ago. A transition is happening right now, with AI shifting to the era of AI agents -- this is the software that actually puts AI to work, as it thinks through problems and carries out tasks. While the training of models relied heavily on GPU-style chips, AI agents also heavily use CPUs.\n\n\"Nobody has a better set of chips across AI and CPU workloads than AWS with Trainium and Graviton, and we are unusually well-positioned for this AI inflection,\" chief Andy Jassy said during the recent earnings call, referring to Amazon's AI chip and CPU, respectively. \"We are in the early stages of the experience.\"\n\nMeanwhile, Amazon also offers Nvidia's top GPUs -- so customers may turn to AWS for all of their AI needs. Since AWS has already delivered a $150 billion annual revenue run rate, the idea that we're in the early part of this growth story is mind-boggling.\n\nOf course, AWS faces competition from other cloud providers, including market giants like Microsoft , as well as smaller, AI-specialized players like CoreWeave . But AWS' well-established offering of house-designed chips, as well as its portfolio of chips from others such as Nvidia, offers it a competitive moat. It would be difficult for others to completely and quickly replicate such a portfolio. All of this is fantastic news for shareholders, suggesting that Amazon may have many quarters of spectacular growth ahead.\n\nWe just issued 'double down' alerts on 3 stocks — find out if Amazon made our list\n\nEver feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $557,318 !*\n\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $58,766 !*\n\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $472,852 !*\n\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\n\nSee the 3 stocks »\n\n*Stock Advisor returns as of May 26, 2026\n\nAdria Cimino has positions in Amazon. The Motley Fool has positions in and recommends Amazon, Microsoft, and Nvidia. The Motley Fool has a disclosure policy .\n\nAmazon Just Delivered Mind-Boggling News to Shareholders was originally published by The Motley Fool\n\nImage source: Getty Images.\n\nImage source: Getty Images. Amazon's biggest profit driver\n\nAt the same time, AWS has also been designing its own chips -- both central processing units (CPUs), which are the main processors in computers, as well as a GPU-style chip to power AI. Why is AWS doing this? For a few reasons. First, demand is so high that one company alone probably can't fulfill it. Second, customers have a variety of needs and, in some cases, look for a lower-cost option for certain tasks. Finally, by designing its own chips, AWS can save on capital expenditures. By scaling its Trainium AI chip, for example, the company says it will save tens of billions of capex dollars annually.<!-- HTML_TAG_EN",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "16:20:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股震盪逾1700點　三大法人終結連5買、齊砍604億元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E9%80%BE1700%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%B5%82%E7%B5%90%E9%80%A35%E8%B2%B7-%E9%BD%8A%E7%A0%8D604%E5%84%84%E5%85%83-082050550.html",
+      "Content": "台股今（27）日上演劇烈震盪，早盤雖開低，但在權值股帶動下續創歷史新高，盤中最高衝上44954.09點，距離45000點關卡僅差一步；隨後受到中東戰事升溫衝擊，市場避險情緒急遽升高，指數由紅翻黑並重挫逾1700點，終場收在43636.44點，下跌620.36點或1.40%，成交值達1兆5904億元。\n\n三大法人今日同步賣超，自營商合計150.38億元、投信賣67.59億元、外資賣386.83億元，三大法人累計賣超604.81億元，市場避險情緒升高。\n\n台積電創新高後翻黑 聯發科重挫近5%\n\n台股今日開盤後迅速翻紅，在買盤推升下續寫歷史新高，不過隨後傳出中東局勢惡化，美軍再度對伊朗展開軍事行動，伊朗也宣稱對美軍基地進行報復攻擊，國際地緣政治風險急速升溫。受到消息衝擊下，市場資金迅速轉向保守，電子權值股遭調節賣壓，指數急轉直下，高低震盪超過1,700點。\n\n權王台積電（2330）盤中最高衝上2360元，再創歷史新高，市值一度攀升至61.2兆元，不過隨後賣壓湧現，終場下跌5元，以2295元作收，跌幅0.22%；聯發科（2454）終場跌230元或4.96%，收在4,410元；台達電（2308）同步下挫130元或5.16%，收2,390元。\n\n封測族群逆勢撐盤 被動元件股走強\n\n記憶體族群吸引避險資金進駐，力積電（6770）大漲約7%，南亞科（2408）漲幅超過3%，旺宏（2337）同步上漲2%；不過華邦電（2344）下跌7.10%，表現相對弱勢。\n\n儘管大多數電子股翻黑，但封測族群仍逆勢抗跌。其中，南茂（8150）強攻漲停；力成（6239）、頎邦（6147）盤中一度漲停，收盤時漲逾4％；超豐（2441）、華東（8110）也逆勢走強，在震盪盤勢中展現強勁買盤支撐。\n\nAI伺服器升級需求持續帶動被動元件族群，華新科（2492）盤中大漲約8.03%，國巨（2327）上漲約5.85%；凱美（5317）與立隆電（2472）更是雙雙攻上漲停，顯示資金仍持續聚焦AI相關供應鏈。\n\n受惠美國關稅調降 汽車零組件股掀漲停潮\n\n美國宣布針對我國非半導體產品的232關稅優惠措施全面回溯自5月1日起生效，其中汽車零組件稅率降由25％降至15％，帶動相關概念股走強。包括東陽（1319）、堤維西（1522）、大億（1521）、倉佑（1568）、吉茂（1587）、帝寶（6605）等多檔汽車零配件股同步亮燈漲停，成為今日盤面一大亮點。\n\n美對台232關稅「非半導體」優惠先放行 半導體為何還沒時間表？\n\n兆元宴前夕 宏碁陳俊聖曝「AI蝴蝶效應」\n\n非半導體232關稅優惠生效 汽車零組件迎強勁回補潮強勢亮燈",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "16:20:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中東戰事引爆台股「大怒神」！ 三大法人合砍604億 內行淡定：沒殺意",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%AD%E6%9D%B1%E6%88%B0%E4%BA%8B%E5%BC%95%E7%88%86%E5%8F%B0%E8%82%A1-%E5%A4%A7%E6%80%92%E7%A5%9E-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%90%88%E7%A0%8D604%E5%84%84-%E5%85%A7%E8%A1%8C%E6%B7%A1%E5%AE%9A-%E6%B2%92%E6%AE%BA%E6%84%8F-082000280.html",
+      "Content": "中東戰事影響全球信心，台股今（28）日演出驚心動魄的「大怒神」走勢，加權指數在叩關4萬5千點之際驚遭突襲，引發史上第二大單日震盪，逾千家企業收黑，市場哀號「心臟真的受不了」！而期貨夜盤則出現了反彈走勢。\n\n台股巨震千餘點免驚？\n\n台北股市今（28）日盤勢極其慘烈，早盤多頭氣勢如虹，指數一度飆上44,954點，直逼4萬5千點大關。然而盤中驚傳中東地緣政治危機，伊朗革命衛隊突襲美國空軍基地的消息引發全球恐慌性拋售，台股隨即上演瘋狂大變盤，指數大跳水失守4萬4千點，最低慘跌至43,378點。今日高低劇烈震盪高達1,576點，創下台股史上單日震盪第二大紀錄，超過1100家企業股價一片慘綠。\n\n三大法人賣超604億\n\n根據證交所公布的三大法人買賣超統計，今日三大法人合計賣超604.8億元，其中外資及陸資賣超386.83億元，成為主要提款機；自營商合計賣超150.38億元，投信也轉為賣超67.59億元，呈現「全面撤退」態勢。\n\n台股大震盪網友看法兩極\n\nPTT股板今日則是一片哀號，大量網友瘋狂洗版「誰在買？」成為熱門關鍵字。面對三大法人同步倒貨，不少散戶直呼自己成了最後接刀的人。有網友崩潰表示，「救命，全都跑了剩散戶洗碗！」、「大家都走了，要留誰洗碗呢XD」，也有人苦笑稱「散戶撐起一片天」、「我還在買…救救我」。甚至還有投資人直言，「外資：喜歡嗎？通通倒給你。」\n\n不過也有部分網友認為，目前仍屬資金行情下的正常震盪，「還好啦」、「小打小鬧」、「沒殺意」等言論仍可見到市場偏多信仰。另有市場派網友分析，今日未必是外資追高殺低，而是「外資買就帶動漲，外資賣就股價跌，他們是劃線的」。\n\n由於近期融資餘額持續攀升，市場也開始關注今晚融資維持率與籌碼變化。有網友直言，「明天繼續殺，融資很勇喔」、「晚上來看融資減多少」，顯示市場對後續波動仍高度戒備。\n\n台股驚魂告終？台指夜盤已反彈\n\n市場專家指出，目前台股仍處於高檔震盪階段，AI題材與資金動能尚未完全退潮，但在國際地緣政治風險升溫、指數逼近歷史高位之際，市場情緒容易出現劇烈波動，短線操作難度明顯提高。而期貨夜盤則出現了反彈走勢，截至下午四點，指數上漲250點，重新站回44000點關卡。\n\n（封面示意圖/AI生成）\n\n【<a href=\"https://fnc.ebc.net.tw/fncnews/stock/211704?utm_source=yahoonews&utm_medium=referral&utm_campaign=main_article\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:本文;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"{\"yLinkElement\":\"context_link\",\"yModuleName\":\"cont",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
@@ -23,32 +53,84 @@
       "Language": "en"
     },
     {
-      "Ticker": "2388.TW",
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "16:17:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資轉賣與台股震盪，新台幣終結連六升小貶0.8分，以31.428元作收",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%BD%89%E8%B3%A3%E8%88%87%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA-%E6%96%B0%E5%8F%B0%E5%B9%A3%E7%B5%82%E7%B5%90%E9%80%A3%E5%85%AD%E5%8D%87%E5%B0%8F%E8%B2%B60-8%E5%88%86-%E4%BB%A531-428%E5%85%83%E4%BD%9C%E6%94%B6-081755855.html",
+      "Content": "【財訊快報／劉敏夫】台北外匯市場週四新台幣兌美元匯價震盪收貶，終結連六升。美伊談判陷入膠著、衝突頻傳，加上通膨情勢與全球股市估值，影響市場信心，新台幣大半場升勢午後轉弱整理，隨多數亞洲貨幣下滑跌勢起舞，與此同時，台股漲勢戛然而止，盤中翻跌大震盪，終場加權指數收跌1.40%，外資反手賣超上市股票386.83億元，影響了台幣匯價收盤行情。新台幣兌美元匯率週四以31.428元作收，與前一交易日比較，台幣匯率貶值0.8分，終結連六日漲勢。銀行間新台幣兌美元最高成交價為31.379元，最低成交價為31.428元，成交量為16億5,600萬美元。\n\n市場關注官方週四稍晚公布的景氣對策信號，前一次分數從41下降至39，但是仍維持景氣熱絡的紅燈。此次最新4月景氣對策信號綜合判斷分數持平39分，燈號續呈紅燈，製造業營業氣候測驗點受惠AI需求強勁及中東地緣政治風險影響淡化，廠商對未來景氣看法回升，由黃藍燈轉呈綠燈。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "15:58:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股1700點驚悚大洗盤！專家曝「這盲點」最致命 竟謝謝伊朗三次",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A11700%E9%BB%9E%E9%A9%9A%E6%82%9A%E5%A4%A7%E6%B4%97%E7%9B%A4-%E5%B0%88%E5%AE%B6%E6%9B%9D-%E9%80%99%E7%9B%B2%E9%BB%9E-%E6%9C%80%E8%87%B4%E5%91%BD-%E7%AB%9F%E8%AC%9D%E8%AC%9D%E4%BC%8A%E6%9C%97%E4%B8%89%E6%AC%A1-075830770.html",
+      "Content": "美伊軍事衝突再度升級，引發今（28）日金融市場劇烈震盪，國際油價應聲強彈3.5%，亞洲股市全面下挫。台股今日早盤一度飆漲近700點創下歷史新高，隨後盤中跳水狂殺逾1000點，終場大跌620點，跌破44000點關卡。對此，財經網紅葉育碩示警，當市場集體認為利空不跌、戰爭沒影響時，往往就是風險來臨的時刻，同時三次幽默致謝伊朗，讓股民有了進場、加碼的機會。\n\n美伊清晨互轟防禦停火\n\n據伊朗《塔斯尼姆通訊社》（Tasnim News Agency）報導，伊朗伊斯蘭革命衛隊（IRGC）今日稍早證實，美軍清晨針對荷莫茲海峽沿岸的伊朗無人機設開攻擊，革命衛隊隨後鎖定美國空軍基地進行反擊。路透則引述匿名美國官員說法指出，美軍在行動中擊落了4架伊朗攻擊型無人機，並摧毀阿巴斯港（Bandar Abbas）一座正準備發射第5架無人機的地面控制站，美方強調該行動純屬「防禦性質」，目的是維持停火狀態。\n\n由於荷莫茲海峽航運再度面臨干擾，引發能源市場恐慌，國際油價今日強勢反彈3.5%，來到每桶97.29美元，而亞洲主要股市同步走跌，日經指數及南韓綜合指數終場分別下挫0.47%、0.53%。\n\n台股創高後驚見千點急殺\n\n台股今日走勢則極具戲劇性，早盤開高一度大漲近700點，強勢觸及44954點歷史新高，不料11點過後大盤突然跳水急殺，在多空激烈交戰下，盤中高低震盪幅度高達1700點，終場跌勢稍見收斂，大跌620點（或1.4%），收在43636點，爆出1.59兆天量，失守44000點大關。\n\n針對台股高檔洗盤，財經網紅葉育碩在臉書發文形容，今天台股上演了「非常魔幻的一天」。他直言，這波最經典之處在於，早上市場還無視中東戰火，甚至開玩笑說「中東又在演戲」，指數甚至衝上歷史新高，結果幾個小時後市場就直接高檔跳水。\n\n葉育碩提出警示，當所有人都開始相信「利空不會跌、戰爭沒影響」的時候，往往就是開始需要注意風險的時候。不過，他在文末也不忘幽默致謝，「謝謝伊朗，讓股民有了進場、加碼的機會，再次謝謝伊朗，真誠的謝謝伊朗。」",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "15:51:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股再進化！證交所研議延長台股交易時段　零股改革年底前上路",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%86%8D%E9%80%B2%E5%8C%96-%E8%AD%89%E4%BA%A4%E6%89%80%E7%A0%94%E8%AD%B0%E5%BB%B6%E9%95%B7%E5%8F%B0%E8%82%A1%E4%BA%A4%E6%98%93%E6%99%82%E6%AE%B5-%E9%9B%B6%E8%82%A1%E6%94%B9%E9%9D%A9%E5%B9%B4%E5%BA%95%E5%89%8D%E4%B8%8A%E8%B7%AF-075133469.html",
+      "Content": "隨著全球主要股市近年紛以延長交易時間來爭取資金流入，台灣證券交易所董事長 林修銘 今天(28日)證實，證交所正研議延長台股交易時間，並同步推動零股交易制度改革。林修銘表示，目前規劃包括將零股交易開盤時間提前至上午9點、縮短撮合間隔，預計年底上路，至於延長交易時間則需要較長時間規劃與執行。\n\n《彭博新聞》 報導，全球各大股票交易所近年掀起延長交易時段趨勢，以爭取更多資金流入。台灣證券交易所也正研議相關改革措施。台灣證交所董事長林修銘週四(28日)在台北接受訪問時表示，證交所正著手優化深受散戶投資人使用的「零股交易」制度，並規劃延長股市交易時間，以進一步提升市場動能。\n\n林修銘表示，目前正在進行的改革措施包括將此類交易的開始時間提前十分鐘至上午 9 點，以與市場的正常交易時間保持一致；此外，證交所也在考慮縮短目前五秒鐘的訂單撮合週期。\n\n盼維護散戶投資者權益\n\n林修銘強調：「我們的目標是透過與證券公司積極合作，在年底前完成零股交易改革。散戶投資者在台灣市場中扮演著舉足輕重的角色，我們必須維護他們的利益。」\n\n由於台股受惠AI題材熱潮與散戶買盤推升，今年漲幅已接近50%，成為全球表現最強勢的市場之一。在屢創歷史新高後，台股本月市值更超越印度股市，躍居全球第五大股市。\n\n林修銘也透露，證交所正與券商討論延長現行上午9時至下午1時30分的集中市場交易時段，但尚未提出具體時程。他表示：「延長交易時間牽涉層面較廣，整體流程相對複雜，因此需要較長時間規劃與執行。」\n\n延長交易時段是國際趨勢\n\n目前全球多個交易所皆朝向延長交易時段方向發展，以吸引更多投資人參與。例如南韓主要交易所今年就計畫將每日交易時間，由現行6.5小時延長至12小時。\n\n儘管台股持續創高，但林修銘認為，相較國際科技股市場，台灣股市評價仍偏低。目前台股加權指數預估本益比約20倍，仍低於那斯達克100指數約25倍水準。\n\n台股從2001年(民國90年)元月開始，交易時間從原本上午9時到中午12時的3小時，改為目前的上午9時到下午1時30分，4.5小時的交易時段已經沿用25年。\n\n觀察各國交易時間，鄰近的日本為5.5小時、韓國為6.5小時，新加坡7小時，中國上海為4小時，美國紐約則為6小時，英國倫敦8.6小時，台灣僅高於中國上海。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "15:37:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "永豐期貨：高乖離引爆修正，台股進入高檔震盪期",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E9%AB%98%E4%B9%96%E9%9B%A2%E5%BC%95%E7%88%86%E4%BF%AE%E6%AD%A3-%E5%8F%B0%E8%82%A1%E9%80%B2%E5%85%A5%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA%E6%9C%9F-073738444.html",
+      "Content": "【財訊快報／編輯部】期貨走勢，指數週四下跌620.36點，收在43636.44點，成交量1.66兆元。台指期下跌955點至43839點，正價差為202.56點。籌碼面部分，三大法人賣超604.81億元；而在台指期淨部位方面，三大法人淨空單增加177口至-9545口，其中外資淨空單增加1894口至-58196口；十大交易人中的特定法人全月份台指期淨空單增加3312口至-9449口。 昨天才剛提醒過指數向上突破後的乖離過大問題，結果夜盤立刻隨著美指電子盤回落開始降溫，早盤開高後賣壓立即湧現，其實已經透露市場追價意願開始轉弱，盤中再碰上美期指走弱與中東戰事升溫，空方順勢擴大摜殺，但真正核心還是在於短線漲太快、情緒太瘋狂，市場需要一次合理的降溫，這點昨天就一切預告在前面。把下跌歸咎於中東戰事不太精確，那其實只是催化劑，真正造成摜殺的是高檔乖離過大，本來就隨時可能出現技術性修正，昨天夜盤美股明明沒有真正重大利空，甚至傳出先進製程調漲，台積電期貨夜盤立刻一度大漲百元，不過市場照樣先跌給你看，其實就已經在預告今天白天的走勢。今晚的PCE數據才是真正關鍵，在乖離過大下，修正速度就會非常快。不過還是要強調，現在比較像是高檔整理，而不是空頭反轉，畢竟基本面沒有真正惡化，以目前位置來看，回測月線其實是最健康的走法，因為季線乖離實在太大，在沒有景氣衰退或重大系統性風險的情況下，要直接修正到季線反而不太現實。下週雖然還有Computex題材撐盤，但市場節奏明顯已經從全面噴出，進入高檔震盪與輪動階段。即使週末突然傳出美伊協議的利多，也未必能立刻扭轉這波修正，因為昨天夜盤其實已經示範過，當市場認為漲太多時，再好的消息也可能只是給大戶出貨。\n\n選擇權分析，選擇權未平倉量部分，06月買權最大OI落在46000點，賣權最大OI落在20200點；06月W1買權最大OI落在45000點，賣權最大OI落在37000點。全月份未平倉量put/call ratio值由1.85下降至1.28。VIX指數上升1.2至36.29。外資台指期買權淨金額4.84億元；賣權淨金額1.29億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW, 2388.TW",
       "Date": "2026-05-28",
       "Time": "15:36:01",
       "Source": "Yahoo奇摩股市",
       "Title": "威盛攜手聯發科　搶攻智慧車隊邊緣AI商機",
       "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B%E6%94%9C%E6%89%8B%E8%81%AF%E7%99%BC%E7%A7%91-%E6%90%B6%E6%94%BB%E6%99%BA%E6%85%A7%E8%BB%8A%E9%9A%8A%E9%82%8A%E7%B7%A3ai%E5%95%86%E6%A9%9F-073601644.html",
-      "Content": "（中央社記者張建中新竹2026年05月28日電）IC設計廠威盛 (238 ...",
-      "Language": "zh",
-      "AI_Summary": "• 威盛宣布與聯發科合作，將其新一代AI行車紀錄器平台Mobile360 D800搭載聯發科的Genio物聯網晶片平台。\n• 雙方將在COMPUTEX 2026展示合作成果，旨在協助客戶快速實現AI應用的安全部署與商業變現。\n• Mobile360 D800搭載聯發科Genio 520處理器，提供高精準度的邊緣算力，賦能新一代智慧運輸應用。\n• 該行車紀錄器具備車道偏離預警、駕駛疲勞偵測等功能，並能在無光源環境下清晰運作。",
-      "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "AI行車紀錄器, 邊緣運算, 物聯網晶片, 智慧運輸, 合作夥伴"
+      "Content": "（中央社記者張建中新竹2026年05月28日電）IC設計廠威盛 (2388) 今天宣布，新一代AI行車紀錄器平台Mobile360 D800搭載聯發科 (2454) 的Genio物聯網晶片平台，將在COMPUTEX 2026展示合作成果。\n\n威盛今天發布新聞稿，旗下威達智能事業部副總經理陳寶惠說，希望透過與聯發科深度合作，協助全球客戶與系統整合商在標準化架構下跨越開發門檻，快速實現AI應用的安全部署與商業變現。\n\n威盛表示，Mobile360 D800搭載整合聯發科第8代神經處理單元（NPU）的8核心處理器Genio 520，將為車載終端提供高精準度的邊緣算力，全面賦能新一代智慧運輸應用。\n\n威盛指出，除提供車道偏離預警、偵測駕駛疲勞和分心行為功能，因配備高性能紅外線發光二極體（LED），即使在無光源車內環境下依然清晰可見。",
+      "Language": "zh"
     },
     {
-      "Ticker": "2388.TW",
+      "Ticker": "2454.TW, 2388.TW",
       "Date": "2026-05-28",
       "Time": "15:33:55",
       "Source": "Yahoo奇摩股市",
       "Title": "威盛與聯發科攜手秀新一代行車記錄器，AI物聯網落地新案例",
       "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B%E8%88%87%E8%81%AF%E7%99%BC%E7%A7%91%E6%94%9C%E6%89%8B%E7%A7%80%E6%96%B0-%E4%BB%A3%E8%A1%8C%E8%BB%8A%E8%A8%98%E9%8C%84%E5%99%A8-ai%E7%89%A9%E8%81%AF%E7%B6%B2%E8%90%BD%E5%9C%B0%E6%96%B0%E6%A1%88%E4%BE%8B-073355569.html",
-      "Content": "【財訊快報／記者李純君報導】智能車載邊緣運算解決方案供應商威盛電子(2388)，今日宣布 ...",
-      "Language": "zh",
-      "AI_Summary": "• 威盛電子宣布其Mobile360 D800 AI行車記錄器將搭載聯發科技的Genio物聯網晶片平台。\n• 雙方將在COMPUTEX 2026聯發科展位上展示軟硬體高度整合的最新商業落地成果。\n• 此合作旨在滿足全球物聯網車隊管理與主動安全防護市場的需求。\n• 搭載聯發科Genio 520八核心處理器，該行車記錄器強調為車載終端提供高精準度的邊緣算力。",
-      "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "AI行車記錄器, 邊緣運算, 物聯網平台, 智慧交通, 合作開發"
+      "Content": "【財訊快報／記者李純君報導】智能車載邊緣運算解決方案供應商威盛電子(2388)，今日宣布其新一代Mobile360 D800 AI行車記錄器搭載聯發科技(2454)（MediaTek）晶片平台，並將於即將登場的台北國際電腦展（COMPUTEX 2026）聯發科展位上進行實機展示。雙方將攜手呈現MediaTek Genio物聯網晶片平台與車載邊緣運算軟硬體高度整合的最新商業落地成果。隨著全球物聯網車隊管理與主動安全防護市場普及，威盛與聯發科緊密合作。威盛Mobile360 D800搭載整合聯發科第8代NPU的高效能MediaTek Genio 520八核心處理器，以車載終端提供超高精準度的邊緣算力為訴求，全面賦能新一代智慧運輸應用。\n\n威盛電子威達智能事業部副總陳寶惠表示：「聯發科Genio平台為邊緣AI注入了絕佳動力。希望透過這次的深度合作，協助全球客戶與系統整合商在標準化架構下，跨越開發門檻，快速實現尖端AI應用的安全部署與商業變現。」",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-05-28",
+      "Time": "15:32:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "致伸攜手聯發科深化Edge AI 戰略合作 共同推進智慧機器人商業落地",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%87%B4%E4%BC%B8%E6%94%9C%E6%89%8B%E8%81%AF%E7%99%BC%E7%A7%91%E6%B7%B1%E5%8C%96edge-ai-%E6%88%B0%E7%95%A5%E5%90%88%E4%BD%9C-%E5%85%B1%E5%90%8C%E6%8E%A8%E9%80%B2%E6%99%BA%E6%85%A7%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%95%86%E6%A5%AD%E8%90%BD%E5%9C%B0-073244030.html",
+      "Content": "致伸 (4915-TW) 今 (28) 日宣布與聯發科 (2454-TW) 深化 Edge AI 戰略合作，將於 COMPUTEX 2026 聯發科技展區共同展示智慧機器人最新應用成果。\n\n此次合作以致伸 AISF 多感測融合技術架構為核心，整合 Edge AI、視覺、聲學、人機介面與邊緣運算能力，並結合 MediaTek Genio 物聯網平台高效能、低功耗的邊緣運算支援，實現感知、運算與決策的端到端整合。\n\n透過雙方技術優勢互補，機器人在不依賴雲端連線的條件下，即可實現低延遲感知、自主互動與即時環境理解，進一步強化智慧機器人於商業與工業場域中的應用潛力。\n\n致伸與聯發科技於機器人領域的合作，將聚焦餐飲服務與工廠自動化兩大應用方向。在餐飲服務中，機器人整合 LiDAR、VSLAM 與多重 AI 視覺感測技術，實現窄通道導航、智慧避障與模組化任務載台切換能力，靈活應對複雜動線，大幅提升場域營運彈性與服務效率 。在工廠與物流應用中，透過高載重搬運、AI 視覺人員跟隨與人機互動技術，顯著強化自主運輸效率與作業安全性，展現 AISF 技術在複雜工業環境中的落地實力\n\n根據國際機器人聯合會 (IFR) World Robotics 報告指出，全球專業服務機器人市場中，運輸與物流領域至 2028 年的年均複合成長率（CAGR）預估將維持 30% 以上的成長 ，顯示智慧移動與自動化需求正快速成長。\n\n致伸科技表示，未來將持續以 AISF 為核心技術架構，深化與聯發科技及全球 AI 生態系夥伴合作，加速感知與 Edge AI 技術整合，共同為全球客戶建構更具競爭力的智慧機器人技術生態，推動產業應用的規模化落地。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "15:30:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "5月噴漲到失控！ 張錫曝「台股2劇本」：坐五萬望六萬",
+      "URL": "https://tw.stock.yahoo.com/news/5%E6%9C%88%E5%99%B4%E6%BC%B2%E5%88%B0%E5%A4%B1%E6%8E%A7-%E5%BC%B5%E9%8C%AB%E6%9B%9D-%E5%8F%B0%E8%82%A12%E5%8A%87%E6%9C%AC-%E5%9D%90%E4%BA%94%E8%90%AC%E6%9C%9B%E5%85%AD%E8%90%AC-073000261.html",
+      "Content": "台股5月行情幾近失控，創高刷天價成日常，在市場情緒極度亢奮之際，有「台股多頭總司令」之稱的張錫認為目前台股已有過熱跡象，雖不排除未來仍有挑戰5萬點機會，但若能在2026年站穩5萬點、2027年進一步挑戰6萬點，整體走勢將會更加健康。\n\n一口氣衝5萬恐壓縮行情\n\n張錫是在工商時報舉辦的「ETF大未來論壇」後接受媒體專訪時做出上述分析。他指出，今年科技股獲利成長約40%，但台股指數漲幅已達約50%，代表市場其實已提前反映未來幾年的成長預期。若今年就急漲至5萬點，等於提前把明年的漲幅一次透支，恐怕會壓縮後續行情空間。\n\n部分題材已過度反應\n\n他也點名部分熱門題材已有過度反應現象。近期市場熱炒「面板級先進封裝」CoPoS概念，帶動群創股價飆漲，但同業友達卻相對沉寂。張錫認為，CoPoS技術難度極高，尤其矽中介層從圓形轉為方形的製程挑戰，牽涉均勻度、精度與易碎問題，原本市場預期台積電2028年可望完成技術突破，如今時程甚至延後至2030年，顯示市場資金已明顯提前反映未來想像空間。\n\n台股後市2劇本\n\n對於下半年走勢，張錫認為市場可能出現兩種情境，一是高檔修正，二是「以盤代跌」。由於AI需求仍具剛性支撐，因此他不認為會出現全面性崩盤，但不少個股今年已提前反映未來兩三年的成長，後續再大幅上攻的動能恐怕有限，高檔震盪整理的機率相對較高。\n\nAI泡沫目前並不存在\n\n此外，他也認為目前並不存在典型AI泡沫危機，原因在於台股有台積電作為核心支撐，而AI需求又能抵銷通膨帶來的不利影響。在資產配置方面，他建議投資人除了布局AI成長股，也可納入高股息標的，在高利率與通膨環境下，「AI股＋高股息股」會是相對穩健的配置方式。\n\n股民狂熱高喊六月看6萬\n\n不過，相較於張錫偏理性的看法，PTT股板網友情緒則顯得更加狂熱。許多鄉民對「2026年上5萬點」的預測完全不買單，紛紛留言「今年就5萬了吧」、「六月直接6萬」、「年底12萬才合理」，甚至有人戲稱「五月5萬、六月6萬、年底10萬」，市場瀰漫濃厚FOMO氛圍。也有部分網友認為，目前行情已逐漸進入情緒化階段，過度樂觀反而值得警惕。有鄉民直言「股市預測看半年就很遠了，誰知道會發生什麼事」，也有人擔憂輸入型通膨與估值過高問題，認為AI概念股未必能永遠無限上綱。但另一方面，支持多頭論點的投資人則強調，AI帶來的是新一輪財富重分配，「沒跟上這波，資產差距會被越拉越大」，甚至有人認為，2022年敢在市場低迷時相信張錫、一路抱到現在的投資人，「早就已經財富自由」。\n\n隨著台股短短一年從3萬點一路狂飆至4萬4千點，市場情緒已從「擔心崩盤」逐漸轉變成「擔心沒上車」。而在AI狂潮推升下，究竟台股是邁向下一輪長多起點，還是提前透支未來行情，市場仍將持續激辯。\n\n（封面圖／翻攝自張錫臉書）\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8]",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
@@ -77,6 +159,16 @@
     {
       "Ticker": ".TWII",
       "Date": "2026-05-28",
+      "Time": "15:12:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中東局勢驟變台股急殺翻黑 三大法人齊站空賣超604.81億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E5%B1%80%E5%8B%A2%E9%A9%9F%E8%AE%8A%E5%8F%B0%E8%82%A1%E6%80%A5%E6%AE%BA%E7%BF%BB%E9%BB%91-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E9%BD%8A%E7%AB%99%E7%A9%BA%E8%B3%A3%E8%B6%85604-81%E5%84%84%E5%85%83-071225554.html",
+      "Content": "台股今 (28) 日早盤開高走高，然而盤中傳出伊朗襲擊美國空軍基地、中東局勢驟變，引發全球期指與亞股跳水，大盤急速翻黑狂殺，最低跌近 1000 點。終場收 43636.44 點，下跌 620.36 點或 1.4%，守住 5 日均線，盤中振幅達 1717.73 點，爆出成交天量 1.59 兆元；三大法人合計賣超 604.81 億元。\n\n觀察三大法人今天籌碼動向，外資賣超 386.83 億，終結連五買；自營商賣超 150.38 億元；投信賣超 67.59 億元；三大法人合計賣超 604.81 億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
       "Time": "15:09:38",
       "Source": "Yahoo奇摩股市",
       "Title": "台股不再只有台積電！專家點名2檔「世界級新神山」冒出頭：鴻海已看不到車尾燈",
@@ -101,6 +193,16 @@
       "Related_Score": 5,
       "Sentiment_Score": -1,
       "Keywords": "地緣政治風險, 獲利了結, 籌碼換手, 權值股, 市場波動"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-05-28",
+      "Time": "14:59:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "海外基金5月績效表出爐　台股基金、科技基金漲逾12％奪冠亞軍！",
+      "URL": "https://tw.news.yahoo.com/%E6%B5%B7%E5%A4%96%E5%9F%BA%E9%87%915%E6%9C%88%E7%B8%BE%E6%95%88%E8%A1%A8%E5%87%BA%E7%88%90-%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91-%E7%A7%91%E6%8A%80%E5%9F%BA%E9%87%91%E6%BC%B2%E9%80%BE12-%E5%A5%AA%E5%86%A0%E4%BA%9E%E8%BB%8D-065906363.html",
+      "Content": "海外基金5月績效出爐，總計金管會證期局核備的953檔境外基金(包括股、債、平衡型、票券、另類投資)5月以來平均上漲1.91%，其中，618檔股票型基金平均上漲3.09%，58檔混合資產(平衡型)基金平均上漲1.9%；256檔債券型基金則下跌0.69%。\n\n主要區域股票型基金部分，拜半導體與AI供應鏈領軍狂飆之賜，台、日股市雙雙刷新歷史高位，台股市值更超越印度成為全球第五大股市。\n\n5月台股基金平均大漲12.93%，再度居所有基金之冠，更帶動亞洲(不含日本)股票、新興市場股票、亞洲中小型股票。\n\n值得留意的是，因日圓本月相對台幣走弱，日本股票基金換回台幣報酬遭匯兌侵蝕，報酬率為3.42％，若以原幣計價，則漲幅達5.6%。\n\n相對地，拉美股票基金表現最弱，5月以來平均4％，印度基金也是負報酬。\n\n富蘭克林坦伯頓日本基金經理人邱正松表示，日股不只半導體領域具眾多投資機會， 日本半導體產業的政策重心屬於更廣泛的「投資帶動成長」政策架構，相關投資效益預期將外溢至內需領域，例如新建產能與基礎設施需求，將有利於電機工程公司，而龐大的融資需求，則有利於銀行產業。\n\n隨著日本經濟逐步正常化，日本大型銀行可望實現多年期的每股盈餘成長與股東權益報酬率改善，此外，部分大型銀行亦積極將股東價值創造列為優先事項，包括逐步處分龐大的交叉持股部位、執行庫藏股買回以及提高股利配發。\n\n主要產業型基金部分，因AI投資熱潮持續，科技基金5月再漲12.19%，遙遙領先其他產業型基金，僅次於台股基金。\n\n生技基金5月小漲1.11%，表現相對抗跌；天然資源基金則是漲多拉回。另外，受到美債殖利率走升影響，屬不孳息資產的黃金與貴金屬股票面對持有成本上升，以及屬資本密集的公用事業與基礎建設股票恐推高利息支出並壓縮利潤下，表現同步承壓。\n\n富蘭克林坦伯頓科技基金經理人強納森‧柯堤斯指出，AI基礎設施與提升生產力的AI應用仍是企業優先考慮的領域。隨客戶加速建置與部署AI模型，雲端服務供應商的需求非常強勁，支持整個AI生態系的成長，值得留意的是，由於AI資本支出最大的企業擁有強勁現金流，財務槓桿仍處於相當可控的水準，故推斷當前的AI投資趨勢是可持續的。\n\n主要平衡型基",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
