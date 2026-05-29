@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-29T20:00:44.890Z",
-  "total_news_count": 656,
+  "last_updated": "2026-05-29T20:15:25.742Z",
+  "total_news_count": 657,
   "news": [
     {
-      "Ticker": "QCOM, AMD",
+      "Ticker": "INTC, QCOM, AMD",
       "Date": "2026-05-30",
       "Time": "03:46:02",
       "Source": "Yahoo Finance",
@@ -13,7 +13,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA",
+      "Date": "2026-05-30",
+      "Time": "03:22:59",
+      "Source": "Yahoo Finance",
+      "Title": "Waymo Unveils Ojai Robotaxi As Driverless Race Heats Up",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/waymo-unveils-ojai-robotaxi-driverless-192259832.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOG ) Waymo is moving further into the driverless ridehailing race with Ojai, a new autonomous vehicle built specifically for robotaxi service. The company said the vehicle will offer public rides in California and Arizona without human supervision, starting with select riders in San Francisco, Los Angeles and Phoenix. The move comes as Waymo continues to lead the US market for paid driverless ridehailing, while Tesla ( NASDAQ:TSLA ) and Amazon's Zoox are beginning to push into the same space.\n\nWarning! GuruFocus has detected 9 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe four-seat minivan is being developed with Zeekr, a unit of China-based Geely Automobile Holdings, through a partnership first announced in 2021. Waymo says the Ojai could improve both its economics and the rider experience versus retrofitted consumer vehicles, with a roomier cabin, flat floor, low step-in height and the latest generation of its autonomous driving system. Initial rides will be free as Waymo gathers feedback before adding more cities over time.\n\nThe vehicle is designed in Sweden and built on an electric skateboard platform imported from China without self-driving or connectivity technology. Waymo will then integrate its autonomous driving system during final assembly at its Mesa, Arizona factory alongside Magna International, where the company said it is working to lift production to tens of thousands of vehicles per year. The rollout is focused on markets with more favorable weather and well-tested traffic conditions, after Waymo recently suspended service in multiple US cities when some vehicles drove into flooded roads.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-05-30",
       "Time": "03:20:00",
       "Source": "Yahoo Finance",
@@ -3857,7 +3867,7 @@
       "Keywords": "quantum computing, government investment, equity stakes, CHIPS Act, strategic sectors"
     },
     {
-      "Ticker": "RMBS",
+      "Ticker": "ON, RMBS",
       "Date": "2026-05-29",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
