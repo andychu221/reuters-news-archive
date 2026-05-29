@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T08:52:24.794Z",
-  "total_news_count": 491,
+  "last_updated": "2026-05-29T09:01:08.378Z",
+  "total_news_count": 492,
   "news": [
     {
       "Ticker": ".TWII",
@@ -33,7 +33,17 @@
       "Language": "zh"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA",
+      "Date": "2026-05-29",
+      "Time": "15:55:27",
+      "Source": "Yahoo Finance",
+      "Title": "At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/computex-nvidia-taiwans-expanding-role-075527527.html",
+      "Content": "By Wen-Yee Lee\n\nTAIPEI, May 29 (Reuters) - At Taiwan's annual Computex trade show next week, the spotlight is likely to be dominated, as usual, by Nvidia and its products, but also by the island's central and growing role in AI infrastructure.\n\nNvidia CEO Jensen ‌Huang, arriving in Taipei more than a week ahead of the show, more than made that point when he said on ‌Wednesday that his company would spend as much as $150 billion a year in Taiwan, which he called the epicentre of the AI revolution.\n\n\"Many years ago, we had 10 partners. Five years ​ago, maybe 50 partners. Now we have 150 partners,\" Huang said.\n\nAMD CEO Lisa Su also said last week that the company would invest more than $10 billion in Taiwan's AI sector, adding that it was co-investing with Taiwanese partners to ensure sufficient capacity for expansion in 2026 and beyond.\n\nTaiwan boasts a diverse ecosystem crucial for AI data centres that includes AI server manufacturers, packaging and component suppliers.\n\n\"Taiwan's AI role is moving from a semiconductor story to an infrastructure story,\" ‌said Ryan Fletcher, a partner at McKinsey & Company.\n\n\"The question ⁠is no longer only who makes the chip, but who can turn it into a powered, cooled, networked and serviceable AI system.\"\n\nNVIDIA'S HUANG TO HOG THE SPOTLIGHT\n\nThe Computex trade show runs June 2-5 and will be kicked off by ⁠a keynote speech from the charismatic Huang on Monday, and deeper ties between Nvidia and its partners could be a key theme.\n\nSince arriving in Taiwan, he has held a near non-stop series of meetings and dinners with supply chain executives, including TSMC CEO C.C. Wei, Foxconn Chairman Young Liu and Quanta Computer Chairman Barry ​Lam.\n\nWhile ​Computex has traditionally been a show for consumer devices, Nvidia has over the last ​few years made it more business-oriented. Attention is likely to ‌focus on its data centre products, such as its new Vera Rubin AI computing platform and Vera central processing unit (CPU), as well as on its efforts in markets such as robotics and AI in manufacturing.\n\nOther global chip executives attending the show, set to be the biggest Computex ever with 1,500 exhibitors, include Intel CEO Lip-Bu Tan, Qualcomm Chief Executive Cristiano Amon and Arm boss Rene Haas.\n\nMarvell's chief executive, Matt Murphy, and NXP Semiconductors CEO Rafael Sotomayor will also be there.\n\nINTEL SPEECH ALSO A FOCUS\n\nA keynote speech by Intel's Tan will also be closely watched.\n\n\"He's been able to get Intel back ‌on its feet and his keynote will give indications on other directions that he ​is looking to take the company,\" said Bryan Ma, vice president, client devices research at ​IDC.\n\nStory Continues\n\nMa added that in terms of devices, he'll also be on ​the watch for a long-rumoured Nvidia PC platform, Intel's Arc G-series processors for handheld gaming devices, and he wants ‌to take stock of sentiment in the gaming sector amidst ​sky-high memory prices.\n\nIntel is also expected to ​showcase its many partnerships and a renewed commitment to high-performance central processing units (CPUs) for AI inference, said Ian Cutress, chief analyst at More than Moore.\n\nThe trade show takes place amid heightened geopolitical tensions.\n\nChina's President Xi Jinping told U.S. President Donald Trump during their summit this ​month that mishandling Taiwan could lead to conflict between ‌the two powers. China has also ramped up pressure on Taiwan by increasing its military presence around the island.\n\nBut that has ​not stopped business from booming in Taiwan. The island's exports of servers, for example, surged to $60 billion last year from just $571 million ​in 2017.\n\n(Reporting by Wen-Yee Lee; Editing by Miyoung Kim and Edwina Gibbs)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, INTC",
       "Date": "2026-05-29",
       "Time": "15:50:00",
       "Source": "Yahoo Finance",
