@@ -1,9 +1,29 @@
 {
-  "last_updated": "2026-05-29T13:01:06.668Z",
-  "total_news_count": 564,
+  "last_updated": "2026-05-29T13:15:03.391Z",
+  "total_news_count": 566,
   "news": [
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC",
+      "Date": "2026-05-29",
+      "Time": "20:48:23",
+      "Source": "Yahoo Finance",
+      "Title": "Intel, 3DGS to set up $3.3 billion substrate plant in India's Odisha state",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-3dgs-set-3-3-124823914.html",
+      "Content": "NEW DELHI, May 29 (Reuters) - U.S. chipmaker Intel and 3DGS Inc. ‌USA will invest about $3.3 billion ‌to set up a substrate manufacturing plant ​in the eastern Indian state of Odisha, the Indian government said on Friday.\n\nHere are some details:\n\n• The ‌project is ⁠expected to create more than 1,800 direct high-skilled jobs.\n\n• Substrates ⁠are the bedrock material on which elements of a semiconductor device ​are attached.\n\n• ​New Delhi ​has pledged billions ‌of dollars in subsidies to attract semiconductor plants and related manufacturing as a part of Prime Minister Narendra Modi's wider push to build ‌more products locally.\n\n• ​The plant, planned to ​be ​set up in the Bhubaneswar-Khurda ‌region over a period ​of ​five to six years, will focus on advanced packaging glass core ​substrates, high-density ‌interconnect substrates and associated semiconductor ​technologies.\n\n(Reporting by Hritam Mukherjee; Editing ​by Eileen Soreng)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-05-29",
+      "Time": "20:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX and This Nuclear Stock Could Turn $10,000 Into a Fortune",
+      "URL": "https://finance.yahoo.com/m/7c29eb58-f984-3f1a-8d73-b65c056ac3b9/spacex-and-this-nuclear-stock.html",
+      "Content": "SpaceX is expected to go public this summer, perhaps as early as June. While there are ways to buy into SpaceX today , most investors are better off simply buying shares during the initial public offering .\n\nWhile SpaceX's valuation is supposed to be huge -- experts believe the company is targeting a market cap between $1.5 trillion and $2 trillion -- one opportunity in particular could easily be a multitrillion-dollar market on its own. SpaceX is in a prime position to target this growth opportunity, but so is an innovative nuclear energy company backed by Sam Altman, the CEO of OpenAI.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nEvery AI company has one glaring problem\n\nArtificial intelligence (AI) is growing by leaps and bounds. Many forecasts predict annual growth rates of 30% for years to come.\n\nBut there are bottlenecks to this growth. AI companies typically don't operate their own compute power. Instead, they outsource this task to cloud providers that build and maintain data center infrastructure. It will be hard for the AI industry to grow if data center infrastructure doesn't scale commensurately.\n\n\"The race to scale AI has triggered one of the largest infrastructure build-outs in modern history. By our estimates, global spending on data centers could reach $7 trillion by 2030,\" concludes a recent report from global consultancy McKinsey & Co. \"Whether a build-out is successful depends on many nuances, including the availability of capital and energy resources.\"\n\nThat last concern -- energy resources -- directly relates to the much-needed data center build-out. Data centers are energy-intensive, given that the AI applications that rely on them use a massive amount of compute power. So not only do we need more data centers to support AI's growth trajectory, but we'll also need more energy sources.\n\nSpaceX and Oklo can save the AI industry\n\nSpaceX has a unique opportunity to meet the AI industry's rapidly growing energy needs. That's because there are two ways to fix the energy resource bottleneck in scaling data centers. Either new energy sources can be brought online, or energy demands can be reduced. That's exactly what SpaceX hopes to deliver via orbital data centers, or ODCs.\n\nThere are still many credible challenges to the viability of ODCs -- everything from physics-related concerns to radiation vulnerabilities. But the general idea is to lower cooling costs by placing data centers in the low ambient temperatures of low Earth orbit, furnished with solar panels that can consistently produce clean power. We're likely still years away from seeing ODCs become a reality, and it's a growth opportunity that only a few companies worldwide can even dream of. With its leading rocket technology and a downward trajectory in launch costs, SpaceX is in a prime position to make ODCs a reality.\n\nStory Continues\n\nOklo (NYSE: OKLO) -- a nuclear energy company backed by Sam Altman -- is also pursuing a unique strategy for meeting the AI industry's energy demands. Rather than placing data centers in space, the company is targeting traditional terrestrial deployments powered by nuclear energy. But not just any kind of nuclear energy. Oklo's nuclear power plants use small modular reactors, or SMRs.\n\nThe AI and data center industries need power fast to support their growth. And while Oklo's first systems may not be online for a few years, these SMRs are faster and cheaper to build than large conventional nuclear power plants. Perhaps due to Altman's influence, Oklo has already signed a slew of deals with major data center providers. Now the company must prove it can secure the necessary regulatory approvals and bring projects online on time and on budget. If it succeeds, expect Oklo to grow aggressively alongside the AI industry.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-05-29",
       "Time": "20:33:19",
       "Source": "Yahoo Finance",
