@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-29T09:15:14.558Z",
-  "total_news_count": 497,
+  "last_updated": "2026-05-29T09:32:12.367Z",
+  "total_news_count": 498,
   "news": [
     {
       "Ticker": "INTC",
@@ -73,7 +73,17 @@
       "Language": "zh"
     },
     {
-      "Ticker": "ON",
+      "Ticker": "SNDK",
+      "Date": "2026-05-29",
+      "Time": "16:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Bull of the Day: SanDisk (SNDK)",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/bull-day-sandisk-sndk-080000646.html",
+      "Content": "SanDisk Company Overview\n\nZacks Rank #1 (Strong Buy) stock SanDisk ( SNDK ) develops, manufactures, and sells data storage devices and solutions based on NAND flash technology. The portfolio spans solid-state drives (SSDs), embedded products, removable cards, USB drives, and wafers and components. Products serve enterprise data centers and public clouds, OEMs and channel partners across PCs and mobile, and retail consumers. The company became a standalone public company on Feb. 21, 2025, and trades under the symbol SNDK.\n\nWhy SanDisk Products are Integral to the AI Revolution\n\nSanDisk specializes in NAND Flash, a long-term, permanent storage (the technology inside Enterprise Solid-State Drives or SSDs). An AI chip is completely useless without memory. When a Large Language Model (LLM) is running, it doesn't just read a file once; it is constantly holding hundreds of billions of \"weights\" (variables) in active memory. If you pair the world's fastest AI chip with slow memory or slow storage, the AI chip spends 90% of its time idling, waiting for data to arrive. SanDisk ensures that the data pipeline matches the blistering speed of the processor. Without them, the AI can't scale.\n\nMemory is the Ultimate AI Bottleneck Currently\n\nAI workloads require up to 10 times more working memory (DRAM) than traditional data center tasks. Every tech giant is simultaneously, building massive AI clusters, creating an unprecedented supply crunch. Additionally, very few companies can manufacture memory solutions because the manufacturing process is so complex and, thus, physical supply cannot keep up with demand. As a result, SNDK has unprecedented pricing power and is sold out for the foreseeable future.\n\nSNDK: Explosive Revenue & EPS Growth\n\nSanDisk is expected to grow top-and-bottom-line financial results at a triple-digit clip or more through 2027.\n\nImage Source: Zacks Investment Research\n\nSNDK Technical View\n\nSNDK is the leading momentum stock on Wall Street. Shares are currently breaking out of a bull flag pattern.\n\nImage Source: TradingView\n\nBottom Line\n\nAs tech giants scramble to scale their artificial intelligence clusters, the spotlight is shifting away from the processors themselves and onto the hardware that actually feeds them. SanDisk finds itself in an incredibly lucrative sweet spot. By resolving the critical memory bottleneck with its high-speed NAND flash technology, the freshly independent company has captured ultimate pricing power and secured an enviable backlog of demand. Backed by triple-digit growth projections through 2027 and a highly bullish technical chart setup, SNDK is proving that the real winners of the AI revolution aren't just those building the brains—but those controlling the pipelines.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK, ON",
       "Date": "2026-05-29",
       "Time": "15:56:00",
       "Source": "Yahoo Finance",
