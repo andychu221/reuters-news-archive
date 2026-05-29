@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T16:20:55.210Z",
+  "last_updated": "2026-05-29T16:32:13.389Z",
   "total_news_count": 617,
   "news": [
     {
@@ -47,18 +47,14 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "SNDK, MU",
       "Date": "2026-05-29",
       "Time": "22:48:00",
       "Source": "Yahoo Finance",
       "Title": "Sandisk's QLC Stargate Gains Traction: A New Revenue Growth Catalyst?",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/sandisks-qlc-stargate-gains-traction-144800798.html",
-      "Content": "Sandisk Corporation ’s SNDK QLC Stargate platform is emerging as a powerful new revenue catalyst, with the company expecting revenue-generating shipments to begin in the fourth quarter of fiscal 2026. The launch strengthens Sandisk’s position in the rapidly expanding AI-driven data-center storage market and creates an additional growth avenue beyond its already successful ...",
-      "Language": "en",
-      "AI_Summary": "• Sandisk's QLC Stargate platform is poised to become a significant revenue catalyst, with shipments starting in Q4 fiscal 2026.\n• The platform addresses surging storage needs for AI workloads, including large models and RAG applications, positioning Sandisk to benefit from secular trends in AI infrastructure.\n• Stargate complements existing TLC offerings, allowing Sandisk to cater to a broader range of customer needs and expand its share of AI storage spending.\n• Zacks Consensus Estimate projects Sandisk's revenues to grow 153.17% year over year in fiscal 2026.\n• Sandisk shares have gained 592.2% year-to-date, outperforming the broader tech sector.",
-      "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "revenue catalyst, AI storage, QLC NAND, hyperscalers, market share"
+      "Content": "Sandisk Corporation ’s SNDK QLC Stargate platform is emerging as a powerful new revenue catalyst, with the company expecting revenue-generating shipments to begin in the fourth quarter of fiscal 2026. The launch strengthens Sandisk’s position in the rapidly expanding AI-driven data-center storage market and creates an additional growth avenue beyond its already successful TLC enterprise SSD portfolio. After delivering a 233% sequential increase in data-center revenues to $1.47 billion in third-quarter fiscal 2026, Sandisk appears well-positioned to build on this momentum through the commercialization of Stargate.\n\nThe significance of Stargate lies in its ability to address the surging storage requirements of artificial intelligence workloads. As enterprises and hyperscalers deploy larger AI models, Retrieval-Augmented Generation (RAG) applications, KV cache technologies and agentic AI systems, demand for high-capacity, cost-efficient flash storage continues to rise. Sandisk believes NAND flash is becoming an increasingly critical component of AI infrastructure, positioning Stargate to benefit directly from this long-term secular trend.\n\nImportantly, Stargate complements rather than replaces the company’s TLC offerings. While TLC SSDs support performance-intensive workloads requiring ultra-low latency, QLC solutions are optimized for capacity-centric deployments. This enables Sandisk to address a broader range of customer needs, deepen relationships with hyperscale customers and expand its share of AI-storage spending.\n\nWith AI infrastructure spending accelerating and demand for high-capacity storage continuing to expand, Stargate could play an increasingly important role in Sandisk’s future revenue growth and next major growth driver. Supporting this view, the Zacks Consensus Estimate projects Sandisk’s revenues to grow 153.17% year over year in fiscal 2026.\n\nSNDK’s Rivals Expand Their Own AI Storage Roadmaps\n\nMicron Technology MU is expanding its AI storage roadmap through G9 NAND, PCIe Gen6 data-center SSDs and a 122TB SSD, directly competing with Sandisk’s QLC Stargate platform. MU is benefiting from rising demand for enterprise SSDs, record QLC NAND adoption and growing AI workloads. Unlike Sandisk, MU combines NAND, DRAM, HBM, LPDRAM and SSD technologies in a diversified AI infrastructure portfolio, giving MU greater scale, broader market exposure and multiple growth opportunities.\n\nWestern Digital WDC is increasing its AI-storage roadmap through 40TB ePMR drives, 44TB HAMR drives, UltraSMR technology and high-bandwidth drives to meet rising AI data-storage demand. WDC benefits from strong hyperscaler relationships, long-term agreements and leadership in capacity-oriented storage, helping lower storage costs for cloud customers. While HDDs are less suited for high-performance AI workloads than QLC flash, WDC remains a major rival to Sandisk with its roadmap extending beyond 100TB capacities and a focus on large-scale AI data retention.\n\nStory Continues\n\nSNDK’s Share Price Performance, Valuation & Estimates\n\nSandisk’s shares have soared 592.2% in the year-to-date period, outperforming the broader Zacks Computer and Technology sector’s return of 19.2%.\n\nSNDK’s YTD Price Performance\n\nImage Source: Zacks Investment Research\n\nSNDK stock is trading at a forward 12-month price/sales of 6.23X compared with the Zacks Computer-Storage Devices industry’s 4.1X. Sandisk has a Value Score of F.\n\nSNDK’s Valuation\n\nThe Zacks Consensus Estimate for fiscal 2026 earnings is pegged at $64.82 per share, up by 39.5% over the past 30 days. Sandisk reported earnings of $2.99 per share in fiscal 2025.\n\nSandisk currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today’s Zacks #1 Rank stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "META, MSFT, GOOGL, AMZN, INTC",
