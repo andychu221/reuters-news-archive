@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T08:16:08.837Z",
-  "total_news_count": 300,
+  "last_updated": "2026-05-30T09:16:08.034Z",
+  "total_news_count": 299,
   "news": [
     {
       "Ticker": "6770.TW",
@@ -4151,20 +4151,6 @@
       "Keywords": "AI網通, WiFi 7, 車用乙太網路, 成本壓力, 下半年展望",
       "Related_Score": 4,
       "Sentiment_Score": 0
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-04-30",
-      "Time": "16:18:00",
-      "Source": "經濟日報",
-      "Title": "聯發科法說會／ASIC 專案今年帶來20億美元營收 比原先估計翻倍",
-      "URL": "https://money.udn.com/money/story/5612/9474593?from=edn_search_result",
-      "Content": "經濟日 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科執行長蔡力行表示，為美國超大型雲端服務供應商打造的首款AI加速器ASIC專案進展順利，預計第四季進入量產。\n• 預計今年第四季，AI ASIC晶片業務將為公司帶來約20億美元的營收，較先前預估的10億美元翻倍。\n• 展望2027年，該專案規模預計擴大至數十億美元，並與客戶及供應鏈夥伴進行另一個AI加速器ASIC專案。",
-      "Keywords": "ASIC, AI加速器, 雲端服務, 營收預期, 量產",
-      "Related_Score": 5,
-      "Sentiment_Score": 2
     }
   ]
 }
