@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-30T16:37:53.600Z",
-  "total_news_count": 785,
+  "last_updated": "2026-05-30T16:40:22.869Z",
+  "total_news_count": 786,
   "news": [
     {
       "Ticker": "INTC",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, NVDA",
+      "Ticker": "AMZN, MRVL, NVDA",
       "Date": "2026-05-30",
       "Time": "23:33:00",
       "Source": "Yahoo Finance",
@@ -45,6 +45,16 @@
       "Related_Score": 1,
       "Sentiment_Score": 0,
       "Keywords": "space industry, IPO, strategic partnership, on-orbit services, satellite technology"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-05-30",
+      "Time": "23:29:54",
+      "Source": "Yahoo Finance",
+      "Title": "Claude AI Makes Bullish Case for Reddit (RDDT)",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-makes-bullish-case-152954977.html",
+      "Content": "We just covered the Claude Stock Portfolio: Top 10 Stocks to Buy According to AI Chatbot . Reddit Inc (NYSE:RDDT) ranks #5 (see Claude Stock Portfolio: Top 5 Stocks to Buy According to AI Chatbot ).\n\nNumber of Hedge Funds: 82\n\nClaude picked Reddit Inc (NYSE:RDDT) as one of its top stock ideas despite Wall Street worries that AI chatbots could hurt the platform by giving users answers directly instead of sending them to Reddit. Claude argued bears were missing the bigger story: Reddit’s growing AI data-licensing business. Google has reportedly agreed to pay Reddit about $60 million annually to use Reddit data for training Gemini AI models, while OpenAI has also partnered with the company to bring Reddit content into ChatGPT products.\n\nClaude also pointed to Reddit’s April 30 earnings report as a potential catalyst for a post-results rally due to high short interest in the stock. That call proved correct. Reddit shares jumped in after-hours trading after the company posted stronger-than-expected first-quarter results, helped by a 74% surge in advertising revenue. Revenue rose 69% year over year to $663 million, while earnings of $1.01 per share easily topped Wall Street estimates. Reddit Inc (NYSE:RDDT) also issued second-quarter revenue guidance above analyst expectations.\n\nCarillon Eagle Mid Cap Growth Fund stated the following regarding Reddit, Inc. (NYSE:RDDT) in its Q1 2026 investor letter :\n\n“Reddit, Inc. (NYSE:RDDT) is an online community platform where users share, discuss, and engage with content across a wide range of topics. The company posted solid revenue growth and profitability, while the closely watched metric of logged-in user growth was ... ( Click Here to Read the Letter in Detail ) .”\n\nCopyright: dolgachov / 123RF Stock Photo\n\nWhile we acknowledge the potential of RDDT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<span",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
