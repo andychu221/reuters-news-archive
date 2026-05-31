@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-31T07:16:11.023Z",
-  "total_news_count": 294,
+  "last_updated": "2026-05-31T08:16:08.367Z",
+  "total_news_count": 295,
   "news": [
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-05-31",
+      "Time": "16:01:00",
+      "Source": "經濟日報",
+      "Title": "美光 Manassas 廠年底投產 法人：無礙&lt;u&gt;南亞科&lt;/u&gt;等供應鏈營運",
+      "URL": "https://money.udn.com/money/story/5612/9536723?from=edn_search_result",
+      "Content": "經濟日報 記者周克威／台北即時報導\n\n美光發布維吉尼亞州Manassas廠1αDRAM將在2026年底投產消息，法人機構表示，本次並非新建DDR4廠，而是對已營運近20年以上的既有美國記憶體fab進行現代化升級與擴產，無礙南亞科 （2408） 華邦電等台廠營運，因實際上全球DDR4供需結構並未立即改變。\n\n分析師指出，Micron所稱Manassas DDR4 wafer supply的4倍提升，較可能反映1α節點導入、產品配置調整與既有fab現代化升級的綜合作用，而非單純新增大量global DRAM wafercapacity所驅動。換言之，美光本次維吉尼亞州布局更接近既有DDR4 segmentationstrategy的延伸。\n\n從投資角度看，美光此次布局並不代表全面回頭押注commodity DDR4，而是在主流DRAM資源持續轉向HBM、DDR5與AI memory的背景下，透過美國本土製造、長生命週期應用與differentiated fab strategy，維持legacy memory產品線的供應能力與戰略定位，特別是在全球半導體supply-chain de-risking趨勢下，確保國防、航太、工業與關鍵基礎設施使用的記憶體具備美國本土供應來源，可降低對海外供應鏈的依賴風險。\n\n對產業而言，leading-edge DRAM持續向AI、DDR5集中，legacy memory則更偏向長生命周期、特殊應用與區域供應鏈需求的產品組合管理。\n\n對台灣記憶體廠而言，美光此次擴充1αDDR4、LP4產能的影響呈現分化。南亞科因產品結構仍以standard∕commodity DRAM為主，DDR4為重要產品組合之一，因此需留意美光布局可能影響市場對legacy DRAM供給收縮程度的預期。然而，考量Manassas主要聚焦long-lifecycle與特殊應用市場，其對南亞科核心commodity DRAM業務的直接基本面影響可能相對有限。\n\n相較之下，華邦電直接影響亦相對有限，因其產品組合除Specialty DRAM外，尚涵蓋NORFlash與embedded memory。不過在Made in America與supply-chain de- risking趨勢下，美國本土記憶體供應能力可能改變特殊應用市場競爭格局，值得後續觀察。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-05-31",
