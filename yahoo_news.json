@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T14:41:00.800Z",
-  "total_news_count": 1270,
+  "last_updated": "2026-06-01T15:15:25.403Z",
+  "total_news_count": 1274,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -23,13 +23,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "ARM",
+      "Ticker": "INTC, ARM",
       "Date": "2026-06-01",
       "Time": "22:26:21",
       "Source": "Yahoo Finance",
       "Title": "Nvidia Unveils RTX Spark as Arm Surges 14% on PC Push",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-unveils-rtx-spark-arm-142621570.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) is making a direct move into the PC market with its new RTX Spark Superchip, a combined processor and graphics chip designed to bring more AI power into laptops and desktops. CEO Jensen Huang announced at Computex in Taipei that the chip will begin appearing this fall in premium PCs from Dell Technologies ( NYSE:DELL ), Lenovo Group, and other major brands. Built with help from MediaTek and designed to run Microsoft's Windows for Arm operating system, the product could become Nvidia's most serious attempt yet to challenge the long-standing grip of Intel ( NASDAQ:INTC ) and Advanced Micro Devices ( NASDAQ:AMD ) in personal computers.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nInvestors reacted quickly to the news. Intel fell about 7% in pre-market trading, while Nvidia rose about 2%. Arm Holdings ( NASDAQ:ARM ), whose technology could benefit from Nvidia's backing, surged more than 14%, while MediaTek gained more than 5% in Taipei. The RTX Spark Superchip will include a CPU with up to 20 computing cores and a Blackwell-generation graphics processor with 6,144 cores. Both components will share built-in memory and use Nvidia's NVLink interface, bringing part of Nvidia's data center architecture into the PC market. Taiwan Semiconductor Manufacturing Co. will manufacture the chip design using its 3N process technology.\n\nFor investors, the bigger message is that Nvidia is trying to push its AI franchise beyond data centers and into everyday computing devices. The first RTX Spark laptops will target thin, light, premium machines, with broader price points possibly coming in later versions. Nvidia said the new devices should be better suited for large AI models, high-end gaming, and AI-powered software such as Adobe Photoshop, while also giving users more secure local control over data and applications. The company did not provide performance comparisons against competing products, saying those details will come when the machines are closer to going on sale. Huang framed Spark as the beginning of a possible PC shakeup that may eventually rival the arrival of the smartphone.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-01",
+      "Time": "22:25:22",
+      "Source": "Yahoo Finance",
+      "Title": "Why Sandisk Stock Keeps Going Up",
+      "URL": "https://finance.yahoo.com/m/19a6111c-8c8d-3e4e-b3d6-f5a88985131b/why-sandisk-stock-keeps-going.html",
+      "Content": "After surging in share price every single day last week, Sandisk (NASDAQ: SNDK) stock is starting off the month of June right with another 3.4% gain Monday morning (as of 9:45 a.m. ET).\n\nShares of the computer memory-maker appear to be getting a lift both from positive news out of Nvidia (NASDAQ: NVDA) and also enjoying a tailwind from yet another price target hike that Sandisk received on Friday.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nSusquehanna loves Sandisk\n\nLet's address the PT hike first. On Friday, Susquehanna analyst Mehdi Hosseini added 62.5% to his price target on Sandisk, lifting the \"positive\" rated stock's target to $3,250 per share. Hosseini is gaining \"growing confidence,\" he says, that profit margins in the computer memory space are sustainable in the long term and will not devolve into the usual boom-and-bust cycle common among semiconductor stocks.\n\nHosseini is forecasting tight memory supplies through 2027, keeping prices high at least that long. Indeed, prices might keep rising because demand for artificial intelligence \"inferencing\" (i.e., AI answering questions rather than training AI systems to answer questions) is still growing. The analyst expects this trend to continue into at least Q3 2026.\n\nNvidia and Sandisk\n\nThe other big news moving Sandisk today is Nvidia's announcement that it's moving deeper into the CPU game.\n\nNvidia says it has a new \"superchip\" in the works, called the RTX Spark, featuring a new N1X CPU that it will debut across a whole line of laptop computers from Microsoft (NASDAQ: MSFT) , Dell (NYSE: DELL) , HP (NYSE: HPQ) , ASUS, Lenovo, and MSI. Nvidia has also shifted into full production of its new Vera CPU, which will be used for inference by OpenAI, Anthropic, and SpaceX.\n\nThat last point aligns well with Hosseini's prediction of increased inference demand. And that's probably why Sandisk stock is up today.",
       "Language": "en"
     },
     {
@@ -43,6 +53,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-06-01",
+      "Time": "22:19:33",
+      "Source": "Yahoo Finance",
+      "Title": "Dell Targets Apple With $699 XPS 13",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/dell-targets-apple-699-xps-141933222.html",
+      "Content": "This article first appeared on GuruFocus .\n\nDell Technologies ( DELL , Financials ) is making a bigger push into affordable consumer laptops with a new XPS 13 priced to compete with Apple's MacBook Neo.\n\nWarning! GuruFocus has detected 7 Warning Sign with DELL.\n\nIs DELL fairly valued? Test your thesis with our free DCF calculator.\n\nThe laptop starts at $699, with a $599 student price for buyers aged 16 and older during the back-to-school season. Dell is aiming the device at students and young professionals who want a lighter premium laptop without paying higher-end prices.\n\nDell said the new XPS 13 is its thinnest and lightest model and is about half a pound lighter than Apple's MacBook Neo. It also offers a larger display.\n\nThe launch comes as PC makers deal with rising memory chip costs and the risk of slower shipments later this year. A more affordable XPS model could help Dell protect share in a tougher market.\n\nFor investors, the move shows Dell is not only riding AI server demand but also trying to strengthen its consumer PC lineup.\n\nThe next test will be whether the lower price can attract students and younger buyers without putting too much pressure on margins.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-01",
+      "Time": "22:18:36",
+      "Source": "Yahoo Finance",
+      "Title": "IBM Shares Surge as Old Clip of Trump Praise Recirculates Online",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/ibm-shares-surge-old-clip-141836172.html",
+      "Content": "(Bloomberg) -- A nearly six-month old video of Donald Trump praising International Business Machines Corp.’s CEO sent the shares surging almost 9% on Monday, adding more than $24 billion to the company’s stock-market value.\n\nMost Read from Bloomberg\n\nUS Says Deals With Iran for Safe Hormuz Transit Are Prohibited\n\nBerkshire Hathaway to Buy Taylor Morrison for $6.8 Billion\n\nA Rare ‘Super’ El Niño Is Looking More Likely. Here’s What to Expect\n\nStrait of Hormuz Ship Transits Are Rising Thanks to US Help\n\nPro-Trump Outsider Wins Colombia Vote, Sets Up Heated Runoff\n\nWhen the president initially praised IBM’s Arvind Krishna as a “legend” at the December White House event, there was little immediate market reaction.\n\nBut over the weekend, dozens of accounts on X recirculated the video, with one Saturday post from Polymarket Money alone racking up more than 700,000 views. By Sunday night, trading on Robinhood Markets Inc.’s 24 Hour Market showed that IBM stock was climbing — even before Nvidia Corp. CEO Jensen Huang’s comments boosted software shares — setting the stage for the sharp rise this morning.\n\nThe movement underscores the scale of the speculative mania that’s sweeping through corners of the market as the artificial-intelligence boom sets off a stampede into tech stocks. In this case, it also reflects Trump’s willingness to champion particular companies and industries, which has also occasionally caused his comments to set off sharp stock moves.\n\n“It’s not hard. Invest in what Trump talks about, make money, rinse and repeat,” said Matthew Tuttle, chief executive officer of Tuttle Capital Management. Even though the comments about IBM were months old, he added, it “doesn’t take much these days to get the animal spirits flowing.”\n\nIntel Corp. shares swung in August on Trump’s comments about its chief executive. Dell Technologies Inc. more recently popped after the president praised founder Michael Dell for contributing to his Trump investment accounts for children and urged Americans to buy the company’s computers. And Trump’s social media pronouncements about the war in Iran have moved the market more broadly.\n\nIBM shares had already been rising sharply along with other tech stocks. By the end of last week, they had surged nearly 40% in a little over two weeks.\n\nSome of those gains came after the Trump administration agreed to award $1 billion to the company to build a foundry for making quantum computing chips, a deal that set the government up to receive a minority equity stake. It’s unclear why the old Trump video gained ground on social media over the weekend, and Polymarket didn’t return a request for comment.\n\nStory Continues\n\nOn Monday, the stock jumped as much as 8.7% before paring the gain. It was up about 3.8% by 10:16 a.m. in New York trading.\n\nMatt Maley, chief market strategist at Miller Tabak + Co., said the move reflects how intensely traders are piling into market winners.\n\n“Whenever a stock gains some strong upside momentum in today’s markets, the momentum-based algos turbocharge that move,” he said. After the stock broke a resistance level last week, he said, traders “were looking for reasons to take it even higher.”\n\nMost Read from Bloomberg Businessweek\n\nWhat It Takes to Get a Job at Anthropic\n\nIt’s Such a Mess Shopping for Reasonably Priced Menswear\n\nValve, the Anticorporate Hero of the Games Industry, Has Its Antitrust Moment\n\nHow Barnes & Noble Became Private Equity’s Most Radical Retail Experiment\n\nThe Life and Grisly Death of a Sports Memorabilia Forger\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-06-01",
       "Time": "22:17:43",
@@ -50,6 +80,16 @@
       "Title": "Nvidia Pushes Into PCs With New Arm Chip",
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-pushes-pcs-arm-chip-141743781.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NVDA , Financials ) is moving deeper into the personal computer market with a new Arm-based processor, widening its ambitions beyond AI data centers.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nCEO Jensen Huang introduced the N1X processor at Computex in Taiwan. The chip, developed with Microsoft and designed with MediaTek, will be part of Nvidia's new RTX Spark superchip.\n\nThe first systems are expected to arrive in the fall through Microsoft, Dell, HP, ASUS, Lenovo and MSI. Nvidia said more than 30 laptops and 10 desktops are planned over time.\n\nThe move puts Nvidia into a market long dominated by Intel, AMD, Qualcomm and Apple. It also shows how AI is changing the PC industry, with companies racing to build machines that can run more advanced agentic AI workloads.\n\nThe RTX Spark combines a Blackwell GPU, the new N1X CPU and 128 gigabytes of unified memory. It is aimed first at creators, developers and gamers who want thin laptops or compact desktops with stronger AI performance.\n\nHuang also said Nvidia's Vera CPU for data centers is now in full production, with early customers including OpenAI, Anthropic, SpaceX's xAI, Dell, Oracle and CoreWeave.\n\nFor investors, the announcement shows Nvidia is trying to turn its AI leadership into a broader computing platform. The next test will be whether PC makers and buyers embrace Nvidia-powered systems as AI moves from data centers onto everyday devices.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-06-01",
+      "Time": "22:04:49",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Lands Major TSMC AI Win in Next-Generation Chip Production",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-lands-major-tsmc-ai-140449552.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) said TSMC is using Nvidia's accelerated computing tools and AI models to speed up chip design and manufacturing work, including lithography, transistor and process simulation, as well as fab operations.\n\nNvidia said TSMC is also using Nvidia Metropolis and the TAO Toolkit to improve automated defect inspection with vision AI. Nvidia said the approach is helping identify very small defects while reducing repeated labeling and retraining across factory workflows.\n\nWarning! GuruFocus has detected 5 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nNvidia separately said Foxconn is deploying Nvidia AI across medical centers in Taiwan, shifting from individual tools to coordinated AI agent systems that support clinicians with reasoning, documentation and care coordination.\n\nNvidia said Foxconn's CoDoctor AI platform and Nurabot nursing robots, now powered by Nvidia NemoClaw, have moved from pilot use into clinical operations. Nvidia said the rollout shows how its AI stack is spreading beyond data centers and into semiconductor manufacturing and healthcare.",
       "Language": "en"
     },
     {
