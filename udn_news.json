@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-01T06:16:46.918Z",
-  "total_news_count": 313,
+  "last_updated": "2026-06-01T07:16:20.084Z",
+  "total_news_count": 315,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-01",
+      "Time": "14:59:00",
+      "Source": "經濟日報",
+      "Title": "&lt;u&gt;聯發科&lt;/u&gt;攜手輝達推 RTX Spark 正式切入高階 Windows PC 市場",
+      "URL": "https://money.udn.com/money/story/5612/9538479?from=edn_search_result",
+      "Content": "經濟日報 記者朱子呈／台北即時報導\n\nIC設計龍頭聯發科 （2454） 1日宣布，攜手輝達（NVIDIA）推出全新 RTX Spark，鎖定新一代 Windows 11 PC，將聯發科在高效能 CPU、通訊與低功耗 SoC 設計能力，結合 NVIDIA 全堆疊 AI 平台與 RTX 技術，為輕薄筆電與小型桌機導入裝置端 Agentic AI、內容創作與遊戲運算能力。\n\n聯發科指出，RTX Spark 可驅動專為個人 AI 助理打造的 Windows PC，讓輕薄、高能效裝置也能具備即時 AI 代理、專業內容創作與高階遊戲體驗。聯發科資深副總經理暨數據中心暨運算事業群總經理胡俊弘表示，雙方透過 RTX Spark，讓消費型個人電腦具備前所未有的裝置端 AI 超級運算能力，也凸顯聯發科與 NVIDIA 多年合作推進前瞻技術的成果。\n\n此次合作也象徵聯發科正式從 Chromebook 與入門消費晶片市場，進一步跨入高階 Windows PC 領域。聯發科表示，公司過去已與 NVIDIA 在車用天璣汽車 C-X1 座艙平台、基於 NVLink Fusion 的資料中心 AI 基礎設施，以及 GB10 系統單晶片等領域密切合作，RTX Spark 則進一步擴大雙方在 PC 市場的合作版圖。\n\n在技術面上，聯發科為 RTX Spark 提供高效能 CPU 與快取、低功耗 SoC 整合、記憶體控制器、智慧電源管理與超低延遲無線連線等核心技術。其中，聯發科客製化設計記憶體控制晶片，最高可支援 128GB 統一記憶體；同時透過電源管理 IC 與供電系統優化，在高負載運算下仍兼顧效能與電池續航力。\n\n聯發科強調，RTX Spark 將重新定義現代 PC 標準，讓輕薄筆電與小型主機在維持散熱、便攜與能效表現下，仍可支援電影等級遊戲畫質、裝置端即時 AI 代理與雲端到邊緣的混合式 AI 負載，瞄準未來十年創作者、開發者與遊戲玩家的新世代運算需求。\n\n聯發科技今日正式宣布賦能NVIDIA新發表專為個人代理Windows 11 PC市場打造的全新處理器RTX Spark，於COMPUTEX 2026全新亮相。（長官：聯發科技公司資深副總經理暨運算事業群總經理Vince Hu）。公司／提供",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-01",
+      "Time": "14:37:00",
+      "Source": "經濟日報",
+      "Title": "&lt;u&gt;聯發科&lt;/u&gt;攜輝達　推出RTX Spark進入Windows市場",
+      "URL": "https://money.udn.com/money/story/5612/9538422?from=edn_search_result",
+      "Content": "中央社 記者張建中台北1日電\n\nIC設計廠聯發科今天宣布，與輝達（NVIDIA）合作推出新世代處理器RTX Spark，第一波搭載RTX Spark的筆記型電腦預計今年秋季上市。\n\n聯發科今天發布新聞稿指出，此次合作是結合聯發科在高效能中央處理器（CPU）、先進通訊、功耗效率的核心技術能力，以及輝達全堆疊AI平台與全套NVIDIA RTX技術，讓輕薄、高能效的裝置具備先進代理AI運算能力、內容創作與遊戲效能。\n\n聯發科資深副總經理暨數據中心暨運算事業群總經理Vince Hu表示，聯發科與輝達透過RTX Spark，讓消費型個人電腦具備裝置端AI超級運算能力。\n\n聯發科指出，與輝達已在數個市場密切合作，包括車用領域的天璣汽車C-X1座艙平台、基於NVLinkFusion技術的資料中心AI基礎設施，以及GB10系統單晶片。此次RTX Spark的推出，進一步拓展雙方的合作領域。\n\n聯發科表示，長期來主導入門款消費晶片市場，擁有包含旗艦AI處理器在內的完整平台產品陣容。透過此次與輝達合作，聯發科以技術供應商身分，正式進入Windows個人電腦（PC）市場，展現先進的創新實力，為全世界使用者的生活帶來正面的影響。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-06-01",
