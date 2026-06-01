@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T18:15:33.978Z",
-  "total_news_count": 1325,
+  "last_updated": "2026-06-01T18:32:11.182Z",
+  "total_news_count": 1326,
   "news": [
     {
       "Ticker": "AAPL",
@@ -93,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "ARM, NVDA",
       "Date": "2026-06-02",
       "Time": "01:37:57",
       "Source": "Yahoo Finance",
@@ -113,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "ARM, INTC",
       "Date": "2026-06-02",
       "Time": "01:32:58",
       "Source": "Yahoo Finance",
@@ -915,6 +915,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "AI, data center, capital expenditures, revenue growth, valuation"
+    },
+    {
+      "Ticker": "LRCX",
+      "Date": "2026-06-01",
+      "Time": "20:18:19",
+      "Source": "Yahoo Finance",
+      "Title": "Is Lam Research Stock Outperforming the S&P 500?",
+      "URL": "https://finance.yahoo.com/m/538b01df-0304-3236-85f3-62bb4b7ef8ec/is-lam-research-stock.html",
+      "Content": "Lam Research Corporation (LRCX), headquartered in Fremont, California, designs, manufactures, markets, refurbishes, and services semiconductor processing equipment used in the fabrication of integrated circuits. Valued at $397.9 billion by market cap, the company’s products are used to deposit special films on a silicon wafer and etch away portions of various films to create a circuit design.\n\nCompanies worth $200 billion or more are generally described as “mega-cap stocks,” and LRCX definitely fits that description, with its market cap exceeding this threshold, reflecting its substantial size, influence, and dominance within the semiconductor equipment & materials industry. LRCX’s competitive edge comes from its specialization in etch and deposition, critical processes where it holds a technology leadership position and large market share. This focus builds a strong moat through proprietary know-how and deep customer partnerships.\n\nMore News from Barchart\n\nBarclays Says Sandisk’s New AI Contracts Could Change the Memory Industry\n\nMeta Has a Plan to Monetize Its AI Investments. Its Underperforming Stock Needs It Badly.\n\nWhy Warren Buffett Hasn’t Sold Coca-Cola Stock for Over 30 Years\n\nOur exclusive Barchart Brief newsletter is your FREE midday guide to what's moving stocks, sectors, and investor sentiment - delivered right when you need the info most. Subscribe today!\n\nDespite its notable strength, LRCX slipped 4.5% from its 52-week high of $333.33, achieved on May 27. Over the past three months, LRCX stock gained 36%, outperforming the S&P 500 Index’s ($SPX) 10.2% gains during the same time frame.\n\nShares of LRCX rose 85.9% on a YTD basis and climbed 278.8% over the past 52 weeks, significantly outperforming SPX’s YTD gains of 10.7% and 28.7% returns over the last year.\n\nTo confirm the bullish trend, LRCX has been trading above its 50-day and 200-day moving averages over the past year, with some fluctuations.\n\nLRCX’s outperformance is driven by AI-fueled demand for semiconductor manufacturing equipment. CEO Timothy Archer noted that the Customer Support Business Group hit a record $2 billion in quarterly revenue on growth in spares, upgrades, and services, while investments in advanced packaging, NAND, and DRAM for AI data centers boosted revenue and margins. Archer said “semiconductor technology inflections required for AI compute are driving higher deposition and etch intensity,” creating a multiyear growth setup. Guidance remains strong through 2027, supported by new memory and logic adoption, expanded operations including a Malaysia fab, and tools like Equipment Intelligence and Dextro cobots that improve customer productivity.\n\nStory Continues\n\nLRCX has outpaced its rival, Applied Materials, Inc. (AMAT), which gained 178.5% over the past 52 weeks and 75.1% on a YTD basis.\n\nWall Street analysts are bullish on LRCX’s prospects. The stock has a consensus “Strong Buy” rating from the 33 analysts covering it. While LRCX currently trades above its mean price target of $316.11, the Street-high price target of $385 suggests a 21% upside potential.",
+      "Language": "en"
     },
     {
       "Ticker": "INTC",
