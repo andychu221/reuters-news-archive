@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T10:20:48.279Z",
-  "total_news_count": 1525,
+  "last_updated": "2026-06-02T10:32:07.411Z",
+  "total_news_count": 1526,
   "news": [
     {
       "Ticker": "AAPL",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "ARM, NVDA",
       "Date": "2026-06-02",
       "Time": "17:48:57",
       "Source": "Yahoo Finance",
@@ -485,6 +485,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 1,
       "Keywords": "AI, data center infrastructure, free cash flow, valuation, inference spending"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-06-02",
+      "Time": "14:43:05",
+      "Source": "Yahoo Finance",
+      "Title": "Arm May Hit $15 Billion AI Chip Revenue Goal Early, CEO Says",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/arm-may-hit-15-billion-064305343.html",
+      "Content": "(Bloomberg) -- Arm Holdings Plc may achieve its target of $15 billion in sales of its own chips earlier than anticipated, its chief executive officer said, reflecting stronger-than-projected demand from the AI boom.\n\nMost Read from Bloomberg\n\nRussia Finance Officials Tell Putin War Spending Is Unaffordable\n\nCanada Dips Into Technical Recession for First Time Since 2020\n\nAlphabet to Raise $80 Billion in Equity for AI Spending\n\nUS Says Deals With Iran for Safe Hormuz Transit Are Prohibited\n\nAndrew Left Found Guilty in Case That Spooked Short Sellers\n\nCEO Rene Haas told Bloomberg Television he’s “very confident” of attaining that goal by the previously stated end of the decade. On Tuesday, he said there are indications the SoftBank Group Corp. company may reach that milestone sooner, in part because of overwhelming demand from an industry racing to build data centers and artificial intelligence services.\n\n“I’m hoping to hit that sooner. Demand has been stronger than we anticipated,” Haas said in a brief interview on the sidelines of Computex, Asia’s biggest tech industry convention. “Demand has been fantastic.”\n\nArm announced plans in March to sell its own chips for the first time — a major strategic shift for a company that made its name licensing technology to semiconductor makers. As part of the move, the SoftBank-controlled firm laid out aggressive targets for the coming years, including that $15 billion projection. It expects revenue from the new chip business to eclipse sales from current operations, which focus on selling intellectual property.\n\nMeta Platforms Inc. will be the first major customer for the company’s chip, called an AGI CPU. The product will have as many as 136 cores — a measure of processing power — and draw 300 watts of electricity, according to the UK-based company. Taiwan Semiconductor Manufacturing Co. will produce the chip.\n\nArm decided to make the new component because customers asked for it, Haas reiterated on Tuesday. The central processing unit, often described as the brains of a computer, is designed to work alongside the accelerators offered by companies such as Nvidia Corp. It helps coordinate work between computers, prepares data and runs elements that provide a response to users making AI queries.\n\nMost Read from Bloomberg Businessweek\n\nValve, the Anticorporate Hero of the Games Industry, Has Its Antitrust Moment\n\nWhat It Takes to Get a Job at Anthropic\n\nWhole Foods’ CEO Wants to Put a Banana in Your Amazon Box\n\nIt’s Such a Mess Shopping for Reasonably Priced Menswear\n\nHow the Iran War Is Affecting Tropical Beach Vacation Hot Spots\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
