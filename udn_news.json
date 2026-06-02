@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-02T00:16:25.272Z",
-  "total_news_count": 331,
+  "last_updated": "2026-06-02T01:16:16.468Z",
+  "total_news_count": 332,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "08:59:00",
+      "Source": "經濟日報",
+      "Title": "輝達黃仁勳 COMPUTEX 開展日受媒體問答 &lt;u&gt;聯發科&lt;/u&gt;蔡力行驚喜現身",
+      "URL": "https://money.udn.com/money/story/5612/9539826?from=edn_search_result",
+      "Content": "經濟日報 記者鐘惠玲/即時報導\n\n輝達執行長黃仁勳於2日舉行媒體問答，出乎意料的是聯發科 （2454） 執行長蔡力行也到場對談。\n\n黃仁勳1日在GTC Taipei 2026宣布推出專為個人代理所打造的Windows PC系統超級晶片RTX Spark，該晶片內建CPU是與聯發科合作開發。\n\nRTX Spark 超級晶片由台積電 （2330） 3奈米製程打造，搭載一顆Blackwell RTX GPU，並連結高效能20 核心Grace CPU。聯發科與輝達共同合作設計這款客製化CPU，代號為N1X，採用安謀（Arm）架構。輝達先前推出的個人AI超級電腦DGX Spark，就是搭載與聯發科共同開發的GB10超級晶片，現在雙方於RTX Spark再續前緣。\n\n聯發科強調，聯發科與輝達透過RTX Spark，讓消費型個人電腦具備前所未有的裝置端AI超級運算能力。同時，透過此次合作，聯發科以技術供應商身分，正式進入Windows PC市場。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-02",
