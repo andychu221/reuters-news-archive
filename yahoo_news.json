@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-02T11:15:37.630Z",
-  "total_news_count": 1540,
+  "last_updated": "2026-06-02T11:40:14.428Z",
+  "total_news_count": 1541,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-02",
+      "Time": "19:01:18",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/amazons-ring-sued-over-facial-110118391.html",
+      "Content": "By Greg Bensinger\n\nSAN FRANCISCO, June 2 (Reuters) - Amazon was sued on Monday by a Virginia resident over what he said were privacy violations after the company's Ring ‌doorbell cameras at friends and family members' homes collected and stored images of his ‌face using facial recognition software.\n\nMore from Yahoo Scout\n\nHow much damages is the plaintiff seeking?\n\nWhat partnerships has Ring ended due to criticism?\n\nWhat are Ring's previous privacy violation settlements?\n\nWhat is Amazon's Ring Familiar Faces feature controversy?\n\nThe plaintiff, Charles Sigwalt, who is seeking class-action status, sued Amazon in federal court in Seattle ​alleging a feature known as “Familiar Faces” retains images of passersby without their consent. He is seeking at least $5 million in damages for the class.\n\nFamiliar Faces, which is optional, uses artificial intelligence to identify and remember people so that when they return to a home or a business, notifications can include specific ‌names.\n\nThose affected “did not consent to have ⁠their privacy rights violated at the entrance way,” according to the suit. “Millions of other Americans passed by a Ring security camera and unknowingly had their ⁠facial recognition information collected.”\n\nAmazon declined to comment.\n\nThe suit, which seeks unspecified damages for those impacted, is just the latest in a string of controversies around Amazon’s Ring, the unit that makes the eponymous smart ​doorbells and ​security systems.\n\nRing, which Amazon bought in 2018 for $1 billion, ​in February faced a backlash over ‌a service that it advertised during the Super Bowl that it said helps people find lost dogs by activating its neighborhood network of cameras. Users and privacy advocates were concerned the cameras could be deployed to surveil whole neighborhoods or areas.\n\nFollowing the criticism, Ring in February ended an unrelated partnership with Flock Safety, which deploys license plate readers and cameras for law enforcement use.\n\nIn 2023, the ‌U.S. Federal Trade Commission reached a $5.8 million settlement with ​Ring over privacy allegations that it said included a former ​employee spying on female customers in ​their home bedrooms and bathrooms.\n\nThe FTC said Ring employees had unrestricted access to ‌customers’ sensitive video data, allowing them and ​contractors to view and download ​it. Amazon denied any wrongdoing as part of the settlement.\n\nU.S. Democratic Senator Ed Markey alleged in 2022 that Ring violated people’s privacy through its partnerships with law enforcement, allowing ​them access to some user ‌footage without proper consent.\n\nIn the suit filed on Monday, Sigwalt said Amazon’s “conduct here represents ​a profound privacy failure for millions of people who are now being tracked by ​Amazon.”\n\n(Reporting by Greg Bensinger; Editing by Jamie Freed)",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-06-02",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-06-02",
       "Time": "18:38:22",
       "Source": "Yahoo Finance",
