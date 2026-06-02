@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T02:40:04.833Z",
-  "total_news_count": 1409,
+  "last_updated": "2026-06-02T02:46:41.646Z",
+  "total_news_count": 1433,
   "news": [
     {
       "Ticker": "AMZN",
@@ -13,6 +13,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "10:00:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳證實AI PC平台就是NVIDIA RTX Spark AI PC，聯發科是重要夥伴",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AD%89%E5%AF%A6ai-pc%E5%B9%B3%E5%8F%B0%E5%B0%B1%E6%98%AFnvidia-rtx-spark-ai-020047908.html",
+      "Content": "【財訊快報／記者李純君報導】NVIDIA執行長黃仁勳，在今早的媒體問答記者會中，邀來了聯發科(2454)執行長蔡力行，證實了市場傳言許久的N1/N1X的AI PC平台確實存在，就是NVIDIA RTX Spark AI PC。至於聯發科是AI PC最重要夥伴之一，負責CPU SoC，也宣告聯發科正式從手機SoC供應商，升級成NVIDIA AI PC 平台共同架構夥伴。黃仁勳提到，AI PC未來架構是CPU + GPU + Memory緊密整合，AI真正運作時，不只是GPU在算，而是AI Agent到理解Prompt到拆解任務，進入推理(Reasoning)，在有調用工具(Tools)與執行程式(Code)，然後存取記憶體(Memory)，因此需要有CPU負責工作調度（Orchestration）、Agent控制、Tool Calling、Browser、Code Execution，和Photoshop等應用程式啟動，而GPU負責LLM推理、Tensor運算、AI生成，黃仁勳稱這套架構為『Harness』，即AI推理控制中樞。\n\n他也提到，聯發科是AI PC最重要合作夥伴之一，One of the most important companies we partnered with is MediaTek。意味著，聯發科在AI PC被NVIDIA正式點名成為核心夥伴，聯發科負責CPU SoC。\n\n蔡力行則透露，聯發科負責CPU，有Multimedia Engine、Low Power Design，以及Energy Efficiency。NVIDIA提供GPU、CUDA、Tensor Core、AI軟體生態系。\n\n此外，蔡力行也透露，PCI Express bandwidth is too small，指PCIe已不適合未來Agent AI，因為PCIe存在頻寬不足、延遲過高，以及功耗過高等問題，因此NVIDIA要求NVLink-C2C，讓Chip-to-Chip互連，可具備超高頻寬、超低延遲，和超低功耗特性，\n\n另外黃仁勳也反覆強調統一記憶體架構（Unified Memory），即CPU、GPU和Tensor Core都能直接存取同一塊記憶體，可以讓AI推理效率大幅提升，而NVIDIA攜手MediaTek的版本，目標是Windows AI PC。\n\nNVIDIA主打100% Windows Compatibility、100% CUDA Compatibility、Full OpenGL Compatibility，且NVIDIA AI PC正式成形，黃仁勳提到，PC has a new life after 40 years，過去的PC是以CPU中心，但現在的PC是AI Agent Computer，運作模式是CPU+GPU+NPU+Unified Memory，未來每台PC都是本地AI工作站，此外，AI PC功耗遠高於傳統Notebook。無疑也宣告了，NVIDIA正式把資料中心的AI架構，即Grace+Blackwell+NVLink+Unified Memory，搬進PC。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "09:51:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "與蔡力行同台談N1X新晶片　黃仁勳：將長期擴展此架構",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%88%87%E8%94%A1%E5%8A%9B%E8%A1%8C%E5%90%8C%E5%8F%B0%E8%AB%87n1x%E6%96%B0%E6%99%B6%E7%89%87-%E9%BB%83%E4%BB%81%E5%8B%B3-%E5%B0%87%E9%95%B7%E6%9C%9F%E6%93%B4%E5%B1%95%E6%AD%A4%E6%9E%B6%E6%A7%8B-015116166.html",
+      "Content": "（中央社記者吳家豪台北2026年06月2日電）輝達（NVIDIA）執行長黃仁勳今天舉行全球媒體問答，與聯發科 (2454) 執行長蔡力行同台，談到雙方合作的Arm架構N1X晶片；黃仁勳透露，N1X名稱的由來，是因為有一個較小的版本稱為N1，輝達已著手規劃N2X和N3X，「我們將在很長一段時間內擴展這個架構」。\n\n黃仁勳1日在GTC Taipei大會主題演講中宣布，攜手聯發科、台積電 (2330) 與微軟（Microsoft）發表N1X晶片，專為個人AI代理打造，將搭載在RTX Spark系列Windows PC；聯發科為Arm架構系統級晶片設計廠，與輝達合作設計這款客製中央處理器（CPU）。\n\n黃仁勳在今天舉行的媒體問答中表示，輝達一直在思考創意人士與設計師的未來市場，以及人工智慧（AI）將成為其中不可或缺一部分的使用案例。為了打造一台能讓代理程式在裝置端運行的電腦，需要一個功能強大且節能的系統單晶片（SoC）。\n\n「我們選擇與聯發科合作的原因，是你們（聯發科）的工程技術在各方面都是世界一流的」，黃仁勳在今天舉行的媒體問答中表示，這項專案在輝達和聯發科都各自動用了數百名工程師，雙方合作近2年，是一段很棒的旅程。\n\n黃仁勳說，「我們需要一個頻寬高出許多倍、延遲極低、能耗非常低的產品」，輝達也與微軟合作，確保這顆SoC是有史以來打造的所有晶片中，擁有最好的Windows相容性和x86架構相容性。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AAPL",
       "Date": "2026-06-02",
       "Time": "09:51:00",
@@ -23,6 +43,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:45:22",
+      "Source": "Yahoo奇摩股市",
+      "Title": "重押台積電！40％資金買「4大巨頭」 神級操盤手私藏股",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%87%8D%E6%8A%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB-40-%E8%B3%87%E9%87%91%E8%B2%B7-4%E5%A4%A7%E5%B7%A8%E9%A0%AD-%E7%A5%9E%E7%B4%9A%E6%93%8D%E7%9B%A4%E6%89%8B%E7%A7%81%E8%97%8F%E8%82%A1-014522483.html",
+      "Content": "人工智慧狂潮，推升供應鏈股價水漲船高，華爾街低調的神級操盤手Light Street Capital創辦人Glen Kacher重押40%資金在4檔概念股上，包括輝達、台積電、博通及超微，其中台積電是最大持股，佔投資組合的14.4%。\n\n績效驚人的操盤手看好誰？\n\n外媒The Motley Fool報導，Glen Kacher並非家喻戶曉的知名分析師，但在過去三年是表現最好的科技投資人之一，旗下基金在2023年創造45.7%的報酬率，2024年衝上59.4%，去年報酬率也繳出37.3%的績效。\n\n因此，當Glen Kacher重押40%資金在人工智慧概念股時，受到市場高度關注，台積電是Glen Kacher的最大持股。報導提到，很容易理解買進台積電的原因，台積電在先進晶片生產上，幾乎已經達到實質性的壟斷。\n\n值得留意的是，Glen Kacher在今年第一季已經買了一些選擇權部位，替現貨避險，可能預期股價漲多後出現波動。\n\n人工智慧狂潮 後市在哪？\n\n輝達是Glen Kacher手上的第二大持股，佔比為8.9%。外媒分析，Glen Kacher看好輝達歷經巨大成長之後前方道路依然清晰，輝達是AI基礎設施之王，在大型語言模型（LLM）訓練市場中佔據主導地位，CUDA平台擁有寬廣的護城河。\n\n博通佔投資組合的8.7%為第三大持股，且是Glen Kacher在上一季唯一加碼的前四大持股。該公司在特定應用積體電路（ASIC）技術和資料中心網路領域處於領先地位，憑藉其客製化AI晶片業務擁有巨大的成長前景。\n\n超微以佔比8.4%排名緊追，看好超微目前擁有兩筆價值各約千億美元的合約承諾，成為營收成長的巨大驅動力。同時，超微也是資料中心CPU領域的領頭羊，有望隨著AI代理市場成熟，迎來市場規模爆發。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:44:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股開盤〉AI開趴接著奏樂接著舞 漲逾500點創45915點新高後一度翻黑",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-ai%E9%96%8B%E8%B6%B4%E6%8E%A5%E8%91%97%E5%A5%8F%E6%A8%82%E6%8E%A5%E8%91%97%E8%88%9E-%E6%BC%B2%E9%80%BE500%E9%BB%9E%E5%89%B545915%E9%BB%9E%E6%96%B0%E9%AB%98%E5%BE%8C-%E5%BA%A6%E7%BF%BB%E9%BB%91-014443491.html",
+      "Content": "輝達 (NVDA-US) 執行長黃仁勳在台北國際電腦展 (COMPUTEX) 主題演講中正式發表 RTX Spark 超級晶片，市場看好 AI PC 將成為下一波成長引擎，激勵輝達股價大漲 6.26%，並帶動台股在 AI 盛宴帶領下開高，台股今 (2) 日開盤後上漲 578 點，漲幅 1.16%，最高來到新高點 45915.92 點，隨後遭到摜壓，但守穩 4 萬 5 後翻紅續攻，預估全日成交量約 1.78 兆元。\n\n早盤盤台積電上 漲 30 元 1.27%，報 2385 元。最高 2400 元。\n\n資深證券分析師簡伯儀指出， 台股主要格局偏多，但多方在指數走高同時，雖然看好後市，但追價力道不足，但即使拉回，也明顯獲得短期均線支撐，且如 5 日線也不下彎，形成台股多方強大支撐。\n\n技術面來看 ，台股 1 日大盤開高走高，成交量量縮收盤再創新高，技術指標 KD 與 RSI 均持續向上延伸，MACD 紅柱體擴大，目前資金充沛維持良性輪漲，盤勢仍由多方掌握發球權。\n\n台股集中市場今天早盤集中市場加權股價指數以 45388.93 點開出，最高 45915.92 點，最低 45388.93 點預估全場成交值 1.6 3 兆元。\n\n今天早盤在權值股表現方面，除了台積電上漲外，台達電 (2308-TW) 下挫之外，鴻海 (2317-TW) 股價早盤上漲 4 元 1.36%，CCL 廠台光電 (2383-TW 下跌 1.68%。\n\n類股族群上， IC 載板景碩 (3189-TW)、欣興 (3037-TW) 及南電 (8046-TW) 表現弱勢下跌，欣興力圖守住 1000 元大關。\n\n今晨收盤的美股方面，市場看好 AI PC 將成為下一波成長引擎，激勵輝達股價大漲 6.26%，成為推升費城半導體指數上漲 1.06% 的最大功臣。收盤道瓊工業指數上漲 46.42 點，或 0.09%，報 51,078.88 點。那斯達克指數上漲 114.19 點，或 0.42%，報 27,086.81 點。S&P 500 指數上漲 19.90 點，或 0.26%，報 7,599.96 點。費城半導體指數上漲 136.27 點，或 1.06%，報 12,965.65 點。NYSE FANG+ 指數上漲 253.85 點，或 1.38%，報 18,651.31 點。\n\n台股指標台積電 ADR (TSM-US) 大漲 4.11%。輝達 (NVDA-US) 大漲 6.26%。\n\n對台股發展，統一證券指出，本週圍繞 COMPUTEX 展，台股目前維持良性輪動的高檔震盪格局，惟技術面高檔鈍化，加上外資期貨空單近 6 萬 5 千口，短線應提防行情隨時劇烈波 動，操作保持適度的資金彈性，建議低接不追高。選股以流動性佳的中大型 AI 權值股為主，技術面轉強及有題材的個股為輔。\n\n統一證券指出，長線追蹤族群：包括台積電及先進製程 / 封裝、高速傳輸 (含光傳輸)、載板與 PCB、機箱滑軌、被動元件、功率半導體、航太衛星、特用化學及漲價概念等族群。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII, 2330.TW",
       "Date": "2026-06-02",
       "Time": "09:39:26",
@@ -30,6 +70,16 @@
       "Title": "【Yahoo早盤】黃仁勳點火台股漲逾500點至45915點 分析師張家豪曝攻4萬6關鍵",
       "URL": "https://tw.stock.yahoo.com/news/%E3%80%90yahoo%E6%97%A9%E7%9B%A4%E3%80%91%E9%BB%83%E4%BB%81%E5%8B%B3%E9%BB%9E%E7%81%AB%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%80%BE500%E9%BB%9E%E8%87%B345915%E9%BB%9E-%E5%88%86%E6%9E%90%E5%B8%AB%E5%BC%B5%E5%AE%B6%E8%B1%AA%E6%9B%9D%E6%94%BB4%E8%90%AC6%E9%97%9C%E9%8D%B5-013926147.html",
       "Content": "輝達執行長黃仁勳在COMPUTEX 2026 發表新一代 AI PC 晶片，激勵輝達股價大漲逾6%，帶動美股四大指數同步收紅。受利多激勵，台股今（2）日開盤後一度大漲逾500點、衝上45,915點，不過隨後漲勢收斂甚至短暫翻黑。顧德投顧分析師張家豪指出，目前台股仍維持強勢多頭格局，只要權王台積電（2330）持續穩步墊高、未出現長下影線訊號，加權指數仍有機會挑戰並站上46,000點整數大關。\n\n台股今以45388.93點開出，上漲51.02點，隨後在台積電上漲40元領軍下，指數開高走高，大漲逾500點來到45,879點。台積電（2330）開盤後上漲35元來到2,390元，漲幅1.49％，隨後進一步漲40元至2,395元；鴻海（2317）上漲4元至297.5元；聯發科（2454）漲415元至4,970元；台達電（2308）上漲10元至2,430，隨即震盪走弱。\n\n今日值班分析師：顧德投顧分析師張家豪\n\n張家豪指出，台股目前跟隨國際股市呈現強勢多頭，正持續挑戰歷史新高，且加權指數已進入KD 高檔鈍化，這是強勢飆股出現的必要條件，預期後續仍有一段強勁的攻擊行情。另外，從季節性慣性來看，清明節後到端午節前通常是台股一年中極佳的獲利區間，今年此趨勢尤為明顯。\n\n針對今日台股是否站穩46,000點？張家豪分析，關鍵在於權王台積電（2330）的表現，台積電昨日創下歷史新高但留有長下影線，顯示正在測試高位，若今日能穩定走強、沒有留下長下影線，將帶動大盤突破。\n\n台股多頭氣焰旺 端午節前還有衝刺期\n\n張家豪提醒，目前正值台北國際電腦展Computex期間，預計到端午節前還有約兩周的衝刺期，需留意端午節後市場可能會暫時進入休息階段。\n\n在族群方面，張家豪說，上周電子五哥行情即開始發酵，目前維持多頭趨勢；此外，扇出型面板級封裝（FOPLP）族群表現強勁可以多加留意，然而，記憶體族群則受到Computex題材影響，不少資金流到老AI股，但從長線來看，記憶體的缺貨情況難以在短期內緩解，產業長線趨勢仍然維持向上。\n\n美國、伊朗的和平協議談判陷入停滯，帶動國際油價再度上漲，不過輝達執行長黃仁勳昨日在COMPUTEX 2026發表新一代人工智慧PC晶片，引發市場熱烈迴響，輝達股價收盤大漲逾6%，激勵美股三大指數改寫收盤新高紀錄。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "09:34:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "2張椅子藏伏筆！黃仁勳全球記者會「蔡力行站台」親揭RTX Spark秘辛",
+      "URL": "https://tw.stock.yahoo.com/news/2%E5%BC%B5%E6%A4%85%E5%AD%90%E8%97%8F%E4%BC%8F%E7%AD%86-%E9%BB%83%E4%BB%81%E5%8B%B3%E5%85%A8%E7%90%83%E8%A8%98%E8%80%85%E6%9C%83-%E8%94%A1%E5%8A%9B%E8%A1%8C%E7%AB%99%E5%8F%B0-%E8%A6%AA%E6%8F%ADrtx-spark%E7%A7%98%E8%BE%9B-013417384.html",
+      "Content": "輝達執行長黃仁勳今（2）日一早在台北漢來大飯店舉行全球媒體問答，活動開場前，現場即擺放2張椅子，引發媒體猜測是否會有神秘嘉賓到場。最後時刻，聯發科副董事長暨執行長蔡力行驚喜現身，與黃仁勳同台對談，兩人也親自揭露雙方攜手打造新一代AI PC超級晶片RTX Spark的合作細節。\n\n一開場，黃仁勳先是回憶過去和聯發科的合作歷程，直言這是一段長久的旅程，還開玩笑問蔡力行，「經過這麼久，我們還是朋友嗎？」，再用台語笑說「我開玩笑的」。\n\n黃仁勳表示，AI時代正在出現新的運算模式，未來應用程式的架構將圍繞AI Agent展開。AI Agent必須能理解情境、判斷使用者意圖，並一步一步拆解問題、進行推理，背後仰賴 GPU、CPU、記憶體與工具鏈協同運作；CPU則負責調度運算，包括處理記憶、啟動工具、使用瀏覽器、執行或撰寫程式碼，甚至開啟Adobe Photoshop等應用。\n\n黃仁勳指出，這樣的AI運算模式不只會出現在雲端，也會落地到機器人與個人電腦等本地端裝置，因此輝達打造全新的AI PC產品RTX Spark。他表示，這項產品是許多公司共同合作的成果，其中最重要的合作夥伴之一，就是聯發科。\n\n之後，他主動找上蔡力行，提出共同打造一款「前所未有」晶片與電腦的構想，這項產品必須具備Windows相容性，也要能支援AI Agent在本地端裝置上運作。他回憶，要打造這樣的電腦，需要一顆強大且具能源效率的SoC，而聯發科在手機、消費電子、多媒體與低功耗技術上的累積，正好符合需求。\n\n黃仁勳說，雙方共同打造的晶片，結合聯發科在CPU、低功耗與多媒體技術上的專長，以及輝達在GPU、CUDA、Tensor Core與AI運算上的優勢，並透過MD-Link晶片對晶片互連技術，讓CPU、GPU與Tensor Core可直接存取記憶體，實現高頻寬、低延遲與低功耗的統一記憶體架構。\n\n黃仁勳表示，N1X最大的技術關鍵在於採用NVLink晶片對晶片（Chip-to-Chip）互連技術，讓CPU、GPU與Tensor Core共享統一記憶體架構，大幅提升頻寬與運算效率。他更透露，開發過程中有一項要求「完全沒有妥協空間」，就是一定要導入NVLink，而非傳統PCI Express架構。\n\n蔡力行則表示，這趟合作旅程很棒，但並非沒有挑戰。黃仁勳提出的各項相容性要求，背後都需要雙方工程團隊投入大量努力。\n\n蔡力行也透露，黃仁勳一開始就要求「不能妥協」，尤其CPU與GPU之間的連接不能只依賴傳統PCI Express。他坦言，一開始並不完全理解，但後來發現PCI Express頻寬太小、延遲太高、耗能也偏高，因此雙方需要更高頻寬、更低延遲、更低功耗的晶片互連方案。\n\n針對外界關心N1X與RTX Spark的關係，黃仁勳也在現場給出明確答案。他表示，輝達與聯發科合作的產品，在開發過程中的代號就是N1X；外界詢問N1X是否就是RTX Spark，「答案是yes」。他並說，N1X其實就是日前發表的RTX Spark產品代號，所以你可以說是同一個東西。\n\n黃仁勳1日在GTC Taipei 2026宣布推出專為個人代理所打造的Windows PC系統超級晶片RTX Spark，該晶片內建CPU是與聯發科合作開發。\n\nRTX Spark 超級晶片由台積電3奈米製程打造，搭載一顆Blackwell RTX GPU，並連結高效能20 核心Grace CPU。聯發科與輝達共同合作設計這款客製化CPU，代號為N1X，採用安謀（Arm）架構。輝達先前推出的個人AI超級電腦DGX Spark，就是搭載與聯發科共同開發的GB10超級晶片，現在雙方於RTX Spark再續前緣。",
       "Language": "zh"
     },
     {
@@ -53,6 +103,36 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:24:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：華晶科(3059.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E8%8F%AF%E6%99%B6%E7%A7%91-3059-tw-012400436.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:24:27 數位內容中心 發佈\n\n華晶科（3059.TW）盤中成交價51元，上漲9.79%，與開盤價同為51元，低點50.8元，成交量9757張。內盤量218張，外盤量5952張。\n\n華晶科從事數位影像相關產品研發、設計、製造與銷售，應用涵蓋車用、醫療、無人機與機器人視覺。近期公司在Computex 2026展示無人機與機器人視覺完整解決方案，聚焦邊緣AI運算、熱成像、低照度夜視與RGB-D深度感測。\n\n營運方面，華晶科2026年4月營收7.7億元，年增14.98%。\n\n台股焦點：桓達(4549.TW)\n\n台股焦點：能率亞洲(7777.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:23:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：中釉(1809.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E4%B8%AD%E9%87%89-1809-tw-012300733.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:23:40 數位內容中心 發佈\n\n中釉（1809.TW）盤中上漲，開盤49.9元，隨後來到52.6元，較昨收47.9元上漲9.81%，成交量5255張，均價52.03元。\n\n中釉以色釉料產品為主，並布局玉晶石、精密陶瓷與結晶化玻璃等領域。近期市場關注高階電子材料，中釉投入高階晶片封裝用類晶玻璃陶瓷中介層材料開發，相關題材涵蓋AI、先進封裝與玻璃基板，玻陶族群也受到關注。\n\n美股焦點：Trex(TREX.US) | 05:40:46(GMT+8)\n\n美股焦點：Louisiana-Pacific(LPX.US) | 05:35:52(GMT+8)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:22:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：可成(2474.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E5%8F%AF%E6%88%90-2474-tw-012200280.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:22:45 數位內容中心 發佈\n\n盤中，可成（2474.TW）上漲至245.5元，漲幅9.84%，並來到漲停價245.5元，成交量3371張。\n\n可成原本以筆電與消費性電子金屬機殼、內構件製造為主，近年擴大高精密製造應用，並切入AI伺服器機構件與外觀件。\n\n近期輝達在GTC Taipei再度強調台灣供應鏈的重要性，可成也宣布加入MGX Ecosystem，布局高密度AI伺服器與機架級系統所需機構基礎，並延伸至醫療、半導體、航太與無人機等領域。依可成2026年第1季財報，營收37.74億元，毛利率28.8%，每股盈餘2.63元。\n\n台股焦點：泰碩(3338.TW)\n\n可成今年伺服器佔比逾2成，三年有望超越NB\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC, NVDA",
       "Date": "2026-06-02",
       "Time": "09:21:13",
@@ -61,6 +141,96 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-says-capacity-supply-012113571.html",
       "Content": "By Wen-Yee Lee\n\nTAIPEI, June 2 (Reuters) - Nvidia boss Jensen Huang said on ‌Tuesday the company has enough supply ‌to accommodate robust growth for central processing units (CPUs) as ​well as graphics processing units (GPUs) as it rides a boom in artificial intelligence .\n\nChief Executive Huang was speaking at Nvidia's GTC ‌press conference during ⁠Computex week in Taipei, a day after the $5 trillion chip giant ⁠unveiled a new chip that processes AI capabilities directly.\n\nMore from Yahoo Scout\n\nWhat is Nvidia's new RTX Spark PC chip?\n\nWhich companies will compete with Nvidia's new chip?\n\nHow much is Nvidia investing in Taiwan annually?\n\nWhat supply capabilities did Jensen Huang discuss?\n\nNvidia's new chip, which will ​be launched ​in the fall, ​puts AI capabilities directly ‌into laptops and desktop computers, pitting it against the likes of Advanced Micro Devices, Intel and Apple .\n\nHuang said the RTX Spark PC chip is part of Nvidia's ‌effort with Microsoft to \"reinvent ​the PC\" for the ​AI era.\n\nBorn ​in Taiwan's southern city of Tainan, ‌the Nvidia chief executive ​announced plans ​last week to invest around $150 billion a year in Taiwan, describing it ​as the ‌epicentre of the AI revolution.\n\n(Reporting by Wen-Yee ​Lee; Editing by Anne Marie ​Roantree and Christopher Cushing)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:21:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：驊陞(6272.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E9%A9%8A%E9%99%9E-6272-tw-012100967.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:21:59 數位內容中心 發佈\n\n驊陞（6272.TW）盤中上漲，成交價38.4元，漲幅9.87%，開盤報37.45元，低點37元，成交量400張。\n\n驊陞生產連接零組件、無線零組件與汽車零組件，並布局高速傳輸、先進熱傳及工控產品。2026年第1季營收7.04億元，毛利率21%，歸屬母公司稅後淨利1040萬元，每股盈餘0.13元；2026年4月營收3.17億元，月增43.43%。AI伺服器、高速運算與車用電子需求持續受到市場關注。\n\n台股焦點：艾姆勒(2241.TW)\n\n台股焦點：杰力(5299.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:20:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：谷崧(3607.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E8%B0%B7%E5%B4%A7-3607-tw-012000443.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:20:26 數位內容中心 發佈\n\n谷崧（3607.TW）盤中成交價17.8元，上漲9.88%，開盤16.9元，低點16.75元，成交量1324張。\n\n谷崧從事精密模具設計製作與塑膠射出成形，產品應用涵蓋電子與電機零組件，並布局消費電子及車用機構件。近期電子零組件供應鏈持續朝高精度與客製化發展。谷崧2026年第1季合併營收6.42億元，營業毛利0.84億元，歸屬母公司業主淨利336.7萬元，每股盈餘0.03元。\n\n台股焦點：艾華(6204.TW)\n\n宇隆汽車零組件本業穩，強攻工業自動化/機器人\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：中纖(1718.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E4%B8%AD%E7%BA%96-1718-tw-011900002.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:19:12 數位內容中心 發佈\n\n中纖（1718.TW）盤中上漲，成交價8元，漲幅9.89%，成交量33482張，股價在8元與7.7元間震盪。\n\n中纖經營人造纖維、聚酯纖維、乙二醇、環氧乙烷與汽電共生等業務，為國內化纖與EG一貫化廠商之一。\n\n近期塑化與化纖族群回溫，市場持續關注相關原物料股走勢。中纖2026年第1季已擺脫虧損並轉盈，獲利表現較前期改善。\n\n台股焦點：磐亞(4707.TW)\n\n台股焦點：新纖(1409.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：宏達電(2498.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E5%AE%8F%E9%81%94%E9%9B%BB-2498-tw-011900261.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:19:46 數位內容中心 發佈\n\n宏達電（2498.TW）盤中上漲9.89%，成交價50元，較昨收45.5元走高4.5元，成交量15766張。宏達電以智慧型手機、XR裝置與沉浸式內容平台為布局重點，開盤46元後，股價在45.9元至50元間震盪，均價49.19元。\n\n宏達電近年擴大AI穿戴與5G專網應用，旗下VIVE Eagle持續拓展亞洲市場，並結合企業專網與娛樂體驗方案。財務方面，宏達電2026年第1季每股虧損0.29元，2026年4月營收1.51億元，2026年前4月營收8.04億元。\n\n台股焦點：好德(3114.TW)\n\n台股焦點：富致(6642.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:18:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：益航(2601.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E7%9B%8A%E8%88%AA-2601-tw-011800765.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:18:25 數位內容中心 發佈\n\n益航（2601.TW）盤中股價上漲，成交價6.33元，漲幅9.9%，開盤後即來到6.33元，盤中低點為6.27元，成交量4321張。\n\n益航營運聚焦遠洋輪船租賃與散裝貨載，並兼營設備租賃、投資及部分不動產相關業務。\n\n近期航運分類出現變化，益航自6月1日起轉列航運業，市場對其業務定位轉向航運的關注升高。盤面上，益航報價維持在6.33元附近。\n\n美股焦點：Ares Management(ARES.US) | 03:43:00(GMT+8)\n\n美股焦點：Delta Air(DAL.US) | 03:38:50(GMT+8)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:16:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股創高激勵　台股早盤漲逾400點台積電勁揚30元",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E5%89%B5%E9%AB%98%E6%BF%80%E5%8B%B5-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE400%E9%BB%9E%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8B%81%E6%8F%9A30%E5%85%83-011619353.html",
+      "Content": "（中央社記者何秀玲台北2日電）美股主要指數1日收盤創新高激勵，台股指數今天開高走高，早盤上漲逾400點，指數來到45805.29點，權王台積電上漲30元，股價為2385元。\n\n其他權值股早盤表現，鴻海上漲5元，為298.5元，聯發科上漲275元，為4830元；台達電為2420元平盤。\n\n電子類股指數上漲0.96%、金融類股指數下跌0.17%，代表中小型股票的櫃買指數上漲0.55%。（編輯：張均懋）1150602",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:16:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：仁寶(2324.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E4%BB%81%E5%AF%B6-2324-tw-011600933.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:16:53 數位內容中心 發佈\n\n仁寶（2324.TW）盤中股價上漲，成交價44.35元，漲幅9.91%，開盤44.3元，最低43.1元，成交量71045張。\n\n仁寶從事筆電、智慧裝置與各類5C電子產品研發製造，並持續擴大非PC布局，將AI伺服器列為重要方向。在Computex，仁寶展示高密度AI伺服器解決方案，涵蓋液冷與風冷平台，鎖定大型語言模型訓練、推論與高效能運算需求；另規劃投入5億美元布局美國德州新廠，市場關注其在北美資料中心與AI基礎設施相關進展。\n\n台股焦點：宏碁(2353.TW)\n\n台股焦點：仁寶(2324.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：正達(3149.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E6%AD%A3%E9%81%94-3149-tw-011400198.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:14:04 數位內容中心 發佈\n\n正達（3149.TW）盤中上漲9.96%，成交價86.1元，開盤來到86.1元，最低84.2元，成交量6407張。\n\n正達從事光電玻璃、玻璃製品與電子零組件加工，產品應用涵蓋面板、車用與建築，並布局HDD玻璃碟盤、先進封裝玻璃基板與無人機應用。AI伺服器帶動高容量儲存需求升溫，玻璃基板與高階玻璃加工持續受到關注。2026年第一季合併營收5.9億元，稅後淨損8455萬元，每股淨損0.37元。\n\n台股焦點：松普(5488.TW)\n\n台股焦點：加高(8182.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：宏碁(2353.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E5%AE%8F%E7%A2%81-2353-tw-011400957.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:14:48 數位內容中心 發佈\n\n宏碁（2353.TW）盤中上漲9.95%，股價來到42.55元，開盤即站上42.55元，盤中低點42.25元，成交量82570張。\n\n宏碁產品涵蓋筆記型電腦、桌上型電腦、顯示器與電競裝置，也布局商用電腦、AI PC、伺服器相關解決方案與智慧移動裝置。\n\n近期COMPUTEX與GTC Taipei聚焦代理式AI、邊緣運算與新一代AI PC，市場關注宏碁在Swift、Aspire、TravelMate與Predator等產品線的推進情況。輝達也預告RTXSpark機種將由多家品牌陸續推出，宏碁列名其中。\n\n台股焦點：仁寶(2324.TW)\n\n輔信COMPUTEX聚焦邊緣AI，瞄準多應用場域\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC, NVDA, AMD",
@@ -73,6 +243,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:13:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：國喬(1312.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E5%9C%8B%E5%96%AC-1312-tw-011300636.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:13:19 數位內容中心 發佈\n\n國喬（1312.TW）盤中報13.25元，上漲9.96%，成交量7327張。\n\n國喬從事石化原料與合成樹脂，產品涵蓋SM、ABS與尼龍66，並布局丙烯與聚丙烯。國喬在股東會提到，預計下半年投入低碳氫新事業，高雄廠將新建電子級高純度氫氣產線，鎖定電子與半導體用氣需求。\n\n近期國際油價維持高檔震盪，遠東區苯價、SM及ABS報價止跌回升，塑化上游原料市況較前期改善。市場也持續關注國喬石化產品銷售，以及低碳氫與高階材料布局進度。\n\n台股焦點：磐亞(4707.TW)\n\n中東影響 日本乙烯稼動率續跌破70%、創歷史新低\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII, 2330.TW",
       "Date": "2026-06-02",
       "Time": "09:13:00",
@@ -83,7 +263,27 @@
       "Language": "zh"
     },
     {
-      "Ticker": ".TWII, 2454.TW",
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:12:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股收高激勵！台股早盤大漲527點　台積電開2390元",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%94%B6%E9%AB%98%E6%BF%80%E5%8B%B5-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E5%A4%A7%E6%BC%B2527%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%96%8B2390%E5%85%83-011206113.html",
+      "Content": "即時中心／綜合報導\n\n投資人一方面關注美伊談判進展，一方面看好輝達發布全新個人電腦晶片，進一步提振市場信心，美股主要指數週一（1日）小幅上漲；台指期盤後也上漲505點。台股今（2）日開盤小漲51.02點、以45,388.93點開出，隨後指數衝高，目前指數上漲527.36點、來到45,865.27點。台積電ADR收盤上揚4.11％，台積電（2330）今以2390元開出、上漲35元。\n\n電子權值股方面，鴻海（2317）開298.5元，漲4元；聯發科（2454）以4,970元開出，上漲415元；廣達（2382）開375元，漲2.5元；台達電（2308）以2,430元開出，漲10元；日月光投控（3711）開600元，跌1元；聯電（2303）開147元，漲1元；大立光（3008）開3,780元，跌55元。\n\n金融方面，富邦金（2881）以110.5元平盤開出；國泰金（2882）開88.5元，漲0.3元；中信金（2891）跌0.1元，以62元開出；兆豐金（2886）跌0.25元，開41.2元；華南金（2880）開32.5元，跌0.35元；第一金（2892）開平盤27.75元；合庫金（5880）小跌0.05元，以22.8元開出。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／美股收高激勵！台股早盤大漲527點 台積電開2390元",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股焦點：新纖(1409.TW)",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%84%A6%E9%BB%9E-%E6%96%B0%E7%BA%96-1409-tw-011200063.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:12:31 數位內容中心 發佈\n\n新纖（1409.TW）盤中上漲9.98%，成交價27.55元，較昨收25.05元走高，開盤後即來到27.55元，成交量2.04萬張。\n\n新纖業務以聚酯纖維、化纖及相關材料為主，並持續布局高值化、低碳材料、高溫工程塑料與電子級化學品。\n\n新纖在股東會提到，高溫、低介電損耗材料已應用於伺服器連接器與高速通訊零組件，也持續接觸車用電子訂單。旗下合資公司生產的電子級雙氧水已通過關鍵客戶驗證，並進入晶圓廠供應鏈，後續規劃擴增第2條產線。\n\n新纖打入晶圓廠供應鏈，擬擴增第二條產線\n\n台股焦點：聚鼎(6224.TW)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW, .TWII, 2454.TW",
       "Date": "2026-06-02",
       "Time": "09:08:10",
       "Source": "Yahoo奇摩股市",
@@ -100,6 +300,26 @@
       "Title": "聯發科狂噴9%！台積電漲40元至2395元　台股開高漲541點「闖45800點大關」",
       "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E7%8B%82%E5%99%B49-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B240%E5%85%83%E8%87%B32395%E5%85%83-%E5%8F%B0%E8%82%A1%E9%96%8B%E9%AB%98%E6%BC%B2541%E9%BB%9E-%E9%97%9645800%E9%BB%9E%E5%A4%A7%E9%97%9C-010800855.html",
       "Content": "[ FTNN新聞網 ]記者薛明峻／台北報導\n\n儘管油價走升，在AI晶片龍頭輝達（NVDA-US）強漲6.26%帶動下，美股四大指數周一全面收紅，道瓊、那斯達克、標普500均改寫歷史新高，費半更勁揚1.06%；台積電ADR則大漲4.11%，推升台股今（2）日開高上漲51.02點至45388.93點，隨著台積電漲40元至2395元，聯發科大漲9%，加權指數一度衝上45879.58點，大漲541.67點。\n\n五大電子權值股中，權王台積電（2330）開高漲35元至2390元，一度漲40元至2395元，漲幅1.70%；台達電（2308）開高漲10元至2430元，一度漲20元至2440元，漲幅0.83%，隨後翻黑；聯發科（2454）開高漲415元至4970元，漲幅9.11%，高檔震盪；鴻海（2317）開高漲4元至297.5元，一度漲6元至299.5元，漲幅2.04%；日月光投控（3711）則以600元開出，下跌1元，隨後翻紅漲7元至608元，漲幅1.16%。\n\n更多FTNN新聞網報導\n\n聯發科噴9%、鴻海飆5%！台積電猛漲10元 COMPUTEX點火台股大漲800點突破4萬5大關\n\n台達電噴4%、鴻海漲3%！台積電勁揚55元至2350元 台股開高漲1033點站回44600點大關\n\n台達電、聯發科齊挫1%！台積電強漲60元撐盤 台股早盤漲571點站上44800大關",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "09:07:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "蔡力行現身黃仁勳記者會，同台暢談N1X晶片合作",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%94%A1%E5%8A%9B%E8%A1%8C%E7%8F%BE%E8%BA%AB%E9%BB%83%E4%BB%81%E5%8B%B3%E8%A8%98%E8%80%85%E6%9C%83-%E5%90%8C%E5%8F%B0%E6%9A%A2%E8%AB%87n1x%E6%99%B6%E7%89%87%E5%90%88%E4%BD%9C-010700949.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:07:33 黃立安 發佈\n\n輝達(NVIDIA)執行長黃仁勳今(2)日舉行全球記者會，聯發科(2454)執行長蔡力行驚喜現身，雙方同台對談共同開發的N1X晶片。黃仁勳(圖左)表示，當初希望打造一顆完整支援Windows、專為AI時代設計的新型電腦晶片，因此第一時間便想到在低功耗SoC設計領域具深厚實力的聯發科。\n\n黃仁勳指出，雙方投入數百位工程師、合作超過兩年，共同打造具統一記憶體架構的N1X晶片，透過高頻寬互連技術，CPU、GPU與Tensor Core皆可直接存取記憶體，不僅具備優異能源效率，也可100%相容Windows、CUDA及NVIDIA Tensor Core生態系。\n\n蔡力行則表示，這是一段非常精彩的旅程，但過程並不容易，尤其相容性相關工作需要投入大量工程資源與技術能力。他指出，聯發科擅長打造低功耗、高效能CPU，搭配NVIDIA GPU後展現出相當亮眼的成果。\n\n現場黃仁勳也笑問蔡力行「我們還是朋友嗎？」蔡力行則回應「永遠都是」。蔡力行透露，黃仁勳過去曾強調「不能妥協，必須做出真正偉大的產品」，也促使雙方持續挑戰既有架構限制，打造更適合AI時代的運算平台。\n\n黃仁勳進一步表示，N1X也與Microsoft密切合作，成為史上Windows相容性及x86模擬相容性最佳的晶片之一，同時也是目前全球唯一完整支援OpenGL全系列版本的行動晶片，可順利執行CATIA、Ansys等專業工程軟體。\n\n蔡力行表示，近期與客戶交流時已感受到市場高度期待，有客戶甚至形容這項產品讓產業重新獲得新生命。他強調，對聯發科而言，能與NVIDIA這樣的世界級企業合作意義重大，雙方不只是打造產品，更共同創造具突破性的創新成果，未來也期待持續深化合作。\n\n群聯攜手Intel攻AI PC，aiDAPTIV突破記憶體限制\n\n《GTC Taipei》黃仁勳：Agentic AI來臨，VR為輝達最具野心計畫\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-02",
+      "Time": "09:05:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈COMPUTEX〉輝達全球媒體問答 聯發科蔡力行驚喜現身 大談未來N2X",
+      "URL": "https://tw.stock.yahoo.com/news/computex-%E8%BC%9D%E9%81%94%E5%85%A8%E7%90%83%E5%AA%92%E9%AB%94%E5%95%8F%E7%AD%94-%E8%81%AF%E7%99%BC%E7%A7%91%E8%94%A1%E5%8A%9B%E8%A1%8C%E9%A9%9A%E5%96%9C%E7%8F%BE%E8%BA%AB-%E5%A4%A7%E8%AB%87%E6%9C%AA%E4%BE%86n2x-010550236.html",
+      "Content": "輝達 (NVDA-US) 執行長黃仁勳今 (2) 日舉辦全球媒體問答，聯發科 (2454-TW) 執行長蔡力行驚喜現身，雙方談論一起合作 N1X 的旅程，並透露 N2X、N3X 已經在進行中，將持續拓展雙方的相關業務。\n\n黃仁勳指出，輝達選擇聯發科合作的原因，就是因為聯發科在各方面的工程能力都是世界級的，而這點已經透過這次合作被證實。\n\n蔡力行接著表示，雙方合作這是一項龐大的工作，但他非常興奮，前一天聽完黃仁勳的主題演講後，感覺非常振奮，因為 PC 似乎在 40 年後迎來了新的生命，這套架構由 CPU 與 GPU 透過高速連結串接，並採用統一記憶體架構，是非常適合 Agentic AI 的正確架構，也能支援遊戲等應用。\n\n蔡力行也表示，聯發科團隊與輝達團隊都非常興奮，特別感謝輝達工程團隊，感謝雙方在合作中非常大方，也帶來很高的挑戰。",
       "Language": "zh"
     },
     {
@@ -173,6 +393,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-02",
+      "Time": "08:46:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "皇翔5/25~6/1處分台積電220張，獲利約2822萬元",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9A%87%E7%BF%945-25-6-1%E8%99%95%E5%88%86%E5%8F%B0%E7%A9%8D%E9%9B%BB220%E5%BC%B5-%E7%8D%B2%E5%88%A9%E7%B4%842822%E8%90%AC%E5%85%83-004600269.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2545)皇翔-公告處分有價證券\n\n1.證券名稱:台灣積體電路製造股份有限公司\n\n2.交易日期:115/5/25~115/6/1\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年6月1日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量：220,000股\n\n每股平均價格：新台幣2,358.67元\n\n交易總金額：新台幣518,908仟元\n\n6.處分利益（或損失）（取得有價證券者不適用）:處分利益28,215仟元\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n數量：142,000股\n\n金額：316,720仟元\n\n持股比例：0.001%\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:0.938%\n\n占業主權益比例:3.475%\n\n營運資金數額:14,739,777仟元\n\n10.取得或處分之具體目的:提高本公司之資金運用效益\n\n11.本次交易表示異議董事之意見:不適用\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:無\n\n機構：AI算力驅動CPO，先進封裝成關鍵護城河\n\n台積電：TSMC Global處分公司債，獲利35萬美元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-06-02",
       "Time": "08:45:21",
@@ -211,6 +441,16 @@
       "URL": "https://finance.yahoo.com/m/60148895-9139-31a7-a049-8c80b8329fd1/bank-of-america-reiterates.html",
       "Content": "Amazon (AMZN) stock is up about 14.63% year to date, at the time of writing, Monday afternoon, June 1. Meanwhile, the SPDR S&P 500 Index (SPY) is up about 11.01% in the same period.\n\nAnd while Amazon has just slightly outpaced the S&P 500, it has also outpaced all but two Magnificent 7 members in the same period.\n\nHere is how the other Magnificent 7 members have performed:\n\nAlphabet (GOOGL) is up 19.95%.\n\nNvidia (NVDA) is up 18.03%.\n\nApple (AAPL) is up 12.81%.\n\nMicrosoft (MSFT) is down 4.74%.\n\nTesla (TSLA) is down 6.19%.\n\nMeta (META) is down 6.8%.\n\nWe can see that Amazon is slightly behind Nvidia and Alphabet. Considering how heated the artificial intelligence race has become, being the third-best-performing member of the Magnificent 7 is not that bad.\n\nThe company has been working on a very big project for several years, and Bank of America believes it is time to assess the impact it will have on Amazon’s performance.\n\nRecent news for AMZN:\n\nThe company reported strong Q1 earnings .\n\nAmazon invested in OpenAI .\n\nThe company invested in Anthropic .\n\nAmazon launched Alexa for Shopping .\n\nKey facts about Amazon Leo\n\nAmazon’s Project Kuiper began in 2018 as an idea to provide broadband internet via Low Earth Orbit satellites to customers and communities beyond the reach of existing networks, according to SpaceNews .\n\nIt was renamed to Amazon Leo in November 2025.\n\nAmazon plans to launch its initial satellite constellation with more than 3,000 satellites. The term “constellation” refers to a group of satellites designed to work together.\n\nMore Tech Stocks:\n\n5-star analyst sets jaw-dropping Nvidia stock price target\n\nBank of America resets Microsoft stock forecast after earnings\n\nBank of America resets Google stock forecast after key event\n\nAccording to Amazon, Low Earth Orbit is the area of space extending up to 2,000 kilometers (about 1,243 miles) above Earth. The company said satellites will orbit between 590 and 630 kilometers (about 367 and 392 miles).\n\nAmazon shared in April that it would acquire Globalstar, absorbing its existing satellite operations, infrastructure, and assets — including mobile satellite services spectrum licenses with global authorizations. This acquisition will make it possible for Amazon Leo to add direct-to-device services to its Low Earth Orbit satellite network.\n\nAmazon and Apple confirmed that Amazon Leo will power satellite services for iPhone and Apple Watch, including Emergency SOS via satellite.\n\nBank of America believes Leo is approaching the operational tipping point\n\nIn a research note shared with me, Bank of America analyst Justin Post and his team updated their opinion on Amazon stock.\n\nStory Continues\n\nAnalysts wrote: “Amazon has stepped up its launch cadence with 3 launches already in [second quarter (Q2)], and over 300 satellites in space as of mid-May.”\n\nThe team said they believe Leo is on the cusp of generating revenue, as satellite launches have accelerated in Q2.\n\nRelying on publicly available data and not including consumer equipment costs, the team estimates that building the initial constellation will cost Amazon about $25 billion through 2028.\n\nAnalysts estimate Leo will lead to $1.3 billion in direct income statement expense in Q2 and $1.6 billion in Q3. Following Q3, costs should decline sequentially.\n\nThe team noted that, even though monthly consumer subscription revenues are a core business case for Leo, they believe that enterprise, government, and mobile direct-to-device revenues could surpass them.\n\nThey estimated Amazon's consumer broadband revenue potential at $14 billion in 2032.\n\nPost reiterated a buy rating for Amazon stock and the target price of $310, based on his sum-of-the-parts analysis that values AWS at 9x 2027 sales estimates, first-party retail at 1.0x, third-party retail at 2.5x, and advertising at 5.0x.\n\nAnalysts noted downside risks for Amazon:\n\nIncreasing competition from offline and local retailers.\n\nMarket share loss to cloud competitors with advanced AI technology.\n\nElevated AWS investment needs that could pressure margins.\n\nAnalysts also said the stock has been subject to significant volatility in the past, and that volatility could increase amid economic uncertainty.\n\nWhat do other analysts think, and how does Bank of America’s opinion compare?According to MarketBeat , 57 of the 60 analysts covering Amazon stock rate it a buy. Only three give a hold rating. The average price target is $312.83.\n\nRelated: Nvidia’s latest product is a game-changer\n\nThis story was originally published by TheStreet on Jun 1, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nBank of America believes Amazon Leo is approaching the operational tipping point.Paul Hennessy&sol;SOPA Images&sol;Getty Images\n\nBank of America believes Amazon Leo is approaching the operational tipping point.Paul Hennessy&sol;SOPA Images&sol;Getty Images Bank of America believes Leo is approaching the operational tipping point\n\n<h3 class=\"text article-heading-atom neo-font-label-2xl-emphasis yf-18d6y07\" id=\"\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inher",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "08:36:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達AI PC破除\"軟體末日論\" NOW/SNOW/IGV嗨翻",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94ai-pc%E7%A0%B4%E9%99%A4-%E8%BB%9F%E9%AB%94%E6%9C%AB%E6%97%A5%E8%AB%96-now-snow-003600568.html",
+      "Content": "MoneyDJ新聞 2026-06-02 08:36:30 郭妍希 發佈\n\n輝達(Nvidia Corp.)搶進AI PC、激勵美國相關軟硬體類股全面飛漲，CPU競爭對手則逆勢下挫。\n\n輝達執行長黃仁勳(Jensen Huang)週一於GTC Taipei主題演講中，首度在台公開展示與聯發科(2454)合作開發的N1X晶片、能執行輝達全部軟體堆疊並為AI Agent運算奠定基礎。輝達同時攜手微軟(Microsoft)推出全新RTX Spark系列AI PC，涵蓋桌機、筆電及工作站。\n\n值得注意的是，輝達與聯發科合作開發的N1X系統單晶片(SoC)採用台積電(2330) 3奈米製程，整合Blackwell架構GPU與20核心的客製化Arm CPU。\n\n另一方面，MarketWatch報導，Radio Free Mobile創辦人Richard Windsor 1日透過研究報告指出，RTX Spark允許客戶在Windows PC執行大型語言模型(LLM)或一整隊AI Agents，毋須改用蘋果(Apple Inc.)的Mac Mini。\n\n黃仁勳在主題演說中表示，未來所有人家中都會配備能夠執行繁複工作負載的AI超級電腦，而這需要更多涉及資料基礎設施、治理及網路安全領域的軟體服務。\n\n這暗示，軟體需求有望持續增溫，緩解以自然語言編碼(vibe-coding)的AI軟體將取代傳統企業套裝軟體的疑慮。\n\nWindsor指出，光是在2026年，軟體開發者平台GitHub的上傳量就擴增三倍，同期間美國軟體工程師的職缺數量也成長了15%。\n\nWindsor寫道：「這暗示AI正在提高軟體工程師的生產力，而理性的雇主會想要雇用更多、而非更少的工程師。」\n\nWindsor補充說，這同時也釋出了一個訊號，亦即市場先前對「軟體即服務末日」(SaaSpocalypse)的觀點反應過頭。他特別提到近期軟體企業亮眼的財報表現，例如雲端軟體及資料倉儲服務商Snowflake Inc.上週便以超乎預期的 獲利表現 驚艷投資人，進而激勵股價在5月28日當天暴漲36%。\n\n輝達1日應聲大漲6.26%、收224.36美元，創5月15日以來收盤新高。微軟也上漲2.28%、收460.52美元，創1月28日以來收盤新高。\n\n安謀(Arm Holdings plc) ADR 1日聞訊跳空飆漲15.73%、收408.85美元，創歷史收盤新高，漲幅居費城半導體指數30支成分股之冠。台積電ADR同步勁揚4.11%、收435.63美元，創歷史收盤新高。\n\n軟體股飆高。雲端工作流程自動化解決方案供應商ServiceNow、雲端軟體及資料倉儲服務商Snowflake Inc.、IBM分別大漲9.24%、9.63%、7.6%。iShares擴展科技軟體類股ETF (iShares Expanded Tech-Software Sector ETF，代號為IGV.US)同步大漲5.94%、收107.70美元，創2025年12月26日以來收盤新高。\n\n輝達CPU競爭對手高通(QUALCOMM Inc.)、英特爾(Intel Corp.)、超微(AMD)逆勢下挫8.78%、4.67%、1.16%。蘋果也下跌1.84%、收306.31美元。\n\n(圖片來源： 輝達 )\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用 個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n群聯攜手Intel攻AI PC，aiDAPTIV突破記憶體限制\n\n《美股》輝達AI PC軟硬體概念股歡漲、費半史高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "2330.TW",
