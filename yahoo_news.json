@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-02T06:44:32.701Z",
-  "total_news_count": 1469,
+  "last_updated": "2026-06-02T06:52:06.825Z",
+  "total_news_count": 1470,
   "news": [
     {
-      "Ticker": ".TWII",
+      "Ticker": "2344.TW, 2408.TW, .TWII",
       "Date": "2026-06-02",
       "Time": "14:17:00",
       "Source": "Yahoo奇摩股市",
@@ -370,6 +370,16 @@
       "Title": "黃仁勳證實AI PC平台就是NVIDIA RTX Spark AI PC，聯發科是重要夥伴",
       "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AD%89%E5%AF%A6ai-pc%E5%B9%B3%E5%8F%B0%E5%B0%B1%E6%98%AFnvidia-rtx-spark-ai-020047908.html",
       "Content": "【財訊快報／記者李純君報導】NVIDIA執行長黃仁勳，在今早的媒體問答記者會中，邀來了聯發科(2454)執行長蔡力行，證實了市場傳言許久的N1/N1X的AI PC平台確實存在，就是NVIDIA RTX Spark AI PC。至於聯發科是AI PC最重要夥伴之一，負責CPU SoC，也宣告聯發科正式從手機SoC供應商，升級成NVIDIA AI PC 平台共同架構夥伴。黃仁勳提到，AI PC未來架構是CPU + GPU + Memory緊密整合，AI真正運作時，不只是GPU在算，而是AI Agent到理解Prompt到拆解任務，進入推理(Reasoning)，在有調用工具(Tools)與執行程式(Code)，然後存取記憶體(Memory)，因此需要有CPU負責工作調度（Orchestration）、Agent控制、Tool Calling、Browser、Code Execution，和Photoshop等應用程式啟動，而GPU負責LLM推理、Tensor運算、AI生成，黃仁勳稱這套架構為『Harness』，即AI推理控制中樞。\n\n他也提到，聯發科是AI PC最重要合作夥伴之一，One of the most important companies we partnered with is MediaTek。意味著，聯發科在AI PC被NVIDIA正式點名成為核心夥伴，聯發科負責CPU SoC。\n\n蔡力行則透露，聯發科負責CPU，有Multimedia Engine、Low Power Design，以及Energy Efficiency。NVIDIA提供GPU、CUDA、Tensor Core、AI軟體生態系。\n\n此外，蔡力行也透露，PCI Express bandwidth is too small，指PCIe已不適合未來Agent AI，因為PCIe存在頻寬不足、延遲過高，以及功耗過高等問題，因此NVIDIA要求NVLink-C2C，讓Chip-to-Chip互連，可具備超高頻寬、超低延遲，和超低功耗特性，\n\n另外黃仁勳也反覆強調統一記憶體架構（Unified Memory），即CPU、GPU和Tensor Core都能直接存取同一塊記憶體，可以讓AI推理效率大幅提升，而NVIDIA攜手MediaTek的版本，目標是Windows AI PC。\n\nNVIDIA主打100% Windows Compatibility、100% CUDA Compatibility、Full OpenGL Compatibility，且NVIDIA AI PC正式成形，黃仁勳提到，PC has a new life after 40 years，過去的PC是以CPU中心，但現在的PC是AI Agent Computer，運作模式是CPU+GPU+NPU+Unified Memory，未來每台PC都是本地AI工作站，此外，AI PC功耗遠高於傳統Notebook。無疑也宣告了，NVIDIA正式把資料中心的AI架構，即Grace+Blackwell+NVLink+Unified Memory，搬進PC。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-06-02",
+      "Time": "09:58:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科攻AI迎結構性成長，新廠拚2027年H2量產",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E6%94%BBai%E8%BF%8E%E7%B5%90%E6%A7%8B%E6%80%A7%E6%88%90%E9%95%B7-%E6%96%B0%E5%BB%A0%E6%8B%9A2027%E5%B9%B4h2%E9%87%8F%E7%94%A2-015800973.html",
+      "Content": "MoneyDJ新聞 2026-06-02 09:58:41 數位內容中心 發佈\n\n受到AI伺服器、AI PC、AI手機與邊緣運算需求帶動，南亞科（2408）已由傳統景氣循環型產業轉向結構性成長模式，記憶體產品組合正朝高容量、高頻寬及伺服器導向調整。公司AI應用提升對HBM、DDR5與高容量LPDDR的需求，將是未來營收與獲利動能的關鍵。\n\n在產品與製程布局上，南亞科10奈米級第二代（1B）製程已量產16Gb DDR5、8Gb DDR4與4Gb DDR4，並計畫推出16Gb DDR4及8Gb、16Gb LPDDR5/LPDDR4產品。公司同時結合TSV技術完成128GB DDR5 RDIMM 5600/6400 Mb/s伺服器產品功能測試，客製化高頻寬記憶體採用Wafer-to-Wafer Bonding技術，已開始小量產銷。\n\n公司佈局下一代製程，10奈米級第三代（1C）16Gb DDR5預計於今年下半年完成驗證，第四代（1D）16Gb DDR5則計畫於第二季導入試產。南亞科客製化高效能、低功耗且高頻寬的記憶體產品將逐步放量，預估2027年上半年相關產品對營收的貢獻可望提升。\n\n在資本支出與產能擴充方面，南亞科宣布今年資本支出將超過520億元，主要用於5A新廠擴建、設備與研發投入。公司規劃新廠於2027年第一季開始裝機，下半年正式量產，預期新增月產能可顯著提升，並表示，過去完成的私募增資約募得787億元，資金將用於先進記憶體製造與設備投資，以及強化與AI/CSP客戶的合作。\n\n南亞科管理層在股東會與媒體說明中表示，目前DRAM市場供給仍呈緊俏狀態，客戶已開始要求簽訂長期供貨合約，最長合約期限達三年。南亞科總經理李培瑛在回應供需展望時指出，預估供需吃緊情況可能持續至2027年底，但對於特定事件如南韓廠罷工帶來的短期轉單效應，則視為短期影響。\n\n在營運數據與市場互動上，南亞科表示，去年合併營收成長，主要來自第二季起國際大廠調整產能，帶動DDR4價格上揚及高階產品需求增加。公司指出，目前庫存消耗接近尾聲，銷售量趨於穩定，營收成長主要由產品價格改善所推升。\n\n針對合作與供應鏈議題，南亞科已引入多家策略投資人，均聚焦雲端AI應用。對於是否切入特定大型客戶平台如NVIDIA Rubin，管理層表示，涉及客戶營業秘密，無法對個別專案或出貨細節說明，但強調合作的國際AI客戶不只一家，並持續洽談合作機會。\n\n南亞科增資本支出；客製化HBM明年H1貢獻營收\n\n台股焦點：品安(8088.TW)\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
