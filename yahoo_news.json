@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-02T02:01:22.249Z",
-  "total_news_count": 1405,
+  "last_updated": "2026-06-02T02:15:02.423Z",
+  "total_news_count": 1406,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-02",
+      "Time": "09:51:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's WWDC Is June 8. Here's the 1 Announcement That Could Move the Stock",
+      "URL": "https://finance.yahoo.com/m/6544307f-1d98-38b6-9c7d-3b2556af1b35/apple%27s-wwdc-is-june-8..html",
+      "Content": "Apple (NASDAQ: AAPL) opens its Worldwide Developers Conference on June 8, and the keynote carries real weight for the stock. The company heads into the event trading near all-time highs, having climbed more than 50% over the past year -- and a good chunk of that run rests on a single expectation: that Apple is finally ready to show an artificial intelligence (AI) -powered Siri that works well. After two years of promising a smarter, more personal assistant and repeatedly missing the date, the iPhone maker is widely expected to preview a rebuilt Siri inside iOS 27 -- and this time, the brains behind it reportedly belong to someone else.\n\nThat is the one announcement to watch. Everything else on the agenda, from a refreshed software design to the usual round of operating-system updates, is arguably secondary to whether Apple can convince investors its AI strategy has turned a corner.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe announcement that matters\n\nThe new Siri is expected to run on a custom version of Google's Gemini model, with Apple reportedly paying Google roughly $1 billion a year for access. Bloomberg's Mark Gurman, who first reported the arrangement, has described a 1.2 trillion-parameter system (far larger than the cloud model currently behind Apple Intelligence) handling the heavy lifting for tasks like summarizing and planning, while potentially running on Apple's own private servers to keep user data walled off from Google.\n\nApple CEO Tim Cook framed the partnership as one piece of a broader effort.\n\n\"The collaboration with Google is going well,\" said Cook in the company's fiscal second-quarter earnings call. \"We are happy with where things are, and we are happy with the work we are doing independently as well.\"\n\nWhy the stakes are high\n\nThe reason a single keynote can move a $4.5 trillion company comes down to what is already priced in. As of this writing, Apple trades at a price-to-earnings ratio of about 37 -- a premium that assumes the company can turn its enormous installed base -- more than 2.5 billion active devices -- into a new wave of AI-driven upgrades and services revenue.\n\nBut the stakes are high. A convincing Siri supports that story. A disappointing one leaves the stock exposed after a sharp run.\n\nWith all of this said, the Apple stock bull case isn't as dependent on a major Siri update as it was a year ago. Since then, the company has demonstrated impressive momentum in its business -- even without a Siri overhaul.\n\nStory Continues\n\nJust look at the company's most recent quarter.\n\nRevenue in Apple's fiscal second quarter (the period ended March 28, 2026) rose 17% year over year to $111.2 billion, with iPhone revenue up 22% to about $57 billion on strong iPhone 17 demand. The growth rate has been climbing -- from 8% in the September quarter to 16% in the December quarter to 17% in March. And the high-margin services business grew 16% to a record $31 billion, with a gross margin above 75%.\n\nThere are real risks heading into the event, of course. Cook has warned that memory costs are set to rise sharply, and Apple guided for a fiscal third-quarter gross margin of 47.5% to 48.5%, down from 49.3% in March. The bigger risk, of course, is the keynote itself. Given the stock's recent sharp run-up, expectations are high. If the new Siri doesn't live up to investors' expectations, shares could take a hit. On the other hand, if it impresses, shares could rise.\n\nFor investors, June 8 is less about the financials than about credibility. Apple has spent two years telling the market its AI moment is coming. The keynote is where it has to show up.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII, 2330.TW",
       "Date": "2026-06-02",
@@ -33,7 +43,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-02",
       "Time": "09:21:13",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-06-02",
       "Time": "09:14:00",
       "Source": "Yahoo Finance",
