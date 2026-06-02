@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-02T01:15:39.665Z",
+  "last_updated": "2026-06-02T01:41:04.013Z",
   "total_news_count": 1389,
   "news": [
     {
-      "Ticker": "TSM",
+      "Ticker": "META, GOOGL, AMZN, TSM",
       "Date": "2026-06-02",
       "Time": "09:03:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "GOOGL, NVDA, AVGO",
       "Date": "2026-06-02",
       "Time": "08:50:00",
       "Source": "Yahoo Finance",
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, NVDA, MSFT",
+      "Ticker": "META, GOOGL, AMZN, AAPL, NVDA, MSFT",
       "Date": "2026-06-02",
       "Time": "08:37:00",
       "Source": "Yahoo Finance",
