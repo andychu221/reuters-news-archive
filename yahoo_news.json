@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-02T10:40:23.704Z",
-  "total_news_count": 1528,
+  "last_updated": "2026-06-02T10:43:50.450Z",
+  "total_news_count": 1530,
   "news": [
     {
       "Ticker": "MSFT",
@@ -173,6 +173,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-02",
+      "Time": "16:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電進駐後，日本熊本縣「南北差距」問題逐漸浮現",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%B2%E9%A7%90%E5%BE%8C-%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A3-%E5%8D%97%E5%8C%97%E5%B7%AE%E8%B7%9D-%E5%95%8F%E9%A1%8C%E9%80%90%E6%BC%B8%E6%B5%AE%E7%8F%BE-083300236.html",
+      "Content": "台積電進駐帶動熊本縣北部經濟快速發展，但也使「南北差距」問題逐漸浮現\n\n日本共同通信社5月29日報導，台積電進駐日本熊本縣後，帶動縣北部經濟快速發展，但也使「南北差距」問題逐漸浮現。工廠所在地菊陽町及周邊地區吸引大量半導體相關企業投資，基礎建設與產業聚落加速形成，熊本縣政府更推動「熊本科學園區」計畫，希望打造日本重要的半導體產業中心。\n\n然而，距離較遠的縣南部地區受惠有限。根據調查，84家宣布在熊本投資的半導體相關企業中，僅有2家選擇八代市以南地區。為縮小差距，熊本縣計畫在八代市興建工業園區，吸引半導體及物流企業進駐，期待將產業效益擴散至南部。另一方面，水俁市因缺乏大型工業用地，轉而透過觀光、體育及與台灣交流合作來帶動發展。熊本縣知事木村敬表示，縮小南北差距是縣政重要課題，希望藉由半導體產業的成長，讓全縣各地都能共享發展成果。(資料來源：經濟部國際貿易署)\n\n台股逐洞賽｜老AI與記憶體雙核心全面噴發\n\n6/2證交所盤後定價交易成交金額前20名排行\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "TSM",
       "Date": "2026-06-02",
       "Time": "16:31:00",
@@ -181,6 +191,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-083100616.html",
       "Content": "For Immediate Release\n\nChicago, IL &ndash; June 2, 2026 &ndash; Today, Zacks Investment Ideas feature highlights NVIDIA NVDA, HubSpot HUBS, Fluence Energy FLNC, CoreWeave CRWV and Taiwan Semiconductor TSM\n\nThe 3 Stocks Riding NVIDIA's Massive Vera Rubin Rollout\n\nNVIDIA is not only the largest company on Earth; it is the leading technology company and currently the most important company. The company is not only important for tech investors to watch for its sheer size, but instead, NVIDIA is far ahead of the curve versus its competitors and is a king-maker in the red-hot AI space. Just how hot is AI? Taiwan, the small Asian country with several companies partnering with NVIDIA and supplying key components for the company, is expected to see unprecedented double-digit GDP growth!\n\nTaiwan is also where NVIDIA&rsquo;s iconic CEO Jensen Huang is hosting the latest GPU Technology Conference (GTC). GTC has been dubbed the &ldquo;Super Bowl of AI&rdquo; by technologists. Today, we will discuss Vera Rubin, one of NVIDIA&rsquo;s most important new products (and the companies that will benefit from it).\n\nHuang: Agentic AI Has Arrived\n\nA few years ago, Jensen Huang proclaimed that the next wave of AI would be Agentic AI. Unlike Generative AI that simply spits out an answer, Agentic AI can break down a complex task, strategize, and engage in iterative self-correction. At GTC, Huang proclaimed &ldquo;Agentic AI has arrived!&rdquo; Huang cited the explosion of coding on developer website HubSpot as evidence.\n\nHuang believes companies will deploy vast networks of autonomous agents; they will no longer be limited by human headcount, leading these agents to use more tools than ever before. He sees the future of software as orchestrating a digital workforce. Businesses will rent or build highly specialized agents to execute work and manage customer pipelines, but those agents will require specialized, tool-equipped platforms (like HubSpot) to do the job.\n\nVera Rubin: The Power Behind Agentic AI\n\nAccording to NVIDIA&rsquo;s website, &ldquo;Vera Rubin is a next-generation, rack-scale AI platform designed specifically to power agentic AI workloads and large-scale, multi-step reasoning. It has entered full production and is ramping up globally.&rdquo; Yesterday, Huang confirmed that Vera Rubin is in full production.\n\nJust how powerful is Vera Rubin? It includes seven custom chips, six trillion transistors, 72 GPUs per rack, and up to 5x the performance of Blackwell. The companies already buying the new Vera CPU: OpenAI, Anthropic, and SpaceX.\n\nStory Continues\n\nVera Rubin: 3 Stocks to Watch\n\nBelow are three stocks that should benefit from the Vera Rubin rollout:\n\nFluence Energy is a leader in utility-scale battery energy storage systems (BESS) and optimization software. Siemens, NVIDIA, and Fluence developed a reference architecture for NVIDIA DSX Vera Rubin NVL72 AI data centers. Fluence adds battery storage for voltage/frequency ride-through, black start, demand response, and AI load smoothing. FLNC shares were up nearly 29% in early trading on Monday. A short float of ~25% could trigger a short squeeze.\n\nAI cloud provider CoreWeave completed the industry-first bring-up and validation of the Vera Rubin platform. The company is on pace for a nearly $19B annualized revenue run-rate by year-end as AI compute demand continues to outpace available supply.\n\nAs always, Taiwan Semiconductor will serve as the primary foundry (mass-producing the silicon wafers) for NVDA products.\n\nBottom Line\n\nAs the AI revolution shifts from simple prompt-and-response interfaces to vast networks of autonomous digital workers, the constraints on business growth will no longer be determined by human headcount. NVIDIA's Vera Rubin architecture provides the raw, muscle-bound compute necessary to anchor this transition. For growth-minded investors, the message coming out of Taiwan is crystal clear: the AI infrastructure boom is far from over, and watching the ripple effects through companies like Fluence, CoreWeave, and TSMC is where the next leg of alpha will be found.\n\nWhy Haven't You Looked at Zacks' Top Stocks?\n\nSince 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.\n\nToday you can access their live picks without cost or obligation.\n\nSee Stocks Free >>\n\nMedia Contact\n\nZacks Investment Research\n\n800-767-3771 ext. 9339\n\nsupport@zacks.com\n\nhttps://www.zacks.com\n\nPast performance is no guarantee of future results. Inherent in any investment is the potential for loss. This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-06-02",
+      "Time": "16:30:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》KOSPI收漲0.15%、續創收盤新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-kospi%E6%94%B6%E6%BC%B20-15-%E7%BA%8C%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-083000041.html",
+      "Content": "MoneyDJ新聞 2026-06-02 16:30:01 數位內容中心 發佈\n\n韓股今(2)日走勢分歧。韓國KOSPI指數收於8801.49點，上漲13.11點或0.15%，續創收盤歷史新高；韓國KOSDAQ指數收於1026.03點，下跌24.00點或2.29%。KOSPI指數盤中曾衝上8933.62點，隨後快速回檔至約8503點後在散戶與機構買盤支撐下回升並收斂；同時匯市避險情緒抬升，美元兌韓元收於1,516.4韓元，進一步放大波動性。\n\n盤面上，AI與半導體相關資金集中是盤面重要驅動力，該題材在盤初助推指數衝高，但亦成為當日獲利了結與差價交易的主要來源，導致指數從8900點上方大幅回撤。AI題材使大型權值股估值承接熱度，亦帶動族群間輪動，形成上半場推升與中段獲利了結的雙向力量。\n\n權值股方面，大型股表現出明顯分化，Samsung Electronics(005930.KS)漲3.30%，SK Square(402340.KS)漲7.17%，Samsung Life Insurance(032830.KS)漲17.07%；反觀SK Hynix(000660.KS)跌0.13%，Hyundai Motor(005380.KS)跌2.80%，Samsung Electro-Mechanics (009150.KS)跌9.58%，LG Energy Solution(373220.KS)跌2.75%。大型權值股的漲跌形成KOSPI指數尾盤回升的主因之一，且顯示資金在個別熱門標的之間快速輪動。\n\n《韓股》KOSPI指數漲3.55%，創收盤新高\n\n《韓股》雙重因素影響，KOSPI收跌0.53%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
