@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-06-02T01:41:04.013Z",
-  "total_news_count": 1389,
+  "last_updated": "2026-06-02T01:44:40.454Z",
+  "total_news_count": 1403,
   "news": [
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:39:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Yahoo早盤】黃仁勳點火台股漲逾500點至45915點 分析師張家豪曝攻4萬6關鍵",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90yahoo%E6%97%A9%E7%9B%A4%E3%80%91%E9%BB%83%E4%BB%81%E5%8B%B3%E9%BB%9E%E7%81%AB%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%80%BE500%E9%BB%9E%E8%87%B345915%E9%BB%9E-%E5%88%86%E6%9E%90%E5%B8%AB%E5%BC%B5%E5%AE%B6%E8%B1%AA%E6%9B%9D%E6%94%BB4%E8%90%AC6%E9%97%9C%E9%8D%B5-013926147.html",
+      "Content": "輝達執行長黃仁勳在COMPUTEX 2026 發表新一代 AI PC 晶片，激勵輝達股價大漲逾6%，帶動美股四大指數同步收紅。受利多激勵，台股今（2）日開盤後一度大漲逾500點、衝上45,915點，不過隨後漲勢收斂甚至短暫翻黑。顧德投顧分析師張家豪指出，目前台股仍維持強勢多頭格局，只要權王台積電（2330）持續穩步墊高、未出現長下影線訊號，加權指數仍有機會挑戰並站上46,000點整數大關。\n\n台股今以45388.93點開出，上漲51.02點，隨後在台積電上漲40元領軍下，指數開高走高，大漲逾500點來到45,879點。台積電（2330）開盤後上漲35元來到2,390元，漲幅1.49％，隨後進一步漲40元至2,395元；鴻海（2317）上漲4元至297.5元；聯發科（2454）漲415元至4,970元；台達電（2308）上漲10元至2,430，隨即震盪走弱。\n\n今日值班分析師：顧德投顧分析師張家豪\n\n張家豪指出，台股目前跟隨國際股市呈現強勢多頭，正持續挑戰歷史新高，且加權指數已進入KD 高檔鈍化，這是強勢飆股出現的必要條件，預期後續仍有一段強勁的攻擊行情。另外，從季節性慣性來看，清明節後到端午節前通常是台股一年中極佳的獲利區間，今年此趨勢尤為明顯。\n\n針對今日台股是否站穩46,000點？張家豪分析，關鍵在於權王台積電（2330）的表現，台積電昨日創下歷史新高但留有長下影線，顯示正在測試高位，若今日能穩定走強、沒有留下長下影線，將帶動大盤突破。\n\n台股多頭氣焰旺 端午節前還有衝刺期\n\n張家豪提醒，目前正值台北國際電腦展Computex期間，預計到端午節前還有約兩周的衝刺期，需留意端午節後市場可能會暫時進入休息階段。\n\n在族群方面，張家豪說，上周電子五哥行情即開始發酵，目前維持多頭趨勢；此外，扇出型面板級封裝（FOPLP）族群表現強勁可以多加留意，然而，記憶體族群則受到Computex題材影響，不少資金流到老AI股，但從長線來看，記憶體的缺貨情況難以在短期內緩解，產業長線趨勢仍然維持向上。\n\n美國、伊朗的和平協議談判陷入停滯，帶動國際油價再度上漲，不過輝達執行長黃仁勳昨日在COMPUTEX 2026發表新一代人工智慧PC晶片，引發市場熱烈迴響，輝達股價收盤大漲逾6%，激勵美股三大指數改寫收盤新高紀錄。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:34:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳：Vera Rubin供應鏈已全啟動仍難追上需求，強調Vera非傳統CPU",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-vera-rubin%E4%BE%9B%E6%87%89%E9%8F%88%E5%B7%B2%E5%85%A8%E5%95%9F%E5%8B%95%E4%BB%8D%E9%9B%A3%E8%BF%BD%E4%B8%8A%E9%9C%80%E6%B1%82-%E5%BC%B7%E8%AA%BFvera%E9%9D%9E%E5%82%B3%E7%B5%B1cpu-013403280.html",
+      "Content": "【財訊快報／記者李純君報導】在NVIDIA執行長黃仁勳今早的媒體問題記者會中證實，NVIDIA仍然供不應求，而下一代AI平台的Vera Rubin整條AI供應鏈都已經被啟動，但仍追不上需求。至於記者詢問，如何打進中國市場？黃仁勳回應，Vera不是一般CPU，並強調Vera is a completely different CPU。黃仁勳首次公開承認NVIDIA仍然供不應求，直言『We have enough supply for very robust growth，However, we are supply constrained.』，強調「我們有足夠供應支撐非常強勁的成長，但我們仍然處於供給受限狀態」。\n\nVera Rubin供應鏈中，HBM取自SK海力士、美光和三星，CoWoS由台積電(2330)負責，先進封測協力廠包括矽品。Silicon Photonics廠有台積電、聯鈞(3450)、上詮(3363)、光聖(6442)、波若威(3163)。Connectors有貿聯(3665)和嘉澤(3533)。\n\n此外，黃仁勳也提到，Vera Rubin是下一代AI平台，整條AI供應鏈都已經被啟動，但仍追不上需求。而就如何打進中國市場？黃仁勳回應，Vera不是一般CPU，指出『Vera is a completely different CPU』，Vera設計目的不是傳統伺服器CPU，而是AI Agent CPU，Vera最重要特色是單執行緒性能超強，更是Largest step-up in single-thread performance in 25 years.，指的是，過去25年少見的大突破，因為Agent工作模式與一般伺服器不同，需要即時決策、Tool Calling、記憶體管理，和推理控制。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:28:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開高飆逾500點「直逼46K」 台積電漲45元至2400元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E9%AB%98%E9%A3%86%E9%80%BE500%E9%BB%9E-%E7%9B%B4%E9%80%BC46k-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B245%E5%85%83%E8%87%B32400%E5%85%83-012809090.html",
+      "Content": "輝達發表新一代人工智慧PC晶片，在AI熱潮激勵下，週一美股四大指數全面收漲，帶動台股今（2）天開盤上漲51.02點，以45388.93點開出，漲幅0.11％。接著漲勢進一步擴大，指數一度上漲578.01點至45915.92點，距離46000點大關已經相當接近。\n\n權值股方面，護國神山台積電（2330）上漲35元至2390元，隨後漲45元觸及2400元；鴻海（2317）上漲4元至297.5元，暫報298元；聯發科（2454）上漲415元至4970元，暫報4675元；廣達（2382）上漲2.5元至375元，暫報380.5元；台達電（2308）上漲10元至2430元，暫報2420元。\n\n責任編輯／馮康蕙",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "09:13:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股漲436點 台積電漲40元 記憶體「2檔」噴7%",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%BC%B2436%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B240%E5%85%83-%E8%A8%98%E6%86%B6%E9%AB%94-2%E6%AA%94-%E5%99%B47-011300431.html",
+      "Content": "輝達執行長黃仁勳舉辦的GTC主題演講，讓AI帶領台股持續延燒，台股今（2）日早盤開高震盪，上漲436點，來到45805點創新高，漲幅1.02%，預估成交量1.4兆，櫃買指數則開高震盪，早盤來到447.87點，上漲1.85點，漲幅0.37%。\n\n權值股中，台積電早盤開高震盪，來到2395元，上漲40元，漲幅1.7%，鴻海早盤來到294元，漲0.5元，漲幅0.17%，台達電來到2430元，漲10元，漲幅0.41%，聯發科來到4805元，漲250元，漲幅5.49%。\n\nPC概念股也同步上揚，仁寶、華碩、宏碁、緯創開盤就攻上漲停，其中，仁寶已連拉三根漲停板，微星也有5%的漲幅。\n\n記憶體族群則延續強勁的走勢，華邦電來到181元，漲幅逾7%，南亞科來到410元，漲幅7.44%，旺宏來到174.元，漲幅4.18%，晶豪科也有逾4%的漲幅。\n\n台塑四寶中，南亞轉型電子材料受到市場關注，繼昨日漲停後今天再度帶量衝高，股價來到114.5元續創波段新高，台化則來到55.2元，也又逾2%的漲幅。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】\n\n更多東森財經新聞報導\n\n一堆人股票「百萬翻千萬」！他只賺70萬陷焦慮 過來人揭關鍵差異\n\n個股：中菲行通過配息5.6元，導入數位化能力、深化亞太130個自營據點絡\n\n個股：星宇航空(2646)釜山航線今啟航，8月首飛布拉格進軍歐洲市場",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW",
+      "Date": "2026-06-02",
+      "Time": "09:08:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "46K再等等！台股早盤大漲逾500點 台積電狂飆40元",
+      "URL": "https://tw.stock.yahoo.com/news/46k%E5%86%8D%E7%AD%89%E7%AD%89-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E5%A4%A7%E6%BC%B2%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%8B%82%E9%A3%8640%E5%85%83-010810147.html",
+      "Content": "台股昨（1日）衝上45K大關之後，資金狂潮未歇，今（2日）早盤以45388.93點開出，隨後大漲超過500點，台積電上漲40元觸及2395元，聯發科續飆逾5%，台達電同步上漲10元，觸及2430元。\n\n受惠於電腦展題材與輝達進軍AI PC市場，電子五哥仍吸金，仁寶續飆漲停44.35元，緯創大漲逾7%，英業達與和碩上漲超過2%，廣達小漲近1%。PC品牌廠華碩與宏碁飆上漲停，微星也上漲超過3%。\n\n黃仁勳昨於GTC Taipei主題演講上釋出利多，攜手聯發科推出「RTX Spark」晶片，正式進軍AI PC市場。同時，黃仁勳也宣告新一代AI平台Vera Rubin全面量產，公開全球首個開源物理AI模型Cosmos 3，以及AI工廠、企業Agent布局。\n\n周一輝達股價大漲6.26%，收在224.36美元，台積電ADR上漲17.18美元（或4.11%）至435.63美元，鴻海ADR也大漲5.43%收在19.22美元。輝達競爭對手超微下跌1.16%至510.13美元，英特爾走低4.67%至109.33美元，高通重挫8.78%至228.99美元。\n\n台股接連創新高，朝5萬點大關邁進。展望後市，工商報導，統一投顧董事長黎方國表示，全世界對AI的需求太強勁，這是實打實的投資與訂單，最大受惠的國家依序為美國、台灣與韓國，這股AI浪潮會一路延續到2030年，預測台股最快6月底前有挑戰5萬點大關的機會。\n\n即使不斷挑戰紀錄，但居高思危想法不可少，中經院院長連賢明昨示警，股市漲勢超出市場預期，通常金融市場過熱後，修正風險會隨之而來，且修正幅度會比想像更大，要留意潛在的波動。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:08:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科狂噴9%！台積電漲40元至2395元　台股開高漲541點「闖45800點大關」",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E7%8B%82%E5%99%B49-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B240%E5%85%83%E8%87%B32395%E5%85%83-%E5%8F%B0%E8%82%A1%E9%96%8B%E9%AB%98%E6%BC%B2541%E9%BB%9E-%E9%97%9645800%E9%BB%9E%E5%A4%A7%E9%97%9C-010800855.html",
+      "Content": "[ FTNN新聞網 ]記者薛明峻／台北報導\n\n儘管油價走升，在AI晶片龍頭輝達（NVDA-US）強漲6.26%帶動下，美股四大指數周一全面收紅，道瓊、那斯達克、標普500均改寫歷史新高，費半更勁揚1.06%；台積電ADR則大漲4.11%，推升台股今（2）日開高上漲51.02點至45388.93點，隨著台積電漲40元至2395元，聯發科大漲9%，加權指數一度衝上45879.58點，大漲541.67點。\n\n五大電子權值股中，權王台積電（2330）開高漲35元至2390元，一度漲40元至2395元，漲幅1.70%；台達電（2308）開高漲10元至2430元，一度漲20元至2440元，漲幅0.83%，隨後翻黑；聯發科（2454）開高漲415元至4970元，漲幅9.11%，高檔震盪；鴻海（2317）開高漲4元至297.5元，一度漲6元至299.5元，漲幅2.04%；日月光投控（3711）則以600元開出，下跌1元，隨後翻紅漲7元至608元，漲幅1.16%。\n\n更多FTNN新聞網報導\n\n聯發科噴9%、鴻海飆5%！台積電猛漲10元 COMPUTEX點火台股大漲800點突破4萬5大關\n\n台達電噴4%、鴻海漲3%！台積電勁揚55元至2350元 台股開高漲1033點站回44600點大關\n\n台達電、聯發科齊挫1%！台積電強漲60元撐盤 台股早盤漲571點站上44800大關",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:05:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股早盤漲逾500點 台積電漲45元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B245%E5%85%83-010502648.html",
+      "Content": "美股4大指數1日收盤創新高，台北股市今天（2日）開盤漲51.02點，加權股價指數為45388.93點，成交金額新台幣191.78億元。早盤最高漲541.67點，加權指數為45879.58點。台積電漲45元，達2400元。\n\n其他權值股早盤表現，鴻海上漲5元，為298.5元，聯發科上漲275元，為4830元；台達電為2420元平盤。\n\n電子類股指數上漲0.96%、金融類股指數下跌0.17%，代表中小型股票的櫃買指數上漲0.55%。\n\n台股昨天收在45337.91點，美股四大指數道瓊工業指數小漲46.42點或0.09%，收51078.88點；標準普爾500指數小升19.90點或0.26%，收7599.96點；那斯達克指數上揚114.19點或0.42%，收27086.81點；費城半導體指數揚升136.27點或1.06%，收12965.65點。AI晶片龍頭輝達（NVDA-US）上漲6.26%、台積電ADR上漲4.11%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:04:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤漲51.02點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%BC%B251-02%E9%BB%9E-010411035.html",
+      "Content": "（中央社台北2日電）台北股市今天開盤漲51.02點，加權股價指數為45388.93點，成交金額新台幣191.78億元。1150602",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "09:03:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股開盤】漲51.02點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E6%BC%B251-02%E9%BB%9E-010301512.html",
+      "Content": "（中央社台北2026年6月2日電）台北股市今天開盤漲51.02點，加權股價指數為45388.93點，成交金額新台幣191.78億元。",
+      "Language": "zh"
+    },
     {
       "Ticker": "META, GOOGL, AMZN, TSM",
       "Date": "2026-06-02",
@@ -23,6 +113,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "08:46:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年 6月 2日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B4-6%E6%9C%88-2%E6%97%A5-004657155.html",
+      "Content": "【統一證券】\n\n本週圍繞Computex展及科技大佬演說。台股目前維持良性輪動的高檔震盪格局，惟技術面高檔鈍化，加上外資期貨空單近6萬5千口，短線應提防行情隨時劇烈波動，操作保持適度的資金彈性，建議低接不追高。選股以流動性佳的中大型AI權值股為主，技術面轉強及有題材的個股為輔。長線追蹤族群：台積電及先進製程/封裝、高速傳輸(含光傳輸)、載板與PCB、機箱滑軌、被動元件、功率半導體、航太衛星、特用化學及漲價概念等族群。\n\n【國票證券】\n\n美伊戰爭隨著時間拉長影響慢慢退去，加上Computex開展催化下，市場對科技族群投資情緒高漲，買盤推升大盤持續創下新高紀錄，趨勢偏多未變，不過短線乖離偏高，操作上宜待壓回短均附近再擇機介入。持續留意面板雙虎友達與群創，面板產業長期受中國產能過剩影響報價易跌難漲，但雙虎朝向先進封裝、低軌衛星等布局逐漸出現成效，營運有望走出困境重返榮耀，在當前的盤勢中可多留意布局時機。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "08:46:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【國票金控晨訊】台股登45000點大關　留意面板轉型題材",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A5%A8%E9%87%91%E6%8E%A7%E6%99%A8%E8%A8%8A-%E5%8F%B0%E8%82%A1%E7%99%BB45000%E9%BB%9E%E5%A4%A7%E9%97%9C-%E7%95%99%E6%84%8F%E9%9D%A2%E6%9D%BF%E8%BD%89%E5%9E%8B%E9%A1%8C%E6%9D%90-004654669.html",
+      "Content": "日期：2026年 6月 2日\n\n※操作建議與結論\n\n輝達新一代 AI 晶片發布，美股再寫新高紀錄\n\n台股成功站上45000大關，持續留意面板轉型題材\n\n今日盤勢及未來走勢：(留意面板雙虎布局機會)\n\n川普發文表示美伊談判快速推進，加上輝達發表新一代 AI PC晶片，市場持\n\n續往樂觀發展，美四大指數全數上漲，幅度介於 +0.09% 至 +1.06%，台積電ADR\n\n上漲 4.11% ，台指期夜盤上漲 505 點，預估今日台股盤上開出，盤中科技權值\n\n或有買盤湧入，挹注指數再刷新高紀錄。\n\n※短線看法\n\n雖然美伊和談協議並未出爐，加上荷姆茲海峽偶有零星衝突，地緣風險漸增\n\n。不過戰爭隨著時間拉長影響慢慢退去，加上Computex開展催化下，市場對科技\n\n族群投資情緒高漲，買盤推升大盤持續創下新高紀錄，趨勢偏多未變，不過短線\n\n乖離偏高，操作上宜待壓回短均附近再擇機介入。\n\n※操作建議\n\n持續留意面板雙虎【友達與群創】，面板產業長期受中國產能過剩影響報價\n\n易跌難漲，但雙虎朝向先進封裝、低軌衛星等布局逐漸出現成效，營運有望走出\n\n困境重返榮耀，在當前的盤勢中可多留意布局時機。\n\n※重點產業與族群\n\n面板雙虎 – 2409友達、3481群創\n\n產業觀點：面板產業長期受中國產能過剩影響報價易跌難漲，但雙虎友達與\n\n群創皆改變過去以面板為主的營運模式，持續朝向低軌衛星、先進封裝等高價值\n\n方向佈局，營運持續向好下推升股價走出谷底，重返榮耀。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-02",
+      "Time": "08:45:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股噴發衝破4.5萬點　中經院院長示警：修正幅度恐比想像更大",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%99%B4%E7%99%BC%E8%A1%9D%E7%A0%B44-5%E8%90%AC%E9%BB%9E-%E4%B8%AD%E7%B6%93%E9%99%A2%E9%99%A2%E9%95%B7%E7%A4%BA%E8%AD%A6-%E4%BF%AE%E6%AD%A3%E5%B9%85%E5%BA%A6%E6%81%90%E6%AF%94%E6%83%B3%E5%83%8F%E6%9B%B4%E5%A4%A7-004521850.html",
+      "Content": "在AI人工智慧熱潮下，台股多頭行情全面噴發，加權指數於1日開盤後一路強攻，盤中漲近1200點，最高來到45931點，再創歷史新高，終場收在45337.91點，同步改寫收盤紀錄。中華經濟研究院院長 連賢明 坦言漲勢超乎預期，雖然目前難以直接判斷股市是否已經過熱，但任何金融市場過熱後往往伴隨修正風險，「修正的幅度往往可能比大家想像得更大」。\n\n2026年尚未過半，台股已頻頻刷新紀錄。根據統計，台灣股市5月總市值正式超越印度，成為全球第五大股市。本週2026台北國際電腦展COMPUTEX登場，加上台積電6月4日即將召開股東會，再度點燃市場對人工智慧供應鏈的期待。\n\n對於近期股市表現，中經院院長連賢明1日坦言漲勢超乎預期。他表示，「如果有預期到股票市場會漲這麼快，我就先去買了」，並指出加權指數從突破3萬點後一路上攻至4萬5000點附近，漲幅明顯超出許多人預期。連賢明強調，雖然目前難以直接判斷股市是否已經過熱，但任何金融市場過熱後往往伴隨修正風險，「修正的幅度往往可能比大家想像得更大」。\n\n經濟基本面方面，主計總處公布今年第一季經濟成長率高達14.55%，甚至高於去年第四季，5月底最新經濟預測更將全年經濟成長率上修至9.64%。連賢明表示，AI人工智慧的強勁需求可以支撐出口表現，景氣熱絡的情況可持續至年底。\n\n中研院經濟所研究員簡錦漢分析，人工智慧硬體需求遠超市場原先想像，也讓各大機構持續上修台灣今年經濟成長預測。他指出，民間消費成長率預估達3.6%，屬於偏高水準，顯示內需動能同步升溫。\n\n簡錦漢進一步指出，若以市值推算財富效果，自2023年1月至今，台股已累積創造約新台幣107兆元帳面財富。雖然這些仍屬「紙上富貴」，但民眾在感受到資產增值後，消費信心往往也會跟著提升，進一步帶動整體消費市場。\n\n中經院公布的5月台灣採購經理人指數（PMI）為61.4%，較4月持續攀升，已連續8個月擴張，高於榮枯線50%，寫下近5年新高；非製造業經理人指數（NMI）則為58.2%，維持在高檔擴張區間。連賢明認為，從目前數據來看，台灣景氣確實處於相當熱絡的階段，人工智慧帶動的出口與投資動能仍是支撐經濟成長的主要力量，但投資人面對市場高檔時，仍應留意潛在波動與修正風險。\n\n更多中天新聞網報導\n\n伊朗擬徹底封鎖荷莫茲！美股早盤開低 台積電ADR逆勢上漲2.97％\n\n美債要跑嗎？FED新主席砍長債引巨震！專家：這兩種人別急著拋\n\n台股狂衝！羅明才發雞排＋珍奶＋太陽餅 豪喊：5萬點繼續加碼不要停！",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC, NVDA",
       "Date": "2026-06-02",
       "Time": "08:39:28",
@@ -33,6 +153,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-02",
+      "Time": "08:38:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】Computex開展　台股圍繞AI熱潮續燒",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-computex%E9%96%8B%E5%B1%95-%E5%8F%B0%E8%82%A1%E5%9C%8D%E7%B9%9Eai%E7%86%B1%E6%BD%AE%E7%BA%8C%E7%87%92-003850067.html",
+      "Content": "日期：2026年 6月 2日\n\n※盤勢分析\n\nComputex開展，台股圍繞AI熱潮續燒\n\n※昨日盤勢\n\ncomputex展前夕，黃仁勳發表GTC Taipei 主題演講、眾多科技領袖參與高\n\n峰對談，AI盛宴帶領台股開高走高，台積電早盤衝破2400元、加權指數走揚近4\n\n萬6大關，隨後因台積電漲幅收斂，終場加權指數以上影線紅K再創新高。在AI需\n\n求驅動下，記憶體與被動元件持續受投資人青睞。輝達正式宣告個人電腦進入全\n\n新時代，AI Agent 將成為新一代 PC 的核心應用型態，激勵AI PC族群再度成為\n\n盤面焦點；黃仁勳演說中表示AI能提高軟體工程師生產力，此說法點出資安的重\n\n要性，軟體股同時因低基期優勢表現剽悍；另外，物理AI正推動機器人邁向下一\n\n階段，相關概念股亦大放異彩。權值股方面，台積電收平盤，鴻海上漲1.56%，\n\n聯發科上漲5.68%，廣達漲停上漲9.88%，台達電下跌1.02%。\n\n盤面強勢股，廣達、華碩、聯茂、金居、台勝科、世芯-KY、訊芯-KY、長科\n\n*、九豪、群創、山林水、新興等共117檔漲停；GIS-KY、鈦昇、有成精密、金山\n\n電、大立光等漲幅9%以上；盤面弱勢股，睿生光電、德微及尚茂跌停；嘉晶、台\n\n半、欣銓、東陽、敬鵬、印能科技等跌幅7%以上。終場台灣加權指數上漲604.97\n\n點，以45337.91點作收，成交量1.48兆元。\n\n觀察盤面變化，三大類股全面上漲，電子上漲1.21%、傳產上漲2.18%、金融\n\n上漲1.88%。在次族群部份以塑膠、資服、光電表現較佳，分別上漲7.79%、\n\n7.47%、5.29%。\n\n※資金動向\n\n三大法人合計買超380.67億元。其中外資買超368.17億元，投信買超77.59\n\n億元，自營商賣超65.09億元。外資買超前五大為群創、台玻、台新新光金、南\n\n亞科、國泰金；賣超前五大為力積電、友達、華南金、華新、長榮航。投信買超\n\n前五大為台新新光金、華南金、長榮航、兆豐金、中信金；賣超前五大為聯電、\n\n遠東新、國泰金、仁寶、富邦金。資券變化方面，融資增94.19億元，融資餘額\n\n為5657.79億元，融券減0.69萬張，融券餘額為23.49萬張。外資台指期部位，空\n\n單增加4023口，淨空單部位64673口，借券賣出金額451.03億元。類股成交比重\n\n：電子88.32%、傳產8.80%、金融2.88%。\n\n※今日盤勢分析\n\n川普週一表示，美國與伊朗可望在未來一週內達成協議，延長目前停火安排\n\n，並推動重新開放荷姆茲海峽。產業面：在輝達發表新一代 AI 個人電腦 (PC)\n\n晶片、股價漲逾 6%，科技股領軍衝鋒，週一美股四大指數齊揚，台積電ADR上漲\n\n4.11%。\n\n台股後市分析如下：第一、輝達推出首款用於Windows作業系統的PC系統超\n\n級晶片「RTX Spark」，當中的CPU由聯發科與輝達攜手打造，代號為「N1X」。\n\n黃仁勳高喊，N1X是「世界上最令人驚嘆的晶片」，相關終端裝置預計秋天陸續\n\n推出。同時提及，Token成為能帶來營收的獲利單位、AI是GDP產生器，代理式AI\n\n時代來臨。接下來將是軟體公司發展的黃金盛世，前提是軟體必須以一種AI代理\n\n人能夠使用的方式呈現，這將會是一項重大的突破。\n\n第二、台達電總裁張訓海於輝達 NVIDIA GTCLive at Taipei 2026 會前直\n\n播中指出，除了目前的 800V電源系統外，5 到 10年前投入研發的固態變壓器\n\n(Solid-State Transformer, SST)，預計最慢明年迎來市場爆發，台達電也持續\n\n將電源與散熱系統深度整合，發揮最大效益。\n\n第三、技術面觀察，週一台股開高走高，成交量量縮收盤再創新高，技術指\n\n標KD與RSI均持續向上延伸，MACD紅柱體擴大，目前資金充沛維持良性輪漲，盤\n\n勢仍由多方掌握發球權。OTC指數同步走揚，後續應留意若產生資金排擠，中小\n\n型股將依題材各自表現。\n\n第四、盤面資金焦聚AI PC、資服、PCB材料、被動元件、記憶體等族群，包\n\n括：廣達、安碁資訊、金居、國巨*、南亞科等表現強勢。\n\n※投資策略\n\n本週圍繞Computex展及科技大佬演說。台股目前維持良性輪動的高檔震盪格\n\n局，惟技術面高檔鈍化，加上外資期貨空單近6萬5千口，短線應提防行情隨時劇\n\n烈波動，操作保持適度的資金彈性，建議低接不追高。選股以流動性佳的中大型\n\nAI權值股為主，技術面轉強及有題材的個股為輔。長線追蹤族群：台積電及先進\n\n製程/封裝、高速傳輸(含光傳輸)、載板與PCB、機箱滑軌、被動元件、功率半導\n\n體、航太衛星、特用化學及漲價概念等族群。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META, GOOGL, AMZN, AAPL, NVDA, MSFT",
       "Date": "2026-06-02",
       "Time": "08:37:00",
@@ -41,6 +171,16 @@
       "URL": "https://finance.yahoo.com/m/60148895-9139-31a7-a049-8c80b8329fd1/bank-of-america-reiterates.html",
       "Content": "Amazon (AMZN) stock is up about 14.63% year to date, at the time of writing, Monday afternoon, June 1. Meanwhile, the SPDR S&P 500 Index (SPY) is up about 11.01% in the same period.\n\nAnd while Amazon has just slightly outpaced the S&P 500, it has also outpaced all but two Magnificent 7 members in the same period.\n\nHere is how the other Magnificent 7 members have performed:\n\nAlphabet (GOOGL) is up 19.95%.\n\nNvidia (NVDA) is up 18.03%.\n\nApple (AAPL) is up 12.81%.\n\nMicrosoft (MSFT) is down 4.74%.\n\nTesla (TSLA) is down 6.19%.\n\nMeta (META) is down 6.8%.\n\nWe can see that Amazon is slightly behind Nvidia and Alphabet. Considering how heated the artificial intelligence race has become, being the third-best-performing member of the Magnificent 7 is not that bad.\n\nThe company has been working on a very big project for several years, and Bank of America believes it is time to assess the impact it will have on Amazon’s performance.\n\nRecent news for AMZN:\n\nThe company reported strong Q1 earnings .\n\nAmazon invested in OpenAI .\n\nThe company invested in Anthropic .\n\nAmazon launched Alexa for Shopping .\n\nKey facts about Amazon Leo\n\nAmazon’s Project Kuiper began in 2018 as an idea to provide broadband internet via Low Earth Orbit satellites to customers and communities beyond the reach of existing networks, according to SpaceNews .\n\nIt was renamed to Amazon Leo in November 2025.\n\nAmazon plans to launch its initial satellite constellation with more than 3,000 satellites. The term “constellation” refers to a group of satellites designed to work together.\n\nMore Tech Stocks:\n\n5-star analyst sets jaw-dropping Nvidia stock price target\n\nBank of America resets Microsoft stock forecast after earnings\n\nBank of America resets Google stock forecast after key event\n\nAccording to Amazon, Low Earth Orbit is the area of space extending up to 2,000 kilometers (about 1,243 miles) above Earth. The company said satellites will orbit between 590 and 630 kilometers (about 367 and 392 miles).\n\nAmazon shared in April that it would acquire Globalstar, absorbing its existing satellite operations, infrastructure, and assets — including mobile satellite services spectrum licenses with global authorizations. This acquisition will make it possible for Amazon Leo to add direct-to-device services to its Low Earth Orbit satellite network.\n\nAmazon and Apple confirmed that Amazon Leo will power satellite services for iPhone and Apple Watch, including Emergency SOS via satellite.\n\nBank of America believes Leo is approaching the operational tipping point\n\nIn a research note shared with me, Bank of America analyst Justin Post and his team updated their opinion on Amazon stock.\n\nStory Continues\n\nAnalysts wrote: “Amazon has stepped up its launch cadence with 3 launches already in [second quarter (Q2)], and over 300 satellites in space as of mid-May.”\n\nThe team said they believe Leo is on the cusp of generating revenue, as satellite launches have accelerated in Q2.\n\nRelying on publicly available data and not including consumer equipment costs, the team estimates that building the initial constellation will cost Amazon about $25 billion through 2028.\n\nAnalysts estimate Leo will lead to $1.3 billion in direct income statement expense in Q2 and $1.6 billion in Q3. Following Q3, costs should decline sequentially.\n\nThe team noted that, even though monthly consumer subscription revenues are a core business case for Leo, they believe that enterprise, government, and mobile direct-to-device revenues could surpass them.\n\nThey estimated Amazon's consumer broadband revenue potential at $14 billion in 2032.\n\nPost reiterated a buy rating for Amazon stock and the target price of $310, based on his sum-of-the-parts analysis that values AWS at 9x 2027 sales estimates, first-party retail at 1.0x, third-party retail at 2.5x, and advertising at 5.0x.\n\nAnalysts noted downside risks for Amazon:\n\nIncreasing competition from offline and local retailers.\n\nMarket share loss to cloud competitors with advanced AI technology.\n\nElevated AWS investment needs that could pressure margins.\n\nAnalysts also said the stock has been subject to significant volatility in the past, and that volatility could increase amid economic uncertainty.\n\nWhat do other analysts think, and how does Bank of America’s opinion compare?According to MarketBeat , 57 of the 60 analysts covering Amazon stock rate it a buy. Only three give a hold rating. The average price target is $312.83.\n\nRelated: Nvidia’s latest product is a game-changer\n\nThis story was originally published by TheStreet on Jun 1, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nBank of America believes Amazon Leo is approaching the operational tipping point.Paul Hennessy&sol;SOPA Images&sol;Getty Images\n\nBank of America believes Amazon Leo is approaching the operational tipping point.Paul Hennessy&sol;SOPA Images&sol;Getty Images Bank of America believes Leo is approaching the operational tipping point\n\n<h3 class=\"text article-heading-atom neo-font-label-2xl-emphasis yf-18d6y07\" id=\"\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inher",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-02",
+      "Time": "08:35:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】美股創高台指期夜盤漲505點　投顧：聚焦COMPUTEX效應",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E7%BE%8E%E8%82%A1%E5%89%B5%E9%AB%98%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E6%BC%B2505%E9%BB%9E-%E6%8A%95%E9%A1%A7-%E8%81%9A%E7%84%A6computex%E6%95%88%E6%87%89-003544516.html",
+      "Content": "（中央社記者何秀玲台北2026年06月2日電）美股4大指數1日收盤創新高，台指期夜盤上漲505點，台積電ADR上漲4.11%。投顧指出，市場今天聚焦COMPUTEX開展及GTC Taipei後續效應，AI伺服器、記憶體、機器人及AI PC概念股有望維持熱度；不過台股指數位處高檔，須留意短線獲利了結賣壓。\n\n輝達（NVIDIA）執行長黃仁勳1日於GTC Taipei演講指出，AI產業已進入AI代理人（AI Agent）時代，並宣布專為AI代理人打造的次世代Vera Rubin平台全面投產，同時攜手聯發科、台積電及微軟推出新一代AI PC平台。法人認為，相關訊息有助延續市場對AI伺服器、AI PC、機器人及半導體供應鏈的關注度。\n\n美國總統川普稍早聲稱，美方與伊朗的和談正以迅速步伐持續進行，加上人工智慧（AI）熱潮重新點燃，美股4大指數1日收盤都創下歷史新高紀錄。\n\n道瓊工業指數小漲46.42點或0.09%，收51078.88點；標準普爾500指數小升19.90點或0.26%，收7599.96點；那斯達克指數上揚114.19點或0.42%，收27086.81點；費城半導體指數揚升136.27點或1.06%，收12965.65點。輝達股價大漲6.26%至224.36美元，台積電ADR同步上漲4.11%至435.63美元。\n\n台股1日漲604.97點，收在45337.91點，成交值新台幣1兆6111.33億元。三大法人外資及陸資買超、投信買超、自營商賣超，合計買超367.4億元。\n\n外資買超前10名依序為主動統一升級50（00403A）、群創、主動統一台股增長（00981A）、台玻、台新新光金、南亞科、主動群益科技創新（00992A）、國泰金、凱基金、緯創。\n\n外資賣超前10名依序為力積電、友達、華南金、華新、長榮航、主動統一全球創新（00988A）、元大台灣50 (0050) 、東元、群益台灣精選高息（00919）、敬鵬。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
