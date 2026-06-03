@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T13:01:00.174Z",
-  "total_news_count": 1891,
+  "last_updated": "2026-06-03T13:15:27.786Z",
+  "total_news_count": 1892,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "INTC",
+      "Date": "2026-06-03",
+      "Time": "20:30:21",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Sparks AI Shockwave With New Chips and Mega Partnerships",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-sparks-ai-shockwave-chips-123021184.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) on Tuesday said it had broadened its artificial intelligence portfolio with new products and partnerships aimed at customers that need support from chips through full systems.\n\nIntel said the lineup includes rack-scale AI infrastructure for inference and agentic workloads built around Xeon processors and SambaNova SN-50 reconfigurable dataflow units. The company also introduced Vector Core Compute, an enterprise inference cloud backed by Vista Equity Partners and Cambium Capital, and said it has added a disaggregated inference setup using Intel Xeon, SambaNova RDUs and NVIDIA Blackwell GPUs.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel also said it signed strategic collaborations with Foxconn, Siemens, Hitachi, Echo Neurotechnologies and Greenstone Biosciences to build vertical solutions around Intel processors and custom silicon. The company said the effort is meant to fit different industry needs. Intel separately highlighted Xeon 6+ processors, its next-generation data center CPU built on Intel 18A and designed for high-density, scale-out workloads, and said partner support and customer use of its Series 3 processors is widening across the ecosystem for inference-heavy enterprise deployments globally.",
+      "Language": "en"
+    },
+    {
       "Ticker": "MRVL",
       "Date": "2026-06-03",
       "Time": "20:14:17",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "AAPL, MSFT",
       "Date": "2026-06-03",
       "Time": "20:14:09",
       "Source": "Yahoo Finance",
