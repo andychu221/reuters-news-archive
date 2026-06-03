@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T07:16:15.839Z",
-  "total_news_count": 359,
+  "last_updated": "2026-06-03T08:16:03.992Z",
+  "total_news_count": 358,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -4929,20 +4929,6 @@
       "Keywords": "營收亮眼, DRAM報價, 獲利成長, 股價漲停",
       "Related_Score": 5,
       "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "2454.TW, 2330.TW",
-      "Date": "2026-05-04",
-      "Time": "16:10:00",
-      "Source": "經濟日報",
-      "Title": "台股大漲創新高 台積電、聯發科、日月光貢獻漲點逾1400點",
-      "URL": "https://money.udn.com/money/story/5607/9480893?from=edn_search_result",
-      "Content": "經濟日 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股4日創下歷史新高，盤中指數一度衝達40,755.52點，終場收40,705.14點，上漲1,778.51點。\n• 貢獻大盤漲點前三名為台積電（2330）、聯發科（2454）、日月光投控（3711），合計貢獻約1,498點。\n• 台積電貢獻大盤指數約1,197點，聯發科漲停貢獻約142點。\n• 受惠於美伊戰爭有望喊停、美國科技巨頭財報報喜等利多。",
-      "Keywords": "台股創高, 權值股, AI晶片, 科技財報",
-      "Related_Score": 5,
-      "Sentiment_Score": 1
     }
   ]
 }
