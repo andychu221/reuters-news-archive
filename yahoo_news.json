@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-03T22:38:02.307Z",
-  "total_news_count": 2027,
+  "last_updated": "2026-06-03T22:45:07.444Z",
+  "total_news_count": 2034,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-04",
+      "Time": "06:00:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中東緊張升溫 道瓊重挫620點 台積電ADR跌2.24％",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E6%9D%B1%E7%B7%8A%E5%BC%B5%E5%8D%87%E6%BA%AB-%E9%81%93%E7%93%8A%E9%87%8D%E6%8C%AB620%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C2-24-220036266.html",
+      "Content": "伊朗外長阿拉奇今天警告，對黎巴嫩首都貝魯特的任何攻擊，都將導致中東戰爭「全面重新爆發」。中東緊張情勢再度升溫，國際油價應聲反彈，引發通膨疑慮，美國股市今天在投資人獲利了結賣壓下回落。道瓊工業指數重挫620.72點，標普結束九連漲。輝達跌8.07美元，跌幅3.63％、收214.75美元。台積電ADR收盤跌10美元，跌幅2.24％、收436.69美元。\n\n道瓊工業指數重挫620.72點或1.21%，收50687.07點。\n\n標普500指數下跌56.10點或0.74%，收7553.68點。\n\n那斯達克指數挫低239.92點或0.89%，收26853.98點。\n\n費城半導體指數則上漲190.69點或1.39%，收13916.96點。\n\n在美國和伊朗發動新的攻擊之後，國際油價連續第3天上漲。\n\n紐約商品交易所西德州中級原油7月交割價上漲2.4%，收報每桶96.02美元。倫敦北海布倫特原油8月交割價上漲1.9%，收在每桶97.81美元。\n\n隨著油價上漲，美國國庫券的收益率也有所上升。\n\n10年期國庫券的收益率接近 4.5%，30年期國庫券的收益率則接近5%。在5月ADP數據優於預期，及服務業活動上月的增長速度略有放緩之後，國庫券的收益率繼續上升。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-04",
+      "Time": "05:41:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR3日上漲0.4891美元漲幅 5.89%折台股27.67元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr3%E6%97%A5%E4%B8%8A%E6%BC%B20-4891%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%85-5-89-%E6%8A%98%E5%8F%B0%E8%82%A127-214150898.html",
+      "Content": "(中央社台北2026年 6月 4日電)友達光電在OTC US掛牌ADR以8.80美元作收，上漲0.4891美元，漲幅 5.89%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 6月 3日新台幣匯市收盤價31.440元計算，相當台股友達每股為 27.67元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/ 3\n\n8.80\n\n0.48\n\n1 5.89\n\n31.440\n\n27.6\n\n6/ 2\n\n8.31\n\n9 0.75\n\n4 10.01\n\n31.445\n\n26.1\n\n6/ 1\n\n7.55\n\n5 0.34\n\n5 4.78\n\n31.379\n\n23.7\n\n5/29\n\n7.21\n\n0.39\n\n5.72\n\n31.384\n\n22.6\n\n5/28\n\n6.82\n\n0.02\n\n0.29\n\n31.428\n\n21.4\n\n5/27\n\n6.80\n\n-0.18\n\n-2.58\n\n31.420\n\n21.3\n\n5/26\n\n6.98\n\n-0.02\n\n-0.34\n\n31.451\n\n21.9\n\n5/22\n\n7.00\n\n0.67\n\n10.65\n\n31.568\n\n22.1\n\n5/21\n\n6.33\n\n0.36\n\n8 6.08\n\n31.595\n\n20.0\n\n5/20\n\n5.96\n\n2 -0.09\n\n8 -1.53\n\n31.643\n\n18.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-04",
+      "Time": "05:41:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR3日下跌0.50美元跌幅1.10%折台股141.17元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr3%E6%97%A5%E4%B8%8B%E8%B7%8C0-50%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-10-%E6%8A%98%E5%8F%B0%E8%82%A1141-17%E5%85%83-214146900.html",
+      "Content": "(中央社台北2026年 6月 4日電)中華電信在NYSE掛牌ADR 以 44.90美元作收，下跌0.50美元，跌幅 1.10%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 6月 3日新台幣匯市收盤價31.440元計算，相當台股中華電信每股為141.17元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/ 3\n\n44.90\n\n-0.50\n\n-1.10\n\n31.440\n\n141.1\n\n6/ 2\n\n45.40\n\n0.22\n\n0.49\n\n31.445\n\n142.7\n\n6/ 1\n\n45.18\n\n1.41\n\n3.22\n\n31.379\n\n141.7\n\n5/29\n\n43.77\n\n0.26\n\n0.60\n\n31.384\n\n137.3\n\n5/28\n\n43.51\n\n-0.23\n\n-0.53\n\n31.428\n\n136.7\n\n5/27\n\n43.74\n\n0.38\n\n0.88\n\n31.420\n\n137.4\n\n5/26\n\n43.36\n\n-0.32\n\n-0.73\n\n31.451\n\n136.3\n\n5/22\n\n43.68\n\n-0.14\n\n31.568\n\n137.8\n\n5/21\n\n43.82\n\n-0.16\n\n-0.36\n\n31.595\n\n138.4\n\n5/20\n\n43.98\n\n-1.07\n\n-2.38\n\n31.643\n\n139.1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-06-04",
+      "Time": "05:41:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR3日下跌1.04美元跌幅4.63%折台股134.69元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr3%E6%97%A5%E4%B8%8B%E8%B7%8C1-04%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%854-63-%E6%8A%98%E5%8F%B0%E8%82%A1134-69%E5%85%83-214144920.html",
+      "Content": "(中央社台北2026年 6月 4日電)聯電在NYSE掛牌 ADR以21.42美元作收，下跌1.04美元，跌幅 4.63%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 6月 3日新台幣匯市收盤價31.440元計算，相當台股聯電每股為134.69元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/ 3\n\n21.42\n\n-1.04\n\n-4.63\n\n31.440\n\n134.6\n\n6/ 2\n\n22.46\n\n-0.43\n\n-1.88\n\n31.445\n\n141.2\n\n6/ 1\n\n22.89\n\n0.71\n\n3.20\n\n31.379\n\n143.6\n\n5/29\n\n22.18\n\n-0.50\n\n-2.20\n\n31.384\n\n139.2\n\n5/28\n\n22.68\n\n0.46\n\n2.07\n\n31.428\n\n142.5\n\n5/27\n\n22.22\n\n1.14\n\n5.41\n\n31.420\n\n139.6\n\n5/26\n\n21.08\n\n2.86\n\n15.70\n\n31.451\n\n132.6\n\n5/22\n\n18.22\n\n-0.13\n\n-0.71\n\n31.568\n\n115.0\n\n5/21\n\n18.35\n\n0.79\n\n4.50\n\n31.595\n\n115.9\n\n5/20\n\n17.56\n\n-0.02\n\n-0.11\n\n31.643\n\n111.1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-04",
+      "Time": "05:41:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR3日下跌10.00美元跌幅2.24%折台股2745.91元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr3%E6%97%A5%E4%B8%8B%E8%B7%8C10-00%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-24-%E6%8A%98%E5%8F%B0%E8%82%A12745-91%E5%85%83-214142582.html",
+      "Content": "(中央社台北2026年 6月 4日電)台積電在NYSE掛牌 ADR以436.69美元作收，下跌 10.00美元，跌幅 2.24%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 6月 3日新台幣匯市收盤價31.440元計算，相當台股台積電每股為 2745.91元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/ 3\n\n436.69\n\n-10.00\n\n-2.24\n\n31.440\n\n2745.9\n\n6/ 2\n\n446.69\n\n11.06\n\n2.54\n\n31.445\n\n2809.2\n\n6/ 1\n\n435.63\n\n17.18\n\n4.11\n\n31.379\n\n2733.9\n\n5/29\n\n418.45\n\n-6.41\n\n-1.51\n\n31.384\n\n2626.5\n\n5/28\n\n424.86\n\n2.13\n\n0.50\n\n31.428\n\n2670.5\n\n5/27\n\n422.73\n\n10.41\n\n2.52\n\n31.420\n\n2656.4\n\n5/26\n\n412.32\n\n7.80\n\n1.93\n\n31.451\n\n2593.5\n\n5/22\n\n404.52\n\n-2.63\n\n-0.65\n\n31.568\n\n2553.9\n\n5/21\n\n407.15\n\n5.53\n\n1.38\n\n31.595\n\n2572.7\n\n5/20\n\n401.62\n\n9.01\n\n2.29\n\n31.643\n\n2541.6",
+      "Language": "zh"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-06-04",
@@ -11,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/01a46547-c253-359a-813d-eaf9f237c63d/stock-market-today%2C-june-3%3A.html",
       "Content": "The S&P 500 (SNPINDEX:^GSPC) fell 0.74% to 7,553.68, the Nasdaq Composite (NASDAQINDEX:^IXIC) slipped 0.89% to 26,853.98, and the Dow Jones Industrial Average (DJINDICES:^DJI) dropped 1.21% to 50,687.07 as surging oil, higher yields, and geopolitical tensions pressured markets.\n\nMarket movers\n\nTech megacaps Nvidia and Microsoft both fell by more than 3%, weighing on the S&P 500 and Nasdaq. Semiconductor sentiment stayed upbeat with gains from memory chip stocks like Sandisk and Micron Technology . Intel erased some of its recent losses and Marvell Technology extended its rally — it is now up over 50% in the past five days.\n\nWhat this means for investors\n\nU.S. indexes ended their winning streak today as investors grew cautious amid reports of escalating tensions in the Middle East. The S&P 500 topped 7,600 for the first time after nine consecutive days of gains, but doubts about the U.S.-Iran peace negotiations caused oil prices to rise and stocks to falter.\n\nStrong earnings have helped reassure Wall Street that the booming artificial intelligence (AI) trade is sustainable, but valuations and spending are coming under increasing scrutiny. For example, if AI adoption doesn’t happen as quickly or broadly as expected, there will be considerable unused capacity. One way investors can prepare is to balance tech exposure with defensive and dividend stocks.\n\nAnother reason to brace for turbulence is that some analysts warn upcoming mega-IPOs could drain liquidity from existing stocks. SpaceX, Anthropic, and OpenAI are all expected to go public this year, with combined valuations of over $3 trillion, which could present a short-term headwind for markets.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-04",
+      "Time": "05:30:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI晶片年底登場前先遇逆風 英特爾18A良率傳僅50% 遠輸台積電、三星",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%99%B6%E7%89%87%E5%B9%B4%E5%BA%95%E7%99%BB%E5%A0%B4%E5%89%8D%E5%85%88%E9%81%87%E9%80%86%E9%A2%A8-%E8%8B%B1%E7%89%B9%E7%88%BE18a%E8%89%AF%E7%8E%87%E5%82%B3%E5%83%8550-%E9%81%A0%E8%BC%B8%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E4%B8%89%E6%98%9F-213002337.html",
+      "Content": "美國晶片大廠英特爾 (INTC-US) 正積極布局人工智慧 (AI) 晶片市場，計劃在今年底前推出新款 AI 晶片，並採用成本相對較低的記憶體與散熱方案，藉此與輝達 (NVDA-US) 及超微 (AMD-US) 展開競爭。然而，在產品正式問世前，市場對其關鍵製程技術的進展仍抱持審慎態度。\n\n根據科技分析師 Jukan 於社群平台引述摩根士丹利相關報告指出，英特爾目前 18A 先進製程的良率約為 50%，雖然仍在持續改善，但距離市場普遍認定的穩定量產標準仍有一段距離。\n\n報告指出，晶圓代工產業通常將 60% 以上良率視為具備穩定量產能力的重要門檻，而英特爾 18A 目前約 50% 的良率水準，顯示其先進製程仍處於持續優化階段。相較之下，全球晶圓代工龍頭台積電 (2330-TW) 的先進製程良率據傳已達 80% 至 90%，在成熟度與生產效率方面維持顯著領先優勢。\n\n此外，南韓半導體產業人士透露，三星電子 (005930-KS) 目前 2 奈米製程良率約為 55%，略高於英特爾 18A，但兩者整體差距有限，顯示全球先進製程競爭已進入激烈角力階段。\n\n值得注意的是，英特爾執行長陳立武先前受訪時表示，公司目前每月可將製程良率提升約 7% 至 8%。若依照此改善速度推算，18A 製程未來數季仍有機會逐步逼近產業量產標準。\n\n業界分析指出，對於 18A 製程而言，良率能否進一步提升至 80% 左右將是關鍵分水嶺。因為當良率達到約 80% 時，才有機會進入蘋果 (AAPL-US) 等大型科技客戶所要求的標準定價體系，並採用整片晶圓結算模式，同時取得長期產能配額與穩定訂單，成為 18A 製程真正實現商業化量產的重要門檻。\n\n英特爾近年持續推動製造業務改革，希望藉由 18A 製程重返全球先進製程領導地位，並吸引外部客戶採用其晶圓代工服務。然而，在台積電維持高良率優勢，以及三星持續追趕的情況下，18A 製程未來數季的良率提升速度，將成為決定英特爾 AI 晶片布局與晶圓代工戰略能否成功的重要觀察指標。",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC, NVDA",
@@ -31,6 +91,16 @@
       "URL": "https://finance.yahoo.com/m/433d9342-8bcf-3b96-ae3c-b112937d829f/stock-market-today%2C-june-3%3A.html",
       "Content": "Alphabet (NASDAQ:GOOGL) , internet services including search, ads, and cloud computing, closed Wednesday at $358.68, down 0.76%. The stock was priced lower as investors reacted to dilution from Alphabet’s record-sized equity offering and are watching how efficiently new AI and cloud investments translate into growth and returns.\n\nAlphabet went public in 2004 and has grown 14202% since going its IPO.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) slipped 0.74% to finish Wednesday at 7,553.68, while the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 0.89% to close at 26,854. Within the internet content & information group, Meta Platforms (NASDAQ:META) closed at $622.98, up 4.24%, while Microsoft (NASDAQ:MSFT) finished at $427.34, down 3.17%, underscoring mixed sentiment across major platform peers.\n\nWhat this means for investors\n\nAlphabet shares declined after the company increased its AI infrastructure equity raise to $84.75 billion, raising new concerns for investors about dilution and capital allocation. The offering, up from the initial $80 billion plan, includes a $10 billion private placement with Berkshire Hathaway, serving as a prominent anchor for one of the largest equity financings related to AI development.\n\nManagement positioned the raise as a response to rising demand for AI and cloud, noting that Gemini app usage is nearing 900 million monthly users. Upcoming financial results and capital expenditure updates will determine whether Alphabet can generate returns sufficient to offset dilution and increased infrastructure costs.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-04",
+      "Time": "05:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "1表看》981A、403A、992A...主動5王持股大風吹 狂敲鴻海、華邦電、南亞、貿聯 瑤池金母也出手：這檔設備股慘倒515張",
+      "URL": "https://tw.stock.yahoo.com/news/1%E8%A1%A8%E7%9C%8B-981a-403a-992a-%E4%B8%BB%E5%8B%955%E7%8E%8B%E6%8C%81%E8%82%A1%E5%A4%A7%E9%A2%A8%E5%90%B9-210030329.html",
+      "Content": "台股再寫大驚奇，昨（3）日大漲901.85點，一舉衝上4萬6，但從主動式ETF動向觀察，00981A、00982A同步收手，明顯賣多於買，同步減碼半導體設備股漢唐(2404)，合計高達890張，00403A則是大敲鴻海(2317)、華邦電(2344)、南亞(1303)等3家逾千張，態度最為積極。\n\n投資達人《麻糬爸的主動存股筆記》表示，貿聯-KY成昨日主動式ETF的加碼重點，其中以主動復華未來50 (00991A)重砸11億元最多；至於創19年新高的鴻海，則是獲主動統一升級50 (00403A)用力加碼5.4億元。\n\n此外，00991A還重手建倉線束大廠貿聯-KY達499張，直衝主力持股，並點火智邦、旺矽、奇鋐等3檔。\n\n992A敲進南俊750張\n\n主動群益科技創新(00992A)唯一買進標的為伺服器滑軌廠南俊國際，張數高達750張，但大幅調節南電、台燿、健策、台光電等逾10檔AI零組件。\n\n00403A除掃貨2000張鴻海，還建倉南亞與華邦電逾千張，各達1600張、1200張，但徹底出清通路商文曄，拔檔健鼎、記憶體群聯等2家。\n\n此外，《麻糬爸》發現，主動復華未來500(00981A)面對台股創高，昨日則是一張未買，不僅零買進，還重砍設備大廠漢唐515張，顯示瑤池金母選擇在極度貪婪的市場中，見好就收。\n\n5.2億元加碼旺矽\n\n00982A雖低接穩懋，但出清漢唐375張，營建股績優生達麗也大幅調節180張，持股僅剩零頭，與00981A作風神似，顯然認定設備股短線利多已發酵完畢，因而決定該撤就撤。\n\n投資達人《波波流-投機指揮所》則認為，除鴻海股價強勢突破長期高點，再加上主動ETF加碼，代表市場對 AI 伺服器代工、電力、系統組裝題材重新給評價。\n\n此外，00403A、00991A、00980A同步買進旺矽，加碼共識最高，合計斥資約5.2億元，顯示測試介面、探針卡領域，又被經理人拉回視野，但相較00403A、00991A積極進攻，00992A則明顯偏保守調節。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
