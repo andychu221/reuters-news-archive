@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T02:16:24.520Z",
-  "total_news_count": 362,
+  "last_updated": "2026-06-03T03:16:06.175Z",
+  "total_news_count": 360,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -4965,34 +4965,6 @@
       "Keywords": "台股創高, 權值股, AI供應鏈, 操作策略",
       "Related_Score": 5,
       "Sentiment_Score": 1
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-05-04",
-      "Time": "10:50:00",
-      "Source": "經濟日報",
-      "Title": "聯發科因 ASIC 展望亮眼攀至歷史新高 分析師一面倒看好漲至這價位",
-      "URL": "https://money.udn.com/money/story/5710/9480076?from=edn_search_result",
-      "Content": "經濟日報 編 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科（2454）因AI特殊應用晶片（ASIC）展望亮眼，股價漲停創歷史新高。\n• 分析師紛紛調高目標股價，平均由2,687元調高至3,191元，高盛目標價上看5,000元。\n• 摩根士丹利預估2027、2028年ASIC（Google TPU）營收分別達120億美元與210億美元。\n• 花旗看好聯發科在AI商機及CPO開發的成長機會，列為90天內強勢看漲名單。",
-      "Keywords": "ASIC, AI晶片, 目標價上調, 財報優於預期, 成長動能",
-      "Related_Score": 5,
-      "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-05-04",
-      "Time": "10:28:00",
-      "Source": "經濟日報",
-      "Title": "外資一口氣調升 聯發科等三檔千金股目標價",
-      "URL": "https://money.udn.com/money/story/5607/9480008?from=edn_search_result",
-      "Content": "經濟日報 ...",
-      "Language": "zh",
-      "AI_Summary": "• 外資最新報告調升聯發科（2454）、台達電（2308）及致茂（2360）目標價。\n• 聯發科2026年ASIC營收展望翻倍至20億美元，預期下一代專案ASP將成長數倍。\n• 台達電資料中心電源與散熱業務占比提升至約40%，券商認為市場低估其表現。\n• 致茂預期今年半導體與光通訊營收年增95%，同步獲調升目標價。",
-      "Keywords": "目標價上調, ASIC, 資料中心, 半導體設備, 成長前景",
-      "Related_Score": 4,
-      "Sentiment_Score": 2
     }
   ]
 }
