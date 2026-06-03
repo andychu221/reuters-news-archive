@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-03T01:00:55.007Z",
-  "total_news_count": 1728,
+  "last_updated": "2026-06-03T01:15:14.428Z",
+  "total_news_count": 1729,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-03",
+      "Time": "08:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "AI Computing Chip Showdown: Is Nvidia Still King or Is Broadcom the Better Pick?",
+      "URL": "https://finance.yahoo.com/m/509da8b4-e8c4-30c7-8954-7dc30fc638a5/ai-computing-chip-showdown%3A.html",
+      "Content": "Nvidia (NASDAQ: NVDA) has been the gold standard for artificial intelligence (AI) investing, specifically in the computing chip sector. Nvidia's GPUs are synonymous with the AI build-out, and it has ridden the wave of massive AI spending to become the world's largest company (at the time of this writing). However, there's a competitor that's looking to challenge that status.\n\nBroadcom (NASDAQ: AVGO) is a rising star, and its custom AI chip business could take off over the next few years, propelling Broadcom to new heights. But is this something Nvidia investors should be worried about? Or is this just background noise? Let's take a look and see which stock is the better investment moving forward.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nNvidia and Broadcom are tackling the same problem from two different standpoints\n\nNvidia's GPUs are fantastic for all sorts of computing applications. These units can perform multiple calculations in parallel, giving them incredible processing speeds for the world's most complex workloads. When thousands of these units are combined in clusters, they can deliver incredible processing power and speed, allowing them to train and run AI models.\n\nHowever, because GPUs can handle a wide variety of workloads, they don't excel in one particular area. There's also a lot of wasted capabilities, causing clients to overpay for features they don't need. That's where Broadcom's custom AI chips start to become attractive.\n\nBroadcom is partnering directly with AI hyperscalers to design custom AI chips that are tailored for their particular workloads. The best example is the Tensor Processing Unit (TPU) that Broadcom has designed in collaboration with Alphabet . The TPU can outperform GPUs as long as the workload is configured properly, and do it at a more cost-effective price point. Several companies have collaborated with Broadcom over the past few years to design custom AI chips; now, the design process is nearing completion, and order fulfillment is beginning. This will lead to huge growth for Broadcom over the next few years, potentially allowing it to surpass Nvidia.\n\nBroadcom's custom AI chip business is gaining momentum\n\nWhen you're discussing business momentum, it's hard to deny what Nvidia has going on. Last year, its revenue growth rate started to decline, which most investors assumed would continue for some time. Then, Nvidia started reporting accelerating growth numbers.\n\nStory Continues\n\nWall Street analysts project it will continue this rise next quarter, with 96% growth expected. That's incredible, but can Broadcom match it? Over that same time frame, Broadcom's growth hasn't looked nearly as impressive. However, Broadcom is a far more diversified business, which drags down its overall growth rate because it isn't completely leveraged to the AI build-out.\n\nBut all of that could change over the next year as Broadcom's custom chip business really starts to take hold. Management believes that its custom chip business could generate $100 billion in revenue during 2027 alone. That's a major boost for Broadcom, which is why Wall Street analysts expect Broadcom's revenue to skyrocket over the next few quarters. For Q2, they expect 47% growth. In Q3, that projection is 78%. There's a major growth pattern beginning with Broadcom, but it still falls a bit short of Nvidia's current growth rate.\n\nDespite that, Broadcom's price tag is far greater than Nvidia's.\n\nThe market is incredibly excited about Broadcom's future and has given it a premium price tag. However, Nvidia is far cheaper despite showcasing better results.\n\nI think this is a classic case of the market looking for a new, shiny toy rather than trusting old reliable. I'm a Broadcom investor and excited to see how its custom AI chip business grows over the next few months. However, from a risk-reward standpoint, Nvidia is still the far better investment, as it's growing faster and is far cheaper than Broadcom.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-03",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO, GOOGL, MRVL",
+      "Ticker": "INTC, NVDA, AVGO, GOOGL, MRVL",
       "Date": "2026-06-03",
       "Time": "08:15:15",
       "Source": "Yahoo Finance",
@@ -663,7 +673,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "AAPL, AMD",
       "Date": "2026-06-03",
       "Time": "02:42:19",
       "Source": "Yahoo Finance",
