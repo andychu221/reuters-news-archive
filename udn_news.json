@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T13:16:21.575Z",
-  "total_news_count": 359,
+  "last_updated": "2026-06-03T14:16:04.531Z",
+  "total_news_count": 358,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -4953,20 +4953,6 @@
       "Keywords": "房市資金, 股市投資, 賣房買股",
       "Related_Score": 1,
       "Sentiment_Score": 0
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-05-04",
-      "Time": "21:39:00",
-      "Source": "經濟日報",
-      "Title": "4萬點選秀！AI升級潮攻最強5月股東會行情 聯發科大轉型 AI ASIC晶片王",
-      "URL": "https://money.udn.com/money/story/12040/9481302?from=edn_search_result",
-      "Content": "文 ...",
-      "Language": "zh",
-      "AI_Summary": "• AI升級潮帶動台股行情，法人預期大盤上看43000點。\n• 聯發科（2454）轉型搶攻Google TPU大單，朝AI ASIC王者之路邁進。\n• 5月股東會行情可期，法人預期台股延續「微笑曲線」走勢，並有融券強制回補及高現金股息吸引買盤。\n• 台股整體市值已達126.96兆元，較去年底成長34.5%，櫃買市場市值成長40.1%。\n• 台積電（2330）先進製程及輝達（NVIDIA）AI晶片需求是推升台股主要驅動力，台積電為輝達主要代工廠，佔輝達晶片製造量能70%-90%。",
-      "Keywords": "AI升級, 股東會行情, 聯發科, 台積電, 輝達",
-      "Related_Score": 5,
-      "Sentiment_Score": 1
     }
   ]
 }
