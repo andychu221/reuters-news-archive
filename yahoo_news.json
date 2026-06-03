@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T13:45:59.985Z",
-  "total_news_count": 1894,
+  "last_updated": "2026-06-03T13:52:03.591Z",
+  "total_news_count": 1895,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -41,6 +41,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/intel-sparks-ai-shockwave-chips-123021184.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) on Tuesday said it had broadened its artificial intelligence portfolio with new products and partnerships aimed at customers that need support from chips through full systems.\n\nIntel said the lineup includes rack-scale AI infrastructure for inference and agentic workloads built around Xeon processors and SambaNova SN-50 reconfigurable dataflow units. The company also introduced Vector Core Compute, an enterprise inference cloud backed by Vista Equity Partners and Cambium Capital, and said it has added a disaggregated inference setup using Intel Xeon, SambaNova RDUs and NVIDIA Blackwell GPUs.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel also said it signed strategic collaborations with Foxconn, Siemens, Hitachi, Echo Neurotechnologies and Greenstone Biosciences to build vertical solutions around Intel processors and custom silicon. The company said the effort is meant to fit different industry needs. Intel separately highlighted Xeon 6+ processors, its next-generation data center CPU built on Intel 18A and designed for high-density, scale-out workloads, and said partner support and customer use of its Series 3 processors is widening across the ecosystem for inference-heavy enterprise deployments globally.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-06-03",
+      "Time": "20:24:41",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科5月營收277億元年增7倍續創高 前5月合計飆破千億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%915%E6%9C%88%E7%87%9F%E6%94%B6277%E5%84%84%E5%85%83%E5%B9%B4%E5%A2%9E7%E5%80%8D%E7%BA%8C%E5%89%B5%E9%AB%98-%E5%89%8D5%E6%9C%88%E5%90%88%E8%A8%88%E9%A3%86%E7%A0%B4%E5%8D%83%E5%84%84%E5%85%83-122441967.html",
+      "Content": "DRAM 業者南亞科 (2408-TW) 今 (3) 日公布 5 月營收 276.7 億元，月增 8.55%，年增 730.14%，累計前 5 月營收高達 1,022.48 億元，年增 649.62%；受惠 DDR4、DDR5 價格一路狂飆，南亞科 5 月營收再度改寫歷史新高，年增幅達 7 倍。\n\n隨著 AI 帶動記憶體需求爆發性成長，市場普遍預估 DRAM 將一路缺到 2028 年，甚至 2030 年，價格方面，目前三大原廠已有共識，預計下半年價格將持續上漲，月增幅約莫達 10%，等同單季漲幅約 30-40%，南亞科也可望跟進原廠，持續調漲第三季合約價，將帶動下半年獲利再攀峰。\n\n另外，高通日前公布 21 家台灣供應鏈，間接證實南亞科與轉投資補丁科技 (PieceMakers) 雙雙打入其智慧裝置。市場看好，南亞科的客製化記憶體業務將成為下個成長關鍵。\n\n南亞科看好，DRAM 產業在 AI 帶動下，出現結構性變化，且在 AI 對高運算與資料傳輸的強勁需求，記憶體市場的缺貨與漲價情況預計至少會持續到 2027 年底。",
+      "Language": "zh"
     },
     {
       "Ticker": "MRVL",
