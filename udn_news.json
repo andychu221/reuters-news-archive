@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-03T15:16:04.703Z",
-  "total_news_count": 358,
+  "last_updated": "2026-06-03T16:16:13.606Z",
+  "total_news_count": 356,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-03",
+      "Time": "23:45:00",
+      "Source": "經濟日報",
+      "Title": "[會員] AI 軍備競賽推升獲利上修潮 &lt;u&gt;台積電&lt;/u&gt;、技嘉等獲升評成台股領漲指標",
+      "URL": "https://money.udn.com/money/story/5607/9544452?from=edn_search_result",
+      "Content": "經濟日報 記者盧宏奇／台北報導\n\n台股近日延續震盪創高走勢，續往50,000點靠攏。專家指出，人工智慧（AI）軍備競賽帶動企業獲利上修潮未歇，台積電（2330）、技嘉等獲法人機構調升目標價、投資評等的績優股，可望領漲抗跌，扮演行情波動時的多頭明燈。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-03",
@@ -4911,48 +4921,6 @@
       "Keywords": "AI ASIC, TPU, 雲端服務供應商, 伺服器組裝",
       "Related_Score": 5,
       "Sentiment_Score": 1
-    },
-    {
-      "Ticker": "2408.TW",
-      "Date": "2026-05-05",
-      "Time": "00:03:00",
-      "Source": "經濟日報",
-      "Title": "南亞科4月合併營收創新高",
-      "URL": "https://money.udn.com/money/story/5710/9481320?from=edn_search_result",
-      "Content": "經濟日報 記者 ...",
-      "Language": "zh",
-      "AI_Summary": "• 南亞科（2408）4月合併營收254.91億元，創單月歷史新高，月增40.29%，年增717.33%。\n• 前四月合併營收745.78億元，已超越去年總營收，年增623.58%。\n• DRAM平均售價（ASP）首季上漲逾70%，本季預計再季增數十個百分比，下半年漲勢有望延續。\n• AI應用成為主要成長動能，客製化AI記憶體產品（UWIO）已開始貢獻營收，並帶動伺服器、高階SSD、企業級SSD及網通設備對DRAM需求。\n• 預計短期記憶體供需吃緊態勢將延續至2027年，南亞科泰山新廠預計2027年Q1投產，長期有擴產規劃。",
-      "Keywords": "營收創高, DRAM ASP, AI記憶體, 供需吃緊, 擴產規劃",
-      "Related_Score": 5,
-      "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "3443.TW",
-      "Date": "2026-05-04",
-      "Time": "23:57:00",
-      "Source": "經濟日報",
-      "Title": "創意目標價 里昂喊6,000元 重申「優於大盤」評等",
-      "URL": "https://money.udn.com/money/story/5607/9481690?from=edn_search_result",
-      "Content": "經濟日報 記 ...",
-      "Language": "zh",
-      "AI_Summary": "• 外資里昂證券將創意（3443）目標價從3,600元大幅上調66.6%至6,000元，重申「優於大盤」評等。\n• 受惠於CPU與ADAS動能擴大，今年營收成長動能將優於2025年，長線受惠先進製程與HPC需求。\n• 創意首季EPS 12.28元，毛利率27.2%，營益率15.9%，均優於預期。\n• 預期今年營收成長將超越去年，主要受惠台積電產能配置改善；下半年營收將明顯提升。\n• CPU客戶推出第八代XPU，預期2027年3奈米CPU營收將翻倍；美系ADAS客戶需求強勁，將成未來數年成長動能。",
-      "Keywords": "目標價上調, EPS優於預期, CPU, ADAS, HPC",
-      "Related_Score": 5,
-      "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-05-04",
-      "Time": "23:40:00",
-      "Source": "經濟日報",
-      "Title": "[會員] 買台積房不如買台積電股票 房市資金流向股市會有什麼風險？",
-      "URL": "https://money.udn.com/money/story/5621/9481710?from=edn_search_result",
-      "Content": "經濟日報 記者朱曼 ...",
-      "Language": "zh",
-      "AI_Summary": "• 在打房政策、貸款限制、報酬率差距擴大的影響下，越來越多投資人選擇從不動產轉進台股。\n• 出現「賣房買股」的現象，房市資金可能流向股市。",
-      "Keywords": "房市資金, 股市投資, 賣房買股",
-      "Related_Score": 1,
-      "Sentiment_Score": 0
     }
   ]
 }
