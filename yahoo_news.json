@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-03T07:40:04.584Z",
-  "total_news_count": 1802,
+  "last_updated": "2026-06-03T07:44:34.137Z",
+  "total_news_count": 1810,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "15:24:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "永豐期貨：利空全面鈍化，台股繼續上看五萬點",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E5%88%A9%E7%A9%BA%E5%85%A8%E9%9D%A2%E9%88%8D%E5%8C%96-%E5%8F%B0%E8%82%A1%E7%B9%BC%E7%BA%8C%E4%B8%8A%E7%9C%8B%E4%BA%94%E8%90%AC%E9%BB%9E-072428078.html",
+      "Content": "【財訊快報／編輯部】指數週三上漲901.85點，收在46459.16點，成交量1.5兆元。台指期上漲754點至46857點，正價差為397.84點。籌碼面部分，三大法人買超515.66億元；而在台指期淨部位方面，三大法人淨空單減少1695口至-12994口，其中外資淨空單減少246口至-66772口；十大交易人中的特定法人全月份台指期淨空單減少1320口至-12152口。台股今天最強的地方不是漲了多少，而是市場已經完全進入「利空鈍化」階段，現在就算外資淨空單還維持在接近七萬口的水位，指數照樣一路往上墊高，代表市場根本不在意空方怎麼看，甚至可以說現在最大的燃料反而就是那些還沒回補的空單。這種盤最典型的特徵就是，每次拉回都很短、每次有利空市場卻只震盪一下就繼續往上，因為資金已經進入怕踏空的狀態。之前就預告在前面，當台積電正式轉強，通常就代表指數準備挑戰新高，台積電開始被集中火力拉抬，那就是市場正式進入逼空加速階段。外資現在最大的問題是空單雖然很多，但現貨又不敢大幅砍，代表他們其實也沒有完全看空基本面，更像是一路被軋一路防守，結果就是指數越漲壓力越大，只要哪天開始明顯回補期貨空單，很可能就會形成短線加速噴出。至於後面節奏其實也不難猜，如果真的一路逼近48000附近，權值股尤其大型AI很可能先進入震盪休息，到時資金就會自然轉向位階還低的中小型股，休息一陣後會繼續拉抬台積電到五萬點。\n\n選擇權未平倉量部分，06月買權最大OI落在46000點，賣權最大OI落在20200點；06月W1買權最大OI落在48500點，賣權最大OI落在46400點。全月份未平倉量put/call ratio值由1.43上升至2.18。VIX指數下降1.61至34.95。外資台指期買權淨金額6.37億元；賣權淨金額0.91億元。",
+      "Language": "zh"
+    },
     {
       "Ticker": "META",
       "Date": "2026-06-03",
@@ -13,6 +23,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "15:09:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人買超台股515.65億元",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1515-65%E5%84%84%E5%85%83-070954390.html",
+      "Content": "（中央社台北3日電）台股今天漲901.85點，收在46459.16點，成交值新台幣1兆4508.77億元。三大法人外資及陸資、投信、自營商同步買超，合計買超515.65億元。\n\n自營商買超25.97億元，投信買超55.72億元，外資及陸資買超433.96億元。1150603",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "15:03:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "高盛點火台、韓AI雙核心，台股目標上看51,000點、KOSPI喊萬二",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AB%98%E7%9B%9B%E9%BB%9E%E7%81%AB%E5%8F%B0-%E9%9F%93ai%E9%9B%99%E6%A0%B8%E5%BF%83-%E5%8F%B0%E8%82%A1%E7%9B%AE%E6%A8%99%E4%B8%8A%E7%9C%8B51-000%E9%BB%9E-kospi%E5%96%8A%E8%90%AC%E4%BA%8C-070312758.html",
+      "Content": "【財訊快報／陳孟朔】外電報導，高盛發表最新研究報告上調台灣與韓國股市基準指數目標位，並指這兩個由科技股主導的市場，具備最強勁獲利增長動能。高盛將台股評級上調至「超配」，並把台灣加權股價指數目標位(4月時，高盛曾把台股目標從36,000點調高到40,000點)上修27.5%至51,000點；同時將韓國首爾綜合股價指數(KOSPI)指數目標位由9,000點大幅上調33.3%至12,000點，顯示外資對亞洲AI硬體供應鏈多頭行情信心升溫。高盛指出，台股獲上調評級的核心理由，在於AI相關投資可望推動科技硬體公司強勁盈利增長延續至2028年及之後。市場人士表示，台股受惠AI伺服器、先進製程、CoWoS先進封裝、PCB、散熱、電源、CPO與機殼機構件等供應鏈完整布局，台積電(2330)、鴻海(2317)、廣達(2382)、緯創(3231)、緯穎(6669)、台達電(2308)等權值與AI概念股，持續成為外資重估台股本益比與獲利週期的核心依據。\n\n韓股方面，高盛將KOSPI目標位一口氣上修至12,000點，反映其對AI記憶體與半導體景氣循環的樂觀判斷。SK海力士與三星電子受惠HBM、高階DRAM、NAND Flash與AI伺服器記憶體需求升溫，韓國市場也從過去高度依賴出口循環與傳統半導體價格復甦，轉向AI基建長週期需求支撐。交易員指出，若AI算力投資延續，台灣強在晶圓代工與硬體整機，韓國強在記憶體與儲存，兩者正成為亞洲科技股最核心的雙引擎。\n\n分析師表示，高盛這次同步上修台韓股市目標，等同把亞洲AI供應鏈定位為全球科技資金再配置的重要方向。台股目標51,000點意味相較目前水位仍有上行空間，但後續關鍵仍在台積電獲利上修幅度、AI伺服器出貨能見度、新台幣匯率變化與外資持續買超力道；韓股則需觀察HBM價格、SK海力士產能擴張與三星追趕進度。短線來看，高盛報告有望延續外資對台韓科技股追價動能，並強化「AI硬體獲利週期尚未見頂」的市場敘事。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "15:01:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股飆漲卻有一票人不快樂？專家點名「這類人」焦慮感最重：紙上富貴又怕賣飛",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%A3%86%E6%BC%B2%E5%8D%BB%E6%9C%89-%E7%A5%A8%E4%BA%BA%E4%B8%8D%E5%BF%AB%E6%A8%82-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%90%8D-%E9%80%99%E9%A1%9E%E4%BA%BA-%E7%84%A6%E6%85%AE%E6%84%9F%E6%9C%80%E9%87%8D-070120503.html",
+      "Content": "​ AI熱潮持續延燒，帶動台股多頭行情全面噴發，指數不僅接連站上3萬點、4萬點大關， 現在更直接衝破4萬5000點 ，不過也有一派投資人在擔憂過熱問題。對此，投資達人 謝富旭 分析背後因素直言，很多人手上握有股票但都是紙上富貴，想脫手又怕賣飛。\n\n根據鏡週刊報導指出， 台股飆漲不回頭 ，價值投資達人謝富旭表示，這對40歲到50歲的中年族群來說，「沒賺到」這種焦慮感特別強烈，「明明工作了大半輩子，擁有房子、存款與保單，資產累積已達一定規模，但看著AI概念股天天上漲，心中難免浮現疑問：『現在才進場，會不會太晚？如果不買，會不會又錯過機會？』」面對這股追逐熱潮，謝富旭反而提醒投資人，市場越狂熱，越要保持冷靜，「如果在高檔盲目跟風，一旦碰上黑天鵝事件，後果往往不容易承受。」\n\n「真正讓人感受到財富的，從來不是帳面數字，而是穩定的現金流。」他舉例，很多人手上的 股票可能已經從100元漲到300元 ，但只要沒有賣出，就不算實質獲利；又害怕一旦賣掉可能「賣飛」，「結果帳面財富不斷增加，生活卻沒有太大改變。」\n\n謝富旭認為，不同年齡層要有不同的投資思維，40歲以下的年輕人或許可以透過市值型ETF或成長股追求資產快速增值，但對中年族群來說，更重要的是建立穩定的現金流與抗風險能力。\n\n謝富旭以開船作比喻，船在大海航行需要壓艙水維持穩定，投資組合同樣需要穩健部位，才能在市場起伏中站穩腳步，「與其把全部資金押注在熱門題材，不如思考如何提升家庭資產運用效率，將部分低效率資產逐步轉換成能持續創造收益的工具。」​",
+      "Language": "zh"
+    },
+    {
       "Ticker": "6789.TW",
       "Date": "2026-06-03",
       "Time": "14:45:42",
@@ -20,6 +60,26 @@
       "Title": "【公告】采鈺受邀參加機構投資人說明會",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E9%87%87%E9%88%BA%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0%E6%A9%9F%E6%A7%8B%E6%8A%95%E8%B3%87%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-064542193.html",
       "Content": "日 期：2026年06月03日\n\n公司名稱：采鈺 (6789)\n\n主 旨：采鈺受邀參加機構投資人說明會\n\n發言人：邱建俊\n\n說 明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/06/04\n\n1.召開法人說明會之日期：115/06/04\n\n2.召開法人說明會之時間：13 時 00 分\n\n3.召開法人說明會之地點：台北W Hotel\n\n4.法人說明會擇要訊息：本公司受邀115年6月4日參加花旗證券所舉辦之「2026 Taiwan Tech Conference」。\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "14:39:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "6月台股ETF除息爭霸戰　年化配息率「10%俱樂部」名單大公開",
+      "URL": "https://tw.news.yahoo.com/6%E6%9C%88%E5%8F%B0%E8%82%A1etf%E9%99%A4%E6%81%AF%E7%88%AD%E9%9C%B8%E6%88%B0-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87-10-%E4%BF%B1%E6%A8%82%E9%83%A8-%E5%90%8D%E5%96%AE%E5%A4%A7%E5%85%AC%E9%96%8B-063932448.html",
+      "Content": "台股大盤屢創新高，不僅激勵市場信心，更讓各大台股ETF累積了豐厚的資本利得。隨著即將迎來台股傳統的除權息旺季，6月份即將登場的「台股ETF除息秀」可謂底氣十足，多檔人氣ETF紛紛祭出令人驚豔的配息金額，引爆百萬存股族熱烈討論。\n\n在這次的除息大戰中，不論是月配息還是季配息型ETF，表現都極為亮眼，甚至輕鬆衝破10%大關。月配息部分，FT臺灣永續高息（00961）以0.15元配息、換算年化配息率高達14.1%，奪「配息王」，緊追在後是中信成長高股息（00934）與復華台灣科技優息（00929），年化配息率分別達10.6%與10.1%，均繳出雙位數亮眼成績；季配息ETF以大華優利高填息30（00918）配 息1.26元，年化配息率衝上16.5%；深受存股族青睞的群益台灣精選高息也配出1元好成績，年化配息率達13.3%。\n\n面對高息ETF百家爭鳴的時代，投資人該如何挑選？FT臺灣永續高息（00961）基金經理人江明鴻指出，現在高股息ETF的選股邏輯已經進化，不再盲目追求單純的高配息，而是要「高息、成長、產業趨勢」兼顧。特別是在AI技術重塑全球產業格局的當下，只有挑選兼具獲利品質與未來發展性的標的，才能在多頭行情中，同時賺到滿滿的「股息」與「價差」空間。\n\n野村台灣50ETF（00985A）經理人林浩詳則表示，全球科技巨頭正持續擴大AI投資，而台灣供應鏈在全球AI硬體生態系中擁有不可或缺的關鍵地位。隨著相關權值股的獲利動能延續，這將成為撐起ETF中長期表現的最強基石。\n\n兆豐主動ETF（00996A）經理人王仲良也高度認同。他認為全球AI指標企業對台廠有著高度的產能依賴與戰略合作，從晶圓代工、先進封裝，再到最熱門的CPO（共同封裝光學）與矽光子技術，台灣企業正迎來爆發性的成長契機，這也讓台股ETF的長線前景充滿想像空間。\n\n6月月配息 ETF 排名\n\n依年化配息率由高至低排列 (截至 2026/6/1)\n\n年化配息率\n\n00961\n\nFT臺灣永續高息\n\n💰 14.1%\n\n00934\n\n中信成長高股息\n\n<p class=\"break-words leading-[",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "14:34:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "資金轉守為攻！台股量縮震盪 貝萊德00985D首配水準6/12揭曉 最晚得「這天」卡位",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B3%87%E9%87%91%E8%BD%89%E5%AE%88%E7%82%BA%E6%94%BB-%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E9%9C%87%E7%9B%AA-%E8%B2%9D%E8%90%8A%E5%BE%B700985d%E9%A6%96%E9%85%8D%E6%B0%B4%E6%BA%966-12%E6%8F%AD%E6%9B%89-%E6%9C%80%E6%99%9A%E5%BE%97-063424513.html",
+      "Content": "台股近期在高檔區間震盪整理，加權指數維持相對高位，但成交量明顯縮減，市場資金出現輪動跡象，部分資金轉向具防禦性與穩定現金流的收益型資產。在此氛圍下，債券 ETF 再度成為盤面焦點，其中貝萊德主動式債券 ETF（00985D-TW) 即將迎來掛牌後首次配息，最後買進日為 6 月 15 日、6 月 16 日除息、7 月 17 日發放現金收益，至於每單位實際配息金額，預計將於 6 月 12 日公告。\n\n從盤勢面觀察，台股在電子權值股漲多後進入整理，加上國際股市位於相對高檔，市場波動加劇，資金開始轉向收益確定性較高的標的。\n\n法人指出，在「高利率維持更久」（Higher for Longer）預期未變的情境下，固定收益資產吸引力提升，特別是投資等級債具較佳風險報酬特性。\n\n相較傳統債券 ETF 主要仰賴利率走勢，00985D 主打「收益優化」策略，透過主動選債結合衍生性商品操作，建立多元收益來源。其投資組合除運用 AI 與數據模型挑選標的外，亦搭配掩護性買權（covered call）策略，在震盪行情中創造額外權利金收益，提升整體配息能力。\n\n法人分析，當前市場最大的變數仍在通膨與利率路徑，儘管通膨已自高點回落，但距離聯準會 2% 目標仍有距離，使利率難以快速下行。在此背景下，股市評價面受壓抑，反而讓收益型產品具備配置價值。\n\n此外，隨著全球股市處於高檔區，資產配置思維逐漸轉向「攻守兼備」，具備月配息機制與波動控管能力的主動式債券 ETF，有望在下半年吸引更多資金進駐。市場人士指出，00985D 此次首度配息，若公告水準具吸引力，可望帶動短線資金提前卡位，甚至形成一波「配息行情」。",
       "Language": "zh"
     },
     {
@@ -41,6 +101,16 @@
       "URL": "https://finance.yahoo.com/m/4ce04d73-6b87-3ef4-b0bc-9e1b9622a35f/will-tesla-merge-with-spacex%3F.html",
       "Content": "The investing world is going into overdrive in anticipation of the SpaceX initial public offering ( IPO ) in June. Elon Musk's ambitious space company is aiming to raise $75 billion in capital markets funding to embark on new business ventures, including its massive Starship rocket, orbital data centers for artificial intelligence ( AI ), and space exploration.\n\nRumors have already surfaced that SpaceX is planning to merge with another Musk-controlled megacap stock: Tesla (NASDAQ: TSLA) . While it may seem far-fetched, there are hints that a potential merger may arrive in the next year. Here are three reasons why SpaceX may merge with Tesla.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMusk murmurings\n\nThe first reason SpaceX and Tesla may merge comes from within the Elon Musk empire. A CNBC report states that Musk has discussed with his colleagues a possible merger of the two businesses. Seeing that he controls the most voting power in these two companies, if Musk wants to merge them, it will likely happen.\n\nHowever, investors should note that this has not been discussed openly by Musk as of today, and that these are just rumors reported by CNBC. Betting markets seem to think it is likely, with Kalshi odds giving a 50/50 chance that SpaceX and Tesla will have announced a merger by this time next year.\n\nIncreasing infrastructure overlaps\n\nOther factors associated with the two businesses suggest a potential merger is underway. Both companies are diving into overlapping business interests, specifically around AI.\n\nSpaceX aims to build an orbital computing network to power AI services on Earth, alongside its Starlink global internet capabilities. This could align perfectly with Tesla's grand ambitions for AI-powered vehicles and humanoid robots, which will need to connect to the cloud and have always-on internet access to operate. Starlink and orbital data centers could provide these capabilities.\n\nIn more direct terms, SpaceX and Tesla have recently announced the plan to build their own semiconductor factory in conjunction with Intel . These are early days, but if both companies are simultaneously contributing to the computer chips that will power autonomous vehicles, humanoid robots, and orbital data centers, then it might make sense for Musk to merge the two entities into one corporation, with AI at the center.\n\nStory Continues\n\nIt is certainly a compelling narrative, but investors should remember that many of these proposed businesses are, at the moment, just proposals. Many engineering innovations need to be developed before this grand vision is laid out. Upfront capital costs will be massive.\n\nTesla's shining asset for SpaceX\n\nFunding costs bring me to the last reason SpaceX and Tesla may want to merge: Tesla's balance sheet. Tesla has $45 billion in cash on its balance sheet and has generally been free cash flow positive from its automotive operations, though the last few years have been much weaker than those coming out of the COVID-19 pandemic.\n\nThese funds may give Tesla the runway to pursue its own AI plans. SpaceX is planning to raise $75 billion from its IPO, but that shockingly may not be enough to pursue its even grander ambitions. The company is burning $9 billion a quarter as it tests Starship and plows money into AI data centers for its xAI subsidiary. This gives it only two years of runway left before needing to turn a profit, while the company seems to manage its plans in decades.\n\nA quick plug to solve any funding needs -- at least for a while -- would be to bring Tesla into the fold in a merger of equals. Tesla is cash-flow positive and has the previously mentioned $45 billion in cash that SpaceX desperately needs. With a market cap of $1.37 trillion, it is easy to see how a 50/50 merger could occur, provided other shareholders are satisfied.\n\nWhat's more, it would simplify things for investors looking to bet on Elon Musk's vision, rather than having to choose between two different stocks. This makes a merger between Tesla and SpaceX within the next year more likely than not.\n\nWe just issued 'double down' alerts on 3 stocks — find out if Tesla made our list\n\nEver feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $581,960 !*\n\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $58,381 !*\n\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $462,983 !*\n\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\n\nSee the 3 stocks »\n\n*Stock Advisor returns as of June 1, 2026\n\nBrett Schafer has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Intel and Tesla. The Motley Fool has a disclosure policy .\n\nWill Tesla Merge With SpaceX? was originally published by The Motley Fool\n\nImage source: Getty Images.\n\nImage source: Getty Images. Increasing infrastructure overlaps\n\n<a href=\"https://ycharts.com/companies/TSLA/cash_on_hand\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:TSLA Cash and Short Term Investments (Quarterly);elm:context_link;itc:0;sec:content-canvas\" data-yga=\"{\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yLinkText\":\"TSLA Ca\n\nTSLA Cash and Short Term Investments (Quarterly) data by YCharts\n\nTSLA Cash and Short Term Investments (Quarterly) data by YCharts Tesla's shining asset for SpaceX\n\n<h2 class=\"text article-heading-atom neo-font-heading-lg yf-18d6y07\" id=\"\" style=\"text-decoration: none;",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "14:23:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉COMPUTEX照亮光通訊、重電股  漲901點收46459點新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-computex%E7%85%A7%E4%BA%AE%E5%85%89%E9%80%9A%E8%A8%8A-%E9%87%8D%E9%9B%BB%E8%82%A1-%E6%BC%B2901%E9%BB%9E%E6%94%B646459%E9%BB%9E%E6%96%B0%E9%AB%98-062334586.html",
+      "Content": "在 COMPUTEX 在台北的盛會推升市場樂觀情緒之下，台股今 (3) 日早盤指數以 46552.16 點改寫歷史新高，但目前市場變數還有美伊戰事局勢發展不明的干擾，同時，漲多的電子股也遭遇逢高了結的獲利賣壓，電子股指數上漲 1.76%，但占大盤成交比重卻下滑到 78.6%，但在重電股、光通訊股大漲力挺 下，終場大盤以上漲 901.85 點作收，創史上第 10 大漲點，上漲 1.98%，收在 46459.16 點。台積電 (2330-TW) 上漲 45 元或 1.89%，以 2425 元作收改寫收盤新高價。\n\n台股在 COMPUTEX 開展帶動下，6 月喜迎開門紅，3 個交易日大漲 1726.22 點，漲幅 3.86%。AI 教父黃仁勳點名邁威爾科技 ( MRVL-US )，盛讚其在 AI 資料中心客製化晶片領域的關鍵地位，更有望成為「下一家兆美元企業」，激勵 Marvell 股價瘋狂飆漲近 33%，光通訊股光環 ( 3234-TW )、上詮 ( 3363-TW )、光聖 ( 6442-TW )、聯亞 ( 3081-TW )、波若威 ( 3163-TW ) 及前鼎 ( 4908-TW ) 早早亮燈攻上漲停。\n\n重電股也在黃仁勳頻頻喊話 AI 需要電力的激勵下，士電 (1503-TW)、華城 (1519-TW)、東元(1504-TW)、松川(7788-TW) 及亞力 (1514-TW) 等多檔漲停，成為人氣指標。\n\n<div",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -130,6 +200,16 @@
       "Title": "138檔台股基金跑贏大盤！37檔報酬翻倍 鉅亨買基金：跟趨勢走別急著停利",
       "URL": "https://tw.stock.yahoo.com/news/138%E6%AA%94%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91%E8%B7%91%E8%B4%8F%E5%A4%A7%E7%9B%A4-37%E6%AA%94%E5%A0%B1%E9%85%AC%E7%BF%BB%E5%80%8D-%E9%89%85%E4%BA%A8%E8%B2%B7%E5%9F%BA%E9%87%91-%E8%B7%9F%E8%B6%A8%E5%8B%A2%E8%B5%B0%E5%88%A5%E6%80%A5%E8%91%97%E5%81%9C%E5%88%A9-053759213.html",
       "Content": "台股今年多頭氣盛，前 5 個月指數大漲超過 15,000 點，吸引全球市場目光。相較於大盤表現，台股基金展現更驚人的創造報酬能力，據「鉅亨買基金」統計，今 (2026) 年以來共有 138 檔台股基金績效超越大盤 54.5% 漲幅，其中更有 37 檔報酬率突破 100%，展現主動投的強大優勢。面對市場對高檔震盪與過熱疑慮升溫，鉅亨買基金今 (3) 日認為，現階段投資人與其猜高，不如聚焦產業趨勢與企業獲利成長，透過優質基金持續參與 AI 帶動的長線行情。\n\n據基金評級機構理柏環球資料統計，129 檔台股基金及 16 檔台灣中小型股票基金中，多達 138 檔今年以來報酬率領先大盤。鉅亨買基金總經理張榮仁表示，今年市場最大的特色是資金輪動速度明顯加快，從 AI 伺服器、半導體到網通、散熱及設備供應鏈，資金焦點持續轉換。\n\n在這樣的環境下，主動式基金管理團隊的價值更加凸顯，透過長期產業研究、企業拜訪與基本面追蹤，基金經理人能隨市場變化靈活調整持股配置，掌握下一波受惠產業與成長機會，進一步創造超額報酬。\n\n面對台股大漲後是否該停利的疑問，張榮仁認為，從歷史數據來看，急著獲利了結未必是最佳策略，根據鉅亨買基金以 1984 年至今台股資料進行回測，若投資人分別設定 10% 及 20% 的停利目標，台股滾動 3 年平均年化報酬率僅 10.1% 及 10.8%，皆低於完全不停利策略的 14.6%。\n\n張榮仁指出，停利看似降低風險，實際上卻可能讓投資人錯失後續主升段行情與複利效果，對於長期向上的市場而言，持續參與趨勢往往比頻繁進出更能提升投資成果。\n\n除了市場資金動能強勁，基金公司對台股後市看法也更加樂觀。張榮仁表示，據最新資料，多家基金公司已將 2026 年台灣經濟成長率預估上修至 7% 至 8.7% 區間。\n\n另一方面，台經院最新預測，2026 年台灣經濟成長率可望達 7.6%，出口年增率更高達 27.1%，雙雙較前次預估大幅調升，基金公司普遍認為，AI 基礎建設投資持續擴張，加上高階伺服器、先進封裝及資通訊設備需求強勁，將持續帶動台灣供應鏈受惠，成為支撐台股的重要力量。\n\n企業獲利成長則是基金公司同步看多台股的另一項重要依據，據各家機構預估，2026 年台股企業每股盈餘 (EPS) 成長率多落在 19.7% 至 50% 之間，整體維持雙位數以上增幅，其中鉅亨買基金預估則是 30%。\n\n張榮仁指出，市場過去擔憂 AI 效益集中於少數權值股，但目前觀察到 AI 商機已逐步向伺服器零組件、散熱、IC 設計、先進製程、設備與網通等領域擴散，受惠企業家數持續增加。只要全球雲端服務供應商 (CSP) 維持高資本支出，企業獲利仍有上修空間，也將成為推升台股的重要基礎。\n\n對市場對台股基本面的樂觀看法正逐漸形成共識，AI 紅利驅動的成長循環仍在延續。張榮仁表示，投資人若想參與台股長線機會，卻不想自行研究個股或頻繁判斷進出時點，不妨透過鉅亨買基金「強勢王」精選投組中的「台股明星隊」參與市場，該投組精選長期績效優異的台股基金，並搭配強勢加碼與自動化投資機制，在市場震盪過程中協助投資人掌握趨勢、降低情緒干擾，參與 AI 浪潮帶來的長期成長機會。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-03",
+      "Time": "13:31:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "護國神山台積電全球市值第6！台達電躋身全球百大榜、僅次鴻海",
+      "URL": "https://tw.news.yahoo.com/%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%A8%E7%90%83%E5%B8%82%E5%80%BC%E7%AC%AC6-%E5%8F%B0%E9%81%94%E9%9B%BB%E8%BA%8B%E8%BA%AB%E5%85%A8%E7%90%83%E7%99%BE%E5%A4%A7%E6%A6%9C-%E5%83%85%E6%AC%A1%E9%B4%BB%E6%B5%B7-053100084.html",
+      "Content": "【緯來新聞網】 台積電 明（4）日將舉行一年一度股東會，護國神山股價備受關注，昨天在美存託憑證ADR率先上漲2.54，今（3）早一開盤權王就上漲60元，站上2440元新天價。台積電ADR也是亞洲唯一市值破2.3兆美元的公司，穩居一哥寶座，躋身全球市值第六強，與輝達、蘋果、谷歌、微軟、亞馬遜並列全球頂尖企業。\n\n台積電明（4）日將舉行一年一度股東會，護國神山股價備受關注。（圖／資料照）\n\n而電源供應大廠台達電也躋身全球百大企業榜，以1821億美元（折合新台幣5.7兆元）一舉上升9個名次，超越全球知名影視媒樂大老迪士尼Walt Disney，僅次於鴻海集團旗下工業富聯（FII）來到第96名，是台灣第2家榮登百大的企業。\n\n台達電從6月的374元一路向上攻，不斷創下新天價，主要因為生成式AI人工智慧高度耗電，伺服器電源是「重中之重」的核心，電源供應龍頭的台達電成為AI時代的電力基建霸權，股價也一路急奔，短短不到一年時間股價翻了6倍之多。\n\n據全球市值網統計，DELTA的市值一舉超越全球市值百大的華特·迪士尼，世界頂級影視巨頭的Walt Disney市值1794億美元輸給台達電，還超車全球最大的零售時裝公司、擁有ZARA品牌的Inditex集團、美國電信龍頭AT&T、前身為瑞典奇異的工業機器人公司ABB，是全球最重要的變壓器生產研發公司。\n\n而明日的台積電股東會，外資看台積電3字頭戰隊成軍，日前由瑞銀證券調升股價預期至3,000元，加入里昂證券與調研機構ALETHEIA陣營；同時，根據外資所做財務模型，台積電今年每股稅後純益（EPS）將來到百元附近。昨天在美存託憑證ADR率先上漲2.54，今（3）早一開盤權王就上漲60元，站上2440元新天價，漲幅略高於ADR，並一檔貢獻台股指數超過480點，帶台股衝破四萬六大關。\n\n更多緯來新聞網報導\n\n林美秀57歲轉戰歌壇 激瘦7公斤引「後天血友病」急住院\n\n周子瑜閨密角逐周星馳新片 ELKIE喊話「你要什麼我都可以給」",
       "Language": "zh"
     },
     {
