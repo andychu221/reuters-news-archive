@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-03T20:01:37.241Z",
-  "total_news_count": 1999,
+  "last_updated": "2026-06-03T20:15:43.049Z",
+  "total_news_count": 2002,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-04",
+      "Time": "04:13:27",
+      "Source": "Yahoo Finance",
+      "Title": "Intel just gave traders a reason to get excited again",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-just-gave-traders-reason-201327428.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) suddenly has traders paying attention again after management's upbeat comments on CPU demand helped spark a sharp move in the stock and a rush into call options.\n\nShares jumped nearly 10% at Wednesday's open before cooling a bit to around $113, still up almost 5% at press time. The rally came after Intel executives pointed to stronger CPU demand in the data center market and talked up supply ramps tied to its Intel 3 and 18A manufacturing nodes.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe options market quickly leaned bullish. Weekly contracts expiring June 5 were pricing in about a 7% move by Friday's close, while near the money straddles at the 113, 114 and 115 strikes were going for about $7.70 to $7.90. That implies traders see a possible range of roughly $105 to $121 through expiration.\n\nThe call buying stood out. The 120 call drew more than 27K contracts, while the 115 call saw over 20K trade. For investors, the message is clear: Intel's CPU demand story is back in the spotlight, and traders are betting the rally may not be done yet.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-04",
@@ -53,7 +63,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MRVL",
+      "Ticker": "TSLA",
+      "Date": "2026-06-04",
+      "Time": "03:17:46",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla launches robotaxi service in Austin, accelerating autonomous vehicle push AI",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/tesla-launches-robotaxi-austin-accelerating-191746002.html",
+      "Content": "Investing.com -- Tesla announced Wednesday the launch of its unsupervised robotaxis across the Austin Metro area, accelerating the company’s push into autonomous ride-hailing.\n\nExpanding the robotaxi service and driving broader adoption of its full self-driving software are now central to Tesla’s growth strategy, following CEO Elon Musk’s shift from EVs to AI and robotics.\n\n“Unsupervised Robotaxi now in the entire Austin Metro area,” Tesla’s robotaxi account announced on X.\n\nThe service, active in Austin for nearly a year, has faced customer wait times exceeding 30 minutes.\n\n\" As of 10am today unsupervised is working in the whole geofence. In one currently heading to the north part of the map,\" said a user on X who first noticed the change.\n\nAustin officials report Tesla operates about 50 robotaxis in the city, compared to over 250 vehicles run by Alphabet’s Waymo.\n\nLast month, Musk said he expects fully self-driving cars without human safety monitors to become increasingly common in the U.S. later this year, following their rollout in Texas.\n\nUber and Israel-based Autobrains said on Monday they plan to launch a robotaxi programme in Munich in collaboration with U.S. chipmaker Nvidia, marking a push to scale autonomous ride-hailing in Europe.\n\nTesla launches robotaxi service in Austin, accelerating autonomous vehicle push AI\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, MRVL",
       "Date": "2026-06-04",
       "Time": "03:07:40",
       "Source": "Yahoo Finance",
@@ -100,6 +120,16 @@
       "Title": "Alphabet Shares Fall After Unveiling Massive $80 Billion AI Funding Plan",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-shares-fall-unveiling-massive-185709614.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) said it plans to raise $80 billion to support a faster buildout of artificial intelligence infrastructure, with Berkshire Hathaway set to invest $10 billion in a private placement. Alphabet shares edged lower after the disclosure.\n\nAlphabet's financing plan includes $30 billion in underwritten public offerings and another $40 billion through an at-the-market program. Berkshire would buy $5 billion of Alphabet Class A shares and $5 billion of Class C shares, while Alphabet said demand for its AI products and services is outpacing available capacity.\n\nWarning! GuruFocus has detected 6 Warning Sign with ROKU.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nAlphabet had already lifted its 2026 capital-spending forecast in April to $180 billion to $190 billion, and said the pace could increase further in 2027. The company has been widening its data-center and compute footprint as it tries to keep up with AI-related demand.\n\nAlphabet shares were down about 4% on the Tuesday, reflecting investor caution over the scale of the funding plan even as Berkshire's stake signaled confidence in the company's AI push.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-04",
+      "Time": "02:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Surges 192.5% Year to Date: Should You Bet on the Stock?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-surges-192-5-date-185000990.html",
+      "Content": "Intel Corporation INTC has gained 192.5% year to date compared with the industry’s growth 29.1%. It has outperformed compared to the Zacks Computer & Technology sector and the S&P 500.\n\nImage Source: Zacks Investment Research\n\nThe company has outperformed its peers, NVIDIA Corporation NVDA, and Advanced Micro Devices AMD. AMD has gained 143.6%, while NVIDIA has increased 19.6% during this period.\n\nIntel Rides on Solid Traction in AI Infrastructure Vertical\n\nAI workloads are increasingly moving from training toward inference, agentic AI, robotics, physical AI and edge deployments. Amid this, CPUs play a crucial role in coordinating accelerators, networking, memory, and data movement. Management has emphasized that AI-driven CPU demand is becoming Intel’s biggest growth engine.\n\nBy combining advanced Xeon processors, high-performance Ethernet networking solutions, and AI accelerators, Intel aims to deliver a comprehensive platform for AI infrastructure buildouts. The company recently introduced Xeon 6+ processors built on Intel 18A. The chip optimized for agentic AI infrastructure brings key capabilities such as up to 288 efficient cores, up to 2.5x performance improvement versus prior generation. It is designed to support high concurrency, data movement, AI orchestration, Telecom workloads and cloud-native infrastructure.\n\nThe company also recently introduced Ethernet E835 that supports up to 200 GbE. The solution is engineered to match the bandwidth demand for high-density environments across data centers, AI clusters and telecom mobile core networks. Such leading-edge innovation bodes well for long-term growth. Per a report from Grand View Research, the AI infrastructure market was valued at $223.45 billion in 2024 and is expected to witness a compound annual growth rate of 30.4% by 2030. Intel, with its robust portfolio, is expected to gain from this market trend.\n\nIntel is actively collaborating with major industry leaders to drive AI-related innovation. It collaborates with ChatGPT to launch a Hybrid AI PC Edition, marking a strategic move toward on-device intelligence. It has expanded its collaboration with Google to advance AI infrastructure, aiming to improve computing performance, accelerate AI workloads, and develop more efficient hardware-software integration to support next-generation artificial intelligence applications and large-scale cloud innovation across global data centers.\n\nCompetition, Supply Constraints & Foundry Weaknesses are Concerns\n\nntel faces stiff competition in each of its served markets from other prominent players such as AMD, Qualcomm and NVIDIA. AMD's EPYC competes directly with Xeon in servers, while Ryzen competes with Core processors in PCs. Qualcomm is less of a threat to data-center Intel and more of a threat to Client Computing. Qualcomm’s innovative ARM-based Snapdragon X processors target AI PCs, laptops and battery-efficient notebooks. NVIDIA strong player in AI training and inference. Such fierce competition in several verticals impedes Intel’s growth prospects.\n\nIntel’s foundry business remains unprofitable. It generated a $2.4 billion operating loss in the first quarter of 2026. The business demands substantial capital investment. The company’s high debt burden reduces financial flexibility and undermines investment in growth initiatives to some extent.\n\nManagement stated that demand exceeds supply, particularly for Xeon server CPUs. If it can’t ramp its manufacturing capacity fast enough, Intel may leave revenues on the table and may also lose customers to competitors in the long run.\n\nStory Continues\n\nEstimate Revision Trend of INTC\n\nEarnings estimates for Intel for 2026 and 2027 have increased over the past 60 days.\n\nKey Valuation Metric for Intel\n\nFrom a valuation standpoint, Intel appears to be relatively cheaper than the industry and below its mean. Going by the price/book ratio, the company's shares currently trade at 4.34 book value, lower than 27.97 of the industry average.\n\nEnd Note\n\nIntel is set to benefit from solid traction in the AI infrastructure market backed by growing spending by hyperscalers and other enterprise customers. Innovative product launches and strategic collaboration with other industry leaders are positive factors. Upward estimate revision underscores growing investors’ confidence in the growth potential of stocks. However, Intel faces intense competition across its key markets. These competitive pressures could limit Intel's ability to sustain market share gains and fully capitalize on growing AI infrastructure spending. Supporting the high capital investment requirements for expanding the portfolio and ramping production capacity amid high debt obligations is a difficult endeavor. With a Zacks Rank #3 (Hold), Intel appears to be treading in the middle of the road, and new investors could be better off if they trade with caution. You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
       "Language": "en"
     },
     {
