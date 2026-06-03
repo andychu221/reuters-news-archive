@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-03T10:20:59.747Z",
-  "total_news_count": 1858,
+  "last_updated": "2026-06-03T10:32:04.286Z",
+  "total_news_count": 1859,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-06-03",
+      "Time": "18:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "Why Arm Stock Skyrocketed 68% in May",
+      "URL": "https://finance.yahoo.com/m/51520784-609d-3db3-b5f5-45c336010c44/why-arm-stock-skyrocketed-68%25.html",
+      "Content": "Shares of Arm Holdings (NASDAQ: ARM) , the world's leading central processing unit (CPU) chip designer, soared 68% in May, according to data from S&P Global Market Intelligence . This stellar performance brings the stock's 2026 return to a jaw-dropping 268%, as of June 2. The S&P 500 index returned 11.7% over this period.\n\nFor context, shares of artificial intelligence (AI) chip and infrastructure leader Nvidia (NASDAQ: NVDA) gained 8.4% in May. And last month, the S&P 500 returned 5.3%, and the tech-heavy Nasdaq Composite index returned 8.4%.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWall Street views Arm as a main beneficiary of the strong demand for AI agents\n\nOn May 20, Arm stock surged 15.1% after Wall Street firm Bernstein initiated coverage with a buy rating and issued very bullish comments. Moreover, the stock kept moving up on the momentum from this catalyst, gaining 37.4% in the three days following these actions.\n\nAnother likely catalyst was Nvidia's May 20 release of powerful results for its fiscal first quarter. (Revenue surged 85% year over year, and adjusted earnings per share, or EPS, soared 140% year over year.) Arm and Nvidia are partners.\n\nNvidia produces quite a few chips that use Arm technology, so when these Nvidia products sell well, Arm also benefits. In its data center platform, for instance, Nvidia's Grace Blackwell superchip combines Arm-based Grace CPUs with Nvidia's Blackwell graphics processing units (GPUs).\n\nMoreover, Nvidia is set to launch its next-generation CPU, Vera, in the second half of this fiscal year. Here's what CEO Colette Kress said on the May 20 earnings call that was very bullish not just for Nvidia, but also for Arm:\n\nAgentic AI and reinforcement learning represent new growth opportunities for CPUs. Building on the success of our Grace CPU, Vera is arriving just in time to meet this inflection. [Vera is] built on custom Arm cores [Emphasis mine] ...\n\nVera CPU opens a brand new $200 billion TAM [total addressable market] for NVIDIA, a market we have never addressed before. ... We have visibility to nearly $20 billion in total CPU revenue this year, setting us up to become the world-leading CPU supplier.\n\nAs Nvidia CEO Jensen Huang stated, Vera is \"the world's first CPU purpose-built for agentic AI.\" Arm's CPU architecture is known for its high energy efficiency, which makes it a great fit for AI inference in AI agents. (Inferencing means deploying a trained model to generate output.)\n\nStory Continues\n\nMoreover, in March, Arm launched the Arm AGI CPU, marking its entry into silicon production. So, its own chip should also benefit from the growing demand for AI agents.\n\nLooking ahead\n\nIn early May, when it released its fiscal Q4 and full-year 2026 results, Arm guided to fiscal Q1 revenue of $1.26 billion, up 20% year over year. It also guided to adjusted EPS of $0.40, representing 14% year-over-year growth.\n\nWall Street expects Arm's adjusted EPS to grow 23% this fiscal year (fiscal 2027) and accelerate to 41% next fiscal year.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-03",
