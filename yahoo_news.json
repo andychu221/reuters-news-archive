@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-04T02:01:03.737Z",
-  "total_news_count": 2075,
+  "last_updated": "2026-06-04T02:15:33.722Z",
+  "total_news_count": 2077,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-04",
+      "Time": "10:01:24",
+      "Source": "Yahoo Finance",
+      "Title": "Why Oracle Stock Zoomed 39.9% Higher in May",
+      "URL": "https://finance.yahoo.com/m/2dd00693-cdea-39cb-bc8e-54603f23cd48/why-oracle-stock-zoomed-39.9%25.html",
+      "Content": "Shares of Oracle (NYSE: ORCL) shot up 39.9% in May, according to data from S&P Global Market Intelligence . After rising to over $300 a share last summer, Oracle's stock tumbled in the ensuing quarters, falling below $150 in April amid continued concerns about its partner, OpenAI, and its market-share struggles.\n\nSince then, it has been all sunshines and rainbows for the enterprise software and database provider that is transitioning to a cloud infrastructure player for artificial intelligence ( AI ). Here's why Oracle stock made a comeback in May, and whether now is a good time to buy shares for your portfolio.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nBetting big on OpenAI spending\n\nKnown for decades as a provider of enterprise software and database solutions, Oracle has recently pivoted to become an infrastructure provider for AI companies, specifically OpenAI. Its cloud infrastructure revenue grew by 81% in constant currency last quarter to $4.9 billion, which is rapid growth but still well below that of other AI cloud players like Amazon.\n\nOpenAI is a key partner with Oracle, contracting for a large chunk of the business's $553 billion in remaining performance obligations, which grew 325% year over year last quarter. With all these spending plans, investors were concerned about liquidity at OpenAI as it struggled against competitor Anthropic in early 2026.\n\nThis, in turn, spooked investors in Oracle, which is building data centers to help power OpenAI's systems. If OpenAI cancels these contracts, Oracle's business might be in trouble since it used massive amounts of debt to fund its infrastructure plans.\n\nOpenAI turned a corner this Spring by raising new funds, planning for an IPO, and settling investor nerves with management claiming it is on track with its revenue targets this year. This is great news for Oracle, and why the stock rose in May along with the rest of the AI trade.\n\nIs Oracle stock cheap?\n\nRight now, Oracle's stock trades at a price-to-earnings ratio (P/E) of 41, with $125 billion in long-term debt on the balance sheet. The company needs its partner OpenAI to keep growing revenue at an exponential rate while simultaneously raising tens of billions of dollars in its rumored IPO this year. That way, OpenAI will have the money to pay Oracle for its data center compute. If not, Oracle's remaining performance obligations will go up in smoke.\n\nStory Continues\n\nSo no, Oracle is not cheap, and it poses significant risks for investors. Stay away from the stock unless you are confident it can be a winner in the AI race.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-06-04",
+      "Time": "09:46:01",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC boss upbeat on outlook as AI boom shows no sign of easing",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/tsmc-boss-upbeat-outlook-ai-014601576.html",
+      "Content": "HSINCHU, Taiwan, June 4 (Reuters) - Taiwan's TSMC, the world's largest contract chipmaker, said on ‌Thursday it is confident in its growth ‌over the next few years, driven by robust demand for ​computing power and advanced semiconductors, as it rides an AI boom.\n\nChief Executive C.C. Wei, speaking at TSMC's annual shareholders' meeting in the northern Taiwanese city ‌of Hsinchu, added ⁠that its customers continue to express a positive outlook for the AI industry.\n\nMore from Yahoo Scout\n\nHow is AI demand affecting TSMC's business outlook?\n\nWhat did TSMC announce about capital spending plans?\n\nWhat is driving TSMC's confidence in future growth?\n\nWhy is Taiwan central to global semiconductor supply?\n\n\"We ⁠continue to see increasing adoption of AI models across consumer, enterprise and sovereign AI applications. This trend ​is driving ​demand for greater ​computing power, which in ‌turn supports strong demand for advanced semiconductor chips,\" Wei said.\n\nTaiwan has taken centrestage this week as it hosts the annual Computex conference, where leaders of some of the world's most powerful tech ‌companies are gathering, with executives ​from the likes of Nvidia ​to Intel praising ​the island's central role in the ‌global supply chain.\n\nIn April, TSMC, ​a major ​Nvidia supplier, raised its annual revenue forecast and said it was stepping up capital spending ​this year to ‌meet a relentless hunger for its products.\n\n(Reporting ​by Wen-Yee Lee; Editing by Anne Marie ​Roantree and Muralikumar Anantharaman)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-04",
@@ -13,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "QCOM, NVDA, AMD",
+      "Ticker": "INTC, QCOM, NVDA, AMD",
       "Date": "2026-06-04",
       "Time": "09:23:00",
       "Source": "Yahoo Finance",
