@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-04T17:16:25.881Z",
-  "total_news_count": 461,
+  "last_updated": "2026-06-04T18:16:16.996Z",
+  "total_news_count": 456,
   "news": [
     {
       "Ticker": "2454.TW",
@@ -5957,76 +5957,6 @@
       "Keywords": "台股創高, 權值股走強, IC設計, 記憶體族群, AI供應鏈",
       "Related_Score": 4,
       "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-05-06",
-      "Time": "02:01:00",
-      "Source": "經濟日報",
-      "Title": "台積電砸千億 中科廠大升級 15A廠成熟製程擬轉成4奈米",
-      "URL": "https://money.udn.com/money/story/5612/9484129?from=edn_search_result",
-      "Content": "經濟日報 記者宋 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台積電中科廠啟動千億級升級計畫，將現有28至22奈米製程廠更新至4奈米製程。\n• 此舉旨在提升先進製程產能，並支援輝達（NVIDIA）AI晶片的供貨需求。\n• 相關供應鏈業者，如日月光，也同步擴廠以應對先進封裝的強勁需求。\n• 台積電德國廠預計2027年量產，聚焦汽車與工業應用的成熟製程。",
-      "Keywords": "先進製程, 產能擴張, 供應鏈, AI晶片, 德國設廠",
-      "Related_Score": 5,
-      "Sentiment_Score": 1
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-05-06",
-      "Time": "01:58:00",
-      "Source": "經濟日報",
-      "Title": "台積電中科1.4奈米建廠 進度超預期",
-      "URL": "https://money.udn.com/money/story/5612/9484132?from=edn_search_result",
-      "Content": "經濟日報 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台積電中科1.4奈米新廠建廠進度超前，預計最快明年第三季試產，2028年下半年量產。\n• 該廠總投資規模預估達1.5兆元，初期營業額預計超過5,000億元。\n• 中科新廠規劃興建4座廠房，未來將成為全球最大的AI結合高效能運算（HPC）晶片生產基地。\n• 美國基於分散地緣風險考量，對2奈米製程需求急迫，可能加速1奈米製程落地中科廠。",
-      "Keywords": "先進製程, 1.4奈米, HPC, AI晶片, 產能擴張",
-      "Related_Score": 5,
-      "Sentiment_Score": 1
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-05-06",
-      "Time": "01:56:00",
-      "Source": "經濟日報",
-      "Title": "OpenAI 攻手機 聯發科有望獨拿處理器訂單 最快明年上半年量產",
-      "URL": "https://money.udn.com/money/story/5612/9484146?from=edn_search_result",
-      "Content": "經濟日報 編譯陳苓 ...",
-      "Language": "zh",
-      "AI_Summary": "• OpenAI計畫最快於2027年上半年推出手機，聯發科有望獨家取得處理器訂單，由台積電代工生產。\n• 預計2027年至2028年共出貨約3,000萬支，此舉有助於聯發科強化在AI代理裝置的地位。\n• OpenAI手機將採用客製化天璣9600晶片，並利用台積電次世代N2P製程生產。\n• OpenAI正積極布局AI硬體，以優化營收結構，為IPO做準備。",
-      "Keywords": "AI手機, 聯發科, 台積電, OpenAI, IPO",
-      "Related_Score": 4,
-      "Sentiment_Score": 1
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-05-06",
-      "Time": "01:54:00",
-      "Source": "經濟日報",
-      "Title": "聯發科市值突破5兆元大關",
-      "URL": "https://money.udn.com/money/story/5607/9484152?from=edn_search_result",
-      "Content": "經濟日報 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科市值突破5兆元大關，股價創歷史新高，顯示市場高度看好其前景。\n• 公司將AI ASIC營收目標倍增至20億美元，引發內外資法人調高獲利預期與目標價。\n• 高盛證券給予最高目標價5,000元，里昂證券給予「強力買進」評等。\n• 法人預期聯發科ASIC成長才剛起步，TPU相關貢獻預計明年達140億美元，超越行動通訊業務。",
-      "Keywords": "市值新高, AI ASIC, 營收預期, 目標價上調, 成長動能",
-      "Related_Score": 5,
-      "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "8299.TWO",
-      "Date": "2026-05-06",
-      "Time": "01:50:00",
-      "Source": "經濟日報",
-      "Title": "「養蝦潮」擴大引爆 NAND 搶貨 將帶旺群聯、威剛",
-      "URL": "https://money.udn.com/money/story/11162/9484068?from=edn_search_result",
-      "Content": "經濟日報 記者 ...",
-      "Language": "zh",
-      "AI_Summary": "• Anthropic與OpenAI籌資55億美元投入市場，預計將帶動NAND晶片需求倍數激增，引爆新一波搶貨漲價潮。\n• 群聯、威剛、十銓等NAND相關業者將持續受惠於漲價趨勢。\n• 企業級AI代理對NAND消耗量巨大，AI應用擴散至企業端將使資料存取頻率與容量需求指數成長。\n• 威剛預計2026年營運績效「萬馬奔騰」，十銓打入北美雲端大廠供應鏈，看好今年記憶體市況。",
-      "Keywords": "NAND需求, AI代理, 漲價趨勢, 庫存管理, 營運展望",
-      "Related_Score": 4,
-      "Sentiment_Score": 1
     }
   ]
 }
