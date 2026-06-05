@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-05T06:37:58.501Z",
-  "total_news_count": 49,
+  "last_updated": "2026-06-05T07:38:11.598Z",
+  "total_news_count": 50,
   "news": [
+    {
+      "Ticker": "3443.TW",
+      "Date": "2026-06-05",
+      "Time": "14:42:26",
+      "Source": "自由時報",
+      "Title": "ASIC訂單放量出貨   創意5月營收年增達132.1％",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5461841",
+      "Content": "〔記者卓怡君／台北報導〕ASIC暨矽智財廠創意（3443）成功拿下Google CPU及大型CSP（雲端服務提供商）AI ASIC訂單，出貨持續放量，創意公告5月合併營收46.74億元，創歷史次高紀錄，月增8.8%，年增132.1%，累積今年前5月合併營收204.16億元，年增90.6%，創意已順利拿下Google下一代CPU訂單，加上中國、歐洲、北美客戶ADAS（自動駕駛輔助系統）專案陸續放量出貨，今年營運有望再創新高。\n\n 創意總經理戴尚義日前表示，相對於昂貴的通用 GPU，ASIC在推論端具備極高的能效比（Performance per Watt），出貨量成長率將超越GPU。Google研發的Gemini 3去年底發布後，多項基準測試超越了競爭對手，其核心關鍵在於Google自研的TPU具備極致能效比與成本紅利。創意也受益於這股浪潮，提供客戶CoWoS與Physical Design的專業支援，協助客戶開發AI加速晶片，預期在2奈米及奈米等先進製程專案帶動下，維持健康成長動能。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-05",
