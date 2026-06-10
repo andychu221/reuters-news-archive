@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T17:15:19.604Z",
-  "total_news_count": 282,
+  "last_updated": "2026-06-10T17:20:52.753Z",
+  "total_news_count": 283,
   "news": [
     {
       "Ticker": "INTC",
@@ -305,6 +305,16 @@
       "Keywords": "dividend stocks, 52-week lows, income generation, consumer staples, telecommunications"
     },
     {
+      "Ticker": "STM",
+      "Date": "2026-06-10",
+      "Time": "22:32:00",
+      "Source": "Yahoo Finance",
+      "Title": "How Much Impact Can AI & Cloud Demand Have on STM's Top Line?",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/much-impact-ai-cloud-demand-143200166.html",
+      "Content": "STMicroelectronics N.V. STM is emerging as a key beneficiary of the rapid expansion of artificial intelligence (AI) and cloud infrastructure, with management signaling that these markets could become major growth engines over the next several years. During its first-quarter 2026 earnings call, the company highlighted accelerating demand from AI data centers, optical interconnects and cloud-computing infrastructure, reinforcing confidence in its growth outlook.\n\nA major catalyst is STM’s growing exposure to AI data centers. The company expects data-center-related revenues to exceed $500 million in 2026 and surpass $1 billion in 2027, driven by increasing adoption of its power management, silicon photonics, microcontroller and analog solutions. STM recently expanded its strategic engagement with Amazon Web Services through a multiyear, multibillion-dollar commercial agreement aimed at supporting next-generation cloud and AI computing infrastructure.\n\nThe company is also benefiting from the rising demand for optical connectivity technologies. STM has started high-volume production of its PIC100 silicon photonics platform, which enables high-bandwidth, low-latency and energy-efficient optical interconnects for hyperscale data centers and AI clusters. Management noted that optical networking demand is already driving increased shipments of high-performance microcontrollers and is expected to contribute more meaningfully in the second half of 2026.\n\nBeyond photonics, STM is strengthening its position in AI power infrastructure through silicon, silicon carbide and gallium nitride solutions used in next-generation data-center power architectures. The company also sees opportunities in cooling systems, security solutions and advanced power conversion technologies.\n\nWith strong booking momentum, expanding hyperscaler relationships and growing participation across multiple layers of AI infrastructure, STM appears well-positioned to generate double-digit revenue growth in 2026, with AI and cloud demand serving as increasingly important contributors to its top-line expansion.\n\nHow Are Competitors Positioned in the AI and Cloud Infrastructure Opportunity?\n\nSTM is not alone in targeting the fast-growing AI and cloud infrastructure market. Two notable competitors, ON Semiconductor ON and Infineon Technologies IFNNY, are also expanding their presence in this space.\n\nON Semiconductor is leveraging its strength in power management and silicon carbide solutions to address the rising energy demands of AI data centers. The company has been increasing investments in intelligent power technologies that help improve efficiency in high-performance computing environments. As hyperscalers seek lower power consumption and better thermal management, ON stands to benefit from growing AI infrastructure spending.\n\nStory Continues\n\nMeanwhile, Infineon Technologies is capitalizing on its broad portfolio of power semiconductors, including silicon carbide and gallium nitride products. The company has secured multiple opportunities in AI server power supplies and energy-efficient computing systems. Infineon’s strong position in power conversion solutions makes it a key supplier to next-generation data centers.\n\nWhile both rivals are well-positioned, STM differentiates itself through its combination of silicon photonics, microcontrollers, power devices and optical interconnect technologies, giving it exposure across multiple layers of the AI and cloud ecosystem.\n\nSTM’s Price Performance, Valuation & Estimates\n\nShares of STMicroelectronics have surged 145.3% over the past year compared with the industry’s return of 54.5%.\n\nSTM Stock’s One-Year Price Performance\n\nImage Source: Zacks Investment Research\n\nSTMicroelectronics stock is currently trading at a discount. It is currently trading at a forward 12-month price-to-sales (P/S) multiple of 4.29, well below the industry average of 10.61.\n\nSTM’s P/S Ratio (Forward 12-Month) vs. Industry\n\nThe Zacks Consensus Estimate for STM’s 2026 earnings implies a year-over-year increase of 120.8%. Earnings estimates for 2026 have increased in the past seven days.\n\nEPS Trend of STM Stock\n\nSTM stock currently has a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "META, GOOGL",
       "Date": "2026-06-10",
       "Time": "22:26:07",
@@ -385,7 +395,7 @@
       "Keywords": "in-house AI development, cost reduction, margin improvement, strategic dependency, capital expenditure"
     },
     {
-      "Ticker": "ON",
+      "Ticker": "STM, ON",
       "Date": "2026-06-10",
       "Time": "22:16:00",
       "Source": "Yahoo Finance",
