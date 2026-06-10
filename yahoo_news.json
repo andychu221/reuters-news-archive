@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-06-10T12:00:59.919Z",
-  "total_news_count": 215,
+  "last_updated": "2026-06-10T12:15:30.060Z",
+  "total_news_count": 216,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM",
+      "Date": "2026-06-10",
+      "Time": "20:10:08",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Posts 30% Revenue Growth as AI Trade Cools",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tsmc-posts-30-revenue-growth-121008814.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing Company ( NYSE:TSM ) reported May 2026 consolidated net revenue of NT$416.975 billion ($13.17 billion), up 30.1% from May 2025 and 1.5% from April 2026. Cumulative revenue for January through May 2026 reached NT$1,961.804 billion ($62 billion), a 30.0% increase compared to the same period last year.\n\nThe results extend TSMC's streak of robust year-over-year growth, driven by sustained demand for advanced chips used in AI infrastructure, smartphones, and high-performance computing.\n\nTSMC's numbers land as the broader AI trade takes a breather. The Nasdaq fell 4% last Friday, its worst session since early 2025, as investors began reassessing chip valuations. The monthly figures failed to lift sentiment, with shares down 2.60% in premarket despite the strong numbers.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-10",
       "Time": "19:40:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-10",
       "Time": "19:26:00",
       "Source": "Yahoo Finance",
