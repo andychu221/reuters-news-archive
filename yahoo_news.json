@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-10T19:20:40.440Z",
-  "total_news_count": 310,
+  "last_updated": "2026-06-10T19:40:25.309Z",
+  "total_news_count": 313,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-11",
+      "Time": "03:37:40",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Secures $17.5 Billion Loan After Record C$14 Billion Bond Sale",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-secures-17-5-billion-193740666.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) is leaning even harder into the AI spending race. Soon after selling the biggest Canadian corporate bond deal on record, the company secured access to a $17.5 billion delayed-draw term loan from a group of banks including Citigroup. The loan will be available until the end of September, and each time Amazon draws on it, the company will have three years from that borrowing date to repay the money.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe timing matters. Amazon has already committed major capital to AI, including as much as $50 billion in cash for OpenAI, starting with an initial $15 billion commitment. Anthropic also said two months later that Amazon agreed to invest another $5 billion, with the possibility of $20 billion more over time. CreditSights analysts Jordan Chalfin and Michael Pugh said the new loan could help fund those equity investments, while also suggesting Amazon could possibly become a future equity-issuance candidate after large stock sales from other major companies including Alphabet, which raised $84.75 billion last week.\n\nThis is not just another routine borrowing. Amazon's unsecured loan will pay 0.625 to 0.875 percentage point above SOFR, depending on its senior unsecured credit rating, with JPMorgan Chase, Bank of America, HSBC, Wells Fargo and more than a dozen other banks also involved. The deal follows Amazon's C$14 billion Canadian-dollar bond sale, worth about $10 billion, and comes after the company has also sold bonds in euros, US dollars and Swiss francs since March. For investors, the message could be simple: Amazon is raising capital across markets as big tech keeps borrowing heavily to fund data centers, AI model makers and other AI assets.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-11",
+      "Time": "03:31:06",
+      "Source": "Yahoo Finance",
+      "Title": "Wedbush Sends Blunt Message on Amazon AI Optics Deal",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/wedbush-sends-blunt-message-amazon-193106878.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) said it entered a multi-year agreement to expand U.S. fiber-optics production, a move Wedbush called a sign that demand for optics remains healthy.\n\nThe deal is expected to support data-center fiber output and bolster domestic supply chains. Corning said the project should create about 1,000 jobs at its North Carolina sites, along with additional construction work and a training program for workers.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nWedbush said the agreement may also support a broader shift toward silicon photonics, a chip-based optical technology used to improve speed and lower power use in data centers. The brokerage said the trend could benefit several mature foundry players beyond Corning and Amazon.\n\nThe partnership adds to a growing list of infrastructure deals tied to cloud and artificial intelligence demand. For Corning, the agreement may strengthen its role in a market that still appears to be getting long-term support from AI buildout spending.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-06-11",
@@ -33,7 +53,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMZN",
+      "Ticker": "MSFT",
+      "Date": "2026-06-11",
+      "Time": "02:40:42",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Cuts Azure Jobs in China",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-cuts-azure-jobs-china-184042295.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) is reportedly cutting hundreds of jobs from its Azure cloud unit in China as regulatory pressure around data and cloud services increases.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe layoffs are expected to affect about 200 to 400 employees and take effect July 6, according to the South China Morning Post. Some workers were reportedly offered relocation options, including roles in Canada.\n\nMicrosoft said it had shared an optional internal transfer opportunity with eligible employees and remains focused on serving customers globally.\n\nThe move comes even as Azure continues to grow quickly. Microsoft recently said Azure revenue rose 40% year over year, while its Intelligent Cloud division generated $34.7 billion in fiscal third-quarter revenue.\n\nFor investors, the layoffs are not likely to change the broader Azure growth story. But they do show how global cloud companies must keep adjusting as technology, regulation and geopolitics become more closely linked.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, AMZN",
       "Date": "2026-06-11",
       "Time": "02:39:06",
       "Source": "Yahoo Finance",
