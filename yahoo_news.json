@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-10T18:37:39.635Z",
-  "total_news_count": 299,
+  "last_updated": "2026-06-10T18:40:52.953Z",
+  "total_news_count": 303,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-11",
+      "Time": "02:39:06",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Taps $17.5 Billion Loan as AI Spending Race Intensifies",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-taps-17-5-billion-183906224.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) secured a $17.5 billion senior unsecured delayed draw term loan facility with Citigroup ( NYSE:C ). Lenders also include JPMorgan Chase ( NYSE:JPM ), BofA Securities ( NYSE:BAC ), HSBC ( NYSE:HSBC ), and Wells Fargo ( NYSE:WFC ). The facility can be drawn until September 30, 2026, with any borrowed amount maturing three years from the draw date and no financial covenants attached. Amazon shares fell 2.10% intraday.\n\nThe loan is for general corporate purposes and gives Amazon the flexibility to draw funds as needed. Earlier this week the company also filed for a five-part debt offering in Canada for up to C$14 billion.\n\nThe moves reflect a broader shift among hyperscalers toward debt markets to fund AI buildouts. Combined Big Tech AI capital outlays are on track to surpass $700 billion this year, up from roughly $600 billion previously. Meta ( NASDAQ:META ) filed its largest bond offering ever last October at up to $30 billion, while Alphabet ( NASDAQ:GOOG ) recently disclosed plans for yen-denominated bonds.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-11",
+      "Time": "02:29:06",
+      "Source": "Yahoo Finance",
+      "Title": "Veteran Analyst Firm Resets Alphabet Forecast for 2027",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-firm-resets-alphabet-182906397.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) is expected to see further upside through 2027 after a new Wall Street note raised its price outlook and pointed to stronger long-term growth assumptions in artificial intelligence and cloud computing, according to a Tuesday research update.\n\nGoogle cloud expansion remains central, with TD Cowen estimating about 30.74% upside to 2027 and projecting data center capacity measured in gigawatts could rise tenfold between 2022 and 2031 as AI demand accelerates.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nGoogle consensus estimates remain below TD Cowen's outlook, with average expectations pointing to roughly 14.98% upside to $427.46, while sentiment stays at a Strong Buy with 28 Buy ratings and five Holds.\n\nOverall outlook for Google continues to trend upward as analysts factor in improving cloud margins and sustained AI adoption, with recent revisions suggesting further upward adjustments to earnings expectations over the coming quarters as infrastructure investment expands across enterprise and consumer demand cycles.\n\nInvestors are watching whether valuation assumptions keep pace with accelerating capital spending in AI infrastructure. Analysts say visibility into cloud demand remains a key driver.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-11",
+      "Time": "02:06:54",
+      "Source": "Yahoo Finance",
+      "Title": "Google Stock Weakens After Launch of Real-Time Speech AI Tool",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/google-stock-weakens-launch-real-180654584.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) shares edged lower on Tuesday even as the company introduced a new real-time speech translation system designed to enhance live multilingual communication.\n\nThe technology, called Gemini 3.5 Live Translate, supports more than 70 languages and is designed to produce continuous audio translation while preserving tone, pace, and vocal expression. Google said the system is intended to reduce delays commonly seen in traditional translation tools that wait for full sentences before responding.\n\nWarning! GuruFocus has detected 3 Warning Signs with DIDIY.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe model instead processes speech in near real time, allowing translated output to remain closely aligned with the original speaker with only a short delay. Google said this approach aims to improve conversational flow and reduce pauses during live interaction.\n\nThe feature is currently available in preview for developers through the Gemini Live API and Google AI Studio, and for enterprise users via Google Meet. Wider availability is planned through the Google Translate app on Android and iOS, expanding access to the AI-driven translation tool.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-11",
+      "Time": "01:48:36",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft limits employee use of Anthropic's Claude Fable 5 over data retention concerns, The Verge reports",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/microsoft-limits-employee-anthropics-claude-174836868.html",
+      "Content": "June 10 (Reuters) - Microsoft is limiting employees' use of Anthropic's Claude Fable 5 because of the AI startup's ‌new data retention requirements, The Verge reported on Wednesday, ‌citing sources.\n\nAnthropic on Tuesday said it is rolling out Claude Fable 5, a ​public version of its Mythos AI model, with guardrails barring its use in risky areas such as cybersecurity.\n\nMore from Yahoo Scout\n\nWhy is Microsoft limiting Claude Fable 5 usage?\n\nWhat capabilities does Claude Fable 5 offer?\n\nWhat are Anthropic's new data retention requirements?\n\nHow does Anthropic's valuation compare to OpenAI's?\n\nClaude Fable 5 is the most powerful model Anthropic has made available for wider use, with ‌the company citing its ⁠performance in software engineering and analytics.\n\nMicrosoft has told employees that its legal teams are evaluating changes ⁠to Anthropic's data retention requirements, according to the report.\n\nThe concerns center on customer data and confidential information, and it is not yet ​clear whether ​Microsoft's legal teams will clear ​Claude Fable 5 for internal ‌use, the report said.\n\nUnder Anthropic's data retention policy for Mythos-class models, prompts submitted and outputs generated are retained for 30 days for trust and safety purposes on every platform where the models are offered.\n\nAnthropic retains inputs and outputs for up to two ‌years if they are flagged by ​its trust and safety classifiers as ​violating its usage policy.\n\nMicrosoft ​and Anthropic did not immediately respond to Reuters ‌requests for comment.\n\nAnthropic last week said ​it had confidentially ​filed for a U.S. initial public offering but did not disclose the size or terms of the offering.\n\nIt last ​raised $65 billion at ‌a post-money valuation of $965 billion in late May, putting it ​ahead of rival OpenAI .\n\n(Reporting by Juby Babu in Mexico ​City; Editing by Tasim Zahid)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-11",
