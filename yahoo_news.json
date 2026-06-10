@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T16:40:24.338Z",
-  "total_news_count": 273,
+  "last_updated": "2026-06-10T16:45:56.225Z",
+  "total_news_count": 275,
   "news": [
     {
       "Ticker": "META, GOOGL",
@@ -11,6 +11,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/google-meta-denied-trial-youth-142607290.html",
       "Content": "By Jody Godoy\n\nJune 10 (Reuters) - A California state court judge has denied motions by Meta Platforms and Google's YouTube seeking ‌a new trial after a jury found the companies liable for ‌designing social media platforms that are harmful to young people.\n\nLos Angeles Superior Court Judge ​Carolyn Kuhl ruled on the motions on Tuesday, according to court documents. The companies had sought a new trial in a lawsuit filed by a woman who said she became addicted to Google's YouTube and Meta's Instagram ‌at a young age ⁠because of their attention-grabbing design. A jury found the companies negligent and imposed $6 million in damages.\n\nMore from Yahoo Scout\n\nWhat specific design features caused the $6 million damages?\n\nWhat precedent does this ruling set for platforms?\n\nHow do Meta and Google plan to appeal?\n\nWhy did the court reject Section 230 protection?\n\nKuhl rejected the ⁠companies' argument that they are shielded from the claims by Section 230 of the Communications Decency Act, a federal law that generally protects online platforms ​from liability ​over user-generated content. Kuhl said the law ​does not address the companies' ‌design choices and the jury was repeatedly instructed not to consider content.\n\n\"There was substantial evidence that Plaintiff was harmed by the design features of Instagram, regardless of any of the content found on that platform,\" Kuhl wrote.\n\nIn a statement, a spokesperson for Meta said the company disagreed with ‌the ruling.\n\n\"The plaintiffs’ legal theory attempts to ​improperly circumvent Section 230 and the First ​Amendment, and we expect ​this ruling to be overturned on appeal,\" the spokesperson ‌said.\n\nJosé Castañeda, a spokesperson for Google, ​said in a statement ​that the company plans to appeal.\n\nMark Lanier, an attorney for the plaintiff, said no one was surprised by the ruling.\n\n\"The evidence ​of fault was mountain ‌high,\" Lanier said.\n\n(Reporting by Jody Godoy in New York; Additional ​reporting by Diana Novak Jones in Chicago; Editing by Chris ​Sanders, David Gregorio and Mark Porter)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-11",
+      "Time": "00:12:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股跌完又漲戲碼重演？美國CPI開獎「夜盤瞬間翻紅」　專家：就等川普TACO了",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C%E5%AE%8C%E5%8F%88%E6%BC%B2%E6%88%B2%E7%A2%BC%E9%87%8D%E6%BC%94-%E7%BE%8E%E5%9C%8Bcpi%E9%96%8B%E7%8D%8E-%E5%A4%9C%E7%9B%A4%E7%9E%AC%E9%96%93%E7%BF%BB%E7%B4%85-%E5%B0%88%E5%AE%B6-%E5%B0%B1%E7%AD%89%E5%B7%9D%E6%99%AEtaco%E4%BA%86-161205136.html",
+      "Content": "美國勞工統計局 今（10）日 公布5月消費者物價指數（CPI） ，年增率4.2%，創下2023年4月以來最大漲幅，但仍符合市場預期，也讓 台股夜盤 瞬間翻漲。對此，財經作家狄驤指出，市場先喘口氣，「剩下就是看川普何時TACO，以及市場順利消化AI鬼故事。」\n\n美國5月CPI年增4.2%，重返4字頭，年增率超過4月的3.8%，創下逾3年來的新高；另外，剔除食品和能源的核心CPI月增0.2%，低於市場預期的0.3%，年增率為2.9%。\n\nCPI數據符合市場預期，公布後美股指數期貨跌幅縮減，反映投資人認為通膨雖然升溫，但尚未全面失控，也降低市場對聯準會（Fed）的升息預期。台指期夜盤聽聞此消息後，從原本下跌逾900點，帶動一度翻紅，短線振幅逾千點。\n\n觀察美國5月CPI，能源價格飆升仍是通膨回升的主要推手，5月能源價格月增3.9%，占據整體CPI月增幅的6成；其中汽油價格年增單月上漲7%、年增23.5%，5月全美平均汽油價格升至每加侖4.6美元。\n\n不過許多核心商品價格則出現降溫，家具與家庭用品價格月減0.6%、交通運輸商品價格下滑0.5%、醫療用品價格下降0.5%，為近一年來首見核心商品價格下降。\n\n對此，財經作家狄驤在 臉書 發文表示，CPI符合預期，市場先喘口氣， 台股 夜盤瞬間小漲700點，「剩下就是看川普何時TACO，以及市場順利消化AI鬼故事」，而這兩件事有機會同時進行。",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
@@ -103,6 +113,16 @@
       "URL": "https://finance.yahoo.com/m/960c9996-30b2-3073-9274-59adbca7b9c7/jensen-huang-just-delivered.html",
       "Content": "Nvidia CEO Jensen Huang recently gave Marvell Technology (NASDAQ: MRVL) a major vote of confidence, declaring that the company could become the next trillion-dollar artificial intelligence (AI) chip stock . While Nvidia's GPUs dominate model training and inference deployments, Huang's comments underscore Marvell's emerging momentum in the AI infrastructure layer.\n\nWhat is Marvell's role in AI chip stacks?\n\nMarvell offers a complete portfolio purpose-built for hyperscale AI development. Its custom ASICs, high-speed Ethernet controllers, and optical digital signal processors (DSPs) serve as the pipes that move AI workloads within data centers.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAs chip clusters reach hundreds of thousands of accelerators per rack, the bottleneck shifts from compute capacity to low-latency networking and efficient memory transfers. Marvell's silicon solves these problems, enabling big tech to keep its GPU fleets fully optimized rather than plagued by interconnect delays.\n\nAI infrastructure is a multi-year tailwind for Marvell\n\nCloud giants such as Microsoft , Amazon , and Alphabet are committing hundreds of billions of dollars to expand capacity. While Nvidia is an obvious beneficiary of these accelerating capital expenditures , a meaningful slice of every new server rack is also allocated to networking, storage controllers, and custom connectivity chips. That's where Marvell benefits.\n\nWhat's more lucrative is that these components within the chip stack are consumed at scale with each new deployment. This provides Marvell with revenue visibility and potential to expand profit margins as volumes rise.\n\nThe path to a trillion-dollar valuation\n\nMarvell currently sports a market capitalization of $232 billion -- implying roughly 4x upside from Huang's $1 trillion forecast.\n\nIf Marvell maintains design wins inside hyperscale data centers, the company's trajectory over the next several years becomes compelling. Consistent double-digit revenue growth, expanding gross margins, and a massive AI infrastructure market could support a trillion-dollar valuation within the decade.\n\nUltimately, Huang's endorsement highlights that Marvell is no longer a peripheral chip supplier. Rather, the company is swiftly becoming a core enabler of the AI economy. This shift positions patient and disciplined investors for multibagger returns as the next leg of AI infrastructure spending unfolds.\n\nStory Continues",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-10",
+      "Time": "23:28:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "元大看盤室／台股重挫1478點史上第六大！今晚美CPI是救世主還是最後一擊？",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%83%E5%A4%A7%E7%9C%8B%E7%9B%A4%E5%AE%A4-%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1478%E9%BB%9E%E5%8F%B2%E4%B8%8A%E7%AC%AC%E5%85%AD%E5%A4%A7-%E4%BB%8A%E6%99%9A%E7%BE%8Ecpi%E6%98%AF%E6%95%91%E4%B8%96%E4%B8%BB%E9%82%84%E6%98%AF%E6%9C%80%E5%BE%8C-%E6%93%8A-152838891.html",
+      "Content": "財經中心／綜合報導\n\n台股週三上演大怒神行情，加權指數重挫1478點、跌幅3.31%，收在43225點，創下史上第六大跌點，盤後成交量更衝上1.39兆元，市場恐慌氣氛濃厚。外資再度狂砍935億元，寫下史上第八大賣超紀錄，連五賣不停手；\n\n財經中心/綜合報導\n\n不過投信逆勢加碼167億元，連九買力挺台股，內外資明顯大對決。就在市場震盪之際，美國今晚即將公布最新CPI數據，究竟通膨降溫能否成為反彈契機，還是再度引爆全球股災，也成為投資人最關注焦點。另外，台灣5月出口金額卻逆勢繳出歷年次高成績單，AI、半導體與高階電子零組件表現亮眼。《元大看盤室》帶您掌握盤勢變化，解析三大亮點族群與法人青睞股。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 元大看盤室／台股重挫1478點史上第六大！今晚美CPI是救世主還是最後一擊？",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
