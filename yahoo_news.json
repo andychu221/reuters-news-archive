@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T20:32:53.891Z",
-  "total_news_count": 371,
+  "last_updated": "2026-06-11T20:38:10.155Z",
+  "total_news_count": 372,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-06-12",
+      "Time": "04:17:14",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell appoints Adobe's Dan Durn as finance chief",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/marvell-appoints-adobes-dan-durn-201714657.html",
+      "Content": "June 11 (Reuters) - ‌Marvell ‌Technology ​on Thursday ‌named ⁠Adobe's Dan ⁠Durn ​as ​chief financial ​officer, ‌effective ‌June ​15.\n\n(Reporting ​by ​Harshita ‌Mary Varghese ​in ​Bengaluru; ​Editing ‌by ​Arun ​Koyyur)",
+      "Language": "en"
+    },
     {
       "Ticker": "ARM",
       "Date": "2026-06-12",
@@ -83,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "MRVL, SNDK",
       "Date": "2026-06-12",
       "Time": "03:00:00",
       "Source": "Yahoo Finance",
