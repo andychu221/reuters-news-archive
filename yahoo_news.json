@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T11:01:11.687Z",
-  "total_news_count": 222,
+  "last_updated": "2026-06-11T11:15:15.937Z",
+  "total_news_count": 223,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-11",
+      "Time": "18:54:00",
+      "Source": "Yahoo Finance",
+      "Title": "Intel rallies as BofA double-upgrades stock on increased CPU, foundry visibility",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-rallies-bofa-double-upgrades-105400178.html",
+      "Content": "Investing.com -- Intel shares climbed about 5% in premarket trading after Bank of America double-upgraded the stock from Underperform to Buy and raised its price target to $135 from $96, driven by growing confidence in the company’s server CPU opportunity and its external foundry business.\n\nThe move reflects a significant reassessment of Intel’s earnings potential. BofA now sees the company delivering earnings power of more than $6 per share by 2030, up from a prior estimate of $3-4.\n\nThe bank applies a 25x multiple to its 2030 EPS power estimate of $6.24, discounted back two years, to arrive at its $135 price target. Its previous sum-of-parts methodology based on 2028 estimates \"under-represents many of the company’s CPU and foundry potentials that are further out,” analysts led by Vivek Arya said.\n\nOn the product front, BofA expects Intel’s server CPU sales to reach more than $40 billion by 2030, representing roughly 25% of what it sizes as a $170 billion total addressable market.\n\nThe analysts frame the opportunity through the lens of agentic AI, arguing that as AI workloads evolve, the CPU’s role is structurally expanding — from traditional server management to orchestrating autonomous AI agents, a category it values at around $70 billion by 2030.\n\nFor the foundry business, BofA identified several potential deals in Intel’s pipeline, including Apple M-Series wafers, MediaTek TPU wafers, Terafab IP and packaging engagements, and other ARM-based server CPU opportunities. The bank also pointed to a recent IP collaboration with Cadence on Intel’s 14A node as helping to build a more sustainable external foundry ecosystem.\n\nFurthermore, the analysts flagged Intel’s unusually low institutional ownership as a potential catalyst for stock gains. Despite a market capitalization of around $540 billion, the fifth largest among U.S. semiconductor and AI infrastructure stocks, Intel is owned by just 16% of S&P 500 funds, making it the second least-owned stock in the group after SanDisk.\n\nThe team drew a parallel with AMD, where ownership rose 1,400 basis points over the past year alongside a 309% gain in the stock price.\n\nBofA said key risks to its bull case include intensifying competition from ARM-based and custom chip designs, potential moderation in AI capital spending, and execution risks around Intel’s leading-edge manufacturing ramp.\n\nIntel rallies as BofA double-upgrades stock on increased CPU, foundry visibility\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-06-11",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-11",
       "Time": "18:25:00",
       "Source": "Yahoo Finance",
