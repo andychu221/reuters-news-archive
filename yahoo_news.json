@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T17:00:52.071Z",
-  "total_news_count": 320,
+  "last_updated": "2026-06-11T17:15:24.795Z",
+  "total_news_count": 325,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-12",
+      "Time": "01:03:22",
+      "Source": "Yahoo Finance",
+      "Title": "xAI Alumni Launch River AI as Agent Race Heats Up",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/xai-alumni-launch-river-ai-170322683.html",
+      "Content": "This article first appeared on GuruFocus .\n\nA team of former xAI employees has launched River AI, a new startup focused on personalized artificial intelligence, possibly making it one of the more notable ventures to emerge from the recent wave of departures at Elon Musk's AI company.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nIgor Babuschkin, an xAI co-founder who previously worked at OpenAI and Google DeepMind, announced River on Wednesday. The team includes former xAI and Tesla ( NASDAQ:TSLA ) staffers and aims to build AI agents that can understand a user's style, preferences, and goals while remaining controlled by the user.\n\nFor investors, River's launch could signal rising competition in the AI agent market as talent from major AI labs moves into new companies. The startup is offering an API that others can use to build AI models, plans to help personalize AI agents that keep learning, and may eventually expand into hardware and physical infrastructure.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-12",
@@ -23,13 +33,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "INTC, GOOGL",
       "Date": "2026-06-12",
       "Time": "00:32:00",
       "Source": "Yahoo Finance",
       "Title": "4 Artificial Intelligence (AI) Companies Are Planning to Raise More Capital Than the Entire U.S. IPO Market Did Over the Past 5 Years. Investors Should Consider 2 of the Stocks and Put the Other 2 Aside.",
       "URL": "https://finance.yahoo.com/m/fe7234d0-01d4-3db3-a7b2-4642574d610d/4-artificial-intelligence.html",
       "Content": "The market for initial public offerings (IPOs) in the U.S. has certainly picked up this year. But it's going to get a massive lift as four artificial intelligence (AI) companies attempt to raise hundreds of billions of dollars, potentially all during this year.\n\nSpaceX will kick off its IPO shortly. Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) has filed paperwork for a secondary stock sale that will raise tens of billions of dollars, and Anthropic and OpenAI have also filed for IPOs. If all are successful, they could raise more money than U.S. IPOs have collectively raised over the past five years.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nInvestors should consider adding two of these companies to their portfolios, but the other two, they should watch from the sidelines.\n\nFour AI companies could collectively raise $370 billion\n\nSpaceX is gearing up for a $75 billion IPO that is reportedly 4 times oversubscribed, as of this writing. In addition, the underwriters have the option to purchase an additional $11.25 billion in shares for up to 30 days after the listing, which could certainly happen.\n\nAlphabet has filed paperwork for new stock sales that will raise almost $85 billion, including a $10 billion purchase from Berkshire Hathaway . This fundraising process looks to be well underway, although $40 billion worth of the stock will be sold via an at-the-market (ATM) offering that is not expected to begin until the third quarter.\n\nAnthropic and OpenAI have just confidentially filed for IPOs with the Securities and Exchange Commission (SEC), but at this point, it's still unclear how much they intend to raise. Earlier this year, OpenAI completed a $122 billion private financing round that valued the company at $852 billion. Anthropic recently raised $65 billion in a private financing round that valued it at $965 billion. I suspect each could target IPO stock sales in the $50 billion to $100 billion range. That means that together, these four companies are likely to raise anywhere from $270 billion to $370 billion in capital this year, most of which will be used to fund AI infrastructure.\n\nOver the past five years, U.S. IPOs have raised a total of $267 billion, according to Dealogic and Ernst & Young:\n\n2021: $155.8 billion\n\n2022: $8.6 billion\n\n2023: $22.2 billion\n\n2024: $33 billion\n\n2025: $47.4 billion\n\nInvestors should consider Alphabet and Anthropic\n\nThe first stock in this group that investors should consider buying is Alphabet.\n\nStory Continues\n\nTrading at about 25.5 times forward earnings (as of June 9), the stock's valuation is well above its five-year average. Analysts also expect the company's high level of capital expenditures to push its free cash flow into the negative realm for the next few years.\n\nWhile Alphabet shares could fall significantly if the AI trade struggles, I expect the company would be able to navigate difficult market conditions. Google still reportedly controls 85% to 90% of the traditional online search market. Its large language models (LLMs) are among the industry leaders, and the company has many other great businesses, including cloud infrastructure, custom AI chips, YouTube, and Waymo.\n\nThe other company in this group I see potential for is Anthropic. While investors haven't yet seen the company's registration statement, which will provide in-depth information and financial data, media outlets have reported that the company's annual revenue run rate is nearing $50 billion and that it could generate an operating profit this quarter.\n\nFurthermore, the company has a higher valuation than OpenAI and does not appear to be as stretched in terms of data center commitments. Claude has also caught up with ChatGPT in terms of popularity, and at times this year has held the No. 1 spot in Apple 's App Store.\n\nOpenAI's registration statement is not yet public either, but media reports indicate the company aims to spend $600 billion on its data center build-out by 2030. The company is also reportedly years away from profitability and, as of earlier this year, was struggling to hit key internal revenue targets.\n\nFinally, SpaceX goes public on Friday. The company has some compelling businesses with tremendous potential. The stock may very well be a buy at some point, but I would actually recommend investors wait before purchasing the shares.\n\nOver the next six months, SpaceX shares will flood the market as lock-up provisions expire and insiders and employees are allowed to sell. This is also really the market's first big test for these huge capital raises. I think the stock will likely be cheaper in six months, after investors have more time to learn more about SpaceX's vision and how it plans to execute on its grand ambitions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-12",
+      "Time": "00:31:03",
+      "Source": "Yahoo Finance",
+      "Title": "Huge Insider Selling Hits Intel Stock",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/huge-insider-selling-hits-intel-163103542.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) drew fresh investor attention after Executive Vice President Naga Chandrasekaran sold 21,024 shares, trimming his direct stake by about 9%.\n\nIntel's stock has already been one of the market's biggest turnaround stories over the past year.\n\nIntel's shares have surged as the company pushes deeper into foundry services, AI chips and cost cuts, while also benefiting from stronger strategic support, including a federal government stake last year. The stock has climbed far faster than the broader market in 2026.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel's fiscal first-quarter results added to that momentum. Intel beat Wall Street estimates on revenue and earnings, while revenue at Intel Foundry rose 16% and data center sales increased 22%, helping offset continued losses tied to restructuring and manufacturing investment.\n\nIntel still faces questions from analysts, however, with ratings split between buyers and holdouts. The stock's rally has moved beyond the average target, though the most bullish estimates still point to further upside if the turnaround continues.",
       "Language": "en"
     },
     {
@@ -43,7 +63,27 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "INTC",
+      "Date": "2026-06-12",
+      "Time": "00:25:00",
+      "Source": "Yahoo Finance",
+      "Title": "BofA Double-Upgrades Intel as Foundry and CPU Bets Come Into Focus",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/bofa-double-upgrades-intel-foundry-162500367.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) rose 4.89% in premarket after Bank of America ( NYSE:BAC ) double-upgraded the stock from Underperform to Buy and raised its price target to $135 from $96, citing growing confidence in Intel's server CPU opportunity and its external foundry business. Analyst Vivek Arya now sees Intel delivering earnings power of more than $6 per share by 2030, roughly double BofA's prior estimate of $3-4. The $135 target applies a 25x multiple to a 2030 EPS estimate of $6.24, discounted back two years.\n\nBofA's bull case rests on two pillars. On CPUs, the bank projects Intel's server CPU sales reaching more than $40 billion by 2030 in a market it sizes at $170 billion, with agentic AI workloads structurally expanding the CPU's role from server management to orchestrating autonomous AI agents, a category BofA values at around $70 billion by the same year. On foundry, the bank identified several pipeline deals including Apple ( NASDAQ:AAPL ) M-Series wafers, MediaTek TPU wafers, and ARM ( NASDAQ:ARM ) based server CPU opportunities, alongside a Cadence collaboration on Intel's 14A node.\n\nThe upgrade follows a week of foundry catalysts. Google ( NASDAQ:GOOG ) placed a firm order for more than 3 million TPUs at Intel Foundry for 2028, while Nvidia ( NASDAQ:NVDA ) was reported to be evaluating Intel's 18A process. BofA also flagged that just 16% of S&P 500 funds hold Intel despite a $540 billion market cap.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, INTC",
+      "Date": "2026-06-12",
+      "Time": "00:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Unveils Siri AI. Here's Why It's Not Impressing Investors",
+      "URL": "https://finance.yahoo.com/m/acc47488-e934-370b-bf56-9994630a7d10/apple-unveils-siri-ai.-here%27s.html",
+      "Content": "Apple (NASDAQ: AAPL) held its Worldwide Developer Conference (WWDC) this week, showcasing new features and developer tools. The excitement and anticipation were around long-awaited artificial intelligence (AI) features for its iPhones. Apple unveiled Siri AI, which is a more enhanced version of its personal assistant.\n\nWhile that's a great sign that Apple is finally catching up to rivals, investors and analysts didn't appear all that impressed; the tech stock didn't surge on the news. Here's why Siri AI's launch may have been underwhelming.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nSiri AI isn't all that impressive\n\nWhat might be the best part of Siri AI is that it considers personal context to act more like a real assistant, accessing emails and photos and answering queries in a more personalized way, rather than just providing generic answers. And it does this while keeping privacy and security top priority, ensuring the data isn't stored or accessible elsewhere.\n\nHowever, there wasn't any groundbreaking feature that stood out. Apple's commitment and focus on privacy aren't a surprise, but given the delays in launching advanced AI features to catch up to rivals, there may have been hope for something much bigger than personal context. Siri AI effectively leaves many investors wanting more. It didn't offer much of a catalyst.\n\nWhat's also problematic is that Siri AI won't be available everywhere, at least not yet. The new features won't be coming to users in China and the European Union, as tighter regulatory issues will delay the availability of Siri AI for the time being, effectively making it unavailable to a huge chunk of Apple users.\n\nWhy Apple's stock may still be worth buying, anyway\n\nApple didn't introduce any new, amazing features that wowed the market at WWDC. It announced AI capabilities that users have long been able to achieve with chatbots, with the key difference that Apple AI places greater emphasis on privacy and security. Those are important things, of course, but not so exciting that the stock is going to surge in value.\n\nHowever, Apple hasn't been leading in innovation for some time. The changes and advancements it has made to its products in recent years have been modest and perhaps even a bit underwhelming. And yet, that hasn't hurt sales or the stock's performance. In five years, the stock has more than doubled, and it's still trading at a premium -- 35 times trailing earnings.\n\nStory Continues\n\nApple's loyal fanbase may be content with Siri AI, as it shows the company is taking AI seriously, albeit at a slower pace than its rivals. But over the years, Apple has taken the slow-and-steady approach and shown that it doesn't hurt the business; its customers may even value it. As a long-term investment, Apple's stock can still be a good buy, even if Siri AI may not seem all that exciting.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, META",
       "Date": "2026-06-12",
       "Time": "00:20:00",
       "Source": "Yahoo Finance",
@@ -63,7 +103,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "QCOM",
+      "Ticker": "TSLA",
+      "Date": "2026-06-12",
+      "Time": "00:15:03",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Robotaxi Rollout Faces Fresh Scrutiny",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-rollout-faces-fresh-161503980.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) is facing fresh questions about its robotaxi rollout after a Bloomberg test in Austin showed long waits, booking issues and a very small operating fleet.\n\nOver the past few weeks, a Bloomberg reporter said some Tesla robotaxi rides came with wait times as long as 30 minutes, while there were also periods when bookings were unavailable. In one case, a robotaxi arrived for pickup but failed to start, telling the rider to contact customer support. Pickups and drop-offs were also uneven, with the rider sometimes forced to walk several buildings away despite closer open spots.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe bigger issue is scale. Bloomberg's review of public filings found Tesla has only 59 vehicles in its Austin robotaxi fleet. That makes the service look more limited than the larger rollout many investors had hoped for.\n\nCFRA analyst Garrett Nelson said the fleet size is well below the firm's already bearish expectations, adding that Elon Musk has overpromised for more than a decade. For investors, the next test is whether Tesla can quickly improve availability, reliability and fleet size in Austin.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, QCOM",
       "Date": "2026-06-12",
       "Time": "00:13:00",
       "Source": "Yahoo Finance",
