@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T11:15:15.937Z",
-  "total_news_count": 223,
+  "last_updated": "2026-06-11T11:40:47.333Z",
+  "total_news_count": 224,
   "news": [
     {
       "Ticker": "INTC",
@@ -23,6 +23,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "MSFT",
+      "Date": "2026-06-11",
+      "Time": "18:36:52",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft (MSFT) Launches New Design for Its AI App",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-launches-design-ai-103652926.html",
+      "Content": "Microsoft Corporation (NASDAQ: MSFT ) is broadly held by hedge funds, and analysts, on average, rate it a Buy, ranking it among the best stocks to buy now for the next 3 months .\n\nMicrosoft Corporation (NASDAQ:MSFT) remains a solid pick, given its broader market positioning in the AI space, especially its backing of OpenAI and Copilot. On May 28, Microsoft revealed the new design of its 365 Copilot app, which now offers a faster and more responsive interface and is deeply integrated across its productivity suite. The latest update loads the Copilot app twice as fast, while response time for complex prompts has improved by 10%, according to Microsoft. It also brings a new intelligence layer called Work IQ that delivers more contextually relevant outputs using data from users’ emails, files, chats, and meetings.\n\nPhoto by Microsoft Edge on Unsplash\n\nThe redesign has already shown meaningful results, with Copilot activity improving by 27% in Word, 33% in Excel, 43% in PowerPoint, and 30% in Outlook. This shows that Copilot is making strides, and more users are embedding it into their daily workflow. Microsoft’s broader focus remains on integrating AI deeply into its enterprise ecosystem.\n\nOf 65 analysts covering MSFT, 69 rate the stock as Buy, while 3 rate it Hold. A consensus median price target of $550 implies more than 36% upside potential.\n\nMicrosoft Corporation (NASDAQ:MSFT) is a global technology company that develops and sells a wide range of software, cloud services, devices, and business solutions, serving both individual users and enterprise customers worldwide. Its flagship products include Windows, Microsoft 365, Azure, LinkedIn, and Xbox.\n\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nMicrosoft (MSFT) Launches New Design for Its AI App\n\nMicrosoft (MSFT) Launches New Design for Its AI App Photo by Microsoft Edge on Unsplash\n\nDisclosure: None. <a href=\"h",
+      "Language": "en"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-06-11",
       "Time": "18:36:49",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-06-11",
       "Time": "18:36:40",
       "Source": "Yahoo Finance",
