@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T13:15:32.239Z",
-  "total_news_count": 251,
+  "last_updated": "2026-06-11T13:18:21.684Z",
+  "total_news_count": 252,
   "news": [
+    {
+      "Ticker": "005930.KS",
+      "Date": "2026-06-11",
+      "Time": "21:10:06",
+      "Source": "Yahoo Finance",
+      "Title": "Google in talks with Samsung to make next-generation chips, The Information reports",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/google-talks-samsung-next-generation-131006391.html",
+      "Content": "June 11 (Reuters) - Alphabet's Google ‌is ‌in talks with ​Samsung Electronics to manufacture part ‌of ⁠its next-generation tensor ⁠processing unit, ​codenamed \"Icefish,\" ​The Information ​reported ‌on Thursday, citing two people familiar with ‌the ​matter.\n\nReuters ​could ​not ‌independently verify the ​report.\n\n(Reporting ​by Anhata Rooprai ​in ‌Bengaluru; Editing ​by Tasim ​Zahid)",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-06-11",
