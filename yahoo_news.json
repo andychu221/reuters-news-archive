@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T13:40:30.761Z",
-  "total_news_count": 254,
+  "last_updated": "2026-06-11T13:44:43.249Z",
+  "total_news_count": 257,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-11",
+      "Time": "21:26:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電德國廠外溢效應　薩克森各縣市爭取與台灣合作",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%BE%B7%E5%9C%8B%E5%BB%A0%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-%E8%96%A9%E5%85%8B%E6%A3%AE%E5%90%84%E7%B8%A3%E5%B8%82%E7%88%AD%E5%8F%96%E8%88%87%E5%8F%B0%E7%81%A3%E5%90%88%E4%BD%9C-132620078.html",
+      "Content": "（中央社記者林尚縈柏林2026年6月11日專電）明年投產的台積電德勒斯登廠出現外溢效應，德媒報導，德勒斯登所在地薩克森邦多縣市正積極佈局，從培育半導體人才、規劃住宅，到爭取台灣企業投資與城市合作，希望搭上這波半導體發展熱潮，為地方經濟尋找新機會。\n\n台積電與博世（Bosch）、英飛凌（Infineon）及恩智浦（NXP）合資成立的歐洲半導體製造公司（ESMC，歐積電）正在德勒斯登（Dresden）興建晶圓廠，預計2027年底投產。\n\n德勒斯登為德國東部薩克森邦（Sachsen）首府，近年因這項總投資額超過100億歐元（約新台幣3650億）的晶圓廠投資案和台方密切合作，鄰近的各縣市也摩拳擦掌，積極佈局，希望為地方經濟注入新活水。\n\n薩克森日報（SZ）11日報導，德東地區正面臨工業轉型、人口老化及部分傳產競爭力下滑挑戰。對薩克森邦許多地方政府而言，台積電投資不只是新增一座工廠，更可能帶來供應鏈投資、就業機會與人口成長，該邦多縣市希望成為受惠者。\n\n以最積極與台方接觸的哥利茨縣為例，縣長邁爾（Stephan Meyer）近日與台中市長盧秀燕在柏林簽署友誼備忘錄，薩克森日報認為，對僅擁有25萬居民的哥利茨縣來說，與280萬人口的台中市合作是一項非凡成就。\n\n除了與台灣大都市簽署友誼備忘錄，為吸引台灣半導體供應鏈廠商進駐，哥利茨縣也正規劃將勒包（Lobau）新工業區部分土地改為工業用地。\n\n位於德國、波蘭與捷克交界地區的齊陶／格利茨應用科技大學（Hochschule Zittau/Gorlitz）今年秋季也將開設兩項新學程，包括全英語授課的「半導體製程與材料化學」以及「生產製程機電整合」，希望培養台積電投產後所需人才。\n\n另一個積極佈局的薩克森縣市為包曾縣（Bautzen）。這個距離德勒斯登僅約50公里地區，過去以機械製造、汽車零組件等工業聞名，也是德國少數民族索布族（Sorben）聚居地之一，近年面臨嚴重人口流失與老化問題。\n\n與哥利茨縣著重供應鏈投資不同，包曾縣將重點放在吸引人才定居，德勒斯登因半導體產業快速發展，住房供應日益緊張，包曾縣希望未來在台積電及相關企業工作的工程師與家屬入住，通勤前往德勒斯登上班。\n\n為此，包曾縣近日也邀請駐德代表處赴當地訪問，介紹現有及未來可提供的住宅資源、當地索布族文理中學（Sorbisches Gymnasium Bautzen）規劃推出英語授課及國際課程，以及當地醫療體系與就業機會，希望吸引台灣半導體人才及家屬在包曾縣定居。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-06-11",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/google-talks-samsung-next-generation-131006391.html",
       "Content": "June 11 (Reuters) - Alphabet's Google ‌is ‌in talks with ​Samsung Electronics to manufacture part ‌of ⁠its next-generation tensor ⁠processing unit, ​codenamed \"Icefish,\" ​The Information ​reported ‌on Thursday, citing two people familiar with ‌the ​matter.\n\nReuters ​could ​not ‌independently verify the ​report.\n\n(Reporting ​by Anhata Rooprai ​in ‌Bengaluru; Editing ​by Tasim ​Zahid)",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-11",
+      "Time": "20:50:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "郭明錤：台積電CoPoS封裝2028下半年量產 輝達Feynman晶片將率先採用",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%83%AD%E6%98%8E%E9%8C%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BBcopos%E5%B0%81%E8%A3%9D2028%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%87%8F%E7%94%A2-%E8%BC%9D%E9%81%94feynman%E6%99%B6%E7%89%87%E5%B0%87%E7%8E%87%E5%85%88%E6%8E%A1%E7%94%A8-125003207.html",
+      "Content": "隨著人工智慧 (AI) 算力需求激增，先進封裝技術正成為半導體競爭的新戰場。根據天風國際證券分析師郭明錤的最新貼文，台積電 (2330-TW)(TSM-US) 下一代先進封裝技術平台 CoPoS(Chip-on-Panel-on-Substrate) 預計將於 2028 年下半年進入量產階段。這項技術旨在解決超大尺寸 AI 晶片在傳統封裝下的經濟性挑戰，被視為現有 CoWoS 封裝技術的戰略級延續。\n\nCoPoS 的核心思路是將傳統的「晶圓級」封裝推向「面板級」。透過將圓形的矽晶圓中介層替換為方形玻璃面板，材料面積利用率可從約 65% 大幅提升至 90% 以上，顯著降低超大尺寸封裝的成本。該技術特別針對超過 9.5 倍光罩尺寸 (mask size) 的超大型封裝設計，未來甚至可支撐超過 14 個光罩面積的巨型封裝方案。\n\n據悉，輝達 (NVDA-US) 規劃中的下一代 AI 晶片「Feynman」有望成為首個採用者，其量產時間與 CoPoS 的發展窗口高度吻合。\n\n針對市場上對於「玻璃取代 ABF」的誤解，郭明錤明確指出，玻璃材料與 ABF 薄膜為搭配共存的關係。CoPoS 的玻璃芯基板採用典型的「三明治」三層架構：\n\n1. 核心層： 以玻璃作為核心，提供剛性支撐與垂直導通。\n\n2. 增層： 玻璃上下兩面均以 ABF(ABF-GCP) 包覆，負責精細布線與絕緣。\n\n在生產規格上，量產階段將採用 510 x 515 毫米的大尺寸玻璃面板，加工過程面臨 TGV(玻璃通孔) 成型、填銅與金屬化等高難度挑戰。\n\n郭明錤特別澄清了業界對 CoPoS 的三大誤讀：第一，玻璃並非中介層，互連由晶片側 RDL 與玻璃芯基板的 TGV/ABF 共同完成；第二，玻璃不取代 ABF，兩者相輔相成；第三，晶片並非直接放在玻璃上，而是連接在玻璃芯基板表層的 ABF 增層表面。\n\n除了提升封裝尺寸，CoPoS 平台也為光電共封裝 (CPO) 提供了理想的集成環境，有利於光學元件 (如光引擎、耦合器) 的整合。這項技術的突破預期將強化台積電在先進封裝領域的優勢，其技術能見度有望維持至 2032 年。",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
@@ -51,6 +71,16 @@
       "URL": "https://finance.yahoo.com/m/de3a2da0-5a93-3a43-a7dd-a996307d04ef/wall-street-is-ignoring-this.html",
       "Content": "Everyone on Wall Street is watching Nvidia , Apple , and the artificial intelligence (AI) trade. It's understandable, given that the \"Magnificent Seven\" stocks have generated huge returns over the past three years.\n\nThe part that few people are paying attention to right now, though, is the other end of the market cap spectrum. Small caps and the Vanguard Small-Cap ETF (NYSEMKT: VB) have become legitimately attractive investment options right now. This fund is up 25.5% over the past year, beating the 22.7% return of the Vanguard S&P 500 ETF over the same period, even as large-cap tech is roaring.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe improving earnings outlook for this segment, along with comparatively attractive valuations, makes this a strong buy candidate over the next several months.\n\nHow the Vanguard Small-Cap ETF is constructed\n\nThis fund tracks the CRSP U.S. Small Cap Index , which covers roughly the 85th to 98th percentile of U.S. market cap.\n\nThat methodology accomplishes two things: It has a median market cap of over $10 billion, well above the $4 billion median market caps of the Vanguard Russell 2000 ETF and the Vanguard S&P Small Cap 600 ETF . That gives this fund much more of a large-cap tilt.\n\nThe S&P 600 index also uses a profitability screen for inclusion, whereas the Vanguard Small-Cap ETF methodology does not. If you feel small caps are going to rally, I personally would not want the quality criteria in place. Unprofitable companies are generally more growth-oriented and have greater upside potential in a bull-market rally.\n\nVB: Performance and key metrics\n\nMetric\n\nVanguard Small-Cap ETF (VB)\n\nExpense ratio\n\n0.03%\n\nAssets under management\n\n$77.2 billion\n\nOne-year return\n\nThree-year return (annualized)\n\n15.7%\n\nFive-year return (annualized)\n\n6.4%\n\nNumber of holdings\n\n1,309\n\nTop sectors\n\nIndustrials (23%), tech (14%), financials (13%), consumer discretionary (13%)\n\nData source: Vanguard.\n\nWhy small caps are a buy now\n\nThe potential of small caps is keyed on earnings and valuations. Small-company stocks are seeing earnings growth rates accelerate. That trend is likely to continue. In 2027, the group is forecast to grow earnings by 18.3%, compared with a 17.3% growth rate for large caps.\n\nOn top of that, the Vanguard Small-Cap ETF trades at a price/earnings (P/E) multiple of 21.6. That's a discount of more than 20% compared to the 27.4 multiple for the Vanguard S&P 500 ETF.\n\nStory Continues\n\nWhenever you can get a high double-digit earnings growth rate that's higher than that of the S&P 500 and trades for roughly 20% cheaper, you have to pay attention.\n\nSmall-caps haven't necessarily been an investor's best friend over the past several years. But if you look at the underlying fundamentals, that reputation is about to change.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-11",
+      "Time": "20:31:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股狂瀉千點急拉 小跌76點守住43K",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%8B%82%E7%80%89%E5%8D%83%E9%BB%9E%E6%80%A5%E6%8B%89-%E5%B0%8F%E8%B7%8C76%E9%BB%9E%E5%AE%88%E4%BD%8F43k-123129556.html",
+      "Content": "台北股市十一日持續反映地緣政治突發事件與美股跌勢，盤中一度跌超過千點，隨低接買盤進場，指數跌幅縮減，終場下跌七十六點。 （中央社）\n\n（另開新視窗） 記者陳建興∕台北報導\n\n受到美伊地緣政治風險劇增影響，台股十一日早盤一度重挫逾一千二百點，險守四萬二千點整數大關；在低接買盤強力湧進主動式ＥＴＦ與ＡＩ族群下，跌勢收斂，終場加權指數跌七十六點零八點，收在四萬三千一百四十九點四六點，留下一千一百四十三點的長下影線，成交值一兆二千五百七十九點七五億元。\n\n自營商賣超一百二十四億元，投信買超一百二十七點八八億元，外資及陸資賣超三百五十七點七九億元，三大法人合計賣超三百五十三點九一億元。\n\n權值股表現方面，權值王台積電除息六元，開盤雖一度承壓貼息，但在買盤力挺下，僅不到三十秒即完成填息，終場收在平盤二千二百五十元，扮演撐盤中流砥柱；聯發科守住四千元大關，終場收四千零八十五元，跌幅百分之一點六八；台達電收二千一百六十元，跌百分之一點八二。\n\n受到中東局勢轉趨緊張衝擊，ＡＩ概念股及電子硬體供應鏈早盤淪為提款重災區，廣達、緯創等指標股盤中跌幅一度達到百分之五；午盤後隨大盤反彈拉抬，跌幅同步收斂，終場收在三百七十元、一百五十二點五元。\n\n具防禦屬性的高股息概念股、綠能及生技族群在盤中發揮抗跌作用。近期備受市場關注的主動式ＥＴＦ面臨劇烈調節，主動統一升級五十成交量飆破七十六萬張，主動統一台股增長也超過四十三萬張，終場分別收在九點九九元、二十九點七一元，小跌百分之零點五、百分之零點六。\n\n匯市方面，台股持續走跌，但尾盤跌勢明顯收斂，新台幣兌美元匯率則是逆勢走升，早盤一度貶破三十一點七元，午後隨外資匯出力道減弱，有部分資金回流，由貶翻升三點七分，收盤收三十一點六三一元，終止連五黑，台北及元太外匯市場總成交金額縮小至二十八點三七億美元。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
