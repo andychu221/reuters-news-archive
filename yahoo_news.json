@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-06-11T07:01:09.668Z",
-  "total_news_count": 160,
+  "last_updated": "2026-06-11T07:17:00.482Z",
+  "total_news_count": 161,
   "news": [
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "INTC",
+      "Date": "2026-06-11",
+      "Time": "14:57:00",
+      "Source": "Yahoo Finance",
+      "Title": "Prediction: Solana Will Outperform Bitcoin Over the Next 3 Years",
+      "URL": "https://finance.yahoo.com/m/891a2756-bd1b-3424-aa0c-db4f4551b6bc/prediction%3A-solana-will.html",
+      "Content": "When cryptocurrencies first really took off in 2020 and 2021, the hunt was on for the next cryptocurrency to explode . The frenzy faded, and only a few well-known altcoins have outperformed Bitcoin (CRYPTO: BTC) in the past three years. Solana (CRYPTO: SOL) is one of them, increasing by over 250% while Bitcoin has gained almost 140%.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nNo cryptocurrency can be categorized as a safe investment, but Bitcoin, by far the largest, is likely the safest. This crypto bellwether has attracted a large share of institutional crypto investment, making it less volatile, as the chart shows. The flip side of that relative safety is that Bitcoin doesn't have the same growth potential as smaller cryptos.\n\nLesser-known cryptocurrencies can surge dramatically in a short time. The difficulty is that those surges are often fueled by unpredictable speculation. Plus, less-established cryptos are rarely able to sustain their gains or recover after the inevitable slumps.\n\nThis tendency brings me back to Solana, which has repeatedly erased losses and keeps getting stronger.\n\nWhy Solana will outperform Bitcoin\n\nMany cryptocurrencies are under pressure right now. As of June 10, Bitcoin has fallen 10% to $61,658 in the past three months, while Solana dropped 24% to $65. Inflation and geopolitical uncertainty have both weighed on prices, alongside other factors. When inflation is high, the Federal Reserve is more likely to increase interest rates, which makes riskier assets like crypto less attractive.\n\nHigh inflation won't last forever, and in the long term, crypto fundamentals are improving. Not only is crypto better positioned than ever for mainstream financial use, but the blockchain has potential as a payment method for artificial intelligence (AI) agents. Solana could take more market share than Bitcoin in both areas.\n\nMainstream integration has been discussed for years but never quite materialized. That's a source of frustration for some, but it isn't surprising. Changing financial systems won't happen overnight, and it shouldn't. Blockchain technology offers benefits, such as fast settlement and low-cost transactions, but it also carries risks.\n\nRegulatory and infrastructure shifts mean that established financial institutions and payment providers are increasingly adopting blockchain technology. Both Visa and Mastercard are already exploring stablecoin products, and research from The Motley Fool shows that big banks are also integrating stablecoins.\n\nStory Continues\n\nStablecoins and other aspects of financial integration rely on smart contracts, which are tiny pieces of blockchain code that allow developers to build programs. Smart contracts were built into Solana from the start, but they are more of an add-on for Bitcoin, which has to use additional blockchains, known as Layer-2s, to enable them. That's why institutions are already choosing Solana for stablecoin settlement over Bitcoin's Layer-2s.\n\nSimilarly, Solana is already gaining ground with AI agents -- autonomous programs that use AI to make and execute decisions. AI agents can't open bank accounts, but they can spend money, and blockchains, with accessible, transparent, round-the-clock operations, are an ideal way to do so. They could process millions of microtransactions a day, which is where Solana's super-low transaction fees give it the upper hand.\n\nSolana has more room to grow\n\nSolana and Bitcoin have different roles in a diversified crypto portfolio. Bitcoin is safer and is likely to remain dominant for many years. Solana is faster and more adaptable, making it better suited for mainstream integration and AI agent usage. With a market cap that's 3% of Bitcoin's, it could seriously outperform the crypto king over the next three years.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, AVGO",
       "Date": "2026-06-11",
       "Time": "14:25:00",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-11",
       "Time": "14:20:00",
       "Source": "Yahoo Finance",
