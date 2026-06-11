@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T10:00:57.569Z",
-  "total_news_count": 208,
+  "last_updated": "2026-06-11T10:15:18.862Z",
+  "total_news_count": 209,
   "news": [
+    {
+      "Ticker": "AAPL, TSLA",
+      "Date": "2026-06-11",
+      "Time": "18:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+      "URL": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
+      "Content": "The S&P 500's ( ^GSPC ) decline in June looks like a market sell-off. Under the hood, it is mostly a megacap problem.\n\nThe \"Magnificent Seven\" — Microsoft ( MSFT ), Amazon ( AMZN ), Apple ( AAPL ), Alphabet ( GOOG , GOOGL ), Nvidia ( NVDA ), Tesla ( TSLA ), and Meta ( META ) — have erased roughly $2 trillion in market value this month, according to Yahoo Finance analysis.\n\nMore from Yahoo Scout\n\nHow much market value have tech giants lost recently?\n\nHow does market concentration affect broader index performance?\n\nWhy are the Magnificent Seven driving S&P 500 decline?\n\nWhat's causing the concentration of weakness in megacaps?\n\nThat accounts for more than two-thirds of the S&P 500's total market-cap loss in June.\n\nThe group's biggest drag has come from Microsoft and Amazon, which have each lost more than $350 billion in market value this month. Apple and Alphabet have each shed roughly $300 billion, while Nvidia and Tesla have lost about $260 billion and $200 billion, respectively.\n\nThe result is a top-heavy index doing what top-heavy indexes do: moving with its largest stocks.\n\nIt's not that the rest of the market is very strong so much as the weakness is concentrated.\n\nThe Magnificent Seven are down a median 9.7% in June, while the rest of the S&P 500 has a median gain of 0.3%. That split helps explain why the index feels heavy even though many stocks are still holding up.\n\nThe same pressure showed up in Tuesday's sell-off , when AI and chip-linked winners absorbed the biggest damage while the broader tape looked less broken underneath.\n\nThe concentration is even clearer when the market is split by dollar damage.\n\nThe 15 biggest S&P 500 market-cap losers are down 9.2% in June, while the rest of the index is down 0.2%.\n\nThat makes June less of a classic broad-market unwind and more of a leadership problem.\n\nThe market can survive narrow weakness if the average stock keeps holding up. But if chip leadership keeps cracking, the index's biggest winners may remain the market's biggest problem.\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nThe group accounts for more than two-thirds of the S&P 500's market-cap loss this month. · Yahoo Finance analysis\n\nThe group accounts for more than two-thirds of the S&P 500's market-cap loss this month. · Yahoo Finance analysis It's not that the rest of the market is very strong so much as the weakness is concentrated.\n\nThe market can survive narrow weakness if\n\nThe 15 biggest market-cap losers are sharply negative this month, while the rest of the index is roughly flat. · Yahoo Finance analysis\n\nThe 15 biggest market-cap losers are sharply negative this month, while the rest of the index is roughly flat. · Yahoo Finance analysis That makes June less of a classic broad-market unwind and more of a leadership problem.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-11",
@@ -53,7 +63,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-06-11",
       "Time": "17:05:00",
       "Source": "Yahoo Finance",
