@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T13:01:08.034Z",
-  "total_news_count": 249,
+  "last_updated": "2026-06-11T13:15:32.239Z",
+  "total_news_count": 251,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-11",
+      "Time": "20:46:50",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX: New Street Research sees 22% upside from proposed IPO price",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/spacex-street-research-sees-22-124650184.html",
+      "Content": "Investing.com -- New Street Research has initiated coverage of SpaceX with a 12-month price target of $165, representing 22% upside from the proposed IPO price and corresponding to a $2.3 trillion equity value following the company's potential acquisition of Cursor.\n\nAnalyst Pierre Ferragu said the firm approached the valuation from three angles.\n\nThe first is a sum-of-the-parts framework, using a discounted cash flow analysis for Starlink and examining how xAI's value is enhanced by the Cursor deal, its combination with what Ferragu described as a \"highly cash-generating telecom business,\" and the prospect of direct access to orbital compute. Third-party launch was characterized as \"only a small moving part in this picture.\"\n\nThe second angle looks at where SpaceX will land in 2030 in terms of revenues and growth prospects, applying relevant earnings and sales multiples from comparable companies. The third is a cross-check against the longer-term sizing of the broader space opportunity.\n\nNew Street Research's initiation comes as SpaceX prepares to go public, with the listing drawing significant investor attention.\n\nWolfe Research noted earlier this week that speculation around a potential SpaceX-Tesla merger has increasingly moved into the mainstream, with some investors making it their primary thesis for owning Tesla stock. However, Oppenheimer analysts said in a note today that they see little strategic case for a Tesla-SpaceX merger.\n\nSpaceX: New Street Research sees 22% upside from proposed IPO price\n\nAs Claude disrupts stock market, Anthropic researcher warns ’world is in peril’\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-11",
@@ -23,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, GOOGL",
+      "Ticker": "INTC",
+      "Date": "2026-06-11",
+      "Time": "20:25:00",
+      "Source": "Yahoo Finance",
+      "Title": "The SpaceX IPO Is About to Lift Off at $1.77 Trillion. Here's My Honest Take on Whether You Should Buy Shares.",
+      "URL": "https://finance.yahoo.com/m/6288d85f-8675-3a51-8fd0-c40b7c065982/the-spacex-ipo-is-about-to.html",
+      "Content": "The SpaceX IPO is coming on Friday, June 12. According to Reuters, despite the massive $75 billion capital raise, the IPO is expected to be 4 times oversubscribed, with over $250 billion in investor dollars seeking to participate. It just goes to show how many people believe in Elon Musk's vision for spaceflight and artificial intelligence (AI).\n\nThis almost cinches the IPO going through at its proposed price of $1.77 trillion, and it could mean a large pop on the first day of trading as well. But does that mean you should pile into the stock along with the rest of Wall Street? Here's my honest take on the SpaceX IPO.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nMassive growth, but at what cost?\n\nSpaceX's revenue grew 33% year over year in 2025 to $18.7 billion. This is mainly driven by its Starlink satellite internet service, which is now generating up to $11.4 billion in annual revenue and is highly profitable.\n\nIt is likely that Starlink continues on its upward trajectory in 2026. However, there will be an even faster-growing segment at SpaceX this year: AI compute sales. SpaceX is selling access to its Colossus data centers, built by xAI, to both Anthropic and Alphabet in monthly contracts worth a combined $2.16 billion, or $26 billion annually. That is more than its entire 2025 revenue, suggesting we could see the business begin to post 100% annual revenue growth in the near future.\n\nWhere concerns start to arise with these AI deals is that xAI and SpaceX are unable to meet compute demand from their internal services, such as Grok and X (formerly Twitter), for which these data centers were originally built. Reselling computing infrastructure to third parties may look good now, but it will likely come with ultrathin profit margins, and both Anthropic and Alphabet can walk away from the deal whenever they want. This raises questions about the quality of SpaceX's AI compute revenue for anyone looking to invest in this business over the long term.\n\nAn impressive vision does not mean a great business\n\nThere is no denying that Elon Musk and the rest of SpaceX have a grand vision for this business. There are even compensation hurdles for Musk based on whether the company establishes a colony on Mars.\n\nWhere some investors may get overly excited is correlating these grand visions to a highly profitable business. SpaceX's launch business dominates headlines but generates only $4 billion in revenue annually and is not profitable. The AI segment lost $6 billion in 2025 compared to just $3.2 billion in revenue, although that may change with the aforementioned Anthropic and Alphabet contracts.\n\nStory Continues\n\nSure, Starlink looks solidly profitable, but SpaceX as a whole is capital-intensive, has negative free cash flow, and has future endeavors like Starship and orbital data centers that will be costly as well. This doesn't scream out that this will be a highly profitable business delivering value to shareholders.\n\nMy honest take on the SpaceX IPO\n\nSpaceX is undoubtedly an exciting company. I am rooting for it to succeed in its goals. The world will be better for it.\n\nBut when talking about whether I would buy the stock? That is a different question. This is a business that may burn cash for years to come and is riding on ambitious assumptions about its rocket engineering and orbital data centers to drive growth over the next decade.\n\nPlus, the IPO price puts SpaceX stock at a stratospheric valuation. A $1.77 trillion market cap at the IPO gives it a price-to-sales ratio (P/S) of close to 100 compared to 2025 revenue, which is going to create an impossible hurdle for investors to overcome. Even if revenue can 10x to $200 billion within a few years, the slim margins for a space flight business would give SpaceX stock an ultra-high price-to-earnings ratio (P/E).\n\nA risky business model coming out at a crazy high price. My honest take is that any investor should avoid buying the SpaceX IPO, even if it pops on day one.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, GOOGL",
       "Date": "2026-06-11",
       "Time": "20:22:00",
       "Source": "Yahoo Finance",
@@ -43,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ASML.AS",
+      "Ticker": "TSLA, ASML.AS",
       "Date": "2026-06-11",
       "Time": "20:16:05",
       "Source": "Yahoo Finance",
