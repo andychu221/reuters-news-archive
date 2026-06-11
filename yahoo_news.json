@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-11T12:32:22.560Z",
-  "total_news_count": 241,
+  "last_updated": "2026-06-11T12:40:30.200Z",
+  "total_news_count": 245,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-11",
+      "Time": "20:22:00",
+      "Source": "Yahoo Finance",
+      "Title": "Is SpaceX's New Deal With Google a Game Changer? Here's My Honest Take.",
+      "URL": "https://finance.yahoo.com/m/0aad806a-a931-395e-a5a3-d65ede225c0a/is-spacex%27s-new-deal-with.html",
+      "Content": "With its initial public offering (IPO) just days away, SpaceX recently disclosed a landmark cloud deal with Alphabet 's (NASDAQ: GOOGL) (NASDAQ: GOOG) Google. SpaceX will provide Google with access to a large AI data center built around high-performance GPUs from Nvidia (NASDAQ: NVDA) .\n\nGiven that SpaceX's core business has long revolved around rockets, satellites, and interplanetary ambitions, the new partnership with Google signals an aggressive expansion into the data center and artificial intelligence (AI) infrastructure arena.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nCuriously, the deal arrives at a critical juncture: As SpaceX prepares to go public on Friday, investors are demanding proof that the company can generate recurring revenue beyond launch contracts and Starlink subscriptions.\n\nWhat is SpaceX actually doing for Google?\n\nAs AI developers seek to train ever-larger generative models and deploy inference at scale, hyperscalers face relentless demand for the computing power they can supply. While Nvidia's GPUs remain the gold standard for model training and inference, its hardware is in tight supply. These dynamics, as well as other bottlenecks, are what make new compute capacity one of the scarcest and most expensive resources in today's AI landscape.\n\nAt its heart, SpaceX is leasing a cluster of approximately 110,000 Nvidia GPUs, plus CPUs, memory, and supporting infrastructure to Google. Through this arrangement, Google secures access to a high-performance accelerated computing platform without bearing the full capital outlay or construction risk of building it.\n\nFor SpaceX, the deal monetizes compute infrastructure the company has already built or is rapidly scaling. In other words, Google will provide SpaceX with predictable revenue from a blue chip reference customer, strengthening the company's credibility as it prepares to hit the Nasdaq.\n\nWhat are the terms of the Google-SpaceX deal?\n\nPer the terms and conditions, SpaceX will ramp up its cluster for Google at a reduced rate that runs through September. Full commercial capacity is scheduled to be online starting in October, and the deal runs through June 2029 -- implying about 33 months of peak operations. During this period, Google will pay SpaceX $920 million per month -- putting the total deal value north of $30 billion.\n\nIf SpaceX can't deliver the full committed GPU count by Sept. 30, it will receive a one-month grace period. Afterward, Google can walk away from SpaceX or choose to accept a lower capacity at a prorated monthly fee. After Dec. 31, either company can terminate the agreement with 90 days' notice.\n\nStory Continues\n\nIs Google's deal with SpaceX a game changer?\n\nAt nearly $11 billion of annualized revenue, the deal with Google is certainly substantial enough to move the financial needle for SpaceX. Importantly, monetizing cloud infrastructure adds a new growth vector that diversifies SpaceX away from cyclical launch revenue.\n\nWith that said, this partnership is unlikely to redefine SpaceX's long-term valuation on its own. For now, the company's moat remains its launch cadence and its Starlink constellation.\n\nSpaceX's deal with Google gives investors a concrete example of contracted cash flow at the perfect moment. The timing of the deal is absolutely impeccable. It disclosed the agreement with Google to add powerful narrative fuel just as the company gears up for what it hopes to be the largest IPO in history. However, at the end of the day, I think cloud compute is more of a clever adjacency play rather than a new core competency for SpaceX.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-11",
+      "Time": "20:21:51",
+      "Source": "Yahoo Finance",
+      "Title": "Walmart, Wing Expand Drone Delivery Network to 7 New U.S. Metro Areas",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/walmart-wing-expand-drone-delivery-122151542.html",
+      "Content": "This article first appeared on GuruFocus .\n\nWalmart ( NASDAQ:WMT ) and Alphabet's ( NASDAQ:GOOG ) ( NASDAQ:GOOGL ) Wing have announced a major expansion of their drone delivery partnership, adding seven new metro areas to what they describe as the nation's largest drone delivery network. The next rollout will bring the service to Memphis, New Orleans, Philadelphia, Phoenix, San Diego, the San Francisco Bay Area, and Salt Lake City, as part of a broader plan to build a 270-location network. Wing said the expansion follows well over one million commercial deliveries already completed, suggesting drone delivery could be moving from an experimental retail feature toward a more regular part of Walmart's last-mile delivery strategy.\n\nWarning! GuruFocus has detected 4 Warning Signs with PLTR.\n\nIs WMT fairly valued? Test your thesis with our free DCF calculator.\n\nWing's drones can fly at speeds of up to 60 mph and use a tether system to lower packages directly into a customer's yard or driveway in as fast as 30 minutes. Once the service becomes available, Walmart customers within the delivery range will see the option appear through Walmart's app or website based on the address connected to their account. Customers can also order directly through the Wing app, giving the partnership another customer access point as it expands beyond existing markets such as Dallas-Fort Worth, Houston, and Atlanta.\n\nWing Chief Business Officer Heather Rivera said the Walmart partnership has shown that drone delivery is not just a novelty, with many customers using the service multiple times per week. Rivera added that Wing is already working with communities in the seven new markets as it accelerates toward bringing ultra-fast delivery to 40 million U.S. residents. Wing began in 2012 inside Google's X moonshot factory, tested real-world deliveries in rural Queensland, Australia, in 2014, became an independent Alphabet subsidiary in 2018, and later became the first drone operator with an FAA Part 135 air carrier certificate in 2019, giving investors a longer operating history behind the latest Walmart expansion.",
+      "Language": "en"
+    },
     {
       "Ticker": "ASML.AS",
       "Date": "2026-06-11",
@@ -10,6 +30,16 @@
       "Title": "Musk's Terafab Plans Put ASML In Investor Spotlight",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/musks-terafab-plans-put-asml-121605184.html",
       "Content": "This article first appeared on GuruFocus .\n\nElon Musk is expected to put ASML's annual technology conference firmly on investors' radar on Thursday, as he appears virtually to discuss Terafab, his proposed semiconductor manufacturing venture aimed at supplying chips for Tesla ( NASDAQ:TSLA ) and SpaceX. ASML ( NASDAQ:ASML ) said Musk will share his vision for AI, robotics, space, and semiconductor manufacturing, giving investors another look at how his chip ambitions could move deeper into the global semiconductor supply chain.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe key question is whether Terafab could become a serious future customer for ASML's lithography systems. ASML CEO Christophe Fouquet said last month that the company has held discussions with Musk about the project. That matters because ASML remains the dominant supplier of lithography tools used to make advanced semiconductors, and a Musk-backed manufacturing push could possibly bring another high-profile buyer into its ecosystem.\n\nMusk has previously said SpaceX plans to work with Intel ( NASDAQ:INTC ) on Terafab, which is intended to produce chips for SpaceX and Tesla's Optimus humanoid robots. Earlier this year, he also outlined plans for an initial development facility in Texas focused on producing lithography masks, which would support rapid prototyping of logic and memory chips. ASML said Musk and his team are becoming part of the broader semiconductor ecosystem, with companies including ASML expected to collaborate on the initiative, while Musk added on June 6 that ASML is \"arguably the greatest company in Europe\" and should be \"treasured and supported.\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-11",
+      "Time": "20:09:28",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Cuts 200-400 China Azure Jobs as Cloud Revenue Jumps 40%",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-cuts-200-400-china-120928992.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) is reportedly cutting hundreds of roles from its Azure cloud unit in China, a move that could put fresh investor attention on how rising data regulation pressure is beginning to hit even the biggest cloud platforms. According to the South China Morning Post, the layoffs are expected to take effect on July 6 and affect between 200 and 400 employees, based on several employees who received a company email about the matter.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe affected employees are expected to receive severance packages based on tenure, along with seven months of salary. Some staff were also reportedly given the option to relocate to Microsoft job openings in Canada. A Microsoft representative told the South China Morning Post that the company had shared an optional internal transfer opportunity with eligible employees as part of managing its global business, while adding that Microsoft remains focused on serving customers and growing globally.\n\nFor investors, the bigger question is not just the job cuts. It is what they may signal for Azure's China exposure at a time when cloud, AI, and data infrastructure are facing tighter scrutiny from Washington to Beijing. Microsoft said Azure revenue grew 40% year-over-year, or 39% in constant currency, while its Intelligent Cloud division generated $34.7 billion in fiscal third-quarter revenue. At its Build event last week, Microsoft also said it had expanded to more than 500 data centers globally, up from more than 400, and had brought more Azure compute capacity online over the past 18 months than during the prior decade.",
       "Language": "en"
     },
     {
@@ -23,7 +53,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, AMZN",
+      "Date": "2026-06-11",
+      "Time": "20:04:52",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon's Record C$14 Billion Bond Sale Pressures Canadian Credit Market",
+      "URL": "https://finance.yahoo.com/markets/currencies/articles/amazons-record-c-14-billion-120452587.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) has placed major pressure on Canada's fixed income market after pricing a record C$14 billion bond sale, equal to about $10 billion. The offering is now the largest corporate bond ever raised in Canadian dollars, surpassing Alphabet's C$8.5 billion deal from last month and pushing Amazon into the top 10 issuers by outstanding debt in a Bloomberg index. The deal also moved Amazon ahead of National Bank of Canada and Telus in that index, showing how aggressively major technology companies are now tapping global credit markets to fund large AI-related investment needs.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nFund managers have been selling high-quality bonds to make room for Amazon's new debt, which has weighed on valuations across Canada's credit market. Investors have reportedly sold longer-dated utility bonds and Alphabet's recent loonie debt, while Canadian long-term government bonds also underperformed comparable Treasuries on Monday. One reason the market felt the pressure is that Amazon's 30-year tranche alone reached C$4.75 billion, larger than the Canadian government's typical C$3 billion 30-year bond auctions. TD Securities' Chris Whelan said each deal could feel heavier for the next month, while larger borrowers may wait before launching major new sales.\n\nStill, the market reaction has remained relatively contained. Canadian investment-grade corporate bond spreads widened by about two basis points on Tuesday, but spreads were still only 84.5 basis points above the government curve, more than 30% tighter than the five-year average. Strong inflows into Canadian fixed income have helped the market absorb larger transactions, possibly making Canadian dollars a more attractive funding source for global corporate issuers. For investors, the bigger takeaway could be that Amazon's deal may signal a broader wave of hyperscaler debt issuance, potentially helping Canada develop a more liquid technology credit sector over time.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-06-11",
       "Time": "19:55:00",
       "Source": "Yahoo Finance",
@@ -43,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, GOOGL, AMZN, NVDA",
       "Date": "2026-06-11",
       "Time": "19:39:00",
       "Source": "Yahoo Finance",
@@ -53,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-06-11",
       "Time": "19:35:00",
       "Source": "Yahoo Finance",
