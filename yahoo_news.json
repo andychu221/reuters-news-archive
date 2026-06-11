@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T12:20:51.273Z",
-  "total_news_count": 240,
+  "last_updated": "2026-06-11T12:32:22.560Z",
+  "total_news_count": 241,
   "news": [
     {
       "Ticker": "ASML.AS",
@@ -10,6 +10,16 @@
       "Title": "Musk's Terafab Plans Put ASML In Investor Spotlight",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/musks-terafab-plans-put-asml-121605184.html",
       "Content": "This article first appeared on GuruFocus .\n\nElon Musk is expected to put ASML's annual technology conference firmly on investors' radar on Thursday, as he appears virtually to discuss Terafab, his proposed semiconductor manufacturing venture aimed at supplying chips for Tesla ( NASDAQ:TSLA ) and SpaceX. ASML ( NASDAQ:ASML ) said Musk will share his vision for AI, robotics, space, and semiconductor manufacturing, giving investors another look at how his chip ambitions could move deeper into the global semiconductor supply chain.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe key question is whether Terafab could become a serious future customer for ASML's lithography systems. ASML CEO Christophe Fouquet said last month that the company has held discussions with Musk about the project. That matters because ASML remains the dominant supplier of lithography tools used to make advanced semiconductors, and a Musk-backed manufacturing push could possibly bring another high-profile buyer into its ecosystem.\n\nMusk has previously said SpaceX plans to work with Intel ( NASDAQ:INTC ) on Terafab, which is intended to produce chips for SpaceX and Tesla's Optimus humanoid robots. Earlier this year, he also outlined plans for an initial development facility in Texas focused on producing lithography masks, which would support rapid prototyping of logic and memory chips. ASML said Musk and his team are becoming part of the broader semiconductor ecosystem, with companies including ASML expected to collaborate on the initiative, while Musk added on June 6 that ASML is \"arguably the greatest company in Europe\" and should be \"treasured and supported.\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-06-11",
+      "Time": "20:09:12",
+      "Source": "Yahoo Finance",
+      "Title": "BofA lifts targets on AMD and ARM, raises CPU TAM to $170bn",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/bofa-lifts-targets-amd-arm-120912826.html",
+      "Content": "Investing.com -- Bank of America has raised its 2030 server CPU total addressable market estimate to more than $170 billion from $125 billion, arguing that agentic AI is driving a near-fivefold expansion in CPU demand and lifting price objectives across several semiconductor names.\n\nAnalyst Vivek Arya said in a note on Thursday that the emergence of agentic AI represents \"a powerful demand accelerant that expands the CPU opportunity and lifts both x86 incumbents and ARM challengers,\" implying a 37% compound annual growth rate over 2025 to 2030.\n\nAMD’s price target was raised to $560 from $500 on higher CPU and GPU estimates, while ARM’s target was lifted to $335 from $245 on greater long-term chiplet potential.\n\nIntel received a double upgrade to Buy with a $135 price target, reflecting both near-term CPU and long-term foundry upsides.\n\nBofA said agentic AI differs from traditional generative AI by shifting from a single prompt-response workflow to a multi-step system that plans, reasons, retrieves information, and executes code simultaneously.\n\nWhile accelerators remain critical for inference, Arya noted that orchestration and decision-making functions are \"latency-sensitive, sequential, and I/O-intensive — making them better suited for CPUs.\"\n\nAMD was named BofA’s top CPU pick on incumbency, pipeline strength, and an upcoming AI day featuring the Venice launch.\n\nNvidia remains the firm’s top overall sector pick \"on full-stack AI leadership.\" Qualcomm was kept at Underperform despite an expected AI CPU announcement at its June 24 AI Day, with BofA citing \"tough competition and limited SAM.\"\n\nBofA lifts targets on AMD and ARM, raises CPU TAM to $170bn\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
       "Language": "en"
     },
     {
