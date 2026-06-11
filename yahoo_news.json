@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T11:40:47.333Z",
-  "total_news_count": 224,
+  "last_updated": "2026-06-11T11:44:31.741Z",
+  "total_news_count": 230,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-11",
+      "Time": "19:10:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "SpaceX上市在即！「15檔王牌台廠」扮要角  搶食兆元商機",
+      "URL": "https://tw.stock.yahoo.com/news/spacex%E4%B8%8A%E5%B8%82%E5%9C%A8%E5%8D%B3-15%E6%AA%94%E7%8E%8B%E7%89%8C%E5%8F%B0%E5%BB%A0-%E6%89%AE%E8%A6%81%E8%A7%92-%E6%90%B6%E9%A3%9F%E5%85%86%E5%85%83%E5%95%86%E6%A9%9F-111007368.html",
+      "Content": "馬斯克旗下的太空探索技術公司SpaceX預計於12日正式掛牌上市，募資規模約750億美元，引發全球投資人高度關注。對此，研調機構TrendForc（集邦科技）發布最新研究，點名15家台廠，包括台積電、昇達科、啟碁、全訊、穩懋、宏捷科、同欣電、聯發科、世芯、華通、燿華、金像電、台光電、台燿、以及台泥子公司三元能源，已切入SpaceX相關供應鏈。\n\n高盛預估，低軌衛星市場將在2035年前成長約7倍，規模上看1080億美元，是這波太空題材最被看好的長線動能。集邦科技則預估，隨著衛星網路、AI基礎設施與太空應用加速融合，全球太空經濟正進入新一輪成長週期，預估2027年全球衛星產業產值將達4470億美元（約新台幣14兆），年成長率達14%。\n\n目前全球最積極布局的4大低軌衛星營運商，包括SpaceX的星鏈（Starlink）、亞馬遜的Amazon Leo（原名Project Kuiper）、歐洲通訊衛星旗下的OneWeb，以及加拿大的Telesat。\n\n集邦科技表示，SpaceX除持續擴大衛星寬頻服務版圖外，亦積極布局手機直連衛星、AI太空運算及太空太陽能（Space-Based Solar Power, SBSP）等新興領域，並透過擴建自有太空AI運算晶片廠Terafab，強化垂直整合能力，推動低軌衛星產業由通訊服務邁向運算服務新階段。\n\n集邦科技點名15家台廠已切入SpaceX相關供應鏈，「台灣供應鏈憑藉高精度製造與非中系供應鏈優勢，亦逐步切入衛星相關的關鍵零組件、太空能源及AI晶片代工領域。」\n\n其中，昇達科供應高頻微波元件與濾波器；華通受惠Starlink衛星部署規模擴大及AI在軌運算需求升溫，除增加高階HDI板供貨外，亦投入開發AI運算衛星專用高頻HDI板；在衛星終端設備方面，啟碁由天線設計與RF系統整合能力，打入Starlink衛星供應鏈。\n\n元晶與三元能源科技分別供應太陽能電池及高功率鋰電池，台光電、聯茂提供高階銅箔基板(CCL)材料，而台積電則有望持續承接太空AI運算晶片製造需求。隨著衛星通訊與AI運算加速融合，顯著提升台廠在全球太空產業供應鏈的重要性。",
+      "Language": "zh"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-06-11",
@@ -11,6 +21,36 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-rallies-bofa-double-upgrades-105400178.html",
       "Content": "Investing.com -- Intel shares climbed about 5% in premarket trading after Bank of America double-upgraded the stock from Underperform to Buy and raised its price target to $135 from $96, driven by growing confidence in the company’s server CPU opportunity and its external foundry business.\n\nThe move reflects a significant reassessment of Intel’s earnings potential. BofA now sees the company delivering earnings power of more than $6 per share by 2030, up from a prior estimate of $3-4.\n\nThe bank applies a 25x multiple to its 2030 EPS power estimate of $6.24, discounted back two years, to arrive at its $135 price target. Its previous sum-of-parts methodology based on 2028 estimates \"under-represents many of the company’s CPU and foundry potentials that are further out,” analysts led by Vivek Arya said.\n\nOn the product front, BofA expects Intel’s server CPU sales to reach more than $40 billion by 2030, representing roughly 25% of what it sizes as a $170 billion total addressable market.\n\nThe analysts frame the opportunity through the lens of agentic AI, arguing that as AI workloads evolve, the CPU’s role is structurally expanding — from traditional server management to orchestrating autonomous AI agents, a category it values at around $70 billion by 2030.\n\nFor the foundry business, BofA identified several potential deals in Intel’s pipeline, including Apple M-Series wafers, MediaTek TPU wafers, Terafab IP and packaging engagements, and other ARM-based server CPU opportunities. The bank also pointed to a recent IP collaboration with Cadence on Intel’s 14A node as helping to build a more sustainable external foundry ecosystem.\n\nFurthermore, the analysts flagged Intel’s unusually low institutional ownership as a potential catalyst for stock gains. Despite a market capitalization of around $540 billion, the fifth largest among U.S. semiconductor and AI infrastructure stocks, Intel is owned by just 16% of S&P 500 funds, making it the second least-owned stock in the group after SanDisk.\n\nThe team drew a parallel with AMD, where ownership rose 1,400 basis points over the past year alongside a 309% gain in the stock price.\n\nBofA said key risks to its bull case include intensifying competition from ARM-based and custom chip designs, potential moderation in AI capital spending, and execution risks around Intel’s leading-edge manufacturing ramp.\n\nIntel rallies as BofA double-upgrades stock on increased CPU, foundry visibility\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-11",
+      "Time": "18:40:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資連6賣台股逾4700億元　調節主動式ETF",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A36%E8%B3%A3%E5%8F%B0%E8%82%A1%E9%80%BE4700%E5%84%84%E5%85%83-%E8%AA%BF%E7%AF%80%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-104048435.html",
+      "Content": "（中央社記者吳家豪台北2026年6月11日電）台股今天跌76.08點，收在43149.46點，外資及陸資賣超新台幣357.79億元，連續6個交易日賣超，合計6天賣超金額達4731億元，主要調節主動式ETF與市值型ETF，以主動統一升級50（00403A）賣超13.26萬張最多，同時反手買超聯電 (2303) 5.01萬張。\n\n受到美伊地緣政治風險劇增影響，台股今天早盤一度重挫逾1200點，在低接買盤強力湧進主動式ETF（指數股票型基金）與AI族群下，跌勢收斂，終場加權指數收在43149.46點，下跌76.08點，跌幅0.18%，留下1143點的長下影線。\n\n三大法人合計賣超353.91億元，其中自營商賣超124億元，連6賣；投信買超127.88億元，連10買；外資及陸資賣超357.79億元，連6賣。\n\n主動統一升級50今天爆出超過76萬張天量，因持股重壓台積電、台達電、聯發科等AI供應鏈大廠，成為外資降低台股科技部位的首要目標，今天遭外資減碼13.26萬張，高居賣超榜首。元大台灣50 (0050) 以9.18萬張居次，凱基金 (2883) 遭賣超8.14萬張排第3名。\n\n其他入列外資賣超前10名排行榜的個股包括元大台灣50正2（00631L）、遠東新 (1402) 、中鋼 (2002) 、國巨 (2327) 、富邦金 (2881) 、凱基台灣TOP50（009816）、廣達 (2382) 。\n\n外資同時展開防禦性資產配置，看準長期處於股價低基期、高殖利率的成熟製程晶圓代工廠聯電，大舉敲進5.01萬張，登上買超榜首。\n\n其他進入外資買超前10名的個股以面板、航運、金融與電信族群為主，包括群創 (3481) 、陽明 (2609) 、第一金 (2892) 、復華富時不動產（00712）、主動中信ARK創新（00983A）、永豐金 (2890) 、主動元大AI新經濟（00990A）、台灣大 (3045) 、彰銀 (2801) 。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-11",
+      "Time": "18:39:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資連6賣台股逾4700億　調節主動式ETF",
+      "URL": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E9%80%A36%E8%B3%A3%E5%8F%B0%E8%82%A1%E9%80%BE4700%E5%84%84-%E8%AA%BF%E7%AF%80%E4%B8%BB%E5%8B%95%E5%BC%8Fetf-103940792.html",
+      "Content": "（中央社記者吳家豪台北11日電）台股今天跌76.08點，收在43149.46點，外資及陸資賣超新台幣357.79億元，連續6個交易日賣超，合計6天賣超金額達4731億元，主要調節主動式ETF與市值型ETF，以主動統一升級50（00403A）賣超13.26萬張最多，同時反手買超聯電5.01萬張。\n\n受到美伊地緣政治風險劇增影響，台股今天早盤一度重挫逾1200點，在低接買盤強力湧進主動式ETF（指數股票型基金）與AI族群下，跌勢收斂，終場加權指數收在43149.46點，下跌76.08點，跌幅0.18%，留下1143點的長下影線。\n\n三大法人合計賣超353.91億元，其中自營商賣超124億元，連6賣；投信買超127.88億元，連10買；外資及陸資賣超357.79億元，連6賣。\n\n主動統一升級50今天爆出超過76萬張天量，因持股重壓台積電、台達電、聯發科等AI供應鏈大廠，成為外資降低台股科技部位的首要目標，今天遭外資減碼13.26萬張，高居賣超榜首。元大台灣50（0050）以9.18萬張居次，凱基金遭賣超8.14萬張排第3名。\n\n其他入列外資賣超前10名排行榜的個股包括元大台灣50正2（00631L）、遠東新、中鋼、國巨、富邦金、凱基台灣TOP50（009816）、廣達。\n\n外資同時展開防禦性資產配置，看準長期處於股價低基期、高殖利率的成熟製程晶圓代工廠聯電，大舉敲進5.01萬張，登上買超榜首。\n\n其他進入外資買超前10名的個股以面板、航運、金融與電信族群為主，包括群創、陽明、第一金、復華富時不動產（00712）、主動中信ARK創新（00983A）、永豐金、主動元大AI新經濟（00990A）、台灣大、彰銀。（編輯：楊凱翔）1150611",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-11",
+      "Time": "18:39:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "矽光子爆逃難潮！短線沒救了？外資曝大爆發時機 點名「7檔長線黑馬」",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9F%BD%E5%85%89%E5%AD%90%E7%88%86%E9%80%83%E9%9B%A3%E6%BD%AE-%E7%9F%AD%E7%B7%9A%E6%B2%92%E6%95%91%E4%BA%86-%E5%A4%96%E8%B3%87%E6%9B%9D%E5%A4%A7%E7%88%86%E7%99%BC%E6%99%82%E6%A9%9F-%E9%BB%9E%E5%90%8D-7%E6%AA%94%E9%95%B7%E7%B7%9A%E9%BB%91%E9%A6%AC-103938791.html",
+      "Content": "近期市場傳出共同封裝光學（CPO）技術因光學引擎連接良率低迷，導致量產時程被迫延後，引爆矽光子族群的失望性拋售，今（11）日概念股持續重挫。對此，美系外資指出，短線急殺主因先前市場期待過高，才引發資金恐慌撤退；但即便出貨延後，整體技術升級趨勢不變，長線仍有望受惠，因此給予台積電、日月光投控、光聖與旺矽等7檔指標股「加碼」評等。\n\n綜合Seeking Alpha等外媒報導，研究機構SemiAnalysis在報告中指出，在上周甫結束的台北國際電腦展中，與業界人士交流的結果透露，矽光子共同封裝光學技術的推出時程恐將面臨延宕。\n\nSemiAnalysis分析報告揭露，CPO技術目前面臨三大發展絆腳石，包含光學引擎連接良率不佳、特殊應用晶片（ASIC）整合技術艱難，以及生產成本過高，原本市場極度看好2027年實際出貨量遠低於預期，大規模量產時程，更可能被推遲到2028年、甚至2029年。\n\n利空消息一出，隨即引發台灣與美國相關概念股集體重挫，光通訊族群淪為今日台股盤面殺盤重心，其中，全新、訊芯-KY雙雙被打入跌停板；華星光重挫6%；波若威、聯鈞大跌4%；聯亞、光聖、光環與前鼎等個股也紛紛挫跌逾3%，盤面哀鴻遍野。\n\n美系外資指出，無論是scale-up（縱向擴展）與scale-out（橫向擴展）的解決方案，2027年光學引擎的供應量預估僅600萬至700萬顆，即使台積電計畫在明（2027）年首季將矽光子（PIC）產能拉升至每月1萬片，最終的生產良率高低，仍是影響出貨的最大隱憂。\n\n外資強調，CPO技術要真正迎來成長大爆發，市場可能要等到2028年，現階段將會是光收發模組、各式光學方案與傳統銅纜解決方案相互並存的過渡階段。儘管短線面臨過度樂觀的修正壓力，但產業前景依舊看好，給予台積電、日月光投控、光聖、萬潤、旺矽、鴻勁與穎崴等7檔供應鏈「加碼」的投資評等。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -63,6 +103,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-11",
+      "Time": "18:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "盤中巨震逾千點！台股收跌76點　台積電達成填息後收在平盤",
+      "URL": "https://tw.news.yahoo.com/%E7%9B%A4%E4%B8%AD%E5%B7%A8%E9%9C%87%E9%80%BE%E5%8D%83%E9%BB%9E-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C76%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%81%94%E6%88%90%E5%A1%AB%E6%81%AF%E5%BE%8C%E6%94%B6%E5%9C%A8%E5%B9%B3%E7%9B%A4-103300628.html",
+      "Content": "【記者呂承哲／台北報導】美股週三（10日）在美國與伊朗軍事衝突再度全面升級下，三大指數全面下挫，費城半導體指數更是重挫3.57%，輝達股價大跌3.73%，台積電ADR跌4.48%，台指期夜盤同步大跌752點，台股面臨4萬3關卡保衛戰。台股週四（11日）開盤跌逾300點，失守4萬3關卡，台積電今除息6元，股價在2250元平盤震盪，一度上漲5元，挑戰當日填息。\n\n截至上午11點，台股下跌668.9點或1.55%、暫報42556.64點，早盤一度下跌最多1219.15點，報在42006.39點。台積電早盤一度漲至2260元達成第22次填息後，現跌15元或0.67%、暫報2235元，鴻海股價下跌8元或3.23%、暫報254.5元，台達電股價下跌65元或2.95%、報2135元，聯發科股價下跌160元或3.85%、暫報3995元。\n\n台股週四收盤，台股終場下跌76.08點或0.18%、報43149.46點盤中1456.64點，成交金額來到1兆2579.75億元。台積電股價平盤、報2250元，台達電股價下跌40元或1.82%、報2160元，聯發科股價下跌70元或1.68%、報4085元，鴻海股價下跌4.5元或1.71%、報258.5元。\n\n台股週三收盤終場下跌1478.9點或3.31%、報43225.54點，創收盤史上第六大跌點，成交金額來到1兆3240.93億元。從三大法人表現來看，外資續砍935.74億元，自營商賣超405.51億元，投信買超167.61億元，合計賣超1173.64億元。\n\n證交所公告，11日有台積電（2330）、華新（1605）、寶齡富錦（1760）、彰源（2030）、華泰（2329）、德律（3030）、群創（3481）、天二科技（6834）、青新-創（6951）及富邦媒（8454）等十檔發行量加權股價指數成分股票除息交易，除息後減少市值占發行量加權股價指數約52.66點，台積電就站47.84點。\n\n美國勞工統計局 (BLS) 公布最新通膨數據，美國5月消費者物價指數 (CPI) 年增 4.2%、創三年新高，但是表現符合市場預期，月增0.5%，也符合市場預期。\n\n在美軍阿帕契直升機遭到伊朗擊落後，美伊軍事衝突再度升級，美國總統川普警告，與伊朗的談判拖太久，揚言將對伊朗展開猛烈攻擊，推升市場情緒升溫，VIX恐慌指數飆升逾11%。\n\n此外，美超微電腦（Super Micro Computer）宣布計劃出售股票以及股權連結證券籌資70億美元，以支應採購成本，導致股價崩跌27%，甲骨文公布最新財報獲利超預期，但同樣要擴張AI資本支出，導致股價盤後下跌7%，AI概念股也遭到拖累。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC, NVDA",
       "Date": "2026-06-11",
       "Time": "18:25:00",
@@ -101,6 +151,16 @@
       "URL": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
       "Content": "The S&P 500's ( ^GSPC ) decline in June looks like a market sell-off. Under the hood, it is mostly a megacap problem.\n\nThe \"Magnificent Seven\" — Microsoft ( MSFT ), Amazon ( AMZN ), Apple ( AAPL ), Alphabet ( GOOG , GOOGL ), Nvidia ( NVDA ), Tesla ( TSLA ), and Meta ( META ) — have erased roughly $2 trillion in market value this month, according to Yahoo Finance analysis.\n\nMore from Yahoo Scout\n\nHow much market value have tech giants lost recently?\n\nHow does market concentration affect broader index performance?\n\nWhy are Magnificent Seven driving S&P 500 decline?\n\nWhat's causing the concentration of weakness in megacaps?\n\nThat accounts for more than two-thirds of the S&P 500's total market-cap loss in June.\n\nThe group's biggest drag has come from Microsoft and Amazon, which have each lost more than $350 billion in market value this month. Apple and Alphabet have each shed roughly $300 billion, while Nvidia and Tesla have lost about $260 billion and $200 billion, respectively.\n\nThe result is a top-heavy index doing what top-heavy indexes do: moving with its largest stocks.\n\nIt's not that the rest of the market is very strong so much as the weakness is concentrated.\n\nThe Magnificent Seven are down a median 9.7% in June, while the rest of the S&P 500 has a median gain of 0.3%. That split helps explain why the index feels heavy even though many stocks are still holding up.\n\nThe same pressure showed up in Tuesday's sell-off , when AI and chip-linked winners absorbed the biggest damage while the broader tape looked less broken underneath.\n\nThe concentration is even clearer when the market is split by dollar damage.\n\nThe 15 biggest S&P 500 market-cap losers are down 9.2% in June, while the rest of the index is down 0.2%.\n\nThat makes June less of a classic broad-market unwind and more of a leadership problem.\n\nThe market can survive narrow weakness if the average stock keeps holding up. But if chip leadership keeps cracking, the index's biggest winners may remain the market's biggest problem.\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nThe group accounts for more than two-thirds of the S&P 500's market-cap loss this month. · Yahoo Finance analysis\n\nThe group accounts for more than two-thirds of the S&P 500's market-cap loss this month. · Yahoo Finance analysis It's not that the rest of the market is very strong so much as the weakness is concentrated.\n\nThe market can survive narrow weakness if\n\nThe 15 biggest market-cap losers are sharply negative this month, while the rest of the index is roughly flat. · Yahoo Finance analysis\n\nThe 15 biggest market-cap losers are sharply negative this month, while the rest of the index is roughly flat. · Yahoo Finance analysis That makes June less of a classic broad-market unwind and more of a leadership problem.\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-11",
+      "Time": "17:53:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超357億元連6賣 提款台積電110億元 6月來買超聯電逾48萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85357%E5%84%84%E5%85%83%E9%80%A36%E8%B3%A3-%E6%8F%90%E6%AC%BE%E5%8F%B0%E7%A9%8D%E9%9B%BB110%E5%84%84%E5%85%83-6%E6%9C%88%E4%BE%86%E8%B2%B7%E8%B6%85%E8%81%AF%E9%9B%BB%E9%80%BE48%E8%90%AC%E5%BC%B5-095317869.html",
+      "Content": "台股今 (11) 日 有台積電 (2330-TW) 除息交易等因素影響指數，同時，市場變數還有美伊戰事局勢發展不明的干擾，指數又呈現如大怒神的高幅度震盪，終場收在 43149.46 點，下跌 76.08 點或 0.18%，市場成交值在 1.25 兆元；三大法人合計賣超 353.91 億元。\n\n就晶圓雙雄而言，外資今天續賣超台積電 4904 張，提款 109.92 億元，外資已自 6 月 3 日以來連續賣超台積電 85120 張，而外資今天買超聯電 (2303-TW) 50122 張，外資自 6 月 1 日以來已連續買超聯電 48 萬 3929 張。\n\n在台股現貨市場方面，外資賣超 357.79 億元， 投信買超 127.88 億元，自營商賣超 124 億元。在期貨市場方面，外資交易口數淨額爲空單 1118 口，未平倉口數淨額爲空單 63168 口。\n\n今天集中市場外資買超較多的個股爲，聯電、群創、陽明、第一金、永豐金、台灣大、彰銀、華通、大成鋼、文曄。今天集中市場外資賣超較多的個股爲，遠東新、中鋼、國巨 *、富邦金、廣達、正新、華航、友達、台塑、聯強。\n\n今天集中市場外投信買超較多的個股爲，凱基金、遠東新、富邦金、廣達、正新、和碩、興富發、統一證、中租 - KY。今天集中市場外投信賣超較多的個股爲，聯電、陽明、緯創、大成鋼、中信金、文曄、大聯大、瑞儀、長華 *、力成。\n\n今天集中市場外自營商買超較多的個股爲，聯電、中信金、台積電、凱基金、永豐金、兆豐金、華邦電、華南金、玉山金、第一金；今天集中市場外自營商賣超較多的個股爲，群創、南亞科、旺宏、豐泰、台玻、力積電，南茂。\n\n資深證券分析師簡伯儀指出，受到美國高科技股下跌的影響。台股今天指數持續的往下回測。技術面 5 日線跟 10 日線都已經出現下彎的走勢，短期維持偏向整理的態勢。建議在未明顯站回月線並站穩之前，操作上應該還是維持比較偏向保守的看法，弱勢股應該可以在這邊減碼。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
