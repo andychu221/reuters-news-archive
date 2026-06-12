@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-12T11:00:59.674Z",
-  "total_news_count": 222,
+  "last_updated": "2026-06-12T11:15:23.641Z",
+  "total_news_count": 224,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-12",
+      "Time": "18:58:12",
+      "Source": "Yahoo Finance",
+      "Title": "Hedge funds sold broader tech ahead of SpaceX IPO, JPMorgan data shows",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-sold-broader-tech-105812649.html",
+      "Content": "By Nell Mackenzie\n\nLONDON, June 12 (Reuters) - Hedge funds sold out of the biggest U.S. tech stocks, and some even added ‌bearish positions, according to data from a JPMorgan note late ‌Thursday, just before SpaceX was set to go public on Friday.\n\nShares in the \"Magnificent Seven\" -- ​a group that includes some of the biggest tech names on Wall Street, namely Nvidia , Apple , Amazon.com, Alphabet, Meta, Tesla , and Microsoft, have all declined since last Friday.\n\nMore from Yahoo Scout\n\nHow are financial stocks performing this trading period?\n\nWhy did hedge funds sell Magnificent Seven stocks?\n\nWhat is SpaceX's expected IPO valuation target?\n\nWhich sectors attracted the most buying interest recently?\n\nThe Roundhill Magnificent Seven ETF, which tracks these ‌stocks closely, declined over 2.4% ⁠since June 5, with some analysts saying investors were clearing their decks in order to prepare for the ⁠debut of Elon Musk's Space X on Friday.\n\nSpaceX posted a net loss of $4.94 billion in 2025, but its landmark listing targets a valuation of $1.77 ​trillion ​in a record-setting IPO, which would ​make it the seventh-biggest publicly ‌traded U.S. company by market value.\n\nHere is what the JPMorgan note said:\n\n• Magnificent Seven stocks saw market selling as investors decided to dial down their risk positions.\n\n• Some speculators jumped in to buy the dip.\n\n• In the U.S., software stocks were deeply sold late last week ‌while semi conductor makers garnered \"strong demand.\"\n\n• Meanwhile, ​financial firm themed ETFs were the most ​bought over the last ​week.\n\n• Seasonally, financial stocks do well at this time ‌of year\n\n• Hedge funds were mixed ​on financials, with ​some selling banks.\n\n• Hedge funds recently bought insurance company stocks but overall, the sector is \"heavily sold\" in the year so far, ​with traders having ‌far fewer wagers on these companies than in the past.\n\n• ​Funds favoured traditional asset managers over alternative asset managers.\n\n(Reporting by ​Nell Mackenzie; Editing by Amanda Cooper)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-12",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-06-12",
       "Time": "18:25:00",
       "Source": "Yahoo Finance",
@@ -2203,6 +2213,16 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "market decline, chip stocks, AI infrastructure, inflation concerns, geopolitical risk"
+    },
+    {
+      "Ticker": "MCHP",
+      "Date": "2026-06-10",
+      "Time": "23:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Don't Be Fooled: Today's CPI Is a Buy Signal in Disguise",
+      "URL": "https://finance.yahoo.com/economy/policy/articles/dont-fooled-todays-cpi-buy-150000874.html",
+      "Content": "Here’s the most important thing to understand about this morning's inflation report: the scary number is the one the Federal Reserve is specifically built to ignore.\n\nHeadline CPI rose 4.2% year over year in May, the hottest reading in three years, driven by the energy-supply shock from the Iran war. That will dominate the headlines and send the nervous crowd scrambling into energy and defensive \"inflation hedges.\"\n\nCentral banks fight demand-driven inflation. They do not, and cannot, fight supply shocks. A war-driven spike in crude oil is the single clearest example of a supply shock there is, and the Fed's entire playbook for one is to look straight through it — because raising rates does nothing to unclog the Strait of Hormuz, and tightening into a supply-driven price spike only deepens the economic damage.\n\nThe Fed knows this. The market, fixated on the 4.2% print, is in the process of forgetting it.\n\nDigging Deeper into May’s CPI Print\n\nAnd when you actually look at what the Fed cares about, the picture inverts completely. Core CPI rose just 0.2% on the month, below the 0.3% consensus. Strip out food, shelter, and energy — the cleanest read on underlying, demand-driven pricing — and inflation is running at roughly 2.4% year over year.\n\nThat is essentially at target. The honest interpretation of today's report is not \"inflation is back\"; it's \"the economy's underlying inflation is cooling while a geopolitical oil spike temporarily distorts the headline.\"\n\nThat distinction is the whole ballgame, because a cooling core keeps the path to rate cuts wide open — and rate cuts are the lifeblood of the aggressive, rate-sensitive corners of the market that the defensive crowd has been busy abandoning.\n\nThis is the repositioning that matters. While the obvious trade chases oil, the more sophisticated money reads the core, concludes the Fed's easing path comes back into play, and rotates back toward risk. The footprints are already visible: even through the inflation scare this year, a handful of AI names have driven roughly half of the S&P 500's return this year.\n\nTechnology has quietly been among the best-performing sectors, and the largest allocators remain most convicted on AI while the rally broadens beyond the megacaps. A Fed that's free to cut pours fuel on exactly that fire. Here are two Zacks Rank #1 (Strong Buy) names built for it — both AI-levered, both mid-cycle, both precisely the kind of stock that outperforms when discount rates fall and risk appetite returns.\n\nStory Continues\n\nStocks to Watch\n\nThe first is Microchip Technology MCHP, and it's the quintessential expression of the trade. Microchip is a microcontroller and analog chipmaker emerging from a brutal inventory-correction cycle.\n\nThe turn is now showing up in the numbers. Management guided June-quarter revenue to a midpoint of $1.45 billion, up 35% from a year ago and 11% sequentially, citing inventory correcting rapidly toward its long-term model.\n\nThe estimate revisions — the engine of the Zacks Rank — are exploding higher. The current-quarter consensus calls for EPS growth of 144.4% year over year, the Zacks Consensus Estimate has jumped 17.86% over just the last 60 days on five upward revisions and zero cuts, and MCHP carries a Zacks Rank #1 (Strong Buy). A cyclical chipmaker inflecting upward, with rising AI-edge and aerospace exposure, is a high-beta way to play both the semiconductor recovery and a potentially friendlier Fed.\n\nImage Source: Zacks Investment Research\n\nThe second is Flex FLEX, the contract-manufacturing giant that has reinvented itself as a core arms dealer of the AI data center buildout.\n\nIts latest quarter was excellent. Fiscal fourth-quarter adjusted EPS of $0.93 beat the Zacks Consensus Estimate by 8.1% and rose from $0.73 a year earlier, on revenue of $7.5 billion (up 17%), with the Cloud and Power Infrastructure segment the standout.\n\nFlex now carries a Zacks Rank #1 (Strong Buy). It has beaten estimates in each of the last four quarters, with an average surprise of 9.5%. At COMPUTEX 2026, Flex unveiled a 110 kW power shelf for NVIDIA's Vera Rubin NVL72 platform, underscoring its \"grid-to-chip\" position in AI power. That spin-off is a potential value-unlock catalyst on top of the underlying momentum.\n\nImage Source: StockCharts\n\nBottom Line\n\nThe defensive, buy-energy reaction takes today's headline at face value — and the headline is the head-fake.\n\nThe signal is underneath it: a cooling core that hands the Fed room to ease, and a market quietly repositioning toward the aggressive growth and cyclical-recovery names that thrive when it does. Microchip and Flex are two Zacks Rank #1 ways to be early to that move while the crowd is still staring at the wrong number.",
+      "Language": "en"
     },
     {
       "Ticker": "KLAC",
