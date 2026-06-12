@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T13:40:46.175Z",
-  "total_news_count": 270,
+  "last_updated": "2026-06-12T13:44:31.538Z",
+  "total_news_count": 272,
   "news": [
     {
       "Ticker": "META, GOOGL",
@@ -203,6 +203,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-12",
+      "Time": "20:04:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈中信金股東會〉通過配息2.5元創高！總座：證券持續尋求併購機會",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E4%BF%A1%E9%87%91%E8%82%A1%E6%9D%B1%E6%9C%83-%E9%80%9A%E9%81%8E%E9%85%8D%E6%81%AF2-5%E5%85%83%E5%89%B5%E9%AB%98-%E7%B8%BD%E5%BA%A7-%E8%AD%89%E5%88%B8%E6%8C%81%E7%BA%8C%E5%B0%8B%E6%B1%82%E4%BD%B5%E8%B3%BC%E6%A9%9F%E6%9C%83-120425871.html",
+      "Content": "中信金控 (2891-TW) 今(12)日舉行 2026 年度股東常會，由董事長顏文隆親自主持，會中順利通過多項重要議案，並通過配發普通股每股現金股利 2.5 元，刷新歷史新高紀錄。面對台股近年表現火熱，總經理高麗雪指出，中信證券近年經紀市占快速成長至 1.5%，目前雖無適合的併購對象，但未來將持續在市場上尋求機會，同時強化內生成長，積極擴大證券版圖。\n\n顏文隆於會中致詞時指出，今年正逢集團創立 60 週年，是中國信託發展歷程中的重要里程碑。在穩健的經營策略引領下，中信金 2025 年全年稅後純益達 806 億元、年增 12%；普通股淨值報酬率 (ROE) 達 16.88%，每股稅後純益 (EPS) 為 4.08 元，連續 3 年寫下金控獲利歷史新高，穩居台灣金融業領先地位。\n\n中信金今年持續表現優異，高麗雪指出，2026 年 1 至 5 月金控累計稅後純益已達 348 億元，較去年同期大幅增長 41%，EPS 達 1.78 元，同樣創下歷年同期新高。\n\n有股東關切中信金明年股利政策規劃，高麗雪表示，已把 FVOCI(透過其他綜合損益按公允價值衡量) 股票處分損益納入盈餘分配考量之中，也會根據金控與子公司資本適足狀況、未來業務發展、股東對現金股利需求等，一併做為整體考量。過去 3 年現金股利配發率都有 6 成左右。\n\n高麗雪進一步指出，保險業今年接軌 IFRS 17 新制，旗下台灣人壽多數持有的上市櫃股票部位都放在 FVOCI，已實現獲利並不會反映在每月損益表，但每季會公布加計 FVOCI 股票處分損益後的調整後獲利，提供投資人參考。\n\n有小股東關切，在台股行情大好之際，中信金如何透過證券子公司緊抓市場紅利？高麗雪坦言，近年金融市場火熱，尤其台股受到 AI 需求暢旺帶動，但相較於銀行、保險二大子公司的規模，中信證券目前確實還不夠大。\n\n不過，中信證券在競爭激烈的市場中急起直追，經紀市占率已成功從早期的 1% 衝到 1.5%，雖然份額仍不大，但成長率高居同業之冠；中信證券 2025 年稅後純益 18.3 億元，亦創歷史新高。\n\n高麗雪透露，為了擴大證券市占率，中信金一直都有在留意證券市場的併購機會，但目前尚未看到最適合、且符合未來長期發展的特定標的，後續仍會持續密切關注市場變化。\n\n中信證券持續強化自身營運，高麗雪強調，近年透過銀證聯營櫃台增加雙方合作，希望透過分行帶動證券新開戶的業務；另外，證券 APP 屢獲市場肯定，希望更能接觸到年輕客群；同時不斷強化證券平台整體營運效率，為未來成長做好準備。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-06-12",
       "Time": "19:42:50",
@@ -211,6 +221,16 @@
       "URL": "https://finance.yahoo.com/sectors/technology/articles/nvidia-pitches-vera-cpu-chinese-114250097.html",
       "Content": "Investing.com -- NVIDIA (NASDAQ:NVDA) has begun actively marketing its new Vera CPU to Chinese cloud and data-center clients, telling them the chip could be available as soon as August and that orders can already be placed, Reuters reported Friday, citing three sources familiar with the matter.\n\nThe sales push marks a strategic pivot for Nvidia as US export controls have effectively shut its advanced GPU lineup out of the Chinese market. CEO Jensen Huang has been candid about the damage: \"Nvidia's market share in China has effectively fallen to zero,\" he said, a striking admission that underscores how urgently the company needs an alternative entry point. CPUs, which face fewer restrictions than Nvidia's high-end GPU products, offer exactly that — a largely unobstructed channel back into one of the world's largest data-center markets.\n\nThe early commercial interest is already tangible. According to Reuters, one major Chinese cloud company plans to order more than 300 servers, each containing two Vera CPUs, for initial testing before committing to larger-scale deployments. The pricing suggests significant revenue potential: a single Vera processor will cost \"well north\" of $20,000 before bulk discounts, and a fully configured rack of 256 chips would run approximately $10 million. Among the hyperscalers Nvidia is pitching, Crypto Briefing reported, are Alibaba and ByteDance, though neither company responded to requests for comment.\n\nHuang has been laying the strategic groundwork publicly. During Nvidia's May 2026 earnings call he pegged the total CPU market opportunity at $200 billion and explicitly included China in that figure — a signal that the Vera push into the country is not opportunistic improvisation but a planned revenue lever. Deutsche Bank analysts, reviewing Huang's Computex 2026 keynote and analyst Q&A earlier this month, noted that the company is pursuing \"a holistic approach to AI, with the newest strategic target area being CPUs to further the company's leadership in GPUs.\"\n\nThe market backdrop supports the ambition. Bank of America on June 11 raised its 2030 server CPU total addressable market estimate to more than $170 billion, up from $125 billion, implying a 37% compound annual growth rate over 2025-2030. Analyst Vivek Arya attributed the revision to agentic AI, calling it \"a powerful demand accelerant that expands the CPU opportunity and lifts both x86 incumbents and ARM challengers.\" For Nvidia, which is entering a market long dominated by Intel and AMD, that expanding addressable market softens the competitive challenge — there may be enough growth for multiple winners.\n\nStory Continues\n\nThe Vera chip itself is an Arm-based, 88-core processor built specifically for agentic AI workloads, unveiled in March 2026 and now in full production. It is part of Nvidia's broader Vera Rubin platform, which pairs the CPU with Rubin GPUs. The China pitch focuses on the CPU in isolation, precisely because the GPU component would likely draw regulatory scrutiny.\n\nThat regulatory question is one the industry is watching closely. US export controls have already delivered one false start in China for GPUs: Washington cleared H200 chip sales to ten Chinese firms, but those shipments stalled for months, according to reporting by Investing.com — a cautionary precedent that the Vera CPU's current lighter-touch classification could change. Whether the Bureau of Industry and Security will revisit that classification as Vera gains commercial traction in Chinese data centers remains an open and consequential question.\n\nSoftware compatibility is another variable. Reuters sources noted that ecosystem and compatibility hurdles could slow large-scale adoption of the Arm-based chip in data centers historically built around x86 architecture — a friction point that the 300-server pilot orders appear designed to stress-test before buyers make deeper commitments.\n\nTwo calendar dates loom for investors seeking clarity. Nvidia's annual stockholder meeting on June 24 is likely to draw direct questions on China strategy, export-control exposure, and Vera's commercial ramp. That same day, Qualcomm is expected to make AI CPU announcements at its AI Day event, a reminder that the agentic-AI CPU race is still wide open and competitive pressure on Nvidia from the right flank is building even as it tries to reclaim ground in China.\n\nNvidia pitches Vera CPU to Chinese clients with August delivery target\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nNvidia's new Alpamayo project: What it means for Tesla?",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-12",
+      "Time": "19:39:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股今漲千點重返4萬4 日韓股市同步大漲",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%BB%8A%E6%BC%B2%E5%8D%83%E9%BB%9E%E9%87%8D%E8%BF%944%E8%90%AC4-%E6%97%A5%E9%9F%93%E8%82%A1%E5%B8%82%E5%90%8C%E6%AD%A5%E5%A4%A7%E6%BC%B2-113947167.html",
+      "Content": "受到美國總統川普表示，最快本週末將和伊朗簽訂和平協議，週四美股四大指數強彈，費半收盤狂漲7.91%。激勵週五亞股收紅，韓股漲4.63%，日股漲2.81%，台股同樣表現不俗，以44169點作收、大漲1019點。本週發行量加權股價指數跌幅約2%，上市股票總市值達144.11兆元。\n\n統一投顧資深分析師陳立委分析，「後續來講的話可能還是會震盪，因為聯準會的利率政策是在下週四。那下週在這個之前不管是升息還是降息，市場都有人猜測，所以在兩極化的一個預測中，可能就會還是有一些震盪。」\n\n本週加權指數宛如上沖下洗的失速列車，8日因費半指數跌超過10%，加上台指期單日跌超過3000點、收盤重挫1568點；週二則走跌深反彈、收盤大漲1201點；週三又因美伊戰事升溫，狂瀉1478點；週四在台積電收平盤，以及外資賣超金額縮小，小跌76點；週五因美伊戰事可望簽訂和平協議，再漲1019點。儘管近期股市震盪幅度達千點，但成交量卻沒因此萎縮。\n\n富邦金董事長蔡明興指出，「證券現在因為成交量大，每個月經常性的獲利超過20億，以前也不會想像說證券商1個月可以賺20億以上。」\n\n針對今年1到5月的加權股價，證交所董事長林修銘表示，1到5月日均成交值達到9459.12億元，整體市值更進一步躍升全球第5。而國內散戶在歷經近期股市上沖下洗後，卻展現宛如「第四法人」的散戶資金威力，大舉進場布局市值型ETF。從4月開始，陸續有證券公司傳出系統異常問題。\n\n台新新光金總經理林維俊說明，「市場的量各方面都很熱絡，所以大家系統的壓力都很大。」\n\n提醒投資人，如有操作槓桿，仍得管控資金水位，降低風險。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
