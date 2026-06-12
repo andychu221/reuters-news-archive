@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-12T11:33:05.412Z",
-  "total_news_count": 226,
+  "last_updated": "2026-06-12T11:40:38.857Z",
+  "total_news_count": 227,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-06-12",
+      "Time": "19:30:49",
+      "Source": "Yahoo Finance",
+      "Title": "AMD “emerging as a legit second source in the GPU market” says Citi",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amd-emerging-legit-second-source-113049466.html",
+      "Content": "Investing.com -- Citi has upgraded Advanced Micro Devices to Buy from Neutral, raising its price target to $575 from $460, arguing that the company's emergence as a \"legit second source in the GPU market\" is not yet reflected in the stock price.\n\nAnalyst Atif Malik said most investors currently view AMD primarily as a CPU stock, with the share price pricing in roughly a 60% probability of AMD achieving more than $50 billion in GPU sales by 2028.\n\nCiti believes AMD is \"poised to win lion's share\" of GPU business at Meta, with custom MI450 chips likely to offer Meta lower total cost of ownership versus merchant GPU products.\n\nCiti pointed to AMD's previously announced six-gigawatt, four-year deal with Meta involving a 160 million share common stock warrant, with the first one-gigawatt tranche ramping in the second half of 2026 and into 2027.\n\nThe firm estimates each gigawatt translates to roughly $15 billion in revenue for AMD, and now forecasts AI sales of $33 billion in 2027, up 137% year-over-year, and $50.8 billion in 2028, up 54%.\n\nOn the CPU side, Citi raised its 2030 total addressable market estimate to $136.7 billion from $131.5 billion following Computex, representing a 36% CAGR from $29.3 billion in 2025, which is above AMD's own forecast of $120 billion.\n\nThe bank's revised 2026-2028 EPS estimates sit 12% to 13% above Street consensus. Citi's new $575 target is based on a sum-of-the-parts analysis valuing the data center GPU and CPU businesses at $281 and $204 per share, respectively, plus contributions from client, gaming, and embedded segments and roughly $35 per share in net cash.\n\nAMD “emerging as a legit second source in the GPU market” says Citi\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+      "Language": "en"
+    },
     {
       "Ticker": "SNDK",
       "Date": "2026-06-12",
