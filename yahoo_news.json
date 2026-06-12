@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T13:33:44.718Z",
-  "total_news_count": 262,
+  "last_updated": "2026-06-12T13:38:35.387Z",
+  "total_news_count": 263,
   "news": [
     {
       "Ticker": "INTC",
@@ -2905,6 +2905,16 @@
       "Related_Score": 1,
       "Sentiment_Score": 0,
       "Keywords": "market indices, sector rotation, economic data, oil prices, geopolitical risk"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-06-10",
+      "Time": "03:10:00",
+      "Source": "Yahoo Finance",
+      "Title": "Is Marvell the Next Micron?",
+      "URL": "https://finance.yahoo.com/m/70acdc18-656b-3bbe-bb1f-0bbcbbadd2cd/is-marvell-the-next-micron%3F.html",
+      "Content": "The artificial intelligence (AI) revolution has boosted several semiconductor players into the realm of trillion-dollar giants. Most recently, Micron Technology (NASDAQ: MU) and its South Korean peers, SK Hynix and Samsung, have joined that exclusive club (though SK Hynix has already slipped back out of it).\n\nInvestors who were paying attention to Micron's explosive run understand the pattern: A sudden surge of insatiable demand for a critical component within the AI chip stacks collides with limited production capacity, leading to a shortage of supply -- sending prices for those components skyward, and the stock prices of the companies that provide them straight up.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nNow the question is being asked about Marvell Technology (NASDAQ: MRVL) : Can it ride the next leg of the AI infrastructure supercycle upward in a similar fashion to Micron?\n\nMicron's rally is a blueprint for explosive gains\n\nMicron's surge from about $100 per share to over $1,000 at its peak was textbook. As generative model training scaled up, investors discovered AI development was starved for high-bandwidth memory (HBM). With DRAM and NAND already in tight supply, the availability of the specialized HBM stacks needed for GPU clusters became one of the factors limiting the pace of data center build-outs.\n\nSerious shortages of memory and storage chips have persisted for several quarters now -- providing Micron and its peers with enormous pricing power. Each new AI training run and inference deployment consumes exponentially more memory. This has fueled unprecedented revenue and profit acceleration for Micron, sending its stock parabolic.\n\nMarvell supports the backbone of AI data centers\n\nFor now, most growth investors continue to fixate on the makers of GPUs and memory. But the smartest investors realize that the plumbing that connects these layers of the chip stack is becoming just as critical. Marvell sits at the center of this idea. The company's product line spans Ethernet controllers, switches, and high-speed circuits that move data workloads between GPU clusters with extremely low latency and power consumption.\n\nPerhaps what is most lucrative for Marvell is its custom application-specific integrated circuit (ASIC) business. Hyperscalers Microsoft , Amazon , Alphabet , and Meta Platforms, as well as large language model developers like OpenAI, are all exploring using custom silicon designed for narrow AI workloads as part of their broader data center fabric. The adoption of ASICs is expected to rise alongside GPU demand for the foreseeable future as big tech continues to pour record sums into their AI data center expansions.\n\nStory Continues\n\nCan Marvell stock have a Micron-style run?\n\nI think what truly separates Marvell from a typical networking product vendor is that it has been strategically embraced by Nvidia and Advanced Micro Devices . Both companies have invested in Marvell, which suggests that their technical collaborations are deepening. More subtly, I think these moves represent recognition from both Nvidia and AMD that GPUs are only half the solution in modern AI chip stacks.\n\nThe other half of the equation involves the high-speed, low-power interconnects that allow hundreds of thousands of GPUs to behave like one giant computer. By aligning themselves more closely with Marvell, Nvidia and AMD gain a capable partner for co-developing the custom networking and ASIC solutions their ecosystems increasingly demand.\n\nThe parallels between Micron and Marvell are becoming more obvious. Micron is riding the tailwinds of a persistent memory shortage while Marvell positions itself as a major player in networking and custom silicon. If the AI infrastructure build-out continues at its current pace, the same secular tailwinds that fueled Micron could easily spill over to Marvell -- propelling it into the ranks of trillion-dollar AI companies.",
+      "Language": "en"
     },
     {
       "Ticker": "LITE",
