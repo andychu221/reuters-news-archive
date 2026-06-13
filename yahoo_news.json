@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-13T16:10:07.497Z",
-  "total_news_count": 426,
+  "last_updated": "2026-06-13T16:15:21.217Z",
+  "total_news_count": 428,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-13",
+      "Time": "23:42:40",
+      "Source": "Yahoo Finance",
+      "Title": "Wall Street’s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-street-top-billionaires-changing-154240546.html",
+      "Content": "We just covered the\n\nTop 10 Stock Picks of 10 Famous Billionaires . Apple Inc. (NASDAQ:AAPL) ranks #4 (see Top 5 Stock Picks of 5 Famous Billionaires ).\n\nNumber of Hedge Funds: 170\n\nTop Pick Of: Warren Buffett’s Berkshire Hathaway\n\nApple was once seen as a laggard in the AI race. Now it is looking like a winner, and without breaking the bank on capex. Apple’s capex-to-revenue ratio stands at just 2.5%, well below the 10%-plus seen at most mega-cap peers. As competitors burn through cash on AI infrastructure and investors question whether those investments will generate returns, Apple is taking a different path.\n\nThe company plans to monetize AI through its massive existing customer base. Apple now has over 2.5 billion active devices, up from 2.35 billion a year ago, a gain of 150 million devices in one year. That installed base positions Apple to benefit from the shift toward agentic AI applications, where users need a trusted platform to manage identity, authentication, and payments. Few platforms can match Apple on that front.\n\nThe stock is not cheap. It trades at over 35x forward non-GAAP P/E, the highest in the Mag 7 except Tesla. That is roughly 30% above Microsoft and nearly double Meta. Its forward PEG ratio stands at 3.1x, compared to 0.57x for Nvidia and 0.90x for Meta.\n\nRisks remain. Siri still has limitations in intent understanding and AI integration. Devices may also need stronger compute capabilities, including better memory, bandwidth, and neural processing power, before Apple can fully deliver on the AI endpoint opportunity.\n\nRiverPark Large Growth Fund stated the following regarding Apple Inc. (NASDAQ:AAPL) in its fourth quarter 2025 investor letter :\n\n“Apple Inc. (NASDAQ:AAPL): AAPL shares rose in 4Q25 following better-than-feared iPhone 17 sell-through trends and stronger Services momentum. The company reported that early adoption of its on-device AI features exceeded internal expectations, particularly in North America and Europe, where attach rates for Pro models remained elevated. Wearables also returned to .....( Click Here to Read the Letter in Detail ).”\n\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-06-13",
+      "Time": "23:42:37",
+      "Source": "Yahoo Finance",
+      "Title": "Taiwan Semiconductor (TSM) is This Famous Billionaire’s Biggest AI Stock Holding",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html",
+      "Content": "We just covered the\n\nTop 10 Stock Picks of 10 Famous Billionaires . Taiwan Semiconductor (NYSE:TSM) ranks #3 (see Top 5 Stock Picks of 5 Famous Billionaires ).\n\nNumber of Hedge Funds: 234\n\nTop Pick Of: Philippe Laffont — Coatue Management\n\nTaiwan Semiconductor (NYSE:TSM) is the biggest holding of billionaire Philippe Laffont of Coatue Management.\n\nTaiwan Semiconductor (NYSE:TSM) is a direct beneficiary of the AI boom. It controls about 62% of the total foundry market and more than 90% of advanced nodes at 7nm and below. Advanced nodes matter because the smallest, most powerful chips used in AI workloads can only be manufactured at these process sizes. Customers cannot switch because no other foundry can match TSMC’s scale or technical capability at these levels. The client list tells the story. Apple, Nvidia, AMD, Qualcomm, Broadcom, MediaTek, and Marvell all rely on TSMC for production.\n\nThe financials back up the dominance. In Q1, revenue rose 40.6% year over year to $35.9 billion. For the full year 2026, TSMC expects revenue growth of more than 30%. Gross margin reached 66.2% in Q1 and operating margin came in at 58.1%. These are the numbers of a company with real pricing power. To meet rising demand, TSMC is raising capital spending to between $52 billion and $56 billion in 2026, up about 32% year over year. Global AI accelerator spending is projected to grow from $116 billion in 2024 to $604 billion by 2033. TSMC is the dominant manufacturer sitting at the center of that buildout.\n\nEagle Point Capital stated the following regarding Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) in its Q1 2026 investor letter :\n\nTaiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is beloved by investors because it dominates the cutting edge of their industries. But the technology in its field is changing rapidly. It is unclear if it will be able to change with it. They must continuously disrupt and reinvent themselves before their competitors do. The odds are that eventually they’ll stumble. No one bats one thousand forever. History is littered with companies, like Intel, that looked dominant but could not adapt as their environment changed ( Click Here to Read the Letter in Detail ).\n\nClose-up of Silicon Die are being Extracted from Semiconductor Wafer and Attached to Substrate by Pick and Place Machine. Computer Chip Manufacturing at Fab. Semiconductor Packaging Process.\n\nWhile we acknowledge the potential of TSM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nStory Continues\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-13",
@@ -17,18 +37,14 @@
       "Keywords": "Ethereum, Bitcoin, cryptocurrency, staking yield, smart contracts, blockchain evolution"
     },
     {
-      "Ticker": "META",
+      "Ticker": "INTC, META",
       "Date": "2026-06-13",
       "Time": "23:20:00",
       "Source": "Yahoo Finance",
       "Title": "Why Meta Platforms Might Be a Good Buy Right Now",
       "URL": "https://finance.yahoo.com/m/b9b3e305-3666-3c21-9199-5f04dfd2ffa7/why-meta-platforms-might-be-a.html",
-      "Content": "Meta Platforms (NASDAQ: META) is dealing with a lot of pressure right now. The social media giant's stock is down more than 13% as of June 10, largely due to mounting regulatory issues and ...",
-      "Language": "en",
-      "AI_Summary": "• Meta Platforms (META) stock is down over 13% due to regulatory pressures (Digital Markets Act in Europe) and skepticism about AI spending.\n• Despite headwinds, the article suggests Meta could be a good long-term buy due to its strong advertising platform (Instagram, Facebook, WhatsApp) reaching nearly half the global population.\n• First-quarter 2026 advertising revenue exceeded $55 billion, with total revenue at $56.3 billion.\n• Meta's valuation appears attractive with a forward P/E of 18 and PEG ratio of 0.82, indicating potential undervaluation.\n• The company's commitment to AI infrastructure, though costly, could significantly boost its ad business and adoption of Llama models if successful.",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "Meta Platforms, social media, advertising revenue, AI investment, valuation, regulatory pressure"
+      "Content": "Meta Platforms (NASDAQ: META) is dealing with a lot of pressure right now. The social media giant's stock is down more than 13% as of June 10, largely due to mounting regulatory issues and investors' growing skepticism about spending on artificial intelligence (AI). But long-term investors willing to look past recent turbulence may find that Meta is a worthy buy right now, given its low price.\n\nThis isn't meant to discount the very real challenges Meta faces at the moment. Particularly in Europe, regulators are enforcing the Digital Markets Act, which threatens Meta's margins with fines and changes to data policies.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nOn the spending side, Meta founder and CEO Mark Zuckerberg is committed to his AI infrastructure plan. Capital expenditures are substantial and perhaps hard to justify. After the failure of his Metaverse initiatives, investors and analysts are a bit more skeptical for good reason.\n\nOn the bright side, Meta's business is still incredibly strong. Its advertising platform, spanning Instagram, Facebook, and WhatsApp, reaches nearly half the global population. That level of scale is not easily replicated or replaced. In the first quarter of 2026, advertising revenue exceeded $55 billion, with total Meta revenue reaching $56.3 billion.\n\nIf Meta is successful with its AI ambitions, it could further boost the ad business in addition to wider adoption of its Llama models in other industries.\n\nMeta's stock is better priced than some of its peers . Even with a market cap topping $1 trillion, Meta's forward P/E ratio is just 18, and its PEG ratio is 0.82, which suggests the stock may be undervalued right now. Its price-to-sales, price-to-book, and enterprise value-to-revenue ratios are all in the single digits.\n\nNo doubt, the company faces significant short- and intermediate-term headwinds, but if its AI strategy pays off and the advertising business continues to flourish, buying now while the stock is down is a solid move.",
+      "Language": "en"
     },
     {
       "Ticker": "GOOGL",
