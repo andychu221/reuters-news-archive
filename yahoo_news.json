@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-13T01:04:47.852Z",
-  "total_news_count": 367,
+  "last_updated": "2026-06-13T01:15:25.837Z",
+  "total_news_count": 368,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-13",
+      "Time": "09:09:33",
+      "Source": "Yahoo Finance",
+      "Title": "Why Intel, AMD, Arm, and Other Artificial Intelligence (AI) Stocks Popped Today",
+      "URL": "https://finance.yahoo.com/m/f97ee16b-76e1-30e9-899f-78b8fa5bc2b5/why-intel%2C-amd%2C-arm%2C-and.html",
+      "Content": "Semiconductor stocks jumped on Friday, as more Wall Street analysts highlighted the staggering growth potential of the AI infrastructure industry.\n\nHere's how some of the top chip stocks performed:\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nAdvanced Micro Devices (NASDAQ: AMD) , up 5%\n\nIntel (NASDAQ: INTC) , up 6%\n\nArm Holdings (NASDAQ: ARM) , up 11%\n\nThe agentic AI era approaches\n\nAnalysts at Bank of America expect the global server central processing unit (CPU) market to grow almost fivefold to over $170 billion by 2030, driven by a forthcoming boom in agentic AI applications.\n\nWhile AI model training largely relies on graphics processing units (GPUs) designed by the likes of Nvidia , CPUs perform well during certain segments of AI agent workflows, such as control logic, plan execution, coordination, and scheduling.\n\nIntel and AMD dominate the server CPU market, making them well-positioned to profit from this global megatrend. Yet Arm also stands to benefit. The chip architecture developer recently unveiled its new AGI CPU, which is specifically designed to power next-gen AI infrastructure.\n\nMore ways for investors to profit\n\nBank of America's analysts are also optimistic about Intel's foundry business. In addition to designing and building its own chips, Intel has opened its chip manufacturing services to other tech giants. Intel is reportedly in discussions with Apple to potentially make some of the chips in its popular devices.\n\nMeanwhile, analysts at Citigroup believe AMD could wrestle away some market share from Nvidia in the GPU arena, driven in part by its chip supply deals with social media and AI powerhouse Meta Platforms .",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA, MU",
       "Date": "2026-06-13",
