@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-14T15:18:29.345Z",
-  "total_news_count": 187,
+  "last_updated": "2026-06-14T16:18:28.501Z",
+  "total_news_count": 188,
   "news": [
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-14",
+      "Time": "23:54:00",
+      "Source": "經濟日報",
+      "Title": "[會員] RTX Spark 秋季上市 輝達聯發科攜手推 Agentic AI PC 新時代",
+      "URL": "https://money.udn.com/money/story/11162/9566285?from=edn_search_result",
+      "Content": "經濟日報 記者吳凱中／台北報導\n\n輝達（NVIDIA）攜手聯發科（2454）打造的RTX Spark系列PC新品將於今年秋季問世，其產品定位介於個人工作站和AI伺服器之間，主打讓Windows PC能在本機運行AI代理。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-14",
