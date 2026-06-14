@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-14T13:00:46.167Z",
-  "total_news_count": 524,
+  "last_updated": "2026-06-14T13:15:05.657Z",
+  "total_news_count": 525,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-14",
+      "Time": "21:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock?",
+      "URL": "https://finance.yahoo.com/m/11ae6220-f38e-32c2-87cc-69c23ba56c5a/given-the-news-out-of-wwdc%2C.html",
+      "Content": "Apple (NASDAQ: AAPL) has long been the biggest name in the Berkshire Hathaway (NYSE: BRKA) (NYSE: BRKB) portfolio. Berkshire's now-retired leader, Warren Buffett , often spoke glowingly about Apple and its ecosystem, calling it an \"extraordinary consumer franchise\" with massive brand loyalty. In 2020, he went even further, calling Apple \"probably the best business I know in the world.\"\n\nBut Buffett spent the last few years of his time as Berkshire Hathaway's CEO divesting the conglomerate of Apple. In mid-2023, Berkshire had 914,560,382 shares of Apple stock. At the time, it was trading at $193.97 per share, and Berkshire's total Apple stock holding was valued at $177.39 billion.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nToday, Berkshire Hathaway has 227,917,808 shares, with a total market capitalization of $66.35 billion. It's still a sizable stake, accounting for 20% of Berkshire's portfolio, but that's a long way from the roughly 50% weighting it used to have.\n\nBut here's where things get really interesting -- Apple stock price has risen 50% since Berkshire began selling its shares. And had Buffett kept all of that Apple stock, Berkshire's position would be worth roughly $267.34 billion today -- a gain of nearly $90 billion.\n\nNobody likes to leave money on the table, and Buffett said in April that he believes he sold Apple stock \"too soon.\" But was Buffett right to sell Apple stock at all?\n\nI think the answer is clear. And after the recent Worldwide Developers Conference (WWDC), I'm even more firmly convinced.\n\nWWDC was underwhelming\n\nApple's WWDC is an annual event where the smartphone maker regularly unveils new products and long-awaited updates. Investors and customers have long been waiting for Apple to get more involved in artificial intelligence (AI) -- its Siri chatbot was cutting-edge when it launched more than a decade ago, but its limitations have become clear as generative AI chatbots have become more common.\n\nThis year, Apple finally introduced Siri AI, an advanced version of its digital personal assistant. Apple calls it a \"profoundly more intelligent, knowledgeable, and capable Siri\" that can answer questions about content on users' screens, search across apps, and get real-time information from websites.\n\nStory Continues\n\nHowever, the app failed to wow investors and analysts, and it won't even be available to all Apple customers -- users in the European Union and China won't get Siri AI this fall. Shares of Apple ended up falling more than 5% for the week -- surely not the response that Apple executives had hoped for.\n\nBuffett was right\n\nFor the record, Buffett is still a big fan of Apple stock and the company's management. But portfolio management is important, and Berkshire Hathaway was badly overexposed to Apple, leaving it tremendously vulnerable should something have happened to the company.\n\n\"I'm very happy to have it be our largest holding,\" Buffett said in April. \"I was not happy to have it be as large as almost everything else combined.\"\n\nAnd selling Apple has allowed Berkshire Hathaway to make other purchases that will be important for the company. It opened a large position in Alphabet , buying $20 billion in shares and agreeing to purchase another $10 billion through a private placement . The conglomerate has also picked up shares of Macy's and Delta Air Lines , and increased its stake in The New York Times .\n\nBuffett and Berkshire's new CEO, Greg Abel, know the importance of portfolio diversification. Even though Apple stock is up big since mid-2023, selling the stock was the right move. WWDC reinforces that Berkshire was wise to reduce its exposure rather than being so heavily concentrated in a single company.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-14",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-06-14",
       "Time": "20:05:00",
       "Source": "Yahoo Finance",
