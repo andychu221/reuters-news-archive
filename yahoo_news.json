@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-14T15:00:45.200Z",
-  "total_news_count": 535,
+  "last_updated": "2026-06-14T15:15:02.905Z",
+  "total_news_count": 536,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-14",
+      "Time": "22:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "2 Best Stocks to Buy in the Market Right Now",
+      "URL": "https://finance.yahoo.com/m/ea9b59fd-7846-35ec-8975-8257b887de16/2-best-stocks-to-buy-in-the.html",
+      "Content": "Power has become one of the biggest bottlenecks in the global artificial intelligence (AI) build-out. Goldman Sachs expects the demand for power in the U.S. data center market to rise from 31 gigawatts (GW) in 2025 to 66 GW by 2027, driven mainly by the rapid expansion of AI infrastructure.\n\nHence, companies that provide the power and energy infrastructure supporting the AI economy, such as Bloom Energy (NYSE: BE) and Oneok (NYSE: OKE) , can also prove to be smart picks. Here's why.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nBloom Energy\n\nBloom Energy's solid oxide fuel cells provide on-site power, which is becoming increasingly valuable for data-center developers facing electricity shortages and grid connection delays.\n\nBloom Energy is positioning itself as a core AI power supplier, not just a backup power vendor. Oracle 's (NYSE: ORCL) Project Jupiter, an upcoming multi-gigawatt AI factory in New Mexico, will use up to 2.45 GW of power from Bloom Energy servers. That replaces previously planned gas turbines and backup diesel generators.\n\nAdditionally, more than half of Bloom Energy's current data-center backlog comes from contracts with other hyperscalers, AI-focused cloud providers, and colocation operators that lease data-center capacity to customers at the end of the first quarter of fiscal 2026 (ending March 31, 2026). The company also exited fiscal 2025 with roughly $20 billion of total current backlog.\n\nThe financial results are beginning to reflect that demand momentum. The company's revenue surged 130.4% year over year to $751.1 million. Management now expects full-year fiscal 2026 revenue to fall in the range of $3.4 billion to $3.8 billion.\n\nHowever, Bloom Energy is also exposed to significant project-timing risk. Shares recently fell nearly 10%, after reports that construction was paused at a 1.8 GW Crusoe Energy data center project, which also involved Bloom Energy. Hence, the company now needs to demonstrate that its large backlog can be converted into revenue without major delays.\n\nOneok\n\nOneok is a major midstream energy company that transports, processes, stores, and exports natural gas liquids, natural gas, refined products, and crude oil.\n\nOneok's infrastructure is becoming more relevant, as data centers increase demand for natural gas-fired power. The company is in advanced discussions with data center customers in Oklahoma and Texas. The company is also evaluating more than 40 data-center-related counterparties representing more than 5 billion cubic feet per day of potential natural gas demand. Some data-center projects that were initially expected to be small pipeline connections have grown into larger opportunities, as hyperscalers now require bigger gas volumes and larger pipelines.\n\nStory Continues\n\nOneok is not reliant only on AI demand. U.S. natural gas demand is also growing across industrial activity and due to liquefied natural gas (LNG) exports. Since roughly 65% of U.S. natural gas production contains recoverable natural gas liquids, stronger gas demand also supports the company's natural gas liquid (NGL) infrastructure.\n\nOneok's financials have been impressive. The company's adjusted EBITDA increased 13% year over year to nearly $2 billion in the first quarter of fiscal 2026. The company is guiding for fiscal 2026 adjusted EBITDA in the range of $8 billion to $8.5 billion.\n\nOneok still faces risks from commodity cycles, debt, and project execution delays. Yet its growing role in powering the AI economy makes it an attractive pick now.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-14",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MRVL",
+      "Ticker": "INTC, NVDA, MRVL",
       "Date": "2026-06-14",
       "Time": "22:20:00",
       "Source": "Yahoo Finance",
