@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T16:27:09.284Z",
-  "total_news_count": 542,
+  "last_updated": "2026-06-14T16:40:05.760Z",
+  "total_news_count": 543,
   "news": [
     {
       "Ticker": "TSLA",
@@ -13,7 +13,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "GOOGL",
+      "Date": "2026-06-15",
+      "Time": "00:01:00",
+      "Source": "Yahoo Finance",
+      "Title": "Google Is Paying $920 Million Per Month to SpaceX. Here's Why Nvidia Is the Quiet Winner Nobody's Talking About.",
+      "URL": "https://finance.yahoo.com/m/9d72e451-4800-33d9-bf6d-85ceadb1e506/google-is-paying-%24920-million.html",
+      "Content": "In the weeks ahead of its June 12 initial public offering, SpaceX racked up a couple of big deals to rent out parts of its data center capacity; one with artificial intelligence (AI) start-up Anthropic and one with Alphabet -owned Google. Both agreements will help SpaceX offset its AI infrastructure costs with recurring revenue streams.\n\nIn the background, however, these deals highlighted the AI industry dominance of another company: Nvidia (NASDAQ: NVDA) .\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nNvidia's dominance on display\n\nOn May 6, AI start-up Anthropic agreed to rent compute capacity from SpaceX for more than $1.2 billion per month. The deal is set to run through May 2029, though each party is able to cancel the contract at any point with 90 days' notice, according to SpaceX's S-1 filing.\n\nThen, on June 5, a regulatory filing showed SpaceX had inked a deal with Google. After an initial ramp-up period, that agreement will be worth $920 million per month and will run from October 2026 through June 2029. Starting in 2027, either company can end the contract with 90 days' notice.\n\nFor Anthropic's deal, it will lease the full capacity of SpaceX's Colossus data center, which features over 220,000 Nvidia graphics processing units (GPUs). Google's deal will give it access to around 110,000 Nvidia GPUs in SpaceX's data centers. So even as megacap tech companies like Alphabet are designing and deploying their own AI chips in a bid to become more self-reliant, this deal highlights that most AI roads still run through Nvidia .\n\nBeyond ground-based data centers\n\nPart of SpaceX's long-term plan is to launch a host of satellites housing data center servers into orbit, where they can avoid some of the constraints currently faced by terrestrial data centers. Nvidia is also a part of that plan.\n\n\"Specifically, we believe SpaceX's reusable rockets, scaled satellite manufacturing, and operational expertise can enable the cost-effective and rapid deployment of massive AI compute satellite constellations -- with potentially millions of satellites -- for orbital data centers,\" SpaceX said in its S-1 filing.\n\nThe first version of those future satellites, the AI1, is being designed to use Nvidia chips.That's not surprising, as in March, Nvidia unveiled the Space-1 Vera Rubin Module, an architecture designed to run large-scale AI models that is suitable to be deployed in space.\n\nStory Continues\n\nSpaceX is designing its own chips and plans to build a massive foundry in collaboration with Tesla and Intel, so it may eventually have less of a need to work with Nvidia. But in the meantime, whether on the ground or in space, Nvidia will be a beneficiary of SpaceX's ambitions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN, INTC",
       "Date": "2026-06-14",
       "Time": "23:50:00",
       "Source": "Yahoo Finance",
