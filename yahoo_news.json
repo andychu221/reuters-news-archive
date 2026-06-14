@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-14T10:18:42.716Z",
-  "total_news_count": 504,
+  "last_updated": "2026-06-14T10:40:18.227Z",
+  "total_news_count": 505,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-14",
+      "Time": "18:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "Meet the Spectacular Vanguard ETF That Could Buy SpaceX Stock as Soon as June 19",
+      "URL": "https://finance.yahoo.com/m/aacb4952-ef22-313a-bfc0-471bb00bb257/meet-the-spectacular-vanguard.html",
+      "Content": "The CRSP U.S. Total Market Index is made up of all 3,498 companies listed on American stock exchanges. However, the 59 largest companies represent about 70% of the index's overall market capitalization, which isn't a surprise considering Nvidia , Alphabet , and Apple alone are worth a combined $13.6 trillion.\n\nThe CRSP Mega Cap Growth Index is exclusively made up of those 59 companies, but it could find itself with a new holding as soon as next week: Space Exploration Technologies (NASDAQ: SPCX) , better known as SpaceX. The space transportation giant, which was founded by Elon Musk, went public on Friday, with a market capitalization of over $1.7 trillion -- but only around $75 billion worth of stock was initially made available for trading.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe Vanguard Mega Cap Growth ETF (NYSEMKT: MGK) is an exchange-traded fund (ETF) that tracks the performance of the CRSP Mega Cap Growth Index, and it could start buying SpaceX stock as soon as June 19. Here's what investors need to know.\n\nA modest weighting, with room to grow\n\nThe top 10 holdings in the Vanguard Mega Cap Growth ETF make up a whopping 68.9% of its portfolio (by value). They are:\n\nStock\n\nMarket Capitalization\n\nVanguard ETF Weighting\n\n1. Nvidia\n\n$4.9 trillion\n\n13.77%\n\n2. Apple\n\n$4.3 trillion\n\n11.79%\n\n3. Alphabet\n\n11.55%\n\n4. Microsoft\n\n$2.9 trillion\n\n8.69%\n\n5. Broadcom\n\n$1.8 trillion\n\n5.20%\n\n6. Amazon\n\n$2.6 trillion\n\n5.12%\n\n7. Meta Platforms\n\n$1.4 trillion\n\n3.90%\n\n8. Tesla\n\n$1.5 trillion\n\n3.76%\n\n9. Eli Lilly\n\n$1 trillion\n\n2.82%\n\n10. Advanced Micro Devices\n\n$800 billion\n\n2.28%\n\nData source: Vanguard. Portfolio weightings and market cap values were accurate as of April 30, 2026, and are subject to change.\n\nSince SpaceX went public with a market cap of over $1.7 trillion, you would expect it to slot into that top 10 list. However, the CRSP Mega Cap Growth Index (and thus, the Vanguard ETF) uses a float-adjusted market cap methodology when determining a company's appropriate weighting.\n\nSince only around 4% of SpaceX shares hit the public market on June 12, its float-adjusted market cap is just $75 billion. As a result, it would be one of the smallest holdings in the Vanguard ETF -- in fact, analysts at Morningstar think it could have a weighting of just 0.16%.\n\nStory Continues\n\nBut its weighting could grow significantly over time. Early investors and employees are subject to staggered lockup periods that restrict their ability to sell their shares on the open market for the first 180 days after the IPO.\n\nOnce those lockup periods fully expire and insiders can start selling in earnest, SpaceX's publicly traded float could rise meaningfully, significantly increasing its float-adjusted market cap, and thus its weighting in the Vanguard ETF.\n\nWhen will SpaceX join the Vanguard ETF?\n\nCRSP can fast-track a large, freshly listed company into its indexes if:\n\nThe company floats at least 10% of its available shares (which SpaceX has not done), or\n\nThe company has a projected weighting of more than 0.005% (half of one basis point) in a given CRSP index. Since we know SpaceX could make up around 0.16% of the Mega Cap Growth Index, it qualifies for fast-track inclusion.\n\nCRSP has the option of adding a fast-tracked company to its indexes on the fifth trading day after it officially goes public. Since SpaceX went public on June 12, it could be in the Mega Cap Growth Index (and the Vanguard ETF) as soon as June 19.\n\nThis Vanguard ETF has a great track record against the market\n\nThe Vanguard Mega Cap Growth ETF has delivered compound annual returns of 14% since its inception in 2007, far outpacing the S&P 500 (SNPINDEX: ^GSPC) index, which returned an average of 10.3% per year over the same period. The ETF's concentrated exposure to America's largest, and often fastest-growing, companies was the source of that outperformance.\n\nSpaceX went public at an expensive valuation , which might expose it to some downside in the short term. As a result, investors might be glad it's only a small part of the Vanguard ETF (for now), because it might otherwise be a drag on the fund's performance.",
+      "Language": "en"
+    },
     {
       "Ticker": "005930.KS, 000660.KS, INTC",
       "Date": "2026-06-14",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, NVDA",
+      "Ticker": "AMZN, INTC, NVDA",
       "Date": "2026-06-14",
       "Time": "17:45:00",
       "Source": "Yahoo Finance",
