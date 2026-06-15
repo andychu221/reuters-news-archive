@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-15T19:01:40.757Z",
-  "total_news_count": 781,
+  "last_updated": "2026-06-15T19:15:31.027Z",
+  "total_news_count": 783,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-16",
+      "Time": "03:01:51",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Draws Cramer Support",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-draws-cramer-support-190151994.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ) is getting more attention as investors look for signs that its turnaround is starting to work.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nJim Cramer said Intel should be viewed more as an alternative to Taiwan Semiconductor Manufacturing than to Broadcom. His point was simple: Intel's biggest opportunity is in chip manufacturing, not just chip design.\n\nThe stock has already had a strong year as investors bet on CEO Lip-Bu Tan's plan to rebuild the company. Analysts have also pointed to rising demand for CPUs tied to AI workloads as a possible tailwind.\n\nStill, this is not an easy comeback. Intel must prove it can win foundry customers, improve manufacturing execution and compete with stronger rivals.\n\nFor investors, the story is promising but still early. Confidence is improving, but Intel needs results to support the rally.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-16",
+      "Time": "03:01:03",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla FSD Data Faces EU Scrutiny",
+      "URL": "https://finance.yahoo.com/sectors/technology/articles/tesla-fsd-data-faces-eu-190103487.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ) is facing fresh scrutiny after reported that the company presented questioned safety data to European regulators while seeking approval for its Full Self-Driving system.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe issue centers on Tesla's own safety statistics. Researchers told Reuters that some comparisons may be misleading because they compare different crash categories and use broad assumptions about how FSD would perform across all vehicles.\n\nTesla has been trying to expand FSD in Europe, where approval could help support sales after a difficult period in the region. Dutch regulators approved FSD in April and are seeking wider EU approval, while other countries are reviewing the technology.\n\nFor investors, this is a regulatory risk story. FSD is a key part of Tesla's long-term growth case, but wider rollout depends on regulators trusting the system and the data behind it.\n\nThe next catalyst will be whether EU member states support broader approval in the coming months.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-06-16",
@@ -13,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "TSLA, AMD",
       "Date": "2026-06-16",
       "Time": "02:48:08",
       "Source": "Yahoo Finance",
@@ -63,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-06-16",
       "Time": "02:05:00",
       "Source": "Yahoo Finance",
