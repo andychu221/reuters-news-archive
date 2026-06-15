@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-15T15:38:11.679Z",
-  "total_news_count": 742,
+  "last_updated": "2026-06-15T15:40:31.385Z",
+  "total_news_count": 743,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-15",
+      "Time": "23:33:06",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft sued by shareholders over expenses, cloud business, AI",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-sued-shareholders-over-expenses-153306669.html",
+      "Content": "By Jonathan Stempel\n\nJune 15 (Reuters) - Microsoft has been sued by shareholders who accused the company of defrauding them and inflating its stock ‌price by failing to disclose slowing growth in its Azure cloud ‌business and the need to spend billions of dollars on AI infrastructure.\n\nThe proposed class action ​led by a Michigan pension fund was filed in Seattle federal court on Friday, after Microsoft shares fell 10% on January 29 in response to its quarterly earnings report a day earlier.\n\nMore from Yahoo Scout\n\nHow common are shareholder lawsuits following stock declines?\n\nWhat drove Microsoft's significant increase in capital spending?\n\nHow did Microsoft's Azure growth performance trigger investor concerns?\n\nWhat are the main allegations in the shareholder lawsuit?\n\nAbout $357 billion of market value was erased, and Microsoft's stock ‌suffered its biggest one-day ⁠decline in nearly six years.\n\nMicrosoft did not immediately respond on Monday to requests for comment.\n\n• For its fiscal second quarter ⁠ending in December, Microsoft reported 39% revenue growth in its Azure and other cloud businesses, meeting analyst forecasts but down from 40% in the prior quarter, and ​projected 37% ​to 38% growth in the first ​three months of 2026.\n\n• Microsoft also reported $37.5 ‌billion of capital spending in its second quarter, up nearly 66% from a year earlier and above the $34.3 billion that analysts projected.\n\n• The lawsuit said Microsoft attributed the slowing Azure growth and higher spending to capacity constraints as it diverted resources to AI-related research and development and to its Copilot ‌chatbot, whose rivals include Google's Gemini and OpenAI 's ​ChatGPT.\n\n• Microsoft, based in Redmond, Washington, is ​a major investor in OpenAI.\n\n• ​The lawsuit is led by the City of St. Clair ‌Shores Police and Fire Retirement System ​in Michigan.\n\n• Defendants include ​several Microsoft officials, including Chief Executive Satya Nadella and Chief Financial Officer Amy Hood.\n\n• The proposed class period runs from May 1, 2025 ​to January 28, 2026.\n\n• ‌It is common for shareholders to sue companies for alleged securities ​fraud after unexpected declines in stock prices.\n\n(Reporting by Jonathan Stempel in ​New York; Editing by Bill Berkrot)",
+      "Language": "en"
+    },
     {
       "Ticker": "MRVL",
       "Date": "2026-06-15",
@@ -53,13 +63,13 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "META, AMD",
       "Date": "2026-06-15",
       "Time": "22:34:29",
       "Source": "Yahoo Finance",
       "Title": "Wolfe Research sees substantial upside to AMD estimates",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/wolfe-research-sees-substantial-upside-143429769.html",
-      "Content": "Investing.com -- On Monday, analysts at Wolfe Research described management's tone on a pre-quiet period call with AMD as constructive, saying there is \"substantial room for upside to consensus for both CY26 and 27\" driven by incremental CPU strength and the potential for additional gigawatt-scale MI450 customers.\n\nAnalyst Chris Caso wrote in a note that AMD management appeared comfortable that the company has secured sufficient wafer supply \"to support very material growth in the server business this year and next,\" with wafer allocation potentially supporting demand well ahead of consensus.\n\nDespite the stock's 143% gain since the start of April, Wolfe outlined a path to $25-30 in earnings power, comprising $14 in base EPS driven by 1 gigawatt each from OpenAI and Meta, $7 from agentic CPU demand, and $3-4 from each additional gigawatt of MI450 capacity beyond those two customers.\n\nThat would put the stock \"under 20x that bull case EPS power,\" with a near-term catalyst from AMD's July analyst event.\n\nOn supply, AMD is said to have noted that \"supply of everything is tight,\" though the company can shift wafers from PC and gaming to datacenter as needed.\n\nMI450 shipments are expected to begin in the latter part of the third quarter and ramp in the fourth, driven primarily by Meta and OpenAI , with AMD expecting \"a fairly significant jump\" in fourth-quarter revenue followed by another increase in the first quarter.\n\nWolfe added that AMD also raised its server CPU total addressable market above its prior $120 billion forecast for 2030, with agentic inference workloads cited as \"the main driver of the upward TAM revision.\"\n\nWolfe Research sees substantial upside to AMD estimates\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity",
+      "Content": "Investing.com -- On Monday, analysts at Wolfe Research described management's tone on a pre-quiet period call with AMD as constructive, saying there is \"substantial room for upside to consensus for both CY26 and 27\" driven by incremental CPU strength and the potential for additional gigawatt-scale MI450 customers.\n\nAnalyst Chris Caso wrote in a note that AMD management appeared comfortable that the company has secured sufficient wafer supply \"to support very material growth in the server business this year and next,\" with wafer allocation potentially supporting demand well ahead of consensus.\n\nDespite the stock's 143% gain since the start of April, Wolfe outlined a path to $25-30 in earnings power, comprising $14 in base EPS driven by 1 gigawatt each from OpenAI and Meta, $7 from agentic CPU demand, and $3-4 from each additional gigawatt of MI450 capacity beyond those two customers.\n\nThat would put the stock \"under 20x that bull case EPS power,\" with a near-term catalyst from AMD's July analyst event.\n\nOn supply, AMD is said to have noted that \"supply of everything is tight,\" though the company can shift wafers from PC and gaming to datacenter as needed.\n\nMI450 shipments are expected to begin in the latter part of the third quarter and ramp in the fourth, driven primarily by Meta and OpenAI , with AMD expecting \"a fairly significant jump\" in fourth-quarter revenue followed by another increase in the first quarter.\n\nWolfe added that AMD also raised its server CPU total addressable market above its prior $120 billion forecast for 2030, with agentic inference workloads cited as \"the main driver of the upward TAM revision.\"\n\nWolfe Research sees substantial upside to AMD estimates\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity",
       "Language": "en"
     },
     {
