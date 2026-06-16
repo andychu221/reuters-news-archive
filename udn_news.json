@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-16T15:17:54.360Z",
-  "total_news_count": 234,
+  "last_updated": "2026-06-16T16:18:01.345Z",
+  "total_news_count": 235,
   "news": [
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-06-16",
+      "Time": "23:17:00",
+      "Source": "經濟日報",
+      "Title": "超微併購記憶體新創 群聯跟著喊衝 大咬 AI 時代的儲存大商機",
+      "URL": "https://money.udn.com/money/story/11162/9570777?from=edn_search_result",
+      "Content": "經濟日報 記者李孟珊／台北即時報導\n\n超微（AMD）15日宣布，收購記憶體最佳化技術新創業者MEXT，成為首家透過併購方式，直接卡位關鍵記憶體技術的AI（人工智慧）晶片大廠，引發市場對AI記憶體技術新一波關注。台廠中，超微既有重要儲存夥伴群聯 （8299） 也有與MEXT技術概念相近的aiDAPTIV平台，將跟著超微一起喊衝，大咬AI時代的儲存大商機。\n\n群聯執行長潘健成表示，超微購MEXT，驗證AI產業正朝向「Storage（儲存）與Memory（記憶體）融合」發展。他分析，過去儲存型快閃記憶體（NAND Flash）主要扮演資料儲存角色，未來將逐步成為系統記憶體架構的一部分，協助解決DRAM容量與成本問題。\n\n潘健成指出，群聯去年推出的aiDAPTIV Library已針對AI模型訓練、AI推論及文生圖等應用提供專用Offload技術，同時也規劃General DRAM Offload方案，其核心概念與MEXT相當接近，都是透過軟體與演算法，讓NAND Flash成為延伸記憶體資源，而非僅是傳統儲存裝置。\n\n潘健成認為，未來AI產業對NAND Flash的需求將不再只是儲存容量成長，更來自AI Memory Expansion及General Memory Tiering需求。換言之，NAND Flash的價值將從Storage Capacity提升至Memory Resource，直接參與AI運算架構。\n\n據悉，群聯的aiDAPTIV平台是一項創新的AI多層級記憶體架構技術，能將固態硬碟（SSD）轉化為 AI的延伸記憶體，突破硬體限制，讓PC、邊緣裝置或工作站能以極低成本在本地端運行並微調超大型語言模型。\n\n法人分析，過去市場普遍將AI受惠焦點放在GPU、高頻寬記憶體（HBM）及先進封裝，此次超微出手併購MEXT，透露記憶體效率與資料調度能力正成為下一階段競爭關鍵，尤其當AI模型規模持續擴大，單純增加DRAM已無法有效解決成本問題，透過固態硬碟與NAND Flash進行分層記憶體管理，將成為未來主流架構之一，群聯也將搭商這波大商機。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-16",
