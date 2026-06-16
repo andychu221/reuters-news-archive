@@ -1,9 +1,29 @@
 {
-  "last_updated": "2026-06-16T20:32:18.409Z",
-  "total_news_count": 1078,
+  "last_updated": "2026-06-16T20:40:01.532Z",
+  "total_news_count": 1080,
   "news": [
     {
-      "Ticker": "INTC",
+      "Ticker": "MSFT, AMZN",
+      "Date": "2026-06-17",
+      "Time": "04:10:50",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX Overtakes Amazon in Value as Post-IPO Rally Reaches 49%",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/spacex-set-overtake-microsoft-amazon-140522248.html",
+      "Content": "(Bloomberg) -- SpaceX jumped for a third straight day on Tuesday, overtaking Amazon.com Inc. in value to become the fifth-largest stock in the world.\n\nMost Read from Bloomberg\n\nIran’s Deputy Foreign Minister Confirms Deal Reached With US\n\nNetanyahu Pays a Political Price for Trump’s Iran Deal\n\nStudios in Microsoft’s Xbox Division Brace for Closures\n\nSpaceX Cements $60 Billion Cursor Takeover Following IPO\n\nSpaceX Set to Overtake Amazon in Value as It Soars for Third Day\n\nShares closed 4.8% higher, pushing its market capitalization to $2.65 trillion, roughly $8 billion higher than Amazon’s. At the stock’s intraday high, the market value of Elon Musk’s rocket and AI company topped Microsoft Corp. to briefly become the world’s fourth-largest stock.\n\nAt least some of the price action since its debut has been driven by the relatively small number of SpaceX shares available to trade, with only about 4.2% accessible on day one. That can make trading more volatile, with the stock more prone to large swings that can quickly change its market value.\n\n“That is a factor. We’re talking about a company that has very limited shares available for the public versus the headline market capitalization,” said Angelo Kourkafas, senior global investment strategist at Edward Jones.\n\nThe gains in SpaceX shares, up 49% from their $135 IPO price, are a sign of consistent investor demand, calming fears that the record IPO would be too large for the market to digest. The performance paves the way for potential public offerings this year from artificial intelligence competitors Anthropic PBC and OpenAI, both expected to be in the $1 trillion valuation range.\n\nSpaceX announced Tuesday that it has formally agreed to take over Cursor in a deal that values the AI coding startup at $60 billion. Cursor investors will have the right to receive SpaceX stock based on the implied equity value of Cursor, according to a company filing.\n\nRetail traders have also been a key driver of the hot start, buying as much SpaceX stock over its first two days of trading as they purchased across the entire US stock market last week, according to data from Vanda Research.\n\nDespite being one of the top companies in the world, SpaceX brings in much less revenue than its megacap peers. The company brought in $18.7 billion in 2025, while Microsoft’s revenue hit $281.7 billion and Amazon brought in nearly $717 billion.\n\nTuesday also marked the start of trading for SpaceX options contracts on exchanges including Cboe Global Markets Inc. and Nasdaq Inc., an event that could stoke even more volatility in the stock. Other options exchanges, including those owned by Intercontinental Exchange Inc.’s NYSE and Miami International Holdings Inc., are also expected to list early next week.\n\nStory Continues\n\nWhen traders buy calls, market makers on the other side of the trade hedge their risk by purchasing shares equivalent to their derivatives exposure. That exposure rises as shares rally, potentially forcing the market makers to pick up additional shares to keep positions balanced, adding to momentum.\n\nMore than 1.6 million lots of options traded hands as traders jumped in to bet on further gains in SpaceX.\n\n“The float is absolutely part of this. Index inclusion is coming too, which turns passive funds into forced buyers against a tradable supply of less than 5% and that mechanical demand meeting almost no supply amplifies every move,” said Dave Mazza, chief executive officer of Roundhill Financial.\n\nNasdaq Inc. changed its rules to allow faster entry to shares of huge companies like SpaceX, which could be included in the index in the coming weeks. That would lend support to the stock price as funds that track indexes will be forced to buy SpaceX shares. S&P Dow Jones Indices decided not to change its rules to allow new IPOs faster entry, meaning SpaceX won’t be immediately included in the S&P 500.\n\nStill, market watchers anticipate shares will face increased downside pressure once insiders are able to sell more stock as so-called lock-up agreements begin to expire. The initial batch of shares will be eligible to be sold after SpaceX’s first earnings release, with some contingent on the share price at the time. Musk’s entire stake, meanwhile, is locked up for the first year of trading.\n\n“We will not know the real clearing price until the lockups start rolling off after Q2 earnings and actual supply meets this demand,” Mazza said.\n\n--With assistance from Bernard Goyder.\n\n(Updates with closing values.)\n\nMost Read from Bloomberg Businessweek\n\nThe Bankrupting of a Mobile Home Billionaire\n\nThe Infuriating Rise of the $8 Ice Cream Cone\n\nHow a Tiny British Island Fell Into an International Gambling Scandal\n\nBeing a CEO Today Stinks (Except for the Salary)\n\nNot Even Messi Could Deliver Soccer’s American Breakthrough\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-17",
+      "Time": "04:09:00",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft's cloud infrastructure talks with Oracle collapse, Business Insider reports",
+      "URL": "https://finance.yahoo.com/technology/articles/microsofts-cloud-infrastructure-talks-oracle-200900483.html",
+      "Content": "June 16 (Reuters) - Microsoft 's ‌discussions ‌with Oracle regarding ​a cloud infrastructure leasing ‌deal, ⁠potentially valued at ⁠more ​than $3 ​billion, have ​fallen ‌apart due to security and compliance ‌concerns, ​Business ​Insider ​reported ‌on Tuesday.\n\n(Reporting ​by ​Jaspreet Singh ​in ‌Bengaluru; Editing ​by Leroy ​Leo)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, AMZN, INTC",
       "Date": "2026-06-17",
       "Time": "03:46:01",
       "Source": "Yahoo Finance",
