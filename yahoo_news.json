@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-16T13:01:12.901Z",
-  "total_news_count": 962,
+  "last_updated": "2026-06-16T13:15:52.686Z",
+  "total_news_count": 964,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-16",
+      "Time": "20:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Should You Buy the Dip in These 2 Beaten-Down Artificial Intelligence (AI) Stocks?",
+      "URL": "https://finance.yahoo.com/m/18ade1eb-227e-3230-b561-2b4755092417/should-you-buy-the-dip-in.html",
+      "Content": "It's becoming increasingly challenging for artificial intelligence (AI) stocks to impress the market. Case in point: on May 20, Nvidia (NASDAQ: NVDA) reported its financial results for the first quarter of fiscal year 2027, which ended on April 26. Although its revenue and earnings came in ahead of analyst estimates, the stock still moved lower. Two other AI-focused companies that suffered the same fate are CoreWeave (NASDAQ: CRWV) and Broadcom (NASDAQ: AVGO) . Shares of both tech leaders fell significantly post-earnings, but should investors rush to buy the dip? Let's find out.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\n1. CoreWeave\n\nCoreWeave's first-quarter results looked strong, so long as we stop at the top-line. The company's revenue grew by 111.6% year over year to $2.1 billion. However, CoreWeave's net losses widened significantly to $740 million, worse than the $315 million net loss reported in the year-ago period. What's more, the company's guidance did not meet Wall Street's expectations, leading to a sharp post-earnings dip. The bulls will point out that CoreWeave's deepening net losses are necessary to support its incredible growth potential.\n\nCoreWeave helps other corporations train and run AI models through a network of data centers. It currently operates 49 of them. Equipping and maintaining these data centers isn't cheap, but the investments might pay for themselves several times over in the next five years and beyond. CoreWeave ended the first quarter with a backlog of nearly $100 billion, up 49% from the fourth quarter.\n\nFurther, AI infrastructure spending is projected to continue growing. According to Nvidia, it could reach $3 trillion to $4 trillion by the end of the decade. The hyperscalers (large cloud computing providers ) will be responsible for much of that. This is good news for CoreWeave, whose biggest client is Microsoft (NASDAQ: MSFT) . However, the company also faces significant risk. The first is valuation. CoreWeave isn't profitable yet, so it doesn't have a price-to-earnings (P/E) ratio.\n\nBut the company's price-to-sales ratio is 8.2, well above the \"2 and below\" range where stocks are typically considered attractively valued. While CoreWeave is worth a premium given its rapid growth and prospects in the AI industry, some may argue it is currently too expensive. Second, CoreWeave's business is highly concentrated, with Microsoft accounting for 67% of its revenue in the fiscal year 2025. If Microsoft slows spending, it could be catastrophic to CoreWeave's bottom line.\n\nStory Continues\n\nSo, what's the verdict? Despite CoreWeave's upside potential, there is significant risk. The company could still be a market-beater over the next five years if AI spending maintains its northbound path, but investors should proceed with caution, brace for significant volatility, and initiate only a small position in the stock.\n\n2. Broadcom\n\nBroadcom's financial results -- for the second quarter of its fiscal year 2026, ending on May 3 -- also looked strong. The company's revenue of $22.2 billion soared 48% year over year. That included $10.8 billion in revenue from its AI semiconductor business, up an impressive 143% compared to the year-ago period. The company's adjusted earnings per share jumped 54% to $2.44, while free cash flow rose 60% to $10.3 billion.\n\nHowever, Broadcom's guidance for the next quarter, particularly for its AI chip business, fell short of Wall Street's expectations, sending the stock price lower. This seems surprising since Broadcom expects its semiconductor revenue from AI to soar by more than 200% year over year to $16 billion in its upcoming Q3 2026. This highlights, once again, that the market has incredibly high expectations.\n\nCould Broadcom bounce back? There are good reasons to think so. The company is a leading provider of custom AI chips. These aren't as versatile as Nvidia's market-leading GPUs (Graphics Processing Units), but Broadcom's chips are more cost-effective and can offer comparable -- and perhaps even better -- performance for certain tasks. Broadcom's customers include big names such as Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) . Demand for custom AI chips could increase as corporations seek to reduce their reliance on Nvidia's hardware, improve profits and margins, and capitalize on the rapidly growing AI industry.\n\nThat puts Broadcom in a strong position. Broadcom does face similar issues to CoreWeave. Broadcom's forward P/E of 33 looks fairly high. The average for information technology stocks is 22.3. Further, the AI chipmaker's business is significantly concentrated, with five end customers accounting for roughly 40% of its revenue in its two most recent fiscal years. Still, Broadcom has a mature, profitable business, generates plenty of cash flow, and offers a decent dividend program. And with AI spending still growing, Broadcom could cash in on this over the next five years, making its shares attractive following the post-earnings dip.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-06-16",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-06-16",
       "Time": "20:40:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "INTC, MU",
       "Date": "2026-06-16",
       "Time": "20:35:00",
       "Source": "Yahoo Finance",
@@ -50,6 +60,16 @@
       "Title": "Microsoft Faces Azure Lawsuit",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-faces-azure-lawsuit-122711768.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) is facing a shareholder lawsuit tied to concerns over Azure growth and rising AI infrastructure costs.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe proposed class action alleges Microsoft failed to properly disclose slowing growth in its cloud business and the level of spending needed to support AI. The lawsuit was filed after Microsoft shares fell 10% following its fiscal second-quarter earnings report in January.\n\nThat selloff erased about $357 billion in market value in one day. Microsoft reported 39% growth in Azure and other cloud revenue for the quarter, slightly below the prior quarter's 40%. Capital spending rose nearly 66% from a year earlier to $37.5 billion, above analyst expectations.\n\nMicrosoft rejected the claims and said it will defend itself in court. For investors, this is mainly a legal and disclosure risk story. The bigger issue remains whether Microsoft can turn heavy AI spending into stronger cloud growth and long-term returns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-16",
+      "Time": "20:26:10",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Faces Italy Cloud Probe",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-faces-italy-cloud-probe-122610703.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) is facing another regulatory headache in Europe, this time in Italy . Italy's competition regulator opened a probe into Apple's cloud services to review whether the company is following interoperability rules under the European Union's Digital Markets Act.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nPut simply, regulators want to know whether Apple is making it fair and practical for rival services to work with its ecosystem.\n\nThe investigation is still at an early stage, and no penalty has been announced. But for Apple, it adds to a growing list of European regulatory challenges around how its platforms operate.\n\nFor investors, this is not likely to move earnings right away. The bigger issue is whether repeated EU scrutiny forces Apple to change parts of its services business or raises compliance costs over time.\n\nThe next thing to watch is whether Italian regulators ask Apple to make changes to its cloud practices.",
       "Language": "en"
     },
     {
