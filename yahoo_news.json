@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T16:11:02.564Z",
-  "total_news_count": 1008,
+  "last_updated": "2026-06-16T16:15:22.225Z",
+  "total_news_count": 1010,
   "news": [
     {
       "Ticker": "NVDA",
@@ -71,6 +71,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 0,
       "Keywords": "streaming services, media companies, stock valuation, intellectual property, business diversification"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-16",
+      "Time": "23:19:15",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's iCloud Advantage Gets Scrutiny",
+      "URL": "https://finance.yahoo.com/technology/articles/apples-icloud-advantage-gets-scrutiny-151915976.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) faces a new antitrust probe in Italy over whether its iOS and iPadOS systems give iCloud an unfair edge over rival cloud storage services.\n\nItaly's competition regulator said it is investigating whether Apple limits the ability of third-party cloud providers to work with key hardware and software features under the European Union's Digital Markets Act. The issue centers on full device backups, where the regulator said rival cloud services appear unable to use the same iOS and iPadOS components available to Apple's own iCloud.\n\nWarning! GuruFocus has detected 5 Warning Signs with BABA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe case is notable because it is Italy's first investigation under the DMA, a law designed to stop major tech platforms from using control of operating systems and app ecosystems to disadvantage competitors. The regulator said its findings will be sent to the European Commission, which has broader enforcement power under the law.",
+      "Language": "en"
     },
     {
       "Ticker": "GOOGL, AMZN",
@@ -267,6 +277,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "semiconductor equipment, AI servers, etching and deposition tools, revenue growth, DRAM investment"
+    },
+    {
+      "Ticker": "GFS",
+      "Date": "2026-06-16",
+      "Time": "22:27:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can Silicon Photonics Fuel GlobalFoundries' Next Growth Wave in 2026?",
+      "URL": "https://finance.yahoo.com/technology/articles/silicon-photonics-fuel-globalfoundries-next-142700474.html",
+      "Content": "GLOBALFOUNDRIES Inc. GFS is increasingly positioning silicon photonics as a major growth catalyst, particularly as artificial intelligence (“AI”) drives demand for faster and more efficient data center connectivity. During the first-quarter 2026 earnings call, management highlighted strong momentum in its optical networking business, with silicon photonics emerging as a key contributor to growth.\n\nThe company expects silicon photonics revenues to roughly double in 2026 compared with 2025, supported by rising adoption of optical interconnects in AI infrastructure. Demand is being fueled by the industry's shift toward higher-speed networking solutions, where optical technologies are replacing traditional electrical connections to handle massive data flows more efficiently. GFS also reported additional tape-outs and customer wins tied to next-generation co-packaged and near-packaged optics, strengthening its long-term outlook.\n\nBeyond silicon photonics, GlobalFoundries is benefiting from strong demand for its silicon germanium solutions used in optical networking equipment. Management noted that the capacity for these products remains heavily booked, prompting expansion efforts to meet customer requirements.\n\nThe Communications Infrastructure & Data Center segment, which includes photonics-related products, grew 32% year over year in the first quarter and is now expected to deliver high-30% growth for full-year 2026. The company's acquisition of Advanced Micro Foundry has further strengthened its photonics capabilities and broadened customer reach.\n\nWhile smartphone demand remains weak, GlobalFoundries' growing exposure to AI-driven optical networking could help diversify its revenue base and support higher-margin growth. If adoption trends continue, silicon photonics may become one of the company's most important growth engines over the next several years.\n\nHow Does GlobalFoundries Stack Up Against Key Silicon Photonics Rivals?\n\nGlobalFoundries is not alone in targeting the fast-growing silicon photonics market. Among the closest competitors is Taiwan Semiconductor Manufacturing Company Limited TSM, which is advancing co-packaged optics solutions through its COUPE platform. Leveraging its leadership in advanced process technologies and packaging, TSM is well-positioned to serve hyperscalers and AI chip designers seeking higher-bandwidth interconnect solutions. However, GlobalFoundries differentiates itself with a specialized optical networking portfolio that combines silicon photonics, silicon germanium (SiGe), packaging, testing and manufacturing services.\n\nStory Continues\n\nAnother key competitor is Intel INTC, which has spent more than a decade developing silicon photonics technologies for data center networking. Intel's expertise in optical transceivers and integrated photonics positions it to benefit from the rapid expansion of AI infrastructure.\n\nNevertheless, GlobalFoundries is gaining traction through new customer wins, photonics-focused acquisitions and its recently launched SCALE platform for near-packaged and co-packaged optics. Management expects silicon photonics revenues to roughly double in 2026 and exceed a $1 billion annualized run rate by the end of 2028.\n\nGFS’ Stock Price Performance & Valuation Trend\n\nShares of GlobalFoundries have surged 126.5% in the past six months, outperforming the Zacks Electronics - Semiconductors’ 51.8% growth.\n\nPrice Performance\n\nImage Source: Zacks Investment Research\n\nGFS stock is currently trading at a premium to its industry peers, with a forward 12-month price-to-earnings (P/E) ratio of 46.86, as shown in the chart below.\n\nP/E (F12M)\n\nEarnings Estimate Revision of GFS\n\nGFS’ earnings estimates for 2026 and 2027 have trended upward in the past 60 days to $1.89 and $2.62 per share, respectively. The revised estimates for 2026 and 2027 imply year-over-year growth of 9.9% and 38.6%, respectively.\n\nGFS currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "AMZN",
