@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T09:40:18.402Z",
-  "total_news_count": 188,
+  "last_updated": "2026-06-17T09:44:31.830Z",
+  "total_news_count": 195,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-17",
+      "Time": "17:03:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "CoWoS之後看誰？台積電「新武器」量產時程曝  玻璃基板2030年後接棒",
+      "URL": "https://tw.stock.yahoo.com/news/cowos%E4%B9%8B%E5%BE%8C%E7%9C%8B%E8%AA%B0-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%96%B0%E6%AD%A6%E5%99%A8-%E9%87%8F%E7%94%A2%E6%99%82%E7%A8%8B%E6%9B%9D-%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF2030%E5%B9%B4%E5%BE%8C%E6%8E%A5%E6%A3%92-090345197.html",
+      "Content": "AI半導體需求爆發驅動先進封裝技術快速演進，面板級封裝（FOPLP）成為各方角力的新戰場，根據集邦科技（TrendForce）分析，台積電短期聚焦CoPoS（Chip-on-Panel-on-Substrate），並鎖定310×310毫米（mm）基板尺寸，2026年為相關設備與材料商的驗證關鍵期，預計2027年進入試產，並規劃於2028下半年正式量產。下一階段布局重點則將轉向玻璃基板（Glass Core Substrate），合理量產時程推估落在2030年後。\n\n集邦指出，玻璃基板（Glass Core Substrate）技術突破目前仍面臨多重挑戰。核心製程玻璃通孔（TGV,Through Glass Via）需克服雷射能量不穩定導致孔徑一致性不足、鑽孔過程產生的細微玻璃裂紋、蝕刻液難以深入10微米（μm）孔徑影響導通效果，以及大規模量產條件下的動態對位精度等問題。\n\n在材料端，玻璃雖具備先天平整性佳的優勢，但基板尺寸放大至500×500mm以上後，維持整面奈米級平整度的難度將大幅提升。此外，多層異質材料堆疊下的熱膨脹係數（CTE）不匹配問題，也可能在製程中引發翹曲，進而影響曝光對位精度與整體良率。\n\n在此背景下，集邦指出，台灣面板廠具備先發優勢，目前已有面板廠在電源管理IC （PMIC）與混合訊號（RF）等成熟製程的FOPLP上實現量產，封裝尺寸達620×750mm，這既是發揮大尺寸面板折舊完畢之後的產線剩餘價值，也創造額外現金流。\n\n更重要的是，集邦認為，面板廠多年積累的大尺寸方形玻璃搬送、對位與均勻沉積的知識技術，是向TGV等核心基板加工技術邁進的重要基礎，與半導體廠及封測廠商之間存在清楚差異化與互補空間。\n\n集邦特別點出，台灣本土面板相關材料與設備廠商也在關鍵環節有所布局。在材料端，特化廠商推出低溫固化介電層材料，將製程溫度壓至180°C以下，從源頭減少熱應力累積，降低翹曲風險。\n\n在設備端，有廠商採用先以雷射改質，後再進行蝕刻的兩階段鑽孔製程，相較傳統直接雷射燒蝕，更能精準控制10微米以下孔形，已通過國際IDM大廠驗證，出貨量逐步提升。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC, TSM",
       "Date": "2026-06-17",
       "Time": "16:55:00",
@@ -23,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-17",
+      "Time": "16:54:14",
+      "Source": "Yahoo奇摩股市",
+      "Title": "零股族趁台股打折撿便宜 3檔主動ETF買氣旺擠進成交榜",
+      "URL": "https://tw.news.yahoo.com/%E9%9B%B6%E8%82%A1%E6%97%8F%E8%B6%81%E5%8F%B0%E8%82%A1%E6%89%93%E6%8A%98%E6%92%BF%E4%BE%BF%E5%AE%9C-3%E6%AA%94%E4%B8%BB%E5%8B%95etf%E8%B2%B7%E6%B0%A3%E6%97%BA%E6%93%A0%E9%80%B2%E6%88%90%E4%BA%A4%E6%A6%9C-085414595.html",
+      "Content": "過去零股投資人趁跌，大多從市值型ETF和大型權值股中撿便宜，但隨著主動式ETF竄紅，零股族也開始著墨主動式ETF。台股17日大半場都在平盤下震盪，雖然拉尾收紅，但震盪的盤勢還是吸引零股族搶進，觀察零股總量排行榜前50大，有3檔主動式ETF入榜，分別為主動統一台股增長（00981A）、主動統一全球創新（00988A）、主動統一升級50（00403A）。\n\n受美科技股重挫影響，台股17日疲弱開低，一度下跌650點，最低來到45,159 點，但仍力守45,000點；盤中跌勢收斂，多頭格局未遭破壞，零股族奮勇承接，市值型ETF元大台灣50（0050）零股成交量居冠。\n\n主動式ETF部分，股王00981A擠進前十名。今年短短不到半年，已經瘋漲125%的00988A，憑藉績效王之姿，也吸引零股族低接。此外，外資連續3天買超00403A第一名，累計近3日共掃貨58.4萬張，斥資高達61.69億元，在外資按讚加持下，也獲得青睞。\n\n統一投信投研團隊表示，台股指數短線震盪難免，但基本面良好的情況下，逢拉回都是進場布局的機會，可把握7月中旬台積電（2330）法說會前的作多行情。投資布局上，宜聚焦先進製程、封裝及設備族群、因應AI算力需求而結構性成長的記憶體（HBM），並關注規格升級及進入漲價循環的PCB、ABF載板、散熱、電源與被動元件領域。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-06-17",
       "Time": "16:50:00",
@@ -31,6 +51,26 @@
       "URL": "https://finance.yahoo.com/m/bd852a5d-870b-3ecc-9d2c-7548e2fdb4c7/thinking-about-buying-spacex.html",
       "Content": "When Space Exploration Technologies (NASDAQ: SPCX) , or SpaceX, went public on June 12, retail investors reportedly placed more than $100 billion in orders. That means on the first day of trading, many people who wanted to own SpaceX now have the stock in their portfolios.\n\nThere are still people who sat out the SpaceX initial public offering (IPO), waiting to see how things shake out. Now that it's officially trading, for anyone still considering buying the shares, there are three questions to ask that can help you decide.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. Do you invest in this type of company?\n\nBefore its S-1 filing, most people viewed SpaceX as a space company. But when the S-1 filing for its IPO came out, the total addressable market (TAM) the company was targeting made it clear that SpaceX viewed itself as an artificial intelligence (AI) company with space operations.\n\nSpaceX believes its TAM is $28.5 trillion, but $26.5 trillion of that comes from AI. The company said in its filing:\n\nWith the potential to improve both space exploration and life on Earth, AI accelerates SpaceX's mission to make life multiplanetary, to understand the true nature of the universe, and to extend the light of consciousness to the stars. xAI, which was founded in 2023 and acquired by SpaceX in early 2026, is now an integral pillar of our vertically integrated company.\n\nFor investors who invest in AI companies and believe SpaceX can capture a significant portion of the TAM it shares, this stock may be a portfolio fit. For those who shy away from AI companies, already believe their portfolio has enough AI picks, or are skeptical of that $26.5 trillion figure, they may want to keep staying on the sidelines.\n\n2. Are you comfortable with the risk?\n\nAll the promise SpaceX offers needs to be paired with the significant risk the investment presents. For considering the big picture, research from The Motley Fool sums it up nicely:\n\nUltimately, the prospectus frames SpaceX as a high-stakes combination of an unparalleled aerospace growth story and an early-stage, capital-intensive AI titan. The opportunity lies in the company successfully replicating its space profitability model across an AI infrastructure segment built on a capital base roughly 10 times larger. The challenge, like the challenge of reusable rockets and moon colonies, is formidable. But the opportunity is massive if SpaceX can execute from here.\n\nStory Continues\n\nSuccess for SpaceX won't come in a straight line, and there will be setbacks and the company will stumble. As a perfect example, just look at Elon Musk's other company, Tesla . While Tesla has rewarded long-term investors with huge gains, those same shareholders also had to hold on during periods of great volatility to earn those rewards.\n\n3. Do you have to sell an existing position to pay for SpaceX?\n\nSome investors may have to sell another stock to buy SpaceX. There's nothing wrong with that, but it's important to step back and analyze the situation critically, as acting rashly can lead to an investing mistake.\n\nIf you feel, in the long run, that SpaceX presents a better opportunity than the position you're considering selling, that's one thing. But if you catch yourself wanting to sell mostly out of the fear of missing out, that's a warning sign not to act immediately.\n\nThe same rush of excitement that led to buying shares of the company can quickly turn to a feeling of dread if prices start to drop, making investors feel like they made a mistake and need to sell. In addition, there are also tax considerations from selling a position to buy SpaceX stock.\n\nAgain, there's nothing wrong with selling one stock to buy another, in and of itself, but it does require careful consideration.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-17",
+      "Time": "16:41:14",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股費半下挫、台指期結算 台股震盪仍穩守4萬5000點",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E8%B2%BB%E5%8D%8A%E4%B8%8B%E6%8C%AB-%E5%8F%B0%E6%8C%87%E6%9C%9F%E7%B5%90%E7%AE%97-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E4%BB%8D%E7%A9%A9%E5%AE%884%E8%90%AC5000%E9%BB%9E-084114117.html",
+      "Content": "週二美股漲跌互見，因科技股收黑、費半指數重跌5.71%，週三台股面臨台指期結算，盤面出現震盪，市場觀望氣氛濃。高價權值股台積電，週三早盤最低2350元。\n\n統一證券投顧公司總經理廖婉婷指出，「美國聯準會發言後對於行情的影響性，其實必須要在今天做出判斷，今天盤面上，尤其是像法人的交易，他會比較呈現一個觀望的狀態。」\n\n雖然近2週台股走勢上沖下洗，不過ETF卻湧現逢低買進的買盤。\n\n第一金投顧董事長黃詣庭表示，「稍微震盪反而會讓特別是偏向散戶的投資人，去做積極進場布局，短線的市場氛圍，老實講還是呈現偏多的態勢。」\n\n相較股市交易熱絡，房市買賣卻較為冷清，有業者表示央行的管制措施已經達到某種程度效果，房價和成交量都下降。即使央行總裁楊金龍日前表示，信用管制就到這裡，而換屋族第2戶貸款也可望鬆綁，各界關注房市是否再度轉熱？\n\n興富發副總經理暨發言人廖昭雄認為，「半年房市可能沒有辦法有很明顯的改善，尤其現在股市這麼火熱。」\n\n鄉林建設董事長賴正鎰則表示，「目前台股已經來到4萬5000點了，居高思危很多人已經出手賣掉，轉到購買房屋來了。」\n\n建商認為，如果央行放寬房市管制，房市將回到不錯的方向，但恢復期需要多長時間，目前還難以評估。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-17",
+      "Time": "16:27:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "研調：台面板廠藉FOPLP卡位Glass Core Substrate先機",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A0%94%E8%AA%BF-%E5%8F%B0%E9%9D%A2%E6%9D%BF%E5%BB%A0%E8%97%89foplp%E5%8D%A1%E4%BD%8Dglass-core-substrate%E5%85%88%E6%A9%9F-082700112.html",
+      "Content": "MoneyDJ新聞 2026-06-17 16:27:48 新聞中心 發佈\n\nAI半導體需求爆發驅動先進封裝技術快速演進，面板級封裝(FOPLP)成為各方角力的新戰場。集邦科技(TrendForce)分析，台積電(2330)短期聚焦CoPoS(Chip-on-Panel-on-Substrate)並鎖定310&times;310mm基板尺寸，今(2026)年為相關設備與材料商的驗證關鍵期，預計2027年進入試產，並規劃於2028下半年正式量產。下一階段布局重點則將轉向Glass Core Substrate，合理量產時程推估落在2030年後。\n\nGlass Core Substrate技術突破目前仍面臨多重挑戰。核心製程TGV(Through Glass Via)需克服雷射能量不穩定導致孔徑一致性不足、鑽孔過程產生的細微玻璃裂紋、蝕刻液難以深入10&mu;m孔徑影響導通效果，以及大規模量產條件下的動態對位精度等問題。在材料端，玻璃雖具備先天平整性佳的優勢，但基板尺寸放大至500&times;500mm以上後，維持整面奈米級平整度的難度將大幅提升。此外，多層異質材料堆疊下的熱膨脹係數(CTE)不匹配問題，也可能在製程中引發翹曲，進而影響曝光對位精度與整體良率。\n\n在此背景下，TrendForce指出，台灣面板廠具備先發優勢。目前已有面板廠在PMIC與RF等成熟製程的FOPLP上實現量產，封裝尺寸達620&times;750mm，這既是發揮折舊完畢大尺寸面板產線剩餘價值的最佳體現，亦創造額外現金流。更重要的是，面板廠多年積累的大尺寸方形玻璃搬送、對位與均勻沉積的知識技術，是向TGV等核心基板加工技術邁進的重要基礎，與半導體廠及OSAT廠商之間存在清晰的差異化與互補空間。\n\n國內面板相關材料與設備廠商亦在關鍵環節有所布局。在材料端，特化廠商推出低溫固化介電層材料，將製程溫度壓至180度C以下，從源頭減少熱應力累積，降低翹曲風險；在設備端，有廠商採用先以雷射改質，後再進行蝕刻的兩階段鑽孔製程，相較傳統直接雷射燒蝕，更能精準控制10&mu;m以下孔形，並已通過國際IDM大廠驗證，出貨量逐步提升。\n\nTrendForce表示，台灣面板廠在大尺寸玻璃加工的工藝積累，若能與半導體大廠在先進封裝與製程整合上的優勢相互結合，輔以本土材料與設備供應鏈的生態系支撐，並順應台積電持續推進的在地化採購政策，將有望壓縮Glass Core Substrate技術成熟的學習曲線，並為台灣面板產業找到轉型升級的方向。\n\n合晶方型矽晶圓推進驗證 瞄準AI先進封裝商機\n\n宜特5月營收成長，AI與先進封裝驗證需求升溫\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
@@ -53,6 +93,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-06-17",
+      "Time": "16:17:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股》日經漲0.72%、連5漲，續創收盤新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1-%E6%97%A5%E7%B6%93%E6%BC%B20-72-%E9%80%A35%E6%BC%B2-%E7%BA%8C%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-081700139.html",
+      "Content": "MoneyDJ新聞 2026-06-17 16:17:50 數位內容中心 發佈\n\n日股今(17)日走勢強勁。日經225指數收於69902.25點，上漲497.75點或0.72%，續創收盤新高，連續5個交易日上漲，盤中最高觸及70125.75點；東證股價指數(TOPIX)收於4013.23點，上漲22.09點或0.55%。早盤受到美國科技股走弱影響開低，隨後因美伊衝突趨緩及油價下跌帶動，市場對通膨與景氣放緩的疑慮降溫，午後買盤明顯回流，指數轉為穩步上行。\n\n外部環境方面，地緣政治風險降溫為盤勢走揚主因。油價走低使市場對物價壓力的擔憂緩和，也帶動風險資產偏好回升。後半場交易中，由於投資人仍關注美國聯邦公開市場委員會(FOMC)會議結果，買盤一度轉趨謹慎，但整體情緒並未逆轉，日股維持偏多格局。\n\n權值股與半導體方面，半導體與電子零組件成為盤面主軸。東京威力科創(8035.JP)、Disco(6146.JP)、LASERTEC(6920.JP)、IBIDEN(4062.JP)、Murata Manufacturing(6981.JP)、TDK(6762.JP)等走強，帶動指數維持高檔；Fast Retailing(9983.JP)與Mitsubishi UFJ Financial Group(8306.JP)也同步上揚，對大盤形成支撐。相較之下，軟銀集團(9984.JP)、Recruit Holdings(6098.JP)表現偏弱，壓抑部分漲勢。\n\n《日股》日經225強彈、漲逾1800點\n\n《日股》半導體股遭拋售，日經收跌1.31%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-06-17",
       "Time": "16:15:00",
@@ -71,6 +121,16 @@
       "URL": "https://finance.yahoo.com/m/ea7e5bf2-4cc7-36bf-a433-4537fa411321/trump-made-38-iran-peace-deal.html",
       "Content": "A peace deal between the U.S. and Iran is at hand. The critical Strait of Hormuz should soon reopen fully. Oil prices will finally pull back to lower levels, easing the inflationary pressure that's stretching many Americans' budgets.\n\nWe've heard something like this before. Actually, according to an analysis by CNN's Aaron Blake, we've heard it 38 times before. Blake recently documented more than three dozen times when President Trump claimed that a deal with Iran to end the war was close.\n\nWill AI create the world's first trillionaire? Our team just released a report on the one little-known company, called an \"Indispensable Monopoly\" providing the critical technology Nvidia and Intel both need. Continue »\n\nThe count is now at 39. This time, though, the U.S. and Iran have signed a preliminary peace deal for the terms of which remain unknown. Should investors reposition their portfolios in response to the good news? It's smart to understand what's going on first.\n\nFamiliar moves\n\nFollowing several of Trump's numerous past proclamations that peace was at hand, the stock market made similar moves. Energy stocks fell as oil futures sank. Many other stocks, though, particularly consumer discretionary and tech stocks, gained.\n\nHowever, in those instances, investors soon realized that no deal with Iran was imminent. Oil prices rebounded, with energy stocks moving in tandem.\n\nSome traders even developed a strategy for profiting from what became a familiar pattern. You could call it the \"GHOSTS trade\" -- Go High on Statements Then Sell.\n\nSo far, we're seeing a similar initial market reaction with the latest peace deal announcement. Oil prices have fallen. So have energy stocks. Meanwhile, consumer discretionary stocks have risen modestly, and tech stocks have resurged.\n\nIs the 39th time the charm?\n\nIs the GHOSTS trade finally dead? Will the 39th time Trump has claimed that a real peace deal is near be the charm? The best answer is... maybe.\n\nImportantly, the \"deal\" discussed is actually a memorandum of understanding (MOU). Under this MOU, the U.S. will halt its naval blockade of Iranian ports while Iran will reopen the Strait of Hormuz for 60 days. During this period, U.S. and Iranian officials will attempt to negotiate a more permanent peace agreement.\n\nThe MOU could very well lead to a lasting peace deal. Both the U.S. and Iran (as well as other countries around the world) want the Strait of Hormuz reopened. Iran wants access to billions of dollars of funds that have been frozen for years. Trump and the GOP want oil prices to fall and, hopefully, moderate overall inflation before the mid-term elections in November.\n\nStory Continues\n\nHowever, there are quite a few huge obstacles that could get in the way. Perhaps most importantly, Israel isn't involved in the peace discussions. Continued fighting between Israel and Iranian-supported Hezbollah in Lebanon could cause Iran to again close the Strait of Hormuz.\n\nTrump loudly criticized former President Barack Obama for releasing $1.7 billion in frozen funds as part of a nuclear deal, and he nixed the deal in his first term. He could be reluctant to move forward with any peace deal that involves giving Iran a lot of money, but Iran may make this a key prerequisite for any agreement.\n\nIran will also likely insist on being able to move forward with its nuclear energy program. But the Trump administration said that the reason behind the initial attack on Iran by the U.S. and Israel was to deter its nuclear capabilities. The two sides could find it difficult to reach a compromise on this issue.\n\nInvestors' smartest strategy\n\nWhat should investors do? For one thing, keep in mind that the Iran war is one of multiple factors influencing the economy and the stock market. Artificial intelligence (AI) infrastructure spending, interest rates, stock valuations, and tariffs are just a few that could move markets even if a firm peace deal with Iran is finalized.\n\nRegarding Iran, don't overreact to events that are still unfolding. While Middle East risks may be lower now, they haven't disappeared. There's a big difference between a 60-day ceasefire based on a somewhat murky MOU and a firm peace agreement that all impacted parties can live with.\n\nInvestors shouldn't drastically reposition their portfolios solely because of rhetoric. Look for signs of real and lasting diplomatic progress. It's still quite possible that the 39th promise that peace is at hand won't be the last one.\n\nDon’t miss this second chance at a potentially lucrative opportunity\n\nEver feel like you missed the boat in buying the most successful stocks? Then you’ll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a “Double Down” stock recommendation for companies that they think are about to pop. If you’re worried you’ve already missed your chance to invest, now is the best time to buy before it’s too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you’d have $551,709 !*\n\nApple: if you invested $1,000 when we doubled down in 2008, you’d have $56,496 !*\n\nNetflix: if you invested $1,000 when we doubled down in 2004, you’d have $440,440 !*\n\nRight now, we’re issuing “Double Down” alerts for three incredible companies , available when you join Stock Advisor , and there may not be another chance like this anytime soon.\n\nSee the 3 stocks »\n\n*Stock Advisor returns as of June 9, 2026\n\nThe Motley Fool has a disclosure policy .\n\nTrump Made 38 Iran Peace Deal Promises. The 39th May Be Real -- but Before You Reposition Your Portfolio, Read This was originally published by The Motley Fool\n\nImage source: Official White House Photo by Joyce N. Boghosian.\n\nImage source: Official White House Photo by Joyce N. Boghosian. Familiar moves\n\n<p class=\"yf-1fy9kyt\"",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-17",
+      "Time": "16:10:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "蘋果晶片升級！A22 Pro將首發台積電1.4奈米製程 功耗降27% 計畫2028到來  英特爾成備胎",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%99%B6%E7%89%87%E5%8D%87%E7%B4%9A-a22-pro%E5%B0%87%E9%A6%96%E7%99%BC%E5%8F%B0%E7%A9%8D%E9%9B%BB1-4%E5%A5%88%E7%B1%B3%E8%A3%BD%E7%A8%8B-%E5%8A%9F%E8%80%97%E9%99%8D27-081005977.html",
+      "Content": "隨著今年 iPhone 搭載 A20 與 A20 Pro 邁入 2 奈米時代，蘋果已將眼光投向更先進的 1.4 奈米製程，根據最新供應鏈消息，蘋果擬在 2028 年發布的 A22 Pro 處理器，將成為首款採用台積電 1.4 奈米製程的蘋果晶片，進一步拉大與競爭對手的效能差距。\n\n《Wccftech》報導，明年登場的 A21 Pro 仍將沿用改良版 2 奈米製程 (N2P)，效能與能效較 A20 系列所使用的 N2 有所提升。台積電正全力推進 1.4 奈米產線建設，去年已啟動名為 Fab 25 的新廠工程，投資額高達 490 億美元，預計最快 2027 年 3 月試產，2028 年下半年進入量產階段。\n\n數據顯示，相較於 N2 製程，A14 在相同功耗下表現可提升 16% 效能，或在相同頻率下降低 27% 功耗。為充分發揮製程潛力，晶片設計勢必得仰賴更先進的電子設計自動化 (EDA) 工具支援。\n\n不過，1.4 奈米晶圓成本恐大幅飆升，預估每片價格將達 4.5 萬美元，因此蘋果初期僅規劃 A22 Pro 採用，標準版 A22 是否跟進尚未定案。\n\n此外，為分散供應鏈風險，蘋果也正評估將英特爾納入次級供應商，為 iPad 與 Mac 產品線代工相對低階的晶片。英特爾預計自家 14A 製程將於 2028 年進入風險量產，2029 年大規模投產。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
@@ -110,6 +170,16 @@
       "Title": "台積電產能太吃緊！日媒爆三星代工大翻身 不只Google陸企也上門",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%94%A2%E8%83%BD%E5%A4%AA%E5%90%83%E7%B7%8A-%E6%97%A5%E5%AA%92%E7%88%86%E4%B8%89%E6%98%9F%E4%BB%A3%E5%B7%A5%E5%A4%A7%E7%BF%BB%E8%BA%AB-%E4%B8%8D%E5%8F%AAgoogle%E9%99%B8%E4%BC%81%E4%B9%9F%E4%B8%8A%E9%96%80-075138494.html",
       "Content": "隨著全球人工智慧（AI）應用快速發展，各大科技企業對高效能運算晶片的需求持續攀升，也讓晶圓代工龍頭台積電的先進製程產能吃緊。根據《日經亞洲》報導，越來越多企業因此將目光轉向南韓三星，其中包括比亞迪、Google、超微及特斯拉等國際大廠。\n\n報導引述六位知情人士指出，三星近期接獲來自全球現有及潛在客戶的大量詢問，希望評估並使用其先進晶片代工服務。消息人士透露，大陸電動車龍頭比亞迪目前正與三星洽談合作事宜，雙方計畫共同開發新一代自動駕駛晶片，以提升未來智慧駕駛系統的運算能力與競爭力。\n\n除了汽車產業外，科技巨頭Google也正積極與三星接觸，討論未來由三星代工生產預計於2028年前後推出的新一代Axion處理器。此外，Google也評估將部分用於人工智慧運算的張量處理器（TPU）交由三星生產，最快可能於2028年正式展開合作。\n\n另一方面，超微與輝達等原本高度依賴台積電的客戶，也因產能限制而逐步擴大與三星的合作。據了解，超微正與三星洽談，規劃自2028年起由三星代工部分未來世代CPU產品。\n\n而在供應鏈風險及地緣政治因素影響下，許多大陸晶片設計公司已開始採取「雙重採購」策略，同時向台積電與三星下單，以降低過度依賴單一供應商的風險。部分美國企業也傾向與多家晶圓代工廠合作，以提升供應鏈韌性。\n\n業界人士分析，台積電近年持續將資源集中於最先進製程技術，不僅是為了維持全球技術領先地位，更因先進製程具備較高獲利能力，市場需求亦長期供不應求。雖然三星在製程良率方面仍與台積電存在差距，但其相對充裕的產能已成為吸引客戶的重要優勢。\n\n知情人士表示，由於台積電先進製程產能幾乎滿載，部分規模較小的客戶難以取得足夠產能，因此開始尋求與三星建立合作關係。\n\n此外，韓媒近期引述業界消息指出，三星4奈米製程良率已突破80%，邁入成熟量產階段，由於生產穩定度大幅提升，吸引全球AI與科技企業訂單湧入。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW, 2330.TW",
+      "Date": "2026-06-17",
+      "Time": "15:48:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台股盤後》開低拉高結算、收漲68點，日K連四紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%96%8B%E4%BD%8E%E6%8B%89%E9%AB%98%E7%B5%90%E7%AE%97-%E6%94%B6%E6%BC%B268%E9%BB%9E-%E6%97%A5k%E9%80%A3%E5%9B%9B%E7%B4%85-074800965.html",
+      "Content": "MoneyDJ新聞 2026-06-17 15:48:47 新聞中心 發佈\n\n費半指數週二重挫近6%影響下，台股今(17)日盤初在台積電、聯發科、台達電領跌下，加權指數一度下跌近650點，隨後在國泰金帶動金控股走揚、南亞/友達/群創強勢鎖漲停、被動元件股亦在國巨黑翻紅助攻下多檔亮燈漲停，輔以美股電子盤午盤漲勢擴大、激勵了近期弱勢的廣達、日月光投控、鴻海拉升，且19大類股漲多跌少效應下，加權指數終場翻紅拉高台指期結算價位、收在今日最高點45877.39點，上漲68.2點或0.15%、日K連四紅，成交量1兆1020億元。\n\n在荷姆茲海峽可望開通效應下、油價跌破80美元整數大關，激勵道瓊工業指數創高，但資金從晶片股輪動至景氣循環股下、費城半導體指數因獲利了結賣壓而重挫5.7%。亞洲股市方面，因日經225指數昨日續創新高，引發獲利了結賣壓，拖累今日以低盤開出，其後因美股電子盤走揚效應下，終場仍上漲0.72%；韓國KOSPI指數終場上漲1.58%。\n\n台積電今日受制費半指數走跌影響、收跌0.6%，同時聯發科、台達電均收黑，成為盤中壓抑指數表現的關鍵，不過鴻海、日月光投控、廣達中場後明顯拉升，搭配緯穎、南亞科、臻鼎-KY、金像電、台光電等指標股走揚，且在被動元件指標國巨續揚3.6%效應下，凱美、大毅、禾伸堂、日電貿、今展科、三集瑞-KY等都亮燈漲停，同時友達、群創也亮燈漲停，多頭信心亦明顯獲提振。\n\n在29大類股表現方面，以塑膠股上漲6.5%、成為盤面領漲焦點，其中南亞攻上漲停；光電股受惠於光通訊題材、上漲5.26%表現居次，其中群創、彩晶、TPK-KY、友達均亮燈漲停，GIS-KY、鼎元、瑞軒、大立光、元晶等亦漲勢凌厲；綠能環保股上漲2.87%、漲幅居第三。在弱勢股表現方面，橡膠因正新貼息下跌7.6%、導致橡膠股跌6.67%表現最差；航運股也因長榮貼息表現/下跌5.1%、收跌2.03%，跌幅居第二；數位雲端股仍受制富邦媒續跌1.9%、收跌1.57%，跌幅居第三。\n\n三大法人動向方面，今日三大法人總計賣超255.93億元；其中，外資及陸資(不含外資自營商)賣超206.55億元，投信賣超6.4億元，自營商賣超42.97億元。\n\n《台股盤後》盤中V轉、收跌76點，險守43K\n\n《台股盤後》10日線承壓、收漲1201點，重返44K\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
