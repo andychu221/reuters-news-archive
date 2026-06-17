@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-17T09:32:27.897Z",
-  "total_news_count": 186,
+  "last_updated": "2026-06-17T09:40:18.402Z",
+  "total_news_count": 188,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-17",
+      "Time": "17:09:41",
+      "Source": "Yahoo Finance",
+      "Title": "UK regulator sets out conduct requirements for Google's search services",
+      "URL": "https://finance.yahoo.com/technology/articles/uk-regulator-sets-conduct-requirements-090941953.html",
+      "Content": "LONDON, June 17 (Reuters) - Britain's competition watchdog ordered Google to provide greater transparency on ‌how its search rankings work, part of ‌new requirements aimed at securing \"a fairer deal\" for businesses and ​improving the U.S. tech giant's services in the country.\n\nThe first requires Google to improve transparency and fairness in how search results are ranked, while ‌the second requires ⁠Google to allow users to move their search data to authorised third parties, ⁠the Competition and Markets Authority said in a statement on Wednesday.\n\nMore from Yahoo Scout\n\nWhat transparency requirements did Britain impose on Google?\n\nWhat additional measures might the CMA implement soon?\n\nHow will Google's strategic market status affect competition?\n\nWhat data portability rules must Google now follow?\n\nThe regulator has flagged concerns about ​Google's dominance ​in search, designating ​the company with \"strategic market ‌status\", which allows it to set targeted rules to increase transparency.\n\n\"These new measures will ensure search results are ranked fairly and objectively, with clearer information about changes and effective routes to raise ‌concerns,\" Will Hayter, the ​CMA's Executive Director for Digital ​Markets, said in ​the statement.\n\nIt builds on existing conduct ‌requirements for Google announced by ​the regulator ​earlier this month which enable publishers to stop their content being used to power the ​company's AI ‌features.\n\nOn Wednesday, the CMA said \"more activity is ​expected over the summer\".\n\n(Reporting by Muvija M; ​editing by Sarah Young)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, TSM",
       "Date": "2026-06-17",
@@ -655,6 +665,16 @@
       "Related_Score": 5,
       "Sentiment_Score": -1,
       "Keywords": "台積電,電子權值股,費城半導體指數,金融股,塑膠股"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-17",
+      "Time": "11:07:04",
+      "Source": "Yahoo Finance",
+      "Title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/startup-backed-ex-google-ceo-030704320.html",
+      "Content": "(Bloomberg) -- A startup backed by former Google Chief Executive Officer Eric Schmidt unveiled an industrial robot powered by artificial intelligence, as investors pile into the emerging field of humanoids.\n\nMost Read from Bloomberg\n\nRead the 14-Point Draft Memorandum Between the US and Iran\n\nIran’s Deputy Foreign Minister Confirms Deal Reached With US\n\nNetanyahu Pays a Political Price for Trump’s Iran Deal\n\nUS Set to Offer Iran Broad Financial Gains in Peace Deal\n\nModi Warns of ‘Shortage of Trust’ Ahead of Trump Meeting\n\nThe general-purpose robot, called Eno, will be capable of “reasoning, adapting and owning outcomes beyond predefined tasks,” Paris-based Genesis AI said in a statement Tuesday. The startup will work with South Korea’s LG CNS to develop particular uses.\n\nThe robot’s decision-making speed, highlighted by its skill and dexterity playing the piano, marks a leap forward, Schmidt said in an interview. “When I look at robots, there’s this loop called VLA: vision, language, action,” Schmidt said. “The breakthrough for Genesis is that their algorithms run much faster now.”\n\nGenesis will partner with LG CNS, LG Group’s consulting and IT services arm, to deploy the robot to industrial customers by the end of the year. Genesis is currently raising funds to finance its next steps, co-founder Théophile Gervais said in an interview.\n\nInvestors are increasingly looking to AI-powered robots to help automate industrial processes as working-age populations decline. Companies including Figure AI, Tesla Inc. and Nvidia Corp. are funding projects to harness advances in AI to improve robot capabilities.\n\nSeveral robotics startups in Europe, where Genesis is based, are raising money to implement the technology in real-world settings, such as manufacturing and logistics. In Germany, Neura Robotics raised about $1.4 billion in a funding round this month, while Agile Robots is in discussions on an investment from SoftBank Group Corp.\n\nEno will need to be trained by its users. “It doesn’t wake up knowing the answer to every question, but it’s smart enough that if you show it a demo it can learn very quickly,” Schmidt said.\n\nGenesis AI has previously previewed its technology in a video demo that showed robotic hands with “human-level capabilities” performing tasks like chopping tomatoes, cracking eggs and playing the piano. A video featuring Eno showed the robot carrying boxes in a warehouse, tidying a house and working in a research lab.\n\nSchmidt said robots will be more useful for highly specialized tasks, like pipetting in drug research, than as domestic helpers.\n\nStory Continues\n\nGenesis raised $105 million last year with both US and Chinese backers, which is a rarity in an industry split along geopolitical lines. It’s backed by Khosla Ventures, Eclipse Capital and HSG, the fund formerly known as Sequoia China.\n\n--With assistance from Mark Bergen.\n\n(Updates with detail on LG partnership in second paragraph)\n\nMost Read from Bloomberg Businessweek\n\nThe Bankrupting of a Mobile Home Billionaire\n\nThe Infuriating Rise of the $8 Ice Cream Cone\n\nHow a Tiny British Island Fell Into an International Gambling Scandal\n\nThe Executive Coach Showing Sam Altman How to Lead With ‘Emotional Fluidity’\n\nBeing a CEO Today Stinks (Except for the Salary)\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
     },
     {
       "Ticker": "2330.TW",
