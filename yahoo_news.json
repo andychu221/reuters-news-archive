@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T12:41:13.920Z",
-  "total_news_count": 234,
+  "last_updated": "2026-06-17T12:46:08.702Z",
+  "total_news_count": 236,
   "news": [
     {
       "Ticker": "META, MSFT, GOOGL, AMZN",
@@ -31,6 +31,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/bernstein-flags-structural-beneficiaries-cpu-120149951.html",
       "Content": "Investing.com -- Agentic artificial intelligence is triggering a fundamental shift in data center hardware demand, with server CPUs emerging as a major structural growth market, according to Bernstein in a note on Wednesday.\n\nAnalyst David Dai raised his server CPU total addressable market estimate to $223 billion, up from a prior forecast of $137 billion, which he now treats as the bear case.\n\nThe upgrade reflects the transition from generative AI's chatbot phase to agentic AI, which Dai said \"involves heavily autonomous task orchestration and execution, which boosts the CPU workload vs. GPU.\"\n\nAs a result, the CPU-to-GPU ratio in AI data centers is surging \"from 1:4 or 1:8 to 1:1 or higher.\"\n\nBernstein's base case assumes $3.5 trillion in AI data center capital expenditure and a 1:1 CPU-to-GPU pairing ratio for inference, implying a TAM of $137 billion by 2030, roughly six times the 2025 TAM of $37 billion. The upside scenario puts the figure at $330 billion.\n\nBernstein sees Arm Holdings as “the structural beneficiary of the renaissance of CPUs for agentic AI.”\n\nDai raised his price target on Arm to $500 from a prior level, implying 21% upside, citing the company's power-efficient architecture as \"suitable for agentic AI workload.\" Bernstein now forecasts Arm reaching $22 billion in revenue by 2030, above the company's own $15 billion target.\n\nAMD and Intel also received price target increases to $600 and $100, respectively, as Bernstein incorporated stronger and more sustained server CPU demand assumptions into both models. AMD retains an Outperform rating; Intel is rated Market Perform.\n\nBernstein flags structural beneficiaries of the CPU renaissance\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-17",
+      "Time": "19:50:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI世代高本益比來臨！00408A經理人：台股有基之彈 高點絕非現在",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E4%B8%96%E4%BB%A3%E9%AB%98%E6%9C%AC%E7%9B%8A%E6%AF%94%E4%BE%86%E8%87%A8-00408a%E7%B6%93%E7%90%86%E4%BA%BA-%E5%8F%B0%E8%82%A1%E6%9C%89%E5%9F%BA%E4%B9%8B%E5%BD%88-%E9%AB%98%E9%BB%9E%E7%B5%95%E9%9D%9E%E7%8F%BE%E5%9C%A8-115007267.html",
+      "Content": "台股本月攻上 46000 點歷史高位後，續呈高檔震盪，第一金投信推出第二檔主動式 ETF 第一金台股趨勢優股息 (00408A-TW)，經理人與上一檔主動第一金台股優 (00994A-TW) 相同，皆為張正中，他表示，此波行情由強勁基本面支撐，今年企業獲利預估大幅上修至 5 成，屬扎實的「有基之彈」。雖乖離率偏高致短線震盪劇烈，但在 AI 世代下，台股目前 22.8 倍本益比仍屬合理，直言高點絕對不是現在，震盪後，中長期走勢仍可期待。\n\n張正中表示，台股今年以來的漲幅，屬於扎扎實實的「有基之彈」。去年底各大券商原本預估今年台股企業獲利僅有十多個百分點的成長，但今年受惠於 AI 晶片競賽、記憶體、PCB 及金融業等強勁基本面支撐，最新的企業獲利預估已大幅上調至 40%~50%。包括富邦證、元大證、Bloomberg 等，紛紛將 2026 年的獲利預估調升，且預估 2027 年還將持續成長 25%~30%。\n\n針對市場擔憂的「估值過高」疑慮，張正中引用歷史數據，強調台股目前本益比雖攀升至約 22.8 倍，但去年年底本益比也有約 21.5 倍，意味著大盤攻上 4 萬 5、4 萬 6，本益比僅微幅提升，漲幅完全是由「強大的獲利上修」所帶動。從長期來看，自生成式 AI 正式推出後，台股已步入「高獲利、高股利、高本益比」的新 AI 世代。\n\n張正中進一步引述券商數據指出，過去 2000 年網路泡沫時代，台股本益比高達 42.8 倍、台積電本益比更曾達 60~70 倍；2008 年金融海嘯時台股本益比也有 34.2 倍。反觀現在台股本益比僅 22 倍多，台積電約 23 倍，且明年獲利仍有 3 成成長空間，因此「高評價目前看起來相對合理，絕對沒有泡沫問題」。\n\n不過，張正中也提醒，台股目前的年線與季線乖離率已創下歷史新高，近期大盤動輒出現千點的劇烈盛跌與震盪，主因是短線漲幅太大，導致高檔獲利了結賣壓沉重。\n\n張正中強調，「就像爬山一樣，前半段跑太快，中間一定要休息。」他認為，未來的拉回都屬於健康的技術面短線修正，基本面完全沒有改變。若大盤一旦拉回至 20 倍本益比甚至以下，反而是非常好的買進時機。\n\n展望下半年產業投資主軸，張正中持續看好 AI 伺服器供應鏈，並建議投資人鎖定「新材料、新規格、新技術」的 re-rating 行情，包含光通訊 (CPO)、PCB 材料升級、面板級封裝等，其在明、後年的營收貢獻與量產皆指日可待。\n\n面對市場震盪，投資人常在「追求超額報酬的成長型 ETF」與「追求穩定現金流的高股息 ETF」之間面臨兩難。為了解決此痛點，第一金投信重磅推出新一代主動式高股息 ETF— 00408A。\n\n張正中解釋，00408A 具備「有攻有守」的混合型動態配置策略，其選股邏輯結合三大核心，包括強勢趨勢股篩選、股利率由高到低排名，以及股利持續成長的「成長與收益，接力不掉棒」策略。\n\n若是除權息旺季 6 至 9 月，經理人會適時提高整體投資組合中收益型與價值型股票的比重，積極卡位高殖利率、股息成長且填息能力強的個股，參與除息行情。在非除權息旺季 (息收淡季) 時，00408A 就會採取與 00994A 相同的強勢股攻擊策略，鎖定營收獲利具爆發力的趨勢成長股，力求資本利得與超額報酬。\n\n第一金投信表示，00408A 採新台幣 10",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL, AMZN, NVDA",
@@ -121,6 +131,16 @@
       "URL": "https://finance.yahoo.com/m/aa4764ec-f5d2-3f57-9376-81b8d580c24a/could-buying-nike-today-set.html",
       "Content": "Nike (NYSE: NKE) is dealing with extremely weak market sentiment. The company's share price has fallen precipitously in the past five years, and it's down 66% as of June 15.\n\nDespite dominating the industry, it's in the middle of a significant turnaround. And investors are finding it difficult to have confidence when revenue isn't growing and profits are declining.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThis might pique the interest of contrarian investors. Could buying this plummeting consumer discretionary stock today set you up for life?\n\nNike's turnaround efforts have focused on its distribution strategy. It's working to strike the right balance between wholesale partners and its direct channels. What's more, management is prioritizing product innovation, which is vital given how competitive the footwear market has become.\n\nBut progress will take time. Analysts expect revenue to rise at a compound annual pace of 1.6% between fiscal 2025 and fiscal 2028. They also estimate earnings per share to grow at a 3.6% yearly clip during that time. With this forecast, it's no wonder the market is pessimistic.\n\nThis stock isn't going to set you up for life. Nike is a mature business that's not in a position to register monster profit growth over the long term, which is a key tailwind necessary for huge returns.\n\nAnd while the shares are beaten down right now, there's really no telling when exactly the fundamentals will improve in a meaningful way.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-17",
+      "Time": "18:51:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美好證抱牢台積電！每股成本470元　董座曝台股展望與投資策略",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E5%A5%BD%E8%AD%89%E6%8A%B1%E7%89%A2%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%AF%8F%E8%82%A1%E6%88%90%E6%9C%AC470%E5%85%83-%E8%91%A3%E5%BA%A7%E6%9B%9D%E5%8F%B0%E8%82%A1%E5%B1%95%E6%9C%9B%E8%88%87%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-105130120.html",
+      "Content": "「台積電，其實也不算貴，對照它的基本面成長，所以只要基本面沒問題，我們就會繼續抱股！」美好證券董事長 黃谷涵 在股東會後接受《品觀點》訪問時，說明了美好證券的長期投資理念與策略，對他而言，只要基本面沒改變，即便市場修正，股價上上下下，也不會因此減碼出場，堅持繼續抱股。\n\n有別於一般券商，美好證券堅持選定好股、長期投資，很多持股的進場價很低，像是台積電，每股的平均持股成本才470元，且長期持有1665張不賣，總計原始投資11.38億餘元，截至去年底已增值到25.8億元，倍數獲利。\n\n另外，持有鴻海8900張，持股成本約12.98億元，截至去年底市值增至20.51億元；另外像是台股ETF、達欣工、股神巴菲特的波克夏公司，也是美好證券長期投資標的。\n\n這些股票幾乎都是2020年下半年就建立的主要投資部位，且一路抱牢，攤開今年的股東會年報，投資組合幾乎沒有變動，跟去年相比，只有電商龍頭亞馬遜，不再進入前6大持股。\n\n隨著台股一路創新高，站上4萬點大關，美好證券也嚐到長期投資的美好果實，投資組合的市值由2020年的46.19億元，一路增加，2025年成長至115.57億元，翻了1.5倍。由此可見，黃谷涵帶領的美好證券經營團隊，有著非常強大的投資耐心與信念。\n\n唯一讓黃谷涵扼腕的是，今年出清了聯發科，大概賣在每股2000元以下，原本是想說趁景氣好、行情好的時候，騰出未來逢低加碼股票的空間，沒想到錯過了後來漲至近5千元的大行情，少賺了十多億元，「如果留著的話，整體獲利會再往上，但錯過就錯過了，也不會再追回來」。\n\n即便如此，美好證券還是賺很大，今年5月稅後淨利8.58億元，單月EPS 2.78元；累計前5月稅後淨利21.1億元，如果加計其他綜合損益（自營部投資股債的獲利）14.89億元，合計綜合損益35.99億元，每股綜合損益11.655元，半年不到，已經賺回1個股本。\n\n也因此，黃谷涵總是不忘提醒股東「要看美好證券的經營成績，不要只看淨利，要看其他綜合損益，才不會錯過實際經營狀況！」。\n\n之所以會有這麼大的差距，主要是因為其他綜合損益（自營部投資股債的獲利），依照會計準則，列入財報的OCI，也就是出現在其他綜合損益項目，得看這塊數字才能掌握全貌。\n\n長期投資信心，其實來自分析研究，黃谷涵說，全世界沒有「無風險」這種事，因此美好證券花很多力氣去美國看AI的使用場景，去確定AI實際應用到底有沒有發生？泡沫是大還是小？目前確定美國花很多錢在用AI，且真的有生產力。\n\n黃谷涵說，自駕技術在美國已經越來越成熟，三年內就會在全球有很大的推廣，也帶來更多算力需求，接下來，就是機器人，一段一段過來，對台灣是非常有利的。再者，雲端業者太會賺錢，可以說，",
+      "Language": "zh"
     },
     {
       "Ticker": "TSLA",
