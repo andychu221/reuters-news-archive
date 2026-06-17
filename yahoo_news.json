@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-17T20:01:11.661Z",
-  "total_news_count": 360,
+  "last_updated": "2026-06-17T20:15:49.375Z",
+  "total_news_count": 362,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-18",
+      "Time": "03:46:43",
+      "Source": "Yahoo Finance",
+      "Title": "Intel's 18A-P Process Moves Forward",
+      "URL": "https://finance.yahoo.com/technology/articles/intels-18a-p-process-moves-194643378.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) said Tuesday that its 18A-P manufacturing process has entered risk production on schedule, marking another milestone in the company's effort to rebuild its manufacturing leadership and win more foundry customers.\n\nThe update came at the VLSI Symposium, where Intel engineers outlined improvements over the base 18A node. According to the company, 18A-P delivers up to 9% higher performance at the same power level, or 18% lower power consumption at the same performance level. Intel also highlighted 20% to 40% better thermal resistance, along with greater design flexibility for chipmakers.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe enhancements come from a mix of transistor, interconnect and design optimizations. Intel said a new low-resistance transistor option enables higher drive current and improved frequencies without increasing capacitance, a key factor for advanced computing workloads.\n\nthe update is important because Intel's foundry turnaround depends on proving it can execute advanced manufacturing roadmaps on time. Entering risk production does not guarantee major customer wins, but it is a necessary step before volume manufacturing begins.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-18",
+      "Time": "03:41:25",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Faces AI Fatigue as Stock's 10% Gain Trails Nasdaq's 19%",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-faces-ai-fatigue-stocks-194125493.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) investors are showing signs of growing frustration with the company's artificial intelligence rollout after last week's Worldwide Developers Conference did little to calm concerns around delays, limited availability and unclear revenue upside. The upgraded Siri assistant is expected to launch this fall as a beta version, while the newest AI features will not initially be available in the European Union or China, two key markets for the iPhone maker.\n\nWarning! GuruFocus has detected 4 Warning Sign with UBER.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe reaction has raised fresh questions about whether Apple Intelligence could help trigger the long-awaited iPhone upgrade cycle investors have been waiting for. Apple shares had gained 15% in May, marking their best month since July 2022, but the stock recently posted its worst week since February. Its 10% gain this year also trails the Nasdaq 100's 19% rise, suggesting investors may be looking for more proof that Apple can turn AI promises into product momentum.\n\nWall Street still sees Apple as a high-quality business, supported by cash, a strong balance sheet, steady earnings growth and regular buybacks. But valuation remains a key pressure point, with shares trading at more than 33 times estimated earnings over the next 12 months, above the 10-year average of 23. Analysts expect revenue growth of nearly 15% in fiscal 2026 before slowing to 8.6% in fiscal 2027, which could make execution around AI and the next iPhone cycle increasingly important.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-06-18",
