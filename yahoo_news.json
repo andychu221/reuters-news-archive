@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-17T07:52:29.300Z",
-  "total_news_count": 163,
+  "last_updated": "2026-06-17T08:00:36.408Z",
+  "total_news_count": 164,
   "news": [
     {
-      "Ticker": "MSFT",
+      "Ticker": "NVDA, MSFT",
       "Date": "2026-06-17",
       "Time": "15:20:00",
       "Source": "Yahoo Finance",
@@ -41,6 +41,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91%E5%9C%8B%E5%85%A7%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%89%E6%93%94%E4%BF%9D%E8%BD%89%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%82%B5%E4%B9%8B%E4%BB%A3%E6%94%B6%E5%83%B9%E6%AC%BE%E8%A1%8C%E5%BA%AB%E5%8F%8A%E5%AD%98%E5%84%B2%E5%B0%88%E6%88%B6%E8%A1%8C%E5%BA%AB-070358301.html",
       "Content": "日 期：2026年06月17日\n\n公司名稱：晶豪科 (3006)\n\n主 旨：晶豪科國內第二次有擔保轉換公司債之代收價款行庫及存儲專戶行庫\n\n發言人：吳鴻基\n\n說 明：\n\n1.事實發生日:115/06/17\n\n2.公司名稱:晶豪科技股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n依據「發行人募集與發行有價證券處理準則」第九條第一項第二款規定辦理，\n\n公告本公司國內第二次有擔保轉換公司債之代收價款行庫及存儲專戶行庫等\n\n相關事宜。\n\n6.因應措施:不適用\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n\n(1)訂約日期：民國115年6月17日。\n\n(2)委託代收價款行庫：凱基商業銀行敦北分行。\n\n(3)委託存儲專戶行庫：凱基商業銀行市政分行。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA, MU",
+      "Date": "2026-06-17",
+      "Time": "15:02:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apollo and Blackstone Just Closed a $35 Billion Private Credit Deal to Finance Anthropic's Compute Expansion. Here's What It Means for Micron and Nvidia.",
+      "URL": "https://finance.yahoo.com/m/56622a80-1f7c-3b9f-89ba-7ed6b10814c9/apollo-and-blackstone-just.html",
+      "Content": "Two of the largest asset managers on Wall Street are rewriting the rules of AI infrastructure financing, and the deal they just made public is sure to have a substantial impact on the industry as a whole. What does it mean in particular for Micron (NASDAQ: MU) and Nvidia (NASDAQ: NVDA) , two of the biggest winners of the AI build-out thus far?\n\nThe money keeps pouring into AI\n\nApollo Global Management (NYSE: APO) and Blackstone (NYSE: BX) finalized a $35 billion financing deal to aid Anthropic in its expansion efforts. The agreement is one of the largest private credit deals ever.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe deal is structured using a Special Purpose Vehicle (SPV) to purchase Tensor Processing Units (TPUs) from Alphabet 's Google. Those will then be leased to Anthropic. Through this structure, Anthropic will keep the hardware off its balance sheet. This will be a useful financial tool as Anthropic prepares for its initial public offering. Those TPUs will be deployed in data centers starting sometime this year and will expand Anthropic's compute capacity by 1 gigawatt (GW).\n\nBroadcom is also an integral part of the deal and is providing a crucial credit endorsement through residual value guarantees for $30 billion in debt tranches. Apollo's Atlas SP Partners contributed an additional $800 million in equity.\n\nBroadcom CEO Hock Tan explained that the company is building an \"AI XPV platform\" with Apollo, Blackstone, and other top investors to deploy over 20 GW of compute through 2028 for both Anthropic and OpenAI.\n\nNvidia's making room at the top\n\nThis isn't a great deal for Nvidia. The entire agreement is built on Google TPUs, not Nvidia's GPUs. Anthropic is deepening its relationship with Google. Will this ruin Nvidia's dominance ? Absolutely not, but it does carve out space for another winner.\n\nMicron, on the other hand, could benefit tremendously. Regardless of which company's accelerators are providing the computing capacity, AI data centers can't operate effectively without scads of high-bandwidth memory. Micron is one of just three companies that can make it at scale. As the GPU versus TPU debate continues, Micron won't have to pick a side. It will supply memory to both. As such, this deal should be yet another boon for Micron's shareholders.\n\nStory Continues\n\nThe AI build-out will require an additional $1.5 trillion in outside financing through 2028, according to Morgan Stanley . Private credit will undoubtedly play a major role. This Apollo and Blackstone deal is just the beginning and truly a template for what is to come in terms of innovative deal structures. Investors in companies such as Nvidia and Micron should take away two things: Competition among semiconductor companies is intense, and the demand for memory is only increasing.",
+      "Language": "en"
     },
     {
       "Ticker": "INTC",
