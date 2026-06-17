@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T13:40:18.066Z",
-  "total_news_count": 248,
+  "last_updated": "2026-06-17T13:43:38.799Z",
+  "total_news_count": 249,
   "news": [
     {
       "Ticker": "MSFT",
@@ -151,6 +151,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/bernstein-flags-structural-beneficiaries-cpu-120149951.html",
       "Content": "Investing.com -- Agentic artificial intelligence is triggering a fundamental shift in data center hardware demand, with server CPUs emerging as a major structural growth market, according to Bernstein in a note on Wednesday.\n\nAnalyst David Dai raised his server CPU total addressable market estimate to $223 billion, up from a prior forecast of $137 billion, which he now treats as the bear case.\n\nThe upgrade reflects the transition from generative AI's chatbot phase to agentic AI, which Dai said \"involves heavily autonomous task orchestration and execution, which boosts the CPU workload vs. GPU.\"\n\nAs a result, the CPU-to-GPU ratio in AI data centers is surging \"from 1:4 or 1:8 to 1:1 or higher.\"\n\nBernstein's base case assumes $3.5 trillion in AI data center capital expenditure and a 1:1 CPU-to-GPU pairing ratio for inference, implying a TAM of $137 billion by 2030, roughly six times the 2025 TAM of $37 billion. The upside scenario puts the figure at $330 billion.\n\nBernstein sees Arm Holdings as “the structural beneficiary of the renaissance of CPUs for agentic AI.”\n\nDai raised his price target on Arm to $500 from a prior level, implying 21% upside, citing the company's power-efficient architecture as \"suitable for agentic AI workload.\" Bernstein now forecasts Arm reaching $22 billion in revenue by 2030, above the company's own $15 billion target.\n\nAMD and Intel also received price target increases to $600 and $100, respectively, as Bernstein incorporated stronger and more sustained server CPU demand assumptions into both models. AMD retains an Outperform rating; Intel is rated Market Perform.\n\nBernstein flags structural beneficiaries of the CPU renaissance\n\nGoldman expects lower but still attractive stock market returns in 2026\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-17",
+      "Time": "20:00:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "大立光矽光子9月送台積電認證　獲利恐爆發式成長添萬元想像空間",
+      "URL": "https://tw.news.yahoo.com/%E5%A4%A7%E7%AB%8B%E5%85%89%E7%9F%BD%E5%85%89%E5%AD%909%E6%9C%88%E9%80%81%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%AA%8D%E8%AD%89-%E7%8D%B2%E5%88%A9%E6%81%90%E7%88%86%E7%99%BC%E5%BC%8F%E6%88%90%E9%95%B7%E6%B7%BB%E8%90%AC%E5%85%83%E6%83%B3%E5%83%8F%E7%A9%BA%E9%96%93-120000846.html",
+      "Content": "財經節目《聰明理財大小世》主持人黃世聰6月17日指出，台股近期上下震盪逾千點，但端午節長假後整體架構仍偏多，建議投資人不必過度恐慌，可維持六至七成持股。他並點名 聯發科 與 大立光 ，認為這兩檔個股最有機會成為台股下一批萬元股。\n\n在聯發科方面，黃世聰指出，外資今年初對台積電目標價喊2400至2500元，如今已上調至最高3500元，顯示整體多頭氛圍強勁。而聯發科的核心投資邏輯在於「本益比仍偏低」，相較AMD的340倍、博通83倍，聯發科本益比明顯具備擴張空間。他強調，聯發科已從手機IC設計商成功轉型為AI晶片設計重要參與者，布局涵蓋雲端資料中心、邊緣AI與智慧手機，並與Google、微軟、輝達等科技巨頭深度合作。執行長蔡力行預估今年AI相關營收達20億美元，明年更可望跳升至100億，後年有機會達300億，法人預估明年EPS將達120至130元，長期目標價上看9000至1萬元。\n\n大立光方面，黃世聰指出，大立光歷史高價為6075元，近期突破5000元後距高點仍有空間。關鍵在於矽光子CPO產線的突破——大立光技術已可達0.3毫米精度，領先業界同業約三個世代。傳聞其FAU產線最快9月將供台積電進行認證，量產後估計可貢獻本業獲利15%以上，相當於額外增加每股30至40元獲利。若CPO業務比重持續提升，EPS有機會突破300至400元，按30倍本益比計算，目標價可挑戰萬元。\n\n黃世聰強調，投資高價股的關鍵不在股價絕對高低，而在於公司基本面與產業方向是否正確。以信驊為例，從2200元漲至逾19000元，每個價位都被認為「太貴」，卻仍持續創高。他呼籲投資人聚焦好公司的長線價值，趨勢未變前持股抱緊，才能在台股多頭中獲得最佳成績。\n\n想了解更多精彩內容，歡迎持續收看《品觀點》網路節目《聰明理財大小世》！\n\n*投資警語：投資一定有風險，投資有賺有賠，投資前應檢視自身能力。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
