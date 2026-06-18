@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-18T13:15:24.622Z",
-  "total_news_count": 563,
+  "last_updated": "2026-06-18T13:37:47.721Z",
+  "total_news_count": 564,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-06-18",
+      "Time": "21:02:24",
+      "Source": "Yahoo Finance",
+      "Title": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/architect-labs-raises-24-million-130224623.html",
+      "Content": "By Max A. Cherney\n\nSAN FRANCISCO, June 18 (Reuters) - Architect Labs said on Thursday it had raised $24 million in seed funding to ‌build a company that will use artificial intelligence to speed and ‌ease the design of custom chips.\n\nAmerican chip giant Broadcom and its smaller rival Marvell help ​design custom AI and other general-purpose computing chips for cloud computing companies like Amazon and Alphabet's Google. The custom chips designed by Marvell and Broadcom generate tens of billions of dollars in revenue and offer an alternative to ‌Nvidia's powerful hardware.\n\nArchitect Labs aims ⁠to cheapen and speed the process, which now takes roughly two years and costs hundreds of millions of dollars ⁠in labor costs and research and development.\n\nThe company plans to target chip companies to help accelerate the design process but also software companies that could use ​custom chips ​to make their applications run faster ​or more efficiently, Architect co-founder ‌Ebrahim Hussain said in an interview with Reuters.\n\n\"Their biggest problem today is not necessarily the backend execution or the layout,\" Hussain said. \"Their biggest thing is how can I take this workload that I want to deliver to the world, whether it be AI or robotics or anything like that, and ‌how can I build the (chip) architecture.\"\n\nThe Palo ​Alto, California-based company was founded by Hussain ​and Aaditya Subedi and has ​about 18 staffers, split between machine learning and hardware.\n\nThe goal, ‌Subedi said, is to make chip ​design as accessible ​as Taiwan's TSMC has made chip manufacturing.\n\nThe company's funding round was led by Kindred Ventures and included TQ Ventures, Race Capital, and Together ​Fund. Google DeepMind Chief ‌Scientist Jeff Dean, along with executives from OpenAI and Nvidia, ​have also invested in the company.\n\n(Reporting by Max A. Cherney in ​San Francisco; editing by Dvaid Gaffen)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-06-18",
