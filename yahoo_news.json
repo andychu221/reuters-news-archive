@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-18T12:15:22.623Z",
-  "total_news_count": 538,
+  "last_updated": "2026-06-18T12:20:35.099Z",
+  "total_news_count": 539,
   "news": [
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-06-18",
+      "Time": "20:15:40",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) ranked first by revenue in global data center Ethernet switching for the first time in the first quarter, according to IDC's Quarterly Ethernet Switch Tracker, as AI spending lifted demand for faster networking gear.\n\nThe worldwide Ethernet switch market rose 39.8% year over year to $15.4 billion. Data center revenue jumped 61% to $10 billion, while campus and branch sales climbed 12.3% to $5.4 billion, IDC said.\n\nWarning! GuruFocus has detected 9 Warning Signs with CSCO.\n\nIs CSCO fairly valued? Test your thesis with our free DCF calculator.\n\nNvidia's Ethernet switch revenue, all from data centers, surged 192.7% to $2.1 billion, giving it a 21.5% share of the segment. IDC said the company's Spectrum-X platform is gaining traction with hyperscalers and enterprise customers building AI networks.\n\nCisco ( NASDAQ:CSCO ), Arista Networks (ANET) and Broadcom ( NASDAQ:AVGO ) are expected to keep pressuring the market, while Hewlett Packard Enterprise ( NYSE:HPE ) is benefiting from a campus refresh cycle. IDC said AI deployments should keep supporting demand for high-speed switching through 2026, although easing memory shortages could cool pricing gains.",
+      "Language": "en"
+    },
     {
       "Ticker": "AVGO",
       "Date": "2026-06-18",
