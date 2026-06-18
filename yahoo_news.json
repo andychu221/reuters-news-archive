@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-06-18T13:37:47.721Z",
-  "total_news_count": 564,
+  "last_updated": "2026-06-18T13:40:18.446Z",
+  "total_news_count": 566,
   "news": [
     {
-      "Ticker": "MRVL",
+      "Ticker": "META",
+      "Date": "2026-06-18",
+      "Time": "21:11:43",
+      "Source": "Yahoo Finance",
+      "Title": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/manus-original-investors-plan-buy-131143621.html",
+      "Content": "June 18 (Reuters) - The early Chinese ‌backers of ‌AI startup Manus are ​planning to buy the company back from Meta ‌at ⁠the $2 billion price that the ⁠Facebook parent paid, The ​Information reported ​on ​Thursday, citing ‌two people with direct knowledge of the matter.\n\nThe move is in ‌response to ​a ​Chinese ​government order ‌that the deal ​be ​reversed, the report said.\n\nMore from Yahoo Scout\n\nWhat does this reversal mean for Meta's AI strategy?\n\nWhat was Meta's original acquisition price for Manus?\n\nWhy are Chinese backers buying Manus back from Meta?\n\nHow is the Chinese government involved in this deal?\n\n(Reporting by ​Deborah ‌Sophia in Bengaluru; ​Editing by ​Shailesh Kuber)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, MRVL",
       "Date": "2026-06-18",
       "Time": "21:02:24",
       "Source": "Yahoo Finance",
@@ -23,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSM, NVDA",
+      "Ticker": "MSFT, AMZN",
+      "Date": "2026-06-18",
+      "Time": "20:48:09",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX stock slips after breaking three-day winning streak",
+      "URL": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-after-breaking-three-day-winning-streak-124809291.html",
+      "Content": "What happened: SpaceX ( SPCX ) stock slipped nearly 2% on Thursday after breaking a three-day winning streak for the first time since the company's public debut.\n\nWhat's behind the move: The stock extended losses of nearly 5% in the previous session after Fed Chairman Kevin Warsh's press conference weighed on markets following the central bank's decision to leave interest rates unchanged.\n\nMore from Yahoo Scout\n\nWhy did SpaceX stock decline after three days?\n\nWhat is driving retail investor interest in SpaceX?\n\nHow does SpaceX compare to other major stocks?\n\nIs SpaceX's current valuation sustainable long-term?\n\nThe slide comes after SpaceX edged past Amazon ( AMZN ) earlier this week to become the fifth-most-valuable stock, having briefly also climbed above Microsoft ( MSFT ) during Tuesday's trading.\n\nWhat else you need to know: The decline may serve as n indicator of whether the retail frenzy surrounding the launch is enough to justify a valuation that climbed three days in a row.\n\nVanda Research noted that SpaceX has topped the leaderboard as the most-bought stock by retail investors for three consecutive sessions since its public debut last Friday.\n\nThe firm noted SpaceX is starting to trade like a \"Magnificent Seven\" stock.\n\n\"Retail investors have bought roughly the same amount of SPCX over the last 3 sessions as they have bought NVDA, GOOGL, AMZN, MSFT, META, QQQ and SPY combined,\" said the note.\n\nDive deeper into the SpaceX IPO\n\nThe public debut of Elon Musk's rocket and AI company is expected to make history.\n\nSpaceX stock jumps nearly 20% following largest IPO ever\n\nElon Musk becomes world's first trillionaire\n\nSpaceX has had a skyrocketing valuation journey\n\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre .\n\nClick here for the latest technology news that will impact the stock market\n\nRead the latest financial and business news from Yahoo Finance\n\n<a class=\"subtle-link fin-size-small titles basis-without-img noUnderline yf-119g04z\" data-ylk=\"elm:hdln;elmt:link;itc:0;ct:story;slk:SpaceX%20has%20had%20a%20skyrocketing%20valuation%20journey;pl2:curated-link-module;destpartner:Yahoo%20Finance;g:260274e6-cbda-4ee2-aaee-95ae30187c9b;sec:curated-link-module;cpos:3\" data-yga=\"{\"yLinkElement\":\"hdln\",\"yLinkElementType\":\"link\",\"yContentType\":\"story\",\"yLinkText\":\"SpaceX has had a skyrocketing valuation journey\",\"ySeamlessType\":\"curated-link-module\",\"yDestinationContentPartner\":\"Yahoo Finance\",\"yDestinationContentUUID\":\"260274e6-cbda-4ee2-aaee-95ae30187c9b\",\"yModuleName\":\"curated-link-module\",\"yLinkPosition\":3}\" href=\"https://finance.yahoo.com/markets/stocks/article/",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, GOOGL, AMZN, AAPL, TSM, NVDA",
       "Date": "2026-06-18",
       "Time": "20:43:00",
       "Source": "Yahoo Finance",
