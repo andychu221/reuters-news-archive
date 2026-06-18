@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T07:20:16.851Z",
-  "total_news_count": 462,
+  "last_updated": "2026-06-18T07:20:38.642Z",
+  "total_news_count": 461,
   "news": [
     {
       "Ticker": "NVDA",
@@ -33,16 +33,6 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2388.TW",
-      "Date": "2026-06-18",
-      "Time": "14:19:19",
-      "Source": "Yahoo奇摩股市",
-      "Title": "陳文琦：AI帶動科技大海嘯 威盛拿下3奈米ASIC案進軍AI光通訊",
-      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B3%E6%96%87%E7%90%A6-ai%E5%B8%B6%E5%8B%95%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B5%B7%E5%98%AF-%E5%A8%81%E7%9B%9B%E6%8B%BF%E4%B8%8B3%E5%A5%88%E7%B1%B3asic%E6%A1%88%E9%80%B2%E8%BB%8Dai%E5%85%89%E9%80%9A%E8%A8%8A-061919839.html",
-      "Content": "威盛 (2388-TW) 今 (18) 日召開股東會，董事長陳文琦指出，AI 帶動的產業需求已形成「科技大海嘯」，強調現在還看不到浪尖在哪，不僅推升半導體供應鏈全面吃緊，公司也已取得 3 奈米 ASIC 相關案件，同時，威盛近年大舉整合光通訊資源，也卡位感測器、VCSEL 到 AI 所需的光通訊技術，瞄準 AI 光通訊商機。\n\n陳文琦指出，目前產業供應鏈緊缺程度是他從業以來少見，甚至比疫情期間更嚴重，原因並非單一環節供應不足，而是 AI 需求過於強勁，導致「幾乎什麼都缺」，坦言雖然短期供應鏈仍有挑戰，但從長期來看，AI 帶來的龐大需求與應用機會仍讓公司對未來展望保持樂觀。\n\n在先進製程布局方面，陳文琦透露，公司除了已經有 6 奈米產品外，實際上已經看到 3 奈米案件，而公司與台積電 (2330-TW)(TSM-US) 也保持密切合作關係，並獲得產能支持。\n\n談及 AI ASIC 發展趨勢，陳文琦表示，不只是 Google，全球大型科技公司都正積極投入 ASIC 與 AI 專用晶片開發，從過去以 CPU、GPU 為主，逐步走向 TPU、APU 等針對 AI 最佳化架構，而這項趨勢已經確立，而 AI 資本支出規模更是前所未見，將持續帶動半導體產業需求成長。\n\n除了 ASIC 布局外，威盛也正加速切入 AI 光通訊市場。陳文琦指出，隨著 AI 運算規模快速擴張，資料中心面臨頻寬與功耗雙重挑戰，光通訊將成為未來關鍵技術之一，無論是 AI 應用端或 AI 核心基礎建設，都需要更高速且更低功耗的傳輸方案，因此公司對光通訊未來發展高度看好，將持續加大投入力道。\n\n事實上，威盛近年已積極整合集團光通訊資源。公司先於 2025 年成立微捷創研，隨後斥資 923.4 萬美元、約新台幣 2.92 億元，取得蘋果供應鏈德國 TRUMPF Photonic Components GmbH 的消費性感測器事業相關營運資產，切入光感測技術領域。\n\n今年威盛再增資微捷創研 10 億元，並透過換股方式整合具備 VCSEL (垂直共振腔面射型雷射) 製造技術的華立捷，藉此掌握從 IC 設計、光元件開發到製造生產的一條龍能力。市場認為，此舉有助於威盛建立完整光電技術平台，並進一步切入 AI 資料中心、高速光傳輸及矽光子等新興商機。\n\n陳文琦表示，光通訊與感測將是威盛未來重要發展方向，公司不僅會持續投入設計，也將透過製造與合作夥伴共同擴大布局。他強調，目前市場看到的 AI 發展仍只是「冰山一角」，應用端其實才剛起步，未來所帶來的產業變革可能超越過去任何一次科技革命。",
-      "Language": "zh"
-    },
-    {
       "Ticker": ".TWII",
       "Date": "2026-06-18",
       "Time": "14:18:18",
@@ -50,16 +40,6 @@
       "Title": "中小型股帶頭衝　台股收46465點創歷史新高",
       "URL": "https://tw.news.yahoo.com/%E4%B8%AD%E5%B0%8F%E5%9E%8B%E8%82%A1%E5%B8%B6%E9%A0%AD%E8%A1%9D-%E5%8F%B0%E8%82%A1%E6%94%B646465%E9%BB%9E%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-061818005.html",
       "Content": "（中央社記者吳家豪台北18日電）台股今天在中小型科技股帶動下，盤中一度大漲超過680點，衝上46565.70點歷史新高，隨後受端午連假的觀望氣氛與節前賣壓影響，漲勢收斂，終場上漲587.81點，收46465.20點，創收盤新高，漲幅1.28%，成交值新台幣1兆5439.24億元，週線翻紅上漲2296.16點。\n\n電子、金融及半導體指數終場皆上揚超過1%，傳產族群的塑膠指數收漲7.27%；代表中小型股的櫃買指數今天表現強勢，終場勁揚3.17%。\n\n權值股台積電收2410元，上漲25元或1.05%，聯發科下跌1.57%，收4390元，華邦電收漲停218.5元，成交量超過33萬張。\n\n被動元件族群受到鋁電解電容漲價消息激勵，國巨、立隆電、日電貿、凱美、華容皆攻上漲停，收在1080元、402元、332.5元、219元、56.5元。\n\n千元以上高價股盤中閃現54檔，寫下台股新里程碑，其中國巨在買盤點火下，晉升新科千金股；欣興盤中一度攻上千元大關，終場收在968元。\n\n資深證券分析師簡伯儀對中央社記者表示，台股近期在挑戰46000點以上過程中，已連續4個交易日出現成交量萎縮的狀況，週線雖因端午連假前夕呈現量縮，但日K線連5紅，顯示盤勢仍由多方主導。後續若要維持續航力，量能必須進一步放大，否則即使指數創高，須防範量價背離的修正風險。\n\n展望下週走勢，簡伯儀認為，市場將聚焦2關鍵指標，包括美國科技大廠美光（Micron）即將公布的最新財報與展望，以及台灣央行將召開理監事會議，屆時釋出的利率動向及房市政策，將牽動端午連假後台股資金流向。（編輯：張均懋）1150618",
-      "Language": "zh"
-    },
-    {
-      "Ticker": "2388.TW",
-      "Date": "2026-06-18",
-      "Time": "14:15:15",
-      "Source": "Yahoo奇摩股市",
-      "Title": "【公告】威盛一一五年股東常會重要決議事項",
-      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%A8%81%E7%9B%9B-%E4%BA%94%E5%B9%B4%E8%82%A1%E6%9D%B1%E5%B8%B8%E6%9C%83%E9%87%8D%E8%A6%81%E6%B1%BA%E8%AD%B0%E4%BA%8B%E9%A0%85-061515385.html",
-      "Content": "日 期：2026年06月18日\n\n公司名稱：威盛 (2388)\n\n主 旨：威盛一一五年股東常會重要決議事項\n\n發言人：陳文琦\n\n說 明：\n\n1.股東常會日期:115/06/18\n\n2.重要決議事項一、盈餘分配或盈虧撥補:通過承認本公司114年度盈餘分配案\n\n3.重要決議事項二、章程修訂:無\n\n4.重要決議事項三、營業報告書及財務報表:通過承認本公司114年度營業報告書及\n\n財務報表案\n\n5.重要決議事項四、董監事選舉:無\n\n6.重要決議事項五、其他事項:無\n\n7.其他應敘明事項:無",
       "Language": "zh"
     },
     {
@@ -71,6 +51,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E7%A8%B1%E8%98%8B%E6%9E%9C%E6%94%9C%E6%89%8B%E8%8B%B1%E7%89%B9%E7%88%BE-%E6%99%B6%E7%89%87%E8%A8%AD%E8%A8%88%E8%88%87%E8%A3%BD%E9%80%A0%E5%9B%9E%E6%B5%81%E7%BE%8E%E5%9C%8B-061407562.html",
       "Content": "（中央社華盛頓2026年06月18日綜合外電報導）美國總統川普今天在自家社群平台「真實社群」（TruthSocial）發文指出，蘋果（Apple）已同意與英特爾（Intel）合作，在美國設計及製造其晶片。\n\n「華爾街日報」今年5月報導，經過一年多協商後，英特爾已與蘋果達成初步協議，將為蘋果生產部分晶片。\n\n針對相關消息，蘋果與英特爾在正常辦公時間外均未立即回應路透社的置評請求。\n\n蘋果高度依賴台積電生產先進晶片，而台積電的先進晶片產能目前受到輝達（Nvidia）和超微（AMD）等人工智慧（AI）晶片製造商的高度需求。\n\n蘋果擴充晶片產能之際，與英特爾合作有助於蘋果分散製造據點。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-06-18",
+      "Time": "14:11:00",
+      "Source": "Yahoo Finance",
+      "Title": "Zacks Investment Ideas feature highlights: Dell and Cisco",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-061100086.html",
+      "Content": "For Immediate Release\n\nChicago, IL &ndash; June 18, 2026 &ndash; Today, Zacks Investment Ideas feature highlights Dell Technologies DELL and Cisco Systems CSCO.\n\nFind Top AI Stocks Using This Zacks Tool\n\nFor investors with confidence in a specific market niche, Zacks Thematic Investment Screens has you covered with 37 dynamic investment themes. Whether you're interested in cutting-edge technology, renewable energy, or healthcare innovations, our themes are built to help you sort through the noise quickly and find the stocks that offer exposure to the trends you seek.\n\nLet&rsquo;s take a closer look at the Artificial Intelligence theme and analyze a few top-ranked stocks that the screen returned, namely Dell Technologies and Cisco Systems .\n\nArtificial Intelligence Screen\n\nThe Zacks Artificial Intelligence thematic screen features a diverse set of companies involved in the AI frenzy, ranging from creators of software and hardware that power AI to those applying and utilizing the technology through automation, diagnostics, cognitive tasks, and more.\n\nDELL Raises AI Outlook\n\nDell Technologies posted robust results in its latest release, delivering a double beat relative to Zacks Consensus estimates and reporting rock-solid growth. Sales were up by an impressive 88% YoY, whereas adjusted EPS was up more than 200% from the same period last year.\n\nRed-hot demand stemming from the AI frenzy led to record-breaking results, with DELL booking $24.4 billion in AI orders and recognizing $16.1 billion of AI server revenue. It also increased its AI server revenue expectations for FY27 to $60 billion, further underscoring how strong the demand picture has become for the company.\n\nThe stock sports the highly coveted Zacks Rank #1 (Strong Buy) thanks to positive EPS revisions fueled by the demand outlook, with EPS revisions showing notably bullish action.\n\nCisco Breaks Records\n\nCisco Systems similarly posted record-breaking results in its latest release, with sales of $15.8 billion reflecting a record for the company while also exceeding the high end of its prior guidance.\n\nCisco noted broad-based, record-high demand for its technology in the earnings release, with overall product orders growing by 35% YoY. Importantly, data center switching orders grew 40% from the year-ago period, helping reflect its important and growing role amid the buildout.\n\nBullish EPS revisions across the board have landed the stock as a Zacks Rank #2 (Buy), keeping the stock&rsquo;s near-term outlook bright.\n\nBottom Line\n\nWhile stocks in each theme aren't direct recommendations, they offer a solid starting point. Leverage the Zacks Rank and other metrics to identify the best stocks for your strategy. Each featured stock comes with a Zacks report, giving you the tools to analyze performance and potential.\n\nStory Continues\n\nFor those interested in viewing the full list of Thematic Investing Screens, please click here >>>Thematic Investing Screens &ndash; Zacks Investment Research.\n\nWhy Haven't You Looked at Zacks' Top Stocks?\n\nSince 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.\n\nToday you can access their live picks without cost or obligation.\n\nSee Stocks Free >>\n\nMedia Contact\n\nZacks Investment Research\n\n800-767-3771 ext. 9339\n\nsupport@zacks.com\n\nhttps://www.zacks.com\n\nPast performance is no guarantee of future results. Inherent in any investment is the potential for loss. This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII, 2330.TW",
