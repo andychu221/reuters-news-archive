@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-06-18T13:01:10.301Z",
-  "total_news_count": 560,
+  "last_updated": "2026-06-18T13:15:24.622Z",
+  "total_news_count": 563,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-06-18",
+      "Time": "21:00:32",
+      "Source": "Yahoo Finance",
+      "Title": "Wall St set to rise as Iran deal optimism offsets hawkish Fed; Intel up",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-bounce-back-093903888.html",
+      "Content": "By Twesha Dikshit and Joel Jose\n\nJune 18 (Reuters) - Wall Street's major indexes were poised for a higher open on Thursday with technology shares leading gains as optimism about a Middle East peace deal offset worries about ‌a hawkish Federal Reserve under new Chair Kevin Warsh.\n\nIntel's shares rose 8.8% in premarket trading after U.S. President Donald ‌Trump said Apple had agreed to work with the company to design and manufacture its chips in the United States.\n\nMore from Yahoo Scout\n\nWhich individual stocks made notable premarket moves today?\n\nWhat factors are influencing Fed rate hike expectations?\n\nHow does the US-Iran deal impact market sentiment?\n\nWhat drove tech stocks higher despite Fed concerns?\n\nOther chip stocks also moved higher. Nvidia ​rose 1.4%, while Micron and Marvell Technology added 5% and 5.9%, respectively.All three major indexes sank in the previous session as investors priced in the likelihood of more Federal Reserve rate hikes, after Warsh underscored the need to curb inflation and other policymakers signaled higher borrowing costs ahead.It's the U.S.-Iran deal signing that \"seems to be usurping any negative sentiment brought about by a more hawkish Fed ‌yesterday,\" said Art Hogan, chief market strategist at ⁠B Riley Wealth.\n\n\"Energy prices continue to trade lower. The potential for an end to the war in Iran would certainly be a significant positive and might even help bring down inflation over the ⁠long term.\"Markets are currently pricing in a 50% chance of a 25-basis-point rate hike in September, according to CME Group's FedWatch tool, higher than 27% priced in on Wednesday. Oil prices slid to a more than three-month low, keeping alive hopes that inflation could be ​tamed without ​hiking interest rates.\n\nMeanwhile, the United States and Iran released the text ​of an interim agreement their presidents have signed to ‌end the war. It extends the April ceasefire by another 60 days to allow the two sides to reach a final deal.\n\nAt 08:37 a.m. ET, Dow E-minis were up 228 points, or 0.44%, S&P 500 E-minis were up 63.75 points, or 0.85%, and Nasdaq 100 E-minis were up 475.25 points, or 1.6%.\n\nMarkets have regained ground from a slump in early June, with a resilient economy, a broadening rally beyond tech shares and optimism surrounding a U.S.-Iran deal boosting sentiment.\n\nWeekly jobless claims data showed the number ‌of Americans filing claims for unemployment benefits fell last week as layoffs ​remained low.\n\nThe Nasdaq and the blue-chip Dow were on track to end ​higher for a second consecutive week before Friday's Juneteenth ​holiday.Thursday also marks the once-in-a-quarter simultaneous expiry of derivatives contracts tied to stocks, index options and futures, ‌also known as \"triple witching\", which can boost trading ​volume and aggravate volatility.\n\nStory Continues\n\nAmong other early ​movers, Rumble jumped 15.4% after rebranding to RUM Group and closing its acquisition of German AI cloud company Northern Data.\n\nKroger dropped 7.8% after the grocer reported a lower-than-expected profit for the first quarter and kept its annual forecasts unchanged.\n\nShares ​of Accenture tumbled 16% after the company ‌trimmed the top end of its annual revenue forecast. It also announced plans to acquire a majority stake ​in Dragos and fully buy runZero and NetRise in a combined deal valued at $4.18 billion.\n\n(Reporting by Twesha ​Dikshit and Joel Jose; Editing by Pooja Desai and Devika Syamnath)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, TSM, NVDA",
       "Date": "2026-06-18",
       "Time": "20:43:00",
       "Source": "Yahoo Finance",
@@ -53,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-06-18",
+      "Time": "20:26:45",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's AI Cost Problem Hits Hardware",
+      "URL": "https://finance.yahoo.com/technology/articles/apples-ai-cost-problem-hits-122645415.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) may be preparing customers for higher prices after CEO Tim Cook said rising memory and storage chip costs have made some product price hikes unavoidable, according to a Wall Street Journal report.\n\nCook did not say which products would get more expensive or when the changes would happen. But the timing is important because Apple's next major product launch is expected in September with the iPhone 18 lineup, which could include a new foldable iPhone. The report said Macs and iPads could see price increases sooner.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe pressure is coming from a sharp rise in memory and storage chip costs, driven partly by surging AI demand. Apple has tried to absorb those increases, but Cook said the situation has become unsustainable. TechInsights reportedly estimates the next iPhone Pro could become about $270 more expensive if Apple passes through the higher component costs.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-06-18",
       "Time": "20:20:00",
@@ -80,6 +100,16 @@
       "Title": "Why Is Waymo Recalling Robotaxis?",
       "URL": "https://finance.yahoo.com/technology/articles/why-waymo-recalling-robotaxis-121811696.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOGL ) self-driving unit Waymo is recalling 3,871 robotaxis in the United States after NHTSA identified a software defect that could cause vehicles to enter closed freeway construction zones and continue driving at speed. The defect sits in certain Fifth Generation Automated Driving Systems. As an interim step, Waymo has narrowed where its cars can operate, restricting freeway driving while it develops a permanent remedy. Alphabet rose 0.14% in premarket.\n\nThe fix will arrive as an over-the-air software update that helps each vehicle recognize its location and avoid construction zones, delivered free of charge, according to NHTSA. Pulling back on freeway driving rather than keeping the fleet running under a patch is the more revealing move.\n\nThe Waymo recall is the latest in a series of NHTSA actions against autonomous and semi-autonomous driving systems. In March, the agency escalated its investigation into Tesla's ( NASDAQ:TSLA ) Full Self-Driving system to an engineering analysis covering 3.2 million vehicles, over crashes in reduced-visibility conditions.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-18",
+      "Time": "20:17:04",
+      "Source": "Yahoo Finance",
+      "Title": "Apple CEO Tim Cook Warns Price Hikes Are 'Unavoidable'",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-warns-121704583.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) shares are in focus on Thursday after a Wall Street Journal report said the company is preparing to raise prices to help absorb higher component costs.\n\nApple CEO Tim Cook told the Journal that price increases are unavoidable, adding that the company has been trying to shield customers from rising input costs. Apple has not publicly detailed any new pricing changes.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple has been under pressure from higher memory costs, a key part used in devices and AI hardware. In April, Cook said on Apple's earnings call that memory costs would likely weigh more heavily on the business beyond the June quarter.\n\nApple investors appeared to welcome the prospect of price hikes, which could help ease margin pressure if demand holds up. Similar cost concerns have already pushed some PC and smartphone makers to adjust prices.",
       "Language": "en"
     },
     {
