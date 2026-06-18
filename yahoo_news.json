@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-18T20:32:31.262Z",
-  "total_news_count": 663,
+  "last_updated": "2026-06-18T20:40:11.410Z",
+  "total_news_count": 664,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-19",
+      "Time": "04:28:49",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft warns new malware turns copy-paste against you",
+      "URL": "https://finance.yahoo.com/m/9363b4e2-1ed0-3a36-8359-8205127f6606/microsoft-warns-new-malware.html",
+      "Content": "Ctrl+C and Ctrl+V, the universally loved shortcut pair, is now a big threat to your crypto wallet.\n\nMicrosoft (NASDAQ: MSFT) has uncovered a new strain of malware built to quietly drain cryptocurrency from Windows users.\n\nIn a report on June 17, Microsoft Threat Intelligence and Microsoft Defender Experts say the threat, a so-called \"clipper,\" has been infecting devices since February 2026.\n\nIt is now flagged by Microsoft Defender Antivirus as \"Trojan: Win32/CryptoBandits.A.\"\n\nRelated: 194-year-old tortoise survives a bizarre crypto scam\n\nHow the malware spreads and hides\n\nThe malware's core trick is simple and scarily effective. It watches the clipboard, or the place your computer temporarily stores anything you copy. When it detects a cryptocurrency wallet address being copied, it silently swaps in an address controlled by the attacker.\n\nA victim sending Bitcoin (BTC) or another token can paste what looks like the correct destination, only to send the funds straight to a criminal instead.\n\nMicrosoft says the malware checks the clipboard roughly every 500 milliseconds and also hunts for seed phrases and private keys, which are the credentials that unlock crypto wallets.\n\nThe campaign starts with malicious shortcut (.lnk) files, which Microsoft says were distributed on USB storage drives.\n\nThe malware bundles two parts:\n\na worm component that spreads itself, and\n\na stealer that harvests wallet data.\n\nThe worm hides legitimate documents on a USB device and replaces them with disguised shortcuts, so a user opening what looks like a familiar file is actually launching the malware without realizing it.\n\nTo stay hidden, the malware runs in a concealed window, sets up scheduled tasks for persistence, and even excludes its own files from Defender scanning. It also checks whether Task Manager is open and shuts down if it is, an anti-analysis tactic meant to dodge anyone investigating the device.\n\nTrending on TheStreet Roundtable:\n\nBillionaire with 70% of portfolio in Bitcoin makes bold prediction\n\nAnthony Scaramucci unveils Bitcoin target for July\n\n'Rich Dad Poor Dad' author reveals bullish gold target\n\nWhy this threat stands out\n\nWhat makes CryptoBandits notable, according to Microsoft, is its stealthy infrastructure. Rather than relying on a traditional installer or an exposed server, it deploys a portable Tor client and routes traffic through a local proxy to reach a hidden command-and-control server.\n\nThat design lets it blend data theft with remote code execution. This means a money-grabbing stealer becomes a lightweight backdoor that can run further and more dangerous attacker commands.\n\nStory Continues\n\nRelated: 125 years in prison or work for the FBI? This crypto hacker chose wisely\n\nThis story was originally published by TheStreet on Jun 18, 2026, where it first appeared in the MARKETS section. Add TheStreet as a Preferred Source by clicking here.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-06-19",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "TSLA",
+      "Ticker": "GOOGL, TSLA",
       "Date": "2026-06-19",
       "Time": "03:50:00",
       "Source": "Yahoo Finance",
