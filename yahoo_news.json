@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T13:15:07.732Z",
-  "total_news_count": 802,
+  "last_updated": "2026-06-19T13:20:41.287Z",
+  "total_news_count": 804,
   "news": [
     {
       "Ticker": "AAPL, NVDA",
@@ -30,6 +30,16 @@
       "Title": "Intel Leads Big Chip Stock Rally",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-big-chip-stock-123941155.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) l ed a broad rally in AI and chip stocks Thursday after President Donald Trump said Apple ( NASDAQ:AAPL ) would work with Intel to design and build chips in the U.S.\n\nIntel shares jumped about 11% after Trump said Apple had agreed to partner with the chipmaker and that the government helped Intel in exchange for a 10% stake. Wedbush analysts said Apple is expanding its U.S. supply chain through Intel as it looks to offset memory pressure.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe rally spread quickly across semiconductors. Nvidia ( NASDAQ:NVDA ) rose about 3% after IDC said it became the No. 1 vendor by revenue in data center Ethernet switching for the first time in Q1 2026. AMD ( NASDAQ:AMD ) and Broadcom each gained about 4%, Qualcomm ( NASDAQ:QCOM ) rose 6%, and Micron ( NASDAQ:MU ) surged 11% after fresh price target hikes from Stifel and Wedbush.\n\nThe broader market also climbed after the U.S. and Iran signed an agreement aimed at ending hostilities. The Nasdaq rose 1.6%, while the S&P 500 gained 1.1%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-06-19",
+      "Time": "20:38:02",
+      "Source": "Yahoo Finance",
+      "Title": "Cisco Keeps Access to Restricted AI Model",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/cisco-keeps-access-restricted-ai-123802001.html",
+      "Content": "This article first appeared on GuruFocus .\n\nCisco Systems ( NASDAQ:CSCO ) is still inside Anthropic's restricted Mythos AI testing circle, even after a U.S. government order reportedly shut down broader access to other versions of the model.\n\nBloomberg reported that Cisco, banks and other technology firms continue to use Mythos Preview through Project Glasswing, a group of about 200 organizations Anthropic cleared to test the system for cybersecurity work. The goal is not general AI use. These firms are using it to look for cyber vulnerabilities and stress-test security risks.\n\nWarning! GuruFocus has detected 9 Warning Signs with CSCO.\n\nIs CSCO fairly valued? Test your thesis with our free DCF calculator.\n\nThat makes the story more interesting than a simple access ban. It suggests the most advanced AI tools may not disappear completely when regulators step in. Instead, access could become narrower, more controlled and limited to trusted enterprise or security partners.\n\nCisco confirmed it still has access, while Dragos also said it remains part of the program. For investors, the bigger point is that AI access is becoming a privilege, not a free-for-all.",
       "Language": "en"
     },
     {
@@ -150,6 +160,16 @@
       "Title": "Google's AI Chip Strategy Gets More Ambitious",
       "URL": "https://finance.yahoo.com/technology/ai/articles/googles-ai-chip-strategy-gets-120922099.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) is reportedly trying to turn Google's custom AI chips into a bigger business by borrowing a page from Nvidia's ( NASDAQ:NVDA ) playbook.\n\nAccording to the Wall Street Journal, Google is backing an AI data center project called Lake Mariner in western New York with a $3.2 billion financial guarantee. The facility's developers will lease computing power from thousands of Google TPUs to Anthropic, giving Google a clearer path to sell its own AI infrastructure beyond internal use.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThat is the bigger story. Google's TPUs were originally built to power its own products, but the company is now positioning them as a serious alternative to Nvidia GPUs for training and running AI models. The strategy could help Google create new revenue streams, keep more AI spending inside its own ecosystem and reduce reliance on outside chip suppliers.\n\nThe move also shows where Big Tech is headed. Amazon ( NASDAQ:AMZN ) is reportedly looking to sell its own AI chips to outside customers, while Microsoft ( NASDAQ:MSFT ) and Meta ( NASDAQ:META ) are investing heavily in proprietary chips.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-06-19",
+      "Time": "20:06:00",
+      "Source": "Yahoo Finance",
+      "Title": "Strength Seen in Texas Instruments (TXN): Can Its 7.0% Jump Turn into More Strength?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-texas-instruments-txn-120600465.html",
+      "Content": "Texas Instruments TXN shares soared 6.9% in the last trading session to close at $322.86. The move was backed by solid volume with far more shares changing hands than in a normal session. This compares to the stock's 1% loss over the past four weeks.\n\nThe optimism surrounding the stock can be attributed to solid data center demand, which is boosting its prospects in the enterprise systems market. A sustained focus on expanding its product portfolio across the Analog and Embedded Processing segments helps capture market share. Its deepening focus on internal manufacturing and advanced technology infusion is another positive.\n\nThis chipmaker is expected to post quarterly earnings of $1.90 per share in its upcoming report, which represents a year-over-year change of +34.8%. Revenues are expected to be $5.22 billion, up 17.4% from the year-ago quarter.\n\nWhile earnings and revenue growth expectations are important in evaluating the potential strength in a stock, empirical research shows a strong correlation between trends in earnings estimate revisions and near-term stock price movements.\n\nFor Texas Instruments, the consensus EPS estimate for the quarter has remained unchanged over the last 30 days. And a stock's price usually doesn't keep moving higher in the absence of any trend in earnings estimate revisions. So, make sure to keep an eye on TXN going forward to see if this recent jump can turn into more strength down the road.\n\nThe stock currently carries a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks Rank #1 (Strong Buy) stocks here >>>>\n\nTexas Instruments is a member of the Zacks Semiconductor - General industry. One other stock in the same industry, STMicroelectronics STM, finished the last trading session 6.9% higher at $78.39. STM has returned 13% over the past month.\n\nSTMicroelectronics' consensus EPS estimate for the upcoming report has changed +1.4% over the past month to $0.24. Compared to the company's year-ago EPS, this represents a change of +300%. STMicroelectronics currently boasts a Zacks Rank of #3 (Hold).",
       "Language": "en"
     },
     {
