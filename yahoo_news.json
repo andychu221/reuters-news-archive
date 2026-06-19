@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T00:28:02.236Z",
-  "total_news_count": 710,
+  "last_updated": "2026-06-19T00:43:48.692Z",
+  "total_news_count": 711,
   "news": [
     {
       "Ticker": "NVDA",
@@ -1601,6 +1601,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) ranked first by revenue in global data center Ethernet switching for the first time in the first quarter, according to IDC's Quarterly Ethernet Switch Tracker, as AI spending lifted demand for faster networking gear.\n\nThe worldwide Ethernet switch market rose 39.8% year over year to $15.4 billion. Data center revenue jumped 61% to $10 billion, while campus and branch sales climbed 12.3% to $5.4 billion, IDC said.\n\nWarning! GuruFocus has detected 9 Warning Signs with CSCO.\n\nIs CSCO fairly valued? Test your thesis with our free DCF calculator.\n\nNvidia's Ethernet switch revenue, all from data centers, surged 192.7% to $2.1 billion, giving it a 21.5% share of the segment. IDC said the company's Spectrum-X platform is gaining traction with hyperscalers and enterprise customers building AI networks.\n\nCisco ( NASDAQ:CSCO ), Arista Networks (ANET) and Broadcom ( NASDAQ:AVGO ) are expected to keep pressuring the market, while Hewlett Packard Enterprise ( NYSE:HPE ) is benefiting from a campus refresh cycle. IDC said AI deployments should keep supporting demand for high-speed switching through 2026, although easing memory shortages could cool pricing gains.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-18",
+      "Time": "20:12:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股強攻歷史新高！夜盤直逼47000點　法人曝「月底衝5萬點」關鍵",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%BC%B7%E6%94%BB%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%A4%9C%E7%9B%A4%E7%9B%B4%E9%80%BC47000%E9%BB%9E-%E6%B3%95%E4%BA%BA%E6%9B%9D-%E6%9C%88%E5%BA%95%E8%A1%9D5%E8%90%AC%E9%BB%9E-%E9%97%9C%E9%8D%B5-121258675.html",
+      "Content": "台股18日無畏美國聯準會偏鷹立場及端午連假前不確定因素，大盤強勢上攻，終場大漲587點、漲幅1.28%，收在46465點，改寫歷史收盤新高，成交量同步放大至1.54兆元。週線則大漲2296點、漲幅達5.2%，夜盤多頭氣勢延續，盤中最高來到46990點，逼近47000點整數關卡。\n\n權值股方面，台積電表現穩健，上漲25元收2410元，成為推升指數的重要力量；聯發科則下跌1.57%，收4390元。記憶體族群同步走強，華邦電亮燈漲停收218.5元，成交量突破33萬張，成為市場焦點。\n\n傳出鋁電解電容價格調漲消息後，被動元件族群全面噴出，國巨、立隆電、日電貿及凱美同步攻上漲停，帶動電子股買盤升溫。籌碼面則顯示三大法人合計買超309.78億元，其中外資與陸資買超211.31億元、自營商買超154.88億元，投信賣超56.41億元。\n\n永豐期貨表示， 台股月底衝刺五萬點的路線不變， 市場最大訊號在於利空鈍化，資金持續流向權值股及高波動族群，顯示多頭趨勢未變。針對聯準會新主席華許（Kevin Warsh）維持高利率與鷹派態度，市場解讀其目的在於強化抗通膨與獨立性形象，為未來降息預留空間。隨著國際油價回落，通膨壓力有望進一步降溫，後續降息循環仍被市場看好，甚至可能比年初預期更加積極。\n\n更多中天新聞網報導\n\n央行利率連9凍！上修經濟成長率至9.45% 示警台股熱潮帶動借貸風險\n\n結束處置第一天！群創又衝漲停 股價創18年新高\n\n台股站穩46K創收盤新高！功率半導體10餘檔亮燈漲停",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
