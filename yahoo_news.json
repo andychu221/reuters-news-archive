@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-22T07:20:06.560Z",
-  "total_news_count": 166,
+  "last_updated": "2026-06-22T07:43:52.518Z",
+  "total_news_count": 172,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-22",
+      "Time": "15:21:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI帶旺台股！前四強ETF報酬率翻倍　這檔大啖2類熱門股飆漲215%",
+      "URL": "https://tw.news.yahoo.com/ai%E5%B8%B6%E6%97%BA%E5%8F%B0%E8%82%A1-%E5%89%8D%E5%9B%9B%E5%BC%B7etf%E5%A0%B1%E9%85%AC%E7%8E%87%E7%BF%BB%E5%80%8D-%E9%80%99%E6%AA%94%E5%A4%A7%E5%95%962%E9%A1%9E%E7%86%B1%E9%96%80%E8%82%A1%E9%A3%86%E6%BC%B2215-072100238.html",
+      "Content": "【記者呂承哲／台北報導】在美伊停戰與AI熱潮持續帶動下，台股端午連假後延續強勢行情，週一（22日）早盤大漲逾千點，首度站上4萬7千點大關，再創歷史新高。根據法人統計，近一年來加權指數漲幅達107%，而台股ETF表現更為亮眼，前十強報酬率皆大幅領先大盤，其中台新臺灣IC設計ETF（00947）、野村臺灣新科技50（00935）、兆豐台灣晶圓製造（00913）及主動統一台股增長（00981A）等4檔ETF報酬率均已翻倍。\n\n截至上週四收盤，00947以近215%的報酬率居冠，今年受益人數也呈現倍數成長。其主要布局高價IP、IC設計及記憶體族群，相關持股占比超過八成，包含聯發科、南亞科、華邦電、創意、群聯、信驊、世芯-KY及矽力-KY等熱門AI概念股，受惠股價大漲，帶動ETF績效持續攀升。\n\n00947研究團隊指出，AI發展持續推進，帶動算力需求快速成長。根據高盛預估，2030年全球每月Token處理量將達120千兆個，約為2026年現有算力需求的24倍。法人看好台灣在AI供應鏈中的關鍵地位，預估相關企業2026年獲利成長率有望超過五成，其中IC設計與記憶體產業成長動能最受矚目。\n\n另外，近一年報酬率接近180%的新光臺灣半導體30 ETF（00904）經理人黃鈺民表示，全球AI發展已逐步從雲端運算延伸至代理式AI及機器人等實體應用領域，不僅推升AI基礎設施需求，也同步帶動AI晶片、先進封裝、ASIC、IP及記憶體等半導體供應鏈成長。\n\n高盛最新研究報告則指出，市場對2027年超大規模雲端業者（Hyperscaler）資本支出預估仍偏保守，AI基礎建設投資熱潮尚未結束。隨著科技巨頭持續上調AI資本支出，將有助推升半導體產業獲利與評價，帶動相關台廠中長期成長空間。\n\n法人建議，投資人若看好AI長線趨勢，可透過半導體全產業型ETF，或聚焦IC設計與記憶體雙主軸的ETF進行布局，把握AI硬體需求持續擴張帶來的投資機會。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-22",
+      "Time": "15:20:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人買超台股708.97億元",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1708-97%E5%84%84%E5%85%83-072046033.html",
+      "Content": "（中央社台北22日電）台股今天漲1276.31點，收在47741.51點，成交值新台幣1兆4414.68億元。三大法人外資及陸資買超、投信賣超、自營商買超，合計買超708.97億元。\n\n自營商買超121.03億元，投信賣超96.64億元，外資及陸資買超684.58億元，為歷史買超第9大。1150622",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-06-22",
+      "Time": "14:29:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Google攜手聯發科出大招！ 郭明錤曝「這隻魚」 讓發哥營收飛天",
+      "URL": "https://tw.stock.yahoo.com/news/google%E6%94%9C%E6%89%8B%E8%81%AF%E7%99%BC%E7%A7%91%E5%87%BA%E5%A4%A7%E6%8B%9B-%E9%83%AD%E6%98%8E%E9%8C%A4%E6%9B%9D-%E9%80%99%E9%9A%BB%E9%AD%9A-%E8%AE%93%E7%99%BC%E5%93%A5%E7%87%9F%E6%94%B6%E9%A3%9B%E5%A4%A9-062900427.html",
+      "Content": "知名產業分析師郭明錤透露，Google將在TPU v9（Humufish）基礎上，與聯發科獨家合作開發代號為「Triggerfish」的升級版晶片。這款新晶片聚焦強化學習與AI代理協作，不僅大幅提升SRAM容量並升級至HBM4E，更獲Google額外追加百萬顆訂單，預計2027年底投產，將成為聯發科2028年的全新營運動能。\n\n聯發科獨家搶下高單價新案\n\n根據郭明錤在社群平台發表的最新產業調查顯示，Google將在現有的TPU v9（Humufish）基礎上，進一步開發代號可能是「Triggerfish」的升級版v9晶片。這項單價更高的新增訂單，已確定由台灣IC設計大廠聯發科獨家取得。郭明錤指出，此升級版晶片是以Humufish為基礎的延伸新案，定位為具備更強推論能力的v9改版，設計上可同時緩解CPU wall與memory wall的瓶頸。這項新案的啟動，也進一步驗證了聯發科就是Google在TPU v9世代當中的合作首選廠商。\n\n三大關鍵規格全面進化\n\n在技術細節方面，這款v9改版晶片與原先的Humufish有著顯著的規格差異。郭明錤詳細拆解，Triggerfish的主要升級包含：其SRAM容量顯著提升至Humufish的2到3倍，並且全新移入了simulation die，在記憶體規格上也從Humufish採用的HBM4，直接升級至更先進的HBM4E。\n\n支援AI代理與強化學習\n\n針對晶片架構的調整，郭明錤特別解析了新增simulation die的戰略意圖。他指出，這個新架構的可能功能除了進行本地TPU管理、訓練與推論模式的切換之外，其最關鍵的核心聚焦在「強化學習（RL）與AI代理協作」。同時，更大容量的SRAM扮演了關鍵角色，能夠將更多強化學習與AI代理所需的活躍工作集（active working set）保留在TPU本地，進而大幅降低資料搬移的成本，並有效提升超低延遲decode階段的運作效率。\n\n聯發科2028營運大進補\n\n在市場出貨量與財務貢獻方面，這項新合作將為供應鏈帶來實質進帳。郭明錤表示，在Humufish整個生命週期400萬到500萬顆的出貨預估維持不變的前提下，Google這次是額外追加了100萬到200萬顆的Triggerfish訂單。該晶片預計在2027年底開始投入生產，並於2028年正式放量。由於Triggerfish的單價比Humufish高出約30%，這筆高利潤的追單有望直接轉化為聯發科2028年營運動能的顯著新增量。\n\n（封面圖/翻攝自聯發科官網）\n\n【 本文 由<a href=\"https://fnc.ebc.net.t",
+      "Language": "zh"
+    },
     {
       "Ticker": "2344.TW",
       "Date": "2026-06-22",
@@ -23,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-22",
+      "Time": "14:20:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "7月台股期指漲1661點",
+      "URL": "https://tw.news.yahoo.com/7%E6%9C%88%E5%8F%B0%E8%82%A1%E6%9C%9F%E6%8C%87%E6%BC%B21661%E9%BB%9E-062052355.html",
+      "Content": "（中央社台北22日電）台北股市今天終場漲1276.31點，收47741.51點。7月台指期以48413點作收，上漲1661點，與現貨相較，正價差671.49點。\n\n台灣期貨交易所為近2個月指數期貨契約訂定開盤參考價為，7月期貨46752點、8月期貨46998點。\n\n台股今天終場漲1276.31點，收47741.51點，成交金額新台幣1兆4414.68億元。\n\n7月台指期貨以48413點作收，漲1661點，成交5萬8306口；8月期貨以48660點作收，漲1662點，成交323口。實際收盤價格以期交所公告為準。1150622",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, MSFT, AMZN",
       "Date": "2026-06-22",
       "Time": "14:20:00",
@@ -31,6 +71,16 @@
       "URL": "https://finance.yahoo.com/m/4384c88f-25a1-3e0d-a8e6-d2e8d50a5244/3-stocks-that-look-like-far.html",
       "Content": "The Space Exploration Technologies (NASDAQ: SPCX) , or SpaceX, IPO has captured a lot of attention, with many investors focused on what it could do in the future. While that's an exciting proposition to consider, several companies have a fairly well-established future, and it's quite bright.\n\nOne industry I'm bullish on over the long term is cloud computing, and I think these three cloud titans all make for better long-term investments than SpaceX, as there is defined upside for this trio.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nCloud computing is thriving from the rising demand for AI\n\nThe big three cloud computing providers are Amazon (NASDAQ: AMZN) , Microsoft (NASDAQ: MSFT) , and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) , listed in order of the size of their cloud businesses. Amazon Web Services (AWS), Microsoft Azure, and Alphabet's Google Cloud are all established and highly profitable business units that operate on a fairly simple principle.\n\nCloud computing isn't a complex business model, even if the technology is. Essentially, it involves building data centers, installing computing equipment, and renting out the resulting computing capacity via the cloud.\n\nCloud computing has become an excellent way to easily scale computing needs up or down and to offload expensive, rapidly depreciating, short-lived computing equipment to cloud providers. Cloud computing has also become the primary way AI start-ups get access to the computing power they need.\n\nFurthermore, all three companies are spending heavily on data centers this year. At the start of the year, the big four AI hyperscalers, including this trio and Meta Platforms (NASDAQ: META) , estimated they would spend around $650 billion on data center capital expenditures in 2026 . Next year, Nvidia (NASDAQ: NVDA) , a major computing equipment supplier to this cohort, estimated that this figure would exceed $1 trillion. That's a huge gain, and it's fantastic news for investors.\n\nAmazon CEO Andy Jassy noted in his annual shareholder letter that the faster a cloud company grows, the more it must spend to sustain and capture that growth. With record-setting demand and build-outs currently underway, don't be surprised when this trio sees its revenue skyrocket over the next few years. That will lead to solid long-term gains and make each of these stocks an intriguing buy, especially when compared to SpaceX.\n\nStory Continues\n\nAll three stocks are trading at a reasonable price tag\n\nThere are several ways to analyze a business, but for companies that have an elevated capital expenditure cycle, using operating cash flow is a smart way to value the business. It strips out capital expenditures and one-time effects, such as tax effects or investment gains, and focuses only on how much cash a business generates.\n\nFrom this standpoint, Amazon and Microsoft both look historically cheap, while Alphabet is a more expensive, but still well within a reasonable range.\n\nIn 2025, SpaceX's preferred cash flow metric is adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA), which isn't quite the same as operating cash flow and is far more optimistic. However, it's the best investors have. In 2025, it generated $6.6 billion in adjusted EBITDA. By dividing its current market cap of $2.5 trillion by this metric, investors get a price-to-adjusted EBITDA ratio of 379.\n\nThat's far higher than the levels these cloud giants are trading around, and it shows that these three can be purchased at a reasonable price, while SpaceX must grow into its valuation before seeing further upside. That makes me prefer these three cloud titans to SpaceX, and I think all three will easily outperform SpaceX over the next decade.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-22",
+      "Time": "14:19:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉台指期帶路 台積電領軍創第七大漲點1276點 收47741點新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%B8%B6%E8%B7%AF-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A0%98%E8%BB%8D%E5%89%B5%E7%AC%AC%E4%B8%83%E5%A4%A7%E6%BC%B2%E9%BB%9E1276%E9%BB%9E-%E6%94%B647741%E9%BB%9E%E6%96%B0%E9%AB%98-061921203.html",
+      "Content": "端午假期後台股打破端午魔咒，今 (22) 日盤中台積電 (2330-TW) 發威大漲 100 元帶動 IC 設計、封測、權值股及中、小型電子股走高，終場大漲 1276.31 點或 2.75% 作收，創史上第 7 大漲點，收盤報 47741.51 點，成交值 1.44 兆元，盤中並以 47871.89 點改寫史上新高。近月台指期更衝高到 48413 點，大漲 1661 點作收。\n\n台股今天大盤以大漲 1276.31 點或 2.75% 作收，爲台股集中市場史上第七大漲點；同時，台積電股價再衝新高到 2510 元作收，市值也突破 65 兆元。\n\n台北股市今在端午節連續假期後的開盤，市場資金充沛加上美、伊的和談登場，帶動市場樂觀情緒，伕天早盤台股以 46679.57 點開出 ， 盤中台股指數以 47871.89 點改寫史上新高，最低 46679.57 點，市場成交值 1.44 兆元。收盤電子股大漲 3.28%，占市場成交值 81.24%，是帶動今天大盤指數大漲功臣。\n\n同時，匯市方面， 新台幣兌美元匯價中午暫收 31.612 元、貶值 2.4 分，成交金額 8.4 億美元。\n\n資深證券分析師簡伯儀指出，端節後的市場動能充沛，同時，台股集中市場維持在短期均線之上 ，量能也爲 5 日均量之上，期貨正價差高達 600 點，在半導體類股帶動之下，台股今天表現亮麗，預判近期台股將維持在高檔震盪格局。\n\n台股今天強勢族群爲半導體類股，包括台積電大泣 100 元，聯電 (2303-TW_漲停，IC 設計類股也強出頭，聯發科 (2454-TW) 大漲 75 元以 4465 元作收，但國巨 (2327-TW) 下跌收黑。 鴻海 (2317-TW) 收在 268.5 元的平盤價。\n\n而 IC 載板類股走勢不同調，欣興 (3037-TW) 重返千金股，收在 1005 元、南電 (8046-TW) 收黑下跌 10 元以 864 元作收，及景碩 (3189-TW) 股價收在漲停價 796 元。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -81,6 +131,16 @@
       "URL": "https://finance.yahoo.com/m/28f3517f-eeec-3d4a-b5a0-6a115acada66/3-excellent-dividend-stocks.html",
       "Content": "Many investors are chasing life-changing gains by buying shares in top artificial intelligence companies. That makes sense. The industry could offer (and already has offered) multiple transformative investment opportunities. It's a great idea to try to capitalize on this. However, it's also important not to forget about other proven strategies for earning solid long-term returns, one of which is to invest in strong dividend-paying corporations. With that in mind, let's consider three dividend stocks that are worth buying right now: AbbVie (NYSE: ABBV) , Walmart (NASDAQ: WMT) , and Becton, Dickinson (NYSE: BDX) .\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. AbbVie\n\nAbbVie, a leading pharmaceutical company , has not performed well this year. The company's shares are down 5% year to date. However, that has as much to do with broader weakness in the healthcare sector as anything AbbVie did wrong. In fact, the company's financial results have been pretty strong. The drugmaker exceeded expectations in the first quarter. Further, AbbVie's long-term outlook remains bright. The company's two main growth pillars, Skyrizi and Rinvoq, continue to defy expectations and should remain important growth drivers into the next decade.\n\nAbbVie has several other important products, including its Botox franchise, among others. The company also has a deep pipeline, with several exciting products that could eventually become meaningful growth drivers, including in the weight loss market. AbbVie has overcome significant patent cliffs in the past and should do so again, thanks to its innovative qualities. Finally, AbbVie is a fantastic dividend stock. It is a member of the Dividend Kings , a group of companies that have achieved at least 50 consecutive years of payout increases. All these factors make AbbVie a solid dividend stock to buy and hold onto for a while.\n\n2. Walmart\n\nWalmart's shares dropped significantly after its latest earnings. Though its results were pretty good, the company's outlook did not inspire confidence. There is no question that Walmart may have a rough go of it in the near term. Broader economic problems, such as inflation and tariffs, may lead to lower foot traffic in its stores and overall unimpressive sales. However, it remains an excellent stock to buy and hold. Here are three reasons why. First, even in the current environment that will be unfriendly to much of the retail industry, Walmart should perform better than most of its peers thanks to its ability to offer competitive prices. Walmart is known for its Everyday Low Price guarantee, and combined with its significant retail footprint, it should help the company generate somewhat decent sales and earnings even if we enter a recession.\n\nStory Continues\n\nSecond, Walmart is tapping into important long-term opportunities that should help improve its profits and margins. The company's higher-margin e-commerce operations have been growing faster than the rest of the business for years and are also helping it ramp up its digital advertising unit, another highly profitable business. Both e-commerce and digital advertising have a long runway for growth, and that's great news for Walmart. Finally, the company also has an impressive dividend track record. It has recorded 53 consecutive years of dividend increases, making it a Dividend King. Walmart is a great income play for investors focused on the long haul.\n\n3. Becton, Dickinson\n\nBecton, Dickinson has been facing challenges for years. Between broader economic problems and slow revenue and earnings growth, the company's shares have lagged the market. However, the stock could still deliver competitive returns -- especially with dividends reinvested -- for investors willing to be patient. Despite the headwinds it has faced, the medical device specialist remains a leader in its niche, providing a range of devices and tools healthcare professionals use regularly. The list includes items such as needles and syringes, specimen collection tools, infusion systems, and more.\n\nCrucially, over 90% of the company's revenue is from recurring consumables. Also, the company has spun off several parts of the business -- including most recently its biosciences and diagnostic solutions segment. Getting rid of this lower growth unit should help boost the company's sales growth.\n\nFurther, Becton, Dickinson has several attractive opportunities, one of the most important being in the GLP-1 market. The company provides pharmaceutical leaders with prefillable syringes that patients use to inject themselves with GLP-1 medications. Becton, Dickinson set a goal of reaching $1 billion in GLP-1-related revenue by the end of the decade, and the company said earlier this year that it was almost halfway there. Beyond that, Becton, Dickinson's innovative qualities should help it pounce on other growth avenues. Finally, the company is also a Dividend King, having raised its payouts for 54 consecutive years. It'd be a great move for dividend seekers to buy this company's shares on the dip.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-22",
+      "Time": "14:04:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股飆上4萬7 高息ETF高檔熄火？0056、00878年化殖利率跌破4％ 阮慕驊：得靠1招救",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%A3%86%E4%B8%8A4%E8%90%AC7-%E9%AB%98%E6%81%AFetf%E9%AB%98%E6%AA%94%E7%86%84%E7%81%AB-0056-00878%E5%B9%B4%E5%8C%96%E6%AE%96%E5%88%A9%E7%8E%87%E8%B7%8C%E7%A0%B44-%E9%98%AE%E6%85%95%E9%A9%8A-060430942.html",
+      "Content": "台股端午暴力變盤，今（22）日為節後首個交易日，盤中大漲1276點，直接衝破4萬7，財經專家阮慕驊表示，台股今年迄今漲逾1萬7000點，隨指數愈墊愈高，殖利率也變得愈來愈低，若以實際息收分配，恐怕投資人將大失所望。\n\n他指出，今年高股息ETF不管如何換股，也很難維持過去的高息率，並以元大高股息(0056)、國泰永續高股息(00878)和安聯台灣高息成長(00984A)等3檔高息ETF為例，年化殖利率均不到4%，未來勢必得靠豐厚的資本利得，才能補足息率的不足。\n\n◎以下為「阮慕驊」粉專原文：\n\n(發文時間6月21日)\n\n台股股息殖利率剩2.4%，高股息ETF怎麼配高息？又到了除息旺季，但隨著台股加權指數漲到45000點之上，台股股息殖利率愈降愈低，目前低到僅2.4%，不少巴望著領息的退休族，不禁擔心息收是不是會大縮水。台股過去一年來漲了24000多點，今年就漲了17000多點，指數快速上漲，股息殖利率確實很難不受影響而下滑。\n\n除大盤的股息殖利率剩下2.4%，高股息ETF就算怎麼換股，也很難維持過去的高息率。以三檔高股息ETF0056、00878和00984A為例，這三檔ETF目前的成份股和權重計算，年化股息殖利率各是3.80%、3.87%和3.2%，如果以實際息收分配，恐怕投資人將大失所望。\n\n所幸，台股大漲下，高股息ETF的資本利得也相當豐厚，這部份就可補足息率的不足。據我所知，七月將除息的00984A年化配息率仍有兩位數，也就是拿資本利得配出超過10%的年化息率並不困難。其實，買高股息ETF的投資人，本來就是有較高現金流需求，同時追求價格穩定、波動度小的穩健到保守的族群。\n\n所以，比較高股息ETF，除了年化配息率之外，能否在大盤波動時，發揮抗震保值甚至還能增值的優勢。\n\n阮慕驊比較5月12日至6月12日波動較大的1個月，就全部台股主動式ETF的績效觀察，名列第1位的是00984A（6.88%），第二是00401A（5.91%），第三名是00998A（5.77%），其它的都不到5%，負報酬的有00403A和00992A。\n\n00984A是首檔台股主動式高股息ETF，特色是成份股多達上百檔，分散投資標的，而且加入主動操作的精神，並適度佈局成長股，對於想求穩又求息，而且還要有成長性的投資族群來說，不失為可參考的標的。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
