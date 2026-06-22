@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-22T22:37:47.168Z",
-  "total_news_count": 399,
+  "last_updated": "2026-06-22T22:40:23.396Z",
+  "total_news_count": 401,
   "news": [
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-06-23",
+      "Time": "05:34:02",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, June 22: Alphabet Falls as AlphaFold Co-Creator’s Exit Raises AI Talent Concerns",
+      "URL": "https://finance.yahoo.com/m/4bcdd3c9-6905-3fbc-81a4-6316b48144fe/stock-market-today%2C-june-22%3A.html",
+      "Content": "Alphabet (NASDAQ:GOOGL) , a global search, ads, cloud, and AI platform, closed at $348.78, down 5.08%. Shares fell after reports that another AI leader left for a rival and amid legal and regulatory headlines. Investors are watching whether Google can keep enough AI leadership to justify its heavy AI spending next.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) fell 0.37% to 7,472.79, and the Nasdaq Composite (NASDAQINDEX:^IXIC) fell 1.32% to 26,166.60. Within internet content & information / digital advertising and cloud computing, sector rivals Meta Platforms (NASDAQ:META) closed at $563.85, down 2.32%, and Microsoft (NASDAQ:MSFT) closed at $367.34, down 3.18%, as AI stocks stayed under pressure.\n\nWhat this means for investors\n\nAlphabet shares declined sharply after reports that DeepMind’s John Jumper, a 2024 Nobel Prize winner and AlphaFold co-creator, left for Anthropic, following Noam Shazeer’s recent move to OpenAI. These departures have heightened investor concerns about talent retention, especially as Alphabet continues significant investment to maintain its AI leadership in Gemini, Google Cloud, and Search.\n\nThe partnership between Google’s A24 and DeepMind demonstrates the company’s ongoing efforts to advance artificial intelligence into new applications. However, the primary challenge for Alphabet remains its ability to retain leading AI talent in order to translate its extensive AI initiatives into sustainable business returns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-06-23",
+      "Time": "05:33:04",
+      "Source": "Yahoo Finance",
+      "Title": "Analyst Trims Price Target on Entergy (ETR). Here is Why",
+      "URL": "https://finance.yahoo.com/energy/articles/analyst-trims-price-target-entergy-213304577.html",
+      "Content": "Entergy Corporation (NYSE: ETR ) is included among the 13 Best Electrical Infrastructure Stocks to Buy in 2026 .\n\nPixabay/Public Domain\n\nEntergy Corporation (NYSE:ETR) is an integrated US energy company that provides electricity to more than 3 million utility customers in Arkansas, Louisiana, Mississippi, and Texas.\n\nOn June 10, BMO Capital lowered its price target on Entergy Corporation (NYSE:ETR) from $127 to $123, while keeping an ‘Outperform’ rating on the shares. The trimmed target still represents an upside of over 10% from the current levels.\n\nAccording to BMO Capital, Entergy gave a meaningful update on its previously announced agreement with Meta during the Q1 earnings call, but kept subsequent disclosures relatively limited.\n\nIn late March, Entergy Corporation (NYSE:ETR) announced a new Electric Service Agreement with Meta for another data center in North Louisiana. According to the company, the Fair Share value from this agreement alone is expected to be $2 billion. The investment includes 7 new combined cycle units, transmission infrastructure, and battery storage facilities. The cost of the proposed facilities will be covered by payments from the tech giant.\n\nWhile we acknowledge the potential of ETR as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nAnalyst Trims Price Target on Entergy (ETR). Here is Why\n\nAnalyst Trims Price Target on Entergy (ETR). Here is Why Pixabay/Public Domain",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA, NVDA",
       "Date": "2026-06-23",
@@ -73,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "GOOGL, INTC",
       "Date": "2026-06-23",
       "Time": "05:03:00",
       "Source": "Yahoo Finance",
