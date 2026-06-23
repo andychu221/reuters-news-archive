@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T18:00:53.753Z",
-  "total_news_count": 674,
+  "last_updated": "2026-06-23T18:16:19.252Z",
+  "total_news_count": 675,
   "news": [
     {
       "Ticker": "NVDA",
@@ -53,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSLA",
+      "Date": "2026-06-24",
+      "Time": "01:31:30",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla pushes back as fatal Texas crash reignites self-driving scrutiny",
+      "URL": "https://finance.yahoo.com/markets/article/tesla-pushes-back-as-fatal-texas-crash-reignites-self-driving-scrutiny-173130065.html",
+      "Content": "Tesla disputed claims that its driver-assistance software caused a fatal crash in Texas after a Model 3 left the road, plowed through a brick house at high speed, and killed a woman inside.\n\nAccording to the Harris County Sheriff's Office , the crash happened just after 8 p.m. on June 19 when driver Michael Butler in a Tesla Model 3 \"failed to drive in a single lane, left the roadway,\" and struck a home on Blooming Park Lane.\n\nButler’s Tesla entered the brick residence at a high rate of speed and struck a woman who was inside. She was later pronounced dead from her injuries. Investigators reported no signs of intoxication and said Butler was cooperative during the investigation.\n\nButler told investigators he \"was operating with an automated driving assistance system engaged at the time of the crash\" — meaning, by his telling, that either Autopilot or Full Self-Driving (FSD) was active when the car veered into the home. Video of the crash also spread quickly online , intensifying the scrutiny.\n\nMore from Yahoo Scout\n\nWhat investigations are underway regarding this crash?\n\nHow might this impact Tesla's FSD development?\n\nHow did Tesla dispute the driver's autopilot claims?\n\nWhat happened in the Tesla Texas crash incident?\n\nThe case is under investigation by the Sheriff's Office Vehicular Crimes Division, and the National Highway Traffic Safety Administration (NHTSA) has opened its own probe.\n\nTesla's leadership quickly went on the offensive to counter Butler's claims.\n\n\"This makes no sense,\" CEO Elon Musk wrote on X . \"FSD drives slowly through neighborhood streets, and this was a high-speed crash!\"\n\nAshok Elluswamy, Tesla's head of AI, followed with specifics he said were drawn from the car's own data.\n\n\"The driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area,\" he wrote . He said the Model 3 reached 73 mph and that the accelerator was still pressed \"even after the crash.\"\n\nTesla has run this defense before.\n\nAfter a 2021 crash, also in Harris County, Texas , early reports pinned the death on Full Self-Driving. The National Transportation Safety Board later found \"no use of the Autopilot system at any time\" during the owner's possession of the car. Investigators measured accelerator application as high as 98.8% and a top speed of 67 mph in a residential zone where the default limit is 30 mph.\n\nStory Continues\n\nTesla said it will cooperate with the NHTSA and hand over whatever data the agency requests.\n\nThe importance of FSD adoption and use is paramount for Tesla. The company spent the past year aggressively expanding FSD — winning regulatory approvals in Europe and feeding a narrative that its system is statistically safer than human drivers.\n\nThe company's nascent Robotaxi efforts also use FSD as its self-driving underpinning and AI model. Both use the company's vision-based neural network for decision making, versus competitors like Alphabet's ( GOOG , GOOGL ) Waymo, which uses a combination of a rules-based sensor and vision-based inputs.\n\nTesla's high valuation relative to its automotive peers is driven by its AI and self-driving efforts. Terrible crashes like the one that happened over the weekend in Texas pour cold water over claims that Tesla's self-driving systems are fully baked and worth paying a premium for in terms of stock price.\n\nPras Subramanian is Lead Auto Reporter for Yahoo Finance. You can follow him on X and on Instagram .\n\nClick here for the latest technology news that will impact the stock market\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-06-24",
       "Time": "01:24:33",
@@ -73,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU, ARM",
+      "Ticker": "INTC, MU, ARM",
       "Date": "2026-06-24",
       "Time": "01:20:16",
       "Source": "Yahoo Finance",
