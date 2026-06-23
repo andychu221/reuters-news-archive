@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-23T12:02:10.488Z",
-  "total_news_count": 580,
+  "last_updated": "2026-06-23T12:15:04.335Z",
+  "total_news_count": 582,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-23",
+      "Time": "20:11:45",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Crash Raises Fresh FSD Questions",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-crash-raises-fresh-fsd-121145741.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) faces a new NHTSA special crash investigation after a Model 3 slammed into a home in Katy, Texas, killing 76-year-old Martha Avila.\n\nThe crash has drawn attention because investigators are examining whether Tesla's partially automated driving systems played any role. Elon Musk pushed back on X, saying the incident makes no sense because FSD drives slowly on neighborhood streets and the crash happened at high speed.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nTesla's VP of Autopilot, Ashok Elluswamy, said the driver manually overrode self-driving by pressing the accelerator to 100% in the residential area. He said the vehicle reached 73 mph during the crash and that the accelerator remained pressed even after impact.\n\nThe probe follows another recent Tesla crash into a home in Clairemont, California, that injured 6 people. Since 2016, NHTSA has opened more than 3 dozen special investigations into Tesla crashes involving its driver-assistance systems.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-23",
+      "Time": "20:00:18",
+      "Source": "Yahoo Finance",
+      "Title": "BofA lists top 5 themes driving next $1tn in incremental semi sales",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/bofa-lists-top-5-themes-120018458.html",
+      "Content": "Investing.com -- Artificial intelligence is set to compress into five years what took the chip industry half a century to achieve, according to Bank of America analysts, who identified five key forces they believe will drive the next $1 trillion in semiconductor sales.\n\n\"The chip industry took ~50 years to generate its first $1Tn in sales,\" the team led by Vivek Arya said in a note. \"We expect AI to help add another $1Tn in just the next five years.\"\n\nThe bank’s five themes are AI data center systems, whose total addressable market it sees growing to roughly $1.7 trillion by 2030 from $273 billion in 2025; memory strength and durability underpinned by long-term supply agreements; semiconductor capital equipment and reshoring benefiting from rising chip complexity; analog chips gaining from surging AI power requirements; and agentic CPU demand, which BofA estimates represents a $170 billion server opportunity across x86 and ARM architectures.\n\nAlongside the thematic update, BofA raised its total semiconductor industry forecast to $2.7 trillion by 2030, implying a 28% compound annual growth rate from 2025, up from a prior estimate of $2.3 trillion. The analysts see memory as the dominant, with BofA projecting nearly 300% year-on-year growth in 2026 alone.\n\nThe bank also materially lifted its wafer fab equipment (WFE) forecasts, now seeing spending reach $250 billion by 2028, up from a prior estimate of $203 billion, and potentially hitting $292 billion by 2030.\n\nAlongside the updated forecasts, BofA made several stock-specific price target changes. The most notable was Micron, where analysts raised their target to $1,500 from $950, citing robust high-bandwidth memory demand and structurally constrained supply through 2028.\n\nApplied Materials went to $720 from $540, Lam Research to $480 from $330, and KLA Corporation to $317 from $210, all on higher wafer fab equipment forecasts. Marvell was lifted to $365 from $240 on strong AI connectivity demand, while Intel’s target moved to $160 from $135 on expanding server CPU and foundry opportunities.\n\nCredo Technology’s target rose to $340 from $252.\n\nThe one exception to the broadly bullish tone was Axcelis Technologies, where BofA raised its target to $156 from $130 but kept an Underperform rating, saying the stock already looks fully valued even accounting for the potential earnings uplift from its pending merger with Veeco.\n\nBofA lists top 5 themes driving next $1tn in incremental semi sales\n\nWolfe Research outlines eight risks that could spark stock declines in 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-06-23",
