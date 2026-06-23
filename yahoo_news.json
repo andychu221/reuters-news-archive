@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-23T19:37:58.277Z",
-  "total_news_count": 690,
+  "last_updated": "2026-06-23T19:40:41.827Z",
+  "total_news_count": 694,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-24",
+      "Time": "03:03:22",
+      "Source": "Yahoo Finance",
+      "Title": "Google Expands Finance Ad Checks Across 24 European Markets",
+      "URL": "https://finance.yahoo.com/media-advertising/articles/google-expands-finance-ad-checks-190322167.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) is expanding Google's financial services advertiser verification program across 24 additional European markets, adding a fresh compliance hurdle for companies running financial services ads. Starting July 23, rolling enforcement will begin for advertisers targeting countries across the European Economic Area, including Austria, Belgium, the Netherlands, Poland, Sweden, and Norway.\n\nWarning! GuruFocus has detected 3 Warning Signs with PBR.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThe new rules could affect advertisers promoting banking, credit cards, loans, investments, brokerages, insurance, and other financial services. Companies notified by Google may need to first secure verification through external compliance partner G2, then complete Google's own financial services verification process using a verification code issued by G2.\n\nFor investors, this looks like another move by Google to tighten controls around higher-risk advertising categories in Europe. Advertisers that fail to complete verification by their enforcement date will no longer be allowed to display financial services ads in affected markets, while agencies managing these campaigns will also fall under the expanded requirements.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-24",
+      "Time": "03:03:18",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Stock Gains on $4.7B AI Data Center Expansion in Wisconsin",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-gains-4-7b-190318285.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) shares climbed about 2% on Tuesday after the company said it has completed its first data center in Mount Pleasant, Wisconsin.\n\nMicrosoft ( NASDAQ:MSFT ) said the facility was completed ahead of schedule and is now fully operational, with nearly 550 full-time employees supporting the site, with headcount expected to grow over time, the company said. Microsoft vice chair and president Brad Smith said the campus will host what the company describes as a supercomputer designed to support next-generation AI development and generate local economic benefits through skilled jobs and continued investment, the company added. Headcount is expected to increase as operations scale.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft ( NASDAQ:MSFT ) estimates it will invest about $4.7 billion between 2024 and 2028 in hyperscale infrastructure in Wisconsin, as construction continues on a second Mount Pleasant facility. The company said ongoing work includes foundation and steel installation, with completion expected by 2028. Microsoft estimates $4.7 billion spend across the period, reinforcing its Wisconsin expansion plan through 2028. Microsoft ( NASDAQ:MSFT ) continues work on the second facility in Mount Pleasant.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-06-24",
@@ -13,7 +33,27 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN",
+      "Date": "2026-06-24",
+      "Time": "03:02:29",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Labor Ruling Puts Cemex Precedent in Play",
+      "URL": "https://finance.yahoo.com/economy/policy/articles/amazon-labor-ruling-puts-cemex-190229285.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) is facing a fresh labor flashpoint after a US labor board judge ruled that the company must collectively bargain with California warehouse workers at a San Francisco delivery center. The ruling followed Teamsters majority support among employees in 2024 and found that Amazon violated federal law by refusing to recognize the union.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nJudge Michael Silverstein relied on the Biden-era Cemex precedent, which says a company must either recognize and bargain with a union that has legitimate majority support or ask the NLRB to run an election. Amazon did neither, according to the ruling. The company disagreed with the decision, said it plans to appeal, and argued that a court could overrule it.\n\nFor investors, the bigger story could be the precedent risk rather than near-term bargaining. The case may now move to the NLRB in Washington, where Republicans hold a majority and could possibly use the appeal to revisit or reverse Cemex. That would make this ruling an important labor-policy test for Amazon and potentially for other major employers facing union campaigns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-24",
+      "Time": "03:01:48",
+      "Source": "Yahoo Finance",
+      "Title": "What's Going on with Alphabet Stock Tuesday",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/whats-going-alphabet-stock-tuesday-190148612.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet (GOOGL) shares fell on Tuesday after a sharp selloff in the previous session revived worries about how much the company is spending on artificial intelligence and whether the outlays will pay off.\n\nThe stock slipped nearly 1% after dropping about 5% on Monday, when investors also pared exposure to other megacap tech names such as Amazon, Meta and Microsoft. The move followed reports that senior DeepMind researcher John Jumper had left for Anthropic, adding to concern around AI talent retention at Alphabet.\n\nWarning! GuruFocus has detected 5 Warning Sign with HOOD.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nAlphabet remains a key AI winner, but investors are becoming more cautious about heavy infrastructure costs. The company has already signaled capital expenditure of $180 billion to $190 billion in 2026, with spending expected to rise again in 2027.\n\nOn the chart, Alphabet is trading near a support band between $337.47 and $349.00. A rebound could follow if buyers defend that area, while a break below it may expose the lower $320s.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-06-24",
       "Time": "02:51:27",
       "Source": "Yahoo Finance",
