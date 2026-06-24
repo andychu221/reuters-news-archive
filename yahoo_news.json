@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-24T19:01:30.121Z",
-  "total_news_count": 999,
+  "last_updated": "2026-06-24T19:15:07.252Z",
+  "total_news_count": 1000,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-25",
+      "Time": "03:04:53",
+      "Source": "Yahoo Finance",
+      "Title": "Why Nancy Pelosi Is Betting Big on Intel and Uber Right Now",
+      "URL": "https://finance.yahoo.com/m/992132d6-ab16-3ddb-9476-5b7380fce207/why-nancy-pelosi-is-betting.html",
+      "Content": "This article first appeared on GuruFocus .\n\nCongresswoman Nancy Pelosi disclosed new bullish bets on Intel ( NASDAQ:INTC ) and Uber Technologies ( NYSE:UBER ), buying long-dated call options on both stocks in a filing that drew fresh attention to her trading activity.\n\nPelosi purchased 200 Intel call contracts with a $50 strike price expiring March 19, 2027, and 200 Uber call contracts with the same strike and expiration date. The filing identified Pelosi as representing California's 11th district.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe moves come after Pelosi last reported portfolio changes in January, when she exercised Alphabet call options and bought Amazon call options. Pelosi has often attracted scrutiny because of the size and timing of her disclosed trades.\n\nThe new positions add Intel and Uber to a list of large-cap technology names that have appeared in Pelosi's filings over time. Separate reports cited the Intel trade at up to $5 million and the Uber trade at up to $1 million, while noting the contracts were deeply in the money at the time of disclosure.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-25",
@@ -263,7 +273,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-06-25",
       "Time": "01:14:00",
       "Source": "Yahoo Finance",
