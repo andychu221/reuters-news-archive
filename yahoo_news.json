@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-24T18:21:02.084Z",
-  "total_news_count": 986,
+  "last_updated": "2026-06-24T18:33:00.336Z",
+  "total_news_count": 988,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-06-25",
+      "Time": "02:13:00",
+      "Source": "Yahoo Finance",
+      "Title": "The Artificial Intelligence (AI) Trade You Might Be Missing -- It's Up 700% This Year",
+      "URL": "https://finance.yahoo.com/m/c04f3f8b-637c-35e0-bca1-2bfd0133cc8d/the-artificial-intelligence.html",
+      "Content": "If someone approached you and offered you the chance to buy a stock that's already up 700% this year, would you be interested? A lot of investors would immediately say no because they would think that all the upside has already been priced into the stock. However, that's the wrong way to approach it.\n\nInvestors should look at a stock fresh, without acknowledging prior gains. If it's priced right and there is more growth ahead, they should consider buying even if they missed the initial run-up.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nOne stock where I think this is the case is Sandisk (NASDAQ: SNDK) . It has risen 727% as of market close Tuesday, which may have some investors ignoring it due to its strong past. However, its future is bright, and there can be more upside ahead for the bold investor.\n\nIts core business is still expanding\n\nSandisk makes NAND memory, which is nonvolatile memory that maintains information even after power is cut off. This type of memory is slower than DRAM used in computing units, but it's still important for products like solid-state drives (SSDs).\n\nData centers need truckloads of SSDs for long-term data storage, and Sandisk cannot keep up with demand. As a result, prices for its SSDs are soaring, leading to record revenue and earnings growth.\n\nThe company and its peers are scrambling to get more production capacity ready to meet demand, but it may not be enough. AI hyperscalers plan on $650 billion in capital expenditures this year, breaking previous records. Next year, Nvidia predicts the amount will rise to $1 trillion. It likely has sound information on future demand, and trusting Nvidia is a smart idea for investors.\n\nIf SSD demand is proportional to data center spending, demand will nearly double from now through 2027. That bodes well for Sandisk, and Wall Street prognosticators are on board.\n\nAnalysts estimate that revenue will rise 122% during fiscal year 2027 (ending June 2027). That's another year of incredible growth, and earnings per share (EPS) estimates are also noteworthy. From fiscal 2026 to fiscal 2027, analysts expect EPS to rise from $65.45 to $183.05. If I price the stock on 2027 estimates, that values the stock at only 12 times forward earnings.\n\nAnd 12 times forward earnings is a low price to pay for a company that's growing as fast as Sandisk is in an industry vital for data center expansion . I think that makes it a strong buy, and even though its stock has risen so much in 2026, it could still rise even further.\n\nStory Continues",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL, NVDA",
       "Date": "2026-06-25",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, AMD",
+      "Ticker": "ARM, INTC, AMD",
       "Date": "2026-06-25",
       "Time": "01:47:42",
       "Source": "Yahoo Finance",
@@ -30,6 +40,16 @@
       "Title": "CoreWeave Deepens Nvidia-Powered Cloud Push",
       "URL": "https://finance.yahoo.com/technology/ai/articles/coreweave-deepens-nvidia-powered-cloud-174453981.html",
       "Content": "This article first appeared on GuruFocus .\n\nCoreWeave ( NASDAQ:CRWV ) is expanding its European AI cloud footprint through a new co-location deal with Swedish green data center operator Conapto.\n\nThe partnership covers 2 sustainable campuses in Stockholm, with initial capacity already online at Stockholm 4 South. Both sites will run on renewable energy and are designed to support rising European demand for high-performance AI computing.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe new capacity will use Nvidia ( NASDAQ:NVDA ) Blackwell architecture and Vera Rubin platforms connected through Nvidia Quantum-X800 InfiniBand, giving CoreWeave more infrastructure for AI labs, enterprises and developers building large-scale workloads.\n\nCoreWeave said it operated 49 data centers globally as of March 31, with more than 1 GW of active power and over 3.5 GW of contracted power. The Sweden deal brings its European site count to 8.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-06-25",
+      "Time": "01:44:48",
+      "Source": "Yahoo Finance",
+      "Title": "UBS flags these 2 stocks as key beneficiaries of standalone CPU",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/ubs-flags-2-stocks-key-174448909.html",
+      "Content": "Investing.com -- UBS raised price targets on two chip stocks in a note on Wednesday, identifying both as key beneficiaries of accelerating demand for standalone CPU deployments in agentic AI infrastructure, while pushing back against what it sees as overly aggressive market size expectations.\n\nAnalyst Timothy Arcuri lifted the bank’s AMD price target to $670 from $455 and the Arm target to $470 from $260, based on an unchanged 35x multiple for AMD and a 108x multiple for Arm .\n\nHe cautioned that while investor enthusiasm around the CPU total addressable market has pushed some estimates toward $300 billion by 2030, UBS steers \"such bullish outcomes to a long thesis on MU because we believe DRAM will remain too constrained to enable a TAM that large by 2030.\"\n\nOn AMD, Arcuri said the company has \"a distinct advantage\" in standalone agentic AI racks, which are \"more core and throughput-driven.\"\n\nUBS now assumes a 60/40 split between x86 and Arm architectures in the standalone segment and expects AMD to capture an outsized share of incremental demand given Intel's roadmap and supply challenges.\n\nAMD CPU server revenues are now forecast at $23 billion in 2027 and $29 billion in 2028, rising to $50 billion in 2030.\n\nOn Arm, UBS maintained its view that Arm architectures will represent approximately 70% share of a roughly 20 million unit head-node market by 2030.\n\nArcuri raised his estimate for Arm's internal CPU revenue to approximately $14 billion in 2030, reflecting an approximately 8% share of UBS's $170 billion TAM estimate, though he noted current core count limitations will constrain Arm's standalone rack prospects until future product generations.\n\nUBS flags these 2 stocks as key beneficiaries of standalone CPU\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nThis sector is 'poised for a big, beautiful year': Truist",
       "Language": "en"
     },
     {
@@ -93,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, AMD",
+      "Ticker": "ARM, INTC, AMD",
       "Date": "2026-06-25",
       "Time": "01:30:53",
       "Source": "Yahoo Finance",
