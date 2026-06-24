@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T18:40:41.456Z",
-  "total_news_count": 992,
+  "last_updated": "2026-06-24T18:43:26.257Z",
+  "total_news_count": 994,
   "news": [
     {
       "Ticker": "SNDK",
@@ -153,6 +153,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-25",
+      "Time": "01:30:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "蘋果轉向英特爾代工？分析師：真正效益恐待2028年後",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E8%BD%89%E5%90%91%E8%8B%B1%E7%89%B9%E7%88%BE%E4%BB%A3%E5%B7%A5-%E5%88%86%E6%9E%90%E5%B8%AB-%E7%9C%9F%E6%AD%A3%E6%95%88%E7%9B%8A%E6%81%90%E5%BE%852028%E5%B9%B4%E5%BE%8C-173009576.html",
+      "Content": "蘋果 (AAPL-US) 傳出將與英特爾 (INTC-US) 合作生產晶片，若交易成真，不僅有助於蘋果取得更多先進製程產能，也將成為英特爾晶圓代工業務的重要里程碑。不過，分析師指出，即使雙方順利達成協議，從晶片設計到量產仍需數年時間，短期內難以對雙方營運帶來明顯貢獻。\n\n根據市場消息，這項尚未獲得蘋果與英特爾正式證實的合作案，反映雙方各自需求。對蘋果而言，主要代工夥伴台積電 (2330-TW)(TSM-US) 正面臨 AI 晶片需求爆發帶來的產能壓力，包括輝達 (NVDA-US) 等客戶大量搶占先進製程資源。蘋果執行長庫克 (Tim Cook) 今年 4 月也曾坦言，供應鏈產能限制已影響部分 iPhone 銷售表現。\n\n對英特爾而言，則是重振晶圓代工業務信譽的重要機會。近年來，美國政府透過補貼與關稅政策推動半導體製造回流，美國總統川普更積極扶植本土晶片產業。英特爾除了被視為美國半導體戰略的重要支柱外，也獲得輝達約 50 億美元投資，進一步強化其晶圓代工布局。\n\n量產最快也要等到 2027 年後\n\n儘管市場對合作案抱持高度期待，但業界普遍認為成果不會立即顯現。Future Horizons 執行長 Malcolm Penn 指出，即使在最理想情況下，首批晶片也至少需要兩到三年才能正式出貨。\n\n他表示，像蘋果這類高度複雜的系統單晶片 (SoC) 設計本身就需要約兩年時間，之後還要經過數個月製造驗證與量產爬坡，因此整體時程相當漫長。\n\n分析師對蘋果未來可能採用的製程技術看法不一。部分人士認為，蘋果可能選擇與特斯拉 (TSLA-US) 相同的 14A 製程，但該技術距離大規模量產仍有數年時間；另一些分析師則認為，蘋果可能優先考量成熟度與穩定性，選擇 18A-P 或 Intel 3 等較成熟製程。\n\nTECHnalysis Research 分析師 Bob O&#039;Donnell 表示，若蘋果希望採用最先進的 14A 製程，最快也要等到 2028 年至 2029 年才可能實現。不過，一旦合作落地，對英特爾晶圓代工業務以及美國半導體製造產業而言，都將具有重大象徵意義。\n\n英特爾仍需證明量產實力\n\n事實上，自錯失 AI 浪潮初期商機後，英特爾近年積極爭取代工客戶。今年 4 月成功拿下特斯拉訂單後，市場如今更關注是否能進一步贏得蘋果青睞。\n\n不過，多位分析師認為，蘋果初期可能採取較保守策略，先以 MacBook Air 或部分 iPad Pro 等產品中的次要晶片進行測試，再逐步擴大合作規模。\n\n最大挑戰仍在於良率 (yield)。良率是指晶圓上成功製造且可正常運作晶片的比例，而蘋果長期與台積電合作，對製程穩定度與良率要求極高。過去英特爾曾多次遭遇製程延誤與良率問題，因此能否達到蘋果標準仍有待驗證。\n\nFreedom Capital Markets 科技研究主管 Paul Meeks 指出，市場目前對英特爾寄予高度期待，但投資人似乎假設公司能完美執行所有計畫。儘管英特爾最新製程已有明顯進步，但考量過去 20 年執行紀錄，市場仍應對最樂觀情境保持一定程度的保留態度。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-06-25",
       "Time": "01:28:30",
@@ -201,6 +211,16 @@
       "URL": "https://finance.yahoo.com/m/a5e865ce-b0a3-3060-9105-6ec9bf82292c/oil-crashes%2C-gold-dumps%2C.html",
       "Content": "The Dow Jones Industrial Average (DJINDICES: ^DJI) kept its modest winning streak alive on Wednesday, edging slightly higher while the S&P 500 (SNPINDEX: ^GSPC) and Nasdaq Composite (NASDAQINDEX: ^IXIC) tagged along with even smaller gains. The moves grew larger by noon, but not by much.\n\nThe indexes weren't the big story today. The real action was in commodities.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nOil tumbled below $70 per barrel for the first time since the Iran conflict began in late February, and gold dropped nearly 3%.\n\n^DJI data by YCharts\n\nOil falls to pre-war levels\n\nU.S. crude returned to prices not seen since the Iran conflict began as tankers began transiting the Strait of Hormuz again. The United States Oil Fund (NYSEMKT: USO) fell 4%, extending a sharp decline that began when the U.S. and Iran announced a 60-day framework for final negotiations last week.\n\nPresident Trump claimed Iran had promised no tolls on Hormuz traffic. Whether that holds remains to be seen, but oil markets aren't waiting around to find out.\n\nGold joined the sell-off. The SPDR Gold Shares (NYSEMKT: GLD) fund fell more than 2.5% as investors decided they didn't need quite so much disaster insurance after all.\n\nThe stabilizing Iran situation didn't exactly rub off on Wall Street at first. The three top indexes were up by roughly 0.4% at 10:30 a.m. ET, but a sudden jump followed a few minutes later. The move came as Amazon (NASDAQ: AMZN) rose 3%, boosted by a makeover of its Zoox robotaxi product.\n\nThen there's the big Dow Jones tidbit. The tightly moderated list of 30 elite American stocks will add Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) as a member on Monday morning, replacing telecom giant Verizon Communications (NYSE: VZ) . Alphabet's stock is up roughly 2% on the news, while Verizon took a 2% haircut. Hardly earth-shaking moves, but the index will indeed look significantly different next week. Alphabet has been on the outside looking in for ages.\n\nThe waiting game\n\nThere are few market-moving financial reports in the doldrums between two earnings seasons, but memory chip giant Micron Technology (NASDAQ: MU) will make some news tonight. With an off-kilter fiscal year that doesn't end on Dec. 31, but on the Thursday closest to Aug. 31, the company is due for a third-quarter checkup after Wednesday's closing bell.\n\nStory Continues\n\nMicron's stock has soared 712% over the last year, but also trades 14% below Monday's intraday peak. It's volatile stuff, and the market reaction to this trillion-dollar stock's report should move the Nasdaq Composite and S&P 500 indexes tomorrow. In what direction, I can't say. Micron's shares trade at a massive 20 times trailing sales but just 8.6 times forward earnings estimates, setting it up for volatility in both directions.\n\nThursday morning's PCE inflation report looms larger, though. Economists expect a 4.1% reading, more than double the Fed's 2% target. Rate-hike expectations have doubled in two weeks, and every decimal point will matter.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "01:15:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈鉅亨買基金展望〉AI股重挫警訊或機會？ 企業獲利撐腰台股仍是AI浪潮核心",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%89%85%E4%BA%A8%E8%B2%B7%E5%9F%BA%E9%87%91%E5%B1%95%E6%9C%9B-ai%E8%82%A1%E9%87%8D%E6%8C%AB%E8%AD%A6%E8%A8%8A%E6%88%96%E6%A9%9F%E6%9C%83-%E4%BC%81%E6%A5%AD%E7%8D%B2%E5%88%A9%E6%92%90%E8%85%B0%E5%8F%B0%E8%82%A1%E4%BB%8D%E6%98%AFai%E6%B5%AA%E6%BD%AE%E6%A0%B8%E5%BF%83-171555324.html",
+      "Content": "全球股市昨 (23) 日同步走弱，亞洲科技股率先重挫，美股費半與那斯達克指數也雙雙收黑，引發市場對 AI 行情是否出現轉折的疑慮。「鉅亨買基金」今 (24) 日認為，此次下跌主要反映科技股漲多後的獲利了結、財報公布前的觀望情緒，升息預期升溫帶來的短線干擾，而非基本面惡化，目前企業獲利預估仍持續上修，顯示 AI 帶動的成長趨勢並未改變，市場震盪反而為投資人提供重新布局優質台股基金的機會。\n\n鉅亨買基金總經理張榮仁表示，此波修正最早來自亞洲市場，韓國國會近期提出對股票及不動產未實現獲利課稅的構想，引發投資環境疑慮，資金快速撤離科技權值股。另隨著財報季即將到來，市場開始重新檢視過去兩年 AI 產業龐大資本支出是否能持續轉化為獲利成長，在獲利了結與財報觀望情緒交互影響下，過去漲幅較大的 AI 與半導體族群自然成為市場調節重心，但這並不代表 AI 產業的長期成長邏輯已經改變。\n\n張榮仁指出，目前市場最值得關注的仍是企業獲利，而非短期股價波動。以那斯達克 100 指數為例，市場預估未來 12 個月每股盈餘仍有超過三成的成長空間，且分析師近 3 個月持續上修未來 1 年獲利預估，顯示全球 AI 龍頭企業的成長動能依舊強勁。\n\n另一方面，台灣作為全球 AI 供應鏈核心，從晶圓代工、AI 伺服器到散熱與電源等產業，今年以來營收與獲利預期同樣持續上修，此次市場修正主要反映評價與情緒調整，而非企業獲利能力轉弱，只要獲利維持成長，多頭格局就仍具支撐。\n\n對於市場擔憂的升息議題，張榮仁認為，投資人應區分流動性因素與基本面因素。近期市場預期聯準會可能延後降息甚至不排除再度升息，確實讓高估值成長股承受較大壓力。然而，升息影響更多來自資金成本與市場評價調整，而非直接改變 AI 需求趨勢。當前全球科技巨頭仍持續擴大資料中心、高效能運算及 AI 基礎建設投資，相關資本支出並未出現明顯縮減跡象，因此短線波動雖難以避免，但尚不足以改變 AI 產業的長期發展方向。\n\n談到台股後市，張榮仁表示，台灣正是本輪 AI 浪潮最直接的受惠者。隨著全球供應鏈重組及美國科技巨頭持續投入 AI 建設，台灣憑藉半導體、伺服器、散熱、電源及電子零組件等完整產業鏈，已成為全球 AI 硬體建設不可或缺的一環，今 (2026) 年台灣出口維持強勁成長，其中電子及資訊通信產品占比持續攀升，反映 AI 需求依然旺盛。從歷史經驗來看，出口進入高成長階段時，往往伴隨企業獲利改善，也有助於支撐台股中長期表現。\n\n展望後市，張榮仁認為，投資人不必過度執著於預測市場短期高低點，現階段市場看到的仍是 AI 基礎建設帶來的需求成長，而未來隨著 Agentic AI 等新應用逐步落地，模型推理次數將大幅增加，可望進一步帶動算力、伺服器及相關供應鏈需求擴張。\n\n張榮仁強調，目前市場更像是漲多後的正常整理，而非多頭行情結束，對長期投資人而言，與其因短期波動而錯失機會，不如把握震盪拉回時分批布局受惠 AI 趨勢與企業獲利成長的台股及全球科技基金，持續參與下一階段成長契機。",
+      "Language": "zh"
     },
     {
       "Ticker": "MU",
