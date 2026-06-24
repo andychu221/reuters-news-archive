@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-24T18:00:56.265Z",
-  "total_news_count": 983,
+  "last_updated": "2026-06-24T18:15:14.231Z",
+  "total_news_count": 985,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-06-25",
       "Time": "01:55:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-06-25",
       "Time": "01:47:42",
       "Source": "Yahoo Finance",
@@ -63,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSLA",
+      "Date": "2026-06-25",
+      "Time": "01:39:50",
+      "Source": "Yahoo Finance",
+      "Title": "Sunrun and Tesla Tap 16 GW of Homes to Power Data Centers",
+      "URL": "https://finance.yahoo.com/energy/articles/sunrun-tesla-tap-16-gw-173950495.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSunrun ( NASDAQ:RUN ) rose 17.72% in premarket after the solar company announced a framework agreement with Tesla ( NASDAQ:TSLA ) and Renew Home to aggregate more than 16 gigawatts of flexible energy capacity from residential devices for hyperscalers and utilities. The capacity combines hundreds of thousands of home battery systems operated by Sunrun and Tesla with more than 8 million smart thermostats and devices managed by Renew Home, across multiple states and without requiring additional hardware, software, interconnection, water, or land. Tesla shares were up 0.13% in premarket.\n\nIn Virginia, the companies said more than 300 megawatts are available for immediate deployment, with a target of at least 500 megawatts by 2030. The three companies have also committed capacity to PJM's proposed Reliability Backstop Process, which if accepted would unlock more than a gigawatt for peak shaving, locational grid relief, and ancillary services.\n\n\"The grid of the 1800s cannot power the innovation of 2026,\" said Sunrun CEO Mary Powell. The framework is designed to help hyperscalers secure power for data centers while reducing costs for residential customers through energy shifting during peak demand.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-06-25",
       "Time": "01:33:00",
@@ -83,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-06-25",
       "Time": "01:30:53",
       "Source": "Yahoo Finance",
@@ -100,6 +110,16 @@
       "Title": "Nokia Teams With Amazon to Build Self-Driving Telecom Systems",
       "URL": "https://finance.yahoo.com/technology/ai/articles/nokia-teams-amazon-build-self-172830533.html",
       "Content": "This article first appeared on GuruFocus .\n\nNokia ( NYSE:NOK ) said it is widening its work with Amazon ( NASDAQ:AMZN ) Web Services to move telecom network operations further into the cloud and support more autonomous systems.\n\nThe Nokia deal centers on running its Autonomous Network Fabric on AWS, with the company saying operators will gain access to AI and cloud tools aimed at Level 4 autonomy. Nokia said the platform already supports orchestration, assurance and inventory functions, and availability is expected later this year.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nNokia said the fabric combines data management, agentic AI, digital twin simulations and intent-based networking. It is designed to help carriers shift from manual network oversight to automated, cloud-native operations that can react faster to traffic changes.\n\nNokia said the AWS partnership builds on earlier work, including AI-powered network slicing and a commercial 5G Core SaaS service. Nokia and AWS said customers using the platform may see higher automation rates, shorter service delivery times and lower infrastructure costs as they push toward more autonomous network operations.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-25",
+      "Time": "01:25:32",
+      "Source": "Yahoo Finance",
+      "Title": "Pelosi discloses bullish options bets on Intel and Uber",
+      "URL": "https://finance.yahoo.com/markets/options/articles/pelosi-discloses-bullish-options-bets-172532086.html",
+      "Content": "Investing.com - Representative Nancy Pelosi filed a new report disclosing that her spouse purchased call options on Intel Corporation (NASDAQ:INTC) and Uber Technologies Inc (NYSE:UBER), with a combined disclosed value ranging from $1.5 million to $6 million.\n\nThe filing shows two separate option purchases, both carrying a $50 strike price and a March 19, 2027 expiration date. The Intel position consists of 200 call options valued between $1,000,001 and $5,000,000, while the Uber position covers 200 call options valued between $500,001 and $1,000,000. Both transactions are classified as new purchases, not amendments to prior disclosures.\n\nThe filing was digitally signed on June 23, 2026, roughly 25 days after the May 29 transaction date, placing it well within the STOCK Act's 45-day disclosure window.\n\nThe identical strike prices and expiration dates across both positions point to a coordinated bullish outlook, with the trades structured to profit if INTC and UBER trade above $50 before mid-March 2027. The Intel bet carries considerably more capital at risk, with the upper bound of its disclosed value reaching $5 million, compared to $1 million for Uber.\n\nThe timing draws attention, given the policy environment surrounding both companies.\n\nThe U.S. government owns a roughtly 10% stake in Intel with the Trump administration pushing for U.S. chip manufacturing, which could greatly benefit Intel's foundry ambitions. Shares of Intel are up 259% year-to-date and nearly 500% over the last year. The calls owned by Pelosi are now significantly in the money.\n\nUber, meanwhile, operates at the intersection of gig-economy labor regulation and autonomous vehicle policy, two areas that have seen active congressional interest.\n\nPelosi discloses bullish options bets on Intel and Uber\n\n5 reasons why Jefferies thinks Meta’s pullback is a buying opportunity\n\nMorgan Stanley CIO survey: Why AI hype isn’t boosting 2026 IT budgets",
       "Language": "en"
     },
     {
