@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T22:32:31.063Z",
-  "total_news_count": 1054,
+  "last_updated": "2026-06-24T22:43:50.533Z",
+  "total_news_count": 1059,
   "news": [
     {
       "Ticker": "SNDK",
@@ -53,6 +53,46 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "05:47:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR24日上漲0.33美元漲幅3.69%折台股29.46元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr24%E6%97%A5%E4%B8%8A%E6%BC%B20-33%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%853-69-%E6%8A%98%E5%8F%B0%E8%82%A129-46%E5%85%83-214706883.html",
+      "Content": "(中央社台北2026年 6月25日電)友達光電在OTC US掛牌ADR以9.28美元作收，上漲0.33美元，漲幅 3.69%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 6月24日新台幣匯市收盤價31.751元計算，相當台股友達每股為 29.46元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/24\n\n9.28\n\n0.33\n\n3.69\n\n31.751\n\n29.4\n\n6/23\n\n8.95\n\n-0.76\n\n-7.83\n\n31.625\n\n28.3\n\n6/22\n\n9.71\n\n0.86\n\n9.72\n\n31.631\n\n30.7\n\n6/18\n\n8.85\n\n0.66\n\n8.11\n\n31.588\n\n27.9\n\n6/17\n\n8.18\n\n0.84\n\n11.53\n\n31.575\n\n25.8\n\n6/16\n\n7.34\n\n-0.27\n\n-3.55\n\n31.559\n\n23.1\n\n6/15\n\n7.61\n\n0.18\n\n9 2.56\n\n31.564\n\n24.0\n\n6/12\n\n7.42\n\n1 0.03\n\n1 0.41\n\n31.618\n\n23.4\n\n6/11\n\n7.39\n\n0.13\n\n1.79\n\n23.3\n\n6/10\n\n7.26\n\n-0.10\n\n-1.36\n\n31.668\n\n22.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "05:47:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR24日下跌0.62美元跌幅1.37%折台股141.32元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr24%E6%97%A5%E4%B8%8B%E8%B7%8C0-62%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-37-%E6%8A%98%E5%8F%B0%E8%82%A1141-32%E5%85%83-214702880.html",
+      "Content": "(中央社台北2026年 6月25日電)中華電信在NYSE掛牌ADR 以 44.51美元作收，下跌0.62美元，跌幅 1.37%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 6月24日新台幣匯市收盤價31.751元計算，相當台股中華電信每股為141.32元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/24\n\n44.51\n\n-0.62\n\n-1.37\n\n31.751\n\n141.3\n\n6/23\n\n45.13\n\n-0.44\n\n-0.97\n\n31.625\n\n142.7\n\n6/22\n\n45.57\n\n0.25\n\n0.55\n\n31.631\n\n144.1\n\n6/18\n\n45.32\n\n-0.20\n\n31.588\n\n143.1\n\n6/17\n\n45.52\n\n-0.75\n\n-1.62\n\n31.575\n\n143.7\n\n6/16\n\n46.27\n\n0.28\n\n0.61\n\n31.559\n\n146.0\n\n6/15\n\n45.99\n\n-0.10\n\n-0.22\n\n31.564\n\n145.1\n\n6/12\n\n46.09\n\n0.09\n\n0.20\n\n31.618\n\n145.7\n\n6/11\n\n46.00\n\n0.41\n\n0.90\n\n145.5\n\n6/10\n\n45.59\n\n0.47\n\n1.04\n\n31.668\n\n144.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-06-25",
+      "Time": "05:47:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR24日上漲1.81美元漲幅6.91%折台股177.87元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr24%E6%97%A5%E4%B8%8A%E6%BC%B21-81%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%856-91-%E6%8A%98%E5%8F%B0%E8%82%A1177-87%E5%85%83-214700342.html",
+      "Content": "(中央社台北2026年 6月25日電)聯電在NYSE掛牌 ADR以28.01美元作收，上漲1.81美元，漲幅 6.91%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 6月24日新台幣匯市收盤價31.751元計算，相當台股聯電每股為177.87元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/24\n\n28.01\n\n1.81\n\n6.91\n\n31.751\n\n177.8\n\n6/23\n\n26.20\n\n-1.30\n\n-4.73\n\n31.625\n\n165.7\n\n6/22\n\n27.50\n\n3.42\n\n14.20\n\n31.631\n\n173.9\n\n6/18\n\n24.08\n\n2.32\n\n10.66\n\n31.588\n\n152.1\n\n6/17\n\n21.76\n\n0.14\n\n0.65\n\n31.575\n\n137.4\n\n6/16\n\n21.62\n\n-1.46\n\n-6.33\n\n31.559\n\n136.4\n\n6/15\n\n23.08\n\n1.45\n\n6.70\n\n31.564\n\n145.7\n\n6/12\n\n21.63\n\n0.95\n\n4.59\n\n31.618\n\n136.7\n\n6/11\n\n20.68\n\n1.78\n\n9.42\n\n130.8\n\n6/10\n\n18.90\n\n-0.98\n\n-4.93\n\n31.668\n\n119.7",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-25",
+      "Time": "05:41:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR24日上漲4.44美元漲幅1.02%折台股2799.36元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr24%E6%97%A5%E4%B8%8A%E6%BC%B24-44%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-02-%E6%8A%98%E5%8F%B0%E8%82%A12799-36%E5%85%83-214158113.html",
+      "Content": "(中央社台北2026年 6月25日電)台積電在NYSE掛牌 ADR以440.83美元作收，上漲 4.44美元，漲幅 1.02%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 6月24日新台幣匯市收盤價31.751元計算，相當台股台積電每股為 2799.36元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n6/24\n\n440.83\n\n4.44\n\n1.02\n\n31.751\n\n2799.3\n\n6/23\n\n436.39\n\n-31.28\n\n-6.69\n\n31.625\n\n2760.1\n\n6/22\n\n467.67\n\n5.55\n\n1.20\n\n31.631\n\n2958.5\n\n6/18\n\n462.12\n\n29.97\n\n6.97\n\n31.588\n\n2919.4\n\n6/17\n\n432.15\n\n6.32\n\n1.48\n\n31.575\n\n2729.0\n\n6/16\n\n425.83\n\n-15.57\n\n-3.53\n\n31.559\n\n2687.7\n\n6/15\n\n441.40\n\n17.47\n\n4.12\n\n31.564\n\n2786.4\n\n6/12\n\n423.93\n\n2.86\n\n0.68\n\n31.618\n\n2680.7\n\n6/11\n\n421.07\n\n13.27\n\n3.26\n\n2663.7\n\n6/10\n\n408.75\n\n-19.17\n\n-4.48\n\n31.668\n\n2588.8",
+      "Language": "zh"
+    },
+    {
       "Ticker": "TSLA, NVDA",
       "Date": "2026-06-25",
       "Time": "05:25:00",
@@ -101,6 +141,16 @@
       "URL": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-technologies-btdr-top-crypto-210951728.html",
       "Content": "We just covered Leopold Aschenbrenner’s Situational Awareness Reveals Its 10 Under-The-Radar AI Stock Picks . Bitdeer Technologies Group (NASDAQ:BTDR) ranks #7 (see Situational Awareness Top 5 Under-The-Radar AI Stock Picks ).\n\nSituational Awareness Stake Value: $29,751,243\n\nBitdeer Technologies Group (NASDAQ:BTDR) is a Bitcoin miner founded in 2021 that is now pivoting toward AI cloud services. What makes it stand out from its peers is its vertical integration strategy. Instead of buying mining hardware from third parties, Bitdeer designs and manufactures its own proprietary SEALMINER chips and machines. This gives it control over its supply chain, cost structure, and deployment pace.\n\nHowever, Bitdeer Technologies Group (NASDAQ:BTDR) has not yet announced a major anchor tenant deal the way peers have. IREN landed a $9.7 billion five-year contract with Microsoft, TeraWulf secured a $3.7 billion 10-year deal with Fluidstack, and Hut 8 signed a $7 billion 15-year Google-backed deal with Fluidstack. The absence of that kind of headline deal is believed to be the primary reason Bitdeer Technologies Group (NASDAQ:BTDR) has lagged peers on price action over the past year.\n\nOn the Q1 earnings call, management said the AI cloud customer mix has shifted toward three- to five-year enterprise contracts, which supports a more durable and predictable revenue stream going forward and reduces the risk that high GPU utilization is just a short-term spike.\n\nImage by drobotdean on Freepik\n\nWhile we acknowledge the potential of BTDR as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "05:08:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "鄭安迪、六貸同堂、巴逆逆...散戶大軍成台股「第4法人」 網見亂象戰翻：直接梭哈人生？",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%84%AD%E5%AE%89%E8%BF%AA-%E5%85%AD%E8%B2%B8%E5%90%8C%E5%A0%82-%E5%B7%B4%E9%80%86%E9%80%86-%E6%95%A3%E6%88%B6%E5%A4%A7%E8%BB%8D%E6%88%90%E5%8F%B0%E8%82%A1-%E7%AC%AC4%E6%B3%95%E4%BA%BA-210830013.html",
+      "Content": "台股熱錢洶湧，股民炒股槓桿全開，除房貸、車貸、信貸、股票質押，還有人再加碼正二或期貨選擇權，市場開始出現「四貸同堂」升級到「六貸同堂」的怪現象，引發網友熱烈討論。\n\n彭博23日採訪26歲的待業青年鄭安迪，就是借錢買股的代表個案，手中持有價值約190萬元的AI科技股，自稱研究過1990年代網路泡沫，深信這一波AI大浪有基本面支撐，受訪時更狂言：「隨便買都會賺」。\n\n台股1年來漲幅翻倍，在短短數周內超越英國、加拿大與印度，躍居全球第5大股市，該文一出，引發投資圈熱議，由於宛若鄭安迪們的擦鞋童愈來愈多，高檔籌碼紊亂引爆殺機，昨（24）日台股盤中一度重挫1300點，也讓不少網友紛紛發出尋人啟事，想找出「鄭安迪」到底是誰。\n\n「鄭安迪們」借錢入市\n\n彭博報導，在這波股市榮景中，有很多人和鄭安迪一樣借錢買股，由於不少券商的融資額度已達內部上限，部分被券商拒絕的投資人往往轉向銀行申貸，或解約理財商品以騰出現金入市，讓台灣成為全球AI泡沫迅速膨脹的最佳樣本。\n\n從過去12個月的數據顯示，投資人向券商借貸買股的融資餘額暴增160%，逼近2000年崩盤前的高點，不僅高於網路泡沫最後1年的50%增幅，甚至高於南韓同期的94%。\n\n彭博還採訪39歲的人氣網紅巴逆逆，即使多年來一直拒絕負債以擴張報酬，但眼看股市天天創高、朋友獲利遠超自己，在害怕錯過（FOMO）的心理魔咒下，她也已在5月貸款500萬元進場買股。\n\n融資餘額衝上8千億\n\n為拚一夕致富，坊間已開始出現房貸、車貸、信貸、股票同時質押的「四貸同堂」亂象，甚至加碼正二、期貨選擇權，朝「六貸同堂」挺進，台股散戶如同打死不退的「第四法人」，上市櫃融資餘額至23日止，仍高達8022億元。\n\n對於股市亂象愈演愈烈，金管會出手降溫，23日表示，密切關注金融機構對個人房貸的理財周轉、股票質押、信用貸款金額成長情形與逾放比率的趨勢變化，現階段會先列入一般金檢項目，一旦發現異常或顯著變動，將改列專案金檢。\n\n不過，國內券商、證金公司已提前出手降溫，先求自保，國內證金龍頭元大證金23日率先開槍，表示因應市場環境變化、金融同業放款利率調整，借款專案利率將從目前2.89％起調升至3.92％，基富通基金部分產品更一口氣調升至4.19％起，新制7月生效。\n\n借款利率上調至3.92％\n\nPTT網友對此熱議，正反意見都有，有人表示，「市場下跌並不可怕，可怕的是下跌碰上過度槓桿」、「六貸同堂等於人生梭哈了…」、「買融資正二打死不退的，應該很大機會被斷頭」。\n\n但也有網友抱持不同意見，認為「台積會跌回1800嗎？不會嘛！那幹嘛要怕」、「央行不升息就是鼓勵借貸啊」、「房市就可以一直貸一直玩幾十年，為什麼股市就不行啊」、「隔壁同事只有三貸同堂就離職炒股」。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
