@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T06:47:37.442Z",
-  "total_news_count": 1136,
+  "last_updated": "2026-06-25T06:52:09.847Z",
+  "total_news_count": 1137,
   "news": [
     {
       "Ticker": "MRVL",
@@ -193,6 +193,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-06-25",
+      "Time": "11:03:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "高通推HBC挑戰HBM架構，南亞科將提供創新記憶體技術支援AI運算平台",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%80%9A%E6%8E%A8hbc%E6%8C%91%E6%88%B0hbm%E6%9E%B6%E6%A7%8B-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%B0%87%E6%8F%90%E4%BE%9B%E5%89%B5%E6%96%B0%E8%A8%98%E6%86%B6%E9%AB%94%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4ai%E9%81%8B%E7%AE%97%E5%B9%B3%E5%8F%B0-030324626.html",
+      "Content": "【財訊快報／記者李純君報導】高通（Qualcomm）於2026 Investor Day發表全新Dragonfly AI資料中心平台，並公布超過35家合作夥伴，台灣供應鏈中南亞科(2408)則有入列。南亞科發佈的合作聲明提到，雙方合作已邁入新的里程碑，未來將共同支援AI與下一代資料中心快速成長的需求。\n\n南亞科表示：「此次合作是南亞科與高通策略合作的重要里程碑。南亞科很榮幸能提供創新且可靠的記憶體技術，支援AI與下一代資料中心持續成長的需求。我們期待透過提供兼具高效能、高擴充性與未來成長潛力的解決方案，協助高通長期發展。」\n\n高通2026 Investor Day受關注的，是首度公布的High Bandwidth Compute（HBC），高通用來挑戰HBM架構，透過3D堆疊技術將Compute與Memory整合，希望突破AI運算最大的瓶頸Memory Wall。HBC具有多世代產品規劃HBC Gen1搭配AI250、HBC Gen2搭配AI300，HBC Gen1預計2027年中開始送樣。\n\n然雙方並未揭露具體的合作與產品細節，但南亞科強調將提供創新的記憶體技術，共同支援高效能AI運算平台發展。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-06-25",
       "Time": "10:55:44",
@@ -233,7 +243,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2303.TW",
+      "Ticker": "2408.TW, 2303.TW",
       "Date": "2026-06-25",
       "Time": "10:36:13",
       "Source": "Yahoo奇摩股市",
