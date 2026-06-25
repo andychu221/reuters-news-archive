@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T13:40:25.676Z",
-  "total_news_count": 1257,
+  "last_updated": "2026-06-25T13:44:11.009Z",
+  "total_news_count": 1261,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -51,6 +51,26 @@
       "URL": "https://finance.yahoo.com/technology/articles/qualcomm-signs-meta-first-data-132247465.html",
       "Content": "This article first appeared on GuruFocus .\n\nQualcomm ( NASDAQ:QCOM ) rose 11.63% in premarket after the chipmaker announced a strategic multi-generation agreement with Meta Platforms ( NASDAQ:META ) to supply data center CPUs for Meta's next-generation server fleet. The Dragonfly C1000 is Qualcomm's first data center CPU, targeting power efficiency at scale, with production beginning in H2 2028. Financial terms were not disclosed. Meta shares were down 0.15% in premarket.\n\nThe deal covers multiple chip generations beyond the C1000, locking in a longer-term supply relationship rather than a single product win. Amon called it a validation of the Dragonfly's power efficiency credentials and an expansion of the Qualcomm-Meta relationship from devices into infrastructure. Zuckerberg framed it as part of Meta's broader push to build compute capacity for what he described as personal superintelligence.\n\nThe Meta deal was one of several announcements at Qualcomm's Investor Day 2026 in New York. The company raised its fiscal 2029 non-handset revenue target to $40 billion, roughly double its prior target, with data center revenues targeted at more than $15 billion. Qualcomm also announced it will acquire AI software startup Modular in an all-stock deal valued at approximately $4 billion, expected to close in H2 2026. Modular's software allows AI models to run across different chips without processor-specific code, a direct challenge to Nvidia's (NVDA) CUDA platform.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "21:05:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股漲211點 台積電收平盤2390元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%BC%B2211%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E5%B9%B3%E7%9B%A42390%E5%85%83-130525209.html",
+      "Content": "台北股市二十五日開高震盪，收盤漲二一一點六六點，為四六二五五點二六點，漲幅百分之０點四六，成交金額新台幣一兆三０九三點九四億元。 （中央社）\n\n（另開新視窗） 記者陳建興∕台北報導\n\n美光財報亮眼，ＡＩ成長續強，台股二十五日開高震盪走高，早盤漲逾七百四十點，但隨後漲勢收斂，終場上漲二百一十一點六六，收在四萬六千二百五十五點二六點，成交值一兆三千零九十三點九四億元。\n\n自營商賣超七十點零一億元、投信買超一百六十一點四一億元、外資及陸資賣超四百零五點一億元，三大法人合計賣超三百一十三點億元。\n\n電子權值股台積電收平盤二千三百九十元；聯電小漲收紅；國巨漲逾百分之七，收一千一百二十五元；鴻海、聯發科小漲收紅，台達電下跌百分之一。\n\n美國記憶體大廠美光科技財報告捷，帶旺記憶體族群強勢，南亞科、華邦電漲逾百分之七、旺宏反跌百分之六。\n\nＡＢＦ族群大漲，景碩、欣興、南電均亮燈鎖住漲停；ＣＣＬ族群勁揚，聯茂、騰輝電子-ＫＹ漲停。被動族群在國巨衝高下領漲，立隆電、千如、華容、九豪等漲停。\n\n觀察高價股走勢，股王信驊跌近百分之四、股后穎崴也跌百分之四，高價股漲跌互見，隨著南電、環球晶、欣興、旭隼、兆聯實業漲上千元關卡，台股收盤首度出現五十六千金股。\n\n匯市方面，美股漲跌互見，台股震盪收漲，新台幣匯率仍然在消化外資史上最大賣超金額的效應，難逃貶勢，摜破三十一點八元，收盤收三十一點八三五元，貶八點四分，台北及元太外匯市場總成交金額爆出四十一點六六億美元的巨量，超越二十四日紀錄，創史上第七大量。\n\n匯銀人士指出，台股展開反彈，外資賣超金額也大幅收斂，只要股市回穩，外資賣超帶來的貶值壓力也會減輕，加上六月適逢月底及季底，出口商有大量拋匯需求，可望支撐匯價，後續貶值空間有限。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-06-25",
+      "Time": "20:56:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美光財報佳帶動日韓股 台股開高走低漲211點",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E5%85%89%E8%B2%A1%E5%A0%B1%E4%BD%B3%E5%B8%B6%E5%8B%95%E6%97%A5%E9%9F%93%E8%82%A1-%E5%8F%B0%E8%82%A1%E9%96%8B%E9%AB%98%E8%B5%B0%E4%BD%8E%E6%BC%B2211%E9%BB%9E-125646887.html",
+      "Content": "台經院公布最新景氣調查報告指出，受惠於我國半導體廠商持續擴充高階製程產能，在AI算力需求強勁帶動下，先進製程、先進封裝及高階測試產能利用率可望維持高檔；整體而言，電子機械業對未來半年景氣展望，偏向審慎樂觀。",
+      "Language": "zh"
     },
     {
       "Ticker": "QCOM",
@@ -133,6 +153,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-25",
+      "Time": "20:23:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI造富卻掏空台灣幸福！ 《紐時》直擊竹科榮景背後的失衡",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%80%A0%E5%AF%8C%E5%8D%BB%E6%8E%8F%E7%A9%BA%E5%8F%B0%E7%81%A3%E5%B9%B8%E7%A6%8F-%E7%B4%90%E6%99%82-%E7%9B%B4%E6%93%8A%E7%AB%B9%E7%A7%91%E6%A6%AE%E6%99%AF%E8%83%8C%E5%BE%8C%E7%9A%84%E5%A4%B1%E8%A1%A1-122308584.html",
+      "Content": "當全球人工智慧（AI）熱潮持續推升半導體需求，台灣也成為全球供應鏈最受矚目的焦點之一。然而，《紐約時報》近日走訪新竹後發現，AI帶來的並不只是經濟成長與出口創新高，更讓科技業與非科技業之間的差距愈來愈明顯。\n\n在新竹科學園區周邊，一些家庭收入已達全台平均的5倍，工程師每年可領取數次相當於數個月薪資的獎金；另一邊，許多非科技產業從業人員卻面臨房價與生活成本持續上升的壓力。這場由AI帶動的財富浪潮，正重新塑造新竹的城市樣貌與社會結構。\n\n工程師獎金推升購屋潮 竹科家庭收入居全台前段班\n\n《紐約時報》指出，隨著台灣半導體產業崛起，台積電製造的先進晶片已成為推動AI發展的重要基礎。產業高速成長，也讓科技從業人員成為最大的受益者之一。\n\n新竹科學園區周邊家庭的收入在過去6年來一直位居全台前列。其中部分地區2023年的家庭綜合所得總額平均超過14.6萬美元（約新台幣468萬元），約為全台平均水準的5倍。\n\n高收入最直接反映在房市與消費市場。竹北因鄰近新竹科學園區與台積電總部，成為科技從業人員購屋首選。由於需求持續增加，新建案往往供不應求，部分個案甚至需要等待多年。\n\n當地房仲業者林品揚表示，每當晶片公司發放獎金，工程師便會開始規畫購屋或消費。他指出，不少客戶告訴他，獎金發下來後不知道該如何運用，因此不是直接購買新車，就是拿來支付房屋頭期款。\n\n在這波資金帶動下，竹北房價過去10年間已翻倍成長。除了房市受惠，高所得人口聚集也改變了當地消費型態。整形診所、高級餐廳與精品健身房陸續進駐，形成圍繞科技新貴而生的新生活圈。\n\n新竹遠東巨城購物中心更成為代表性消費場域。商場內設有特斯拉展示中心與蘋果專賣店，吸引大量科技家庭消費。根據商場統計，去年12月促銷期間，12天內便創造超過32億元營業額，較前一年成長6%。\n\nAI創造財富 新竹卻出現另一種壓力\n\n科技業帶來的高薪與高消費能力，也吸引大量家庭移入新竹。當台灣其他地區與東亞許多國家面臨人口下降問題時，新竹卻持續吸納人口，目前總人口已超過100萬人。\n\n收入增加的家庭，也催生出被稱為「竹科媽媽」的新社會群體。由於她們的丈夫多任職於利潤豐厚的半導體產業，她們得以把時間投入皮拉提斯課程、海外置產，或全力安排子女教育。\n\n然而，人口快速增加也讓教育資源面臨壓力。報導指出，新竹部分公立高中招生競爭日益激烈，部分學生必須跨區就學。受訪居民羅君儀表示，人口快速增加後，競爭明顯變得更加激烈。\n\n非科技業難共享榮景 貧富差距逐漸浮現\n\n《紐約時報》更關注的是，AI創造出的財富是否真正被廣泛分享。報導指出，雖然半導體產業持續推升出口與經濟表現，但這些成果並未同步反映在其他產業的薪資成長上。\n\n隨著房價與生活成本持續攀升，許多與科技產業無關的居民已愈來愈難負擔當地生活開銷。科技業員工則是能夠利用獎金購屋、消費與累積資產，但餐飲業、零售業與其他非科技產業從業人員，卻同樣必須面對上升的房價與物價。\n\n因此，在新竹這座AI時代的重要城市裡，一邊是因半導體產業受惠的高收入族群，另一邊則是未能同步受惠、卻必須",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, GOOGL",
       "Date": "2026-06-25",
       "Time": "20:22:00",
@@ -161,6 +191,16 @@
       "URL": "https://finance.yahoo.com/energy/articles/sunrun-stock-explodes-landmark-tesla-121849925.html",
       "Content": "This article first appeared on GuruFocus .\n\nSunrun ( NASDAQ:RUN ) shares surged Wednesday after the residential solar company partnered with Tesla ( NASDAQ:TSLA ) and Renew Home to develop a distributed energy network with more than 16 gigawatts of flexible power capacity aimed at supporting utilities and large data center operators.\n\nThe initiative combines capacity from hundreds of thousands of residential battery systems operated by Sunrun and Tesla with more than eight million smart thermostats and connected devices managed by Renew Home. The companies said the platform is designed to provide dispatchable electricity without requiring new transmission lines, land use, or additional water resources.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nSunrun said the network could become the largest distributed power plant in the United States as electricity demand from artificial intelligence infrastructure and hyperscale data centers continues to rise. The companies expect the aggregated resources to help relieve grid constraints and speed access to power in key markets.\n\nIn Virginia, a major U.S. data center hub, Sunrun said more than 300 megawatts of capacity is already available for deployment. That figure is expected to exceed 500 megawatts by 2030 as installations of home batteries and smart energy devices increase.\n\nSunrun shares jumped about 25% in Wednesday trading following the announcement.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-06-25",
+      "Time": "19:52:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超405億元  高檔調節記憶體股大砍力積電8.7萬張 三天賣台積電4.7萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85405%E5%84%84%E5%85%83-%E9%AB%98%E6%AA%94%E8%AA%BF%E7%AF%80%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1%E5%A4%A7%E7%A0%8D%E5%8A%9B%E7%A9%8D%E9%9B%BB8-7%E8%90%AC%E5%BC%B5-%E4%B8%89%E5%A4%A9%E8%B3%A3%E5%8F%B0%E7%A9%8D%E9%9B%BB4-7%E8%90%AC%E5%BC%B5-115211767.html",
+      "Content": "台股今 (25) 日受惠記憶體大廠美光盤後財報亮眼激勵，呈現跌深反彈格局，盤中一路平盤之上震盪整理，最後一盤在台積電 (2330-TW) 遭大砍 1.16 萬張賣壓下，終場以小漲 211 點作收，收 46,255 點，成交量縮減至 1.31 兆元。外資今日賣超台股 405.1 億元，連 3 日賣超台股達 2,565 億元，外資今日大砍力積電 (6770-TW) 8.79 萬張最多，也連續 3 日賣超台積電 4.72 萬張。\n\n在三大法人籌碼動向上，外資賣超 405.1 億元，已連 3 日大賣台股共 2,565 億元；投信買超 161.41 億元、自營商賣超 70.01 億元，三大法人合計賣超 313.7 億元。期貨部分，外資在期貨空單上減少 2,509 口，外資期貨空單累計為 8.1 萬口。\n\n今日外資買超前 10 名部分，有 4 名為金融股，外資看好美伊停火油價有望調降，加上暑假旅遊旺季加持，買超首位以華航 5.22 萬張居冠，其次看好台塑轉型利多，買超 3.94 萬居次，買合庫金 2.34 萬張排第 3，其後依序買臺企銀 1.85 萬張、彰銀 1.46 萬張、長榮航 1.34 萬張、台泥 1.27 萬張、元大金 1.2 萬張、聯電 1.17 萬張、台玻 1.11 萬張。\n\n外資今日賣超主要調節漲多的記憶體股，大砍力積電 8.79 張，居賣超第 1 名；賣超旺宏 5.41 萬張居次，賣超華邦電 1.69 萬張、南亞科 1.02 萬張；並賣超金寶 3.31 萬張、玉山金 3.02 萬張、兆豐金 2.68 萬張、南茂 2.11 萬張、永豐金 1.83 萬張、仁寶 1.76 萬張、華南金 1.7 萬張。\n\n投信買超前 10 名部分，共半數為金融股，買超第 1 位為華邦電 3.69 萬張、兆豐金 3.24 萬張、永豐金 3.06 萬張、華南金 2.53 萬張、玉山金 2.27 萬張、第一金 1.93 萬張、南亞科 1.59 萬張、遠傳 15,1 萬張、遠東新 1.39 萬張、買南亞 1.1 萬張。\n\n投信賣超前 10 名中，大賣聯電 2.72 萬張居冠，已連 5 賣；其次賣超元大金 1.3 萬張、台新新光金 7,149 張、亞泥 6,433 張、日月光投控 5,775 張、寶成 5,732 張、東和鋼鐵 5,335 張、群益證 5,154 張、東陽 4,695 張、旺宏 4,096 張。\n\n法人表示，今日台股屬於利多題材帶動的反彈格局，但因近期外資大幅調節下，市場高檔賣壓仍待消化，後續若指數能重新帶量站回 4 萬 7 千點，才有機會逐步化解昨日長黑帶來的技術壓力，讓盤勢重新回到較穩定的高檔整理格局。\n\n法人指出，以技術面觀察，目前指數持續測試月線位置，短線台股仍以震盪保守看待，外資在期現貨上保守布局，整體籌碼面偏保守看待。",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
