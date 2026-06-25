@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-25T19:00:56.542Z",
-  "total_news_count": 1353,
+  "last_updated": "2026-06-25T19:15:29.270Z",
+  "total_news_count": 1357,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-26",
+      "Time": "02:49:36",
+      "Source": "Yahoo Finance",
+      "Title": "Apple May Avoid Bigger iPhone Price Shock",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-may-avoid-bigger-iphone-184936252.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) may not raise iPhone prices as much as some investors feared, with J.P. Morgan expecting a more modest increase tied to higher memory costs, according to Seeking Alpha .\n\nAnalyst Samik Chatterjee said the iPhone 18 series could launch with a price increase of about $50, or a mid-single-digit percentage increase, rather than the $ 200-plus jump some reports had suggested.\n\nWarning! GuruFocus has detected 4 Warning Signs with PLTR.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe call comes after outgoing CEO Tim Cook confirmed earlier this month that Apple would raise prices on some products because of persistent memory shortages.\n\nJ.P. Morgan expects Apple to soften the hit through component savings and more vertical integration, including a bigger shift toward in-house modems and less reliance on Qualcomm (QCOM). Chatterjee estimated memory inflation could create a $ 100-plus year-over-year headwind, partly offset by $40 in broader component savings and another $15 from vertical integration.\n\nThe big takeaway is that Apple may be able to protect margins without shocking consumers. J.P. Morgan kept an Overweight rating on Apple, with iPhone pricing now a key watch item.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-06-26",
@@ -20,6 +30,26 @@
       "Title": "Veteran Bank Revamps AMD Stock Price Target for 2027",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-revamps-amd-stock-184736237.html",
       "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices Inc ( NASDAQ:AMD ) rose in focus after UBS lifted its price target to $670 from $455 while maintaining a Buy rating, citing improving server CPU demand trends, according to a UBS research note.\n\nAdvanced Micro Devices Inc ( NASDAQ:AMD ) has also benefited from strong momentum over the past year, with shares climbing roughly 275% to about $519.85, while valuation concerns persist as the stock trades above estimated fair value.\n\nWarning! GuruFocus has detected 9 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nAdvanced Micro Devices Inc ( NASDAQ:AMD ) is seeing support from expectations tied to broader adoption of standalone server CPUs, particularly as artificial intelligence workloads expand across global data centers and cloud infrastructure.\n\nAdvanced Micro Devices Inc ( NASDAQ:AMD ) estimates were lifted, with UBS raising CPU server revenue projections for 2026, 2027 and 2028 to $16 billion, $23 billion and $29 billion, up from prior levels, while 2030 forecasts increased to $50 billion from $41 billion, based on an unchanged 35x multiple.\n\nAnalysts suggest that despite strong profitability and cash generation, Advanced Micro Devices Inc ( NASDAQ:AMD ) may remain sensitive to valuation compression and execution risks if growth in key server markets slows or competition intensifies.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-26",
+      "Time": "02:47:23",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Price Hikes Raise Demand Risk",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-price-hikes-raise-demand-184723914.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is raising prices across much of its product lineup, and Evercore says the move could protect margins but also create fresh demand friction in Macs and iPads, according to Seeking Alpha .\n\nAnalyst Amit Daryanani said the price hikes show memory inflation is hitting harder and faster than expected, even for Apple.\n\nWarning! GuruFocus has detected 9 Warning Signs with AMD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nHe said the increases should help defend gross margins, but warned that intra-cycle price hikes are unusual for the company and could make some buyers hesitate, especially across Macs and iPads. Evercore kept an Outperform rating and $365 price target on Apple.\n\nThe changes are meaningful. The MacBook Neo rose to $699 from $599, while the iPad Pro jumped to $1,199 from $999. The iPad Air moved to $749 from $599, and the MacBook Pro increased to $1,999 from $1,699. Apple also raised prices on HomePod, HomePod mini, Apple TV, Vision Pro, and the high-end Mac mini.\n\nWith iPhone prices so far in check, the near-term impact is contained, but September's iPhone launch is the next major pricing test.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-26",
+      "Time": "02:47:10",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Raises Prices as Chip Costs Bite",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-raises-prices-chip-costs-184710257.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) fell more than 4% Thursday after raising prices on nearly all of its major products as memory and storage chip shortages pushed costs higher.\n\nThe MacBook Neo now starts at $699, up from $599, while the iPad Pro rose to $1,199 from $999. Apple also lifted the iPad Air to $749 from $599 and the MacBook Pro to $1,999 from $1,699. Smaller devices were not spared, with the HomePod rising to $349, HomePod mini to $129 and Apple TV to $199.\n\nWarning! GuruFocus has detected 9 Warning Signs with AMD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe Vision Pro also increased to $3,699 from $3,499, while higher-end Mac mini, iMac and Mac Studio models saw price hikes. Apple did not raise iPhone prices, though increases are expected with the next lineup this fall.\n\nApple said the move was not welcome news but tied it to unprecedented memory shortages. Tim Cook had already warned that price increases were unavoidable.\n\nthe question is whether Apple can protect margins without hurting demand. The next test comes with fall iPhone pricing.",
       "Language": "en"
     },
     {
@@ -53,13 +83,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-06-26",
       "Time": "02:43:00",
       "Source": "Yahoo Finance",
       "Title": "850 Billion Reasons (and Counting) Why Investors Love Apple Stock",
       "URL": "https://finance.yahoo.com/m/821ee32f-0c18-3cda-875f-3382551af674/850-billion-reasons-%28and.html",
       "Content": "Investors are certainly familiar with just how profitable Apple (NASDAQ: AAPL) is. Its reported net income margin in the fiscal 2026 second quarter (ended March 28) was a fantastic 26.6%. Pricing power and brand loyalty help drive bottom-line performance.\n\nThis kind of financial strength has allowed the business to take care of its shareholders. To be more specific, there are 850 billion reasons (and counting) why investors love Apple stock .\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nApple started its capital returns program in 2012. Since then, the business has repurchased $851 billion worth of shares, a truly massive figure that exceeds the current market capitalizations of all but 18 publicly traded companies.\n\nOn April 30, Apple added $100 billion in capacity for additional stock buybacks. This adds to the $64 billion remaining on its prior authorization. In total, this means it won't be long until Apple eclipses $1 trillion in cumulative share repurchases.\n\nAll else equal, buybacks introduce a tailwind to earnings per share (EPS) because they reduce the number of shares outstanding . In the past decade, Apple's diluted EPS has risen at a compound annual rate of 15.5%. During that time, the diluted outstanding share count shrank by about 33%.\n\nApple's stock price has soared 1,140% in the last 10 years (as of June 23). Investors should credit some of this performance to the leadership team's capital allocation policy.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-26",
+      "Time": "02:33:00",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla faces lawsuit from family of victim killed in Texas home crash",
+      "URL": "https://finance.yahoo.com/m/86d71a2b-8bd1-3fd1-a796-252dfdb6f3f6/tesla-faces-lawsuit-from.html",
+      "Content": "Tesla investors have placed a lot of eggs in the company's autonomous driving basket to justify its 338x trailing twelve-month price-to-earnings ratio.\n\nThe S&P 500 currently has a TTM PE ratio of 32, according to Multpl .\n\nThe company doubled down on its autonomous driving ambitions earlier this year when it announced a $25 billion capital expenditure plan focused on autonomous driving and the Optimus humanoid robot.\n\nTesla's overall Full Self-Driving (Supervised) adoption rate is climbing , but is still only about 14% with 1.28 million active subscribers.\n\nSo the company needs to avoid bad press concerning its suite of advanced driver assistance system options as much as possible if it wants it to be the revenue generator investors are expecting it to be.\n\nBut over the weekend, a Tesla with self-driving engaged crashed into a home in Texas, going 60 miles per hour, killing one of the occupants.\n\nAnd now, not only is the National Highway Traffic Safety Administration investigating the crash, but the family of the victim is also suing Tesla.\n\nFamily of woman killed when a Tesla crashed into her home sues\n\nMartha Avila was killed in Katy, a suburb outside of Houston, on Friday night when a Tesla with one of the company's ADAS systems activated, crashed into her brick home, going at least 60 mph.\n\nBy Tuesday, attorneys for the family had sued Tesla and Michael Butler, the driver of the Tesla Model 3, in Harris County District Court, alleging the vehicle features a \"design flaw\" that constitutes negligence, CNBC reported .\n\nButler told the Harris County Sheriff's Office that he was using Tesla Autopilot at the time of the crash. However, it should be noted that Tesla discontinued Autopilot earlier this year to replace it with an ADAS known as \"self-driving\" (not to be confused with its level-2 autonomous system Full Self-Driving).\n\nThe Sheriff's Office now says he was \"operating with an automated driving assistance system engaged at the time of the crash.\"\n\nThe police report from the incident noted that the driver was not drunk at the time of the crash and was cooperating with police.\n\nFootage of the incident shows the Tesla barreling down a residential street at high speed. The mother of the family living inside said the crash sounded like an explosion.\n\nTesla execs deny Tesla FSD is at fault\n\nWhile the NHTSA is still investigating, Tesla CEO Elon Musk has already commented on the incident, proclaiming on his X account that FSD could not be involved. \"Yes, this makes no sense. FSD drives slowly through neighborhood streets and this was a high-speed crash!\" he wrote on June 22 .\n\nStory Continues\n\nLast August, a Florida jury ruled that the family of Naibel Benavides and crash survivor Dillon Angulo were entitled to the nearly quarter-billion-dollar award after driver George McGee crashed his Tesla into a vehicle they were standing outside of.\n\nMcGee testified that he had Autopilot engaged when he killed the 22-year-old Benavides in Key Largo in 2019, but that his eyes were also off the road while he looked for the cellphone he had dropped.\n\nWhile Tesla argued that data showed McGee had his foot on the accelerator, overriding Autopilot, in the moments before his vehicle crashed at over 60 mph, the jury found Tesla 33% responsible for the crash.\n\nThat last little tidbit about McGee's foot being on the accelerator during the time of the crash is relevant because that seems to be Tesla's line of defense.\n\nTesla's AI chief Ashok Elluswamy also took to X to defend his technology, calling the early reporting that the driver was using Tesla FSD \"blatantly irresponsible reporting [that] does more harm to people than they realize.\"\n\nMore Tesla FSD news\n\nTesla stock tumbles amid new probe over fatal crash into Texas home\n\nTesla loses crucial Autopilot ruling that could cost hundreds of millions\n\nU.S. Senators say Tesla FSD data presents 'urgent safety problem'\n\nWhile he seemed to confirm that self-driving was engaged, \"the driver manually overrode self-driving by pressing the accelerator all the way to 100%,\" he said, adding that the driver had the accelerator pressed even after the crash.\n\nSome might see that as a design flaw. Tesla wants to give its drivers the ability to override FSD and press the accelerator to 100%, but that design decision is already attracting scrutiny in Europe.\n\nTesla FSD European Union approval faces opposition from Sweden\n\nTesla FSD has been approved in five European countries so far, and it appears headed for fast-track European Union approval as soon as Q1 2027.\n\nHowever, the technology is also facing tough scrutiny, with at least one of Sweden's transportation regulatory bodies recommending that the nation become one of the highest-profile opposers of Tesla's FSD dreams in Europe .\n\nThe Swedish Transport Administration ( TRV ) sent a letter recommending that Tesla FSD (Supervised) not be approved for the European Union unless the system's ability to ignore speed limits is removed, Reuters confirmed , citing a previously unreported letter obtained through a freedom of information request.\n\nThe TRV sent the letter, dated April 30, to the EU's Technical Committee on Motor Vehicles, which is scheduled to reconvene on June 30 to discuss Tesla's approval ahead of a later official vote.\n\nTesla FSD offers a \"Speed Offset\" setting that lets users exceed posted speed limits by a margin the driver sets. But \"allowing automated systems to systematically exceed legal speed limits… risks undermining both the legal framework and the expected safety benefits of vehicle automation,\" according to the letter.\n\nRelated: Tesla stock tumbles amid new probe over fatal crash into Texas home\n\nThis story was originally published by TheStreet on Jun 25, 2026, where it first appeared in the Automotive section. Add TheStreet as a Preferred Source by clicking here.",
       "Language": "en"
     },
     {
@@ -73,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "AAPL, MU",
       "Date": "2026-06-26",
       "Time": "02:17:36",
       "Source": "Yahoo Finance",
