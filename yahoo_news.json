@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-25T17:15:50.881Z",
-  "total_news_count": 1322,
+  "last_updated": "2026-06-25T17:21:00.469Z",
+  "total_news_count": 1323,
   "news": [
+    {
+      "Ticker": "STM",
+      "Date": "2026-06-26",
+      "Time": "01:02:08",
+      "Source": "Yahoo Finance",
+      "Title": "European shares hit record close with healthcare stocks leading broader rally",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html",
+      "Content": "By Utkarsh Hathi, Johann M Cherian and Purvi Agarwal\n\nJune 25 (Reuters) - European shares notched up a record high close on Thursday, with healthcare stocks leading the way while a resurgent AI rally triggered by ‌strong forecasts from Micron and Qualcomm lent support early in the session.\n\nThe pan-European STOXX 600 index ‌ended 0.8% higher at a record close of 640.21, after touching an intrday record of 642.09 in the session. It was the biggest one-day ​jump in near two weeks.\n\nMore from Yahoo Scout\n\nWhat role did AI rally play in market gains?\n\nHow did Bayer's court victory impact stock performance?\n\nHow are inflation concerns affecting Federal Reserve policy expectations?\n\nWhat drove European shares to record high close?\n\nHealthcare stocks were among the biggest boosts to the index, up 1.5%. Bayer jumped 18.7% to top the STOXX 600 after a court victory in which the U.S. Supreme Court reined in thousands of lawsuits accusing the pharma firm of failing to warn users that the active ingredient in its Roundup weedkiller causes cancer.\n\nMeanwhile, a rally in ‌tech stocks helped push the STOXX 600 ⁠to an intraday high, but fizzled out later in the session. The sector closed up 0.8% after gaining as much as 2.5% in the session.\n\nStrong forecasts from Micron and Qualcomm ⁠calmed investor concerns that a rally in global AI-linked stocks had run too far.\n\nChipmakers Infineon and STMicroelectronics gained 3.1% and 5.1%, respectively, while semiconductor equipment supplier ASML climbed 2.6%\n\nAI-equipment maker Siemens Energy rose 2.3%.\n\n\"While Europe is sort of lacking tech leaders in ​a ​way, some of the companies are still in a place where ​they can get material benefits from it,\" said ‌Martin Frandsen, a portfolio manager at Principal Asset Management.\n\nElsewhere, U.S. inflation broke above 4% in May, for the first time in three years, as the U.S.-Israeli conflict with Iran drove up energy prices, keeping an interest rate increase from the Federal Reserve this year on the table.\n\n\"Today's data is a reminder that inflation remains well above target and growth remains solid. This will keep the Fed on hold for quite some time, until conditions allow for a ‌cut,\" said Ellen Zentner, chief economic strategist for Morgan Stanley Wealth ​Management.\n\nOil prices reversed declines to gain after a report said Tehran planned ​to make billions in fees from reopening the ​Strait of Hormuz.\n\nThe uncertainty over the opening of the crucial waterway prompted traders to continue ‌pricing in an interest rate hike by the Federal ​Reserve and the European Central ​Bank by year-end, according to LSEG-compiled data.\n\nAmong other stocks, 3i Group jumped 11.4% after its portfolio company Action's like-for-like sales growth.\n\nEasyJet shares rose 6.4% after the British budget carrier rejected a fourth takeover offer from ​U.S.-based investment firm Castlelake.\n\nStory Continues\n\nGerman automaker Volkswagen ‌added 1.3% after agreeing to sell its diesel engine unit Everllence to Bain Capital in a deal ​generating proceeds of about €7.4 billion ($8.4 billion).\n\n(Reporting by Utkarsh Hathi, Johann M Cherian and Purvi Agarwal in ​Bengaluru; Editing by Sonia Cheema, Nivedita Bhattacharjee and Elaine Hardcastle)",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-06-26",
@@ -113,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ON",
+      "Ticker": "STM, ON",
       "Date": "2026-06-25",
       "Time": "23:45:00",
       "Source": "Yahoo Finance",
