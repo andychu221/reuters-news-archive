@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-26T13:20:44.290Z",
-  "total_news_count": 448,
+  "last_updated": "2026-06-26T14:19:48.002Z",
+  "total_news_count": 449,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-06-26",
+      "Time": "21:30:00",
+      "Source": "經濟日報",
+      "Title": "路透：印度塔塔電子遇駭 外流資料疑含台積電文件",
+      "URL": "https://money.udn.com/money/story/5599/9591296?from=edn_search_result",
+      "Content": "中央社 新德里26日綜合外電報導\n\nAI重點 塔塔電子遭World Leaks駭入，客戶機密文件疑大量外流至暗網。 外洩資料疑含台積電與高通文件，並牽涉蘋果晶片工程資料。 塔塔已限制內部存取並啟動鑑識調查，蘋果資安團隊亦介入。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-06-26",
