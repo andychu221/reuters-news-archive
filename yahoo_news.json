@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-26T00:15:41.027Z",
-  "total_news_count": 1417,
+  "last_updated": "2026-06-26T00:40:34.867Z",
+  "total_news_count": 1418,
   "news": [
+    {
+      "Ticker": "META, MSFT",
+      "Date": "2026-06-26",
+      "Time": "08:15:00",
+      "Source": "Yahoo Finance",
+      "Title": "Decibel brings Apple, Meta and Microsoft to onchain trading with no market hours",
+      "URL": "https://finance.yahoo.com/m/156476d7-173c-3cae-ac88-7516ed0bf84e/decibel-brings-apple%2C-meta.html",
+      "Content": "Traders can now go long or short on Apple (NASDAQ: AAPL), Meta (NASDAQ: META), Microsoft (NASDAQ: MSFT), and Strategy (NASDAQ: MSTR), no brokerage account, no market hours, no middleman.\n\nDecibel, a fully on-chain perpetual exchange built on the Aptos blockchain , has listed five new markets, namely AAPL, META, MSFT, MSTR, and LIT.\n\nAptos is a high-performance layer-1 blockchain built for speed and scalability, capable of processing thousands of transactions per second with sub-second finality.\n\nRelated: Explained: What is a perpetual DEX? A Wall Street primer featuring Decibel\n\nWhat this means in practice\n\nHere is a simple example. Apple reports earnings after the market closes on a Friday. The stock moves, but traditional markets stay shut until Monday morning. On Decibel, traders can react the moment the numbers drop.\n\nThat gap matters more than ever right now. Tech stocks have swung sharply in both directions over the past few months. The Nasdaq climbed 15.29% in April, its biggest monthly gain since the Covid pandemic began in April 2020, powered by strong earnings from Alphabet, Amazon , and Microsoft, according to CNBC .\n\nThe rally did not last. By June 24, the Nasdaq and S&P 500 closed lower, pulled down by concerns over stretched valuations. Micron Technology is the clearest recent example of the problem. The stock surged more than 200% in 2026, closed Wednesday down 0.3%, then beat Wall Street estimates after the bell, Reuters reported . Traditional traders had to wait until Thursday to act. On Decibel, that window does not exist.\n\nPerpetual futures, or perps, are contracts with no expiration date. They track an asset's price in real time using funding rates. On Decibel, every trade, liquidation, and margin check runs onchain on Aptos and is publicly verifiable, no closed-door order matching, no hidden fund movement.\n\nTrending on TheStreet Roundtable:\n\nAnalysts share stark warning for Strategy\n\nNasdaq-listed firm makes a drastic move to go all in on Bitcoin\n\nMark Zuckerberg eyes another billion-dollar market\n\nThe bigger arc\n\nThis is not Decibel's first expansion. The exchange launched gold perps in April, added silver and oil shortly after, then listed Nvidia, Tesla, Google, and Amazon in May. Adding AAPL, META, MSFT, and MSTR, puts some of the world's most traded names fully onchain for the first time.\n\nThe market Decibel is entering is growing fast. According to BitMEX's Q1 2026 Derivatives Report , weekly volume in commodity perpetual markets jumped from $38.1 million to $25 billion in a single quarter, a 65,463% increase.\n\nStory Continues\n\nEquity perps are expected to follow the same path. Decibel is building the infrastructure to be the venue where that happens, one asset class at a time.\n\nRelated: Gold, silver, and oil are now trading 24/7 on-chain. The numbers are massive.\n\nThis story was originally published by TheStreet on Jun 25, 2026, where it first appeared in the MARKETS section. Add TheStreet as a Preferred Source by clicking here.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, TSM",
       "Date": "2026-06-26",
