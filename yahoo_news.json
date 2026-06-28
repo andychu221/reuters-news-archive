@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-06-28T21:15:18.040Z",
-  "total_news_count": 310,
+  "last_updated": "2026-06-28T21:40:02.431Z",
+  "total_news_count": 311,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL",
+      "Date": "2026-06-29",
+      "Time": "05:18:12",
+      "Source": "Yahoo Finance",
+      "Title": "Apple’s AI overhaul seen driving upgrade cycle as BofA backs long-term upside",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-ai-overhaul-seen-driving-211812667.html",
+      "Content": "Investing.com -- Apple's latest artificial intelligence strategy unveiled at its 2026 Worldwide Developers Conference represents a significant reset that could strengthen its ecosystem and support future hardware upgrades, according to analysts at Bank of America Securities. The brokerage maintained its Buy rating on the iPhone maker with a $380 price objective, arguing that investors are underestimating the significance of the company's revamped Siri AI architecture.\n\nBofA said the new Siri AI transforms the assistant into a context-aware, multimodal platform capable of understanding personal data, screen content and app activity across Apple's ecosystem. The firm believes the move positions AI as a native layer spanning iPhones, iPads, Macs, Watches and other devices, potentially deepening ecosystem lock-in and boosting user engagement with Apple's services.\n\nA key feature of the new architecture is Apple's hybrid AI model, which combines on-device processing, Private Cloud Compute (PCC) and cloud infrastructure powered by Google Cloud and Nvidia GPUs for more demanding tasks. The company introduced a five-model Apple Foundation Models (AFM 3) family, including two on-device models and three cloud-based models designed to handle everything from routine queries to advanced reasoning and image generation.\n\nBofA highlighted AFM 3 Core Advanced as one of the most important announcements. The 20-billion-parameter sparse model activates only a fraction of its parameters for each request, allowing Apple to deliver more powerful on-device AI capabilities while limiting memory and compute requirements. Analysts said the approach could improve response quality, privacy and latency while reducing reliance on costly cloud infrastructure.\n\nThe brokerage also pointed to Apple's collaboration with Google on cloud-based AI models as a pragmatic way to accelerate competitiveness in generative AI. However, it noted that future margins could become increasingly sensitive to how often users rely on complex AI functions requiring cloud-based reasoning and image-generation workloads.\n\nWhile BofA expects roughly half of AI requests to remain on-device by 2030, it estimates that Apple's most advanced Cloud Pro model could account for just 5% of requests but as much as 67% of weighted cloud-computing costs because of its higher processing intensity. Analysts said this makes efficient routing of AI workloads critical to preserving profitability as Apple Intelligence adoption scales.\n\nBofA maintained that Apple remains well-positioned due to expected AI-driven iPhone upgrade cycles, expanding services revenue and continued shareholder returns, while viewing execution of the new Siri AI platform as a key factor for long-term growth.\n\nTop of Form\n\nBottom of Form\n\nApple's AI overhaul seen driving upgrade cycle as BofA backs long-term upside\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-06-29",
       "Time": "04:50:00",
       "Source": "Yahoo Finance",
