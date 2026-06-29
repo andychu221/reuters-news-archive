@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-29T18:20:49.182Z",
-  "total_news_count": 363,
+  "last_updated": "2026-06-29T18:40:30.477Z",
+  "total_news_count": 367,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-30",
+      "Time": "02:30:46",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon shifts Anthropic AI billing to token model, disputes report of higher costs",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-shifts-anthropic-ai-billing-183046300.html",
+      "Content": "Investing.com -- Amazon has restructured part of its partnership with artificial intelligence startup Anthropic, shifting from paying for its AI models based on computing hours to a token-based pricing model beginning next year, according to a report by The Information.\n\nThe report , citing people familiar with the matter, said the change could increase Amazon's costs for using Anthropic's large language models, including Claude. Amazon disputed that claim.\n\n\"Amazon and Anthropic share a multifaceted partnership grounded in technical collaboration, and we continue to foster that relationship and deepen our work together,\" an Amazon spokesperson said, adding that it was \"incorrect that changes from our expanded collaboration will increase our costs.\"\n\nAmazon uses Anthropic's models to power several AI offerings, including its Alexa shopping assistant, the Kiro coding tool and Quick, a workplace assistant.\n\nThe companies have been partners since 2023, when Amazon invested $4 billion in Anthropic in exchange for the startup making Amazon Web Services (AWS) its primary cloud provider and using Amazon's custom AI chips for training and inference. Earlier this year, Amazon agreed to invest up to an additional $25 billion in Anthropic.\n\nAmazon has also expanded its AI ecosystem through a separate partnership with OpenAI. Under that agreement, Amazon will invest up to $50 billion, while OpenAI will use AWS infrastructure, offer its models through Amazon Bedrock and provide Amazon access to its AI models for use across the company's products and services.\n\nAmazon shifts Anthropic AI billing to token model, disputes report of higher costs\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-06-30",
+      "Time": "02:17:34",
+      "Source": "Yahoo Finance",
+      "Title": "Anthropic launches Claude models on Microsoft Azure powered by NVIDIA GB300 GPUs",
+      "URL": "https://finance.yahoo.com/m/58776f72-0f46-3afa-8b9e-b8cec2138931/anthropic-launches-claude.html",
+      "Content": "Investing.com -- Anthropic said on Monday its Claude family of artificial intelligence models is now available in Microsoft Foundry on Azure, running on NVIDIA's GB300 Blackwell Ultra GPU systems, marking the AI startup's first deployment on NVIDIA hardware.\n\nThe availability gives Azure customers access to Claude models for building autonomous and domain-specific AI agents, as enterprises increase investment in agentic AI applications that automate complex business tasks. Anthropic said the deployment is designed to improve inference performance and efficiency while reducing the total cost of ownership for enterprise AI workloads.\n\nThe launch builds on a strategic partnership announced by Microsoft, NVIDIA and Anthropic in November to expand enterprise access to Claude models through NVIDIA-accelerated computing.\n\nThe models run on NVIDIA GB300 NVL72 systems with Quantum-X800 InfiniBand networking, enabling customers to deploy more advanced AI agents, including specialized sub-agents that can operate across different business functions.\n\nNVIDIA said it is also expanding its partnership with Anthropic by integrating its software tools into the Claude ecosystem. The collaboration includes NVIDIA Verified Agent Skills, allowing enterprises to equip Claude agents with domain-specific capabilities using NVIDIA-accelerated computing.\n\nCustomers can deploy Claude agents on Azure using NVIDIA's Secure Agent Workspace Reference Design, which provides infrastructure-level controls for identity, networking, credentials and runtime policies.\n\nAnthropic launches Claude models on Microsoft Azure powered by NVIDIA GB300 GPUs\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-06-30",
+      "Time": "02:02:48",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon, Flipkart Push Wipes $15 Billion Off India's Quick-Commerce Leaders",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-flipkart-push-wipes-15-180248474.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com ( NASDAQ:AMZN ) and Walmart ( NASDAQ:WMT )-owned Flipkart are ramping up their push into India's fast-growing quick-commerce market, putting fresh pressure on incumbents Eternal and Swiggy. The intensified competition has weighed on investor sentiment, with Eternal shares falling 28% from their October peak and Swiggy declining about 47% from its September high, erasing more than $15 billion in combined market value. Investors are increasingly assessing whether the surge in competition could extend the timeline for profitability across the sector.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAmazon is accelerating its expansion after entering the ultra-fast delivery market last year, announcing plans to grow Amazon Now from more than 15 Indian cities and towns to over 300. Flipkart Minutes has also expanded rapidly, reaching 1,000 dark stores across 130 cities and reportedly targeting 1,500 stores in more than 180 cities over the coming months. At the same time, Reliance Retail is leveraging its network of more than 3,100 stores serving over 1,200 cities to strengthen JioMart's quick-commerce operations, adding another well-funded competitor to the $11 billion market.\n\nSeveral analysts believe the sector could remain highly competitive for an extended period as companies prioritize market share over near-term profits. Macquarie lowered its target prices for Eternal and Swiggy, downgraded Swiggy to Underperform, and said competitive intensity could last \"years, not quarters.\" Meanwhile, Zepto is preparing for a potential IPO after its unlisted shares declined more than 32% since February, highlighting how investor expectations have become more measured even as demand continues expanding beyond India's largest metropolitan areas.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-30",
@@ -50,6 +80,16 @@
       "Title": "This Little-Known Company Sinks After Securing $11 Million in Nvidia Blackwell AI Servers",
       "URL": "https://finance.yahoo.com/technology/ai/articles/little-known-company-sinks-securing-175239266.html",
       "Content": "This article first appeared on GuruFocus .\n\nBit Origin ( NASDAQ:BTOG ) slid about 15% on Monday after the company disclosed an acquisition of roughly $11 million worth of Nvidia Blackwell B300 AI infrastructure.\n\nThe Singapore-based company said the transaction includes 16 Nvidia Blackwell B300 AI servers that are expected to arrive during the third quarter of 2026. The systems are slated for deployment at a Malaysia data center under existing hosting arrangements.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nBit Origin said the purchase will be funded through $1 million in cash and $10 million of equity issued through pre-funded warrants. The deal also includes customer deployment agreements and hosting contracts tied to the acquired infrastructure.\n\nBased on those agreements, Bit Origin expects the servers to generate about $360,000 in monthly revenue before operating expenses once they become operational. The company said commercial deployment is expected to begin following delivery of the equipment.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-06-30",
+      "Time": "01:48:56",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet shares jump after joining Dow Jones Industrial Average",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-shares-jump-joining-dow-174856455.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet (GOOG) shares climbed about 3% on Monday as the Google parent joined the Dow Jones Industrial Average, replacing Verizon Communications,\n\nAlphabet gained ground despite a recent pullback that saw the stock lose roughly 10% over the past month. The move came alongside a broader rebound in large-cap technology stocks, with several major AI-linked names also trading higher.\n\nWarning! GuruFocus has detected 3 Warning Sign with NOW.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nAlphabet drew additional attention following reports that demand for its artificial intelligence services has become so strong that the company has placed limits on usage by some customers, including Meta Platforms (META). The reported restrictions suggest growing interest in Alphabet's AI offerings as enterprises expand AI deployments.\n\nAlphabet has increasingly benefited from rising demand for cloud and AI infrastructure. In its latest reported quarter, Alphabet said revenue from its cloud division rose 63% year over year, marking the fastest growth rate since the company began separately disclosing the segment's performance.\n\nAnalysts remain focused on Alphabet's cloud business as a key growth driver. TD Cowen projects Alphabet's cloud revenue could expand at a compound annual growth rate of 37%, reaching about $480 billion by 2031 from roughly $100 billion this year.",
       "Language": "en"
     },
     {
