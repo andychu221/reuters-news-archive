@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-29T19:18:14.630Z",
-  "total_news_count": 378,
+  "last_updated": "2026-06-29T19:40:17.407Z",
+  "total_news_count": 379,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-30",
+      "Time": "03:16:25",
+      "Source": "Yahoo Finance",
+      "Title": "Google Expands AI Push With SandboxAQ Models After $500 Million CHIPS Award",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-expands-ai-push-sandboxaq-191625171.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) is expanding its push into specialized AI by bringing SandboxAQ's large quantitative models to Google Cloud Marketplace. The move could give enterprise and research customers broader access to AI tools built for drug discovery, materials science and semiconductor manufacturing.\n\nWarning! GuruFocus has detected 7 Warning Signs with VWAGY.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThe first model, AQCat, is designed to help researchers find promising catalyst and materials candidates for uses ranging from semiconductor manufacturing to battery development. A second model, AQPotency, will focus on drug discovery by helping identify molecules that may bind to disease targets.\n\nThe partnership follows SandboxAQ's $500 million CHIPS program award and could strengthen Alphabet's position in scientific AI beyond Gemini and Google DeepMind's Isomorphic Labs. For investors, the development possibly points to growing demand for AI systems that can tackle complex research problems across pharma, chips and advanced materials.",
+      "Language": "en"
+    },
     {
       "Ticker": "005930.KS, 000660.KS",
       "Date": "2026-06-30",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, NVDA",
       "Date": "2026-06-30",
       "Time": "02:27:00",
       "Source": "Yahoo Finance",
