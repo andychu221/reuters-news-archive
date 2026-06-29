@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-29T13:00:46.273Z",
-  "total_news_count": 294,
+  "last_updated": "2026-06-29T13:15:41.028Z",
+  "total_news_count": 297,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-29",
+      "Time": "21:01:46",
+      "Source": "Yahoo Finance",
+      "Title": "AI Memory Crunch Hits Hardware Makers",
+      "URL": "https://finance.yahoo.com/technology/articles/ai-memory-crunch-hits-hardware-130146635.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) and Microsoft ( MSFT , Financials ) are starting to pass higher memory costs on to customers.\n\nWarning! GuruFocus has detected 3 Warning Sign with TM.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe reason is the AI boom. Data centers need more memory chips, and that has tightened supply across the electronics market.\n\nApple raised prices on some iPads and Macs. Microsoft also lifted the Xbox Series S price by $100. Both companies have enough scale to push through increases, even if some buyers may wait longer before upgrading.\n\nSmaller hardware companies are in a harder spot. GoPro said memory costs jumped 80% to 115% near the end of the first quarter. Sonos is also dealing with higher component costs.\n\nMicron is benefiting from the same pressure. As memory prices rise, suppliers have more pricing power.\n\nFor investors, this is a split story. Apple and Microsoft can probably manage the hit. Smaller device makers may struggle. Micron is one of the clearer winners while supply stays tight.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-06-29",
+      "Time": "20:52:33",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Faces Q2 Delivery Test",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-faces-q2-delivery-test-125233956.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ) is set to release its second-quarter delivery numbers this week , with investors watching closely to see whether improving demand overseas can make up for slower sales in the U.S.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nBarclays expects the electric vehicle maker to deliver about 418,000 vehicles, ahead of the Wall Street consensus of roughly 396,000. The brokerage believes stronger performance in China and Europe could provide enough momentum to offset softer demand in Tesla's home market.\n\nThe delivery report is one of the company's most closely watched updates because it offers an early snapshot of vehicle demand before quarterly earnings are released. A stronger-than-expected figure could reassure investors that Tesla is still finding growth in key international markets despite increasing competition and a more challenging EV market.\n\nAt the same time, the results may also offer clues about pricing, profitability and consumer demand, all of which remain major concerns for investors this year.\n\nWhile attention has increasingly shifted toward Tesla's long-term AI and autonomous driving ambitions, vehicle deliveries remain the foundation of the business. This week's report will give investors a clearer picture of how the company is performing today while it continues investing in its future.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-29",
@@ -10,6 +30,16 @@
       "Title": "Nvidia's AI Infrastructure Push Gets Bigger",
       "URL": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-infrastructure-push-gets-125108365.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) is widening its AI infrastructure reach through a new strategic partnership with Australian AI cloud company Firmus Technologies.\n\nUnder the deal, Firmus will buy Nvidia hardware and offer Nvidia-powered cloud services to startups and smaller AI-focused companies. Nvidia will benefit from hardware sales as well as a share of cloud-service revenue generated through the partnership.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe project is large. Firmus plans to deploy 170,000 GPUs between early 2027 and early 2028 at facilities in Batam, Indonesia. The company said existing customer commitments could generate as much as $30 billion in revenue over the first 6 years.\n\nThe goal is to give smaller AI developers better access to computing power, a market currently dominated by tech giants with deeper pockets and lower infrastructure costs. Nvidia is already an investor in Firmus, which said earlier this year it raised $1.35 billion over 6 months at a valuation of about $5.5 billion.\n\nthe deal shows Nvidia's AI opportunity is expanding beyond hyperscalers. The next thing to watch is whether Firmus can turn those GPU deployments into contracted cloud revenue.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-29",
+      "Time": "20:40:03",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Defies U.S. Ban, Begs Trump for Access to Blacklisted Chinese Chips",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-defies-u-ban-begs-124003059.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is lobbying the Trump administration for permission to source memory chips from ChangXin Memory Technologies, a Chinese supplier blacklisted by the U.S. government.\n\nThe iPhone maker has approached the White House, Commerce Department and other administration officials in recent weeks seeking approval to purchase DRAM and NAND memory chips from CXMT, the report said. Apple is grappling with rising component costs driven largely by booming artificial intelligence-related demandCXMT, China's largest memory chipmaker, has been designated a Chinese military company by the Pentagon and approved for addition to the Commerce Department's Entity List. U.S. exports of goods and technology to companies on the list generally require a government license that is typically presumed to be denied.\n\nWarning! GuruFocus has detected 2 Warning Sign with GOLD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe discussions highlight the difficult position facing major U.S. technology companies as Washington tightens restrictions on Chinese semiconductor firms while AI-driven demand continues to push memory prices higher. Apple last week raised prices on certain iPad and MacBook models, citing higher memory and storage component costs that it said it could no longer fully absorb as AI infrastructure investment drives up chip demand.",
       "Language": "en"
     },
     {
