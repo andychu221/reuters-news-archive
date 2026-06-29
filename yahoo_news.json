@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-29T17:00:57.127Z",
-  "total_news_count": 347,
+  "last_updated": "2026-06-29T17:15:10.967Z",
+  "total_news_count": 349,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-30",
+      "Time": "01:11:10",
+      "Source": "Yahoo Finance",
+      "Title": "Micron, Intel Stocks Extend Selloff as $200 Billion Chip Sector Wipes Out",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-intel-stocks-extend-selloff-171110811.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) and Intel ( NASDAQ:INTC ) led semiconductor stocks lower on Monday as the sector continued its downward trend following last week's selloff.\n\nThe broader market indices traded higher by mid-morning, supported by de-escalation in U.S.-Iran tensions. However, chip stocks remained under pressure, with the Philadelphia Semiconductor Index sliding about 1.2% in early trading.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nMicron shares fell more than 3% in morning action, extending losses after a volatile week for memory chipmakers. Intel declined roughly 2%, while other chip names including Advanced Micro Devices ( NASDAQ:AMD ) and Marvell Technology ( NASDAQ:MRVL ) also traded in the red.\n\nThe weakness in semiconductor stocks comes despite easing geopolitical concerns that had weighed on markets in recent sessions. Investors appeared to rotate out of chip names following a strong run in the sector, with some analysts suggesting profit-taking may be driving the pullback.\n\nMicron's decline followed a sharp drop on Friday after the company reported earnings that failed to impress investors. The memory chipmaker has been under pressure amid concerns about oversupply in the DRAM market and softening demand from PC and smartphone manufacturers.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-06-30",
+      "Time": "00:50:26",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet joins Dow Jones Industrial Average, shares rise 3.7%",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-joins-dow-jones-industrial-165026757.html",
+      "Content": "Investing.com -- Alphabet Inc. (NASDAQ:GOOGL) shares rose 3.7% to $350.24 on Monday as the Google parent company began trading as a member of the Dow Jones Industrial Average, replacing Verizon Communications (NYSE:VZ).\n\nS&P Dow Jones Indices announced the change on June 23. Alphabet became one of the most influential members of the 30-stock index due to its higher share price compared to Verizon, which was among the index's least influential components.\n\nThe addition expands the Dow's exposure to digital advertising, cloud computing and artificial intelligence sectors. Alphabet now joins four other members of the Magnificent Seven tech group in the index: Nvidia Corp. (NASDAQ:NVDA), Amazon.com Inc. (NASDAQ:AMZN), Apple Inc. (NASDAQ:AAPL), and Microsoft Corp. (NASDAQ:MSFT).\n\nThe most recent Dow reshuffle occurred in November 2024, when Nvidia and Sherwin-Williams Co. (NYSE:SHW) replaced Intel Corp. (NASDAQ:INTC) and Dow Inc. (NYSE:DOW).\n\nIndex funds that track the Dow Jones Industrial Average must purchase Alphabet shares to reflect the change. The Dow had approximately $115 billion in assets indexed and benchmarked to it as of December 31, 2024, compared to roughly $20 trillion for the S&P 500, where Alphabet already holds membership, according to S&P Dow Jones Indices.\n\nAlphabet shares have gained approximately 11% this year through Friday's close, ranking among the top performers within the Magnificent Seven group of technology companies.\n\nAlphabet joins Dow Jones Industrial Average, shares rise 3.7%\n\nWolfe Research outlines eight risks that could spark stock declines in 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-06-30",
@@ -13,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-06-30",
       "Time": "00:48:00",
       "Source": "Yahoo Finance",
