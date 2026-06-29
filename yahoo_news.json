@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T18:03:19.488Z",
-  "total_news_count": 361,
+  "last_updated": "2026-06-29T18:15:13.142Z",
+  "total_news_count": 362,
   "news": [
     {
       "Ticker": "NVDA",
@@ -20,6 +20,16 @@
       "Title": "Palantir and Nvidia Bring Open AI Models Inside U.S. Government Systems",
       "URL": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-bring-open-ai-175410986.html",
       "Content": "This article first appeared on GuruFocus .\n\nPalantir Technologies ( NASDAQ:PLTR ) rose 3.85% intraday after the data analytics company announced a strategic initiative with Nvidia ( NASDAQ:NVDA ) to deploy Nemotron open models inside U.S. government agencies and critical infrastructure, where classified, air-gapped, and sensitive environments require sovereign control over AI systems. The offering combines Nvidia's Nemotron models and AI Enterprise software with Palantir's AIP, Ontology, Foundry, and Apollo platforms, giving government customers the ability to train, adapt, and post-train models on their own proprietary data without that data migrating into closed model weights. Nvidia rose 0.93% intraday.\n\nKarp said the initiative removes security risks associated with proprietary insights migrating into closed models, adding that multiple U.S. clients supporting critical infrastructure are already using Nemotron models through Palantir's platforms. Nvidia CEO Jensen Huang framed open-source AI as foundational to national security and U.S. technology leadership. Financial terms were not disclosed. The initiative builds on a previously announced Sovereign AI Operating System Reference Architecture between the two companies.\n\nIn a separate announcement , Palantir expanded its partnership with Surf Air Mobility ( NYSE:SRFM ), committing additional engineering and go-to-market resources to accelerate the commercial rollout of SurfOS, an aviation operating system powered by Palantir's AIP and Foundry covering operators, owners, and brokers in private aviation. The expansion follows the commercial launch of BrokerOS and a contract with Wheels Up as its first enterprise customer. Financial terms were not disclosed either.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-06-30",
+      "Time": "01:53:27",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Eyes China Memory Option",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-eyes-china-memory-option-175327009.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) is getting fresh attention as it looks for ways to manage rising memory costs . Loop Capital kept its Buy rating on the stock, saying reports that Apple is exploring Chinese memory supply fit with the firm's earlier research.\n\nWarning! GuruFocus has detected 4 Warning Signs with PLTR.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe Financial Times recently reported that Apple has asked the U.S. government for clearance to buy DRAM from ChangXin Memory Technologies, or CXMT. The company is on a Pentagon list tied to alleged Chinese military links.\n\nApple is not barred from buying from CXMT, but the move could carry political and reputational risk. The interest makes sense from a supply-chain view. Memory prices have climbed sharply, and Apple recently raised prices on several products because of higher component costs.\n\nFor investors, the question is whether Apple can lower supply pressure without creating a new China-related headache.",
       "Language": "en"
     },
     {
@@ -83,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "AAPL, MU",
       "Date": "2026-06-30",
       "Time": "01:09:46",
       "Source": "Yahoo Finance",
