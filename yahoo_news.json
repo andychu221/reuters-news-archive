@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-30T10:01:47.881Z",
+  "last_updated": "2026-06-30T10:15:03.913Z",
   "total_news_count": 558,
   "news": [
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "AAPL, NVDA, MU",
       "Date": "2026-06-30",
       "Time": "17:53:00",
       "Source": "Yahoo Finance",
@@ -63,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, NVDA, MSFT, GOOGL, AMZN",
       "Date": "2026-06-30",
       "Time": "17:26:00",
       "Source": "Yahoo Finance",
