@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-30T07:01:02.703Z",
-  "total_news_count": 504,
+  "last_updated": "2026-06-30T07:40:54.018Z",
+  "total_news_count": 505,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-06-30",
+      "Time": "15:23:37",
+      "Source": "Yahoo Finance",
+      "Title": "UK regulator proposes easing Apple, Google app store payment rules",
+      "URL": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html",
+      "Content": "LONDON, June 30 (Reuters) - Britain's competition regulator on Tuesday proposed allowing app developers to steer ‌users to alternative payment options outside Apple ‌and Google's app stores to cut fees and boost competition.\n\nThe ​Competition and Markets Authority said the proposals would remove restrictions that currently prevent UK developers from directing users to off-platform payment options, which are banned ‌by Apple and ⁠restricted by Google.\n\nMore from Yahoo Scout\n\nWhat payment alternatives is Britain's regulator proposing for developers?\n\nHow would Apple and Google's app store fees change?\n\nWhat restrictions currently prevent developers from offering payment options?\n\nHow has Google already responded to these regulatory proposals?\n\nThe watchdog said any fees charged by the companies for allowing ⁠such \"steering\" would need to be fair and reasonable, and should be lower than current app store commissions, ​with savings ​passed on to ​consumers or reinvested in ‌innovation.\n\nIt is also considering requiring Apple to open up access to its near-field communication technology, potentially allowing developers to offer contactless payment services within their own iOS apps.\n\n\"We have already made the changes ‌that the CMA is proposing ​today,\" Google said in an ​emailed statement.\n\nThe company ​pointed to new Play Store terms ‌introduced earlier this month allowing ​developers to ​steer users to complete transactions outside the platform, subject to some restrictions, as well as ​changes to ‌its fee structure.\n\nApple did not immediately respond to ​a request for comment.\n\n(Reporting by Sam Tabahriti; ​editing by Sarah Young)",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-06-30",
