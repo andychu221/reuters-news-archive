@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T14:15:09.795Z",
-  "total_news_count": 624,
+  "last_updated": "2026-06-30T14:32:09.613Z",
+  "total_news_count": 625,
   "news": [
     {
       "Ticker": "NVDA",
@@ -73,6 +73,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "SWKS",
+      "Date": "2026-06-30",
+      "Time": "21:02:00",
+      "Source": "Yahoo Finance",
+      "Title": "What's Driving MaxLinear's End-Market Strength Ahead of Q2 Earnings?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/whats-driving-maxlinears-end-market-130200063.html",
+      "Content": "MaxLinear, Inc. MXL is expected to post its second-quarter 2026 earnings report next month, with four of its end markets likely to contribute favorably. Infrastructure, now the company's largest revenue category, is likely to remain the primary growth driver as hyperscale customers rapidly scale AI-centric architectures.\n\nManagement expects a step-up in data center revenue beginning in the second quarter, with additional upside as run rates continue to expand into 2027. Driving that momentum is the Keystone PAM4 DSP optical transceiver platform, which has been ramping up at multiple major hyperscale customers across both the United States and Asia, supporting both 400G and 800G PAM4 deployments for scale-up and scale-out applications.\n\nThe Panther hardware storage accelerator SoC family is also gaining traction, with rising design win activity among Tier 1 network appliance and cloud service providers, setting up for higher storage accelerator revenues. At the same time, wireless infrastructure momentum is improving as carriers increase investments in 5G RAN access and backhaul to support cloud connected and edge AI functionality.\n\nIn Broadband and Connectivity, Maxlinear is advancing large-scale deployments of single-chip fiber PON and Wi-Fi 7 gateway platforms with a second major Tier 1 service provider in North America, with acceleration expected in Europe later this year. Management believes these long-cycle deployments create a stable foundation, building on the integration and power efficiency advantages that support the company's data center portfolio.\n\nLastly, MaxLinear's Industrial and multi-market segment is also likely to benefit from increased volume of shipments of high-performance analog products.\n\nWhat Are MXL Peers Up To?\n\nMACOM Technology Solutions Inc. MTSI introduced a chip scale hot via process built on its AlGaAs diode technology. As an alternative to conventional chip and wire bonding and copper pillar-based surface mount technologies, MACOM's hot via process simplifies surface mount assembly while delivering low insertion loss and high isolation. The first product using the AlGaAs hot via process technology is the MASW-011261, a broadband SP2T switch operating from 60 to 110 GHz.\n\nSkyworks Solutions, Inc. SWKS recently unveiled its new Si829x isolated safety gate driver for electric vehicle (EV) traction inverters and other electrified systems, including eTrucking, industrial motor drives and emerging mobility platforms. Introduced at the PCIM Expo, the Si829x uses ProVCD, Skyworks' second-generation variable current drive, with high-resolution gate waveform shaping and cycle-by-cycle control through a digital interface.\n\nStory Continues\n\nThe Zacks Rundown for MXL Stock\n\nYear to date, MaxLinear shares have surged 523.5% compared with the industry's 48.8% growth.\n\nImage Source: Zacks Investment Research\n\nIn terms of valuation, MXL trades at a forward, two-year Price/Sales (P/S) of 13.59X compared with its 2.76X median and the industry average of 9.52X.\n\nHere's how estimates for MaxLinear's 2026 and 2027 earnings are trending right now.\n\nMaxLinear currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.",
+      "Language": "en"
+    },
+    {
       "Ticker": "TSM",
       "Date": "2026-06-30",
       "Time": "20:57:00",
@@ -103,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ADI, TXN",
+      "Ticker": "NXPI, ADI, TXN",
       "Date": "2026-06-30",
       "Time": "20:50:00",
       "Source": "Yahoo Finance",
