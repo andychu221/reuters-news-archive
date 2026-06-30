@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-30T19:15:07.474Z",
-  "total_news_count": 695,
+  "last_updated": "2026-06-30T19:40:27.218Z",
+  "total_news_count": 696,
   "news": [
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-07-01",
+      "Time": "03:22:06",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Stock Faces New AI Challenge as Google Limits Gemini Access",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-stock-faces-ai-challenge-192206229.html",
+      "Content": "This article first appeared on GuruFocus .\n\nGoogle ( NASDAQ:GOOGL ) has placed limits on Meta Platforms ( NASDAQ:META )'s access to its Gemini artificial intelligence models as demand for computing capacity continues to exceed available supply.\n\nWedbush said the development points to persistent pressure on AI infrastructure despite heavy industry spending. Analyst Matt Bryson said the restrictions also underscore the risks companies face when depending on competitors for critical computing resources, particularly developers building large AI models.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to the report, Meta Platforms ( NASDAQ:META ) has been among the customers most affected by Alphabet's capacity constraints. The limitations have disrupted some internal projects and prompted Meta to encourage employees to use AI resources more efficiently. Meta had been using Gemini models for applications including content moderation and scam detection because they outperformed some internally developed systems.\n\nAs a result, Meta Platforms ( NASDAQ:META ) is increasingly relying on its in-house Muse Spark model to reduce its dependence on external AI providers. Wedbush said the latest development reinforces its view that demand for AI computing power continues to outpace supply across the technology sector.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-01",
