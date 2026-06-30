@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-06-30T20:32:24.459Z",
-  "total_news_count": 712,
+  "last_updated": "2026-06-30T20:40:41.887Z",
+  "total_news_count": 714,
   "news": [
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-07-01",
+      "Time": "04:20:42",
+      "Source": "Yahoo Finance",
+      "Title": "Retail Trading in Magnificent Seven Falls to 6%, Citi Says",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/retail-trading-magnificent-seven-falls-202042345.html",
+      "Content": "This article first appeared on GuruFocus .\n\nCitigroup strategists have reported a sharp slowdown in retail investor activity across the Magnificent Seven, with trading participation falling to a four-year low after months of muted demand. Retail traders accounted for just 6% of total trading over the five days through Friday in Alphabet ( NASDAQ:GOOG ), Amazon ( NASDAQ:AMZN ), Apple ( NASDAQ:AAPL ), Meta Platforms ( NASDAQ:META ), Microsoft ( NASDAQ:MSFT ), Nvidia ( NASDAQ:NVDA ), and Tesla ( NASDAQ:TSLA ), according to a Citi team led by Stuart Kaiser. That marks a major shift from 2023 and 2024, when five-day retail trading volumes frequently topped 20%, and from 2025, when activity mostly stayed above 15%.\n\nWarning! GuruFocus has detected 10 Warning Signs with STGW.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nKaiser noted that volume began declining late last year and continued into 2026, suggesting retail conviction in the market's longtime favorite trade could be fading. The exact reason remains difficult to identify. Investors may be shifting toward leveraged ETFs, prediction markets, crypto, sports betting, or other highly liquid venues, while higher costs such as gasoline prices may also be reducing the amount of tax refunds flowing back into stocks. Overall retail trading volumes fell 15% during June through Friday, even as total trading volume rose 12%.\n\nNvidia saw the steepest pullback, with retail investors accounting for 8.1% of trading activity last week, down from 9.6% the prior week. Tesla still had the highest retail interest at 10% of total trading volumes, though it remained near its lowest levels since 2022. Vanda Research also found that retail net buying of individual stocks was lower than in 95% of observations since 2020, while ETF purchases stayed slightly above the historical norm. With the Bloomberg Magnificent Seven gauge down 3.1% this year through Monday's close, compared with an 8.7% gain for the S&P 500, the retail retreat could possibly add another layer of pressure on a group some investors are now calling the Lag Seven.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-01",
+      "Time": "04:19:36",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Pushes Deeper Into AI Creation",
+      "URL": "https://finance.yahoo.com/m/094e30a6-10b4-3299-833c-806ad03dd807/alphabet-pushes-deeper-into.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) launched 2 new AI models Tuesday, Nano Banana 2 Lite and Gemini Omni Flash, as Google pushes deeper into low-cost image generation and video creation tools.\n\nNano Banana 2 Lite is Google's most cost-efficient Gemini Image model. The company said it can generate text-to-image outputs in about 4 seconds, making it useful for quick prototyping, visual drafting and high-volume image workflows. Pricing starts at $0.034 per 1,000 images.\n\nWarning! GuruFocus has detected 3 Warning Sign with BMWKY.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThe model is available across developer tools and consumer products, including AI Mode in Search, the Gemini app, NotebookLM, Google Photos, Stitch, Google Flow and Google Ads.\n\nGemini Omni Flash is focused on high-quality video generation and conversational editing. Google said the model is now available through the Gemini API and Google AI Studio, priced at $0.10 per second of video output.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSM",
       "Date": "2026-07-01",
