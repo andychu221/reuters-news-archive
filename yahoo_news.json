@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-30T17:32:13.165Z",
-  "total_news_count": 671,
+  "last_updated": "2026-06-30T17:40:19.895Z",
+  "total_news_count": 672,
   "news": [
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-07-01",
+      "Time": "01:07:25",
+      "Source": "Yahoo Finance",
+      "Title": "Google's AI Limits Put Meta on Notice",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/googles-ai-limits-put-meta-170725457.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( GOOG , Financials ) is reportedly putting limits on Meta Platforms' access to Gemini , and that says a lot about where the AI race is heading.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe issue is not just model quality anymore. It is computing power. According to the Financial Times, Google has restricted access for some customers because of capacity constraints, with Meta among the most affected.\n\nWedbush analyst Matt Bryson said the report is another sign that demand for AI compute is still running ahead of supply, even after huge spending by the largest tech companies.\n\nMeta had been using Gemini for work such as content moderation and scam detection. Now it is relying more on its own Muse Spark model as it tries to reduce dependence on outside providers.\n\nThe situation also shows the risk of depending on a rival for critical technology. If capacity gets tight, the owner of the infrastructure has the leverage. For investors, the takeaway is simple: AI infrastructure is becoming a moat.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-01",
