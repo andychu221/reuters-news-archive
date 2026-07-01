@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-01T11:40:33.726Z",
-  "total_news_count": 872,
+  "last_updated": "2026-07-01T11:44:11.940Z",
+  "total_news_count": 877,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-01",
+      "Time": "19:25:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股總市值ETF「VTI」仍具吸引力？歷史數據揭示真相",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%B8%BD%E5%B8%82%E5%80%BCetf-vti-%E4%BB%8D%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B-%E6%AD%B7%E5%8F%B2%E6%95%B8%E6%93%9A%E6%8F%AD%E7%A4%BA%E7%9C%9F%E7%9B%B8-112515992.html",
+      "Content": "商傳媒 ｜方承業／綜合外電報導\n\n對於尋求簡便、低成本投資方式的散戶而言，追蹤美股大盤的指數型基金（ETF）始終是熱門選項。其中，先鋒集團（Vanguard）旗下的 Vanguard Total Stock Market ETF（VTI）和 Vanguard S&P 500 ETF（VOO）經常被拿來比較。然而，隨著美股市場近年來由科技巨頭領漲，VTI 是否仍是值得投資的選擇，其長期價值引發市場關注。\n\nVTI 是美國第四大掛牌交易的 ETF，以其簡潔的設計聞名。它旨在代表整個美國股市，涵蓋了大型股、中型股和小型股，不像追蹤標普500指數的基金僅包含約五百檔股票。VTI 持有高達 3,484 檔股票，提供投資人更廣泛的市場曝險。\n\n儘管 VTI 與標普500指數的走勢非常接近，但自成立以來，VTI 的表現略微落後於標普500指數。這個差距主要歸因於進入 21 世紀後，科技大型股和超大型股成為牛市的主要驅動力，使得集中度較高的標普500指數更容易受益。\n\n然而，從歷史數據來看，小型股在更長的持有期間內，其表現通常優於大型股，這項趨勢已有百年歷史佐證。VTI 因其廣泛的持股，得以納入小型股的潛力，讓投資人能在不直接持有個別小型股或小型股指數基金的情況下，間接參與其成長。根據《The Motley Fool》報導，羅素2000指數（代表小型股表現）在過去一年中，其漲幅便超越了標普500指數。\n\n此外，由於標普500指數的高度集中風險，少數幾檔股票就佔據了該指數極大的比重。相較之下，VTI 雖然也持有這些著名的超大型成長股，但其更廣泛的股票組合有效降低了集中風險。更重要的是，VTI 的年度費用率（指投資人每年需支付給基金管理公司的費用）僅為 0.03%，遠低於市場上其他類似基金平均 0.72% 的費用率。先鋒集團透過這種低廉的費用，長期為投資人節省了可觀的成本。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-07-01",
@@ -11,6 +21,26 @@
       "URL": "https://finance.yahoo.com/m/213c06ea-d3bb-3465-a1e7-638cb38a0618/swedish-court-says-google-is.html",
       "Content": "STOCKHOLM, July 1 (Reuters) - A Swedish court said ‌on Wednesday Alphabet's Google ‌is to pay the equivalent ​of around 14.3 billion Swedish crowns ($1.5 billion) in antitrust damages to Klarna's price ‌comparison company PriceRunner.\n\n\"PriceRunner ⁠is considered to have suffered damage as ⁠a result of Google having illegally favoured its ​price comparison ​service ​for many years,\" ‌the Stockholm Patent and Market Court said in a statement.\n\nMore from Yahoo Scout\n\nWhy did Google face a $1.5 billion antitrust penalty?\n\nWhat antitrust violations did the Swedish court find?\n\nWhat damages did PriceRunner claim against Google originally?\n\nHow did Google allegedly manipulate search results illegally?\n\nPriceRunner in 2022 sued Google for around €2.1 billion ($2.4 ‌billion) at the ​court, saying ​the company ​breached antitrust laws ‌by manipulating search ​results in ​favour of its own comparison shopping services.\n\n($1 = 9.7291 ​Swedish ‌crowns)\n\n($1 = 0.8775 euros)\n\n(Reporting by ​Anna Ringstrom, editing by ​Essi Lehto )",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-01",
+      "Time": "18:53:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股交易擬延至下午3點半？林修銘：評估中　維持「一盤到底」",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%BA%A4%E6%98%93%E6%93%AC%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%883%E9%BB%9E%E5%8D%8A-%E6%9E%97%E4%BF%AE%E9%8A%98-%E8%A9%95%E4%BC%B0%E4%B8%AD-%E7%B6%AD%E6%8C%81-%E7%9B%A4%E5%88%B0%E5%BA%95-105300285.html",
+      "Content": "【記者呂承哲／台北報導】台股今年上半年強漲1萬6千點、漲幅逼近6成，交投持續熱絡。證交所董事長林修銘今（1）日在 立法院財政委員會 接受立委羅明才質詢時表示，正評估延長台股交易時間，理想方案是維持「一盤到底」模式，將收盤時間由目前下午1點半延長至3點半，與日股交易時間對齊。\n\n林修銘指出，台股與國際主要市場相比，交易時間相對較短，若要與國際接軌，延長交易時間確有必要。不過，政策能否推動，關鍵仍在券商後台IT系統能否支撐更長交易時間與更大量交易資料處理，證交所目前正與業者溝通，並評估系統韌性與容忍程度。\n\n他表示，初步方向可能延長1小時至1個半小時，但仍需進一步評估。台股目前採「一盤到底」，不像日本股市中午有休市時間，多數券商也希望維持不中斷交易模式，因此未來若延長交易，將以不設午休為主要規劃方向。\n\n金管會主委彭金隆也表示，交易制度優化必須審慎推動，除了技術面，也要考量投資人交易習慣與市場接受度，需形成社會共識後才會真正實施。\n\n隨台股成交量升溫，證交稅收入也明顯增加。財政部次長陳勇勝表示，今年證交稅原編列預算為2,500億元，目前實收已達3,300億元，最新預算已上調至約7,000億元。至於是否比照美國調降證交稅率，彭金隆回應，稅制與交易時間延長都屬整體制度檢討，仍須審慎評估，不會僅因國際趨勢就盲目跟進。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-01",
+      "Time": "18:44:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "股匯不同調　新台幣隨亞幣走弱終止連2升",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%82%A1%E5%8C%AF%E4%B8%8D%E5%90%8C%E8%AA%BF-%E6%96%B0%E5%8F%B0%E5%B9%A3%E9%9A%A8%E4%BA%9E%E5%B9%A3%E8%B5%B0%E5%BC%B1%E7%B5%82%E6%AD%A2%E9%80%A32%E5%8D%87-104403946.html",
+      "Content": "（中央社記者潘姿羽台北2026年07月1日電）台股今天走勢強勁，成功收復47000點大關，外資也終止連6賣，不過新台幣匯率未能同步走揚，由於外資仍有匯出，加上亞幣普遍走弱，新台幣兌美元收盤收在31.874元，貶值3.7分，台北及元太外匯市場總成交金額25.73億美元。\n\n台積電法說行情提前啟動，率領台股今天早盤漲逾千點，隨後漲幅收斂震盪，全場大致維持47000點關卡附近攻防。尾盤台積電股價拉升，收在全日最高點新台幣2505元，帶動集中市場指數終場上漲893.08點，收47018.99點，站上47000點。\n\n外資也未再大砍台股，前幾天賣超金額已明顯收斂，今天轉為買超323億元，終止連6賣。\n\n台股傳出正面訊號，但股匯走勢不同調。新台幣兌美元今天以31.81元開盤，早盤走勢震盪，近中午外資加大匯出力道，大額油款買盤也進場，匯價升轉貶，且跌幅持續擴大，盤中最低觸及31.9元。\n\n外匯交易員直言，出口商拋匯需求告一段落，今天明顯縮手，且時序進入股利發放旺季，外資領取股利後匯出，形成新台幣貶值壓力，外在環境則面臨美元續強、亞幣普遍走弱，導致新台幣收貶。\n\n央行統計今天主要亞幣變動，美元指數小升0.01%，亞幣士氣低迷，新台幣、人民幣、韓元均貶值0.12%，日圓貶勢較重，下挫0.25%。",
+      "Language": "zh"
     },
     {
       "Ticker": "MRVL, NVDA",
@@ -61,6 +91,26 @@
       "URL": "https://finance.yahoo.com/m/a656ecd9-c506-3ca9-8c9e-2acfa56aa9e7/the-smartest-s%26p-500-etf-to.html",
       "Content": "The S&P 500 (SNPINDEX: ^GSPC) remains one of the most reliable long-term investment strategies. By investing in many of the largest and most successful companies in the world, investors can invest in the long-term U.S. economic growth engine. Over the past century, the index has an average annual return of around 10%.\n\nThere are four major ETFs that invest in the S&P 500:\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nVanguard S&P 500 ETF (NYSEMKT: VOO)\n\niShares Core S&P 500 ETF (NYSEMKT: IVV)\n\nState Street SPDR S&P 500 ETF (NYSEMKT: SPY)\n\nState Street SPDR Portfolio S&P 500 ETF (NYSEMKT: SPYM)\n\nAt a high level, all of them are pretty indistinguishable. They all have ultra-low expense ratios and their performance records are virtually identical. To find any kind of distinction between them, you really need to dig into the details and look under the hood.\n\nFor many investors, any one of these ETFs will do. But one has a very slight advantage over the others.\n\nSPYM has the lowest total cost\n\nWhen comparing funds that track the same index, the biggest differentiator usually comes down to cost. All else being equal, the fund with the lowest fees usually comes out on top because that delivers the best total return for shareholders.\n\nThat principle ends up being the case here, too.\n\nTicker\n\nFund\n\nExpense Ratio\n\nSpread\n\nTotal Cost\n\nVanguard S&P 500 ETF\n\n0.03%\n\n0.01%\n\n0.04%\n\niShares Core S&P 500 ETF\n\nState Street SPDR S&P 500 ETF\n\n0.0945%\n\n0.00%\n\nSPYM\n\nState Street SPDR Portfolio S&P 500 ETF\n\n0.02%\n\nData sources: ETF fact sheets, ETF Action.\n\nThe expense ratio is what the fund issuer charges to run the fund. The spread is the trading cost incurred whenever a trade is made. The total cost is simply a combination of the two.\n\nThe State Street SPDR S&P 500 ETF is the most heavily traded ETF in the world and is favored by large institutions and brokerages. But it has the highest expense ratio of the bunch.\n\nThe State Street SPDR Portfolio S&P 500 ETF could be considered the lower-cost version built for investors looking to minimize fees.\n\nThe Vanguard S&P 500 ETF and the iShares Core S&P 500 ETF sit in between with identical 0.03% expense ratios.\n\nBut it's SPYM that's the low-cost leader. The 0.02% expense ratio gives the fund a razor-thin advantage on fees. Given that trading spreads are almost non-existent for all four ETFs, this fund is the choice for investors who want to take trading costs as low as possible.\n\nStory Continues\n\nGranted, a 1 basis point cost savings won't be a meaningful difference, but if you can get it, why not take it? The State Street SPDR Portfolio S&P 500 ETF wins as the lowest-cost option for investing in the S&P 500.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-01",
+      "Time": "18:17:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "上半年高股息績效王00929 7月大方配息0.38元創新高 年化近15%",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%AB%98%E8%82%A1%E6%81%AF%E7%B8%BE%E6%95%88%E7%8E%8B00929-7%E6%9C%88%E5%A4%A7%E6%96%B9%E9%85%8D%E6%81%AF0-38%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E5%B9%B4%E5%8C%96%E8%BF%9115-101736638.html",
+      "Content": "今年台股高股息 ETF 終於一吐悶氣，上半年績效榜單揭曉，復華台灣科技優息 (00929-TW) 自指數改版以來表現宛如裝上火箭，截至 6 月 30 日含息總報酬高達 76.49%，不僅遙遙領先各檔高股息 ETF，更狠甩台積電與 0050。00929 最新公告 7 月最新配息金額達 0.38 元，創下史上新高，預估年化配息率衝上 14.8%。\n\n00929 自 2025 年 12 月指數大改版以來績效一路狂飆，統計至 2026 年 6 月 30 日，00929 上半年含息總報酬高達 76.49%，不僅以絕對優勢在所有高股息 ETF 中獨走奪冠，其表現更與許多主動式 ETF 平起平坐，甚至狠甩護國神山台積電 56.4% 與老牌市值型 ETF 0050 的 66.6%。\n\n綜觀高股息上半年前五名表現，群益投信旗下的新兵 00946 表現亮眼，以 65.59% 的含息報酬衝上亞軍；老牌的國泰 00878 則維持穩健的吸金與獲利實力，以約 6 成的含息報酬穩坐第三名；第四、五名則分別由兆豐 00943 與野村 00944 奪下。\n\n復華投信今日公告 00929 最新配息金額，每單位預估大方配發 0.38 元，再度寫下歷史新猷，若以 6 月 30 日收盤價 30.78 元換算，年化配息率高達 14.8%，再次上演驚人的暴力配，與 40 萬名股東分享豐厚的績效紅利。\n\n投資人好奇高息是否具備續航力？專家指出，從 00929 的基金淨值組成即可看出端倪，截至 6 月 30 日，其資本損益平準金高達 15.36 元，意味著在近期股價大漲的帶動下，00929 帳上擁有極為雄厚的資本利得作為後盾。若假設其皆為已實現收益，以每次配發 0.38 元估算，理論上的配息底氣相當充足。\n\n除了亮眼的配息外，00929 日前完成最新一次換股，本次以「22 進 22 出」的大幅度進行調整，不僅續留了今年暴漲 234% 的第一大功臣聯電 (2303-TW)，更與時俱進，納入了營收創歷史新高的鴻海 (2317-TW) 及技嘉 (2376-TW)。\n\n本次換股的一大亮點，在於全面聚焦「黃仁勳背板概念股」，包括鴻海、英業達（2356）、技嘉 (2376-TW)、微星 (2377-TW)、廣達 (2382-TW)、緯創 (3231-TW) 等老 AI 股通通入列；同時亦補進網通、IC 設計及傳產轉型創新高股如信邦 (3023-TW)、祥碩 (5269-TW)、旭隼 (6409-TW)，持股更聚焦 AI 供應鏈與高質量配息企業。\n\n隨下半年科技產業進入傳統旺季，加上全球 AI 投資潮持續擴大，00929 本次換股有望同步掌握產業成長趨勢與豐厚現金回饋。00929 本月除息日訂於 7 月 21 日，股息發放日為 8 月 14 日，想參與月月現金流與科技成長紅利的投資人，注意最後買進日為 7 月 20 日。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-01",
+      "Time": "18:09:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "上半年主動台股ETF冠軍00991A規模衝破700億元 首次半年配0.77元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%BB%E5%8B%95%E5%8F%B0%E8%82%A1etf%E5%86%A0%E8%BB%8D00991a%E8%A6%8F%E6%A8%A1%E8%A1%9D%E7%A0%B4700%E5%84%84%E5%85%83-%E9%A6%96%E6%AC%A1%E5%8D%8A%E5%B9%B4%E9%85%8D0-77%E5%85%83-100919697.html",
+      "Content": "台股上半年史詩級飆漲 17162 點，主動式台股 ETF 戰場更是高潮迭起，若比較含息總報酬，復華投信旗下的黑馬主動復華未來 50(00991A-TW) 憑藉操盤團隊精準的選股眼光，在最後關頭成功逆襲，以 97.33% 的驚人報酬率擊敗強敵，勇奪上半年主動式台股 ETF 績效冠軍，近日資產規模更是突破 700 億元大關，公司也公告了首次半年配息金額為 0.77 元，換算年化預估殖利率約 7.4%，引發市場高度關注。\n\n回顧上半年主動式台股 ETF 表現，由復華、統一、群益三家投信展開頂尖對決。00991A 在最後關頭成功彎道超車，以 97.33% 的成績奪冠，略勝 00981A 的 92.61%；第三、四名由群益風光奪下，分別為 00992A、00982A，含息報酬皆為 77%；第五名則是台新投信發行的 00987A，含息報酬率將近 7 成，也是令人驚豔的黑馬。\n\n復華投信官網也正式公告 00991A 的首次配息金額，根據公告內容，半年配的 00991A，每受益權單位預估配發 0.77 元。若以今 (1) 日收盤價 20.87 元進行計算，本次單次殖利率高達約 3.7%，換算年化預估殖利率達 7.4%。\n\n00991A 此次除息日訂於 7 月 21 日，投資人若想參與這檔「主動式績效王」的首次配息紅利，最晚須於 7 月 20 日前持有或買進，並可於 8 月 14 日開心領到股息。\n\n00991A 於 2025 年 12 月 18 日正式掛牌上市，優異的績效吸引投資人關注，近日資產規模一舉突破 700 億元大關、達 704.28 億元，目前擁有 26.37 萬受益人。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
