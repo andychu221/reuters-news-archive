@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T22:40:30.974Z",
-  "total_news_count": 1033,
+  "last_updated": "2026-07-01T22:45:21.261Z",
+  "total_news_count": 1036,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,6 +23,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-07-02",
+      "Time": "05:50:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】收黑",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E9%BB%91-215027540.html",
+      "Content": "（中央社台北2026年7月2日電）美股主要指數今天收黑，科技股走弱拖累大盤，但臉書母公司Meta股價勁揚，為盤勢提供部分支撐。\n\n道瓊工業指數下跌13.96點或0.03%，收報52305.24點。\n\n標普500指數下挫16.13點或0.22%，收在7483.23點。\n\n那斯達克指數下滑173.69點或0.66%，收26040.03點。\n\n費城半導體指數挫跌893.68點或6.27%，收13353.28點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-07-02",
+      "Time": "05:50:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股》晶片股拖累！費半重挫893點！台積電ADR跌近7％",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E6%99%B6%E7%89%87%E8%82%A1%E6%8B%96%E7%B4%AF-%E8%B2%BB%E5%8D%8A%E9%87%8D%E6%8C%AB893%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C%E8%BF%917-215007519.html",
+      "Content": "半導體族群遭遇獲利了結賣壓，美股1日主要指數收黑。台積電ADR（TSM)跌33.22美元或-6.96％、收444.36美元。但臉書母公司Meta股價勁揚，為盤勢提供部分支撐。台指期夜盤連帶走弱，2日台指期夜盤跌867點或-1.84％、收46354點；台積電期貨夜盤跌45元或-1.79％、收2475元。\n\n道瓊工業指數跌13.96點或0.03%，收報52305.24點。\n\n標普500指數跌16.13點或0.22%，收在7483.23點。\n\n那斯達克指數跌173.69點或0.66%，收26040.03點。\n\n費城半導體指數跌893.68點或6.27%，收13353.28點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META",
       "Date": "2026-07-02",
       "Time": "05:36:16",
@@ -41,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/16a21f51-cc3c-3a71-8034-2ec21164e605/stock-market-today%2C-july-1%3A.html",
       "Content": "The Nasdaq Composite (NASDAQINDEX:^IXIC) fell 0.66% to 26,040.03 as tech profit-taking intensified, while the S&P 500 (SNPINDEX:^GSPC) slipped 0.22% to 7,483.23 on manufacturing growth concerns, and the Dow Jones Industrial Average (DJINDICES:^DJI) hit an intraday record high before finishing down 0.03% to 52,305.24.\n\nGold edged up 0.26% to $4,048.90 as of U.S. market close, while the 10-Year Treasury yield rose 0.06% to 4.48%. Communications and financial services stocks led sector gains, while industrials and tech stocks declined.\n\nToday's biggest moves\n\nPalantir Technologies climbed 8% on a deal with Nvidia . Meta Platforms surged on news that it would move into cloud computing. The news pressured infrastructure stocks like CoreWeave , which tumbled 14% . Memory stocks also dropped today: Both Micron Technology and Sandisk plummeted 11%, potentially due to profit-taking or AI demand jitters.\n\nWhat this means for investors\n\nChipmaker losses dragged on major U.S. indexes today, but the majority of S&P 500 firms posted gains on easing inflation concerns. Outside of Meta's news and possible profit taking, another potential trigger for the pullback in chipmakers was news that renowned short-seller Michael Burry had shorted several AI leaders, including Nvidia and Applied Materials .\n\nZooming out, June manufacturing growth slowed, and prices dropped a little, per the Institute for Supply Management. Federal Reserve Chairman Kevin Warsh gave few clues about potential rate changes when he spoke at the European Central Bank Forum today, though the new leader stressed his commitment to bringing inflation down. Falling oil prices will certainly help.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-02",
+      "Time": "05:30:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普再提台灣！台積電亞利桑那廠將擴建一倍 美晶片市占拚50%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%86%8D%E6%8F%90%E5%8F%B0%E7%81%A3-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%BB%A0%E5%B0%87%E6%93%B4%E5%BB%BA-%E5%80%8D-%E7%BE%8E%E6%99%B6%E7%89%87%E5%B8%82%E5%8D%A0%E6%8B%9A50-213027900.html",
+      "Content": "美國總統川普周三 (1 日) 表示，台灣在亞利桑那州興建中的晶片廠規模將擴大一倍，並宣稱此舉可望讓美國在他卸任前，拿下全球約 50% 的晶片市場。\n\n福斯財經網 (Fox Business) 報導，川普周三在離開安德魯斯空軍基地 (Joint Base Andrews) 前對媒體表示：「我們正在創造更多就業機會，現在工作的美國人比歷史上任何時候都多，而且這還是在這些工廠正式投產之前。」\n\n他表示，未來一年將有更多晶片工廠陸續啟用，來自台灣的晶片製造商，包括全球晶圓代工龍頭台積電 (TSM-US)(2330-TW)，也正持續加碼投資美國。\n\n川普說：「全球最大的公司，實際上就是那家晶片製造商。他們正在亞利桑那建廠，而且剛宣布將把規模擴大一倍。我卸任時，美國可能擁有 50% 的晶片市場。你知道我們現在有多少嗎？什麼都沒有。」\n\n對於川普的說法，台積電拒絕發表評論。\n\n台積電先前已宣布在美國進行多項重大投資，包括 2024 年美國《晶片科學法》(CHIPS and Science Act) 正式生效後，台積電宣布總額 650 億美元的投資計畫，包括在亞利桑那州興建三座晶圓廠。\n\n到了 2025 年 3 月，台積電再宣布追加 1000 億美元投資，協助美國建立完整的 AI 晶片供應鏈。這筆新增投資包括：在鳳凰城興建三座新晶圓廠以生產新一代 AI 晶片、處理器及智慧手機晶片，還將在亞利桑那州設立兩座先進封裝廠，以及成立下一代半導體技術研發中心。\n\n台積電當時表示，這是美國史上規模最大的單一外國直接投資案，預估四年內可創造約 4 萬個營建工作機會，並帶來數萬個高薪的晶片製造與研發職缺。\n\n最先進製程仍以台灣為核心\n\n儘管持續擴大美國布局，台積電歷來仍將最先進製程留在台灣生產。不過，台積電在本世紀末前可望陸續投產的美國晶圓廠，也將具備生產更先進晶片的能力。\n\n推動晶片製造回流美國一直是川普重要的政策目標，為此川普政府透過關稅威脅，促使全球晶片業者增加對美投資。\n\n根據美國貿易委員會 (ITC)2023 年的研究，台灣是美國最先進晶片的主要進口來源，占美國邏輯晶片進口量超過 44%。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
