@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T14:01:29.956Z",
-  "total_news_count": 907,
+  "last_updated": "2026-07-01T14:15:07.553Z",
+  "total_news_count": 908,
   "news": [
     {
       "Ticker": "AMD, MU, GOOGL",
@@ -53,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-07-01",
       "Time": "21:15:03",
       "Source": "Yahoo Finance",
@@ -173,7 +173,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD, MU",
+      "Ticker": "INTC",
+      "Date": "2026-07-01",
+      "Time": "20:30:02",
+      "Source": "Yahoo Finance",
+      "Title": "If You Invested $1000 in Intel a Decade Ago, This is How Much It'd Be Worth Now",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-intel-decade-ago-123002326.html",
+      "Content": "How much a stock's price changes over time is important for most investors, since price performance can both impact your investment portfolio and help you compare investment results across sectors and industries.\n\nThe fear of missing out, or FOMO, also plays a factor in investing, especially with particular tech giants, as well as popular consumer-facing stocks.\n\nWhat if you'd invested in Intel (INTC) ten years ago? It may not have been easy to hold on to INTC for all that time, but if you did, how much would your investment be worth today?\n\nIntel's Business In-Depth\n\nWith that in mind, let's take a look at Intel's main business drivers.\n\nHeadquartered in Santa Clara, CA, Intel Corporation, the world's largest semiconductor company and primary supplier of microprocessors and chipsets, is gradually reducing its dependence on the PC-centric business by moving into data-centric businesses — such as AI and autonomous driving.\n\nEffective first-quarter 2024, Intel implemented an internal foundry operating model, creating a foundry relationship between its products business (collectively CCG, DCAI, and NEX) and its foundry business (formerly IFS). While Intel Products (94.1% of first-quarter 2026 operating segment revenues) include the design and development of CPUs and related solutions for third-party customers, Intel Foundry comprises process engineering, manufacturing and foundry services groups that provide manufacturing, test and assembly services to Intel Products business and to third-party customers.\n\nThe foundry operating model is a key component of the company's strategy and is designed to reshape operational dynamics and drive greater transparency, accountability and focus on costs and efficiency. Intel also reported Altera (which was previously included in the DCAI segment) as a standalone business beginning the first quarter of 2024. Altera is a part of All Other business along with Mobileye and Other business. Consequently, Intel modified its segment reporting to align with this new operating model.\n\nClient Computing Group (CCG), Datacenter and AI Group (DCAI), and Intel Foundry are regarded as reportable operating segments, while Network and Edge Group (NEX), Altera, and Mobileye do not qualify as reportable operating segments. In first-quarter 2025, Intel restructured its operating segments to integrate NEX into CCG and DCAI.\n\nCCG focuses on high-growth businesses, thin-and-light, commercial and gaming, and growing opportunities in areas such as connectivity. DCAI seeks to develop leading data center products, including Intel Xeon server and field programmable gate array products, while overseeing overall artificial intelligence (AI) strategy. Mobileye offers driving assistance and self-driving solutions, while Intel Foundry offers wafer fabrication and related products and services, including sorting, assembly and test capabilities.\n\nFor the first quarter of 2026, Intel recorded total revenues of $13.58 billion.\n\nStory Continues\n\nBottom Line\n\nPutting together a successful investment portfolio takes a combination of research, patience, and a little bit of risk. For Intel, if you bought shares a decade ago, you're likely feeling really good about your investment today.\n\nAccording to our calculations, a $1000 investment made in July 2016 would be worth $4,257.01, or a gain of 325.70%, as of July 1, 2026, and this return excludes dividends but includes price increases.\n\nCompare this to the S&P 500's rally of 257.31% and gold's return of 191.28% over the same time frame.\n\nLooking ahead, analysts are expecting more upside for INTC.\n\nIntel remains focused on strengthening its capabilities in AI infrastructure, enterprise computing and advanced manufacturing through product innovation and continued ecosystem development. Rising adoption of Xeon processors and Intel 18A-based products, together with momentum in networking, AI infrastructure and edge deployments, supports its long-term growth. Recent adoption of Intel Xeon 6 processors and Intel Arc Pro GPUs for sovereign AI deployments highlights growing enterprise acceptance of Intel's AI computing platform and expands opportunities in secure on-premises AI environments. Growing traction in the autonomous car technology market is a positive. However, fierce competition in the server, storage and networking markets is hindering margin. Manufacturing execution risks, geopolitical uncertainty, remain concerns.\n\nThe stock has jumped 29.37% over the past four weeks. Additionally, no earnings estimate has gone lower in the past two months, compared to 3 higher, for fiscal 2026; the consensus estimate has moved up as well.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, AMD, MU",
       "Date": "2026-07-01",
       "Time": "20:13:00",
       "Source": "Yahoo Finance",
