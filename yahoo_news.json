@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-01T18:15:06.300Z",
-  "total_news_count": 968,
+  "last_updated": "2026-07-01T18:41:15.840Z",
+  "total_news_count": 973,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-02",
+      "Time": "02:32:41",
+      "Source": "Yahoo Finance",
+      "Title": "Oracle Extends Seven-Day Slide",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/oracle-extends-seven-day-slide-183241575.html",
+      "Content": "This article first appeared on GuruFocus .\n\nOracle ( ORCL , Financials ) fell for a seventh straight session, closing down 0.82% at $146.55 as selling pressure continued to build around the stock.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe decline adds to a difficult stretch for the software and cloud company. Oracle had already lost nearly 15.6% over the previous six sessions, and the stock is now down about 24% year to date. That compares with a 9.1% gain for the S&P 500 Index. Over the past month, shares have fallen more than 36%.\n\nThe pullback comes even as analysts remain mostly constructive. Of the 42 Wall Street analysts cited, 36 rate Oracle Buy or Strong Buy, while five have Hold ratings and one rates the stock Strong Sell.\n\nSeeking Alpha analysts also remain positive. Analyst Daniel Jones recently reiterated a Strong Buy rating, pointing to Oracle's cloud expansion, fiscal 2026 revenue growth of 20.6% and stronger operating cash flow.\n\nStill, the market appears focused on near-term risks. Seeking Alpha's Quant Rating assigns Oracle a Hold, with weaker grades for valuation and momentum despite an A+ profitability score.\n\nInvestors are now watching whether Oracle can show continued cloud demand and justify management's fiscal 2027 growth outlook.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-02",
+      "Time": "02:32:25",
+      "Source": "Yahoo Finance",
+      "Title": "Oracle Shares Climb After William Blair Names It Top AI Pick",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-climb-william-blair-183225197.html",
+      "Content": "This article first appeared on GuruFocus .\n\nOracle ( NYSE:ORCL ) was added to William Blair's July Analyst Conviction List, while Meta Platforms ( NASDAQ:META ) was removed as part of the firm's latest portfolio refresh.\n\nWilliam Blair said Oracle is positioned to benefit from growing artificial intelligence infrastructure spending as hyperscale cloud customers continue committing to capacity. The firm said those investments are supporting record remaining performance obligations and improving revenue visibility. The addition reflects William Blair's increasingly positive view of Oracle's AI-driven growth prospects.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nMeta Platforms was removed from the conviction list through the firm's automatic six-month rotation process rather than because of a change in its long-term investment thesis. William Blair periodically refreshes the list by removing holdings that have reached the end of their six-month recommendation window.\n\nOracle shares climbed about 1.5% in Wednesday premarket trading.\n\nWilliam Blair's Analyst Conviction List highlights stocks the firm believes offer attractive risk-reward opportunities over the coming months. The latest update increased the firm's exposure to companies tied to AI infrastructure while reducing positions that completed their scheduled review period.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, AMZN",
+      "Date": "2026-07-02",
+      "Time": "02:31:41",
+      "Source": "Yahoo Finance",
+      "Title": "Washington Clears Anthropic's Models After Three Weeks of Export Controls",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/washington-clears-anthropics-models-three-183141273.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe U.S. Commerce Department lifted export controls on Anthropic's Fable 5 and Mythos 5 models, less than three weeks after imposing them on June 12 following a report from Amazon ( NASDAQ:AMZN ) researchers describing a method to bypass Fable 5's safeguards. Anthropic had suspended both models for all users. Now, Fable 5 will be available globally from Wednesday, with Mythos 5 access partially restored on June 26 to select U.S. organizations and is expanding to the broader Glasswing partner network.\n\nAnthropic said it has deployed a new safety classifier that blocks the reported jailbreak technique in over 99% of cases, with blocked requests routed to its Opus 4.8 model. The company acknowledged the new classifier will flag some benign requests as a tradeoff.\n\nAnthropic is also launching a jailbreak severity framework developed with Amazon, Microsoft ( NASDAQ:MSFT ), Alphabet's (GOOGL) Google, and other Glasswing partners, designed to give AI developers and governments a common standard for assessing and responding to jailbreaks. OpenAI similarly delayed a full public rollout of GPT-5.6 at the U.S. government's request.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-02",
+      "Time": "02:27:16",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Faces South Korea Antitrust Case",
+      "URL": "https://finance.yahoo.com/technology/articles/alphabet-faces-south-korea-antitrust-182716846.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( GOOGL , Financials ) is under renewed regulatory pressure after South Korea's antitrust regulator accused Google of using its dominance in the Android app market to make it harder for rival app stores to compete.\n\nWarning! GuruFocus has detected 4 Warning Signs with NKE.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nThe Korea Fair Trade Commission (KFTC) said its investigation found Google's conduct affected about 14.16 trillion won, or roughly $9.1 billion, in revenue. The agency has recommended corrective measures and a financial penalty, though the case has not yet reached a final decision.\n\nAt the center of the investigation is a developer incentive program that ran from July 2019 through March 2026. According to the regulator, Google offered financial support for services such as Google Cloud, Google Ads and YouTube to game developers that agreed to launch their titles on Google Play under terms at least as favorable as competing app stores.\n\nThe KFTC argues those incentives gave developers little reason to distribute games through rival platforms, including South Korea's OneStore, strengthening Google's position in the Android app ecosystem.\n\nGoogle pushed back against the claims, saying Google Play competes fairly and provides value to both developers and consumers. The company said it has fully cooperated with the investigation and intends to present its case before the commission.\n\nGoogle has eight weeks to respond to the examiner's report. If the KFTC concludes the company violated competition law, it could impose a fine of up to 6% of the revenue tied to the alleged conduct.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-02",
+      "Time": "02:24:10",
+      "Source": "Yahoo Finance",
+      "Title": "Anthropic's $965 Billion AI IPO Setup Gets Major Regulatory Relief",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/anthropics-965-billion-ai-ipo-182410332.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAnthropic said the US Commerce Department has lifted export controls on Claude Fable 5 and Mythos 5, potentially reopening wider access after the startup worked through the Trump administration's safety concerns. The restrictions, first imposed through a private Commerce letter on June 12, had required US approval before any foreign national could access the models, forcing Anthropic to disable them while it negotiated with officials.\n\nWarning! GuruFocus has detected 2 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAnthropic said Fable 5 access will begin returning globally on Wednesday across its own platforms, with usage through Amazon.com ( NASDAQ:AMZN ), Microsoft ( NASDAQ:MSFT ), and Alphabet ( NASDAQ:GOOG ) cloud services expected to follow as quickly as possible. The company is also redeploying Fable 5 with new classifiers aimed at blocking more cybersecurity tasks, while Mythos 5 access has already been restored for some US organizations tied to Project Glasswing.\n\nThe reversal could ease pressure across the AI sector after the restrictions raised questions over whether export controls may become a tool for regulating frontier model access. Anthropic, valued at $965 billion after its latest funding round and already filed confidentially for an IPO, said it plans to work with Washington on future protocols and standards that could possibly shape broader rules for the industry.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-02",
