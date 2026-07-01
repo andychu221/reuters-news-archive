@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T22:15:07.485Z",
-  "total_news_count": 1030,
+  "last_updated": "2026-07-01T22:40:30.974Z",
+  "total_news_count": 1033,
   "news": [
     {
       "Ticker": "NVDA",
@@ -13,13 +13,43 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META",
+      "Date": "2026-07-02",
+      "Time": "05:53:13",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, July 1: CoreWeave Stock Tumbles as Meta Cloud Report Raises Customer Concerns",
+      "URL": "https://finance.yahoo.com/m/bf1343d4-a1c1-34c4-8bce-82974584040b/stock-market-today%2C-july-1%3A.html",
+      "Content": "CoreWeave, Inc. (NASDAQ:CRWV), a specialized AI cloud infrastructure provider, closed at $85.69, down 13.92%. Shares fell after a Bloomberg report said Meta Platforms plans to expand into cloud infrastructure, raising competition concerns for AI infrastructure providers. Investors are now watching whether CoreWeave's backlog and customer relationships will absorb the pressure.\n\nHow the markets moved today\n\nS&P 500 (SNPINDEX:^GSPC) fell 0.22% to 7,483.23, while the Nasdaq Composite (NASDAQINDEX:^IXIC) dropped 0.66% to 26,040. Within AI cloud infrastructure and specialized GPU compute services, Nebius Group (NASDAQ:NBIS) slid 17.01% to $229.18 and Super Micro Computer (NASDAQ:SMCI) declined 5.73% to $27.65 as traders reassessed competition in the AI infrastructure trade.\n\nWhat this means for investors\n\nCoreWeave shares fell after reports that Meta Platforms could start a cloud business to sell extra AI computing power, which would mean more competition for companies like CoreWeave. The report was especially relevant for CoreWeave because Meta is already a major customer. Now, investors are less worried about general cloud competition and more interested in whether large AI buyers will eventually manage or profit from their own computing resources.\n\nThis news comes at a time when Neocloud stocks are under pressure, AI infrastructure spending is high, and questions remain about CoreWeave's ability to convert its backlog into actual capacity. CoreWeave's $99.4 billion backlog and more than 3.5 gigawatts of contracted power show strong demand, but investors are still watching capital spending, financing costs, customer concentration, and whether large AI customers continue relying on specialized providers as their own infrastructure expands.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-02",
+      "Time": "05:36:16",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, July 1: Meta Surges on Reported Plan for AI Cloud Business",
+      "URL": "https://finance.yahoo.com/m/0142514a-0e98-3f89-9e4e-16809df2a252/stock-market-today%2C-july-1%3A.html",
+      "Content": "Meta Platforms (NASDAQ:META), a social networking and digital advertising platforms provider, closed at $612.91. Shares rose 8.81% as premarket cloud-business reports eased investor concerns about AI spending. Investors are watching whether the new cloud effort can support future margins and AI demand.\n\nThe company's trading volume reached 45.1M shares, which is in about 159% above its three-month average of 17.4M shares.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) closed at 7,483.23, down 0.22%, while the Nasdaq Composite (NASDAQINDEX:^IXIC) finished at 26,040, down 0.66%. Among digital advertising and social networking platforms peers, Alphabet (NASDAQ:GOOGL) closed at $357.89, up 1.29%, and Snap (NYSE:SNAP) closed at $4.75, up 6.98 %.\n\nWhat this means for investors\n\nMeta Platforms' rally followed reports that the company is developing a cloud business to generate revenue from excess AI computing capacity, giving investors a new way to think about its heavy AI infrastructure spending. The reported initiative may involve offering access to AI models hosted on Meta's proprietary systems, which could reframe the company's data-center expansion as a potential revenue source rather than solely a cost burden.\n\nThis distinction is important as Meta has increased its 2026 capital expenditure forecast to $125 billion to $145 billion, making AI returns a key factor in its valuation. Since the cloud initiative is still in development, investors will need further evidence before considering it a significant business line. Meta's next earnings report should provide more insight into revenue growth, margins, capital expenditures, and whether AI infrastructure spending is delivering sustainable financial returns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, NVDA",
       "Date": "2026-07-02",
       "Time": "05:32:52",
       "Source": "Yahoo Finance",
       "Title": "Stock Market Today, July 1: Meta Shakes Up Cloud Sector and Tech Stocks Weigh on Markets",
       "URL": "https://finance.yahoo.com/m/16a21f51-cc3c-3a71-8034-2ec21164e605/stock-market-today%2C-july-1%3A.html",
       "Content": "The Nasdaq Composite (NASDAQINDEX:^IXIC) fell 0.66% to 26,040.03 as tech profit-taking intensified, while the S&P 500 (SNPINDEX:^GSPC) slipped 0.22% to 7,483.23 on manufacturing growth concerns, and the Dow Jones Industrial Average (DJINDICES:^DJI) hit an intraday record high before finishing down 0.03% to 52,305.24.\n\nGold edged up 0.26% to $4,048.90 as of U.S. market close, while the 10-Year Treasury yield rose 0.06% to 4.48%. Communications and financial services stocks led sector gains, while industrials and tech stocks declined.\n\nToday's biggest moves\n\nPalantir Technologies climbed 8% on a deal with Nvidia . Meta Platforms surged on news that it would move into cloud computing. The news pressured infrastructure stocks like CoreWeave , which tumbled 14% . Memory stocks also dropped today: Both Micron Technology and Sandisk plummeted 11%, potentially due to profit-taking or AI demand jitters.\n\nWhat this means for investors\n\nChipmaker losses dragged on major U.S. indexes today, but the majority of S&P 500 firms posted gains on easing inflation concerns. Outside of Meta's news and possible profit taking, another potential trigger for the pullback in chipmakers was news that renowned short-seller Michael Burry had shorted several AI leaders, including Nvidia and Applied Materials .\n\nZooming out, June manufacturing growth slowed, and prices dropped a little, per the Institute for Supply Management. Federal Reserve Chairman Kevin Warsh gave few clues about potential rate changes when he spoke at the European Central Bank Forum today, though the new leader stressed his commitment to bringing inflation down. Falling oil prices will certainly help.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-02",
+      "Time": "05:28:31",
+      "Source": "Yahoo Finance",
+      "Title": "Wall Street ends choppy session lower as tech shares drop",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-second-101234083.html",
+      "Content": "By Caroline Valetkevitch and Niket Nishant\n\nJuly 1 (Reuters) - U.S. stocks finished slightly lower on Wednesday as technology shares fell, but gains in Meta Platforms limited the decline in the S&P 500 and Nasdaq.\n\nChipmakers were among the ‌biggest drags on the S&P 500 and Nasdaq, with an index of semiconductors ending 6.3% lower and technology ‌leading declines among S&P 500 sectors. Lofty valuations and big AI spending by tech companies have been a concern for some market participants.\n\nInvestors also remain cautious ​about talks between the U.S. and Iran, especially with a long U.S. holiday weekend coming up, Tim Ghriskey, senior portfolio strategist at Ingalls & Snyder in New York, said.\n\nIran and the United States concluded a round of indirect talks on Wednesday with no sign they had made headway toward a lasting peace. The U.S. and Iran signed an interim accord last month.\n\nThe key monthly U.S. jobs report ‌is due out on Thursday, with the market ⁠closed on Friday ahead of the Fourth of July holiday.\n\nShares of Meta Platforms rallied 8.8% after Bloomberg News reported that it is building a cloud business to sell excess AI computing capacity.\n\nAlso providing ⁠some support were comments from Federal Reserve Chair Kevin Warsh that inflation risks had eased recently.\n\nThe Dow Jones Industrial Average fell 13.96 points, or 0.03%, to 52,305.24, the S&P 500 lost 16.13 points, or 0.22%, to 7,483.23 and the Nasdaq Composite lost 173.69 points, or 0.66%, ​to ​26,040.03.\n\nWarsh said he will stick firmly to the U.S. central bank's 2% ​inflation target and \"disappoint\" anyone who expects loose monetary ‌policy despite President Donald Trump's call for interest rate cuts.\n\nOil prices rose sharply at the start of the Iran war. Traders slightly pared their rate-hike expectations as Warsh spoke, but they still expect at least one hike from the U.S. central bank this year, according to data compiled by LSEG.\n\nInvestors also digested data from the Institute for Supply Management that showed U.S. manufacturing activity had slowed in June but was still solid.\n\nAmong the day's other decliners, shares of Alcoa fell 8.9% after Australia's South32 agreed ‌to sell most of its aluminium assets to Alcoa.\n\nThe day's weakness comes ​after a strong second quarter for the indexes. The S&P 500 and the ​Nasdaq Composite registered their biggest quarterly gains since 2020, ​while the Dow marked its best showing since 2022.\n\nVolume on U.S. exchanges was 19.71 billion shares, ‌compared with the 23.36 billion average for the full ​session over the last 20 trading ​days.\n\nStory Continues\n\nAdvancing issues outnumbered decliners by a 1.07-to-1 ratio on the New York Stock Exchange. There were 353 new highs and 127 new lows on the NYSE.\n\nOn the Nasdaq, 2,661 stocks rose and 2,303 fell as advancing issues outnumbered ​decliners by a 1.16-to-1 ratio. The S&P 500 ‌posted no new 52-week highs and no new lows, while the Nasdaq Composite recorded no new highs and ​no new lows.\n\n(Reporting by Caroline Valetkevitch in New York and Niket Nishant in Bengaluru; Additional reporting by ​Avinash P in Bengaluru; Editing by Pooja Desai and Matthew Lewis)",
       "Language": "en"
     },
     {
