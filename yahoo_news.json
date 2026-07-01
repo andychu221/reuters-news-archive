@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-01T20:01:02.801Z",
-  "total_news_count": 994,
+  "last_updated": "2026-07-01T20:15:11.668Z",
+  "total_news_count": 996,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-02",
+      "Time": "04:03:50",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Warned by Russia Over Local Apps",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-warned-russia-over-local-200350990.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) is facing new pressure in Russia after the country's antitrust regulator accused the company of discriminating against local search engines and software.\n\nWarning! GuruFocus has detected 5 Warning Signs with MU.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nRussia's Federal Antimonopoly Service said Apple must address the alleged violations by July 15. If it does not, the company could face a fine of up to 4 billion roubles, or about $51.6 million.\n\nThe regulator said Apple should ensure Russian software is pre-installed on its devices. That includes local search engines and the messenger app Max.\n\nThe warning adds to Apple's regulatory challenges in international markets, where governments have pushed large technology companies to give more room to domestic services. For Apple, the issue centers on how much control it keeps over software settings and app access on its devices.\n\nThe financial risk is modest compared with Apple's overall business, but the case shows how local rules can create complications for global technology companies.\n\nInvestors will now watch whether Apple makes changes before the July 15 deadline or challenges the regulator's claims.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-02",
+      "Time": "04:03:14",
+      "Source": "Yahoo Finance",
+      "Title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-cloud-push-sends-200314853.html",
+      "Content": "This article first appeared on GuruFocus .\n\nShares of AI infrastructure and semiconductor companies declined Wednesday after a report said Meta Platforms (META) is exploring a cloud infrastructure business that would offer external customers access to AI computing power and models.\n\nThe report sparked broad selling across AI-related names. Nvidia ( NASDAQ:NVDA ) fell about 2%, while Advanced Micro Devices ( NASDAQ:AMD ) lost nearly 3%, Broadcom ( NASDAQ:AVGO ) slipped around 2%, and Intel ( NASDAQ:INTC ) dropped about 4%. Infrastructure providers also came under pressure, with Nebius ( NASDAQ:NBIS ) falling nearly 12%, CoreWeave ( NASDAQ:CRWV ) losing about 10%, and Super Micro Computer (SMCI) declining around 4%.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nStorage and networking stocks also weakened. Micron Technology (MU) dropped about 7% despite disclosing a long-term supply agreement with General Motors (GM), while Sandisk (SNDK) fell about 8%, Seagate Technology (STX) lost around 4%, and Western Digital (WDC) declined nearly 5%. Chip-equipment makers also traded lower, with KLA (KLAC), Lam Research (LRCX), Applied Materials (AMAT) and ASML Holding (ASML) posting losses.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-02",
@@ -73,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, GOOGL",
+      "Ticker": "AAPL, NVDA, GOOGL",
       "Date": "2026-07-02",
       "Time": "03:05:00",
       "Source": "Yahoo Finance",
