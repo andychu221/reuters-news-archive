@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T10:32:15.912Z",
-  "total_news_count": 172,
+  "last_updated": "2026-07-06T10:39:52.301Z",
+  "total_news_count": 173,
   "news": [
     {
       "Ticker": "SNDK, NVDA",
@@ -33,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META",
+      "Date": "2026-07-06",
+      "Time": "17:41:08",
+      "Source": "Yahoo Finance",
+      "Title": "Rosenblatt Reiterates Buy Rating on CoreWeave (CRWV)",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/rosenblatt-reiterates-buy-rating-coreweave-094108196.html",
+      "Content": "CoreWeave, Inc. (NASDAQ:CRWV) is one of the 10 Best Pick and Shovel AI Stocks to Invest In .\n\nOn July 2, 2026, Rosenblatt viewed the prior day's selloff in CoreWeave, Inc. (NASDAQ:CRWV) shares as a buying opportunity after Bloomberg reported that Meta Platforms (META) is planning a cloud business to sell AI computing power. Rosenblatt said its channel checks show no change in hyperscale demand for GPU compute procurement, with GPU shortages remaining \"the norm right now across the industry.\" The firm also does not believe Meta has the right to resell to third parties any capacity it has leased from CoreWeave through 2032. Rosenblatt reiterated a Buy rating and $250 price target on CoreWeave.\n\nOn the same day, Jefferies said it is \"bullish\" on reports that Meta is entering the cloud business. The firm argued that Meta is following Amazon's (AMZN) AWS playbook by monetizing excess compute to lift utilization, improve ROIC, and boost cash flow to fund more capex. Jefferies also called a cloud business \"strategic\" to Meta's longer-term AI ambitions, while saying CoreWeave's value remains intact because it is \"one of the best\" at hosting AI compute.\n\nOn June 29, CoreWeave announced the launch of CoreWeave ARIA, an AI research agent built directly into Weights & Biases. ARIA was built using W&B Weave, CoreWeave's agent development platform, whose agent development capabilities also entered general availability that day. Praneeth Gangavarapu, PhD Candidate at Scripps Research, said ARIA has become a \"valuable part\" of daily workflow by helping generate reports, create sweep configurations from natural language, and automate manual setup tasks.\n\nCoreWeave, Inc. (NASDAQ:CRWV) operates as a cloud infrastructure technology company in the United States.\n\nWhile we acknowledge the potential of CRWV as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nNorthern Trust (NTRS) Appointed for Fund Administration by TirNua Capital Partners\n\nNorthern Trust (NTRS) Appointed for Fund Administration by TirNua Capital Partners On June 29, CoreWeave announced the launch of CoreWeave ARIA, an AI research agent built directly into Weights & Biases. ARIA was built using W&B Weave, CoreWeave's agent development platform, whose agent development capabilities also entered general availability that day. Praneeth Gangavarapu, PhD Candidate at Scripps Research, said ARIA has become a \"valuable part\" of daily workflow by helping generate reports, create sweep configurations from natural language, and automate manual setup tasks.\n\nWhile we acknowledge the potential of CRWV as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock<",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-07-06",
       "Time": "17:32:00",
       "Source": "Yahoo Finance",
@@ -103,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "META, MU",
       "Date": "2026-07-06",
       "Time": "17:07:27",
       "Source": "Yahoo Finance",
