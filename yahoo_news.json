@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-07-06T13:00:41.737Z",
-  "total_news_count": 279,
+  "last_updated": "2026-07-06T13:16:11.591Z",
+  "total_news_count": 280,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-07-06",
+      "Time": "21:10:39",
+      "Source": "Yahoo Finance",
+      "Title": "Broadcom stock pops 4% as Apple silicon deal gets extended through 2031",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-pops-4-apple-131039879.html",
+      "Content": "Investing.com -- Broadcom Inc. (NASDAQ: AVGO) shares climbed 4% on Monday after the semiconductor company announced a significant extension of its chip supply agreement with Apple Inc. (NASDAQ: AAPL), securing a critical revenue stream for the remainder of the decade.\n\nThe new agreement ensures that Broadcom will remain a cornerstone of Apple's hardware supply chain for years to come. According to the company's recent SEC filing, the two tech giants are officially deepening their ties:\n\n\"Broadcom Inc. (\"Broadcom\") and Apple Inc. (\"Apple\") have agreed to expand their long-standing technology collaboration through 2031 by entering into new multi-year long-term agreements for Broadcom to develop and supply a range of custom ASIC silicon products for use in multiple generations of Apple products.\"\n\nThis extension covers a broad range of custom chip designs that will be integrated into various Apple devices, securing a nearly decade-long relationship between the two companies.\n\nWhile the Apple partnership remains a massive pillar for Broadcom, the chipmaker is also aggressively expanding its footprint in the artificial intelligence sector. Broadcom continues to develop AI-specific chips for other major technology firms, notably partnering with industry leaders like Alphabet Inc. (NASDAQ: GOOGL) and Meta Platforms Inc. (NASDAQ: META).\n\nFor investors, this extended supply deal provides Broadcom with highly coveted, long-term revenue visibility from one of the world's most valuable companies. As Apple continues to rely heavily on custom silicon to power and differentiate its product lineup, this agreement cements Broadcom's position as an indispensable partner in the tech giant's future.\n\nBroadcom stock pops 4% as Apple silicon deal gets extended through 2031\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, INTC, NVDA",
       "Date": "2026-07-06",
       "Time": "20:45:00",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, TSM, NVDA",
       "Date": "2026-07-06",
       "Time": "20:20:00",
       "Source": "Yahoo Finance",
@@ -73,13 +83,13 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AVGO",
+      "Ticker": "AAPL, AVGO",
       "Date": "2026-07-06",
       "Time": "20:07:12",
       "Source": "Yahoo Finance",
       "Title": "Broadcom, Apple extend chip supply deal through 2031",
       "URL": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html",
-      "Content": "July 6 (Reuters) - Broadcom said on Monday it has agreed to expand its partnership with Apple through 2031 to develop and supply ‌custom chips, easing concerns over the iPhone maker's reliance on the ‌chipmaker.\n\nThe chipmaker, whose shares jumped nearly 4% in premarket trading, has been supplying key components to ​Apple for a very long time, including radio frequency chips used in iPhones for connecting to cellular networks, Wi-Fi and Bluetooth connectivity chips and other networking semiconductors.\n\nMore from Yahoo Scout\n\nHow are AI demands affecting Apple's chip supply?\n\nWhy is Apple securing long-term chip supply agreements?\n\nWhat chips will Broadcom supply to Apple through 2031?\n\nHow much revenue does Apple contribute to Broadcom?\n\nApple accounts for about 20% of Broadcom's annual revenue, according to analysts, making it ‌one of the chipmaker's largest ⁠customers. Despite developing its own chips, including the C1 modem, Apple relies on Broadcom for wireless and radio-frequency components.\n\nThe extended ⁠partnership reinforces Apple's strategy of locking in long-term supply agreements with key chipmakers to bolster the resilience of its supply chain.\n\nThe companies had in 2023 announced a ​multibillion-dollar agreement ​for Broadcom to develop and manufacture ​5G radio frequency components.\n\nThe boom in ‌inference - the process by which models respond to user queries - has made custom chips crucial, increasing the orders for advanced processors and intensifying competition.\n\nApple relies on Taiwan's TSMC, the world's largest contract chipmaker, for its in-house processors, including the M-series chips that power its Mac computers and the A-series chips in ‌iPhones.\n\nTSMC has been stretched thin by surging ​demand from AI chipmakers such as Nvidia , which ​Apple CEO Tim Cook said ​in April had held back iPhone sales.\n\nApple is also in ‌discussions with Intel to manufacture some ​chips in the U.S., ​though analysts have said volume production is unlikely before late 2027.\n\nThe company was forced to raise prices of its MacBooks and iPads in ​June as memory chip ‌costs surged as much as 98% in early 2026, driven by AI ​datacenter demand.\n\n(Reporting by Akash Sriram and Anhata Rooprai in Bengaluru; ​Editing by Shinjini Ganguli and Arun Koyyur)",
+      "Content": "July 6 (Reuters) - Broadcom said on Monday it has agreed to expand its partnership with Apple through 2031 to develop and supply ‌custom chips, easing concerns over the iPhone maker's reliance on the ‌chipmaker.\n\nThe chipmaker, whose shares jumped nearly 4% in premarket trading, has been supplying key components to ​Apple for a very long time, including radio frequency chips used in iPhones for connecting to cellular networks, Wi-Fi and Bluetooth connectivity chips and other networking semiconductors.\n\nApple accounts for about 20% of Broadcom's annual revenue, according to analysts, making it ‌one of the chipmaker's largest ⁠customers. Despite developing its own chips, including the C1 modem, Apple relies on Broadcom for wireless and radio-frequency components.\n\nThe extended ⁠partnership reinforces Apple's strategy of locking in long-term supply agreements with key chipmakers to bolster the resilience of its supply chain.\n\nThe companies had in 2023 announced a ​multibillion-dollar agreement ​for Broadcom to develop and manufacture ​5G radio frequency components.\n\nThe boom in ‌inference - the process by which models respond to user queries - has made custom chips crucial, increasing the orders for advanced processors and intensifying competition.\n\nApple relies on Taiwan's TSMC, the world's largest contract chipmaker, for its in-house processors, including the M-series chips that power its Mac computers and the A-series chips in ‌iPhones.\n\nTSMC has been stretched thin by surging ​demand from AI chipmakers such as Nvidia, which ​Apple CEO Tim Cook said ​in April had held back iPhone sales.\n\nApple is also in ‌discussions with Intel to manufacture some ​chips in the U.S., ​though analysts have said volume production is unlikely before late 2027.\n\nThe company was forced to raise prices of its MacBooks and iPads in ​June as memory chip ‌costs surged as much as 98% in early 2026, driven by AI ​datacenter demand.\n\n(Reporting by Akash Sriram and Anhata Rooprai in Bengaluru; ​Editing by Shinjini Ganguli and Arun Koyyur)",
       "Language": "en"
     },
     {
