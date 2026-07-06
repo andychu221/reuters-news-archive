@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-06T14:01:04.963Z",
-  "total_news_count": 293,
+  "last_updated": "2026-07-06T14:14:57.065Z",
+  "total_news_count": 294,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, TSLA, NVDA",
       "Date": "2026-07-06",
       "Time": "21:50:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "INTC, MU",
       "Date": "2026-07-06",
       "Time": "21:46:29",
       "Source": "Yahoo Finance",
@@ -23,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-07-06",
+      "Time": "21:45:45",
+      "Source": "Yahoo Finance",
+      "Title": "HSBC sees more upside in Intel stock on server CPU opportunity",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/hsbc-sees-more-upside-intel-134545802.html",
+      "Content": "Investing.com -- HSBC doubled its price target on Intel to $200, the highest on Wall Street, and maintained its Buy rating, citing a stronger server CPU outlook and the decision to include Intel's foundry business in its valuation for the first time.\n\nAnalyst Frank Lee said server CPU growth \"remains the key driver for Intel's earnings growth in 2026/27,\" raising his 2026 server CPU shipment growth estimate from 20% to 25% year-on-year.\n\nHis 2026 data center and AI revenue estimate of $24.1 billion sits 4% above consensus. For 2027, Lee raised his server CPU shipment growth forecast from 20% to 30%, with his DCAI revenue estimate of $33.0 billion running 20% above consensus.\n\nOn the foundry business, HSBC said the narrative is \"too good to ignore now,\" with Intel emerging as a leading alternative to TSMC amid front-end fabrication and advanced packaging constraints.\n\nLee noted that Intel has signed Terafab and Apple as foundry customers and is engaging with Google and Nvidia. Intel's EMIB advanced packaging solution, which can scale to 12 times reticle size compared to CoWoS-S's 3.3 times, is attracting increasing interest, with HSBC's sensitivity analysis suggesting broader EMIB adoption could lift Intel's 2028 EPS by 23% versus the base case.\n\nHSBC said its 2026 and 2027 EPS estimates remain 21% and 55% above consensus, respectively, with approximately 58% upside to its $200 price target. Design commitments from foundry customers are expected to emerge through the second half of 2026 and into 2027.\n\nHSBC sees more upside in Intel stock on server CPU opportunity\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM, NVDA",
       "Date": "2026-07-06",
       "Time": "21:43:00",
       "Source": "Yahoo Finance",
