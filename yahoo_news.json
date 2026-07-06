@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T22:41:01.623Z",
-  "total_news_count": 440,
+  "last_updated": "2026-07-06T22:45:27.434Z",
+  "total_news_count": 445,
   "news": [
     {
       "Ticker": "META",
@@ -23,6 +23,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-07",
+      "Time": "05:47:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR6日上漲0.64美元漲幅7.02%折台股31.26元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr6%E6%97%A5%E4%B8%8A%E6%BC%B20-64%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%857-02-%E6%8A%98%E5%8F%B0%E8%82%A131-26%E5%85%83-214700272.html",
+      "Content": "(中央社台北2026年 7月 7日電)友達光電在OTC US掛牌ADR以9.76美元作收，上漲0.64美元，漲幅 7.02%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 7月 6日新台幣匯市收盤價32.025元計算，相當台股友達每股為 31.26元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/ 6\n\n9.76\n\n0.64\n\n7.02\n\n32.025\n\n31.2\n\n7/ 2\n\n9.12\n\n-0.21\n\n-2.25\n\n31.910\n\n29.1\n\n7/ 1\n\n9.33\n\n-0.93\n\n-9.06\n\n31.874\n\n29.7\n\n6/30\n\n10.26\n\n0.58\n\n5.99\n\n31.837\n\n32.6\n\n6/29\n\n9.68\n\n0.84\n\n9.50\n\n31.845\n\n30.8\n\n6/26\n\n8.84\n\n-0.36\n\n-3.91\n\n31.860\n\n28.1\n\n6/25\n\n9.20\n\n-0.08\n\n-0.86\n\n31.835\n\n29.2\n\n6/24\n\n9.28\n\n0.33\n\n3.69\n\n31.751\n\n29.4\n\n6/23\n\n8.95\n\n-0.76\n\n-7.83\n\n31.625\n\n28.3\n\n6/22\n\n9.71\n\n0.86\n\n9.72\n\n31.631\n\n30.7",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-07",
+      "Time": "05:46:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR6日上漲0.11美元漲幅0.25%折台股141.26元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr6%E6%97%A5%E4%B8%8A%E6%BC%B20-11%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-25-%E6%8A%98%E5%8F%B0%E8%82%A1141-26%E5%85%83-214656568.html",
+      "Content": "(中央社台北2026年 7月 7日電)中華電信在NYSE掛牌ADR 以44.11美元作收，上漲0.11美元，漲幅 0.25%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 7月 6日新台幣匯市收盤價32.025元計算，相當台股中華電信每股為141.26元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/ 6\n\n44.11\n\n0.11\n\n0.25\n\n32.025\n\n141.2\n\n7/ 2\n\n44.00\n\n-0.02\n\n-0.05\n\n31.910\n\n140.4\n\n7/ 1\n\n44.02\n\n-0.24\n\n-0.54\n\n31.874\n\n140.3\n\n6/30\n\n44.26\n\n-0.22\n\n-0.49\n\n31.837\n\n140.9\n\n6/29\n\n44.48\n\n-0.46\n\n-1.02\n\n31.845\n\n141.6\n\n6/26\n\n44.94\n\n0.15\n\n0.33\n\n31.860\n\n143.1\n\n6/25\n\n44.79\n\n0.28\n\n0.63\n\n31.835\n\n142.5\n\n6/24\n\n44.51\n\n-0.62\n\n-1.37\n\n31.751\n\n141.3\n\n6/23\n\n45.13\n\n-0.44\n\n-0.97\n\n31.625\n\n142.7\n\n6/22\n\n45.57\n\n0.55\n\n31.631\n\n144.1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-07-07",
+      "Time": "05:46:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR6日上漲1.29美元漲幅5.26%折台股165.44元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr6%E6%97%A5%E4%B8%8A%E6%BC%B21-29%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%855-26-%E6%8A%98%E5%8F%B0%E8%82%A1165-44%E5%85%83-214654505.html",
+      "Content": "(中央社台北2026年 7月 7日電)聯電在NYSE掛牌 ADR以25.83美元作收，上漲1.29美元，漲幅 5.26%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 7月 6日新台幣匯市收盤價32.025元計算，相當台股聯電每股為 165.44元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/ 6\n\n25.83\n\n1.29\n\n5.26\n\n32.025\n\n165.4\n\n7/ 2\n\n24.54\n\n-1.17\n\n-4.55\n\n31.910\n\n156.6\n\n7/ 1\n\n25.71\n\n-1.50\n\n-5.51\n\n31.874\n\n163.9\n\n6/30\n\n27.21\n\n0.37\n\n1.38\n\n31.837\n\n173.2\n\n6/29\n\n26.84\n\n1.26\n\n4.93\n\n31.845\n\n170.9\n\n6/26\n\n25.58\n\n-2.15\n\n-7.75\n\n31.860\n\n163.0\n\n6/25\n\n27.73\n\n-0.28\n\n-1.00\n\n31.835\n\n176.5\n\n6/24\n\n28.01\n\n1.81\n\n6.91\n\n31.751\n\n177.8\n\n6/23\n\n26.20\n\n-1.30\n\n-4.73\n\n31.625\n\n165.7\n\n6/22\n\n27.50\n\n3.42\n\n14.20\n\n31.631\n\n173.9",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-07",
       "Time": "05:42:45",
@@ -31,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/6f4dc7da-ba51-3923-b055-2b630887db7b/why-abacus-global-management.html",
       "Content": "Abacus Global Management (NYSE: ABX) stock ended Monday in positive territory on news that it had secured tens of millions of dollars in new funding and on the apparently smooth transition of an outgoing company official.\n\nShares of the alternative asset management company focused on insurance policies closed that trading session more than 1% higher, eking out a win over the S&P 500 index, which rose by 0.7%.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n75 million new reasons to like Abacus\n\nJust before last week's Friday trading holiday, Abacus divulged in a regulatory filing that it managed to upsize an existing syndicated credit facility, and at quite a substantial amount.\n\nThat debt instrument, facilitated by Glas USA, now totals $225 million after Abacus secured an additional $75 million in lender commitments. The extra funds don't come with a catch or several; Abacus wrote that the terms of the arrangement remain the same.\n\nLater in that regulatory document, Abacus added that a member of its board of directors, Sean McNealy, resigned his position, effective this past June 30.\n\nThat move is connected with his planned retirement and was not \"a result of any disagreement with the Company, management or the Company's board of directors on any matter relating to the Company's operations, policies or practices.\" He will remain with Abacus in an advisory role.\n\nCounting on wise management\n\nIt's a flashing green light whenever a business manages to upsize a major credit facility by 50%. Obviously, Abacus is managing its finances well, as even the most forgiving lenders would hesitate before signing on to such an increase.\n\nAbacus is a unique company that buys individual life insurance policies and bundles them for investment. It's had its ups and downs over the years, but its business model is intriguing -- and quite lucrative when managed well.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-07",
+      "Time": "05:41:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR6日上漲17.63美元漲幅4.06%折台股2893.71元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr6%E6%97%A5%E4%B8%8A%E6%BC%B217-63%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%854-06-%E6%8A%98%E5%8F%B0%E8%82%A12893-71%E5%85%83-214150857.html",
+      "Content": "(中央社台北2026年 7月 7日電)台積電在NYSE掛牌 ADR以451.79美元作收，上漲 17.63美元，漲幅 4.06%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 7月 6日新台幣匯市收盤價32.025元計算，相當台股台積電每股為 2893.71元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/ 6\n\n451.79\n\n17.63\n\n4.06\n\n32.025\n\n2893.7\n\n7/ 2\n\n434.16\n\n-10.07\n\n-2.27\n\n31.910\n\n2770.8\n\n7/ 1\n\n444.23\n\n-33.34\n\n-6.98\n\n31.874\n\n2831.8\n\n6/30\n\n477.57\n\n22.47\n\n4.94\n\n31.837\n\n3040.8\n\n6/29\n\n455.10\n\n22.75\n\n5.26\n\n31.845\n\n2898.5\n\n6/26\n\n432.35\n\n-2.64\n\n-0.61\n\n31.860\n\n2754.9\n\n6/25\n\n434.99\n\n-5.84\n\n-1.32\n\n31.835\n\n2769.5\n\n6/24\n\n440.83\n\n4.44\n\n1.02\n\n31.751\n\n2799.3\n\n6/23\n\n436.39\n\n-31.28\n\n-6.69\n\n31.625\n\n2760.1\n\n6/22\n\n467.67\n\n5.55\n\n1.20\n\n31.631\n\n2958.5",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -81,6 +121,16 @@
       "URL": "https://finance.yahoo.com/m/01110433-52e1-3f60-8b94-203dd0a8bb46/2-brilliant-stocks-to-buy-and.html",
       "Content": "Time in the market beats timing the market, especially for investors who focus on growth stocks with solid fundamentals and long-term growth opportunities.\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Amazon (NASDAQ: AMZN) both fit the description nicely. These storied stocks have outperformed the S&P 500 for many years. Alphabet has still been outperforming the S&P 500 over the past year, while Amazon is due to catch up.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nOnline advertising profits help Alphabet invest in many industries\n\nAlphabet's biggest moneymaker is online advertising . When people search for content on Google and YouTube, they encounter advertisements that generate high margins for the company. Google Services revenue, which primarily consists of those two sources, reached $89.6 billion in Q1, a 16% year-over-year increase. That's also more than 80% of Alphabet's total revenue growth.\n\nGoogle and YouTube were enough to push Alphabet to a $1 trillion valuation, but its other businesses make it a compelling pick. Since Alphabet's online ads are high-margin, it can endure multiple years of unprofitability from other segments and wait patiently for them to scale.\n\nThat's what happened with Google Cloud, a segment that was unprofitable for more than a decade. Google Cloud has now become the centerpiece of Alphabet's long-term growth, and it's profitable. Google Cloud revenue continues to accelerate, driven by artificial intelligence (AI), and its sales grew 63% year over year in Q1.\n\nAlphabet can follow the same playbook with other initiatives, including AI model Gemini and self-driving vehicle provider Waymo.\n\nAlphabet is well-positioned to capitalize on any new opportunities AI creates, and it doesn't trade at a moonshot valuation. A P/E ratio of 27 is reasonable given Alphabet's fundamental strength. That's a lower valuation than the S&P 500, even though most of the companies in that benchmark aren't delivering revenue and net income growth rates as high as Alphabet's.\n\nAmazon has the same advantages, but it is concentrating more on high-margin opportunities\n\nAmazon also taps into multiple industries and has a highly profitable engine that supports expansion into other ventures. Amazon first established itself as the leading online marketplace and introduced free two-day shipping for Amazon Prime members. Other retail giants followed suit with their own membership plans that came with free two-day shipping.\n\nStory Continues\n\nThe online marketplace continued to grow, contributing to the company's 17% year-over-year revenue growth in Q1. However, one flaw of an e-commerce model is that it often relies on low profit margins. Walmart and Costco Wholesale both have net profit margins that hover near 3%, while Amazon has double-digit net profit margins.\n\nAmazon's margins are increasing faster than those of other retailers and e-commerce companies because it's not just an online marketplace. Amazon Web Services, the predecessor of Google Cloud, remains a vibrant, high-margin part of the business. Sales from that segment were up 28% year over year in Q1 as AI tailwinds propel all cloud computing platforms.\n\nAmazon's AI chip business has been surging as well and is now up to a $20 billion run rate in revenue. Nvidia 's and Broadcom 's successes in selling AI chips show that Amazon can command very high net profit margins. These two chipmakers have net profit margins hovering near 70% and 40%, respectively, showing what is possible for Amazon.\n\nAmazon is also tapping into online ads across its marketplace to boost profit margins. This high-margin part of the business grew by 24% year over year, outpacing the company as a whole. If Amazon Web Services and online ads continue to propel Amazon's growth, net profit margins should continue to improve.\n\nThe tech giant even issued rosy guidance for Q2, which implied 16% to 19% year-over-year revenue growth. Amazon is expanding into key industries while leveraging AI to get more out of its existing businesses.\n\nWe just issued 'double down' alerts on 3 stocks — find out if Amazon made our list\n\nEver feel like you missed the boat in buying the most successful stocks? Then you'll want to hear this.\n\nOn rare occasions, our expert team of analysts issues a \"Double Down\" stock recommendation for companies that they think are about to pop. If you're worried you've already missed your chance to invest, now is the best time to buy before it's too late. And the numbers speak for themselves:\n\nNvidia: if you invested $1,000 when we doubled down in 2009, you'd have $505,952 !*\n\nApple: if you invested $1,000 when we doubled down in 2008, you'd have $58,823 !*\n\nNetflix: if you invested $1,000 when we doubled down in 2004, you'd have $418,761 !*\n\nRight now, we're issuing \"Double Down\" alerts for three incredible companies, available when you join Stock Advisor , and there may not be another chance like this anytime soon.\n\nSee the 3 stocks »\n\n*Stock Advisor returns as of July 6, 2026\n\nMarc Guberti has positions in Broadcom. The Motley Fool has positions in and recommends Alphabet, Amazon, Broadcom, Costco Wholesale, Nvidia, and Walmart. The Motley Fool has a disclosure policy .\n\n2 Brilliant Stocks to Buy and Hold for 10 Years was originally published by The Motley Fool\n\nImage source: Getty Images.\n\nImage source: Getty Images. Online advertising profits help Alphabet invest in many industries\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-nume",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-07",
+      "Time": "05:00:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股漲勢過度集中？三大儲存晶片股扛起標普25%漲幅 下半年迎財報大考",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%BC%B2%E5%8B%A2%E9%81%8E%E5%BA%A6%E9%9B%86%E4%B8%AD-%E4%B8%89%E5%A4%A7%E5%84%B2%E5%AD%98%E6%99%B6%E7%89%87%E8%82%A1%E6%89%9B%E8%B5%B7%E6%A8%99%E6%99%AE25-%E6%BC%B2%E5%B9%85-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%8E%E8%B2%A1%E5%A0%B1%E5%A4%A7%E8%80%83-210009093.html",
+      "Content": "美國股市今年持續走高，不過最新研究顯示，推升大盤的重要力量正高度集中於少數儲存晶片股。根據彭博策略師 Simon White 測算，今年以來，標普 500 指數近四分之一的漲幅，來自於 美光科技 (MU-US) 、** 閃迪 (SNDK-US) 及 西部數據 (WDC-US)** 三家儲存晶片廠商的股價表現，顯示 AI 投資熱潮下，市場資金正高度集中於特定族群。\n\nSimon White 指出，在過去六個月期間，標普 500 指數累計上漲 8.3%，其中美光單一公司便貢獻約 1.4 個百分點，約占整體漲幅近六分之一；若將閃迪與西部數據納入計算，三家公司合計對標普 500 指數貢獻接近四分之一的報酬，凸顯少數儲存晶片股已成為今年美股上漲的重要支柱。\n\n市場人士指出，這也意味著標普 500 今年的漲勢在相當程度上建立於少數個股之上，指數結構集中度明顯提高。隨著分析師對企業獲利預估持續上修的空間逐漸縮小，這些公司未來股價若要延續強勢，將更依賴實際財報表現，而非估值持續擴張。\n\n事實上，今年 4 月成為儲存晶片族群表現的重要轉折點。在此之前， 輝達 (NVDA-US) 、** 蘋果 (AAPL-US) 及 Alphabet(GOOGL-US)** 等大型科技股長期占據標普 500 指數漲幅貢獻排行榜前列，儲存晶片企業對整體指數的影響相對有限。\n\n然而，自 4 月起，隨著市場持續上調儲存晶片產業的獲利預期，不僅帶動整體族群股價快速走升，也促使市場重新評估 AI 供應鏈各環節的受惠程度。投資人逐步區分雲端服務業者與硬體供應商的投資價值，資金開始加速流向儲存晶片廠，使相關個股一度跑贏運算晶片族群。\n\n不過，支撐儲存晶片股大漲的主要因素，如今已出現降溫跡象。彭博統計顯示，標普 500 成分股未來一年每股盈餘 (EPS) 預估的分析師上調與下調比率，目前已回落至約 1 的平衡水準，代表上調家數與下調家數大致相當；未來兩年及三年的獲利預估，上修速度也同步放緩。\n\n分析認為，這代表過去支撐儲存晶片股估值快速提升的預期紅利正在逐漸消退，市場投資邏輯已由「獲利預估持續調升」逐步轉向「實際財報能否兌現預期」。在市場已反映高度樂觀預期的情況下，一旦企業獲利未達預估，股價恐將面臨更大的修正壓力。\n\n此外，儲存晶片的強勢表現，也反映 AI 投資主軸內部正出現新的輪動趨勢。在半導體族群連續領漲近兩年後，市場開始重新評估 AI 價值鏈中不同產業的成長潛力。\n\n彭博分析指出，近期軟體族群已逐漸展現相對優勢，若技術面、企業庫藏股買回規模以及相對動能持續改善，市場資金未來有望進一步流向軟體產業。另一方面，儲存晶片股近期已開始出現階段性拉回，雖然不影響其今年對標普 500 指數漲幅的重大貢獻，但也反映高度依賴少數明星股推動的指數結構仍具有一定脆弱性。\n\n展望下半年，市場普遍認為，標普 500 指數能否延續漲勢，將高度取決於儲存晶片企業是否能以持續成長的獲利支撐目前偏高的估值。若財報表現未能符合市場期待，今年推升美股的重要動能，未來也可能成為市場波動加劇的主要來源。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
