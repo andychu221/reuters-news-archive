@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-06T19:16:20.691Z",
-  "total_news_count": 412,
+  "last_updated": "2026-07-06T19:32:02.550Z",
+  "total_news_count": 413,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-07-07",
+      "Time": "03:20:08",
+      "Source": "Yahoo Finance",
+      "Title": "Tepper’s Appaloosa soars 32% in H1 on prescient memory-chip bets - report",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tepper-appaloosa-soars-32-h1-192008692.html",
+      "Content": "Investing.com -- David Tepper's Appaloosa Management delivered a 32% gross return in the first half of the year, with every dollar of that gain generated in the second quarter alone, Bloomberg reported, citing performance results from the $23 billion hedge fund.\n\nMicron Technology (NASDAQ: MU) is the most directly tradeable name tied to Appaloosa's haul. Bloomberg identified Micron as one of the fund's biggest winners alongside Samsung Electronics, SK Hynix, Kioxia Holdings, and Sandisk Corp., all of which Tepper rode through an AI-infrastructure spending boom that has reshaped the memory-chip landscape in 2025 and into 2026.\n\nAccording to Bloomberg, the five positions share a common thread: surging demand for high-bandwidth memory and NAND flash tied to the buildout of AI data centers. SK Hynix has emerged as a primary supplier of HBM chips to Nvidia, while Micron has aggressively expanded its own HBM production capacity. Kioxia, which went public in late 2024, and Sandisk, spun out of Western Digital, round out Appaloosa's exposure to the NAND segment of the memory market.\n\nWhat makes the performance particularly striking is how it was achieved. Bloomberg noted that Tepper maintained an average cash position of roughly 40% throughout the year, a level that would typically dampen returns significantly. Running that much dry powder while still booking a 32% gain implies the concentrated memory bets produced outsized moves on the deployed capital, underscoring how violent the AI-related re-rating in semiconductor names has been.\n\nAppaloosa's structure amplifies the significance of those numbers. Bloomberg reported that approximately 90% of the fund's capital belongs to Tepper, 68, and other insiders, meaning the returns cited are gross of fees but reflect real wealth creation for the firm's principals rather than a fee-generating headline number. Tepper, a former Goldman Sachs trader, founded Appaloosa in 1993, and returned most outside capital in 2019 to focus on the Carolina Panthers NFL franchise he had acquired a year earlier.\n\nThe H1 result extends what has become a consistent run of outperformance. Bloomberg reported that Appaloosa gained almost 26% in 2024 and has posted double-digit returns every year since at least 2021. Before shifting to a largely internal capital base, Tepper had compounded at roughly 25% annualized after fees across his career.\n\nFor context on Micron specifically, the stock has been one of the more volatile bellwethers of the AI memory cycle, swinging sharply on each quarterly earnings report as investors parse DRAM pricing trends and HBM allocation data. With Appaloosa's positioning concentrated in this cohort, Micron's upcoming earnings cycle and any guidance on HBM supply agreements will be closely watched as a read on whether Tepper's thesis continues to pay off in the second half.\n\nStory Continues\n\nThe high cash buffer also raises a forward-looking question Bloomberg's reporting leaves partially open: whether Tepper's caution reflects a macro hedge against tariff risk, potential softening in data-center capital expenditure, or simply discipline around position sizing in a crowded trade. The AI memory theme has attracted significant institutional interest, and DRAM pricing cycles have historically reversed sharply once supply catches up with demand. Investors tracking Appaloosa's next 13F filing, which will disclose holdings as of the most recent quarter-end, may get a clearer picture of whether Tepper has been trimming or adding to these names as the rally extends.\n\nFor now, the scoreboard is unambiguous. A 32% gross return in six months, built on a concentrated bet that AI infrastructure spending would keep memory-chip makers in a sustained upcycle, puts Appaloosa among the top-performing large hedge funds of the year, according to Bloomberg.\n\nTepper's Appaloosa soars 32% in H1 on prescient memory-chip bets - report\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\nNvidia's new Alpamayo project: What it means for Tesla?",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-07-07",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "SNDK, NVDA, MU",
       "Date": "2026-07-07",
       "Time": "02:47:43",
       "Source": "Yahoo Finance",
