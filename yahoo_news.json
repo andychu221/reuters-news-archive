@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-07T16:12:36.106Z",
-  "total_news_count": 683,
+  "last_updated": "2026-07-07T16:15:05.641Z",
+  "total_news_count": 684,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-07",
+      "Time": "23:54:21",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Stock Tumbles as Samsung's Record Profit Sparks Fresh AI Fears",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-tumbles-samsungs-record-155421125.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) shares fell nearly 9% in Tuesday trading as a broad decline across semiconductor stocks gathered pace following Samsung Electronics' latest quarterly earnings update, which renewed investor concerns about AI-related valuations.\n\nThe selloff extended beyond Intel. Samsung shares dropped about 7% in South Korea. The Nasdaq Composite lagged broader U.S. indexes as technology stocks came under pressure.\n\nWarning! GuruFocus has detected 7 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel entered the session after retreating from recent highs, with investors also awaiting the company's second-quarter earnings report scheduled for July 23. Market participants continue to watch whether Intel's foundry expansion and data center business can translate into stronger financial performance as competition in AI chips intensifies.\n\nThe broader decline followed Samsung's stronger-than-expected preliminary quarterly profit, though many investors viewed the results as already reflected in semiconductor valuations. Combined with ongoing uncertainty around economic growth and AI spending, the developments prompted renewed caution across the chip sector, weighing on Intel and several of its global peers.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-07-07",
@@ -173,7 +183,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "TXN",
+      "Ticker": "TSM, TXN",
       "Date": "2026-07-07",
       "Time": "22:19:00",
       "Source": "Yahoo Finance",
@@ -213,7 +223,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ADI, TXN",
+      "Ticker": "MPWR, ADI, TXN",
       "Date": "2026-07-07",
       "Time": "22:05:00",
       "Source": "Yahoo Finance",
