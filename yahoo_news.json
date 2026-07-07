@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T11:00:55.162Z",
-  "total_news_count": 605,
+  "last_updated": "2026-07-07T11:15:16.111Z",
+  "total_news_count": 606,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-07-07",
       "Time": "18:25:00",
       "Source": "Yahoo Finance",
@@ -90,6 +90,16 @@
       "Title": "This New Memory ETF Has Already Doubled. Is It Still a Buy?",
       "URL": "https://finance.yahoo.com/m/bc4bdd96-701f-37d9-8491-0d7ec731cfc8/this-new-memory-etf-has.html",
       "Content": "The memory market has been scorching hot, and one new exchange-traded fund (ETF) dedicated to the sector that was introduced on April 2 has already more than doubled its value. That ETF is the DRAM – Roundhill Memory ETF (NYSEMKT: DRAM), which is the first-ever memory ETF. The question, though, is whether the ETF is still a buy after its strong performance in such a short period of time.\n\nThe ETF's holdings are largely dominated by the big three DRAM makers: Micron Technology (NASDAQ: MU), SK Hynix , and Samsung . Together, the three stocks make up more than 73% of the fund's portfolio. The DRAM market has seen soaring prices, as demand for high-bandwidth memory (HBM), a special form of DRAM that is packaged with graphics processing units (GPUs) and other AI chips, has been surging. The entire DRAM market is supply-constrained, which is only exacerbated by HBM requiring upwards of three times the wafer capacity of ordinary DRAM.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe supply demand dynamics of the DRAM market have led the big three players to see their revenue skyrocket and gross margins balloon. Despite their growth, their stocks remain cheap, as the industry has historically had very large boom-and-bust cycles. However, all three have begun signing longer three- to five-year deals for HBM for the first time, marking a big shift to the notoriously short-term deals the industry typically operates under. This should increase visibility and reduce some of the cyclicality of the DRAM business, while helping place a higher floor on it.\n\nNotably, the ETF at times uses leverage and total return swap derivatives to take positions, as it did early on with Micron. This can add some additional volatility and risk; however, not to the extent of a leveraged ETF, and it is done mainly for tax purposes and as a way to get more exposure to a stock. Roundhill does offer a separate leveraged version of the ETF called the Roundhill T-REX 2X Long DRAM Daily Target ETF (NYSEMKT: RAM) for investors looking for that type of leverage, but it is highly risky.\n\nA great way to get international memory exposure\n\nOne of the nice things about the DRAM – Roundhill Memory ETF is that it gives investors exposure to international memory names. Generally, most U.S. investors who want exposure to the DRAM market just invest in Micron, while those interested in the NAND (flash) market invest in Sandisk .\n\nStory Continues\n\nHowever, the ETF gives investors exposure to the two big Korean DRAM markets. SK Hynix just became a trillion-dollar company, but will only debut its ADRs (American depositary receipts) on July 10. The company has secured an estimated 70% of Nvidia 's HBM orders for its Vera Rubin platform, so this is the best way to invest in what is arguably the HBM leader. The fund also holds Japanese NAND player Kioxia , which has a joint venture with Sandisk and is working on developing high bandwidth flash (HBF) with SK Hynix.\n\nThe DRAM – Roundhill Memory ETF is not an ordinary diversified ETF that you'd want to dollar-cost average into over the next 30 years. Instead, it's a great way to play the ongoing memory supercycle that looks like it has some legs.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-07",
+      "Time": "17:51:33",
+      "Source": "Yahoo Finance",
+      "Title": "China-based Apple supplier Luxshare sets Hong Kong listing at top of range, raises over $3 billion",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/china-based-apple-supplier-luxshare-095133717.html",
+      "Content": "July 7 (Reuters) - China-headquartered Luxshare Precision Industry said on Tuesday it had priced its Hong ‌Kong listing at the top end of ‌its marketed range, raising about HK$24.27 billion ($3.09 billion).\n\nHere are some of ​the details:\n\n• The Shenzhen-listed Apple supplier said the offer price was determined at HK$63.28 per H-share, and would sell 383.5 million shares.\n\nMore from Yahoo Scout\n\nHow is Luxshare expanding beyond consumer electronics manufacturing?\n\nHow much did Luxshare raise in its Hong Kong IPO?\n\nWhat is Luxshare's relationship with Apple as supplier?\n\nWhat will Luxshare use the IPO proceeds for?\n\n• Luxshare wrote in its ‌prospectus that the proceeds ⁠would be used to expand manufacturing capacity in automotive and consumer electronics, fund ⁠AI-driven factory upgrades, pursue acquisitions, repay debt and support working capital.\n\n• A significant portion of the proceeds ​will fund ​expansion of the company's ​automotive electronics business, underscoring ‌Luxshare's push beyond consumer electronics and deeper into the fast-growing intelligent vehicle supply chain.\n\n• The company said it expects to announce the level of investor demand for its international offering, as well as allocation ‌results, on July 8.\n\n• Trading ​of its shares is expected ​to begin on the ​Hong Kong Stock Exchange at 9:00 ‌a.m. local time on July ​9.\n\n• Founded ​by Chinese billionaire Wang Laichun, Luxshare is one of Apple's largest suppliers and manufactures electronic devices, ​including routers, wireless ‌charging modules and video conferencing equipment.\n\n($1 = 7.8425 ​Hong Kong dollars)\n\n(Reporting by Rajasik Mukherjee in Bengaluru; ​Editing by Ronojoy Mazumdar)",
       "Language": "en"
     },
     {
@@ -293,7 +303,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-07",
       "Time": "17:04:00",
       "Source": "Yahoo Finance",
