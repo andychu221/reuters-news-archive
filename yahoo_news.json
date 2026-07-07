@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T20:40:17.032Z",
-  "total_news_count": 765,
+  "last_updated": "2026-07-07T20:44:21.019Z",
+  "total_news_count": 766,
   "news": [
     {
       "Ticker": "AMZN",
@@ -131,6 +131,16 @@
       "URL": "https://finance.yahoo.com/technology/articles/micron-bet-powers-appaloosas-big-191521332.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) helped power a 32% first-half surge for David Tepper's Appaloosa Management as hedge fund gains clustered around AI memory stocks.\n\nBloomberg reported that Appaloosa, which manages about $23 billion, generated all of its gains in Q2, driven by bets on Micron, Samsung Electronics ( SSNLF ), SK Hynix (SKHY), Kioxia and SanDisk ( NASDAQ:SNDK ). The fund still kept a defensive posture, with an average cash position of about 40%.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nThe common thread is AI infrastructure. Demand for high-bandwidth memory and NAND flash has surged as data centers expand, with SK Hynix supplying HBM chips to Nvidia ( NASDAQ:NVDA ) and Micron ramping its own HBM capacity. That has made memory one of the hottest corners of the semiconductor trade.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-08",
+      "Time": "03:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》DOCN,MTDR,MORN,EHC等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-docn-mtdr-morn-ehc%E7%AD%8910%E6%AA%94-190400005.html",
+      "Content": "MoneyDJ新聞 2026-07-08 03:04:27 數位內容中心 發佈\n\nDigitalOcean（DOCN.US）： 成交價142.25美元，上漲8.28%，高點觸及147.96美元，成交量8269.89張，均價142.57美元，DigitalOcean Holdings Inc.是雲端運算平台，主要服務開發人員、新創企業與中小企業，市場持續聚焦其AI工作負載布局，AI原生新創ACE Studio在其平台上將模型訓練週期縮短50%，延遲降低40%。\n\nMatador Resources（MTDR.US）： 成交價52美元，上漲4.29%，高點觸及52.03美元，成交量1188.87張，均價51.17美元，Matador Resources是美國獨立油氣探勘與生產商，資產聚焦Delaware Basin，市場持續關注原油與天然氣價格變化、頁岩區鑽探節奏與資本支出紀律對上游獲利的帶動。\n\nMorningstar（MORN.US）： 成交價172.34美元，上漲3.58%，高點觸及172.97美元，成交量271.41張，均價171.82美元，Morningstar是金融資訊、投資研究與財富管理數據服務商，提供基金評等、投資分析與軟體平台，2026年第1季營收為6.45億美元，年增10.8%，同季EBITDA與每股盈餘表現優於市場預期，且其服務已納入Microsoft Copilot Cowork合作外掛名單。\n\nEncompass Health（EHC.US）： 成交價110.63美元，上漲3.4%，高點觸及110.63美元，成交量676.03張，均價109.71美元，Encompass Health是美國住院復健醫院營運商，在37個州與Puerto Rico經營專業復健機構，2026年第1季營收為15.9億美元，年增9%，每股盈餘優於市場預期，市場也關注醫療體系導入AI於預測分析、排程與照護協調後的營運效率提升。\n\nSpire（SR.US）： 成交價80.87美元，上漲3.07%，高點觸及81.38美元，成交量450.77張，均價80.66美元，Spire是美國天然氣公用事業與能源基礎設施公司，業務涵蓋天然氣配送、儲運與相關服務，市場聚焦利率環境、公用事業資本支出規劃與區域用能需求對費率基礎及現金流的影響。\n\nOvintiv（OVV.US）： 成交價54.92美元，上漲3.04%，高點觸及54.93美元，成交量3155.04張，均價54.24美元，Ovintiv是北美獨立石油與天然氣探勘生產商，資產布局涵蓋Permian、Eagle Ford、Montney與Duvernay，市場持續關注其資產重組進展，公司已同意出售Anadarko資產，並完成近30億美元收購NuVista Energy，新增約930個高品質鑽井位置與14萬淨英畝土地。\n\nManhattan Associates（MANH.US）： 成交價158美元，上漲2.72%，高點觸及159.28美元，成交量286.79張，均價158.08美元，Manhattan Associates是供應鏈與倉儲管理軟體供應商，產品涵蓋訂單管理、配送、倉儲與全通路零售解決方案，市場持續關注企業在物流自動化、雲端供應鏈與AI應用上的投資動能。\n\nGenpact（G.US）： 成交價29.77美元，上漲2.8%，高點觸及30.37美元，成交量1462.28張，均價29.93美元，Genpact是企業流程外包與數位轉型服務公司，業務涵蓋財務、供應鏈、資料分析與AI解決方案，市場聚焦企業客戶在自動化、生成式AI與營運效率提升專案上的支出變化。\n\nNew Jersey Resources（NJR.US）： 成交價57.81美元，上漲2.76%，高點觸及58.35美元，成交量373.57張，均價57.7美元，New Jersey Resources是美國能源服務與天然氣公用事業公司，業務涵蓋天然氣配送、清潔能源投資與能源管理服務，市場持續觀察公用事業費率調整、基礎建設投資與區域能源需求變化。\n\nNOV（NOV.US）： 成交價18.26美元，上漲2.64%，高點觸及18.29美元，成交量3667.55張，均價18.09美元，NOV(NOV.US)是油田設備與能源技術供應商，產品涵蓋鑽井、完井、生產與油田服務設備，市場持續關注北美與國際油氣資本支出、鑽井活動與能源開發需求對設備接單的支撐。\n\nENI攜Mercuria 共組全球能源交易合資公司\n\n夏季高溫來襲 美天然氣強彈近4%、連三漲\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
