@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-07T20:32:40.618Z",
-  "total_news_count": 763,
+  "last_updated": "2026-07-07T20:40:17.032Z",
+  "total_news_count": 765,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-08",
+      "Time": "03:59:05",
+      "Source": "Yahoo Finance",
+      "Title": "Trump's $1.4 Billion Crypto Haul Draws Fresh Investor Scrutiny",
+      "URL": "https://finance.yahoo.com/m/f9ce98a7-6f2d-32d4-aa94-bc5fa018d8a3/trump%27s-%241.4-billion-crypto.html",
+      "Content": "This article first appeared on GuruFocus .\n\nPresident Donald Trump has pushed back on concerns over his crypto holdings after disclosures showed he earned at least $1.4 billion in 2025 from crypto and memecoin-related firms. Speaking to CNBC at the White House, Trump said he was not aware of the full scope of the ventures but argued there was nothing illegal about his family business involvement.\n\nWarning! GuruFocus has detected 3 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nThe disclosures showed about $594 million from World Liberty Financial, which Trump and his sons co-founded, roughly $636 million tied to his memecoin business, and nearly $197 million from an equity sale related to Stablecoin Holdco. Trump, who turned over his business operations to his two eldest sons, said his goal was to make the US number one in crypto, while critics raised concerns that he could be profiting from his role as head of state.\n\nThe filing from the US Office of Government Ethics also listed more than 680 pages of transactions, including purchases and sales of Amazon ( NASDAQ:AMZN ), Apple ( NASDAQ:AAPL ), Nvidia ( NASDAQ:NVDA ), Microsoft ( NASDAQ:MSFT ), Netflix ( NASDAQ:NFLX ), and Exxon Mobil ( NYSE:XOM ). Trump said he does not speak to the people managing his investments, described his Nvidia holding as very small, and said the money was handled by large Wall Street firms.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-08",
@@ -133,6 +143,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-07-08",
+      "Time": "03:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "2 AI & Quantum Stocks to Buy Now for Gains in the Second Half of 2026",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/2-ai-quantum-stocks-buy-190000835.html",
+      "Content": "Artificial intelligence and quantum computing have taken center stage in 2026. AI-driven infrastructure spending has reached record levels, while growing government support and enterprise adoption have accelerated the commercialization of quantum technologies.\n\nAgainst this backdrop, we have picked two stocks, Vertiv Holdings VRT and Quantum Computing Inc . QUBT, which offer compelling exposure to two of the fastest-growing technology trends of 2026 — AI infrastructure and quantum computing commercialization.\n\nLet's get into more detail.\n\nAI Spending Boom Remains Intact\n\nThese trends are expected to remain intact in the second half of 2026. Leading cloud providers continue to increase investments in AI infrastructure to support rapidly growing demand for generative AI workloads. Microsoft MSFT has reiterated its plans to invest about $80 billion in AI-enabled data centers in fiscal 2025, while Alphabet GOOGL raised its 2025 capital expenditure guidance to approximately $85 billion, citing strong demand for AI infrastructure and cloud services. Meta Platforms META has also increased its 2025 capital expenditure outlook to $64-$72 billion to expand its AI infrastructure.\n\nGovernment Support Strengthens Quantum Outlook\n\nThe sustained wave of hyperscale spending is expected to support demand for advanced computing, power and cooling infrastructure well into the second half of 2026. Meanwhile, the outlook for quantum computing has received a meaningful boost from U.S. policy initiatives.\n\nOn June 22, President Donald Trump signed executive orders directing federal agencies to accelerate the commercialization and deployment of quantum computing, sensing and networking technologies, update the National Quantum Strategy, strengthen domestic quantum supply chains, expand public-private partnerships and speed up the transition to post-quantum cybersecurity. These initiatives are expected to encourage additional government and enterprise investment in the quantum ecosystem over the coming months, creating a favorable backdrop for companies developing quantum technologies.\n\nStocks to Buy Now\n\nVertiv : The company continues to benefit from the AI infrastructure spending boom. In first-quarter 2026, the company's revenues rose 30% year over year, while adjusted operating margin expanded to 20.8%. Management also raised its 2026 guidance, reflecting continued strength in AI-driven data center demand. In June, Vertiv completed the acquisition of ThermoKey, expanding its liquid cooling and heat rejection capabilities for AI applications. With hyperscalers such as Microsoft, Alphabet and Meta maintaining elevated AI infrastructure investments, Vertiv is well positioned to benefit from sustained demand for power, thermal management and digital infrastructure solutions through the second half of 2026.\n\nStory Continues\n\nThis Zacks Rank #2 (Buy) stock is expected to report earnings growth of 51.7% on revenue growth of 34.2% in 2026. Based on short-term price targets offered by 22 analysts, the average price target of $362.45 for Vertiv represents an increase of 20.6% from the last closing price.\n\nImage Source: Zacks Investment Research\n\nQuantum Computing or QCi : The company is gaining traction as demand for photonics-based quantum and sensing technologies increases. In first-quarter 2026, revenues jumped to $3.7 million from $39,000 a year ago, aided by the acquisitions of Luminar Semiconductor and NuCrypt. The company ended the quarter with approximately $1.4 billion in cash, cash equivalents and investments. Management said the acquisitions strengthen QCi's roadmap for commercial quantum computing, quantum cybersecurity and photonic technologies.\n\nThe June 22 executive orders aimed at accelerating quantum commercialization and strengthening domestic quantum capabilities could provide an additional tailwind for companies like QCi in the second half of 2026 as government and enterprise adoption continues to expand.\n\nThis stock, too, is a compelling buy right now with a Zacks Rank #2. Based on short-term price targets offered by six analysts, the average price target of $18.33 for QCi represents an increase of 95.62% from the last closing price.\n\nYou can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "MU, AAPL",
       "Date": "2026-07-08",
       "Time": "02:50:56",
@@ -163,7 +183,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "CSCO",
+      "Ticker": "MSFT, CSCO",
       "Date": "2026-07-08",
       "Time": "02:44:00",
       "Source": "Yahoo Finance",
