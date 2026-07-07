@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-07T19:15:16.658Z",
-  "total_news_count": 743,
+  "last_updated": "2026-07-07T19:18:16.861Z",
+  "total_news_count": 745,
   "news": [
+    {
+      "Ticker": "005930.KS, 000660.KS",
+      "Date": "2026-07-08",
+      "Time": "03:15:33",
+      "Source": "Yahoo Finance",
+      "Title": "Samsung's 19-Fold Profit Surge Fails to Stop 10% Stock Drop",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/samsungs-19-fold-profit-surge-191533241.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAsian technology stocks came under pressure after Samsung Electronics ( SSNLF ), the world's largest memory chipmaker, reported quarterly profit that surged 19-fold on strong AI demand but exceeded analyst estimates by only 6%. Investors appeared to use the results as a reason to take profits after a powerful chip rally, sending Samsung shares down as much as 10% in Seoul. The decline also weighed on SK Hynix ( HXSCL ), a South Korean memory-chip maker, and Kioxia Holdings ( KXIAY ), a Japanese memory and storage company, as sentiment toward crowded AI-linked trades turned more cautious.\n\nWarning! GuruFocus has detected 2 Warning Signs with KXIAY.\n\nIs KXIAY fairly valued? Test your thesis with our free DCF calculator.\n\nThe selloff spread across the region, with an MSCI gauge of Asian technology stocks falling as much as 4.9%, while financial and communications shares gained. Kioxia dropped 11% Tuesday, although its year-to-date gain still remained just under 600%. South Korea's Kospi fell as much as 8.2%, triggering a brief trading halt, but the benchmark still remained the world's best-performing equity market of 2026.\n\nFor investors, the move suggests that expectations for AI-related chip stocks may have become harder to beat after a sharp run-up in valuations. The MSCI Asia technology gauge still trades at more than 6 times book value, more than double the valuation levels of regional health care, consumer and financial indexes. Market attention may now turn to SK Hynix's planned U.S. listing on Friday and Taiwan Semiconductor Manufacturing Co., a leading chip foundry, whose results are due next week, as investors assess whether the memory boom could continue or begin to follow the sector's more typical cycle.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "000660.KS",
+      "Date": "2026-07-08",
+      "Time": "03:15:21",
+      "Source": "Yahoo Finance",
+      "Title": "Micron Bet Powers Appaloosa's Big First Half",
+      "URL": "https://finance.yahoo.com/technology/articles/micron-bet-powers-appaloosas-big-191521332.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) helped power a 32% first-half surge for David Tepper's Appaloosa Management as hedge fund gains clustered around AI memory stocks.\n\nBloomberg reported that Appaloosa, which manages about $23 billion, generated all of its gains in Q2, driven by bets on Micron, Samsung Electronics ( SSNLF ), SK Hynix (SKHY), Kioxia and SanDisk ( NASDAQ:SNDK ). The fund still kept a defensive posture, with an average cash position of about 40%.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nThe common thread is AI infrastructure. Demand for high-bandwidth memory and NAND flash has surged as data centers expand, with SK Hynix supplying HBM chips to Nvidia ( NASDAQ:NVDA ) and Micron ramping its own HBM capacity. That has made memory one of the hottest corners of the semiconductor trade.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-07-08",
