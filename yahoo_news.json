@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-07-08T20:00:56.545Z",
-  "total_news_count": 1126,
+  "last_updated": "2026-07-08T20:15:02.619Z",
+  "total_news_count": 1127,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-07-09",
+      "Time": "03:53:41",
+      "Source": "Yahoo Finance",
+      "Title": "Samsung Readies Wider Galaxy Z Fold 8",
+      "URL": "https://finance.yahoo.com/m/eb5dc04b-75ae-35e1-aa98-da3fa35c8236/samsung-readies-wider-galaxy.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSamsung Electronics ( SSNLF ) is preparing to unveil a shorter, wider Galaxy Z Fold 8 on July 22 as it tries to stay ahead of Apple's ( NASDAQ:AAPL ) rumored push into foldable phones.\n\nThe company will host its Galaxy Unpacked event in London, where reports say it will introduce 3 foldable phones alongside wearables such as a smartwatch and clip-on wireless earbuds. The headline device is expected to be a new Fold 8 variant with a passport-style footprint.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nBloomberg reported that Samsung will still debut successors to the Galaxy Z Fold 7 and Galaxy Z Flip 7, but the wider Fold 8 model could offer a more immersive video experience and better multitasking. Samsung has also teased the new design across social media.\n\nthe launch matters because Samsung is trying to defend its foldable-phone lead before Apple enters the category. The next catalyst is the July 22 event, where pricing and availability will show how aggressively Samsung plans to compete.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA",
       "Date": "2026-07-09",
       "Time": "03:43:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "INTC, NVDA, MU",
       "Date": "2026-07-09",
       "Time": "03:32:52",
       "Source": "Yahoo Finance",
