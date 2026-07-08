@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-08T18:32:19.417Z",
-  "total_news_count": 1099,
+  "last_updated": "2026-07-08T18:40:11.346Z",
+  "total_news_count": 1100,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-09",
+      "Time": "02:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Is Downsizing Its Xbox Unit. Will That Rescue Its Stock?",
+      "URL": "https://finance.yahoo.com/m/11352467-414a-3d97-aa8f-76bd0141a41b/microsoft-is-downsizing-its.html",
+      "Content": "Microsoft (NASDAQ: MSFT) stock fell after the company announced layoffs in its Xbox unit. Despite double-digit increases in revenue during the third quarter of fiscal 2026 (ended March 31), revenue in its Xbox unit decreased by 5% annually in that quarter, likely drawing attention to that segment.\n\nThe restructuring announcement is likely welcome news after the recent drop and could improve the company's financial performance. Nonetheless, investors should probably not expect a dramatic recovery in the tech stock because of this move. Here's why.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMicrosoft's ongoing struggles\n\nAdmittedly, the Xbox unit looks like the obvious target for a restructuring, as it was Microsoft's worst-performing unit. Also, the division that oversees the Xbox unit, \"More Personal Computing,\" reported a 1% annual decrease in revenue in fiscal Q3, even as Microsoft's overall revenue rose by 18% during the quarter.\n\nTo get Xbox on track, Microsoft is laying off 4,800 employees, a 2.1% reduction in its overall workforce. Also, four studios will go independent. It is quite possible these moves will stem the revenue declines for both Xbox and More Personal Computing overall.\n\nMoreover, the company's P/E ratio has fallen to 23, just above multiyear lows. That arguably makes it a deep value stock , increasing the odds of a turnaround in Microsoft's stock price.\n\nUnfortunately for investors, the cloud has long driven the growth in Microsoft stock. Since Microsoft Cloud revenue increased by 29% over the last year, one might think the stock should be surging.\n\nHowever, the earnings report glosses over challenges the company has faced with AI. Like its peers, Microsoft has spent heavily on capital expenditures (capex), allocating over $80 billion in the first nine months of fiscal 2026.\n\nUnfortunately, Microsoft has relied heavily on OpenAI, which has burned cash at an alarming rate. Also, with around 45% of Microsoft's $627 billion backlog tied to OpenAI, Microsoft faces significant uncertainty.\n\nAdditionally, adoption of Copilot, Microsoft's AI-powered assistant, has underwhelmed the market with only about 4.7 million paid subscriptions in fiscal Q2, less than the 9 million for ChatGPT. This calls into question whether it can compete with OpenAI or peers such as Anthropic's Claude or Gemini, developed by Google parent Alphabet .\n\nStory Continues\n\nThat factor also makes it less likely investors are watching the Xbox unit closely, which could mean the restructuring may go unnoticed.\n\nExpect few changes in Microsoft stock\n\nUltimately, restructuring the Xbox unit is unlikely to help Microsoft's stock.\n\nOn the surface, addressing the worst-performing business unit could make its financials appear more sound. Amid the company's falling P/E ratio, such a move should reduce stock losses.\n\nUnfortunately, the company's deepest struggles with Microsoft's stock appear to stem from its AI performance relative to competitors'. Even though its AI adoption has grown, it appears that growth has lagged that of Anthropic or Google. That makes it increasingly likely that Microsoft will need to address that competitive gap for the stock to outperform the market for the foreseeable future.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-07-09",
@@ -113,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, AMZN",
+      "Ticker": "META, GOOGL, AMZN",
       "Date": "2026-07-09",
       "Time": "00:30:00",
       "Source": "Yahoo Finance",
