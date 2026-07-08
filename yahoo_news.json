@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-08T07:40:02.846Z",
-  "total_news_count": 895,
+  "last_updated": "2026-07-08T07:46:24.951Z",
+  "total_news_count": 908,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-08",
+      "Time": "15:26:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "永豐期貨：亞股去槓桿震盪下，台股尾盤神救援收復月線",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E4%BA%9E%E8%82%A1%E5%8E%BB%E6%A7%93%E6%A1%BF%E9%9C%87%E7%9B%AA%E4%B8%8B-%E5%8F%B0%E8%82%A1%E5%B0%BE%E7%9B%A4%E7%A5%9E%E6%95%91%E6%8F%B4%E6%94%B6%E5%BE%A9%E6%9C%88%E7%B7%9A-072603235.html",
+      "Content": "【財訊快報／編輯部】指數週三上漲255.3點，收在45734.41點，成交量0.99兆元。台指期下跌132點至45563點，逆價差為-171.41點。籌碼面部分，三大法人賣超429.3億元；而在台指期淨部位方面，三大法人淨空單減少92口至-7970口，其中外資淨空單增加1226口至-81268口；十大交易人中的特定法人全月份台指期淨空單減少1193口至-6288口。近期全球AI與半導體板塊遭強烈拋售，三星電子即便季度獲利創高，股價仍重挫連動費半與美光大幅修整；韓國股市因晶片權值股集中度高及槓桿ETF拖累遭遇去槓桿壓力，此波恐慌亦迅速延燒至台股。加權指數今日走勢極端劇烈，盤中一度大跌八百點下探45,036點，上下震盪高達800點以上。\n\n所幸尾盤在權值龍頭台積電拉升收漲1%、加上欣興、台光電及南亞等權值要角回神挺身護盤下，大盤展現強烈防守韌性，終場翻紅上漲255點，收在45,734點，順利重新站回月線關卡。\n\n籌碼與技術面來看，今日成交值收縮至約9,583億元，顯見市場高檔追價意願謹慎。雖然加權指數順利收復月線，但上方仍面臨均線反壓，且外資台指期淨空單仍高懸於8萬口以上的高位，顯示法人避險情緒並未顯著退場。總結而言，全球AI晶片股仍處於評價重估與去槓桿的震盪修正期，短線大盤波動難免，建議操作上嚴控水位，後續靜待外資空單回補與均線壓力有效克服。\n\n選擇權未平倉量部分，07月買權最大OI落在50000點，賣權最大OI落在40000點；07月W2買權最大OI落在46000點，賣權最大OI落在45000點。全月份未平倉量put/call ratio值由0.99上升至1.3。VIX指數下降0.32至38.15。外資台指期買權淨金額-2.59億元；賣權淨金額1.32億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-08",
+      "Time": "15:14:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Follow法人】外資連5賣！累計提款2850億元 投信續買119億元撐盤",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E9%80%A35%E8%B3%A3%EF%BC%81%E7%B4%AF%E8%A8%88%E6%8F%90%E6%AC%BE2850%E5%84%84%E5%85%83-%E6%8A%95%E4%BF%A1%E7%BA%8C%E8%B2%B7119%E5%84%84%E5%85%83%E6%92%90%E7%9B%A4-071433547.html",
+      "Content": "台股今（8）日在台積電領軍下震盪收紅，終場上漲255點，收在45,734點。今日三大法人呈現土洋對作，外資連續5個交易日賣超，累計提款達2,850.14億元；投信則持續加碼119.61億元，成為盤面主要撐盤力量。\n\n根據證交所公布籌碼動向，三大法人今日合計賣超429.3億元。其中外資賣超379.49億元，已連續5個交易日站在賣方，累計賣超金額達2,850.14億元。\n\n投信則持續扮演撐盤角色，今日買超119.61億元，延續買超態勢；自營商同步站在賣方，合計賣超169.43億元，其中自行買賣賣超33.43億元，避險操作賣超136億元。\n\n台股今日在台積電領軍下震盪收紅，加權指數終場收在45,734.41點，上漲255點，成交量明顯量縮為9,926億元未達照原；台積電終場則收在2,465元，上漲25元，成為推升大盤主要動能。\n\n湯暖萱／財經特派記者，主跑主計處、營建、百貨紡織等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-08",
+      "Time": "15:11:41",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股漲255點挑戰月線　市場觀望成交值創4/29來低量",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%BC%B2255%E9%BB%9E%E6%8C%91%E6%88%B0%E6%9C%88%E7%B7%9A-%E5%B8%82%E5%A0%B4%E8%A7%80%E6%9C%9B%E6%88%90%E4%BA%A4%E5%80%BC%E5%89%B54-29%E4%BE%86%E4%BD%8E%E9%87%8F-071141878.html",
+      "Content": "（中央社記者江明晏台北2026年7月8日電）台股今天在台積電 (2330) 尾盤拉升、無人機族群強勢下，終場上漲255.3點，收在45734.41點，持續挑戰月線45762點反壓；不過在歷經週二急跌千點後，今天市場觀望氛氛濃厚、追價相對謹慎，成交值低於新台幣1兆元，創4月29日以來低量。\n\n人工智慧（AI）產業前景不明引發投資人擔憂，美股收盤盡墨，台股今天逆勢開高，早盤攻上45837.12點收復月線，上漲358點；但隨後賣壓湧現，指數翻黑震盪。\n\n台股今天加權指數終場上漲255.3點，收在45734.41點，漲幅0.56%，成交值9583.46億元，創4月29日以來低量。類股表現上，電子股漲0.44%，金融股漲1.56%，塑膠類股強漲6.01%；櫃買指數小漲0.46%。\n\n觀察權值股表現，台積電尾盤勁揚，收在2465元，漲25元，漲幅逾1%；國巨 (2327) 翻黑下跌1.55%，失守900元關卡。聯發科 (2454) 、台達電 (2308) 金小幅收黑，聯電 (2303) 今天除息大漲近7%。\n\nPCB族群今天反彈，載板三雄景碩 (3189) 漲停，南電 (8046) 漲逾7%、欣興 (3037) 漲2.74%；CCL三雄台光電、聯茂、台燿勁揚收紅。\n\n無人機概念股題材不墜，長榮航太 (2645) 、邑錡 (7402) 、研華 (2395) 、雷虎 (8033) 強攻漲停，漢翔 (2634) 漲逾3%。\n\n觀察高價股走勢，股王信驊跌逾3%、川湖、穎崴分別下跌2%及3.99%；聯亞漲停，突破2000元關卡。由於均華失守千元關卡，台股千金股降至49檔。\n\n兆豐國際投顧副總經理黃國偉今天接受中央社記者採訪表示，台股連續兩天回檔後，今天盤中雖一度走低，但低檔已有買盤承接，指數大致維持平盤附近震盪；現階段僅能視為止跌，尚不足以稱為反彈，且指數仍未站回月線。\n\n至於成交值量縮至1兆元以下，黃國偉指出，顯示市場觀望氣氛濃厚，目前市場題材幾乎只剩財報，包括南亞科、台積電法說會即將登場，市場普遍預期將釋出亮眼成績，因此在法說會前，資金傾向觀望，股價也缺乏表現空間。\n\n黃國偉表示，後續觀察重點在於法說會後，財報利多能否進一步帶動股價上攻；若亮眼財報仍無法激勵股價，將是一項值得留意的警訊，代表市場可能已提前反映利多，甚至不排除出現「利多出盡」的走勢。（編輯：張良知）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-08",
+      "Time": "15:10:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股429.3億元",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1429-3%E5%84%84%E5%85%83-071045420.html",
+      "Content": "（中央社台北8日電）台股今天漲255.30點，收在45734.41點，成交值新台幣9583.46億元。三大法人外資及陸資賣超、投信買超、自營商賣超，合計賣超429.3億元。\n\n自營商賣超169.42億元，投信買超119.61億元，外資及陸資賣超379.49億元。1150708",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-08",
+      "Time": "15:07:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "KOSPI週三再挫5.35%連兩崩、墜入熊市，三星科技三傑淪為三熊",
+      "URL": "https://tw.stock.yahoo.com/news/kospi%E9%80%B1%E4%B8%89%E5%86%8D%E6%8C%AB5-35-%E9%80%A3%E5%85%A9%E5%B4%A9-%E5%A2%9C%E5%85%A5%E7%86%8A%E5%B8%82-%E4%B8%89%E6%98%9F%E7%A7%91%E6%8A%80%E4%B8%89%E5%82%91%E6%B7%AA%E7%82%BA%E4%B8%89%E7%86%8A-070725492.html",
+      "Content": "【財訊快報／陳孟朔】上日大跌4.91%、淪為全球92個主要股指最大輸家的韓股週三再度墜入地獄道。首爾綜合股價指數(KOSPI)低開後賣壓不斷升溫，午後殺氣加大，一度急瀉470.01點或6.14%，觸及7,186.21點日低；在缺乏強力權值股撐盤下，終場仍重挫409.52點或5.35%，收在7,246.79點，為5月20日以來最低，恐繼續在全球股市墊底。以6月19日盤中觸及的史上新高9,385.59點計，不到三週急吐2,138.80點或22.79%，正式墜入熊市領域。三星科技三傑淪為三熊，三星電子、三星電管與三星電機依序暴跌6.25%、7.42%和10.25%，其中三星電機淪為三十檔大型股最大魯蛇。週四將登錄那斯達克的SK海力士也大跌5.68%，同樣位列大型權值股弱十之列。大型股中僅三檔逆勢收紅，樂金電子、樂金顯示器(LGD)與起亞汽車分別收高3.54%、3.31%和2.02%，反映資金並非全面撤出韓股，而是集中砍殺前期漲幅過大、權重過高的AI與半導體主線。\n\n韓國財政部週三表示，財長具潤哲(Koo Yun-cheol)已與韓國央行(BOK)總裁及金融監管機構負責人會商，決定密切監控可能加劇股市波動的各項風險因素。財政部指出，近期股市波動升高，主因包括外資與機構獲利了結、投資組合再平衡，以及全球AI產業前景預期轉變，導致資金對韓股、特別是晶片權值股的交易更加敏感。本週稍早，KOSPI更因急跌觸發熔斷機制，為今年第六次、史上第十二次，凸顯市場在短期暴漲後進入高波動修正階段。\n\n市場人士指出，韓股這波殺盤的結構性問題在於半導體類股集中度過高。三星電子與SK海力士等大型晶片股在KOSPI權重過大，使晶片股漲跌對整體指數影響被放大；一旦AI需求、記憶體價格、外資持股或全球科技股估值出現變化，韓股便容易被少數權值股牽動，形成上漲時集中推升、下跌時集中殺盤的脆弱結構。短線觀察焦點將落在韓國監管層是否進一步穩定市場、外資是否停止連續調節，以及SK海力士美國掛牌能否扭轉市場對AI晶片交易「利多出盡」的疑慮。",
+      "Language": "zh"
+    },
     {
       "Ticker": "META",
       "Date": "2026-07-08",
@@ -11,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/2b854204-c998-3b91-9127-f1e2ade95046/meta-ceo-mark-zuckerberg-just.html",
       "Content": "As big tech companies pour billions of dollars into data centers for artificial intelligence (AI), investors are growing concerned about whether all this spending will actually pay off. Meta Platforms (NASDAQ: META) has faced particular investor scrutiny because, unlike Amazon , Alphabet , and Microsoft , it doesn't currently sell cloud computing services to outside companies.\n\nBut it seems that's about to change.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAccording to a Bloomberg report, Meta is developing a business plan to lease its excess data center capacity. It's fantastic news for investors and comes on the heels of Mark Zuckerberg's January announcement of Meta Compute, an initiative to build tens of gigawatts of compute capacity this decade.\n\nThere's room for Meta to build out a cloud business\n\nNobody's quite sure where the data center boom will ultimately go, but it's clear that AI is sending demand for computing capacity through the roof. Experts believe global data centers will bring tens to hundreds of gigawatts of compute online over the next decade and beyond.\n\nIt seems far-fetched, but remember, AI adoption has only just begun. Agentic AI is a near-term growth catalyst, and there's still an ocean of potential in physical AI applications, such as autonomous vehicles and humanoid robotics. There's likely room for another cloud computing competitor, and Meta is probably already large enough on the infrastructure side, even if it's not selling it yet.\n\nMeta will need to think through its go-to-market strategy to succeed. The incumbent cloud service providers are ecosystems that span well beyond compute, including developer tools, security, and other resources. Meta will either need to duplicate that -- arguably a tall order -- or find another angle.\n\nMaybe it could leverage its enormous size and sell raw compute to targeted customers who don't need all the other bells and whistles. If so, even a limited footprint in a massive cloud market can help lift returns on Meta's AI spending.\n\nMeta Compute is as much a risk as it is an opportunity\n\nAnything near the tens of gigawatts Mark Zuckerberg called for will cost a mountain of capital. For instance, OpenAI and other backers are funding Project Stargate, an AI data center project targeting 10 gigawatts of capacity. The joint venture's estimated total investment is an eye-watering $500 billion.\n\nStory Continues\n\nThere are also ancillary challenges, such as sourcing enough power for these data centers -- there's a reason that Elon Musk is trying to put data centers in orbit. Fortunately, Meta has generated more than $48 billion in free cash flow over the past year thanks to its exceptionally profitable and growing core advertising business.\n\nAlmost any way you slice it, Meta is making a massive financial gamble on data centers and AI. It's great news that Meta is exploring different ways to justify its enormous AI and data center investments. That said, you'll probably want to be on board with Mark Zuckerberg's AI plans to begin with if you're going to buy the stock.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-08",
+      "Time": "14:36:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《放．新聞》南韓7日股災拖累台股！謝金河：不是AI泡沫，是東亞資金鏈去槓桿",
+      "URL": "https://tw.news.yahoo.com/%E6%94%BE-%E6%96%B0%E8%81%9E-%E5%8D%97%E9%9F%937%E6%97%A5%E8%82%A1%E7%81%BD%E6%8B%96%E7%B4%AF%E5%8F%B0%E8%82%A1-%E8%AC%9D%E9%87%91%E6%B2%B3-%E4%B8%8D%E6%98%AFai%E6%B3%A1%E6%B2%AB-063633849.html",
+      "Content": "台股7日重挫逾千點，市場第一時間想到的是「AI泡沫是不是破了」。但這波殺盤真正的引爆點，不在台灣，而在南韓。\n\n財經專家謝金河指出，台股7日上午11點前原本仍維持上漲，但南韓股市賣壓突然加重，KOSPI盤中急殺，帶動日本日經指數同步擴大跌勢，台股也被拖進同一場東亞科技股清算。台股終場收在45,479.11點，下跌1,077.28點，跌幅2.31%，盤中高低震盪超過1,535點，成交金額約1兆1,696億元，三大法人合計賣超近947億元，其中外資單日賣超546.31億元。\n\n表面上看，這是AI股漲多後的一場修正；但謝金河點出的關鍵不是AI故事結束，而是資金槓桿正在斷裂。換句話說，這不是產業基本面一夕崩壞，而是過去一段時間押注AI、半導體與高波動科技股的資金，開始被迫降部位。\n\n南韓之所以成為這波震央，是因為南韓股市這一年漲得太快、槓桿也堆得太高。AI晶片、記憶體、三星電子、SK海力士，把韓股推上近乎失速的行情。更關鍵的是，這波上漲不只是基本面推升，而是大量散戶、融資、槓桿型商品一起堆出來的高壓行情。\n\n台灣股市當然也熱，也有AI概念股漲多，也有散戶追價，也有ETF資金推升。但和南韓相比，台灣這波AI行情的核心仍比較集中在台積電、AI伺服器供應鏈、電子權值與外資配置；南韓則更像是一場全民股市熱，散戶用更高槓桿押注AI晶片與記憶體循環，一旦股價轉向，反應就比台灣更劇烈。\n\n這才是「去槓桿」3個字真正的意思。\n\n如果只是AI股漲多回檔，市場跌一跌，仍會回到基本面。但如果是槓桿商品、融資部位、散戶追高與外資撤退同時發生，跌勢就會變成「被迫賣出」。價格一跌，保證金壓力上升；波動一擴大，風控系統要求降部位；外資一撤，高槓桿商品必須調整；散戶想接刀，卻可能讓整個市場的槓桿風險延後爆發。\n\n這正是南韓比台灣更危險的地方。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -43,6 +103,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-08",
+      "Time": "14:22:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積尾盤爆單急拉！ 台塑四寶強勢領軍 台股收漲255點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E5%B0%BE%E7%9B%A4%E7%88%86%E5%96%AE%E6%80%A5%E6%8B%89-%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E5%BC%B7%E5%8B%A2%E9%A0%98%E8%BB%8D-%E5%8F%B0%E8%82%A1%E6%94%B6%E6%BC%B2255%E9%BB%9E-062200823.html",
+      "Content": "台股今（8）日開高震盪，盤中劇烈震盪，兩度翻黑下跌近500點，後續力拚翻紅，終場收45734點，上漲255點，漲幅0.56%；櫃買指數也同步收高來到421.39點，漲1.92點，漲幅0.46%。\n\n權值股部分，台積電最後一把大買4833張，讓股價從2450來到收盤價2465元，上漲25元，漲幅1.02%，聯發科則跌破4000元關卡來到3995元，下跌70元，跌幅0.87%；鴻海則來到237.5元，小漲0.21%。\n\n觀察今日盤面，台塑四寶強勢領漲，南亞今日出關開盤秒填息，後續一路上攻來到182元漲停鎖死，台塑來到58元，小漲1.22元，台塑化、台化也有逾2%的漲幅。\n\n日前受輝達AI機櫃將延後出貨一年消息影響的載板族群也強勢反彈，景碩收漲停來到755元，南電盤中一度攻上漲停1130元，後續漲勢收斂，終場收1105元，漲幅7.28%，欣興也來到863元，漲幅2.74%。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-08",
+      "Time": "14:21:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉上沖下洗800點 台積電神龍擺尾收漲255點但未攻克月線",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E4%B8%8A%E6%B2%96%E4%B8%8B%E6%B4%97800%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A5%9E%E9%BE%8D%E6%93%BA%E5%B0%BE%E6%94%B6%E6%BC%B2255%E9%BB%9E%E4%BD%86%E6%9C%AA%E6%94%BB%E5%85%8B%E6%9C%88%E7%B7%9A-062154453.html",
+      "Content": "台股今 (8) 日高檔震盪，早盤最高衝上 45837.12 點，盤中一度翻黑跌至 45036.64 點，高低震盪 800 點，不過台積電於尾盤救場，在 4833 張買單助攻下，帶動大盤終場漲 255.3 點或 0.56%，收 45734.41 點，幾乎攻克月線 45762 點，成交量 9583.47 億元。\n\n電子權值股今天漲跌互現，台積電 (2330-TW) 早盤以 2445 元開高後，於平盤附近遊走，不過尾盤湧入 4833 張買單，終場漲 25 元或 1.02%，收 2465 元。聯電 (2303-TW) 漲勢凌厲，大漲逾半根停板，廣達 (2382-TW) 漲逾 1%，鴻海 (2317-TW) 則小漲 0.21%。\n\n不過早盤表現亮眼的台達電 (2308-TW) 盤中翻黑，終場跌 0.26%，聯發科 (2454-TW) 跌 0.87%，日月光 (3711-TW) 跌幅最為沈重，跌近 4%。\n\n台塑四寶中的南亞 (1303-TW) 今日除息，除息參考價 165.5 元，早盤以 167.5 元開高秒填息，盤中更亮燈漲停鎖住 182 元，帶動台化 (1326-TW)、台塑化 (6505-TW) 漲逾 2%，台塑 (1301-TW) 漲逾 1%。\n\n光通訊族群今天抱團走揚，聯亞 (3081-TW) 強攻漲停，上詮 (3363-TW) 漲逾半根停板，波若威 (3163-TW)、光環 (3234-TW)、前鼎 (4908-TW) 漲逾 4%，統新 (6426-TW) 漲逾 3%，華星光 (4979-TW) 也有超過 1% 漲幅。\n\nPCB 族群今天也是盤面亮點，ABF 載板三雄皆上揚，景碩 (3189-TW) 亮燈漲停鎖住 755 元，南電 (8046-TW) 漲逾半根停板，欣興 (3037-TW) 漲逾 2%。另外，台燿 (6274-TW) 漲逾 4%，聯茂 (6213-TW)、臻鼎 - KY(4958-TW) 漲逾 3%，華通 (2313-TW) 漲逾 2%，台光電 (2383-TW)、金像電 (2368-TW) 漲逾 1%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-08",
+      "Time": "14:18:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》航太國防與太空經濟—AVAV、RTX、RKLB",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E8%88%AA%E5%A4%AA%E5%9C%8B%E9%98%B2%E8%88%87%E5%A4%AA%E7%A9%BA%E7%B6%93%E6%BF%9F-avav-rtx-rklb-061800104.html",
+      "Content": "MoneyDJ新聞 2026-07-08 14:18:15 數位內容中心 發佈\n\nAeroVironment（AVAV.US）\n\n7月6日至7日，AeroVironment連續拿下JIATF-401三年期5億美元單一來源IDIQ合約，並先取得8,050萬美元Titan MS採購案。這次訊號是反無人機採購已從戰區外溢到本土空域防衛，且採購正直接落到可快速部署的系統。\n\nKratos Defense & Security Solutions（KTOS.US）\n\n7月1日，Kratos Defense & Security Solutions取得美國太空軍最高4.47億美元飛彈預警與追蹤系統合約。這次重點不是無人機，而是公司本週與太空感測、飛彈防禦及任務系統整合的關聯度明顯升高。\n\nKBR（KBR.US）\n\n本週披露，KBR取得美國太空軍9,500萬美元數位工程（Digital Engineering）與企業決策支援合約。這個事件直接對應軍方把支出延伸到模型化決策、任務規劃與數位工程支援，而不只集中在硬體採購。\n\nRTX（RTX.US）\n\n7月7日，RTX旗下Raytheon宣布與美國政府及多個北約國家啟動可行性研究，準備在歐洲為AMRAAM飛彈關鍵零組件導入更多合格供應商。這反映本週主題已從單純採購，轉向跨國擴產與供應鏈韌性建置。\n\nNorthrop Grumman（NOC.US）\n\n6月30日，Northrop Grumman獲美國海軍SEWIP Block Three既有合約修正，金額3.1234億美元，工作持續至2029年8月。這次訊號集中在電子戰系統持續追加，且資金直接落到量產與交付時程明確的案型。\n\nRocket Lab（RKLB.US）\n\n6月，Rocket Lab宣布以80億美元收購Iridium Communications，交易若完成，合併後2026年營收可達18億美元。這是本週商業太空最清楚的垂直整合訊號，主軸已從單次發射延伸到衛星網路與通訊資產。\n\nIntuitive Machines（LUNR.US）\n\n6月，Intuitive Machines取得NASA固定價格合約，總值最高1.483億美元，將於2028年前交付量產資格版Nova-C月球登陸器。這次事件顯示月球供應鏈正在由單次任務，推進到可量產與可認證的載具交付。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》高超音速武器防禦系統—LMT、RTX、RKLB\n\n《美股主題週報》航太國防與太空經濟—AVAV、LMT、RTX\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-08",
       "Time": "14:05:00",
@@ -73,6 +163,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-07-08",
+      "Time": "14:00:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》合成生物學技術—HYFT、RXRX",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%B8%E6%8A%80%E8%A1%93-hyft-rxrx-060000922.html",
+      "Content": "MoneyDJ新聞 2026-07-08 14:00:36 數位內容中心 發佈\n\nMindWalk Holdings Corp.（HYFT.US）\n\n7月1日，MindWalk Holdings Corp.向歐洲專利局提交生物子序列資料結構專利申請，將每個物件整合至少50項異質屬性並映射到至少2,000維空間。專利文件描述資料庫規模至少6億筆，對應其以資料層支撐ReefIQ&trade;與LensAI&trade;的商業布局。\n\nRecursion Pharmaceuticals（RXRX.US）\n\n近期，Recursion Pharmaceuticals刊登臨床營運主管職缺，工作範圍涵蓋臨床試驗申請（IND/CTA）、首次人體試驗與註冊支援。職缺同時要求熟悉美國食品藥物管理局（FDA）與歐洲藥品管理局（EMA）等法規，顯示公司正把AI原生能力延伸到臨床與註冊執行。\n\nGinkgo Bioworks（DNA.US）\n\n近期，aijobsdesk將Ginkgo Bioworks描述為細胞程式設計與生物體工程平台，公司目前有16個開放職缺。這一招募數字顯示其仍在補強平台與工程能力，對應合成生物學公司持續強化細胞工程與研發支援層的人才配置。\n\nBenchling\n\n近期，Benchling在aijobsdesk被列為生技與生命科學團隊的研發雲端軟體平台，現有37個開放職缺。這是本批公司中職缺數最高者，反映合成生物學相鄰賽道的人力需求仍集中在研發數位基礎設施與流程協作平台。\n\nOutput Biosciences\n\n近期，Output Biosciences在aijobsdesk被描述為教生成式人工智慧理解生物語言的公司，現有9個開放職缺。這項招募動態對應AI與生物設計交叉領域仍在推進，顯示公司本週最清楚的主題訊號來自人才擴編而非產品發布。\n\nMaravai LifeSciences（MRVI.US）\n\n近期，Maravai LifeSciences在aijobsdesk被描述為面向生物製藥客戶提供生命科學試劑與服務的公司，現有9個開放職缺。這一動態顯示合成生物學上游工具與供應鏈環節的人力需求仍在延續，對應研發活動沒有明顯降溫。\n\nSyngenta Group\n\nSyngenta Group董事會已一致通過任命現任營運長兼種子業務主管秦恆德為新任執行長，2026年8月1日生效。由於其現職直接連結種子業務，這次高層交接成為本週與農業生技、作物性狀平台最相關的公司訊號。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n藥華藥Ropeg獲加拿大PV藥證，營運再添動能\n\n《強勢美股特報》MRNA,LLY,NOW,ARE等10檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-07-08",
       "Time": "14:00:00",
@@ -80,6 +180,16 @@
       "Title": "台股拉回就是買點？00407A超低入手門檻 趁早建立資產的主動複利",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%8B%89%E5%9B%9E%E5%B0%B1%E6%98%AF%E8%B2%B7%E9%BB%9E-00407a%E8%B6%85%E4%BD%8E%E5%85%A5%E6%89%8B%E9%96%80%E6%AA%BB-%E8%B6%81%E6%97%A9%E5%BB%BA%E7%AB%8B%E8%B3%87%E7%94%A2%E7%9A%84%E4%B8%BB%E5%8B%95%E8%A4%87%E5%88%A9-060000583.html",
       "Content": "ETF市場快速成長，投資人對ETF的需求，也逐漸從「每月能領多少配息」，轉向「資產能否持續成長」。\n\n市場人士指出，隨著AI帶動台灣企業獲利持續提升，加上投資人長期投資觀念逐漸成熟，「總報酬」正逐漸取代高配息，成為不少投資人的新選擇。\n\n所謂總報酬，不僅包含股息，更包含資本利得。\n\n若基金選擇不配息，而是將股息與投資收益全部留在基金內持續投資，長期而言，有機會透過複利效果累積更大的資產規模。\n\n這樣的概念，也開始出現在新一代ETF產品設計。\n\n以00407A為例，基金採取收益不分配機制，公開說明書指出，基金收益全部併入基金資產，不予分配，希望將所有獲利持續投入市場，放大時間帶來的複利效果。基金特色亦明確提出，希望透過不配息設計，避免成長動能因現金配發而中斷，更著重長期資本增值。\n\n除了不配息之外，00407A另一項特色則是主動投資。\n\n不同於被動ETF追蹤固定指數，00407A透過成長選股搭配動態量化篩選，希望在不同景氣循環中調整投資組合，追求台股超額報酬機會，投資策略融合基本面研究與量化模型，並依照總體經濟及產業變化調整選股方向。\n\n近期市場也再次驗證主動管理的重要性。\n\n台股創高後快速修正，電子權值股短線承壓，但AI相關需求仍未改變，包括AI伺服器、高速傳輸、PCB、高階封裝等供應鏈仍被視為中長期成長主軸，市場資金則持續在不同族群之間快速輪動。\n\n法人表示，在輪動速度加快的市場中，投資人若僅依賴單一產業或單一權值股，容易受到短線波動影響；相較之下，具備調整持股彈性的主動式ETF，可望在不同產業間尋找新的投資機會。\n\n此外，目前00407A市場價格約在9元多，也讓不少投資人開始討論是否適合作為分批布局工具。市場人士認為，價格本身並非投資績效保證，但對採取定期定額或長期投資策略的投資人而言，較低價格帶可望降低一次投入的資金門檻，更容易建立長期持有部位。\n\n隨著台灣AI產業持續向應用端延伸，ETF市場也從過去單純追蹤指數，逐漸發展出更多元的策略型產品。如何兼顧主動選股與時間複利，將成為未來ETF市場的重要發展方向。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-08",
+      "Time": "13:55:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "能率亞洲上半年營收年增逾兩倍，Q3迎收割期",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%83%BD%E7%8E%87%E4%BA%9E%E6%B4%B2%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E%E9%80%BE%E5%85%A9%E5%80%8D-q3%E8%BF%8E%E6%94%B6%E5%89%B2%E6%9C%9F-055500100.html",
+      "Content": "MoneyDJ新聞 2026-07-08 13:55:32 鄭盈芷 發佈\n\n永續創投業者能率亞洲資本(7777)6月營收3023萬元、轉為雙減表現，累計上半年營收則達1.79億元、年增243.5%。總經理游智元指出，重要的兩家投資企業，包含人形機器人廠商Agility Robotics將在Q3上市、以及台積電(2330)電力工程供應商大易橙科技將在Q3登興櫃，營運可望再傳佳績。\n\n創投業營業收入扣除固定費用後，幾乎可直接轉為稅前獲利，而能率亞洲上半年營收年增243.5%，推估上半年獲利可較去年出現有感成長。\n\n能率亞洲手握多檔近期將IPO的績優標的，人形機器人廠商Agility Robotics宣布啟動上市程序，估值達25億美元，預計募資逾6億美元，上市後將成為全球首家於美國公開市場上市的純人形機器人公司。能率亞洲相關企業整體累計投資Agility逾2000萬美元，有望直接受惠上市帶來的評價提升。\n\n半導體方面，能率亞洲及旗下基金，合計持有台積電電力工程主力供應商大易橙科技逾千張股票，每股持有成本低於200元，預計Q3登錄興櫃。\n\n能率亞洲為國內首家上櫃永續型創投，同時具備台灣及日本完整產業網路，投資組合橫跨AI、機器人、半導體、航太及傳產等領域，兼顧高潛力與穩健配置，隨下半年多重催化劑同步發酵，全年表現預期顯著提升。\n\n榮田出貨跟著大廠走，印度成近年設廠熱點\n\n邊緣晶片商安霸成「高純度實體AI股」、股價噴\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -153,6 +263,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-07-08",
+      "Time": "13:36:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資6月賣超日股近3兆、今年次高；大賣中長債",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%876%E6%9C%88%E8%B3%A3%E8%B6%85%E6%97%A5%E8%82%A1%E8%BF%913%E5%85%86-%E4%BB%8A%E5%B9%B4%E6%AC%A1%E9%AB%98-%E5%A4%A7%E8%B3%A3%E4%B8%AD%E9%95%B7%E5%82%B5-053600926.html",
+      "Content": "MoneyDJ新聞 2026-07-08 13:36:02 蔡承啟 發佈\n\n外資3個月來首度減碼日股，6月份賣超近3兆日圓、創今年來次高水準，且外資大賣日本中長債、月賣超額創41個月來新高。而日本投資人(日人)連3個月減碼海外股票。\n\n根據日本財務省8日公佈的統計資料顯示，2026年6月份(6月1-30日)外資在日本股市賣超2兆9,911億日圓，3個月來首度減碼日股，月賣超額創今年來次高水準(僅低於3月份的賣超7兆3,705億日圓、月賣超額創2005年1月開始進行統計以來歷史新高紀錄)；今年迄今(2026年1-6月)外資買超日股的累計金額縮小至8兆2,149億日圓。\n\n6月份日經225指數上漲3,732點(漲5.6%)，連續第3個月上漲，6月25日收盤價72,366點、創下歷史新高紀錄。\n\n6月份外資賣超日本中長期債券金額達2兆4,894億日圓，9個月來首度站在賣方，月賣超額創41個月來(2023年1月以來、賣超4兆2,405億日圓)新高水準；賣超日本短期債券金額為4兆914億日圓，連續第4個月站在賣方。\n\n總計6月份外資流出日本金融市場的資金總額為9兆5,718億日圓，3個月來首度呈現淨流出。\n\n另外，6月份日本投資人(日人)於海外股市賣超512億日圓，連續第3個月減碼海外股票；今年迄今(2026年1-6月)日人買超海外股票的累計金額縮小至593億日圓。\n\n6月份日人賣超海外中長期債券金額為180億日圓，3個月來首度站在賣方；買超短期債券金額為1,954億日圓，4個月來首度站在買方。\n\n總計6月份日人流入海外金融市場(=流出日本金融市場)的資金總額為1,262億日圓，連續第2個月呈現淨流入。\n\n(圖片來源：Shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n金融三業前5月獲利同期新高，證券業成長最靚\n\n外資再度減碼日股 賣超額\"破兆\"、今年來第3高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-07-08",
       "Time": "13:34:00",
@@ -160,6 +280,16 @@
       "Title": "台股收漲129.67點　收45608.78點",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E6%BC%B2129-67%E9%BB%9E-%E6%94%B645608-78%E9%BB%9E-053400688.html",
       "Content": "台股今日震盪走高，加權指數終場收在45608.78點，上漲129.67點，漲幅0.29%。盤面權值股表現各異。\n\n台積電收2465.00元，上漲25.00元；鴻海收237.50元，上漲0.50元；聯發科收3995.00元，下跌35.00元；台達電收1885.00元，下跌5.00元；廣達收377.00元，上漲4.00元；中華電收139.50元，下跌1.50元；富邦金收126.00元，上漲3.00元；中信金收71.30元，上漲1.10元；日月光投控收625.00元，下跌26.00元；聯電收163.00元，上漲10.50元，整體盤面呈現多空拉鋸。\n\n族群表現方面，塑膠類上漲6.01%，塑膠化工類上漲2.96%，玻璃陶瓷類上漲2.06%，吸引市場資金進駐；紡織纖維類下跌2.28%，居家生活類下跌2.26%，電子通路類下跌2.26%，表現相對疲弱。\n\n（本篇文章由 AI 協助撰寫，經人工編輯核實審查。資訊來源：證交所。）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225, .SPX",
+      "Date": "2026-07-08",
+      "Time": "13:27:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國泰證7月觀點：AI行情撐美股，日股聚焦四產業",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E6%B3%B0%E8%AD%897%E6%9C%88%E8%A7%80%E9%BB%9E-ai%E8%A1%8C%E6%83%85%E6%92%90%E7%BE%8E%E8%82%A1-%E6%97%A5%E8%82%A1%E8%81%9A%E7%84%A6%E5%9B%9B%E7%94%A2%E6%A5%AD-052700236.html",
+      "Content": "MoneyDJ新聞 2026-07-08 13:27:34 新聞中心 發佈\n\n國泰證券今(8)日發布今(2026)年7月投資觀點，隨著6月聯邦公開市場委員會(FOMC)落幕，全球市場進入高利率、通膨與地緣政治風險交錯的新階段。Kevin Warsh接任聯準會(Fed)主席後首次會議，市場關注焦點不僅在利率決議，更在於政策溝通方式的轉變、通膨預測上修與點陣圖顯示升息風險提高，並預期未來利率波動可能加大。\n\n國泰證券觀察，在此市場氛圍下，AI發展仍為美股主要支撐動能；日股方面，受惠企業獲利、財測利多與政策改革方向，金融、消費、工業與科技四大產業持續受矚目；債市方面，美國投等債在較高殖利率、全球經濟具韌性與實質買盤支撐下，仍具配置價值。投資人可在市場震盪中聚焦基本面穩健、具長期題材支撐的資產，分散布局AI、日股與高評級債券等結構性機會。\n\nAI快速發展帶動上半年美股頻創新高，強勁基本面可望使AI主題持續成為股市上漲的主要驅動力。國泰證券表示，目前市場仍處於AI應用早期階段，今年下半年若聯準會長期維持高利率，優質成長股、大盤股與科技股仍為主流，但受惠AI程度較小的傳統產業與中小型企業，將持續面臨高利率、高工資與高通膨挑戰，可評估將能源股作為對沖風險配置，同時具備盈餘上修題材。\n\n國泰證券指出，現行美股七巨頭，即微軟(Microsoft)、蘋果(Apple)、輝達(NVIDIA)、Google母公司(Alphabet)、亞馬遜(Amazon)、臉書母公司(Meta)、特斯拉(Tesla)等7家具影響力的大型科技企業，相對獲利預期修正值仍為正，近期波動主要來自市場高度集中、技術面震盪與部分IPO焦慮情緒，非基本面結構變化，且美股七巨頭現行估值已近10年低點，仍具相對吸引力。\n\n國泰證券觀察近期日本股市表現，日企獲利、財測利多及日央行溫和升息等基本面因素持續支撐大盤向上。不過，考量短期內美伊戰爭影響，國際資金信心回溫尚待時間醞釀。展望第三季，金融、消費、工業與科技仍將為日股亮點，在十七項戰略政策與日本證交所2.0改革方向配合下，對應產業與個股可望吸引資金挹注。金融類股中，銀行股尤為升息受惠題材，適合中長期投資人關注；偏好穩健配置、重視長期價值的投資人，亦可留意大型醫療保健、消費與工業等產業。\n\n債市方面，國泰證券表示，美銀雖認為信用利差處於相對低檔，但對美國投等債基準看法仍偏建設性，在較高殖利率、全球經濟具韌性、Fed維持利率不變與下半年供給放緩下，美國投等債信用利差有機會在下半年緩步收窄。摩根大通亦認為，投資級債市信用基本面與技術面仍屬正向；高盛則指出，美國退休基金與保險公司等追求收益型實質買盤，將支撐投等債利差表現。保險資金可望加碼配置臉書母公司Meta、微軟、亞馬遜及Alphabet等4大雲端業者債券，債券配置上可留意信用體質佳的科技公司高評級債券。\n\n國泰證券建議，面對Fed政策訊號轉向、利率波動可能升溫與市場集中度提高等市場變化，投資人應避免過度追逐短線行情，改以基本面作為布局核心，分散掌握AI科技股、日股核心產業與高評級債券等具支撐題材的資產，並在市場震盪時持續布局長期部位，逐步構建穩健庫存的投資基礎。\n\n(圖片來源：國泰證券)\n\n國票金看利率環境仍偏緊，投資操作戒慎恐懼\n\n臺企銀核心收益穩增，財管2.0與海外業務並進\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
