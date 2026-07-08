@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T16:15:59.431Z",
-  "total_news_count": 1064,
+  "last_updated": "2026-07-08T16:20:29.609Z",
+  "total_news_count": 1065,
   "news": [
     {
       "Ticker": "INTC",
@@ -163,6 +163,16 @@
       "Related_Score": 2,
       "Sentiment_Score": 0,
       "Keywords": "retail comparison, e-commerce, cloud computing, membership model, advertising revenue"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-07-08",
+      "Time": "23:11:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can 800V AI Power Systems Fuel Navitas' Next Growth Phase?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/800v-ai-power-systems-fuel-151100003.html",
+      "Content": "Navitas Semiconductor NVTS is positioning itself to benefit from the growing shift toward 800-volt (800V) power architecture in AI data centers. As AI workloads become more power-intensive, hyperscalers are moving to higher-voltage power systems to improve efficiency and support higher power levels. This shift is expected to increase the demand for NVTS' gallium nitride (GaN) and silicon carbide (SiC) power chips and create a significant growth opportunity for the company's high-power business.\n\nThe move to 800V power systems increases the amount of GaN and SiC content used in each AI system. Management expects power supply units to increase from about 5-10 kilowatts to 18.5 kilowatts for NVIDIA systems and up to 25-30 kilowatts for other hyperscalers. As power levels increase, Navitas expects the amount of SiC content per rack to increase by about 2.5 times. GaN demand is expected to rise as more power conversion moves inside AI racks, where higher efficiency and faster switching are needed. These factors create a larger revenue opportunity per AI system for NVTS.\n\nTo support this opportunity, Navitas has launched new GaN and SiC products for AI power systems. During the first quarter of 2026, the company launched a 20-kilowatt 800V-to-6V GaN platform for AI data centers and introduced new Gen 5 SiC products for AI power supplies. The above-mentioned products are being tested by OEMs and power supply vendors, and several projects have moved from device-level testing to board-level testing, bringing them closer to commercial production.\n\nThe AI opportunity is already supporting the company's business. Revenues in the first quarter increased 18% sequentially, driven by growth in high-power markets. Further, AI infrastructure revenues grew 50% sequentially, and the company expects this business to continue growing through 2026. As more AI data centers adopt 800V power systems, Navitas is well-positioned to benefit from higher chip content and increasing demand for its power semiconductor products.\n\nHow Competitors Fare Against NVTS\n\nThe company faces strong competition from ON Semiconductor ON and STMicroelectronics STM in the race to supply high-voltage solutions for AI data centers.\n\nIn June 2026, ON Semiconductor introduced GaNEXUS, a new GaN power semiconductor portfolio designed for AI data centers, industrial automation, robotics and energy infrastructure applications. This new portfolio includes GaNEXUS FETs with voltage ratings from 40V to 650V, along with 650V GaNEXUS Smart devices that include built-in protection features to simplify system design and improve reliability. The new devices provide faster switching speeds, lower switching losses, higher power density and better thermal performance than conventional silicon-based power devices to help customers build smaller and more efficient power systems.\n\nStory Continues\n\nSTMicroelectronics introduced new 700V GaN power semiconductors in May 2026, designed to improve energy efficiency and power density in AI servers, robotics, industrial systems and advanced consumer applications. The new PowerGaN devices are designed for high-voltage power supplies and support reliable operation in high-power applications. The devices should help improve power conversion efficiency beyond what is possible with conventional silicon-based technologies.\n\nNVTS' Price Performance, Valuation & Estimates\n\nShares of Navitas Semiconductor have rallied 95.9% year to date compared with the Zacks Electronics – Semiconductors industry's growth of 46%.\n\nNVTS YTD Price Return Performance\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, Navitas Semiconductor trades at a forward price-to-sales ratio of 55.9X, significantly higher than the industry's average of 9.13X.\n\nNVTS Forward 12-Month P/S Ratio\n\nThe Zacks Consensus Estimate for Navitas Semiconductor's 2026 bottom line is pegged at a loss of 17 cents per share. The estimates for 2026 loss per share have remained unchanged over the past 30 days.\n\nNavitas Semiconductor currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.",
+      "Language": "en"
     },
     {
       "Ticker": "AMZN",
