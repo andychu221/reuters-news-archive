@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T15:15:19.241Z",
-  "total_news_count": 1039,
+  "last_updated": "2026-07-08T15:20:47.555Z",
+  "total_news_count": 1040,
   "news": [
     {
       "Ticker": "NVDA, AVGO",
@@ -21,6 +21,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E7%A8%B1%E8%88%87%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB%E7%B5%90%E6%9D%9F-%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4%E8%B5%B0%E8%B7%8C%E9%81%93%E7%93%8A%E6%8C%AB1-0-141831140.html",
       "Content": "（中央社紐約2026年07月8日綜合外電報導）美國總統川普表示，與伊朗的停火協議「已經結束」，華爾街股市今天開盤後下跌。中東地區戰事再起也推升油價飆漲。\n\n法新社報導，道瓊工業指數開盤後不久下挫1.0%，來到52412.15點；標準普爾500指數下跌0.5%，報7465.38點；科技股為主的那斯達克綜合指數下跌0.3%，報25731.69點。\n\n投資研究機構CFRA Research分析師史托瓦爾（SamStovall）表示，川普針對戰爭的發言「引發拋售潮」。\n\n市場同時在觀望下週美國公布的通膨數據是否超乎預期，投資人仍然最關注油價飆升帶來的隱憂。\n\n國際指標布倫特原油（Brent）及美國主力西德州中級原油（West Texas Intermediate）雙雙大漲至少5%。\n\n川普今天在北大西洋公約組織（NATO）高峰會中被問到美伊停火是否仍然有效時答道：「就我個人來說，已經結束了。」\n\n他表示：「我們很棒的談判人員如果願意，我會讓他們繼續談下去，但我不認為有希望。」",
       "Language": "zh"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-07-08",
+      "Time": "22:04:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can STMicroelectronics Achieve Its Strong Q2 Revenue Outlook?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/stmicroelectronics-achieve-strong-q2-revenue-140400444.html",
+      "Content": "STMicroelectronics N.V STM entered the second quarter of 2026 with improving business momentum, making its guidance appear achievable despite an uncertain macroeconomic backdrop. The company expects second-quarter revenues of about $3.45 billion, representing 11.6% sequential growth and 24.9% year-over-year growth, while gross margin is projected to be approximately 34.8%.\n\nSeveral factors support this outlook. Management highlighted strong booking momentum during the first quarter, with book-to-bill well above one across all end markets and regions. Distribution inventory has also normalized, reducing a key overhang that weighed on recent results. These trends suggest customer demand is gradually improving.\n\nAI infrastructure is emerging as another major growth engine. STMicroelectronics reaffirmed its expectation for data center revenues to exceed $500 million in 2026 and surpass $1 billion in 2027. A multi-year, multi-billion-dollar commercial engagement with Amazon Web Services expanded collaboration with NVIDIA on 800-volt AI data center power solutions and the start of high-volume production of silicon photonics chips, positioning the company to benefit from growing AI investment.\n\nThe company is also seeing healthier demand across automotive, industrial and communications markets, while the acquisition of NXP's MEMS sensor business strengthens its automotive and industrial sensor portfolio. Embedded Processing and RF & Optical Communications remained standout performers in the first quarter, reflecting robust demand for microcontrollers and connectivity solutions.\n\nAlthough macroeconomic uncertainty, restructuring costs and manufacturing-related expenses remain risks, improving demand trends, normalized inventories and expanding AI opportunities provide a solid foundation for STMicroelectronics to deliver on its strong second-quarter outlook.\n\nHow STMicroelectronics Compares With Its Peers\n\nAmong STMicroelectronics' closest competitors, Texas Instruments TXN and onsemi ON are relevant benchmarks when evaluating the company's ability to achieve its strong second-quarter outlook.\n\nLike STMicroelectronics, Texas Instruments is benefiting from the gradual recovery in industrial and automotive semiconductor demand. It continues to invest heavily in analog and embedded processing products while expanding its manufacturing capacity to support long-term growth. Texas Instruments' broad customer base and strong position in industrial and automotive markets make it a key competitor, although STMicroelectronics has a stronger presence in MEMS sensors, silicon photonics and AI infrastructure applications.\n\nonsemi is another major competitor, with a strong presence in automotive power chips, intelligent sensing and silicon carbide solutions. The company has also been capitalizing on electrification and AI-driven infrastructure investments while focusing on manufacturing efficiency and margin improvement. Although onsemi remains well positioned in automotive and industrial markets, STMicroelectronics' broader exposure to microcontrollers, RF and optical communications, sensors and AI data center technologies provides more diversified growth drivers. As semiconductor demand continues to recover, Texas Instruments and onsemi will remain key benchmarks for assessing whether STMicroelectronics can sustain its improving momentum through 2026.\n\nStory Continues\n\nSTM's Price Performance, Valuation & Estimates\n\nShares of STMicroelectronics have surged 156.6% year to date (YTD) compared with the industry's rise of 16.4%.\n\nSTM Stock's YTD Price Performance\n\nImage Source: Zacks Investment Research\n\nSTMicroelectronics stock is currently trading at a premium. It is currently trading at a forward 12-month price-to-earnings (P/E) multiple of 32.76, well above the industry average of 22.42.\n\nSTM's P/E Ratio (Forward 12-Month) vs. Industry\n\nThe Zacks Consensus Estimate for STM's 2026 earnings implies a year-over-year increase of 135.9%. Earnings per share estimates for 2026 have increased in the past 60 days, as shown below.\n\nEPS Trend of STM Stock\n\nSTM stock currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "GFS",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "SIMO, INTC",
       "Date": "2026-07-08",
       "Time": "21:44:00",
       "Source": "Yahoo Finance",
