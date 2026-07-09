@@ -1,15 +1,25 @@
 {
-  "last_updated": "2026-07-09T14:01:04.116Z",
-  "total_news_count": 1329,
+  "last_updated": "2026-07-09T14:15:19.530Z",
+  "total_news_count": 1330,
   "news": [
     {
-      "Ticker": "AMD, MU",
+      "Ticker": "INTC, AMD, MU",
       "Date": "2026-07-09",
       "Time": "21:54:33",
       "Source": "Yahoo Finance",
       "Title": "Micron, Sandisk, Marvell stocks jump, leading chip sector gains",
       "URL": "https://finance.yahoo.com/markets/stocks/article/micron-sandisk-marvell-stocks-jump-leading-chip-sector-gains-135433074.html",
       "Content": "What happened: Micron Technology ( MU ) stock jumped 8% on Thursday, joining a broader rally across memory and AI-related stocks. Sandisk ( SNDK ), Western Digital ( WDC ), Marvell ( MRVL ), Broadcom ( AVGO ), Intel ( INTC ), and AMD ( AMD ) also traded higher.\n\nWhat's behind the move: The jump comes after reports that Asia's SK Hynix ( 000660.KS ) is oversubscribed in its US IPO , signaling that institutional investors remain bullish on the AI memory trade.\n\nOn Thursday, Micron also unveiled plans to invest up to $3 billion to bolster the US semiconductor supply chain, with part of the investment supporting GlobalWafers' silicon wafer manufacturing operations in Texas.\n\nMicron and GlobalWafers plan to enter a 10-year supply agreement, giving Micron long-term access to raw silicon wafer capacity.\n\nWhat else you need to know: The artificial intelligence trade has been a major driver of earnings growth this year, helping propel the broader stock market higher.\n\nA critical shortage of high-bandwidth memory (HBM) used in AI data centers has fueled sharp gains in shares of Micron, Samsung Electronics, and SK Hynix, with Wall Street expecting supply constraints to persist through 2027.\n\nSK Hynix will make its US public trading debut on the Nasdaq on Friday. Its initial public offering consists of 177.9 million American depositary shares (ADS), each representing one-tenth of a share of the company's common stock, that will trade under the ticker symbol SKHY .\n\nInes Ferre is a Senior Business Reporter for Yahoo Finance covering the US stock market, publicly traded companies, and commodities.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-09",
+      "Time": "21:47:51",
+      "Source": "Yahoo Finance",
+      "Title": "Apple eyeing startup PrismML to bring massive AI models direct to iPhone",
+      "URL": "https://finance.yahoo.com/m/de566bc9-c269-3b82-be59-a5da1e555782/apple-eyeing-startup-prismml.html",
+      "Content": "Apple is in talks with PrismML, a stealthy California Institute of Technology (Caltech) spinout, as it looks to drastically reduce its reliance on the cloud and run heavyweight AI entirely on-device.\n\nThe discussions, first reported by The Information , come on the heels of a massive technical breakthrough from the startup: PrismML successfully compressed Alibaba's 27-billion-parameter open-source Qwen 3.6 model to run locally on an iPhone 17 Pro.\n\nTypically, cramming a model of that caliber onto a smartphone requires a \"sparse architecture\"—meaning the phone only wakes up a fraction of the AI's brain at any given moment to keep the device from melting. PrismML completely flips the script.\n\nThe Shrink: Squeezed the model from a massive 54 GB down to less than 4 GB.\n\nThe Brainpower: Keeps all 27 billion parameters active simultaneously without sacrificing benchmark performance.\n\nThe Core Tech: Built on ultra-dense 1-bit and ternary weight architectures (reducing memory footprint up to 14x while running up to 8x faster).\n\nWhy this matters for Apple: Local AI means total user privacy, lightning-fast response times, and zero reliance on a cellular connection. It also saves Apple from paying astronomical cloud server bills.\n\nAt WWDC, Apple made waves by introducing a revamped Siri architecture. However, many of those advanced features still rely on sending data off-device to Google's Gemini models in the cloud.\n\nBy actively hunting for acquisition targets like PrismML, Apple is aiming to shift those heavy AI workloads back into your pocket. While rivals like Meta, Microsoft, and Amazon are committing hundreds of billions to build out massive AI data centers, Apple's ultimate power move might just be making the data center obsolete for the everyday user.\n\nApple eyeing startup PrismML to bring massive AI models direct to iPhone\n\nWolfe Research outlines eight risks that could spark stock declines in 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
       "Language": "en"
     },
     {
