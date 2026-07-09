@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T11:40:17.255Z",
-  "total_news_count": 1298,
+  "last_updated": "2026-07-09T11:52:45.812Z",
+  "total_news_count": 1300,
   "news": [
     {
       "Ticker": "META",
@@ -53,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-09",
+      "Time": "18:22:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超471億元連6賣 光是台積電就提款310億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85471%E5%84%84%E5%85%83%E9%80%A36%E8%B3%A3-%E5%85%89%E6%98%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%B1%E6%8F%90%E6%AC%BE310%E5%84%84%E5%85%83-102217233.html",
+      "Content": "台北股市今 (9) 日盤中雖有記憶體及被動元件類股撑盤，早盤一度攻克 46000 點但仍不敵權王台積電 (2330-TW) 的重挫 2.03%，大盤終場收盤下跌 379.8 點，收在 45354.61 點，市場成交值再萎縮爲 9443.41 億元。三大法人合計賣超 393.93 億元。\n\n外資今天再賣超台積電 12749 張。提款 310.29 億元，而外資買超的族群集中在記憶體類股，包括南亞科 (2408-TW)、盛群 (6202-TW)、晶豪科 (3006-TW)。\n\n台股集中市場 7 月 9 日外資賣超 471.32 億元，連續第 6 天賣超，投信買超 154.10 億元，自營商賣超 76.71 億元。在期貨市場部分，外資今天交易口數淨額爲多單 468 口，未平倉交易口數淨額爲 80730 口。\n\n台股集中市場今天外資買超超張數較多的個股爲，友達、長榮航、台灣大、南亞科、宏碁、玉山金、仁寶、南茂、盛群、晶豪科。賣超張數較多的個股爲中石化、台泥、台化、台塑、華航、聯電、力積電、新纖、臺企銀、台積電。\n\n台股集中市場今天投信買超張數較多的個股爲，台新新光金、南亞、中信金、遠東新、日月光投控、南亞科、英業達、國巨 *、南電、聯電。賣超張數較多的個股爲，宏碁、金像電、長榮航、緯創、群益證、力積電、漢唐、可寧衛 *、帆宣、富世達。\n\n台股集中市場今天自營商買超張數較多的個股爲，友達、群創、華邦電、南亞、南亞科、仁寶、中信金、光鼎、華南金、宏碁；賣超張數較多的個股爲，華電、遠東新、聯電、聯強、華航、中石化、台灣大、遠傳、長榮航、彩晶。\n\n資深證券分析師簡伯儀指出，台股集中市場近期出現量能萎縮格局，而在大型颱風巴威逼近同時，更使得買盤縮手，甚至買了也不敢貿然留倉，預判近期台股將維持在震盪格局，但必須留意市場量能否向上擴張。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "TSM, NVDA",
       "Date": "2026-07-09",
       "Time": "18:19:00",
@@ -101,6 +111,16 @@
       "URL": "https://finance.yahoo.com/markets/article/wall-streets-next-ai-trade-is-smaller-than-a-grain-of-rice-one-big-idea-100100993.html",
       "Content": "The AI trade is getting its first real stress test since Wall Street discovered the bottleneck playbook. Chips are sliding , memory is cracking , and investors are already hunting for the next scarce part of the server rack.\n\nMemory chips showed how fast that playbook can work, as poster child Micron ( MU ) surged nearly 1800% off the April 2025 lows. But the market is already moving on to the next question: What else inside an AI server cannot scale fast enough?\n\nThe latest answer is the part of the AI trade that is smaller than a grain of rice.\n\nMultilayer ceramic capacitors , or MLCCs, are tiny components that help smooth voltage, filter electrical noise, and keep chips from glitching when power demand surges. AI servers do not draw power in a calm, steady stream. GPUs and custom chips ramp up, pause, and ramp up again as they process huge calculations.\n\nThat makes MLCCs a natural target for Wall Street's bottleneck hunt.\n\nA late-May Goldman Sachs thesis put capacitors forward as the next potential AI squeeze after memory. Goldman's work put MLCCs behind only GPUs and memory among the biggest cost items in AI server builds, and estimated the AI-server MLCC market could grow more than fourfold from fiscal 2025 to fiscal 2030.\n\nThe scale explains the chase. A single advanced AI server rack can require hundreds of thousands of MLCCs. If every next-generation AI rack needs more of them and suppliers cannot add capacity quickly, a boring component can suddenly become a pricing-power trade.\n\nThat is what investors have been chasing.\n\nSelected Asian MLCC and passive-component stocks tied to the AI server supply chain have surged off the March 30 lows. Taiyo Yuden ( 6976.T ), Walsin ( 2492.TW ), Samsung Electro-Mechanics ( 009150.KS ), Yageo ( 2327.TW ), Murata ( 6981.T ), and TDK ( 6762.T ) all rallied hard, with several more than tripling before the latest pullback.\n\nNow comes the harder part.\n\nSeveral of those names are down more than 20% from 52-week highs, and a few are off more than 30%. That puts them in the same AI hardware unwind hitting chips, memory, and the broader semiconductor complex. However, capacitor stocks are not moving in one clean wave — a sign this is still more an emerging theme than a fully formed basket trade.\n\nThe next test is whether the strongest MLCC suppliers can stop falling, rebuild support, and keep seeing pricing power.\n\nGoldman added fuel in early July, with fresh upgrades across the MLCC and capacitor supply chain , including Yageo, Samsung Electro-Mechanics, and LG Innotek. Goldman pointed to AI server demand, rising component content, and tighter supply as drivers of higher earnings estimates.\n\nStory Continues\n\nFor US investors, the trade is harder to reach than memory.\n\nThe iShares MSCI South Korea ETF ( EWY ) gave investors a simple shortcut when Samsung and SK Hynix became the center of the memory trade.\n\nMLCCs are more scattered. The key companies trade across Japan, Korea, Taiwan, and China. Some have US over-the-counter tickers, including Murata Manufacturing ( MRAAY ), Taiyo Yuden ( TYOYY ), TDK ( TTDKY ), and Yageo ( YAGOY ). But there is no pure US-listed capacitor ETF.\n\nHow US investors can reach the capacitor trade through ETFs\n\nCompany exposure\n\nWhat investors get\n\nIBAT\n\nMurata — 13%\n\nTDK — 6%\n\nSamsung Electro-Mechanics — 2%\n\n● Closest one-ticket proxy\n\n● Japan/Korea component exposure\n\n● Still an energy-storage ETF\n\nMKOR\n\nSamsung Electro-Mechanics — 5%\n\nSK Hynix — 5%\n\nSamsung Electronics — 20%\n\n● Best route for Samsung Electro-Mechanics\n\n● Also a Korea AI/memory basket\n\n● Smaller active ETF\n\nSamsung Electro-Mechanics — 3%\n\nSK Hynix / Samsung Electronics — total nearly 50%\n\n● Liquid Korea route\n\n● More memory than capacitor\n\n● ETF is also a memory trade\n\nDelta Electronics — 5%\n\nYageo — 3%\n\n● Liquid Taiwan route\n\n● AI hardware plus passive components\n\n● TSMC still dominates\n\nFLTW\n\nDelta Electronics — 8%\n\nYageo — 2%\n\n● Cheaper Taiwan route\n\n● More Delta than EWT\n\n● Still broad Taiwan beta\n\nMurata — 2%\n\n● Liquid Japan route\n\n● Clean access, diluted exposure\n\n● More country fund than bottleneck trade\n\nThat leaves investors with a less satisfying but more realistic answer: The MLCC trade can be tracked, but not yet easily owned in pure form.\n\nIf the strongest suppliers hold up after the chip sell-off and pricing keeps moving their way, the AI bottleneck trade has not ended.\n\nIt has simply moved deeper inside the rack.\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-09",
+      "Time": "18:00:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "最純記憶體股! SK海力士赴美IPO傳超購逾7倍",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%9C%80%E7%B4%94%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B5%B4%E7%BE%8Eipo%E5%82%B3%E8%B6%85%E8%B3%BC%E9%80%BE7%E5%80%8D-100042286.html",
+      "Content": "[ 非凡新聞 ]記者洪芷茵,攝影吳國豪\n\n韓國記憶體大廠SK海力士赴美發行ADR，獲得市場熱烈追捧，不僅有望改寫外國企業赴美IPO規模紀錄，更傳出這筆交易已經獲得超過7倍認購需求。消息激勵SK海力士週四股價強漲逾5%，連帶帶動台廠記憶體南亞科、鈺創以及晶豪科亮燈漲停，共同上演慶祝行情！\n\n一層層DRAM垂直堆疊，具備高頻寬、低功耗特性的HBM是AI時代下不可或缺的重要戰略物資，為HBM產品線市占領先的SK海力士赴美掛牌增添底氣。根據周四收盤價約每股1442.76美元計算，此次ADR發行，融資規模大約是256億美元，有機會超過阿里巴巴，成為美國史上最大規模的外國公司上市案。\n\nArirang News 主播：「SK海力士預計於7月10日在美國那斯達克掛牌上市，美國存託憑證ADR。此次ADR上市，將有助於公司建立更具規模的資本優勢，並讓公司在記憶體市場競爭中，持續領先主要競爭對手。公司指出，募集資金將用於半導體產能投資，包括龍仁半導體園區，以及清州先進封裝設施的建設。」\n\n市場對於這筆ADR發行案是高度關注，根據外媒報導，SK海力士獲得7倍的超額認購，消息激勵週四SK海力士股價強漲逾5%，台股記憶體族群，更聯袂上演慶祝行情，南亞科、鈺創以及晶豪科同步亮燈漲停，華邦電漲幅也接近5%。\n\n豐銀投顧分析師 李世新：「後續還是要觀察幾個指標，第一個就是說記憶體的報價，有沒有持續的往上漲，才代表說記憶體真的是缺貨。那第二個還是可以從，這些所謂的伺服器的廠商看，如果說伺服器的出貨沒有想像中高的話，那你記憶體是絕對不可能報價上升。」\n\n綜觀來看，AI產業是否持延續成長動能，將成為後續市場觀察重點。至於操作策略上，分析師建議採取逢低布局，待股價回升時適當獲利了結。此外，儘管美國市場可能吸引大量資金湧入，不過也不必過度擔心，亞洲市場資金排擠效應，分析師指出由於各類記憶體產品具備不同需求支撐，可望讓整體產業呈現「百花齊放」格局。（記者 洪芷茵、吳國豪／台北採訪報導）\n\n觀看原文...\n\nAI應用.低軌衛星動能 PCB產業迎成長新引擎\n\n揭突圍訪史瓦帝尼幕後 賴總統：台灣不能放棄\n\n政府催生出招 育嬰假變\"育兒假\"0-6歲都可請",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
