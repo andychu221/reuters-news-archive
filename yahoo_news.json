@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-09T10:00:37.874Z",
-  "total_news_count": 1278,
+  "last_updated": "2026-07-09T10:15:40.512Z",
+  "total_news_count": 1279,
   "news": [
+    {
+      "Ticker": "AAPL, TSLA",
+      "Date": "2026-07-09",
+      "Time": "17:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "If the \"Magnificent Seven\" Were Recreated, Here's What Stocks I'd Include (Hint: Not SpaceX)",
+      "URL": "https://finance.yahoo.com/m/352326b0-008b-36ad-9eb7-e5505fe59239/if-the-%22magnificent-seven%22.html",
+      "Content": "The \"Magnificent Seven\" is a cohort of stocks that includes market leaders, mostly in the tech sector. This group is made up of:\n\nNvidia (NASDAQ: NVDA)\n\nApple (NASDAQ: AAPL)\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL)\n\nMicrosoft (NASDAQ: MSFT)\n\nAmazon (NASDAQ: AMZN)\n\nMeta Platforms (NASDAQ: META)\n\nTesla (NASDAQ: TSLA)\n\nThis cohort was formed early in the artificial intelligence (AI) build-out, and a lot has changed since then. Although this may be the traditional Magnificent Seven, I think a reformulated Magnificent Seven is likely appropriate. There are two stocks I'd pull out and replace with others more central to the AI build-out. But which two stocks? Let's find out.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nOut with Apple and Tesla\n\nIf you look at the list now, there are basically three stock groups. First, Nvidia is by itself the only computing unit maker. This is a key part of the AI build-out, and I think chipmakers and designers need more exposure, but we'll get to that later.\n\nThe second group is the AI hyperscalers, which includes Alphabet, Microsoft, Amazon, and Meta Platforms. These four are spending hundreds of billions of dollars on AI data centers and are key facilitators of AI workloads. They have proven their inclusion in the Magnificent Seven, as they have made several major AI investments.\n\nThe remaining two are Apple and Tesla, and I'd argue they should be booted in favor of some other picks.\n\nApple is probably more controversial than Tesla, as it's the second-largest company in the world and has a significant presence in consumer tech. However, its AI offerings to date have been limited, and it seems content to piggyback on others' spending rather than invest in its own. Although this strategy may pan out, I think it's a far different investment than the other five, and its outcome may be much different than some of its peers.\n\nTesla may have visions of grandeur and AI integration in its vehicles, but it's currently out of its league in terms of profits.\n\nTesla's profits don't come anywhere close to the other six, and it lags way behind in this area. Although it may be able to increase profitability in the long term, it has a long way to go before it reaches the same level as these others.\n\nSo, if Tesla and Apple are gone, what stocks should replace them?\n\nStory Continues\n\nIn with Broadcom and Taiwan Semiconductor\n\nIn this reformulation, I'm going all in on AI. So, with Tesla and Apple out, I'm replacing them with Broadcom (NASDAQ: AVGO) and Taiwan Semiconductor (NYSE: TSM). Both of these two are right at home in the cohort, as Taiwan Semiconductor is the sixth-largest company in the world, while Broadcom is the eighth. This ranks them above Tesla and Meta Platforms by market cap.\n\nIf investors were going solely by market cap (making the Magnificent Seven the seven largest companies in the world), then Space Exploration Technologies (NASDAQ: SPCX) would slide in above Broadcom. Still, I don't think that's the best way to make up this newly formulated grouping, in part because SpaceX isn't profitable.\n\nEach of these two is heavily involved in the AI build-out: Broadcom designs custom AI chips , and Taiwan Semiconductor is the largest logic chip fabricator in the world. Without these two, the AI landscape would look very different, and their success is critical to the rest of the market.\n\nBy adding these two to the grouping, the Magnificent Seven really starts to take on an AI-centric theme, and the group's success or failure would more accurately track AI's progress as a whole. Although Apple and Tesla may be worthy investments in the eyes of some investors, I don't think they are the best picks for an AI-first grouping.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-09",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-07-09",
       "Time": "17:20:00",
       "Source": "Yahoo Finance",
