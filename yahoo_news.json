@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-09T07:40:14.632Z",
-  "total_news_count": 1199,
+  "last_updated": "2026-07-09T07:47:09.227Z",
+  "total_news_count": 1236,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "15:19:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股393.93億元",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1393-93%E5%84%84%E5%85%83-071902864.html",
+      "Content": "（中央社台北9日電）台股今天跌379.80點，收在45354.61點，成交值新台幣9443.41億元。三大法人外資及陸資賣超、投信買超、自營商賣超，合計賣超393.93億元。\n\n自營商賣超76.71億元，投信買超154.10億元，外資及陸資賣超471.32億元。1150709",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-07-09",
+      "Time": "15:10:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "科技股領漲 日股反彈收高",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A7%91%E6%8A%80%E8%82%A1%E9%A0%98%E6%BC%B2-%E6%97%A5%E8%82%A1%E5%8F%8D%E5%BD%88%E6%94%B6%E9%AB%98-071052776.html",
+      "Content": "（中央社東京2026年07月9日綜合外電報導）日本股市今天在科技股漲勢帶動下，大盤反彈收高，市場焦點轉向企業獲利與美國即將公布的經濟數據。\n\n日股基準日經指數收盤漲924.80點或1.38%，來到67743.85點。\n\n東證股價指數收盤漲13.94點或0.35%，來到4020.37點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "15:03:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "KOSPI震盪收漲0.62%終止連三黑，SK海力士勁揚救場，金融股扯後腿",
+      "URL": "https://tw.stock.yahoo.com/news/kospi%E9%9C%87%E7%9B%AA%E6%94%B6%E6%BC%B20-62-%E7%B5%82%E6%AD%A2%E9%80%A3%E4%B8%89%E9%BB%91-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%8B%81%E6%8F%9A%E6%95%91%E5%A0%B4-%E9%87%91%E8%9E%8D%E8%82%A1%E6%89%AF%E5%BE%8C%E8%85%BF-070335807.html",
+      "Content": "【財訊快報／陳孟朔】連續三天急瀉841.55點或10.4%的韓國首爾綜合股價指數(KOSPI)週四迎來反彈契機，受費城半導體指數止瀉反彈2.2%帶動，指數開盤跳空急彈3.3%，以7,486.64點開出，盤中一度拉高至7,543.86點的日高。不過，午後賣壓再度湧現，指數一度倒吐2.5%，下探7,063.76點日低，終場在DRAM雙雄翻紅支撐下，小漲45.12點或0.62%，收在7,291.91點，為本週首紅，上下震度達480.1點或6%以上。大型科技權值股成為韓股守住紅盤的關鍵。週五即將登陸那斯達克交易所的SK海力士強彈5.3%至218.6萬韓元，成為三十檔大型股(KTOP30)的領頭羊；三星電子也止跌小漲0.18%，使前期遭重砍的AI記憶體與半導體主線出現技術性回補。市場人士指出，韓股早盤受美國半導體股反彈激勵，但午後快速翻黑，顯示投資人對AI資本支出、記憶體報價斜率與槓桿ETF部位出清仍高度敏感。而上日少數活口的大型股樂金電子重挫9.09%，淪為KTOP30最大魯蛇。\n\n盤面壓力則集中在金融與三星集團傳產權值股。三星人壽大跌5.78%，三星火災海上保險重挫7.3%，成為拖累指數的主要個股之一。韓國當地時間9日中午12時36分左右，慶尚北道一處化工冶煉廠發生火災，消防部門於13時10分左右將火災應對級別上調至第二級，當地政府也提醒居民警惕有毒氣體外洩；不過，截至目前，尚無明確資訊顯示這起火警與三星人壽或三星火災海上保險股價重挫存在直接關聯，相關個股下跌仍較可能與市場風險偏好降溫、金融股獲利了結與保險類股估值調整有關。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "14:40:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "SemiAnalysis：台積電真正的護城河不在製程 而是EDA/IP生態系統",
+      "URL": "https://tw.stock.yahoo.com/news/semianalysis-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%AD%B7%E5%9F%8E%E6%B2%B3%E4%B8%8D%E5%9C%A8%E8%A3%BD%E7%A8%8B-%E8%80%8C%E6%98%AFeda-ip%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1-064004031.html",
+      "Content": "SemiAnalysis 周三 (8 日) 在 X 平台上連發 8 條推文指出，全球晶圓代工龍頭台積電最難複製的競爭壁壘並非市場熟知的先進製程、EUV 光刻機或良率優勢，而是圍繞晶圓廠構建的 EDA(電子設計自動化)與 IP(矽智財)生態系統。\n\n該研究機構強調，決定客戶去留的關鍵，在於整個設計風險體系能否隨晶圓廠遷移，而非單純的性能、功耗、面積 (PPA) 比較。\n\nSemiAnalysis 分析指出，台積電透過 Open Innovation Platform(OIP) 將 Synopsys、Cadence、Arm、Rambus、Alphawave 等 EDA 及 IP 廠商整合進統一的預驗證流片網絡，其認證矽 IP 庫規模已由 2010 年的約 3000 項，去年暴增至 9.3 萬項，增逾 31 倍，全面涵蓋 SerDes、HBM、PCIe、UCIe、記憶體介面及 Chiplet 互連等關鍵模組。\n\n這些經過預認證的 IP 大幅降低客戶流片風險，同時顯著墊高轉換供應商的綜合成本，形成「生態黏性→EDA 獲利→更多設計案→鞏固地位」的正向循環。\n\nSemiAnalysis 認為，支撐此 IP 生態系統的是高度集中的 EDA 產業。\n\n去年全球 EDA 及 IP 市場規模約 180 億美元，2030 年料將擴張至 280 億至 300 億美元，其中 Synopsys、Cadence 及 Siemens EDA 三巨頭合計市占超過 85%。\n\n過去十年，EDA 行業年複合成長率約 13%，高於半導體研發投入增速，主要受 AI 晶片開發、先進節點驗證複雜度提升及硬體模擬需求推動。\n\nSynopsys 執行長 Sassine Ghazi 表示，AI 帶來的設計複雜度正推動半導體研發佔銷售額比例從 6% 向 9% 攀升，EDA 廠商同步受惠於研發預算擴張與先進節點定價能力提升。\n\nSemiAnalysis 指出，在先進節點時代，一次重新流片成本通常高達 5000 萬至 1 億美元，且可能導致產品上市延後 6 至 12 個月。\n\n對大型晶片設計公司而言，降低設計失敗風險遠比追求幾個百分點的 PPA 提升更為關鍵。現代晶片設計從 RTL 綜合、佈局佈線到簽核分析、物理驗證，已形成高度耦合的工具鏈；任何核心 EDA 工具變動，都可能迫使後續驗證流程重來。\n\n此外，台積電認證的 SerDes、HBM 等 IP 模組均與工藝設計套件 (PDK) 深度綁定，遷移旗艦 ASIC 意味必須重建 EDA 工具鏈，並重驗大量 IP。這也解釋了三星代工與英特爾代工追趕難度遠高於預期的原因。\n\n即便競爭對手未來能縮小製程差距，仍須重建與 EDA、IP 供應商數十年累積的合作體系，這遠比提升電晶體性能更耗時。\n\n以英特爾代工為例，該公司將外部客戶重點由 18A 調整至 18A-P，導致圍繞 18A 開發的 IP 推遲商業化，連帶拖累 EDA 廠商收入，凸顯晶圓廠路線圖調整對整個生態的傳導效應。\n\nSemiAnalysis 在文中總結指出，台積電的真正優勢是由 EDA 認證、IP 驗證與 PDK 共同構成的「設計風險體系」，這套讓客戶「不願遷移、也不敢遷移」的生態，才是其最難被複製的護城河。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "14:38:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "零股九點開盤、千金股一元一跳、撮合縮至一秒！台股大改制究竟為誰而改？",
+      "URL": "https://tw.news.yahoo.com/%E9%9B%B6%E8%82%A1%E4%B9%9D%E9%BB%9E%E9%96%8B%E7%9B%A4-%E5%8D%83%E9%87%91%E8%82%A1-%E5%85%83-%E8%B7%B3-%E6%92%AE%E5%90%88%E7%B8%AE%E8%87%B3-063826010.html",
+      "Content": "台股正在進行多年來最密集的一輪制度翻修。\n\n證交所在立法院證實，零股交易年底前將與整股同步於九點開盤，明年七月撮合間隔縮短至一秒；主管機關也研擬明年七月推動高價股現貨新制，千金股最小升降單位一律「一元一跳」，且不設價格區間上限，期貨市場的新制數據將成為政策風向球。\n\n官方語言說，這是與國際接軌、提升市場效率。\n\n但把這批變革攤開來看，一個更根本的問題浮現：這些制度，究竟是為散戶而改，還是為速度而改？\n\n先說該肯定的部分。\n\n零股同步九點開盤，是遲來的公平。零股早已是年輕世代參與台股的主要通道，過去開盤時段的資訊與價格劣勢，本質上就是對小額投資人的制度性不公平。\n\n千金股改成「一元一跳」，也確實有助壓縮買賣價差，降低交易成本。對想參與台積電、聯發科等高價權值股的小資族與零股族來說，這不是技術細節，而是能不能用更合理成本參與台灣核心資產的問題。\n\n這些方向沒有錯。\n\n但制度改革的另一面，也必須誠實檢視。\n\n撮合縮至一秒、漲跌不設區間，最大的受益者從來不是看盤下單的自然人，而是以毫秒為單位運作的程式與量化交易。速度的軍備競賽裡，散戶永遠是最後知道價格的人。\n\n<p class=\"mb-module-gap break-words leading-[1.4]",
+      "Language": "zh"
+    },
     {
       "Ticker": "AMZN, NVDA",
       "Date": "2026-07-09",
@@ -11,6 +61,66 @@
       "URL": "https://finance.yahoo.com/m/ff731553-9b85-3ca3-90f8-afddbc4fe53e/billionaire-steve-cohen-sold.html",
       "Content": "Steve Cohen runs Point72 Asset Management , and investors closely watch his investment decisions through that hedge fund's 13F filings. The most recent 13F highlighted two interesting moves. First, Cohen took profits in artificial intelligence leaders Amazon (NASDAQ: AMZN) and Nvidia (NASDAQ: NVDA). Second, he dramatically increased his position in Boston Scientific (NYSE: BSX).\n\nHere's a look at Steve Cohen's stock buying and selling and why you might want to consider making similar investment moves.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe AI trade could be changing\n\nSince the start of 2026, neither Amazon nor Nvidia have been a particularly strong performer. Amazon and Nvidia were only up around 5% year to date as of this writing, trailing the roughly 10% gain of the S&P 500 index (SNPINDEX: ^GSPC). That comes after a multi-year advance for each company.\n\nOver the past decade, Amazon was up over 560% compared to a gain of 260% for the S&P 500 index. Nvidia's stock rose more than 16,000% over the same span. Taking profits from strongly performing stocks is hardly shocking, especially as they start to lag the broader market after a long period of strength.\n\nHowever, what's notable is that the artificial intelligence trade that helped push these two stocks higher appears to be shifting. The early leaders may be giving way to infrastructure companies, such as hydrogen fuel cell maker Bloom Energy (NYSE: BE), that support the build-out of the AI backbone. Between the fourth quarter of 2025 and the first quarter of 2026, Cohen trimmed his stake in Amazon by 6% and his Nvidia position by a whopping 24%.\n\nCohen is betting on an unloved healthcare giant\n\nWhile Cohen was selling Nvidia and Amazon shares, he was buying Boston Scientific shares. His position in this medical device maker increased by 50% from the start of the year. What's interesting is that the dollar value of the Boston Scientific position barely budged because the stock has been heading sharply lower. It is down over 50% year to date as of this writing. This is a value play, with Cohen likely betting that the company turns its fortunes around over the long term.\n\nBoston Scientific makes medical devices used in cardiac care (66% of revenues) and medical-surgical products (34%). The products it sells are not optional, so demand is steady regardless of economic trends and market cycles. The company has long been a top player in the medical technology space. However, all companies go through good periods and bad ones. Right now, Boston Scientific isn't hitting on all cylinders.\n\nStory Continues\n\nNotably, the company reported a strong first quarter, but provided a particularly weak outlook for the rest of the year. The numbers here speak volumes. In the first quarter of 2026, Boston Scientific posted organic sales growth of 9.4%, but in the second quarter, it projects organic sales growth could slow to as low as 5%. For the full year, the company lowered its adjusted earnings guidance range from $3.43 to $3.49 per share to a range of $3.34 to $3.41.\n\nThere's a reason investors are downbeat right now: the new high end of the guidance range is lower than the old low end. But the company has a long history of success, driven by innovation and strong customer relationships. It is one of a small number of medical device makers that have entrenched industry positions. It is highly likely that the company will eventually emerge from its current funk.\n\nBoston Scientific: A deep value opportunity\n\nThe big story for investors right now, however, is Boston Scientific's valuation. For example, its price-to-sales ratio of 3.2x is far below its five-year average of 6x. And its price-to-earnings ratio of 19x is well below its longer-term average of 64x. To be fair, buying a value-oriented stock like Boston Scientific should be viewed as a long-term investment.\n\nIndeed, you can't turn an over $60 billion market cap healthcare giant around on a dime. But it seems highly likely that this industry-leading medical device maker does, eventually, get back on track. Which is likely what Steve Cohen is betting on, and you might want to, too.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "14:34:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "前十大市值占比近八成！台股集中化風險竟高於華爾街，分散投資的教科書為何在台灣失靈？",
+      "URL": "https://tw.news.yahoo.com/%E5%89%8D%E5%8D%81%E5%A4%A7%E5%B8%82%E5%80%BC%E5%8D%A0%E6%AF%94%E8%BF%91%E5%85%AB%E6%88%90-%E5%8F%B0%E8%82%A1%E9%9B%86%E4%B8%AD%E5%8C%96%E9%A2%A8%E9%9A%AA%E7%AB%9F%E9%AB%98%E6%96%BC%E8%8F%AF%E7%88%BE%E8%A1%97-%E5%88%86%E6%95%A3%E6%8A%95%E8%B3%87%E7%9A%84%E6%95%99%E7%A7%91%E6%9B%B8%E7%82%BA%E4%BD%95%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%A4%B1%E9%9D%88-063445430.html",
+      "Content": "全球投資圈長年流傳一條金律：如果擔心美股科技股太集中，就買新興市場基金分散風險。\n\n但這條金律，如今被數據宣告失靈。\n\n更諷刺的是，宣告這件事的市場之一，正是台灣。\n\n彭博與摩根大通統計揭露一個歷年罕見的結構：截至六月中，美股市值前十大公司合計占標普五百總市值約百分之三十六；南韓、台灣、香港前十大市值占比卻接近百分之八十，新加坡更逼近百分之九十。\n\n換句話說，長年被視為「頭重腳輕」代名詞的美股，放在亞洲市場旁邊，反而成了分散的模範生。\n\n分析師指出，新興市場股市如今比美股更嚴重偏押科技股，這是記憶所及歷年來首見。過去以為買海外基金就能分散美股科技風險的投資人，手上的部位對晶片、記憶體與資料中心的曝險，可能遠高於自己的想像。\n\n集中化的代價，上週已經預演過一次。\n\n三星與SK海力士合占韓國KOSPI權重一半。eToro分析師形容得很傳神：這兩檔股票任何一檔劇烈波動，都會直接拖累整個指數，其餘約九百家上市公司甚至還來不及對大盤產生影響。\n\n於是，三星一份「年增十八倍、但僅略高於預期」的財報，就能讓韓股觸發熔斷，並讓保證金追繳的賣壓跨海傳染到費城半導體指數。\n\n瑞銀策略師把這種現象稱為「同一班車」：全球機構資金集中押注同一批AI概念股，車上的每個人都以為自己分散",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "14:34:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉反攻月線失利 台積電跌逾2%拖累大盤跌379點收45354點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%8D%E6%94%BB%E6%9C%88%E7%B7%9A%E5%A4%B1%E5%88%A9-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C%E9%80%BE2-%E6%8B%96%E7%B4%AF%E5%A4%A7%E7%9B%A4%E8%B7%8C379%E9%BB%9E%E6%94%B645354%E9%BB%9E-063437404.html",
+      "Content": "台北股市今 (9) 日盤中雖有記憶體、IC 載板及被動元件類股撑盤，早盤一度攻克 46000 點及月線，但仍不敵權王台積電 (2330-TW) 重挫 2.03%，大盤終場收盤下跌 379.8 點，收在 45354.61 點，市場成交值再萎縮爲 9443.41 億元。電子股今天下跌 0.75% 占大盤成交比重仍高達 80.4%。\n\n同時，台股大盤在最後一盤再遭到 529.24 億元的強大賣壓，並摜壓指數高達 153.86 點，迫使大盤跌幅擴大。\n\n7 月 9 日台北匯市一樣弱勢，新台幣兌美元匯價中午暫收 32.136 元、貶值 1.04 角，成交金額 11.9 億美元。\n\n台股大盤指數早盤指數 45805.62 點開出，但也遭逢市場沉重賣壓打壓指數而震盪翻黑，指數最低 43352.41 點，最高 46064.06 點，大盤終場下跌 379.8 點，收在 45354.61 點，市場成交值再萎縮爲 9443.41 億元\n\n資深證券分析師簡伯儀指出，台股集中市場近期出現量能萎縮格局，而在大型颱風巴威逼近同時，更使得買盤縮手，甚至買了也不敢貿然留倉，預判近期台股將維持在震盪格局，但必須留意市場量能否向上擴張。\n\n台股今天強勢族群爲半導體類股、被動元件及記憶體類股，台積電收盤下跌 50 元，收盤報 2415 元，聯發科 (2454-TW) 收盤下跌 70 元，收盤價報 3925 元，國巨 (2327-TW) 以 900 元作收，上漲 9 元。 鴻海 (2317-TW) 收盤報 237.5 元的平盤價。\n\n記憶體族群南亞科 (2408-TW) 收漲停價 435.5 元，成交量放大到 8.33 萬張 。\n\n而 IC 載板類股走勢一致高昂，欣興 (3037-TW)、南電 (8046-TW)、景碩 (3189-TW) 及臻鼎 - KY(4958-TW) 強勢 上漲，其中南電並鎖住漲停價 1215 元作收。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "14:33:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "韓股跌入熊市，高盛喊轉投中國AI價值鏈，資金輪動升溫",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82-%E9%AB%98%E7%9B%9B%E5%96%8A%E8%BD%89%E6%8A%95%E4%B8%AD%E5%9C%8Bai%E5%83%B9%E5%80%BC%E9%8F%88-%E8%B3%87%E9%87%91%E8%BC%AA%E5%8B%95%E5%8D%87%E6%BA%AB-063325723.html",
+      "Content": "【財訊快報／陳孟朔】韓股AI交易急速退潮，資金輪動焦點轉向中國AI產業鏈。韓國首爾綜合股價指數(KOSPI)週三重挫5.4%，較上月歷史高點回落約20%，正式跌入技術性熊市；此前帶動韓股急漲的兩大權值股同步遭拋售，同步入熊市。高盛主題研究團隊在韓股重挫之際發布報告，建議客戶將倉位從韓國AI交易切換至「中國AI價值鏈」。韓股今年一度為全球表現最強主要股市，KOSPI年內最大漲幅曾高達116%，但在AI資本支出可持續性遭市場質疑後，漲幅已收斂至約72%。三星電子本週公布第二季初報，營業利潤年比暴增19倍，股價仍大跌，顯示投資人關注重點已由當前獲利，轉向AI資本支出熱潮能否延續。市場人士指出，韓國AI行情高度集中於三星電子、SK海力士與相關槓桿ETF，一旦晶片股反轉，散戶槓桿部位與被動再平衡機制容易放大跌幅；外資今年以來也已累計拋售逾1000億美元韓國股票。\n\n資金流向方面，港股科技股接棒成為亞洲市場亮點。韓股暴跌同日，恆生中國企業指數盤中漲幅一度達4.5%，創2025年2月以來最大單日漲幅，阿里巴巴港股漲逾13%，騰訊漲超4%。高盛報告指出，中國AI已正式進入其交易視野，並推薦自建的「GS中國AI價值鏈」股票籃子，涵蓋電力、半導體、AI基礎設施、AI模型與AI應用等全鏈條。該行強調，這不是單純的中國互聯網ETF(KWEB)交易，而是覆蓋整條AI產業鏈的結構性機會。\n\n高盛看好中國AI價值鏈的理由包括估值低配、政策支持與產業催化。該行估算，目前中國AI相關市值約4兆美元，占全球AI相關市值約10%、AI相關收入約16%，但全球共同基金經理截至2026年1月對中國科技配置占比僅1.2%，顯示仍處明顯低配。高盛並指出，中國5月晶片銷售額年比大增111%，整體出口年增19.4%，主要受AI硬體需求帶動；同時，中國主要交易所調整基準指數、納入更多AI與半導體公司，長鑫存儲獲准登陸科創板等IPO提速，也可能引導被動資金流向戰略科技領域。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "14:26:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股盤後】收跌379點月線得而復失　權值股賣壓重",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E8%B7%8C379%E9%BB%9E%E6%9C%88%E7%B7%9A%E5%BE%97%E8%80%8C%E5%BE%A9%E5%A4%B1-%E6%AC%8A%E5%80%BC%E8%82%A1%E8%B3%A3%E5%A3%93%E9%87%8D-062657179.html",
+      "Content": "（中央社記者曾仁凱台北2026年7月9日電）台股今天呈現區間震盪整理，一度突破月線反壓、站上46000點關卡，但追價意願不足；尾盤台積電 (2330) 股價遭遇賣壓，收在全日最低點2415元，下跌50元，指數終場下跌379.80點，收45354.61點。成交值約9443.41億元。\n\n4大權值股，台積電終場下跌50元或2.03%，收在2415元；聯發科 (2454) 跌70元或1.75%，收3925元；台達電 (2308) 小跌5元或0.27%，收在1880元；鴻海 (2317) 收在平盤價237.5元。\n\n值得注意的是，以中小型股為主的上櫃指數今天全場維持平盤上，終場上漲3.6點或0.85%，收在424.99點，表現相對抗跌。\n\n被動元件族群今天表現亮眼，龍頭國巨 (2327) 盤中最多上漲逾6%，終場漲幅收斂，以900元作收，上漲9元或1.01%。其他包括興勤 (2428) 、立隆電 (2472) 、禾伸堂 (3026) 收盤股價漲幅都超過半根停板。\n\n矽晶圓族群，環球晶 (6488) 股價攻上漲停板1350元，創收盤新天價，合晶 (6182) 收盤股價漲幅也大漲超過7%。\n\n群益投顧研究部副總裁曾炎裕分析，台股看美股，而美國科技股最近是跟著韓股走，韓國兩大權值股三星電子、SK海力士挾著記憶體缺貨漲價，今年以來股價狂飆，加上投資人追漲，造成槓桿過大，最近面臨劇烈震盪調整，牽動美國科技股與台股走勢。\n\n曾炎裕觀察，AI產業的基本面並沒有看到太明顯的轉折，趨勢依舊看好，但許多AI個股漲太多，面臨獲利了結賣壓，加上籌碼需要整理，估計台股短線維持震盪整理，短期先看SK海力士的美國存託憑證（ADR）發行案10日在美掛牌後的表現。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "14:26:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "權值股賣壓重　台股收跌379點月線得而復失",
+      "URL": "https://tw.news.yahoo.com/%E6%AC%8A%E5%80%BC%E8%82%A1%E8%B3%A3%E5%A3%93%E9%87%8D-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C379%E9%BB%9E%E6%9C%88%E7%B7%9A%E5%BE%97%E8%80%8C%E5%BE%A9%E5%A4%B1-062613308.html",
+      "Content": "（中央社記者曾仁凱台北9日電）台股今天呈現區間震盪整理，一度突破月線反壓、站上46000點關卡，但追價意願不足；尾盤台積電股價遭遇賣壓，收在全天最低點2415元，下跌50元，指數終場下跌379.80點，收45354.61點，成交值約9443.41億元。\n\n4大權值股，台積電終場下跌50元或2.03%，收在2415元；聯發科跌70元或1.75%，收3925元；台達電小跌5元或0.27%，收在1880元；鴻海收在平盤價237.5元。\n\n值得注意的是，以中小型股為主的上櫃指數今天全場維持平盤上，終場上漲3.6點或0.85%，收在424.99點，表現相對抗跌。\n\n被動元件族群今天表現亮眼，龍頭國巨盤中最多上漲逾6%，終場漲幅收斂，以900元作收，上漲9元或1.01%。其他包括興勤、立隆電、禾伸堂收盤股價漲幅都超過半根停板。\n\n矽晶圓族群，環球晶股價攻上漲停板1350元，創收盤新天價，合晶收盤股價也漲7.81%。\n\n群益投顧研究部副總裁曾炎裕分析，台股走勢受到美股影響，而美國科技股最近是跟著韓股走，韓國兩大權值股三星電子、SK海力士挾著記憶體缺貨漲價，今年以來股價狂飆，加上投資人追漲，造成槓桿過大，最近面臨劇烈震盪調整，牽動美國科技股與台股走勢。\n\n曾炎裕觀察，AI產業的基本面並沒有看到太明顯的轉折，趨勢依舊看好，但許多AI個股漲太多，面臨獲利了結賣壓，加上籌碼需要整理，估計台股短線維持震盪整理，短期先看SK海力士的美國存託憑證（ADR）發行案10日在美掛牌後的表現。（編輯：楊凱翔）1150709",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "14:26:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《放．新聞／財經》零股九點開盤、千金股一元一跳、撮合縮至一秒！台股交易制度大翻修，散戶時代的基礎建設來了",
+      "URL": "https://tw.news.yahoo.com/%E6%94%BE-%E6%96%B0%E8%81%9E-%E8%B2%A1%E7%B6%93-%E9%9B%B6%E8%82%A1%E4%B9%9D%E9%BB%9E%E9%96%8B%E7%9B%A4-%E5%8D%83%E9%87%91%E8%82%A1-062604776.html",
+      "Content": "台股的遊戲規則，正在進行多年來最密集的一輪翻修。\n\n證交所在立法院財委會證實兩項變革時程：零股交易年底前將與整股同步在九點開盤，明年七月起撮合間隔縮短至一秒。經濟日報也披露，主管機關研擬明年七月推動高價股現貨新制，千金股最小升降單位一律「一元一跳」，且不設價格區間上限，期貨市場的新制數據將成為政策風向球。\n\n這一連串工程的方向一致：向散戶時代的市場結構靠攏。\n\n零股交易早已是年輕世代參與台股的主要通道。群益台灣加權正二完成一拆二十四分割後，單日成交量衝破八十七萬張，成為盤面人氣王，正說明「小額化」已是不可逆的趨勢。\n\n千金股改成「一元一跳」，則直接壓縮買賣價差，讓台積電、聯發科等高價權值股的交易成本更貼近國際市場。對小資族、定期定額投資人與零股族來說，這不是技術細節，而是能不能用更合理成本參與台灣核心資產的問題。\n\n撮合縮至一秒，也代表台股交易節奏將更接近國際市場。\n\n市場越快，效率越高；但速度越快，對交易系統、券商風控、投資人判斷與市場穩定的要求也越高。交易制度升級，不只是把按鈕按快一點，而是整個市場基礎建設都要跟上。\n\n變革也有煞車聲。\n\n針對延長交易時間的倡議，商總理事長許舒博公開示警，倉促變革恐有後遺症，直言這是一把雙面刃。這個提醒不是保守，而是必要。市場基礎建設的每一次升級，都在效率與穩定之間走鋼索。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 l",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -23,6 +133,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "14:18:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股交易制度大升級！投資人真正該注意的是這件事",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%BA%A4%E6%98%93%E5%88%B6%E5%BA%A6%E5%A4%A7%E5%8D%87%E7%B4%9A-%E6%8A%95%E8%B3%87%E4%BA%BA%E7%9C%9F%E6%AD%A3%E8%A9%B2%E6%B3%A8%E6%84%8F%E7%9A%84%E6%98%AF%E9%80%99%E4%BB%B6%E4%BA%8B-061837737.html",
+      "Content": "近年來，台股在 AI 產業帶動下持續刷新歷史紀錄，不僅市值躍居全球前段班，千元以上高價股數量也快速增加，市場交易結構與投資習慣正悄悄改變。就在市場聚焦 AI 供應鏈、外資動向及指數創高之際，證交所也同步推動近年來最重要的一波交易制度改革，預計自今年底至明年陸續上路。\n\n此次改革包含三項重點：盤中零股交易開盤時間提前至上午 9 點、零股撮合頻率由每 5 秒縮短為每 1 秒，以及千元以上高價股最小升降單位由 5 元縮小至 1 元。其中，高價股升降單位調整最快預計於 2027 年 7 月實施。表面上看，這些只是交易制度上的微調，但真正值得關注的，不是交易提前幾分鐘，也不是跳動單位少了幾元，而是制度優化後，將如何改變投資人的交易習慣、市場流動性，以及整體價格發現效率。\n\n零股交易升級，投資門檻再降低\n\n零股交易自開放以來，逐漸成為許多投資人的主要投資方式。隨著 ETF 普及及高價股數量增加，越來越多投資人透過零股分批布局、長期累積部位。不過，目前盤中零股交易仍存在一些限制。開盤後必須等到上午 9 點 10 分才開始第一次撮合，且每 5 秒才成交一次，當市場波動較大時，容易出現成交延遲、買賣價差擴大，甚至成交價格與整股市場脫節的情況。\n\n因此，證交所此次改革的核心，就是讓零股交易更貼近整股市場。未來盤中零股將與整股同步於上午 9 點開始交易，撮合頻率也縮短為每秒一次，雖然仍採集合競價機制，但成交效率與流動性都可望大幅提升。這代表零股交易未來不再只是小額投資人的專屬工具，而是逐漸成為市場交易的重要組成，也讓長期定期定額、分批布局高價股及 ETF 的投資方式更加便利。\n\n千元股改採 1 元跳動，改善的不只是價格\n\n另一項備受關注的新制，是千元以上股票的最小升降單位由 5 元縮小至 1 元。以股價 2,000 元的股票為例，目前委託價格只能落在 1,995 元、2,000 元及 2,005 元，中間缺乏更細緻的價格區間，容易造成買賣雙方價差偏大，也降低成交效率。\n\n未來改為 1 元跳動後，投資人可以掛出 1,999 元、2,000 元、2,001 元等價格，市場價格將能更精確反映供需變化，有助縮小買賣價差，提高價格發現效率，也讓投資人更容易以接近理想價格完成交易。對一般投資人而言，單筆交易或許感受有限，但對機構法人、大額資金及高頻交易者而言，累積下來的交易成本降低，將有助提升整體市場流動性。\n\n新制上路後，市場將有哪些改變？\n\n任何制度改革都不會只有優點，也伴隨市場參與者需要適應的新變化。首先，零股交易效率提升後，可望吸引更多小額投資人參與，高價股及 ETF 零股成交量預期將持續增加，市場交易活絡度也有望提升。其次，高價股改採 1 元跳動後，價格將更能反映即時供需，長期投資人的交易成本有機會降低，法人在調整大額部位時，也能減少因價差造成的交易摩擦，進一步提升市場流動性。\n\n不過，交易制度升級也代表市場資料更新更快、成交筆數更多。對券商、資訊商及交易系統而言，如何確保系統在大量成交時仍能穩定運作，避免延遲或壅塞，將是改革初期的重要考驗。因此，新制正式上路前，完整的壓力測試與系統驗證，將是制度成功推行的重要關鍵。\n\n另一方面，交易便利性提高，也可能讓部分投資人增加短線操作頻率。然而，交易制度改善的是市場效率，而不是企業價值。若將制度改革誤認為短期行情的催化劑，反而容易因過度交易而增加投資成本。對一般投資人而言，真正影響長期報酬的，依然是企業獲利能力、產業發展趨勢，以及是否建立符合自身需求的資產配置，而不是交易速度快了幾秒鐘。\n\n制度升級，真正提升的是台股競爭力\n\n放眼全球成熟市場，交易制度的持續優化幾乎都是共同趨勢。制度改革未必會立即反映在股價表現，卻能逐步降低交易成本、提升價格發現效率、改善市",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "14:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電尾盤被偷襲！ 台股收跌379點 量縮又不到1兆",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E8%A2%AB%E5%81%B7%E8%A5%B2-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C379%E9%BB%9E-%E9%87%8F%E7%B8%AE%E5%8F%88%E4%B8%8D%E5%88%B01%E5%85%86-061200238.html",
+      "Content": "台股今（9）日劇烈震盪，早盤開高一度來到46064點，上漲逾200點，後續下跌來到低點45352點，盤中力拚翻紅但尾盤瞬殺逾200點，終場來到45354點，下跌379點，跌幅0.83%，成交量量縮來到9400億。\n\n權值股部分，台積電尾盤遭大砍6261張，股價從2435元滑落至收盤價2415元，跌50元，跌幅2.03%，影響大盤指數同步下挫；聯發科同樣開高走低，終場收3925元，下跌70元，跌幅1.75%；日月光則開高震盪，終場收677元，大漲8.32%。\n\n觀察今日盤面，記憶體族群重返榮耀，在連3日重挫後迎來了反彈，南亞科跳空開高後漲停亮燈來到435.5元，華邦電股價早盤跳空開高後，一度大漲8.61%，後續漲勢收斂，終場收176元，漲幅4.75%，旺宏、群聯也有逾3%的漲幅。\n\n被動元件族群也有不錯的表現，雷科、鈺邦、金山電漲停，興勤、力隆電、大漲逾7%，國巨*、臺慶科也有逾1%的漲幅。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11, 2454.TW, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "14:06:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "權值股賣壓拖累，加權指數開高走低收跌379點，櫃買題材股抗跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%AC%8A%E5%80%BC%E8%82%A1%E8%B3%A3%E5%A3%93%E6%8B%96%E7%B4%AF-%E5%8A%A0%E6%AC%8A%E6%8C%87%E6%95%B8%E9%96%8B%E9%AB%98%E8%B5%B0%E4%BD%8E%E6%94%B6%E8%B7%8C379%E9%BB%9E-%E6%AB%83%E8%B2%B7%E9%A1%8C%E6%9D%90%E8%82%A1%E6%8A%97%E8%B7%8C-060646776.html",
+      "Content": "【財訊快報／黃冠豪】亞洲股市週四走勢分歧。日經指數在AI、半導體設備與科技股反彈帶動下，盤中上漲逾1.4%，顯示日股在前一日修正後仍有買盤回補。不過韓股表現相對震盪，KOSPI在早盤一度反彈後漲幅收斂，台股收盤前後約在7,190點附近，下跌約1%。三星電子一度下跌2%，SK海力士則受赴美掛牌籌資題材與AI記憶體買盤支撐，一度上漲2.75%，韓股呈現「海力士強、三星弱」的分化格局。台股今日則呈現開高走低。早盤在美股費半反彈、輝達大漲激勵下，加權指數一度衝上46,064點，但隨著台積電(2330)、聯發科(2454)等權值股賣壓加重，指數翻黑走低，盤中最低來到45,352點附近。終場加權指數收在45,354.61點，下跌379.80點，跌幅0.83%，成交量9443.41億元，顯示大盤仍受到權值股修正與外資觀望影響。上櫃指數則相對抗跌，約在420點附近震盪，雖然中小型題材股波動加劇，但資金仍集中在被動元件、面板級封裝、記憶體與材料相關個股。\n\n權值股方面，台積電受除息與短線調節壓力影響，收在2,415元，下跌50元，跌幅2.03%，成為拖累大盤的主要壓力來源。聯電(2303)收在156元，下跌7元，跌幅4.29%，主要受到除息後賣壓與成熟製程族群短線降溫影響。台達電(2308)收在1,880元，下跌5元，跌幅0.27%，雖然AI電源、散熱題材仍在，但高價股追價力道轉弱。聯發科收在3,925元，下跌70元，跌幅1.75%，股價失守4,000元關卡，顯示高價IC設計股仍面臨籌碼整理壓力。\n\n熱門族群方面，被動元件仍是盤面資金聚焦重點，國巨*(2327)、華新科(2492)、信昌電(6173)、禾伸堂(3026)等受惠AI伺服器、車用電子與高壓MLCC需求題材，族群雖有震盪，但仍維持人氣。矽光子族群則以聯亞(3081)、上詮(3363)、光聖(6442)、華星光(4979)為觀察焦點，CPO與AI資料中心高速傳輸題材仍吸引資金輪動。\n\n面板級封裝族群今日表現相對強勢，群創(3481)、友達(2409)、台玻(1802)、富喬(1815)受惠FOPLP、玻璃基板、TGV與CoPoS題材，成為盤面人氣亮點。矽晶圓族群如環球晶(6488)、中美晶(5483)、合晶(6182)表現相對抗跌，市場仍期待半導體材料需求回溫。成熟製程族群則以聯電、世界(5347)、力積電(6770)為核心，但受到聯電轉弱影響，族群短線波動放大。\n\n整體來看，今日台股屬於「權值股壓盤、題材股輪動」格局。短線觀察重點在台積電能否守住2,400元至2,420元區間，以及加權指數能否站回45,500點至45,800點。若台積電、聯發科跌幅收斂，櫃買與中小型題材股仍有機會延續輪動；但若權值股賣壓擴大，指數恐回測45,000點關卡。操作上，被動元件、矽光子、面板級封裝與記憶體仍可觀察強弱，但不宜追高，等待量縮拉回後再低接。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "5347.TWO",
       "Date": "2026-07-09",
       "Time": "14:02:44",
@@ -30,6 +170,36 @@
       "Title": "【公告】世界 2026年6月合併營收59.77億元 年增33.57%",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%96%E7%95%8C-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B659-77%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E33-060244356.html",
       "Content": "日期： 2026 年 07 月 09日\n\n上櫃公司：世界 (5347)\n\n單位：仟元\n\n【公告】世界 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n5,976,507\n\n去年同期\n\n4,474,372\n\n增減金額\n\n1,502,135\n\n增減百分比\n\n33.57\n\n本年累計\n\n26,776,474\n\n去年累計\n\n23,648,652\n\n3,127,822\n\n13.23",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "13:58:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "7月台股期指漲115點",
+      "URL": "https://tw.news.yahoo.com/7%E6%9C%88%E5%8F%B0%E8%82%A1%E6%9C%9F%E6%8C%87%E6%BC%B2115%E9%BB%9E-055847308.html",
+      "Content": "（中央社台北9日電）台北股市今天終場跌379.80點，收45354.61點。7月台指期以45678點作收，上漲115點，與現貨相較，正價差323.39點。\n\n台灣期貨交易所為近2個月指數期貨契約訂定開盤參考價為，7月期貨45563點、8月期貨45846點。\n\n台股今天終場跌379.80點，收45354.61點，成交金額新台幣9443.41億元。\n\n7月台指期貨以45678點作收，漲115點，成交6萬7292口；8月期貨以45987點作收，漲141點，成交1698口。實際收盤價格以期交所公告為準。1150709",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "13:53:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "盤中震盪翻黑！台積電尾盤賣壓出籠　台股終場下跌379點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD%E9%9C%87%E7%9B%AA%E7%BF%BB%E9%BB%91-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E8%B3%A3%E5%A3%93%E5%87%BA%E7%B1%A0-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E4%B8%8B%E8%B7%8C379%E9%BB%9E-055326786.html",
+      "Content": "即時中心／綜合報導\n\n美國總統川普表示與伊朗的臨時停火協議已結束，更警告美軍將再次對伊朗發動空襲，市場避險情緒升溫，美股週三（8日）漲跌互見。台股今（9）日以45,805.62點開出、小漲71.21點，隨後指數持續震盪；然而尾盤台積電下殺，大盤受到拖累，終場指數收在45,354.61點、下跌379.80點，跌幅0.83％，成交量9,443.41億元。台積電（2330）終場下跌50元、收在2,415元。\n\n電子權值股方面，鴻海（2317）收在237.5元平盤；聯發科（2454）收3,925元，下跌70元；廣達（2382）收373.5元，跌3.5元；台達電（2308）以1,880元作收，跌5元；日月光投控（3711）漲52元，收677元；聯電（2303）下跌7元，收156元；大立光（3008）收在3,950元平盤。\n\n金融方面，富邦金（2881）收在124.5元，跌1.5元；國泰金（2882）下滑1.7元，收在96.3元；中信金（2891）以69.9元作收，下跌1.4元；兆豐金（2886）收在46.7元，跌0.1元；華南金（2880）跌0.85元，收38.85元；第一金（2892）收33.6元，跌0.5元；合庫金（5880）小漲0.05元，以25.15元作收。\n\n今日成交量前10名個股依序為友達、群創、華邦電、中石化、力積電、英業達、南亞、台新新光金、南亞科、新纖。此外，漲幅前五名為和大、力銘、柏承、鈺邦、台虹；至於跌幅前五名則為康普、嘉基、新纖、越南控-DR、中石化。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／盤中震盪翻黑！台積電尾盤賣壓出籠 台股終場下跌379點",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "13:50:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電尾盤下殺50元收最低2415 台股觸4萬6後收跌379點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E4%B8%8B%E6%AE%BA50%E5%85%83%E6%94%B6%E6%9C%80%E4%BD%8E2415-%E5%8F%B0%E8%82%A1%E8%A7%B84%E8%90%AC6%E5%BE%8C%E6%94%B6%E8%B7%8C379%E9%BB%9E-055027648.html",
+      "Content": "台股今（9）日走高後翻黑，一度重返4萬6千點達46064.06點，隨後賣壓出籠壓回，最低跌落至45352.41點，呈現震盪格局，收盤下跌379.8點到45354.61點，跌幅0.83%，成交量9443.41億。\n\n權王 台積電 （2330）熄火，開盤後就一路下探，尾盤重摔50元到單日最低2415元。聯發科（2454）高檔震盪後走低，跌70元收3925元，台達電（2308）則在早盤衝到1935元後疲軟，小跌5元收1880元。\n\n記憶體與被動元件等族群回神撐盤，南亞科（2408）鎖在漲停435.5元，華邦電（2344）也大漲半根收176.5元，禾伸堂（3026）續強盤中一度亮燈，收在1005元達標千金股，國巨*（2327）最高觸948元，終場漲勢收斂回到900元；載板三雄全數收紅，南電（8046）亮燈收1215元，欣興（3037）、景碩（3189）也分別漲1.39%、5.3%。\n\n責任編輯／洪季謙",
       "Language": "zh"
     },
     {
@@ -43,6 +213,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-09",
+      "Time": "13:49:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電尾盤下壓收最低　台股跌379點收45354點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E4%B8%8B%E5%A3%93%E6%94%B6%E6%9C%80%E4%BD%8E-%E5%8F%B0%E8%82%A1%E8%B7%8C379%E9%BB%9E%E6%94%B645354%E9%BB%9E-054929631.html",
+      "Content": "（中央社記者曾仁凱台北2026年7月9日電）台股今天呈現平盤上下約300點區間震盪整理，盤中一度站回46000點關卡之上；尾盤台積電 (2330) 股價下壓收在全日最低點2415元，下跌50元，集中市場指數終場下跌379.8點，收在45354.61點，成交值量縮至新台幣9443.41億元。\n\n4大權值股方面，台積電終場下跌50元或2.03%，收在2415元；聯發科 (2454) 跌70元或1.75%，收3925元；台達電 (2308) 小跌5元或0.27%，收在1880元；鴻海 (2317) 收在平盤價237.5元。（編輯：張良知）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "13:47:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股跌379.80點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C379-80%E9%BB%9E-054734890.html",
+      "Content": "（中央社台北9日電）台北股市今天震盪收跌379.80點，為45354.61點，跌幅0.83%，成交金額新台幣9443.41億元。\n\n加權指數開盤為45805.62點，盤中最高46064.06點，最低45352.41點；不含金融股指數40733.51點，跌325.93點。\n\n八大類股漲跌幅：泥窯股跌1.24%、食品股跌0.19%、塑化股跌2.31%、紡織股跌1.90%、機電股跌0.77%、造紙股跌0.77%、營建股漲0.03%、金融股跌1.26%。\n\n委買張數2008萬2368張，委賣張數1390萬6811張，成交張數1033萬6477張。\n\n收盤時上漲431家，下跌584家，持平90家。\n\n成交量前5名個股為友達、群創、群益臺灣加權正2、元大台灣50正2、主動統一升級50。\n\n漲幅前5名個股為力銘、台虹、柏承、鈺邦、和大。\n\n跌幅前5名個股為康普、嘉基、新纖、越南控-DR、中石化。1150709",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "13:47:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台北股市】跌379.80點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C379-80%E9%BB%9E-054727886.html",
+      "Content": "（中央社台北2026年7月9日電）台北股市今天震盪收跌 379.80點，為45354.61點，跌幅0.83%，成交金額新台幣9443.41億元。\n\n加權指數開盤為45805.62點，盤中最高46064.06點，最低45352.41點；不含金融股指數40733.51點，跌325.93點。\n\n八大類股漲跌幅：泥窯股跌1.24%、食品股跌0.19%、塑化股跌2.31%、紡織股跌1.90%、機電股跌0.77%、造紙股跌0.77%、營建股漲0.03%、金融股跌1.26%。\n\n委買張數2008萬2368張，委賣張數1390萬6811張，成交張數1033萬6477張。\n\n收盤時上漲431家，下跌584家，持平90家。\n\n成交量前5名個股為友達、群創、群益臺灣加權正2、元大台灣50正2、主動統一升級50。\n\n漲幅前5名個股為力銘、台虹、柏承、鈺邦、和大。\n\n跌幅前5名個股為康普、嘉基、新纖、越南控-DR、中石化。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, MU",
       "Date": "2026-07-09",
       "Time": "13:35:00",
@@ -51,6 +251,26 @@
       "URL": "https://finance.yahoo.com/m/3add4ca4-4c3e-3dc2-90cb-841beb99e999/micron-raised-its-guidance-on.html",
       "Content": "Micron Technology (NASDAQ: MU) put up more staggering results in its fiscal 2026 third quarter, fueled by the surging demand for its artificial intelligence memory chips.\n\nIn the period, which ended May 28, Micron generated $41.5 billion in revenue, a 74% increase from the previous quarter and a 346% year-over-year increase. Earnings were equally staggering, with net income up 105% from the previous quarter and up 205% year over year to $28.2 billion. These results shattered analysts' consensus estimates.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe chipmaker also issued guidance for its fiscal Q4 that blew analysts' estimates out of the water. The company expects $50 billion in revenue, up 20% from fiscal Q3, and earnings of $30.73 per share, up 25% from the last quarter. Analysts were expecting $42.5 billion in revenue for the current fiscal quarter.\n\nThe driver of all this growth, of course, is the tech sector's insatiable demand for Micron's high bandwidth memory, or HBM chips, which are used in data center servers to store the massive amounts of information required for AI workloads.\n\nMicron has not only sold out all of the HBM chips it will be able to manufacture for the rest of 2026, but has also presold its complete production capacity through 2027. And on the fiscal Q3 earnings call, CEO Sanjay Mehrotra said he expects \"tight conditions to persist beyond calendar 2027 as a result of AI-driven demand across all segments coupled with structural supply constraints.\"\n\nPricing power\n\nThe combination of wild demand and constrained supply across the memory sector has provided Micron with significant pricing power. Across its cloud memory, data center, and mobile businesses, it has been able to raise prices significantly.\n\nIn cloud memory, revenue was up 78% sequentially, and gross margins jumped by 9 percentage points to 83%. Data center revenue rose 103% sequentially, driven by higher pricing and a favorable product mix. Gross margins soared by 12 percentage points to 87%. And in mobile, revenue climbed 49% from the previous quarter, with gross margins rising 9 percentage points to 87%.\n\nFurther, Micron inked what it is calling strategic customer agreements (SCAs) with 16 of its customers. These SCAs will transform its business model, creating contracts with three- and five-year terms, and pricing bands for each client. They are designed to improve cash flow and margins, and increase the company's financial stability.\n\nStory Continues\n\nBy the end of the term of those agreements, management believes that at least half of the company's revenue will be locked in under these SCAs.\n\nMicron stock is already up 229% this year, and there are no signs of its business slowing down. The company is benefiting from a large backlog, massive demand for its products, pricing power, and a memory supercycle that is expected to run through at least 2028.\n\nEven after the stock's huge gains, Micron is still a value, thanks to its incredible earnings power. It is trading at just 21 times earnings, 6 times 1-year forward earnings, and it has a minuscule five-year PEG ratio of 0.14. For all these reasons, Micron Technology remains a no-brainer buy right now.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "13:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股收跌193.55點　收45540.86點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C193-55%E9%BB%9E-%E6%94%B645540-86%E9%BB%9E-053300987.html",
+      "Content": "台股今日震盪走低，加權指數終場收在45540.86點，下跌193.55點，跌幅0.42%。今日盤面未見明顯強勢族群，多數類股呈現修正；權值電子股普遍承壓，金融股亦同步走弱，整體市場氛圍偏向觀望。\n\n盤面權值股表現漲跌互見，電子權值股多數走弱。台積電收2415.00元，下跌50.00元；鴻海收237.50元，持平0.00元；聯發科收3925.00元，下跌70.00元；台達電收1880.00元，下跌5.00元；廣達收373.50元，下跌3.50元；中華電收133.50元，下跌1.00元；富邦金收124.50元，下跌1.50元；中信金收69.90元，下跌1.40元。其中，日月光投控表現相對強勢，收677.00元，上漲52.00元；聯電收156.00元，下跌7.00元。\n\n族群表現方面，綠能環保類、資訊服務類及光電類相對走強，吸引市場資金進駐；生技醫療類、塑膠類及化學生技醫療類則相對疲弱，表現落後大盤。\n\n（本篇文章由 AI 協助撰寫，經人工編輯核實審查。資訊來源：證交所。）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "12:50:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "延長台股交易引爭議　又一工商大老發話示警誘發全民辭職炒股",
+      "URL": "https://tw.news.yahoo.com/%E5%BB%B6%E9%95%B7%E5%8F%B0%E8%82%A1%E4%BA%A4%E6%98%93%E5%BC%95%E7%88%AD%E8%AD%B0-%E5%8F%88-%E5%B7%A5%E5%95%86%E5%A4%A7%E8%80%81%E7%99%BC%E8%A9%B1%E7%A4%BA%E8%AD%A6%E8%AA%98%E7%99%BC%E5%85%A8%E6%B0%91%E8%BE%AD%E8%81%B7%E7%82%92%E8%82%A1-045000891.html",
+      "Content": "【記者許麗珍／台北報導】證交所董事長林修銘表示正研議台股交易時間「一盤到底」延長至下午三點半。中華民國全國商業總會理事長 許舒博 直言，此舉恐誘發職場「辭職炒股」亂象，他呼籲政府應重視產業界聲音，未取得社會共識之前，不宜僅為了增加證交稅收而倉促宣布變革，強調應全面性審慎評估。\n\n台股交易時間「一盤到底」延長至下午三點半措施，許舒博表示此類涉及市場結構的重大決策，不應僅由政府單方面考量稅收效益，更需衡量對社會人力資源的結構性衝擊；在產業界溝通不足與社會共識未達標前，他認為倉促宣布變革並非良策。\n\n外界不少聲音認為台股延長交易可增加市場流動性與稅收，但許舒博直言，政府的財政考量「我講白的，多兩個小時確實能多收很多稅；以現今稅收結構來看，證交稅無疑是重要的來源。」但他擔憂若政策制定的核心僅聚焦於財政增收，忽略了市場長期結構穩健性，恐難以說服產業與大眾。\n\n許舒博另擔憂台股過熱對勞動力市場造成負面排擠效應。他表示近期股市熱度已導致部分勞動力脫離職場，觀察到「現在股市已趨偏熱，甚至出現人力辭職後，專職投入股市的現象」。他表示這對社會大眾恐造成不好的負面印象。他擔憂若延長交易時間進一步加深大眾對短期投機的投入，恐不利於人才穩定留存於正規產業，難稱之為良性的市場發展。\n\n許舒博表示，任何影響深遠的市場規章改革，須建立在充分意見交流之上，他認為議題本身並非不可討論，但重點在於目前尚未取得產業共識，缺乏與業界的深入溝通。」他表示在缺乏產業意見支持的前提下，「若在瞬間即宣布此項條款，對整體市場而言，不見得是件好事。」\n\n【看原文連結】",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -63,6 +283,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-09",
+      "Time": "12:44:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "被動元件、記憶體別急著上車？台股震盪多空交戰　專家點名8檔：恐成主力首波血洗名單",
+      "URL": "https://tw.news.yahoo.com/%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6-%E8%A8%98%E6%86%B6%E9%AB%94%E5%88%A5%E6%80%A5%E8%91%97%E4%B8%8A%E8%BB%8A-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E5%A4%9A%E7%A9%BA%E4%BA%A4%E6%88%B0-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%90%8D8%E6%AA%94-%E6%81%90%E6%88%90%E4%B8%BB%E5%8A%9B%E9%A6%96%E6%B3%A2%E8%A1%80%E6%B4%97%E5%90%8D%E5%96%AE-044423862.html",
+      "Content": "台股7日重挫逾千點，引發市場強烈擔憂AI行情是否面臨反轉。對此，投顧專家 江國中 指出，這波大跌並非AI產業基本面出現問題，而是市場過熱的籌碼面修正。現階段投資人應提高警覺的，是短線漲幅過大、散戶盲目追價且籌碼凌亂的個股，這8檔恐怕要先避開。\n\n亞股遭利空連累 黃仁勳發聲：AI基本面未變\n\n摩爾投顧分析師江國中表示，近期南韓半導體股遭遇獲利了結賣壓，導致當地股市一度觸發熔斷機制，三星電子與SK海力士股價同步重挫，進而拖累亞洲科技股全面回檔。加上市場擔憂AI基礎建設投資過熱與資金去槓桿化，引發全球AI概念股集體修正。\n\n不過，江國中提到，輝達執行長黃仁勳日前仍明確表示， AI需求持續強勁，HBM（高頻寬記憶體）依舊供不應求 。這顯示AI產業的基本面並未改變，此輪修正主要是反映市場情緒降溫，而非AI需求消失。\n\n融資暴減204億引發「多殺多」 專家：切勿急著攤平\n\n值得注意的是，台股7日融資暴減204億元，創下史上第三大融資減肥紀錄。江國中分析，近一波大盤上漲期間，融資增幅明顯超過指數漲幅約32%，顯示散戶利用融資追價的比重過高。\n\n當外部市場出現利空（如南韓股市重挫、美國科技股回檔）時，大盤一旦跌破關鍵支撐，就極易引發融資追繳與停損賣壓，進一步形成「多殺多」效應。因此，這波修正與其說是AI泡沫，不如說是一場籌碼清洗。\n\n江國中也特別提醒投資人：\n\n不宜急著攤平： 若大盤跌破重要支撐區，代表短線型態已遭破壞。\n\n調整投資組合： 此時應優先適度降低持股、提高現金水位。\n\n融資改為現股： 持有融資部位者可考慮改為現股持有，以降低操作風險。\n\n操作策略：避開高乖離被動元件 靜待記憶體拉回\n\n在後續的操作策略上，江國中指出並非所有AI概念股都不能碰，應採取汰弱留強的策略，需要提高警覺，暫時避開的族群：",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-09",
       "Time": "12:20:00",
@@ -71,6 +301,26 @@
       "URL": "https://finance.yahoo.com/m/56ba8b79-6258-305e-8fea-5028ff82d3bf/vymi-vs.-vigi%3A-which.html",
       "Content": "Is America still the best place in the world for Americans to invest? Recent research from Vanguard suggests that international stocks might offer stronger opportunities in the next few years.\n\nThe company's 2026 economic and market outlook said that \"ex-U.S. equities\" -- international stocks not including the U.S. -- are expected to deliver 4.9% to 6.9% average annual returns for the next 10 years, while U.S. stocks are expected to deliver only 4% to 5% returns. Another Vanguard report in June predicted that some of the best long-term gains from the artificial intelligence (AI) boom might go not to AI stocks, but to \"developed markets outside the U.S.\" as global companies use AI to improve their operations.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAlthough Vanguard's research doesn't recommend any specific stocks or exchange-traded funds (ETFs), if you agree with this forecast, buying international dividend stocks could be a good strategy. That's because international stocks that pay high dividend yields tend to come from developed markets such as Japan, Canada, and Western Europe.\n\nThe Vanguard International High Dividend Yield ETF (NASDAQ: VYMI) and the Vanguard International Dividend Appreciation ETF (NASDAQ: VIGI) are two Vanguard ETFs that offer exposure to international dividend stocks. Both hold portfolios that include the types of stocks that Vanguard research says might outperform in the next few years.\n\nBut in the past 10 years, the Vanguard International High Dividend Yield ETF has delivered a total return of 188.1%, strongly outperforming the other fund:\n\nVYMI Total Return Price data by YCharts\n\nLet's look at these two Vanguard international ETFs and see which could be a better choice for your investment dollars.\n\nVanguard International High Dividend Yield ETF (VYMI): 1,578 stocks, 10 years of 11.2% annualized returns\n\nThe Vanguard International High Dividend Yield ETF has had a strong recent run of performance. At recent prices, it has delivered a total return of 24% in the past year, which has outperformed the S&P 500 index.\n\nOver a longer-term time horizon, the fund's past performance is less strong, but still solid. This international ETF has delivered annualized total returns (by net asset value) of 22% for the past three years, 12.9% for the past five years, and 11.2% for the past 10 years. It charges a low expense ratio of 0.07%.\n\nStory Continues\n\nCould this fund be a good choice for the future? It holds a diversified portfolio of 1,578 global stocks. If you want developed market stocks, this fund can provide that exposure. Its portfolio consists of 43.7% European stocks, 23.8% Pacific region stocks, and only 22.8% emerging markets .\n\nThis ETF's top five countries included in the portfolio are Japan (11.5% of the fund), the United Kingdom (11%), Canada (8.9%), Switzerland (7.5%), and Australia (7.3%). The fund's top 10 stock holdings include international banks such as HSBC Holdings (NYSE: HSBC), pharmaceutical giants such as Roche Holding (OTC: RHHBY), energy major Shell (NYSE: SHEL), and Australian mining company BHP Group (NYSE: BHP).\n\nIf you're concerned that U.S. tech stocks have gotten overheated, this fund can put your money to work in different parts of the global economy. Companies like these tend to be well-established and financially strong, which enables them to return lots of cash to shareholders. This dividend ETF has delivered a trailing-12-month dividend yield of 3.68%, which is higher than many of the best dividend index funds. And this fund has a price-to-earnings (P/E) ratio of 14.02, which makes it look much cheaper than the S&P 500 index earnings multiple of 25.37.\n\nVanguard International Dividend Appreciation ETF (VIGI): 343 stocks, 10 years of 7.98% annualized returns\n\nAnother way to invest in international dividend stocks is to use the Vanguard International Dividend Appreciation ETF. This fund uses a different approach. Instead of more than 1,500 stocks, its portfolio holds only 343 stocks. This fund is even more focused on developed markets, with only 5.1% of its assets invested in emerging-market stocks. It charges the same low 0.07% expense ratio as the other Vanguard fund.\n\nThe Vanguard International Dividend Appreciation ETF has some of the same names as VYMI in its top 10 stock holdings. It owns international banks such as Royal Bank of Canada (NYSE: RY) and Mitsubishi UFJ Financial Group (NYSE: MUFG), pharma stocks such as Roche Holding and Novartis (NYSE: NVS), and German tech and industrial companies SAP (NYSE: SAP) and Schneider Electric (OTC: SBGSY).\n\nHowever, this fund has not performed as well as the other Vanguard international ETF. The Vanguard International Dividend Appreciation ETF has delivered average annual returns of 8% in the past year, 10.8% in the past three years, 4.6% in the past five years, and 7.98% in the past 10 years. It has underperformed the S&P 500 in all those time frames.\n\nThis dividend ETF is also lagging the other fund's dividend yield, with a trailing-12-month yield of 2.13%. And the Vanguard International Dividend Appreciation ETF has a more expensive P/E ratio at 19.33.\n\nOne possible risk of this fund is that its portfolio is less diversified than the other Vanguard ETF. The Vanguard International Dividend Appreciation ETF has almost 80% of its portfolio invested in its top five markets:\n\nJapan: 30.9% of the fund\n\nCanada: 23%\n\nSwitzerland: 14.4%\n\nGermany: 5.5%\n\nUnited Kingdom: 5.6%\n\nThat's a rather highly concentrated bet on just a few countries. If any of those countries experiences an economic downturn or a weakening of its currency against the U.S. dollar, that could be bad news for American investors in this fund.\n\nWhy buy VYMI vs. VIGI\n\nRecent Vanguard research says developed markets outside the U.S. could outperform in the next few years; both funds fit that strategy. And in case you're concerned about high valuations of tech companies, these international dividend stock ETFs tend to hold value stocks, not growth stocks. The companies represented in these funds are involved in different parts of the global economy that are less directly involved with the AI boom.\n\nBut the Vanguard International High Dividend Yield ETF is more diversified, its P/E ratio is lower, and it has a track record of paying a higher dividend yield in the past 12 months. I believe this fund is a better choice for most long-term investors who want exposure to high-yield dividend stocks outside the U.S. market.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "12:18:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "284萬名股東領錢了！台積電今發1566億股息 「他」進帳近百億",
+      "URL": "https://tw.stock.yahoo.com/news/284%E8%90%AC%E5%90%8D%E8%82%A1%E6%9D%B1%E9%A0%98%E9%8C%A2%E4%BA%86-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%BB%8A%E7%99%BC1566%E5%84%84%E8%82%A1%E6%81%AF-%E4%BB%96-%E9%80%B2%E5%B8%B3%E8%BF%91%E7%99%BE%E5%84%84-041800752.html",
+      "Content": "被譽為「護國神山」的台積電（2330）今（9）日發放去年第4季每股6元的現金股利，超過284萬名股東歡喜入帳；其中，最大股東國發基金因持有約165.37萬張台積電股票，換算下來將進帳高達99.22億元股息，成為本次配息最大贏家。\n\n隨著AI產業熱潮帶動業績成長，台積電近年獲利表現持續創新高，台積電日前決定自2025年第3季起將現金股利提升至每股6元，2026年第1季再加碼至7元，創下自2019年季配息制度實施以來的新高紀錄。\n\n根據台積電公布的配息日程和股權結構統計，本次配發的現金股利預計會為市場注入約1556億元的現金活水，超過284萬名股東可直接受惠，為市場帶來顯著資金動能。\n\n進一步觀察，主要股東國發基金領走99.22億元外，台積電董事長魏哲家名下持有7217張股票，預計將領取4330萬元現金股利，創辦人張忠謀與前董事長劉德音退休前分別持有12.5萬張與1.29萬張股份，以每股6元計算，兩人若至今未出售持股，將分別入袋7.5億元及7740萬元。\n\n面臨台股高檔震盪，台積電股價今日以2450元開出，盤中來到2445元，暫時呈現下跌走勢，小跌0.81%。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "11:50:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI交易反轉 韓股從高點崩20%、墜入熊市",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E4%BA%A4%E6%98%93%E5%8F%8D%E8%BD%89-%E9%9F%93%E8%82%A1%E5%BE%9E%E9%AB%98%E9%BB%9E%E5%B4%A920-%E5%A2%9C%E5%85%A5%E7%86%8A%E5%B8%82-035000811.html",
+      "Content": "MoneyDJ新聞 2026-07-09 11:50:02 黃智勤 發佈\n\n上半年火熱的AI交易出現修正，上半年飆漲的記憶體股大幅回檔，韓股KOSPI指數從高點崩跌20%，墜入熊市。\n\n綜合外媒報導，KOSPI指數繼6月創下歷史新高9,385.59後已大幅回落，8日收在7,246.79點，從高點下挫逾二成，符合「技術性熊市」定義；記憶體巨頭三星電子和SK海力士連日大跌。\n\n韓股9日早盤延續震盪，開盤上漲後轉跌，至本文截稿前徘徊在約7,100點；中東緊張局勢升級，加劇了市況的不確定性。\n\n過去一年來AI基建需求爆發，記憶體陷入空前短缺，價格隨之飆漲，帶動記憶體族群上漲數倍，然而，投資人現擔憂AI晶片產業未來是否能延續成長動能，三星電子上週雖繳出優異財報，仍未能提振投資人信心。\n\n分析師指出，市場密切關注南韓晶片業者是否能與客戶建立長期採購合約；美國記憶體巨頭美光揭露已與16家客戶簽訂長約，鎖定未來數年、規模估達1,000億美元的營收。\n\n法國巴黎銀行(BNP Paribas)亞太股票及衍生品策略主管Jason Lui表示，目前尚未看到南韓晶片業者正式說明如何執行長期合約。他指出，如果三星與SK海力士能轉向長約模式，市場可能願意給予更高本益比。\n\n也有經理人認為，AI交易尚未結束，目前的回檔只是上漲過程中的修正，先前AI半導體股漲勢過於兇猛，市場現也尋覓AI之外的投資機會。\n\n產業新聞也受到投資人矚目；日經新聞7日報導，中國兩家記憶體大廠長鑫存儲(CXMT)和長江存儲(YMTC)將擴產，預估產能2027年之後擴增至現行的二倍以上，搶攻AI需求。各界認為，此消息將遏止全球記憶體價格飆漲態勢。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n台積電：2030年半導體市場將突破1.5兆美元\n\n《DJ在線》陸記憶體廠示警高檔?台廠看供需仍偏緊\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -83,6 +333,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "11:34:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "護國神山旁的低調巨頭！ 這檔「光學轉運站」 連2日漲停創新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1%E6%97%81%E7%9A%84%E4%BD%8E%E8%AA%BF%E5%B7%A8%E9%A0%AD-%E9%80%99%E6%AA%94-%E5%85%89%E5%AD%B8%E8%BD%89%E9%81%8B%E7%AB%99-%E9%80%A32%E6%97%A5%E6%BC%B2%E5%81%9C%E5%89%B5%E6%96%B0%E9%AB%98-033400151.html",
+      "Content": "當市場聚焦AI與GPU時，這檔台積電持股逾三成的封測要角已悄然站上舞台。隨2026年矽光子商轉，精材化身為關鍵「光學轉運站」，今（9）日股價再度亮燈漲停來到356.5元，連2日的漲停攻勢，順利將股價推向了歷史新高。\n\n股權結構與台積電深度綁定\n\n口袋證券表示，精材資本額約27.14億元，截至2026年7月上旬股價在320元上下、市值約450億元左右。其最特殊的股權結構在於台積電持股比例超過三成，身為台積電生態系裡緊密綁定的合作夥伴，其訂單能見度與技術規劃很大程度都跟著台積電的先進封裝布局走。\n\n純封測定位精準反映市場冷熱\n\n精材本身並不涉入晶片設計，主要收入來源分成晶圓級尺寸封裝（WLCSP）、晶圓級後護層封裝（WLBGA）以及晶圓測試服務三大類。這種純封測的定位，讓精材的營運狀況高度反映半導體終端需求的冷熱，尤其是與影像感測、電源管理相關的應用，近年則因為AI晶片對先進封裝的需求擴大，而獲得了全新的成長題材。\n\n化身矽光子商轉光學轉運站\n\n半導體業界將2026年視為矽光子與共封裝光學（CPO）技術大規模商轉的關鍵年份。台積電規劃透過COUPE平台與SoIC-X技術，將矽光子整合進先進封裝架構中，用以解決AI資料中心長期困擾的耗電與散熱問題，市場估算此架構可降低約三成的能量損耗。在這條供應鏈中，精材被市場點名扮演「光學轉運站」的角色，由於晶片與光纖之間的對位精度必須做到次微米等級，需要仰賴精材長期累積的3D晶圓級封裝經驗，才能完成高難度的光電整合封裝。隨著NVIDIA、Broadcom等大廠對台積電先進封裝平台的依賴度提升，精材的角色也愈發受到關注。\n\n營收動能回溫財務數據亮眼\n\n口袋證券談到，精材5月合併營收為6.97億元，年增43.32%；累計今年前五個月營收達33.34億元，年增27.86%。在獲利表現上，2026年第一季每股盈餘為1.42元，年增13%，對照2025年全年每股盈餘4.99元、全年營收72.39億元，可看出精材今年以來的營運動能較去年同期明顯回溫，這家封測老將已成功站上AI供應鏈的新舞台。\n\n（封面示意圖／AI生成）\n\n【 本文 由<a href=\"https://fnc.ebc.net.tw/?utm_source=yahoonews&utm_medium=referral&utm_campaign=site_link\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:東森財經;elm:context_link;itc:0;sec:content-canvas\" data-yga=\"",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "11:22:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電可望明年發美元股利　楊金龍：有助穩定匯率",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%AF%E6%9C%9B%E6%98%8E%E5%B9%B4%E7%99%BC%E7%BE%8E%E5%85%83%E8%82%A1%E5%88%A9-%E6%A5%8A%E9%87%91%E9%BE%8D-%E6%9C%89%E5%8A%A9%E7%A9%A9%E5%AE%9A%E5%8C%AF%E7%8E%87-032235993.html",
+      "Content": "（中央社記者潘姿羽台北2026年07月9日電）金管會擬開放上市櫃公司以美元發放現金股利，最快2027年上路，台積電日前表達正面態度。央行總裁楊金龍今天表示，若大型企業改以美元發放現金股利，有助減少新台幣匯率波動。\n\n楊金龍今天赴立法院財委會就「股市、通膨、匯率與房市多重風險中，中央銀行中長期因應策略與政策工具」進行專題報告。\n\n部分立委關注，股利發放旺季到來，外資領取股利後持續匯出，導致新台幣匯率貶破32元整數大關。楊金龍說明，外資領取股利後，會視自身投資策略決定下一步，不一定馬上匯出，也可能繼續投入股市。\n\n對於市場關注外資大舉賣超台股並匯出，楊金龍表示，外資獲利達一定程度後重新配置資產，是一種正常投資操作，也就是「停利」概念。\n\n立委追問，金管會擬開放上市櫃公司以美元發放現金股利，最快2027年上路，如果台積電率先響應，是否有助於減少新台幣匯率波動。\n\n楊金龍直言，依照現行機制，公司發放新台幣股利前須先賣出美元換成新台幣，外資收到股利後若再匯出，又須買回美元，過程涉及兩次換匯，容易加大匯率波動；若直接以美元發放股利，可望降低相關換匯需求，因此對於穩定匯率應該會有幫助。\n\n至於近期新台幣走勢，楊金龍重申，央行仍依循「柳樹理論」，容許匯率適度波動，必要時適時調節，避免波動過大，「柳樹波動幅度是不大的，除非是颱風」。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, AVGO, AAPL",
       "Date": "2026-07-09",
       "Time": "11:18:33",
@@ -93,6 +363,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-07-09",
+      "Time": "10:40:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股早盤》AI/半導體嗨 日經衝1,361點；商社跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1%E6%97%A9%E7%9B%A4-ai-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%97%A8-%E6%97%A5%E7%B6%93%E8%A1%9D1-361%E9%BB%9E-024000646.html",
+      "Content": "MoneyDJ新聞 2026-07-09 10:40:22 蔡承啟 發佈\n\n美國科技股昨日(8日)走揚，帶動日本AI、半導體相關股漲勢，激勵日經225指數9日強彈，早盤收盤(台北時間上午10點30分)大漲2.04%或漲1,361.50點，暫收68,180.55點。\n\n東證股價指數(TOPIX)早盤收盤漲0.46%或漲18.45點，暫收4,024.88點。\n\n截至早盤收盤為止，東證Prime上漲家數637家、下跌家數852家、維持平盤家數63家。東證Prime成交額為4兆9,143億日圓。\n\n就類股表現來看，截至早盤收盤為止，全部33類股中、有12類股上漲，其中以電機業類股漲幅最大，其次依序為非鐵金屬、服務業和玻璃土石製品。\n\n根據MoneyDJ XQ全球贏家系統的報價顯示，截至日本股市9日早盤收盤(台北時間上午10點30分)為止，日圓相對於美元匯率升值0.04%至162.46日圓兌1美元；日圓相對於美元匯率8日貶值0.28%，連續第4個交易日走貶。\n\n就個股表現來看，NAND Flash廠鎧俠(Kioxia)早盤狂飆8.45%、晶片設備巨擘東京威力科創(TEL)早盤飆漲5.72%、測試設備商愛德萬測試(Advantest)早盤狂飆7.41%、晶圓切割機廠DISCO早盤飆漲4.92%、MLCC龍頭村田製作所(Murata)早盤飆漲4.80%、生產AI資料中心用光纖的Fujikura早盤飆漲4.87%。\n\n日本媒體Kabutan指出，愛德萬測試、TEL、鎧俠早盤漲幅分別為日經225指數帶來492.37點、387.18點、142.44點漲點，漲點貢獻度分居日經指數成分股前3大。\n\n日本商社股走軟。三菱商事(Mitsubishi)早盤下挫1.48%、三井物產(Mitsui)早盤跌1.31%、住友商事(Sumitomo)早盤跌0.03%、丸紅(Marubeni)早盤下挫1.59%\n\n(圖片來源：Shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《日股早盤》半導體挫、日經跌889點；商社逆漲\n\n《日股早盤》獲利了結、日經漲幅急縮 太陽誘電飆\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2344.TW, 2408.TW, 8299.TWO",
       "Date": "2026-07-09",
       "Time": "10:36:58",
@@ -100,6 +380,16 @@
       "Title": "SK海力士ADR爆逾7倍超額認購！記憶體族群歡呼南亞科亮燈漲停 分析師看法出爐",
       "URL": "https://tw.stock.yahoo.com/news/sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E7%88%86%E9%80%BE7%E5%80%8D%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC%EF%BC%81%E8%A8%98%E6%86%B6%E9%AB%94%E6%97%8F%E7%BE%A4%E6%AD%A1%E5%91%BC%E5%8D%97%E4%BA%9E%E7%A7%91%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-023658087.html",
       "Content": "南韓記憶體大廠SK海力士即將赴美掛牌，規模高達280億美元（約新台幣8991億元）的美國存託憑證（ADR）發行案，不僅有望改寫外國企業赴美IPO規模紀錄，更傳出已獲逾7倍超額認購。激勵台股記憶體族群今（9）日同步走強，南亞科（2408）率先亮燈漲停鎖住435.5元，華邦電（2344）盤中也勁揚逾8%。分析師表示，市場看好SK海力士ADR發行，加上韓股反彈帶動，推升記憶體族群表現，但仍難判定族群是否能一鼓作氣持續上攻。\n\n南亞科盤中一馬當先、亮燈漲停鎖死在435.5元，擺脫先前疲弱走勢。截至上午10時25分，華邦電衝上182元，大漲逾8%；群聯（8299）和廣穎（4973）也漲逾半根停板。另外，晶豪科（3006）、鈺創（5351）、南茂（8150）同步攻上漲停板。\n\n華冠投顧分析師陳韋廷表示，記憶體族群表現強勁，主要受到海力士即將赴美掛牌ADR引發市場搶購的激勵，加上韓國股市在經歷槓桿問題帶來的修正後，今出現約 3% 的反彈，帶動台灣記憶體族群順勢上攻。\n\n陳韋廷指出，南亞科為族群最強勁指標股，技術面上，雖先前受到三星和海力士修正拖累，打到350-400元中線支撐，近期回測也未跌破上周低點，顯示支撐力道穩固。華邦電雖隨之轉強，但先前曾一度跌破支撐後才拉回；群聯等個股，儘管財報表現優異，但目前線型仍相對弱勢。\n\n陳韋廷續指，族群基本面支持力道強勁，第三季漲價已成定局，且預期到 2027 至 2028 年可能都處於供不應求的狀態，但仍須關注市場資金動向，因為即使利多頻傳，股價也可能出現顯著修正。目前美光的線圖表現尚不強，因此難以判定族群是否能一鼓作氣持續上攻，不過他也說，近期回檔是不錯的進場機會。\n\nSK海力士7月10日美國掛牌 爆逾7倍超額認購\n\n南韓記憶體大廠SK海力士將於10日在美國那斯達克掛牌，透過發行美國存託憑證（ADR）募資280億美元（約新台幣8991億元），有望創下外國企業赴美IPO最大規模紀錄。募集資金將用於建設龍仁半導體聚落一期晶圓廠、清州P&T7先進封裝廠，以及採購包括極紫外光（EUV）曝光機在內的先進製造設備。\n\n根據外媒報導，SK海力士此次ADR已獲逾7倍超額認購，吸引多家國際大型機構投資人參與，顯示即使近期全球半導體股震盪，市場對AI高頻寬記憶體（HBM）龍頭的投資熱度依舊不減。公司本周正式啟動ADR發行，計畫發行1779萬股新股；若以募資規模計算，此次交易也可望成為全球歷來第二大股票發行案，僅次於SpaceX日前創下的857億美元IPO紀錄。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "10:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "鄭麗文喊台股5萬點只是表面「根都快爛掉」 謝金河不忍了",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%84%AD%E9%BA%97%E6%96%87%E5%96%8A%E5%8F%B0%E8%82%A15%E8%90%AC%E9%BB%9E%E5%8F%AA%E6%98%AF%E8%A1%A8%E9%9D%A2-%E6%A0%B9%E9%83%BD%E5%BF%AB%E7%88%9B%E6%8E%89-%E8%AC%9D%E9%87%91%E6%B2%B3%E4%B8%8D%E5%BF%8D%E4%BA%86-023300391.html",
+      "Content": "國民黨主席鄭麗文日前表示，即使台股挑戰5萬點，「也只是表面繁榮」，更直言台灣「根、心都快爛掉了」，引發各界討論。對此，財信傳媒集團董事長謝金河8日在 臉書 發文反駁，強調台灣目前正處於歷史上少見的重要發展階段，並以股市及經濟數據為例，認為台灣整體表現優於中國、香港等市場，更直言「只有心向中國的政治人物，無法忍受台灣的美好」。\n\n謝金河表示，社會對任何議題都可以有不同觀點，就如同台積電一路走來，從股價200元開始便不斷有人唱衰，甚至有人預言將步上日本東芝（Toshiba）破產後塵，也有人形容台灣是「台積電一個人的武林」，但這些都屬於不同立場的看法，值得彼此尊重。\n\n不過，對於鄭麗文提出「台灣快爛掉」的說法，謝金河認為，多數人並不認同。他指出，從經濟與股市表現來看，台灣正迎來前所未有的發展契機，人民也逐漸找回信心，不再像過去一樣感嘆自身處境。\n\n他並引用今年上半年全球股市表現指出，台股累計上漲59.25%，雖不及南韓股市大漲103.69%，但遠優於中國上海股市僅上漲3.19%，也勝過香港恆生指數下跌10.72%及印尼股市重挫34.65%的表現，認為台灣資本市場競爭力相當突出。\n\n謝金河也提到，今年印尼盾大幅貶值至1美元兌1萬8002印尼盾，當地股、匯、債同步走弱；土耳其里拉更從兌美元5.16一路重貶至46.909，形容當地匯市已瀕臨崩潰，藉此凸顯台灣經濟的相對穩健。\n\n此外，謝金河分享，近期觀看不少中國人工智慧（AI）生成短影音，內容多圍繞家庭衝突、利益糾紛等劇情，反映社會過度現實與勢利的一面。他則認為，台灣社會整體仍保有善良本質，不僅不會霸凌他人，遇到重大災難也總是踴躍捐款，像是日本311大地震及中國汶川地震，台灣都曾名列捐款最多的國家之一。\n\n最後，謝金河引用台積電創辦人張忠謀的話指出，人生與企業經營都像跑馬拉松，成功來自長期努力，而非短時間就能完成。他寫道：「成功往往是長久的努力，不是一兩年就能做到，今天成功，也不代表永遠成功！這是恆久的努力。」\n\n他強調，台灣或許「比上不足」，但「比下有餘」，呼籲社會應知福、惜福，並再次表示：「台灣人民的心是良善的，只有心向中國的政治人物無法忍受台灣的美好！」\n\n（封面圖／翻攝《鄭麗文》粉專）\n\n【<a href=\"https://fnc.ebc.net.tw/fncnews/headline/214101?utm_source=yahoonews&utm_medium=referral&utm_campaign",
       "Language": "zh"
     },
     {
@@ -113,6 +403,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-09",
+      "Time": "10:19:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "魏哲家4330萬不是最多！  台積電「最大贏家」一早抱走近百億",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AD%8F%E5%93%B2%E5%AE%B64330%E8%90%AC%E4%B8%8D%E6%98%AF%E6%9C%80%E5%A4%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E6%97%A9%E6%8A%B1%E8%B5%B0%E8%BF%91%E7%99%BE%E5%84%84-021929065.html",
+      "Content": "晶圓代工龍頭台積電今（9）日發放去年第4季現金股利，每股配發6元，總計約1556億元資金將進入股東口袋。其中，最大股東國發基金預估可領取99.22億元，董事長魏哲家也將有約4330萬元股息入帳。此外，台積電法說會即將於7月16日登場，外資圈近期也陸續調升財務預測與目標價，花旗證券更將目標價一口氣推升至3800元。\n\n以主要股東來看，台積電最大股東國發基金此次預計可領取約99.22億元股息，成為最大受益者之一。由於外資持有台積電股權比重高達7成，此次配息中，流向外資股東的現金規模也超過千億元。\n\n經營團隊方面，董事長魏哲家名下持有7217張台積電股票，本次將有約4330萬元現金股利入帳。\n\n前董事長劉德音退休前持股約1.29萬張，若退休後持股並未變動，此次預估可領取約7740萬元股息。\n\n至於創辦人張忠謀，若以退休時仍持有約12.5萬張台積電股票推估，且其後未處分持股，本次配息金額可達約7.5億元。\n\n不只大股東受惠，小股東同樣有份。根據集保結算所統計，截至6月17日配息基準日，台積電股東人數達284萬7126人，其中持股不到999股、也就是不足1張的股東人數高達231萬4613人，所有符合資格的大小股東今日都將收到現金股利。\n\n台積電自2019年改採季配息制度以來，過去27次除息都順利完成填息，其中有22次在除息當天就完成填息，最長一次也僅花費15個交易日。\n\n台積電近年也持續提高股利政策。公司去年第3季將單季現金股利由每股5元提高至6元，今年第1季再進一步提高至7元，創實施季配息以來新高。根據規畫，每股7元現金股利將於9月16日除息，10月8日發放，配息基準日為9月22日，發放總金額達1815億2659萬元，預估將有超過289萬名股東受惠。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2344.TW, 2408.TW",
       "Date": "2026-07-09",
       "Time": "10:13:00",
@@ -120,6 +420,16 @@
       "Title": "記憶體恢復記憶！ 南亞科、鈺創、晶豪科強勢攻漲停",
       "URL": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E6%81%A2%E5%BE%A9%E8%A8%98%E6%86%B6-%E5%8D%97%E4%BA%9E%E7%A7%91-%E9%88%BA%E5%89%B5-%E6%99%B6%E8%B1%AA%E7%A7%91%E5%BC%B7%E5%8B%A2%E6%94%BB%E6%BC%B2%E5%81%9C-021300094.html",
       "Content": "記憶體集體回神！受惠於AI浪潮引發記憶體缺貨潮、DRAM合約報價續揚，南亞科、鈺創、晶豪科今（9）日強攻漲停，華邦電大漲逾8%，旺宏、群聯漲逾6%，力積電、威剛也有逾3%的漲幅，一掃日前下挫的陰霾。\n\n大摩在近日發布的記憶體產業報告中表示，記憶體產業正逐漸逼近「變化速率頂峰（Peak Rate of Change）」，未來記憶體成長斜率會開始放緩，這也讓記憶體族群在8日表現疲軟。\n\n所幸今日行情迎來大反轉，記憶體模組大廠威剛（3260）公布6月營收，受惠於DRAM及NAND Flash的價格走揚，6月營收來到146.6億，連4月創新高，股價也跳空開高來到417元，上漲3.22%，帶動其他記憶體類股同步上攻，南亞科、鈺創、晶豪科衝漲停，華邦電大漲逾8%，旺宏、群聯漲逾6%。\n\n威剛董事長陳立白表示，記憶體原廠已通知第三季DRAM合約價格將再調升20%至30%，NAND Flash價格也預估上漲35%至40%，顯示市場仍處於供不應求格局，看好AI應用對記憶體的剛性需求持續成長，將持續挹注公司營運。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-09",
+      "Time": "10:12:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達今年來漲9.45%落後大漲近八成的費半，美銀直言估值折價不合理",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E4%BB%8A%E5%B9%B4%E4%BE%86%E6%BC%B29-45-%E8%90%BD%E5%BE%8C%E5%A4%A7%E6%BC%B2%E8%BF%91%E5%85%AB%E6%88%90%E7%9A%84%E8%B2%BB%E5%8D%8A-%E7%BE%8E%E9%8A%80%E7%9B%B4%E8%A8%80%E4%BC%B0%E5%80%BC%E6%8A%98%E5%83%B9%E4%B8%8D%E5%90%88%E7%90%86-021205804.html",
+      "Content": "【財訊快報／陳孟朔】美銀證券(BofA Securities)發表最新研究報告指出，AI晶片龍頭輝達(Nvidia，美股代碼NVDA)今年來股價上漲9.45%，明顯落後同期費城半導體指數77.53%的漲幅，估值出現「不合理折價」。美銀認為，市場過度反映高頻寬記憶體(HBM)成本上升、客製化晶片(ASIC)競爭、機構持倉擁擠與資本配置壓力，卻低估輝達在AI加速器、數據中心系統與軟硬體生態的定價權，因而重申「買入」評級，目標價350美元。美銀指出，輝達目前遠期本益比已降至近七年低位，2027財年預估本益比約21.5倍，2028財年更降至約14.7倍，明顯低於蘋果、微軟、Google、亞馬遜與Meta等大型科技同業平均水準。該行認為，這種折價等同市場已預先反映輝達2027年至2028年每股盈餘(EPS)可能下修30%至35%，但此一假設缺乏基本面支持；從PEG來看，輝達2027年PEG僅約0.3倍，也低於多數大型科技同業。\n\n針對HBM成本壓力，美銀認為市場高估毛利率受衝擊程度，也低估輝達轉嫁成本能力。研報估算，從Blackwell架構升級至Vera Rubin架構，每機架HBM成本增量約20萬至30萬美元，但整機架售價可望提高200萬至300萬美元，價格提升不只來自記憶體，也包括Vera CPU、NVLink、Quantum乙太網路與推理軟體能力升級。美銀並指出，輝達在記憶體、晶圓、封裝與電力等供應鏈已承諾逾1190億美元採購，有助維持供應鏈護城河，預期毛利率可維持在70%中段水準。\n\nASIC競爭方面，美銀認為客製化晶片雖會分食部分AI算力資本支出，但難以取代輝達通用GPU平台與CUDA生態。該行估計，到2030年全球AI數據中心系統市場規模可由2025年的2730億美元擴大至約1.7兆美元，AI加速器市場可由1970億美元增至約1.1兆美元；在此趨勢下，輝達仍可維持AI算力資本支出65%至70%以上市占率。分析人士指出，輝達短線仍受持倉集中與生態投資規模偏大壓抑，但若AI支出週期延續、Vera Rubin定價與毛利率展望獲財報驗證，估值折價是否收斂將成為市場下一個觀察焦點。",
       "Language": "zh"
     },
     {
@@ -133,7 +443,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "2408.TW",
+      "Ticker": ".SSEC",
+      "Date": "2026-07-09",
+      "Time": "09:52:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國信證券稱北向資金Q2流入A股2193億元人民幣，創紀錄新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E4%BF%A1%E8%AD%89%E5%88%B8%E7%A8%B1%E5%8C%97%E5%90%91%E8%B3%87%E9%87%91q2%E6%B5%81%E5%85%A5a%E8%82%A12193%E5%84%84%E5%85%83%E4%BA%BA%E6%B0%91%E5%B9%A3-%E5%89%B5%E7%B4%80%E9%8C%84%E6%96%B0%E9%AB%98-015224457.html",
+      "Content": "【財訊快報／劉敏夫】外電報導指出，國信證券方面表示，今年第二季北向資金整體流入A股2,193億元人民幣，創下陸股通開通以來季度新高。北向資金增配出海鏈、算力晶片較多，減配消費、紅利較多。吳信坤等國信證券分析師在報告中指出，第二季陸股通占A股自由流通市值比重自第一季的5.1%提升至5.5%。\n\n第二季外資流入寧德時代、中微公司、寒武紀等較多，流出三環集團、貴州茅台、天孚通信等較多。\n\n此外，第二季外資轉為流入港股約494億港幣，是2024年以來首次季度性流入。\n\n外資持股金額約為16兆港幣，占港股整體的比重約為55%，較第一季的56%延續下滑。\n\n港股外資主要流入科技、有色類股等，但在科技類股定價權整體回落明顯。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW, 2408.TW",
       "Date": "2026-07-09",
       "Time": "09:47:55",
       "Source": "Yahoo奇摩股市",
@@ -161,6 +481,46 @@
       "URL": "https://finance.yahoo.com/m/ed2c9bb4-5a36-3d72-a8f1-6c98bcfacb22/tesla%E2%80%99s-model-y-just-got-a.html",
       "Content": "Tesla ( TSLA ) has spent years turning the Model Y into the benchmark for electric SUVs.\n\nThat supremacy has been a big advantage for Tesla. It has scale, brand awareness, manufacturing knowledge, and a car that helped define the electric vehicle category for the mainstream market.\n\nBut Rivian Automotive ( RIVN ) just offered investors a cause to see that market differently.\n\nRivian boosted its 2026 delivery outlook after stronger-than-expected second-quarter deliveries driven by demand for its R1 vehicles, electric delivery vans, and the new R2 SUV.\n\nThe importance of the R2? It puts Rivian squarely in Tesla's most crucial domain.\n\nRivian made its name with high-end adventure vehicles. The R1T pickup and R1S SUV have given the firm a devoted fanbase but haven't put Rivian squarely in Tesla's core volume lane.\n\nThe R2 changes that picture. The less-expensive SUV places Rivian into more direct competition with the Model Y at a time when EV shoppers are very price- and range-sensitive, and when brand trust remains critical.\n\nRivian still has to prove it can scale R2 profitably. Tesla still has the bigger business and the more robust production base.\n\nBut the latest delivery update gives Rivian something it sorely needs — proof that its challenge against Tesla may be finally moving from theory to reality.\n\nRivian now expects 2026 deliveries of 65,000 to 70,000 vehicles, Reuters reported, up from the company's earlier forecast of 62,000 to 67,000.\n\nRivian's R2 targets Tesla's most important EV lane\n\nRivian always had product appeal.\n\nIts vehicles have created one of the strongest brands among U.S. EV startups. The R1S and R1T provided Rivian a distinct identity: premium, outdoorsy, and a different approach than Tesla's cleaner, more tech-forward image.\n\nBut Tesla won the bigger prize. The Model Y was the key vehicle in Tesla's global growth story because it met a strong market need. It gave purchasers an electric SUV with a decent range, broad availability, and a price point that reached far more customers than luxury EVs.\n\nThat's the lane Rivian wants to enter with the R2.\n\nClient deliveries of the R2 started in June, and the vehicle is planned to compete with Tesla's best-selling Model Y.\n\nThe investor hook is that Rivian is no longer asking buyers to pay for a specialized, premium EV. The R2 instead offers a smaller, more accessible SUV that still bears the Rivian name.\n\nRelated: Rivian's good news came with a catch investors hated\n\nThe price roadmap will be critical. Specifically, the R2 launch edition starts at $57,990 . A luxury version is coming later this year, priced at $53,990. A rear-wheel-drive vehicle is scheduled early next year, and a much-anticipated $45,000 version is due for late 2027 .\n\nStory Continues\n\nThe true test for Tesla might be that cheaper variant. At nearly $58,000, the R2 can prove that Rivian has brand demand. At $45,000, however, it can test whether Rivian can reach a broader EV audience.\n\nThat's important because Tesla's advantage has never been about brand.\n\nWith competition heating up, Tesla can defend market share by cutting prices, adjusting output, and leveraging scale. It is a more challenging assignment for Rivian, which still has to prove that volume expansion will enhance its economics, not deepen its financial demands.\n\nRivian's delivery raise gives Tesla investors something to watch\n\nRivian delivered 12,194 automobiles in the second quarter, exceeding Visible Alpha projections of 10,518, according to U.S. News .\n\nThat delivery beat let Rivian lift its full-year target to between 65,000 and 70,000 automobiles. Visible Alpha asked analysts, who had forecast 63,138 deliveries for the year, WMBD shared.\n\nThese metrics do not threaten Tesla's scale, but they do suggest Rivian's product story is gaining traction.\n\nNotably, Tesla's EV competitors have struggled to marry demand, brand appeal, and execution. Lots of car companies can manufacture EVs. Only a few can get enough people interested to pay for them and prove they can scale.\n\nMore Automotive:\n\nThe U.S. may never sell 17.6 million cars again\n\nA U.S.-built EV brand just got banned from America\n\nFord is betting a new battery strategy will make EVs profitable\n\nThe timing also feeds into Rivian's storyline. Tesla's second-quarter deliveries beat expectations, buoyed by rising demand in Europe, Reuters said. That suggests Tesla is not a weak company.\n\nThe greater question is whether Rivian can squeeze Tesla where it counts the most: electric SUVs. If the R2 does acquire traction, Tesla might find itself competing against a brand with a distinct personality, an expanding product selection, and a vehicle geared directly at Model Y purchasers.\n\nThat would give Tesla investors another competitive signal to watch beyond price decreases and quarterly delivery.\n\nTesla still has the bigger advantage over Rivian\n\nRivian's R2 poses a fresh challenge to Tesla but doesn't eliminate Tesla's advantages.\n\nTesla is massive. It has an extensive manufacturing network. These strengths are relevant to the market Rivian is targeting.\n\nA cheaper SUV could act as a catalyst, helping Rivian reach more buyers, but it could also squeeze margins if production costs remain high. Rivian still needs to prove it can produce the R2 at scale without generating a bigger liquidity crunch.\n\nRivian boosted its delivery outlook, citing stronger demand. However, the company would still need to produce nearly 45,000 more vehicles in the second half of 2026 to reach the middle of its revised full-year estimate, Reuters said.\n\nWhether the R2 becomes a true Tesla competitor or just another EV product with intriguing specs and tough economics will be decided by that test of execution.\n\nTesla-Rivian key takeaways\n\nRivian raised its 2026 delivery forecast to 65,000 to 70,000 vehicles.\n\nThe R2 SUV gives Rivian a more direct competitor to Tesla's Model Y.\n\nRivian delivered 12,194 vehicles in the second quarter, beating Visible Alpha estimates.\n\nThe $45,000 R2 variant, expected by late 2027, may become the real mass-market test.\n\nTesla still has major advantages in scale, manufacturing, and pricing flexibility.\n\nRivian's challenge is proving that R2 demand can translate into profitable growth.\n\nTesla investors should watch whether Rivian gains traction in the electric SUV market.\n\nRivian also has an interesting long-term angle via Uber ( UBER ) . The rideshare company plans to invest up to $1.25 billion in Rivian , aiming to deploy 10,000 fully autonomous R2 SUVs as robotaxis starting in 2028.\n\nThis provides the R2 with a second possible function. It can compete with Tesla's Model Y for consumers, while also giving Rivian a platform for fleet and autonomy-related demand.\n\nTesla, for its part, has its own robotaxi aspirations. That makes the Rivian-Uber connection particularly noteworthy, as it adds another place where the two companies' storylines could begin to intertwine.\n\nRivian gives Tesla a new rival where it matters\n\nRivian's recent delivery update doesn't mean Tesla is losing the electric SUV market. Still, it implies Tesla has a more credible competitor to watch.\n\nThe R2 is the car Rivian needed to get closer to the market. The increased delivery expectation offers investors proof of growing demand, while the Uber deal gives the platform a potential fleet and an autonomous perspective. That combination makes Rivian more relevant to Tesla's main narrative.\n\nTesla remains in front. It has scale, manufacturing knowledge, and the entrenched reputation of the Model Y. Rivian has momentum, but still has to prove it can translate that momentum into improved margins and less cash burn.\n\nRivian doesn't need to sell more R2s than Teslas for the EV market to care. Rivian just needs to steal enough attention, demand, and pricing power from Tesla's most significant SUV segment to change the competitive discourse.\n\nRivian has been a luxury EV brand with a niche of dedicated customers for a long time.\n\nThe R2 tries its hand at being a little more harmful to Tesla.\n\nRelated: Tesla is doing in China what it couldn't do in the U.S.\n\nThis story was originally published by TheStreet on Jul 8, 2026, where it first appeared in the Automotive section. Add TheStreet as a Preferred Source by clicking here.\n\nRivian stock has a new R2 problem investors can't ignore.Benjamin Fanjoy &sol; Getty Images\n\nRivian stock has a new R2 problem investors can't ignore.Benjamin Fanjoy &sol; Getty Images Tesla still has the bigger advantage over Rivian\n\nWhether the R2 becom",
       "Language": "en"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "09:13:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI龍頭魅力爆發！SK海力士ADR爆逾7倍超額認購 投資四大策略",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%BE%8D%E9%A0%AD%E9%AD%85%E5%8A%9B%E7%88%86%E7%99%BC-sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E7%88%86%E9%80%BE7%E5%80%8D%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC-%E6%8A%95%E8%B3%87%E5%9B%9B%E5%A4%A7%E7%AD%96%E7%95%A5-011309511.html",
+      "Content": "AI 記憶體需求持續火熱，南韓記憶體大廠 SK 海力士 (000660-KR) 即將於 7 月 10 日在那斯達克全球精選市場掛牌交易，其美國存託憑證 (ADR) 發行案獲市場熱烈追捧。\n\n根據知情人士透露，此次 ADR 已獲逾 7 倍超額認購，多家全球重量級機構投資人踴躍下單，即使近期全球半導體股大幅回檔，市場對 AI 記憶體龍頭的投資熱情仍未降溫。\n\n此次 ADR 預計募資約 280 億美元，將成為全球歷來規模第二大的股票發行案，僅次於 SpaceX 日前完成的 857 億美元股票發行，也超越沙烏地阿美與阿里巴巴 (BABA-US) 等大型募資紀錄。SK 海力士此次將發行 1,779 萬股新股，每單位 ADR 代表十分之一普通股，參考價格為每股 242.5 萬韓元，預計美東時間 7 月 10 日在那斯達克正式掛牌。\n\n知情人士表示，此次認購需求主要來自全球長線基金、科技基金、主權財富基金及亞洲主題投資基金。其中，Baillie Gifford、Coatue Management 及 Situational Awareness Partners 等知名投資機構，合計表達最高約 70 億美元的認購意願，個別訂單規模介於 2 億至逾 10 億美元之間，顯示大型機構對 AI 記憶體產業前景仍具高度信心。\n\n值得注意的是，這波認購熱潮發生在全球 AI 概念股近期修正之際。SK 海力士韓國股價日前一度連續兩個交易日重挫，主要受到 AI 半導體族群賣壓及中東地緣政治風險升高拖累。不過分析人士指出，本土市場跌勢部分來自槓桿 ETF 部位調節等技術性因素，並非公司基本面惡化，美國機構投資人仍持續積極布局。\n\n市場普遍認為，美國投資人長期缺乏直接投資南韓記憶體龍頭的管道，是此次 ADR 需求強勁的重要原因。SK 海力士身為全球高頻寬記憶體 (HBM) 領導廠商之一，也是輝達 (NVDA-US) 及 Alphabet(GOOGL-US)旗下 Google 等 AI 平台的重要供應商，ADR 上市後可望提升美國投資人的持股便利性，也有助縮小與美國同業的估值差距。部分分析師指出，由於韓股轉換 ADR 存在限制，新 ADR 上市後甚至可能出現溢價交易。\n\n基本面方面，AI 伺服器持續帶動 HBM 需求高速成長。市場研究機構與分析師指出，SK 海力士目前 HBM 訂單已排至 2027 年下半年，產能持續滿載；Counterpoint Research 也預估，第三季 DRAM 價格漲幅可望由原先預估的 5% 至 10%，上修至 10% 至 20%，主要受惠雲端服務商及 AI 客戶提前鎖定供貨。\n\n此次募資資金將主要用於擴充韓國晶圓廠產能及採購艾司摩爾 (ASML-US) 極紫外光 (EUV) 微影設備，以因應 AI 資料中心對 HBM 持續攀升的需求。分析人士指出，SK 海力士近年已在 HBM 市場超越三星電子，成為輝達 AI 加速器主要供應商之一，此次赴美募資將有助鞏固其全球領導地位。\n\n不過市場仍提醒，IPO 首日表現未必代表中長期走勢。盛寶銀行 (Saxo Markets) 首席投資策略師 Charu Chanana 表示，SK 海力士此次上市恰逢市場重新檢視 AI 基礎建設投資是否過熱，大規模新股供給可能增加短期波動。此外，公司未來擴產也可能使記憶體市場由供不應求逐步轉向供需平衡，投資人仍須留意估值修正風險。\n\n儘管如此，此次 ADR 獲得逾 7 倍超額認購，仍反映全球資金對 AI 硬體供應鏈的配置需求依舊強勁。分析人士認為，相較於仍處於商業模式驗證階段的部分 AI 軟體公司，具備獲利能力、供應鏈地位及訂單能見度的 AI 記憶體廠商，仍是大型機構資金布局 AI 產業的重要標的。\n\n四大投資策略\n\n此次 SK 海力士 ADR 獲逾 7 倍超額認購，不僅反映市場對 AI 記憶體龍頭的高度興趣，也透露出當前 AI 投資的四大重要策略。\n\n首先，短線可關注 ADR 上市初期可能出現的「稀缺性溢價」，由於美國投資人長期較難直接投資韓股，加上 ADR 供給有限，上市初期有機會享有高於理論",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-07-09",
+      "Time": "09:11:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資續減碼日股；日人大買海外股票、今年第3高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%BA%8C%E6%B8%9B%E7%A2%BC%E6%97%A5%E8%82%A1-%E6%97%A5%E4%BA%BA%E5%A4%A7%E8%B2%B7%E6%B5%B7%E5%A4%96%E8%82%A1%E7%A5%A8-%E4%BB%8A%E5%B9%B4%E7%AC%AC3%E9%AB%98-011100412.html",
+      "Content": "MoneyDJ新聞 2026-07-09 09:11:29 蔡承啟 發佈\n\n外資連2週減碼日股，續賣日本中長債。而日本投資人(日人)大買海外股票，週買超額創今年來第3高水準。\n\n日本財務省9日公佈統計數據指出，上週(6月28日-7月4日)外資在日本股市賣超222億日圓，連續第2週減碼日股；2026年迄今(截至7月4日為止)外資買超日股的累計金額縮小至8兆3,318億日圓。\n\n上週外資賣超日本中長期債券金額為59億日圓，連續第5週站在賣方；買超日本短期債券金額為237億日圓，3週來第2度站在買方。\n\n總計外資上週流出日本金融市場的資金總額為44億日圓，連續第5週呈現淨流出。\n\n上週日本投資人(日人)在海外股市買超8,245億日圓，連續第3週加碼海外股票，週買超額創13週來(3月29日-4月4日當週以來、買超1兆4,343億日圓)新高、今年來第3高水準；2026年迄今(截至7月4日為止)日人對海外股票轉為買超、金額為1,215億日圓。\n\n日人上週賣超海外中長期債券金額為2,181億日圓，連續第2週站在賣方；賣超海外短期債券金額為1,243億日圓，3週來首度站在賣方。\n\n總計日人上週流入海外金融市場(=流出日本金融市場)的資金總額為4,821億日圓，連續第3週呈現淨流入。\n\n(圖片來源：Shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n外資6月賣超日股近3兆、今年次高；大賣中長債\n\n國泰證7月觀點：AI行情撐美股，日股聚焦四產業\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-07-09",
+      "Time": "09:10:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "日本投資人淨買進海外股票8245億日圓，外資續賣日股但賣壓大幅降溫",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B3%87%E4%BA%BA%E6%B7%A8%E8%B2%B7%E9%80%B2%E6%B5%B7%E5%A4%96%E8%82%A1%E7%A5%A88245%E5%84%84%E6%97%A5%E5%9C%93-%E5%A4%96%E8%B3%87%E7%BA%8C%E8%B3%A3%E6%97%A5%E8%82%A1%E4%BD%86%E8%B3%A3%E5%A3%93%E5%A4%A7%E5%B9%85%E9%99%8D%E6%BA%AB-011056188.html",
+      "Content": "【財訊快報／陳孟朔】日本週四公布最新資金流向數據顯示，截至7月3日當週，日本投資人淨買進海外股票8245億日圓，遠高於前值1477億日圓，顯示在日圓偏弱與全球股市震盪背景下，日本資金仍持續尋求海外股票資產配置機會。外資對日本股票則連續呈現淨賣超，但賣壓明顯收斂。數據顯示，外資當週淨賣超日本股票222億日圓，前值為大幅淨賣超1兆8165億日圓。這代表外資對日股態度仍偏謹慎，但前一週急撤資後，短線賣壓已有大幅降溫跡象。\n\n債市方面，外資當週淨賣超日本債券59億日圓，前值為淨賣超4937億日圓，顯示外資對日本債市的減碼幅度也顯著縮小。市場人士指出，在日本央行(日銀)政策正常化預期、日圓匯率波動與全球殖利率變化交錯影響下，外資對日本債券仍維持觀望，但撤出力道已不如前週劇烈。\n\n分析人士認為，這組數據反映日本資金仍積極外流布局海外股票，而外資對日股與日債雖未恢復淨買超，但賣壓明顯緩和。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "09:08:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "KOSPI早盤急彈近4%、SK海力士飆逾9%，ADR超額認購點火AI記憶體買盤",
+      "URL": "https://tw.stock.yahoo.com/news/kospi%E6%97%A9%E7%9B%A4%E6%80%A5%E5%BD%88%E8%BF%914-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%A3%86%E9%80%BE9-adr%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC%E9%BB%9E%E7%81%ABai%E8%A8%98%E6%86%B6%E9%AB%94%E8%B2%B7%E7%9B%A4-010803434.html",
+      "Content": "【財訊快報／陳孟朔】韓股在連兩日重挫後週四強力反彈，首爾綜合股價指數早盤一度勁揚3.9%，記憶體晶片龍頭SK海力士(SK Hynix，000660.KS)飆逾9%，成為盤面最強撐盤主力。韓股週二和週三分別急挫4.91%和5.35%，連續兩天在全球92個主要股指中表現墊底，短線跌深後，AI記憶體題材與資金回補買盤同步升溫。市場焦點落在SK海力士赴美發行美國存託憑證(ADR)買氣火熱。市場消息指出，該公司ADR發行在詢價圈購階段獲得強勁需求，超額認購逾七倍，反映全球資金對AI記憶體供應鏈龍頭仍高度追捧。路透報導，SK海力士計畫透過ADR發行籌資約280億美元，並預計於7月10日在那斯達克開始交易。\n\n這次發行規模龐大，SK海力士將發行1779萬股新股，每份ADR代表十分之一股普通股。報導指出，該案吸引美國大型機構投資人積極下單，單筆認購規模從2億美元到逾10億美元不等；Baillie Gifford、Coatue Management及Situational Awareness Partners等資金傳出合計可能認購最高70億美元，顯示海外長線資金仍願意押注高頻寬記憶體(HBM)與AI伺服器需求週期。\n\n分析人士指出，韓股本週先前重挫，主因在於半導體權值股漲多後獲利了結、槓桿ETF交易擁擠，以及全球風險情緒受中東局勢牽動。不過，SK海力士ADR超額認購逾七倍，重新強化AI記憶體龍頭的資金吸引力，也帶動韓股短線止跌反彈。後續市場焦點將轉向ADR定價結果、外資是否延續回補，以及SK海力士與三星電子能否以財報展望支撐AI記憶體高估值。",
+      "Language": "zh"
     },
     {
       "Ticker": "2388.TW",
@@ -210,6 +570,16 @@
       "Title": "中環7/7~8處分南亞科800張，損失約382萬元",
       "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%92%B07-7-8%E8%99%95%E5%88%86%E5%8D%97%E4%BA%9E%E7%A7%91800%E5%BC%B5-%E6%90%8D%E5%A4%B1%E7%B4%84382%E8%90%AC%E5%85%83-003800646.html",
       "Content": "公開資訊觀測站重大訊息公告\n\n(2323)中環-公告本公司處分有價證券\n\n1.證券名稱:南亞科 普通股\n\n2.交易日期:115/7/7~115/7/8\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年07月08日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量(仟股):800\n\n每單位價格(元):424.99\n\n交易總金額(元):339,994,974\n\n6.處分利益（或損失）（取得有價證券者不適用）:處分損失3,817,158元\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n持有餘額:4,096,000股、金額:1,767,772,477元\n\n持股比例:0.12%、權利受限情形: 無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:84.60%\n\n占歸屬於母公司業主之權益比例:121.50%\n\n營運資金數額:8,285,327仟元\n\n10.取得或處分之具體目的:投資組合\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:已於115/06/30授權有權交易人在115年第三季期間，得於集中交易市場進行有價證券交易\n\n台股多空交戰 盤中觸及46000點\n\n台股開盤站上45800點！台積電跌25元 鈺邦、慧友、南亞科漲停\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-09",
+      "Time": "08:28:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI交易過度集中！三星、SK海力士與槓桿ETF成交占比逾7成，監管示警風險",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E4%BA%A4%E6%98%93%E9%81%8E%E5%BA%A6%E9%9B%86%E4%B8%AD-%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%88%87%E6%A7%93%E6%A1%BFetf%E6%88%90%E4%BA%A4%E5%8D%A0%E6%AF%94%E9%80%BE7%E6%88%90-%E7%9B%A3%E7%AE%A1%E7%A4%BA%E8%AD%A6%E9%A2%A8%E9%9A%AA-002817848.html",
+      "Content": "【財訊快報／陳孟朔】韓股AI記憶體交易高度集中，外電報導，三星電子(005930.KS)、SK海力士(000660.KS)及追蹤兩檔龍頭股的槓桿ETF，合計已占韓國市場成交逾七成，凸顯韓股今年以來的強勁漲勢愈來愈依賴少數半導體權值股與高槓桿交易工具，這與韓國監管機關近期關切市場過度集中相互呼應。韓國央行(BOK)與金融監管機關近期已對單一個股槓桿ETF提出警告，認為掛鉤三星電子與SK海力士的產品可能加深市場集中度、放大波動，並強化單邊交易流。相關資料顯示，三星電子與SK海力士合計占KOSPI總市值55.3%，成交金額占比達63.5%；另有市場統計指，槓桿ETF交易約占三星電子日成交量31%、占SK海力士日成交量約38%，顯示槓桿產品已成為兩大晶片股成交結構的重要組成。\n\n這種成交結構使韓股漲跌更容易被AI記憶體題材放大。SK海力士與三星電子今年受惠高頻寬記憶體(HBM)、DRAM漲價與AI伺服器需求，帶動KOSPI一度成為全球最強主要股市之一；但當投資人開始擔心AI晶片長約、記憶體週期高點，以及SK海力士大型ADR發行前的資金再配置時，槓桿ETF的每日再平衡機制可能迫使資金追漲殺跌，進一步加劇盤勢震盪。與此同時，韓國金融當局已表示將密切關注股市波動風險，尤其是半導體權值股與單一個股槓桿ETF對市場的影響。",
       "Language": "zh"
     },
     {
