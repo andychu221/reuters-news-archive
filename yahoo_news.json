@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T09:32:46.653Z",
+  "last_updated": "2026-07-10T09:40:21.829Z",
   "total_news_count": 174,
   "news": [
     {
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-07-10",
       "Time": "16:35:00",
       "Source": "Yahoo Finance",
@@ -123,7 +123,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "META, MU",
       "Date": "2026-07-10",
       "Time": "15:54:00",
       "Source": "Yahoo Finance",
