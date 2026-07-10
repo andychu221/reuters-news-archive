@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-07-10T20:00:43.702Z",
-  "total_news_count": 212,
+  "last_updated": "2026-07-10T20:15:25.982Z",
+  "total_news_count": 213,
   "news": [
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC",
+      "Date": "2026-07-11",
+      "Time": "04:11:35",
+      "Source": "Yahoo Finance",
+      "Title": "Intel's Turnaround Has a Long Way to Run",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intels-turnaround-long-way-run-201135785.html",
+      "Content": "This article first appeared on GuruFocus .\n\nStifel raised the price target on Intel ( NASDAQ:INTC ) to $120 from $75, maintaining a Hold rating on the chipmaker. The stock trades at around $109, meaning the new target implies roughly 10% upside. Stifel expects Intel to deliver results in line with or modestly above expectations, with the primary risks tied to longer-term commentary on CPU and GPU performance relative to what it described as elevated current expectations. Intel shares were down 3.04% intraday.\n\nThe firm said margins and earnings are expected to face less downside pressure over the next few quarters as the turnaround progresses, but emphasized that the longer-term story matters more for Intel at this stage of its transformation. Stifel noted the stock is likely to move based on server CPU average selling price and volume commentary, as well as GPU yield and volume updates needed to drive improvement in Intel's Foundry business. Intel shares have risen 360% over the past year.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-07-11",
       "Time": "03:45:54",
       "Source": "Yahoo Finance",
