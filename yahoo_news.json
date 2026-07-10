@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-10T09:21:23.447Z",
-  "total_news_count": 173,
+  "last_updated": "2026-07-10T09:32:46.653Z",
+  "total_news_count": 174,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-07-10",
+      "Time": "17:08:00",
+      "Source": "Yahoo Finance",
+      "Title": "Billionaire Israel Englander Sells Sandisk Stock and Buys Another AI Memory Stock (Hint: Not Micron)",
+      "URL": "https://finance.yahoo.com/m/79143b6d-41e2-3c74-a0fc-df1c3f109307/billionaire-israel-englander.html",
+      "Content": "Billionaire Israel Englander is the founder and CEO of Millennium Management, the fourth most successful hedge fund in history as measured by net gains since inception. In the first quarter, Englander made the following trades:\n\nHe sold 1.1 million shares of memory-chip maker Sandisk (NASDAQ: SNDK), cutting his position by 24%.\n\nHe bought 343,000 shares of lesser-known data storage company Everpure (NYSE: P), increasing his position by 60%.\n\nAt first glance, those trades are somewhat surprising because Sandisk shares have advanced 3,600% in the past year, while Everpure shares have added 36%. Here's what investors should know.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nSandisk: The stock Israel Englander sold in the first quarter\n\nSandisk designs storage devices based on NAND flash memory. The company has traditionally focused on consumer products like SD cards, USB flash drives, and portable solid-state drives (SSDs). But it recently shifted focus to enterprise SSDs to capitalize on growing demand for artificial intelligence infrastructure.\n\nWhile Sandisk is smaller than competitors Samsung and SK Hynix , it realizes cost efficiencies through a joint venture with Japanese manufacturer Kioxia. The companies share expenses related to research and development (R&D) and semiconductor fabrication equipment, which lets them control the supply chain and obtain memory wafers at below-market prices.\n\n\"NAND flash is emerging as the only economically viable solution to deliver the capacity, performance, and efficiency required to keep models accessible for real-time inference at scale,\" said CEO David Goeckeler. \"This shift in understanding the critical nature of our technology comes at a time when our product differentiation is strongest.\"\n\nSandisk delivered jaw-dropping financial results in the third quarter of fiscal 2026 (ended in March). Revenue increased 251% to $5.9 billion, driven by particularly strong demand for enterprise SSDs, and non-GAAP net income rose to $23.41 per diluted share, up from a loss of $0.30 per diluted share last year.\n\nIn the past, the memory chip industry has been highly cyclical; upswings defined by strong demand and price increases have preceded downturns defined by supply gluts and price cuts. We are currently in an upswing. NAND prices tripled in the past year amid intense demand for AI infrastructure, but history says the next downturn is inevitable.\n\nStory Continues\n\nMany Wall Street analysts expect memory chip sales to drop in 2028 as supply catches up with demand. In turn, the consensus estimate says Sandisk's adjusted earnings will grow at 25% annually through the fiscal 2029 (ends in June). That makes the current valuation of 56 times earnings look expensive. That may explain why Israel Englander sold shares in the first quarter.\n\nEverpure: The stock Israel Englander bought in the first quarter\n\nEverpure builds all-flash storage systems and adjacent software that help enterprises manage data. Its products address block, file, and object storage, and they are built on DirectFlash technology, which eliminates bottlenecks and redundancies associated with traditional SSDs by letting software manage raw flash memory directly, rather than indirectly through dedicated firmware.\n\nConsultancy Gartner recently recognized Everpure as a leader in enterprise storage platforms, citing excellent customer support and unified data management as key strengths. Everpure \"unifies all data (block, file, and object) into a virtualized pool of storage, which eliminates legacy silos, simplifies data access across hybrid environments, and enables consistent data management.\"\n\nEverpure reported encouraging financial results in the first quarter of fiscal 2027 (ended in May). Revenue rose 35% to $1.1 billion, operating margin increased five percentage points despite soaring memory prices, and non-GAAP net income increased 62% to $0.47 per diluted share. Everpure is well positioned to maintain its momentum as the AI boom unfolds.\n\n\"We are now beginning to displace AI storage products in the enterprise and neo-cloud markets as customers transition to our FlashBlade family for its unmatched performance,\" CEO Charlie Giancarlo told analysts on the quarterly earnings call. \"We are seeing strong engagement and active discussions with dozens of prospective customers across the AI ecosystem.\"\n\nWall Street estimates Pure Storage's adjusted earnings will grow at 21% annually through fiscal 2028 (ends in January). That makes the current valuation of 36 times earnings look reasonable. Patient investors should consider buying a small position in Everpure stock today.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSM",
       "Date": "2026-07-10",
@@ -123,7 +133,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "KLAC, AAPL",
       "Date": "2026-07-10",
       "Time": "15:41:00",
       "Source": "Yahoo Finance",
