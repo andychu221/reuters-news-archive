@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T11:41:45.285Z",
-  "total_news_count": 42,
+  "last_updated": "2026-07-10T11:53:20.844Z",
+  "total_news_count": 71,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -53,6 +53,46 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "18:16:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "DRAM大缺貨還沒完！李培瑛：供應不足將持續數季，毛利率與ASP續走揚",
+      "URL": "https://tw.stock.yahoo.com/news/dram%E5%A4%A7%E7%BC%BA%E8%B2%A8%E9%82%84%E6%B2%92%E5%AE%8C-%E6%9D%8E%E5%9F%B9%E7%91%9B-%E4%BE%9B%E6%87%89%E4%B8%8D%E8%B6%B3%E5%B0%87%E6%8C%81%E7%BA%8C%E6%95%B8%E5%AD%A3-%E6%AF%9B%E5%88%A9%E7%8E%87%E8%88%87asp%E7%BA%8C%E8%B5%B0%E6%8F%9A-101616043.html",
+      "Content": "【財訊快報／記者李純君報導】針對DRAM後續市況，南亞科(2408)總經理李培瑛表示，記憶體供給不足預期將持續數季以上。而公司第二季毛利率已經逼近八成，李培瑛透露，第三季和第四季毛利率仍有改善的狀況，ASP也將持續走揚，並揭露自家LTA長約比例已達五成。南亞科今揭露第二季成績單與第三季展望，就後續市況的展望與供需，李培瑛表示，AI強勁需求推動記憶體供需結構性改變，降低景氣循環因素，而雲端資料中心AI及一般伺服器對HBM、RDIMM需求持續擴張，排擠手機、PC、車用及消費型記憶體供給，預期記憶體供給不足將持續數季以上，也因此，長期LTA(數年合約)形成供需共識。供給端部分，各供應商積極擴充產能，並動態調整產品組合，提升高利潤產品比重，新產能規劃將依據客戶的長期LTA(數年合約)需求，2028年起逐步擴增。\n\n就市場關心DRAM後續報價上漲動能與幅度，尤其法人圈預估南亞科第三季的ASP季增幅度上看50%，李培瑛表示，基本上詳細的數字，沒有辦法做confirm，但從季價格的角度來看，第三季的季價格比第二季還高，南亞科的價格基本上隨著市場的波動在改變。\n\n而就DRAM未來數季仍會缺貨一事，李培瑛分析，缺貨可以說是比較全面性，主因雲端HBM等相關記憶體大缺，使得這個價格持續往上走揚，同時也排擠到其他的市場，所以可以說其他的市場都處在缺貨的狀況下，而且，現在缺口很大。\n\n另外南亞科第二季毛利率逼近八成，已經明顯超越台積電等業者，由於DRAM的ASP後續仍舊看漲，有機會持續推升南亞科的毛利率，李培瑛針對未來幾季毛利率與ASP走勢作出回應，以現在的毛利率、淨利率，對南亞科來講已經是歷史高點，那南亞科當然也會量力而為，如果市場漲了，南亞科還是會持續漲一點；但市場跌了，南亞科也會跟著跌一點。目前看起來第三季、第四季還是會改善。\n\n然近期因DRAM售價漲幅過大，明顯影響終端品牌廠與系統廠的採購意願，針對ASP持續大漲是否會引發終端市場有更激烈的反制動作，李培瑛回應，自己覺得這個不應該說是一個反制的動作，因為每一個產業、每一個市場，包括終端市場這些客戶，都為了其營運目標在在努力，也得因應這些不同情境的狀況去做調整。\n\n李培瑛分析，DRAM漲價對部分市場或領域的壓力會相對大一點，某些市場要繼續發展就會接受比較高的價格，採購上就會比較積極，無法接受的就會比較保守，這是一個正常的發展，而南亞科的毛利率會不會持續攀升，是根據整體結構的改變做最後的加成，得看最終端市場可以吸收多少價格的變動，但目前這些都已經發生一陣子了，且總需求量還是很大。\n\n他也補充，AI 驅動下，AI GPU / CPU/ ASIC 晶片開發持續推升HBM、LPDDR5及DDR5需求大幅成長，此外，AI基礎建設帶動eSSD、SmartNIC與BMC採用更高容量、更高效DRAM，以因應高速資料處理、網路傳輸及系統管理需求，至於通用型部分，非AI應用產能受限，有利於高階市場發展，並促使終端產品售價調整，而整體市況則因產業結構性轉變，而擴大需求。\n\n南亞科今年上半年應用於AI基礎設施及伺服器的產品營收占總營收比重已超過20%，此外DDR5產品營收比重約1成，LPDDR5產品預計下半年進行驗證，李培瑛也揭露，NVIDIA、Google、微軟(Microsoft)、英特爾(Intel)和超微(AMD)都是自家客戶。另外南亞科目前LTA比重達五成，近期出貨量持平，得等到新廠到位才會增加產出，新廠第一階段規劃於2028年達每月投片量3萬片，預估全產能4.5萬片，新廠資本支出將達4,800億元，需要1500人，已招募一半。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "17:58:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科財報炸裂！總座喊DRAM循環變了 專家驚呼：沒颱風假又噴一根",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E8%B2%A1%E5%A0%B1%E7%82%B8%E8%A3%82-%E7%B8%BD%E5%BA%A7%E5%96%8Adram%E5%BE%AA%E7%92%B0%E8%AE%8A%E4%BA%86-%E5%B0%88%E5%AE%B6%E9%A9%9A%E5%91%BC-%E6%B2%92%E9%A2%B1%E9%A2%A8%E5%81%87%E5%8F%88%E5%99%B4-%E6%A0%B9-095853492.html",
+      "Content": "記憶體大廠南亞科最新財報表現震撼市場，第二季每股盈餘（EPS）14.66元、毛利率更進一步衝上 79.5%，雙雙改寫歷史新高紀錄，公司總座直言，AI逐步改變DRAM景氣循環特性。投資達人看了驚艷財報後，直言若不是遇上颱風假，南亞科股價「今天應該是一根紅K」。\n\nDRAM價格勁揚 南亞科Q2獲利創高\n\n南亞科今（10）日舉行法說會，直接繳出一張讓市場驚豔的成績單。第二季稅後淨利達501.92億元，每股盈餘14.66元，創下歷史新高；累計上半年稅後淨利762.5億元，每股盈餘23.38元，同樣寫下新紀錄。\n\n營收表現也同步成長，第二季營收825.49億元，季增68.2%，其中，DRAM平均售價較第一季大幅上漲逾6成，在出貨量與第一季持平的情況下，顯示獲利成長主要受惠於價格上揚。\n\n獲利能力方面，第二季毛利率提升至79.5%，較第一季增加11.6個百分點；淨利率則達60.8%，反映出公司獲利能力相當驚人。\n\n南亞科總經理李培瑛表示，AI帶來的強勁需求，已改變記憶體產業供需結構，逐步降低過去景氣循環的波動特性。隨著全球雲端資料中心持續擴建，AI伺服器大量採用高頻寬記憶體（HBM）及RDIMM等高階產品，使產能優先供應AI市場，也擠壓手機、PC、車用及消費性電子所需DRAM供給。\n\nAI改變產業生態 供需缺口估持續數季\n\n李培瑛指出，目前產業已逐步建立多年期長約（LTA）供貨模式，各家業者雖積極擴產、調整產品組合，提高高毛利產品比重，但新產能普遍要到2028年才會陸續開出，因此記憶體供給吃緊情況，預估仍將持續數個季度以上。\n\n財經網紅葉育碩在臉書發文指出，過去幾年記憶體一直都是典型的景氣循環產業，價格高了就擴產、供給增加後價格又下跌，如此反覆循環，導致股價起伏很大。然而這一波AI浪潮，正在改變整個產業生態。\n\n當AI伺服器對高頻寬記憶體、高容量DRAM的需求持續增加，記憶體廠商的產品組合、議價能力以及獲利模式皆出現結構性變化，市場也開始重新評價整個記憶體族群的長期價值。\n\n葉育碩直言，「要是沒颱風假，今天南亞科應該是一根紅K吧。」但他強調，真正決定股價能否持續走高的，終究還是基本面能不能一直跟得上市場的期待。投資人除了應持續關注DRAM價格走勢之外，也要觀察AI伺服器需求是否持續成長、各大記憶體廠的擴產速度，以及市場供需是否維持健康平衡。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "17:37:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈南亞科法說〉下半年記憶體價格續漲 明年資本支出暴衝估逾2000億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E6%B3%95%E8%AA%AA-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A8%98%E6%86%B6%E9%AB%94%E5%83%B9%E6%A0%BC%E7%BA%8C%E6%BC%B2-%E6%98%8E%E5%B9%B4%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E6%9A%B4%E8%A1%9D%E4%BC%B0%E9%80%BE2000%E5%84%84%E5%85%83-093700114.html",
+      "Content": "南亞科 (2408-TW) 今 (10) 日召開法說會，總經理李培瑛表示，因應新廠建置、先進製程及客製化記憶體需求，公司今年資本支出預計達 500 多億元，明年內部初步規劃將拉升至 2,000 多億元，雖然相關預算仍待董事會核准，但投資規模將較今年大增逾 2 倍。\n\n李培瑛指出，南亞科新廠最終滿載月產能規劃為 4.5 萬片，整體資本支出預估約 4,800 億元，目前前期投入金額接近、但尚未達 1,000 億元，後續大部分建廠及設備投資將集中在未來幾年。\n\n依目前規劃，南亞科新廠第一階段月產能將於 2028 年達到 3 萬片，並預計在 2029 年進一步提升至 3.6 萬片。至於後續由 3.6 萬片擴充至 4.5 萬片的時程，仍須視 AI 基礎設施、客製化記憶體及晶圓鍵合等先進封裝設備的配置需求而定，目前尚未訂出明確時間。\n\n針對龐大資本支出是否需要對外募資，李培瑛表示，南亞科目前財務狀況健康，現有資金原則上可支應後續投資，現階段沒有強烈募資需求，但仍不排除依長期資金規劃評估其他籌資工具。\n\n在記憶體價格方面，南亞科第二季平均售價較第一季大漲超過 60%，在銷售量與上季大致持平下，帶動單季營收季增 68.2%、達 825.49 億元，毛利率也攀升至 79.5%，單季每股純益 14.66 元，雙雙改寫公司歷史新高。\n\n展望第三季，李培瑛雖未直言平均售價實際，但明確表示，第三季市場價格仍高於第二季，且目前第三、第四季營運狀況看來還會持續改善。他指出，南亞科現有產能已接近滿載，在新廠產能開出前，短期銷售量難有明顯增加，因此後續營運成長將主要來自記憶體價格上漲及產品組合改善。\n\n李培瑛表示，AI 伺服器與雲端資料中心需求強勁，帶動 HBM、伺服器 DDR5 及其他高容量需求持續成長，也排擠手機、PC、車用及消費性電子等一般型 DRAM 產能。\n\n目前記憶體缺貨已不僅限於高階產品，DDR5、DDR4 甚至 DDR3 均出現供應吃緊及價格上揚，預期供給不足情況還會延續數季以上。\n\n對於記憶體價格漲幅是否可能逐步收斂，李培瑛表示，價格仍取決於供需缺口及終端市場的成本承受能力。部分低價、小型終端產品可能因記憶體成本占比提高，選擇降低容量或減少採購，但目前整體市場需求仍大，供應缺口也沒有明顯縮小。\n\n他以電視市場為例，高階產品較能吸收記憶體漲價，低階產品則面臨較大成本壓力，未來終端市場可能進一步往高階產品集中，手機、電視等產品售價也可能因記憶體成本上升而調整。\n\n南亞科目前長期供應合約 (LTA) 已涵蓋約 50% 產能，合約期間從一季、一年至數年不等，公司正逐步把短期合約轉為更長期的供應協議，提高未來產能及價格的可預測性。\n\n產品組合方面，南亞科上半年 AI 基礎設施及伺服器相關產品營收占比已超過 20%，目前 DDR5 營收比重約 10%，LPDDR5 則預計於下半年開始進行客戶驗證。\n\n李培瑛認為，AI 需求已使記憶體產業出現結構性改變，除了 GPU 外，CPU、TPU 及 ASIC 等 AI 運算晶片也持續推升高速、大容量 DRAM 需求。在新產能大規模開出前，記憶體市場供需仍將維持緊俏，價格也有望延續上行趨勢。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "17:15:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈南亞科法說〉Q2毛利率飆79.5% 單季大賺超過500億元、EPS 14.66元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E6%B3%95%E8%AA%AA-q2%E6%AF%9B%E5%88%A9%E7%8E%87%E9%A3%8679-5-%E5%96%AE%E5%AD%A3%E5%A4%A7%E8%B3%BA%E8%B6%85%E9%81%8E500%E5%84%84%E5%85%83-eps-091506144.html",
+      "Content": "DRAM 業者南亞科 (2408-TW) 今 (10) 日召開法說會，並公布第二季財報，上季銷售量與第一季持平，不過受惠 DRAM 平均售價季增超過 60%，推升毛利率衝上 79.5% 的新高，營益率同樣飆上 73.7%，單季大賺超過 500 億元、達 501.92 億元，每股純益 14.66 元，累計上半年達 23.07 元。\n\n南亞科第二季營收 825.49 億元，季增 68.2%，年增 684.2%，毛利率 79.5%，季增 11.6 個百分點，營益率 73.7%，季增 12.4 個百分點，雙率皆較去年同期轉正，稅後淨利 501.92 億元，季增 92.6%，較去年同期轉盈，淨利率 60.8%，季增 7.7 個百分點，較去年同期轉正，每股稅後純益 14.66 元。\n\n南亞科近期已陸續切入伺服器供應鏈，上半年應用於 AI 基礎設施及伺服器的產品營收占比已超過 20%，同時亦持續供應 DDR5、LPDDR5/5X、DDR4、LPDDR4/4X、DDR3 及 LPDDR3 產品，以滿足多元市場需求。\n\n此外，南亞科持續拓展客製化 AI/WoW 與 AI 基礎設施等高附加價值產品；新廠第一階段月產能規劃 3 萬片，於 2028 年開出，全產能 4.5 萬片預估資本支出將達新台幣 4,800 億元；第三代、第四代、第五代 10 奈米級製程 (1C/1D/1E) 及 EUV 等研發工作，均按原定計畫順利進行。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-07-10",
       "Time": "17:08:00",
@@ -63,6 +103,66 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "16:47:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科今日法人說明會摘要",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E4%BB%8A%E6%97%A5%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E6%91%98%E8%A6%81-084748012.html",
+      "Content": "日 期：2026年07月10日\n\n公司名稱：南亞科 (2408)\n\n主 旨：南亞科今日法人說明會摘要\n\n發言人：李培瑛\n\n說 明：\n\n1.事實發生日:115/07/10\n\n2.公司名稱:南亞科技股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:本公司法人說明會\n\n6.因應措施:不適用\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n\n南亞科技公布115年第2季自結合併財務資訊，營業收入新台幣825.49億元，營業淨利\n\n新台幣608.26億元，稅前淨利新台幣623.29億元，及本期淨利新台幣501.92億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "16:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "毛利率近80%！ 南亞科第二季EPS 14.66元 創歷史新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%AF%9B%E5%88%A9%E7%8E%87%E8%BF%9180-%E5%8D%97%E4%BA%9E%E7%A7%91%E7%AC%AC%E4%BA%8C%E5%AD%A3eps-14-66%E5%85%83-%E5%B9%B4%E5%A2%9E1323-081900140.html",
+      "Content": "不畏巴威颱風風雨，記憶體大廠南亞科技（2408）於今（10）日如期舉行法說會，根據公司公布的財報，第2季毛利率高達79.5%，稅後淨利501.92億元，季增68.2%，單季每股純益14.66元，創下歷史新高。\n\n而第2季營收則來到825.49億元，較上季增68.2%，DRAM平均售價季增逾六成，銷售量則與上季持平；上半年稅後純益更來到762.5億元，EPS達23.38元，每股淨值93.49元。\n\n總經理李培瑛於線上法說會中表示，AI需求持續高速成長，正推動全球記憶體產業出現結構性改變，DRAM產品的景氣循環波動影響大幅減弱。雲端資料中心AI伺服器及一般伺服器需求同步強勁，大幅推升高頻寬記憶體（HBM）與伺服器用Registered DIMM（RDIMM）需求，並排擠手機、PC、車用及消費性電子等一般DRAM產品供給，使市場持續吃緊。李培瑛預期，供應不足情況可望延續數季。\n\n產業方面，李培瑛指出，公司主要客戶與供應商積極簽訂數年期長約（LTA），確保未來供應穩定。記憶體廠商也正擴充產能並調整產品組合，以提高高毛利產品比重。新產能規劃多依長約需求執行，預計至2028年才會大幅增加產能，短期內供需緊張狀況不會緩解。\n\n李培瑛說，AI發展持續帶動高效能記憶體（HBM、LPDDR5）與企業級SSD、SmartNIC、BMC等應用對高容量、高效能DRAM的需求，資料傳輸及儲存需求同步提升。隨產能被高階產品排擠，一般通用型DRAM供給持續受限，終端市場也逐漸朝高階產品發展，帶動高階電視等終端產品需求成長，低階產品則面臨壓力，未來手機電視等產品售價有望隨成本調整。\n\n李培瑛強調，AI產業正推動記憶體進入新的結構性成長階段，市場需求快速擴大、供需缺口仍大，也加速Hybrid AI、Agent AI、Token運算、Physical AI等創新應用發展，持續推升高效能記憶體市場，南亞科技未來將持續拓展客製化AI、WoW及高附加價值產品，積極把握產業新機遇。\n\n觀察三大法人動向，三大法人皆站在買方，9日外資大買南亞科1萬5430張，投信買超3250張，自營商買超1254張，合計買超1萬9934張，9日股價也來到435.5元鎖漲停亮燈，縣釋出市場看好南亞科的前景。\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "16:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科 公告本公司今日法人說明會摘要",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8%E4%BB%8A%E6%97%A5%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E6%91%98%E8%A6%81-081400460.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司今日法人說明會摘要\n\n1.事實發生日:115/07/10\n\n2.公司名稱:南亞科技股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:本公司法人說明會\n\n6.因應措施:不適用\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n\n南亞科技公布115年第2季自結合併財務資訊，營業收入新台幣825.49億元，營業淨利\n\n新台幣608.26億元，稅前淨利新台幣623.29億元，及本期淨利新台幣501.92億元。\n\n南亞科長約已佔五成；加速新製程及新廠布局\n\n南亞科看價格漲勢延續，H2毛利率將續改善\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "16:00:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科Q2毛利率逼近八成，單季每股賺14.66元，新廠資本支出4,800億",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91q2%E6%AF%9B%E5%88%A9%E7%8E%87%E9%80%BC%E8%BF%91%E5%85%AB%E6%88%90-%E5%96%AE%E5%AD%A3%E6%AF%8F%E8%82%A1%E8%B3%BA14-66%E5%85%83-%E6%96%B0%E5%BB%A0%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA4-800%E5%84%84-080004433.html",
+      "Content": "【財訊快報／記者李純君報導】受惠於單季DRAM的ASP大增超過六成，南亞科(2408)第二季毛利率逼近八成，單季大賺超過500億元，第二季每股淨利14.66元 。公司今日也揭露，旗下新廠第一階段規劃於2028年達每月投片量3萬片，預估全產能4.5萬片、資本支出將達4,800億元。南亞科今(10)日公佈2026年第二季成績單，單季營收825億4千9百萬元，較上季增加68.2%。第二季DRAM平均售價季增超過六十位數百分比，銷售量與上季持平。\n\n此外，南亞科第二季營業毛利為656億1千9百萬元，毛利率79.5%，較上季提升11.6個百分點。營業淨利為608億2千6百萬元，營業淨利率73.7%，較上季提升12.4個百分點，營業外收入15億3百萬元，本期稅後淨利為501億9千2百萬元，淨利率60.8%。單季每股淨利14.66元 (依加權平均流通在外股數34.23億股計算)。\n\n累計今年上半年年南亞科稅後淨利達762.5億元，每股淨利23.38元 (依加權平均流通在外股數32.62億股計算)，每股淨值93.49元 (依流通在外股數34.50億股計算)。\n\n南亞科也揭露，今年上半年應用於AI 基礎設施及伺服器的產品營收占比已超過20%，同時亦持續供應DDR5、LPDDR5/5X、DDR4、LPDDR4/4X、DDR3及LPDDR3產品，此外，公司將持續拓展客製化AI/WoW與AI基礎設施等高附加價值產品；第三代、第四代、第五代10奈米級製程(1C/1D/1E)及EUV等研發工作，均按原定計畫順利進行。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "15:46:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科看價格漲勢延續，H2毛利率將續改善",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E7%9C%8B%E5%83%B9%E6%A0%BC%E6%BC%B2%E5%8B%A2%E5%BB%B6%E7%BA%8C-h2%E6%AF%9B%E5%88%A9%E7%8E%87%E5%B0%87%E7%BA%8C%E6%94%B9%E5%96%84-074600753.html",
+      "Content": "MoneyDJ新聞 2026-07-10 15:46:42 周佩宇 發佈\n\n南亞科(2408)今(10)日舉行法說會，總經理李培瑛(附圖)表示，AI正重新改變全球記憶體產業結構，高頻寬記憶體（HBM）、RDIMM及低功耗DDR5等AI相關產品需求快速成長，不僅推升整體市場需求，也排擠一般PC、手機、車用及消費性產品供給，使記憶體供需缺口持續擴大。他預期，目前供給不足情況仍將延續數季以上，今年第三、第四季DRAM平均售價仍將高於第二季，雖然第二季毛利率達79.5%、EPS亦接近一個半股本達歷史新高，但後續毛利率還是可望持續改善。\n\n李培瑛指出，AI需求已不再侷限於GPU，隨著CPU、TPU、ASIC等AI晶片快速發展，帶動HBM、LPDDR5需求同步增加，AI資料中心也推升Enterprise SSD、SmartNIC、BMC等高容量、高功能產品需求。由於供應商持續將產能轉向高附加價值產品，手機、PC、車用及消費性記憶體供給受到排擠，部分中低階產品價格也開始調整，整體市場正朝高階化發展。\n\n他表示，目前產業已逐漸形成長期供貨模式，各家供應商的新產能多建立於多年期供應合約基礎，預估最快2028年後才會陸續開出，因此短期內難以明顯舒緩供給缺口。雖然三星、SK海力士、美光等大廠持續擴產，但以韓廠為例，五年平均年增幅約15%，屬合理成長速度，並非爆發式擴充，反而反映市場需求長期向上，對整體產業供需結構仍屬正向。\n\n至於市場關注終端產品因價格上漲而縮減記憶體容量，李培瑛認為，各市場會依自身成本及售價接受度調整產品規格，屬正常市場機制。目前需求仍大於供給，不同市場只是承受能力不同。他指出，南亞科目前產能已滿載，第三季價格將高於第二季，2026年營運成長主要來自售價提升，而非出貨量增加，在價格續揚下，毛利率仍有持續優化空間。\n\n三星態度強硬 傳Q3通用型DRAM、LPDDR擬漲價20%\n\n《DJ在線》韓廠擬大擴記憶體 台廠看AI需求足以消化\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "15:46:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科長約已佔五成；加速新製程及新廠布局",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E9%95%B7%E7%B4%84%E5%B7%B2%E4%BD%94%E4%BA%94%E6%88%90-%E5%8A%A0%E9%80%9F%E6%96%B0%E8%A3%BD%E7%A8%8B%E5%8F%8A%E6%96%B0%E5%BB%A0%E5%B8%83%E5%B1%80-074600200.html",
+      "Content": "MoneyDJ新聞 2026-07-10 15:46:48 周佩宇 發佈\n\n南亞科(2408)今(10)日舉行法說會，總經理李培瑛表示，今(2026)年上半年AI基礎設施及伺服器相關產品營收占比已超過20%，涵蓋伺服器DRAM及Enterprise SSD、NIC、BMC等高階網通產品，目前NVIDIA、Google、Microsoft、Qualcomm、Intel及AMD皆為合作客戶。隨著AI需求快速增加，公司目前長期供貨合約（LTA）已占整體產能約五成，未來將持續把短約逐步轉為長約，配合客戶需求規劃後續產能。\n\n李培瑛表示，公司先前透過私募引進四家大型策略合作夥伴，包括美國的SanDisk與Cisco、日本的鎧俠，韓國SK海力士旗下的Solidigm，目前將全力履行相關長約內容，後續也會依不同客戶需求安排產能配置，不排除增加其他合作夥伴。\n\n技術布局方面，李培瑛指出，目前1C製程已開始試產且進展順利，1D製程正在開發，預計近期進入試產階段；DDR5目前約占公司營收一成，下半年LPDDR5將開始進行客戶驗證。因應AI客製化需求，公司也同步推進Wafer Bonding、3D IC、TSV等先進封裝技術，以及客製化記憶體方案，未來若需求持續放大，將配合增加相關設備及新廠空間。\n\n產能規劃方面，新廠第一階段將於2028年達成每月投片3萬片，2029年提升至3.6萬片，後續朝4.5萬片規模擴充，但仍須視AI基礎設施需求及設備建置進度而定。李培瑛表示，2026年資本支出約500多億元，2027年內部規劃約2,000多億元，仍待董事會核准；若新廠全面到位，總投資金額約4,800億元，目前公司資金仍可支應，暫無募資需求，但募資仍可作長遠規劃。\n\n力旺1T NeoFlash採用標準邏輯製程，推進加快\n\n台積電：2030年半導體市場將突破1.5兆美元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "KLAC",
       "Date": "2026-07-10",
       "Time": "15:41:00",
@@ -71,6 +171,36 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-074100532.html",
       "Content": "For Immediate Release\n\nChicago, IL – July 10, 2026 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Apple Inc. AAPL, KLA Corp. KLAC, Western Digital Corp. WDC and Optex Systems Holdings, Inc OPXS.\n\nHere are highlights from Thursday's Analyst Blog:\n\nTop Stock Reports for Apple, KLA Corp. & Western Digital\n\nThe Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Apple Inc., KLA Corp. and Western Digital Corp., as well as a micro-cap stock, Optex Systems Holdings, Inc. These research reports have been hand-picked from roughly 70 reports published by our analyst team today.\n\nYou can see all of today's research reports here >>>\n\nAhead of Wall Street\n\nThe daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning.\n\nYou can read today's AWS here >>> Jobless Claims Steady, PEP Q2 Earnings: Pre-Markets Higher\n\nToday's Featured Research Reports\n\nApple' s shares have underperformed the Zacks Computer - Micro Computers industry over the last six months (+20.4% vs. +24.0%). Per the Zacks analyst, supply constraints, higher component costs and an uncertain tariff environment could pressure product availability and margins. Regulatory scrutiny, App Store disputes and antitrust challenges also remain key overhangs, supporting a balanced outlook.\n\nYet, strong demand for the latest iPhone lineup, expanding Services and a growing device ecosystem remain positives. New products, business-focused offerings, and continued shareholder returns through dividends and buybacks could support long-term engagement and the stock.\n\n(You can read the full research report on Apple here >>>)\n\nKLA' s shares have outperformed the Electronics – Miscellaneous Products industry over the last six months (+54.8% vs. +36.4%). The Zacks analyst believes that the company benefits from AI-driven semiconductor investment, strengthening its leadership in process control, advanced packaging and services. Healthy free cash flow supports dividends and share repurchases, while demand trends remain favorable.\n\nStory Continues\n\nHowever, export controls, tariff uncertainty and customer concentration remain key risks. Gross margin pressure from elevated DRAM-related system costs is also expected to persist, keeping the overall outlook balanced.\n\n(You can read the full research report on KLA here >>>)\n\nWestern Digital' s shares have outperformed the Zacks Computer - Storage Devices industry over the past year (+745.8% vs. +455.7%). The Zacks analyst believes that the company is benefiting from AI-driven storage demand, strong cloud spending and favorable pricing. Higher-capacity drives, technology advances and improved operating efficiency support margins, while a stronger balance sheet enhances financial flexibility.\n\nYet, intense competition and customer concentration remain key risks. These factors could pressure growth and profitability despite favorable demand trends.\n\n(You can read the full research report on Western Digital here >>>)\n\nOptex Systems' shares have underperformed the Zacks Aerospace - Defense Equipment industry over the past year (+6.1% vs. +20.2%). The Zacks analyst believes that gross margin and operating income have come under pressure from an unfavorable sales mix and higher administrative costs. Backlog has softened, particularly in periscopes and laser filters, creating some near-term uncertainty.\n\nHowever, Optex Systems is benefiting from improving demand, supported by strong order growth and multi-year contract wins that enhance production visibility. Solid liquidity, expanding optical assemblies demand and attractive valuation relative to peers add to its appeal.\n\n(You can read the full research report on Optex Systems here >>>)\n\nFree: Instant Access to Zacks' Market-Crushing Strategies\n\nSince 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.\n\nToday you can tap into those powerful strategies – and the high-potential stocks they uncover – free. No strings attached.\n\nGet all the details here >>\n\nsupport@zacks.com\n\nhttps://www.zacks.com\n\nPast performance is no guarantee of future results. Inherent in any investment is the potential for loss . This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "15:33:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "DRAM賺翻了！南亞科Q2毛利率79.5％超車台積電 上半年EPS狂衝23元",
+      "URL": "https://tw.stock.yahoo.com/news/dram%E8%B3%BA%E7%BF%BB%E4%BA%86-%E5%8D%97%E4%BA%9E%E7%A7%91q2%E6%AF%9B%E5%88%A9%E7%8E%8779-5-%E6%89%93%E6%95%97%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E4%B8%8A%E5%8D%8A%E5%B9%B4eps%E7%8B%82%E8%A1%9D23%E5%85%83-073350639.html",
+      "Content": "記憶體大廠南亞科今（10）日召開線上法說會，第二季營運表現驚豔市場。其中，第二季毛利率衝上79.5%，不僅較上季顯著提升11.6個百分點，更超越台積電的毛利率（第一季毛利率66.25%）表現。\n\n新廠預計2028年起開出產能\n\n受惠於DRAM價格大幅上漲，南亞科第二季營收達825.49億元，季增68.2%，其中，DRAM平均售價季增超過60%，銷售量則與上季持平。單季毛利率來到79.5%，季增11.6個百分點；營業淨利為608.26億元，營益率達73.7%，提升12.4個百分點；稅後淨利達501.92億元，淨利率60.8%，每股盈餘（EPS）為14.66元。\n\n累計今年上半年，南亞科稅後淨利為762.5億元，每股盈餘達23.38元，截至6月底每股淨值為93.49元。\n\n南亞科總經理李培瑛表示，今年上半年應用於AI基礎設施及伺服器的產品營收占比已超過20%。目前公司持續供應DDR5、LPDDR5/5X、DDR4等多元產品，並積極拓展客製化AI/WoW及AI基礎設施等高附加價值產品。\n\n在產能布局與研發進度方面，南亞科規劃新廠第一階段將於2028年達到每月投片3萬片，全產能規劃為4.5萬片，預估資本支出約4800億元。同時，第三代、第四代、第五代10奈米級製程（1C/1D/1E）以及EUV的研發工作，目前皆依既定計畫持續推進。\n\n記憶體供給吃緊將延續數季\n\n李培瑛強調，各家供應商正積極擴充產能並調整產品組合，以提升高利潤產品的比重。南亞科的新產能規劃也將依據客戶的長期供貨合約（LTA）需求，自2028年起逐步擴增。\n\n在需求端，AI GPU、CPU及ASIC持續帶動HBM、LPDDR5及DDR5需求大幅成長。AI基礎建設也推升eSSD、SmartNIC與BMC採用更高容量、更高效能的DRAM，以因應高速資料處理、網路傳輸及系統管理需求。此外，非AI應用的產能受到限制，也有助於高階產品發展及終端產品價格調整。南亞科認為，AI將持續擴大記憶體需求缺口，並推動產業朝多元AI應用發展。\n\n展望後市，南亞科指出，AI需求的快速成長正在改變全球記憶體的供需結構。雲端資料中心AI伺服器及一般伺服器對HBM與RDIMM需求持續擴張，進而排擠了手機、PC、車用及消費性DRAM的供給。預期記憶體供給不足的情況將延續數季以上，客戶也已開始透過長期供貨合約建立供需共識。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "15:26:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科第2季每股賺14.66元創新高　下半年價格續漲",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E7%AC%AC2%E5%AD%A3%E6%AF%8F%E8%82%A1%E8%B3%BA14-66%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%83%B9%E6%A0%BC%E7%BA%8C%E6%BC%B2-072602042.html",
+      "Content": "（中央社記者張建中新竹2026年07月10日電）動態隨機存取記憶體（DRAM）廠南亞科 (2408) 第2季受惠產品平均售價上揚逾60%，毛利率攀高至79.5%，稅後淨利突破500億元，每股純益14.66元，創下歷史新高。南亞科總經理李培瑛表示，下半年售價可望持續揚升，毛利率將更高。\n\n南亞科今天召開線上法人說明會，公布第2季營運結果。第2季營收新台幣825.49億元，季增68.2%，銷售量較第1季持平，主要受惠平均售價上揚超過60%。\n\n南亞科第2季毛利率達到79.5%，較第1季揚升11.6個百分點，稅後淨利501.92億元，每股純益14.66元，創下歷史新高；累計上半年稅後淨利762.5億元，每股純益23.38元，每股淨值93.49元。\n\n李培瑛表示，上半年應用於AI基礎設施及伺服器的產品營收占總營收比重已超過20%，亦持續供應DDR5、LPDDR5、DDR4等產品，其中，DDR5產品營收比重約1成，LPDDR5產品預計下半年進行驗證。\n\n李培瑛指出，AI晶片龍頭廠輝達（NVIDIA）是南亞科多年客戶，此外，Google、微軟（Microsoft）、英特爾（Intel）和超微（AMD）也都是南亞科客戶，除參與私募的客戶外，南亞科未來還會增加長約客戶。\n\n展望後市，李培瑛說，產業結構性轉變，擴大需求缺口，預期記憶體供給不足可能維持一段時間，長期數年合約形成供需共識。南亞科目前長約比重達50%，未來短期合約到期後，將轉為長約。\n\n李培瑛表示，南亞科近期出貨量將持平，待新廠開始產出後，出貨量才可望增加，下半年產品售價將持續揚升，毛利率也將進一步攀升。\n\n至於韓國兩大記憶體廠三星（Samsung）和SK海力士（hynix）投資擴產，李培瑛說，根據兩家廠商產能增加計畫估算，產能增幅合理。\n\n至於新廠進度，李培瑛表示，第一階段產能規劃於2028年達到每月投片量3萬片，2029年達到3.6萬片，全產能4.5萬片，總資本支出將達4800億元，目前已支付不到1000億元，其餘金額將以現有資金支應，並無強烈募資需求，不過，不排除考慮籌資。\n\n李培瑛說，南亞科會持續擴大人員招募，新廠估計需要1500人，已招募一半人員，要再招募另一半人員，此外，未來也會規劃招募後段測試封裝人員。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "14:25:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科第二季ASP季增逾60%，EPS達14.66元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E7%AC%AC%E4%BA%8C%E5%AD%A3asp%E5%AD%A3%E5%A2%9E%E9%80%BE60-eps%E9%81%9414-66%E5%85%83-062500724.html",
+      "Content": "MoneyDJ新聞 2026-07-10 14:25:03 周佩宇 發佈\n\n南亞科(2408)今(10)日公佈第二季自行結算合併財務報告。公司第二季營業收入為825億4千9百萬元、季增68.2%，其中第二季DRAM平均售價季增超過六十位數百分比、銷售量季持平；營業毛利為656.19億元，毛利率79.5%、季增11.6個百分點；營業淨利為608.26億元，營益率73.7%、季增12.4個百分點；營業外收入15.03億元，稅後淨利為501.92億元、淨利率60.8%，EPS為14.66元 。累計上半年稅後淨利達762.5億元，EPS 23.38元 。所有合併財務數字為公司自結，尚未經會計師核閱。\n\n公司上半年應用於AI基礎設施及伺服器的產品營收占比已超過20%，同時亦持續供應DDR5、LPDDR5/5X、DDR4、LPDDR4/4X、DDR3及LPDDR3產品，以滿足多元市場需求。\n\n此外，公司將持續拓展客製化AI/WoW與AI基礎設施等高附加價值產品；新廠第一階段產能規劃於2028年達每月投片量3萬片，預估全產能4.5萬片資本支出將達4,800億元；第三代、第四代、第五代10奈米級製程(1C/1D/1E)及EUV等研發工作，均按原定計畫順利進行。在永續方面，公司已連續第五年入選DJBIC世界指數，並連續第七年入選為S&P全球永續年鑑成員，榮獲國際永續評鑑機構的肯定。\n\n南亞科長約已佔五成；加速新製程及新廠布局\n\n應廣因漲價預期提前拉貨效應，H1超預期成長\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -91,6 +221,16 @@
       "URL": "https://finance.yahoo.com/m/a94aa1ce-a238-331b-a390-98d02615559b/why-arm-holdings-stock-soared.html",
       "Content": "Shares of Arm Holdings (NASDAQ: ARM) rocketed 224.4% higher in the first half of 2026, according to data from S&P Global Market Intelligence . The computer chip design and licensing firm is poised to benefit greatly from the next phase of the artificial intelligence ( AI ) boom, driving investor demand for the stock. It is now the 40th-largest company in the world by market cap, valued at $350 billion as of the close on July 9th, 2026.\n\nHere's why Arm Holdings stock has boomed so far in 2026, and whether you should consider buying right now.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nEmbracing the future with AI\n\nIn the global computer chip supply chain, there is perhaps no greater gap between a company's importance and general awareness than that of Arm Holdings. It designs and licenses chip architectures for central processing units (CPUs) and has built a reputation for energy-efficient smartphone architectures, which is why Apple uses Arm for all of its internal chips.\n\nNow, its CPU architecture is expanding rapidly into a new market: AI. Many AI infrastructure players, such as Meta Platforms and Amazon , have used Arm to design internal CPUs for data centers. It has even designed its own computer chip, the AGI CPU, an energy-efficient CPU that could arrive at the exact right moment as the power bottleneck in AI data centers grows and grows.\n\nArm's revenue was $4.92 billion in 2026, driven by its royalty and licensing revenue for CPU designs. By 2031, Arm projects it will generate $25 billion in revenue, driven almost entirely by the growth of its new AGI CPU. Direct sales from the chip are expected to be $15 billion five years from now.\n\nShould you buy Arm Holdings stock?\n\nThe potential for growth at Arm is salivating. It could see a 5x increase in revenue over the next five years, if management's guidance is taken at face value. Investors are anticipating this growth, which has driven up the stock so far in 2026. Arm Holdings is officially a new thematic winner for the AI boom.\n\nThat doesn't mean you need to pile into the stock today. Arm management is projecting it will generate $9 in earnings per share ( EPS ) in 2031. Compared to the current stock price of $334, that would give it a price-to-earnings ratio (P/E) of over 36 five years from now, assuming the company can achieve these aggressive growth targets. At this stock price, investors would do best to avoid buying Arm stock.\n\nStory Continues",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-10",
+      "Time": "05:05:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科DRAM首選 法人驚喊7字頭天價！專家：「這檔記憶體」最委屈",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91dram%E9%A6%96%E9%81%B8-%E6%B3%95%E4%BA%BA%E9%A9%9A%E5%96%8A7%E5%AD%97%E9%A0%AD%E5%A4%A9%E5%83%B9-%E5%B0%88%E5%AE%B6-%E9%80%99%E6%AA%94%E8%A8%98%E6%86%B6%E9%AB%94-%E6%9C%80%E5%A7%94%E5%B1%88-210530147.html",
+      "Content": "記憶體大廠南亞科法說會今（10）日登場，在利多預期心理下，昨日股價強勢衝上漲停板，收在435.5元。市場專家指出，除了DDR4合約價預估將大漲50%之外，更有本土法人將其目標價大幅調升至720元，相較於南亞科的強勢，記憶體控制晶片大廠群聯則顯得相對委屈，目前的股價表現與其強勁的基本面完全不對等，市場價值明顯遭到低估。\n\n產能排擠傳統DDR4大缺貨\n\n摩爾投顧分析師林漢偉指出，目前盤面上漲價概念股以記憶體與被動元件的基本面最強，屬於表現最紮實的第一梯隊。由於AI基礎建設導致高階記憶體需求大增，使得傳統DDR4出現嚴重缺貨與漲價，研究機構預計8GB DDR4 的合約價將上漲 50%，高於市場預期的20%~30%。\n\n在現貨價格方面，他分析，以主流規格DDR4 16Gb為例，現貨價已從4、5月的60美元左右，一路飆升至77美元，短短兩個月內漲幅突破三成。此外，韓國大廠SK海力士將於7月10日在美國那斯達克掛牌上市，目前已獲得7倍超額認購，顯示全球資金正大舉湧入記憶體族群。\n\n針對市場先前擔憂台灣記憶體廠僅生產傳統消費型產品，恐無法分食AI紅利，林漢偉澄清，AI伺服器中的SSD硬碟大量需要DDR4而非DDR5，這對南亞科等台廠反而是實質利多。南亞科股價昨日不僅突破下降趨勢線，更一舉站上月線強勢鎖漲停。\n\n法人報告也搶在法說會前按讚，凱基投顧全面調高南亞科長期獲利展望，預估2026年至2028年EPS分別可達75.1元、130.6元與203.6元，並將其列為記憶體族群首選，估南亞科需求將一路旺至2028年，並將目標價由520元一口氣調升至720元，調幅高達38%。\n\nAI轉型毛利大反撲 群聯業績爆發股價迎補漲\n\n除了南亞科表現亮眼，另一大記憶體指標群聯則被林漢偉評為「最委屈的個股」。群聯公告6月營收達248億元，月增9%、年增高達301%，第二季營收達678.88億元，累計上半年營收已突破1000億元大關。執行長潘健成表示目前訂單能見度已看到明年上半年。\n\n受惠於AI伺服器強勁需求，群聯旗下PCIe SSD控制晶片產品，出貨年增率飆出5600%的驚人增幅。由於高毛利產品轉型見成效，群聯已成功擺脫傳統模組廠標籤，預計未來零售與消費性電子業務的營收佔比，將大幅降至5%以下。\n\n林漢偉認為，群聯今日股價收在2220元，目前價位與營收大爆發的基本面完全不對等，一旦站回月線並突破下降趨勢線，以其驚人的獲利實力，後續將迎來一波強勁的補漲動能。",
+      "Language": "zh"
     },
     {
       "Ticker": "KLAC",
@@ -153,6 +293,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-07-09",
+      "Time": "18:22:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超471億元連6賣 光是台積電就提款310億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85471%E5%84%84%E5%85%83%E9%80%A36%E8%B3%A3-%E5%85%89%E6%98%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%B1%E6%8F%90%E6%AC%BE310%E5%84%84%E5%85%83-102217233.html",
+      "Content": "台北股市今 (9) 日盤中雖有記憶體及被動元件類股撑盤，早盤一度攻克 46000 點但仍不敵權王台積電 (2330-TW) 的重挫 2.03%，大盤終場收盤下跌 379.8 點，收在 45354.61 點，市場成交值再萎縮爲 9443.41 億元。三大法人合計賣超 393.93 億元。\n\n外資今天再賣超台積電 12749 張。提款 310.29 億元，而外資買超的族群集中在記憶體類股，包括南亞科 (2408-TW)、盛群 (6202-TW)、晶豪科 (3006-TW)。\n\n台股集中市場 7 月 9 日外資賣超 471.32 億元，連續第 6 天賣超，投信買超 154.10 億元，自營商賣超 76.71 億元。在期貨市場部分，外資今天交易口數淨額爲多單 468 口，未平倉交易口數淨額爲 80730 口。\n\n台股集中市場今天外資買超超張數較多的個股爲，友達、長榮航、台灣大、南亞科、宏碁、玉山金、仁寶、南茂、盛群、晶豪科。賣超張數較多的個股爲中石化、台泥、台化、台塑、華航、聯電、力積電、新纖、臺企銀、台積電。\n\n台股集中市場今天投信買超張數較多的個股爲，台新新光金、南亞、中信金、遠東新、日月光投控、南亞科、英業達、國巨 *、南電、聯電。賣超張數較多的個股爲，宏碁、金像電、長榮航、緯創、群益證、力積電、漢唐、可寧衛 *、帆宣、富世達。\n\n台股集中市場今天自營商買超張數較多的個股爲，友達、群創、華邦電、南亞、南亞科、仁寶、中信金、光鼎、華南金、宏碁；賣超張數較多的個股爲，華電、遠東新、聯電、聯強、華航、中石化、台灣大、遠傳、長榮航、彩晶。\n\n資深證券分析師簡伯儀指出，台股集中市場近期出現量能萎縮格局，而在大型颱風巴威逼近同時，更使得買盤縮手，甚至買了也不敢貿然留倉，預判近期台股將維持在震盪格局，但必須留意市場量能否向上擴張。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "5347.TWO",
       "Date": "2026-07-09",
       "Time": "17:27:15",
@@ -173,6 +323,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "6770.TW",
+      "Date": "2026-07-09",
+      "Time": "15:13:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】力積電 2026年6月合併營收64.74億元 年增68.75%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8A%9B%E7%A9%8D%E9%9B%BB-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B664-74%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E68-071315757.html",
+      "Content": "日期： 2026 年 07 月 09日\n\n上市公司：力積電 (6770)\n\n單位：仟元\n\n【公告】力積電 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n6,473,929\n\n去年同期\n\n3,836,402\n\n增減金額\n\n2,637,527\n\n增減百分比\n\n68.75\n\n本年累計\n\n30,862,646\n\n去年累計\n\n22,394,444\n\n8,468,202\n\n37.81",
+      "Language": "zh"
+    },
+    {
       "Ticker": "5347.TWO",
       "Date": "2026-07-09",
       "Time": "14:02:44",
@@ -183,6 +343,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW, 8299.TWO",
+      "Date": "2026-07-09",
+      "Time": "10:36:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "SK海力士ADR爆逾7倍超額認購！記憶體族群歡呼南亞科亮燈漲停 分析師看法出爐",
+      "URL": "https://tw.stock.yahoo.com/news/sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E7%88%86%E9%80%BE7%E5%80%8D%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC%EF%BC%81%E8%A8%98%E6%86%B6%E9%AB%94%E6%97%8F%E7%BE%A4%E6%AD%A1%E5%91%BC%E5%8D%97%E4%BA%9E%E7%A7%91%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-023658087.html",
+      "Content": "南韓記憶體大廠SK海力士即將赴美掛牌，規模高達280億美元（約新台幣8991億元）的美國存託憑證（ADR）發行案，不僅有望改寫外國企業赴美IPO規模紀錄，更傳出已獲逾7倍超額認購。激勵台股記憶體族群今（9）日同步走強，南亞科（2408）率先亮燈漲停鎖住435.5元，華邦電（2344）盤中也勁揚逾8%。分析師表示，市場看好SK海力士ADR發行，加上韓股反彈帶動，推升記憶體族群表現，但仍難判定族群是否能一鼓作氣持續上攻。\n\n南亞科盤中一馬當先、亮燈漲停鎖死在435.5元，擺脫先前疲弱走勢。截至上午10時25分，華邦電衝上182元，大漲逾8%；群聯（8299）和廣穎（4973）也漲逾半根停板。另外，晶豪科（3006）、鈺創（5351）、南茂（8150）同步攻上漲停板。\n\n華冠投顧分析師陳韋廷表示，記憶體族群表現強勁，主要受到海力士即將赴美掛牌ADR引發市場搶購的激勵，加上韓國股市在經歷槓桿問題帶來的修正後，今出現約 3% 的反彈，帶動台灣記憶體族群順勢上攻。\n\n陳韋廷指出，南亞科為族群最強勁指標股，技術面上，雖先前受到三星和海力士修正拖累，打到350-400元中線支撐，近期回測也未跌破上周低點，顯示支撐力道穩固。華邦電雖隨之轉強，但先前曾一度跌破支撐後才拉回；群聯等個股，儘管財報表現優異，但目前線型仍相對弱勢。\n\n陳韋廷續指，族群基本面支持力道強勁，第三季漲價已成定局，且預期到 2027 至 2028 年可能都處於供不應求的狀態，但仍須關注市場資金動向，因為即使利多頻傳，股價也可能出現顯著修正。目前美光的線圖表現尚不強，因此難以判定族群是否能一鼓作氣持續上攻，不過他也說，近期回檔是不錯的進場機會。\n\nSK海力士7月10日美國掛牌 爆逾7倍超額認購\n\n南韓記憶體大廠SK海力士將於10日在美國那斯達克掛牌，透過發行美國存託憑證（ADR）募資280億美元（約新台幣8991億元），有望創下外國企業赴美IPO最大規模紀錄。募集資金將用於建設龍仁半導體聚落一期晶圓廠、清州P&T7先進封裝廠，以及採購包括極紫外光（EUV）曝光機在內的先進製造設備。\n\n根據外媒報導，SK海力士此次ADR已獲逾7倍超額認購，吸引多家國際大型機構投資人參與，顯示即使近期全球半導體股震盪，市場對AI高頻寬記憶體（HBM）龍頭的投資熱度依舊不減。公司本周正式啟動ADR發行，計畫發行1779萬股新股；若以募資規模計算，此次交易也可望成為全球歷來第二大股票發行案，僅次於SpaceX日前創下的857億美元IPO紀錄。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-09",
+      "Time": "10:13:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "記憶體恢復記憶！ 南亞科、鈺創、晶豪科強勢攻漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E6%81%A2%E5%BE%A9%E8%A8%98%E6%86%B6-%E5%8D%97%E4%BA%9E%E7%A7%91-%E9%88%BA%E5%89%B5-%E6%99%B6%E8%B1%AA%E7%A7%91%E5%BC%B7%E5%8B%A2%E6%94%BB%E6%BC%B2%E5%81%9C-021300094.html",
+      "Content": "記憶體集體回神！受惠於AI浪潮引發記憶體缺貨潮、DRAM合約報價續揚，南亞科、鈺創、晶豪科今（9）日強攻漲停，華邦電大漲逾8%，旺宏、群聯漲逾6%，力積電、威剛也有逾3%的漲幅，一掃日前下挫的陰霾。\n\n大摩在近日發布的記憶體產業報告中表示，記憶體產業正逐漸逼近「變化速率頂峰（Peak Rate of Change）」，未來記憶體成長斜率會開始放緩，這也讓記憶體族群在8日表現疲軟。\n\n所幸今日行情迎來大反轉，記憶體模組大廠威剛（3260）公布6月營收，受惠於DRAM及NAND Flash的價格走揚，6月營收來到146.6億，連4月創新高，股價也跳空開高來到417元，上漲3.22%，帶動其他記憶體類股同步上攻，南亞科、鈺創、晶豪科衝漲停，華邦電大漲逾8%，旺宏、群聯漲逾6%。\n\n威剛董事長陳立白表示，記憶體原廠已通知第三季DRAM合約價格將再調升20%至30%，NAND Flash價格也預估上漲35%至40%，顯示市場仍處於供不應求格局，看好AI應用對記憶體的剛性需求持續成長，將持續挹注公司營運。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2388.TW",
       "Date": "2026-07-09",
       "Time": "09:06:00",
@@ -190,6 +370,16 @@
       "Title": "威盛要買2萬張股藏股！ 日期、價格區間一次看",
       "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B%E8%A6%81%E8%B2%B72%E8%90%AC%E5%BC%B5%E8%82%A1%E8%97%8F%E8%82%A1-%E6%97%A5%E6%9C%9F-%E5%83%B9%E6%A0%BC%E5%8D%80%E9%96%93-%E6%AC%A1%E7%9C%8B-010600044.html",
       "Content": "威盛董事會決議啟動第五次庫藏股買回計畫，預計在48.65至90元區間內斥資最高18億元買回2萬張股票，藉由註銷股本提升每股盈餘，展現維護公司信用與股東權益決心。\n\n決議買回2萬張庫藏股\n\n威盛（2388）8日發布重訊公告表示，為了維護公司信用以及股東權益，經董事會決議將正式實施第五次買回庫藏股計畫。威盛電子預計自民國115年7月9日起至9月8日期間，於集中交易市場買回2,000萬股（即2萬張）普通股，預計買回的股份約占公司已發行股份總數的3.60%。\n\n庫藏股買回區間48.65～90元\n\n根據公告內容表示，本次庫藏股買回的區間價格設定為每股新台幣48.65元至90.00元之間。威盛指出，若未來公司股價低於所定的區間價格下限時，將授權董事長繼續執行買回股份。本次買回計畫預計所需金額上限為新台幣18億元，而依法令規範的公司買回總金額上限則可達新台幣139.05億元。本次買回的庫藏股將依據證券交易法規定，預定於買回日起的六個月內辦理銷除股份之變更登記。透過註銷股本，將有助於提升每股盈餘（EPS）與維護整體股東權益。\n\n（封面圖／翻攝自威盛臉書）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-07-09",
+      "Time": "08:51:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "創新高！ 群聯6月營收「年增300%」潘健成：訂單能見度看到2027",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%89%B5%E6%96%B0%E9%AB%98-%E7%BE%A4%E8%81%AF6%E6%9C%88%E7%87%9F%E6%94%B6-%E5%B9%B4%E5%A2%9E300-%E6%BD%98%E5%81%A5%E6%88%90-%E8%A8%82%E5%96%AE%E8%83%BD%E8%A6%8B%E5%BA%A6%E7%9C%8B%E5%88%B02027-005100221.html",
+      "Content": "NAND儲存大廠群聯電子今（9）日公布2026年6月營收達248.53億元，年增逾300%，刷新歷史單月新高；上半年累計營收首度突破千億大關。執行長潘健成強調，AI基礎建設使NAND儲存需求強勁，某些專案能見度已看到2027年上半年。\n\n群聯6月營收飆新高\n\n群聯（8299 ）公布2026年6月份的營運結果。受惠於市場強勁需求，群聯單月合併營收達到新台幣248.53億元，與上月相比成長9%，較去年同期更大幅增長超過300%，創下該公司歷史上最高的單月營收紀錄。同時，第二季營收678.88億元，季增66％、年增280％，同步創單季新高，累計上半年營收1,088.55億元，年增243％，首度突破千億元大關。\n\n訂單能見度已看到2027\n\n群聯執行長潘健成表示：「隨著AI基礎建設持續擴大，生成式AI正迅速從模型訓練轉向大規模的AI推理，全球對NAND儲存的需求依舊異常強勁。市場供應持續緊張，且沒有明確的緩解跡象。我們看到來自雲端服務提供者（CSP）和AI相關客戶的訂單動能持續穩固，某些專案的能見度甚至已經延伸到2027年上半年。這進一步堅定了我們的信念，即生成式AI數據的爆發式增長將持續驅動儲存的長期需求，而高性能、高可靠性的企業級儲存基礎建設，仍將是AI生態系統的關鍵基石。」\n\n核心產品營收表現驚人\n\n潘健成談到，在今年6月份，群聯的行動裝置控制晶片出貨量年增長達47%，顯示出在全球智慧型手機出貨量整體下滑的背景下，群聯依然展現了市佔率持續擴大的實力。在另一項核心產品線上，群聯的PCIe SSD啟動碟（Boot Drive）產品營收表現驚人，較去年同期飆升了5,600%，這反映出通用伺服器、AI伺服器以及AI網路應用的強烈需求。\n\n改變策略淡出零售市場\n\n潘健成指出，以價格導向為主的零售儲存市場已經不再是群聯的戰略重心。群聯預期，零售相關的營收隨著時間推移，將會逐步下降到總營收的5%以下。在AI基礎建設快速擴張的支撐下，企業級SSD（Enterprise SSDs）與其他高價值的AI儲存解決方案，預計將貢獻越來越高的營收佔比，並成為推動群聯未來成長的核心引擎。\n\n（封面圖／東森新聞）\n\n【 本文 由<a href=\"https://fnc.ebc.net.tw/?utm_source=yahoonews&utm_medium=referral&utm_campaign=site_link\" rel=\"nofollow noopener\" target=\"_blank\" data-ylk=\"slk:東森財經;elm:context_link;itc:0;sec:conte",
       "Language": "zh"
     },
     {
@@ -263,6 +453,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "8299.TWO",
+      "Date": "2026-07-08",
+      "Time": "21:26:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "群聯6月營收創新高　出貨價量齊揚",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%A4%E8%81%AF6%E6%9C%88%E7%87%9F%E6%94%B6%E5%89%B5%E6%96%B0%E9%AB%98-%E5%87%BA%E8%B2%A8%E5%83%B9%E9%87%8F%E9%BD%8A%E6%8F%9A-132621341.html",
+      "Content": "（中央社記者張建中新竹2026年07月8日電）記憶體控制晶片廠群聯電子 (8299) 自結6月營收新台幣248.53億元，創下歷史新高，月增9%，年增超過300%。群聯表示，6月出貨量及均價同步增加，推升營收創高。\n\n群聯第2季營收678.88億元，創下單季歷史新高，季增66%。累計上半年營收突破1000億元大關，達到1088.55億元，年增243%。\n\n群聯執行長潘健成透過新聞稿說，隨著人工智慧（AI）基礎建設持續擴充，以及生成式AI逐步由模型訓練走向大規模AI推論應用，儲存型快閃記憶體（NAND Flash）需求維持高度成長，市場供需依然相當緊俏，尚未看到明顯舒緩跡象。\n\n潘健成表示，來自雲端服務供應商（CSP）及AI相關客戶的訂單需求依然穩健，部分專案的訂單能見度甚至已延伸至2027年上半年。\n\n潘健成說，AI基礎建設快速擴張，企業級固態硬碟（SSD）及各項高附加價值AI儲存解決方案的營收貢獻可望持續提升，將成為推動群聯未來成長的重要動能。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2388.TW",
       "Date": "2026-07-08",
       "Time": "20:22:44",
@@ -290,6 +490,16 @@
       "Title": "威盛7/9起預定買回庫藏股20,000張，區間價48.65~90.00元",
       "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B7-9%E8%B5%B7%E9%A0%90%E5%AE%9A%E8%B2%B7%E5%9B%9E%E5%BA%AB%E8%97%8F%E8%82%A120-000%E5%BC%B5-%E5%8D%80%E9%96%93%E5%83%B948-65-105000094.html",
       "Content": "公開資訊觀測站重大訊息公告\n\n(2388)威盛-公告本公司董事會決議第五次買回庫藏股\n\n1.董事會決議日期:115/07/08\n\n2.買回股份目的:維護公司信用及股東權益\n\n3.買回股份種類:普通股\n\n4.買回股份總金額上限(元):13,905,286,277\n\n5.預定買回之期間:115/07/09~115/09/08\n\n6.預定買回之數量(股):20,000,000\n\n7.買回區間價格(元):48.65~90.00，公司股價低於區間價格下限，將繼續買回\n\n8.買回方式:自集中交易市場買回\n\n9.預定買回股份占公司已發行股份總數之比率(%):3.60\n\n10.申報時已持有本公司股份之累積股數(股):0\n\n11.申報前五年內買回公司股份之情形:無買回\n\n12.已申報買回但未執行完畢之情形:不適用\n\n13.董事會決議買回股份之會議紀錄:\n\n案 由： 本公司擬買回庫藏股案，提請 討論。\n\n說 明：\n\n(一) 本公司為維護公司信用及股東權益，依據證券交易法第二十八條之二及「上市上櫃公司買回本公司股份辦法」規定辦理，擬買回本公司股份，並依據證券交易法規定，預定於買回日起六個月內辦理銷除股份之變更登記。\n\n(二) 有關本次擬辦理買回股份之相關事項訂定如下：\n\n1. 買回股份之目的：維護公司信用及股東權益。\n\n2. 買回股份之種類：本公司普通股。\n\n3. 買回股份之總金額上限：依法令規範，買回股份總金額上限為不超過新台幣 13,905,286 仟元。本次買回股份之所需金額上限為新台幣1,800,000 仟元。\n\n4. 預定買回之期間與數量：自 115 年 7月9日起至 115 年9 月 8日止，買回 20,000 仟股。\n\n5. 買回之區間價格：每股新台幣48.65元至90元之間，惟當公司股價低於所定買回區間價格下限時，授權董事長繼續執行買回公司股份。\n\n6. 買回之方式：自集中交易市場買回。\n\n(三) 本案業已委由群益金鼎證券股份有限公司出具針對買回股份價格之合理性評估意見，請詳附件\n\n(三)。\n\n(四) 依據「上市上櫃公司買回本公司股份辦法」之規定，已考慮公司財務狀況，擬由董事會出具不影響公司資本維持之聲明，請詳附件(四)。\n\n(五) 本案業經審計委員會審查通過。\n\n決 議：本案經主席徵詢全體出席董事同意照案通過。\n\n14.「上市上櫃公司買回本公司股份辦法」第十條規定之轉讓辦法:不適用\n\n15.「上市上櫃公司買回本公司股份辦法」第十一條規定之轉換或認股辦法:不適用\n\n16.董事會已考慮公司財務狀況，不影響公司資本維持之聲明:\n\n董事會聲明書\n\n一、本公司經115年7月8日 115年第四次董事會三分之二以上董事之出席及出席董事超過二分之一之同意通過，自申報日起二個月內於集中交易市場﹙證券商營業處所﹚買回本公司股份20,000,000股。\n\n二、上述買回股份總數，僅占本公司已發行股份之百分之三點五九七五，且買回股份所需金額上限僅占本公司流動資產之百分之六點六五九四，茲聲明本公司董事會已考慮公司財務狀況，上述股份之買回並不影響本公司資本之維持。\n\n三、本聲明書業經本公司上述同次董事會議通過，出席董事7人同意本聲明書之內容，併此聲明。\n\n17.會計師或證券承銷商對買回股份價格之合理性評估意見:依群益金鼎證券股份有限公司之評估意見，威盛電子股份有限公司所訂股份買回區間價格新台幣每股48.65元至每股90元，落於規定之買回區間價格上限及下限內，經承銷商核算其引用之依據尚無不符，故威盛所訂股份買回區間價格應屬合理。\n\n18.其他證期局所規定之事項:無\n\n威盛擬買回2萬張庫藏股 每股48.65至90元\n\n維護公司信用及股東權益，威盛董事會決議第五次買回庫藏股\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-07-08",
+      "Time": "18:22:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】群聯 2026年6月合併營收248.53億元 年增301%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E7%BE%A4%E8%81%AF-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6248-53%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E301-102211297.html",
+      "Content": "日期： 2026 年 07 月 08日\n\n上櫃公司：群聯 (8299)\n\n單位：仟元\n\n【公告】群聯 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n24,852,784\n\n去年同期\n\n6,197,679\n\n增減金額\n\n18,655,105\n\n增減百分比\n\n本年累計\n\n108,855,209\n\n去年累計\n\n31,728,636\n\n77,126,573\n\n243.08",
       "Language": "zh"
     },
     {
@@ -333,6 +543,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-08",
+      "Time": "08:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電營收連七月創高，上半年年增139%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E7%87%9F%E6%94%B6%E9%80%A3%E4%B8%83%E6%9C%88%E5%89%B5%E9%AB%98-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B9%B4%E5%A2%9E139-003300478.html",
+      "Content": "MoneyDJ新聞 2026-07-08 08:33:29 新聞中心 發佈\n\n華邦電(2344)受惠於記憶體價格持續上漲，6月合併營收205.97億元，月增2.98%、年增189.88%，連續7個月創下歷史新高；第二季合併營收598.43億元，季增56.44%、年增184.72%，亦嬻寫下新紀錄；累計今年上半年營收980.96億元，年增139%。\n\nAI帶動記憶體需求持續升溫，市場預期第三季DRAM、NAND Flash合約價雖仍維持上漲趨勢，但漲幅將較今年第一、二季收斂。業者指出，漲幅放緩並不代表景氣反轉，而是價格基期墊高、部分長約（LTA）價格限制，以及終端需求相對保守所致，整體供需仍維持吃緊格局。華邦電可望持續受惠記憶體價格維持高檔，未來營運成長可期。\n\n旺宏營收連三月創高，累計上半年已超越去年全年\n\n《DJ在線》記憶體漲幅收斂，供需吃緊格局未變\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "LITE",
       "Date": "2026-07-07",
       "Time": "22:44:00",
@@ -343,6 +563,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-07",
+      "Time": "18:05:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電旺宏6月營收創歷史新高　十銓歷年同期新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%97%BA%E5%AE%8F6%E6%9C%88%E7%87%9F%E6%94%B6%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%8D%81%E9%8A%93%E6%AD%B7%E5%B9%B4%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98-100544225.html",
+      "Content": "（中央社記者張建中新竹2026年07月7日電）記憶體製造廠華邦電 (2344) 、旺宏 (2337) 及記憶體模組廠十銓 (4967) 6月營收同步攀高，華邦電和旺宏6月營收創下歷史新高，十銓6月營收為歷年同期新高。\n\n華邦電自結6月營收205.97億元，月增2.98%，年增189.88%。華邦電表示，6月營收創高主要是受市場供需影響。\n\n華邦電第2季營收598.43億元，創下單季歷史新高，季增56.44%。累計上半年營收980.96億元，已超越去年總營收894.06億元，年增139.2%。\n\n旺宏自結6月營收69.56億元，月增11.2%，年增216.09%。旺宏指出，6月營收創高主要是受市場需求增加影響。\n\n旺宏第2季營收191.25億元，創單季歷史新高，季增82.68%。累計上半年營收295.93億元，已超越去年總營收288.8億元，年增128.76%。\n\n十銓自結6月營收30.18億元，月增18.09%，年增35%。十銓表示，工控與系統整合市場接單動能穩健成長，加上優化產品組合及拓展利基市場策略效益逐步顯現，是驅動6月營收成長主要動能。\n\n十銓第2季營收75.88億元，季減16.1%。累計上半年營收166.33億元，較去年同期增加67.74%。十銓指出，整體營運維持健康成長軌道，下半年營運展望審慎樂觀。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "3035.TW",
       "Date": "2026-07-07",
       "Time": "15:43:47",
@@ -350,6 +580,26 @@
       "Title": "【公告】智原 2026年6月合併營收14.17億元 年增26.57%",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%BA%E5%8E%9F-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B614-17%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E26-074347547.html",
       "Content": "日期： 2026 年 07 月 07日\n\n上市公司：智原 (3035)\n\n單位：仟元\n\n【公告】智原 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n1,416,828\n\n去年同期\n\n1,119,392\n\n增減金額\n\n297,436\n\n增減百分比\n\n26.57\n\n本年累計\n\n5,902,036\n\n去年累計\n\n11,949,434\n\n-6,047,398\n\n-50.61",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-07",
+      "Time": "15:13:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】華邦電 2026年6月合併營收205.97億元 年增189.88%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%8F%AF%E9%82%A6%E9%9B%BB-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6205-97%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E189-071325146.html",
+      "Content": "日期： 2026 年 07 月 07日\n\n上市公司：華邦電 (2344)\n\n單位：仟元\n\n【公告】華邦電 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n20,596,799\n\n去年同期\n\n7,105,364\n\n增減金額\n\n13,491,435\n\n增減百分比\n\n189.88\n\n本年累計\n\n98,096,329\n\n去年累計\n\n41,010,574\n\n57,085,755\n\n139.2",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-07",
+      "Time": "15:09:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電 115年6月營收205.97億、年增189.88%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB-115%E5%B9%B46%E6%9C%88%E7%87%9F%E6%94%B6205-97%E5%84%84-%E5%B9%B4%E5%A2%9E189-88-070900886.html",
+      "Content": "華邦電(2344)6月營收資料(單位千元)\n\n本年累計\n\n20,596,799\n\n98,096,329\n\n去年同期\n\n7,105,364\n\n41,010,574\n\n13,491,435\n\n57,085,755\n\n增減百分比\n\n189.88%\n\n139.20%\n\n備註:受市場供需影響。\n\n7/7證交所「盤中」零股交易成交股數前20名排行\n\n台股重挫1077點史上第8大跌點 高價電子股慘綠\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -393,6 +643,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-06",
+      "Time": "18:30:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超255億元連三賣 調節記憶體 反手敲進面板雙虎20萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85255%E5%84%84%E5%85%83%E9%80%A3%E4%B8%89%E8%B3%A3-%E8%AA%BF%E7%AF%80%E8%A8%98%E6%86%B6%E9%AB%94-%E5%8F%8D%E6%89%8B%E6%95%B2%E9%80%B2%E9%9D%A2%E6%9D%BF%E9%9B%99%E8%99%8E20%E8%90%AC%E5%BC%B5-103037962.html",
+      "Content": "台股今 (6) 日上沖下洗震盪近千點，終場下跌 224 點、收在 46,556 點，跌破五日線，外資提款記憶體與主動式 ETF，調節力積電與華邦電共 6 萬張，並反手敲進面板雙虎約 20 萬張。\n\n三大法人賣超 283.17 億元，外資賣超 255.04 億元，連三賣，投信買超 69.07 億元，連十買，自營商賣超 97.21 億元，連三賣；台指期方面，外資減碼空單 965 口，未平倉空單口數降至 80,087 口。\n\n外資賣超瞄準記憶體與主動式 ETF 兩大族群，其中，力積電 (6770-TW) 達 3.5 萬張，位居外資第三名，華邦電 (2344-TW) 也有 2.5 萬張，主動統一台股增長 (00981A-TW) 則位居賣超首位，張數高達 7 萬張，主動統一升級 50(00403A-TW)、 主動統一全球創新 (00988A-TW)、 主動國泰動能高息 (00400A-TW) 也全數入列外資賣超前十名，三檔合計達 5.1 萬張。\n\n外資買超青睞面板雙虎，群創 (3481-TW) 與友達 (2409-TW) 分別位列外資買超第一、二名，合計敲進 20.7 萬張，化工業的長興 (1717-TW)、中石化 (1314-TW) 也獲青睞，張數都在 2 萬張以上。\n\n自營商也與外資有志一同，同步加碼群創、友達，合計達 1.3 萬張，也青睞長興約 2 千張。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "8299.TWO",
+      "Date": "2026-07-06",
+      "Time": "16:39:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "記憶體鬼故事多！股市常勝軍中環也栽了 賣掉這檔賠1500萬",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E9%AC%BC%E6%95%85%E4%BA%8B%E5%A4%9A-%E8%82%A1%E5%B8%82%E5%B8%B8%E5%8B%9D%E8%BB%8D%E4%B8%AD%E7%92%B0%E4%B9%9F%E6%A0%BD%E4%BA%86-%E8%B3%A3%E6%8E%89%E9%80%99%E6%AA%94%E8%B3%A01500%E8%90%AC-083953145.html",
+      "Content": "股市常勝軍中環近年積極布局台股，投資績效亮眼，不過近期記憶體、矽光子族群急速回檔，也讓公司遭遇挫折。根據中環近日公布的重大訊息，公司認賠出脫威剛、群聯及華星光等持股。\n\n中環先前布局威剛，平均買進價格為413.74元，截至7月3日收盤價411元，公司已於7月2日先行處分848張持股，認列損失約424萬元。\n\n另一檔記憶體指標股群聯則成為中環此次操作中虧損最重的個股。公司於6月23日至25日期間買進135張，平均成本約2427元，但隨後股價一路走弱，中環自6月25日起陸續出脫持股，截至7月3日股價跌至2295元，累計認列虧損約1541萬元。\n\n此外，中環也出售683張華星光，再認列約481萬元損失。相較於5月賣股幾乎筆筆獲利，隨著矽光子與記憶體族群同步大幅修正，就連投資經驗豐富的上市公司也難以全身而退，顯示近期市場波動相當劇烈。\n\n此外，中環也在7月期間處分880張南亞科，平均售價414.98元，實現處分利益約127萬元，但與6月出售1080張南亞科、大賺逾1600萬元相比，獲利明顯縮水。\n\n近期記憶體族群接連遭遇利空消息衝擊，包括Meta計畫出售部分AI算力、SK海力士規劃未來5年擴產翻倍、以及大陸NOR Flash大廠兆易創新示警記憶體價格可能反轉。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "3443.TW",
       "Date": "2026-07-06",
       "Time": "14:12:30",
@@ -400,6 +670,26 @@
       "Title": "【公告】創意 2026年6月合併營收49.29億元 年增103.72%",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%89%B5%E6%84%8F-2026%E5%B9%B46%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B649-29%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E103-061230543.html",
       "Content": "日期： 2026 年 07 月 06日\n\n上市公司：創意 (3443)\n\n單位：仟元\n\n【公告】創意 2026年6月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n4,928,512\n\n去年同期\n\n2,419,270\n\n增減金額\n\n2,509,242\n\n增減百分比\n\n103.72\n\n本年累計\n\n25,344,369\n\n去年累計\n\n13,128,221\n\n12,216,148\n\n93.05",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-06",
+      "Time": "10:44:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科除息在即！盤中飆逾7%領軍記憶體族群 分析師：填息行情可期",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E9%99%A4%E6%81%AF%E5%9C%A8%E5%8D%B3%EF%BC%81%E7%9B%A4%E4%B8%AD%E9%A3%86%E9%80%BE7%E9%A0%98%E8%BB%8D%E8%A8%98%E6%86%B6%E9%AB%94%E6%97%8F%E7%BE%A4-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%A1%AB%E6%81%AF%E8%A1%8C%E6%83%85%E5%8F%AF%E6%9C%9F-024403456.html",
+      "Content": "記憶體大廠南亞科（2408）將於7日除息，每股配發現金股利1.347元，睽違兩年再度發放股利。除息前夕買盤提前卡位，南亞科今（6）日盤中勁揚逾7%，站上443元，帶動華邦電（2344）、旺宏（2337）等記憶體族群同步走強。分析師表示，在營收動能持續增溫、產業供需改善的支撐下，南亞科填息機率偏高，若後續能帶量突破壓力區，股價仍有續攻空間。\n\n記憶體族群回神，華邦電盤中一度勁揚逾8%，股價衝上200元整數關卡，南亞科同步大漲逾7%，帶動族群氣勢。不過隨著獲利了結賣壓出籠，華邦電漲幅迅速收斂，截至上午10時35分暫報189元，漲幅約2.4%。此外，受惠封測題材，福懋科（8131）與南茂（8150）雙雙亮燈漲停，記憶體IC設計廠鈺創（5351）也勁揚逾9%。\n\n永誠國際投顧分析師黃宇帆指出，記憶體族群呈現反攻型態，雖然近期市場雜音較多，但未來產能和供需失衡仍持續，因此，營收表現是目前主要觀察指標，隨著六月份營收陸續公布，若能見到營收創高的表現，基本面上都能支撐股價回升。\n\n黃宇帆續指，南亞科先前曾一度跌破月線，今日則重新站上月線之上，量能方面也比上周有明顯增加。今日南亞科盤中高點來到443元，後續需留意465元壓力區，若能帶量突破該反壓區，有機會持續上攻。\n\n南亞科睽違兩年配發股利，每股配息1.347元。對此，黃宇帆認為，今年市場除權息行情普遍能快速填息，甚至可能出現秒填息，由於目前的股價跳漲單位相對配息金額來說，很容易一下就越過息差空間；因此，在營收預期看好且填息機率高的情況下，建議續抱參加除息。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-07-06",
+      "Time": "09:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電、南亞科噴7%！ 台股上漲428點 重返47000關卡",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%99%B47-%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2428%E9%BB%9E-%E9%87%8D%E8%BF%9447000%E9%97%9C%E5%8D%A1-011200040.html",
+      "Content": "台股今（6）日開高震盪，上漲428點，來到47209點，重返47000關卡，漲幅0.83%，預估成交量1.1兆；櫃買指數則來到453.21點，上漲7.86點，漲幅1.68%。\n\n權值股部分，台積電今日開高震盪，上漲25元，來到2470元，漲幅1.05%，聯發科來到4305元，上漲1100元，漲幅2.62%，鴻海來到245元，上漲4.5元，漲幅1.87%，台達電也有逾2%的漲幅。\n\n觀察今日盤面，記憶體族群強勢走高，華邦電上漲13.5元，來到198.5元，漲幅7.32%，南亞科來到439元，上漲29.5元，漲幅7.2%，旺宏來到147元，漲5元，漲幅3.86%，力積電也有逾2%的漲幅。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
       "Language": "zh"
     },
     {
