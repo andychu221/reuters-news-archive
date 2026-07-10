@@ -1,15 +1,55 @@
 {
-  "last_updated": "2026-07-10T13:20:57.743Z",
-  "total_news_count": 138,
+  "last_updated": "2026-07-10T13:40:48.790Z",
+  "total_news_count": 144,
   "news": [
     {
-      "Ticker": "AMD",
+      "Ticker": "META",
+      "Date": "2026-07-10",
+      "Time": "21:12:56",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Stock Surges as Hidden AI Cost Breakthrough Stuns Wall Street",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-stock-surges-hidden-ai-131256019.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) shares climbed about 3% early Friday after a BofA Securities analysis pointed to potentially lower AI infrastructure costs than Wall Street had expected.\n\nBofA analyst Justin Post reiterated a Buy rating and an $835 price target, saying an internal Meta memo reviewed by Reuters suggests the company could expand computing capacity more efficiently than previously estimated. Meta expects to deploy about 6.5 gigawatts of AI compute capacity during 2026, including 5.5 gigawatts in the second half of the year.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nMeta's projected capital spending of roughly $145 billion implies construction costs near $22 billion per gigawatt, compared with BofA's earlier estimate of about $45 billion per gigawatt. The analyst said the figures, if accurate, may ease investor concerns over the company's heavy AI investment program.\n\nSeparately, Reuters reported that Meta plans to begin manufacturing its custom AI chip, code-named Iris, with partners Broadcom ( NASDAQ:AVGO ) and Taiwan Semiconductor Manufacturing ( NYSE:TSM ) later this year.\n\nBofA said the chip initiative is unlikely to explain the 2026 cost improvements but could strengthen Meta's long-term AI strategy through a broader custom silicon roadmap extending into 2027.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-10",
+      "Time": "21:02:32",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Reports 25% Emissions Jump as AI Data Center Expansion Accelerates",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-reports-25-emissions-jump-130232136.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ), a major software company investing heavily in artificial intelligence infrastructure, reported that its carbon emissions increased 25% in 2025 as its rapid data-center expansion placed more pressure on its sustainability goals. The company emitted 20 million metric tons of carbon dioxide equivalent during the year, compared with 16 million metric tons in 2024. Microsoft said the increase was mainly driven by the construction of new data centers and its previously announced decision to pause purchases of certain renewable-energy credits.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft pledged six years ago to remove more carbon from the atmosphere than it produces by 2030, but its push to become a major force in artificial intelligence appears to be making that target more difficult to reach. The company said AI infrastructure is increasing demand for energy, water, land and construction materials, while sustainability solutions are not expanding quickly enough to keep pace. In June, Microsoft signed an agreement with Chevron ( NYSE:CVX ), an energy company, to purchase electricity from a large natural-gas-fired power plant planned for West Texas and use that power for a new data-center complex.\n\nMicrosoft has also pulled back from new carbon-banking agreements and considered shelving a target that would match its hourly data-center electricity consumption with renewable energy. The company said its emissions would have been lower without its decision last year to stop purchasing a controversial category of carbon credit that does not directly encourage the development of new carbon-free power. Microsoft President Brad Smith and Chief Sustainability Officer Melanie Nakagawa said the company plans to refine its approach as conditions, data and trade-offs evolve, while maintaining that it is not reducing its broader sustainability ambitions. Investors may view the report as a sign that Microsoft's aggressive AI infrastructure spending could continue to create significant energy and environmental challenges as the company works toward its 2030 target.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-10",
+      "Time": "20:59:40",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Weighs Renting AI Compute as Cloud Business Takes Shape",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-weighs-renting-ai-compute-125940095.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ), the technology company developing artificial intelligence products and infrastructure, is considering whether parts of its computing network could generate more value by being rented to outside customers. Chief Executive Officer Mark Zuckerberg said demand for AI computing power is so strong that some external offers may be more attractive than using the capacity exclusively for Meta's internal projects. However, Zuckerberg emphasized that Meta has not necessarily built more infrastructure than it needs, noting that the company is currently using all of its available computing power and still sees substantial internal demand. Investors may view the potential cloud expansion as an opportunity for Meta to generate direct revenue from the data centers, chips, and computing partnerships supporting its AI operations.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nMeta is developing several possible cloud offerings, including a service that would allow developers to access AI models running on the company's existing infrastructure. The structure could resemble Bedrock, a service offered by Amazon Web Services, Amazon's cloud-computing business, with Meta operating the data centers and chips while charging developers to use hosted models, including its own Muse Spark models. Zuckerberg did not confirm that Meta would host competing AI models, but said the possibility could make sense to evaluate. Meta is also considering selling access to raw computing capacity in a model similar to CoreWeave, a cloud-computing company, while Zuckerberg said long-term demand from customers could provide a backstop if Meta eventually has infrastructure it does not require for its own operations.\n\nZuckerberg also pointed to the strategy used by SpaceX ( NASDAQ:SPCX ), Elon Musk's space company, which is renting access to its Memphis data center to Anthropic, an artificial intelligence developer, and has reached a separate agreement with Google, a technology company offering computing services. He said short-term computing agreements carrying large premiums could be worth considering as Meta receives similar offers. Meta has already moved toward another form of paid AI access by announcing plans to offer Muse Spark 1.1 through an application programming interface, with developers charged according to the number of tokens they use. This approach could create an additional revenue channel for Meta, although Zuckerberg said the company continues to have significant internal uses for its computing capacity.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, AMD",
       "Date": "2026-07-10",
       "Time": "20:57:14",
       "Source": "Yahoo Finance",
       "Title": "Cathie Wood Dumps AMD, Doubles Down on Meta Stock",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-amd-doubles-125714691.html",
       "Content": "This article first appeared on GuruFocus .\n\nCathie Wood's ARK added to its Meta Platforms ( NASDAQ:META ) position while further reducing its stake in Advanced Micro Devices ( NASDAQ:AMD ), according to the firm's daily trade disclosure released Thursday.\n\nMeta Platforms ( NASDAQ:META ) was ARK's largest purchase of the day, with the investment manager acquiring 34,080 shares valued at about $20.6 million. The firm also bought 217,896 shares of Circle Internet Group (CRCL) across three of its exchange-traded funds, expanding its exposure to digital asset infrastructure.\n\nWarning! GuruFocus has detected 9 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nOn the selling side, ARK disposed of 10,774 shares of Advanced Micro Devices ( NASDAQ:AMD ) worth about $5.6 million, extending a series of sales in the chipmaker over the past week.\n\nThe firm also reduced positions in Robinhood Markets ( NASDAQ:HOOD ), Natera ( NASDAQ:NTRA ), Twist Bioscience (TWST), and Roku ( NASDAQ:ROKU ), while increasing holdings in Ionis Pharmaceuticals ( NASDAQ:IONS ), Prime Medicine ( NASDAQ:PRME ), Generate Biomedicines, and Compass Pathways (CMPS) as part of its latest portfolio rebalancing.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-10",
+      "Time": "20:57:02",
+      "Source": "Yahoo Finance",
+      "Title": "CCC Intelligent Solutions, Circle rise premarket; Silo Pharma, Fermi America fall",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/ccc-intelligent-solutions-circle-rise-125702837.html",
+      "Content": "Investing.com - U.S. stock index futures edged lower on Friday as investors consolidated gains following Wall Street's sharp relief rally, with easing crude oil prices and signs of a possible diplomatic breakthrough between Washington and Tehran helping stabilize broader market sentiment.\n\nBy 08:25 ET, S&P 500 Futures was flat, Nasdaq 100 Futures had fallen 0.3%, while Dow Jones Futures were up 0.3%.\n\nArtificial intelligence and software stocks remained in focus, while investors also reacted to regulatory approvals, takeover speculation and fresh capital-raising activity.\n\nHere are some of the biggest premarket U.S. stock movers today:\n\nCCC Intelligent Solutions surged 14.5% after a Reuters report said the software company is exploring a potential sale. The report said CCC has hired Morgan Stanley to lead the process and has begun reaching out to prospective buyers, including private equity firms.\n\nCircle Internet Group climbed 7% after receiving approval from the U.S. Office of the Comptroller of the Currency to establish First National Digital Currency Bank, a national trust bank that will operate under direct federal oversight.\n\nMeta Platforms gained 3.8% after unveiling Muse Spark 1.1, its latest artificial intelligence model aimed at the rapidly expanding market for AI agents and coding applications. The company also introduced paid access for developers, marking a significant step toward monetizing its AI investments.\n\nFermi America tumbled 14.6% after pricing an upsized $375 million offering of 5.00% convertible senior notes due 2031. Investors appeared concerned about the potential dilution associated with the financing.\n\nSilo Pharma dropped 22% after announcing an at-the-market private placement of up to $11.7 million. The offering includes common stock and warrants, with the proceeds expected to support the company's ongoing development programs.\n\nCCC Intelligent Solutions, Circle rise premarket; Silo Pharma, Fermi America fall\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
       "Language": "en"
     },
     {
@@ -23,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-07-10",
+      "Time": "20:50:47",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Stock in Focus After $2 Billion AI Deal Falls Apart",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-stock-focus-2-billion-125047342.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta ( NASDAQ:META ) is reportedly being required to unwind its $2 billion acquisition of AI startup Manus after intervention from Chinese authorities, opening the door for Tencent Holdings ( TCEHY ) to pursue a controlling stake.\n\nTencent is in discussions with Manus and several of the startup's existing investors, including ZhenFund and HSG, to acquire the company after Beijing directed Meta to reverse the transaction, according to a Thursday media report.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe proposed consortium is considering a deal valued at no less than $2 billion, which would make Tencent the startup's largest shareholder if completed. The report said the group aims to repurchase Manus from Meta following the regulatory order.\n\nThe reported move comes as competition for artificial intelligence assets continues to intensify among major technology companies, particularly in China, where regulatory scrutiny remains a key factor in cross-border transactions.",
+      "Language": "en"
+    },
+    {
       "Ticker": "TSLA",
       "Date": "2026-07-10",
       "Time": "20:49:01",
@@ -30,6 +80,16 @@
       "Title": "Rivian Automotive vs. Tesla: What Their Revenue Trends Tell Investors",
       "URL": "https://finance.yahoo.com/m/a5f01b62-7778-3a02-8a60-99ab4849d1b6/rivian-automotive-vs.-tesla%3A.html",
       "Content": "Rivian Automotive: Maintaining Steady Revenue\n\nRivian Automotive (NASDAQ:RIVN) primarily generates revenue by designing, engineering, and manufacturing electric pickup trucks and sport utility vehicles for consumers, along with commercial delivery vans.\n\nIt initiated customer deliveries of a mid-size vehicle and established a battery storage collaboration, while it reported a net income margin of -30% for the quarter ended March 31, 2026.\n\nTesla: Scaling the Core Business\n\nTesla (NASDAQ:TSLA) primarily earns revenue by creating and distributing electric vehicles, alongside selling automotive regulatory credits, non-warranty support, and comprehensive energy generation and storage solutions.\n\nWhile recalling some vehicles over missing labels and partnering on residential energy resources, it reported an EBIT margin of 4% for the quarter ended March 31, 2026.\n\nWhy Revenue Matters for Investors\n\nRevenue gives retail investors a clear view of the total capital flowing into a corporation before operating costs and taxes are removed from the ledger. This metric helps investors measure a company's overall size, market footprint, and long-term trajectory.\n\nQuarterly Revenue for Rivian Automotive and Tesla\n\nQuarter (Period End)\n\nRivian Automotive Revenue\n\nTesla Revenue\n\nQ2 2024 (June 2024)\n\n$1.2 billion\n\n$25.5 billion\n\nQ3 2024 (Sept. 2024)\n\n$874.0 million\n\n$25.2 billion\n\nQ4 2024 (Dec. 2024)\n\n$1.7 billion\n\n$25.7 billion\n\nQ1 2025 (March 2025)\n\n$19.3 billion\n\nQ2 2025 (June 2025)\n\n$1.3 billion\n\n$22.5 billion\n\nQ3 2025 (Sept. 2025)\n\n$1.6 billion\n\n$28.1 billion\n\nQ4 2025 (Dec. 2025)\n\n$24.9 billion\n\nQ1 2026 (March 2026)\n\n$1.4 billion\n\n$22.4 billion\n\nData source: Company filings. Data as of July 7, 2026.\n\nFoolish Take\n\nComparing the revenue trend for these two electric vehicle (EV) giants offers key insights, but isn't the whole story. Rivian has slowly grown sales from the second quarter of 2024 to now. In Q1, the company's $1.4 billion represented an excellent 11% year-over-year increase. However, lacking Tesla's scale, Rivian remains unprofitable with a Q1 operating loss of $655 million.\n\nIn that same time, Tesla has been inconsistent in its revenue growth despite possessing a first-mover advantage in the EV market. This demonstrates the rising competitive situation in the industry as many automakers moved into offering their own EVs. Still, Tesla's Q1 operating income of $941 million was an impressive 136% year-over-year improvement.\n\nNow, Tesla is evolving its business towards autonomous vehicles and robots. This could unlock new revenue growth for the company, while Rivian has turned to partnerships with the likes of Volkswagen to keep its business going. Tesla's stronger financials, vertically-integrated business model, and exciting future growth strategies keep it well ahead of competitor Rivian as a key player in the EV market.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-10",
+      "Time": "20:49:00",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Stock Rises on New Shipping Push. That's Bad News for UPS and FedEx",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-rises-shipping-push-124900135.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) shares climbed about 1.5% on Thursday after a report said the company's shipping business is offering discounted rates to attract customers from rivals United Parcel Service ( NYSE:UPS ) and FedEx ( NYSE:FDX ).\n\nThe report, citing industry experts, said Amazon Shipping is approaching businesses with simplified pricing, no residential delivery surcharges and shipping rates that could be as much as 30% below comparable offerings from UPS and FedEx. The strategy is aimed at expanding Amazon's presence in the commercial parcel delivery market.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAmazon has gradually broadened its logistics operations beyond supporting its own marketplace. Earlier this year, the company launched Amazon Supply Chain Services, providing freight transportation, warehousing, fulfillment and parcel delivery through its network of trucks, aircraft and intermodal containers.\n\nWhile UPS and FedEx continue to dominate premium services such as overnight and same-day delivery, the report said Amazon's expanding logistics capabilities may increase pricing pressure across parts of the shipping industry. Amazon said businesses are increasingly adopting its supply chain offerings as it continues to build out its logistics platform.",
       "Language": "en"
     },
     {
@@ -53,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-07-10",
       "Time": "20:45:00",
       "Source": "Yahoo Finance",
@@ -173,7 +233,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "CSCO",
+      "Ticker": "AMZN, CSCO",
       "Date": "2026-07-10",
       "Time": "19:54:00",
       "Source": "Yahoo Finance",
