@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-11T07:00:52.625Z",
-  "total_news_count": 350,
+  "last_updated": "2026-07-11T07:18:28.956Z",
+  "total_news_count": 351,
   "news": [
+    {
+      "Ticker": "005930.KS, 000660.KS",
+      "Date": "2026-07-11",
+      "Time": "14:55:00",
+      "Source": "Yahoo Finance",
+      "Title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development",
+      "URL": "https://finance.yahoo.com/m/288fa85e-a165-370c-bdfc-ef3b175c8c24/micron-ceo-sanjay-mehrotra.html",
+      "Content": "In the age of artificial intelligence (AI) infrastructure, Micron Technology 's (NASDAQ: MU) plan to invest more than $250 billion in U.S. fab expansions marks an aggressive escalation. This capital outlay aims to scale the company's DRAM manufacturing while laying the groundwork for higher-volume high-bandwidth memory (HBM) production.\n\nBy deepening production at domestic facilities, Micron is increasingly positioned to capture a larger share of the AI memory supercycle amid fierce competition from SK Hynix and Samsung .\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nSecular AI demand is mitigating cyclicality in the memory market\n\nMicron's decision to increase investment in manufacturing may seem counterintuitive because memory markets have historically moved in tandem with PC and smartphone cycles. However, hyperscalers like Microsoft , Alphabet , Amazon , and Meta Platforms have demonstrated an insatiable appetite for AI infrastructure, including advanced memory chips.\n\nIn particular, HBM stacks require large quantities of advanced DRAM wafers and sophisticated packaging. These are the areas that Micron's investments are targeting. Scaling output supports Micron's long-term goal of producing 40% of total DRAM domestically. The vision is to create a more durable growth trajectory, enabling the company to close the market-share gap with overseas rivals.\n\nMicron has been investing in U.S. manufacturing already\n\nIn New York, the company is building a complex with up to four fabs focused on high-volume DRAM production. Meanwhile, in Idaho and Virginia, Micron is investing in further R&D to accelerate product development and modernize existing operations.\n\nBy doubling down on existing infrastructure with this new multiyear build-out, Micron is quietly creating an end-to-end domestic ecosystem spanning wafer fabrication through advanced packaging. This playbook rivals the integrated operations long enjoyed by SK Hynix and Samsung in Asia.\n\nMicron's progression over the next several years should transform earlier piecemeal investments into a more cohesive platform purpose-built for sustained leadership in both DRAM and AI-optimized HBM, directly fueling the company's ongoing ascent throughout the AI infrastructure era.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-11",
