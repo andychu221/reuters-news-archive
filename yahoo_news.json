@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-13T18:32:10.226Z",
-  "total_news_count": 160,
+  "last_updated": "2026-07-13T18:40:20.358Z",
+  "total_news_count": 161,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-14",
+      "Time": "02:37:17",
+      "Source": "Yahoo Finance",
+      "Title": "AI Leaders Shift to Lower-Cost Models as OpenRouter Secures $100 Million+",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/ai-leaders-shift-lower-cost-183717966.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThree prominent artificial intelligence developers have introduced new models over the past week as business customers increasingly focus on the cost of using advanced AI systems. OpenAI, the developer of ChatGPT, said GPT-5.6 is designed to complete more work while consuming significantly fewer tokens, which could make the model more economical for enterprise customers. Elon Musk's SpaceXAI, an artificial intelligence developer, said Grok 4.5 offers twice the token efficiency of comparable models from other companies. Meta Platforms ( NASDAQ:META ), an online advertising company developing artificial intelligence models, is also positioning Muse Spark 1.1 with pricing that CEO Mark Zuckerberg described as attractive. The launches suggest that affordability may be becoming a more important competitive factor as companies examine whether their rising AI spending is delivering sufficient value.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe stronger emphasis on efficiency follows growing concern among business customers about unexpectedly high AI bills. Some companies previously encouraged employees to use AI extensively through a practice known as tokenmaxxing, but tighter spending limits have since emerged after developers such as Anthropic PBC, an artificial intelligence company, moved toward usage-based pricing rather than flat subscription fees. Gautier Cloix, CEO of Paris-based AI startup H Company, said several executives had accumulated substantial charges from using models supplied by OpenAI and Anthropic, including one business whose monthly invoice reached millions of dollars. Gil Luria, head of technology research at investment firm DA Davidson & Co., said companies are beginning to question efficiency as their AI costs increase. OpenAI has responded by introducing credit-usage analytics and updated spending controls, while CEO Sam Altman said enterprises are now examining both their spending and the value they receive from AI.\n\nThe changing pricing environment could place additional pressure on higher-cost developers while rewarding providers that can deliver capable models more efficiently. Meta may have greater flexibility to compete aggressively because it benefits from a profitable online advertising business, and Zuckerberg argued that some rival laboratories charge prices carrying very high margins. Chinese technology companies such as DeepSeek have also expanded the supply of lower-cost open AI models that, while trailing the most advanced U.S. systems, remain capable of handling many routine tasks. OpenRouter, a model-routing service that allows users to select among hundreds of AI models for different assignments, raised more than $100 million in May as demand increased. Anthropic may face particular scrutiny because its Opus and Fable models rank among the most expensive on a cost-per-task basis, according to benchmarking service Artificial Analysis, while Musk promoted Grok 4.5 as faster, more token-efficient, and less expensive than an Opus-class model.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-14",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-07-14",
       "Time": "01:35:00",
       "Source": "Yahoo Finance",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-07-14",
       "Time": "01:25:21",
       "Source": "Yahoo Finance",
@@ -123,7 +133,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "LRCX, KLAC",
+      "Ticker": "ENTG, LRCX, KLAC",
       "Date": "2026-07-14",
       "Time": "00:55:00",
       "Source": "Yahoo Finance",
