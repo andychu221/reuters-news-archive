@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T10:02:12.012Z",
+  "last_updated": "2026-07-13T10:15:12.634Z",
   "total_news_count": 474,
   "news": [
     {
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, TSLA, NVDA",
       "Date": "2026-07-13",
       "Time": "17:35:00",
       "Source": "Yahoo Finance",
@@ -83,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "AAPL, TSM, NVDA, AMD",
       "Date": "2026-07-13",
       "Time": "17:10:00",
       "Source": "Yahoo Finance",
