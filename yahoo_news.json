@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-13T12:00:58.424Z",
-  "total_news_count": 509,
+  "last_updated": "2026-07-13T12:15:19.527Z",
+  "total_news_count": 511,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-13",
+      "Time": "20:02:59",
+      "Source": "Yahoo Finance",
+      "Title": "Intel announces $5.7 billion capital investment at Irish manufacturing hub",
+      "URL": "https://finance.yahoo.com/technology/articles/intel-announces-5-7-billion-120259165.html",
+      "Content": "LEIXLIP, Ireland, July 13 (Reuters) - Intel has begun a €5 billion ($5.7 billion) capital investment at its Irish campus ‌to expand its manufacturing output in Europe and ‌meet growing global demand for AI and high-performance computing, the U.S. chipmaker ​said on Monday.\n\nIntel said the move would maximize capacity at its European manufacturing base in Leixlip outside Dublin, expanding current production output, advancing research and development activities and utilising ‌capacity across existing cleanroom ⁠space.\n\nIntel is one of the key multinationals in Ireland's foreign investment-focused economy, having already invested €30 ⁠billion in the country since 1989, more than half of which was spent between 2019 and 2023 to double ​capacity at ​the plant in order to ​produce the company's most ‌advanced process technologies.\n\nThe chipmaker, which employs 4,900 people in Ireland, said its latest capital expenditure programme at the Leixlip campus began earlier this year.\n\nThe investment will upgrade existing fabrication facilities and the install leading-edge manufacturing equipment to deliver ‌Intel Xeon 6 processors and next ​generation Intel Xeon built on ​the group's Intel 3 ​manufacturing process, the company said.\n\n\"We are not ‌just increasing output of critical ​products, we are ​ensuring Ireland remains at the forefront of the world's most advanced manufacturing ecosystems, while strengthening the region's role in the ​global technology ‌landscape,\" Naga Chandrasekaran, executive vice president of Intel Foundry, ​said in a statement.\n\n($1 = 0.8750 euros)\n\n(Reporting by Padraic ​Halpin; Editing by Sarah Young)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-13",
+      "Time": "19:59:44",
+      "Source": "Yahoo Finance",
+      "Title": "Good News For TSMC Stock Investors",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/good-news-tsmc-stock-investors-115944126.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ) reported record second-quarter revenue of NT$1.27 trillion ($39.63 billion), topping market expectations as demand for artificial intelligence chips continued to support sales.\n\nRevenue increased 36% from a year earlier, above the LSEG consensus estimate of NT$1.264 trillion. The result also landed within the company's previously projected range of $39 billion to $40.2 billion. TSMC is scheduled to release full second-quarter earnings on July 16.\n\nWarning! GuruFocus has detected 1 Warning Sign with SKHYV.\n\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\n\nFor June, Taiwan Semiconductor Manufacturing ( NYSE:TSM ) posted revenue of NT$442.68 billion, rising 6.2% from May and 67.9% from the same month last year. The company said continued demand for advanced AI semiconductors supported the monthly increase.\n\nFirst-half revenue reached a record NT$2.404 trillion, up 35.6% year over year, reflecting sustained spending on AI-related infrastructure and advanced chip production.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-07-13",
@@ -153,7 +173,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, TSLA, META, MSFT, GOOGL, AMZN",
       "Date": "2026-07-13",
       "Time": "18:13:17",
       "Source": "Yahoo Finance",
