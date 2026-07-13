@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T11:40:10.418Z",
-  "total_news_count": 500,
+  "last_updated": "2026-07-13T11:45:51.438Z",
+  "total_news_count": 503,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -23,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".KS11",
+      "Date": "2026-07-13",
+      "Time": "18:57:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美伊衝突再起油價飆 科技股賣壓拖累韓股重摔近9%",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E5%86%8D%E8%B5%B7%E6%B2%B9%E5%83%B9%E9%A3%86-%E7%A7%91%E6%8A%80%E8%82%A1%E8%B3%A3%E5%A3%93%E6%8B%96%E7%B4%AF%E9%9F%93%E8%82%A1%E9%87%8D%E6%91%94%E8%BF%919-105753739.html",
+      "Content": "（中央社香港2026年07月13日綜合外電報導）美國與伊朗衝突再起，對雙方原本就脆弱的停火構成威脅，國際油價今天大漲逾4%。與此同時，科技股新一波賣壓拖累首爾股市今天收盤重摔近9%，韓股今天觸發年來第7度熔斷，一度暫停交易。\n\n法新社報導，談判人員努力磋商和平協議，以維持戰略水道荷莫茲海峽（Strait of Hormuz）開放之際，美伊衝突再起，中東局勢再度緊張。國際油價聞訊大漲，市場憂心戰爭恐推升通膨，迫使各國央行升息。\n\n不過，IG市場分析師葉蔚文（Fabien Yip）指出，油價不太可能重返今年2月28日美國與以色列聯手攻擊伊朗後創下的高點。\n\n她表示：「短期內，風險溢價應會持續支撐油價，但不太可能重演先前的暴漲，因為需求復甦依然緩慢，而受困油輪獲釋及石油輸出國組織與夥伴國（OPEC+）擴大產量配額，將繼續為原本就供應過剩的前景增加市場供給。」\n\n韓股Kospi指數今天受權值股SK海力士（SK hynix）暴跌及三星電子（Samsung Electronics）重挫拖累，收盤大跌近9%。\n\n韓股盤中一度觸發今年以來第7度熔斷機制，暫停交易20分鐘。SK海力士自上月創下歷史新高以來，市值已蒸發近40%。\n\n日股今天也在科技大廠愛德萬測試（Advantest）和東京威力科創（Tokyo Electron）跌勢拖累下，挫跌近2%。\n\n至於其他亞股，上海、新加坡、威靈頓、馬尼拉股市皆收低；香港、台北和雅加達股市則收高。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-13",
       "Time": "18:50:00",
@@ -43,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-13",
+      "Time": "18:40:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股上週跌1426點　上市股票總市值減少4.62兆元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%B8%8A%E9%80%B1%E8%B7%8C1426%E9%BB%9E-%E4%B8%8A%E5%B8%82%E8%82%A1%E7%A5%A8%E7%B8%BD%E5%B8%82%E5%80%BC%E6%B8%9B%E5%B0%914-62%E5%85%86%E5%85%83-104021756.html",
+      "Content": "（中央社記者潘智義台北2026年07月13日電）證交所統計，7月9日台股收在45354.61點，週線下跌1426.01點，跌幅3.05%，以塑膠類指數下跌9.20%最大，貿易百貨類指數漲2.98%最多。上週全體上市公司市場總值新台幣148兆387.68億元，較前週減少4兆6225.04億元，減幅約3.03%。\n\n證交所說明，上週未含金融類指數下跌1475.62點，跌幅約3.5%，未含電子類指數下跌176.21點，跌幅約0.74%，未含金融電子類指數下跌490.51點，跌幅約3.02%。\n\n上週集中交易市場總成交金額為4兆2939.01億元，全體上市股票成交金額為3兆9518.15億元，股票成交量週轉率為3.3%。\n\n各產業上市股票成交金額前3名依序為半導體類1兆3696.32億元，占全體上市股票交易金額34.66%；電子零組件類1兆1237.82億元，占28.44%；光電類3023.68億元，占7.65%。\n\n成交量週轉率前3名產業依序為光電類14.42%、化學類 11.13%、電子零組件類9.13%。\n\n證交所指出，累計今年初開盤至上週末共123個交易日，集中市場總成交金額126兆7462.14億元，市場日平均成交金額為1兆304.57億元，股票成交量週轉率110.45%，股票日平均成交量週轉率0.9%。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SNDK, NVDA, MU",
       "Date": "2026-07-13",
       "Time": "18:30:00",
@@ -51,6 +71,16 @@
       "URL": "https://finance.yahoo.com/m/bc538258-b178-3be2-9d0e-a8aa9e42eb00/will-memory-giants-micron%2C.html",
       "Content": "Artificial intelligence (AI) needs compute in order to develop and be put to use, and this has powered the share prices of chip designers from Nvidia to Advanced Micro Devices . They make the logic chips, such as graphics processing units (GPUs) and central processing units (CPUs), that fuel key AI tasks.\n\nBut logic chips aren't the only crucial ingredient in the AI story. Along with these, AI also requires memory and storage, elements provided by companies including Micron Technology (NASDAQ: MU), SK Hynix , and Sandisk (NASDAQ: SNDK). In fact, as AI platforms are now applied to real-world problems, the need for memory has become greater than ever.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAll of this has buoyed the stock prices of these memory market leaders. Micron and Sandisk have soared nearly 700% and almost 4,000%, respectively, over the past year. And SK Hynix of South Korea just splashed onto the U.S. market, debuting on the Nasdaq on July 10. In their first day of trading, the American depositary receipts (ADRs) jumped 13%.\n\nIt's no surprise that investors now are asking: Will these memory giants continue to roar higher? History offers a strikingly clear answer.\n\nThe importance of memory chips\n\nSo, first, let's consider the path of these players and the general AI market environment. Micron, SK Hynix, and Sandisk each offer the various types of memory needed across devices and industries. Memory chips are found in everything from smartphones to laptops, so they are broadly used in consumer products -- and today, AI data centers have become massive memory chip customers, driving prices higher and supply lower.\n\nAll of this has been a boon to memory chip leaders, with demand so high that each of these players has seen tremendous growth in earnings and stock price. For example, in the recent quarter, Micron reported a 345% increase in revenue to $41 billion and data center gross margin of 87%. And the company expects tight supply to continue beyond 2027 amid high AI demand.\n\nSK Hynix and Sandisk have delivered similar messages as the data center demand for chips increased. And logic chip designers such as Nvidia have confirmed this pattern. Today, AI is shifting into the phase of agentic AI -- this is use of AI to handle real-world problems, and AI needs more and more memory and storage power to get the job done. So we actually could see an acceleration of memory demand in this stage of the AI growth story.\n\nStory Continues\n\nA cyclical past\n\nSo does this mean memory stocks have much farther to run? Let's look to history for some clues. Memory stocks are cyclical: Demand rises, manufacturers increase output, supply returns, demand and prices decline.\n\nHere's a look at Micron's stock price and revenue pattern during and following three of the last major memory cycles. The first is during the personal computing boom from 1993 through 1996.\n\nThe next happened during the smartphone revolution, from 2016 through 2019.\n\nThe following cycle, driven by remote work during the pandemic, spanned 2020 through 2023.\n\nNow, here's a look at Micron during the current cycle. The stock has come down from its highs, and some may argue that it has peaked.\n\nWhat might be next\n\nSo the message is pretty clear: History shows that memory stocks have indeed been cyclical, with stock performance and revenue peaking, then going on for a period of declines. This could suggest that, after such enormous gains in revenue and share performance, we may be heading for the downward phase of the cycle. And if it isn't imminent, it could happen as the companies' manufacturing expansions result in greater supply over the next few years.\n\nBut it's important to keep in mind that the AI boom may be different from other periods we've encountered -- and that could alter the cycle in important ways. The downward phase may come much later, or it may not be as deep. And if one or both of those possibilities actually take place, revenue and stock performance might hold up much better than they did in the past. Considering the need for memory in agentic AI and in future AI phases such as robotics, this scenario could play out.\n\nAll of this means that, though history says memory companies like SK Hynix and Micron may be heading for a dip, it might not be as pronounced or long-lasting as it was in the past. And that's positive news for long-term investors, who don't mind waiting out any down periods.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-13",
+      "Time": "18:15:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "新台幣力守32元大關 下半年反彈緊盯三關鍵",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8A%9B%E5%AE%8832%E5%85%83%E5%A4%A7%E9%97%9C-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8F%8D%E5%BD%88%E7%B7%8A%E7%9B%AF%E4%B8%89%E9%97%9C%E9%8D%B5-101503320.html",
+      "Content": "[ 非凡新聞 ]記者周恬吏,攝影詹明樺\n\n新台幣貶破32元，近期走勢低迷更創下14個月低點，今（13）日出現止貶回升，市場也開始關注升值力道能否延續。專家指出，中東局勢、聯準會動向與外資進出，將是後續觀察的三大關鍵。另一方面，前波台幣走弱，也放大了台積電美元營收換算效益，助攻6月營收一舉衝上4426.8億元，連2個月刷新單月新高的紀錄！\n\n白花花台幣現鈔，在數鈔機裡轉到發燙！不敵強勢美元狂潮，新台幣7月貶破32元大關，創下14個月來低點。但受惠台積電法說行情提前發酵，週一止貶、小幅回升，終場升值0.8分，收在32.17元。\n\n群益期貨分析師 鍾俊雄表示：「（偏弱）到30以上、31、32，好像在過往來講都是在這附近。像今天大家有看到，我們過去的出口數據，上個禮拜公布的，還有今天台積電營收都很強，顯示台灣貿易應該是有支持匯率才對。大家要留意一下，不論是股市震盪、中東的戰事，還有Fed的緊縮，那個錢都很容易往美元這邊去跑，反過來講，就像台幣或其他亞幣、非美貨幣，都會有些壓力。」\n\n匯銀人士強調，新台幣能否重啟升值態勢，先看三大關鍵，包括中東局勢、Fed動向，以及外資資金是否回流台股。\n\n另一方面，台幣貶值也同時放大科技業美元營收換算效益。台積電6月營收衝上4,426.8億元，月增6.2%、年增67.9%，連2個月改寫單月歷史新高，寫下最強6月，也是最強上半年紀錄。\n\n但台幣貶勢能否真正趨緩，關鍵還是得看聯準會政策步伐。法人認為，隨著市場逐步消化戰事風險，下半年亞幣仍有反彈空間。\n\n元富投顧董事長 江浩農表示：「即便我們是看到週末有很多雙方（交火）的消息，但可以看到的是，原物料市場，特別是油價這邊，其實波動沒有像當初3、4月來得那麼大。我想市場已經定價，戰爭遲早會結束，所以我們還是認為，接下來美元走強是上半年會比較明顯；往下半年看的話，可能會比較趨緩一點，所以相關亞幣都有反彈空間。」\n\n法人分析，匯率的確是錦上添花，但真正推升營收的關鍵，還是AI需求與先進製程優勢。AI帶動出口動能，也仍是新台幣最大支撐。若外資下半年由賣轉買、資金回流，加上美元強勢趨緩，新台幣仍有機會重啟升值軌道。（記者周恬吏、詹明樺／台北報導）\n\n觀看原文...\n\n中研院大幅上修今年GDP至10.16% 智庫最高\n\n台積電7/16釋AI新訊號 外資力挺調高目標價\n\n台股4萬6得又失! 千點震盪開高後僅小漲25點",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL, AMZN",
