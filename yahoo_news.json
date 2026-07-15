@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-15T14:01:08.722Z",
-  "total_news_count": 744,
+  "last_updated": "2026-07-15T14:17:21.299Z",
+  "total_news_count": 747,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-15",
+      "Time": "22:08:22",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Wins Dismissal of iCloud Lawsuit",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-wins-dismissal-icloud-lawsuit-140822946.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ), the company behind the iPhone, Mac and iCloud , has won dismissal of a lawsuit that accused it of not doing enough to stop child sexual abuse material from being stored and shared through its cloud service.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe case was brought by two plaintiffs on behalf of roughly 2,680 people. They argued that Apple knew the material was circulating on iCloud and should have used available tools to detect and report it.\n\nA federal judge in California disagreed. She ruled that Section 230 protects Apple from claims based on content uploaded by users.\n\nThe judge also said current federal law does not require Apple to create or deploy new scanning technology for iCloud. In her view, any broader change would need to come from Congress rather than the courts.\n\nThe lawsuit sought up to $32.8 billion in damages and changes to the way Apple runs iCloud.\n\nThe case was dismissed with prejudice, so it cannot be filed again in the same form. Lawyers for the plaintiffs said they are considering an appeal.\n\nFor Apple, the ruling removes one large legal threat, though a similar case brought by West Virginia is still pending.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-15",
+      "Time": "22:00:52",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's iPhone AI Strategy Gets China Boost",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apples-iphone-ai-strategy-gets-140052979.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) secured regulatory approval to bring Apple Intelligence to iPhones in China, clearing a major hurdle in one of its most important markets.\n\nThe service will use capabilities from Alibaba's Qwen models and Baidu technology ( NASDAQ:BIDU ), according to Reuters. Alibaba said Qwen will support Apple Intelligence across iOS, iPadOS, macOS and visionOS for users in China, though regulators did not provide a launch date.\n\nWarning! GuruFocus has detected 5 Warning Signs with BABA.\n\nIs BABA fairly valued? Test your thesis with our free DCF calculator.\n\nApple designs the iPhone, Mac, iPad and other consumer devices, while expanding deeper into services and artificial intelligence. Alibaba ( NYSE:BABA ) and Baidu are among China's leading AI developers.\n\nThe approval matters because Apple Intelligence has been unavailable in mainland China since its 2024 debut, leaving Apple behind local rivals such as Huawei and Xiaomi. Greater China revenue rose 28% year over year to $20.5 billion in Apple's fiscal second quarter.\n\nApple shares gained about 1%, while Alibaba jumped roughly 5%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-15",
+      "Time": "21:58:18",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Uses ASML's New EUV System",
+      "URL": "https://finance.yahoo.com/technology/articles/intel-uses-asmls-euv-system-135818460.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ), the chipmaker known for PC processors, server chips and semiconductor manufacturing, has started using ASML's newest lithography system in commercial production.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe company is applying High NA EUV technology to selected layers of its Intel 18A process, which is being used for some Core Ultra Series 3 processors.\n\nThat matters because High NA EUV can print smaller and more precise patterns on chips. In practical terms, it gives manufacturers another tool for building faster and more efficient processors.\n\nIntel said the technology has been qualified at its Oregon facility, with production yields matching those of ASML's current EUV platform.\n\nASML, the Dutch company that makes the world's most advanced chipmaking equipment, called the milestone an important step toward wider adoption of High NA EUV.\n\nThe update also highlights the long partnership between the two companies. Intel has been one of the earliest users of ASML's next-generation equipment.\n\nFor investors, the next question is whether Intel can use the technology to improve yields and regain ground in advanced chip manufacturing.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA, MSFT, GOOGL, AMZN",
       "Date": "2026-07-15",
