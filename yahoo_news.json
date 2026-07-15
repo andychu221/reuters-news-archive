@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-15T19:01:13.910Z",
-  "total_news_count": 839,
+  "last_updated": "2026-07-15T19:15:14.239Z",
+  "total_news_count": 842,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-16",
+      "Time": "02:47:42",
+      "Source": "Yahoo Finance",
+      "Title": "Alibaba Stock Is Jumping -- Apple Picks Qwen AI for China iPhones",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/alibaba-stock-jumping-apple-picks-184742265.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlibaba Group ( NYSE:BABA ) shares rose about 5% on Wednesday after China's cyberspace regulator approved Apple (AAPL) Intelligence for use on iPhones in the country, paving the way for Alibaba's AI technology to be integrated into the service.\n\nAlibaba said its Qwen artificial intelligence model will power parts of Apple Intelligence across iOS, iPadOS, macOS and visionOS for users in China. The company said the integration will enable users to access Qwen's text and image generation capabilities directly within Apple's software ecosystem.\n\nWarning! GuruFocus has detected 5 Warning Signs with BABA.\n\nIs BABA fairly valued? Test your thesis with our free DCF calculator.\n\nReuters reported that Apple Intelligence in China will also incorporate artificial intelligence capabilities from Baidu (BIDU), citing a source familiar with the matter. China's Cyberspace Administration did not specify when the AI features will become available on iPhones sold in the country.\n\nAlibaba said the approval marks an important step for bringing Apple Intelligence to mainland China, where the service had not previously been available.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-16",
+      "Time": "02:45:45",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Looks to Buy AI Chip Startups",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-looks-buy-ai-chip-184545544.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is reportedly exploring acquisitions in the AI chip sector as it looks to strengthen its artificial intelligence capabilities, according to The Information.\n\nThe company has held discussions with bankers in recent months and has approached several semiconductor startups about potential acquisitions. Apple has not commented on the report.\n\nWarning! GuruFocus has detected 5 Warning Signs with BABA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple designs the iPhone, Mac, iPad and other consumer devices while developing its own custom silicon. Its A-series and M-series chips have become a key competitive advantage, but reports suggest its current server chips are struggling with the most demanding AI workloads.\n\nApple has a long history of using acquisitions to build its chip business, including its $278 million purchase of P.A. Semi in 2008. Earlier this year, it reportedly spent about $2 billion to acquire AI startup Q.ai, while it also recently extended its custom chip partnership with Broadcom.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-07-16",
@@ -10,6 +30,16 @@
       "Title": "Arista, Seagate and Astera Lead AI Picks",
       "URL": "https://finance.yahoo.com/technology/ai/articles/arista-seagate-astera-lead-ai-184248758.html",
       "Content": "This article first appeared on GuruFocus .\n\nArista Networks ( NYSE:ANET ), Seagate Technology and Astera Labs emerged as BNP Paribas' top AI supply-chain ideas as the bank stayed bullish on compute, networking and storage demand into 2027.\n\nAnalyst Karl Ackerman said the next major demand catalyst may not arrive for another quarter, but he still favors companies exposed to agentic AI CPUs, custom processors, 200G networking chips and 1.6T optical transceivers. BNP raised AMD's ( NASDAQ:AMD ) price target to $600 from $460 and Astera Labs' target to $475 from $260.\n\nWarning! GuruFocus has detected 6 Warning Sign with ANET.\n\nIs ANET fairly valued? Test your thesis with our free DCF calculator.\n\nArista builds high-speed networking switches, Seagate makes data-storage products, and Astera Labs supplies connectivity chips used inside AI servers and data centers.\n\nBNP expects data-center switch sales to grow at a 44% compound annual rate, reaching $114.7 billion by 2028 from $26.9 billion in 2024. Backend switching could expand nearly 8-fold to $78.6 billion, while optical transceiver sales may reach $53.1 billion.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-16",
+      "Time": "02:33:53",
+      "Source": "Yahoo Finance",
+      "Title": "India Approves $19.7 Billion to Expand Chip and Smartphone Manufacturing",
+      "URL": "https://finance.yahoo.com/technology/articles/india-approves-19-7-billion-183353106.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIndia has approved another 1.9 trillion rupees ($19.7 billion) in incentives to strengthen domestic semiconductor and smartphone production as Prime Minister Narendra Modi pushes the country to become a larger global manufacturing hub. Modi's cabinet approved 1.28 trillion rupees for the semiconductor sector and 625 billion rupees for mobile phone production, according to Technology Minister Ashwini Vaishnaw. The chip package is expected to support semiconductor design, manufacturing equipment, research and development, and workforce development, potentially helping India attract more advanced technology investment.\n\nWarning! GuruFocus has detected 4 Warning Sign with PYPL.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe new semiconductor initiative builds on India's $10 billion program introduced in 2021, which offered to cover half the cost of establishing qualifying chip projects. That earlier support helped bring Micron Technology ( NASDAQ:MU ), a U.S. memory chipmaker, and Tata Group, an Indian conglomerate with businesses ranging from salt to software, to Gujarat for semiconductor projects. India's chip industry remains at an early stage, but the additional funding could accelerate several major projects as global demand rises across artificial intelligence, smartphones, automobiles, appliances, and other technology markets.\n\nIndia is also seeking to repeat the manufacturing progress it has made with Apple ( NASDAQ:AAPL ), the U.S. technology company behind the iPhone, which now assembles about 25% of its iPhones in the country with support from Modi's production-linked subsidies. The latest smartphone incentives are expected to support Indian manufacturers in a domestic market currently dominated by Chinese brands. Vaishnaw said Modi has directed the government to help create an Indian mobile phone brand, suggesting the package could support both foreign investment and the development of domestic technology companies.",
       "Language": "en"
     },
     {
