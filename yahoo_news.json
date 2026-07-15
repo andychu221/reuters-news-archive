@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-15T19:33:14.780Z",
-  "total_news_count": 843,
+  "last_updated": "2026-07-15T19:40:24.283Z",
+  "total_news_count": 846,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-16",
+      "Time": "02:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Prediction: Microsoft Stock Will Skyrocket After July 29",
+      "URL": "https://finance.yahoo.com/m/50679627-b031-351a-bb5a-d66e7da4d52c/prediction%3A-microsoft-stock.html",
+      "Content": "Microsoft (NASDAQ: MSFT) has been a terrible stock to own so far in 2026; it's down around 20% so far this year. However, I think things will change after July 29, because that's when Microsoft reports earnings for its fiscal 2026's fourth quarter (ended June 30).\n\nI think the bar for Microsoft to report a solid earnings report is relatively low, and if it can keep the status quo from previous earnings reports, it will be perfectly set up to skyrocket for one main reason.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMicrosoft's stock is cheap\n\nThanks to the sell-off this year, Microsoft's valuation has plummeted. It now trades for about 20 times forward earnings.\n\nThis is uncharted territory for Microsoft, as it has historically traded for about 30 times forward earnings. Should Microsoft report a fantastic earnings report and the market deems it worthy of returning to its normal valuation range, that represents 50% upside in the stock -- something few big tech companies can say. Furthermore, its current price tag is cheaper than the broader market, as measured by the S&P 500 , which trades for 21.7 times forward earnings.\n\nFor Q4, Wall Street analysts expect revenue growth of 15%, with earnings per share coming in around $4.24. If Microsoft can exceed those expectations, it may be in a perfect situation to soar after earnings, and it may be set up to do just that because its Q3 results were much better than what's expected in Q4.\n\nLast quarter, its revenue rose at an 18% year-over-year pace, with diluted earnings per share increasing 23% year over year to $4.27. The bar isn't all that high for Microsoft, and if it can clear it by a wide margin, the stock could easily deliver double-digit returns following its earnings announcement on July 29.\n\nOne item investors will also be watching for is its capital expenditure guidance for fiscal 2027. The market isn't giving the AI hyperscalers a ton of leash on unnecessary capital expenditures, and with Microsoft spending hundreds of billions on data centers, it's making a huge investment in the AI realm. But if its cloud computing revenue growth rate continues to accelerate, that will satisfy most investors, as there is a tangible return there because others are paying for its cloud usage, rather than Microsoft using it internally.\n\nStory Continues\n\nThose are some of the key items to watch for, but I'm betting Microsoft will be just fine following earnings, and investors who have held the stock throughout the sell-off will be happier in a few weeks after their earnings announcement is complete.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-16",
@@ -30,6 +40,26 @@
       "Title": "Arista, Seagate and Astera Lead AI Picks",
       "URL": "https://finance.yahoo.com/technology/ai/articles/arista-seagate-astera-lead-ai-184248758.html",
       "Content": "This article first appeared on GuruFocus .\n\nArista Networks ( NYSE:ANET ), Seagate Technology and Astera Labs emerged as BNP Paribas' top AI supply-chain ideas as the bank stayed bullish on compute, networking and storage demand into 2027.\n\nAnalyst Karl Ackerman said the next major demand catalyst may not arrive for another quarter, but he still favors companies exposed to agentic AI CPUs, custom processors, 200G networking chips and 1.6T optical transceivers. BNP raised AMD's ( NASDAQ:AMD ) price target to $600 from $460 and Astera Labs' target to $475 from $260.\n\nWarning! GuruFocus has detected 6 Warning Sign with ANET.\n\nIs ANET fairly valued? Test your thesis with our free DCF calculator.\n\nArista builds high-speed networking switches, Seagate makes data-storage products, and Astera Labs supplies connectivity chips used inside AI servers and data centers.\n\nBNP expects data-center switch sales to grow at a 44% compound annual rate, reaching $114.7 billion by 2028 from $26.9 billion in 2024. Backend switching could expand nearly 8-fold to $78.6 billion, while optical transceiver sales may reach $53.1 billion.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-16",
+      "Time": "02:41:08",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Stock Rises After CEO Says AI Chip Demand Is Booming",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-stock-rises-ceo-says-184108959.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) shares rose about 2.5% on Wednesday after Chief Executive Andy Jassy said demand for the company's custom artificial intelligence chips remains strong.\n\nJassy said customer interest in Amazon's Trainium chips has been \"incredibly strong\" as companies seek lower-cost alternatives for training and running AI models. He indicated the chips are designed to deliver better performance per dollar, making them an attractive option for enterprise customers using Amazon Web Services.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAmazon has been expanding its in-house semiconductor portfolio as competition intensifies among cloud providers seeking to reduce reliance on third-party chip suppliers. The company continues to position Trainium and Inferentia chips as part of its broader AI strategy while investing heavily in AWS infrastructure to support rising demand for generative AI services.\n\nAmazon's AI push comes as AWS remains the company's largest profit driver despite slowing cloud spending in recent years. Alongside its e-commerce operations, Amazon has expanded into healthcare, grocery, robotics and autonomous driving, with management viewing artificial intelligence as a key long-term growth opportunity across multiple businesses.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-07-16",
+      "Time": "02:39:19",
+      "Source": "Yahoo Finance",
+      "Title": "Oracle Leads Race for Japan's Classified Cloud",
+      "URL": "https://finance.yahoo.com/technology/articles/oracle-leads-race-japans-classified-183919667.html",
+      "Content": "This article first appeared on GuruFocus .\n\nOracle ( NYSE:ORCL ) rose 2.97% intraday after the Financial Times reported that the company is the front-runner to build an air-gapped cloud system for Japan's government, ahead of Amazon Web Services ( NASDAQ:AMZN ), Microsoft ( NASDAQ:MSFT ), and Google ( NASDAQ:GOOGL ). The enterprise software and cloud company, best known for its databases, would supply infrastructure sealed off from the public internet to store and process classified national security data.\n\nOracle reportedly moved ahead by signaling early it would deliver a fully air-gapped system, while Microsoft and AWS argued commercial cloud alternatives were secure enough. The push comes as Washington presses Tokyo to tighten cyber defenses, pressure sharpened by the UK-Japan fighter jet program and a need to share intelligence with allies. Japan hasn't made a final decision and could split the work among several providers. AWS called the reporting wrong.\n\nOracle had been trading near a 52-week low after its latest results laid out up to $95 billion in fiscal 2027 capital spending, negative free cash flow, and a debt-funded financing plan, leaving the stock down more than 60% from its September 2025 peak.",
       "Language": "en"
     },
     {
