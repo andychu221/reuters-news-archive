@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-15T20:00:58.024Z",
-  "total_news_count": 856,
+  "last_updated": "2026-07-15T20:15:29.280Z",
+  "total_news_count": 857,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-16",
+      "Time": "04:11:09",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Begins Using ASML's Most Advanced Chipmaking Machine",
+      "URL": "https://finance.yahoo.com/technology/articles/intel-begins-using-asmls-most-201109178.html",
+      "Content": "This article first appeared on GuruFocus .\n\nASML Holding ( NASDAQ:ASML ), a Netherlands-based supplier of advanced chipmaking equipment and Europe's most valuable company, has gained an important endorsement for its newest manufacturing technology after Intel ( NASDAQ:INTC ), the largest producer of personal computer processors, began using its EXE High NA EUV machine in Oregon. Intel is relying on the system to produce a subset of its Ultra 3 lineup through a version of the company's 18A manufacturing process. The development suggests ASML's most advanced lithography equipment may be moving closer to broader commercial adoption after facing concerns that its high price could limit mainstream use.\n\nWarning! GuruFocus has detected 4 Warning Sign with PYPL.\n\nIs ASML fairly valued? Test your thesis with our free DCF calculator.\n\nIntel's adoption may help ASML address those concerns by demonstrating how High NA extreme ultraviolet lithography can be integrated into advanced semiconductor production at scale. The machines, which support a critical stage of forming increasingly small circuit patterns on silicon, can cost hundreds of millions of dollars each. Taiwan Semiconductor Manufacturing Co. ( NYSE:TSM ), whose factories produce the world's most advanced chips, has said ASML's latest-generation equipment remains too expensive for mass production and plans to move to the technology at a later date.\n\nFor Intel, the deployment forms part of its effort to restore its position as a semiconductor manufacturing leader after suffering revenue declines and market-share losses in recent years. The company was the first chipmaker to install a High NA machine at its research and development site in Hillsboro, Oregon, and also received the first unit of a more production-ready version. Investors may view the successful use of the technology in Intel's 18A process as a potentially important step in the company's strategy to improve its manufacturing capabilities and attract outside customers to its factory network.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-16",
