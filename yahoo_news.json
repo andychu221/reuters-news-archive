@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T22:01:19.766Z",
-  "total_news_count": 871,
+  "last_updated": "2026-07-15T22:45:11.882Z",
+  "total_news_count": 877,
   "news": [
     {
       "Ticker": "NVDA",
@@ -13,6 +13,46 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-16",
+      "Time": "05:36:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR15日下跌0.91美元跌幅0.22%折台股2700.53元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr15%E6%97%A5%E4%B8%8B%E8%B7%8C0-91%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-22-%E6%8A%98%E5%8F%B0%E8%82%A12700-53%E5%85%83-213610456.html",
+      "Content": "(中央社台北2026年 7月16日電)台積電在NYSE掛牌 ADR以419.48美元作收，下跌 0.91美元，跌幅 0.22%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 7月15日新台幣匯市收盤價32.189元計算，相當台股台積電每股為 2700.53元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/15\n\n419.48\n\n-0.91\n\n-0.22\n\n32.189\n\n2700.5\n\n7/14\n\n420.39\n\n-1.19\n\n-0.28\n\n32.172\n\n2704.9\n\n7/13\n\n421.58\n\n-12.53\n\n-2.89\n\n32.170\n\n2712.4\n\n7/10\n\n434.11\n\n-2.85\n\n-0.65\n\n32.178\n\n2793.7\n\n7/ 9\n\n436.96\n\n-0.02\n\n-0.00\n\n2812.1\n\n7/ 8\n\n436.98\n\n4.41\n\n1.02\n\n32.032\n\n2799.4\n\n7/ 7\n\n432.57\n\n-19.22\n\n-4.25\n\n32.143\n\n2780.8\n\n7/ 6\n\n451.79\n\n17.63\n\n4.06\n\n32.025\n\n2893.7\n\n7/ 2\n\n434.16\n\n-10.07\n\n-2.27\n\n31.910\n\n2770.8\n\n7/ 1\n\n444.23\n\n-33.34\n\n-6.98\n\n31.874\n\n2831.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-16",
+      "Time": "05:36:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR15日上漲0.0195美元漲幅0.23%折台股27.75元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr15%E6%97%A5%E4%B8%8A%E6%BC%B20-0195%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-23-%E6%8A%98%E5%8F%B0%E8%82%A127-75%E5%85%83-213608309.html",
+      "Content": "(中央社台北2026年 7月16日電)友達光電在OTC US掛牌ADR以 8.62美元作收，上漲0.0195美元，漲幅 0.23%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 7月15日新台幣匯市收盤價32.189元計算，相當台股友達每股為 27.75元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/15\n\n8.62\n\n0.01\n\n5 0.23\n\n32.189\n\n27.7\n\n7/14\n\n8.60\n\n5 -0.33\n\n5 -3.80\n\n32.172\n\n27.6\n\n7/13\n\n8.94\n\n-1.06\n\n-10.60\n\n32.170\n\n28.7\n\n7/10\n\n10.00\n\n-0.04\n\n-0.40\n\n32.178\n\n32.1\n\n7/ 9\n\n10.04\n\n0.86\n\n7 9.40\n\n32.3\n\n7/ 8\n\n9.17\n\n3 0.16\n\n3 1.86\n\n32.032\n\n29.4\n\n7/ 7\n\n9.01\n\n-0.75\n\n-7.68\n\n32.143\n\n28.9\n\n7/ 6\n\n9.76\n\n0.64\n\n7.02\n\n32.025\n\n31.2\n\n7/ 2\n\n9.12\n\n-0.21\n\n-2.25\n\n31.910\n\n29.1\n\n7/ 1\n\n9.33\n\n-0.93\n\n-9.06\n\n31.874\n\n29.7",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-16",
+      "Time": "05:36:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR15日上漲0.11美元漲幅0.27%折台股133.75元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr15%E6%97%A5%E4%B8%8A%E6%BC%B20-11%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-27-%E6%8A%98%E5%8F%B0%E8%82%A1133-75%E5%85%83-213604846.html",
+      "Content": "(中央社台北2026年 7月16日電)中華電信在NYSE掛牌ADR 以 41.55美元作收，上漲0.11美元，漲幅 0.27%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 7月15日新台幣匯市收盤價32.189元計算，相當台股中華電信每股為133.75元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/15\n\n41.55\n\n0.11\n\n0.27\n\n32.189\n\n133.7\n\n7/14\n\n41.44\n\n-0.04\n\n-0.10\n\n32.172\n\n133.3\n\n7/13\n\n41.48\n\n0.04\n\n0.10\n\n32.170\n\n133.4\n\n7/10\n\n-0.07\n\n-0.17\n\n32.178\n\n7/ 9\n\n41.51\n\n-0.37\n\n5 -0.90\n\n133.5\n\n7/ 8\n\n43.54\n\n-0.39\n\n32.032\n\n139.4\n\n7/ 7\n\n43.71\n\n-0.40\n\n-0.91\n\n32.143\n\n140.5\n\n7/ 6\n\n44.11\n\n0.25\n\n32.025\n\n141.2\n\n7/ 2\n\n44.00\n\n-0.02\n\n-0.05\n\n31.910\n\n140.4\n\n7/ 1\n\n44.02\n\n-0.24\n\n-0.54\n\n31.874\n\n140.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-07-16",
+      "Time": "05:36:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR15日上漲1.08美元漲幅4.53%折台股160.43元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr15%E6%97%A5%E4%B8%8A%E6%BC%B21-08%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%854-53-%E6%8A%98%E5%8F%B0%E8%82%A1160-43%E5%85%83-213602623.html",
+      "Content": "(中央社台北2026年 7月16日電)聯電在NYSE掛牌 ADR以24.92美元作收，上漲1.08美元，漲幅 4.53%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 7月15日新台幣匯市收盤價32.189元計算，相當台股聯電每股為160.53元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/15\n\n24.92\n\n1.08\n\n4.53\n\n32.189\n\n160.4\n\n7/14\n\n23.84\n\n0.38\n\n1.62\n\n32.172\n\n153.4\n\n7/13\n\n23.46\n\n-0.88\n\n-3.62\n\n32.170\n\n150.9\n\n7/10\n\n24.34\n\n-0.52\n\n-2.09\n\n32.178\n\n156.6\n\n7/ 9\n\n24.86\n\n0.13\n\n0.53\n\n159.9\n\n7/ 8\n\n24.73\n\n1.31\n\n2 5.60\n\n32.032\n\n158.4\n\n7/ 7\n\n23.83\n\n-2.00\n\n-7.74\n\n32.143\n\n153.1\n\n7/ 6\n\n25.83\n\n1.29\n\n5.26\n\n32.025\n\n165.4\n\n7/ 2\n\n24.54\n\n-1.17\n\n-4.55\n\n31.910\n\n7/ 1\n\n25.71\n\n-1.50\n\n-5.51\n\n31.874\n\n163.9",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-16",
       "Time": "05:35:01",
@@ -21,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/4744ec6b-bf85-32c6-b4a1-012edef5ab05/stripe-and-advent-reportedly.html",
       "Content": "A trio of companies is reportedly planning to buy one of the original digital payments companies, PayPal (NASDAQ:PYPL), in a deal valued at $53.4 billion, or $60.50 per share, according to Reuters.\n\nPayPal stock rose over 17% on July 15.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nReuters reported that Stripe and Advent would jointly own PayPal under the proposed deal. CNBC reported that Block is also joining the group, with each planning to contribute $17 billion in equity.\n\nThe offer also reportedly includes about $50 billion in committed bank financing. As of this writing, PayPal's board of directors had yet to respond to the offer.\n\nSince soaring during the pandemic, PayPal stock has been absolutely crushed over the past five years, down more than 81%.\n\nBut the company could prove to be a compelling addition for Stripe or Block, with strong offerings like Venmo.\n\nImage source: Getty Images.\n\nA complementary payments business\n\nPayPal has struggled since the pandemic, as grand growth expectations have yet to be realized, and competition has emerged from everywhere.\n\nApple Pay and Google Pay became very popular among consumers paying at checkout; companies like Stripe competed on the merchant side, and buy-now-pay-later solutions also became more competitive.\n\nOne reason PayPal would be attractive to companies like Stripe and Block is because of its consumer network, which is over 430 million consumer accounts strong.\n\nStripe and Block are big on the merchant side, so pairing the two could create a network where the two, particularly Stripe, could achieve better economics on each transaction, or have a better base for future initiatives like Stablecoins .\n\nPayPal could also help Stripe accelerate its efforts on digital wallets, according to analysts at TD Cowen.\n\nAdditionally, Venmo, PayPal's peer-to-peer (P2P) transfer solution that also offers debit and credit cards and can be used to pay at checkout, could prove to be the real prize for Stripe in driving its ambitions on the consumer front.\n\nPayPal has historically struggled to monetize Venmo as much as it would have liked, because P2P transfers are free. However, the platform has a great reputation and generates tremendous volume.\n\nIn the first quarter of 2026, PayPal noted that active account growth was largely driven by Venmo. Venmo has also experienced six consecutive quarters of double-digit percentage growth in total payment volume.\n\nStory Continues\n\nIn a research note issued in February by Mizuho analysts Dan Dolev and Alexander Jenkins, who were speculating on a Stripe-PayPal tie-up at the time, the two called Venmo the \"ultimate\" P2P franchise.\n\nWill the deal happen?\n\nWhile many aspects of PayPal, including Venmo, could make it attractive to acquirers, William Blair analyst Andrew Jeffrey is skeptical of the initial offer.\n\n\"We do not think PayPal's new CEO will likely embrace what could be viewed as a low-ball offer. If the current offer is an opening salvo, we ​could see Stripe and Advent go as high at $70 per share,\" Jeffrey wrote in a research note, according to Reuters.\n\nSo, this could just be the beginning of negotiations.\n\nAs I mentioned above, PayPal is one of the original payment companies, so the board is likely to hold some sentimental attachment.\n\nThey will likely want to ensure there is not a better strategic alternative, and at the very least, get an offer that reflects the company's full value and pleases shareholders.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-16",
+      "Time": "05:32:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8%",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%80%9A%E8%86%A8%E9%99%8D%E6%BA%AB%E6%A8%99%E6%99%AE%E9%80%A3%E4%BA%8C%E7%B4%85-%E8%B2%BB%E5%8D%8A%E8%B7%8C%E9%80%BE2-%E7%BE%8E%E5%85%89-sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E5%B4%A9%E8%B6%858-213211331.html",
+      "Content": "美股週三 (15 日) 普遍收高，美國最新通膨數據低於市場預期，進一步緩解市場對聯準會今年升息的擔憂，激勵標普 500 指數連續第二個交易日走揚，道瓊工業指數同步上漲。標普金融板塊收在歷史新高。\n\n不過，中國 DRAM 製造商長鑫存儲 (CXMT) 即將上市，並計畫利用募資所得擴大產能，引發市場對記憶體供給增加、價格與毛利率承壓的擔憂，賣壓席捲記憶體與半導體族群。\n\nSK 海力士 (SKHY-US)、美光 (MU-US) 與 SanDisk (SNDK-US) 均狂瀉逾 8%，費城半導體指數收挫逾 2%，較 6 月 22 日創下的歷史高點回落 16%。\n\n投資人持續評估美國通膨前景。最新公布的美國 6 月核心生產者物價指數 (PPI) 年增 4.7%，低於市場預期，顯示通膨壓力持續降溫。交易員因此進一步下修聯準會今年升息預期，目前利率期貨市場仍預估今年將升息一次，但時間點已延後至 12 月。\n\n債市同步反映市場預期轉變，美國 10 年期公債殖利率下跌 3 個基點至 4.56%，美元指數走弱。\n\n紐約聯準銀行總裁威廉斯 (John Williams) 週三表示：「有令人鼓舞的理由預期，通膨已經觸頂，並將在未來幾季逐步回落。」\n\n此外，聯準會公布最新《褐皮書》(Beige Book) 指出，美國經濟近幾週持續溫和成長，多數地區就業變化不大，但企業仍反映中東衝突及關稅推升部分成本，消費者對價格也變得更加敏感。\n\n地緣政治方面，美軍週三再度空襲伊朗，這是美軍連續第五天轟炸伊朗，主要鎖定沿海軍事設施，美國總統川普 (Donald Trump) 警告，若伊朗拒絕重返談判，下週將擴大軍事打擊，國際油價小幅上漲。\n\n美股週三 (15 日) 主要指數表現：\n\n道瓊工業指數上漲 150.37 點，或 0.29%，報 52,658.64 點。\n\n那斯達克指數上漲 162.22 點，或 0.62%，報 26,269.23 點。\n\nS&P 500 指數上漲 28.81 點，或 0.38%，報 7,572.40 點。\n\n費城半導體指數下跌 263.04 點，或 2.08%，報 12,398.89 點。\n\nNYSE FANG+ 指數上漲 194.44 點，或 1.10%，報 17,823.99 點。\n\n焦點個股\n\nNYSE FANG+ 指數中的科技五大巨頭全面走揚。Meta (META-US) 強升 3.07%；蘋果 (AAPL-US) 勁揚 4.01%；Alphabet (GOOGL-US) 大漲 3.17%；微軟 (MSFT-US) 上漲 2.78%；亞馬遜 (AMZN-US) 大漲 3.02%。\n\n<p class=\"mb-module-gap break-",
+      "Language": "zh"
     },
     {
       "Ticker": ".SPX",
@@ -41,6 +91,16 @@
       "URL": "https://finance.yahoo.com/m/355f9d53-0b59-3611-a51a-a1d16fa9516d/if-you-invest-%245%2C000-in-the.html",
       "Content": "The Vanguard Information Technology ETF (NYSEMKT: VGT) has delivered an average annual return of roughly 25% over the past decade and around 15% per year since it launched in 2004.\n\nConsidering the S&P 500 has averaged about 10% per year over its history, these returns are nothing short of fantastic.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIt also shouldn't be assumed that they'll continue indefinitely. It's possible that the artificial intelligence (AI) revolution and the earnings growth that comes with it could continue for years. Let's start by using a return figure close to the long-term market averages. Here's how much $5,000 could turn into in 20 years.\n\nA more conservative 10% annual return : This isn't a bad return, just one closer to the long-term market average. $5,000 turns into $33,600.\n\nA more historically normal 12% annual return : This is more in line with the long-term historical premium that tech has returned above the broader market. $5,000 turns into $48,200.\n\nA more aggressive 15% annual return : AI productivity gains continue over the next decade, or a new technology emerges. $5,000 turns into $81,800.\n\nFor the Vanguard Information Technology ETF bullish case to come true, the tech sector needs a couple of catalysts.\n\nFirst, the artificial intelligence boom likely needs to continue for years. The hundreds of billions of dollars being invested in AI need to deliver a strong return on investment (ROI), and developers must continue to find ways to deliver meaningful long-term productivity and efficiency gains.\n\nSecond, the economy likely needs to avoid a major bear market. AI could very well result in a spike in unemployment that cripples growth. Overspending on AI without an appropriate ROI could reverse the strong earnings growth trend. Government debt could continue spiraling higher and limit the ability to solve every problem with a liquidity injection.\n\nThere's a lot that could happen in the next 20 years, but it's safe to say that the tech sector will be at the forefront of it.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-16",
+      "Time": "05:13:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "5檔台股ETF除息買氣旺 上演1日填息秀",
+      "URL": "https://tw.news.yahoo.com/5%E6%AA%94%E5%8F%B0%E8%82%A1etf%E9%99%A4%E6%81%AF%E8%B2%B7%E6%B0%A3%E6%97%BA-%E4%B8%8A%E6%BC%941%E6%97%A5%E5%A1%AB%E6%81%AF%E7%A7%80-211356256.html",
+      "Content": "【記者柯安聰台北報導】15日台股回血開漲，台積電法說會前，多頭買方氣盛，除帶動權王台積電(2330)、股王信驊(5274)等主流股反彈，也同步激勵5檔台股ETF當天除息，即完成填息，上演「1日填息秀」。法人表示，由於美6月CPI低於市場預期，降低聯準會升息預期，資金重返電子權值股淘金，帶旺加權指數站回5日均線之上，顯示市場買盤簇擁下，若台積電法說續報佳音，台股除息ETF預估填息時間有望再縮短，建議投資人可鎖定績效表現、產業前景兩頭甜的台股ETF，大啖全球AI資本支出持續引爆的超級週期財。\n\n根據CMoney統計，7月以來，已有8檔台股ETF除息打頭陣，截至7/15止，共有6檔ETF完成填息，包括台新投信旗下的臺灣IC設計(00947)、臺灣半導體30(00904)、AI優息動能(00962)及永續高息中小(00936)，全都在除息日當天完成填息，增息天數1日達標，另外，群益科技高息成長(00946)也1日完成填息，統一台灣高息動能(00939)亦2日達成填息，顯示今年台股ETF，受惠本身強勢績效吸引，投資人除息追價買氣強。\n\n台新臺灣半導體30 ETF經理人黃鈺民表示，全球科技企業競相投入AI基礎設施，帶動美台兩地股市，正處於AI資本支出的超級週期中，尤其是荷蘭半導體製程設備生產商ASML(艾斯摩爾)，最新財報顯示再度上修全年銷售預期，反映全球AI需求強勁，目前市場的關鍵焦點已鎖定在7/16的台積電法說會上，在法說會定調下半年的風向前，預估市場先維持觀望，待法說會繼續報佳音，市場資金將第一時間重回基本面清晰的台灣半導體供應鏈，預估只要評價修正合理、半導體漲價題材股，中長期表現仍大有可為。\n\n台新投信ETF投資團隊指出，全球AI算力投資持續加速，預估台灣半導體股，仍扮演下半年台股新主流領軍的核心要角，預估全球半導體這波多頭牛市至少還能延續至2027年；2027下半年後，再密切觀察2028、2029年市場需求能見度變化，建議投資人若看好AI長線發展趨勢，可以透過績效表現、產業前景兩頭甜半導體ETF，或者搭配IC設計+記憶體雙組合的台股ETF作中長期靈活配置，掌握AI資本支出成長的超級紅利財。（自立電子報2026/7/15）",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL, AMZN, NVDA",
