@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-16T21:01:05.874Z",
-  "total_news_count": 128,
+  "last_updated": "2026-07-16T21:15:08.653Z",
+  "total_news_count": 129,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-07-17",
       "Time": "04:50:00",
       "Source": "Yahoo Finance",
@@ -13,7 +13,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MSFT, AMZN",
+      "Ticker": "TSM",
+      "Date": "2026-07-17",
+      "Time": "04:45:57",
+      "Source": "Yahoo Finance",
+      "Title": "Chipmakers put pressure on equity indexes globally, oil dips",
+      "URL": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-slump-chipmaker-drag-022037813.html",
+      "Content": "By Sinéad Carew and Marc Jones\n\nNEW YORK/LONDON, July 16 (Reuters) - Equity indexes around the world fell on Thursday as investors offloaded heavy-weight chip stocks while the U.S. dollar and Treasury yields rose after the latest economic releases and as the Middle East war intensified.\n\nChip stocks ‌fell from Asia to the U.S., as higher-than-expected 77% earnings growth from Taiwanese chip manufacturing giant TSMC was not enough to impress investors who ‌have heavily leaned into technology stocks related to artificial intelligence.\n\nMore from Yahoo Scout\n\nWhy are AI-related technology stocks facing increased selling pressure?\n\nHow are Middle East tensions affecting oil and commodity markets?\n\nWhy did global chip stocks fall despite TSMC's strong earnings?\n\nWhat drove the US dollar and Treasury yield movements?\n\nThe U.S. second-quarter reporting season started off well, with analyst expectations for quarterly earnings growth increasing to 24.8% on Wednesday from 23.7% last week, ​according to LSEG. But high expectations could result in short-term weakness, said Tony Welch, chief investment officer at SignatureFD.\n\n\"When you've a lot of optimism in the market you need everything to go right. Any piece of negative news can throw the market off,\" he said. \"There's a lot of confidence built in right now. It's not a bad thing in itself but it does create a high hurdle for market prices to keep going higher.\"\n\nOn Wall Street, the Dow Jones Industrial Average fell 105.67 points, or 0.2%, to 52,552.97, the S&P ‌500 fell 38.63 points, or 0.5%, to 7,533.77 and the ⁠Nasdaq Composite fell 387.28 points, or 1.5%, to 25,881.95.\n\nMSCI's gauge of stocks across the globe fell 6.49 points, or 0.6%, to 1,121.65. The pan-European STOXX 600 index closed up 0.16%.\n\nSouth Korea's technology-heavy KOSPI index fell more than 6%, while Japan's Nikkei closed nearly 3% ⁠lower. The Philadelphia semiconductor index tumbled 4.3%, its second straight daily loss.\n\n\"That tells you the AI trade isn't being priced on growth anymore. It's being priced on perfection. Any earnings report that's merely great, instead of flawless, gets sold,\" said Gene Goldman, chief investment officer at Cetera in El Segundo, California.\n\nOIL EASES EVEN AS WAR ESCALATES\n\nIran and the United States ​exchanged ​fire on Thursday, intensifying attacks that have persisted since the weekend, largely unraveling the truce that ​paused fighting last month. While the two countries wrestle for ‌control of the Strait of Hormuz, Iran signalled that it could prod Houthi allies in Yemen to close the Bab al-Mandeb Strait at the mouth of the Red Sea, another key oil route.\n\nStill, oil futures edged lower, with U.S. crude settling down 0.8%, or 65 cents, to $78.95 a barrel while Brent settled at $84.23 per barrel, down 0.85%, or 72 cents.\n\nStory Continues\n\nU.S. retail sales increased 0.2% in June, in line with expectations, as lower gasoline prices weighed on receipts at service stations, though consumers continued to support underlying spending. Weekly initial jobless claims dropped to a seasonally adjusted 208,000, below economists' 217,000 estimate.\n\nU.S. Treasury yields were modestly higher after those figures did ‌little to alter investors' expectations for the path of interest rates from the Federal Reserve.\n\nThe ​yield on benchmark U.S. 10-year notes rose 1.44 basis points to 4.559%, from 4.545% late on Wednesday ​while the 30-year bond yield rose 0.25 basis points to 5.0855%.\n\nThe 2-year ​note yield, which typically moves in step with interest rate expectations for the Federal Reserve, rose 2.55 basis points to 4.154%, from ‌4.128%.\n\nThe dollar edged higher against major peers, though was still ​near a one-month low, reflecting expectations that the ​U.S. economy will remain resilient and that the Fed will hold rates steady this month.\n\nThe dollar index, which measures the greenback against a basket of currencies including the yen and the euro, rose 0.3% to 100.74, while the euro fell 0.2% at $1.1441.\n\nAgainst the Japanese yen, the dollar strengthened 0.1% ​to 162.37. Sterling weakened 0.5% to $1.3475, slipping from the two-month high ‌it reached on Wednesday.\n\nIn precious metals, gold fell to a two-week low after rising the prior two sessions. Spot gold fell 2.1% to $3,976.24 ​an ounce while spot silver fell 3.8% to $55.56 an ounce.\n\n(Reporting by Sinéad Carew, Caroline Valetkevitch, Chuck Mikolajczak in New York, Marc Jones in ​London, Stella Qiu in Sydney; Editing by Thomas Derpinghaus, Joe Bavier and David Gaffen)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, TSLA, NVDA, MSFT, AMZN",
       "Date": "2026-07-17",
       "Time": "04:35:00",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-17",
       "Time": "03:59:00",
       "Source": "Yahoo Finance",
