@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-07-16T15:01:39.867Z",
-  "total_news_count": 1095,
+  "last_updated": "2026-07-16T15:15:24.487Z",
+  "total_news_count": 1096,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM",
+      "Date": "2026-07-16",
+      "Time": "22:56:16",
+      "Source": "Yahoo Finance",
+      "Title": "Why Is Micron Stock Still Falling?",
+      "URL": "https://finance.yahoo.com/m/3acb7a30-af16-31e6-b351-a1fabc9a285d/why-is-micron-stock-still.html",
+      "Content": "Micron (NASDAQ: MU) stock sold off for a second straight day Thursday -- and I have to say, the logic here seems weird.\n\nShares of the manufacturer of computer memory chips slipped 3.2% through 10:15 a.m. ET after Taiwan Semiconductor Manufacturing Company (NYSE: TSM) blew past analyst estimates in its Q2 earnings report, growing profits 77% year over year -- but warned investors will spend upwards of $60 billion on capital investment this year, versus prior forecasts of about $54 billion.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nGood news for TSMC isn't bad news for Micron\n\nInvestors are punishing TSMC with a 1.5% sell-off today despite the good earnings news -- worrying TSMC's spending too much, and hurting its free cash flow in the process. But here's the thing: Many of the chips TSMC is producing are CPUs and GPUs for artificial intelligence customers, and these chips will need to be paired with Micron's HBM memory chips to perform their functions.\n\nIn other words, more investment and more chip production from TSMC should increase demand for Micron chips and increase Micron's profits.\n\nGood news for Micron is... good news for Micron\n\nThat's not all. While Micron's being punished as a corollary to investors punishing TSMC today, Micron has some independently good news of its own to report. Namely, Micron has signed Strategic Customer Agreements to supply memory chips to seven \"key Tier 1 suppliers\" to the global automotive industry: Qualcomm, Visteon, HARMAN, JOYNEXT, DENSO, Astemo, and Hyundai Mobis.\n\nMicron says the supply agreements give certainty regarding future orders and pricing for the automotive chips it produces. They should also reassure investors that the profit margins Micron earns on these products will stay high for years.\n\nThis is not a reason to sell Micron stock. It's a reason to buy Micron stock.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-07-16",
       "Time": "22:40:00",
       "Source": "Yahoo Finance",
