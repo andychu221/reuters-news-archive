@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-16T12:32:55.387Z",
-  "total_news_count": 1041,
+  "last_updated": "2026-07-16T12:40:41.594Z",
+  "total_news_count": 1044,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-07-16",
+      "Time": "20:26:18",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Pushes Its Own AI Models",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-own-ai-models-122618094.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) is teaching its sales teams to make a stronger case for the company's own AI models, pitching them as cheaper, faster and easier to use with Microsoft software than tools from OpenAI, Google ( NASDAQ:GOOG ) and Anthropic, according to Bloomberg.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe argument is fairly simple. Microsoft wants customers to see it as more than a reseller of outside AI models. Executive VP Jay Parikh reportedly told employees that rivals are selling individual pieces, while Microsoft can offer the full system, from Azure infrastructure to Office apps, security tools and Copilot.\n\nMicrosoft makes Windows, Office, Azure and a wide range of business software. It remains a major OpenAI investor, but it has also been building more of its own AI technology.\n\nThat shift appears to be partly about cost and control. Microsoft has reportedly replaced some third-party models inside Word and Excel, while giving Azure customers more options.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-16",
+      "Time": "20:19:34",
+      "Source": "Yahoo Finance",
+      "Title": "Buffett Backs Alphabet as Berkshire Builds $21 Billion Stake",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/buffett-backs-alphabet-berkshire-builds-121934564.html",
+      "Content": "This article first appeared on GuruFocus .\n\nWarren Buffett ( Trades , Portfolio ) said he personally initiated Berkshire Hathaway's ( NYSE:BRK.A ) ( NYSE:BRK.B ) investment in Alphabet, Google's ( NASDAQ:GOOG ) parent company and a major technology business increasing its spending on artificial intelligence. Buffett's involvement may signal growing confidence in Alphabet's ability to benefit from the AI investment cycle, despite his long-standing preference for businesses outside the technology sector. He also said Greg Abel, his designated successor as Berkshire's chief executive, does not make decisions without Buffett's approval, while Buffett follows the same approach with Abel.\n\nWarning! GuruFocus has detected 1 Warning Sign with SPCX.\n\nIs BRK.A fairly valued? Test your thesis with our free DCF calculator.\n\nBerkshire Hathaway, an Omaha, Nebraska-based conglomerate, began building its Alphabet position last year, with the stake valued at nearly $21 billion at Tuesday's market close. Berkshire also invested $10 billion through a private placement connected to an $80 billion transaction designed to strengthen Alphabet's AI investment plans. The scale of these commitments gives Berkshire meaningful exposure to Alphabet as the technology company sharply increases capital spending to compete in AI products.\n\nBuffett acknowledged that he made a mistake by overlooking Alphabet when the company had a lighter asset base and was highly favored by the market. He said Alphabet is more likely to succeed than 90% to 95% of investments promoted through Wall Street, based on the company's previous record. However, Buffett noted that he still prefers at least four or five other businesses owned by Berkshire, suggesting that the Alphabet investment remains significant without becoming his highest-conviction holding.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-16",
@@ -20,6 +40,16 @@
       "Title": "TSMC Profit Jumps 77% but Shares Still Slip Premarket",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/tsmc-profit-jumps-77-shares-120417840.html",
       "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ), the world's largest contract chipmaker, reported second-quarter net income of NT$706.56 billion ($22.36 billion), up 77.4% from a year earlier, on revenue of NT$1,270.38 billion ($40.20 billion), up 36.0%. Diluted earnings were NT$27.25 per share ($4.31 per ADR unit). Shares fell 3.81% premarket.\n\nGross margin came in at 67.7% and operating margin at 60.3%, both supported by what CFO Wendell Huang called \"strong demand for our leading-edge process technologies.\" The most advanced nodes carried the quarter: 5-nanometer made up 33% of wafer revenue and 3-nanometer another 30%. Adding 7-nanometer at 11%, technologies at 7-nanometer and finer made up 77% of the total. The 2-nanometer node accounted for 3% of wafer revenue as its ramp gets underway.\n\nTSMC guided third-quarter revenue to between $44.6 billion and $45.8 billion, with slightly lower gross margin of 65% to 67% and operating margin of 56% to 58%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-16",
+      "Time": "20:03:03",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Pushes In-House AI in Sales Strategy",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-house-ai-sales-120303410.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( MSFT , Financials ) appears to be changing how it sells artificial intelligence to business customers . The company is reportedly training its sales teams to push Microsoft-built AI models as a lower-cost and more efficient alternative to products from OpenAI, Google and Anthropic.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThat is a notable shift. Microsoft is still one of OpenAI's biggest partners, but it also has strong reasons to build more of the technology itself. Using its own models could give the company more control over pricing, margins and how AI tools work across Azure, Microsoft 365 and Copilot.\n\nFor customers, cost may be the biggest selling point. Many companies are trying to use AI without letting computing bills get out of hand. Microsoft may be betting that a cheaper in-house option will appeal to businesses that do not need the most advanced model for every task.\n\nThe strategy also shows how quickly the AI market is becoming more competitive. Investors will now watch whether Microsoft's own models gain real traction or remain a secondary option beside OpenAI.",
       "Language": "en"
     },
     {
