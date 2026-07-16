@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T11:40:32.224Z",
-  "total_news_count": 1025,
+  "last_updated": "2026-07-16T11:45:52.824Z",
+  "total_news_count": 1030,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -11,6 +11,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/us-probes-samsung-alleged-infringement-105613259.html",
       "Content": "July 16 (Reuters) - U.S. trade regulators have launched a probe into Samsung Electronics' memory chips and products sold by Google, ‌Nvidia, Broadcom and Super Micro Computer that use them following ‌a complaint by Netlist alleging infringement of its patents.\n\nCalifornia-based Netlist has accused Samsung and ​its U.S. units of infringing its patents on dynamic random access memory, a type of chip that temporarily stores data for processors and is a critical component in the servers powering the AI boom, the U.S. ‌International Trade Commission said ⁠on Wednesday.\n\nMore from Yahoo Scout\n\nWhich companies are involved in the trade probe?\n\nWhat powers does the USITC have in investigations?\n\nWhat patents is Netlist claiming Samsung infringed?\n\nWhat role do DRAM chips play in AI?\n\nNetlist has asked the USITC to block imports of the disputed chips and products and order the ⁠companies to stop selling them in the U.S. An ITC judge will hold an evidentiary hearing and issue an initial ruling, subject to review ​by the ​commission.\n\nThe USITC will set a target ​date for wrapping up the ‌probe within 45 days. Any order it issues takes effect immediately and becomes final after 60 days unless the U.S. Trade Representative overrides it on policy grounds.\n\nThe investigation is the latest escalation in a years-long patent fight between the companies over high-performance memory.\n\nA Texas jury had ‌awarded Netlist $118 million from Samsung in ​2024 over data-processing technology in memory products, ​following a $303 million verdict in ​a related case in 2023.\n\nDemand for memory chips has ‌since surged as big U.S. ​technology companies race to ​build out data centers needed to power AI services, driving up prices of chips made by the likes of Samsung, SK ​Hynix and Micron.\n\nSamsung, ‌Alphabet-owned Google, Nvidia , Broadcom and Super Micro Computer did not ​immediately respond to Reuters' requests for comment.\n\n(Reporting by Aditya Soni ​in Bengaluru; Editing by Shilpi Majumdar)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-16",
+      "Time": "18:52:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "個股槓桿ETF引韓股震盪 金管會：台灣沒規劃開放",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%80%8B%E8%82%A1%E6%A7%93%E6%A1%BFetf%E5%BC%95%E9%9F%93%E8%82%A1%E9%9C%87%E7%9B%AA-%E9%87%91%E7%AE%A1%E6%9C%83-%E5%8F%B0%E7%81%A3%E6%B2%92%E8%A6%8F%E5%8A%83%E9%96%8B%E6%94%BE-105202576.html",
+      "Content": "（中央社記者蘇思云台北2026年07月16日電）韓國股市近期大幅波動，外界認為韓國單一個股槓桿ETF是主因之一。金管會表示，基於維持金融穩定考量，台灣沒規劃開放這類ETF。台灣目前ETF持股上市櫃公司市值占總市值比例約4.2%，與國際相比算是可接受的比例，持續關注ETF投資標的與集中度狀況。\n\n近來韓股波動大，外界認為單一個股槓桿ETF是主因之一，韓國總統李在明也要求相關單位盡快研擬對策，各部會將在近期緊急討論相關議題。外界關注台灣是否有過度集中單一個股的狀況，以及未來是否規劃開放這類單一個股槓桿ETF。\n\n金管會證期局副局長黃仲豪表示，台灣現行規定不管是基金還是ETF，都要具備分散風險的基本原則，ETF規定單一個股比重不能超過3成，前5大個股合計不能超過整體6成，因此在現行規定中，不可能ETF只包含一檔個股，這就不符合一籃子股票精神，台灣現在並未開放這類ETF，未來基於維持金融穩定考量，也沒規劃開放這類ETF。\n\n至於指數過度集中在大型個股狀況，黃仲豪表示，不僅台灣，像是韓國、香港等許多國家有類似情形，這是經濟發展的結果，金管會希望讓更多元產業可以進入資本市場，或是讓優質但流動性沒那麼好的股票也可以被投資人看到，台灣指數公司1月發布台灣璞玉指數，6月也新發布台灣璞玉中小優選100指數與特選台灣璞玉精選收益指數2指數，業者可包裝成新商品發行，引導投資人關心權值股以外的標的。\n\n黃仲豪進一步說明，金管會持續關注ETF投資標的、集中度情形，定期監控整體市場狀況。台灣整體ETF持有上市櫃公司市值約6.8兆元，占整體上市櫃總市值162兆元的4.2%，比率跟國際相比尚可接受，美國比例約20%。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -43,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-16",
+      "Time": "18:33:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電美廠加碼1千億美元 夜盤閃崩千點！專家看穿法說玄機：魏哲家在「憋秘密」",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%BE%8E%E5%BB%A0%E5%8A%A0%E7%A2%BC1%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%A4%9C%E7%9B%A4%E9%96%83%E5%B4%A9%E5%8D%83%E9%BB%9E-%E5%B0%88%E5%AE%B6%E7%9C%8B%E7%A9%BF%E6%B3%95%E8%AA%AA%E7%8E%84%E6%A9%9F-%E9%AD%8F%E5%93%B2%E5%AE%B6%E5%9C%A8-%E6%86%8B%E7%A7%98%E5%AF%86-103328716.html",
+      "Content": "台積電今（16）日法說會交出亮眼成績單，第二季每股盈餘（EPS）衝上27.25 元，毛利率更狂飆至67.7％，雙雙高於財測頂標。不料市場不領情，美股ADR盤前直線下殺逾 4％，台積電個股期夜盤最低來到2350元，拖累台指期夜盤崩跌超過千點。對此，專家指出，看完這場法說會後，看得出來，台積電董座魏哲家在「憋秘密」，目前市場多空兩派已經吵起來，但請投資人好好問自己一個問題，是在投資，還是在賭一場法說會的解讀。\n\n台積電董事長暨總裁魏哲家於法說會宣布，將在美國亞利桑那州追加1000億美元投資，用於建置2奈米及以下先進製程與先進封裝廠，使美廠總投資額上修至2650億美元。同時，因客戶需求優於預期，台積電宣布將今年資本支出上調至600億至640億美元，上調幅度超過10%。\n\n展望第三季，台積電預估美元營收介於446億至458億美元，換算新台幣突破1.4兆元，季增約12％、年增37％；毛利率預估65％至67％，較前季略微下滑，主要是受到2奈米快速量產稀釋約3至4％的影響 。\n\n對此，財經粉專「股海老牛」於臉書發文指出，台積電法說會後，市場多空雙方再度陷入論戰。有人聚焦於資本支出上調所代表的強勁前景，有人則擔憂龐大的資本支出將侵蝕毛利率。他表示，追完整場法說會，看得出來魏哲家很想講秘密卻又不能說​，實在憋得有點趣味。\n\n股海老牛直言，每次法說會後最精彩的都不是數字，而是市場翻臉的速度，前一秒還在喊噴，下一秒就變利多出盡。這種變臉速度只說明一件事，短線股價是由情緒主導，而非基本面。他強調，台積電產業護城河不會因為一場會議變寬，也不會因為一句法人解讀就崩掉。\n\n股海老牛建議投資人冷靜思考，若沒有這場法說會，原本是否打算長期持股續抱？若會，那今天的漲跌就只是雜訊；若不會，那你要想清楚，自己是在投資，還是在賭一場法說會的解讀。他透露自己不會因一場法說會動搖持股，並將外資賣壓造成的震盪視為市場請客的的雲霄飛車。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-07-16",
       "Time": "18:33:00",
@@ -63,6 +83,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-16",
+      "Time": "18:30:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台積電法說〉魏哲家：AI需求一直增加 可能一路強勁至2029、2030年",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA-%E9%AD%8F%E5%93%B2%E5%AE%B6-ai%E9%9C%80%E6%B1%82-%E7%9B%B4%E5%A2%9E%E5%8A%A0-%E5%8F%AF%E8%83%BD-103045014.html",
+      "Content": "台積電 (2330-TW)(TSM-US) 今 (16) 日召開法說會，董事長暨總裁魏哲家表示，AI 需求相當強勁，相關動能可能一路延續至 2029 年、2030 年。雖然目前無法確定屆時晶片市場是否仍處於供不應求，但從雲端服務供應商 (CSP) 的投資規模與客戶需求來看，全球正形成一個全新的 AI 產業，半導體晶片則是支撐產業發展的根本。\n\n外資於法說會中詢問，即使台積電持續提高資本支出，並積極擴充先進製程與先進封裝產能，到 2027 年底是否仍可能面臨供應短缺。\n\n魏哲家回應，若要求公司對特定時間點的供需狀況做出保證，目前仍有困難，但他相信 AI 需求可能一路強勁至 2029 年、2030 年。至於屆時供應是否仍然不足，則無法精確判斷。\n\n魏哲家指出，AI 市場的發展趨勢非常穩健，全球目前正見證一個新產業形成，也就是「AI 產業」。AI 未來將逐步融入日常生活，並影響機器人、材料及各行各業的生產與營運方式。\n\n從 CSP 及大型科技公司投入的資金規模來看，AI 已不只是短期市場題材，而是足以影響全球經濟與產業結構的重要新興產業。無論 AI 應用如何發展，背後最根本的基礎仍是半導體晶片。\n\n魏哲家表示，台積電目前接收到的 AI 需求訊號，持續比先前預期更強，雖無法提供確切的 AI 晶片成長率變化，但以「更強、更強、再更強」形容客戶需求，顯示 AI 晶片及相關產能需求仍在上升。\n\n除 GPU 及 AI 加速器外，Agentic AI 興起，也讓 CPU 在 AI 資料中心中的角色重新受到重視。隨 AI 系統需要執行更多任務調度、資料處理與系統控制，CPU 需求也將同步增加。\n\n魏哲家指出，不論客戶採用 x86、Arm 或 RISC-V 架構，相關 CPU 業者幾乎都是台積電客戶。包括 CPU、GPU、客製化 ASIC 及各類 XPU，也大多使用台積電領先製程，因此 AI 運算架構愈趨多元，整體而言仍有利於台積電。\n\n不過，台積電不會直接把所有客戶提出的需求數字相加，作為擴產依據。魏哲家表示，他相信每一家客戶都會盡力提供真實的需求預測，但當所有客戶的預估全部加總後，結果未必等於市場最終能夠實現的需求，因此台積電必須對客戶提出的需求進行折減、交叉驗證與審慎判斷。\n\n台積電會同時採取由上而下及由下而上的方式進行需求評估，除了與直接客戶討論，也會進一步了解客戶的客戶，尤其是 CSP 的資本支出、產品規劃及 AI 資料中心建置進度。\n\n產能供需方面，魏哲家坦言，目前先進製程需求與可供應產能之間的缺口「真的很大」，因此為支應持續升高的需求，台積電將 2026 年資本支出上調至 600 億至 640 億美元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-16",
+      "Time": "18:29:14",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI需求強勁驅動台積電成長逾40%　法說會重點一次看",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E5%BC%B7%E5%8B%81%E9%A9%85%E5%8B%95%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%88%90%E9%95%B7%E9%80%BE40-%E6%B3%95%E8%AA%AA%E6%9C%83%E9%87%8D%E9%BB%9E-%E6%AC%A1%E7%9C%8B-102914810.html",
+      "Content": "（中央社記者張建中台北2026年07月16日電）AI需求強勁，晶圓代工廠台積電第2季營運繳出亮麗成績單，單季賺進超過2.7個股本，第3季展望依然樂觀，預估美元營收將再成長12%。董事長暨總裁魏哲家並預期，今年美元營收可望成長超過40%。\n\n眾所矚目的台積電法人說明會今天登場，如市場預期釋出不少正面訊息，不僅第2季毛利率和營業利益率表現皆優於預期，營收與獲利同創歷史新高，單季每股純益達27.25元。\n\n因應客戶強勁需求，台積電調高資本支出，魏哲家並宣布加碼投資美國亞利桑那州1000億美元。對於法人關心的三星（Samsung）和英特爾（Intel）競爭，魏哲家也巧妙以去7-11買牛奶比喻沒有捷徑。以下是台積電法說會的重點整理。\n\n台積電如何看AI前景？\n\n魏哲家表示，人工智慧（AI）相關需求非常強勁，AI大趨勢持續驅動越來越多的運算需求，這也代表對先進半導體的強勁需求。台積電客戶以及客戶的客戶持續釋出強烈的需求訊號和正面的前景展望。對未來數年AI大趨勢抱持極高的信心。\n\n魏哲家指出，AI市場依然非常活躍，代理式AI興起正引領著中央處理器（CPU）在AI資料中心所扮演的角色復興，驅動更多的半導體需求。這對台積電是正向的現象，因為不管採用哪一種CPU方案，無論是x86、Arm或RISC-V架構，供應商大多都是台積電的客戶。\n\n台積電財務長黃仁昭說，考量客戶持續強勁的結構性需求，包含新興的代理式AI市場，決定今年資本支出提高到600億至640億美元。其中70%至80%的資本支出將用於先進製程技術，10%的資本支出用於特殊製程技術，10%至20%的資本支出用於先進封裝、測試和光罩製作。\n\n台積電全球投資布局新進展？\n\n考量從技術和產品開發、準備產能，再到提升產能至大量生產，要花費超過5年時間。魏哲家表示，台積電正加大資本投資以增加產能，以支持客戶未來成長。\n\n魏哲家指出，在美國先進客戶以及美國聯邦、州和市政府的大力合作與支持下，將加碼投資亞利桑那州1000億美元，用以建置更多2奈米及更先進製程技術的晶圓廠，以及先進封裝工廠，估計將再建置4座廠。\n\n魏哲家說，這將有助於進一步促進美國半導體生態系統發展，強化供應鏈，並為美國產業創造更多就業機會。至於相關進度將取決於市場狀況。\n\n魏哲家表示，台積電未來幾年將持續在台投資，正在台灣建置13座先進製程晶圓廠和先進封裝廠。此外，台積電正在新增3座3奈米廠，分別位於台灣、亞利桑那和日本，此外，台積電還在台灣改造5奈米廠，支持3奈米晶片生產。\n\n台積電最新製程技術進展？\n\n台積電持續推進製程技術，A14製程技術是台積電第2代奈米片電晶體，相較2奈米製程技術，在相同功耗下，A14製程提升10%至15%的速度；在相同速度下，功耗降低25%至30%，同時邏輯密度增加近20%。\n\n魏哲家說，觀察到來自智慧手機、高效能運算和人工智慧（AI）應用的客戶對A14技術高度興趣和參與，客戶新設計定案進行中且進度優於預期，將於2027年試產，2028年量產。\n\n在持續強化的策略下，台積電將推出衍生自A14系列的A13和A12製程技術。A13製程技術是A14的進階強化版，透過創新的97%光學微縮，A13相較於A14節省6%的面積。\n\nA12製程技術為A14系列搭載台積電超級電軌技術的版本，提供更佳的效能、功耗和面積優勢。A13和A12製程技術預計2029年量產。\n\n至於高數值孔徑極紫外光（EUV）微影技術，魏哲家說，這技術不錯，台積電與艾司摩爾（ASML）合作密切，待技術夠好、成熟且成本可接受，台積電就會採用。\n\n迎戰三星和英特爾 魏哲家直言客戶不是去7-11買牛奶\n\n針對三星自記憶體業務獲得巨額利潤，英特爾獲得美國政府支持，魏哲家表示，台積電也得到政府的支持，不過，晶圓代工沒有捷徑可走，必須回歸基本面，技術、製造和客戶信任是最重要的3個基本要素，這也是台積電贏得業務的秘訣。\n\n魏哲家強調，晶圓代工不是去7-11買牛奶，並不是想換技術夥伴馬上就能換，他並引用客戶說的話，選擇技術合作夥伴並非易事，也沒有捷徑可走，要了解技術、利用技術，共同努力提升產能，約需要5年時間。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-16",
       "Time": "18:20:00",
@@ -71,6 +111,16 @@
       "URL": "https://finance.yahoo.com/m/7e3a633f-b68f-3150-99fd-feb528a42333/does-palantir%27s-latest.html",
       "Content": "Palantir (NASDAQ: PLTR) and Nvidia (NASDAQ: NVDA) made a big announcement the other day that flew under many investors' radars. Nvidia and Palantir said they formed a partnership to deploy sovereign artificial intelligence (AI) for government agencies.\n\nWhy is that a big deal? Well, government agencies can't just plug information into a model like Gemini or ChatGPT as most others can. That's because the information put into these generative AI models is retained by the companies that run them, so sensitive information could be entered that could have national security implications.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nPalantir and Nvidia's announcement remedies that situation and clears the way for these two to build the future of AI for government agencies. This is a big deal, but which company benefits most? Let's take a look.\n\nPalantir is using Nvidia's base model\n\nNvidia has an open AI model called Nemotron that is perfect for deploying AI agents. It's an open model, so developers know what's going on in the background and can understand what it's doing. It works perfectly on Nvidia's computing platforms, and having companies use the Nemotron model as a base ensures that its hardware is being used to run AI workloads. When the client is the U.S. government, that's a huge contract to capture.\n\nPalantir will then use Nvidia's Nemotron model to develop tailored software for applications that its clients need. Palantir already has deep relationships in government and industry, making its software a trusted, go-to solution whenever a specific application is needed. This partnership should help boost Palantir's government business, leading to strong revenue growth.\n\nPalantir is a much smaller business than Nvidia, and it generates more than half of its revenue from government sources. Nvidia has a much wider client base, and the AI hyperscalers are some of Nvidia's largest clients. However, AI could become so powerful for the federal government and its agencies that it would need to spend hundreds of billions of dollars on data centers like the AI hyperscalers, which could propel the U.S. government into becoming a large client of Nvidia's.\n\nPalantir stands to benefit the most from this partnership, but Nvidia also has major upside depending on how widespread AI adoption becomes in the government. However, Palantir also needs this growth far more than Nvidia does.\n\nStory Continues\n\nPalantir's stock is expensive\n\nSwitching over to looking at the stocks, one is valued higher than the other.\n\nPalantir has a valuation four times that of Nvidia, and that's despite the two companies having the same growth rate in Q1: 85%. If I were to present an investor with these two stocks, growing at the same rate, yet one is valued four times higher than the other, most investors would choose the cheaper stock, and that's exactly what I think investors should do here.\n\nThe AI build-out is far from over, and there is still plenty of room for both Nvidia and Palantir to grow into this generational opportunity. However, if an appropriate long-term valuation for each stock is 25 times forward earnings, that calculation becomes much harder to justify for Palantir's stock.\n\nPalantir must essentially increase its earnings by 350% after this year's growth. That's a lot of growth priced into the stock, and may make future gains difficult. On the flip side, Nvidia is much less richly valued, and any future growth will likely drive the stock higher. With 41% growth expected next year, that leaves a lot of room for upside during the next year.\n\nThis is a huge partnership for both companies, and Palantir stands to benefit more than Nvidia, but I still think that Nvidia stock is the better buy overall.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-16",
+      "Time": "18:15:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電美國投資追加千億美元! 台灣再建13廠",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%BE%8E%E5%9C%8B%E6%8A%95%E8%B3%87%E8%BF%BD%E5%8A%A0%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%8F%B0%E7%81%A3%E5%86%8D%E5%BB%BA13%E5%BB%A0-101502967.html",
+      "Content": "[ 非凡新聞 ]記者莊欣璉\n\n台積電第二季法說會上，董事長魏哲家宣布將再加碼千億投資美國，而台灣未來幾年，也將陸續興建13座晶圓廠，AI動能仍相當強勁，知名半導體分析師陳慧明最新表示，對於整場法說會釋出的訊號，持中性偏多的看法，但第三季毛利率因為2奈米量產面臨稀釋壓力，將會是隱憂。\n\n台積電董事長 魏哲家：「在美國主要客戶，以及美國聯邦、州政府與地方政府，大力支持與合作下，我們宣布將在，亞利桑那州，額外投資1000億美元，這筆投資，將用於興建多座2奈米，及以下製程的邏輯晶圓廠，以及先進封裝廠。」\n\n台積電第二季法說會上，董事長魏哲家宣布，擴大全球投資，但同時也強調，台灣依舊是布局核心，未來幾年，還會在台灣陸續興建13座先進製程和封裝廠，而亞利桑那的千億投資案，則估計會新增4座廠房。\n\n瑞銀台灣半導體分析師 Sunny Lin：「目前亞利桑那州的總投資金額，已達2,650億美元，那麼未來幾年，你們在亞利桑那州的產能規劃為何？」\n\n台積電董事長 魏哲家：「會蓋多少座晶圓廠？很多，讓我這樣說好了，可能還會再興建約四座晶圓廠。」\n\n為了因應，整體市場需求，魏哲家同場宣布，將在台灣、日本、美國，各新增一座3奈米晶圓廠，同時也會把部分，5奈米設備轉換為3奈米；至於在成熟製程的部分，有觀察到，電源管理IC以及CMOS感測器部分，確實供不應求，為此也會增加產能，但其餘消費性產品，則沒有看到明顯缺貨狀況，法說會上，台積電下一代A14製程藍圖也曝光。\n\n台積電董事長 魏哲家 ：「A14技術研發進度符合預期，進展順利，我們觀察到，無論是智慧型手機或HPC／AI應用客戶的興趣與合作參與度都非常高，客戶的Tape-out作業正持續進行，而且進度超前，風險試產將於2027年展開，2028年正式量產。」\n\n不只技術藍圖超前進度，台積電第二季，無論獲利表現或營收展望，都給出正向訊號，但是知名半導體分析師陳慧明，也點出隱憂，接下來幾季，毛利率恐怕面臨稀釋壓力。\n\n聚芯資本管理合夥人 陳慧明：「魔鬼在細節，他說下半年，（毛利率）會影響3%到4%，這個就不會是一個好消息，大家沒預期嗎，多多少少有，那麼明確3%到4%，看起來，是真的就很具體的影響，當然他提到過，是兩奈米稀釋，美國建廠也會受到影響，美國建廠設備，是台灣成本五到六倍，是不是（美國廠）營收到一個地步，我們就會看到，明顯的毛利率受到影響。」\n\n綜觀整體表現，陳慧明認為，台積電基本面仍是正面，至於股價，則持「中性偏多」的看法，若拉長到兩年長線來看，投資人不用過度擔憂毛利率問題，而資本支出持續提高，對設備、封裝等相關族群，也可望帶來新一波成長契機。（記者莊欣璉、林秋強／台北採訪報導）\n\n觀看原文...\n\n從養龍蝦到\"龍蝦群\" 科技大廠搶邊緣AI商機\n\n台積電Q2大賺7065億 資本支出衝破600億美元\n\nASML擬調漲EUV設備 傳最大客戶台積電反對",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
