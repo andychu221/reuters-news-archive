@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T13:40:36.133Z",
-  "total_news_count": 1061,
+  "last_updated": "2026-07-16T13:45:36.406Z",
+  "total_news_count": 1065,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -11,6 +11,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/eu-orders-google-open-android-131301212.html",
       "Content": "Investing.com -- Alphabet's Google will be required to open key Android features and share certain search-related data with OpenAI and other artificial intelligence rivals under new European Union rules aimed at curbing the company's market dominance, EU regulators said on Thursday.\n\nThe European Commission outlined the measures six months after launching proceedings to clarify how Google should comply with the Digital Markets Act (DMA), the bloc's landmark legislation designed to rein in the power of major technology companies.\n\nThe move marks the latest step in the European Union's broader effort to curb the dominance of major technology \"gatekeepers.\" In recent months, Brussels has pushed Google to open Gemini-related services to rival AI firms and search engines, required Apple to improve interoperability with third-party devices, and ordered Meta to remove key engagement features, including infinite scrolling, that regulators say can foster addictive user behavior.\n\nUnder the new requirements, Google must provide competing AI developers with access to 11 Android system features, enabling their assistants to perform functions currently available to Google's Gemini AI. From July 2027, users will be able to set rival AI assistants as the default voice assistant and activate them through voice commands to carry out tasks such as booking rides or retrieving location information.\n\nThe Commission said the measures include safeguards to protect user privacy and device security, with access limited to developers that meet specified cybersecurity and data protection standards.\n\nSeparately, Google will be required to share anonymized search data used to improve its search engine with OpenAI and other AI chatbot providers that offer search capabilities. The rules, which take effect in January 2027, allow Google to assess whether applicants pose cybersecurity or privacy risks before granting access and include a pricing mechanism for the shared data.\n\n\"Thanks to these measures we hope to see emerging alternatives to Google Search and Google's AI services, such as Gemini, and that users in the EU can enjoy greater choice of services,\" EU tech chief Henna Virkkunen said.\n\nEU orders Google to open Android, search data to OpenAI and AI rivals\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nNvidia's new Alpamayo project: What it means for Tesla?",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-16",
+      "Time": "21:10:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電擴大投資美國　經濟部：確保台灣3個優先",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%93%B4%E5%A4%A7%E6%8A%95%E8%B3%87%E7%BE%8E%E5%9C%8B-%E7%B6%93%E6%BF%9F%E9%83%A8-%E7%A2%BA%E4%BF%9D%E5%8F%B0%E7%81%A33%E5%80%8B%E5%84%AA%E5%85%88-131013282.html",
+      "Content": "（中央社記者曾筠庭台北2026年07月16日電）台積電今天宣布加碼投資美國1000億美元，估再增建4座晶圓廠。經濟部表示，面對台積電赴美投資，政府將確保「3個優先」，包括優先確保最大製造產能留在台灣、最先進技術留在台灣，以及維護最完整的台灣科技產業生態系。\n\n晶圓代工廠台積電今天召開法人說明會，董事長暨總裁魏哲家宣布，將在美國亞利桑那州加碼投資1000億美元，估計再建置4座晶圓廠，以及先進封裝廠，滿足美國客戶未來多年的強勁需求。\n\n經濟部晚間透過臉書發文指出，全球AI浪潮持續推升台灣半導體產值成長，因應全球市場需求，台灣企業積極拓展國際布局，同時也持續擴大在台投資、深化根留台灣，讓台灣產業競爭力向世界延伸。\n\n對於台積電赴美投資，經濟部表示，政府將全力確保3個優先原則，包括優先確保最大製造產能留在台灣、優先確保最先進技術留在台灣，以及優先維護最完整的台灣科技產業生態系。\n\n經濟部指出，目前台積電已有19座先進製程及先進封裝廠投入營運，並持續於新竹、台中、嘉義、台南及高雄等園區興建13座新廠，未來也將擴大投資台灣，維持先進製程在台產能遠高於海外。\n\n經濟部表示，將持續協助企業在台擴廠，完善土地、水電、能源等基礎設施，支持企業持續投資台灣，並帶動供應鏈、中小企業及新創共同成長，進一步提升台灣整體產業競爭力。\n\n除強化台灣產業供應鏈韌性之外，經濟部也指出，台美將持續深化合作，共同打造更具韌性的全球半導體供應鏈。近年包括輝達（NVIDIA）每年投資台灣超過新台幣3兆2155億元；超微半導體（AMD）擴大投資台灣超過3216億元；美光（Micron）也已投資台灣達1兆4000億元。國際科技大廠均積極擴大在台投資，展現對台灣半導體供應鏈及產業環境的高度信心。\n\n經濟部強調，未來將持續完善投資環境，協助企業拓展全球市場，攜手產業打造更安全、更具韌性及競爭力的半導體供應鏈，持續鞏固台灣在全球高科技產業的領先地位。",
+      "Language": "zh"
     },
     {
       "Ticker": "TSM",
@@ -31,6 +41,36 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-rallies-premarket-while-chip-125110489.html",
       "Content": "Investing.com -- U.S. stock index futures were mixed on Thursday as investors weighed lingering Middle East tensions, and focused on corporate earnings and further signs that U.S. inflationary pressures are easing.\n\nBy 08:10 ET, S&P 500 futures edged down 0.3%, Nasdaq 100 futures fell 1%, while Dow Jones futures rose 0.1%.\n\nSemiconductor stocks were under pressure despite another blockbuster quarter from Taiwan Semiconductor Manufacturing Co., whose second-quarter profit surged 77% year-on-year to a record level, comfortably beating Wall Street expectations.\n\nThe world's largest contract chipmaker posted earnings per share of $4.31, ahead of estimates for $3.80, but shares fell about 4% in premarket trading as investors digested an expanded capital expenditure plan and the potential for near-term pressure on margins.\n\nThe cautious reaction spilled across the broader chip sector. Nvidia, TSMC's largest customer, slipped 1.3%, while AMD, Intel, and Micron Technology fell between 1.9% and 2.7% as investors assessed the implications of higher industry investment spending.\n\nUnitedHealth Group jumped 7.6% after delivering a stronger-than-expected second-quarter performance.\n\nThe health insurer reported adjusted earnings of $6.38 per share, comfortably ahead of analyst estimates, while revenue also exceeded forecasts as strength across its healthcare businesses reassured investors following months of uncertainty in the managed care sector.\n\nAbbott Laboratories climbed 4.4% after the medical products maker beat expectations on both revenue and earnings and said sales of its continuous glucose monitoring products are on track to return to double-digit growth, easing concerns over slowing demand.\n\nIn contrast, GE Aerospace slipped 4.3% despite posting quarterly results that topped Wall Street estimates. Investors appeared to lock in profits after a strong run in the stock, with analysts having previously cautioned that much of the positive outlook had already been reflected in the share price.\n\nU.S. Bancorp declined 2.4% even after reporting record quarterly revenue and earnings that exceeded expectations, suggesting investors had largely priced in the lender's strong performance following recent gains.\n\nPsychedelic drug developers also attracted buying interest after Eli Lilly agreed to acquire AtaiBeckley, boosting optimism across the sector. AtaiBeckley surged more than 30%, while GH Research gained nearly 19% and Compass Pathways advanced over 7% in premarket trading.\n\nUnitedHealth rallies premarket while chip stocks retreat; TSMC's record earnings\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-16",
+      "Time": "20:50:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "記憶體股為何又跌了？亮麗的基本面下仍利空頻傳",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1%E7%82%BA%E4%BD%95%E5%8F%88%E8%B7%8C%E4%BA%86-%E4%BA%AE%E9%BA%97%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%9D%A2%E4%B8%8B%E4%BB%8D%E5%88%A9%E7%A9%BA%E9%A0%BB%E5%82%B3-125011160.html",
+      "Content": "記憶體晶片市場本周經歷了一場劇烈的「雲霄飛車」行情，美光與 SK 海力士股價出現顯著震盪。儘管人工智慧 (AI) 帶動的硬體需求看似強勁，但隨著投資大師巴菲特 (Warren Buffett) 對 AI 投機泡沫發出警告，加上下游客戶對於漲價的強烈抵制，市場對於記憶體產業能否維持高成長與高利潤開始產生懷疑。\n\n巴菲特言論示警\n\n引發本輪半導體與記憶體股拋售的直接導火線，之一是巴菲特的最新言論。他指出，當市場熱衷於在 AI 等主題上進行「賭博」時，尋找真正具備價值的長期投資變得愈加困難。\n\n巴菲特認為，許多科技巨頭正陷入一場「他們不想玩」的競爭賽局，為了維持地位必須投入數千億美元於 AI 基礎設施，但這些龐大投資是否能轉化為可持續的資本回報仍是未知數。\n\n目前衡量美股估值的「巴菲特指標」(美股市值與 GDP 之比) 已攀升至 218%，接近歷史新高，暗示市場已處於嚴重高估狀態。此外，費城半導體指數的「泡沫風險指標」亦高達 0.91(滿分為 1)，反映出投資者對 AI 與半導體股的樂觀情緒可能已脫離基本面。\n\nDRAM 漲價遭抵制\n\n在基本面部分，記憶體市場的核心矛盾在於定價權的角力。根據廣發香港的月度報告，下游客戶對於 DRAM 接近 30% 的漲價幅度展現出強烈抵制情緒，導致機構下調了第三季的漲價預期。這種議價能力的轉變，直接威脅到記憶體供應商的毛利前景。\n\n為了因應高昂的記憶體成本，伺服器與硬體商已開始採取「規格下調」策略。例如，英偉達 (NVIDIA) 機架採用的 LPDDR5X 容量在極端情景下可能縮減至原始規格的四分之一，以將成本從 120 萬美元大幅壓縮至約 29 萬美元。普通伺服器的 DDR5 規格也預計將出現下調，顯示出需求端對於成本控制的迫切性。\n\n產能狂飆下的隱憂\n\n儘管美光等大廠目前的財報亮眼，營收與淨利潤均大幅成長，且已與客戶簽訂總額達 220 億美元的長期供應協議，但產業內部的產能擴張競賽卻為未來埋下隱憂。美光今年的資本支出 (Capex) 約為 270 億美元，SK 海力士與三星電子也都在大規模擴產。\n\n分析人士指出，記憶體產業的週期性風險始終存在。一旦供給成長速度超越 AI 帶動的需求增速，供應商目前的定價權將迅速瓦解。正如市場觀察，雖然「賣鏟子」(提供 AI 晶片與記憶體) 的人目前獲利豐厚，但那些「買鏟子」投入巨資建置 AI 的企業，最終必須證明這些支出能產生實質利潤。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-16",
+      "Time": "20:50:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股盤整走勢背後 晶片股與七巨頭演繹3.2兆美元不同行情",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E6%95%B4%E8%B5%B0%E5%8B%A2%E8%83%8C%E5%BE%8C-%E6%99%B6%E7%89%87%E8%82%A1%E8%88%87%E4%B8%83%E5%B7%A8%E9%A0%AD%E6%BC%94%E7%B9%B93-2%E5%85%86%E7%BE%8E%E5%85%83%E4%B8%8D%E5%90%8C%E8%A1%8C%E6%83%85-125008971.html",
+      "Content": "美股標普 500 指數與那斯達克指數已盤整數月，但看似停滯的走勢下，卻暗藏著晶片股與科技七巨頭「彼消我長」的輪動局面。\n\n數據顯示，光是在 7 月份，科技七巨頭的市值就增加了約 1.5 兆美元。然而，這股漲勢幾乎被半導體板塊的崩跌所抵消——不含輝達 (NVDA-US) 在內的晶片股在同期內蒸發了近 1.8 兆美元。\n\n這種兩極化的走勢，使得大盤指數自 5 月初進入特定區間後，便長期在支撐位與壓力位之間徘徊，難以突破。\n\n產業內部的分歧同樣驚人。在軟體產業中，絕大多數個股 (51 檔中的 44 檔) 在 7 月錄得正報酬，中位數漲幅約 6%。反觀半導體領域，在 62 檔追蹤個股中，僅輝達與博通 (AVGO-US) 等少數贏家維持升勢，晶片股的中位數跌幅竟高達近 20%。\n\n其中，記憶體晶片受創最深，美光 (MU-US)、三星及 SK 海力士在經歷數月的激進交易後，已相繼跌入熊市。\n\nStrategas ETF 策略師 Todd Sohn 指出，當前晶片與記憶體股的交易熱潮，與 2020 年方舟創新 ETF(ARKK-US) 的狂熱過程驚人地相似，均出現了極高的交易量與資金流。\n\n數據顯示，半導體 ETF 目前的日交易額已從一年前的 90 億美元激增至超過 400 億美元，且晶片股在標普 500 指數中的權重已接近 18%，這在歷史上屬於極其罕見的高位。\n\n市場分析認為，接下來的科技巨頭財報將是決定大盤走向的關鍵測試。市值大幅增長的七大巨頭必須拿出亮眼業績來證明其股價的合理性，而陷入頹勢的晶片商則需藉此機會止跌回穩。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-16",
+      "Time": "20:45:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股小跌 台幣連3黑",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B0%8F%E8%B7%8C-%E5%8F%B0%E5%B9%A3%E9%80%A33%E9%BB%91-124507963.html",
+      "Content": "台北股市十六日震盪收跌6.61點，為45624.98點，跌幅0.01%。（中央社）\n\n（另開新視窗） 記者陳建興∕台北報導\n\n台積電舉行法說會，投資人觀望氣氛濃，台股十六日盤中跌逾六百點，傳產、塑化類股強勢，大盤震盪收盤僅小跌六點六一點，收在四萬五千六百二十四點九八點，力守四萬五千六百點、五日線之上，成交值再縮為九千零八點三八億元。\n\n自營商賣超三十三點五七億元、投信買超八十五點四九億元、外資及陸資賣超四百八十三點三五億元，三大法人合計賣超四百三十一點四三億元。\n\n權值股台積電由黑翻紅，收二千四百七十元，漲三十元；台達電也翻紅上揚十五元，收一千九百零五元；鴻海收二百四十二點五元，漲三點五元。\n\n美國封鎖荷莫茲海峽，造成國際原油價格上揚，台塑化收在八十元漲停價，但台塑收六十五點六元，跌百分之零點一五；南亞收二百二十一元，跌百分之二點八六；台化收六十八點九元，跌百分之二點六八。\n\n低軌衛星零件供應商昇達科技力拚低軌衛星市場再鎖定ＡＩ資料中心高速傳輸，於十五日董事會決議取得巨頻科技股權案，發揮互補效果，昇達科收漲停板一千三百一十元。\n\n匯市方面，亞股一片慘綠，日韓股雙雙重挫，台股相對抗跌，仍難以抵擋熱錢出走，拖累新台幣匯率走弱，收盤收三十二點二四九元，貶值六分。\n\n匯價連三跌，續創逾一年二個月新低，台北及元太外匯市場總成交金額放大至二十七點三五五億美元。\n\n匯銀人士指出，如果台股未能重拾漲勢，吸引外資回頭匯入，新台幣匯率在外資調節部位、股利匯出雙重壓力夾擊之下，不排除逐步測試三十二點五元。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, AMD",
