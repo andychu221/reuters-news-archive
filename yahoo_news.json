@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-17T20:33:14.942Z",
-  "total_news_count": 440,
+  "last_updated": "2026-07-17T20:40:53.551Z",
+  "total_news_count": 445,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-18",
+      "Time": "04:29:00",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Platforms: AI Return on Invested Capital Is Uncertain (NASDAQ:META)",
+      "URL": "https://finance.yahoo.com/m/e37b00fa-c11d-353c-8e12-699fa682306e/meta-platforms%3A-ai-return-on.html",
+      "Content": "Meta Platforms (NASDAQ: META) is a $1.7 trillion company. Its family of apps counts 3.56 billion daily active users. And it arguably benefits from the most powerful network effects on the face of the planet. All signs point to it being an elite business.\n\nHowever, there are deep questions about how it will fare in the coming years. That's because it's also a hyperscaler , and forecasts it will spend $125 billion to $145 billion on AI data center capital expenditures in 2026 alone. Analysts expect even bigger outlays from it in 2027.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBut whether there will be a profitable payoff on these colossal expenditures is a huge point of uncertainty.\n\nHere's what Meta shareholders should be thinking about.\n\nThere's no clear line of sight\n\nOn Meta's first-quarter earnings call, an analyst asked founder and CEO Mark Zuckerberg what the return on invested capital would be over the coming 12 to 24 months from its AI-related spending spree.\n\n\"That's a very technical question,\" the tech mogul replied, and went on to explain that the company's philosophy rests on building great products and experiences first, then scaling and monetizing them afterward.\n\nIt's understandable if Meta bulls want to give its management team the benefit of the doubt. This is one of the world's most dominant and successful companies. Investors could be forgiven for trusting Zuckerberg's capital allocation decisions.\n\nOn the other hand, this is an unprecedented level of spending. Analysts' consensus view is that Meta will report $145 billion in earnings before interest, taxes, depreciation, and amortization (EBITDA) in 2026. Its capex plans will soak up nearly all of that.\n\nSpending on that scale should be paired with the ability to give investors a more insightful response about expected ROI than the one Zuckerberg gave on the most recent earnings call. Investors would have more confidence in the company's direction if they had some insight into what metrics management is tracking to gauge the success of its AI spending spree, or timelines for when to expect adequate returns.\n\nIt's getting cloudy\n\nBecause virtually all of Meta's revenue comes from ad sales, an obvious reason for all this spending would be to bolster its digital advertising capabilities through better targeting and monetization techniques, and to improve user engagement. This segment is firing on all cylinders, with sales soaring 33% year over year in the first quarter.\n\nStory Continues\n\nMeta's latest move, however, indicates it has overbuilt capacity and is spending too much. As part of the Meta Compute initiative, the company recently announced it is forming a new cloud segment to lease excess compute resources to external customers. The good news is that this can generate revenue quickly, as data center demand globally is substantially outstripping supply.\n\nHowever, investors should still be more critical of Meta than they have been, as hundreds of billions of dollars are now at stake.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-18",
+      "Time": "04:01:58",
+      "Source": "Yahoo Finance",
+      "Title": "AMD's AI Event Faces Customer Test",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amds-ai-event-faces-customer-200158533.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAMD ( NASDAQ:AMD ) could use its July 22 Advancing AI event to show investors that its AI chip push is moving beyond product roadmaps and into bigger customer wins.\n\nJefferies analyst Blayne Curtis expects updates on AMD's MI500 GPUs, a CPU market opportunity that could top $200 billion and a possible scale-up networking roadmap built around optical interconnects. But the biggest swing factor may be new customers.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nJefferies believes Microsoft ( NASDAQ:MSFT ) is already using AMD's MI450, while investors are increasingly focused on a possible Anthropic deal. Curtis said the economics would matter more than the headline, especially after AMD offered substantial incentives in earlier agreements with OpenAI and Meta ( NASDAQ:META ).\n\nAMD designs CPUs, GPUs and AI accelerators used in PCs, servers and data centers. Its Instinct chips are the company's main answer to Nvidia's ( NASDAQ:NVDA ) dominance in AI computing.",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-18",
@@ -23,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-18",
+      "Time": "04:01:28",
+      "Source": "Yahoo Finance",
+      "Title": "DeepMind Unveils Global AI Watchdog Proposal Ahead of Washington Meetings",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/deepmind-unveils-global-ai-watchdog-200128026.html",
+      "Content": "This article first appeared on GuruFocus .\n\nGoogle ( NASDAQ:GOOG ) DeepMind, Google's artificial intelligence research unit, has proposed creating a new international watchdog to test and review the most advanced AI models before they reach the public. Chief Executive Officer Demis Hassabis said the organization could be staffed by independent technical experts, financed by leading AI companies and given up to 30 days to examine new models. The proposal quickly gained support from OpenAI, an artificial intelligence company led by Sam Altman, who described it as thoughtful, while Elon Musk called it a good starting point for wider discussions. Hassabis is expected to meet US policymakers in Washington next week as he attempts to turn the framework into a workable oversight system.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nHassabis said he decided to publish the plan after concerns emerged around the advanced cybersecurity capabilities of Mythos, a model developed by artificial intelligence company Anthropic. He described the model as a warning for society and suggested that increasingly powerful AI systems could also create biosecurity risks within the next couple of years. Google DeepMind has already been discussing its newest models with government officials and AI security institutes as those systems reach certain scores and benchmarks, but Hassabis argued that handling releases through an ad hoc process may not be sustainable. His proposed watchdog could introduce stronger measures if risks increase, including possible coordination among leading AI laboratories to slow development.\n\nFor investors, the proposal suggests that testing requirements and government scrutiny could become more important considerations for companies developing advanced AI systems. Anthropic and OpenAI have already delayed the broad release of their latest models under pressure from the Trump administration, leading to discussions between the European Union and the US over access to American AI technology. However, the plan may face political challenges because the US, EU and China have taken different approaches to AI regulation, while Congress has yet to approve meaningful federal legislation governing the technology. Hassabis believes there may now be enough momentum to establish a formal oversight structure, although he acknowledged that publishing the proposal is only the first step toward making it happen.",
+      "Language": "en"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-07-18",
       "Time": "04:01:25",
@@ -40,6 +70,16 @@
       "Title": "Nvidia and AMD Hit by AI Selloff",
       "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
       "Content": "This article first appeared on GuruFocus .\n\nAI and chip stocks were under pressure again Friday, with the selloff spreading from Japan to U.S. premarket trading.\n\nJapan's Nikkei 225 dropped 4%, led by some of the country's biggest semiconductor names. Kioxia plunged nearly 16%, Tokyo Electron fell about 8%, and Advantest lost around 7%. That weakness quickly spilled into U.S.-listed chip stocks, with Nvidia ( NASDAQ:NVDA ), AMD ( NASDAQ:AMD ), TSMC, Broadcom, Arm ( NASDAQ:ARM ) and Intel ( NASDAQ:INTC )all trading lower before the bell.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe timing also matters. Alibaba-backed ( NYSE:BABA ) Moonshot just unveiled Kimi K3, a 2.8 trillion-parameter open-weight AI model that it says can compete with some of the strongest U.S. systems. That adds to the sense that Chinese developers are moving faster than many investors expected.\n\nNvidia sits at the center of the AI buildout, while Micron ( NASDAQ:MU ), TSMC, Broadcom and ASML ( NASDAQ:ASML ) provide the memory, manufacturing and equipment that make those systems possible.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, MSFT",
+      "Date": "2026-07-18",
+      "Time": "04:01:00",
+      "Source": "Yahoo Finance",
+      "Title": "Nebius Raises $775 Million in First Secured Debt Deal",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/nebius-raises-775-million-first-200100839.html",
+      "Content": "This article first appeared on GuruFocus .\n\nNebius Group ( NASDAQ:NBIS ) rose 2.33% intraday after the Amsterdam-based AI cloud company announced its first senior secured debt facility, worth about $775 million, to fund the global buildout of its full-stack AI cloud platform. The facility is backed by deployed GPU infrastructure and contracted cash flows from an investment-grade customer, matures October 31, 2030, and is priced at SOFR plus 2.50%.\n\nThe structure lets Nebius turn an operational asset into growth capital, and the company framed it as a repeatable template. With more than $40 billion of contracted revenue already in place from investment-grade customers including Microsoft (MSFT) and Meta (META), Nebius said it expects to raise further capital on similar terms by financing other long-term customer deployments. Together with the customer agreement, the facility covers more than 100% of the capital spending needed to deploy the underlying GPUs.\n\nThe financing was significantly oversubscribed, led by MUFG. COO Ophir Nave said the deal reinforces the company's \"disciplined, diversified approach\" to scaling. Nebius recently delivered its latest planned capacity tranche to Microsoft and said it remains on track for the remaining deliveries.",
       "Language": "en"
     },
     {
@@ -70,6 +110,16 @@
       "Title": "Apple Targets Former Employees at OpenAI",
       "URL": "https://finance.yahoo.com/technology/ai/articles/apple-targets-former-employees-openai-200040189.html",
       "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) has reportedly sent legal letters to about 40 former employees now working at OpenAI as its trade-secrets lawsuit against the AI startup gathers pace.\n\nAccording to the Financial Times , the letters ask the former employees to preserve documents and communications tied to Apple's allegations and to meet with its lawyers. As many as 400 former Apple employees are now believed to work at OpenAI.\n\nWarning! GuruFocus has detected 1 Warning Sign with SPCX.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple makes the iPhone, Mac and other consumer devices, while OpenAI develops AI models and is preparing to move more directly into hardware. That is where the dispute becomes more important.\n\nApple alleges OpenAI used current and former employees to obtain confidential hardware designs and details about unreleased technologies, products and manufacturing processes. It also claims the conduct was directed by OpenAI leadership.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-18",
+      "Time": "04:00:26",
+      "Source": "Yahoo Finance",
+      "Title": "Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-slips-2-gf-200026317.html",
+      "Content": "This article first appeared on GuruFocus .\n\nQualcomm ( NASDAQ:QCOM ) shares fell about 2% Friday after GF Securities initiated coverage with a Hold rating and a $203 price target, while outlining both the company's AI data center growth prospects and near-term execution risks.\n\nQualcomm has been expanding beyond its smartphone business with its AI250 platform, an AI inference accelerator designed for data centers that aims to deliver higher performance while reducing power consumption. The brokerage said the company is targeting more than $15 billion in annual data center revenue by fiscal 2029, although it projects a slower ramp than management's outlook.\n\nWarning! GuruFocus has detected 3 Warning Signs with QCOM.\n\nIs QCOM fairly valued? Test your thesis with our free DCF calculator.\n\nGF Securities said Qualcomm could benefit from growing demand for AI infrastructure, with the AI250 platform expected to gain adoption among four major U.S. cloud service providers. The firm added that Qualcomm's custom silicon business may attract customers including Microsoft (MSFT), Meta (META) and Amazon (AMZN), while its wafer supply position could provide a competitive advantage.\n\nEven so, the brokerage cited concerns over AI250's cost competitiveness, elevated LPDDR5 memory prices, Android smartphone demand and market share pressures. It also said Qualcomm's CPU business is still several years from becoming a meaningful growth driver.",
       "Language": "en"
     },
     {
