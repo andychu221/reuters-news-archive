@@ -1,9 +1,89 @@
 {
-  "last_updated": "2026-07-17T20:01:14.949Z",
-  "total_news_count": 431,
+  "last_updated": "2026-07-17T20:15:31.845Z",
+  "total_news_count": 440,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:01:39",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Gets Buy Rating on AI Upgrade Cycle",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-gets-buy-rating-ai-200139829.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) was upgraded to Buy at HSBC, with the firm arguing that a stronger product pipeline and revamped Apple Intelligence could set up a major upgrade cycle.\n\nAnalyst Nicolas Cote-Colisson raised his price target to $366 from $260. He pointed to Apple's relatively light AI spending, with capex equal to just 2.5% of estimated 2026 sales versus roughly 39% for hyperscalers, while the company can still monetize its 2.5 billion-device installed base.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple makes the iPhone, Mac, iPad and wearables, while its Services business includes the App Store, iCloud and subscriptions. That ecosystem gives it a large captive audience for new AI features and hardware.\n\nHSBC expects iPhone revenue to grow between 11% and 13%, supported by the iPhone 18 Pro lineup, an iPhone Air, a foldable device, smart glasses and a 20th-anniversary iPhone in 2027. The firm also raised its 2027 Services estimate by 5.4%.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:01:35",
+      "Source": "Yahoo Finance",
+      "Title": "HSBC Upgrades Apple, Citing a Stronger Product Cycle Ahead",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/hsbc-upgrades-apple-citing-stronger-200135509.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ), the technology company behind the iPhone , Mac, iPad and a growing portfolio of services, received an upgrade from HSBC, with analysts saying the company appears to be approaching an important turning point.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nHSBC said Apple is entering a stronger operating cycle, reflecting improving confidence in the company's product roadmap and longer-term growth prospects. While details of the firm's forecast were limited, the upgrade suggests it expects Apple to sustain demand across its hardware and services businesses.\n\nThe more optimistic view comes after investors spent much of the past year debating whether Apple could return to faster growth as competition in smartphones and artificial intelligence intensified.\n\nDespite the analyst upgrade, Apple shares slipped slightly in premarket trading, showing that investors remain cautious ahead of the company's next major announcements.\n\nWall Street will likely look for more evidence that Apple's upcoming products and AI strategy can support another upgrade cycle and strengthen revenue growth.\n\nThe next catalyst will be Apple's upcoming earnings report and any updates on its product roadmap, where investors will be looking for signs that the stronger cycle projected by HSBC is beginning to take shape.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-18",
+      "Time": "04:01:25",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Braces for a 15% Swing Ahead of Q2 Earnings",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-braces-15-swing-ahead-200125488.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( INTC , Financials ), a U.S. semiconductor company that makes processors for personal computers , data centers and artificial intelligence systems, is heading into earnings with unusually high expectations.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe company is scheduled to report second-quarter results on July 23. Options traders are pricing in a 15% move in the shares after the release, above Intel's average post-earnings move of 12.4% over the past four quarters.\n\nWall Street expects Intel to earn 21 cents per share, compared with a loss of 10 cents a year earlier. Revenue is projected to increase nearly 12% to $14.42 billion.\n\nThe higher implied volatility reflects uncertainty around Intel's outlook, manufacturing progress and ability to benefit from growing AI demand. The stock has climbed more than 160% this year, although it has fallen 17% over the past month during a broader technology selloff. That strong advance leaves less room for disappointment.\n\nAnalysts remain divided. Susquehanna recently raised its price target to $115 while keeping a Hold rating, citing stronger server demand. Rosenblatt lifted its target to $65 but maintained a Sell rating because of concerns about manufacturing yields. Investors will focus on guidance, server sales and any signs that Intel's foundry business is gaining momentum.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-18",
+      "Time": "04:01:09",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia and AMD Hit by AI Selloff",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-hit-ai-selloff-200109203.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAI and chip stocks were under pressure again Friday, with the selloff spreading from Japan to U.S. premarket trading.\n\nJapan's Nikkei 225 dropped 4%, led by some of the country's biggest semiconductor names. Kioxia plunged nearly 16%, Tokyo Electron fell about 8%, and Advantest lost around 7%. That weakness quickly spilled into U.S.-listed chip stocks, with Nvidia ( NASDAQ:NVDA ), AMD ( NASDAQ:AMD ), TSMC, Broadcom, Arm ( NASDAQ:ARM ) and Intel ( NASDAQ:INTC )all trading lower before the bell.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nThe timing also matters. Alibaba-backed ( NYSE:BABA ) Moonshot just unveiled Kimi K3, a 2.8 trillion-parameter open-weight AI model that it says can compete with some of the strongest U.S. systems. That adds to the sense that Chinese developers are moving faster than many investors expected.\n\nNvidia sits at the center of the AI buildout, while Micron ( NASDAQ:MU ), TSMC, Broadcom and ASML ( NASDAQ:ASML ) provide the memory, manufacturing and equipment that make those systems possible.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:00:54",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Overtakes Nvidia as Most Valuable Company",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-overtakes-nvidia-most-valuable-200054400.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) has reclaimed the title of the world's most valuable company, edging past Nvidia ( NASDAQ:NVDA ) as investors rotate back toward the iPhone maker's steadier growth story.\n\nApple's market value reached about $4.87 trillion on Friday, narrowly topping Nvidia's $4.83 trillion. It is the first time Apple has held the No. 1 spot since May 2025.\n\nWarning! GuruFocus has detected 4 Warning Sign with SSRM.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe move reflects very different momentum. Apple shares are up 10.8% over the past month and 22.4% this year, helped by optimism around its product pipeline, Services business and the rollout of Apple Intelligence.\n\nApple makes the iPhone, Mac, iPad and wearables, while also running a fast-growing Services ecosystem. Nvidia designs the chips and computing systems powering much of the global AI buildout.\n\nNvidia, by comparison, has slipped 1.7% over the past month and is up 9.2% in 2026 as investors weigh valuation, competition and near-term chip demand.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:00:51",
+      "Source": "Yahoo Finance",
+      "Title": "Apple stock gets a shocking Wall Street price target on strong AI cycle ahead",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-gets-shocking-wall-200051391.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) shares edged higher Friday after HSBC upgraded the iPhone maker to Buy from Hold and raised its price target to $366 from $260, citing improving growth prospects tied to artificial intelligence and upcoming product launches.\n\nHSBC said Apple appears to be entering an operational inflection point as it prepares to expand Apple Intelligence across its installed base of about 2.5 billion devices. The brokerage added that Apple's relatively modest capital spending compared with major cloud providers could support investor sentiment as AI investment trends evolve.\n\nWarning! GuruFocus has detected 4 Warning Sign with SSRM.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe firm also pointed to Apple's upcoming hardware roadmap, including the expected launch of the iPhone 18 Pro and Pro Max later this year, a thinner iPhone model in 2027 and a foldable iPhone under development. HSBC said these products, together with AI enhancements, could encourage a broader device replacement cycle.\n\nHSBC increased its revenue forecasts for fiscal 2027 and 2028 by 7% to 9%, driven by stronger iPhone demand. The brokerage also raised its 2027 services revenue estimate by 5.4%, reflecting expectations for broader adoption of Apple's AI-powered ecosystem.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:00:40",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Targets Former Employees at OpenAI",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-targets-former-employees-openai-200040189.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) has reportedly sent legal letters to about 40 former employees now working at OpenAI as its trade-secrets lawsuit against the AI startup gathers pace.\n\nAccording to the Financial Times , the letters ask the former employees to preserve documents and communications tied to Apple's allegations and to meet with its lawyers. As many as 400 former Apple employees are now believed to work at OpenAI.\n\nWarning! GuruFocus has detected 1 Warning Sign with SPCX.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple makes the iPhone, Mac and other consumer devices, while OpenAI develops AI models and is preparing to move more directly into hardware. That is where the dispute becomes more important.\n\nApple alleges OpenAI used current and former employees to obtain confidential hardware designs and details about unreleased technologies, products and manufacturing processes. It also claims the conduct was directed by OpenAI leadership.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-18",
+      "Time": "04:00:20",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Dethrones Nvidia, Becomes the World's Most Valuable Company Again",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-dethrones-nvidia-becomes-worlds-200020285.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) regained its position as the world's most valuable publicly traded company on Friday after its market capitalization edged past Nvidia ( NASDAQ:NVDA ), reflecting a shift in investor sentiment around artificial intelligence.\n\nApple's market value reached about $4.88 trillion as its shares traded little changed, while Nvidia's valuation slipped to roughly $4.86 trillion after its stock fell about 3.5%. The change marks the first time Apple has held the top spot since April 2025 after Nvidia led global valuations for more than a year.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nApple has recently strengthened its AI strategy, including updates to Siri, as investors increasingly focus on the company's ability to generate AI-related revenue through its services ecosystem and hardware. The leadership transition also comes ahead of CEO Tim Cook's planned handover to John Ternus in September.\n\nNvidia remains one of the largest beneficiaries of AI infrastructure spending, while investors have also broadened their attention to other semiconductor companies. Memory chipmakers such as Micron (MU) and South Korea's SK Hynix have attracted interest as demand for AI hardware expands, although AI-related chip stocks have faced increased volatility in recent weeks.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-18",
       "Time": "03:50:00",
       "Source": "Yahoo Finance",
@@ -30,6 +110,16 @@
       "Title": "Meet the 4.4% Yielding Stock That's Down 11%. Here's Why Investors Should Take a Closer Look.",
       "URL": "https://finance.yahoo.com/m/630301c7-d963-3520-b4aa-f917c02a3b71/meet-the-4.4%25-yielding-stock.html",
       "Content": "A high-yielding dividend stock that's a good value with solid growth potential is a pretty strong combination.\n\nThis describes Shoe Station (NASDAQ: SHOE), formerly known as Shoe Carnival, which traded under the ticker SCVL. The company made that rebrand on June 11, and it also has a new direction.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe shoe stock has struggled in 2026. It's down about 11% year to date, hurt by inflation, a more cautious consumer, and some strategic missteps. In the first quarter, net sales dipped 2.5% year over year. The company also booked a net loss of $5.6 million, in sharp contrast to its $9.3 million in net income in the prior-year period. But Shoe Station pays a great dividend, and management has a plan to turn things around.\n\nA new strategy\n\nShoe Station operates two retail chains -- Shoe Carnival and Shoe Station. Its prior plan was to rebrand and reorganize under one banner, phasing out the lower-end Shoe Carnival brand in favor of the higher-end Shoe Station brand.\n\nNeither the market nor the customers warmed up to that strategy, so management decided to keep both brands, while renaming the company after its premium chain.\n\n\"Our review confirmed that the Shoe Carnival and Shoe Station banners each serve distinct consumer segments, and that the company is best positioned to operate both banners as permanent, independent components of our portfolio,\" interim President and CEO Cliff Sifford said in the Q1 earnings report.\n\nWhile the company will maintain both brands, Shoe Station, which caters to a more affluent, older clientele and is a higher-margin business, will be its long-term growth vehicle.\n\nThe company plans to close some underperforming Shoe Carnival stores and convert a few of them to Shoe Stations.\n\nAs of the end of Q1, it operated 426 total stores -- 281 Shoe Carnivals and 145 Shoe Stations. The plan is to close 12 to 14 underperforming stores in 2026 and six to 10 more in 2027, most of them Shoe Carnivals. Meanwhile, the company will open three to five new stores in 2027 and eight to 10 more in 2028 -- mostly Shoe Stations.\n\nAcquisitions are part of the plan\n\nShoe Station is debt-free and has approximately $129.3 million in cash and cash equivalents on its books -- up 39% year over year. Furthermore, cash flow from operations increased to $32.7 million in the quarter.\n\nStory Continues\n\nAll of that gives it a solid foundation to raise dividends and return capital to shareholders. It's also a great base from which to make acquisitions, which are part of the growth plan.\n\n\"We will also seek to expand our business through strategic acquisitions of other footwear retailers,\" Sifford said in June.\n\nAt the current share price, Shoe Station's dividend has a yield of 4.4%, and its payout ratio is just 34%. It has raised its payouts every year for 13 straight years, and based on its financials, it should be able to keep that streak going.\n\nIt is also trading at a dirt-cheap valuation of 10 times forward earnings. Wall Street analysts expect significant growth for Shoe Station stock: Their median 12-month price target of $22 per share would amount to 43% growth.\n\nWith all that in mind, this is a perfect time to grab some cheap shares if you are looking for a high-yield dividend grower.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-18",
+      "Time": "03:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Micron vs. TSMC: Which AI Semiconductor Stock Is a Better Buy Now?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-tsmc-ai-semiconductor-190000377.html",
+      "Content": "Micron Technology, Inc. MU and Taiwan Semiconductor Manufacturing Company Limited TSM, better known as TSMC, have both benefited from the artificial intelligence (AI) boom and have delivered impressive revenue growth and profitability in their latest quarterly results. However, if investors had to choose one stock, which should it be? Let's see in detail –\n\nThe Bullish Case for Micron Stock\n\nMicron is no longer considered a cyclical memory stock; instead, it has emerged as a vital supplier of AI infrastructure, having delivered strong quarterly results in recent times and boasting a strong outlook, fueled by robust AI memory demand.\n\nIn the fiscal third quarter of 2026, Micron reported revenues of $41.46 billion, up 74% sequentially, and expects even greater revenue growth in the fiscal fourth quarter of 2026, to $50 billion, according to investors.micron.com. This robust growth indicates that demand for Micron's high-bandwidth memory chips, which are used in AI servers, remains strong.\n\nMicron's profitability improved as a result of an increase in demand for its memory products, along with strong pricing power. The company reported a gross margin of 84.6% in the fiscal third quarter, up from 37.7% a year ago. Additionally, a strong operating cash flow of $25.39 billion in the quarter has given Micron the much-needed financial flexibility to support further growth.\n\nThe Bullish Case for TSMC Stock\n\nTSMC is known worldwide for manufacturing state-of-the-art semiconductor chips, supplying to tech behemoths like NVIDIA Corporation NVDA, Broadcom Inc . AVGO and Intel Corporation INTC, to name a few. Being the leader in producing advanced chips has positioned TSMC at the center of the rapidly expanding AI ecosystem, supporting sustained future growth.\n\nTSMC's profits are growing much faster than revenues. The company reported net income of NT$706.56 billion in the second quarter ended June 30, 2026, up 77.4% year over year and 23.4% sequentially, according to investor.tsmc.com. The contract-chipmaker reported revenues of NT$1.27 trillion in the second quarter, up 36% year over year and 12% quarter over quarter. The strong results reflect stable demand for TSMC's advanced chips, which continues to drive growth despite the company's massive scale.\n\nTSMC's management expects another quarter of double-digit sequential revenue growth in the third quarter. Meanwhile, TSMC's net margin of 55.6% in the second quarter is very high relative to semiconductor peers, indicating strong pricing power, operational efficiency and limited competition.\n\nStory Continues\n\nMicron Has the Edge: Why It's a Better AI Buy Than TSMC Now\n\nBoth Micron and TSMC are well-poised to make the most of the AI boom, fueled by incessant demand for cutting-edge memory and semiconductor chips. Both companies continue to exhibit healthy profitability, expanding margins, and optimistic revenue guidance.\n\nHowever, TSMC's debt-to-equity ratio of 15.8% far exceeds Micron's 5.1%, suggesting greater financial risk and potentially higher downside risk during economic slowdowns.\n\nImage Source: Zacks Investment Research\n\nAdditionally, Micron remains more efficient in generating shareholder returns than TSMC. This is because Micron's return on equity (ROE) of 72.5% exceeds TSMC's ROE of 40.9%.\n\nFinally, Micron appears more attractively valued than TSMC. Per the price/earnings ratio, MU trades at 11.55 forward earnings compared with TSM's forward earnings multiple of 26.62.\n\nTherefore, despite both companies remaining leading AI beneficiaries with strong growth prospects, Micron stands out as the better buy due to lower debt, higher returns and a reasonable valuation compared to TSMC. Micron has a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks Rank #1 stocks here.",
       "Language": "en"
     },
     {
