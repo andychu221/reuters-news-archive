@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-17T16:38:35.802Z",
-  "total_news_count": 379,
+  "last_updated": "2026-07-17T16:41:26.220Z",
+  "total_news_count": 381,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-18",
+      "Time": "00:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "Mark Zuckerberg's Meta Launched a Cloud Business This Week. The Stock Had Its Best Week Since Early 2024, Surging 15%.",
+      "URL": "https://finance.yahoo.com/m/8d35af4d-0630-3775-bd95-dc6d932b502e/mark-zuckerberg%27s-meta.html",
+      "Content": "Back in May at Meta Platform ʻs (NASDAQ: META) annual shareholders meeting, CEO Mark Zuckerberg said something that caught a lot of people off guard -- that the notion of selling computing access, essentially entering the cloud computing arena , was \"definitely on the table.\"\n\n\"Almost every week there are different companies that come to us from the outside asking us to both stand up an API service or asking if we have compute that they could buy from us at some premium to what we've bought it at,\" Zuckerberg said.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWell now, according to various reports, including Bloomberg, it is in development, and it is called Meta Compute. Meta confirmed that the initiative is under development but said things could change and offered no details on its plans, according to Bloomberg.\n\nThis would enter Meta into the cloud computing fray, where it would compete against \"Magnificent Seven\" rivals Amazon , Microsoft , and Alphabet . On July 9, Zuckerberg, in an interview with Bloomberg, confirmed that the idea of offering computing access \"makes sense,\" furthering the notion that Meta is ready to make a splash in this business.\n\nShares jump on Meta's cloud ambitions\n\nSince the July 1 Bloomberg article came out, Meta stock has jumped some 21% to $677 per share. Last week, sparked by the Zuckerberg interview, Meta stock soared 15%, making it the best week for Meta stock in more than two years.\n\nBloomberg's initial report included some details, although unconfirmed, on what Meta's cloud plans might look like. One idea, per Bloomberg, is to charge developers to \"access AI models hosted on its infrastructure.\" The other option is to sell excess computing capacity, similar to other cloud providers.\n\nIt is way too early for investors to get too concerned about this one way or the other, as we don't yet know the details on what Meta is planning. I would guess that we'll hear more when Meta reports earnings on July 29.\n\nDue to its size, resources, and relationships, Meta would have the capacity to generate meaningful revenue in this booming space. That's probably why we are seeing investor enthusiasm. But the real dirt is in the details, so keep an eye out for more.\n\nIn my opinion, Meta stock remains a great buy heading into earnings. Some 91% of analysts rate it a buy with a median price target of $810 per share, which suggests 20% upside. And it is still relatively cheap, trading at 24 times earnings and 21 times forward earnings, below the S&P 500 average.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-17",
+      "Time": "23:58:45",
+      "Source": "Yahoo Finance",
+      "Title": "Why Meta Stock Dropped on Friday",
+      "URL": "https://finance.yahoo.com/m/dd3a2089-a1c9-3d8d-a3ff-d4c01c72722a/why-meta-stock-dropped-on.html",
+      "Content": "Meta Platforms (NASDAQ: META) stock tumbled 5.3% through 11:20 a.m. ET Friday amid a tech sell-off that's dragging down the Nasdaq by about 1.5%. You can probably blame banker BMO for that.\n\nOr at least for the Meta part of the sell-off.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBMO is \"meh\" on Meta\n\nBMO analyst Brian Pitz reiterated his market perform (i.e., hold) rating and $720 price target on Meta stock this morning. That doesn't sound like bad news -- Meta stock trades below $630 per share, so a $720 PT suggests the stock could rise 14% over the next 12 months.\n\nAnd yet, Pitz isn't telling investors to buy Meta stock. Why not?\n\nOn the one hand, the analyst likes Meta's efforts to launch a cloud computing business centered on artificial intelligence -- but he does have concerns about the cost. Meta's expected to spend $140 billion on capital investment this year, yet has precious little to show for the investment.\n\n\"META has the least visible AI ROI story,\" warns Pitz, even as governments globally threaten its core business by restricting use of Meta's core social media products in an effort to curb societal ills surrounding children.\n\nWhat's next for Meta\n\nThe regulatory risk seems to me the biggest concern for Meta, as it threatens the company's cash cow -- the source of all the money Meta is currently pouring into AI investment. The good news is that, so long as this cow remains alive and kicking, Meta can afford the investment; free cash flow for the past 12 months was still a healthy $49.4 billion.\n\nThe better news is that if Meta ever ratchets back its AI spending, free cash flow could easily double to $100 billion or better. On a $1.7 trillion market cap, that could be enough to make Meta stock a buy.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-07-17",
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-07-17",
       "Time": "23:41:10",
       "Source": "Yahoo Finance",
@@ -73,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, AMZN, AAPL",
       "Date": "2026-07-17",
       "Time": "22:53:00",
       "Source": "Yahoo Finance",
