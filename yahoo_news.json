@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T16:32:44.595Z",
-  "total_news_count": 378,
+  "last_updated": "2026-07-17T16:38:35.802Z",
+  "total_news_count": 379,
   "news": [
     {
       "Ticker": "AMD",
@@ -10,6 +10,16 @@
       "Title": "AMD Stock Gets New Street-High of $725 Target on AI Boom",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-street-high-155504320.html",
       "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( NASDAQ:AMD ) shares climbed more than 5% on Tuesday after several Wall Street firms raised their price targets, reflecting growing confidence in the chipmaker's artificial intelligence and data center businesses.\n\nKeyBanc increased its price target on AMD to street high of $725 from $530 while maintaining an Overweight rating. The firm said additional server processor capacity could support stronger shipment growth this year and in 2027. KeyBanc also expects AMD's next-generation AI accelerators and Helios platform to contribute to revenue growth in the coming quarters.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nBank of America raised its target price on AMD to $620 from $550, while TD Cowen increased its forecast to $675. The revised estimates come as analysts continue to assess demand for AI computing infrastructure and advanced semiconductor products.\n\nAMD also appeared to benefit from renewed investor interest in semiconductor stocks. Recent market data indicated hedge funds increased purchases of U.S. chipmakers after a period of selling, suggesting investors may be positioning for continued growth in the sector.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-07-17",
+      "Time": "23:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "2 Stocks to Buy in the Chip Stock Sell-Off",
+      "URL": "https://finance.yahoo.com/m/96870d6e-2d09-3bd2-a6bc-acc011cf4c3e/2-stocks-to-buy-in-the-chip.html",
+      "Content": "On July 13, chip stocks dropped sharply for several reasons, including escalating geopolitical tensions. It's not that surprising to see many investors take some profits as they fear what may happen to broader equities if conflicts in the Middle East worsen. However, for those focused on the long term, it's still worth buying shares of top semiconductor stocks and riding out this volatile period. Here are two great picks to consider: Nvidia (NASDAQ: NVDA) and Marvell Technology (NASDAQ: MRVL).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. Nvidia\n\nShares of Nvidia are surprisingly cheap right now relative to its growth potential. The company is trading at 24.1x forward earnings, versus an average of 21.7x for information technology stocks. Considering Nvidia is the undisputed leader in the GPU ( Graphics Processing Unit ) market, boasts a wide moat due to high switching costs, and still has a vast opportunity as artificial intelligence (AI) infrastructure spending grows, the stock looks like a bargain at current levels. While the bears fear that the competition will eventually catch up to Nvidia, so far, hardly any one of them has been able to make much headway in disrupting its empire.\n\nMeanwhile, as the company argues, it is no longer just a GPU company. Nvidia offers products across much of the AI infrastructure stack. The company sees a large opportunity in the CPU market, for instance, which is why it launched its stand-alone Vera CPU -- and that's just the tip of the iceberg. On top of that, Nvidia recently significantly increased its dividend per share and committed to consistently returning at least 50% of its free cash flow to shareholders, via dividends and share buybacks. All of that makes the stock highly attractive. Even after the amazing run Nvidia has had over the past few years, it isn't done just yet.\n\n2. Marvell Technology\n\nMarvell is a leading Application-Specific Integrated Circuit (ASIC) maker. These are custom chips developed to handle specific workloads. What they lack in versatility, they make up for in the ability to be highly efficient for the tasks they are designed for -- such as training AI models -- and can be cost-efficient when deployed at scale. Many companies will increasingly rely on ASICs to tap into the large and growing AI opportunity.\n\nStory Continues\n\nConsider, for instance, that Amazon is considering selling its Trainium chips (designed by Marvell) to other data centers, something it wouldn't even explore unless it saw strong demand. Similarly, Alphabet has said it will sell its custom AI chips to select outside customers. All of these developments are bullish signs for Marvell Technology.\n\nMeanwhile, the company continues to post strong financial results. In the first quarter of its fiscal year 2027, ending May 2, Marvell's revenue climbed to a record $2.4 billion, up 28% compared to the year-ago period. The company's adjusted earnings per share were $0.80, 29% higher than the prior-year quarter. Marvell's revenue should accelerate over the next few quarters. And as demand for custom AI chips soars through the end of the decade (and beyond), especially from the hyperscalers, the company should be a major winner.",
       "Language": "en"
     },
     {
@@ -73,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO",
+      "Ticker": "MRVL, AVGO",
       "Date": "2026-07-17",
       "Time": "22:43:00",
       "Source": "Yahoo Finance",
