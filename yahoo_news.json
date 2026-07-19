@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-19T16:11:34.567Z",
-  "total_news_count": 244,
+  "last_updated": "2026-07-19T16:40:13.324Z",
+  "total_news_count": 245,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-20",
+      "Time": "00:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "Warren Buffett Just Confirmed That Berkshire's Alphabet Stake Was His Idea. Why the Stock Still Looks Like a Buy",
+      "URL": "https://finance.yahoo.com/m/a6c060c0-8eed-3bdb-81a0-8f2d457ad631/warren-buffett-just-confirmed.html",
+      "Content": "Famed investor Warren Buffett is usually not one to seek out recognition, but in a recent interview, the Oracle of Omaha took credit for Berkshire Hathaway (NYSE: BRKA) (NYSE: BRKB) taking a large stake in Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG). Buffett has never been known as a tech investor, so when this value-oriented guru takes a big stake in a leading tech company, the stock should probably be on your list of stocks to strongly consider.\n\nBerkshire first took a position in Alphabet in the third quarter of last year, right before Buffett was set to retire at the end of 2025. It added to that position earlier this year when it invested $10 billion in a private placement to help Alphabet raise money to build out its AI infrastructure.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIn the interview, Buffett said the key to investing was finding businesses that can earn a high return on capital for a long period of time. He and current Berkshire CEO Greg Abel appear to believe that Alphabet can do this with its AI infrastructure investments, and there is good reason to believe this will be the case.\n\nA long runway of growth\n\nAs with the other big three cloud computing giants, Alphabet benefits from being able to split its computing power between its own internal needs and third-party demand. This gives it flexibility to help it generate the best return on its investments. What really separates the company from the pack, though, is its Tensor Processing Units (TPUs). It developed these chips more than a decade ago and has been improving upon them with new iterations ever since. It has also optimized its entire software and hardware stack around them.\n\nThis gives the company a big cost advantage versus both AI model competitors and those in the cloud computing space that tend to rely mostly on Nvidia's much more expensive graphics processing units (GPUs). Alphabet's TPUs allow it to train its Gemini frontier models at a much lower cost than competitors like OpenAI. They also help the company save on inference expenses, giving it a structural cost advantage. This, combined with its distribution and ad-network edges, is why it can run a strong and profitable consumer AI business.\n\nAlphabet's custom chips also give the company a cost edge in its fast-growing cloud computing business. It's seeing rapid cloud revenue growth, including 63% last quarter, but its cloud profits are climbing even faster, with cloud operating income tripling. Meanwhile, Alphabet's TPUs are so well regarded that Anthropic has started placing big TPU orders through its partner Broadcom , opening up another potential high-margin revenue stream.\n\nStory Continues\n\nBacked by Buffett's approval, Alphabet is a top AI stock to buy right now, with a long runway of growth ahead.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-19",
