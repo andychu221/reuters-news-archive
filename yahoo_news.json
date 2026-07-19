@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-19T09:00:38.979Z",
-  "total_news_count": 187,
+  "last_updated": "2026-07-19T09:14:48.280Z",
+  "total_news_count": 188,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-19",
+      "Time": "16:51:00",
+      "Source": "Yahoo Finance",
+      "Title": "Under Greg Abel, Apple and Alphabet Now Make Up Nearly 30% of Berkshire Hathaway's $348 Billion Stock Portfolio. Here's Why.",
+      "URL": "https://finance.yahoo.com/m/b247b7d1-40ff-38f0-a83e-8c4ae12c5925/under-greg-abel%2C-apple-and.html",
+      "Content": "Warren Buffett's successor is putting his own stamp on Berkshire Hathaway (NYSE: BRKB), and it looks a lot more like an artificial intelligence bet than the value portfolio that investors are used to. Nearly 30% of Berkshire's roughly $348 billion stock portfolio is now tied to just two semi-AI-linked names: Apple (NASDAQ: AAPL) and Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL). Here is why CEO Greg Abel has leaned in.\n\nThe numbers behind the concentration\n\nApple remains the conglomerate's single largest equity holding, accounting for about 20.6% of the stock portfolio. Alphabet has surged into the top five, with its Class A shares making up roughly 7% of the portfolio and its Class C shares another 1.8%. That combined weight is striking for a company that has long been known for spreading its bets heavily across banks, insurers, and consumer staples. Abel has also narrowed the portfolio overall, closing 16 positions and trimming the number of companies Berkshire owns stakes in to 29.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWhy Abel loaded up on Alphabet\n\nThe Apple stake is a Buffett-era inheritance, but the Alphabet position is very much Abel's doing. Berkshire first disclosed a stake in Alphabet in the third quarter of 2025 and has since tripled it. Abel bought 36.4 million Alphabet shares in the first quarter, then signed off on a $10 billion private placement purchase in June. That deal involved buying $5 billion of Class A shares at $351.81 each and another $5 billion of Class C shares at $348.20 each. The deal was structured to help Alphabet fund an $80 billion push to build out AI infrastructure. Berkshire's Alphabet holding has swelled to roughly $41 billion, pushing it past the iconic Coca-Cola stake to be the portfolio's fourth-largest position.\n\nThe thesis behind the AI tilt\n\nThis new concentration in tech reflects a genuine shift in philosophy at Berkshire. Abel appears far more comfortable than Buffett was with holding large technology companies sitting at the center of the AI transformation. Even so, Alphabet also meets the classic Berkshire criteria: It possesses a durable competitive moat built on network effects, enormous free cash flow, and a valuation that can be viewed as fair for a wonderful business. Berkshire now views Alphabet as a potential \"forever holding\" alongside Apple and American Express (NYSE: AXP).\n\nStory Continues\n\nWith Apple, Berkshire owns a stake in a company that's weaving AI features across the world's most valuable device ecosystem, while Alphabet pairs Google's search dominance with its own leading AI models and cloud business. The Alphabet purchase was made at a price the company itself set for its capital raise, meaning Berkshire effectively bought in as an anchor investor, helping to fund the build-out rather than chasing the stock in the open market. Given that the conglomerate has historically sought out opportunities to invest in assets at less than their intrinsic value,  its decision to participate directly in a company's AI expansion reflects a notable evolution of its playbook. Taken together, the two positions show Abel is willing to concentrate Berkshire's capital among the companies he foresees as being the most durable long-term winners of the AI era.\n\nThe risks worth naming\n\nConcentration cuts both ways. Tying nearly a third of the stock portfolio to two stocks means a stumble at either one would hit Berkshire hard. Both companies also trade at richer valuations than the deep-value bargains Buffett built his reputation on, and the AI infrastructure build-out is an expensive race toward a technology that's unproven at this scale. Investors following Berkshire's lead into Apple and Alphabet should understand they are buying growth-tinged tech, not traditional value.\n\nGreg Abel is signaling that Berkshire intends to participate in the AI era rather than watch it from the sidelines. Putting nearly 30% of a $348 billion portfolio into Apple and Alphabet is a bold statement of conviction in two businesses with wide moats and real AI upsides. I think the move is worth studying, but I would treat it as a starting point for research rather than a suggestion that you should match Berkshire's concentrations in your own portfolio.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-19",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-07-19",
       "Time": "16:22:00",
       "Source": "Yahoo Finance",
