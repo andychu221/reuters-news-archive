@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-20T17:01:50.379Z",
-  "total_news_count": 513,
+  "last_updated": "2026-07-20T17:15:31.202Z",
+  "total_news_count": 514,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-21",
+      "Time": "01:08:25",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Stock Falls Ahead of Earnings Despite BofA's Bullish Outlook",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-ahead-earnings-170825285.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) shares fell about 3% on Monday even after Bank of America reaffirmed its Buy rating and $380 price target ahead of the iPhone maker's fiscal third-quarter earnings report.\n\nBank of America said it expects Apple to exceed Wall Street's estimates for the June quarter, forecasting revenue of about $109 billion and earnings of $1.89 per share, compared with analyst consensus estimates of $108 billion and $1.87 per share. The firm said iPhone production plans remain strong, although it adopted a more cautious outlook due to a staggered launch schedule for upcoming iPhone models and expected price increases.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe brokerage expects Apple's product gross margin to decline sequentially in the June and September quarters before improving in the December quarter as higher-priced iPhones, including a foldable model, enter the market. It also said potential tariff-related recoveries could support margins later in the year.\n\nBank of America added that Apple should continue benefiting from solid growth in its Services business, supported by iCloud and licensing revenue, including its search partnership with Alphabet (GOOGL). The brokerage projects Services revenue growth of about 14% year over year and expects Services gross margins to remain above 76%, with potential to approach 80% over time.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-21",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-21",
       "Time": "00:39:52",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "INTC, GOOGL",
       "Date": "2026-07-21",
       "Time": "00:30:11",
       "Source": "Yahoo Finance",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "INTC, GOOGL",
       "Date": "2026-07-21",
       "Time": "00:23:03",
       "Source": "Yahoo Finance",
