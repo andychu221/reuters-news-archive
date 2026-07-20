@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-20T16:45:15.063Z",
-  "total_news_count": 506,
+  "last_updated": "2026-07-20T17:01:50.379Z",
+  "total_news_count": 513,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-07-21",
+      "Time": "00:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "5 Semiconductor Stocks Poised to Outperform This Summer",
+      "URL": "https://finance.yahoo.com/m/59f4683d-49f2-3f5b-9ee7-453696426554/5-semiconductor-stocks-poised.html",
+      "Content": "The AI trade has been the single biggest force in the market, and nowhere is that clearer than in semiconductors. The chips that train and run artificial intelligence sit at the center of trillions of dollars in spending, and even after a bumpy stretch this summer, the build-out shows no sign of slowing.\n\nThe smartest way to play it is to own different links in the chip supply chain rather than betting on one name. Here are five semiconductor stocks positioned to outperform, each capturing a different piece of the AI boom.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. Nvidia\n\nNvidia (NASDAQ: NVDA) remains the engine of the entire AI trade. Its new Vera Rubin platform has ramped into full production, its data center revenue recently grew more than 90% from a year earlier, and management says it has demand visibility of roughly $1 trillion through 2027. The stock cooled off this summer, which to me looks more like a breather than a breakdown, given how much AI infrastructure the world is still building. When a company is selling every chip it can make, temporary weakness tends to be a gift.\n\n2. Taiwan Semiconductor Manufacturing\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) is the company that physically builds nearly every advanced AI chip, including Nvidia's. Its leadership called AI demand \"extremely robust\" and raised its growth outlook above 30% while pouring another $100 billion into its Arizona campus and ramping up cutting-edge 2-nanometer production. Because there is no real substitute for its factories, Taiwan Semiconductor is the closest thing to a toll booth on the whole AI economy.\n\n3. Broadcom\n\nBroadcom (NASDAQ: AVGO) is the other giant of AI silicon, and it wins in two ways. It designs the custom chips that big tech names use to build their own AI systems, and it dominates the networking gear that connects thousands of those chips inside a data center. Management has pointed to a path toward $100 billion in annual AI revenue, and its large software business adds ballast. Broadcom is how you own the AI trade beyond just graphics chips.\n\n4. Micron Technology\n\nMicron Technology (NASDAQ: MU) is the memory play and the boldest pick on this list. AI accelerators are useless without high-bandwidth memory sitting beside them, and that memory has been in short supply, a squeeze analysts expect to last into 2027. The catch is that memory stocks recently tumbled into a bear market on fears that the cycle is peaking. I would frame that pullback as an opportunity: If the shortage holds through the summer, Micron could rebound sharply. Just know this is the most volatile name here, because memory booms and busts hard.\n\nStory Continues\n\n5. ASML\n\nASML Holding (NASDAQ: ASML) is the ultimate pick-and-shovel bet. It holds a near-monopoly on the advanced lithography machines required to make cutting-edge chips, so every fab that Taiwan Semiconductor, Samsung, or Intel (NASDAQ: INTC) builds needs its equipment. The company just posted record bookings driven by AI demand and raised its full-year forecast. Its next-generation High-NA machines, which sell for close to €400 million (roughly $457.5 million USD) each, are now being used in high-volume production. Own ASML, and you profit no matter which chip company wins.\n\nThe risks worth naming\n\nNone of this comes without danger. Semiconductors are deeply cyclical, and the AI trade has pushed valuations high across the board, so any sign that spending is slowing could hit these stocks hard and all at once. Memory, in particular, is prone to violent swings, as Micron's recent drop shows. Taiwan Semiconductor and ASML also carry geopolitical risk tied to Taiwan, China, and export rules. These are growth stocks riding a powerful but unproven-at-this-scale trend.\n\nRather than guessing which sole chip stock will win the AI race, I like owning the value chain: Nvidia for the AI brains, Taiwan Semiconductor and ASML for the manufacturing muscle behind every chip, Broadcom for custom silicon and networking, and Micron for the memory that makes it all run. Each is poised to benefit as AI spending marches on this summer and beyond. Buy gradually, mind the valuations, and let the build-out, not the daily swings, guide your conviction.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-07-21",
+      "Time": "00:43:34",
+      "Source": "Yahoo Finance",
+      "Title": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
+      "URL": "https://finance.yahoo.com/news/live/tech-stocks-live-chip-stocks-recover-from-last-weeks-losses-on-google-amd-news-164334720.html",
+      "Content": "Chip stocks recovered some of their losses Monday after last week's rout sent them into a bear market. Shares of the Philadelphia Semiconductor index ( ^SOX ) climbed more than 2.6% by midday.\n\nAMD ( AMD ) stock also rose on news it signed a deal with Microsoft ( MSFT ) to deploy its Helios rackscale AI computing platform laster this year. Helios is designed to go head-to-head with Nvidia's ( NVDA ) popular NVL72 rack systems and stands as AMD's first true competitor to the market-leading powerhouse.\n\nElsewhere, Google ( GOOG , GOOGL ) stock climbed roughly 2.5% after The Information reported that the company is working on a new kind of chip to power its Gemini AI services called Frozen v2. The processor would include bits of Gemini built directly into the chip, which could help speed up performance versus.\n\nGoogle will report its second quarter earnings on Wednesday, with Intel ( INTC ) following Thursday, providing Wall Street with an updated look at both data center investing among hyperscalers and chip demand from semiconductor companies.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-07-21",
+      "Time": "00:41:49",
+      "Source": "Yahoo Finance",
+      "Title": "Market Indexes Play Favorites: Tech Wins, Industrials Sulk on Monday",
+      "URL": "https://finance.yahoo.com/m/2d68e13d-bac8-3961-9189-9be807fcd3a2/market-indexes-play.html",
+      "Content": "The three major U.S. stock indexes moved in different directions Monday morning as investors weighed competing forces. There's renewed optimism in artificial intelligence infrastructure against persistent concerns about Middle East oil disruptions. Meanwhile, Wall Street faces a heavy week of corporate earnings.\n\nBy 11:34 a.m. ET, the Nasdaq Composite (NASDAQINDEX: ^IXIC) index had climbed 0.5%, the S&P 500 (SNPINDEX: ^GSPC) was up 0.3%, and the Dow Jones Industrial Average (DJINDICES: ^DJI) moved 0.3% lower. All three indexes opened modestly higher, and the Nasdaq briefly flirted with a 1% pop around 9:50 a.m. Then the early enthusiasm faded, and the Dow crossed into negative territory before 10:00 a.m.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n^IXIC data by YCharts\n\nThe AI boom roars back to life\n\nAlphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) emerged as the session's primary catalyst. The Google parent jumped 3% after The Information reported that Google is cooking up a new chip called \"Frozen v2.\" The hardware will reportedly run Google's Gemini AI models six to ten times more efficiently than current silicon. Alphabet added 61 points to the Dow and topped the leaderboard across all three key indexes.\n\nThe semiconductor sector rallied broadly on the news. Micron Technology (NASDAQ: MU) surged 4.2%, the iShares Semiconductor ETF (NASDAQ: SOXX) gained 2.1%, Nvidia (NASDAQ: NVDA) added 1.5%, and Broadcom (NASDAQ: AVGO) rose 2.8%. Some of them have a hand in Alphabet's chip designs, while others are direct rivals. Either way, investors applauded fresh signs of innovation in the chip sector.\n\nAfter today's gains, SOXX has still cratered 19% from its June high. Monday felt less like a victory lap and more like a pressure release valve finally popping. Mind you, longtime investors are still doing fine. Micron's stock is up 681% in 52 weeks. SOXX more than doubled with a 117% gain.\n\nNot everyone got an invitation to Monday's party. Apple (NASDAQ: AAPL) dropped 2.4%, which is awkward timing given all the positive buzz around its AI rollout in China. Sometimes stocks just need to catch their breath after a big run; Apple gained 5% last week.\n\nMeanwhile, Caterpillar (NYSE: CAT) fell 1.2%. Because the Dow is price-weighted and Caterpillar's shares trade near $870, that decline alone erased about 62 points from the index, essentially erasing Alphabet's positive contribution. Caterpillar's stock accounts for roughly 10% of the Dow's entire value nowadays. Maybe it's time for a stock split .\n\nStory Continues\n\nOverseas, the U.S. military conducted its ninth consecutive night of strikes against Iran. Brent crude oil briefly punched above $90 per barrel before retreating on hints that Tehran might be open to negotiations. Gasoline prices have climbed back to $4 per gallon nationally. Oil refiners Marathon Petroleum (NYSE: MPC) and Valero (NYSE: VLO) are two of the five largest gainers on the S&P 500 over the last month.\n\nBuckle up for earnings season\n\nMonday's session sets the stage for one of the busiest earnings weeks of the quarter. Alphabet and Tesla (NASDAQ: TSLA) report on Wednesday, followed by Intel (NASDAQ: INTC) later in the week. More than 300 companies are releasing results before the weekend. Investors are hungry for clarity on AI spending. For better or worse, they're going to get a buffet of data points.\n\nNone of this changes the long game. Sector rotation and volatility are part of the deal. The question isn't whether AI stocks will bounce; it's whether the companies behind them can prove the spending is worth it. This week's earnings should offer some answers.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-07-21",
+      "Time": "00:39:52",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Reclaims World's Most Valuable Company Title at $4.9 Trillion",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-reclaims-worlds-most-valuable-163952633.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ), the iPhone maker, has reclaimed its position as the world's most valuable company after overtaking NVIDIA ( NASDAQ:NVDA ), a chipmaker whose processors are used by major artificial intelligence developers. NVIDIA shares fell 3.7% on Friday, reducing the company's market capitalization to $4.8 trillion, while Apple's stock gained 0.4%, lifting its valuation to $4.9 trillion. The shift comes as investors rotate away from technology companies spending heavily on artificial intelligence and chipmakers that have benefited from the surge in AI infrastructure investment.\n\nWarning! GuruFocus has detected 1 Warning Sign with SPCX.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple shares have climbed 21% from their June low and are now up 23% in 2026, making the stock the strongest performer among the Magnificent Seven. The company has outpaced the Nasdaq 100 Index, which has gained 12% this year, and the S&P 500 Index, which has risen 8.6%. Apple also recently received long-awaited government approval to introduce Apple Intelligence in China, a development expected to provide another potential catalyst for the stock.\n\nNVIDIA shares weakened after Moonshot, a Chinese artificial intelligence startup, introduced a new model said to compete with leading offerings from OpenAI, an AI developer, and Anthropic, an AI company whose models use NVIDIA chips. The possibility that Chinese AI models could gain wider adoption has added to concerns that spending on AI infrastructure may be approaching a peak. HSBC, a global banking group, upgraded Apple from hold to buy, with analyst Nicolas Cote-Colisson arguing that the company may be reaching an operational turning point. Cote-Colisson noted that Apple can remain outside the debate over high capital spending while potentially using its installed base of 2.5 billion devices to support its forthcoming revamped Apple Intelligence offering.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-07-21",
+      "Time": "00:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "If a Stock Market Crash Is on the Way, History Says This Is the Smartest Thing Investors Can Do",
+      "URL": "https://finance.yahoo.com/m/5a7ee377-077e-3240-969e-772d6e03d2a3/if-a-stock-market-crash-is-on.html",
+      "Content": "The stock market has long been one of the most reliable paths to create wealth. Since the artificial intelligence (AI) revolution ignited in late November 2022, the S&P 500 (SNPINDEX: ^GSPC) has gained a cumulative 83%, propelled by innovation and expanding corporate profits in technology and related sectors.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThese advances reinforce the appeal of stocks for long-term investors who simply stay the course. At the same time, the market's elevated valuation and heavy concentration in a handful of dominant names have sparked growing speculation that a meaningful correction -- or even a bear market -- could lie ahead.\n\nUnderstanding how the stock market moves\n\nStocks do not travel in a straight line upward or downward. Instead, they move through cycles of expansion and contraction that reflect the macroeconomic environment and shifts in investor psychology.\n\nDeclining stock prices often coincide with recessions, when the economy begins to show weakness with declining growth rates. Selling pressure can also emerge independently of economic downturns. When corporate profits fall short of optimistic forecasts that are already priced into stocks, investors may decide to lock in gains. This profit-taking can quickly snowball into broader selling.\n\nUnderstanding these ebbs and flows as ordinary features of the stock market -- rather than anomalies -- allows investors to digest downturns with greater composure instead of panic.\n\nWhat lessons can be learned from prior downturns?\n\nSince 2000, the S&P 500 has recorded four distinct bear markets:\n\nDot-com bust: 49% decline\n\n2008 financial crisis: 57% decline\n\nCOVID-19 crash: 34% decline\n\n2022 bear market: 25% decline\n\nIn the chart below, I've annotated recessions in the gray-shaded columns. History shows that the market ultimately recovered from each of these episodes and moved on to notch new all-time highs. Even earlier this year, the S&P 500 pulled back 7% as investors took profits after years of strong AI-driven gains, combined with questions about whether earnings growth would continue at the previously assumed pace we've witnessed over the last few years.\n\nAs always, the market absorbed the selling pressure, eventually stabilized, and resumed its upward trajectory.\n\nHow can investors respond to uncertainty?\n\nStory Continues\n\nWhen the possibility of a bear market arises, perhaps the best action is to maintain a long-term mindset. This approach hinges on buying blue chip companies with durable business models, competitive advantages, and the ability to generate consistent cash flow through varying economic cycles.\n\nRather than monitoring daily price volatility or attempting to forecast short-term returns, the smartest investors measure success across decades. Wealth in the stock market is ultimately built through the compounding effect of buying and holding stocks, not through frequent day trading or reactive decisions.\n\nBy doubling down on quality positions during periods of stress, investors give themselves the best chance to participate fully in the market recoveries that have always followed every major decline.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-07-21",
@@ -13,7 +63,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "NVDA",
+      "Date": "2026-07-21",
+      "Time": "00:27:53",
+      "Source": "Yahoo Finance",
+      "Title": "Musk Denies Report of $52 Billion AI Server Order",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/musk-denies-report-52-billion-162753820.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSpaceX ( SPCX , Financials ), the aerospace business led by Elon Musk , disputed claims that it had agreed to buy Nvidia-powered AI servers from Foxconn for billions of dollars.Musk slammed the idea as fake news on a post on X. The comment came following rumors that SpaceX was set to install more than 13,000 server racks based on Nvidia's GB300 architecture.It was not a declared contract price but a value of roughly $52 billion against an estimated cost of about $4 million per rack.The project has been reported but not confirmed and neither SpaceX, Nvidia nor Foxconn immediately responded beyond Musk's article.The news initially sparked speculation that SpaceX was planning a massive expansion of its AI processing capability, with Foxconn said to be building the devices. The deal might also help Foxconn's AI division grow beyond current forecasts, it said.But the estimate has been questioned since it was published and it indicates a growing appetite from investors for large-scale AI infrastructure spending as tech companies scramble to get processing power.Now the focus is on whether SpaceX, Nvidia or Foxconn disclose further specifics that clarify their AI infrastructure plans.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, META",
       "Date": "2026-07-21",
       "Time": "00:27:00",
       "Source": "Yahoo Finance",
@@ -23,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "AMD, MSFT",
       "Date": "2026-07-21",
       "Time": "00:25:23",
       "Source": "Yahoo Finance",
@@ -43,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "AMD, MSFT",
       "Date": "2026-07-21",
       "Time": "00:15:13",
       "Source": "Yahoo Finance",
@@ -80,6 +140,16 @@
       "Title": "Tesla Plans 20% Production Increase at Berlin Plant",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-plans-20-production-increase-161009885.html",
       "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ), the electric vehicle and energy business , is planning to ramp up output at its Gigafactory Berlin-Brandenburg as demand for the Model Y rebounds in Europe.The corporation plans to raise output to about 7,500 vehicles a week, or some 375,000 units a year at full capacity. That would be an increase of nearly 20 percent from current levels.Tesla also aims to add about 3,500 personnel in the near-to-medium term. About 1,000 of those new workers would help the immediate ramp-up in manufacturing, with others working in car assembly and battery operations.Currently, the Berlin facility is delivering the Model Y to European markets, and exporting automobiles to over 30 nations.A boost to local manufacturing might help make Tesla less reliant on exports from China and the US. It can also assist the organization in managing logistical expenses and any trade restrictions.The growth comes after a slower phase in 2025 when the plant's output and sales decreased while profitability improved.Investors will now monitor to see if rising European demand lifts plant usage rates without squeezing profitability.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMD",
+      "Date": "2026-07-21",
+      "Time": "00:06:44",
+      "Source": "Yahoo Finance",
+      "Title": "Cathie Wood Dumps $39 Million Worth of AMD Stock",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-39-million-160644244.html",
+      "Content": "This article first appeared on GuruFocus .\n\nCathie Wood's ARK Invest reduced its position in Advanced Micro Devices ( NASDAQ:AMD ) during the week ended July 17, making the chipmaker its largest sale of the period.\n\nARK sold approximately $39.2 million of AMD shares as part of broader portfolio adjustments across technology, healthcare and industrial companies. The investment firm also reduced holdings in Deere (DE), 10x Genomics ( NASDAQ:TXG ), Twist Bioscience ( NASDAQ:TWST ) and Robinhood Markets (HOOD).\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nAdditional technology-related sales included Roku (ROKU), Iridium Communications ( NASDAQ:IRDM ), Baidu ( NASDAQ:BIDU ) and Cloudflare (NET). Within healthcare, ARK trimmed positions in Personalis (PSNL), Atai Life Sciences (ATAI), Illumina (ILMN) and Natera (NTRA), while Deere and Caterpillar (CAT) represented notable reductions among industrial holdings.\n\nDespite the AMD sale, ARK continued adding capital to several growth-focused investments during the week, including Space Exploration Technologies (SPCX), X-Energy, Circle Internet Group ( NYSE:CRCL ) and other companies tied to artificial intelligence, aerospace, digital assets and next-generation energy, reflecting an ongoing portfolio rotation rather than a broad shift away from innovation-focused investments.",
       "Language": "en"
     },
     {
@@ -143,7 +213,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MRVL, SNDK",
+      "Ticker": "MU, MRVL, SNDK",
       "Date": "2026-07-20",
       "Time": "22:51:00",
       "Source": "Yahoo Finance",
