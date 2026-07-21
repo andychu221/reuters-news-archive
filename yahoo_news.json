@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-21T13:01:18.366Z",
-  "total_news_count": 229,
+  "last_updated": "2026-07-21T13:16:00.065Z",
+  "total_news_count": 232,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-21",
+      "Time": "21:07:55",
+      "Source": "Yahoo Finance",
+      "Title": "Oppenheimer Picks Apple, Amazon, Alphabet as Top Stock Buys",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-picks-apple-amazon-alphabet-130755332.html",
+      "Content": "This article first appeared on GuruFocus .\n\nOppenheimer said investors may want to use the recent pullback in higher-beta stocks to selectively add equity exposure rather than adopt a defensive stance.\n\nThe firm said recent market action reflects sector rotation within an ongoing bull market instead of broad-based selling. Oppenheimer added that participation has widened, with the percentage of Russell 3000 companies trading above their 200-day moving average rising to 68% from 60%, even as the broader market has remained largely flat since early June.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nOppenheimer said a decline in the S&P 500 below 7,420 could increase the likelihood of a correction toward 7,000 before a more durable bottom forms. The firm also said the recent pullback in AI-related stocks has occurred on lighter trading volume, suggesting the longer-term trend remains intact.\n\nAcross sectors, Oppenheimer identified Targa Resources (TRGP), Corteva (CTVA), W.W. Grainger (GWW), Amazon ( NASDAQ:AMZN ), Archer-Daniels-Midland (ADM), Neurocrine Biosciences (NBIX), JPMorgan Chase (JPM), Welltower (WELL), Apple ( NASDAQ:AAPL ), Alphabet ( NASDAQ:GOOG ) and Entergy (ETR) as preferred ideas. It paired those with sell recommendations on EQT (EQT), International Paper (IP), Uber Technologies ( NYSE:UBER ), Home Depot (HD), PepsiCo ( NASDAQ:PEP ), Danaher (DHR), Jack Henry & Associates (JKHY), Crown Castle (CCI), Fair Isaac (FICO), Walt Disney (DIS) and Constellation Energy (CEG).",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-21",
+      "Time": "20:54:29",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Reportedly Plans Up to 10% Price Rise for 2027",
+      "URL": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-plans-10-price-125429192.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ) rose 3.73% premarket after Nikkei Asia reported the contract chipmaker is preparing to raise prices by as much as 10% in 2027. Multiple sources told the publication the increases would apply to both advanced and mature chip production, with the base price rising between 5% and 10%.\n\nTSMC is absorbing higher prices for materials, manufacturing equipment and power, alongside the expense of building new plants overseas. Passing that through would protect margins at a company whose customers include Nvidia ( NASDAQ:NVDA ) and Apple ( NASDAQ:AAPL ), both of which depend on TSMC for their most advanced silicon and have limited alternatives.\n\nThe reported move follows a bullish set of results this month, when TSMC lifted both its spending and revenue projections for 2026 on the strength of AI and data center demand it expects to continue into 2027. TSMC hasn't confirmed the pricing discussions.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-21",
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "TSM, AMD",
       "Date": "2026-07-21",
       "Time": "20:47:52",
       "Source": "Yahoo Finance",
@@ -33,13 +53,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-07-21",
       "Time": "20:45:01",
       "Source": "Yahoo Finance",
       "Title": "Advanced Micro Devices vs. Intel: What the Revenue Trajectories of These Artificial Intelligence Companies Tell Investors",
       "URL": "https://finance.yahoo.com/m/8d031c97-190c-3293-bc30-4797daf4838f/advanced-micro-devices-vs..html",
       "Content": "Advanced Micro Devices: Consistent Top-Line Revenue Expansion\n\nAdvanced Micro Devices (NASDAQ:AMD) primarily generates revenue by developing x86 microprocessors, graphics processing units, and custom system-on-chip components for original equipment manufacturers, public cloud service providers, and independent distributors.\n\nIt recently announced a $10 billion investment in the Taiwan manufacturing ecosystem alongside new processor production, and for the quarter ended March 28, 2026, it reported 14% net income margin.\n\nIntel: Defending Its Top-Line Revenue Baseline\n\nIntel (NASDAQ:INTC) primarily generates revenue by designing central processing units, discrete graphics processing units, networking components, and wafer fabrication services for original equipment manufacturers and cloud service providers.\n\nWhile announcing a $5.7 billion capital investment to expand its manufacturing campus in Ireland and appointing new segment leaders, it reported -28% net income margin for the quarter ended March 28, 2026.\n\nWhy Revenue Matters for Retail Investors\n\nRevenue serves as a critical starting point for investors evaluating a business because it represents the total unadjusted money flowing in from primary operations. This metric reveals whether an organization is successfully attracting customers and growing its overall business volume over time.\n\nComparing Quarterly Revenue for Advanced Micro Devices and Intel\n\nQuarter (Period End)\n\nAdvanced Micro Devices Revenue\n\nIntel Revenue\n\nQ2 2024 (June 2024)\n\n$5.8 billion\n\n$12.8 billion\n\nQ3 2024 (Sept. 2024)\n\n$6.8 billion\n\n$13.3 billion\n\nQ4 2024 (Dec. 2024)\n\n$7.7 billion\n\n$14.3 billion\n\nQ1 2025 (March 2025)\n\n$7.4 billion\n\n$12.7 billion\n\nQ2 2025 (June 2025)\n\n$12.9 billion\n\nQ3 2025 (Sept. 2025)\n\n$9.2 billion\n\n$13.7 billion\n\nQ4 2025 (Dec. 2025)\n\n$10.3 billion\n\nQ1 2026 (March 2026)\n\n$13.6 billion\n\nData source: Company filings. Data as of July 17, 2026.\n\nFoolish Take\n\nTracking the revenue trends for Advanced Micro Devices (AMD) and Intel reveals that AMD's sales are steadily catching up to the veteran semiconductor chipmaker over time. This is a surprising development considering AMD was once known for high-end graphics processing units (GPUs) for video games while Intel was the dominant force behind the personal computing boom.\n\nThat changed when GPUs became a key component for the artificial intelligence sector. Intel missed the boat on GPUs while AMD prospered. That said, another shift in sales may be around the corner.\n\nIntel's missteps under previous leadership are being rectified by new CEO Lip-Bu Tan, who helped the company orchestrate new foundry deals and partnerships, such as its multi-year collaboration with Google parent Alphabet . This is illustrated by the company's 7% year-over-year increase in revenue for its fiscal first quarter ended March 28. For fiscal Q2, Intel expects sales to come in between $13.8 billion and $14.8 billion, which represents a year-over-year increase, as well as quarterly sequential growth.\n\nStory Continues\n\nAMD is battling back Intel's threat with the announcement of an expanded partnership with Microsoft on July 20. Its stock remains over $500 per share while Intel has dropped below $100 as of July 20 in a sign that Wall Street is more confident in AMD's ability to continue its current success compared to Intel's ongoing turnaround efforts.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-07-21",
+      "Time": "20:40:43",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Cash Burn Puts AI Spending in Focus",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-cash-burn-puts-ai-124043925.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ), the electric vehicle and energy company , is expected to report its first quarterly cash burn in more than two years as expenditure on artificial intelligence, robotics and manufacturing rises sharply. LSEG figures show Wall Street estimates free cash flow to drop to negative $3.3 billion in the second quarter.Tesla will invest around $25 billion on data centers, AI infrastructure and production capacity this year. The scale of expenditure is a test of whether the company's core car and energy businesses can afford its bigger ambitions.What investors are laser-focused on are Robotaxis, Full Self-Driving and the Optimus humanoid robot. Progress has been slower than many had hoped and a number of growth targets have been delayedTesla's robotaxi service is still limited to a handful of U.S. locations. The company is already making the Cybercab, but not yet rolling it out more widely.The auto industry is starting to revive. Tesla recorded record sales for the second quarter, and experts are forecasting a 3.9% gain in full-year volume to 1.7 million vehicles.However margins are still under pressure. Automotive gross margin, excluding regulatory credits, is expected to dip to 18.1% by Wall Street.Attention now turns to Wednesday's earnings call, when investors will be looking for signs that Tesla's AI investing is starting to pay off commercially.",
       "Language": "en"
     },
     {
