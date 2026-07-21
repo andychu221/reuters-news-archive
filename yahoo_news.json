@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-21T19:20:26.817Z",
-  "total_news_count": 333,
+  "last_updated": "2026-07-21T19:40:10.963Z",
+  "total_news_count": 335,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-22",
+      "Time": "03:20:56",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Launches Three Gemini Models Amid Mounting AI Competition",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/alphabet-launches-three-gemini-models-192056313.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) unveiled three new Gemini models, led by Gemini 3.6 Flash, which Google said outperforms its predecessor on tasks including coding and financial analysis at a lower cost to users. The company also released Gemini 3.5 Flash Cyber, tuned to find and patch software vulnerabilities, and Gemini 3.5 Flash-Lite, aimed at lightweight AI agents and autonomous assistants. Alphabet shares were down 0.91% intraday.\n\nOpenAI and Anthropic have both introduced systems recently that detect software vulnerabilities and assist security researchers, and Google is now competing directly in that segment. The Flash family as a whole is positioned on cost, offering developers capable models without the expense of larger systems.\n\nGemini 3.5 Pro, the flagship, remains in testing after Google previously indicated a June launch, and the company now says it will ship when ready. The models arrive shortly before Alphabet reports quarterly results, with Chinese developers also gaining ground. Moonshot AI recently capped new Kimi K3 subscriptions after demand strained its compute, and Alibaba has said its coming Qwen 3.8 Max should rank among the top-performing systems.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-22",
+      "Time": "02:58:30",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Options Price 5.4% Earnings Move",
+      "URL": "https://finance.yahoo.com/markets/options/articles/alphabet-options-price-5-4-185830841.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOG ) could swing about 5.4% in either direction after earnings , according to options-market pricing ahead of its July 22 report.\n\nBased on a share price of $348.60, traders are implying a post-earnings range of roughly $329.75 to $367.45. That expected move is slightly below Alphabet's historical average of 6%, although recent reactions have varied sharply, including a 10% jump after first-quarter results.\n\nWarning! GuruFocus has detected 7 Warning Signs with NSE:MAHLOG.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nAlphabet owns Google Search, YouTube and Google Cloud, while investing heavily in Gemini and other AI products. Investors will be watching whether those investments are translating into faster cloud growth without putting too much pressure on margins and cash flow.\n\nOptions positioning leans bullish. Call volume stands at 20,756 contracts versus 11,389 puts, while the $370 call carries the largest upside open interest.",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-07-22",
