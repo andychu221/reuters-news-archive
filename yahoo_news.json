@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-21T22:15:25.648Z",
-  "total_news_count": 375,
+  "last_updated": "2026-07-21T22:40:14.894Z",
+  "total_news_count": 376,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-22",
+      "Time": "06:21:48",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell",
+      "URL": "https://finance.yahoo.com/m/8a3fc9a4-3c82-3e6b-a8b4-ed41f758fd5e/nvidia-vera-rubin-shown-to.html",
+      "Content": "Investing.com -- Nvidia announced Tuesday that its Vera Rubin platform is entering production with more than 300 global partners across 350 factory sites in 30 countries. Partners including CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Mistral are deploying the new rack-scale AI system.\n\nShares of Nvidia closed up 2% on Tuesday as semiconductor stocks rebounded from their recent sell-off.\n\nCoreWeave reported benchmark results showing Vera Rubin NVL72 delivers 10 times more throughput per megawatt than Grace Blackwell NVL72 when running DeepSeek-R1. The platform combines seven chips and five rack trays designed as a single system.\n\nThe Vera Rubin NVL72 system features no cables, fans or hoses in the tray, reducing compute tray assembly time to one minute. The platform uses a 45-degree Celsius liquid cooling inlet temperature design that enables chiller-free dry-cooler operation.\n\nMicrosoft and Mistral announced a multibillion-dollar partnership to expand AI infrastructure in Europe using Vera Rubin GPUs. Mistral is adding GPU capacity with thousands of Vera Rubin units to increase AI compute availability for customers. Mistral Medium 3.5 and OCR 4 are now available in Microsoft Foundry, with Mistral models integrated into Microsoft Copilot Studio.\n\nGoogle Cloud launched its A5X instance powered by Vera Rubin NVL72, with London-based startup Ineffable Intelligence as an early user. The A5X instances are bare-metal systems built on Vera Rubin NVL72 rack-scale configurations.\n\nThe Vera CPU, positioned at the center of the platform, features a custom Olympus core. DeepInfra benchmark results showed the Vera CPU supports up to 1.6 times more concurrent AI agents at the same quality of service and delivers up to 2.2 times faster orchestration than alternative CPUs.\n\nThe platform includes sixth-generation NVLink scale-up technology and Spectrum-X Ethernet with 102.4T Spectrum-6 switch systems. Infrastructure builders including CoreWeave, Microsoft, SpaceXAI and Tesla are deploying Spectrum-6 switches.\n\nNvidia Vera Rubin shown to provide 10x more throughput per megawatt than Blackwell\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-07-22",
@@ -143,7 +153,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "TSLA",
+      "Ticker": "GOOGL, TSLA",
       "Date": "2026-07-22",
       "Time": "04:32:00",
       "Source": "Yahoo Finance",
