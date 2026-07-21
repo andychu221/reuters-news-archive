@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T18:01:04.283Z",
-  "total_news_count": 317,
+  "last_updated": "2026-07-21T18:15:06.476Z",
+  "total_news_count": 318,
   "news": [
     {
       "Ticker": "NVDA",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD, MU",
+      "Ticker": "INTC, AMD, MU",
       "Date": "2026-07-22",
       "Time": "01:44:30",
       "Source": "Yahoo Finance",
@@ -23,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "TSLA",
+      "Date": "2026-07-22",
+      "Time": "01:41:59",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Rallies Ahead of Earnings as Options Signal 6% Stock Swing",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-rallies-ahead-earnings-options-174159353.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) shares climbed about 3% in Tuesday trading ahead of the electric vehicle maker's second-quarter earnings report due after Wednesday's market close, while options traders positioned for notable volatility following the results.\n\nWall Street expects Tesla ( NASDAQ:TSLA ) to post revenue of about $26.4 billion and earnings of 54 cents per share. Investors are also expected to focus on updates related to autonomous driving, robotaxi deployment, AI4 and AI5 chips, software development and capital spending plans tied to the company's artificial intelligence strategy.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe options market points to an implied move of roughly 6.4% after earnings. Based on pricing for at-the-money options near the $382.50 strike, traders are anticipating a potential trading range of approximately $359 to $407 by Friday's expiration.\n\nOn the bullish side, the $400 call strike attracted heavy trading activity, suggesting investors are positioning for a stronger-than-expected earnings outcome. Meanwhile, downside protection remained active around the $380 put strike, with additional long-term hedging interest at lower strike prices, indicating some investors continue to guard against larger post-earnings swings.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM, NVDA, MU",
       "Date": "2026-07-22",
       "Time": "01:40:00",
       "Source": "Yahoo Finance",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM, NVDA",
       "Date": "2026-07-22",
       "Time": "01:36:40",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "INTC, GOOGL",
       "Date": "2026-07-22",
       "Time": "01:33:02",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM, NVDA",
       "Date": "2026-07-22",
       "Time": "01:23:40",
       "Source": "Yahoo Finance",
