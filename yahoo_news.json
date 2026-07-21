@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T18:15:06.476Z",
-  "total_news_count": 318,
+  "last_updated": "2026-07-21T18:32:14.750Z",
+  "total_news_count": 320,
   "news": [
     {
       "Ticker": "NVDA",
@@ -53,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-07-22",
       "Time": "01:35:00",
       "Source": "Yahoo Finance",
@@ -73,7 +73,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "TSM, NVDA",
+      "Ticker": "SNDK",
+      "Date": "2026-07-22",
+      "Time": "01:27:01",
+      "Source": "Yahoo Finance",
+      "Title": "Sandisk vs. Seagate Technology: What Do Their Revenue Trends Tell Investors About Their Roles in the Artificial Intelligence Ecosystem?",
+      "URL": "https://finance.yahoo.com/m/ec119067-53d1-3348-a80e-b4a94c9cbc2a/sandisk-vs.-seagate.html",
+      "Content": "Sandisk: Rapidly Accelerating Revenue\n\nSandisk (NASDAQ:SNDK) primarily designs, manufactures, and supplies a diverse range of computer data storage solutions, including embedded memory and removable cards, utilizing advanced flash technology.\n\nIt recently began production for its new 10th-generation flash memory technology alongside Kioxia in Japan, and it reported a 61% net income margin for the quarter ended April 3, 2026.\n\nSeagate Technology: Steady Revenue Progress\n\nSeagate Technology (NASDAQ:STX) operates as a global provider of mass capacity data storage technology, selling hard disk drives and solid-state drives primarily to original equipment manufacturers and distributors.\n\nIt recently reached a preliminary $175 million settlement to resolve a shareholder class-action lawsuit, and it posted a 24% net income margin for the quarter ended April 3, 2026.\n\nWhy Revenue Matters for Retail Investors\n\nRevenue serves as a critical baseline measure of a company's customer demand and overall sales volume over a given period. This metric helps investors measure a company's overall size, market footprint, and long-term trajectory.\n\nQuarterly Revenue for Sandisk and Seagate Technology\n\nQuarter (Period End)\n\nSandisk Revenue\n\nSeagate Technology Revenue\n\nQ2 2024\n\n$1.8 billion (period ended June 2024)\n\n$1.9 billion (period ended June 2024)\n\nQ3 2024\n\n$1.9 billion (period ended Sept. 2024)\n\n$2.2 billion (period ended Sept. 2024)\n\nQ4 2024 (Dec. 2024)\n\n$1.9 billion\n\n$2.3 billion\n\nQ1 2025 (March 2025)\n\n$1.7 billion\n\n$2.2 billion\n\nQ2 2025 (June 2025)\n\n$2.4 billion\n\nQ4 2025 (Oct. 2025)\n\n$2.6 billion\n\nQ1 2026 (Jan. 2026)\n\n$3.0 billion\n\n$2.8 billion\n\nQ2 2026 (April 2026)\n\n$6.0 billion\n\n$3.1 billion\n\nData source: Company filings. Data as of July 16, 2026.\n\nFoolish Take\n\nExamining the revenue trends for Sandisk and Seagate Technology reveals key insights. The former trailed in sales until 2026, when Sandisk not only overtook Seagate, it handily blew past its data storage rival.\n\nThis sales surge was due to Sandisk's focus on NAND flash memory while Seagate sells the traditional hard disk drive (HDD). NAND flash delivers extreme speed when it comes to processing data, far faster and more reliably than HDDs. The companies building artificial intelligence systems seek speed because of the massive troves of data AI must churn through to deliver its output.\n\nAs AI has rapidly expanded, necessitating the construction of new data centers, the demand for NAND flash has skyrocketed, as demonstrated by Sandisk's sales of $6 billion in the most recent quarter. The company forecasted revenue of $7.8 billion to $8.3 billion in the next quarter. That's more than the $7.4 billion Sandisk made in all of 2025.\n\nStory Continues\n\nSeagate's revenue is steadily rising as AI demand contributed to its growth, but customers are not flocking to its products to the same degree as Sandisk. AI can continue to help Seagate's sales grow, but the company is unlikely to see it take back the revenue lead from Sandisk any time soon.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK, TSM, NVDA",
       "Date": "2026-07-22",
       "Time": "01:23:40",
       "Source": "Yahoo Finance",
@@ -130,6 +140,16 @@
       "Title": "Google launches three new Gemini AI models, expands push into cybersecurity",
       "URL": "https://finance.yahoo.com/m/254ae2dc-2c96-3fd6-88f4-9a9a417fc7cd/google-launches-three-new.html",
       "Content": "Investing.com -- oogle on Tuesday unveiled three new artificial intelligence models, including its most capable Flash model to date and a cybersecurity-focused system, as the tech giant steps up competition with OpenAI and Anthropic in the rapidly evolving AI market.\n\nThe announcements come just ahead of Alphabet's quarterly results, as competition in generative AI intensifies. Chinese developers have also been gaining ground, with Moonshot AI temporarily restricting new Kimi K3 subscriptions and API access after surging demand strained computing capacity. Meanwhile, Alibaba has signaled that its upcoming Qwen 3.8 Max model is expected to rank among the industry's top-performing AI systems.\n\nThe new lineup includes Gemini 3.6 Flash, which Google said delivers stronger performance than its predecessor across tasks such as coding and financial analysis while lowering costs for users. The company also introduced Gemini 3.5 Flash Cyber, a model optimized to identify and patch software security vulnerabilities more efficiently, and Gemini 3.5 Flash-Lite, designed to power lightweight AI agents and autonomous digital assistants.\n\nThe releases underscore Google's growing focus on cybersecurity, an area where rivals OpenAI and Anthropic have recently introduced advanced AI systems capable of detecting software vulnerabilities and assisting security researchers.\n\nGoogle said the new Flash models are designed to balance performance, speed and cost, aiming to offer developers high-quality AI capabilities without the expense of larger models.\n\nMeanwhile, Google's flagship Gemini 3.5 Pro model remains in testing. The company had previously indicated it would launch in June but said it will be made broadly available once it is ready.\n\nGoogle launches three new Gemini AI models, expands push into cybersecurity\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+      "Language": "en"
+    },
+    {
+      "Ticker": "LRCX",
+      "Date": "2026-07-22",
+      "Time": "00:45:02",
+      "Source": "Yahoo Finance",
+      "Title": "Looking for a Growth Stock? 3 Reasons Why Lam Research (LRCX) is a Solid Choice",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/looking-growth-stock-3-reasons-164502327.html",
+      "Content": "Investors seek growth stocks to capitalize on above-average growth in financials that help these securities grab the market's attention and produce exceptional returns. But finding a great growth stock is not easy at all.\n\nBy their very nature, these stocks carry above-average risk and volatility. Moreover, if a company's growth story is over or nearing its end, betting on it could lead to significant loss.\n\nHowever, it's pretty easy to find cutting-edge growth stocks with the help of the Zacks Growth Style Score (part of the Zacks Style Scores system), which looks beyond the traditional growth attributes to analyze a company's real growth prospects.\n\nOur proprietary system currently recommends Lam Research (LRCX) as one such stock. This company not only has a favorable Growth Score, but also carries a top Zacks Rank.\n\nResearch shows that stocks carrying the best growth features consistently beat the market. And for stocks that have a combination of a Growth Score of A or B and a Zacks Rank #1 (Strong Buy) or 2 (Buy), returns are even better.\n\nHere are three of the most important factors that make the stock of this semiconductor equipment maker a great growth pick right now.\n\nEarnings Growth\n\nEarnings growth is arguably the most important factor, as stocks exhibiting exceptionally surging profit levels tend to attract the attention of most investors. For growth investors, double-digit earnings growth is highly preferable, as it is often perceived as an indication of strong prospects (and stock price gains) for the company under consideration.\n\nWhile the historical EPS growth rate for Lam Research is 8.5%, investors should actually focus on the projected growth. The company's EPS is expected to grow 39.2% this year, crushing the industry average, which calls for EPS growth of 38.9%.\n\nCash Flow Growth\n\nCash is the lifeblood of any business, but higher-than-average cash flow growth is more beneficial and important for growth-oriented companies than for mature companies. That's because, high cash accumulation enables these companies to undertake new projects without raising expensive outside funds.\n\nRight now, year-over-year cash flow growth for Lam Research is 31.2%, which is higher than many of its peers. In fact, the rate compares to the industry average of 5.8%.\n\nWhile investors should actually consider the current cash flow growth, it's worth taking a look at the historical rate too for putting the current reading into proper perspective. The company's annualized cash flow growth rate has been 16.6% over the past 3-5 years versus the industry average of 4.6%.\n\nStory Continues\n\nPromising Earnings Estimate Revisions\n\nSuperiority of a stock in terms of the metrics outlined above can be further validated by looking at the trend in earnings estimate revisions. A positive trend is of course favorable here. Empirical research shows that there is a strong correlation between trends in earnings estimate revisions and near-term stock price movements.\n\nThere have been upward revisions in current-year earnings estimates for Lam Research. The Zacks Consensus Estimate for the current year has surged 0.8% over the past month.\n\nBottom Line\n\nLam Research has not only earned a Growth Score of B based on a number of factors, including the ones discussed above, but it also carries a Zacks Rank #2 because of the positive earnings estimate revisions.\n\nYou can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.\n\nThis combination indicates that Lam Research is a potential outperformer and a solid choice for growth investors.",
       "Language": "en"
     },
     {
