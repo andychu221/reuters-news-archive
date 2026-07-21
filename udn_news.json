@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-21T09:17:50.443Z",
-  "total_news_count": 50,
+  "last_updated": "2026-07-21T10:18:03.445Z",
+  "total_news_count": 51,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-07-21",
+      "Time": "17:14:00",
+      "Source": "經濟日報",
+      "Title": "日媒：台積電擬2027年調漲晶片製造價格　最多漲10%",
+      "URL": "https://money.udn.com/money/story/5599/9641914?from=edn_search_result",
+      "Content": "中央社 東京21日綜合外電報導\n\n日經亞洲（Nikkei Asia）今天引述多名消息人士的說法報導，台積電預計於2027年調漲先進製程與成熟製程晶片生產服務的價格，漲幅最高可達10%。\n\n路透社無法立即證實該報導。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-07-21",
