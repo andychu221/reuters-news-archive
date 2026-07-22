@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T00:11:05.651Z",
+  "last_updated": "2026-07-22T00:15:05.891Z",
   "total_news_count": 394,
   "news": [
     {
@@ -133,18 +133,14 @@
       "Keywords": "market valuation, economic headwinds, AI spending, investor sentiment, historical analysis"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-07-22",
       "Time": "06:30:37",
       "Source": "Yahoo Finance",
       "Title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
       "URL": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-      "Content": "What happened: Supermicro ( SMCI ) stock jumped 18% in after-hours trading on Tuesday. What's behind the move: The AI server maker announced it expects gross margins to nearly ...",
-      "Language": "en",
-      "AI_Summary": "• Supermicro (SMCI) stock jumped 18% after announcing expectations for gross margins to nearly double.\n• The company reported a record order backlog exceeding $60 billion received in the fourth quarter of fiscal 2026.\n• Expected gross margins are in the range of 15% to 17%, significantly higher than the prior guidance of 8.2% to 8.4%.\n• The improvement is attributed to a favorable customer and product mix.\n• Supermicro designs servers and data center systems incorporating chips from Nvidia, Intel, and AMD.",
-      "Related_Score": 4,
-      "Sentiment_Score": 2,
-      "Keywords": "gross margin, order backlog, AI servers, data center systems, revenue growth"
+      "Content": "What happened: Supermicro ( SMCI ) stock jumped 18% in after-hours trading on Tuesday.\n\nWhat's behind the move: The AI server maker announced it expects gross margins to nearly double as it works through a record order backlog in the coming quarters.\n\n\"Backlog rose to record levels at the end of fiscal 2026 with total new orders in excess of $60 billion received during the fourth quarter of fiscal 2026,\" said the company in its business update.\n\nSupermicro said it expects its gross margin to be in the range of 15% to 17%, significantly higher than the company's prior guidance of 8.2% to 8.4%, \"primarily due to a favorable customer and product mix.\"\n\nWhat else you need to know: Supermicro designs and builds servers and data center systems that incorporate semiconductors from chipmakers like Nvidia ( NVDA ), Intel ( INTEL ), and AMD ( AMD ).\n\nLast month, Supermicro CEO Charles Liang congratulated Elon Musk for SpaceX's IPO, revealing that the company was co-building \"another new Gigawatt AI datacenter for @SpaceX and @XAI within a year!\"\n\nDespite the AI boom, the stock has had a volatile ride in recent months.\n\nYear to date, shares are down 12% after tumbling in June following an announcement of an equity raise to purchase components to fulfill $39 billion in AI server orders.\n\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre .\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
