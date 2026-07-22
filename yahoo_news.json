@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T22:40:57.815Z",
-  "total_news_count": 687,
+  "last_updated": "2026-07-22T22:45:25.340Z",
+  "total_news_count": 692,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-07-23",
+      "Time": "05:56:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】收跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E8%B7%8C-215636243.html",
+      "Content": "（中央社台北2026年7月23日電）美股標普500指數今天收跌，此前才創下數週來最佳單日表現。由於部分大型科技股走跌，抵銷能源等其他類股漲幅。能源股則因美伊戰爭升溫推動油價上揚而走高。\n\n道瓊工業指數微跌6.06點或0.01%，收52218.58點。\n\n標普500指數下跌10.24點或0.14%，收7498.96點。\n\n以科技股為主的那斯達克指數下挫146.31點或0.57%，收25690.90點。\n\n費城半導體指數上漲54.50點或0.44%，收12410.66點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-07-23",
       "Time": "05:49:17",
@@ -41,6 +51,46 @@
       "URL": "https://finance.yahoo.com/technology/articles/intel-mulls-partnership-ohio-chip-214917620.html",
       "Content": "Investing.com -- Intel is seeking a partner to help operate its Ohio semiconductor manufacturing facility, according to a Semafor report published Wednesday. The chipmaker is considering various companies to assist with the project rather than selling it outright.\n\nSouth Korean memory manufacturer SK Hynix is among the companies being evaluated for a potential partnership with Intel on the Ohio operation, the report said. The two companies have not entered formal negotiations about an operating agreement. The talks are said to be in very early stages.\n\nSK Hynix on Tuesday denied a South Korean media report claiming it was negotiating to acquire the Ohio semiconductor campus. The company does not plan to purchase the facility, according to the report.\n\nIntel shares rose 1% in after-hours trading on Wednesday, while SK Hynix traded approximately 3.2% higher.\n\nThe chipmaker has been forming agreements with competitors and customers since the US government took a strategic stake in the company last year. Intel shares have risen 161% over the past year as the company works with the Trump administration to expand chipmaking capacity in the United States.\n\nIntel broke ground on the Ohio campus in 2022 and announced plans to invest $28 billion in the site. The company missed its 2025 target to open the facility and, following a series of layoffs, pushed back the opening date to 2030. The Ohio site represents Intel's first new chip-manufacturing plant in four decades.\n\nIntel mulls partnership for Ohio chip fab, SK Hynix among candidates - report\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nThis sector is 'poised for a big, beautiful year': Truist",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-23",
+      "Time": "05:46:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR22日下跌0.05美元跌幅0.63%折台股25.35元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr22%E6%97%A5%E4%B8%8B%E8%B7%8C0-05%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-63-%E6%8A%98%E5%8F%B0%E8%82%A125-35%E5%85%83-214631024.html",
+      "Content": "(中央社台北2026年 7月23日電)友達光電在OTC US掛牌ADR以7.83美元作收，下跌0.05美元，跌幅 0.63%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 7月22日新台幣匯市收盤價32.375元計算，相當台股友達每股為 25.35元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/22\n\n7.83\n\n-0.05\n\n-0.63\n\n32.375\n\n25.3\n\n7/21\n\n7.88\n\n0.07\n\n0.90\n\n32.345\n\n25.4\n\n7/20\n\n7.81\n\n-0.16\n\n-2.01\n\n32.248\n\n25.1\n\n7/17\n\n7.97\n\n-0.35\n\n-4.21\n\n32.288\n\n25.7\n\n7/16\n\n8.32\n\n-0.30\n\n-3.48\n\n32.249\n\n26.8\n\n7/15\n\n8.62\n\n0.01\n\n5 0.23\n\n32.189\n\n27.7\n\n7/14\n\n8.60\n\n5 -0.33\n\n5 -3.80\n\n32.172\n\n27.6\n\n7/13\n\n8.94\n\n-1.06\n\n-10.60\n\n32.170\n\n28.7\n\n7/10\n\n10.00\n\n-0.04\n\n-0.40\n\n32.178\n\n32.1\n\n7/ 9\n\n10.04\n\n0.86\n\n7 9.40\n\n32.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-23",
+      "Time": "05:41:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR22日下跌0.20美元跌幅0.46%折台股138.63元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr22%E6%97%A5%E4%B8%8B%E8%B7%8C0-20%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-46-%E6%8A%98%E5%8F%B0%E8%82%A1138-63%E5%85%83-214127055.html",
+      "Content": "(中央社台北2026年 7月23日電)中華電信在NYSE掛牌ADR 以 42.82美元作收，下跌0.20美元，跌幅 0.46%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 7月22日新台幣匯市收盤價32.375元計算，相當台股中華電信每股為138.63元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/22\n\n42.82\n\n-0.20\n\n-0.46\n\n32.375\n\n138.6\n\n7/21\n\n43.02\n\n0.42\n\n0.99\n\n32.345\n\n139.1\n\n7/20\n\n42.60\n\n0.16\n\n0.38\n\n32.248\n\n137.3\n\n7/17\n\n42.44\n\n0.15\n\n0.35\n\n32.288\n\n137.0\n\n7/16\n\n42.29\n\n0.74\n\n1.78\n\n32.249\n\n136.3\n\n7/15\n\n41.55\n\n0.11\n\n0.27\n\n32.189\n\n133.7\n\n7/14\n\n41.44\n\n-0.04\n\n-0.10\n\n32.172\n\n133.3\n\n7/13\n\n41.48\n\n0.04\n\n0.10\n\n32.170\n\n133.4\n\n7/10\n\n-0.07\n\n-0.17\n\n32.178\n\n7/ 9\n\n41.51\n\n-0.37\n\n5 -0.90\n\n133.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-07-23",
+      "Time": "05:41:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR22日上漲0.10美元漲幅0.47%折台股137.85元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr22%E6%97%A5%E4%B8%8A%E6%BC%B20-10%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-47-%E6%8A%98%E5%8F%B0%E8%82%A1137-85%E5%85%83-214125464.html",
+      "Content": "(中央社台北2026年 7月23日電)聯電在NYSE掛牌 ADR以21.29美元作收，上漲0.10美元，漲幅 0.47%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 7月22日新台幣匯市收盤價32.375元計算，相當台股聯電每股為137.85元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/22\n\n21.29\n\n0.10\n\n0.47\n\n32.375\n\n137.8\n\n7/21\n\n21.19\n\n0.89\n\n4.38\n\n32.345\n\n137.0\n\n7/20\n\n20.30\n\n-0.95\n\n-4.47\n\n32.248\n\n130.9\n\n7/17\n\n21.25\n\n-1.04\n\n-4.67\n\n32.288\n\n137.2\n\n7/16\n\n22.29\n\n-2.63\n\n-10.55\n\n32.249\n\n143.7\n\n7/15\n\n24.92\n\n1.08\n\n4.53\n\n32.189\n\n160.4\n\n7/14\n\n23.84\n\n0.38\n\n1.62\n\n32.172\n\n153.4\n\n7/13\n\n23.46\n\n-0.88\n\n-3.62\n\n32.170\n\n150.9\n\n7/10\n\n24.34\n\n-0.52\n\n-2.09\n\n32.178\n\n156.6\n\n7/ 9\n\n24.86\n\n0.13\n\n0.53\n\n159.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-07-23",
+      "Time": "05:41:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR22日下跌3.40美元跌幅0.80%折台股2727.33元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr22%E6%97%A5%E4%B8%8B%E8%B7%8C3-40%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-80-%E6%8A%98%E5%8F%B0%E8%82%A12727-33%E5%85%83-214123787.html",
+      "Content": "(中央社台北2026年 7月23日電)台積電在NYSE掛牌 ADR以421.21美元作收，下跌 3.40美元，跌幅 0.80%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 7月22日新台幣匯市收盤價32.375元計算，相當台股台積電每股為 2727.33元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n7/22\n\n421.21\n\n-3.40\n\n-0.80\n\n32.375\n\n2727.3\n\n7/21\n\n424.61\n\n22.31\n\n5.55\n\n32.345\n\n2746.8\n\n7/20\n\n402.30\n\n3.93\n\n0.99\n\n32.248\n\n2594.6\n\n7/17\n\n398.37\n\n-11.37\n\n-2.77\n\n32.288\n\n2572.5\n\n7/16\n\n409.74\n\n-9.74\n\n-2.32\n\n32.249\n\n2642.7\n\n7/15\n\n419.48\n\n-0.91\n\n-0.22\n\n32.189\n\n2700.5\n\n7/14\n\n420.39\n\n-1.19\n\n-0.28\n\n32.172\n\n2704.9\n\n7/13\n\n421.58\n\n-12.53\n\n-2.89\n\n32.170\n\n2712.4\n\n7/10\n\n434.11\n\n-2.85\n\n-0.65\n\n32.178\n\n2793.7\n\n7/ 9\n\n436.96\n\n-0.02\n\n-0.00\n\n2812.1",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
