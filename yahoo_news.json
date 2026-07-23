@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-23T21:20:40.062Z",
-  "total_news_count": 977,
+  "last_updated": "2026-07-23T21:40:18.726Z",
+  "total_news_count": 979,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-24",
+      "Time": "05:15:24",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, July 23: Alphabet Slides 7% After Announcing 2026 Capex of Roughly $200 Billion",
+      "URL": "https://finance.yahoo.com/m/f0d143ed-cef3-3420-9ce6-373a1820bad5/stock-market-today%2C-july-23%3A.html",
+      "Content": "Alphabet (NASDAQ:GOOGL), a search, ads, video, cloud, and AI infrastructure platforms provider, closed at $317.69, down 7.13%. Investors are reacting to higher AI-related spending and watching whether cloud growth can support returns on that build-out. Trading volume reached 68.6M shares, coming in about 111% above its three-month average of 32.5M shares. Alphabet IPO'd in 2004 and has grown 12,557% since going public.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) fell 1.20% to 7,409, while the Nasdaq Composite (NASDAQINDEX:^IXIC) dropped 2.15% to 25,138. Among internet content and information, digital advertising, and cloud services rivals, Microsoft closed at $381.58, down 2.24%, and Meta Platforms finished at $606.10, down 3.36%.\n\nWhat this means for investors\n\nOn the surface, it was a great-looking quarter for Alphabet as:\n\nsales rose 24%\n\nsearch revenue increased 17%\n\nGoogle Cloud sales spiked 82%\n\nGemini reached 950 million monthly active users\n\ntokens per minute rose from 16 billion to 22 billion\n\nYouTube advertising sales grew by 13%\n\nincome from operations jumped 30%\n\nHowever, the market seemed to focus solely on management's guidance that capex would land between $195 billion and $205 billion in 2026 -- and would \"increase significantly\" in 2027 -- which sparked today's sell-off. Capex rose by 100% in Q2 to $45 billion and caused free cash flow to turn negative for the first time in Alphabet's publicly traded history.\n\nWhile this isn't inherently bad, the company needs to show it can deliver strong ROI from these massive capex outlays, or else all this heavy spending could weigh on the stock's price. Personally, I think it's far too early to judge whether these investments will pay off, as they may take years to develop into anything that generates profit. Still, I understand the market's cautious stance given the immense scale of the spending. For now, Alphabet remains my favorite AI stock with its array of interconnected offerings and robust growth optionality, even if AI eventually becomes commoditized over the uber-long term.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-24",
+      "Time": "05:04:14",
+      "Source": "Yahoo Finance",
+      "Title": "Pentagon awards Oracle nearly $7 billion deal in latest software consolidation push",
+      "URL": "https://finance.yahoo.com/news/pentagon-awards-oracle-nearly-7-210414126.html",
+      "Content": "WASHINGTON, July 23 (Reuters) - The Pentagon announced on Thursday a nearly $7 billion, up-to-10-year agreement with Oracle ‌to consolidate the department's on-premises software licenses ‌into a single contract, the latest move by the Pentagon's technology ​chief to cut costs by eliminating fragmented purchasing.\n\nMore from Yahoo Scout\n\nWhat is the Pentagon's broader software consolidation strategy?\n\nHow much will this Oracle deal save taxpayers?\n\nHow does this relate to the previous Microsoft deal?\n\nWhat are the details of the Pentagon's Oracle agreement?\n\nThe Enterprise Software Agreement, negotiated by the Department of the Navy, is between the Pentagon and Oracle for its on-premises ‌compute usage.\n\nThe agreement ⁠spans five years, with a further five-year option, and covers the entire Pentagon, along ⁠with the U.S. Coast Guard and the intelligence community.\n\n\"By fundamentally improving how we procure on-premises Oracle capabilities, we ​are driving ​at least $441 million in ​taxpayer savings while rapidly ‌and effectively serving our warfighters,\" Pentagon Chief Information Officer Kirsten Davies said.\n\nThe Oracle agreement builds on a similar effort Davies' office struck with Microsoft in May. That five-year, $9.69 billion deal consolidated Microsoft and other enterprise ‌software licenses scattered across the ​military services, the intelligence community ​and the Coast ​Guard into a single contract.\n\nThe two deals ‌mark a broader push under ​Davies to ​rein in years of duplicative software spending across the military by replacing piecemeal, service-by-service contracts with enterprise-wide ​agreements.\n\nOracle's founder, ‌billionaire Larry Ellison, has a close relationship with ​U.S. President Donald Trump.\n\n(Reporting by Mike Stone ​in WashingtonEditing by Rod Nickel)",
+      "Language": "en"
+    },
     {
       "Ticker": "TSM, NVDA",
       "Date": "2026-07-24",
