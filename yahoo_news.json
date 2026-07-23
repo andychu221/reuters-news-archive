@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-07-23T12:01:05.873Z",
-  "total_news_count": 835,
+  "last_updated": "2026-07-23T12:15:11.302Z",
+  "total_news_count": 836,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC",
+      "Date": "2026-07-23",
+      "Time": "20:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Qualcomm Just Signed Deals With 3 Major Hyperscalers for AI Chips. Is This the \"Hidden\" AI Stock Wall Street Keeps Overlooking?",
+      "URL": "https://finance.yahoo.com/m/44e0493b-2116-3521-bb36-7c19f39029b3/qualcomm-just-signed-deals.html",
+      "Content": "Since the advent of modern-day artificial intelligence platforms, Nvidia (NASDAQ: NVDA) has been the chip provider of choice thanks to its dominance in data center graphics processing units (GPUs). Even computing powerhouses like Intel and Advanced Micro Devices were on the fringe of the market. Mobile processor maker Qualcomm (NASDAQ: QCOM) wasn't even part of the discussion.\n\nNow, that's changing. The often-overlooked mobile technology name recently inked deals to supply three hyperscalers -- including Microsoft (NASDAQ: MSFT) and Facebook parent Meta Platforms (NASDAQ: META) -- with artificial intelligence (AI) processing chips. All told, Qualcomm expects to do at least $15 billion worth of data center business in its fiscal 2029, up from none a year ago. For perspective on that figure, the company reported revenue of $44.3 billion for its fiscal 2025, which ended in September.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nQualcomm's budding presence in the AI data center business is not only undeniable, but meaningful.\n\nIt's also an opportunity for volatility-tolerant investors.\n\nQualcomm makes a well-deserved splash\n\nIt shouldn't come as a complete surprise. Qualcomm has been alluding to this next evolution of its high-performance, energy-efficient mobile processing tech (you've probably heard of its popular Snapdragon processor) for some time now. However, it plainly confirmed its plans to enter the AI data center business in October of last year, when it \"announced the launch of its next-generation AI inference-optimized solutions for data centers: the Qualcomm AI200 and AI250 chip-based accelerator cards, and racks.\" It then expanded its AI portfolio last month, introducing the Dragonfly AI300 inference accelerator, which was designed with agentic AI in mind.\n\nThat's also when the company confirmed that its Dragonfly C1000 data center central processing unit (CPU) will \"power Meta's next-generation server fleet, underscoring the growing importance of high-performance, power-efficient compute in large-scale scale-out environments\" as part of a multi-generation collaboration. Microsoft's Azure cloud computing platform, in the meantime, will utilize Qualcomm's HBC (high-bandwidth compute) chips alongside the AI200 and AI250 beginning next year, as the combination of this hardware becomes available at scale.\n\nStory Continues\n\nThis tech isn't a mere replication of solutions that are already available from rival chipmakers. There's a very specific reason Meta and Microsoft are interested enough to give Qualcomm's solutions a shot when it's the least-proven name in the business. That reason is efficiency, or more specifically, lower operating costs.\n\nBy directly connecting processing cores to high-bandwidth memory, Qualcomm says its hardware can deliver on the order of 4 to 8 times more computing performance per watt compared to existing GPU-based architectures, addressing one of the AI industry's chief challenges at this time.\n\nGrowth ahead on many fronts\n\nQualcomm's still something of an outsider within AI data center computing circles. However, the company's forecast for a minimum of $15 billion worth of artificial intelligence data center revenue in fiscal 2029 (which ends in September 2029) isn't outrageous in the least. The outlook from Precedence Research suggests that the global AI processor market is poised to grow from a little less than $58 billion last year to more than $146 billion by 2029, en route to a total of $550 billion in 2035. Qualcomm would only need to capture about one-tenth of the projected market to reach its 2029 target.\n\nThe fact that its technology is built to handle the relatively new demands of agentic AI matters, too. Precedence Research's study also asserts that the agentic artificial intelligence market is on pace to grow from less than $8 billion last year to more than $32 billion in 2029, although it doesn't anticipate that this sliver of the artificial intelligence industry will outright explode until the first half of the 2030s. For 2034, its expected market size is just under $200 billion.\n\nAll that being said, it's arguable that investors are overlooking -- and therefore undervaluing -- Qualcomm's future on the automotive and the Internet of Things (IoT) fronts. The company's expectations that both its automobile-related and IoT (wearables, robotics, security systems, industrial automation, etc.) will more than double in size over the coming four years are realistic as well.\n\nQualcomm expects its revenues from sources beyond its mobile handset business to grow by an average of 40% per year through 2029, making it one of the hotter growth names of the next chapter of the AI revolution.\n\nThis might help: Although the majority of analysts only rate QCOM stock as a hold right now, their consensus price target of $228.57 is 33% above the ticker's current price. That's not a bad way to start out a new trade in this recently discounted stock. Just keep in mind that its volatility is likely to linger for at least a while longer.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-23",
       "Time": "19:50:00",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD, AVGO",
+      "Ticker": "AAPL, TSM, NVDA, AMD, AVGO",
       "Date": "2026-07-23",
       "Time": "19:18:24",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "TSLA, GOOGL",
       "Date": "2026-07-23",
       "Time": "19:13:36",
       "Source": "Yahoo Finance",
