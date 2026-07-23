@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-23T13:15:26.344Z",
-  "total_news_count": 858,
+  "last_updated": "2026-07-23T13:40:34.608Z",
+  "total_news_count": 862,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-23",
+      "Time": "21:08:24",
+      "Source": "Yahoo Finance",
+      "Title": "India relaxes e-commerce investment rules for exports in win for Amazon",
+      "URL": "https://finance.yahoo.com/economy/policy/articles/india-relaxes-e-commerce-investment-130824438.html",
+      "Content": "NEW DELHI, July 23 (Reuters) - India's government on ‌Thursday eased foreign ‌investment rules to allow e-commerce ​companies to buy products directly from Indian sellers and then sell them ‌to overseas ⁠customers, a major win for Amazon ⁠which lobbied for the change for months.\n\nFor ​years, India ​has ​prohibited foreign e-commerce companies ‌from selling goods directly to consumers at home or abroad, allowing them only to operate ‌a marketplace to ​connect buyers ​and ​sellers for a ‌fee. The rule has ​now ​been relaxed to boost exports, the government ​said ‌in a statement.\n\nMore from Yahoo Scout\n\nHow might these changes impact India's export growth?\n\nWhy did Amazon lobby for these regulatory changes?\n\nHow will India's new e-commerce rules benefit foreign companies?\n\nWhat were the previous restrictions on foreign e-commerce operations?\n\n(Reporting by ​Aditya Kalra; Editing by ​Kirsten Donovan)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-23",
+      "Time": "21:04:12",
+      "Source": "Yahoo Finance",
+      "Title": "Wall St set for lower open as Big Tech earnings rekindle AI spending worries, oil jumps",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-ease-big-111336570.html",
+      "Content": "By Ragini Mathur and Avinash P\n\nJuly 23 (Reuters) - U.S. stock indexes were on track to open lower on Thursday as concerns over heavy AI spending resurfaced after the first batch of Big Tech earnings, while ‌another jump in oil prices linked to the widening Middle East conflict further dampened sentiment.\n\nSecond-quarter results from Alphabet ‌and Tesla, the first of the so-called \"Magnificent Seven\" megacap companies to report this season, failed to impress investors.\n\nAlphabet posted its strongest-ever quarter of growth in ​its cloud computing business, but the results did little to reassure investors as attention shifted to its higher spending plans.\n\nShares of Google's parent fell 5.4% in premarket trading.\n\nTesla dropped 7.7% after reporting negative free cash flow for the second quarter for the first time in more than two years.\n\n\"Alphabet is spending hundreds of billions of dollars as it looks to stay ahead in the ‌AI arms race,\" said AJ Bell investment director ⁠Russ Mould.\n\n\"But there is still a healthy degree of scepticism about the ability of these investments to generate a commensurate level of return.\"\n\nCapital spending plans will remain in focus when other major ⁠technology companies report next week, as investors question whether the huge sums being poured into AI are translating into meaningful returns, and if profit growth can justify elevated stock valuations.\n\nGeopolitical concerns added to the pressure. After months of investor focus on the Strait of ​Hormuz, ​attention has shifted to the Red Sea, where Iranian-aligned Houthis, who ​control areas near the Bab el-Mandeb strait, have opened ‌a new front in the Middle East crisis.\n\nU.S. President Donald Trump said he would hold Iran accountable for any attacks by Yemen's Houthi militants.\n\nBrent crude futures rose to just shy of $100 a barrel, their highest level since early June. [O/R]\n\nThe surge in oil prices revived inflation worries, pushing interest-rate-sensitive 2-year Treasury yields to a 17-month high as traders increased bets on a Federal Reserve rate hike as early as next week. [US/]\n\nMarkets are now pricing in about a 35% chance of a 25-basis-point increase ‌at the Fed's July meeting, up from 12% a week ago, ​according to CME's FedWatch tool. Expectations for a similar move in September ​stand at 55%.\n\nThe number of Americans seeking unemployment benefits ​for the first time fell sharply last week, leaving Fed officials to keep their focus on ‌containing inflation.\n\nAt 8:48 a.m. ET, Dow E-minis were down ​527 points, or 1%, and ​S&P 500 E-minis were down 74 points, or 0.98%. Nasdaq 100 E-minis were down 408.5 points, or 1.4%.\n\nStory Continues\n\nChip stocks, which have recently hit a volatile patch, were mixed. Texas Instruments fell 4.8% despite forecasting quarterly revenue above ​estimates.\n\nDefense giant Lockheed Martin rose 4.8% after ‌lifting 2026 sales and profit forecasts.\n\nServiceNow gained 5.3% after the enterprise software company raised its annual subscription revenue ​forecast for the second time.\n\n(Reporting by Ragini Mathur and Avinash P in Bengaluru, additional reporting by Purvi ​Agarwal; Editing by Amanda Cooper, Shinjini Ganguli and Maju Samuel)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-23",
+      "Time": "20:52:22",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Faces $1 Billion EU Fine Over Search and App Store Practices",
+      "URL": "https://finance.yahoo.com/media-advertising/articles/alphabet-faces-1-billion-eu-125222156.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( GOOGL , Financials ), the parent of Google, a leader in search, cloud computing and digital advertising , was fined 890 million euros (about $1 billion) by the European Commission for violating the EU's Digital Markets Act.The Commission fined Google separately for Google Search (460 million) and Google Play (430 million), finding that the corporation offered its own services preferential treatment and restricted app developers' ability to divert customers to alternative buying choices.European authorities said Google should treat competing services more equally in search results and allow developers to promote products outside the Play Store without excessive limitations.Google slammed the ruling, saying compliance with the requirements required changes that degrade the functionality of products like hotel, restaurant and flight search services, while undermining protections in Google Play.The business has already started trialling modifications to search results and revised several Play Store policies, but the European Commission warned more action was needed.Google has 60 days to comply with the ruling or face periodic penalties of as much as 5% of its global annual revenue.Now investors will be watching to see if Google appeals the ruling and how further legislative changes could impact its search and app store businesses in Europe.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-07-23",
@@ -10,6 +40,16 @@
       "Title": "AMD CEO Lisa Su delivers keynote with big AI update for tech investors",
       "URL": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-delivers-keynote-with-big-ai-update-for-tech-investors-125145914.html",
       "Content": "AMD ( AMD ) CEO Dr. Lisa Su takes the stage at the Advancing AI 2026 conference to outline the company's vision for the future of AI, introducing new chips and platforms to drive data center growth.\n\nWatch the keynote speech in the video above.\n\nClick here for the latest technology news that will impact the stock market.\n\nRead the latest financial and business news from Yahoo Finance\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-23",
+      "Time": "20:51:23",
+      "Source": "Yahoo Finance",
+      "Title": "Indian payments firms oppose one-click UPI checkout proposal, citing competition risks",
+      "URL": "https://finance.yahoo.com/markets/crypto/articles/indian-payments-firms-oppose-one-125123776.html",
+      "Content": "By Ashwin Manikandan\n\nMUMBAI, July 23 (Reuters) - Several Indian digital payments firms have opposed a proposal that would allow merchants to store customers' ‌preferred Unified Payments Interface option for one-click checkouts, arguing it could ‌entrench the dominance of the bigger payment apps.\n\nIn a July 23 letter reviewed by Reuters, the ​companies told the National Payments Corporation of India (NPCI), which oversees the UPI network, that the proposal could \"adversely impact\" competition.\n\nThe signatories include Paytm, Meta-backed CRED, Flipkart's Super.money, among others.\n\nNPCI and the companies did not immediately reply to Reuters' requests for comments.\n\nUPI ‌processed over 227 billion ⁠transactions worth more than 28 trillion rupees ($289.94 billion) in June, according to NPCI data, making it one of the world's ⁠most widely used fast payment networks.\n\nWalmart-backed PhonePe and Alphabet's Google Pay together account for roughly four-fifths of these transactions.\n\nThe proposed framework, referred to as UPI Meta or ​UPI Checkout, ​would let users save a preferred payment ​handle or linked bank account ‌with merchants, eliminating the need to select a payments app each time they make a purchase.\n\nInstead, customers would proceed directly to authentication using a PIN or biometric verification, similar to how saved card details can be used for faster checkouts.\n\n\"The proposed framework is expected to materially increase persistence of customer preference ‌towards the (third party apps) selected during the initial ​setup process,\" the companies said in the ​letter.\n\nThe firms said that once ​a customer saves a UPI ID for payment, it is ‌unlikely to change, making it tougher for ​smaller apps to ​compete.\n\nThe concentration of UPI payments through a few platforms has been a concern for the payments authority.\n\nNPCI introduced a plan in 2020 to ​limit the market share of ‌any single UPI app to 30%, but has repeatedly delayed implementation. ​The current compliance deadline is December 2026.\n\n($1 = 96.5725 Indian rupees)\n\n(Reporting ​by Ashwin Manikandan; Editing by Eileen Soreng)",
       "Language": "en"
     },
     {
