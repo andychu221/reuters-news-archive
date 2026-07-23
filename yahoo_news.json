@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T13:01:51.527Z",
-  "total_news_count": 855,
+  "last_updated": "2026-07-23T13:15:26.344Z",
+  "total_news_count": 858,
   "news": [
     {
       "Ticker": "AMD",
@@ -23,13 +23,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "TSLA, MU",
       "Date": "2026-07-23",
       "Time": "20:47:16",
       "Source": "Yahoo Finance",
       "Title": "Micron Secures Major Tesla Memory Chip Allocation",
       "URL": "https://finance.yahoo.com/technology/articles/micron-secures-major-tesla-memory-124716023.html",
       "Content": "This article first appeared on GuruFocus .\n\nMemory-chip maker Micron Technology ( MU , Financials ), which supplies a large chunk of memory chips to Tesla, said the industry is facing tight availability and high prices.Tesla Chief Executive Elon Musk said Micron had offered the supply on reasonable terms, and agreed capacity for years to come. The deal gives Tesla more visibility as it ramps up spending on artificial intelligence, autonomous driving and its Optimus humanoid robot program.Memory chips are a key part of those systems, allowing data processing, storage and high-performance computing. Shares of Micron gained 2.5% in extended trade following Musk's remarks. Tesla shares fell about 4% on weaker-than-expected quarterly results.Musk also stated Tesla has ordered equipment for a development chip-making unit and hopes to reveal additional details later. He cited investments by Samsung and Taiwan Semiconductor Manufacturing Co. in new U.S. plants that could satisfy Tesla's future AI computing needs.The remarks underscore the importance of chip access in the next phase of Tesla's growth, on par with software development. Investors now will be looking to see if Micron's allocation translates into stronger automotive revenue and whether Tesla can secure enough supply to support its expansion plans.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-07-23",
+      "Time": "20:42:59",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Misses Badly on Earnings as Free Cash Flow Turns Negative",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-misses-badly-earnings-free-124259452.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) fell 4.77% premarket after reporting second-quarter adjusted earnings of $0.33 a share, far below the $0.51 analysts expected , even as revenue of $28.24 billion topped the $25.71 billion forecast. Revenue rose 26% from a year earlier, while net income fell 5% to $1.11 billion.\n\nAutomotive revenue rose 23% to $20.52 billion, energy climbed 13% to $3.14 billion and services jumped 50% to $4.58 billion. Active FSD subscriptions rose 56% to 1.48 million. Musk said Optimus production lines are being installed but cautioned it will be \"the hardest product to scale manufacturing\" Tesla has made.\n\nThe margin picture deteriorated. Gross margin slipped to 16.8% from 17.2% as average selling prices fell and regulatory credit revenue declined, following Tesla's move to cheaper Model 3 and Y variants after retiring the Model S and X. Operating expenses jumped 47% to $4.35 billion on AI and research spending, dragging operating margin down to 1.4% from 4.1%.\n\nFree cash flow turned negative at $1.1 billion, as capital expenditure surged 142% to $5.79 billion. CFO Vaibhav Taneja had guided in April to capex above $25 billion this year and told investors operating costs will keep growing in 2026 and beyond.",
       "Language": "en"
     },
     {
@@ -50,6 +60,16 @@
       "Title": "Micron Gets a Major Vote of Confidence From Bank of America",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-gets-major-vote-confidence-123722085.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) is back in focus after Bank of America reinforced its bullish outlook, arguing that the latest wave of open-source artificial intelligence models strengthens, rather than weakens, the long-term investment case for the memory-chip maker.\n\nThe brokerage reiterated its Buy rating and $1,550 price target, saying demand for high-bandwidth memory (HBM) should continue to accelerate despite more efficient AI models.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nBank of America said investors are misreading the impact of open-weight AI models such as Moonshot AI's Kimi K3. While these models improve computing efficiency, they still require massive amounts of HBM, and wider enterprise adoption means more organizations will need to deploy their own memory-intensive infrastructure instead of relying on centralized cloud services.\n\nThe bullish note follows Micron's fiscal third-quarter results, where the company exceeded Wall Street expectations on both revenue and earnings. Micron posted record revenue of $41.46 billion, adjusted EPS of $25.11, and record free cash flow of $18.3 billion while guiding for another strong quarter ahead.\n\nBeyond its earnings momentum, Micron continues expanding long-term supply agreements with automotive and technology customers, strengthening visibility into future AI memory demand. The company has also been increasing production of HBM products to capitalize on the AI infrastructure buildout.\n\nBank of America added that Micron's forward valuation remains below the semiconductor sector median and expects the expiration of CHIPS Act-related buyback restrictions around December 2026 to provide additional flexibility for shareholder returns.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-07-23",
+      "Time": "20:35:50",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla-SpaceX Merger Speculation Builds",
+      "URL": "https://finance.yahoo.com/technology/articles/tesla-spacex-merger-speculation-builds-123550678.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA , Financials ), the electric vehicle and energy company , sparked fresh merger speculation after CEO Elon Musk said its operations increasingly overlap with SpaceX.During Tesla's results call, Musk pointed to increasing cooperation between the firms but said an earnings call was not the right place to discuss a potential transaction.Tesla already provides batteries and manufacturing technology for some SpaceX projects. The companies are also collaborating on Terafab, a planned semiconductor factory that would manufacture AI devices.Proponents of the deal say the combined corporation could build a more integrated platform across artificial intelligence, robotics, energy, manufacturing and space infrastructure.Some analysts think the companies are moving toward an eventual deal. They point to a shared engineering skill, AI infrastructure and Musk's leadership at each.But any combination of those would still face major hurdles.Regulatory approvals could be a tough sell, especially in China, given SpaceX's work with the U.S. government. Governance is also complicated by Musk having a bigger voting share in SpaceX than in publicly listed Tesla.investors will be looking for a formal proposal or for further specifics on how the companies are planning to expand their operational relations.",
       "Language": "en"
     },
     {
@@ -83,7 +103,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "TSLA",
+      "Date": "2026-07-23",
+      "Time": "20:31:16",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Stock Sinks After Earnings Miss, AI Spending Soars",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-sinks-earnings-miss-123116885.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) reported mixed second-quarter results, with revenue topping Wall Street estimates while adjusted earnings missed expectations, sending the electric vehicle maker's shares down about 6% in early Thursday trading.\n\nTesla posted adjusted earnings of 33 cents per share for the quarter, below analysts' consensus estimate of 51 cents. Revenue rose 26% year over year to $28.24 billion, exceeding expectations of $25.71 billion. Net income declined about 5% to $1.11 billion, while automotive revenue increased 23% to $20.52 billion.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nTesla's gross margin narrowed to 16.8% from 17.2% a year earlier and fell short of analyst estimates of 19.4%. Operating margin also declined to 1.4% as operating expenses climbed 47% amid higher spending on artificial intelligence, semiconductor development and other research initiatives. Free cash flow turned negative at $1.1 billion, compared with positive free cash flow a year earlier.\n\nTesla said capital expenditures rose 142% year over year to $5.79 billion as it continued investing in AI computing, battery manufacturing, semiconductor production and other infrastructure projects. The company also said Full Self-Driving subscriptions increased 56% from a year earlier to about 1.48 million, while production of its Cybercab and Optimus humanoid robot programs continues to advance.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, AMD",
       "Date": "2026-07-23",
       "Time": "20:30:45",
       "Source": "Yahoo Finance",
@@ -93,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "TSLA, MU",
       "Date": "2026-07-23",
       "Time": "20:26:02",
       "Source": "Yahoo Finance",
@@ -103,7 +133,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-07-23",
       "Time": "20:24:12",
       "Source": "Yahoo Finance",
