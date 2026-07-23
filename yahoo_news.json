@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T18:18:27.929Z",
-  "total_news_count": 941,
+  "last_updated": "2026-07-23T18:32:31.027Z",
+  "total_news_count": 942,
   "news": [
     {
       "Ticker": "005930.KS",
@@ -233,6 +233,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "KLAC",
+      "Date": "2026-07-24",
+      "Time": "00:24:00",
+      "Source": "Yahoo Finance",
+      "Title": "ASML Holdings' EUV Leadership Strengthens Long-Term Growth",
+      "URL": "https://finance.yahoo.com/technology/articles/asml-holdings-euv-leadership-strengthens-162400389.html",
+      "Content": "ASML Holding ASML plays a pivotal role in the global semiconductor industry, supported by its dominant position in extreme ultraviolet (EUV) lithography. Its highly sophisticated machines are essential for producing the world's most advanced chips, making ASML a key enabler of innovation across artificial intelligence (AI), high-performance computing, smartphones and data centers. The industry outlook remains favorable as rising AI infrastructure investments fuel demand for cutting-edge logic and memory chips.\n\nASML's competitive strength stems from decades of technological expertise, an extensive patent portfolio and a deeply integrated network of specialized suppliers. Demand for EUV systems is expected to increase as semiconductor manufacturers seek enhanced chip performance and efficiency, making advanced lithography increasingly critical to next-generation production.\n\nHigh-NA EUV systems are poised to drive ASML's next phase of growth. These next-generation lithography machines are designed to print increasingly smaller patterns required for advanced AI, logic and memory chips. By raising the numerical aperture to 0.55 from 0.33 in earlier EUV systems, High-NA technology enables higher transistor density and improved chip performance. This capability further strengthens ASML's leadership in cutting-edge lithography amid accelerating AI-related computing demand. Intel is among the technology's earliest adopters, while SK Hynix has also indicated plans to integrate High-NA systems into its manufacturing roadmap.\n\nRising demand for AI, cloud computing and advanced electronics reinforces ASML's strategic importance as the sole supplier of EUV lithography systems.\n\nWhat About ASML's Peers\n\nKLA Corporation KLAC leads the semiconductor process control industry by developing breakthrough inspection and metrology systems, electron-beam technologies and AI-driven defect classification software. KLAC's inventions ensure the yield and reliability of complex AI chips, advanced packaging and IC substrates.\n\nApplied Materials, Inc . AMAT recently introduced breakthrough technologies to supercharge AI compute, enhance 2nm Gate-All-Around logic transistors, advance High-Bandwidth Memory and revolutionize advanced chip packaging.\n\nASML's Price Performance\n\nShares of ASML Holdings have gained 68.9% year to date, outperforming the industry.\n\nImage Source: Zacks Investment Research\n\nASML's Expensive Valuation\n\nThe stock appears overvalued compared with its industry. It is currently trading at a price-to-earnings multiple of 36.83, higher than the industry average of 35.13.\n\nStory Continues\n\nUpward Estimate Movement for ASML\n\nThe Zacks Consensus Estimate for ASML's third-quarter and fourth-quarter 2026 EPS witnessed northbound movement in the last 30 days. The same holds true for 2026 and 2027 earnings estimates.\n\nThe consensus estimates for ASML's 2026 and 2027 revenues and earnings indicate year-over-year increases.\n\nASML stock currently carries a Zacks Rank #2 (Buy). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "TSLA, GOOGL",
       "Date": "2026-07-24",
       "Time": "00:23:39",
@@ -243,7 +253,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "ARM, AMD",
       "Date": "2026-07-24",
       "Time": "00:20:00",
       "Source": "Yahoo Finance",
