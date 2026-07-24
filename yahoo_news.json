@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-24T13:32:23.948Z",
-  "total_news_count": 1143,
+  "last_updated": "2026-07-24T13:40:29.356Z",
+  "total_news_count": 1146,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-24",
+      "Time": "21:09:57",
+      "Source": "Yahoo Finance",
+      "Title": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/blackrock-kicks-off-12-3-130957694.html",
+      "Content": "(Bloomberg) -- BlackRock Inc. began marketing $12.3 billion of high-grade bonds to fund a Meta Platforms Inc. data center project, testing investor appetite amid growing concerns about excessive AI infrastructure spending.\n\nMost Read from Bloomberg\n\nRetina Chip Designed to Restore Sight to Go on Sale in Europe\n\nHegseth Turns to UNC, Virginia Tech After Dropping Ivy League\n\nApple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand\n\nTrump Rebuilds Tariffs With New Levies on 60 Economies\n\nAlphabet Falls as $205 Billion Spending Plan Fuels AI Cost Fear\n\nSopaipilla Investor, a holding company tied to BlackRock, is offering a single tranche of notes due in 2048, according to a person familiar with the matter. Price talk is a premium of about 2.875 percentage points over Treasuries, the person said, asking not to be identified because they aren't authorized to speak publicly.\n\nProceeds from the sale will fund a data center campus in El Paso, Texas, expected to provide as much as 1 gigawatt of computing capacity for artificial intelligence workloads. BlackRock subsidiaries Global Infrastructure Management and HPS Investment Partners hold an 80% stake in the project, with Meta owning the remaining 20%.\n\nJPMorgan Chase & Co. and Morgan Stanley are running the offering.\n\nMost Read from Bloomberg Businessweek\n\nThe Menopause Gold Rush Is Failing Women\n\nThe Bitcoin Slump Is Crushing Companies That Stockpiled Tokens\n\nHow China's 'Temu Range Rover' Became Britain's Top-Selling Car\n\nVan Leeuwen's Path From a Single Ice Cream Truck to a Dessert Giant\n\nChinese Brands Resort to Crude Insults to Hawk LED Signs and Charging Cables\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-24",
+      "Time": "20:56:00",
+      "Source": "Yahoo Finance",
+      "Title": "Verizon signs deal with Google worth over $1 billion",
+      "URL": "https://finance.yahoo.com/technology/articles/verizon-signs-deal-google-worth-125600413.html",
+      "Content": "July 24 (Reuters) - Verizon CEO Dan ‌Schulman said on ‌Friday the company has ​secured a deal with Google, valued at more than $1 ‌billion, ⁠to provide dark fiber connectivity for ⁠the search engine giant's data ​centers.\n\n\"We ​have ​other deals ‌that we expect to announce by year end that taken together are expected ‌to be ​worth ​multiple ​billions of dollars ‌in revenue over ​the ​next several years,\" Schulman said ​on ‌Verizon's post-earnings call.\n\nMore from Yahoo Scout\n\nWhat does dark fiber connectivity provide for data centers?\n\nHow much additional revenue does Verizon expect from deals?\n\nWhat is Verizon's $1 billion deal with Google?\n\nWhen will Verizon announce its other major deals?\n\n(Reporting ​by Jaspreet Singh ​in Bengaluru)",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC",
       "Date": "2026-07-24",
@@ -73,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-07-24",
       "Time": "20:42:00",
       "Source": "Yahoo Finance",
@@ -100,6 +120,16 @@
       "Title": "Intel's Fastest Growth Comes With Negative Cash Flow",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/intels-fastest-growth-comes-negative-124005394.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) rose 3.26% premarket after reporting second-quarter revenue of $16.1 billion, up 25% and its fastest growth in more than 15 years, against the $14.42 billion analysts expected . Adjusted earnings of $0.42 a share doubled the $0.21 forecast. On a GAAP basis Intel lost $2.16 a share. The main difference between the GAAP and adjusted figures was a $2.45 per share mark-to-market loss on escrowed shares. Adjusted free cash flow came in at negative $8.4 billion.\n\nData center drove it. Revenue in the Data Center and AI segment rose 59% to $6.3 billion, while client computing, still the larger unit, grew 13% to $8.9 billion and foundry sales rose 31% to $5.8 billion. Non-GAAP gross margin recovered to 42% from 30% a year earlier. CEO Lip-Bu Tan said AI is driving \"unprecedented demand for compute.\"\n\nGuidance came in ahead as well. Intel forecast third-quarter revenue of $15.8 billion to $16.8 billion and adjusted EPS of $0.38, against consensus of $15.1 billion and $0.27. The company said it has signed 10 long-term agreements, some locking in pricing and others volume. CFO David Zinsner said Intel is supply constrained with data center demand exceeding what it can produce.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-24",
+      "Time": "20:38:27",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Selloff Puts AI Spending in Focus",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/alphabet-selloff-puts-ai-spending-123827606.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( NASDAQ:GOOGL ) slipped below its 200-day moving average for the first time in more than a year after an earnings-driven selloff knocked nearly 7% off the stock.\n\nShares closed Thursday at $318.34, down 6.9%, as investors looked past solid quarterly results and focused instead on the rising cost of Alphabet's artificial intelligence buildout.\n\nWarning! GuruFocus has detected 6 Warning Sign with LLY.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nAlphabet is the parent company of Google, YouTube and Google Cloud. Its advertising and cloud businesses remain highly profitable, but the company is spending heavily on data centers, chips and other infrastructure needed to support AI products.\n\nThe 200-day moving average is widely watched as a gauge of long-term momentum. A single close below it does not confirm a breakdown, but staying under the level for several sessions could make traders more cautious.",
       "Language": "en"
     },
     {
