@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T12:40:19.306Z",
-  "total_news_count": 1125,
+  "last_updated": "2026-07-24T12:45:41.184Z",
+  "total_news_count": 1126,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -41,6 +41,16 @@
       "URL": "https://finance.yahoo.com/m/42442b24-dfd8-3679-b4f1-e25f69b89b6a/vitalik-buterin-says-ethereum.html",
       "Content": "Ethereum (CRYPTO: ETH) badly needs a new story, and its founder, Vitalik Buterin, is intent on creating exactly that. Buterin dropped a fresh draft of the network's long-term roadmap on July 4, calling the rebuild the network's biggest overhaul since the massive 2022 update known as the Merge.\n\nNearly every core technical element of the chain is slated to be rebuilt over the next three to four years, with a few new emphases, such as implementing cryptography resistant to quantum-computer attacks and creating native privacy features. Whether those changes will boost the coin's price is a separate question, so let's unpack it.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nFive new north stars are on the docket\n\nThe roadmap, which in Buterin's terminology is called a \"strawmap,\" sets five \"north stars\" for Ethereum. Those stars are essentially the chain's new objectives, and given its outsize influence in the crypto sector, they likely represent the general direction of the future of cryptocurrency , as many other players will seek to emulate its capabilities as well as to profess Buterin's ideals.\n\nThree of them pertain to scaling its throughput capacity, calling for transaction finality to occur within seconds, for the base chain to handle 10,000 transactions per second (TPS), and for it to handle 10 million TPS on its layer 2 chains. The last two, adding quantum-resistant cryptography and new primitives for privacy in transactions, will likely behave as complicating requirements to accomplishing those scaling goals. Both will incur an additional data burden to every block the network handles, potentially even to every single transaction, and so they'll directly conflict with the goals of targeting more throughput.\n\nDon't hold your breath for the coin's value yet\n\nThe new direction of Ethereum could end up attracting more users and capital to the network. If it does, it can be considered a success. But activity in the ecosystem does not automatically enrich Ether holders.\n\nThe base fee burn depends on the base chain's congestion rather than its total throughput. Scaling up layer 2 chains has already shrunk the mainnet's fee revenue enough that Ethereum's supply turned mildly net inflationary in 2026, and the strawmap plans to push even more activity off the base chain, lowering the fee ceiling even further. Another issue is that individual token contracts could see their fees drop under the rebuild, again benefiting users and layer 2 chains without helping holders of Ethereum.\n\nStory Continues\n\nNonetheless, the coin still looks likelier to grind higher than lower from here, largely for reasons unrelated to the roadmap. The crypto bear market is around nine months old, near the historical median, and the coin's 62% drawdown from its all-time high so far suggests that it might be due for a reversion to the mean rather than more losses.\n\nSo, the strawmap will make Ethereum more interesting and more valuable as a technology, but unfortunately probably not much better as an investment until its tokenomics change.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-24",
+      "Time": "19:38:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股重挫千點史上第9大　金管會說話了",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E5%8D%83%E9%BB%9E%E5%8F%B2%E4%B8%8A%E7%AC%AC9%E5%A4%A7-%E9%87%91%E7%AE%A1%E6%9C%83%E8%AA%AA%E8%A9%B1%E4%BA%86-113829773.html",
+      "Content": "台股今天終場下跌1195.97點，為史上第9大跌點。金管會今天表示，台股主要反映國際情勢，將持續關注股市波動情形，並請證交所及櫃買中心密切注意國際金融市場變化情形。\n\n投資人對AI巨額支出擔憂浮現，加上中東衝突加劇推升國際油價，美股下挫。台股今天開低走低，終場下跌1195.97點，為歷史第9大跌點，摜破季線約43964點。\n\n金管會今天表示，台股7月24日收盤指數為43654.84點，下跌1195.97點，跌幅2.67%，成交值約新台幣7924.35億元，同時段（截至今天下午1時30分）亞洲主要股市狀況，新加坡跌0.35%、上海跌1.05%、香港跌1.17%、日本跌2.78%、韓國跌4.98%。\n\n金管會指出，集中市場截至今年6月底本益比約31.78倍，現金殖利率1.56%（加計股票股利為1.59%），國內上市櫃公司今年截至6月底累計營收合計約30.49兆元，較去年同期增加35.96%。\n\n截至7月23日，信用交易整戶擔保維持率為181.07%，高於券商規定的130%最低追繳門檻，借券賣出占市場成交值比率為3.19%。（文／中央社）",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
