@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T13:19:53.770Z",
-  "total_news_count": 1142,
+  "last_updated": "2026-07-24T13:32:23.948Z",
+  "total_news_count": 1143,
   "news": [
     {
       "Ticker": "INTC",
@@ -100,6 +100,16 @@
       "Title": "Intel's Fastest Growth Comes With Negative Cash Flow",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/intels-fastest-growth-comes-negative-124005394.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) rose 3.26% premarket after reporting second-quarter revenue of $16.1 billion, up 25% and its fastest growth in more than 15 years, against the $14.42 billion analysts expected . Adjusted earnings of $0.42 a share doubled the $0.21 forecast. On a GAAP basis Intel lost $2.16 a share. The main difference between the GAAP and adjusted figures was a $2.45 per share mark-to-market loss on escrowed shares. Adjusted free cash flow came in at negative $8.4 billion.\n\nData center drove it. Revenue in the Data Center and AI segment rose 59% to $6.3 billion, while client computing, still the larger unit, grew 13% to $8.9 billion and foundry sales rose 31% to $5.8 billion. Non-GAAP gross margin recovered to 42% from 30% a year earlier. CEO Lip-Bu Tan said AI is driving \"unprecedented demand for compute.\"\n\nGuidance came in ahead as well. Intel forecast third-quarter revenue of $15.8 billion to $16.8 billion and adjusted EPS of $0.38, against consensus of $15.1 billion and $0.27. The company said it has signed 10 long-term agreements, some locking in pricing and others volume. CFO David Zinsner said Intel is supply constrained with data center demand exceeding what it can produce.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-07-24",
+      "Time": "20:36:22",
+      "Source": "Yahoo Finance",
+      "Title": "Veteran Bank Resets Sandisk Stock price target for 2027",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-resets-sandisk-stock-123622650.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSandisk ( NASDAQ:SNDK ) remained in focus after Susquehanna lowered its price target to $3,050 from $3,250 while reaffirming a Positive rating.\n\nThe brokerage said the revised target followed updates to its financial model after identifying inaccuracies in its earlier revenue and earnings estimates. Susquehanna maintained its constructive outlook ahead of Sandisk's fiscal fourth-quarter earnings report on Aug. 5 and its Analyst Day on Aug. 13.\n\nWarning! GuruFocus has detected 3 Warning Signs with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nThe firm said investors are expected to closely monitor how artificial intelligence infrastructure shapes memory demand. Key topics include the balance between dynamic random-access memory and solid-state drives in AI inference, along with the impact of key-value cache offloading, a technique that shifts AI model memory from GPUs to lower-cost storage.\n\nSusquehanna also highlighted the rollout of BiCS8 and BiCS10 NAND technologies, long-term production commitments for fiscal 2027 and 2028, and the timing of high-bandwidth flash sampling. The analysts said updates on data center, edge and consumer demand, along with margin trends and operating leverage, could provide further insight into Sandisk's longer-term growth outlook.",
       "Language": "en"
     },
     {
