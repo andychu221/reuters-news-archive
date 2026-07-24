@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-24T08:32:04.364Z",
-  "total_news_count": 1072,
+  "last_updated": "2026-07-24T08:40:31.583Z",
+  "total_news_count": 1073,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-24",
+      "Time": "16:18:54",
+      "Source": "Yahoo Finance",
+      "Title": "Stock market today: Dow, S&P 500, Nasdaq futures steady from tech rout as new tariffs take effect",
+      "URL": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+      "Content": "US stock futures leaned higher on Friday as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated bond yields.\n\nDow Jones Industrial Average futures ( YM=F ) rose roughly 0.4%, while those on the S&P 500 ( ES=F ) edged 0.2% higher. Contracts for the tech-heavy Nasdaq-100 ( NQ=F ) hovered above the flatline as Wall Street stocks attempted to stabilize after a sharp sell-off on Thursday, led by megacap tech names.\n\nThe major indexes were on track for weekly losses after the \"Magnificent Seven\" stocks collectively shed nearly $800 billion in market value on Thursday amid a sell-off sparked by Alphabet's ( GOOG , GOOGL ) and Tesla's ( TSLA ) ballooning AI spending. That tech sell-off spread to Asian markets, where South Korea's KOSPI ( ^KS11 ) and Japan's Nikkei indexes ( ^N225 ) fell.\n\nOvernight, President Trump's latest set of global tariffs targeting nearly all US imports went into effect . The new Section 301 tariffs, which the administration hopes will better withstand legal scrutiny, levy rates of 10% to 12.5% on the US's top trading partners.\n\nThe White House exempted some energy products from those tariffs as markets contend with higher oil prices that threaten to derail progress on inflation and ripple throughout the economy. Oil prices fell on Friday, with international benchmark Brent crude futures down 2% to trade below $99 after touching $100 per barrel.\n\nThe economic data to watch will be S&P Global's flash purchasing managers index updates on services and manufacturing in July, and new home sales. On the corporate front, American Express ( AXP ), NextEra Energy ( NEE ), and Verizon Communications ( VZ ) are among the companies reporting earnings.",
+      "Language": "en"
+    },
     {
       "Ticker": "LRCX",
       "Date": "2026-07-24",
