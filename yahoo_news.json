@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T09:40:25.860Z",
-  "total_news_count": 1312,
+  "last_updated": "2026-07-25T09:45:36.335Z",
+  "total_news_count": 1314,
   "news": [
     {
       "Ticker": "AMZN",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-07-25",
+      "Time": "17:14:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "夜盤又殺445點！台股下周爆5000點狂震警報 當心3大利空開槍",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%9C%E7%9B%A4%E5%8F%88%E6%AE%BA445%E9%BB%9E-%E5%8F%B0%E8%82%A1%E4%B8%8B%E5%91%A8%E7%88%865000%E9%BB%9E%E7%8B%82%E9%9C%87%E8%AD%A6%E5%A0%B1-%E7%95%B6%E5%BF%833%E5%A4%A7%E5%88%A9%E7%A9%BA%E9%96%8B%E6%A7%8D-091409841.html",
+      "Content": "台股24日跟隨亞股走低，終場重挫1195點，收在43654點，不僅跌破季線，也失守44000點整數關卡，台指期夜盤續跌445點，市場持續關注後市走向。專家指出，下周台股恐面臨三大利空考驗，加權指數不排除出現單周累計達5000點的劇烈洗盤震盪，若下周五仍無法站回季線，指數恐下探半年線39000點。\n\n摩爾投顧分析師林漢偉分析，影響下周台股與全球股市的三大利空，首先是中東局勢持續牽動市場情緒，國際油價維持在每桶100美元附近震盪，美國總統川普對伊朗的態度，以及紅海、荷莫茲海峽等重要航道運輸風險，持續引發市場不安情緒。\n\n其次是美國聯準會即將召開利率決策會議，目前市場對是否升息仍有分歧，其中三成押注升息，其餘則認為利率將按兵不動，一旦決策結果或會後談話偏離市場預期，可能拖累美股及科技股出現大幅波動。\n\n此外，美國進入超級財報周，包括臉書母公司Meta、微軟、蘋果及亞馬遜等重量級企業都在下周三、四將公布最新財報。林漢偉指出，若企業繳出優於預期的成績，但股價仍無法反映利多，甚至重演谷歌本周財報發布後的跳空跌勢，將進一步加重台股下修壓力。\n\n針對大盤可能出現5000點的震盪，林漢偉認為，並非一次性重挫5000點，而是盤中漲跌幅劇烈，經過一周反覆震盪後，累積波動達5000點。若指數能在下周五收盤時站回季線之上，8月仍有機會展開反彈。\n\n不過他也示警，若台股下周五收盤確定失守季線，盤勢轉趨偏空。由於大盤在5月至7月間已形成約兩個月的頭部型態，一旦季線轉為下彎，盤勢整理期恐將拉長至三個月（從8月持續到10月），屆時指數將呈震盪走跌格局，不排除進一步下探半年線約39000點；若以44000點計算，波段修正跌幅恐高達5000點。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "005930.KS",
       "Date": "2026-07-25",
       "Time": "17:11:54",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/samsung-elec-wins-200-billion-091154275.html",
       "Content": "By Heekyong Yang\n\nSEOUL, July 25 (Reuters) - Samsung Electronics said on Saturday it struck a pact with U.S. chip designer Broadcom to widen ‌cooperation across memory chips, contract chip making and advanced packaging envisaged to ‌exceed $200 billion until 2030.\n\nWinning long-term production commitments from Broadcom, one of the world's leading custom AI ​chip designers, could boost utilisation at Samsung's advanced manufacturing facilities to pull ahead in the race to supply AI chips.\n\nMore from Yahoo Scout\n\nHow will this deal impact Samsung's foundry business?\n\nWhy are companies developing custom AI accelerators now?\n\nWhat advanced technologies are included in the collaboration?\n\nWhat does Samsung's $200 billion Broadcom partnership entail?\n\n\"The expanded collaboration ... reflects Samsung's focus on supporting customers with end-to-end semiconductor technologies across an increasingly diverse range of AI and ‌high-performance computing applications,\" the company ⁠said in a statement.\n\nThe tie-up comes as global technology companies increasingly develop their own custom AI accelerators, rather than relying solely ⁠on general-purpose graphics processors, driving demand for specialised chip design and manufacturing partnerships.\n\nThe two firms' memorandum of understanding underscores Samsung's efforts to beef up its position in ​AI semiconductors ​by expanding its long-term ties with Broadcom ​amid growing demand up for ‌custom AI processors.\n\nThe next five years of collaboration will combine Broadcom's expertise in designing application-specific integrated circuits (ASICs), or chips for specific tasks, with Samsung's manufacturing capabilities.\n\nThe deal provides for Broadcom's next-generation communications chips, designed for high-speed data transfer, to be made with Samsung's sub-2-nanometre process technology, Samsung said.\n\nThe two will also collaborate on ‌next-generation high-bandwidth memory (HBM) products.\n\nThe partnership could help strengthen ​Samsung's foundry business, as it seeks to narrow ​the gap with industry leader ​TSMC by wooing major technology customers.\n\nLast month, co-CEO and chip ‌division head Jun Young-hyun said he ​discussed next-generation foundry cooperation ​with Jensen Huang, chief executive of Nvidia, including future HBM4E and HBM5 memory products.\n\nSamsung said this year it expected to secure more advanced 2-nanometre ​foundry orders in the ‌near term after discussions with major tech companies. Last year, it ​won a $16.5-billion contract to make logic chips for EV maker Tesla.\n\n(Reporting ​by Heekyong Yang; Editing by Clarence Fernandez)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-25",
+      "Time": "17:11:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股重挫！徐新洋「睡公園」自嘲買在最高點　熊熊神回：有買國巨？",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB-%E5%BE%90%E6%96%B0%E6%B4%8B-%E7%9D%A1%E5%85%AC%E5%9C%92-%E8%87%AA%E5%98%B2%E8%B2%B7%E5%9C%A8%E6%9C%80%E9%AB%98%E9%BB%9E-%E7%86%8A%E7%86%8A%E7%A5%9E%E5%9B%9E-091100068.html",
+      "Content": "【緯來新聞網】台股24日重挫，不少投資人哀鴻遍野。藝人徐乃麟兒子 徐新洋 當晚在社群上傳一段「睡公園」影片，自嘲「買在最高點，公園當據點」，立刻掀起熱議，更釣出演藝圈好友熊熊（卓毓彤）留言笑虧：「看來是有買國⋯巨？」一句話再次引發網友討論，貼文曝光後吸引大量朝聖。\n\n台股重挫！徐新洋「睡公園」自嘲買在最高點。（圖／翻攝Instagram）\n\n影片中可見，徐新洋深夜現身公園，將白色睡墊鋪在草地上，枕著枕頭、蓋著灰色毛毯，直接躺在路燈旁閉目休息，宛如真的準備夜宿公園。他透過誇張情境呼應股市重挫後投資人的心情，以幽默方式詮釋「賠到只能睡公園」的網路迷因。\n\n熊熊笑虧「有買國巨？」　胡釋安也來朝聖\n\n徐新洋在貼文中寫下：「買在最高點，公園當據點；少年股神笑得狂，公園綠地任我躺。」以打油詩方式自嘲在高點進場，搭配躺在公園的畫面，引起不少股民共鳴。\n\n影片曝光後，熊熊率先留言笑虧：「看來是有買國⋯巨？」暗指近期股價波動，引發不少網友按讚。胡瓜兒子胡釋安則笑問：「哪個公園？我怎麼沒看到你」，豆花妹（蔡黃汝）也留下多個笑哭表情符號，留言區互動十分熱絡。\n\n除了藝人好友外，也有不少網友表示「很符合現在」、「今天大家都在找公園」，徐新洋則無奈回應「苦中作樂」。更有網友開玩笑說：「我今天睡龍山寺，要不要幫你佔位子？」徐新洋幽默反問：「滿了嗎？」逗趣互動讓「買在最高點，公園當據點」成為台股重挫當天的熱門話題之一。\n\n更多緯來新聞網報導\n\n拓晞CP高甜辦婚禮　成晞、王君豪大結局前夕先辦見面會\n\n睽違12年重返高雄巨蛋　陳奕迅喊話台歌迷：感受到很多愛",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
