@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-26T06:15:15.276Z",
-  "total_news_count": 60,
+  "last_updated": "2026-07-26T06:18:21.460Z",
+  "total_news_count": 61,
   "news": [
+    {
+      "Ticker": "000660.KS",
+      "Date": "2026-07-26",
+      "Time": "13:33:42",
+      "Source": "Yahoo Finance",
+      "Title": "SK Hynix’s US share premium flashes another AI bubble warning",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-us-share-premium-053342286.html",
+      "Content": "Investing.com -- SK Hynix's newly listed American depositary receipts are trading at a steep premium to the company's South Korean shares, offering another sign of speculative demand surrounding artificial intelligence and memory-chip stocks, the Wall Street Journal reported.\n\nSK Hynix Inc (KS:000660) launched its New York-listed ADRs earlier this month. Each receipt is backed by one-tenth of a Seoul-listed share and can be converted into the underlying Korean stock.\n\nSince trading began, the ADR premium has ranged from 16% to 51% after currency adjustments. The US securities ended Friday at a premium of about 29%, meaning investors were paying significantly more for exposure to the same company.\n\nSuch pricing gaps are normally narrowed by arbitrage. Traders can buy the cheaper shares, convert them into the more expensive security and sell the latter until both prices move closer together.\n\nThat process is difficult in this case. SK Hynix ADRs can be converted into Korean shares, but regulatory restrictions make it difficult to reverse the transaction without the company's approval.\n\nHedge funds buying shares in Seoul and shorting the ADRs would remain exposed if the US premium widened further. The absence of a low-risk conversion mechanism allows the valuation gap to persist.\n\nSome premium can be justified by lower US trading and custody costs, the absence of South Korea's transaction tax and the ADRs' dollar denomination. US exchange-traded funds may also receive more favourable tax treatment from holding ADRs.\n\nThose advantages would typically support a premium of only a few percentage points. Taiwan Semiconductor Manufacturing's ADRs averaged a 3.2% premium from 2010 through 2020.\n\nSince ChatGPT launched in 2022, TSMC's average ADR premium has climbed to around 15% as US demand for AI-related semiconductor exposure increased. SK Hynix's current gap is considerably larger.\n\nThe premium could narrow if Korean shares rise, investor demand for the ADRs weakens or SK Hynix issues more US securities. ADR holders face greater downside if the adjustment comes through a drop in the New York-listed receipts.\n\nSK Hynix's US share premium flashes another AI bubble warning\n\nWolfe Research outlines eight risks that could spark stock declines in 2026\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-26",
