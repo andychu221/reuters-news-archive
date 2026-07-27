@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-27T13:01:30.039Z",
-  "total_news_count": 416,
+  "last_updated": "2026-07-27T13:15:37.131Z",
+  "total_news_count": 419,
   "news": [
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-27",
+      "Time": "21:09:32",
+      "Source": "Yahoo Finance",
+      "Title": "KKR Plans LCY Exit as Chairman Targets Bigger U.S. Semiconductor Expansion",
+      "URL": "https://finance.yahoo.com/technology/articles/kkr-plans-lcy-exit-chairman-130932515.html",
+      "Content": "This article first appeared on GuruFocus .\n\nKKR & Co. ( NYSE:KKR ), a global private equity firm, plans to gradually sell its holdings in the chemical businesses of LCY Group, a Taiwanese specialty chemical supplier serving technology companies including Taiwan Semiconductor Manufacturing Co. ( NYSE:TSM ) and Intel Corp. ( NASDAQ:INTC ). LCY Group Chairman Bowei Lee said the planned exit covers KKR's interests in LCY Chemical and an affiliate, although he declined to identify any potential buyer. KKR invested about $1.56 billion in 2019 to become LCY Chemical's largest shareholder, while the chemical business has more recently sought approximately $874 million in loans, partly to finance capital expenditure.\n\nWarning! GuruFocus has detected 6 Warning Signs with KKR.\n\nIs KKR fairly valued? Test your thesis with our free DCF calculator.\n\nLee suggested that KKR's gradual withdrawal, together with the June retirement of former LCY Chemical Chief Executive Vincent Liu, could allow the family-controlled group to pursue a faster expansion strategy. He said KKR and Liu had taken a more conservative approach to operating LCY Chemical and indicated that he intends to expand more quickly than Taiwan Semiconductor Manufacturing Co., which is pursuing a $265 billion U.S. investment program that includes an additional $100 billion disclosed last week. LCY announced a $280 million Arizona investment in 2021, with the facility reportedly expected to be completed around 2028, but Lee said the company's future U.S. investments could become much larger and may include plants producing several products.\n\nInvestors may view the change as a potential acceleration of LCY's semiconductor-material strategy, although the larger planned investments could require substantial capital and careful execution. Lee said discussions with Korean and Japanese partners are continuing, while LCY announced a Taiwan-based joint venture in April with JSR, a leading Japanese chemical materials company. Separately, Lee said his Singapore-based family office invests about 99% of its portfolio in private equity and venture capital and continues to avoid private credit and additional data-center investments because he believes the risks in those areas are currently less attractive relative to potential returns.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-27",
@@ -13,13 +23,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "TSLA, NVDA, MU",
       "Date": "2026-07-27",
       "Time": "20:43:30",
       "Source": "Yahoo Finance",
       "Title": "Michael Burry Expands Bets Against Major Chip Stocks",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-expands-bets-against-124330196.html",
       "Content": "This article first appeared on GuruFocus .\n\nMichael Burry ( Trades , Portfolio ) has increased his bearish bets against several major chip stocks while keeping his existing short positions in Tesla ( NASDAQ:TSLA ) and Palantir ( NASDAQ:PLTR ).\n\nWarning! GuruFocus has detected 4 Warning Signs with PLTR.\n\nIs PLTR fairly valued? Test your thesis with our free DCF calculator.\n\nThe Big Short investor said he sold short additional shares of Micron ( NASDAQ:MU ) at $933.86 and added to his Nvidia ( NASDAQ:NVDA ) short at $210.28. He also expanded a large bearish position in the iShares Semiconductor ETF, which includes both short stock and put options.\n\nBurry's latest moves suggest he believes the semiconductor rally has gone too far. Micron has surged nearly 222% this year, while Nvidia is up about 11%, leaving both stocks vulnerable if AI spending slows or valuations come under pressure.\n\nHe also added to a short position in Caterpillar while increasing long exposure to Flutter and DraftKings. His bearish bets against Tesla and Palantir remain open, with Burry saying his Tesla position is becoming smaller as the stock falls.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-27",
+      "Time": "20:42:02",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Makes Privacy Central to Smart Glasses Push",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-makes-privacy-central-smart-124202510.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is making privacy a central part of its smart-glasses strategy as it tries to overcome concerns about camera-equipped AI wearables.\n\nThe company has reportedly delayed the product partly to refine both the hardware and its privacy policies. Apple is now targeting a reveal at its Worldwide Developers Conference next June, followed by a consumer launch by the end of 2027.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple is exploring safeguards including more on-device AI processing, no facial recognition, limits on continuous environmental scanning and a policy against using customer recordings to train its models. It is also testing additional hardware and software protections.\n\nThe approach could help Apple differentiate its glasses from Meta's ( NASDAQ:META ) Ray-Ban devices, which helped popularise the category but also intensified concerns about covert recording. Schools, hospitals, courts and other venues have already restricted some camera-equipped wearables.",
       "Language": "en"
     },
     {
@@ -73,6 +93,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-07-27",
+      "Time": "20:34:44",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Puts Privacy at Center of Smart Glasses Push",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-puts-privacy-center-smart-123444257.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ), the consumer technology company known for the iPhone , Mac and wearable devices, is making privacy a central part of its smart glasses strategy as it prepares to enter the emerging market.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe company delayed the product partly to refine both the device and its privacy policies, according to a Bloomberg News report cited by Seeking Alpha. Apple is now targeting an unveiling at its Worldwide Developers Conference next June, followed by a consumer launch by the end of 2027.\n\nPotential safeguards include greater use of on-device artificial intelligence, no facial recognition, limits on continuous environmental analysis and restrictions on using customer recordings to train AI models.\n\nApple is also testing additional hardware and software protections as camera-equipped wearables face scrutiny in schools, hospitals, courts and other public settings.\n\nThe company has explored versions without cameras or designs that would use cameras for AI functions without allowing photo or video recording. Those options may be less appealing because hands-free image capture is a key feature of smart glasses.\n\nApple's approach could help differentiate the product from Meta Platforms' Ray-Ban smart glasses, which have drawn privacy concerns.\n\nInvestors will now watch for product details, regulatory reactions and signs that Apple can turn privacy into a competitive advantage.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-27",
       "Time": "20:30:09",
@@ -103,7 +133,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "TSLA, MU",
       "Date": "2026-07-27",
       "Time": "20:26:50",
       "Source": "Yahoo Finance",
