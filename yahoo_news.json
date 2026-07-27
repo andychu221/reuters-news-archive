@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T07:43:55.330Z",
-  "total_news_count": 349,
+  "last_updated": "2026-07-27T07:52:34.835Z",
+  "total_news_count": 350,
   "news": [
     {
       "Ticker": ".TWII",
@@ -31,6 +31,16 @@
       "URL": "https://finance.yahoo.com/m/082024e2-9aa3-3bf3-ac03-4bf3a5b332a5/how-lisa-su-has-positioned.html",
       "Content": "In the early days of artificial intelligence (AI), Advanced Micro Devices (NASDAQ: AMD) looked like it would be nothing more than an afterthought to the dominant Nvidia . However, AMD CEO Lisa Su has managed to position the company to be a big AI winner in the coming years.\n\nThis started with the bold move of striking a deal with OpenAI, where Su was willing to give the frontier AI model company an up to 10% stake in AMD. In exchange, OpenAI committed to buying 10 gigawatts of AMD's graphics processing units (GPUs) to run inference for its models. It was a deal worth in excess of $100 billion, but more importantly, the size of the commitment would require OpenAI to incorporate its ROCm software platform into its systems. Meta Platforms would sign a similar deal shortly afterward.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAt the same time, Su bet that AMD's innovative chiplet design, which is devised to function as part of a larger interconnected system and could be packaged with more memory, would become ideal for inference, a market expected to grow larger than training. She also went out and acquired ZT Systems so the company could start selling complete rack systems.\n\nFast-forward to today, and AMD recently signed up two new large GPU partners, Anthropic and Microsoft , for its next-generation GPUs. However, AMD no longer had to include equity stakes as part of these arrangements and will instead invest up to $5 billion in Anthropic.\n\nAs part of the deal, the maker of the Claude large language model (LLM) will deploy 2 gigawatts of AMD's MI450 GPUs housed within its Helios rack-scale solutions. The Helios racks also include the company's server central processing units (CPUs), networking gear, and ROCm software. The first delivery is expected in the first half of next year. Microsoft will also begin to use the Helios system within its data centers for inference, although terms were not disclosed.\n\nIn addition to GPUs, Su has also positioned AMD as a leader in the server CPU market. With the rise of agentic AI, the ratio of GPUs to CPUs is expected to shrink drastically, with projections that it will go from 8:1 for training to 1:1 for agentic AI. At the same time, AMD is making high-core CPUs designed specifically for agentic AI and inference that will come at higher prices. It recently upped its industry CPU forecast, predicting this will become a $220 billion market in the next few years, with a goal of taking 50% market share.\n\nStory Continues\n\nBetween its GPU and CPU opportunities, Su has positioned AMD for massive growth in the coming years, making it a top AI stock to buy.",
       "Language": "en"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-07-27",
+      "Time": "14:43:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資上週賣超470億元連5賣　減碼力積電10萬張居首",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E4%B8%8A%E9%80%B1%E8%B3%A3%E8%B6%85470%E5%84%84%E5%85%83%E9%80%A35%E8%B3%A3-%E6%B8%9B%E7%A2%BC%E5%8A%9B%E7%A9%8D%E9%9B%BB10%E8%90%AC%E5%BC%B5%E5%B1%85%E9%A6%96-064324548.html",
+      "Content": "（中央社記者曾仁凱台北2026年7月27日電）台股上週震盪劇烈，週五集中市場指數以43654.84點作收，週漲983.57點或2.3%。根據台灣證券交易所統計，上週外資賣超新台幣470.64億元，為連續第5週賣超，但比起前幾週賣超金額破千億，上週賣超力道收斂。\n\n個股方面，上週外資賣超前3名上市公司分別為力積電 (6770) 10萬8760張，台新新光金 (2887) 9萬5561張，和華南金 (2880) 5萬8764張。\n\n買超榜方面，上週外資買超前3名上市公司為緯創 (3231) 15萬4948張，中鋼 (2002) 11萬8675張，和凱基金 (2883) 7萬8052張。\n\n另統計今年初至7月24日止，外資累計賣超金額達1兆6076億元。外資總持有股票市值為68兆9805億元，占全體上市股票市值比重48.42%。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
