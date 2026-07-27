@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-27T21:37:51.762Z",
-  "total_news_count": 528,
+  "last_updated": "2026-07-27T21:40:11.691Z",
+  "total_news_count": 531,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-28",
+      "Time": "05:27:17",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Earnings Due July 29 as Options Signal 7% Stock Move",
+      "URL": "https://finance.yahoo.com/markets/options/articles/microsoft-earnings-due-july-29-212717348.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSoftware and cloud computing titan Microsoft ( MSFT , Financials ) is due to disclose fiscal fourth-quarter results on July 29, as investors assess robust demand for artificial intelligence against higher capital investment.Based on the information, the options market is pricing in a 7.24% move in Microsoft shares. That compares to an average post earnings move of around 5.2% throughout the last four quarters.Analysts predict Microsoft to post earnings of $4.24 per share, up 16% from a year ago. Revenue is expected to grow nearly 15% to $87.62 billion.Wall Street will be looking for growth in Azure, demand for AI services and adoption of Copilot throughout Microsoft's suite of productivity products. Investors also want further clarity that the company's large investments in data centers and AI technology are generating attractive returns.Bernstein's Mark Moerdler reiterated a Buy rating with a price target of $646. Benchmark analyst Yi Fu Lee also maintained a Buy rating with a target of $525.Microsoft shares have plummeted 21% this year amid fears over spending and potential disruption to traditional software businesses. Investors will now be watching Azure performance, Copilot uptake and management's outlook for fiscal 2027.",
+      "Language": "en"
+    },
     {
       "Ticker": "SNDK",
       "Date": "2026-07-28",
@@ -13,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMZN",
+      "Date": "2026-07-28",
+      "Time": "05:12:28",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon.com's Next Earnings Report on July 30 Could Sink the Stock. Here's Why.",
+      "URL": "https://finance.yahoo.com/m/ba9abd2e-0fd7-39b8-a4d1-129747f51bf2/amazon.com%27s-next-earnings.html",
+      "Content": "The most interesting thing about Amazon (NASDAQ:AMZN) and its upcoming second-quarter earnings report isn't the growth of its web-based retail store. It's not even the continued growth of Amazon Web Services, the biggest cloud computing company in the world.\n\nInstead, investors will be looking at Amazon's spending, particularly on servers, storage, and other infrastructure to build out its AI footprint. Amazon previously announced it would spend a mind-boggling $200 billion on capital expenditures this year, and all signs point to that number rising when it reports earnings after the close on July 30.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHere's why.\n\nImage source: Amazon.\n\nWall Street is focused on AI spending\n\nWe are deep in earnings season, and one of the major themes so far has been spending by big tech stocks -- and the market's negative reaction to that. Alphabet' s (NASDAQ:GOOG) (NASDAQ:GOOGL) second-quarter report on July 22 showed that it grew revenue by 24% to $119.79 billion, and its Google Cloud revenue jumped by 82% to $24.76 billion. But investors fixated on Alphabet's announcement that it would increase its capex from $185 billion to $200 billion, which would match Amazon's own plans. Alphabet stock fell 6% on the news.\n\nThen there's Tesla (NASDAQ:TSLA), another member of the Magnificent Seven grouping. Tesla doesn't have a cloud computing business. Still, it is investing heavily in AI to develop and train AI models for its Optimus robots and full self-driving technology. Tesla also reported a big revenue spike in its Q2 earnings, up 26% year over year to $28.23 billion. But the company's operating margins shrank to just 1.4%, adjusted earnings of $0.33 were far below expectations, and the company reported negative free cash flow of $1.1 billion in the quarter.\n\nTesla's chief financial officer, Vaibhav Taneja, told analysts that the free cash flow shortfall was because the company's capex more than doubled sequentially in the quarter, and would continue to grow in the second half of the year and through 2028. The company projected capex of $25 billion this year and announced plans to borrow up to $30 billion.\n\nYou can guess what happened next. The market shrugged off the revenue jump and focused on the shrinking margins, negative cash flow, and borrowing plans. Tesla's stock has fallen more than 20% since its earnings report last week.\n\nStory Continues\n\nWhat to expect from Amazon's earnings report\n\nAmazon has had an up-and-down year, and the stock is just above water so far. But it's far from immune to the challenges facing big tech right now, and Amazon stock already dropped 5% in the last week following the Alphabet and Tesla reports.\n\nThe best thing about Amazon for the last several years has been Amazon Web Services (AWS). Amazon has the largest share of the global cloud computing market at 28%, and it's been investing heavily as companies increasingly turn to cloud environments to train and run AI programs.\n\nAWS generated $37.58 billion in sales in the first quarter, up 28% from a year ago. Operating income from AWS was $14.16 billion -- 59% of the entire company's operating income.\n\nInvestors will want to see how Amazon improved, but the biggest questions will come from Amazon's guidance, and whether the company raises its capex budget -- and by how much. CEO Andy Jassy has said Amazon will be a \"meaningful leader\" in AI. \"We're not investing approximately $200 billion in capex in 2026 on a hunch,\" he said in April.\n\nTesla and Alphabet's reports are important clues that AI spending is accelerating, not decreasing. There's more evidence in the strong earnings reports of Taiwan Semiconductor Manufacturing , the world's largest chip foundry, and ASML , which makes machines to create chips. Both companies recently raised their full-year guidance due to strong demand for AI infrastructure.\n\nYou also have the evidence from memory and storage companies, such as Western Digital , Sandisk , and Micron Technology , that are seeing huge increases in storage and memory products from data centers.\n\nWhen you put all these data points together, you can make a reasonable hypothesis that Amazon will likely increase its capex again. Add that to another data point -- Amazon will likely see negative free cash flow (FCF) this quarter, as its trailing 12-month FCF fell to $1.2 billion in Q1, down 95% from a year ago.\n\nAny combination of Amazon raising capex, showing negative free cash flow, or taking on new debt -- could pressure the stock. If all three happen, as they did with Tesla -- then Amazon shareholders could have a very rough day.",
+      "Language": "en"
+    },
+    {
       "Ticker": "INTC",
       "Date": "2026-07-28",
       "Time": "04:58:34",
@@ -20,6 +40,16 @@
       "Title": "Intel's Server Pricing Power Shows Sharp Improvement",
       "URL": "https://finance.yahoo.com/technology/ai/articles/intels-server-pricing-power-shows-205834007.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel's ( NASDAQ:INTC ) latest regulatory filing suggests its data centre business is benefiting from sharply higher server prices and stronger gross margins, according to Wells Fargo.\n\nThe chipmaker's Data Center and AI revenue rose 59% year over year in the second quarter, driven mainly by server growth. Xeon CPU shipments increased 9%, while average selling prices jumped 48% as Intel sold a richer mix of premium processors and implemented some demand-based pricing.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe filing also showed $951 million in other data centre revenue, up from $304 million a year earlier. Intel separately said its ASIC revenue nearly tripled year over year and rose 20% from the previous quarter.\n\nWells Fargo analyst Aaron Rakers estimated the unit generated a 56% gross margin, about 840 basis points better than in the first quarter. Data centre operating income reached $1.84 billion, helped by roughly $1.7 billion in higher profits tied largely to server revenue.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-28",
+      "Time": "04:53:09",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Files for 5,000 Satellites to Challenge SpaceX",
+      "URL": "https://finance.yahoo.com/technology/articles/amazon-files-5-000-satellites-205309426.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) has filed with the Federal Communications Commission for permission to deploy more than 5,000 satellites by 2028, a direct-to-device constellation that would carry voice, messaging, data and emergency services to phones beyond the reach of conventional networks. Shares were down 0.24% intraday.\n\nCost is the open question. Ben Harwood at New Street Research put deployment at around $13 billion to $20 billion, assuming a design broadly in line with peers and launches handled largely by Blue Origin, Jeff Bezos's rocket company. Amazon says it will use spectrum acquired through its $11.6 billion purchase of Globalstar.\n\nThis is an effort to compete with SpaceX's ( NASDAQ:SPCX ) Starlink. SpaceX has signed partnerships with T-Mobile US ( NASDAQ:TMUS ) and Virgin Media O2 in the UK, and Starlink operates across more than 150 countries. Amazon has over 390 satellites in orbit for broadband against SpaceX's 10,000-plus, and its rollout has slipped enough that the FCC granted an extension in June on a roughly 1,600-satellite deadline falling this month. AST SpaceMobile ( NASDAQ:ASTS ), partnered with Vodafone ( NASDAQ:VOD ), is also chasing the same market.",
       "Language": "en"
     },
     {
