@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T17:15:21.010Z",
-  "total_news_count": 323,
+  "last_updated": "2026-07-28T17:21:30.696Z",
+  "total_news_count": 324,
   "news": [
     {
       "Ticker": "AAPL",
@@ -93,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMAT",
+      "Ticker": "CSCO, AMAT",
       "Date": "2026-07-28",
       "Time": "23:50:00",
       "Source": "Yahoo Finance",
@@ -183,7 +183,17 @@
       "Keywords": "earnings preview, delivery numbers, sales guidance, GAAP loss, capital raise, share dilution"
     },
     {
-      "Ticker": "ADI",
+      "Ticker": "STM",
+      "Date": "2026-07-28",
+      "Time": "23:24:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can STM Turn AI Data Centers Into a $2 Billion Business by 2027?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/stm-turn-ai-data-centers-152400228.html",
+      "Content": "STMicroelectronics N.V. STM is rapidly emerging as an important semiconductor supplier to the AI data center ecosystem. After delivering stronger-than-expected second-quarter 2026 results, management raised its outlook for the business, projecting AI data center revenues to exceed $1 billion in 2026 and climb well above $2 billion in 2027. The upgrade reflects accelerating customer demand, expanding design wins and growing confidence in STM's manufacturing capabilities.\n\nThe company's momentum is being fueled by the explosive adoption of AI infrastructure, particularly high-speed optical connectivity. STM is benefiting from rising demand for 800G and 1.6-terabit optical transceivers, where it supplies microcontrollers, electronic ICs and silicon photonics solutions. Management also highlighted growing opportunities in power management products for AI servers, with an expanding pipeline of design wins in both high-voltage and low-voltage power devices. The company expects optical connectivity to remain the primary growth engine while power products become an increasingly meaningful contributor.\n\nImportantly, STM believes it has the manufacturing capacity to support this expansion. The company said the advanced 300-millimeter production lines and silicon photonics platform provide enough scalability to meet customer commitments, while backlog visibility and customer engagements already cover its expectations for next year. AI-related products are also expected to improve product mix and support higher gross margins over time.\n\nExecution, however, remains critical. Ongoing factory restructuring, technology migration and temporary manufacturing costs could weigh on profitability in the near term. Even so, with strong customer demand, expanding AI design wins and differentiated technologies in optical interconnect and power management, STM appears well positioned to transform AI data centers into a multibillion-dollar business by 2027 if it successfully delivers on the production roadmap.\n\nAI Data Center Race: How STM Stacks Up Against Broadcom and Marvell\n\nSTMicroelectronics is rapidly expanding its AI data center presence. It competes with established players like Broadcom AVGO and Marvell Technology MRVL. Broadcom remains the industry leader in AI networking and custom AI chips, benefiting from its dominant position in Ethernet switching, optical networking and custom silicon for hyperscale cloud providers. Its broad product portfolio and deep relationships with major AI infrastructure customers give Broadcom a significant competitive advantage as AI data center spending accelerates.\n\nStory Continues\n\nMarvell is another formidable rival, with a strong focus on high-speed optical interconnect, custom AI accelerators and data center connectivity. The company has secured multiple hyperscale customers and continues to benefit from rising adoption of 800G and 1.6T optical networking solutions.\n\nHowever, STM is carving out a differentiated position through its expertise in silicon photonics, microcontrollers and power management solutions rather than competing directly in AI GPUs or networking chips. If management executes on its expanding design-win pipeline and manufacturing roadmap, STM could emerge as an important supplier to the AI infrastructure market while complementing, rather than directly replacing, the offerings of larger AI semiconductor players.\n\nSTM Stock's Price Performance & Valuation Trend\n\nShares of this multinational semiconductor and electronics company soared 86.7% in the past six months, significantly outperforming the Zacks Semiconductor - General industry, the broader Zacks Computer and Technology sector and the S&P 500 index.\n\nPrice Performance\n\nImage Source: Zacks Investment Research\n\nSTM stock is currently trading at a premium compared with the industry peers, with a forward 12-month price-to-earnings (P/E) ratio of 25.77, as evidenced by the chart below.\n\nP/E (F12M)\n\nEPS Trend of STMicroelectronics\n\nSTM's earnings estimates for 2026 and 2027 have moved downward in the past 30 days to $1.22 and $2.71 per share, respectively. Still, the revised estimates for 2026 and 2027 imply a significant year-over-year surge of 130.2% and 121.9%, respectively.\n\nSTMicroelectronics currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "CSCO, ADI",
       "Date": "2026-07-28",
       "Time": "23:13:00",
       "Source": "Yahoo Finance",
