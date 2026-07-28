@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-28T11:03:02.006Z",
-  "total_news_count": 226,
+  "last_updated": "2026-07-28T11:15:09.107Z",
+  "total_news_count": 227,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-28",
+      "Time": "19:04:00",
+      "Source": "Yahoo Finance",
+      "Title": "Will this be the quarter Big Tech breaks out?",
+      "URL": "https://finance.yahoo.com/technology/articles/quarter-big-tech-breaks-110400859.html",
+      "Content": "Investing.com -- Just one of five mega cap technology companies that reported earnings this quarter managed to outperform the S&P 500 the following day, which warns that the pattern is likely to persist as AI capital expenditure anxiety continues to overshadow otherwise solid results.\n\nMeta and Microsoft are scheduled to report second-quarter results on Wednesday, followed by Apple and Amazon on Thursday. Wall Street's consensus expectations set a clear bar for what \"beating\" actually requires.\n\nFor Meta, analysts are modeling approximately $5.78 in EPS on revenue near $42.3 billion. Microsoft consensus sits at roughly $3.10 EPS on revenue of about $73.0 billion.\n\nApple is expected to post EPS of around $1.43 on revenue of approximately $89.5 billion. Amazon's consensus calls for EPS near $1.31 on revenue of roughly $187.0 billion.\n\n\"Fundamental results are taking a backseat to worries surrounding the AI spending theme,\" Wolfe Research analysts said, arguing that even companies posting strong numbers are being penalized — or simply ignored — because investors remain fixated on how much these businesses are committing to AI infrastructure and what that means for near-term profitability and free cash flow.\n\nAlphabet and Intel served as the most recent examples. Wolfe Research characterized both companies' results as \"very solid but largely ignored by investors as the focus shifted to higher oil prices pushing up Fed rate hike expectations.\"\n\nIn practice, that indifference was measurable: Alphabet shares moved less than 1% on their earnings day versus an S&P 500 that was essentially flat, while Intel edged fractionally higher in a session where the index also barely moved, outperformance, in other words, that amounted to near-zero in absolute terms.\n\nThat macro distraction compounded the AI capex anxiety already weighing on the group, leaving share prices unmoved despite what the firm considered strong underlying performance.\n\n\"Although these companies offer outsized growth at reasonable valuations, investor worries over cap-ex need to abate before these stocks are rewarded for their quarterly results.\"\n\nIn Wolfe's view, the issue is not that the fundamentals are deteriorating, it is that the market's attention has been captured by a different variable entirely.\n\nThis creates an unusual setup heading into the heaviest week of mega cap tech reporting. Under normal conditions, a company delivering above-consensus revenue and earnings growth would expect a meaningful post-earnings lift.\n\nStory Continues\n\nWolfe Research's data point, only one outperformer out of five this cycle, suggests that threshold has effectively been suspended until investor sentiment on AI spending shifts.\n\nWhat would it take to break the pattern? Wolfe Research does not specify a capex figure or guidance threshold that would satisfy the market, but the implication is that companies telegraphing discipline around AI infrastructure spending, or offering clearer returns-on-investment timelines, may have a better chance of being rewarded.\n\nFor now, the firm's message is that quality earnings alone are insufficient.\n\nWill this be the quarter Big Tech breaks out?\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-28",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-07-28",
       "Time": "18:10:00",
       "Source": "Yahoo Finance",
@@ -223,7 +233,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, AMZN",
+      "Ticker": "AAPL, MSFT, AMZN",
       "Date": "2026-07-28",
       "Time": "17:13:00",
       "Source": "Yahoo Finance",
