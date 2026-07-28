@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-28T21:00:53.339Z",
-  "total_news_count": 385,
+  "last_updated": "2026-07-28T21:15:30.885Z",
+  "total_news_count": 388,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-29",
+      "Time": "04:50:17",
+      "Source": "Yahoo Finance",
+      "Title": "US stocks mixed ahead key tech earnings, Fed",
+      "URL": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
+      "Content": "By Karen Brettell and Sruthi Shankar\n\nJuly 28 (Reuters) - U.S. stocks were mixed on Tuesday ahead of key corporate earnings releases and the Federal Reserve's highly anticipated interest rate decision on Wednesday.\n\nWorld stocks had earlier fallen to a one-month low as investors dumped chipmakers on concerns about Chinese ‌competition and the funding of the AI boom, but pared the drop during New York trading hours.\n\nGains in Boeing and Coca-Cola helped offset tumbling chip ‌stocks ahead of quarterly reports from Apple and other tech companies this week, though the tech-heavy Nasdaq Composite ended lower on the day.\n\n\"What has been behind the move into these non-tech names? Part of it ​is value,\" said Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky. \"GDP is solid, the labor market continues to churn along and, in a lot of places, there's evidence that consumer spending is reaccelerating.\"\n\nThe Dow Jones Industrial Average rose 1.03% to 52,747.53, the S&P 500 gained 0.22% to 7,429.22 and the Nasdaq Composite fell 0.22% to 24,876.91.\n\nAsian chipmakers were at the heart of Tuesday's earlier selloff, with South Korea's KOSPI diving more than 10% to a three-month low, triggering a circuit breaker on the way down as it heads for ‌its largest monthly fall on record, surpassing declines suffered during ⁠the Asian financial crisis in 1997.\n\nThe index more than tripled in value over the 12 months to June, but has since shed more than a third of its value from that peak.\n\nThe MSCI All Country World Price Index fell 0.33% to 1104, after earlier ⁠dropping to 1098, its lowest since June 26.\n\nAfter a stellar rally this year, AI-linked stocks have been met with several bouts of selling in recent weeks as investors worry about stretched valuations and circular funding in the sector.\n\nThe latest rout followed a report that China had begun manufacturing domestically developed immersion deep ultraviolet (DUV) lithography machines, while Chinese chipmaker CXMT's strong stock-market debut on Monday ​fuelled ​concerns about increased competition in the memory chip industry.\n\n\"There are concerns about the cost and the ​degree of leverage that needs to be taken on,\" said Dorian ‌Carrell, head of multi-asset income at Schroders. \"Now we're seeing questions over the profitability of the semiconductor space, particularly in Asia,\" he added.\n\nEarnings this week from \"Magnificent Seven\" members Microsoft, Amazon.com, Meta and Apple will be a key test of the market rally, particularly after Alphabet and Tesla spooked investors last week with negative cash flow reports.\n\nStory Continues\n\nOIL SLIDES, U.S. RATE MOVE EYED\n\nA continued drop in oil prices and Treasury yields helped ease some nerves ahead of the Fed's rate decision that will come at the conclusion of its two-day meeting on Wednesday.\n\nA surge in oil prices last week, driven by renewed fighting in the U.S.-Iran conflict, had raised expectations of a possible rate hike as policymakers grapple ‌with inflation that remains stubbornly above the Fed's 2% annual target.\n\n\"Higher oil prices driven by Middle ​East tensions have increased inflation risks and strengthened the case for a rate hike, but we think ​more evidence is needed to win majority support,\" Oscar Munoz, head of U.S. ​economics at TD Securities, wrote in a note.\n\nOil has weakened this week following Washington's abrupt suspension of airstrikes on Iran on Saturday. ‌Oman has presented Iran with a plan backed by Gulf states ​to manage the Strait of Hormuz, including collecting ​voluntary fees for using it, a Gulf source and a Western diplomat told Reuters on Tuesday.\n\nFed funds futures are pricing in a 32% chance of a hike on Wednesday, down from 38% on Monday.\n\nU.S. crude fell 4.14% to $79.16 a barrel and Brent fell to $83.93 per barrel, down 5.01% on the day.\n\nThe yield on benchmark U.S. 10-year notes fell 3.88 basis points to 4.602%, from 4.641% ​late on Monday.\n\nAgainst the dollar, the euro gained 0.18% to $1.1387.\n\nThe Japanese ‌yen weakened 0.07% to 163.85 per dollar, barely above a four-decade low, with markets on edge about Japan intervening in the currency pair — particularly ​if the Bank of Japan leaves rates on hold this week and sets off another yen slide.\n\n(Reporting by Karen Brettell, Noel Randewich, Tom Westbrook, ​Ankur Banerjee and Sruthi Shankar; Editing by Nick Zieminski, Nia Williams and Aurora Ellis)",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-07-29",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, AMZN",
+      "Ticker": "AAPL, MSFT, AMZN",
       "Date": "2026-07-29",
       "Time": "04:24:08",
       "Source": "Yahoo Finance",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-29",
       "Time": "04:20:00",
       "Source": "Yahoo Finance",
@@ -60,6 +70,26 @@
       "Title": "AMD's Core Scientific Deal Hints at AI's Next Race",
       "URL": "https://finance.yahoo.com/technology/ai/articles/amds-core-scientific-deal-hints-201731172.html",
       "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices ( NASDAQ:AMD ) secured 500MW of AI data center capacity in a partnership with Core Scientific ( NASDAQ:CORZ ) announced Tuesday. The deal starts next year and can expand to 2.5GW.\n\nAMD designs high performance CPUs, GPUs and AI chips for data centers, cloud providers and enterprises. Core Scientific operates large scale data centers and has pivoted from Bitcoin mining to AI colocation, where it now gets 77% of revenue. The agreement is valued at more than $14 billion in potential contracted revenue for Core Scientific.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AMD fairly valued? Test your thesis with our free DCF calculator.\n\nUnder the terms, AMD will get access to power, land, and infrastructure to deploy its Instinct GPUs, EPYC CPUs, and ROCm software. The companies will also collaborate on physical design of the facilities. As part of the deal AMD will receive market-priced warrants to buy Core Scientific stock subject to certain conditions. Core Scientific CEO Adam Sullivan said the company's execution record positions it to support AMD's technology roadmap.\n\nAMD executive Mathew Hein said trusted infrastructure partners are critical as AI deployments accelerate.\n\nShares reacted in opposite directions. Core Scientific jumped 11.2% in premarket trading while AMD fell 4.7% amid broader chip weakness. For investors the deal highlights a shift in AI spending from chips alone to power and infrastructure. Investors will watch if AMD can fill the capacity before 2027.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-29",
+      "Time": "04:17:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Reaches Rare Market Value Milestone",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-reaches-rare-market-value-201700305.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) briefly crossed a $5 trillion market valuation on Tuesday, becoming only the second publicly traded company to reach the milestone.\n\nThe iPhone maker hit the mark less than a year after surpassing $4 trillion in October 2025. Shares are up roughly 24% this year and nearly 60% over the past 12 months, supported by resilient iPhone demand despite Apple's slower progress in generative AI.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMD.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThat gap remains one of the biggest questions hanging over the stock. Apple delayed several flagship Apple Intelligence features, including an upgraded Siri, and later partnered with Google's Gemini models to strengthen its voice assistant. The revamped Siri is expected to enter beta later this year alongside the iPhone 18 lineup and Apple's first foldable iPhone.\n\nThe valuation milestone also arrives ahead of a major leadership change, with Tim Cook set to hand the CEO role to John Ternus on September 1.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-29",
+      "Time": "04:14:24",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's $5 Trillion Moment Comes at a Turning Point",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apples-5-trillion-moment-comes-201424855.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ), the consumer technology company, briefly crossed a $5 trillion market value as investors continued to reward its hardware strength despite concerns about its artificial intelligence strategy.\n\nWarning! GuruFocus has detected 3 Warning Signs with BA.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe milestone came less than a year after Apple passed $4 trillion in October 2025. Its shares have gained about 24% this year and nearly 60% over the past 12 months, supported by resilient iPhone demand.\n\nApple has moved more slowly than several technology rivals in generative AI. The company delayed major Apple Intelligence features, including an upgraded Siri, and later partnered with Google to use Gemini models for the voice assistant.\n\nThe redesigned Siri is expected to enter beta later this year alongside the iPhone 18 lineup and Apple's first foldable iPhone.\n\nThe valuation milestone also comes before a major leadership transition. CEO Tim Cook is expected to hand control to John Ternus on Sept. 1.\n\nApple is also facing higher memory and storage costs, which have contributed to price increases for some Mac and iPad products.\n\nInvestors will now watch whether new devices, AI features and the leadership transition can support Apple's valuation.",
       "Language": "en"
     },
     {
