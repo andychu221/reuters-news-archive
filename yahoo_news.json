@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-29T18:15:05.933Z",
-  "total_news_count": 695,
+  "last_updated": "2026-07-29T18:18:27.234Z",
+  "total_news_count": 698,
   "news": [
+    {
+      "Ticker": "000660.KS",
+      "Date": "2026-07-30",
+      "Time": "02:12:44",
+      "Source": "Yahoo Finance",
+      "Title": "SK Hynix Stock Falls 9.6% as Record Profit Disappoints",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-stock-falls-9-181244867.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSK Hynix ( HXSCL ), a South Korean semiconductor manufacturer supplying advanced memory products to NVIDIA ( NASDAQ:NVDA ), fell 9.6% in Wednesday's Seoul trading after record quarterly operating profit missed analysts' expectations. The stock dropped nearly 20% earlier in the session before recovering part of the decline. Operating profit increased more than sixfold as demand for high-bandwidth memory used in AI computing remained strong.\n\nWarning! GuruFocus has detected 1 Warning Sign with HXSCL.\n\nIs HXSCL fairly valued? Test your thesis with our free DCF calculator.\n\nShipment delays involving some advanced products restricted price increases for SK Hynix's DRAM chips. The company disclosed approximately 10 long-term supply agreements designed to reduce exposure to volatile semiconductor-demand cycles. Analysts warned that these contracts could restrict potential gains if memory prices continue increasing. Investors were also disappointed that management did not provide detailed plans for distributing more of the AI boom's financial benefits through shareholder returns.\n\nSK Hynix shares have lost more than half their value since reaching a record high last month, although they remain approximately 115% higher during 2026. The company's decline contributed to a 6% fall in South Korea's KOSPI index after the benchmark dropped as much as 12.6%. The contrast between sixfold profit growth and a 9.6% stock decline suggests that investor expectations had risen faster than reported earnings. Future attention may center on advanced-product shipment execution, the pricing terms attached to long-term contracts and whether large technology customers maintain planned AI infrastructure expenditure.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "005930.KS, 000660.KS",
+      "Date": "2026-07-30",
+      "Time": "02:11:59",
+      "Source": "Yahoo Finance",
+      "Title": "Samsung Stock Drops 5.2% as Leveraged AI Trade Unwinds",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/samsung-stock-drops-5-2-181159910.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSamsung Electronics ( SSNLF ), a South Korean producer of semiconductors, smartphones and electronic products, dropped 5.2% in Wednesday's Seoul trading after falling as much as 14% during a broader unwinding of leveraged AI-related investments. SK Hynix ( HXSCL ), another major South Korean memory manufacturer, closed 9.6% lower after record earnings missed expectations. Together, Samsung and SK Hynix represent more than half of the KOSPI's market value.\n\nWarning! GuruFocus has detected 3 Warning Signs with SSNLF.\n\nIs SSNLF fairly valued? Test your thesis with our free DCF calculator.\n\nThe KOSPI declined as much as 12.6%, triggering a 20-minute trading halt, before closing 6% lower. Reuters reported that retail investors had used borrowed money and single-stock leveraged exchange-traded funds to increase exposure to the country's semiconductor rally. As share prices declined, brokers forcibly closed some losing positions, adding to the selling. South Korea's finance minister and top financial regulator apologized for introducing the leveraged products without sufficient consideration.\n\nThe government plans additional restrictions that could limit an individual investor's exposure to single-stock leveraged ETFs to 20% of total investment assets. Samsung's 5.2% closing decline was substantially smaller than its 14% intraday loss, but the volatility demonstrates how forced deleveraging may temporarily overwhelm company-specific fundamentals. Investors may now assess whether regulatory measures stabilize the market and whether concerns about AI investment, memory supply and Chinese competition continue affecting Samsung after leveraged positions are reduced.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "005930.KS, 000660.KS",
+      "Date": "2026-07-30",
+      "Time": "02:09:16",
+      "Source": "Yahoo Finance",
+      "Title": "Why Micron Stock Dropped Again Today",
+      "URL": "https://finance.yahoo.com/m/e794410f-637d-3a85-b265-492c5dd84197/why-micron-stock-dropped.html",
+      "Content": "Micron (NASDAQ: MU) stock declined another 6% through 1:30 p.m. ET Wednesday, as new news from South Korea spooked investors in semiconductor stocks :\n\nKorea is curbing investments in leveraged exchange-traded funds (ETFs).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nRisk and reward\n\nThe funds in question invest in single stocks and use financial engineering to magnify the returns on those stocks as they trade up and down.\n\nThat was all fun and games when semiconductor stocks -- and particularly Korean stocks specializing in manufacturing computer memory -- were mostly going up. Now that SK Hynix (NASDAQ: SKHY), Samsung, and others have rediscovered the law of gravity, Korea is suffering a market rout -- and taking measures to prevent individual investors from losing even more money.\n\nFinance Minister Koo Yun-cheol says Korea will limit retail investment in leveraged ETFs, including by increasing trading costs and capping the percentage of an investor's total portfolio invested in such products. Specific details on the measures to be put in place have not yet been decided, however.\n\nWhat this means for Micron\n\nThe Korean ETFs in question do not invest directly in Micron -- SK Hynix and Samsung being the more popular artificial intelligence chip plays locally. But Korea's move could have an indirect effect on Micron.\n\nBy making it harder and more expensive to invest in SK Hynix and Samsung, for example, Korea's actions may depress the share prices of these two stocks, making them look cheaper. When compared to them, competitor Micron stock may start to look relatively expensive -- which could deter U.S. investors from investing in it . As demand for Micron declines, Micron's stock price would logically begin to fall.\n\nIn fact, it already is doing just that.",
+      "Language": "en"
+    },
     {
       "Ticker": "QCOM",
       "Date": "2026-07-30",
