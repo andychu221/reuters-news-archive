@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-29T17:32:33.133Z",
-  "total_news_count": 685,
+  "last_updated": "2026-07-29T17:40:39.719Z",
+  "total_news_count": 687,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-30",
+      "Time": "01:19:52",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Platforms CEO Makes Unexpected Call in AI Race",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-ceo-makes-unexpected-171952071.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) CEO Mark Zuckerberg is pushing Washington to compete with Chinese artificial-intelligence developers rather than block their models, a stance that supports Meta's open AI strategy but could expose U.S. technology companies to faster-moving, lower-cost competition.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nZuckerberg told the Financial Times that banning cutting-edge Chinese AI would not be an effective solution. He argued that U.S. companies should systematically identify bottlenecks and roadblocks instead, as Washington weighs penalties against Chinese developers accused of misusing American technology.\n\nThe intervention follows Moonshot AI's release of Kimi K3 , which has intensified debate over how quickly China is narrowing the AI gap. Moonshot's technical paper describes K3 as a 2.8-trillion-parameter mixture-of-experts model with 104 billion active parameters and a 1-million-token context window. The company released the model weights, potentially allowing developers to inspect, adapt and deploy the system more broadly.\n\nThat creates a strategic tension for Meta. Open access can accelerate innovation, expand the developer ecosystem and reduce dependence on closed-model providers. It can also make capable Chinese systems more accessible to U.S. developers and increase pressure on Meta to keep improving performance while absorbing enormous infrastructure costs.\n\nZuckerberg's comments came as the Trump administration unveiled restrictions targeting imports of new Chinese robots and power inverters. Treasury Secretary Scott Bessent has separately warned that Chinese companies could face financial sanctions or placement on the Commerce Department's Entity List.\n\nInvestor takeaway on Meta stock\n\nMeta reports second-quarter results after Wednesday's close. Management previously guided to revenue of $58 billion to $61 billion and raised 2026 capital-spending guidance to $125 billion to $145 billion. First-quarter capital expenditures reached $19.84 billion.\n\nInvestors should watch whether Meta can connect that spending to stronger advertising performance, engagement and commercially useful AI products. Evidence that open models improve recommendations and lower development costs would support Zuckerberg's strategy. Faster Chinese progress, tighter U.S. controls or another spending increase without clearer returns would deepen concerns that Meta is funding an increasingly expensive technological race.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-30",
+      "Time": "00:38:49",
+      "Source": "Yahoo Finance",
+      "Title": "Exclusive-US FTC suing Hims & Hers for sending user health info to Meta, Snap",
+      "URL": "https://finance.yahoo.com/healthcare/articles/exclusive-us-ftc-suing-hims-163849263.html",
+      "Content": "By Jody Godoy\n\nJuly 29 (Reuters) - The U.S. Federal Trade Commission is suing Hims & Hers ‌alleging the telehealth platform shared users' health ‌data with online advertisers despite promising privacy and engaged in ​deceptive billing and cancellation practices, an FTC spokesperson said.\n\nHims & Hers is one of the largest telehealth players in the market for weight loss drugs. The ‌company offers telehealth ⁠appointments and prescriptions for erectile dysfunction, hair loss, and mental health medications, ⁠which it ships straight to customers.\n\nMore from Yahoo Scout\n\nWhat telehealth services does Hims & Hers provide?\n\nHow does Hims handle billing and subscription cancellations?\n\nWhat privacy violations is the FTC alleging against Hims?\n\nWhich government agencies are joining the FTC lawsuit?\n\nUsers' sensitive health information was shared with online advertising companies including ​Meta Platforms ​and Snap, via their ​interactions with Hims' ‌website and through tracking technologies, the FTC plans to allege in the lawsuit being filed along with Los Angeles County and Utah.\n\nHims & Hers also starts charging users for prescriptions before they have had ‌a chance to meet with ​healthcare providers, the spokesperson ​said.\n\nMost customers do ​not receive a consultation with a ‌provider, and instead are charged ​for prescriptions ​soon after filling out an intake form, according to the agency. Hims & Hers also makes ​it difficult ‌to cancel subscriptions, the FTC plans to ​allege.\n\n(Reporting by Jody Godoy in New York; ​Editing by Chizu Nomiyama)",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-07-30",
