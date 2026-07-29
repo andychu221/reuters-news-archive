@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-29T11:38:03.301Z",
-  "total_news_count": 572,
+  "last_updated": "2026-07-29T11:40:28.714Z",
+  "total_news_count": 573,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-29",
+      "Time": "19:31:00",
+      "Source": "Yahoo Finance",
+      "Title": "Prediction: Amazon's Earnings Report Shows That AWS Growth Accelerates",
+      "URL": "https://finance.yahoo.com/m/672fed4b-52e4-3fc0-a87a-0ab022a19f5b/prediction%3A-amazon%27s-earnings.html",
+      "Content": "Amazon (NASDAQ: AMZN) is set to report its second-quarter earnings on Thursday, July 30, and expectations are high, especially for the AWS cloud services business. For example, analysts at Bank of America recently raised their AWS growth forecast to 33% year-over-year, specifically calling out demand from Anthropic and OpenAI workloads.\n\nThis would be a significant acceleration from the 28% growth rate the commerce and tech giant reported in the first quarter and would likely be taken as a positive sign by investors. But I'm going to make the bold prediction that even these lofty expectations aren't enough -- in fact, I predict that AWS revenue growth could come in at 35% or more.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAmazon's second-quarter earnings: What the market expects\n\nAs mentioned, Amazon reports earnings on Thursday (after the market's close), and analysts expect about $197 billion in total revenue and $1.82 in earnings per share, which would be 8% higher than a year ago.\n\nWhen it comes to AWS, expectations vary depending on who you ask, but virtually all analysts expect to see acceleration compared to the first quarter. Most reputable analyst forecasts expect AWS revenue growth in the 31%-33% range.\n\nSo, why am I predicting an even better number? For one thing, I agree that the demand from Anthropic and OpenAI is likely to be a big driver of second-quarter growth. And AWS revenue growth has already been accelerating -- in fact, the 28% revenue growth rate AWS posted in the first quarter was the fastest in nearly four years.\n\nThe most important number isn't AWS top line growth\n\nDon't get me wrong. If AWS posts a blowout number, it could make or break the market's reaction to Amazon's earnings report. But the AWS growth all by itself isn't the full story -- it's how efficiently Amazon is spending its money to achieve said growth.\n\nIn February, Amazon CEO Andy Jassy guided for $200 billion in capex for 2026, most of which will be spent on AI infrastructure. And while Amazon can certainly afford to spend this money, the big question on investors' minds has been whether it will produce an adequate return for the company. In other words, will the growth (and profits) that Amazon produces justify such a large price tag?\n\nTo put it mildly, accelerating AWS growth would be a big step in the right direction, showing investors that the juice is worth the squeeze. And if AWS can report better-than-expected growth without an alarming increase in projected capex, it would be even better. But when the earnings report is released, it will be important to pay close attention to AWS's growth and the cost of that growth .\n\nStory Continues",
+      "Language": "en"
+    },
     {
       "Ticker": "MRVL",
       "Date": "2026-07-29",
@@ -73,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSLA, NVDA",
+      "Ticker": "GOOGL, AMZN, AAPL, TSLA, NVDA",
       "Date": "2026-07-29",
       "Time": "18:35:00",
       "Source": "Yahoo Finance",
