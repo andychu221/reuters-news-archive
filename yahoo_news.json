@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-29T21:32:42.519Z",
-  "total_news_count": 747,
+  "last_updated": "2026-07-29T21:40:32.563Z",
+  "total_news_count": 751,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-07-30",
+      "Time": "05:14:06",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Adds a Surprising Twist to Waymo Rides",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/alphabet-adds-surprising-twist-waymo-211406415.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOG ) Waymo is integrating Gemini into its new Ojai robotaxi, turning Google's AI assistant into an in-vehicle interface as the company seeks to differentiate its autonomous service through comfort and personalisation rather than driving technology alone.\n\nWarning! GuruFocus has detected 2 Warning Signs with SOFI.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nThe update allows passengers to use Gemini to adjust cabin temperature, obtain information about their journey and discover nearby restaurants, landmarks and attractions. Waymo also introduced a redesigned interface with three independently operating screens, allowing multiple riders to control different parts of the experience simultaneously.\n\nLeveraging the power of Gemini's live assistant, riders have more control over their ride, and a wealth of knowledge is just a query away, Waymo said on its Waypoint blog.\n\nThe integration matters because Waymo's next stage requires more than proving that autonomous vehicles can navigate safely. It must increase utilisation, encourage repeat bookings and make driverless travel compelling enough to compete with Uber, Lyft and emerging robotaxi rivals.\n\nOjai, Waymo's purpose-built sixth-generation vehicle, began carrying select riders in San Francisco, Los Angeles and Phoenix in May. Its spacious cabin, low step-in height and sliding doors are designed around passengers rather than a human driver. Waymo is also preparing fully autonomous operations in San Diego, Las Vegas, Denver and Tampa.\n\nInvestor Takeaway On Google Stock\n\nWaymo surpassed 500,000 fully autonomous rides per week during the first quarter, doubling volume in less than a year. However, Alphabet's Other Bets segment, which includes Waymo, generated only $382 million of second-quarter revenue while posting a $1.8 billion operating loss.\n\nInvestors should watch ride growth, fleet utilisation and whether Ojai expands beyond limited rider access into paid service at scale. Gemini could strengthen customer loyalty and eventually support commerce or premium features, but those opportunities remain unproven.\n\nFaster city launches and rising rides per vehicle would improve the economics. Safety setbacks, regulatory delays or continued losses without measurable utilisation gains would reinforce concerns that Waymo's technological lead remains expensive to commercialise.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-30",
@@ -33,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "MSFT",
+      "Date": "2026-07-30",
+      "Time": "04:51:49",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Capex Will Be Very High Next Year, RBC's Jaluria Says",
+      "URL": "https://finance.yahoo.com/video/microsoft-capex-very-high-next-205149144.html",
+      "Content": "Rishi Jaluria, RBC Capital Markets managing director, software equity research, calls Microsoft's fourth-quarter earnings report \"fantastic\" and expects very high growth in capital expenditures next year. He speaks on \"Bloomberg The Close.\"",
+      "Language": "en"
+    },
+    {
       "Ticker": "ARM",
       "Date": "2026-07-30",
       "Time": "04:44:51",
@@ -43,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-07-30",
+      "Time": "04:43:48",
+      "Source": "Yahoo Finance",
+      "Title": "The Key Takeaways From Meta's Earnings and Lackluster Forecast",
+      "URL": "https://finance.yahoo.com/video/key-takeaways-metas-earnings-lackluster-204348701.html",
+      "Content": "Ygal Arounian, Wedbush managing director, Internet equity research, reacts to Meta Platforms Inc.'s second-quarter earnings and disappointing earnings forecast on \"Bloomberg The Close.\"",
+      "Language": "en"
+    },
+    {
       "Ticker": "QCOM",
       "Date": "2026-07-30",
       "Time": "04:40:23",
@@ -50,6 +80,16 @@
       "Title": "Qualcomm falls on weak fourth quarter earnings guidance",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-falls-weak-fourth-quarter-204023703.html",
       "Content": "SAN DIEGO - Qualcomm Inc (NASDAQ:QCOM) reported third quarter results that beat revenue expectations but missed on earnings, while issuing disappointing guidance for the current quarter that sent shares down 5%.\n\nThe chipmaker posted adjusted earnings per share of $2.21 for the third quarter ended June 28, missing the analyst consensus of $2.23 by $0.02. Revenue came in at $9.95 billion, beating the estimate of $9.67 billion but down 4% YoY from $10.37 billion in the prior year period. The company guided fourth quarter adjusted EPS of $2.05 to $2.25, with a midpoint of $2.15 that falls well below the analyst estimate of $2.35. Fourth quarter revenue guidance of $9.7 billion to $10.5 billion, with a midpoint of $10.1 billion, came in above the consensus of $9.95 billion.\n\nShares fell 5% following the announcement, driven by the weaker-than-expected earnings guidance for the fourth quarter.\n\n\"Despite a challenging memory and supply environment, our third quarter results reflect solid execution of our growth strategy, with quarterly revenues at the high end of guidance,\" said Cristiano Amon, President and CEO of Qualcomm Inc.\n\nThe company's QCT segment, which includes chips for handsets, automotive and IoT devices, generated revenue of $8.5 billion, down 5% YoY. Within QCT, handset revenue declined 20% YoY to $5.09 billion, while automotive revenue surged 61% to $1.59 billion, marking 23 consecutive quarters of double-digit YoY growth. IoT revenue increased 9% to $1.83 billion. Combined automotive and IoT revenues grew 28% YoY. The QTL licensing segment posted revenue of $1.28 billion, down 3% YoY.\n\nQualcomm cited a broad-based increase in semiconductor industry input costs across wafer fabrication, assembly, test, advanced packaging, memory and other materials. The company said it is taking actions to reflect higher input costs in product pricing.\n\nQualcomm falls on weak fourth quarter earnings guidance\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-07-30",
+      "Time": "04:40:16",
+      "Source": "Yahoo Finance",
+      "Title": "Meta sinks after Q3 revenue forecast misses Wall Street estimates",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-sinks-q3-revenue-forecast-204016360.html",
+      "Content": "Investing.com -- Meta Platforms shares tumbled 8% in after-hours trading on Wednesday after the company posted a second-quarter earnings miss and forecast third-quarter revenue below Wall Street expectations.\n\nMeta Platforms reported a 14% decline in second-quarter profit on Wednesday, sending its shares down 8% in after-hours trading as higher legal and restructuring costs outweighed strong advertising-led revenue growth.\n\nThe company reported second-quarter earnings per share of $6.18, missing analysts' estimates of $7.17, while revenue rose to $60.8 billion, topping consensus expectations of $60.19 billion. Total costs and expenses jumped 55% to $42.03 billion, including $2.4 billion of legal charges and $1.18 billion in severance costs related to its May workforce reduction.\n\nFor the third quarter, the company forecast revenue of $61 billion to $64 billion, compared with analysts' expectations of $63.24 billion, while raising the lower end of its full-year expense outlook to reflect legal charges incurred during the second quarter.\n\nMeta's results highlighted the trade-off between rapid AI investment and near-term earnings, with strong advertising growth offset by sharply higher expenses tied to legal matters, restructuring and infrastructure spending. Despite the profit decline, the company forecast another quarter of solid revenue growth.\n\nRevenue rose 28% year-over-year to $60.8 billion, supported by a 14% increase in ad impressions and a 12% rise in the average price per advertisement. Family daily active people climbed 3% to 3.60 billion in June.\n\nChief Executive Mark Zuckerberg said artificial intelligence is accelerating the company's core business, powering new products and opening up enterprise opportunities, adding that the benefits are already becoming evident.\n\nMeta spent $31.08 billion on capital expenditures during the quarter as it continued to expand AI infrastructure, while free cash flow fell sharply to $784 million from $8.55 billion a year earlier.\n\nMeta sinks after Q3 revenue forecast misses Wall Street estimates\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nNvidia's new Alpamayo project: What it means for Tesla?",
       "Language": "en"
     },
     {
@@ -73,13 +113,13 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "GOOGL, META",
       "Date": "2026-07-30",
       "Time": "04:05:15",
       "Source": "Yahoo Finance",
       "Title": "Meta's free cash flow wiped out as AI buildout grows",
       "URL": "https://finance.yahoo.com/technology/ai/articles/meta-narrows-annual-capex-forecast-200515158.html",
-      "Content": "By Katie Paul and Jaspreet Singh\n\nJuly 29 (Reuters) - Meta Platforms reported a precipitous 91% drop ‌in free cash flow on Wednesday, underscoring ‌the financial strain of the social media giant's costly AI ​buildout despite an uncertain payoff.\n\nThe company reported free cash flow of $784 million in the second quarter, down from $8.55 billion reported a year earlier.\n\nShares of the company ‌fell about 5% ⁠in extended trading.\n\nMeta's cash flow wipe-out echoed Alphabet's, which last week said it was ⁠cash flow negative for the first time ever as it spent $5.9 billion in the second quarter. The ​rate ​of spending stunned even ​the most bullish of ‌Wall Street investors, driving Alphabet's stock down.\n\nFacebook parent Meta now expects 2026 capital expenditure to be between $130 billion and $145 billion, compared with its prior forecast of $125 billion to $145 billion.\n\nThe company also raised the lower ‌end of its expense outlook ​to incorporate the $2.4 billion charges ​related to legal ​proceedings recognized in the second quarter.\n\nMeta ‌said it now expects full-year ​2026 total ​expenses to be in the range of $165 billion to $169 billion, compared with its prior forecast of $162 ​billion to $169 ‌billion.\n\n(Reporting by Katie Paul in New York ​and Jaspreet Singh in Bengaluru; Editing by Shilpi ​Majumdar and Nia Williams)",
+      "Content": "By Katie Paul and Jaspreet Singh\n\nJuly 29 (Reuters) - Meta Platforms reported a precipitous 91% drop in free cash flow on Wednesday, underscoring ‌the financial strain of the social media giant's costly AI buildout ‌despite an uncertain payoff.\n\nThe Facebook parent company reported free cash flow of $784 million in the second ​quarter, down from $8.55 billion reported a year earlier.\n\nShares of the company fell about 5% in extended trading.\n\nMeta also raised the lower end of its capital expenditure and total expenses outlooks. It now expects 2026 capital expenditure to be between $130 billion and $145 ‌billion, compared with its ⁠prior forecast of $125 billion to $145 billion.\n\nIt expects full-year 2026 total expenses to be in the range of $165 billion to $169 billion, compared ⁠with its prior forecast of $162 billion to $169 billion. The company said this incorporates $2.4 billion in charges related to legal proceedings recognized in the second quarter.\n\nMeta's cash flow ​wipeout echoed ​Alphabet's, which last week said it ​was cash flow negative for the ‌first time ever as it spent $5.9 billion in the second quarter. The rate of spending stunned even the most bullish of Wall Street investors, driving Alphabet's stock down.\n\n\"Meta is investing everything into AI capacity, and that's what has investors spooked every time earnings are announced. Meta only narrowed the low end ‌of capex guidance this time, but they're already ​spending extremely aggressively as a percent of revenue,\" ​said Luke Stillman, a managing ​director at research firm Madison and Wall.\n\n\"The underlying ad business ‌that's financing everything though is still ​performing well and is ​our main focus,\" he added.\n\nThe feverish spending by Big Tech is expected to reach well above $700 billion this year, primarily on AI, while ​Morgan Stanley has pegged ‌the estimated spend at more than $1 trillion for the next year.\n\n(Reporting by ​Katie Paul in New York and Jaspreet Singh in Bengaluru; ​Editing by Shilpi Majumdar and Nia Williams)",
       "Language": "en"
     },
     {
