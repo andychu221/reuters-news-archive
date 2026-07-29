@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-29T16:11:37.569Z",
-  "total_news_count": 668,
+  "last_updated": "2026-07-29T16:16:06.002Z",
+  "total_news_count": 669,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-29",
+      "Time": "23:55:06",
+      "Source": "Yahoo Finance",
+      "Title": "Apple says UK App Store proposal amounts to price regulation",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-says-uk-app-store-155341930.html",
+      "Content": "By Sam Tabahriti\n\nLONDON, July 29 (Reuters) - Apple said on Wednesday that proposed UK rules governing its App Store would amount to price ‌regulation, arguing that plans to loosen its control over in-app payments ‌could undermine innovation and investment.\n\nIn a submission to Britain's Competition and Markets Authority, the iPhone maker ​said proposed \"steering\" requirements would go beyond promoting competition and give the regulator a \"highly intrusive\" role in managing its business.\n\nMore from Yahoo Scout\n\nWhat is Apple's main argument against the regulations?\n\nWhat are the UK's proposed App Store regulations?\n\nWhat powers does Britain's digital markets regime provide?\n\nHow much revenue does Apple's App Store generate?\n\nThe CMA's consultation, which closed on Monday, is part of its efforts to boost competition and consumer choice. Its proposed measures ‌would allow app developers to ⁠direct users to payment options outside Apple's App Store and Google's Play Store and require any fees charged for such ⁠steering to be fair and reasonable.\n\nApple said the App Store facilitated more than £46.5 billion ($61.8 billion) in UK billings and sales in 2025, with commissions accounting for less ​than 3.5% ​of the total. It added that ​there was no evidence changes to ‌its payment model would lower prices for consumers.\n\n\"Under the (consultation), the CMA would not only regulate Apple's prices, but also restrict the products and services for which Apple can charge a commission,\" the company said in its submission.\n\nGene Burrus, global policy counsel for the Coalition for App Fairness, which has long campaigned ‌for restrictions on Apple and Google app ​store practices, said Apple's arguments overlooked the barriers ​developers face.\n\n\"Apple is using its ​position as the dominant platform gatekeeper to give itself unfair ‌and unwarranted competitive advantages,\" Burrus said.\n\nApple ​has previously said ​developers already have multiple ways to transact with users outside its platform.\n\nThe CMA consultation is part of Britain's new digital markets regime, which gives ​the watchdog powers to ‌impose tailored requirements on companies designated as having \"strategic market status\".\n\nApple and ​Google were designated under the regime last year.\n\n($1 = 0.7521 pounds)\n\n(Reporting by ​Sam Tabahriti. Editing by Mark Potter)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-29",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, TSLA, NVDA",
       "Date": "2026-07-29",
       "Time": "23:50:00",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-07-29",
       "Time": "23:35:00",
       "Source": "Yahoo Finance",
