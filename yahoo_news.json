@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-29T18:40:38.452Z",
-  "total_news_count": 703,
+  "last_updated": "2026-07-29T18:45:10.660Z",
+  "total_news_count": 705,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-30",
+      "Time": "02:27:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股美債攻守自如 兆豐00982T打造防禦策略",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%BE%8E%E5%82%B5%E6%94%BB%E5%AE%88%E8%87%AA%E5%A6%82-%E5%85%86%E8%B1%9000982t%E6%89%93%E9%80%A0%E9%98%B2%E7%A6%A6%E7%AD%96%E7%95%A5-182752371.html",
+      "Content": "【記者柯安聰台北報導】近期全球金融市場受到地緣情勢反覆、科技股高檔震盪等因素交錯影響，市場波動度明顯加大，劇烈行情屢見不鮮。面對資產配置的部位調整及擇時難題，兆豐投信指出，傳統固定比例的平衡型商品已難以應對當前市場波動，全台首檔條件式股債平衡ETF—平衡兆豐台美動能ETF（00982T），憑藉技術分析內建機制，能隨市場訊號自動調整攻守定位，目前已正式轉換至穩健情境，成為高波動時代下，投資人納入考量的優質資產與動態配置工具。\n\n平衡兆豐台美動能ETF經理人詹佳峯分析，傳統靜態配置的平衡型產品，在股市多頭時往往受限於固定比例，導致缺乏追隨大盤的爆發力；而在股市空頭時，又常因滿手股票而遭受震盪壓力，這時投資人才痛感「動態資產配置」的重要性。兆豐00982T的設計，正是為了讓投資人能一次滿足「多頭追成長、空頭轉避險」因時制宜的雙重需求。以今年行情為例，台股加權股價指數今年以來累積報酬率已達50.7%，而ICE 20年期以上美國公債指數報酬率則為-2.4%，充分顯示「選對時機」與「選對資產」的挑戰，更突顯出投資人自行在不同時機選擇單一資產的配置難度。\n\n兆豐00982T精選頂尖的台美核心資產：\n\n股票端（強調動能）：鎖定具高成長動能的「台灣前瞻科技產業」，前5大成份股包含台積電、聯發科、鴻海、聯電及國巨，精準參與AI供應鏈的長線成長潛力；債券端（加強防禦）：納入具防禦力與避險特性的美國公債，基期相對低。最新投資情境；台股與美債基本比重約為5比5。\n\n隨著市場波動加大，許多分批單筆、定期定額的投資人陷入「現在進場怕買在高點、停扣又怕錯過行情」的兩難焦慮。兆豐投信強調，平衡兆豐台美動能ETF的自動換檔功能正是定期定額族的一大福音。當市場處於高檔震盪或反轉時，系統將依據技術訊號自動拉高債券比重進行防守。面對2026年下半年更趨複雜的總經環境，投資人無須再面臨「選邊站」的選擇難題。透過1檔動態靈活的ETF，即可實現「進攻時像股票般衝刺、防守時像債券相對穩健」的成效，是1檔抵2檔、適合長期持有的配置標的。（自立電子報2026/7/29）",
+      "Language": "zh"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-07-30",
@@ -161,6 +171,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-investors-another-reason-nervous-170459444.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) CEO Sanjay Mehrotra sold about $37.3 million of company stock as shares extended a punishing retreat from record highs, adding an uncomfortable insider-selling headline while investors reassess whether the memory-chip boom can justify Micron's near-$1 trillion valuation.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron is the largest U.S.-based memory-chip manufacturer , producing DRAM, NAND and high-bandwidth memory used in data centres, smartphones, computers and vehicles. Its earnings are increasingly tied to AI infrastructure demand, memory pricing and manufacturing supply discipline.\n\nMehrotra sold 40,000 shares on July 24 through two transactions worth approximately $29 million and $8.3 million, regulatory disclosures showed. The sales were executed under pre-arranged Rule 10b5-1 plans, reducing their usefulness as a real-time signal about management's outlook. He has reported no open-market purchases during the past six months.\n\nThe timing nevertheless risks unsettling shareholders. Micron fell 8.9% to $820.53 on Tuesday , its third consecutive decline and lowest close in roughly two months. The stock has lost about 34% since peaking on June 25 amid a broader sell-off in memory and semiconductor names. Its market capitalisation has fluctuated between roughly $926 billion and $1.02 trillion.\n\nThe decline contrasts sharply with Micron's operating momentum. Fiscal third-quarter revenue reached $41.46 billion , while adjusted free cash flow totalled $18.3 billion. Management guided for fiscal fourth-quarter revenue of $50 billion, plus or minus $1 billion, an approximately 86% gross margin and adjusted earnings of $31 per share, plus or minus $1.\n\nInvestor takeaway on Micron stock\n\nMehrotra's sale is less important than whether Micron can deliver its extraordinary guidance without memory prices, margins or AI demand weakening. Investors should watch HBM4 shipment growth, customer concentration, capital spending and signs that Chinese competition could increase supply.\n\nA fourth-quarter beat and durable long-term customer commitments would support the valuation. Softer pricing, delayed AI deployments or lower gross-margin guidance would suggest the 34% correction reflects more than sector-wide profit-taking.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-30",
+      "Time": "01:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》LAD,EXLS,AVTR,GWRE等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-lad-exls-avtr-gwre%E7%AD%8910%E6%AA%94-170300759.html",
+      "Content": "MoneyDJ新聞 2026-07-30 01:03:09 數位內容中心 發佈\n\nLithia Motors（LAD.US）： 成交價425.91美元，上漲18.87%，開盤報376.94美元，高點426.54美元，低點376.94美元，均價405.7美元，成交量14.92萬股。Lithia Motors是美國大型汽車經銷集團，業務涵蓋新車、二手車、融資保險與售後維修服務，近期再增加5億美元庫藏股授權，未動用餘額達7.26億美元，市場也持續觀察DFC滲透率提升與Pinewood AI導入對銷售及售後效率的帶動。\n\nExlService（EXLS.US）： 成交價35.87美元，上漲17.49%，開盤報31.25美元，高點35.97美元，低點31.25美元，均價34.69美元，成交量28.11萬股。ExlService是企業營運外包、資料分析與AI服務供應商，長期深耕保險、醫療、銀行與金融服務領域，並以資料、情境與AI整合推動企業轉型。ExlService已同意以最高3.1億美元收購iMerit，強化企業級AI模型訓練、評估與資料能力，市場也留意2026年第1季資料與AI相關營收占比已提高至60%的延續性。\n\nAvantor（AVTR.US）： 成交價14.13美元，上漲13.77%，開盤報14.49美元，高點14.62美元，低點13.64美元，均價14.06美元，成交量477.04萬股。Avantor是生命科學與先進技術材料供應商，提供實驗室耗材、化學品、生物製程原料與製藥服務，服務生物醫藥、醫療保健、教育與電子等產業。2026年第1季營收為15.8億美元，大致持平去年同期，市場持續留意實驗室耗材需求、生命科學資本支出與製藥生產活動回溫節奏。\n\nGenpact（G.US）： 成交價36.73美元，上漲6.13%，開盤報34.76美元，高點37.14美元，低點34.6美元，均價36.53美元，成交量25.8萬股。Genpact是企業流程外包與數位轉型服務公司，業務涵蓋財務、供應鏈、資料分析與AI解決方案。隨著企業加快自動化、生成式AI與營運效率專案布局，市場持續觀察客戶支出動向與流程優化服務的擴張空間。\n\nPaylocity（PCTY.US）： 成交價147.14美元，上漲6.1%，開盤報139.02美元，高點147.54美元，低點139.02美元，均價145.6美元，成交量2.93萬股。Paylocity是雲端人資與薪酬管理軟體公司，主要服務中型企業，產品涵蓋薪資、出勤、福利與員工管理。2026會計年度最新一季營收為5.02億美元，年增10.5%，全年EBITDA展望同步上修，反映企業在人資數位化與自動化工具上的支出仍具支撐。\n\nPermian Resources（PR.US）： 成交價20.77美元，上漲5.27%，開盤報20.33美元，高點20.79美元，低點20.27美元，均價20.6美元，成交量110.12萬股。Permian Resources是美國上游油氣探勘與生產公司，核心資產位於Permian Basin。市場持續留意國際油價、鑽井與完井活動、頁岩油生產效率與自由現金流表現，近期也有機構將其列為較偏好的油氣勘探標的之一。\n\nLittelfuse（LFUS.US）： 成交價412.35美元，上漲5.18%，開盤報424.24美元，高點434.8美元，低點407.95美元，均價420.45美元，成交量4.33萬股。Littelfuse是電路保護、電力控制與感測元件供應商，產品應用涵蓋工業、運輸、資料中心與能源基礎設施。公司近來受惠資料中心與電網需求升溫，Basler也帶來營收貢獻，市場持續觀察整合進度、48V車用架構與AI伺服器相關保護元件擴展。\n\nPBF Energy（PBF.US）： 成交價63.93美元，上漲4.8%，開盤報62.56美元，高點64.27美元，低點62.2美元，均價63.48美元，成交量25.34萬股。PBF Energy是美國獨立煉油與物流企業，擁有多座煉油廠與能源運輸資產。市場聚焦煉油利差、自由現金流與資產利用率變化，也持續觀察Jones Act豁免與美國東岸原油運輸彈性對原料配置與獲利能力的影響。\n\nHanover Insurance Group（THG.US）： 成交價234.69美元，上漲4.7%，開盤報226.51美元，高點235.15美元，低點224.36美元，均價231.42美元，成交量2.58萬股。Hanover Insurance Group是美國財產與意外險公司，業務涵蓋個人保險、商業保險與專業保險。保險業近年持續推進風險定價、承保紀律與數位理賠流程優化，市場也關注高利率環境對保險投資收益與承保獲利的支撐。\n\nGuidewire Software（GWRE.US）： 成交價166.98美元，上漲4.76%，開盤報160美元，高點167.98美元，低點160美元，均價165.39美元，成交量9.41萬股。Guidewire Software(GWRE.US)是保險業核心系統與雲端SaaS平台供應商，主要服務財產與意外險公司。2026財年第3季營收為3.73億美元，年增26.9%，年度經常性收入為11.47億美元，年增19%，保險業雲端轉型與AI工具導入仍是後續成長主軸。\n\n《強勢美股特報》MANH,LAD,AVTR,LFUS等10檔\n\n《美債》油價衝破百美元 10年債殖利率逼近4.7%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
