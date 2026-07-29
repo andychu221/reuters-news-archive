@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T09:15:01.796Z",
-  "total_news_count": 524,
+  "last_updated": "2026-07-29T09:32:51.503Z",
+  "total_news_count": 525,
   "news": [
     {
       "Ticker": "NVDA",
@@ -151,7 +151,7 @@
       "Keywords": "Social Security, COLA, inflation, retirement benefits, Medicare premiums"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-07-29",
       "Time": "15:24:00",
       "Source": "Yahoo Finance",
@@ -1691,6 +1691,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 1,
       "Keywords": "commercial spending, revenue growth, free cash flow, analyst rating, earnings forecast"
+    },
+    {
+      "Ticker": "KLAC",
+      "Date": "2026-07-29",
+      "Time": "04:51:31",
+      "Source": "Yahoo Finance",
+      "Title": "KLA Corp posts Q4 beat but shares tumble on limited near-term upside, soft guide",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/kla-corp-posts-q4-beat-205131915.html",
+      "Content": "Investing.com -- KLA Corporation reported fiscal fourth-quarter profit that topped analyst expectations, but the company's shares fell more than 10% in premarket trading Wednesday due to what analysts see as limited upside into next quarter.\n\nThe semiconductor equipment maker reported fourth-quarter earnings per share of $1.05, beating the analyst estimate of $1.00. Revenue reached $3.66 billion for the quarter, compared to the consensus estimate of $3.6 billion.\n\nFor the full fiscal year ended June 30, 2026, the company reported GAAP net income of $4.83 billion and GAAP diluted earnings per share of $3.66 on total revenues of $13.58 billion.\n\n\"Despite all this, the shares weakened in the aftermarket (though perhaps not surprising in this earnings season) given the near-term upside into next quarter, while solid, was not huge (yet),\" Bernstein analyst Stacy Rasgon said.\n\n\"That being said, while the entire industry remains cleanroom-constrained in the near- term, and KLAC themselves suffered from supply issues earlier in the year, those constraints are now easing, with clear acceleration into the end of the calendar year, and the set-up into CY27 continues to look really good to us as fab space comes online and spending in the company's key areas,\" they added.\n\nThe company's profit outlook was also soft. KLA sees first-quarter earnings per share of $1.06 to $1.26, compared to the consensus of $1.13. The company projects fiscal 2027 revenue of $3.8 billion to $4.2 billion, versus the consensus estimate of $3.91 billion.\n\n\"KLA's June quarter results reinforce that the trends driving our growth are strengthening, and we see momentum across our business accelerating in the second half of calendar 2026 and continuing through 2027,\" said Rick Wallace, president and CEO of KLA Corporation.\n\nVahid Karaahmetovic contributed to this report.\n\nKLA Corp posts Q4 beat but shares tumble on limited near-term upside, soft guide\n\nGoldman expects lower but still attractive stock market returns in 2026\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Language": "en"
     },
     {
       "Ticker": "KLAC",
