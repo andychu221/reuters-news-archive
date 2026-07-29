@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T17:20:45.235Z",
-  "total_news_count": 684,
+  "last_updated": "2026-07-29T17:32:33.133Z",
+  "total_news_count": 685,
   "news": [
     {
       "Ticker": "AMD",
@@ -83,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "KLAC",
+      "Date": "2026-07-30",
+      "Time": "00:05:00",
+      "Source": "Yahoo Finance",
+      "Title": "KLAC Q4 Earnings Beat on AI Demand, Revenues Increase Y/Y",
+      "URL": "https://finance.yahoo.com/technology/articles/klac-q4-earnings-beat-ai-160500287.html",
+      "Content": "KLA Corporation KLAC reported fiscal fourth-quarter 2026 non-GAAP earnings of $1.05 per share, up 11.7% year over year, and beat the Zacks Consensus Estimate by 5%.\n\nRevenues increased 15.2% year over year to $3.66 billion and beat the consensus mark by 1.32%. Results benefited from AI infrastructure investment, leading-edge foundry/logic demand and rising process control intensity. Advanced packaging process control revenues are now expected to reach about $1.1 billion in calendar 2026.\n\nKLA Corporation Price, Consensus and EPS Surprise\n\nKLA Corporation price-consensus-eps-surprise-chart | KLA Corporation Quote\n\nKLAC Segment Growth Remains Broad-Based\n\nSemiconductor Process Control revenues were $3.26 billion, accounting for 89% of revenues. The segment grew 13% year over year and 6% sequentially, supported by demand for inspection, metrology and related services across advanced logic, memory and packaging applications.\n\nSpecialty Semiconductor Process revenues rose 13% year over year to $160 million but declined 3% sequentially.\n\nPCB and Component Inspection revenues surged 56.5% year over year and 44% sequentially to $241.1 million, reflecting stronger demand tied to high-performance computing packages and integration.\n\nKLA Product Mix Highlights Patterning Momentum\n\nWafer Inspection remained the largest product category, generating $1.78 billion, or 49% of revenues. Sales increased 1% year over year and 2% sequentially.\n\nPatterning revenues jumped 61% year over year and 18% sequentially to $728 million, representing 20% of the top line.\n\nServices revenues advanced 17% year over year and 6% sequentially to $820 million, and accounted for 22% of revenues. Management noted that customers are running tools at high utilization, while the growing installed base and contract-heavy service model support visibility. About 80% of service revenues are contract-based.\n\nKLAC End Markets Reflect Logic Leadership\n\nFoundry and logic represented 79% of Semiconductor Process Control systems revenues to semiconductor customers. Memory accounted for the remaining 21%, reflecting demand for high-bandwidth memory and increasingly complex DRAM manufacturing processes.\n\nGeographically, Taiwan generated 31% of total revenues, followed by China at 26% and North America at 18%. Korea contributed 10%, Japan 6%, Europe 5% and the Rest of Asia 4%.\n\nKLA Margins Expand With Operating Leverage\n\nThe non-GAAP gross margin was 62.4%, at the upper end of guidance. A favorable service mix and manufacturing scale offset higher memory component costs and tariff pressures. Non-GAAP operating margin reached 43.7%, while incremental operating margin was 59%.\n\nNon-GAAP operating expenses totaled $682 million, including $399 million in research and development (up 13% year over year) and $291.5 million in selling, general and administrative expenses (up 11% year over year).\n\nStory Continues\n\nKLAC Cash Flow Supports Shareholder Returns\n\nKLAC ended the quarter with $4.90 billion in cash, cash equivalents and marketable securities and $5.89 billion in debt.\n\nCash flow from operations was $906 million, while free cash flow totaled $817 million. The company returned $876 million to shareholders during the quarter, comprising $571 million in share repurchases and $305 million in dividends.\n\nOver the past 12 months, capital returns totaled $3.3 billion, while the free cash flow margin was 28%.\n\nKLA Issues Strong First-Quarter Outlook\n\nFor the first quarter of fiscal 2027, KLA expects revenues of $4 billion (plus or minus $200 million). Non-GAAP diluted earnings are projected at $1.16 per share (plus or minus 10 cents), while non-GAAP gross margin is forecast at 62.5% (plus or minus 1 percentage point).\n\nFoundry/logic is expected to account for about 73% of Semiconductor Process Control systems revenues to semiconductor customers, with memory at roughly 27%. Within memory, DRAM is projected at about 90% and NAND at 10%. Non-GAAP operating expenses are anticipated to be approximately $690 million.\n\nKLA expects second-half calendar 2026 revenues to rise about 20% from the first half as supply capacity improves. Management also raised its calendar 2026 wafer fabrication equipment market outlook, including advanced packaging, to the low-$150 billion range and expects significant growth to continue in calendar 2027.\n\nZacks Rank & Upcoming Earnings to Watch\n\nKLA currently has a Zacks Rank #2 (Buy).\n\nLumentum LITE, Arrow Electronics ARW and HubSpot HUBS are some better-ranked stocks in the broader Zacks Computer and Technology sector. Each of the three stocks sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here.\n\nLumentum, Arrow Electronics and HubSpot are expected to report their quarterly results on Aug. 11, Aug. 6 and Aug. 5, respectively. Shares of HubSpot have dropped 40.7%, while Arrow Electronics and Lumentum have jumped 91.8% and 76.8%, year to date, respectively.",
+      "Language": "en"
+    },
+    {
       "Ticker": "CSCO",
       "Date": "2026-07-30",
       "Time": "00:00:00",
@@ -103,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "CSCO",
+      "Ticker": "NXPI, CSCO",
       "Date": "2026-07-29",
       "Time": "23:56:00",
       "Source": "Yahoo Finance",
