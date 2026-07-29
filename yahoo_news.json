@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T14:15:49.158Z",
-  "total_news_count": 621,
+  "last_updated": "2026-07-29T14:20:34.250Z",
+  "total_news_count": 622,
   "news": [
     {
       "Ticker": "NVDA",
@@ -153,7 +153,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "ADI, AMAT",
+      "Ticker": "CSCO",
+      "Date": "2026-07-29",
+      "Time": "20:54:00",
+      "Source": "Yahoo Finance",
+      "Title": "CVLT Q1 Earnings Beat Estimates, Revenues Rise Y/Y on SaaS Growth",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/cvlt-q1-earnings-beat-estimates-125400698.html",
+      "Content": "Commvault Systems, Inc. CVLT reported first-quarter fiscal 2027 non-GAAP earnings of $1.42 per share, up 40.6% year over year. The figure beat the Zacks Consensus Estimate of $1.18 by 20.3%.\n\nRevenues advanced 11.4% to $314.13 million and surpassed the consensus mark by 0.99%. Results benefited from strong SaaS demand, subscription growth and improving profitability. Subscription annual recurring revenues (ARR) increased 22% to $1.05 billion.\n\nCVLT's Subscription Revenues Maintain Momentum\n\nSubscription revenues increased 16% year over year to $267.03 million and accounted for 85% of total revenues, up from 81% in the prior-year quarter.\n\nTerm-based license revenues rose 1% to $110.42 million, while term-based support revenues climbed 18% to $56.06 million. SaaS revenues surged 39% to $100.55 million, crossing the $100 million quarterly threshold for the first time.\n\nPerpetual license revenues increased 19% to $8.70 million. However, perpetual support revenues declined 19% to $25.48 million, while other services revenues fell 7% to $12.93 million.\n\nCommVault Systems, Inc. Price, Consensus and EPS Surprise\n\nCommVault Systems, Inc. price-consensus-eps-surprise-chart | CommVault Systems, Inc. Quote\n\nCommvault's ARR Growth Reflects SaaS Strength\n\nSubscription ARR reached $1.05 billion, up from $867.31 million a year earlier. CVLT added $39 million in net new subscription ARR during the quarter, driven by continued strength in its SaaS offerings.\n\nSaaS ARR grew 38% to $424.34 million from $306.87 million. The company surpassed 10,000 active SaaS customers, while subscription net dollar retention remained steady at 114%.\n\nIdentity resilience and data security offerings represented more than one-third of net new subscription ARR. Emerging SaaS offerings, including Clumio S3 Protection, Google Workspace and Azure DevOps, also recorded strong growth.\n\nCVLT Benefits From Broader Platform Adoption\n\nThe percentage of Commvault-managed SaaS customers using at least two products increased to 49% from 42% a year earlier. This reflected continued upselling and cross-selling across the Commvault Cloud Platform.\n\nManagement highlighted identity resilience as an important entry point for broader platform adoption. Demand was supported by customers seeking to protect identity systems, govern data access and recover operations following cyber incidents.\n\nCommvault also expanded its relationship with Microsoft. Its cyber-resilience capabilities are expected to become available as a native independent software vendor service on Microsoft Azure, making the platform easier to integrate into Azure-based workflows.\n\nStory Continues\n\nCommvault's Margins Expand on Operating Leverage\n\nGross margin reached 82.1% in the reported quarter. SaaS gross margin improved 635 basis points year over year to 70.6%, aided by product optimization, acquisition integration and strategic agreements with hyperscaler partners.\n\nOperating expenses increased 7% to $185 million but declined as a percentage of revenues to 59% from 61% a year earlier. Headcount remained roughly flat year over year.\n\nNon-GAAP EBIT increased to $71.47 million from $58.25 million. The corresponding margin expanded 210 basis points to 22.8%, marking the company's strongest quarterly EBIT margin performance in more than a decade.\n\nCVLT's Cash Flow and Balance Sheet Remain Solid\n\nOperating cash flow increased to $51.67 million from $31.68 million in the year-ago quarter. Free cash flow rose 71% to $51.10 million, reflecting stronger collections and continued spending discipline.\n\nCommvault ended the quarter with cash and cash equivalents of $929.84 million, up from $899.99 million at the end of fiscal 2026. During the quarter, the company repurchased roughly 98,000 shares for $10 million.\n\nManagement continues to target share repurchases equal to approximately 60% of annual free cash flow while retaining balance sheet flexibility.\n\nCommvault Updates Fiscal 2027 Profit Outlook\n\nFor the second quarter of fiscal 2027, subscription revenues are projected between $264 million and $268 million. Total revenues are expected to be approximately $310 million, while the non-GAAP EBIT margin is forecast at about 20%.\n\nFor fiscal 2027, CVLT raised its subscription revenue outlook to $1.119-$1.129 billion from $1.115-$1.125 billion. Subscription ARR guidance was maintained at $1.20-$1.21 billion, with SaaS ARR expected to exceed $500 million.\n\nThe company continues to expect total revenues of $1.30-$1.31 billion and free cash flow of $250-$260 million. Non-GAAP EBIT margin guidance was increased by 50 basis points to approximately 21%.\n\nCVLT's Zacks Rank and Stocks to Consider\n\nCommvault currently carries a Zacks Rank #3 (Hold).\n\nSome better-ranked stocks in the broader Zacks Computer and Technology sector are Analog Devices ADI, Applied Materials AMAT and Cisco Systems CSCO, each carrying a Zacks Rank #2 (Buy) at present. You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .\n\nShares of Analog Devices have rallied 34.9% year to date. The Zacks Consensus Estimate for Analog Devices' fiscal 2026 earnings is pegged at $12.42 per share, up by 10 cents over the past 30 days, indicating a 59.4% year-over-year increase.\n\nShares of Applied Materials have skyrocketed 85.4% year to date. The Zacks Consensus Estimate for Applied Materials' fiscal 2026 earnings is pegged at $12.14 per share, up by 3 cents over the past 30 days, calling for a rise of 28.9% year over year.\n\nCisco Systems shares have surged 50.1% year to date. The Zacks Consensus Estimate for CSCO's fiscal 2026 earnings is pegged at $4.28 per share, unchanged over the past 30 days, implying an increase of 12.3% year over year.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "CSCO, ADI, AMAT",
       "Date": "2026-07-29",
       "Time": "20:51:00",
       "Source": "Yahoo Finance",
@@ -203,7 +213,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ADI, AMAT",
+      "Ticker": "CSCO, ADI, AMAT",
       "Date": "2026-07-29",
       "Time": "20:30:00",
       "Source": "Yahoo Finance",
