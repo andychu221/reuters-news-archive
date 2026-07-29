@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-29T07:18:19.340Z",
-  "total_news_count": 493,
+  "last_updated": "2026-07-29T07:46:17.547Z",
+  "total_news_count": 505,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
+      "Time": "15:19:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股317.57億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1317-57%E5%84%84%E5%85%83-071919733.html",
+      "Content": "（中央社台北2026年7月29日電）台股今天跌1564.18點，收在40039.18點，成交值新台幣1兆835.69億元。三大法人外資及陸資賣超、投信買超、自營商賣超，合計賣超317.57億元。\n\n自營商賣超185.99億元，投信買超90.94億元，外資及陸資賣超222.52億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-07-29",
+      "Time": "15:15:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "韓股史上首見連日熔斷！政府拒啟動平準基金，稱仍屬重新評價階段",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1%E5%8F%B2%E4%B8%8A%E9%A6%96%E8%A6%8B%E9%80%A3%E6%97%A5%E7%86%94%E6%96%B7-%E6%94%BF%E5%BA%9C%E6%8B%92%E5%95%9F%E5%8B%95%E5%B9%B3%E6%BA%96%E5%9F%BA%E9%87%91-%E7%A8%B1%E4%BB%8D%E5%B1%AC%E9%87%8D%E6%96%B0%E8%A9%95%E5%83%B9%E9%9A%8E%E6%AE%B5-071534103.html",
+      "Content": "【財訊快報／陳孟朔】韓股連續兩個交易日觸發全市場熔斷後，韓國政府表態，目前尚未達到啟動股市平準基金或推出單獨穩定措施的階段。外電報導，青瓦台政策室室長金容範(Kim Yong-beom)表示，政府正密切監控市場，並將這波跌勢定性為市場尋找均衡點的「重新評價過程」。韓國綜合股價指數(KOSPI)繼上日崩跌10.84%後，週三盤中一度急瀉760.89點或12.63%，下探5,262.77點，距3月4日史上最大盤中跌幅12.65%僅一步之遙；終場跌幅收斂至360.42點或5.98%，報5,663.24點，較日低反彈約400點。若與6月19日歷史高點9,385.59點相比，六週已狂瀉3,722.35點或39.66%。KOSPI與KOSDAQ連續第二天同步觸發全市場熔斷，為韓國股市史上首次。\n\n金容範指出，中國長鑫科技等存儲晶片企業加速擴產，以及市場重新評估AI巨額投資能否轉化為實際營收，是韓股下跌的重要外部因素。韓股波動遠高於其他市場，則與散戶交易比重偏高、衍生商品快速膨脹，以及三星電子與SK海力士占KOSPI權重過度集中有關；單一個股槓桿ETF雖可能放大震盪，但並非唯一原因。\n\n政府暫不救市的立場迅速引發散戶反彈。部分投資人批評，政府先前高調宣傳「KOSPI 5000」甚至更高目標，鼓勵民眾參與股市，如今指數由高點回落近四成，卻以市場自我調整及結構性問題解釋跌勢。金容範表示，政府將聯同金融委員會及金融監督院全面檢視市場結構，並視後續波動情況決定是否採取進一步措施。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
+      "Time": "15:04:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股崩盤還沒結束？傳奇交易員示警真正危機：比關稅戰更慘",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E7%9B%A4%E9%82%84%E6%B2%92%E7%B5%90%E6%9D%9F-%E5%82%B3%E5%A5%87%E4%BA%A4%E6%98%93%E5%93%A1%E7%A4%BA%E8%AD%A6%E7%9C%9F%E6%AD%A3%E5%8D%B1%E6%A9%9F-%E6%AF%94%E9%97%9C%E7%A8%85%E6%88%B0%E6%9B%B4%E6%85%98-070415987.html",
+      "Content": "台股今（29）日盤中重挫逾2000點，最低下探39384點，賣壓全面湧現，上市櫃跌停家數一度逼近200家。對此，去年成交量超過一兆、台股傳奇交易員「巨人傑」發文示警，目前真正令人擔憂的已不只是指數下跌，而是台股流動性恐怕已經出現問題。\n\n巨人傑指出，隨著越來越多股價劇烈波動的個股遭列為注意股，若短時間內持續異常波動，便可能遭主管機關列入處置股票，限制交易方式。依照規定，處置期間股票將改採分盤交易，每5分鐘以上才撮合一次，且投資人買賣都須預先交付股款或股票，以降低市場過熱情況。\n\n巨人傑認為，這項制度在股市急跌時反而可能加劇流動性危機。他表示，若融資投資人因維持率不足遭到斷頭，而持股又被列入處置，將可能陷入「每天排隊跌停」的困境，即使想賣也因缺乏買盤而難以成交，進一步形成多殺多的惡性循環。\n\n回顧2025年關稅戰期間，雖然不少個股一度接近處置標準，但市場很快迎來反彈，因此未全面引爆流動性危機。巨人傑示警，這次若買盤遲遲未回流，在處置制度與融資斷頭雙重壓力下，不少個股恐將連續出現一字跌停，市場信心也將持續受到衝擊。\n\n分析師郭哲榮則指出，台股經歷適度拉回屬於健康整理，他形容，股市大跌就像百貨公司周年慶，「股票打折反而是進場的好時機」，投資人不必因短線震盪而過度恐慌，反而應該把握價格修正帶來的布局機會。他今日更透露已豪砸一億元買進元大台灣50（0050），看好今年指數有機會突破5萬點。",
+      "Language": "zh"
+    },
     {
       "Ticker": "000660.KS",
       "Date": "2026-07-29",
@@ -11,6 +41,46 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-inc-skhy-q2-070022880.html",
       "Content": "This article first appeared on GuruFocus .\n\nRevenue: KRW79.3 trillion, up 51% quarter on quarter and 257% year on year.\n\nOperating Income: KRW60.5 trillion, up 61% quarter on quarter and 557% year on year.\n\nOperating Margin: Improved by 5 percentage points to 76%.\n\nEBITDA: KRW64.6 trillion with an EBITDA margin of 81%.\n\nNet Profit: KRW93.9 trillion with a net profit margin of 118%.\n\nCash and Cash Equivalents: KRW88 trillion, an increase of KRW33.6 trillion from the previous quarter.\n\nInterest-bearing Debt: Decreased by KRW0.7 trillion to KRW18.6 trillion.\n\nNet Cash: Expanded to KRW69.4 trillion.\n\nDebt-to-Equity Ratio: Improved by 5 percentage points to 7%.\n\nDRAM ASP: Increased by approximately 30%.\n\nNAND ASP: Increased by mid-50%.\n\nEnterprise SSD Revenue: Increased twofold from the previous quarter.\n\nSolidigm Revenue: Expanded more than three-fold from the last quarter.\n\nDepreciation and Amortization: KRW4 trillion.\n\nPre-tax Profit: KRW122.7 trillion.\n\nWarning! GuruFocus has detected 1 Warning Sign with SKHY.\n\nIs SKHY fairly valued? Test your thesis with our free DCF calculator.\n\nRelease Date: July 29, 2026\n\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript .\n\nPositive Points\n\nSK hynix Inc ( NASDAQ:SKHY ) reported a record high revenue of KRW79.3 trillion for Q2 2026, marking a 51% increase quarter-on-quarter and 257% year-on-year.\n\nThe company achieved a significant increase in operating income, reaching KRW60.5 trillion, up 61% quarter-on-quarter and 557% year-on-year.\n\nSK hynix Inc ( NASDAQ:SKHY ) has successfully expanded its sales of high-performance memory products, such as HBM3E and AI server DRAM, contributing to revenue growth.\n\nThe company has secured long-term agreements (LTAs) with around 10 key customers, ensuring mid- to long-term supply stability.\n\nSK hynix Inc ( NASDAQ:SKHY ) has strengthened its financial position, with cash and cash equivalents increasing to KRW88 trillion and a reduced debt-to-equity ratio of 7%.\n\nNegative Points\n\nThe company's DRAM ASP growth in Q2 fell below market expectations due to changes in the product portfolio and shipment delays.\n\nThere are concerns about potential oversupply in the memory market due to SK hynix Inc ( NASDAQ:SKHY )'s plans for significant capacity expansion.\n\nThe company faces challenges in improving the supply-demand balance in the near term due to the complexity of advanced processes and lead times for new facilities.\n\nCompetition in the HBM market is intensifying, with competitors making rapid progress, posing a challenge to SK hynix Inc ( NASDAQ:SKHY )'s market leadership.\n\nThe company has not yet finalized plans for additional shareholder returns, despite increased cash position from recent ADR offerings and asset sales.\n\nStory Continues\n\nQ & A Highlights\n\nQ : Recently, some big tech companies are considering leasing data centers and more efficient AI models are emerging. How do you see AI infrastructure investment evolving, and what are the implications for demand for HBM, DRAM, and NAND? A : We view these developments as a transition towards higher utilization of existing AI infrastructure and accelerated monetization efforts. Investments aimed at strengthening AI capabilities are likely to remain solid. We expect AI-related investment to continue over the medium to long term, with memory demand expanding for HBM, server DRAM, and high-performance NAND.\n\nQ : The company plans to significantly expand its capacity over the medium to long term. What is the basis for your long-term memory demand outlook, and does it include demand secured through long-term agreements? A : Our capacity strategy is based on structural growth in memory demand driven by AI expansion and discussions with key customers. The capacity expansion is aligned with confirmed customer demand, and we do not believe it will lead to oversupply. Investments will be executed in phases, considering demand visibility and investment efficiency.\n\nQ : Could you provide more details on SK Hynix's Long-Term Agreement (LTA) framework, such as contract term and pricing structure? A : LTAs are designed to be specific to each customer and product, typically with a five-year term. Pricing structures vary to address price volatility and enhance long-term business stability. The agreements include mechanisms like deposits to strengthen contract implementation and demand visibility, allowing us to optimize investment and production planning.\n\nQ : DRAM ASP growth in the second quarter fell below market expectations. What are the reasons, and what is the outlook for the second half of the year? A : Changes in the product portfolio affected our blended ASP, but these factors are likely to ease in the second half. We expect higher bit growth and improved product mix, driven by HBM4 and 1c-nanometer DRAM shipments, leading to higher ASP and earnings in the second half.\n\nQ : What is the competitiveness of SK Hynix's HBM4, and what are the key differentiators that will enable the company to maintain its leadership in the HBM market? A : HBM4 competitiveness is achieved through performance, stable yield, and consistent quality. Our accumulated competitiveness in time to market, product performance, and customer trust are key differentiators. We are ramping up production capacity and preparing next-generation technologies like iHBM to sustain our leadership in the HBM market.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
+      "Time": "15:00:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股殺盤失守4萬大關，7月會再跌？阮慕驊揭「AI換牌劇本」剖析科技股：請深呼吸",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%AE%BA%E7%9B%A4%E5%A4%B1%E5%AE%884%E8%90%AC%E5%A4%A7%E9%97%9C-7%E6%9C%88%E6%9C%83%E5%86%8D%E8%B7%8C-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD-ai%E6%8F%9B%E7%89%8C%E5%8A%87%E6%9C%AC-%E5%89%96%E6%9E%90%E7%A7%91%E6%8A%80%E8%82%A1-070004573.html",
+      "Content": "台股台股29日賣壓湧現，聯電、國巨、旺宏、華邦電及南亞科等多檔電子股觸及跌停。（中央社）\n\n​台股7月波動加劇，近日連續兩個交易日遭遇重挫，在美國費城半導體指數連日走弱、AI晶片股遭大幅拋售，加上市場擔憂中國半導體設備自主化進展恐衝擊產業競爭格局等利空夾擊下，7月28日與今（29）日接連出現恐慌性賣壓；短短兩天內，加權指數一度跌破4萬點整數關卡，市場氣氛急速轉空，也讓先前創高後的多頭行情面臨嚴峻考驗。財經專家阮慕驊今在臉書以「當科技股只剩一半在漲 這下誰幫你換牌？」為題進行分析；對於台股29日再度崩跌，他則在最新貼文中喊話股民們深呼吸，有助於釋放壓力。\n\n台股還會再跌？7月接連崩跌失守4萬大關\n\n回顧台股7月修正波，自7月17日台股寫下史上最大收盤跌點2953.71點後，7月24日再重挫1195點；時至本周，台股加權指數7月28日重挫2030.83點，收在41603.36點，跌幅4.65%，創下台股史上第三大收盤跌點，其中權值股全面走弱，台積電終場收2280元，下跌70元、跌幅2.98%，跌破季線；聯發科、台達電跌停，鴻海重挫5.93%；南亞科、華邦電等記憶體族群同步跌停，成為殺盤重心。然而，7月29日賣壓並未止血，台股開盤後一路走低，盤中更一度失守40000點整數關卡。\n\n台股殺盤是基本面轉壞？阮慕驊：長線可期\n\n進一步看，今日截至中午前，加權指數大跌約1765點至39838點附近，跌幅超過4%，成交金額已突破7500億元；其中台積電最低跌至2200元，盤中下跌約65元，電子、AI伺服器、半導體設備及記憶體族群同步重挫。對於近日的股市急跌走勢，阮慕驊今在貼文中提到，他認為此波殺盤並非基本面轉壞，AI供應鏈廠商獲利仍上升，訂單還在，然而今年4到6月上升得太急且太猛，加權指數一波直接漲超過16000點，短短半個月內大盤飆漲超過5成（51%），急漲後如今急跌，是合理的本益比修正，因此他認為長線上台股的機會仍然可期待。​\n\n科技股甜蜜期告終？AI三階段現在走到哪了？\n\n另一方面，阮慕驊也在文中指出，若單就指數來看，2026年的美股是一場「AI盛宴」，費城半導體一度漲幅超過8成；然而，標普500資訊科技類股裡，卻有約6成的公司股價從高點跌逾2成，顯示科技股全部上漲的甜蜜時光，正式結束了。他提到，過去曾說過AI將會分三階段走，而市場確也照著劇本走，但很多人忽略的「科技股一起漲的甜蜜期」其實已過去，現在盤面在做的是「換牌」，資金進到算力硬體。AI三階段如下：\n\n​ 硬體佈署期： 2022年至2027年\n\n軟體應用期： 2028年至2032年\n\n最後則是 「成熟期」 ​\n\n<p class=\"mb-module-gap bre",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .KS11, 2330.TW",
+      "Date": "2026-07-29",
+      "Time": "14:47:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股重挫1564點險守4萬點　38檔千金股10檔跌停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1564%E9%BB%9E%E9%9A%AA%E5%AE%884%E8%90%AC%E9%BB%9E-38%E6%AA%94%E5%8D%83%E9%87%91%E8%82%A110%E6%AA%94%E8%B7%8C%E5%81%9C-064720466.html",
+      "Content": "（中央社記者江明晏台北2026年07月29日電）市場擔憂AI過熱，台股今天盤中跌破4萬點關卡，終場重挫1564.18點，收在40039.18點，創台股收盤第7大跌點。台積電終場下跌80元，收在2200元，聯電、國巨跌停；38家千金股有10檔下探跌停。\n\n市場對人工智慧（AI）熱潮疑慮加深，科技股賣壓應聲加劇，華爾街股市收盤走勢不一，費城半導體指數重挫逾4%。\n\n亞股走勢中，日韓股均由紅翻黑，日股盤中跌約1.75%，韓股約跌6.01%。\n\n台股今天以41491.48點開低，短暫翻紅後續跌，盤中最低挫2218.51點，跌破4萬點關卡，下探39384.85點。\n\n觀察權值股，台積電終場下跌80元，收在2200元，跌幅3.51%，聯發科、台達電約跌5%，聯電、國巨跌停。\n\nAI指標股，如ABF三雄欣興、南電、景碩鎖跌停，記憶體族群南亞科、華邦電、旺宏等均跌停。\n\n台股遭遇逆風，合計上市櫃跌停家數約115檔。\n\n觀察高價股走勢，股王信驊跌逾2%，鴻勁、創意、世芯-KY、弘塑等下探跌停，勤誠、雍智失守千元，台股退居38千金股。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
+      "Time": "14:35:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股大跌怎麼辦？空手、套牢、獲利者操作策略一次看，現在能抄底嗎？",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%80%8E%E9%BA%BC%E8%BE%A6-%E7%A9%BA%E6%89%8B-%E5%A5%97%E7%89%A2-%E7%8D%B2%E5%88%A9%E8%80%85%E6%93%8D%E4%BD%9C%E7%AD%96%E7%95%A5-%E6%AC%A1%E7%9C%8B-063553415.html",
+      "Content": "一、台股屢屢重挫，市場下一步怎麼看？\n\n台股加權指數屢屢重挫不止，市場恐慌情緒不斷升溫，也讓不少投資人開始思考是否該逢低布局。不過，每次台股大跌後都會立刻迎來反彈嗎？從過往經驗來看，真正影響後續行情的關鍵，往往不是跌得多深，而是資金與市場信心何時回穩。面對這波修正，台股大跌後的操作策略，再次成為市場焦點。\n\n立即前往豐雲學堂看更多\n\n標的太多不知道怎麼選？立即前往大戶投策略選股專區看看吧！\n\n二、台股大跌後怎麼操作？空手、套牢、獲利者策略不同\n\n面對台股大跌，不同持股狀態的投資人，應採取的策略其實完全不同。空手者重點在等待市場止跌訊號，不宜急著抄底；套牢者則需重新檢視原本的投資邏輯是否改變，而非急著攤平；至於帳上仍有獲利的投資人，更需要思考是否調整持股結構、保留資金彈性。真正影響後續績效的，往往不是買得快，而是是否在正確的時間做出正確決策。\n\n三、AI 財報將成關鍵，台股大跌後真正轉折點還沒揭曉\n\n除了技術面之外，本週美股科技巨頭財報與 AI 資本支出展望，也將左右全球資金對 AI 供應鏈的信心，更可能成為台股大跌後能否展開反彈的重要催化劑。如果市場預期重新轉趨樂觀，部分族群有機會率先回穩；但若企業展望轉弱，盤勢仍可能持續震盪。真正值得留意的觀察指標、進場時機，以及哪些族群可能率先受惠，市場仍有更多值得深入解析的細節。\n\n<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"立即前往豐雲學堂看更多\",\"yModuleName\":&",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
+      "Time": "14:35:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股狂瀉1564點「險失守4萬」 專家：留意3件事",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%8B%82%E7%80%891564%E9%BB%9E-%E9%9A%AA%E5%A4%B1%E5%AE%884%E8%90%AC-%E5%B0%88%E5%AE%B6-%E7%95%99%E6%84%8F3%E4%BB%B6%E4%BA%8B-063500973.html",
+      "Content": "台股在28日歷經史上第3大收盤跌點、重挫2030點後，29日跌勢持續，指數開低走低，盤中一度跌破4萬點心理關卡，終場收在40039.18點，下跌1564.18點，跌幅3.76%，成交金額達新台幣1兆835.69億元，市場恐慌情緒持續升溫。知名財經專家李其展針對近期盤勢提出看法，提醒投資人此刻與其急著猜底，不如從3個方向重新檢視投資策略。\n\n台股29日以41491.48點開出，盤中最高41698.39點，最低下探39384.85點，最終跌幅超過3%，不含金融股指數也下跌1491.51點。面對市場劇烈震盪，李其展在 粉專 發文表示：「在市場恐慌情緒升溫的環境下，加權指數剛剛跌破4萬的心理關卡，很多投資朋友可能知道在修正，但沒有心理準備一下跌這麼快，更多的朋友想知道現在到底該低買撿便宜還是趕快逃。」\n\n李其展指出，首先要觀察AI長期發展趨勢，他認為「AI趨勢沒問題，但問題出在短線是否投資過頭」，並強調：「AI確定有長期需求，但AI投資的ROI（投資報酬率）高度不確定，誰能賺錢、賺多少錢、多久才能回本？仍然充滿不確定性。」\n\n至於近期市場究竟在跌什麼，李其展認為，可能包括美國意外升息風險、美伊情勢變化、財報前後的市場洗刷，以及亞洲資金去槓桿等因素，由於多項利空輪番觸發，導致市場陷入「霧裡看花」的狀態，因此若想嘗試摸底，更應注意資金控管。\n\n至於投資人最關心的「現在該低買還是快逃」，李其展分享自己的策略是「買進Alpha跟賣出Beta」，也就是透過調整持股部位降低短線回檔風險，同時逢低布局具長期優勢的企業。他表示：「所以我自己有低買也有賣出。」\n\n李其展最後提醒，對沒有太多時間研究市場的投資人而言，長期投資市值型ETF，或先降低部分持股部位，都是合理選擇。他強調：「是不是砍在阿呆谷這件事，永遠都是事後才知道，不影響我們現在的選擇。」面對金融市場漲跌，投資人首要目標應是控制風險、避免重傷，才能持續留在市場中尋找下一次獲利機會。\n\n（封面圖／東森新聞）\n\n【 本文 由<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkTe",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, META",
@@ -75,6 +145,16 @@
     {
       "Ticker": ".TWII",
       "Date": "2026-07-29",
+      "Time": "14:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股盤中一度跌破4萬點 財長：國安基金持續關注走勢",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-%E5%BA%A6%E8%B7%8C%E7%A0%B44%E8%90%AC%E9%BB%9E-%E8%B2%A1%E9%95%B7-%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E6%8C%81%E7%BA%8C%E9%97%9C%E6%B3%A8%E8%B5%B0%E5%8B%A2-061400839.html",
+      "Content": "美股費半指數狂瀉近5%，週三韓股和日股開盤，成功逆勢翻紅，可惜一個小時過後，指數熄火，雙雙翻黑急殺，日股一度跌超過1%，韓股一度跌近8%。台股歷經曇花一現的翻紅後，隨即上演大跳水，一度跌破4萬點，最低3萬9743點、跌超過1800點。\n\n第一金投顧董事長黃詣庭表示，「假設他們（美國聯準會）釋放出來的語氣，是目前的通膨還是明顯高於2%，需要比較大的力道去讓通膨回到2%，那這種會被解讀為中性偏向鷹派，那這種論點的話，就更容易造成指數更進一步地下修。」\n\n專家分析，本週台股走勢得密切觀察國際大事，首先是美國聯準會召開，7月FOMC利率會議，如果會後談話中性偏鴿，市場反彈力道大。另外，包含微軟、Meta、蘋果和亞馬遜，都將公布財報，如果能優於預期，將有助市場恢復信心。最後則是南韓，提前本週五實施收緊個股槓桿ETF監管，拉高基礎保證金。\n\n財政部長莊翠雲回應，「國安基金的幕僚是持續地關注，有關股市的一些動向以及相關的金管會如果相關措施它的一些成效。」\n\n由於近期台股下殺都以千點起跳，國安基金是否進場還要再觀察。專家分析，週三除了傳產類股上漲，其他族群普遍疲弱，權值股台積電股價盤中最低2200元、一度跌80元。聯電、旺宏、華邦電，都亮燈跌停。有法人指出，近期盤面多檔個股跌停，預期月底前可能再湧現斷頭潮。\n\n中央大學台經中心執行長吳大任認為，「帳面上的虧損不斷地擴大，你看到不止損不行你再把股票賣出來，下殺的這個過程裡面散戶的操作，有可能就是被迫斷頭或者被迫賣出。」\n\n學者建議，以操作槓桿進場股市的民眾，得留意違約交割風險，呼籲投資非穩賺不賠，得審慎做好評估。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-07-29",
       "Time": "14:10:00",
       "Source": "Yahoo奇摩股市",
       "Title": "台股重摔1564點！上市櫃119家吞跌停 「這模組」逆勢噴6%",
@@ -100,6 +180,16 @@
       "Title": "8月台股期指跌1181點",
       "URL": "https://tw.news.yahoo.com/8%E6%9C%88%E5%8F%B0%E8%82%A1%E6%9C%9F%E6%8C%87%E8%B7%8C1181%E9%BB%9E-055834024.html",
       "Content": "（中央社台北29日電）台北股市今天終場跌1564.18點，收40039.18點。8月台指期以40392點作收，下跌1181點，與現貨相較，正價差352.82點。\n\n台灣期貨交易所為近2個月指數期貨契約訂定開盤參考價為，8月期貨41573點、9月期貨41743點。\n\n台股今天終場跌1564.18點，收40039.18點，成交金額新台幣1兆835.69億元。\n\n8月台指期貨以40392點作收，跌1181點，成交12萬3192口；9月期貨以40524點作收，跌1219點，成交505口。實際收盤價格以期交所公告為準。1150729",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-29",
+      "Time": "13:58:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》合成生物學技術—DNA、HYFT",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%B8%E6%8A%80%E8%A1%93-dna-hyft-055800538.html",
+      "Content": "MoneyDJ新聞 2026-07-29 13:58:12 數位內容中心 發佈\n\nGinkgo Bioworks（DNA.US）\n\n2026/07/29，Ginkgo Bioworks出現「Senior Mechatronics Engineer」美國遠端職缺。這則徵才訊號直接對應其自動化與機電整合投入，並與「Organism Company」及自動化細胞程式設計平台的描述一致。\n\nInnerPlant\n\n2026/07/29的產業文章將InnerPlant列為代表公司，主打可由衛星、曳引機鏡頭或無人機讀取的作物光學回饋系統。這使合成生物學的應用從生產工具延伸到農業監測與生物感測器場景。\n\nLight Bio\n\n2026/07/29的產業文章指出，Light Bio正推進生物發光植物商品化。這一動態對應近期合成生物學敘事向非醫療終端擴散，並顯示顏色與發光回饋正被視為可商業化的生物感測表現形式。\n\nEcovative\n\n2026/07/29的產業文章點名Ecovative探索具自我回報能力的菌絲體材料。這一方向把合成生物學從材料製造延伸至環境回報與結構監測，對應文中「活體基礎設施」與智慧建築應用的近期主題。\n\nMindWalk Holdings Corp.（HYFT.US）\n\n2026/07/23，MindWalk Holdings Corp.公開展示ReefIQ，並揭露其表示網路累積6.6億個生物模式與250億個關係。這類可查詢的生物資料情境層，對序列設計、功能預測與自動化實驗決策具有直接支撐。\n\nTranscripta Bio\n\n2026/07/22，Transcripta Bio宣布自Series A以來累計募得2400萬美元，用於推進臨床試驗申請前研究，並支援兩項臨床前計畫。其Conductor AI以超過10億個基因反應訓練，顯示資金正持續流向資料驅動平台。\n\nJubilant Biosys\n\n2026/07/23，Jubilant Biosys舉辦第2屆EDGE Innovation Forum，現場超過50個組織參與，其中包括40家生技公司與8家投資機構。這反映近期外部合作與平台型交流仍活躍，合作重心偏向長週期研發生態。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》精準醫療檢測—TEM、PSNL\n\n《美股主題週報》基因編輯—BEAM、CRSP、EDIT\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -150,6 +240,16 @@
       "Title": "史上第七大跌點！台股收盤重挫1564點險守40K 台積電下殺80元",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%83%E5%A4%A7%E8%B7%8C%E9%BB%9E-%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E9%87%8D%E6%8C%AB1564%E9%BB%9E%E9%9A%AA%E5%AE%8840k-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8B%E6%AE%BA80%E5%85%83-054337897.html",
       "Content": "台股今（29日）又出現急殺，盤中一度重挫2,218.51點觸及39,384.85點，不僅失守4萬點大關也摜破關鍵支撐價位的520低點39,967點，權值股與熱門族群全面失守，午盤過後跌幅略為收斂，終場仍大跌1,564.18點，收在4,0039.18點，4萬點失而復得，改寫史上第七大跌點。\n\n台股不斷探底，接下來的關鍵支撐落在半年線39,200點附近，法人認為，多頭結構已遭到破壞，短均線扣抵值向上扣高，若後續無強勁反彈可能加劇助跌壓力，嚴禁在出現明確帶量止跌訊號前進場抄底，靜待短均線扣抵值回落至低檔，且籌碼沉澱後再重新布局。\n\n台積電盤中一度慘摔至2180元，最終下跌80元3.51%收在2200元；聯發科盤中下殺至2990元險些跌停，最終下跌165元4.980%收在3150元；台達電也一度重挫逾9%，低接買盤拉抬後收斂，下跌85元5.38%收在1495元。\n\n記憶體與被動元件仍是重災區，國巨召開法說會但股價不買帳，鎖跌停價507元，已經從1220元高點慘摔58.4%，相關族群華新科、禾伸堂及日電貿也都被打入跌停。\n\n記憶體族群表現也不理想，南亞科、華邦電、晶豪科、旺宏及力積電皆跌停鎖死，創見逆勢上漲12元4.66%收在269.5元，宇瞻同步大漲17.5元8.54%收在22.5元。台股兩天慘崩4千點，後市轉趨保守，投顧建議投資人提防季線下彎，修正時間可能進一步延長，需要等到月、季線趨勢反轉才能再次樂觀。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-29",
+      "Time": "13:43:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》遠距醫療平台—TDOC、HIMS、AMWL",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%81%A0%E8%B7%9D%E9%86%AB%E7%99%82%E5%B9%B3%E5%8F%B0-tdoc-hims-amwl-054300796.html",
+      "Content": "MoneyDJ新聞 2026-07-29 13:43:24 數位內容中心 發佈\n\nTeladoc Health（TDOC.US）\n\n2026/07/23推出Teladoc One，將虛擬照護整合為單一、可自適應模式，納入多學科團隊、人工照護協調員與常時啟用的AI支援。平台把100%服務費用與績效掛鉤，並預計2026年9月先向特定客戶啟動。\n\nHims & Hers Health（HIMS.US）\n\n2026/07/29傳出與Novo Nordisk達成新協議後，Hims & Hers可在平台銷售Ozempic與Wegovy，Novo並同意撤回2月提出的訴訟。公司同時承諾停止為Novo藥物的複方版本投放廣告，顯示減重遠距醫療正轉向合規與品牌藥接入。\n\nAmerican Well（AMWL.US）\n\n2026/08/04將公布第二季財報前，American Well於07/17獲Wells Fargo將目標價由9美元上調至16美元。報告提到DHA的Notice of Intent降低續約風險，並讓Amwell與DHA建立更直接的合作關係。\n\nDoximity（DOCS.US）\n\n2026/07/16公告將於08/06公布2027會計年度第一季財報，同時持續強調Telehealth、AMiON值班排程，以及符合HIPAA規範的AI助理Ask與AI臨床文件工具Scribe。公司並稱其網路會員已涵蓋美國超過85%的醫師。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》新式核能—OKLO、SMR、LEU\n\n《美股主題週報》數位身份驗證/生物辨識技術—AUID、YOU\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -213,6 +313,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-07-29",
+      "Time": "13:19:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "散戶斷頭流血！內行淚噴乾脆一次殺乾淨「國安基金見死不救內幕曝光」8大公股行庫正悄悄搞大事",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%95%A3%E6%88%B6%E6%96%B7%E9%A0%AD%E6%B5%81%E8%A1%80-%E5%85%A7%E8%A1%8C%E6%B7%9A%E5%99%B4%E4%B9%BE%E8%84%86-%E6%AC%A1%E6%AE%BA%E4%B9%BE%E6%B7%A8-%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E8%A6%8B%E6%AD%BB%E4%B8%8D%E6%95%91%E5%85%A7%E5%B9%95%E6%9B%9D%E5%85%89-8%E5%A4%A7%E5%85%AC%E8%82%A1%E8%A1%8C%E5%BA%AB%E6%AD%A3%E6%82%84%E6%82%84%E6%90%9E%E5%A4%A7%E4%BA%8B-051949765.html",
+      "Content": "這波台股連續兩天跌幅創歷史紀錄的災情，各大本土投顧與外資法人普遍保持冷靜，多數認為，這場暴跌不是因為經濟衰退，而是「全球資金在為科技股去槓桿」；富邦投顧與國泰投顧等機構指出，上市櫃公司獲利基本面、AI供應鏈的實質訂單依然強勁，此次下殺是反映美國科技巨頭財報公布前的資金觀望，以及先前台股短線漲幅過大、本益比（PE）過高後的「估值校正」。\n\n兆豐投顧分析，28、29兩天的崩盤主要來自於「融資斷頭潮」，許多開槓桿的散戶與中小型主力在第一天大跌後，因維持率不足被強迫平倉，引發第二天的「多殺多」連鎖效應，屬於籌碼面大清洗。外資法人則點出，本波全球資金正從漲多的半導體族群抽離，加上外資在台股的期貨空單仍維持在高位，短線上加劇了現貨市場的提款壓力。\n\n對於網友呼籲國安基金救市，投顧董座與政府財政部相關人士皆表示，台股這波是跟隨美股進行漲多回檔，國內經濟基本面並無系統性風險或非理性失控，目前完全不符合國安基金進場的法定條件；不過，根據券商進出資料，八大公股行庫已續兩日逆勢大舉買超，主要針對台積電（2330）、聯發科（2454）等權值股進行低階護盤，試圖承接外資拋出的籌碼、穩定市場信心。\n\n摩爾投顧分析師郭哲榮認為，市場對於亞股如南韓股市大跌、中國自主研發設備等國際消息顯然「反應過度」，全球科技產業基本面沒有實質轉壞，大盤走勢比較像是市場「漲多找理由修正」，行情就像百貨公司周年慶在打折。部分中長線投資人表現相對淡定，認為過去一年多台股漲得太不合理，本來就該面臨修正。\n\n目前市場恐慌情緒仍在高點，有內行網友直言，「乾脆一次殺乾淨」，與其每天跌個幾百點折磨人，不如連續幾天開大絕，一次把高槓桿的融資客全部洗乾淨，籌碼沉澱後股市才能真正見底反彈。\n\n現階段技術面呈現破位空頭排列，大盤連續長黑K棒摜破短中期均線與4萬點大關，技術指標全面轉弱，在上方累積龐大套牢賣壓的情況下，即使出現反彈，也極可能是短線的「逃命波」或「死貓跳」，不宜視為V型反轉的起點。這波下跌的引信是美股科技股修正，微軟、Meta、蘋果、亞馬遜等科技巨頭的財報將在本周陸續登場，在國際市場塵埃落定前，外資仍有可能繼續將台股當作提款機。\n\n從籌碼面、技術面與國際市場來看，大盤尚未出現明確的「落底訊號」，短線仍有續跌或高檔震盪的風險。對於中長線、定期定額的投資人，統一投顧等機構認為，台積電等一線AI供應鏈核心股跌深後，其長線本益比已回到合理、甚至便宜的區間，長線價值型投資人此時可分批、分期進場，而非短線投機。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SWKS",
       "Date": "2026-07-29",
       "Time": "13:02:02",
@@ -231,6 +341,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/kla-corp-klac-q4-2026-050110105.html",
       "Content": "This article first appeared on GuruFocus .\n\nRevenue: $3.66 billion, a record high, up 7% sequentially and 15% year-over-year.\n\nNon-GAAP Diluted EPS: $1.05, at the upper end of guidance.\n\nGAAP Diluted EPS: $1.04, at the upper end of guidance.\n\nGross Margin: 62.4%, at the upper end of guidance range.\n\nOperating Expenses: $682 million, including $399 million in R&D and $283 million in SG&A.\n\nOperating Margin: 43.7%.\n\nNon-GAAP Net Income: $1.39 billion.\n\nGAAP Net Income: $1.36 billion.\n\nCash Flow from Operations: $906 million.\n\nFree Cash Flow: $817 million.\n\nCash and Marketable Securities: $4.9 billion.\n\nDebt: $5.9 billion.\n\nShareholder Returns: $876 million, including $571 million in share repurchases and $305 million in dividends.\n\nFree Cash Flow Margin: 28%.\n\nAdvanced Packaging Process Control Systems Revenue: Expected to grow to approximately $1.1 billion in 2026, up more than 70% year-over-year.\n\nKLA Services Revenue: $820 million, up 17% year-over-year.\n\nSeptember Quarter Revenue Guidance: $4 billion, plus or minus $200 million.\n\nSeptember Quarter Gross Margin Guidance: 62.5%, plus or minus 1 percentage point.\n\nSeptember Quarter Operating Expenses Guidance: Approximately $690 million.\n\nSeptember Quarter Non-GAAP Diluted EPS Guidance: $1.16, plus or minus $0.10.\n\nSeptember Quarter GAAP Diluted EPS Guidance: $1.14, plus or minus $0.10.\n\nWarning! GuruFocus has detected 9 Warning Signs with WERN.\n\nIs KLAC fairly valued? Test your thesis with our free DCF calculator.\n\nRelease Date: July 28, 2026\n\nFor the complete transcript of the earnings call, please refer to the full earnings call transcript .\n\nPositive Points\n\nKLA Corp ( NASDAQ:KLAC ) reported record revenue of $3.66 billion for the June quarter, surpassing the midpoint of guidance.\n\nThe company is experiencing strong demand driven by AI infrastructure investments and advanced packaging requirements.\n\nKLA's advanced packaging process control systems revenue is expected to grow by over 70% year-over-year in 2026.\n\nKLA Services delivered $820 million in revenue, up 17% year-over-year, highlighting strong customer reliance on KLA's tools.\n\nThe company has a strong cash position with $4.9 billion in cash and marketable securities, supporting capital returns to shareholders.\n\nNegative Points\n\nKLA is facing challenges from a difficult memory pricing environment and tariff headwinds impacting gross margins.\n\nThe company is dealing with supply chain constraints, particularly in long lead-time materials, affecting first-half performance.\n\nDespite strong demand, KLA's ability to raise prices to offset increased costs, particularly in memory, is limited.\n\nThe competitive landscape in China poses challenges, with local suppliers potentially gaining share if import restrictions are lifted.\n\nKLA's gross margin guidance remains flat despite a 10% revenue increase, indicating ongoing cost pressures.\n\nStory Continues\n\nQ & A Highlights\n\nQ : How do you see the trajectory for KLA's gross margins into 2027 and 2028, considering the additional supply and mix shift to tools? A : Bren Higgins, CFO, explained that KLA is starting to see benefits from leverage in the overall model, despite headwinds related to memory pricing. The company expects gross margins to be consistent with their 60% to 65% incremental gross margin model as they move through 2027, supported by new products and pricing adjustments.\n\nQ : How should we think about the growth profile of KLA's EPC business this year and into next year? A : Bren Higgins noted that the EPC business is expected to grow significantly, with the wafer equipment market outlook expanding. The company anticipates a mid-20% growth rate for the overall business in 2026, with process control business potentially growing closer to 30%.\n\nQ : What is KLA's perspective on competition in China, especially regarding domestic competition in process control? A : Richard Wallace, CEO, emphasized that KLA's competitive advantage lies in its integration of technologies and customer engagement, particularly at the leading edge. The company has established a strong competitive moat with its global applications engineers and continues to innovate to maintain its market position.\n\nQ : Can you provide more color on KLA's visibility into 2027 investments and what gives you confidence in the sustainability of the cycle? A : Richard Wallace highlighted that customer engagements and demand signals are strong, with significant investments in advanced compute and memory. The company is confident in the continuation of high investment rates and is focused on supporting customer ramps.\n\nQ : How is KLA addressing pricing and cost pressures, and what impact does this have on gross margins? A : Richard Wallace and Bren Higgins discussed that KLA is having conversations with customers about capturing value to offset increased costs. The company is leveraging new product introductions to adjust pricing and expects some normalization in memory pricing to eventually become a tailwind.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-07-29",
+      "Time": "12:51:41",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股連2天血崩2,000點！法人驚吐恐怖真相「原來最大利空早就出現」這波最慘可能掉到這價位",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%80%A32%E5%A4%A9%E8%A1%80%E5%B4%A92-000%E9%BB%9E-%E6%B3%95%E4%BA%BA%E9%A9%9A%E5%90%90%E6%81%90%E6%80%96%E7%9C%9F%E7%9B%B8-%E5%8E%9F%E4%BE%86%E6%9C%80%E5%A4%A7%E5%88%A9%E7%A9%BA%E6%97%A9%E5%B0%B1%E5%87%BA%E7%8F%BE-%E9%80%99%E6%B3%A2%E6%9C%80%E6%85%98%E5%8F%AF%E8%83%BD%E6%8E%89%E5%88%B0%E9%80%99%E5%83%B9%E4%BD%8D-045141504.html",
+      "Content": "台股延續前一日暴跌逾2,000點的慘烈賣壓，今（29）日盤中加權指數一度重挫超過2,000點，並失守4萬點大關，此波血崩走勢主要由美股科技股持續下挫、市場恐慌性去槓桿、AI概念股估值過高修正，以及散戶持股信心崩潰所共同引發；台股上半年漲幅驚人，法人普遍共識為「漲多就是最大的利空」，現階段正在進行中期調整，短線最核心測試點位在半年線約39,200點附近。\n\n台股上半年創下了歷史上最強勁的驚人漲幅，加權指數累計暴漲高達17,162.31點，半年內的累計漲幅逼近60％。先前在AI狂熱下，許多概念股的本益比（PE）被拉高到30倍、甚至40倍以上，這代表股價已經提前反應了未來兩到三年獲利成長，當市場情緒一轉變，即使公司交出「符合預期」優異財報，也會被嚴格的市場視為「不夠驚艷」，進而引發獲利了結的賣壓。\n\n這場修正是「籌碼大清洗」而非基本面崩盤。摩爾投顧分析師江國中分析，過去一年台股太熱，市場累積大量融資與槓桿資金，這波短熊急殺是專門在淘汰資金成本過高、心理壓力過大的融資客，通常「黎明前的黑暗」正是財富重新分配的開始。\n\n資深證券分析師簡伯儀示警，雖然集中市場有台積電（2330）在撐，但中小型股為主的櫃買指數已經下探回測今年4月的起漲點，短線上「多殺多」停損賣壓可能還沒結束，好股票正面臨強大的被變現壓力，現階段建議投資人宜先降低持股、保留手頭現金，不要急著盲目接刀。\n\n台股賺錢效應太強，吸引了大量毫無經驗的股市新手，瘋狂透過融資、股票質押、甚至以「四貸同堂」等高槓桿方式進場複製「無腦賺」模式。當市場充斥著這種「不能承受任何回檔」的脆弱資金時，大盤只要連續下跌500到1,000點，就會立刻觸發連鎖斷頭潮，演變成近兩天看到的多殺多血崩。\n\n當股市處於歷史高檔時，任何風吹草動都會被無限放大，美股科技股財報稍有瑕疵、亞股震盪、或是地緣政治的言語風波，在平時可能只是小幅震盪，但在「漲多」的背景下，就變成了法人機構、大戶順理成章高檔提款、獲利入袋的完美藉口。\n\n就技術線來看，大盤與年線的「正乖離」在今年上半年拉到歷史級的差距，就像拉得太緊的橡皮筋，股市最終都要回歸均線，這次連續暴跌 2,000點，本質上就是地心引力在發揮作用，強迫股價修正回合理的價值區間；「漲多」雖然帶來了這次的利空，但連續兩天的大暴跌，也正在快速消化這個利空。\n\n台新投顧總經理黃文清指出，昨日大跌時有高達百萬散戶進場定期定額或分批撿便宜，預期台股在連續急殺後，下半周有機會迎來反彈，但由於上方套牢壓力沉重，盤勢「不易出現V型反轉」，跌深的中小型族群相對有機會率先進行輪動反攻。",
+      "Language": "zh"
     },
     {
       "Ticker": ".KS11",
