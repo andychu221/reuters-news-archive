@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-30T22:32:33.104Z",
-  "total_news_count": 336,
+  "last_updated": "2026-07-30T22:40:29.247Z",
+  "total_news_count": 339,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-31",
+      "Time": "06:16:48",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Gains in Postmarket After Earnings Report",
+      "URL": "https://finance.yahoo.com/video/amazon-gains-postmarket-earnings-report-221648738.html",
+      "Content": "Amazon 2Q earnings beat Wall Street estimates Tuesday, sending stocks climbing in after hours trading. The company reporter its 5th straight quarter of cloud share growth, the 37% increase being the fastest for Amazon since the end of 2021. Bloomberg Intelligence Senior Analyst for E-Commerce Poonam Goyal, and Bloomberg Intelligence Senior Technology Analyst Anurag Rana break down the earnings numbers as they roll in.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-31",
+      "Time": "06:09:35",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon's AWS Result Is 'Remarkable,' Analyst Luria Says",
+      "URL": "https://finance.yahoo.com/video/amazons-aws-result-remarkable-analyst-220935803.html",
+      "Content": "Gil Luria, D.A. Davidson's head of technology research, reacts to Amazon Web Services' revenue growth and discusses the outlook for Amazon.com Inc. on \"Bloomberg The Close.\"",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-31",
@@ -10,6 +30,16 @@
       "Title": "Apple Earnings Look Good, T. Rowe Price's Wang Says",
       "URL": "https://finance.yahoo.com/video/apple-earnings-look-good-t-214401229.html",
       "Content": "Tony Wang, T. Rowe Price science and technology equity strategy portfolio manager, reacts to Apple's third-quarter earnings and outlook. He speaks on \"Bloomberg The Close.\"",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, AMZN",
+      "Date": "2026-07-31",
+      "Time": "05:42:07",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, July 30: Amazon Soars Over 8% After Hours on Earnings Beat",
+      "URL": "https://finance.yahoo.com/m/58e7d2fe-9db0-3fb9-b035-1ea552d56370/stock-market-today%2C-july-30%3A.html",
+      "Content": "Amazon.com (NASDAQ:AMZN), a global tech and retail giant, closed at $235.50, up 3.90%. The stock moved even higher in after-hours trading, gaining over 8% after a Q2 earnings beat that showed strong demand for its artificial intelligence (AI) cloud services. Trading volume reached 78.7 million shares, coming in about 66% above its three-month average of 47.3 million shares. Amazon.com IPO'd in 1997 and has grown 193,130% since going public.\n\nHow the markets moved today\n\nThe S&P 500 (SNPINDEX:^GSPC) closed at 7,438, up 1.66%, while the Nasdaq Composite (NASDAQINDEX:^IXIC) finished at 25,122, up 2.78%. Among e-commerce and consumer retail peers, Walmart closed down 2.73% to $111.10, and Costco Wholesale fell 2.04% to finish at $954.17.\n\nWhat this means for investors\n\nAmazon is one of several Magnificent Seven firms to report earnings this week, putting AI spending and monetization under the spotlight. Microsoft , which maintained its AI expenditure, soared today, while Meta Platforms , which refused to be drawn on its capex outlook, tumbled. It looks like Amazon could follow Microsoft's trajectory when markets open tomorrow.\n\nIts revenue increased an impressive 20% year-on-year to $200.61 billion and beat analyst expectations. The same can be said for its booming Amazon Web Services cloud revenues, which go some way to reassure investor about high capex.\n\nHowever, its spending may still come under closer scrutiny. It reported negative free cash flow of $7.6 billion in the year to June 30 and spent $54.2 billion on property and equipment in Q2, taking its spending for the year to $173 billion. Even so, crucially, Amazon continues to innovate and dominate several key sectors, including its cloud services. Moreover, unlike some of its competitors, its AI investments are already starting to pay off, which bodes well for the stock in the long term.",
       "Language": "en"
     },
     {
