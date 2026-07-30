@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-30T12:01:27.938Z",
-  "total_news_count": 170,
+  "last_updated": "2026-07-30T12:40:41.107Z",
+  "total_news_count": 173,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-07-30",
+      "Time": "20:34:30",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Stock Falls as Buybacks Hit Zero and Cash Flow Collapses",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-falls-buybacks-hit-123430898.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) fell 8.39% premarket after reporting second-quarter diluted earnings of $6.18 a share, down 13% from a year earlier and well short of the $7.22 analysts expected . Revenue rose 28% to $60.80 billion, ahead of the $60.17 billion consensus, but costs and expenses climbed 55% to $42.03 billion, including $2.40 billion of legal charges and $1.18 billion of severance from May's headcount reduction. Adjusting for both items, earnings would have been above consensus. Operating margin fell to 31% from 43%.\n\nThe story is in CapEx. Capital spending reached $31.08 billion in the quarter, leaving free cash flow at $784 million against $8.55 billion a year earlier, despite net cash provided by operating activities of $31.9 billion, up 25% from a year earlier. Long-term debt rose to $83.66 billion from $58.74 billion at year-end after $24.91 billion of issuance, and share repurchases were zero, against $10.17 billion in the same quarter last year. Reality Labs lost $4.62 billion on $431 million of revenue.\n\nThird-quarter revenue is guided to $61 billion to $64 billion, with the midpoint below what analysts expected. Full-year capital spending narrowed to $130 billion to $145 billion from $125 billion to $145 billion with CEO Mark Zuckerberg saying, there's just nowhere near enough compute for all the demand.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-30",
+      "Time": "20:30:28",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Stock Jumps as Azure Passes $100 Billion in Revenue",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-jumps-azure-passes-123028440.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) rose 7.63% premarket after fiscal fourth-quarter revenue reached $90.0 billion, up 18% and ahead of the $87.62 billion analysts expected . Diluted earnings came to $4.81 a share, up 32%, or $4.74 excluding the effect of Microsoft's OpenAI investment. Azure grew 43%, accelerating from 40% in the prior quarter, and passed $100 billion of revenue for the full fiscal year.\n\nCommercial remaining performance obligations rose 84% to $678 billion, with Microsoft saying sequential growth came from customers other than AI model developers. Microsoft Cloud revenue reached $59.3 billion, up 27%. More Personal Computing revenue fell 4% to $12.85 billion, with Windows OEM and devices down 7% and Xbox content and services down 10%.\n\nSpending kept pace. Additions to property and equipment reached $35.8 billion in the quarter against $17.1 billion a year earlier, cutting free cash flow 23% to $19.64 billion. CFO Amy Hood said capital expenditure would grow further in fiscal 2027, and that Microsoft would remain free cash flow positive. She also noted the company will extend the useful life of office and data center buildings to 25 years from 15.\n\nMicrosoft guided $89.85 to $90.95 billion in fiscal first quarter revenue, or around 16% growth year over year, coming in above the $89.66 billion consensus.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-07-30",
+      "Time": "20:30:02",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft stock surges on strong quarter, record cloud revenue",
+      "URL": "https://finance.yahoo.com/markets/stocks/article/microsoft-stock-surges-on-strong-quarter-record-cloud-revenue-123002444.html",
+      "Content": "What happened: Microsoft ( MSFT ) surged more than 9% in premarket trading on Thursday.\n\nWhat's behind the move: The software and cloud giant reported fourth quarter earnings on Wednesday that beat Wall Street's estimates on the top and bottom lines as its Azure service topped $100 billion in revenue for the first time.\n\nMicrosoft said it spent $41 billion on capital expenditures, including leases, in the quarter, below the anticipated $42 billion.\n\nThe company's Intelligent Cloud segment saw revenue of $39.3 billion versus expectations of $38.1 billion.\n\nWhat else you need to know: Microsoft, like much of the tech industry, has been beset by concerns about aggressive capital expenditures and their impact on the company's free cash flow, as well as whether those investments are paying off in terms of improved revenue.\n\nInvestors appear relieved that capital expenditures came in below expectations, and its plans for 2026 were unchanged.\n\nLast week, Google parent Alphabet ( GOOG , GOOGL ) said it plans to spend between $195 billion and $205 billion on capex for the year, up from its prior estimate of $180 billion to $190 billion and well ahead of analysts' expectations of $186.4 billion. That sent Alphabet stock tumbling more than 6% on the day .\n\nMicrosoft stock is down 19% year to date.\n\nInes Ferre is a senior business reporter for Yahoo Finance. Follow her on X at @ines_ferre .\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA, MU",
       "Date": "2026-07-30",
