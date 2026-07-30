@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-30T14:00:58.531Z",
-  "total_news_count": 197,
+  "last_updated": "2026-07-30T14:15:11.395Z",
+  "total_news_count": 198,
   "news": [
+    {
+      "Ticker": "INTC, TSM",
+      "Date": "2026-07-30",
+      "Time": "21:57:23",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC is moving in on Intel’s turf; Why Intel is up anyway",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tsmc-moving-intel-turf-why-135723456.html",
+      "Content": "Intel's stock remains strong today despite a report from The Information indicating that Taiwan Semiconductor Manufacturing Co. (TSMC) is developing an \"EMIB-like\" advanced packaging technology, potentially challenging a key advantage for Intel's Foundry business. However, the prospect of TSMC neutralizing this advantage hasn't dented Intel's share price, as the broader tech market is buoyed by massive AI spending commitments from companies like Microsoft and Meta.\n\nHere is why Intel's stock is holding up today, despite the long-term threat from TSMC.\n\nThe report from The Information detailed that Taiwan Semiconductor Manufacturing Co. (TSMC) is developing a new advanced packaging technology internally referred to as \"EMIB-like.\"\n\nThis is significant because Intel's EMIB (Embedded Multi-die Interconnect Bridge) has been a crucial differentiator. While TSMC dominates the current AI packaging market with its CoWoS (Chip-on-Wafer-on-Substrate) technology, CoWoS is bottlenecked. The industry is effectively sold out of CoWoS capacity. Intel has been pitching its EMIB technology as a faster, cheaper alternative that doesn't rely on the massive silicon interposers that CoWoS requires.\n\nIf TSMC successfully launches an \"EMIB-like\" alternative, it neutralizes one of the main reasons chip designers (like Nvidia and Google) might have migrated to Intel Foundry for packaging.\n\nSo why is Intel brushing off this TSMC news and trading higher today? The answer lies in the earnings reports that just dropped from Microsoft and Meta, which have fundamentally reassured investors that the massive build-out of AI infrastructure—and the demand for the chips Intel makes and packages—is not slowing down.\n\nGoing into this week, there was immense anxiety that hyperscalers might signal a pullback in AI capital expenditure (capex). Instead, the market got exactly the opposite.\n\nThe threat of TSMC developing an EMIB-like packaging solution is a real concern for Intel's long-term foundry ambitions. However, in the immediate term, there is so much money flowing into AI hardware that investors believe there will be more than enough demand to keep both TSMC and Intel operating at maximum capacity.\n\nTSMC is moving in on Intel's turf; Why Intel is up anyway\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-30",
