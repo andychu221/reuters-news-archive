@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-30T11:01:01.271Z",
-  "total_news_count": 156,
+  "last_updated": "2026-07-30T11:15:21.647Z",
+  "total_news_count": 157,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-30",
+      "Time": "19:04:15",
+      "Source": "Yahoo Finance",
+      "Title": "Qualcomm shares slide as higher costs, Apple-related weakness cloud profit forecast",
+      "URL": "https://finance.yahoo.com/technology/articles/qualcomm-shares-slide-higher-costs-110415585.html",
+      "Content": "July 30 (Reuters) - Qualcomm shares fell about 5% in premarket trading on Thursday after the chipmaker's warning about higher memory costs ‌and a steeper decline in Apple revenue raised concerns about near-term ‌profit growth.\n\nA surge in AI infrastructure spending has tightened semiconductor supply chains, driving up costs ​for memory, wafers, packaging and testing. Qualcomm plans to pass on those increases to customers through double-digit price hikes.\n\nMore from Yahoo Scout\n\nWhy did Qualcomm shares fall in premarket trading?\n\nWhat happened to Qualcomm's Apple modem business share?\n\nWhat are Qualcomm's AI and data center growth plans?\n\nHow will AI infrastructure spending affect Qualcomm's costs?\n\n\"Cost increases and higher spending are significantly impacting margins, and while the company is trying to raise prices to compensate, the ‌forthcoming data-center ramp seems likely ⁠to more than offset that pricing action,\" Bernstein analysts said.\n\nQualcomm said on Wednesday the benefits from price increases would ⁠emerge gradually over the next couple of quarters, and margins will be under pressure in the near term as existing contracts expire and new product cycles ​begin.\n\nFor the ​current quarter, Qualcomm forecast adjusted profit ​per share in the range ‌of $2.05 to $2.25, well below LSEG-compiled analysts' average estimate of $2.36.\n\nThe company said its modem share in the upcoming iPhone would be materially lower than its prior 20% estimate, indicating the Apple business will shrink faster than anticipated.\n\nThe chipmaker remained optimistic about its AI and data center expansion, saying growth in non-handset ‌revenue is expected to accelerate to more ​than 60% in fiscal 2027 from 24% in ​fiscal 2026.\n\nStill, analysts at TD ​Cowen cautioned that the diversification story would take time ‌to play out, noting that initial ​data center programs carry ​lower margins.\n\nAt least six analysts cut their price targets on the stock, with the mean target now at $208.68.\n\nQualcomm trades at 14.31 times ​its expected earnings over ‌the next 12 months, compared with 43.85 times for Intel and ​17.49 times for Nvidia .\n\n(Reporting by Harshita Mary Varghese in Bengaluru; Editing ​by Joyjeet Das and Leroy Leo)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-30",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-07-30",
       "Time": "18:05:00",
       "Source": "Yahoo Finance",
