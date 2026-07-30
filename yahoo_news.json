@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-30T20:01:04.870Z",
-  "total_news_count": 296,
+  "last_updated": "2026-07-30T20:15:52.132Z",
+  "total_news_count": 303,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-07-31",
+      "Time": "04:05:23",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Scores Needed Win, But Bigger Test Remains",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-scores-needed-win-bigger-200523007.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) completed a four-year U.S. government program validating its 18A manufacturing technology for secure defense applications, giving its struggling foundry business a useful credibility boost. However, Wedbush warned that small government volumes will not resolve the larger questions around commercial customers and profitability.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel Foundry manufactures chips designed internally and by outside customers, placing Intel in competition with Taiwan Semiconductor Manufacturing. The turnaround depends on converting its manufacturing investments into external orders while improving factory utilization and margins.\n\nThe Rapid Assured Microelectronics PrototypesCommercial program, launched in September 2021, helped customers develop and test chips using Intel 18A. Completion positions those customers to move into secure, higher-volume manufacturing through the government's Secure Enclave initiative. Intel said the program produced validated prototypes, expanded design tools and demonstrated readiness for scaled production.\n\nWe see this news as a modest positive for INTC, and mostly a credibility datapoint: 18A now carries a multi-year government-validated enablement record, which matters for a foundry still converting interest into committed volume. Defense volumes are small, so the question in our view remains 1) how much commercial 18A and 14A business will Intel win, and 2) where can GMs go from here, Wedbush analyst Matt Bryson wrote.\n\nThe program's public roster has included Boeing ( NYSE:BA ), Northrop Grumman ( NYSE:NOC ), Nvidia ( NASDAQ:NVDA ) and Microsoft ( NASDAQ:MSFT ), although Intel did not identify customers moving into paid production. Wedbush said completion marks a transition from subsidized prototypes toward customers paying commercial prices.\n\nInvestor Takeaway On Intel Stock\n\nThe financial challenge remains severe. Intel Foundry generated $5.8 billion of second-quarter revenue , but only $293 million came from external customers. The unit posted a $2.1 billion operating loss, although that improved from $3.2 billion a year earlier. Higher-cost 18A wafers also offset some benefits from rising revenue.\n\nInvestors should watch for named commercial 18A customers, committed wafer volumes and evidence that utilization is lifting gross margins. Intel's next-generation 14A process also needs major external design wins.\n\nGovernment validation strengthens Intel's manufacturing credentials. Without sizable commercial contracts and narrowing foundry losses, however, RAMP-C remains evidence of technical progress rather than proof of a profitable foundry turnaround.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-31",
+      "Time": "04:04:48",
+      "Source": "Yahoo Finance",
+      "Title": "Qualcomm's Data Center Bet Meets Harsh Reality",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-data-center-bet-meets-200448265.html",
+      "Content": "This article first appeared on GuruFocus .\n\nQualcomm ( NASDAQ:QCOM ) fell about 4% Thursday after weak fiscal fourth-quarter profit guidance and a faster-than-expected decline in Apple ( NASDAQ:AAPL ) business overshadowed its expanding automotive, IoT and AI data-center opportunity. The selloff shows investors want proof that diversification can replace smartphone revenue without introducing new margin pressure.\n\nWarning! GuruFocus has detected 3 Warning Signs with QCOM.\n\nIs QCOM fairly valued? Test your thesis with our free DCF calculator.\n\nQualcomm generates most of its sales from Snapdragon processors, modems and connectivity chips, while its licensing division collects royalties on wireless patents. The company is expanding into automotive systems, industrial devices and custom AI infrastructure to reduce its handset dependence.\n\nFiscal third-quarter revenue declined 4% to $9.95 billion but topped the $9.67 billion consensus. Adjusted earnings reached $2.21 per share, narrowly missing expectations, as handset revenue dropped 20% to $5.09 billion. Automotive revenue rose 61%, while IoT advanced 9%.\n\nMemory shortages, higher component costs and an unfavorable mix toward cheaper or older Android devices are pressuring the handset business. Qualcomm also expects its share of components in the next iPhone to fall materially below its previous 20% assumption, accelerating the loss of Apple chip revenue even as patent royalties remain intact.\n\nMorgan Stanley ( NYSE:MS ) cut its target to $220 from $231, while RBC, Wells Fargo and HSBC issued sharper reductions. Analysts nevertheless see potential in Qualcomm's two custom data-center programs, which are scheduled to begin generating revenue in the December quarter.\n\nQualcomm targets $5 billion of data-center revenue in fiscal 2027 and more than $15 billion by fiscal 2029. It also expects non-handset revenue to reach $40 billion by 2029.\n\nInvestor Takeaway On Qualcomm Stock\n\nQualcomm guided for fiscal fourth-quarter adjusted earnings of $2.05 to $2.25 per share, below the $2.36 consensus, on revenue of $9.7 billion to $10.5 billion.\n\nInvestors should monitor whether planned September price increases restore chip margins, Android demand stabilizes and initial hyperscaler programs ramp on schedule. Automotive and IoT growth provide credible diversification, but the $5 billion fiscal 2027 data-center target appears demanding for a late entrant whose early deployments may carry lower margins.\n\nClear customer disclosures and rising data-center revenue would strengthen the turnaround case. Delays, persistent memory inflation or faster Apple erosion would leave Qualcomm's legacy pressures arriving before its new growth engines reach scale.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-31",
@@ -13,13 +33,43 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-07-31",
+      "Time": "03:57:35",
+      "Source": "Yahoo Finance",
+      "Title": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-falls-3-1-195735279.html",
+      "Content": "This article first appeared on GuruFocus .\n\nQualcomm ( NASDAQ:QCOM ), a wireless-chip and technology-licensing company, fell approximately 3.1% in Thursday's regular-session trading after issuing a weaker-than-expected profit forecast. At least nine analysts reduced their price targets following the report. Qualcomm projected adjusted earnings between $2.05 and $2.25 per share for the current quarter, below the $2.36 analyst estimate.\n\nWarning! GuruFocus has detected 3 Warning Signs with QCOM.\n\nIs QCOM fairly valued? Test your thesis with our free DCF calculator.\n\nManagement said rising memory, wafer, packaging and testing expenses were increasing production costs as artificial-intelligence infrastructure demand tightened semiconductor supply. Qualcomm plans double-digit price increases intended to offset some of that pressure. However, Bernstein analysts said higher operating expenses and production costs could continue affecting margins, while initial revenue from data-center programs may not provide enough profitability to offset the near-term pressure.\n\nQualcomm expects its share of modem supply for Apple ( NASDAQ:AAPL ), a consumer-technology company producing iPhones and other devices, to fall materially below the 20% level previously anticipated for upcoming models. The company expects revenue from businesses outside smartphones to increase more than 60% during fiscal 2027 after growing approximately 24% during fiscal 2026. TD Cowen analysts warned that diversification would require time and that early data-center programs could carry lower margins. Investors may now assess whether price increases and automotive, computer and data-center growth can offset rising production costs and declining Apple modem revenue.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, TSM, NVDA",
       "Date": "2026-07-31",
       "Time": "03:53:43",
       "Source": "Yahoo Finance",
       "Title": "TSMC's next AI chip move sends Intel stock soaring",
       "URL": "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) shares jumped about 12% and Taiwan Semiconductor Manufacturing ( NYSE:TSM ) gained nearly 7% on Thursday after a report said TSMC is developing a new advanced chip-packaging technology similar to Intel's approach.\n\nTSMC is working on a packaging method resembling Intel's Embedded Multi-die Interconnect Bridge, or EMIB, technology, The Information reported, citing people familiar with the matter. The company is said to be partnering with Taiwan-based Kinsus Interconnect Technology on the project.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nTSMC currently relies on its Chip-on-Wafer-Substrate, or CoWoS, packaging process for advanced artificial intelligence chips used by customers including Nvidia (NVDA) and Advanced Micro Devices (AMD). As demand for AI processors has increased, advanced packaging has emerged as a production constraint across the semiconductor industry.\n\nIntel has promoted EMIB as an alternative to conventional packaging, saying the technology connects multiple chip components with silicon bridges, allowing larger and more complex processors while helping improve efficiency and lower manufacturing costs.\n\nThe report also said Nvidia is evaluating EMIB for a future processor. Separately, Intel last week said it entered an agreement with China's Lens Technology to collaborate on advanced semiconductor packaging.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-31",
+      "Time": "03:53:02",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-nearly-2-195302646.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ), a consumer-technology company producing iPhones, computers and connected devices, fell nearly 2% in Thursday's regular-session trading before its scheduled earnings report. Analysts expect June-quarter revenue to increase 15.5% to approximately $108.65 billion, potentially representing Apple's strongest growth for that quarter in five years. Estimated iPhone sales growth of 20.8% could provide the largest contribution to the anticipated increase.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nProfit is expected to rise 18.1%, although analysts forecast Apple's gross margin will decline to approximately 47.9%. The company has maintained iPhone prices despite higher component expenses, making pricing and margin guidance important parts of the report. Investors may also focus on demand in China and whether the current iPhone cycle can sustain growth after the anticipated June-quarter acceleration.\n\nApple separately introduced Apple Upgrade, a U.S. leasing program administered by Klarna, a financial-technology company providing payment services. The program offers one- or two-year leases for iPhones and Apple Watches and longer terms for Macs and iPads, with eligible customers able to exchange devices for newer models. Monthly payments start at $17.99 for an iPhone and $11.99 for an Apple Watch. The initiative could encourage more frequent upgrades and increase purchases through Apple's direct channels, although its eventual financial contribution has not been quantified. Investors may now assess whether earnings guidance and the leasing program can offset concerns about component inflation and pressure on hardware margins.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-07-31",
+      "Time": "03:51:00",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Stock Jumps 7% as Microsoft Revives AI-Chip Trade",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tsmc-stock-jumps-7-microsoft-195100756.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTaiwan Semiconductor Manufacturing ( NYSE:TSM ), the world's largest contract chipmaker, jumped approximately 7% in Thursday's U.S. regular-session trading as Microsoft's results renewed investor confidence in AI infrastructure demand. The Philadelphia Semiconductor Index increased approximately 6.7%, placing it on course to end a five-session decline. Microsoft reported 43% Azure growth and maintained its underlying data-center expansion plans despite lowering its reported capital-spending forecast through an accounting change.\n\nWarning! GuruFocus has detected 3 Warning Signs with SSNLF.\n\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\n\nTSMC manufactures advanced processors designed by major customers across artificial intelligence, smartphones and high-performance computing. The company generated second-quarter revenue of $40.2 billion, representing a 36% year-over-year increase in New Taiwan dollar terms. TSMC reported a gross margin of 67.7% and an operating margin of 60.3%, both exceeding the upper ends of its earlier guidance ranges.\n\nManagement expects third-quarter revenue between $44.6 billion and $45.8 billion, with a gross margin ranging from 65% to 67%. The midpoint of the revenue forecast represents approximately 12.4% sequential growth from the second-quarter result. Microsoft's continued infrastructure expansion may support demand for processors manufactured using TSMC's advanced production technologies, although the financial effect will depend on customer orders and product mix. Investors may now focus on whether hyperscalers maintain their AI budgets and whether TSMC can expand advanced capacity without materially weakening its industry-leading margins.",
       "Language": "en"
     },
     {
@@ -63,6 +113,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSLA",
+      "Date": "2026-07-31",
+      "Time": "03:37:22",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Rival BYD Just Entered Musk's Next Big Market",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-rival-byd-just-entered-193722689.html",
+      "Content": "This article first appeared on GuruFocus .\n\nBYD ( BYDDY ) is preparing to unveil its first humanoid robot in August, expanding its rivalry with Tesla beyond electric vehicles and into embodied AI. The launch could give BYD an early commercial testing ground across its vast retail network, but investors still lack critical details on the robot's cost, capabilities and production readiness.\n\nWarning! GuruFocus has detected 7 Warning Sign with BYDDY.\n\nIs BYDDY fairly valued? Test your thesis with our free DCF calculator.\n\nBYD is China's largest electric-vehicle manufacturer and also produces batteries, electronics and energy-storage systems. Its manufacturing scale, supply-chain control and extensive dealership footprint could help it develop and deploy robots more cheaply than standalone startups.\n\nThe company plans to introduce the robot at its Di Space experience centers, beginning with a presentation in Zhengzhou. BYD reportedly said the robots will be more than just a concept product and will be able to interact with visitors. However, it has not disclosed a product name, design, technical specifications or sales timetable.\n\nExecutive Vice President Stella Li has identified retail as the first target market. My goal is to place two or three robots in every store, she said, envisioning machines that explain vehicle features, demonstrate products and assist sales staff rather than replace them.\n\nBYD established a dedicated humanoid-robotics laboratory in late 2024 and has tested machines from Chinese developers including Unitree and UBTech. Longer term, the technology could move into factories, homes and other service environments.\n\nThe move places BYD against Tesla's ( NASDAQ:TSLA ) Optimus program and Chinese rivals including XPeng. It also arrives as the U.S. restricts imports of new Chinese humanoid robots, potentially limiting BYD's access to a major overseas market.\n\nInvestor Takeaway On Byd Stock\n\nThe August demonstration is the immediate test. Investors should focus on whether the robot performs useful tasks autonomously, how long it can operate, its estimated production cost and whether BYD announces paid deployments rather than demonstrations.\n\nRetail use offers a relatively controlled environment and could generate operating data before factory deployment. However, the financial contribution will remain speculative until BYD provides unit targets and commercialization timelines.\n\nThat discipline matters after BYD's first-quarter revenue fell 11.8% and net profit dropped 55.4%. A credible low-cost robot platform could create a new growth engine. A polished prototype without measurable economics would add excitement but little immediate value.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-07-31",
       "Time": "03:35:33",
@@ -93,7 +153,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "QCOM",
+      "Ticker": "AAPL, QCOM",
       "Date": "2026-07-31",
       "Time": "03:28:30",
       "Source": "Yahoo Finance",
@@ -123,7 +183,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, TSM, AMD",
       "Date": "2026-07-31",
       "Time": "03:22:42",
       "Source": "Yahoo Finance",
@@ -143,7 +203,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, AMZN",
+      "Ticker": "TSLA",
+      "Date": "2026-07-31",
+      "Time": "03:19:05",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Stock Rises as Robotaxi Service Expands to Miami",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-robotaxi-expands-191905008.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) shares climbed about 3% on Thursday after the electric-vehicle maker expanded its Robotaxi service to Miami, broadening its autonomous ride-hailing rollout beyond Texas.\n\nTesla's Robotaxi service initially operates in selected areas across western and central Miami using Model Y vehicles equipped with the company's Full Self-Driving software. The move marks the next step in Tesla's strategy to grow its autonomous transportation business as competition in the sector intensifies.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe Miami expansion follows last month's Robotaxi launch in Austin and places Tesla in more direct competition with Alphabet's Waymo, which has been expanding its own driverless ride-hailing operations across several U.S. cities.\n\nTesla has increasingly positioned autonomous driving as a key long-term growth opportunity alongside its electric-vehicle business. The latest rollout comes after the company reported record second-quarter deliveries of 480,126 vehicles, highlighting continued momentum in its core automotive operations while investing in self-driving technology.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM, GOOGL, AMZN",
       "Date": "2026-07-31",
       "Time": "03:14:01",
       "Source": "Yahoo Finance",
@@ -253,7 +323,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "ADI, TXN",
+      "Ticker": "ON, ADI, TXN",
       "Date": "2026-07-31",
       "Time": "02:17:00",
       "Source": "Yahoo Finance",
