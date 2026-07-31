@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T18:01:41.466Z",
-  "total_news_count": 254,
+  "last_updated": "2026-07-31T18:15:57.572Z",
+  "total_news_count": 255,
   "news": [
     {
       "Ticker": "NVDA",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-08-01",
       "Time": "01:31:30",
       "Source": "Yahoo Finance",
@@ -70,6 +70,16 @@
       "Title": "Veteran Bank Revamps Amazon Stock Price Target for 2027",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-revamps-amazon-stock-171129590.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) received a higher price target from TD Cowen after its latest results showed faster cloud growth and stronger operating performance.\n\nTD Cowen lifted its target to $350 from $340 and kept a Buy rating on Amazon. The firm said second-quarter revenue and operating income were ahead of consensus estimates by 2% and 11%, respectively, excluding one-time items.\n\nWarning! GuruFocus has detected 3 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nAmazon's cloud unit, AWS, was a key factor behind the revised view. AWS revenue growth accelerated to 37% year over year, while the company's chips and artificial intelligence business reached a run rate above $25 billion. Amazon's backlog also increased to $496 billion.\n\nAmazon's third-quarter revenue outlook was slightly below expectations, although operating income guidance came in about 6% above consensus at the upper end. The company also raised its 2026 capital spending forecast to roughly $220 billion.\n\nTD Cowen raised its Amazon revenue estimates by an average of 4.5% annually from 2027 through 2031. AWS revenue forecasts increased by about 18% annually over the same period, while operating income estimates rose by roughly 17% on average.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-01",
+      "Time": "01:08:12",
+      "Source": "Yahoo Finance",
+      "Title": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/spacex-short-interest-soars-ahead-170812770.html",
+      "Content": "(Bloomberg) -- Short sellers have piled into SpaceX at a rapid pace ahead of two major milestones next week: the company's first earnings report as a public company and the release of hundreds of millions of locked-up shares.\n\nMost Read from Bloomberg\n\nSingapore's Gated Island for the Rich Is Marred by Decayed Homes\n\nAnthropic AI Models Hacked Three Organizations During Tests\n\nMicrosoft's $450 Billion Jump Is Biggest in Stock Market History\n\nChip Stocks Post Biggest Advance Since April 2025: Markets Wrap\n\nMoonshot's Kimi Uses 20,000 Nvidia Chip Cluster From Alibaba\n\nShort interest stood at 219.3 million shares as of July 29, equal to about 34% of the shares available for public trading, up from 23.3 million when the data was first reported on June 16, according to S3 Partners. The bearish position is worth $24.6 billion, exceeding the value of short bets against Tesla Inc., the other major public company led by Elon Musk\n\n\"The big bet right now is on the unlock and effectively that there won't be anything announced on earnings that will overcome the volume of unlocked shares coming to market,\" said Sam Pierson, director of research at S3.\n\nSpaceX is scheduled to report its first quarterly results as a public company on Aug. 4, less than two months after its blockbuster initial public offering. Two days later, as many as 911.5 million shares could become available for trading under the company's staggered lock-up arrangement.\n\nAs short sellers position for those events, the cost of betting against Musk's rocket, satellite and artificial intelligence company has also risen.\n\n\"There is a little friction for shorts who want to keep the position on through next week, after that it is very likely the borrow cost will go back to being easy to borrow,\" Pierson added.\n\nSpaceX currently has about 640 million shares available for trading, or roughly 5% of its total shares outstanding. The first lock-up expiration will more than double that proportion to about 12%, according to S3.\n\nThe stock fell 3% to $108.83 at 12:48 p.m. in New York, about 19% below its IPO price.\n\n\"There are three key drivers to monitor over the next year,\" according to Pierson. \"The unlock ladder is the nearest. S&P 500 entry is another — seasoning rules put it out to mid-2027 at the earliest, but the market is already handicapping it.\"\n\nThe third, Pierson adds, is a possible Tesla combination, \"which would fast-track that inclusion.\"\n\nMost Read from Bloomberg Businessweek\n\nHow a Few Hundred Dollars Could Manipulate Election Prediction Markets\n\nTokenmaxxing Is Dead. Now Comes the Belt Tightening\n\nWhy Wall Street Is Getting Angry\n\nThe Menopause Gold Rush Is Failing Women\n\nCanada's MAGA-Friendly Premier Advances Her Pro-Oil Agenda\n\n©2026 Bloomberg L.P.",
       "Language": "en"
     },
     {
@@ -263,7 +273,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "TSLA, META",
       "Date": "2026-08-01",
       "Time": "00:10:00",
       "Source": "Yahoo Finance",
