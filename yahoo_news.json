@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-31T13:33:21.143Z",
-  "total_news_count": 188,
+  "last_updated": "2026-07-31T13:40:25.026Z",
+  "total_news_count": 189,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-07-31",
+      "Time": "21:30:05",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon's surging cloud business is growing at a breakneck pace: Chart",
+      "URL": "https://finance.yahoo.com/technology/article/amazons-surging-cloud-business-is-growing-at-a-breakneck-pace-chart-133005998.html",
+      "Content": "Amazon's ( AMZN ) AWS business has entered a new orbit.\n\nThe company's key cloud computing business notched a 37% sales surge in the second quarter , a growth rate acceleration of 8 percentage points sequentially. Gains were powered by strength in both core and AI services as artificial intelligence speeds up customers' cloud migrations and drives greater usage across the platform.\n\nWhat's more, AWS Margins surged 520 basis points from the previous year to 38.1%.\n\nExecutives on the earnings call cited a positive correlation between AI spending and core service demand.\n\nAWS's backlog was $496 billion with growth of about 100% year over year. Management noted the potential for AWS to eventually reach $1 trillion in revenue at scale with compelling margins.\n\nThe stats on AWS right now are stunning.\n\nAWS revenue over the last 12 months was higher than the revenue of 474 companies in the S&P 500 ( ^GSPC ), Creative Planning strategist Charlie Bilello pointed out. The business has almost doubled its revenue in under four years.\n\n\"Amazon's results reinforced our thesis that AWS is benefiting from AI demand and capacity gains, which is translating to revenue outperformance and stronger margins,\" KeyBanc analyst Justin Patterson wrote in a note. \"While capex will continue ramping, we believe the combination of AI demand and improving Retail margins should support underlying operating profit and EPS growth.\"\n\nAmazon stock rose 12% in early trading on Friday, as AWS drove Amazon's better-than-expected quarter.\n\nFor the quarter, Amazon delivered earnings per share of $5.75 on revenue of $200.6 billion. Analysts were anticipating earnings per share of $1.82 and sales of $197 billion.\n\nFree cash flow turned negative, with an outflow of $7.6 billion, a 142% decline year over year, as the company spends billions on AI infrastructure.\n\nBut as long as those investments are powering AWS upside, all looks forgiven.\n\n\"Bottom line: AWS strength with backlog at a record $496 billion, demand continuing to outpace capacity, accelerating revenue, ongoing ecommerce strength with Anthropic-cherry-on-the-top gains continues to argue for long-term upside,\" Guggenheim analyst Simeon Siegel said.\n\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the ' Power Players With Brian Sozzi' podcast and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nYahoo Finance\n\nYahoo Finance Executives on the earnings call cited a positive correlation between AI spending and core service demand.\n\n<a href=\"https://finance.yahoo.com/markets/stocks/article/amazon-stock-soars-as-e-commerce-giants-aws-cloud-business-booms-in-home-run-quarter-122456315.html\" data-ylk=\"slk:Amazon%20stock%20rose%2012%25;elm:context_link;itc:0;sec:content-canvas;cpos:4;pos:1;_E:mb_qualified_link;ct:story;outcm:mb_qualified_link;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":&quot",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL",
       "Date": "2026-07-31",
@@ -93,7 +103,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "META, AAPL",
       "Date": "2026-07-31",
       "Time": "20:18:32",
       "Source": "Yahoo Finance",
