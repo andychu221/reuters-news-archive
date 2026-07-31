@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-31T10:01:13.936Z",
-  "total_news_count": 154,
+  "last_updated": "2026-07-31T10:15:07.150Z",
+  "total_news_count": 155,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-31",
+      "Time": "18:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple is growing without the AI spending spree engulfing Big Tech: Chart of the Day",
+      "URL": "https://finance.yahoo.com/markets/article/apple-is-growing-without-the-ai-spending-spree-engulfing-big-tech-chart-of-the-day-100000942.html",
+      "Content": "Apple ( AAPL ) is growing like an AI spender. It is not spending like one.\n\nRevenue jumped 16% to $109.4 billion in the June quarter, powered by a 22% rebound in iPhone sales and 29% growth from the Mac. Earnings per share rose 29% to $2.02, comfortably beating Wall Street's forecast.\n\nApple also reported a gross margin of 50.1%, meaning the company kept just over half of each sales dollar after the direct costs of producing its devices and services.\n\nThat headline needs an asterisk. Tariff refunds added roughly two percentage points to gross margin, putting the underlying figure closer to 48.1%.\n\nEven after stripping out that boost, Apple delivered the combination of faster growth and strong profitability without an enormous AI infrastructure bill.\n\nMicrosoft ( MSFT ), Alphabet ( GOOGL ), Meta ( META ), and Amazon ( AMZN ) are pouring hundreds of billions of dollars into chips, data centers, and power infrastructure.\n\nThat spending can pay off. Microsoft's record $41 billion quarterly buildout came alongside faster Azure growth, while Google Cloud recently delivered accelerating growth and widening profitability .\n\nBut the bills keep rising. Apple is taking another route.\n\nThat route is cheaper, but it is not free.\n\nApple expects revenue growth to slow to between 9% and 11% in the September quarter as foreign exchange and worsening supply constraints weigh on the iPhone, Mac, and iPad.\n\nMargins face an even bigger squeeze. Apple guided to a gross margin of 47% to 48%, including another one-point benefit from tariff refunds. Strip that out, and the midpoint falls to roughly 46.5%.\n\nManagement said more than all of the decline from June's underlying 48.1% margin is explained by higher memory costs. Apple expects those costs to rise again this quarter and keep climbing beyond September.\n\nIts research and development spending jumped 32% to $11.7 billion, so this is hardly a company starving AI of investment. Apple is relying on a mix of on-device processing, its own servers, and third-party cloud capacity rather than building the same vast public-cloud network as its rivals.\n\nCEO Tim Cook acknowledged that Siri AI could eventually make Apple more capital intensive. For now, management said the cost — and how much Apple can recover through paid iCloud upgrades — remains uncertain.\n\nThe quarter also showed where Apple's latest burst of growth came from.\n\nServices revenue rose 12% and missed expectations. Hardware did the heavy lifting, with iPhone growth running well ahead of services for a third straight quarter.\n\nStory Continues\n\nApple still has to turn Siri AI into another upgrade cycle while memory costs squeeze the economics of the devices carrying the growth.\n\nAs Cook put it, \"We're in what I would characterize as a 100-year flood on the memory pricing.\"\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nBloomberg, Yahoo Finance analysis of AlphaSpace data\n\nBloomberg, Yahoo Finance analysis of AlphaSpace data Microsoft ( MSFT ), Alphabet ( GOOGL ), Meta ( META ), and Amazon ( AMZN ) are pouring hundreds of billions of dollars into chips, data centers, and power infrastructure.\n\nThat spending can pay off. Microsoft's record $41 billion quarterly buildout came alongside faster Azure growth, while <a href=\"https://finance.yahoo.com/markets/article/google-cloud-is-becoming-alphabets-new-profit-engine-chart-of-the-day-090000053.html\" data-ylk=\"slk:Google%20Cloud%20recently%20delivered%20accelerating%20growth%20and%20widening%20profitability;elm:context_link;itc:0;sec:content-canvas;cpos:7;pos:1;_E:mb_qualified_link;ct:story;outcm:\n\nBloomberg, Yahioo Finance analysis of AlphaSpace data\n\nBloomberg, Yahioo Finance analysis of AlphaSpace data Services revenue rose 12% and missed expectations. Hardware did the heavy lifting, with iPhone growth running well ahead of services for a third straight quarter.\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-31",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-07-31",
       "Time": "17:35:00",
       "Source": "Yahoo Finance",
