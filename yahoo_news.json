@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-31T12:00:47.832Z",
-  "total_news_count": 173,
+  "last_updated": "2026-07-31T12:15:48.204Z",
+  "total_news_count": 174,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-07-31",
+      "Time": "20:09:45",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon fuels AI optimism; Apple sinks premarket on weak outlook",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-fuels-ai-optimism-apple-120945185.html",
+      "Content": "Investing.com - U.S. stock index futures extended gains on Friday as easing concerns over the durability of the artificial intelligence boom boosted technology shares, with Amazon leading gains after strong cloud growth helped offset fresh disappointment from Apple's cautious outlook.\n\nOptimism around AI spending and demand helped lift semiconductor stocks after Amazon reported its strongest cloud growth in more than four years and highlighted rapid expansion in its custom chip business. However, weakness in Apple and several earnings laggards kept investors selective ahead of the opening bell.\n\nBy 05:42 ET (09:42 GMT), Dow Jones Industrial Average futures were up 261 points, or 0.5%, S&P 500 futures had gained 35 points, or 0.5%, while Nasdaq 100 futures climbed 317 points, or 1.1%.\n\nHere are some of the biggest premarket U.S. stock movers today:\n\nAmazon surged more than 12% after the e-commerce and cloud computing giant reported its strongest cloud revenue growth in over four years, reinforcing investor confidence that its massive artificial intelligence investments are paying off. Amazon Web Services said businesses powered by its custom AI chips have reached a $25 billion annual revenue run rate, while investors largely looked past plans to increase capital expenditure to $220 billion.\n\nMarvell Technology rose 7%, while Astera Labs gained 8%, after Amazon's AI and cloud update boosted sentiment across AI infrastructure stocks. Investors viewed the growth in Amazon's custom chip business as a positive read-through for suppliers tied to AI networking and data center buildouts.\n\nReplimune soared 125.3% after the FDA's Cellular, Tissue, and Gene Therapies Advisory Committee voted 10-3 in support of the efficacy of the company's RP1 therapy in combination with nivolumab for advanced melanoma. The panel concluded the late-stage trial produced clinically meaningful results, contradicting FDA staff concerns over the study's design.\n\nApple dropped 7.3% after the iPhone maker issued fourth-quarter revenue guidance that fell short of Wall Street expectations despite posting record quarterly revenue. The company warned that shortages in advanced chip manufacturing capacity would constrain iPhone, Mac and iPad shipments during the September quarter.\n\nRoblox tumbled 16.5% after the online gaming platform reported weaker-than-expected bookings growth, lower-than-forecast daily active users and disappointing forward guidance. Although the company posted a smaller-than-expected quarterly loss, investors focused on slowing engagement and sharply moderating bookings growth.\n\nStory Continues\n\nGoDaddy fell 10.9% after the web services provider issued full-year revenue guidance below Wall Street expectations. While quarterly earnings and revenue both topped estimates, investors were disappointed by signs that growth could slow after a strong run-up in the shares.\n\nWestern Union slid 7.7% after the money transfer company missed quarterly earnings and revenue estimates and lowered its full-year outlook. Margins narrowed as weakness in its Americas retail business and delays in completing the Intermex acquisition weighed on profitability.\n\nAmazon fuels AI optimism; Apple sinks premarket on weak outlook\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-07-31",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, GOOGL",
+      "Ticker": "AAPL, NVDA, GOOGL",
       "Date": "2026-07-31",
       "Time": "19:05:00",
       "Source": "Yahoo Finance",
