@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-03T20:32:16.899Z",
-  "total_news_count": 807,
+  "last_updated": "2026-08-03T20:40:31.852Z",
+  "total_news_count": 808,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-08-04",
+      "Time": "04:34:13",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Stock Jumps 4.9% as Azure Rally Hits New Gear",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-jumps-4-9-203413924.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ), a global software and cloud-computing company operating the Azure platform, jumped approximately 4.9% in Monday's regular-session trading as of 12:15 p.m. ET, extending its post-earnings rally. The shares had advanced approximately 23% over three sessions, their strongest three-day performance since October 2000, according to MarketWatch. Microsoft previously recorded a roughly 15% one-day gain after its fiscal fourth-quarter results and cloud outlook exceeded expectations.\n\nWarning! GuruFocus has detected 2 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft Cloud revenue increased 27% to $59.3 billion, while Azure revenue advanced 43%, compared with analysts' forecast of approximately 40.4%. Fiscal fourth-quarter revenue rose 18% to $90 billion, and earnings increased 30% to $4.74 per share. Microsoft said its 365 Copilot service had surpassed 30 million paid users. At least 10 analysts raised their price targets after the results, reflecting stronger expectations for AI-related software and cloud demand.\n\nManagement expects Azure revenue to increase approximately 45% on a constant-currency basis during the current quarter, above the 40.92% analyst estimate. Microsoft also plans approximately $50 billion of capital expenditure during the quarter as it expands data centers and computing capacity. The forecast represents an acceleration from Azure's reported 43% growth, indicating that management expects demand to strengthen despite the platform's expanding scale. Investors may now assess whether the additional infrastructure can support the projected growth without placing disproportionate pressure on cash flow.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-04",
