@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-03T09:00:43.144Z",
-  "total_news_count": 582,
+  "last_updated": "2026-08-03T09:40:08.121Z",
+  "total_news_count": 583,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-03",
+      "Time": "17:26:00",
+      "Source": "Yahoo Finance",
+      "Title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
+      "URL": "https://finance.yahoo.com/m/09612fdf-9f6b-3ca7-989a-662128ff194e/warren-buffett%27s-successor%2C.html",
+      "Content": "For the first time in more than half a century, the trillion-dollar conglomerate that Warren Buffett helped build, Berkshire Hathaway (NYSE: BRKA)(NYSE: BRKB), is in uncharted territory. The famed Oracle of Omaha retired as CEO on Dec. 31 (he remains chairman of the board), handing the keys to Berkshire's $355 billion investment portfolio to longtime protégé Greg Abel.\n\nAbel wasted little time making his presence felt . During the first quarter, he sent 16 stocks to the chopping block and reduced six other positions, including integrated oil and gas titan Chevron (NYSE: CVX). But Berkshire's new boss also found the new apple of his eye in Google parent Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAbel slashed Berkshire's Chevron stake by 35%\n\nChevron has been a continuous holding for Berkshire for nearly six years. However, the 45,780,506 shares that were dumped during the first quarter represent the largest single-quarter reduction in shares since Buffett opened the position in 2020.\n\nSimple profit-taking is one possible reason Abel slashed Berkshire's stake in Chevron by 35% to begin the year. Between the start of 2026 and the end of the first quarter, Chevron's shares rallied from $152 to $207. For a notoriously cyclical company, this is a mammoth move. It would also have delivered triple-digit percentage returns since Buffett's initial purchases in 2020.\n\nBut there may be more to this story than just profit-taking.\n\nChevron, like virtually all drilling companies, benefited from surging crude oil prices brought on by the Iran war and the closure of the Strait of Hormuz. Given that energy supply disruptions are historically short-lived, Abel may have viewed this as an opportune time to lock in gains.\n\nAdditionally, Chevron is no longer historically inexpensive. After closing out 2023 and 2024 at forward price-to-earnings (P/E) ratios of 11 and 10, respectively, Chevron's forward P/E was approaching 18 by the end of the first quarter. Abel is a stickler for value, and Chevron's value proposition has faded a bit.\n\nBerkshire's new boss can't stop buying Alphabet\n\nOn the other hand, Abel bought 36,403,656 shares of Alphabet's Class A shares (GOOGL) in the March-ended quarter and opened a new position in the Class C shares (GOOG) by purchasing 3,585,215 shares. These purchases more than tripled Berkshire's stake in Google's parent company.\n\nStory Continues\n\nBut he wasn't finished. On June 1, Alphabet announced what would become an $84.75 billion equity offering, $10 billion of which was to be purchased by Berkshire in a private placement ($5 billion of each share class). As of the end of July, Alphabet was a nearly $30.8 billion position, and Berkshire's new No. 5 holding.\n\nThe beauty of Alphabet is that its foundation is built atop a sustainable moat. The Google search engine accounted for over 91% of internet search traffic in July. Couple this with YouTube, the second-most-visited social site behind Google, and you have a recipe for exceptional ad pricing power.\n\nHowever, it's Alphabet's artificial intelligence (AI) ambitions that can drive its valuation and cash flow significantly higher. Since Alphabet integrated generative AI solutions and large language model capabilities into Google Cloud, the world's No. 3 cloud infrastructure service platform by total spend, sales growth for this high-margin segment has gone parabolic.\n\nAlphabet is to Greg Abel what Apple was to Warren Buffett.",
+      "Language": "en"
+    },
     {
       "Ticker": "AMD",
       "Date": "2026-08-03",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-03",
       "Time": "16:35:00",
       "Source": "Yahoo Finance",
