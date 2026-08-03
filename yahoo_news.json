@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T14:40:37.334Z",
-  "total_news_count": 703,
+  "last_updated": "2026-08-03T14:45:53.823Z",
+  "total_news_count": 707,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-08-03",
+      "Time": "22:26:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股投資人注意！證交所修改處置股規定　新制8月10日上路",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E4%BA%BA%E6%B3%A8%E6%84%8F-%E8%AD%89%E4%BA%A4%E6%89%80%E4%BF%AE%E6%94%B9%E8%99%95%E7%BD%AE%E8%82%A1%E8%A6%8F%E5%AE%9A-%E6%96%B0%E5%88%B68%E6%9C%8810%E6%97%A5%E4%B8%8A%E8%B7%AF-142615003.html",
+      "Content": "證交所修正處置 有價證券 的處置期間、撮合作業時間及公布注意交易資訊標準，並自8月10日起實施。示意圖。（資料照，顏麟宇攝）\n\n證交所3日宣布，為落實公平、安全與透明的資本市場管理原則，並提升交易效率，自上半年啟動檢視後，已綜合考量近期市場變化、過去實施成效與影響，以及各界對注意暨處置相關規定的建議後，修正處置有價證券的處置期間、撮合作業時間及公布注意交易資訊標準，並自8月10日起實施。\n\n證交所表示，當有價證券漲跌異常波動較大時，為適度提醒投資人注意交易風險，自1995年訂定注意暨處置相關規定，注意處置制度係維持市場秩序的中性措施，迄今已因應各階段市場變化歷經多次檢討修正。\n\n證交所已完成修正處置有價證券的處置期間、撮合作業時間及公布注意交易資訊標準，並自8月10日（下周一）起實施，相關內容如下：\n\n一、 調整處置期間：\n\n第1次及第2次（含）以上遭發布處置之有價證券，處置期間為5個營業日（原為10個營業日）。\n\n遭發布處置之有價證券，若於計算發布處置基數期間內，同時有因當沖交易占比過高而公布注意交易資訊者，處置期間為7個營業日（原為12個營業日）。\n\n二、 調整普通交易有價證券撮合作業時間：\n\n第1次及第2次（含）以上遭發布處置之普通交易有價證券，其撮合作業時間參考現行瞬間價格穩定措施暫緩撮合期間，調整為約每2分鐘撮合1次（原為約每5分鐘或20分鐘撮合1次）。\n\n三、 修正公布注意第11款「6個營業日收盤價起迄價差標準」：\n\n依修正後規定，當日收盤價逾新台幣（以下同）1000元，且最近6個營業日收盤價起迄價差達300元以上，才可能適用本款規定；當日收盤價逾2000元，價差金額調整為每1000元為1級距，每1級距之價差標準增加150元（原為最近6個營業日收盤價起迄價差達100元以上，即有可能適用本款規定；價差金額每500元為1級距，每1級距之價差標準增加25元）。\n\n舉例而言，股價超過1000元至2000元者，價差標準為300元；股價超過2000元至3000元者，價差標準為450元；依此類推。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-08-03",
       "Time": "22:22:00",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-surpasses-3-trillion-valuation-142200105.html",
       "Content": "Investing.com -- Shares of Amazon.com Inc. climbed past a historic milestone on Monday, surpassing $3 trillion in market value as investors cheered a blowout second-quarter earnings report that underscored the company's accelerating dominance in cloud computing and artificial intelligence.\n\nThe stock surged 5% in morning trading to touch a new 52-week high of $287.20. The rally, buoyed by a wave of Wall Street upgrades, vaults the Seattle-based e-commerce and technology giant deeper into the elite club of mega-cap companies.\n\nUnderpinning the market enthusiasm was a quarterly performance that broadly defied expectations. Amazon reported second-quarter revenue of $200.6 billion, a 20% increase from a year earlier.\n\nThe primary engine behind the surge was Amazon Web Services (AWS). The closely watched cloud-computing division saw revenue jump 36.7% year-over-year, marking its fastest pace of expansion in 18 quarters. AWS now operates at an annualized revenue run rate of $169 billion, bolstered by a swelling contract backlog that reached $496 billion.\n\nWall Street analysts moved swiftly to adjust their models in the wake of the print. Morgan Stanley, RBC Capital, Roth Capital, and Telsey Advisory all raised their price targets, pointing to accelerating cloud demand and the tangible monetization of generative AI. Analysts at BNP Paribas reiterated their bullish stance, outlining a long-term trajectory for AWS to independently reach a $1 trillion valuation.\n\nCementing its position in the fiercely competitive AI landscape, Amazon also disclosed a massive $35 billion commitment to OpenAI. The investment deepens Amazon's footprint in the AI ecosystem and served as a powerful signal to investors regarding the company's aggressive, capital-intensive growth strategy.\n\nAmazon's ascent rippled across the broader technology sector, lifting fellow hyperscalers as the robust cloud results quelled lingering market anxieties over the return on invested capital for AI infrastructure. Shares of Microsoft Corp. advanced 5% in morning trading, while Google parent Alphabet Inc. gained 4.6%.\n\nAmazon surpasses $3 trillion valuation as AI and cloud propel shares\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-03",
+      "Time": "22:12:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普取消攻擊伊朗計畫　美股早盤走高道瓊漲逾600點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%8F%96%E6%B6%88%E6%94%BB%E6%93%8A%E4%BC%8A%E6%9C%97%E8%A8%88%E7%95%AB-%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4%E8%B5%B0%E9%AB%98%E9%81%93%E7%93%8A%E6%BC%B2%E9%80%BE600%E9%BB%9E-141245611.html",
+      "Content": "（中央社紐約2026年8月3日綜合外電報導）美國總統川普取消原定對伊朗發動攻擊的計畫後，帶動油價下跌，美股主要指數今天早盤走高，道瓊漲逾600點。\n\n美國財經媒體CNBC報導，道瓊工業平均指數上漲615點，漲幅1.1%；標準普爾500指數攀升0.4%；那斯達克綜合指數上揚0.2%。",
+      "Language": "zh"
     },
     {
       "Ticker": "TSM, NVDA",
@@ -53,6 +73,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-08-03",
+      "Time": "21:40:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "快訊》美伊重啟談判 道指飆漲600點 台指期夜盤回檔崩千點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E7%BE%8E%E4%BC%8A%E9%87%8D%E5%95%9F%E8%AB%87%E5%88%A4-%E9%81%93%E6%8C%87%E9%A3%86%E6%BC%B2600%E9%BB%9E-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%9B%9E%E6%AA%94%E5%B4%A9%E5%8D%83%E9%BB%9E-134002806.html",
+      "Content": "美國總統川普宣布將與伊朗啟動新一輪談判，美伊緊張關係緩和的最新跡象推動國際油價大幅回落，市場對通膨加速的擔憂有所緩解，激勵周一（3日）美股一開盤3大指數同步走高，道瓊工業指數飆漲逾600點，但與台股連動密切的費城半導體指數急挫近3%。台指期夜盤壓力浮現，在沉重賣壓下，一度崩跌1115點，報42104點。\n\n當地時間2日，川普在談及伊朗時表示，關於荷莫茲海峽已有協議，關於去核化也將達成協議，而美方將於3日與伊朗進行談判。消息提振市場對於荷莫茲海峽重新開放的預期，布蘭特原油一度崩跌逾7%。\n\nAT Global Markets首席市場分析師Nick Twidale表示，「如果能在和平協議或更關鍵的荷莫茲海峽重新開放問題上取得實質進展，市場可能出現強勁的反彈行情。但目前來看，各市場波動仍將持續，尤其是AI交易依然是股市的主導主題。」\n\n巴黎IG集團首席市場分析師Alexandre Baradez指出，地緣政治消息在一定程度上推動油價回落，從而緩解了殖利率方面的壓力，「但債券殖利率的走勢、市場槓桿水平以及聯準會（Fed）的政策路徑，仍是不可忽視的隱憂。在這些方面出現明確方向之前，很難說股市已經完全擺脫風險。」\n\n當前市場仍受到中東衝突、AI相關股票估值，以及通膨前景不確定性的多重因素交織影響。與此同時，交易員正將目光投向將於周五發布的美國7月關鍵就業報告，希望藉此判斷Fed下一步的政策動向。在企業層面，SpaceX將於周二（4日）美股盤後發布自IPO以來的首份財報。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT, GOOGL, NVDA",
       "Date": "2026-08-03",
       "Time": "21:40:00",
@@ -81,6 +111,16 @@
       "URL": "https://finance.yahoo.com/m/e3874c91-ab30-33a0-8a15-695bdd591ab6/678-billion-reasons-to-invest.html",
       "Content": "Microsoft (NASDAQ: MSFT) has not performed well this year. Investors are worried that artificial intelligence (AI) will replace many of the company's services, a sentiment that has put downward pressure on much of the software industry. Meanwhile, the company's heavy investments in AI may lead to lower profits and margins, or so the argument goes. However, Microsoft proved some doubters wrong with its latest earnings report, for the fourth quarter of its fiscal year 2026, which ended on June 30.\n\nThe company's revenue increased by a healthy 18% year over year to $90 billion, and even with massive AI investments, adjusted earnings per share climbed 23% year over year to $4.74. Microsoft's stock soared by 15% following its quarterly update, but there is one key reason -- or several hundred billion -- why there may be more upside ahead. Here's what investors need to know.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMicrosoft Cloud for the win\n\nMicrosoft's cloud computing business was, once again, the star of the show. Microsoft Cloud's sales jumped 27% year over year, while Azure revenue increased by 43%. This segment should continue driving growth for the foreseeable future. How do we know that? The company reported a cloud backlog of $678 billion as of the end of the quarter, up 84% year over year. This provides the tech leader with significant visibility into sustained demand and growth in its cloud business.\n\nAlso, Microsoft's AI-related investments are clearly having a positive impact on the business, even beyond driving meaningful cloud growth. Consider Microsoft Copilot, an AI assistant integrated across the company's apps and productivity suite that helps users automate tasks and improve productivity. Microsoft said that Microsoft 365 Copilot has 30 million paid seats (or active paid subscriptions), with net paid subscription adds more than doubling quarter over quarter.\n\nThis provides further evidence that, rather than being replaced by AI, Microsoft is evolving with the technology by launching AI-powered services to make its customers' lives easier, and they are buying what the company is selling. Microsoft is dispelling some of the fears investors have had recently and showing that its long-term investment thesis remains strong. We haven't even touched on other aspects of the business, including its reliable income program and rock-solid balance sheet.\n\nStory Continues\n\nDespite all that, Microsoft's shares are still in the red this year, down 2% year to date as of writing. My view is that even with the massive post-earnings surge, there is still plenty of upside potential, given the tech leader's strong position in cloud computing, innovative abilities, significant free cash flow, and other aspects of the business that will enable it to pursue lucrative long-term opportunities.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2303.TW",
+      "Date": "2026-08-03",
+      "Time": "21:31:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】聯電一訂8月7日起在證券商營業處所買賣",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%81%AF%E9%9B%BB-%E8%A8%828%E6%9C%887%E6%97%A5%E8%B5%B7%E5%9C%A8%E8%AD%89%E5%88%B8%E5%95%86%E7%87%9F%E6%A5%AD%E8%99%95%E6%89%80%E8%B2%B7%E8%B3%A3-133106456.html",
+      "Content": "日期：2026年 8月 3日\n\n主旨：公告「聯華電子股份有限公司國內第一次無擔保轉換公司債」計面額新臺\n\n幣120億元整，訂於115年8月7日起在證券商營業處所買賣。\n\n公告事項：\n\n一、發行公司名稱：聯華電子股份有限公司。\n\n二、債券名稱：聯華電子股份有限公司國內第一次無擔保轉換公司債。\n\n（一）代碼：23031。\n\n（二）簡稱：聯電一。\n\n（三）發行總面額：新臺幣120億元整。\n\n（四）發行價格（佰元價）：新臺幣101元（依票面金額101%發行）。\n\n（五）發行日：115年8月7日。\n\n（六）到期日：120年8月7日。\n\n（七）發行期限：5年。\n\n（八）票面利率：固定利率0%。\n\n三、有關本債券之詳細發行資料請參閱其發行辦法及公開說明書（請至\n\nmops.twse.com.tw公開資訊觀測站網站查詢）。",
+      "Language": "zh"
     },
     {
       "Ticker": "TSLA",
