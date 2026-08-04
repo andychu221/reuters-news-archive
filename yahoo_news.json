@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-04T18:00:47.958Z",
-  "total_news_count": 1076,
+  "last_updated": "2026-08-04T18:15:24.445Z",
+  "total_news_count": 1077,
   "news": [
+    {
+      "Ticker": "ON",
+      "Date": "2026-08-05",
+      "Time": "01:57:52",
+      "Source": "Yahoo Finance",
+      "Title": "Onsemi Stock Rises 5% as Free Cash Flow Quadruples",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/onsemi-stock-rises-5-free-175752631.html",
+      "Content": "This article first appeared on GuruFocus .\n\nonsemi ( NASDAQ:ON ), which makes power and sensing chips for automotive, industrial and data center markets, rose 6.16% in premarket after reporting second-quarter revenue up 9% to $1.60 billion, ahead of the $1.589 billion analysts expected, with non-GAAP earnings of $0.74 a share against a $0.71 consensus. GAAP diluted earnings were $0.56.\n\nCash generation was the standout. Free cash flow quadrupled to $425.4 million and cash from operations rose 150%, lifting free cash flow margin to 27% from about 7% a year earlier. Non-GAAP gross margin reached 39.3% and non-GAAP operating margin 20.8%. onsemi repurchased $332 million of stock in the quarter, taking year-to-date shareholder returns to roughly 105% of free cash flow.\n\nCEO Hassane El-Khoury said AI data center remains the company's fastest-growing business and that revenue there should more than double in 2026. During the quarter onsemi agreed to acquire Synaptics (SYNA), expanded its role in Nvidia's (NVDA) MGX ecosystem, launched a gallium nitride portfolio spanning 40V to 650V, and won power business on Rivian's (RIVN) R2 platform.\n\nFor the third quarter, onsemi guided revenue to $1.65 billion to $1.75 billion, non-GAAP gross margin to 40% to 42% and non-GAAP diluted earnings to $0.81 to $0.93 a share.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-05",
@@ -103,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-08-05",
       "Time": "00:54:22",
       "Source": "Yahoo Finance",
