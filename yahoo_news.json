@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T06:32:15.782Z",
-  "total_news_count": 78,
+  "last_updated": "2026-08-05T06:37:48.484Z",
+  "total_news_count": 79,
   "news": [
     {
       "Ticker": "SNDK",
@@ -193,6 +193,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "MRVL",
+      "Date": "2026-08-05",
+      "Time": "01:30:02",
+      "Source": "Yahoo Finance",
+      "Title": "Huge, Unusual Trading in Marvell Technology Call Options -  Investors Are Bullish on MRVL Stock",
+      "URL": "https://finance.yahoo.com/m/ecffe340-bb3b-3c80-af27-bef5f27918fd/huge%2C-unusual-trading-in.html",
+      "Content": "Today, there is unusually large trading volume in Marvell Technology (MRVL) call options, over 50x normal. Investors are bullish on MRVL stock, anticipating a strong earnings report later this month (August 27).\n\nThis move is likely pushed by Palantir Technology (PLTR) stock's 26% move higher today following its huge free cash flow (FCF) growth and massive FCF margins.\n\nMore News from Barchart\n\nInvestors Pile Into Long-Dated Microsoft Call Options in Unusual Volume - Bullish on MSFT Stock\n\nCovered Call Screener Results for August 4th\n\nMeta Platforms Stock Could Be Signaling a Quick Pop Above $600\n\nStop Missing Market Moves: Get the FREE Barchart Brief – your midday dose of stock movers, trending sectors, and actionable trade ideas, delivered right to your inbox. Sign Up Now!\n\nMRVL stock is up 12.87% at $218.44 today after hitting a bottom at the end of July ($163.40 on July 29). But it could be worth significantly more, even after today's rise. That could be why investors are piling into MRVL calls. Let's look into this.\n\nMuch Higher MRVL Forecasts\n\nMarvell Technology released its Q1 earnings for the period ending May 2 on May 27. I discussed its valuation in several Barchart articles, including a May 29 article and a June 22 article, \" Marvell Technology Stock Has Skyrocketed, But Could MRVL Be Worth 24% More? \"\n\nI showed that MRVL stock could be worth $384.75 per share based on analysts' revenue forecasts, a 27% operating cash flow (OCF) margin, which leads to a $4.05 billion FCF estimate for next year.\n\nBut since then, analysts have raised their revenue estimates for both 2026 and 2027. For the next 12 months (NTM), Seeking Alpha projects $11.53 billion in 2026 revenue (FY ending Jan. 2027) and $16.73 billion for 2027 (FY ending Jan. 2028).\n\nSo, the average NTM revenue forecast is $14.13 billion . Using an estimated 27% OCF margin and assuming $630 million in capex, FCF could be:\n\n$14.13b x 0.27 = $3.815 OCF - $0.63b capex = $3.185 billion FCF (next 12 months, NTM)\n\nHigher Price Targets for MRVL Stock\n\nAs a result, assuming the market values Marvel Technology with a 1.25% FCF yield, its fair market value (FMV) is:\n\n$3.185b / 0.0125 = $254.80 billion FMV\n\nToday, the market cap for MRVL stock is $195.96 billion, according to Yahoo! Finance. So, the FMV for Marvel Technology is still at least 29.4% higher. So, MRVL's price target (PT) is:\n\n$218.44 x 1.294 = $282.66 PT\n\nHowever, by the end of 2027, if revenue rises to $16.73 billion, FCF could rise to at least $3.5 billion, if capex rises to $1 billion. That implies an FMV of $280 billion, or 42.9% higher. So, the upside PT is:\n\nStory Continues\n\n$218.44 x 1.429 = $312.15 PT\n\nIn other words, the PT range is between $283 and $312, or $297.50 on average, up +$36% from today.\n\nOther analysts agree. Yahoo! Finance reports that the average of 43 analysts is $256.91, and Barchart's survey PT is $263.06. AnaChart's survey of 29 analysts is $225.05.\n\nThe bottom line is that MRVL stock looks deeply undervalued. That could be why there is so heavy call option buying today.\n\nUnusual Call Option Activity in MRVL\n\nThis can be seen in Barchart's Unusual Stock Options Activity Report today. It shows that over 51 times the prior number of call option volume has traded at the $270 strike price for options expiring in 10 days on Aug. 14.\n\nThe $270 calls have a midpoint premium of $1.77, implying that the breakeven point for call options buyers is $271.77 . That is 26.73% higher than today's price.\n\nThese call options buyers assume that MRVL could approach the $297 price target (see above) within the next 10 days. That would push up the premiums, especially if MRVL rose to the breakeven price.\n\nMoreover, covered call MRVL sellers make a nice yield. The $1.77 in income represents 0.81% on today's price (i.e., $1.77/$218.44). Moreover, if MRVL hits the $270 strike price, the overall expected return is +24.4% in total return (i.e., $271.77/$218.44) over the next 10 days.\n\nThat shows why both buyers and sellers of these out-of-the-money MRVL calls are bullish on Marvell Technology. However, investors should be careful in copying the buy strategy as it could lead to a 100% loss if MRVL's rise stalls.\n\nThat is why I suggest an investor in calls also consider buying puts in MRVL or shorting out-of-the-money puts. This involves a further outlay of capital, but could be a way to hedge downside risks.",
+      "Language": "en"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-08-05",
       "Time": "01:27:00",
@@ -203,7 +213,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "MRVL, SNDK",
       "Date": "2026-08-05",
       "Time": "01:22:16",
       "Source": "Yahoo Finance",
