@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T22:32:50.363Z",
-  "total_news_count": 782,
+  "last_updated": "2026-08-06T22:45:00.555Z",
+  "total_news_count": 786,
   "news": [
     {
       "Ticker": "SNDK",
@@ -33,6 +33,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-08-07",
+      "Time": "05:46:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR6日上漲0.085美元漲幅1.14%折台股24.42元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr6%E6%97%A5%E4%B8%8A%E6%BC%B20-085%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-14-%E6%8A%98%E5%8F%B0%E8%82%A124-42%E5%85%83-214608141.html",
+      "Content": "(中央社台北2026年 8月 7日電)友達光電在OTC US掛牌ADR以7.57美元作收，上漲0.085美元，漲幅 1.14%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 8月 6日新台幣匯市收盤價32.261元計算，相當台股友達每股為 24.42元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/ 6\n\n7.57\n\n0.08\n\n1.14\n\n32.261\n\n24.4\n\n8/ 5\n\n7.48\n\n-0.16\n\n-2.09\n\n32.315\n\n24.1\n\n8/ 4\n\n7.64\n\n0.36\n\n5.01\n\n32.447\n\n24.8\n\n8/ 3\n\n7.28\n\n0.10\n\n1.39\n\n32.438\n\n23.6\n\n7/31\n\n7.18\n\n0.42\n\n2 6.28\n\n32.292\n\n23.1\n\n7/30\n\n6.88\n\n-0.42\n\n-5.75\n\n32.454\n\n22.3\n\n7/29\n\n7.30\n\n0.14\n\n1.96\n\n32.366\n\n7/28\n\n7.16\n\n-0.01\n\n-0.14\n\n32.384\n\n7/27\n\n7.17\n\n-0.43\n\n-5.66\n\n32.305\n\n7/24\n\n7.60\n\n-0.22\n\n-2.81\n\n32.358\n\n24.5\n\n7/23\n\n7.82\n\n-0.13\n\n32.266\n\n25.2",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-07",
+      "Time": "05:46:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR6日上漲0.26美元漲幅0.62%折台股136.4元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr6%E6%97%A5%E4%B8%8A%E6%BC%B20-26%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-62-%E6%8A%98%E5%8F%B0%E8%82%A1136-4%E5%85%83-214604206.html",
+      "Content": "(中央社台北2026年 8月 7日電)中華電信在NYSE掛牌ADR 以 42.28美元作收，上漲0.26美元，漲幅 0.62%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 8月 6日新台幣匯市收盤價32.261元計算，相當台股中華電信每股為136.40元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/ 6\n\n42.28\n\n0.26\n\n0.62\n\n32.261\n\n136.4\n\n8/ 5\n\n42.02\n\n0.13\n\n0.31\n\n32.315\n\n135.7\n\n8/ 4\n\n41.89\n\n-0.54\n\n-1.27\n\n32.447\n\n135.9\n\n8/ 3\n\n42.43\n\n-0.18\n\n-0.42\n\n32.438\n\n137.6\n\n7/31\n\n42.61\n\n-0.07\n\n-0.16\n\n32.292\n\n7/30\n\n42.68\n\n-0.45\n\n-1.04\n\n32.454\n\n138.5\n\n7/29\n\n43.13\n\n-0.11\n\n-0.25\n\n32.366\n\n139.5\n\n7/28\n\n43.24\n\n0.16\n\n0.37\n\n32.384\n\n140.0\n\n7/27\n\n43.08\n\n0.33\n\n0.77\n\n32.305\n\n139.1\n\n7/24\n\n42.75\n\n0.39\n\n0.92\n\n32.358\n\n138.3",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-08-07",
       "Time": "05:45:34",
@@ -51,6 +71,26 @@
       "URL": "https://finance.yahoo.com/m/566de74d-3aa5-383a-a28c-d6346857dc01/elon-musk-just-pulled.html",
       "Content": "SpaceX (NASDAQ: SPCX) held its first earnings call as a public company on Tuesday, and CEO Elon Musk used it to make an already ambitious goal more ambitious.\n\nThe company's internal target for reaching $1 trillion in annual revenue, he said, has moved up a year, from 2031 to 2030. And he put what he called a \"non-zero chance\" on getting there in 2029.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThat is a striking thing to say about a company that produced $7.8 billion of revenue in the quarter it was reporting. It was a strong quarter, to be sure. Revenue grew 92% year over year, and the rocket and satellite company's net loss narrowed to $541 million from $1.0 billion a year earlier.\n\nA target, of course, isn't guidance. But I think this one is specific enough to check against the company's own numbers. So, what growth rate does $1 trillion by 2030 actually require?\n\nThe quarter the new target landed on\n\nThe second quarter gave the bulls plenty to work with. All three segments grew, led by the artificial intelligence (AI) business, where revenue rose 247% year over year to $2.6 billion on new cloud computing agreements -- the company signed $14.1 billion of contracted cloud sales during the quarter alone. The connectivity segment, home of the Starlink satellite internet service, grew revenue 66% year over year to $4.3 billion and stayed the company's profit center, with operating income climbing 79% to $1.7 billion. Even the space segment, the launch business itself, grew 29% year over year to $962 million.\n\nStarlink ended the second quarter with 12 million subscribers, double the year-ago count and up 1.7 million in three months.\n\nAverage Starlink revenue per user, though, was $66 per month, down from $85 a year earlier. Subscriber growth is outrunning pricing, not riding it.\n\nThe spending is enormous, too. Capital expenditures totaled $18.4 billion in the quarter (nearly double the prior quarter, and about 6.5 times the year-ago level), with $15.8 billion of that going to AI infrastructure.\n\nThe company can afford it, for now. \"We ended the second quarter with $100 billion of cash, cash equivalents, and marketable securities, and $47.5 billion in backlog,\" chief financial officer Bret Johnsen said in the commentary accompanying the second-quarter release, adding that the balance sheet gives the company capacity to keep investing in Starship, Starlink satellites, and its AI platform.\n\nStory Continues\n\nWhat $1 trillion by 2030 requires\n\nOver the past 12 months, SpaceX generated about $23 billion of revenue. A $1 trillion year in 2030 is about 43 times that figure.\n\nThe friendlier starting point is the one management offered. Johnsen said on the call that the company is on pace to reach $100 billion in annualized revenue run-rate by the end of this year.\n\nTake that at face value, and $1 trillion of annual revenue in 2030 still means growing roughly tenfold in about four years. That works out to about 78% compounded annually.\n\nCompare that with what the business is doing today. The company grew 92% in the second quarter, so the required rate is arguably not absurd on its face. But the segment carrying most of the revenue, Starlink's connectivity business, grew 66%.\n\nThe only piece growing faster than the target requires is AI. And that growth is running on $15.8 billion of quarterly capital spending against $2.6 billion of segment revenue, with the segment posting a $1.3 billion operating loss.\n\nZoom out, and growth rates tend to fall as companies get bigger. SpaceX would need the opposite. It would have to hold a near-80% pace through 2030, while its largest segment grows more slowly than that and its average Starlink customer pays less than a year ago.\n\nSure, the bull case has hard dollars behind it. The backlog is contracted money, the cloud agreements are signed, and Musk said Starlink could deliver a majority of the world's internet within a decade. If Starship cuts launch costs, the ceiling is hard to estimate.\n\nHowever, a ceiling isn't a schedule. I think the moved-up date is a stretch goal for Musk's own teams more than a forecast for shareholders. The target only holds if that pace holds companywide -- carried by the one segment that spends far more than it takes in.\n\nI'd watch one number instead: whether annualized revenue run-rate actually approaches $100 billion by year-end, as Johnsen says it should. Hit that, and the 2030 conversation gets more interesting.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-07",
+      "Time": "05:41:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR6日上漲4.20美元漲幅1.01%折台股2698.31元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr6%E6%97%A5%E4%B8%8A%E6%BC%B24-20%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-01-%E6%8A%98%E5%8F%B0%E8%82%A12698-31%E5%85%83-214102501.html",
+      "Content": "(中央社台北2026年 8月 7日電)台積電在NYSE掛牌 ADR以418.20美元作收，上漲 4.20美元，漲幅 1.01%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 8月 6日新台幣匯市收盤價32.261元計算，相當台股台積電每股為 2698.31元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/ 6\n\n418.20\n\n4.20\n\n1.01\n\n32.261\n\n2698.3\n\n8/ 5\n\n414.00\n\n-3.17\n\n-0.76\n\n32.315\n\n2675.6\n\n8/ 4\n\n417.17\n\n11.06\n\n2.72\n\n32.447\n\n2707.1\n\n8/ 3\n\n406.11\n\n1.86\n\n0.46\n\n32.438\n\n2634.6\n\n7/31\n\n404.25\n\n0.94\n\n0.23\n\n32.292\n\n2610.8\n\n7/30\n\n403.31\n\n28.64\n\n7.64\n\n32.454\n\n2617.8\n\n7/29\n\n374.67\n\n-17.64\n\n-4.50\n\n32.366\n\n2425.3\n\n7/28\n\n392.31\n\n-6.78\n\n-1.70\n\n32.384\n\n2540.9\n\n7/27\n\n399.09\n\n-4.32\n\n-1.07\n\n32.305\n\n2578.5\n\n7/24\n\n403.41\n\n-12.17\n\n-2.93\n\n32.358\n\n2610.7",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-07",
+      "Time": "05:41:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR6日下跌0.09美元跌幅0.47%折台股123.88元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr6%E6%97%A5%E4%B8%8B%E8%B7%8C0-09%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-47-%E6%8A%98%E5%8F%B0%E8%82%A1123-88%E5%85%83-214100947.html",
+      "Content": "(中央社台北2026年 8月 7日電)聯電在NYSE掛牌 ADR以19.20美元作收，下跌0.09美元，跌幅 0.47%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 8月 6日新台幣匯市收盤價32.261元計算，相當台股聯電每股為123.88元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/ 6\n\n19.20\n\n-0.09\n\n-0.47\n\n32.261\n\n123.8\n\n8/ 5\n\n19.29\n\n-1.34\n\n-6.50\n\n32.315\n\n124.6\n\n8/ 4\n\n20.63\n\n1.94\n\n10.38\n\n32.447\n\n133.8\n\n8/ 3\n\n18.69\n\n-0.34\n\n-1.79\n\n32.438\n\n121.2\n\n7/31\n\n19.03\n\n0.09\n\n0.48\n\n32.292\n\n122.9\n\n7/30\n\n18.94\n\n1.83\n\n10.70\n\n32.454\n\n7/29\n\n17.11\n\n-0.25\n\n-1.44\n\n32.366\n\n110.7\n\n7/28\n\n17.36\n\n-1.72\n\n-9.01\n\n32.384\n\n112.4\n\n7/27\n\n19.08\n\n-0.40\n\n-2.05\n\n32.305\n\n123.2\n\n7/24\n\n19.48\n\n-1.39\n\n-6.66\n\n32.358\n\n126.0",
+      "Language": "zh"
     },
     {
       "Ticker": "AMD",
