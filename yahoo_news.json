@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-06T16:28:09.032Z",
-  "total_news_count": 699,
+  "last_updated": "2026-08-06T16:32:38.540Z",
+  "total_news_count": 701,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-08-07",
+      "Time": "00:25:59",
+      "Source": "Yahoo Finance",
+      "Title": "Micron's Selloff Exposes a New Risk in the Memory Boom",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microns-selloff-exposes-risk-memory-162559813.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicron Technology Inc. ( MU , Financials ), the memory-chip maker, fell in premarket trading as Sandisk's latest outlook raised new questions about what is driving the industry's rapid growth.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nSandisk delivered stronger-than-expected quarterly revenue and earnings, but its forward guidance failed to clear the high bar created by the memory sector's enormous rally.\n\nManagement said roughly two-thirds of Sandisk's recent revenue growth came from higher prices, while only one-third came from increased shipment volumes. That distinction matters because pricing gains may become harder to sustain if supply improves or demand weakens.\n\nConsumer memory revenue also fell 32% sequentially to $556 million. Sandisk expects personal-computer and smartphone shipments to decline by a mid-teen percentage this year, highlighting weakness outside AI data centers.\n\nThe concerns spread across the sector. Micron fell more than 3%, while Western Digital, SK Hynix and Samsung also declined sharply.\n\nInvestors will watch Micron's shipment growth and pricing commentary for evidence that AI demand can keep supporting the rally without relying mainly on higher prices.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM, SNDK",
+      "Date": "2026-08-07",
+      "Time": "00:13:18",
+      "Source": "Yahoo Finance",
+      "Title": "Sandisk's Weak Guidance Sends AI Chip Stocks Tumbling",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/sandisks-weak-guidance-sends-ai-161318227.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMemory and AI chip stocks fell on Thursday after Sandisk ( NASDAQ:SNDK ) issued revenue guidance that disappointed investors despite reporting better-than-expected quarterly results, dragging semiconductor shares lower across the U.S. and Asia.\n\nThe sector-wide pullback followed concerns that AI-driven memory demand may be moderating from exceptionally high expectations.\n\nWarning! GuruFocus has detected 3 Warning Signs with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nSandisk shares dropped about 8% after the opening bell, while Western Digital (WDC) tumbled nearly 15% even after topping earnings and outlook estimates. In Asia, SK hynix (SKHY) sank about 10% and Samsung Electronics ( SSNLF ) fell nearly 6%, weighing on South Korea's Kospi index. In U.S. trading, Micron Technology (MU) and Seagate Technology ( NASDAQ:STX ) each declined about 4%, while Advanced Micro Devices (AMD), Intel (INTC), Marvell Technology ( NASDAQ:MRVL ), Arm ( NASDAQ:ARM ), and Texas Instruments (TXN) also traded lower.\n\nThe selloff reflected investor concerns over softer memory pricing expectations rather than weakening AI demand. Analysts noted that demand from hyperscale data centers remains resilient, although elevated valuations have left the sector vulnerable to any signs of slowing growth.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-06",
