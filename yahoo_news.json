@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-07T17:34:25.296Z",
-  "total_news_count": 323,
+  "last_updated": "2026-08-07T17:34:54.858Z",
+  "total_news_count": 324,
   "news": [
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "TSM, NVDA, AVGO",
       "Date": "2026-08-08",
       "Time": "00:50:00",
       "Source": "Yahoo Finance",
@@ -83,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSM",
+      "Date": "2026-08-08",
+      "Time": "00:36:23",
+      "Source": "Yahoo Finance",
+      "Title": "BTQ and ITRI clear first milestone in quantum-security chip roadmap",
+      "URL": "https://finance.yahoo.com/m/58d6a1e0-fbda-31ff-a30b-8369770df329/btq-and-itri-clear-first.html",
+      "Content": "BTQ Technologies has completed the first milestone in a multi-year effort to build chips that can protect data against future quantum computers, the company said on August 7.\n\nBTQ Technologies (Nasdaq: BTQ) is a company developing security technology for what it calls the quantum era. Its partner, the Industrial Technology Research Institute (ITRI), is a Taiwan-based research organization founded in 1973 that helped spin out major chipmakers including TSMC and UMC.\n\nThe two are working to validate BTQ's Quantum Compute-in-Memory (QCIM) architecture, part of a broader chip roadmap BTQ leads alongside South Korea's ICTK.\n\nRelated: BTQ Technologies clears final hurdle to buy French quantum firm QPerfect\n\nWhat the milestone showed\n\nThe concern driving the work is that powerful quantum computers could one day break the encryption that secures today's digital systems.\n\nQCIM is BTQ's design for a compact, low-power component that speeds up cryptography, including newer \"post-quantum\" methods built to withstand that threat.\n\nIn this first phase, BTQ said the QCIM core was validated within a TSMC 28-nanometre design environment and shown to accelerate operations tied to FIPS 203, 204 and 205, the post-quantum encryption standards set by the U.S. National Institute of Standards and Technology.\n\nTrending on TheStreet Roundtable:\n\nArthur Hayes says Bitcoin could hit $1 million after the next AI bailout\n\nLucky Bitcoin miner defies 172-year odds to win $200K\n\nBillionaire reveals how he made $15 billion using ChatGPT\n\nThe company said the results confirmed the design's functional correctness and its ability to switch between multiple algorithms.\n\n\"This milestone is an important technical and commercial step,\" said Olivier Roussy Newton, CEO and chairman of BTQ, adding that organizations will increasingly need hardware that delivers stronger protection without heavy performance or power costs.\n\nWhere the program goes next\n\nThe collaboration now moves into module-level integration and verification. Dr. Chih-Cheng Lu, a manager at ITRI's electronic systems research labs, said the next phase would build on these results toward broader system implementation.\n\nBTQ frames the milestone as a step from design toward commercial evaluation, noting that independent validation reduces technical risk ahead of customer demonstrations.\n\nBacked by ICTK's chip capabilities and ITRI's validation, the company said it expects to ship test chips to key customers and strategic partners by year-end.\n\nRelated: New study identifies real quantum threat to Bitcoin\n\nThis story was originally published by TheStreet on Aug 7, 2026, where it first appeared in the Innovation section. Add TheStreet as a Preferred Source by clicking here.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-08-08",
       "Time": "00:35:33",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-08-08",
       "Time": "00:35:00",
       "Source": "Yahoo Finance",
@@ -183,7 +193,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-08-07",
       "Time": "23:38:00",
       "Source": "Yahoo Finance",
