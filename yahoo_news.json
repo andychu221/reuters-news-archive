@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-08-07T12:21:23.771Z",
-  "total_news_count": 257,
+  "last_updated": "2026-08-07T12:32:48.474Z",
+  "total_news_count": 258,
   "news": [
     {
-      "Ticker": "SIMO",
+      "Ticker": "SNDK",
+      "Date": "2026-08-07",
+      "Time": "20:08:31",
+      "Source": "Yahoo Finance",
+      "Title": "Wall Street Revises Sandisk Stock Price Target After Earnings",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-street-revises-sandisk-stock-120831025.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSandisk ( NASDAQ:SNDK ) remained under pressure after issuing softer-than-expected near-term revenue guidance, but several Wall Street firms said they continue to see favorable long-term fundamentals for the NAND memory market, according to analysts' notes released Thursday.\n\nEvercore ISI lowered its price target on Sandisk to $2,800 from $3,100 while maintaining an Outperform rating. The firm said September-quarter revenue guidance came in slightly below expectations, but projected gross margins of 83% to 85% exceeded consensus estimates. Analysts also pointed to five new long-term agreements that cover more than half of fiscal 2027 NAND bit shipments, improving demand visibility.\n\nWarning! GuruFocus has detected 2 Warning Sign with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nMorgan Stanley reiterated its Overweight rating and $1,750 price target, saying NAND demand remains durable despite cautious near-term guidance. Jefferies also reduced its target to $1,750 from $3,000, while Goldman Sachs said elevated investor expectations likely contributed to the stock's decline and warned the outlook could also weigh on Micron Technology (MU).\n\nWedbush kept its Outperform rating and $2,000 price target, arguing Sandisk may again be taking a conservative approach to pricing guidance. The firm said ongoing NAND supply constraints and enforceable long-term agreements could continue supporting pricing and profitability over the coming years.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK, SIMO",
       "Date": "2026-08-07",
       "Time": "20:05:00",
       "Source": "Yahoo Finance",
