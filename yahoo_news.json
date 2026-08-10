@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T22:25:58.776Z",
-  "total_news_count": 764,
+  "last_updated": "2026-08-10T22:34:24.248Z",
+  "total_news_count": 765,
   "news": [
     {
       "Ticker": "AMZN, NVDA",
@@ -93,7 +93,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC",
+      "Date": "2026-08-11",
+      "Time": "05:37:09",
+      "Source": "Yahoo Finance",
+      "Title": "Stock Market Today, Aug. 10: Markets Slip as Oil Gains Fuel Inflation Fears",
+      "URL": "https://finance.yahoo.com/m/26f255aa-d628-3c2f-8101-5a9df0830903/stock-market-today%2C-aug.-10%3A.html",
+      "Content": "The S&P 500 (SNPINDEX:^GSPC) fell 0.06% to 7,753 as it hovered near record territory, while the Nasdaq Composite (NASDAQINDEX:^IXIC) slipped 0.32% to 26,605 and the Dow Jones Industrial Average (DJINDICES:^DJI) finished 0.11% lower at 53,976 as it pulled back from its all-time high.\n\nGold prices climbed 1.14% to $4,390.85 as of U.S. market close, and the 10-Year Treasury yield gained 0.06% to 4.71%. Energy stocks outpaced all sectors, with technology and real estate stocks falling the most.\n\nToday's biggest moves\n\nIntel Corporation shares slumped after the company announced a dilutive $15 billion stock offering to fund artificial intelligence (AI) and manufacturing activities. Meta Platforms, Inc. climbed in intraday trading before finishing up 0.48% as investors digested Mark Zuckerberg's AI manifesto and the debut of its Muse Glimmer model. Exxon Mobil Corporation rose alongside crude oil prices, and Archer Aviation soared 12% on news that it would buy three Boeing subsidiaries and that Boeing would take a stake in the firm.\n\nWhat this means for investors\n\nMajor U.S. indexes slipped slightly as oil prices climbed and investors readied for Wednesday's consumer price data. The continued closure of the Strait of Hormuz is weighing on markets as last week's hopes for an imminent deal start to fade. Geopolitical and inflation uncertainty caused last week's rally to stall.\n\nNvidia fell after announcing it would partner with key asset managers on a $500 billion funding package, arguing that the memoranda of understanding it has signed will create investable AI infrastructure. However, investors are increasingly concerned about the capital-intensive nature of the AI race.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-08-11",
       "Time": "05:35:17",
       "Source": "Yahoo Finance",
