@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T20:20:58.546Z",
-  "total_news_count": 735,
+  "last_updated": "2026-08-10T20:26:05.866Z",
+  "total_news_count": 736,
   "news": [
     {
       "Ticker": "NVDA",
@@ -161,6 +161,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/microsofts-datacenter-spending-disciplined-bernstein-190802414.html",
       "Content": "This article first appeared on GuruFocus .\n\nBernstein raised its Microsoft ( NASDAQ:MSFT ) price target to $660 from $647 and kept an Outperform rating. The note pushed back on a worry hanging over the megacap cloud names: that they are overbuilding datacenter capacity ahead of uncertain AI demand. Microsoft shares are up 2.12% intraday.\n\nBernstein's argument is that Microsoft has been more disciplined than the fear suggests. The firm said Microsoft has added datacenter square footage more slowly than its cloud revenue has grown, and that while future lease obligations have risen, they are spread across multiple years. Its purchase commitments for power, cooling, and hardware are concentrated in the next 12 months, with little locked in beyond that.\n\nThe firm's key point is that the buildout carries a fallback. Even if AI demand stalled, Bernstein said, Microsoft could redirect the new capacity to its existing CPU-based cloud business, limiting the downside from overinvestment. Capacity is coming online quickly, and hardware is generally available, the firm added, though some costs have risen.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-11",
+      "Time": "03:05:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》P,VAL,PBF,AR等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-p-val-pbf-ar%E7%AD%8910%E6%AA%94-190500480.html",
+      "Content": "MoneyDJ新聞 2026-08-11 03:05:15 數位內容中心 發佈\n\nEverpure（P.US）：成交價99.15美元，上漲10.11%，開盤93.74美元，區間介於93.26美元至102.1美元，成交量78.7萬股，均價97.96美元。Everpure原為Pure Storage，是企業級資料儲存平台供應商，產品涵蓋本地端、雲端與邊緣環境，近期與Supermicro、Red Hat合作推進Kubernetes邊緣AI設備，並以Portworx強化AI工作負載的資料管理布局，2027會計年度第1季營收為10.5億美元，年增35.3%。\n\nValaris（VAL.US）：成交價85.37美元，上漲8.37%，開盤80美元，區間介於80美元至86.15美元，成交量25.64萬股，均價84.25美元。Valaris是全球離岸鑽井承包商，提供超深水鑽井船與自升式鑽井平台服務，市場持續觀察海上油氣資本支出、離岸鑽井日租金、船隊利用率與自由現金流表現。\n\nPBF Energy（PBF.US）：成交價66.02美元，上漲6.98%，開盤63.94美元，區間介於62.9美元至66.77美元，成交量41.66萬股，均價65.62美元。PBF Energy是美國獨立煉油與物流企業，擁有多座煉油廠與能源運輸資產，市場持續聚焦美國燃料供應偏緊、裂解價差擴大與成品油庫存變化，煉油族群也因汽油與柴油價格走強而受到關注。\n\nAntero Resources Corporation（AR.US）：成交價37.06美元，上漲6.77%，開盤35.39美元，區間介於35.14美元至37.25美元，成交量51.46萬股，均價36.58美元。Antero Resources Corporation是美國天然氣與液態天然氣探勘生產商，主要資產位於Appalachia，市場持續觀察天然氣價格、產量節奏、液化天然氣出口需求與資本支出紀律對現金流的影響，美國能源結構朝天然氣傾斜的趨勢也受到關注。\n\nMP Materials（MP.US）：成交價54.44美元，上漲6.52%，開盤52.81美元，區間介於52.66美元至55.66美元，成交量148.41萬股，均價54.71美元。MP Materials是美國稀土生產商，核心資產為Mountain Pass礦場，並持續擴建美國本土稀土供應鏈。2026年度第1季營收為9060萬美元，年增49.07%，公司近來也取得美國國防部4億美元合約，並與Apple、General Motors推進供應合作。\n\nTechnipFMC（FTI.US）：成交價73.97美元，上漲6.24%，開盤70.43美元，區間介於70.06美元至74.24美元，成交量49.96萬股，均價73.03美元。TechnipFMC是能源工程與海底設備供應商，專注海底生產系統、海上油氣開發與能源基礎設施服務，2026年第2季營收為28億美元，自由現金流達4.88億美元，市場並關注海底業務訂單增長與離岸能源專案推進。\n\nTwilio（TWLO.US）：成交價254.8美元，上漲5.6%，開盤244.5美元，區間介於244美元至255.55美元，成交量36.29萬股，均價250.93美元。Twilio是雲端通訊平台即服務企業，提供語音、簡訊、電子郵件與客戶互動工具，近期在SIGNAL大會推出Conversation Memory、Conversation Orchestrator等AI功能，2026年第2季營收為15億美元，年增22%，自由現金流達3.53億美元。\n\nMurphy USA（MUSA.US）：成交價547.75美元，上漲5.32%，開盤529.62美元，區間介於529.62美元至549.55美元，成交量4.08萬股，均價541.89美元。Murphy USA是美國加油站與便利商店營運商，業務結合平價燃油與店內零售商品銷售，市場持續觀察燃油零售利差、店內商品銷售與美國行車需求變化，公路型大型休息站擴張也讓便利零售競爭態勢受到注意。\n\nDigitalOcean（DOCN.US）：成交價130.85美元，上漲5.4%，開盤124.8美元，區間介於123.16美元至133.65美元，成交量28萬股，均價130.18美元。DigitalOcean是雲端運算平台，主要服務開發人員、新創企業與中小企業，2026年度第1季營收為2.58億美元，年增22%，市場持續聚焦AI Native Cloud、推理服務與中小企業工作負載上雲需求。\n\nBruker（BRKR.US）： 成交價56.35美元，上漲5.51%，開盤53.27美元，區間介於53.27美元至56.38美元，成交量14.96萬股，均價55.57美元。Bruker(BRKR.US)是科學儀器與分析設備公司，產品應用於生命科學、材料分析與半導體量測，市場關注AI帶動的半導體量測需求與實驗室數位化布局。Bruker的AI驅動半導體量測業務已成為年營收逾3億美元的事業體，並給出2026年全年營收35.7億美元至36億美元的展望。\n\n《強勢美股特報》P,VAL,PBF,MP等10檔\n\n《強勢美股特報》TWLO,P,PBF,DOCN等10檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT, AAPL",
