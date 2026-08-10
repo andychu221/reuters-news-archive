@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-10T12:00:41.429Z",
-  "total_news_count": 581,
+  "last_updated": "2026-08-10T12:11:13.865Z",
+  "total_news_count": 582,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-08-10",
+      "Time": "20:07:37",
+      "Source": "Yahoo Finance",
+      "Title": "Meta's New AI Model Takes Aim at China",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/metas-ai-model-takes-aim-120737210.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms Inc. ( META , Financials ), the social media and AI giant, launched a new open-weight model as Mark Zuckerberg tries to strengthen the company's position in an increasingly competitive AI race.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe new model, Muse Glimmer, is smaller than the flagship systems built by companies such as OpenAI and Anthropic. Instead, it is designed for agentic tasks and can run directly on a Mac or PC using a single graphics card.\n\nThat could matter as companies look for cheaper and more flexible ways to deploy AI without relying entirely on expensive cloud-based models.\n\nMeta also plans to release more open-weight models, while Zuckerberg is pushing for fewer U.S. restrictions on how they are developed. His concern is increasingly China.\n\nModels from Alibaba, DeepSeek and Moonshot are gaining ground in the open-weight market, while many leading U.S. systems remain closed.\n\nFor Meta, the strategy offers another way to differentiate itself after spending heavily to rebuild its AI ambitions.\n\nShares were up about 1% before the bell. The next test is whether developers actually choose Meta's open models over increasingly capable Chinese alternatives.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-10",
