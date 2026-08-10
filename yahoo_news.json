@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-08-10T19:00:51.957Z",
-  "total_news_count": 713,
+  "last_updated": "2026-08-10T19:11:32.680Z",
+  "total_news_count": 714,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT",
+      "Date": "2026-08-11",
+      "Time": "03:08:02",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft's Datacenter Spending Is Disciplined, Bernstein Says",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsofts-datacenter-spending-disciplined-bernstein-190802414.html",
+      "Content": "This article first appeared on GuruFocus .\n\nBernstein raised its Microsoft ( NASDAQ:MSFT ) price target to $660 from $647 and kept an Outperform rating. The note pushed back on a worry hanging over the megacap cloud names: that they are overbuilding datacenter capacity ahead of uncertain AI demand. Microsoft shares are up 2.12% intraday.\n\nBernstein's argument is that Microsoft has been more disciplined than the fear suggests. The firm said Microsoft has added datacenter square footage more slowly than its cloud revenue has grown, and that while future lease obligations have risen, they are spread across multiple years. Its purchase commitments for power, cooling, and hardware are concentrated in the next 12 months, with little locked in beyond that.\n\nThe firm's key point is that the buildout carries a fallback. Even if AI demand stalled, Bernstein said, Microsoft could redirect the new capacity to its existing CPU-based cloud business, limiting the downside from overinvestment. Capacity is coming online quickly, and hardware is generally available, the firm added, though some costs have risen.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-11",
       "Time": "02:52:18",
       "Source": "Yahoo Finance",
