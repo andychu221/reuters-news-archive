@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-08-10T14:32:20.387Z",
-  "total_news_count": 616,
+  "last_updated": "2026-08-10T14:35:08.371Z",
+  "total_news_count": 617,
   "news": [
     {
-      "Ticker": "META",
+      "Ticker": "TSM",
+      "Date": "2026-08-10",
+      "Time": "22:04:32",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft plans Maia 300 chip reveal in September -  Information",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-plans-maia-300-chip-140432692.html",
+      "Content": "Investing.com -- Microsoft is targeting a public unveiling of its next-generation Maia 300 AI accelerator as soon as September. It has also entered talks to secure manufacturing capacity for more than 300,000 units from TSMC, with delivery planned for 2027, The Information reported Monday, citing two people with direct knowledge of the plans. MSFT shares were indicated up approximately 0.7% in premarket trading ahead of Monday's open.\n\nTaiwan Semiconductor Manufacturing (NYSE: TSM) is the direct supply-chain beneficiary. Microsoft is negotiating with TSMC to fill an order that dwarfs the tens of thousands of Maia 200 chips produced to date. The longer-term ambition is capacity for more than one million units, though component supplies and ongoing packaging negotiations could constrain that target.\n\nThe scale of the ambition marks a sharp turn from the Maia program's troubled recent history. The Maia 200 was delayed after early tests fell short of internal goals and has since been deployed in only a small number of data centers. CEO Satya Nadella told investors on Microsoft's Q4 FY2026 earnings call on July 29 that the chip delivers 30% better performance per dollar compared to existing hardware and is scaling to support OpenAI and MAI models. The limited footprint, however, underscores how far the homegrown silicon program still has to go.\n\nReducing dependence on Nvidia is a stated priority for Nadella. The Maia line is central to that effort. Microsoft believes its chips can run both in-house and OpenAI models at lower cost, and the company is ramping internal usage through Azure AI Foundry and Copilot while pitching the technology to large external cloud customers. Anthropic is among the names Microsoft hopes to win over, The Information reported. That pitch has a complication: Anthropic confirmed earlier this month that it is forming its own internal semiconductor team to design custom chips for its Claude models, making the AI startup simultaneously a potential Maia 300 customer and an emerging long-term competitor in custom silicon.\n\nThe broader financial backdrop gives Microsoft room to press ahead. Q4 FY2026 revenue hit $90.0 billion, up 18% year-over-year. Azure and Other Cloud Services grew 43%.\n\nExecution risks are real. J.P. Morgan analysts flagged that projects concentrated on TSMC's N3 process and CoWoS advanced chip-packaging technology face supply tightness through 2027, a constraint directly relevant to Microsoft's Maia 300 ramp. The specific process node and packaging configuration Microsoft is pursuing have not been publicly confirmed, and the September reveal date rests on anonymous sourcing at The Information rather than any official disclosure.\n\nStory Continues\n\nAll eyes will turn to Nvidia's Q3 FY2027 earnings, expected August 26, where management commentary on hyperscaler custom silicon competition will be parsed closely. A formal Maia 300 reveal in September, if it materializes, could serve as an early catalyst for that conversation — and a test of whether Microsoft's second-generation chip can deliver at a scale the first one never reached.\n\nMicrosoft plans Maia 300 chip reveal in September - Information\n\nNvidia's new Alpamayo project: What it means for Tesla?\n\n5 reasons why Jefferies thinks Meta's pullback is a buying opportunity",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC, META",
       "Date": "2026-08-10",
       "Time": "21:56:05",
       "Source": "Yahoo Finance",
