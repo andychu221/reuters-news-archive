@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-10T07:20:04.153Z",
-  "total_news_count": 517,
+  "last_updated": "2026-08-10T07:27:35.449Z",
+  "total_news_count": 529,
   "news": [
+    {
+      "Ticker": ".KS11, .SPX",
+      "Date": "2026-08-10",
+      "Time": "15:09:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "SK海力士砸54.3兆韓元擴產，KOSPI週一彈升0.65%、KOSDAQ飆6.97%",
+      "URL": "https://tw.stock.yahoo.com/news/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%A0%B854-3%E5%85%86%E9%9F%93%E5%85%83%E6%93%B4%E7%94%A2-kospi%E9%80%B1-%E5%BD%88%E5%8D%870-65-070902813.html",
+      "Content": "【財訊快報／陳孟朔】標普500指數上週五(7日)刷新收盤新高，為韓股週一止瀉提供底氣。首爾綜合股價指數(KOSPI)高開高走，開盤約10分鐘大漲2.2%，觸及6,394.06點日高；其後電子股衝高回落，指數一度翻黑至6,232.45點日低，終場在醫療與精密設備、鋼鐵、機械及運輸設備類股接棒走強下，倒升40.89點或0.65%，收在6,299.66點，扭轉前兩個交易日累跌5.18%的弱勢。同日，以科技與中小型股為主的KOSDAQ指數狂飆55.66點或6.97%，收在854.47點，盤中一度觸發韓國交易所SIDECAR機制，暫停程式化買盤。KOSPI早盤漲幅明顯收斂，顯示大型電子權值股上方賣壓仍重；相較之下，資金加速回補先前跌幅較深的中小型成長股，使兩大指數表現明顯分化。\n\n韓國記憶體大廠SK海力士(SK hynix，韓股代碼000660，美股代碼SKHY)宣布，將在韓國投入合計54.3兆韓元(約380億美元)，擴建DRAM與NAND快閃記憶體產能。其中，龍仁半導體聚落第二階段晶圓廠投資35.2兆韓元，主要生產高頻寬記憶體(HBM)及次世代DRAM，首座無塵室預計2029年6月啟用；第一階段晶圓廠首座無塵室則預定明年2月投入使用。清州M17晶圓廠另投資19.1兆韓元，首座無塵室預計2028年12月啟用，整體投資於2031年前完成，並可依AI伺服器、數據中心及企業級儲存需求彈性調整產品配置。SK海力士終場收小黑跌0.14%，三星電子也小跌0.43%，系出同門的三星電管則急彈4.9%，成為三十檔大型股(KTOP30)第三旺個股，只輸給未來資產大宇和韓華航空航天，兩者各飆漲7.37%和5.01%。\n\n不過，韓股中期資金壓力尚未解除。KOSPI上週再跌逾6%，連續第七週收黑，創2022年12月以來最長週線連跌紀錄，自6月高點迄今已回落約33%；三星電子與SK海力士占這波KOSPI市值蒸發約2,257.8兆韓元的76%。與此同時，韓國散戶7月淨買入美股46億美元，創六個月新高，且自2月以來首次超越對韓股的買入力道。美銀警告，若韓股持續落後美股，散戶海外投資可能再度加速，使近期受SK海力士海外籌資匯回款支撐的韓元，後續維持升勢的空間更加有限。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2388.TW",
       "Date": "2026-08-10",
@@ -10,6 +20,36 @@
       "Title": "【公告】威盛 2026年7月合併營收11.36億元 年增43.29%",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%A8%81%E7%9B%9B-2026%E5%B9%B47%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B611-36%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E43-065235637.html",
       "Content": "日期： 2026 年 08 月 10日\n\n上市公司：威盛 (2388)\n\n單位：仟元\n\n【公告】威盛 2026年7月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n1,135,921\n\n去年同期\n\n792,725\n\n增減金額\n\n343,196\n\n增減百分比\n\n43.29\n\n本年累計\n\n6,743,272\n\n去年累計\n\n4,969,690\n\n1,773,582\n\n35.69",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-10",
+      "Time": "14:49:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資上週加碼台股266億！ 緯創買最多「這檔」最慘被砍12.7萬張",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E4%B8%8A%E9%80%B1%E5%8A%A0%E7%A2%BC%E5%8F%B0%E8%82%A1266%E5%84%84-%E7%B7%AF%E5%89%B5%E8%B2%B7%E6%9C%80%E5%A4%9A-%E9%80%99%E6%AA%94-%E6%9C%80%E6%85%98%E8%A2%AB%E7%A0%8D12-7%E8%90%AC%E5%BC%B5-064900622.html",
+      "Content": "外資單週狂吸266.9億元！緯創豪奪買超王、聯電遭重砍12.7萬張淪賣超首位。\n\n外資單週回補266億\n\n根據證交易所最新統計，上週（115/8/3~115/8/7）外資在集中市場總買進金額為19,964.25億元，總賣出金額為19,697.35億元，買超金額達266.90億元。自115年年初至8月7日止，外資總買進金額累計為53兆1,846.74億元，總賣出金額為54兆8,480.65億元，累計賣超幅度降至16,633.91億元。\n\n外資持股市值突破69兆\n\n在整體持股比重方面，外資總持有股票（包含原始股東持股及自集中市場買進之持股）市值達到69兆6,082.44億元新台幣，佔全體上市股票總市值的48.20%。相較於7月31日的68兆8,591.39億元新台幣，外資總持股市值在短短一週內大幅增加了7,491.05億元新台幣。\n\n緯創登頂買超三強\n\n進一步分析上週個股買超表現，緯創以買進284,712張、賣出209,638張，買超75,074張（7.51萬張）高居買超第一名；長榮航以買進130,777張、賣出58,405張，買超72,372張位居第二；鴻海則以買進161,205張、賣出95,545張，買超65,660張排名第三。\n\n聯電遭賣超逾12萬張\n\n賣超個股部分，聯電遭外資大量調節，上週買進394,119張、賣出521,746張，賣超高達127,627張（12.76萬張），成為賣超最多的上市公司；臺企銀以買進58,112張、賣出179,391張，賣超121,279張位居第二；第一金則以買進83,684張、賣出172,352張，賣超88,668張名列賣超第三名。\n\n（封面示意圖／AI生成）\n\n【 本文 由<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"東森財經\",\"yModuleName\":\"content-canvas\"}\" data-ylk=\"slk:東森財經;elm:context_link;itc:0;sec:content-canvas;\" href=\"https://fnc.ebc.net.tw/?utm_source=yahoonews&utm_medium=referral&utm_campaign=site_l",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-10",
+      "Time": "14:40:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電7月營收再創歷史新高　台股盤中收復4萬5千點、收盤大漲702點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB7%E6%9C%88%E7%87%9F%E6%94%B6%E5%86%8D%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E6%94%B6%E5%BE%A94%E8%90%AC5%E5%8D%83%E9%BB%9E-%E6%94%B6%E7%9B%A4%E5%A4%A7%E6%BC%B2702%E9%BB%9E-064000469.html",
+      "Content": "台積電 7 月合併營收約為新台幣 4,675 億 8,000 萬元，，創下單月營收歷史新高。累計 今年 1 至 7 月營收約為新台幣 2 兆8千多億元。（攝影／鄭國強）\n\n台積電（2330）（10）日收盤後公佈7月營收報告。2026年 7 月合併營收約為新台幣 4,675 億 8,000 萬元，較去年同期增加了 44.7％，創下單月營收歷史新高。累計 今年 1 至 7 月營收約為新台幣 2 兆8,720億6,400萬元，較去年同期增加了 37.0％。\n\n雖然台積電是在台股收盤後公布，但台股已經提前慶祝，台積電收盤上漲10元，收在2380元，已經站上月線 10日均線 5日均線，也帶動台股收盤大漲，盤中還一度漲上45219.4點，最後收盤上漲702.85點，收在44928.76點，成交量8474億元。\n\n權值股全面上揚，台達電（2308）亮燈漲停，收在1815元，收復1755元到1635元的空方缺口。聯發科（2454）上漲1.54%，收在3960元。鴻海（2317）漲1.73%，收在264.5元，連續第四天在季線和月均線之上。日月光（3711）大漲7.69%，收在630元，是上週主動式ETF買超最多的權值股，買超2000張以上。\n\n主動式ETF的最愛持股台光電（2383）也小漲0.95%，收在5290元。台光電其實在8月4日收復季線和月線，反彈到5140元以後，已經連續第五天在5140元以上。\n\n投資人最津津樂道的是記憶體族群大復活，主要記憶體股就有南亞科（2408）、旺宏（2337）、華邦電（2344）亮燈漲停，南亞科收在502元、事隔一個半月，幾乎快要攻回6月22日歷史高點505元，旺宏收在133.5元、華邦電收在179.5元。\n\n其他群聯（8299）也上漲0.99%，收在2040元，力積電（6770）則上漲3.21%收在67.6元，回到7月22日的價位。\n\n矽光子族群也相當強勢，聯亞（3081）收在漲停價2535元，華星光（4979）也亮燈漲停在536元，波若威（3163）大漲5.22%，收在706元，汎銓（6830）也大漲6.66%，收在424.5元。\n\n(原始連結)",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-10",
+      "Time": "14:21:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤後焦點】台股上漲702點收44928點　收復季線44331點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2702%E9%BB%9E%E6%94%B644928%E9%BB%9E-%E6%94%B6%E5%BE%A9%E5%AD%A3%E7%B7%9A44331%E9%BB%9E-062136303.html",
+      "Content": "（中央社記者曾仁凱台北2026年8月10日電）美國7月非農就業人數意外減少，市場對聯準會升息預期降低，資金重回科技股，台股今天開高震盪，台積電尾盤股價漲勢收斂，集中市場指數終場上漲702.85點，收在44928.76點，重新站上季線44331點，成交值新台幣8473.72億元。\n\n權值股台積電 (2330) 今天盤中股價最多上漲40元至2410元，但尾盤壓回，終場上漲10元，收在全日最低點2380元；聯發科 (2454) 漲60元或1.54%，收3960元；台達電 (2308) 攻上漲停板1815元，上漲165元，股價創兩週來高點。\n\n市場傳出台積電有意購入友達中科L7廠與L5C廠，擴充先進封裝產能，未來可能比照「群創模式」合作發展先進封裝技術。受此激勵，面板雙虎友達 (2409) 、群創 (3481) 今天雙雙爆出逾21萬張大量，股價攻上漲停板27元及52.3元。\n\n「萬金股」川湖 (2059) 上週公布財報亮眼，今天股價續強，開盤再度亮燈漲停，最高衝上12220元，終場上漲795元或7.16%，以11905元作收，穩居股后。\n\n富邦投顧董事長陳奕光分析，台股7月下旬回檔修正，但AI道路趨勢並沒有改變，變的是資金籌碼，7月29日FOMC（聯邦公開市場委員會）維持利率不變，但有3位票委支持升息1碼，他認為到9月下次利率會議前，這份報告會一直影響市場。\n\n不過陳奕光認為，美國聯準會今年升息機會不高，明年甚至有機會偏向降息，有利台股後勢。富邦投顧內部評估，市場預期造成利率自行上升，已提供部分緊縮效果，顯示市場不再完全依賴聯準會。（編輯：張良知）",
       "Language": "zh"
     },
     {
@@ -23,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-08-10",
+      "Time": "14:19:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股上漲702點收44928點　收復季線44331點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%B8%8A%E6%BC%B2702%E9%BB%9E%E6%94%B644928%E9%BB%9E-%E6%94%B6%E5%BE%A9%E5%AD%A3%E7%B7%9A44331%E9%BB%9E-061944998.html",
+      "Content": "（中央社記者曾仁凱台北10日電）美國7月非農就業人數意外減少，市場對聯準會升息預期降低，資金重回科技股，台股今天開高震盪，台積電尾盤股價漲勢收斂，集中市場指數終場上漲702.85點，收在44928.76點，重新站上季線44331點，成交值新台幣8473.72億元。\n\n權值股台積電今天盤中股價最多上漲40元至2410元，但尾盤壓回，終場上漲10元，收在全日最低點2380元；聯發科漲60元或1.54%，收3960元；台達電攻上漲停板1815元，上漲165元，股價創兩週來高點。\n\n市場傳出台積電有意購入友達中科L7廠與L5C廠，擴充先進封裝產能，未來可能比照「群創模式」合作發展先進封裝技術。受此激勵，面板雙虎友達、群創今天雙雙爆出逾21萬張大量，股價攻上漲停板27元及52.3元。\n\n「萬金股」川湖上週公布財報亮眼，今天股價續強，開盤再度亮燈漲停，最高衝上12220元，終場上漲795元或7.16%，以11905元作收，穩居股后。\n\n富邦投顧董事長陳奕光分析，台股7月下旬回檔修正，但AI道路趨勢並沒有改變，變的是資金籌碼，7月29日FOMC（聯邦公開市場委員會）維持利率不變，但有3位票委支持升息1碼，他認為到9月下次利率會議前，這份報告會一直影響市場。\n\n不過陳奕光認為，美國聯準會今年升息機會不高，明年甚至有機會偏向降息，有利台股後勢。富邦投顧內部評估，市場預期造成利率自行上升，已提供部分緊縮效果，顯示市場不再完全依賴聯準會。（編輯：張良知）1150810",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-08-10",
       "Time": "14:14:53",
@@ -33,6 +83,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-08-10",
+      "Time": "14:12:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】台積電 2026年7月合併營收4675.81億元 年增44.69%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8F%B0%E7%A9%8D%E9%9B%BB-2026%E5%B9%B47%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B64675-81%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E44-061244567.html",
+      "Content": "日期： 2026 年 08 月 10日\n\n上市公司：台積電 (2330)\n\n單位：仟元\n\n【公告】台積電 2026年7月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n467,580,548\n\n去年同期\n\n323,165,707\n\n增減金額\n\n144,414,841\n\n增減百分比\n\n44.69\n\n本年累計\n\n2,872,064,238\n\n去年累計\n\n2,096,211,240\n\n775,852,998\n\n37.01",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-08-10",
       "Time": "14:04:48",
@@ -40,6 +100,16 @@
       "Title": "台股大漲702點！45K得而復失收44928點 台積電收2380元",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2702%E9%BB%9E-45k%E5%BE%97%E8%80%8C%E5%BE%A9%E5%A4%B1%E6%94%B644928%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62380%E5%85%83-060448964.html",
       "Content": "台股今（10）日開高走高，開盤上漲314.8點，以44540.71點開出，盤中一度大漲近千點，最高來到45219.40點，隨後漲幅略微收斂，終場仍上漲702.85點，收在44928.76點，成交量8473.72億元。\n\n權值股方面，台積電（2330）上漲10元，收在2380元，漲幅0.42%；鴻海（2317）上漲4.5元，收264.5元，漲幅1.73%；廣達（2382）上漲15.5元，收313.5元，漲幅5.20%；台達電（2308）上漲165元，收1815元，漲幅10%；聯發科（2454）上漲60元，收3960元，漲幅1.54%；台光電（2383）上漲50元，收5290元，漲幅0.95%。\n\n責任編輯／蔡尚晉",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-10",
+      "Time": "14:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》ASIC與GPU的競合—AVGO、NVDA、MRVL",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-asic%E8%88%87gpu%E7%9A%84%E7%AB%B6%E5%90%88-avgo-nvda-mrvl-060400289.html",
+      "Content": "MoneyDJ新聞 2026-08-10 14:04:18 數位內容中心 發佈\n\nBroadcom（AVGO.US）\n\n8月資料顯示，Broadcom把ASIC切入點放在大型雲端服務商自研晶片供應鏈。2026會計年度第2季AI半導體營收為108億美元，AI訂單金額超過300億美元，且公司指引第3季AI營收將達160億美元，反映客製化ASIC已開始分食AI基礎設施預算。\n\nNVIDIA（NVDA.US）\n\n近期NVIDIA把競爭焦點從單顆GPU拉高到整個AI factory平台。Blackwell GB300已於第2季開始出貨，產能約為每週1000個機櫃；GB300 NVL72在推理場景相較Hopper可帶來50倍每token能效提升，並由機櫃與互連共同支撐平台銷售。\n\nMarvell（MRVL.US）\n\n近期Marvell釋出的關鍵訊號，是hyperscaler客製化ASIC專案已進入較長的收入堆疊期。公司指出新拿下的design win，通常需12至24個月才會進入量產與明顯營收貢獻，顯示ASIC外包已從概念驗證走向多年期供貨節奏。\n\nMediaTek\n\n近期MediaTek明確把AI資料中心ASIC列為新成長主軸。董事會已核准籌措50億美元資金以確保供應鏈產能，首個ASIC產品家族正與美國大型雲端服務供應商合作開發，預計於2026年第4季投產，並預估2026年相關營收將超過20億美元。\n\nAnthropic\n\n近期Anthropic確認建立自研晶片設計團隊，將為Claude模型開發客製化晶片，同時強調這是multi-chip strategy，不會取代既有NVIDIA、AMD、AWS與Google Cloud合作。原始資料並指出，先進AI處理器在製造前的設計成本約為5億美元。\n\nSynopsys（SNPS.US）\n\n近期Kimi K3事件把ASIC設計工具門檻推上檯面，也直接牽動Synopsys股價。原始資料指出，該示範僅用開源工具與45nm academic library完成4平方毫米晶片設計，未使用Synopsys產品。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》邊緣運算—QCOM、NXPI、ARM\n\n《美股主題週報》ASIC與GPU的競合—NVDA、AVGO、AMD\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -103,6 +173,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-08-10",
+      "Time": "13:49:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》先進封裝—TSM、LRCX、AMKR",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-tsm-lrcx-amkr-054900223.html",
+      "Content": "MoneyDJ新聞 2026-08-10 13:49:15 數位內容中心 發佈\n\nTaiwan Semiconductor Manufacturing Company Limited（TSM.US）\n\n8月6日市場消息指出，台積電為配合蘋果A20 Pro量產，2奈米製程進展順利，但約10億美元處理器仍待DRAM到貨後才能完成封裝。公司同時導入被描述為「行動版CoWoS」的新封裝，將高階邏輯與標準化DRAM整合至同一封裝。\n\nIntel Corporation（INTC.US）\n\n8月5日產業消息顯示，英特爾於7月底與Fortinet達成策略合作，開發採小晶片異質整合設計的SP6，並使用英特爾4奈米級製程與嵌入式多晶片互連橋接（EMIB）2.5D先進封裝。這也是英特爾4奈米製程首度公開對外簽約商業客戶。\n\nAmkor Technology, Inc.（AMKR.US）\n\nNVIDIA與Amkor簽署多年期協議，預付15億美元擴充美國先進封裝與測試產能，重點落在亞利桑那州。這筆預付款將錨定於Amkor在當地興建中的70億美元製造園區，並銜接其與台積電6月建立的10年期美國封裝合作。\n\nLam Research Corporation（LRCX.US）\n\nLam Research表示，2026年先進封裝營收預計年增超過70%，需求來自HBM與2.5D/3D類封裝。公司並已將510x515毫米面板系統出貨至多個地區開發計畫，且將於今年出貨首台310x310毫米面板工具。\n\nApplied Materials, Inc.（AMAT.US）\n\n市場消息顯示，Applied Materials的先進封裝相關營收在2026年預估將成長超過50%。管理層並指出，半導體設備業務在2026日曆年預計成長超過30%，顯示先進封裝已成為公司當年前進的重要成長來源之一。\n\nKLA Corporation（KLAC.US）\n\n近期市場彙整指出，KLA預期2026年先進封裝營收將大增超過70%，先進封裝製程控制營收可望超過11億美元。公司並表示，為因應更強需求情境，已增加長交期零組件的採購承諾，以保留供應彈性。\n\nOnto Innovation Inc.（ONTO.US）\n\n8月5日市場資訊顯示，Onto Innovation預期2026年先進封裝營收成長超過50%，其Dragonfly G5已在2.5D邏輯客戶完成資格驗證。這代表先進封裝量測與檢測設備已推進至正式驗證里程碑，對後續裝機與出貨形成直接訊號。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n訂單能見度清晰 倍利科今年營運拚高\n\n《美股主題週報》地緣政治與戰略資源—GFS、LRCX、INTC\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-08-10",
+      "Time": "13:47:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電營收連三月創歷史新高，前7月年增37%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%87%9F%E6%94%B6%E9%80%A3%E4%B8%89%E6%9C%88%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98-%E5%89%8D7%E6%9C%88%E5%B9%B4%E5%A2%9E37-054700438.html",
+      "Content": "MoneyDJ新聞 2026-08-10 13:47:58 新聞中心 發佈\n\n晶圓代工龍頭台積電(2330)今(10)日公布今(2026)年7月合併營收約為4,675億8,000萬元，連三月刷新單月歷史新高紀錄，月增5.6%，年增44.7%；累計今年1至7月營收約為2兆8,720億6,400萬元，也續創同期新高，年增37%。\n\n展望第三季，台積電7月時於法說會時釋出財測，預估今年第三季合併營收達446～458億美元，季增10.94～13.93%、年增34.76～38.38%，中位數452億美元，季增12.44%、年增36.57%。在新台幣兌美元匯率32元假設下，毛利率估65～67%、營益率估56～58%。以此推估，台積電第三季合併營收估落於1兆4272億元～1兆4656億元，季增12.34～15.37%、年增44.17～48.05%，中位數1兆4464億元，季增13.86%、年增46.11%，將連續6季改寫新高；毛利率、營益率中位數則降至66%、57%。\n\n世界先進7月營收年增三成 寫歷年同期新高\n\n馬斯克劍指記憶體、特斯拉為Terafab徵DRAM人才\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".SPX",
       "Date": "2026-08-10",
       "Time": "13:46:04",
@@ -163,6 +253,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-08-10",
+      "Time": "13:37:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "財報行情撐場 全球股票基金連11週淨流入",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B2%A1%E5%A0%B1%E8%A1%8C%E6%83%85%E6%92%90%E5%A0%B4-%E5%85%A8%E7%90%83%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%E9%80%A311%E9%80%B1%E6%B7%A8%E6%B5%81%E5%85%A5-053700716.html",
+      "Content": "MoneyDJ新聞 2026-08-10 13:37:09 李彥瑾 發佈\n\n全球企業接連交出亮眼財報，加上國際原油價格回落，帶動投資人風險胃納提升。根據倫敦證交所集團（LSEG）旗下Lipper統計，截至8月5日止當週，全球股票型基金淨流入211.5億美元，雖低於前週的277.2億美元，但已連續11週吸金，顯示市場資金動能仍相當強勁。\n\n路透社報導，近期多家重量級企業財報報喜，包括亞馬遜（Amazon）、開拓重工（Caterpillar）與Palantir均釋出優於預期的成績單，大幅提振市場信心。截至目前已公布財報的808檔MSCI世界指數成分股中，上季獲利合計年增40.9%，其中高達75%超越分析師預期。\n\n知名大型雲端業者持續加碼AI基建支出，也成為推升美股企業獲利的重要引擎。高盛預估，Alphabet、微軟、亞馬遜、Meta與甲骨文今年資本支出合計將逼近8,000億美元。科技巨頭最新財報顯示，雲端與AI投資已開始產生回報，市場對AI資本支出降溫的疑慮也隨之減輕。\n\n從資金流向來看，歐洲股票型基金單週吸金125.2億美元，創7月8日以來最大流入；亞洲股票型基金亦獲淨流入81.5億美元。相較之下，美國股票型基金遭撤資15.8億美元，主因美股創新高引發獲利了結賣壓，加上投資人等待7月非農報告以釐清聯準會（Fed）利率走向，資金暫時轉為觀望。\n\n債市同樣維持吸金力道，上週全球債券型基金累計淨流入122.7億美元，創近三週新高，其中高收益債基金吸金36.6億美元，寫下五週最大單週流入。\n\n（圖片來源：iStock）\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《貴金屬》通膨擔憂仍存 COMEX黃金下跌0.4%\n\nAI震盪反成買點 全球股票基金吸金創三週新高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-08-10",
       "Time": "13:36:00",
@@ -201,6 +301,26 @@
       "URL": "https://finance.yahoo.com/m/5370ced4-3293-33ea-9126-5e7c3143534e/forget-chips%3A-ai-is-now-a.html",
       "Content": "Data centers that use artificial intelligence (AI) all need one thing -- a steady power supply. That's where NextEra Energy (NYSE: NEE) and Oneok (NYSE: OKE), companies that can deliver dependable energy, come in.\n\nNextEra Energy is the largest publicly traded electric utility by market capitalization, valued at more than $178 billion. It is a hybrid utility that mixes regulated stability with aggressive clean-energy growth.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMidstream operator Oneok has more than 60,000 miles of pipelines that deliver natural gas and crude oil. Its earnings per share (EPS) compound annual growth rate is 13% over the past decade.\n\nAs a bonus, both companies offer attractive dividend yields and a history of dividend growth. Here's why I like each of these stocks.\n\nNextEra's huge size and scope give it plenty of options\n\nNextEra operates through two complementary divisions that mitigate downside risk while capturing upside growth: Florida Power & Light, which benefits from strong population growth in Florida and has dependable rate-base-driven revenue and earnings growth; and NextEra Energy Resources, a global leader in wind, solar, and battery storage development. This unregulated competitive energy segment provides a growth multiplier that traditional utilities cannot match.\n\nThe company will get even bigger if its proposed $67 billion all-stock merger with Dominion Energy goes through, which would make it the world's largest regulated utility, serving more than 10 million customers. The transaction has been unanimously approved by the boards of directors of both companies and is expected to close in the second half of 2027, pending approval by federal and state regulators.\n\nMassive tailwinds from data centers and electrification\n\nElectricity demand in the U.S. is experiencing structural growth for the first time in decades, propelled by AI data centers, industrial reshoring, and broad electrification. NextEra's massive development pipeline and national footprint position it as a primary partner for hyperscalers looking to secure gigawatts of clean, reliable power.\n\nThe company already has gigawatts of large-load demand in advanced discussions specifically tied to data center power purchase agreements. The merger with Dominion would give the company 110 gigawatts of power, much of it from nuclear sources, more than 10% of the electric capacity in the U.S.\n\nStory Continues\n\nNextEra raised its quarterly dividend by 10% this year and has increased its dividend for 31 consecutive years. The yield, at its current share price, is around 2.8%.\n\nOneok offers fee-based cash-flow stability\n\nOneok operates an extensive midstream energy network across major U.S. basins, including the Permian, Bakken, and Mid-Continent. The vast majority of its earnings are generated through long-term, fee-based contracts rather than direct commodity ownership. This structure insulates its revenue from short-term volatility in natural gas and natural gas liquids (NGL) prices, providing predictable operating cash flows even during broader market swings.\n\nOneok's ability to deliver natural gas is enabling it to sign deals with data centers seeking steady, secure energy sources. It recently secured a 1-gigawatt natural gas power generation supply agreement dedicated to supporting data centers and power generation demand, and said it is engaged with more than 40 counterparties related to data center and electric generation projects.\n\nReliable high yield and proven dividend growth\n\nFor income-oriented portfolios, Oneok stands out for its strong balance sheet and payout history. Its dividend yield at its current price is around 4.8%, more than twice NextEra Energy's yield. It has increased its dividend for three consecutive years and by more than 78% over the past decade, and has not cut its dividend since 1989.\n\nIts payout yield is around 73%, much higher than NextEra Energy, though with predictable fee-based income, that may not be a major problem",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-10",
+      "Time": "12:56:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股千點大復仇反撲季線！法人驚呼「不回測第二隻腳」台積電新題材引爆2檔轉機股鎖漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8D%83%E9%BB%9E%E5%A4%A7%E5%BE%A9%E4%BB%87%E5%8F%8D%E6%92%B2%E5%AD%A3%E7%B7%9A-%E6%B3%95%E4%BA%BA%E9%A9%9A%E5%91%BC-%E4%B8%8D%E5%9B%9E%E6%B8%AC%E7%AC%AC%E4%BA%8C%E9%9A%BB%E8%85%B3-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%96%B0%E9%A1%8C%E6%9D%90%E5%BC%95%E7%88%862%E6%AA%94%E8%BD%89%E6%A9%9F%E8%82%A1%E9%8E%96%E6%BC%B2%E5%81%9C-045644653.html",
+      "Content": "受到美國7月非農就業人數意外減少、聯準會（Fed）升息預期降溫激勵美股全面收紅，台指期夜盤上周五（7日）率先大漲逾730點，為現貨開盤奠定強勢創高基礎，台股今（10）日早盤大漲近千點並重返45,000點大關，台積電（2330）、聯發科（2454）走揚，台達電（2308）攻上漲停板，日月光投控（3711）、光寶科（2301）等AI與電子指標同步大漲。\n\n台股多方火力全開大漲近千點，加權指數最高一度衝上45,219.40點，盤面上記憶體、先進封裝設備、車用自行車以及低價轉型股表現最為強勢，紛紛掀起亮燈漲停潮。\n\n受惠於MSCI調整有機會入列的卡位買盤，加上報價落底回升，記憶體族群今日率先亮燈，力成（6239）強攻漲停，股價來到288.5元；華邦電（2344）強攻漲停，股價來到179.5元；南亞科（2408）、晶豪科（3001）、旺宏（2337）全面跟進大漲3％至7％。\n\n新科「萬金股」川湖（2059）再度跳空鎖漲停至12,220元，寫下股后新高紀錄，高毛利AI導軌業績續強。台達電點火，今日直接衝上漲停板來到1,815元，領軍科技股強攻；聯茂（6213）受惠7月營收大好，股價強勢登頂鎖漲停；禾伸堂（3026）今日適用處置股新制「一出關」短短2分鐘內便迅速亮燈漲停，來到588元。\n\n市場盛傳台積電將買下友達中科廠房以擴充面板級封裝（PLP）與CoWoS產能，引爆資金瘋狗浪。友達（2409）買盤瘋搶直接鎖漲停，市場排隊買單高掛；群創（3481）同樣爆量跟進，盤中同步亮燈漲停。\n\n傳統產業也大翻身，自行車龍頭巨大（9921）第二季財報確認轉盈，引爆基本面翻身行情，股價今日強勢鎖漲停並一舉攻破百元大關，來到101.5元。\n\n國票投顧指出，台股基本面與未來展望仍強，只要大盤能持續站穩在季線之上，透過時間換取空間、橫盤消化前波套牢賣壓，市場甚至有機會「在不回測第二隻腳的情況下，直接蓄勢挑戰前波高點」。\n\n短線危機已解除，惟45,000點上方套牢壓力仍沉重，大盤將由「暴力去槓桿」轉為「震盪打底」格局；資深分析師李蜀芳認為，台股正處於震盪打底階段，若能帶量突破第一隻腳的高點，代表底部型態逐漸完成，將展開下一波行情。\n\n不過，主動群益台灣強棒（00982A）經理人陳沅易提醒，美國升息壓力雖降溫，但8月下旬還有輝達（Nvidia）財報等變數，預期8月大盤將在44,000點至46,000點之間反覆整理。優先加碼7月營收優於預期、第二季財報獲利亮眼的個股，這些公司即使遇到大盤震盪，也具備較強的抗跌力。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-10",
+      "Time": "12:54:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "一表看》沒有0056！台股7月重挫「7檔高股息ETF還賺錢」　00939漲4.94％奪冠、第二名是它",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%A1%A8%E7%9C%8B-%E6%B2%92%E6%9C%890056-%E5%8F%B0%E8%82%A17%E6%9C%88%E9%87%8D%E6%8C%AB-7%E6%AA%94%E9%AB%98%E8%82%A1%E6%81%AFetf%E9%82%84%E8%B3%BA%E9%8C%A2-00939%E6%BC%B24-045410560.html",
+      "Content": "台股經歷7月震撼教育，單月重挫5.91%，市值型ETF全數負報酬，但高股息ETF卻展現韌性。理財達人稀飯整理25檔高股息ETF，發現竟然有7檔抗跌繳出正報酬。其中統一台灣高息動能(00939)單月上漲4.94%奪冠，今年含息報酬率更高達56.14%；永豐優息存股(00907)憑藉超過四成金融股配置，「避開科技股震盪」，以單月上漲4.75%位居第二。\n\n抗跌黑馬崛起　00939、00907單月強漲逾4%\n\n理財達人稀飯在「要不要來點稀飯套餐」臉書粉專，整理出25檔高股息ETF在7月的績效表現，在台股亂流中，有7檔高股息ETF突圍，單月呈現正報酬。\n\n表現最亮眼的是統一台灣高息動能(00939)，單月上漲4.94%，不僅拿下冠軍寶座，今年總績效排名也從6月的第10名，至7月一口氣竄升至第3名，今年含息報酬率更是達到56.14%。\n\n緊接在後的是永豐優息存股(00907)，單月上漲4.75%，展現強大氣勢。稀飯指出，翻開00907的成分股，超過4成是配置金融股，搭配部分傳產股，在高股息ETF中，科技股濃度相對較低，這種「避開科技股震盪」的選股結構，遇到科技股回檔，發揮防禦效果。\n\n00927、00929回檔慘烈　仍穩居今年冠亞軍\n\n低波動的元大台灣高息低波(00713)，著重現金流和抗震能力，成分股前5名選了台灣大(3045)、統一(1216)、統一超(2912)、第一金(2892)和遠傳(4904)，果然在波動市況下展現抗壓性，單月上漲1.66%。\n\n值得一提的是，群益台灣半導體收益(00927)和復華台灣科技優息(00929)，百分之百配置科技股，7月跌幅分別為12.89%和9.52%，修正之慘烈，超越多檔市值型ETF，不過，由於上半年已累積驚人漲幅，目前仍穩坐今年績效排行榜前兩名寶座，00927以75%的含息報酬率領先群雄；00929以58.72%居次。\n\n00878、00918表現穩健 0056單月跌幅4.54%\n\n另外，高股息ETF也出現新面孔，主動型的主動第一金優股息(00408A)在7月中旬剛掛牌，打破傳統被動式ETF選股邏輯，由經理人依市場盤勢與產業強弱主動調整配置，追求價息雙收，後續績效值得觀察。\n\n至於老牌熱門的國泰永續高股息(00878)和大華優利高填息30(00918)，今年以來的報酬率，仍優於大盤約3至4個百分點，表現相當穩健。最知名的元大高股息(0056)，7月報酬率跌幅4.54%，但今年以來仍有43.47%。\n\n總結7月高股息ETF的市場表現，「內餡」不同，結果就大相逕庭。專家建議，當市場走勢快速切換時，投資組合過度集中相似類股，容易暴露在相同風險下。專家指出，適度分散到不同產業或投資策略的高股息ETF，能在享受股息的同時，降低單一配置的資產波動。",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
