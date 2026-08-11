@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-11T21:34:24.106Z",
-  "total_news_count": 418,
+  "last_updated": "2026-08-11T21:34:40.484Z",
+  "total_news_count": 419,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-12",
+      "Time": "05:03:00",
+      "Source": "Yahoo Finance",
+      "Title": "Intel’s CFO called his shot, but shareholders pay the price",
+      "URL": "https://finance.yahoo.com/m/11b9ed7c-3510-37b6-b8e6-859d8c922484/intel%E2%80%99s-cfo-called-his-shot%2C.html",
+      "Content": "Intel Corp. ( INTC ) priced an upsized $20 billion stock offering at $95 a share on Tuesday, Aug. 11, raising $5 billion more than the $15 billion plan it announced just one trading day earlier.\n\nWall Street treated this as breaking news. It wasn't. Intel's own finance chief told investors this could happen three weeks ago, and almost no one flagged it as a warning.\n\nOn the company's July 23 earnings call , chief financial officer David Zinsner said Intel held roughly $40 billion in liquidity but that further success might require more.\n\nHe put it plainly: Intel \"may need to tap the capital markets to drive some more investment,\" according to a Benzinga report on the offering.\n\nThree weeks later, that's exactly what happened.\n\nThe math behind the dilution\n\nIntel sold 210,526,315 new shares Tuesday, Aug. 11, according to a statement from the company . Against roughly 5.04 billion shares outstanding , that works out to about 4.2% dilution before underwriters exercise any option.\n\nUnderwriters have a 30-day window to buy 31,578,947 more shares at the same price. If they take the full allotment, total dilution climbs toward 4.8%.\n\nEvery existing shareholder now owns a slightly smaller slice of a company that just raised $19.7 billion in net proceeds.\n\nThe stock priced at a discount, and it had already been falling\n\nShares closed Monday, Aug. 10, at $97.52, down 4.06% on the day. The $95 offering price landed 2.6% below even that lower close, according to Reuters .\n\nInvestors who bought Monday's dip still paid more than the company charged institutional buyers a day later.\n\nRelated: TSMC is quietly borrowing a page from Intel's playbook\n\nThat gap matters more than it looks. It signals underwriters needed a real discount to move 210 million shares in a single session, even with Intel's stock still up sharply this year.\n\nAs of Monday, Intel had nearly tripled year to date, outperforming AMD , Nvidia and the Philadelphia Semiconductor Index's nearly 75% gain, according to Reuters.\n\nImmediate spending on AI infrastructure\n\nIntel's capital expenditures are projected to exceed $20 billion in 2026, driven by surging customer demand for AI computing power, according to a CNBC report .\n\nThe stock sale essentially converts a paper rally into cash for the factories and packaging lines Intel needs to compete with TSMC.\n\nMore Intel:\n\n5-star analyst aggressively resets Intel stock price target after earnings\n\nGoldman delivers a candid response after Intel's stunning quarter\n\nIntel's 14A chips aren't built yet: Synopsys is already there\n\nStory Continues\n\nThis isn't unique to Intel. Big tech capital spending on AI infrastructure is on pace to hit $765 billion this year and $1.2 trillion in 2027, according to Goldman Sachs estimates cited by CNBC.\n\nCompanies with rising stock prices are increasingly using that currency to fund the buildout instead of taking on new debt.\n\nWhat this means for future AI funding\n\nWhat separates Intel's case is the paper trail. Zinsner told investors exactly what was coming, and the market still reacted like it was a surprise when the bill arrived.\n\nThat gap between disclosure and reaction is worth watching at other AI-adjacent companies telegraphing similar plans on earnings calls.\n\nThe next test comes when the 30-day underwriter option expires in September. If it's exercised in full, dilution edges closer to 5%, and investors will find out whether Intel's turnaround story is strong enough to absorb it.\n\nRelated: Intel's 14A chips aren't built yet: Synopsys is already there\n\nThis story was originally published by TheStreet on Aug 11, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nIntel priced an upsized $20 billion stock offering at $95 a share, a level its CFO effectively signaled three weeks earlier on the July earnings call.CHENG YU-CHEN / Getty Images\n\nIntel priced an upsized $20 billion stock offering at $95 a share, a level its CFO effectively signaled three weeks earlier on the July earnings call.CHENG YU-CHEN / Getty Images Immediate spending on AI infrastructure\n\n<a href=\"https://www.thestreet.com/investing/stocks/intc-5-star-analyst-hikes-intel-stock-price-target\" data-ylk=\"slk:5-star%20analyst%20aggressively%20resets%20Intel%20stock%20price%20target%20after%20earnings;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"5-star analyst aggressively resets Intel stock price target after earnings\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas default\"}\" target=\"_b",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-08-12",
@@ -143,7 +153,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, MSFT, NVDA, TSM",
+      "Ticker": "MSFT, NVDA, TSM",
       "Date": "2026-08-12",
       "Time": "03:20:55",
       "Source": "Yahoo Finance",
@@ -523,7 +533,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, TSM, MSFT, NVDA",
+      "Ticker": "TSM, MSFT, NVDA",
       "Date": "2026-08-12",
       "Time": "01:40:05",
       "Source": "Yahoo Finance",
