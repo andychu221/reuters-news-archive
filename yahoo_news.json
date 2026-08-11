@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T22:13:59.281Z",
-  "total_news_count": 428,
+  "last_updated": "2026-08-11T22:26:50.507Z",
+  "total_news_count": 433,
   "news": [
     {
       "Ticker": "AMZN",
@@ -23,6 +23,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-08-12",
+      "Time": "05:41:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR11日下跌0.283美元跌幅3.41%折台股25.88元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr11%E6%97%A5%E4%B8%8B%E8%B7%8C0-283%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%853-41-%E6%8A%98%E5%8F%B0%E8%82%A125-88%E5%85%83-214105648.html",
+      "Content": "(中央社台北2026年 8月12日電)友達光電在OTC US掛牌ADR以8.017美元作收，下跌0.283美元，跌幅 3.41%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 8月11日新台幣匯市收盤價32.278元計算，相當台股友達每股為 25.88元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/11\n\n8.01\n\n-0.28\n\n-3.41\n\n32.278\n\n25.8\n\n8/10\n\n8.30\n\n0.65\n\n8.50\n\n32.231\n\n26.7\n\n8/ 7\n\n7.65\n\n0.08\n\n1.06\n\n32.283\n\n24.7\n\n8/ 6\n\n7.57\n\n1.14\n\n32.261\n\n24.4\n\n8/ 5\n\n7.48\n\n-0.16\n\n-2.09\n\n32.315\n\n24.1\n\n8/ 4\n\n7.64\n\n0.36\n\n5.01\n\n32.447\n\n24.8\n\n8/ 3\n\n7.28\n\n0.10\n\n1.39\n\n32.438\n\n23.6\n\n7/31\n\n7.18\n\n0.42\n\n2 6.28\n\n32.292\n\n23.1\n\n7/30\n\n6.88\n\n-0.42\n\n-5.75\n\n32.454\n\n22.3\n\n7/29\n\n7.30\n\n0.14\n\n1.96\n\n32.366",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-12",
+      "Time": "05:41:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR11日上漲0.05美元漲幅0.12%折台股136.83元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr11%E6%97%A5%E4%B8%8A%E6%BC%B20-05%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-12-%E6%8A%98%E5%8F%B0%E8%82%A1136-83%E5%85%83-214101783.html",
+      "Content": "(中央社台北2026年 8月12日電)中華電信在NYSE掛牌ADR 以 42.39美元作收，上漲0.05美元，漲幅 0.12%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 8月11日新台幣匯市收盤價32.278元計算，相當台股中華電信每股為136.83元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/11\n\n42.39\n\n0.05\n\n0.12\n\n32.278\n\n136.8\n\n8/10\n\n42.34\n\n-0.18\n\n-0.42\n\n32.231\n\n136.4\n\n8/ 7\n\n42.52\n\n0.24\n\n0.57\n\n32.288\n\n137.2\n\n8/ 6\n\n42.28\n\n0.26\n\n0.62\n\n32.261\n\n8/ 5\n\n42.02\n\n0.13\n\n0.31\n\n32.315\n\n135.7\n\n8/ 4\n\n41.89\n\n-0.54\n\n-1.27\n\n32.447\n\n135.9\n\n8/ 3\n\n42.43\n\n32.438\n\n137.6\n\n7/31\n\n42.61\n\n-0.07\n\n-0.16\n\n32.292\n\n7/30\n\n42.68\n\n-0.45\n\n-1.04\n\n32.454\n\n138.5\n\n7/29\n\n43.13\n\n-0.11\n\n-0.25\n\n32.366\n\n139.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-08-12",
+      "Time": "05:40:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR11日上漲0.15美元漲幅0.80%折台股122.27元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr11%E6%97%A5%E4%B8%8A%E6%BC%B20-15%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-80-%E6%8A%98%E5%8F%B0%E8%82%A1122-27%E5%85%83-214059560.html",
+      "Content": "(中央社台北2026年 8月12日電)聯電在NYSE掛牌 ADR以18.94美元作收，上漲0.15美元，漲幅 0.80%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 8月11日新台幣匯市收盤價32.278元計算，相當台股聯電每股為122.27元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/11\n\n18.94\n\n0.15\n\n0.80\n\n32.278\n\n122.2\n\n8/10\n\n18.79\n\n0.07\n\n0.37\n\n32.231\n\n121.1\n\n8/ 7\n\n18.72\n\n-0.48\n\n-2.50\n\n32.288\n\n120.8\n\n8/ 6\n\n19.20\n\n-0.09\n\n-0.47\n\n32.261\n\n123.8\n\n8/ 5\n\n19.29\n\n-1.34\n\n-6.50\n\n32.315\n\n124.6\n\n8/ 4\n\n20.63\n\n1.94\n\n10.38\n\n32.447\n\n133.8\n\n8/ 3\n\n18.69\n\n-0.34\n\n-1.79\n\n32.438\n\n121.2\n\n7/31\n\n19.03\n\n0.09\n\n0.48\n\n32.292\n\n122.9\n\n7/30\n\n1.83\n\n10.70\n\n32.454\n\n7/29\n\n17.11\n\n-0.25\n\n-1.44\n\n32.366\n\n110.7",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META, MSFT",
       "Date": "2026-08-12",
       "Time": "05:40:46",
@@ -31,6 +61,26 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-favor-microsoft-corporation-214046892.html",
       "Content": "Microsoft Corporation (NASDAQ: MSFT ) added nearly $450 billion in market value on Thursday, the largest single-day gain for any U.S. company ever, after its earnings convinced investors its AI spending is starting to pay off. The stock surged as much as 16%, lifting Microsoft's market cap to $3.35 trillion and beating Nvidia's previous record one-day gain of $441 billion. Meta Platforms, Inc. (NASDAQ: META ) had the opposite week: its stock fell for an 11th straight day, its longest losing streak on record, down more than 20% in that stretch. On top of that, hedge funds remain bullish on Microsoft.\n\nWhy One AI Bet Worked and the Other Didn't\n\nMicrosoft Corporation (NASDAQ:MSFT) beat on nearly everything: revenue, Azure growth, and Copilot adoption. Meta beat on revenue too, but its guidance for the current quarter missed expectations, and its free cash flow plunged 91% year over year. Both companies are spending enormous sums on AI data centers and chips. Janus Henderson's Richard Bernstein said investors \"have become too myopic about the words 'AI' and 'data center'\" and are now looking harder at whether that spending is actually converting into cash.\n\nSo, did Microsoft actually prove its AI spending works while Meta's doesn't, or did the market just reward one good quarter and punish one soft guide, with both stories capable of flipping next quarter?\n\nSource: Seagate\n\nMicrosoft's Bull and Bear Case\n\nRevenue rose 18% to $90.01 billion, beating the $87.62 billion analysts expected, and adjusted earnings hit $4.74 a share versus $4.24 expected. Azure growth shot up to 43%, its best pace in years. Microsoft 365 Copilot passed 30 million paid seats, up from 20 million in April. Commercial bookings rose 8% to $678 billion. Zacks' Brian Mulberry said the results \"struck the tone markets are looking to hear.\" At least nine brokerages raised their price targets.\n\nHowever, Microsoft Corporation (NASDAQ:MSFT)'s stock was still down close to 18% for the year even after Thursday's pop; free cash flow fell 23% to $19.64 billion this quarter, and capital spending jumped 69% to $41 billion, with more increases planned for next year. Deutsche Bank flagged \"some concentration risk\" tied to Microsoft's exposure to OpenAI, which alone accounts for 45% of Microsoft's $625 billion in unfilled commercial contracts.\n\nMeta's Bull and Bear Case\n\nMeta Platforms, Inc. (NASDAQ:META)'s advertising business kept growing. Its revenue jumped by 27% year over year to $59.4 billion in the latest quarter. CEO Mark Zuckerberg said the company is fielding offers to lease out its extra computing capacity at a premium price, a possible new revenue stream if it materializes. Not every analyst agreed with the selloff either; Rosenblatt's Barton Crockett said he didn't share the market's negative view.\n\nStory Continues\n\nStill, Meta's guidance for the current quarter, $62.5 billion at the midpoint, missed the $63.15 billion Wall Street wanted, and free cash flow collapsed 91% to just $784 million as AI spending keeps climbing. Quilter Cheviot's Ben Barringer said Zuckerberg's compute-leasing idea was \"a little light on detail and relying on what could be done in the future.\"\n\nInsider Monkey's Hedge Fund Data\n\nInsider Monkey's hedge fund database shows Microsoft had 282 hedge fund holders as of Q1 2026, down from 312 the quarter before. Meta Platforms, Inc. (NASDAQ:META) had 262 holders, up from 256. Microsoft Corporation (NASDAQ:MSFT) still has more hedge funds behind it.\n\nAmong their Magnificent Seven peers, Amazon had the highest 353 holders, Alphabet had 265, and Apple had 170.\n\nConclusion\n\nMicrosoft just delivered the clearest proof yet that its AI spending is turning into revenue, and Wall Street rewarded it with history's biggest one-day gain. Meta is spending just as aggressively but hasn't shown the same payoff. Its guidance miss and cash flow drop gave the market real reasons to worry. Undoubtedly, hedge funds think Microsoft Corporation (NASDAQ:MSFT) is a better stock to buy than Meta.\n\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. This article is originally published at Insider Monkey .\n\nHedge Funds Favor Microsoft Corporation (MSFT) Over Meta Platforms Inc. (META)\n\nHedge Funds Favor Microsoft Corporation (MSFT) Over Meta Platforms Inc. (META) Source: Seagate\n\n<button class=\"secondary-btn fin-size-large readmore-button rounded yf-r7dg9i\" data-ylk=\"elm:readmore;itc:1;sec:content-canvas;slk:Story%20Continues\" da",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-12",
+      "Time": "05:39:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】多收低",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%A4%9A%E6%94%B6%E4%BD%8E-213957213.html",
+      "Content": "（中央社台北2026年8月12日電）外媒稍早披露美軍直升機朝1艘試圖突破伊朗港口封鎖的貨輪開火，使中東局勢再添變數之際，市場焦點轉向預計12日出爐的美國7月消費者物價指數（CPI），美股今天跌多漲少。\n\n道瓊工業指數下挫184.13點或0.34%，收報53791.85點。\n\n標普500指數微跌24.91點或0.32%，收在7728.20點。\n\n那斯達克指數滑落159.91點或0.60%，收26445.45點。\n\n費城半導體指數上漲104.61點或0.87%，收12098.47點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-12",
+      "Time": "05:35:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR11日上漲3.59美元漲幅0.86%折台股2724.65元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr11%E6%97%A5%E4%B8%8A%E6%BC%B23-59%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-86-%E6%8A%98%E5%8F%B0%E8%82%A12724-65%E5%85%83-213554887.html",
+      "Content": "(中央社台北2026年 8月12日電)台積電在NYSE掛牌 ADR以422.06美元作收，上漲3.59美元，漲幅 0.86%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 8月11日新台幣匯市收盤價32.278元計算，相當台股台積電每股為 2724.65元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/11\n\n422.06\n\n3.59\n\n0.86\n\n32.278\n\n2724.6\n\n8/10\n\n418.47\n\n-1.57\n\n-0.37\n\n32.231\n\n2697.5\n\n8/ 7\n\n420.04\n\n1.84\n\n0.44\n\n32.288\n\n2712.4\n\n8/ 6\n\n418.20\n\n4.20\n\n1.01\n\n32.261\n\n2698.3\n\n8/ 5\n\n414.00\n\n-3.17\n\n-0.76\n\n32.315\n\n2675.6\n\n8/ 4\n\n417.17\n\n11.06\n\n2.72\n\n32.447\n\n2707.1\n\n8/ 3\n\n406.11\n\n1.86\n\n0.46\n\n32.438\n\n2634.6\n\n7/31\n\n404.25\n\n0.94\n\n0.23\n\n32.292\n\n2610.8\n\n7/30\n\n403.31\n\n28.64\n\n7.64\n\n32.454\n\n2617.8\n\n7/29\n\n374.67\n\n-17.64\n\n-4.50\n\n32.366\n\n2425.3",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
