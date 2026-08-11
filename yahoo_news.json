@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T20:34:24.748Z",
+  "last_updated": "2026-08-11T20:34:47.706Z",
   "total_news_count": 409,
   "news": [
     {
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-08-12",
       "Time": "03:30:00",
       "Source": "Yahoo Finance",
@@ -63,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, MSFT, NVDA, TSM",
+      "Ticker": "MSFT, NVDA, TSM",
       "Date": "2026-08-12",
       "Time": "03:20:55",
       "Source": "Yahoo Finance",
@@ -433,7 +433,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, TSM, MSFT, NVDA",
+      "Ticker": "TSM, MSFT, NVDA",
       "Date": "2026-08-12",
       "Time": "01:40:05",
       "Source": "Yahoo Finance",
