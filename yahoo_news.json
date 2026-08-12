@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T11:01:00.862Z",
-  "total_news_count": 562,
+  "last_updated": "2026-08-12T11:11:15.793Z",
+  "total_news_count": 563,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "MSFT, AMZN, NVDA, AMD",
       "Date": "2026-08-12",
       "Time": "18:40:00",
       "Source": "Yahoo Finance",
@@ -43,7 +43,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META",
+      "Date": "2026-08-12",
+      "Time": "18:22:24",
+      "Source": "Yahoo Finance",
+      "Title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+      "URL": "https://finance.yahoo.com/news/meta-29-states-head-court-100127353.html",
+      "Content": "By Diana Novak Jones\n\nAug 12 (Reuters) - Meta Platforms will face a coalition of state attorneys general in a California federal court trial beginning on Wednesday over claims it engineered Facebook and Instagram to be addictive to children, a case that could expose the company to massive damages and force it to make sweeping changes to its platforms.\n\nMore from Yahoo Scout\n\nHow does this trial compare to previous cases?\n\nHow much could Meta potentially pay in damages?\n\nWhat specific changes could Meta be forced to make?\n\nWhat are the main allegations against Meta in this lawsuit?\n\nThe trial in Oakland, expected to last seven weeks, ‌will test Colorado, Kentucky, California and New Jersey's allegations that Meta designed its platforms to keep young users hooked and misled consumers about their safety. It will also address claims by 29 states that the ‌company illegally collected and used children's data in violation of federal law.\n\nJury selection is on Wednesday, with opening statements slated to begin August 18. Meta founder and CEO Mark Zuckerberg is expected to testify, as is Instagram head Adam Mosseri.\n\nIn terms of potential damages and implications for Meta, the ​trial is the biggest test yet of youth social media litigation and comes amid a broader reckoning across the globe over social media's effects on young users.\n\nMeta has said the damages could be as high as $1.4 trillion, near the company's market cap of $1.5 trillion, though the attorneys general have not publicly disclosed how much they may seek.\n\nThe attorneys general of Colorado, Kentucky, California and New Jersey are also asking the judge to issue an order forcing the company to implement age restrictions, eliminate infinite scroll and make other changes to its platforms.\n\nA Meta spokesperson said the company strongly disagreed with the allegations and was confident evidence would show its longstanding commitment to supporting young people.\n\n\"We've listened to parents, worked with experts and law enforcement, and conducted ‌in-depth research to understand the issues that matter most,\" the spokesperson said in a ⁠statement.\n\nBROADER RECKONING\n\nThe states' lawsuit, which was filed in 2023, stemmed from a multistate investigation into Instagram and Facebook's impact on young users. The investigation was announced following disclosures by Meta whistleblower Frances Haugen, who testified before a U.S. Senate committee in 2021 that the company knew its products could harm young users and how to make them safer, but chose not to make ⁠those changes in favor of pursuing higher profits.\n\n\"Meta knows its platforms are harming children and teens but continues to keep kids addicted, as we've alleged in our lawsuit,\" New Jersey Attorney General Jennifer Davenport said in a statement ahead of the trial. \"Our kids are not data points to be monetized.\"\n\nStory Continues\n\nA Reuters/Ipsos poll last week found an overwhelming majority of Americans — 85% — think social media can be addictive for children, with 61% of respondents saying social media companies need firmer oversight.\n\nMeta and other social media companies are facing growing ​pressure ​from lawmakers and in the courts. Wednesday's trial is among thousands of cases filed by states, municipalities, school districts and individuals over ​allegations that their products harm young users.\n\nMeta has said the flood of litigation could seriously ‌impact its business and financial results.\n\nTrials in the two cases that have already gone to juries resulted in verdicts against Meta, and last week a New Mexico judge ordered the company to pay $567 million and make changes to its platforms after finding the company responsible for fueling a children's mental health crisis in the state. The company also settled a lawsuit brought by a Kentucky school district that had been slated for trial in June.\n\nMeta has broadly denied the allegations in the cases, saying it has worked to protect children on its platforms. The company has argued it could not have misled consumers about whether its platforms were addictive because \"social media addiction\" is not a recognized psychiatric condition.\n\nLegal experts said the latest trial could be a pivotal moment for Meta, with recent courtroom losses increasing the pressure on the company.\n\n\"Big damage awards and judicial dictates about features both potentially pose existential threats to social media defendants,\" said Eric Goldman, a professor ‌and co-director of the High Tech Law Institute at Santa Clara University School of Law.\n\nAN UNUSUAL TRIAL\n\nMeta on Monday lost a last-ditch ​effort to delay the trial and halt thousands of other lawsuits it is facing after a U.S. court dismissed its appeal of rulings ​that allowed the cases to move forward, saying it was brought too early.\n\nU.S. District Judge Yvonne Gonzalez Rogers, ​who also presided over Elon Musk's lawsuit against OpenAI and its CEO Sam Altman, will oversee the trial and issue her decision after it concludes in October. Rogers made the unusual ‌decision to empanel an advisory jury to issue a decision on specific questions that she ​will use to guide her ruling. Advisory juries, which are ​very rarely used, give verdicts on specific issues selected by the judge — but the judge is free to disregard their findings in her ruling.\n\nIn addition to monetary damages, the states are asking Rogers to order the platforms to make changes nationwide. The states want Meta to implement age restrictions on users, delete all algorithms and AI models made with children's data, and eliminate features like infinite scroll and notifications. They also are asking ​the court to direct Meta to alter the algorithm it uses to promote content ‌to prioritize well-being instead of engagement, and set strict time limits for young users, among many other changes.\n\nThe lawsuit is one of more than 3,000 lawsuits filed by school districts, individuals and others ​in federal court against Meta, Snap Inc, YouTube parent Alphabet and TikTok parent ByteDance that have been centralized before Rogers. A second group of more than 3,300 lawsuits brought largely by individuals against ​the companies is pending in Los Angeles state court.\n\n(Reporting by Diana Novak Jones, Editing by Alexia Garamfalvi and Nia Williams)",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-12",
       "Time": "18:20:00",
       "Source": "Yahoo Finance",
