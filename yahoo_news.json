@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-12T13:11:25.373Z",
-  "total_news_count": 576,
+  "last_updated": "2026-08-12T13:34:51.932Z",
+  "total_news_count": 577,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-12",
+      "Time": "21:14:17",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla's Model Y Loses China's Top Spot to Geely",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-loses-chinas-131417175.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla Inc. ( TSLA , Financials ), the electric vehicle maker, lost the top spot among China's best-selling car models as lower-priced local competitors continue to gain ground.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nGeely's Xingyuan electric hatchback led the market with nearly 197,500 vehicles sold during the six months through July, according to Autohome data cited by CNBC.\n\nTesla's Model Y ranked second with more than 180,000 sales. The price gap is striking. Geely's Xingyuan starts below 100,000 yuan, or about $14,820, while the Model Y costs between 263,500 yuan and 313,500 yuan.\n\nStill, Tesla managed to outsell competing vehicles from Li Auto, Xiaomi and BYD, showing the Model Y retains considerable appeal despite its premium price.\n\nChina's market is also becoming increasingly electric. New-energy vehicles accounted for 65.1% of new passenger-car sales in July, up from 54% a year earlier.\n\nFor Tesla, the challenge is keeping the Model Y near the top as Chinese manufacturers offer increasingly capable EVs at far lower prices. The next question is whether Tesla can protect that position without relying more heavily on discounts.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-12",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-08-12",
       "Time": "20:29:00",
       "Source": "Yahoo Finance",
