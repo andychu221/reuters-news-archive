@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-12T17:27:20.108Z",
-  "total_news_count": 635,
+  "last_updated": "2026-08-12T17:32:50.285Z",
+  "total_news_count": 636,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-08-13",
+      "Time": "01:26:31",
+      "Source": "Yahoo Finance",
+      "Title": "SanDisk Stock Jumps 10% on New AI Memory Breakthrough With Kioxia",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/sandisk-stock-jumps-10-ai-172631423.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSanDisk ( NASDAQ:SNDK ) shares rose nearly 10% Wednesday after the company and Kioxia unveiled a new generation of high-capacity flash memory aimed at artificial intelligence and other data-intensive workloads, according to a Wednesday press release.\n\nThe jointly developed 2-terabit QLC 3D flash technology uses a CMOS directly Bonded to Array architecture and reaches a 4.8 gigabits-per-second interface rate. The companies said the technology improves read and write performance by 33% compared with their previous generation.\n\nWarning! GuruFocus has detected 2 Warning Sign with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nSanDisk's move comes as AI data centers require larger amounts of storage for training and inference workloads. The new memory is intended to provide higher capacity and performance while addressing power and efficiency requirements associated with expanding AI infrastructure.\n\nThe stock's move also comes after recent analyst support. Argus Research raised its view on SanDisk to Buy with a $1,600 price target, while Cantor Fitzgerald maintained a Buy rating. SanDisk also has a board-approved $15.5 billion share repurchase program. The latest product development gives investors another factor to watch as AI-related storage demand develops.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-08-13",
