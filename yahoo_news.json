@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-12T09:01:28.721Z",
-  "total_news_count": 534,
+  "last_updated": "2026-08-12T09:11:12.496Z",
+  "total_news_count": 536,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-08-12",
       "Time": "16:50:00",
       "Source": "Yahoo Finance",
@@ -93,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, NVDA",
+      "Ticker": "GOOGL, AAPL, NVDA",
       "Date": "2026-08-12",
       "Time": "15:50:00",
       "Source": "Yahoo Finance",
@@ -387,6 +387,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "earnings, revenue growth, gross margin expansion, AI infrastructure, optical components"
+    },
+    {
+      "Ticker": "META, GOOGL",
+      "Date": "2026-08-12",
+      "Time": "12:53:12",
+      "Source": "Yahoo Finance",
+      "Title": "Meta, other companies must face thousands of lawsuits over child social media addiction, appeals court rules",
+      "URL": "https://finance.yahoo.com/m/cf21e258-ecb0-38a3-bdb8-d3023fe3c111/meta%2C-other-companies-must.html",
+      "Content": "A federal appeals court refused to dismiss thousands of lawsuits against Meta , Google, TikTok and Snapchat, allowing complaints alleging the platforms were designed to be addictive to young users to move forward.\n\nThe Ninth U.S. Circuit Court of Appeals rejected an appeal by Meta and TikTok attempting to overturn a lower court ruling requiring the firms to face more than 3,000 lawsuits filed in federal court, ruling the companies appealed too early.\n\nThe social media companies claimed that Section 230 of the Communications Decency Act of 1996 — which generally shields online platforms from being liable for content posted by their users — also prohibits lawsuits on allegations they failed to warn the public about the addictive design of their platforms.\n\nSection 230 has largely protected several companies from lawsuits regarding content posted on their platforms.\n\nNew Mexico Court Orders Meta To Pay $567M, Overhaul Teen Protections On Facebook And Instagram\n\nMost appeals come after a case has reached a ruling or a verdict, but the companies claimed that they should not have to wait until the litigation wraps up to challenge the lower court's rejection of their immunity defense.\n\nRead On The Fox Business App\n\nHowever, the court ruled the companies cannot use Section 230 to dismiss lawsuits, saying it can only be used as a liability defense against claims, meaning the appeal was premature.\n\nThe statute \"merely provides a defense to liability — not immunity from suit,\" Judge Jacqueline Nguyen wrote.\n\nThe court's decision clears the way for lawsuits alleging social media companies designed platforms to encourage addictive behavior, failed to verify users' ages and did not adequately block harmful content.\n\nThe panel also denied Meta's attempt to postpone a trial set to begin on Wednesday in a lawsuit brought by 29 state attorneys general accusing the company of illegally collecting and using children's data, designing its social media platforms to addict young users and misleading consumers about child safety on the platforms.\n\nThe company had claimed that the trial could not move forward while the appeal was pending.\n\nFox Business reached out to Meta and TikTok for comment.\n\nAttorneys representing thousands of school districts and people suing Meta and other tech firms in federal court, said in a statement the ruling would allow the states' trial to move forward, as well as a trial over claims brought by school districts set for February.\n\nFour States Seeking $1.4 Trillion In Penalties In Child Social Media Addiction Trial, Meta Says\n\nStory Continues\n\n\"A trial is how the public finds out what Meta knew about its products' impact on children, when it knew it, and what it chose to do with that knowledge,\" the attorneys said. \"Meta has fought to keep that evidence from the public.\"\n\nThis comes after a New Mexico judge last week found Meta had created a public nuisance in the state, ordering it to pay $567 million into a teenage mental health fund and adopt youth-safety measures.\n\nIn March, a jury in California ruled against Meta and Google's YouTube, while a jury in New Mexico ruled against Meta on child safety risks.\n\nReuters contributed to this report.\n\nOriginal article source: Meta, other companies must face thousands of lawsuits over child social media addiction, appeals court rules\n\nA U.S. appeals court refused to dismiss thousands of lawsuits against Meta, Google, TikTok and Snapchat.\n\nA U.S. appeals court refused to dismiss thousands of lawsuits against Meta, Google, TikTok and Snapchat. Most appeals come after a case has reached a ruling or a verdict, but the companies claimed that they should not have to wait until the litigation wraps up to challenge the lower court's rejection of their immunity defense.\n\n<a href=\"https://s\n\nThe Ninth U.S. Circuit Court of Appeals ruled Meta and TikTok appealed too early.\n\nThe Ninth U.S. Circuit Court of Appeals ruled Meta and TikTok appealed too early. The panel also denied Meta's attempt to postpone a trial set to begin on Wednesday in a lawsuit brought by 29 state attorneys general accusing the company of illegally collecting and using children's data, designing its social media platforms to addict young users and misleading consumers about child safety on the platforms.\n\n<button class=\"secondary-btn fin-size-large readmore-button rounded yf-r7dg9i\" data-ylk=\"elm:readmore;itc:1;sec:content-canvas;slk:Story%20Continues\" data-yga=\"{\"yLinkElement\":\"readmore\",\"yModuleName\":\"content-canvas\",\"yLinkText\":\"Story Continues\"}\" aria-label=\"Story Continues\" tit\n\nSection 230 \"merely provides a defense to liability — not immunity from suit,\" Judge Jacqueline Nguyen wrote.\n\nSection 230 \"merely provides a defense to liability — not immunity from suit,\" Judge Jacqueline Nguyen wrote. \"A trial is how the public finds out what Meta knew about its products' impact on children, when it knew it, and what it chose to do with that knowledge,\" the attorneys said. \"Meta has fought to keep that evidence from the public.\"\n\n<span",
+      "Language": "en"
     },
     {
       "Ticker": ".SPX",
@@ -1305,6 +1315,16 @@
       "Related_Score": 3,
       "Sentiment_Score": 1,
       "Keywords": "earnings report, stock performance, valuation, AI investments, market sentiment"
+    },
+    {
+      "Ticker": "LITE",
+      "Date": "2026-08-12",
+      "Time": "04:44:53",
+      "Source": "Yahoo Finance",
+      "Title": "Lumentum beats estimates on AI demand, guides above consensus; shares jump",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/lumentum-beats-estimates-ai-demand-204453305.html",
+      "Content": "Investing.com -- Lumentum Holdings Inc (NASDAQ:LITE) reported fiscal fourth quarter adjusted earnings per share of $3.23, beating the analyst estimate of $2.95 by $0.28. Revenue reached $1.01 billion, surpassing the consensus estimate of $984.57 million and marking a 109% increase from $480.7 million in the same quarter last year.\n\nThe company issued first quarter fiscal 2027 revenue guidance of $1.225 billion to $1.275 billion, with a midpoint of $1.25 billion exceeding the analyst consensus of $1.16 billion. Adjusted EPS guidance of $4.05 to $4.35, with a midpoint of $4.20, also topped the consensus estimate of $3.63. The company attributed the strong results to AI-driven demand for optical connectivity in data centers.\n\nThe stock jumped around 8% in premarket trading Wednesday by 04:10 ET (08:10 GMT). The stock gained more than 122% this year.\n\n\"As AI compute workloads increase in both speed and bandwidth, data center architects are turning to optical links as a primary means of connectivity,\" said President and CEO Michael Hurlston. \"Looking ahead, our trajectory continues to accelerate as AI demand drives our Q1 revenue guidance midpoint to $1.25 billion, reaching our target model more than a quarter ahead of schedule.\"\n\nFor the fiscal fourth quarter, adjusted gross margin was 50.4%, up from 37.8% in the prior year period, while adjusted operating margin reached 36.6%, compared to 15.0% a year earlier. Components revenue totaled $649.4 million, up 103% YoY, while systems revenue was $356.9 million, up 123% YoY.\n\nThe company held $2.7 billion in cash, cash equivalents, and short-term investments at quarter end. The first quarter fiscal 2027 guidance calls for adjusted operating margin of 39.5% to 40.5%.\n\nRaymond James analysts reiterated their Outperform rating on the stock and raised the price target to $1,036 from $1,014 after the report. \"Management addressed investor concerns including CPO/NPO timing, new competition, gross margin trends, and the OCS trajectory—we liked the responses, but suspect overhang lingers,\" they wrote.\n\nVahid Karaahmetovic contributed to this report.\n\nLumentum beats estimates on AI demand, guides above consensus; shares jump\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\nThis sector is 'poised for a big, beautiful year': Truist",
+      "Language": "en"
     },
     {
       "Ticker": "LITE",
