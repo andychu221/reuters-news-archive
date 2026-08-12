@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T23:32:31.575Z",
-  "total_news_count": 718,
+  "last_updated": "2026-08-12T23:34:34.667Z",
+  "total_news_count": 719,
   "news": [
     {
       "Ticker": ".TWII",
@@ -11,6 +11,16 @@
       "URL": "https://tw.stock.yahoo.com/news/msci%E5%AD%A3%E5%BA%A6%E8%AA%BF%E6%95%B4%E5%85%A8%E7%90%83%E6%A8%99%E6%BA%96%E5%9E%8B%E6%8C%87%E6%95%B8-%E5%8F%B0%E8%82%A1%E6%96%B0%E5%A2%9E%E6%99%AF%E7%A2%A9%E7%AD%896%E6%AA%94-%E5%89%94%E9%99%A4%E5%BA%B7%E9%9C%88%E7%AD%896%E6%AA%94-231025103.html",
       "Content": "【財訊快報／記者劉居全報導】MSCI(明晟)今（13）公布最新一季度調整，其中全球標準型指數台股成分股新增景碩(3189)等6檔，剔除康霈(6919)等6檔，此次公布的季度調整結果將於8月31日收盤後生效。此次最新一季度調整，全球標準指數台股成分股新增景碩、南電(8046)、南亞科(2408)、群聯(8299)、台燿(6274)、華邦電(2344)等6檔。\n\n剔除康霈(6919)、力旺(3529)、鈊象(3293)、台企銀(2834)、台泥(1101)、陽明(2609)等6檔。\n\nMSCI每年2月、5月、8月及11月公布季度和半年度調整，除調整成分股外，台股權重的調整，也將牽動全球基金在台灣的分配和資金淨流；此次公布季度調整結果將於8月31日收盤後生效。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-13",
+      "Time": "07:07:00",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia's Market Value Grew 24% Over the Past Year. Intel's Grew 474%.",
+      "URL": "https://finance.yahoo.com/m/69e93418-726e-320a-828d-6077e0d7d3fa/nvidia%27s-market-value-grew.html",
+      "Content": "Over the past year, Nvidia (NASDAQ: NVDA) added about 24% to its market value, which now sits near $5.4 trillion as of this writing. Intel (NASDAQ: INTC) added about 474%, lifting its value to roughly $510 billion. On that measure, it isn't close.\n\nBut market value tracks two things at once: the share price and how many shares exist. These two gains are built differently.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIntel: a higher price and more shares\n\nIntel 's stock price is up roughly 400% over the past year, from around $20 to about $101 as of this writing. The rest of the market-value gain came from the share count, which grew by about a sixth (from about 4.4 billion shares to more than 5 billion). Much of the new stock was issued to the U.S. government under the company's CHIPS Act agreement, along with other new investors. And a shareholder who held Intel all year captured the price move, not the headline market-value move.\n\nOf course, the higher price has substance behind it. Intel's revenue rose 25% year over year last quarter, its fastest growth in nearly 15 years. The run has not been smooth. Shares hit $142.35 at their peak over the past year and now trade about 29% lower.\n\nThe earnings, though, haven't arrived. Intel lost $11.3 billion over the trailing 12 months, and most of that reflects a $12.5 billion non-cash charge tied to shares held for the U.S. government. On an adjusted basis, the company earned $0.42 per share in the second quarter -- profitable, but arguably thin for a business now valued above $500 billion.\n\nNvidia: the earnings\n\nNvidia 's 24% market-value gain looks modest next to that. But the chipmaker's trailing-12-month earnings came to $159.6 billion, more than double the year-earlier figure, on $253 billion of revenue. Trailing revenue rose about 71% as well.\n\nIts market value grew slower than its profits did, which means the stock got cheaper over the stretch -- its price-to-earnings ratio now sits near 34.\n\nIntel offers no such multiple. Its trailing earnings are negative, so the $510 billion valuation rests on what the foundry build-out and a supply constrained chip market could deliver in 2027 and beyond.\n\nNvidia earned about $160 billion over the year and ended the stretch cheaper against its profits than it began it. Intel delivered a return to fast revenue growth, a loss on paper, a sixth more shares outstanding, and a valuation that multiplied almost six-fold on the strength of what comes next.\n\nStory Continues\n\nNvidia's gain came with the profits already in hand. Intel's still depends on them arriving.",
+      "Language": "en"
     },
     {
       "Ticker": "SNDK",
@@ -83,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "AAPL, MSFT",
       "Date": "2026-08-13",
       "Time": "05:46:00",
       "Source": "Yahoo Finance",
