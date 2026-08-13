@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T17:01:20.317Z",
-  "total_news_count": 918,
+  "last_updated": "2026-08-13T17:11:48.795Z",
+  "total_news_count": 921,
   "news": [
     {
       "Ticker": "MU",
@@ -10,6 +10,16 @@
       "Title": "Micron Just Lost Ground in Key Memory Market",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/micron-just-lost-ground-key-165356690.html",
       "Content": "This article first appeared on GuruFocus .\n\nChina's Yangtze Memory Technologies has overtaken Micron Technology ( NASDAQ:MU ) and Kioxia in global NAND shipments, highlighting China's growing presence in a memory market being reshaped by severe supply constraints. But for Micron investors, the headline market-share loss looks less alarming when measured against revenue, pricing and the company's accelerating push into higher-value data-center storage.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nMicron is a major U.S. memory-chip manufacturer producing DRAM, NAND flash and storage products used across data centers, PCs, smartphones, automobiles and other electronics. AI infrastructure has increasingly shifted its business toward higher-performance, higher-margin memory and storage products.\n\nYMTC captured 14% of global NAND shipments during the second quarter of 2026, according to Counterpoint Research, narrowly surpassing Kioxia and Micron, which held 13%. Samsung ( SSNLF ) remained No. 1 with 25%, followed by SK Hynix ( NASDAQ:SKHY ) at 22%.\n\nYMTC's shipments rose 22% year over year and 5% sequentially as shortages helped the Chinese manufacturer expand sales to domestic OEMs. The company is already mass-producing 267-layer 3D NAND while developing 300-plus-layer products using its Xtacking architecture.\n\nYet shipment share tells only part of the story.\n\nYMTC ranked just fifth by NAND revenue, behind both Micron and Kioxia, reflecting its heavier exposure to lower-priced consumer products and smaller presence in premium enterprise SSDs.\n\nMicron, meanwhile, generated a record $9.9 billion of NAND revenue in fiscal Q3, nearly doubling sequentially as NAND selling prices jumped in the mid-80% range. Data-center SSD revenue exceeded $5 billion and more than doubled from the previous quarter.\n\nInvestor Takeaway On Micron Stock\n\nFor Micron investors, YMTC's rise is a competitive risk worth watching, particularly if the Chinese company begins taking meaningful share in enterprise and data-center storage.\n\nFor now, however, Micron's premium product mix offers an important counterweight. The company expects industry NAND bit shipments to rise roughly 20% in 2026, while its own NAND supply growth will trail the industry, suggesting shipment-share losses are not necessarily evidence of weakening demand.\n\nThe critical metrics ahead are NAND pricing, data-center SSD revenue and enterprise market share. Micron expects tight NAND supply-demand conditions to persist beyond 2027, making its ability to prioritize higher-value AI storage products more important than simply winning the global shipment-volume race.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-08-14",
+      "Time": "00:51:23",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Is Retreating in China, but AI Keeps a Door Open",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-retreating-china-ai-keeps-165123485.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSoftware and cloud giant Microsoft Corp. ( MSFT , Financials ) has been steadily decreasing its footprint in China as the market becomes difficult to explain due to geopolitical pressure, local rivalry and U.S. export restrictions.Microsoft has shuttered at least 15 branch offices and joint ventures in China over the past five years and even toyed with quitting the country entirely in 2023, Reuters reported.In the end, the company stayed. One reason is that it has capitalized on making money enabling Chinese companies like ByteDance and Shein run global operations on Azure.That provides Microsoft with a niche that domestic Chinese cloud companies can't always copy, especially if customers demand access to Western AI models or have to adhere to foreign data rules.But the whole China business is modest. The country accounted for just 1.5% of its global revenue, Microsoft stated in 2024. The message for investors is less about China being a growth engine and more about Microsoft maintaining a strategic footprint while cutting exposure.The question is whether that offshore Azure business can be profitable enough to warrant remaining in a market that is becoming increasingly tough.",
       "Language": "en"
     },
     {
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-14",
       "Time": "00:26:31",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, NVDA",
       "Date": "2026-08-14",
       "Time": "00:25:00",
       "Source": "Yahoo Finance",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-08-14",
       "Time": "00:13:00",
       "Source": "Yahoo Finance",
@@ -123,6 +133,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "META, AMZN",
+      "Date": "2026-08-13",
+      "Time": "23:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Shopify's AI-Driven Commerce Gains Momentum: A Sign of More Upside?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/shopifys-ai-driven-commerce-gains-155000318.html",
+      "Content": "Shopify 's SHOP AI-driven commerce opportunity is strengthening the company's growth prospects as artificial intelligence reshapes how consumers discover and purchase products. During the second quarter of 2026, AI-driven traffic and orders to Shopify stores each tripled year over year, while new buyer orders through AI channels grew at nearly twice the rate of other channels, signaling that AI is emerging as a meaningful new discovery surface for merchants.\n\nShopify's Catalog infrastructure is reinforcing this opportunity by making merchant product information more accessible to AI agents. Catalog-powered searches converted at roughly twice the rate of searches using scraped data, while AI search conversion was nearly 80% higher than traditional organic search. This suggests richer and more structured product data can improve the quality of AI-led shopping journeys and increase the likelihood of transactions.\n\nThe benefit is particularly relevant for Shopify's large base of specialized and smaller merchants. In the second quarter, 75% of AI-attributed orders came from outside the top 100 categories, indicating that AI discovery helps niche products reach consumers based on specific purchase intent rather than conventional keyword rankings. Half of AI-referred sessions landed directly on product pages, 2.5 times the rate seen with traditional search referrals.\n\nShopify is actively integrating its commerce infrastructure with emerging AI channels, enabling merchants to make products discoverable and transactions executable across new interfaces. This could allow the company to participate more deeply as agentic shopping evolves while strengthening the platform's value for merchants adapting to changing consumer behavior. With AI-driven discovery already lifting traffic, orders and conversion, Shopify appears well positioned to benefit as agentic commerce adoption broadens further, pointing to more upside ahead for SHOP.\n\nHow SHOP Compares With Its Peers\n\nShopify's close peers Amazon AMZN and Meta Platforms META are also strengthening AI-led commerce. Amazon is integrating AI into product discovery and purchasing, while Meta Platforms is using AI-powered recommendations across Instagram, Facebook and WhatsApp to deepen consumer engagement and commerce. As Amazon builds AI shopping within its marketplace and Meta Platforms expands discovery across social and messaging platforms, both are strengthening their consumer-facing commerce ecosystems. Shopify is positioned differently, providing infrastructure that allows merchants to participate across multiple emerging AI-driven discovery and transaction channels. This broader exposure could give Shopify an advantage as AI commerce becomes increasingly fragmented.\n\nStory Continues\n\nSHOP's Share Price Performance, Valuation & Estimates\n\nShopify shares have lost 6.5% year to date, underperforming the broader Zacks Computer and Technology sector's return of 16.9%.\n\nSHOP's YTD Price Performance\n\nImage Source: Zacks Investment Research\n\nShopify stock is overvalued, with a forward 12-month price/sales of 11.24X compared with the broader sector's 6.48X. SHOP has a Value Score of F.\n\nSHOP's Valuation\n\nThe Zacks Consensus Estimate for 2026 earnings is pegged at $1.84 per share, unchanged over the past 30 days. This suggests 57.26% year-over-year growth.\n\nShopify Inc. Price and Consensus\n\nShopify Inc. price-consensus-chart | Shopify Inc. Quote\n\nShopify currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.",
+      "Language": "en"
+    },
+    {
       "Ticker": "MCHP",
       "Date": "2026-08-13",
       "Time": "23:49:09",
@@ -140,6 +160,16 @@
       "Title": "Why Intuitive Machines Stock Dropped Today",
       "URL": "https://finance.yahoo.com/m/16c5c944-77c4-3433-b45a-b1e53ab52922/why-intuitive-machines-stock.html",
       "Content": "Space stock Intuitive Machines (NASDAQ: LUNR) tumbled 3% through 11:05 a.m. ET Thursday morning -- but it could have been worse. After reporting a big earnings miss for Q2 this morning, shares were at one point down as much as 16%!\n\nSo what went wrong?\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIntuitive Machines Q2 earnings (er, loss)\n\nAnalysts weren't expecting Intuitive Machines to be profitable in Q2, forecasting $0.09 per share in losses -- but Intuitive tripped over even this low bar. Actual losses for the quarter were $0.29 per share, and Intuitive booked only $206.2 million in revenue, far short of Wall Street's $223.8 million target.\n\nCEO Steve Altemus said the quarter was \"strong,\" with revenue more than quadrupling year over year, but investors weren't impressed. Operating costs more than tripled, interest costs added to the expense, and on the bottom line, Intuitive's net losses nearly doubled to $46.4 million.\n\nThe loss per share didn't grow as much -- up only 32% -- but only because Intuitive Machines issued a lot of new shares over the past year, spreading out the losses. (But also with the effect that if Intuitive ever does become profitable, its profits per share will be diluted as well.)\n\nWhat's next for Intuitive Machines stock\n\nNot all the news was bad. Intuitive Machines booked $920 million in new contracts in Q2, a 4.5x book-to-bill ratio that promises immense sales growth in coming quarters. Indeed, Intuitive Machines says its order book is now practically overflowing with $1.8 billion worth of work to be done -- enough to keep the company busy for the next two years straight, even if no new contracts are won, at management's $900 million-to-$1 billion forecast for 2026 revenue.\n\nStill, it would be nice to see the company earn at least some profit from all this work.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-08-13",
+      "Time": "23:41:00",
+      "Source": "Yahoo Finance",
+      "Title": "Nebius Surges 34% Post Q2: Will $40B Backlog Power Further Growth?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nebius-surges-34-post-q2-154100134.html",
+      "Content": "Nebius Group N.V . NBIS delivered a robust second-quarter 2026 performance, marked by triple-digit revenue growth, expanding profitability and substantial customer commitments that provide visibility into its future growth trajectory.\n\nRevenues surged 454% year over year to $582 million and increased 46% sequentially. The performance was driven by capacity additions and high-margin revenues from a new asset-light business model and Token Factory, and contributions from recent acquisitions. Nebius AI business revenues climbed 514% to $575 million, representing 98% of total revenues. Following the second-quarter results, shares of Nebius surged 34.1% and closed the trading session at $259.20 yesterday.\n\nAnnualized run-rate revenues reached $3 billion, up 58% from $1.9 billion in the first quarter of 2026.\n\nMore importantly, profitability improved alongside growth. Adjusted EBITDA was $236 million in contrast to a loss of $21 million in the prior year quarter. Adjusted EBITDA margin expanded to 41% from 32% in the previous quarter. Nebius AI business delivered a 50% adjusted EBITDA margin.\n\nNebius Group N.V. Price, Consensus and EPS Surprise\n\nNebius Group N.V. price-consensus-eps-surprise-chart | Nebius Group N.V. Quote\n\nNebius reaffirmed its 2026 outlook for revenues of $3-$3.4 billion and annualized run-rate revenues of $7-$9 billion.\n\nHowever, the highlight was the company's expanding committed backlog, which stood at more than $40 billion, bolstering multi-year visibility. Management added that it closed four \"landmark\" deals averaging $1 billion each. These deals are significant, represent yields of $20-$25 million per megawatt and have upfront payments covering 50-60% of the associated capex spend.\n\nNebius mentioned it is deliberately not selling the entire 2027 capacity on such terms to retain some capacity for shorter-term and immediate client needs.\n\nThe company also raised its year-end contracted power target to 5 gigawatts and plans to deploy more than 1 gigawatt of new capacity in 2027. With committed demand already supporting its capacity investments, execution on infrastructure deployment and backlog conversion should remain central to Nebius' 2027 growth story.\n\nChallenges for NBIS remain significant amid intense competition from rivals such as pure-play CoreWeave CRWV and tech behemoths like Microsoft MSFT, Amazon and others, which are also aggressively ramping up capacity.\n\nMapping Competitive Terrain\n\nCoreWeave is another rapidly growing AI infrastructure company. Its second-quarter revenues of $2.6 billion jumped 112% year over year, while revenue backlog reached $104.2 billion. The backlog figure does not include more than $25 billion of net new customer commitments secured in the early third quarter.\n\nStory Continues\n\nTo support these long-term commitments, CoreWeave is rapidly expanding its infrastructure footprint. At second-quarter end, it had 1.5 gigawatts of active power, after adding nearly 500 megawatts during the quarter. Contracted power was 4.2 gigawatts, offering visibility toward the company's goal of at least 8 gigawatts by 2030.\n\nCompetition from hyperscalers remains formidable given their massive scale, cloud ecosystem and aggressive capacity expansion. Microsoft's revenues for the fourth quarter of fiscal 2026 reached $90 billion, up 18% year over year. Azure and other cloud services revenues rose 43% year over year, while management said customer demand continues to exceed available capacity. Commercial remaining performance obligations (\"RPO\" rose 84% to $678 billion. Excluding OpenAI, RPO still increased 25%. The weighted-average duration for RPO is 2.3 years, with 30% expected to be recognized as revenue over the next 12 months.\n\nMicrosoft added 31 data centers across five continents during the quarter and another gigawatt of capacity, while remaining on track to nearly double overall capacity within two years.\n\nNBIS Price Performance, Valuation and Estimates\n\nShares of Nebius gained 33.6% in the past month compared with the Internet – Software and Services industry's growth of 10%.\n\nImage Source: Zacks Investment Research\n\nIn terms of price/book, NBIS' shares are trading at 9.06X, up from the Internet Software Services industry's ratio of 4.21X.\n\nThe Zacks Consensus Estimate for NBIS' earnings for 2026 has been revised downward over the past 60 days.\n\nNBIS currently carries a Zacks Rank #4 (Sell).\n\nYou can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.",
       "Language": "en"
     },
     {
