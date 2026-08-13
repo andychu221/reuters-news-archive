@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T19:20:49.357Z",
-  "total_news_count": 976,
+  "last_updated": "2026-08-13T19:25:59.147Z",
+  "total_news_count": 977,
   "news": [
     {
       "Ticker": "MSFT, GOOGL",
@@ -401,6 +401,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/bofa-picks-amd-nvidia-ai-170830595.html",
       "Content": "This article first appeared on GuruFocus .\n\nBank of America (BAC) is becoming more bullish on processors as the rise of AI agents could create a larger role for CPUs inside data centers. The firm now sees the server CPU opportunity surpassing $210 billion by 2030.\n\nThe revised forecast marks a sizable increase from its previous estimate of roughly $170 billion. Analyst Vivek Arya also lifted the expected annual growth rate to 36% from 30%, pointing to changing AI workloads as a key factor.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nFor AMD ( NASDAQ:AMD ), the updated view provides a potential tailwind beyond traditional PC and server demand. Bank of America selected AMD as its preferred CPU name, citing its positioning across cloud and enterprise computing.\n\nNvidia ( NASDAQ:NVDA ) received the firms top overall semiconductor ranking. Bank of America expects AI infrastructure to remain a major spending category, while CPUs could capture more demand as AI systems increasingly require processors to coordinate workloads and handle supporting tasks.\n\nThe firm expects the broader data center systems market to reach $2.2 trillion by 2030.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-14",
+      "Time": "01:05:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》ALGM,P,FOUR,SLGN等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-algm-p-four-slgn%E7%AD%8910%E6%AA%94-170500965.html",
+      "Content": "MoneyDJ新聞 2026-08-14 01:05:56 數位內容中心 發佈\n\nAllegro MicroSystems（ALGM.US）：盤中報45.35美元，上漲6.78%，開盤43.21美元，高點45.64美元，低點42.93美元，成交量11.4萬股，均價44.92美元。Allegro MicroSystems是感測器與電源半導體供應商，產品應用涵蓋車用、工業、自動化與資料中心。2027會計年度第1季資料中心業務銷售年增動能延續，公司預估2027會計年度第2季營收為2.65億美元至2.75億美元，非GAAP每股盈餘為0.23美元至0.26美元，市場也持續聚焦電流感測器、48V電源架構與機器人應用需求。\n\nEverpure（P.US）：盤中報117.59美元，上漲5.56%，開盤113.05美元，高點118.79美元，低點112.34美元，成交量45.94萬股，均價116.31美元。Everpure原為Pure Storage，是企業級資料儲存平台供應商，產品橫跨本地端、雲端與邊緣環境。2027會計年度第1季營收10.5億美元，年增35.3%，年度經常性營收20億美元，剩餘履約價值38億美元，並已上修2027會計年度營收展望至44.1億美元至45.1億美元，市場關注其與Supermicro、Red Hat合作推進Kubernetes邊緣AI設備，以及Portworx在AI工作負載資料管理的滲透率。\n\nShift4 Payments（FOUR.US）：盤中報45.85美元，上漲4.39%，開盤44.21美元，高點47.97美元，低點43.96美元，成交量22.13萬股，均價46.44美元。Shift4 Payments是支付技術與商務解決方案供應商，服務餐飲、旅宿、娛樂、旅遊與零售商戶。2026年度第1季扣除網路費用後營收5.49億美元，調整後EBITDA2.34億美元，市場持續關注全球旅遊支付布局、跨境金流業務與股權結構簡化後對現金流與資本配置彈性的改善。\n\nSilgan（SLGN.US）：盤中報41.94美元，上漲3.12%，開盤41.57美元，高點42.68美元，低點41.72美元，成交量8.27萬股，均價42.07美元。Silgan是消費品硬質包裝供應商，主要生產金屬容器、瓶蓋與塑膠包裝。市場持續關注北美食品與飲料包裝需求、定價能力與原物料成本變化，並留意2026年度調整後每股盈餘指引3.73美元至3.93美元，以及自由現金流4.5億美元目標的執行情況。\n\nPortland General Electric（POR.US）：盤中報50.31美元，上漲3.09%，開盤50.16美元，高點50.66美元，低點50.06美元，成交量20.62萬股，均價50.32美元。Portland General Electric是美國公用事業公司，核心業務為電力供應與電網營運。公司維持每股0.55125美元的季度股息與2026年每股盈餘3.33美元至3.53美元指引，市場也關注其在Washington州的業務擴張、電網投資與AI資料中心帶動的用電需求成長。\n\nTTM Technologies（TTMI.US）：盤中報141.96美元，上漲2.8%，開盤139.25美元，高點143.49美元，低點138.99美元，成交量14.24萬股，均價141.8美元。TTM Technologies是印刷電路板與射頻零組件供應商，產品應用於資料中心、網通、航太國防、醫療與工業設備。2026年第2季營收首度突破10億美元，年增37%，非GAAP每股盈餘0.99美元，市場持續聚焦AI資料中心、高速網路建置、國防需求與N+M技術量產對下半年約6億美元營收貢獻的潛力。\n\nSomnigroup（SGI.US）：盤中報65.98美元，上漲2.69%，開盤64.68美元，高點66.06美元，低點63.94美元，成交量25.42萬股，均價65.34美元。Somnigroup屬消費耐久財與居家零售相關企業，市場焦點放在美國家居消費景氣、利率變化對大額可選消費支出的影響，以及零售通路與品牌產品組合調整對營運表現的帶動。\n\nCAVA（CAVA.US）：盤中報71.14美元，上漲2.4%，開盤70.69美元，高點73.35美元，低點70.08美元，成交量44.14萬股，均價71.61美元。CAVA是地中海風格連鎖休閒快餐企業，主要營收來自餐廳營運。市場持續關注展店速度、同店銷售與品牌黏著度，2026年度第2季營收3.65億美元，同店銷售成長9%，並維持全年同店銷售成長4.5%至6.5%目標，反映餐飲需求與展店動能仍具韌性。\n\nMACOM Technology Solutions（MTSI.US）：盤中報317.85美元，上漲2.29%，開盤312.84美元，高點318.89美元，低點311.37美元，成交量5.3萬股，均價315.93美元。MACOM Technology Solutions是無線電、微波、毫米波與光通訊半導體元件供應商。2026年4至6月營收3.42億美元，年增35.8%，調整後每股盈餘1.4美元，並預估下一季營收4.15億美元至4.25億美元、調整後每股盈餘1.97美元至2.03美元，市場聚焦磷化銦光子、200G與400G光偵測器，以及AI資料中心內部光連接需求升溫。\n\nColumbia（COLM.US）： 盤中報57.44美元，上漲2.03%，開盤56.76美元，高點57.72美元，低點56.46美元，成交量2.06萬股，均價57.38美元。Columbia(COLM.US)是戶外服飾、鞋類與裝備品牌企業，旗下布局戶外機能服飾與休閒產品。市場近來關注美國服飾產業加快搶攻女性消費市場的趨勢，Columbia也持續擴大女裝外套與相關季節商品布局，並預估全年銷售可望成長1%至3%，力拚扭轉前一年度下滑走勢。\n\n《強勢美股特報》P,FOUR,WEX,CAVA等10檔\n\n新代擴大液冷加工出貨，機器手臂方案同步延伸\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
