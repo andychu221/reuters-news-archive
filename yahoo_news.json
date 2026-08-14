@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-14T16:34:14.250Z",
-  "total_news_count": 1246,
+  "last_updated": "2026-08-14T16:35:02.055Z",
+  "total_news_count": 1248,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-15",
+      "Time": "00:10:53",
+      "Source": "Yahoo Finance",
+      "Title": "Veteran Bank Gives Intel Foundry a Major Vote of Confidence",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-focus-23-billion-161053832.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) could be showing signs of progress in its contract-chipmaking business through its recently expanded stock offering, according to GF Securities analyst Jeff Pu in a Friday note to clients.\n\nThe company raised $20 billion through the share sale after initially targeting $15 billion, with an additional underwriting option potentially taking gross proceeds to $23 billion. The financing comes as Intel increases spending on manufacturing capacity and advanced chip technologies.\n\nWarning! GuruFocus has detected 6 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nPu said the financing may point to improving manufacturing yields and deeper engagement with outside customers. He expects Intel's foundry business to reach breakeven in the fourth quarter of 2027, followed by margin improvement in 2028.\n\nThe analyst also expects Intel to expand customers for its EMIB packaging technology, citing potential demand from companies including Google and Amazon Web Services. He maintained a Buy rating and $136 price target.\n\nIntel shares edged higher in premarket trading Friday. The stock sale also adds capital as Intel works to scale its foundry operations and fund future manufacturing investments.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL, AMZN",
       "Date": "2026-08-15",
@@ -10,6 +20,16 @@
       "Title": "Billionaire Investor Makes Huge Bet on Two AI Stocks",
       "URL": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-huge-bet-160330451.html",
       "Content": "This article first appeared on GuruFocus .\n\nSeth Klarman ( Trades , Portfolio )'s Baupost Group made a notable push deeper into mega-cap technology during the second quarter, increasing positions in Amazon ( NASDAQ:AMZN ) and Alphabet ( NASDAQ:GOOG ) while also initiating stakes in CME Group and Pershing Square. The moves stand out because Klarman is best known for a disciplined value-investing approach, suggesting Baupost still sees attractive long-term economics in two AI leaders despite the enormous spending required to compete.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nBaupost is a Boston-based investment manager with a long-term, value-oriented strategy spanning public and private securities. The firm's quarterly 13F filings provide a snapshot of its U.S.-listed equity holdings, although they do not reveal its entire portfolio or the reasoning behind individual trades.\n\nBaupost increased its Amazon position to 3.74 million shares from 3.12 million, roughly a 20% increase, while boosting its Alphabet stake to 1.37 million shares from 1.18 million, about 16%.\n\nThose additions come as both companies pour unprecedented amounts into AI infrastructure but are also showing powerful underlying growth.\n\nAmazon's second-quarter operating income jumped to $27.5 billion from $19.2 billion a year earlier. AWS operating income surged to $16.62 billion from $10.16 billion, strengthening the argument that Amazon's cloud business can help finance its AI expansion.\n\nAlphabet's numbers are similarly striking. Second-quarter revenue grew 24%, while Google Cloud revenue soared 82% to $24.8 billion and operating income more than tripled to $8.8 billion. Cloud backlog reached $514 billion.\n\nElsewhere, Baupost more than doubled its Norwegian Cruise Line stake, opened positions in CME, Pershing Square and Axalta, and exited Willis Towers Watson and Vaxcyte.\n\nInvestor Takeaway\n\nKlarman's Amazon and Alphabet purchases should not be interpreted as a simple endorsement of the AI trade. The more important signal is that Baupost increased exposure while both companies are converting AI demand into rapidly expanding cloud profits.\n\nInvestors should watch whether that return continues to justify extraordinary spending. Alphabet now expects $195 billion to $205 billion of 2026 capital expenditures and has warned that infrastructure investment will pressure free cash flow.\n\nFor Amazon, AWS growth and operating margins remain critical. For Alphabet, Cloud growth, its $514 billion backlog and AI monetization in Search are the key indicators. If profits keep scaling alongside spending, Klarman's purchases could look increasingly prescient. If returns on AI infrastructure weaken, the valuation argument becomes considerably harder.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-15",
+      "Time": "00:02:11",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Builds Custom AI Model for China With Alibaba",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-builds-custom-ai-model-160211202.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple Inc. ( AAPL , Financials ), the iPhone maker, has developed its own large language model for China with support from Alibaba, marking a shift in how it plans to roll out artificial intelligence in one of its most important markets.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple had traditionally relied more on local third-party models for AI functionality for Chinese users.The new strategy provides Apple with more control over the experience, while still working with Alibaba to fulfill local needs.\n\nApple Intelligence has already overcome a major regulatory obstacle in China, where the company has also collaborated with Alibaba's Qwen and Baidu on localized AI features.\n\nThe decision is significant as Apple has been facing pressure to close the AI gap with Chinese smartphone rivals, many of whom were quicker to include locally built AI features.\n\nThe agreement is another validation of Alibaba's rising place in China's AI ecosystem. The broader concern for Apple investors is whether a more personalized AI product can make the iPhone more competitive in China without Apple ceding control of its software experience.",
       "Language": "en"
     },
     {
@@ -83,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-08-14",
       "Time": "23:33:56",
       "Source": "Yahoo Finance",
@@ -333,7 +353,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, LRCX, AMAT",
+      "Ticker": "LRCX, AMAT",
       "Date": "2026-08-14",
       "Time": "21:44:00",
       "Source": "Yahoo Finance",
