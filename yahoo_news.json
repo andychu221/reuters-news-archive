@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T10:00:51.105Z",
-  "total_news_count": 1145,
+  "last_updated": "2026-08-14T10:26:51.520Z",
+  "total_news_count": 1150,
   "news": [
     {
       "Ticker": "NVDA",
@@ -83,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".KS11",
+      "Date": "2026-08-14",
+      "Time": "16:54:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》風險偏好回升，KOSPI漲2.42%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E5%9B%9E%E5%8D%87-kospi%E6%BC%B22-42-085400554.html",
+      "Content": "MoneyDJ新聞 2026-08-14 16:54:02 數位內容中心 發佈\n\n韓股今(14)日延續強勢，韓國KOSPI指數收於6977.94點，上漲164.60點或2.42%，盤中一度重返7000點關卡；韓國KOSDAQ指數收於864.65點，上漲3.28點或0.38%。盤面主軸仍是風險偏好回升，外資大舉買超與美國通膨放緩，成為推升指數的兩大支撐。\n\n宏觀環境方面，美國7月CPI與PPI顯示物價壓力降溫，市場對Fed進一步緊縮的疑慮隨之減弱，帶動韓股情緒轉暖。國際油價回檔也強化了資金對風險資產的偏好，韓元同步走強，美元兌韓元收在1418.3韓圓。\n\n權值股方面，KOSPI指數的上攻主要由大型股帶動，Samsung Electronics(005930.KS)、SK Hynix(000660.KS)、SK Square(402340.KS)、Samsung Electro-Mechanics(009150.KS)與Hyundai Motor(005380.KS)同步走強，Hyundai Motor漲勢最為突出。\n\n此外，儘管KOSDAQ指數盤中一度翻黑，但尾盤回升收高，顯示中小型股買盤仍有支撐。個股方面，Eo Technics(039030.KS)、EcoPro(086520.KS)、EcoPro BM(247540.KS)、Rainbow Robotics(277810.KS)與HLB(028300.KS)走強，Alteogen(196170.KS)、Jusung Engineering(036930.KS)、Wonik IPS(240810.KS)與ABL Bio(298380.KS)則偏弱。\n\n《日股》日經漲0.59% TOPIX再創收盤新高\n\n美牛源告急 泰森食品越賣越虧一口氣再關三廠\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-08-14",
       "Time": "16:50:00",
@@ -163,6 +173,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-08-14",
+      "Time": "16:24:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》循環經濟模式—CWST、RSG、WM",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%BE%AA%E7%92%B0%E7%B6%93%E6%BF%9F%E6%A8%A1%E5%BC%8F-cwst-rsg-wm-082400827.html",
+      "Content": "MoneyDJ新聞 2026-08-14 16:24:26 數位內容中心 發佈\n\nCasella Waste Systems（CWST.US）\n\n2026年Q2，Casella Waste Systems公布營收5.437億美元、年增16.9%，並將全年營收指引上調3000萬美元至20.9億至21.1億美元。這週最明確的主題訊號是其成長仍由區域整合、價格管理與既有回收處置平台擴張驅動。\n\nRepublic Services（RSG.US）\n\n08/13/2026，Republic Services被提及折現現金流法顯示低估28.7%，估算內含價值約每股300.60美元，最新十二個月自由現金流約26.3億美元。這反映本週市場關注點落在廢棄物平台的現金流韌性與估值支撐，而非新循環技術進度。\n\nWaste Management（WM.US）\n\n本週與循環經濟主題的連結，主要不是新法規或新技術，而是市場持續檢視其回收、處理與處置網路能否憑藉現金流、資本支出紀律與定價能力支撐估值溢價。\n\nClean Harbors（CLH.US）\n\n近7日資料顯示，Clean Harbors公布2026年Q2營收17.4億美元、年增11.9%，GAAP每股盈餘3.22美元，較市場預估高出13.7%。其中Safety-Kleen Sustainability Solutions以廢油回收再精煉為核心，呈現本週少數可直接對應循環再生模式的業務訊號。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》智慧化農業—CNH、AGCO、CTVA\n\n《美股主題週報》電網設備現代化—PWR、ETN、HUBB\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-08-14",
       "Time": "16:14:00",
@@ -170,6 +190,26 @@
       "Title": "玉山投信估台股Q3落在42,000-49,000區間，鎖定題材與落後補漲股",
       "URL": "https://tw.stock.yahoo.com/news/%E7%8E%89%E5%B1%B1%E6%8A%95%E4%BF%A1%E4%BC%B0%E5%8F%B0%E8%82%A1q3%E8%90%BD%E5%9C%A842-000-49-000%E5%8D%80%E9%96%93-%E9%8E%96%E5%AE%9A%E9%A1%8C%E6%9D%90%E8%88%87%E8%90%BD%E5%BE%8C%E8%A3%9C%E6%BC%B2%E8%82%A1-081400905.html",
       "Content": "【財訊快報／記者劉居全報導】本周台股迎來強勁反彈，隨著半導體賣壓逐步消化，美國就業與通膨數據回落，致使9月升息預期淡化，資金回補推動台股單周大漲1585.1點，成交量能連續兩日回升至兆元以上；惟周五(14日)加權指數開高走低，終場下跌210.47點，收45811.01點，未守住4,6000點大關。根據證交所公布籌碼統計，三大法人連續5日買超集中市場，合計買超2637.6億元，其中外資積極回補，連續五個交易日買超2061.4億元，投信及自營商則小幅買超146、430億元。\n\n玉山中小型股基金(原PGIM保德信中小型股基金)經理人杜欣霈表示，統計近十年台股8月份表現，平均上漲機率為70%，平均漲幅為2.93%，因7月份台股修正量縮、融資去化，預期指數短線再大幅修正的機率有限，高檔區間盤整的機率較大，後續宜持續觀察成交量能；而OTC及中小型股反彈力道則較弱，尚未站回季線。\n\n今年台股整體企業獲利年增率預估可達42%，其中AI相關個股更高達53%，AI需求持續推動企業獲利上修，惟長短料問題導致部分產品出貨時程遞延，加上市場對AI建置資本支出的擔憂再起。不過，在AI長期成長趨勢及企業獲利上修方向未變下，持續看好台股中長期表現。\n\n杜欣霈表示，台股未來四季獲利預期上修，籌碼面也顯示外資回頭，但籌碼出清幅度相對過往大波段修正時期的情況有限，指數想要快速突破前高有一定難度，第三季預料指數空間將落在42,000-49,000區間整理。\n\n科技主流族群經歷本波修正後，投資人對個別產業信心有明顯落差，包括銅箔基板CCL、IC載板、ABF指數近期回彈至季線之上，這些族群具備AI長線趨勢支持，反彈力道相對強勁，高階MLCC與被動元件族群則仰賴資金堆疊推動股價。操作策略，杜欣霈建議現階段應選股不選市，核心持股以AI相關龍頭股為主，以題材、落後補漲股區間操作；布局族群看好雲端AI零組件為主，如電源/散熱/滑軌/PCB；另看好台積電建廠供應鏈、先進封裝測試設備、矽智財與光通訊等族群；傳產則看好電力相關供應鏈。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-14",
+      "Time": "16:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "鴻海 115年第2季綜合損益表，每股盈餘4.27元",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7-115%E5%B9%B4%E7%AC%AC2%E5%AD%A3%E7%B6%9C%E5%90%88%E6%90%8D%E7%9B%8A%E8%A1%A8-%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%984-27%E5%85%83-081000482.html",
+      "Content": "鴻海(2317)  115年 第2季 綜合損益表\n\n資料來源:交易所公開資訊觀測站\n\n8/14證交所盤後定價交易成交金額前20名排行\n\n8/14證交所盤後零股交易成交股數前20名排行\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-14",
+      "Time": "16:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》全球水資源短缺—SMR、AWK",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%85%A8%E7%90%83%E6%B0%B4%E8%B3%87%E6%BA%90%E7%9F%AD%E7%BC%BA-smr-awk-081000043.html",
+      "Content": "MoneyDJ新聞 2026-08-14 16:10:14 數位內容中心 發佈\n\nWaterBridge Infrastructure（WBI.US）\n\n8月公布第二季進展時，WaterBridge表示其與LandBridge合作掌握1,340萬英畝英尺微鹹水資源，並正推進將處理後產出水用於工業冷卻的商業與監管路徑。同期Delaware Basin全網路實際處理量為每日260萬桶，凸顯替代水源正加速落地。\n\nKC Water\n\n8月Kansas City選民通過合計15億美元債券案，供水與污水系統各獲7.5億美元。公司表示資金將投入輸水主管更換、污水主管整修、綠色基礎設施與抽水站升級，並持續對應聯邦同意令要求。\n\nMacon Water Authority\n\n8月提出2027會計年度費率調整方案，以補足1,100萬美元預算缺口，並同步檢視總額1.89億美元的5年期資本改善計畫。其管線更換與系統修繕需求龐大，顯示缺水下水務投資壓力已延伸至可負擔性與合規。\n\nNuScale Power（SMR.US）\n\n8月7日公布第二季動態後，NuScale Power再度被連結到海水淡化應用；其輕水式小型模組化反應爐可支撐高缺水地區供水所需穩定電力。NuScale Power Module單模組可發電77MWe，VOYGR可配置1、4、6或12座模組。\n\nAmerican Water Works（AWK.US）\n\n8月12日，American Water Works被列入近期關注水務股名單。公司目前在美國14個州、約1,700個社區提供自來水與污水服務，服務約350萬名活躍客戶，直接對應供水安全、污水處理與老舊管網投資主題。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\nNebius資料中心改採燃料電池緩民怨 Bloom股價飆\n\n《美股主題週報》發電現代化—DUK、GEV、BE\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -181,6 +221,16 @@
       "URL": "https://finance.yahoo.com/m/e9cfd074-852e-3af2-9689-7141a9565c9c/gsi-technology-eyes-2027-ai.html",
       "Content": "Key Points\n\nInterested in GSI Technology, Inc.? Here are five stocks we like better.\n\nGemini-II hardware is already in production , and a Cornell University test reportedly found comparable performance to an NVIDIA GPU while using 98% less power in a retrieval-augmented generation workload.\n\nGSI is targeting early production deployments by the end of 2027 through proof-of-concept programs, including a Defense Department drone project and a Taiwan smart-city surveillance system that could eventually cover 2,000 to 6,000 cameras.\n\nThe company plans to release an AI-assisted software development kit this fall and tape out its next-generation Plato chip in the spring. GSI reported $77 million in cash, no debt and quarterly cash usage of about $4 million, giving it funding for near-term milestones.\n\n4 Golden Crosses With Double-Digit Upside Ahead\n\nGSI Technology (NASDAQ:GSIT) is positioning its Gemini-II artificial intelligence processor as a production-ready hardware platform while it works to expand software tools and complete proof-of-concept programs that could lead to early production by the end of 2027, according to Vice President of Sales Didier Lasserre.\n\nSpeaking at a Canaccord session following the company's June-quarter report, Lasserre said GSI has progressed from introducing Gemini-II about 18 months ago to placing the hardware into production and securing third-party validation and government-backed engagements.\n\n→ AST SpaceMobile Earnings Just Reminded Investors How Risky Space Can Be\n\n\"Gemini-II is in production now as far as the hardware is concerned,\" Lasserre said. He added that Cornell University compared a GSI board with an NVIDIA GPU in a retrieval-augmented generation, or RAG, test and found that GSI used 98% less power at comparable performance.\n\nCompute-in-Memory Architecture\n\nLasserre said Gemini-II's compute-in-memory architecture is intended to reduce the power consumed by the repeated movement of data between processors and external memory in conventional CPU and GPU designs. The processor loads a model or database into on-chip memory and performs calculations within the memory bit line, he said.\n\n→ Nebius' Q2 Beat Shows the AI Bottleneck Is Capacity, Not Demand\n\nThat approach is particularly suited to search and high-performance computing applications, according to Lasserre. He said the company's next-generation product, Plato, will target large language models, vision-language models and other edge applications by increasing the bandwidth for data entering the chip.\n\nStory Continues\n\nPlato is expected to offer what Lasserre described as near data-center performance within a power budget of 2 watts to 10 watts. He said the company expects to complete the chip's design and tape-out in the spring.\n\n→ On Holding's Price Stumble May Be an Opening for a Company Built to Run\n\nWhile GSI develops its AI business, its long-standing SRAM business remains an important source of support for company operations. Lasserre said GSI has shipped more than 140 million SRAM devices over roughly 30 years. The products support AI-related infrastructure indirectly through customers including Cadence, whose emulation systems are used in chip design, and KYEC, which provides burn-in services for GPUs.\n\nProof-of-Concept Programs and Software Roadmap\n\nGSI is currently working on two announced proof-of-concept programs for Gemini-II: a Department of Defense-funded drone surveillance project and a Phase I Smart City project with a municipality in Taiwan.\n\nIn the drone surveillance program, Lasserre said the customer required a time-to-first-token result below three seconds and power consumption below 50 watts. He said GSI and drone partner G2 Tech demonstrated a result of 2.5 seconds at 30 watts in a June laboratory demonstration for the Defense Department.\n\nThe Taiwan Smart City project is initially designed to analyze video from 20 cameras and identify events as they occur, rather than simply recording footage for later review. Lasserre said a potential Phase II would expand the system to 80 cameras and add audio capabilities. A potential Phase III production deployment could involve between 2,000 and 6,000 cameras by the end of 2027.\n\nHe said one Gemini-II chip would support every four cameras in such a deployment, alongside an annual recurring software license for the application.\n\nGSI expects to release an alpha version of its AI-assisted software development kit this fall to select customers, followed by a broader release next year. Lasserre said the software is central to allowing customers and systems integrators to develop applications without needing to work directly with the chip's machine code.\n\nAccording to Lasserre, an application for the drone proof of concept took approximately one person-year to develop before the AI-assisted SDK. The internal team's early use of the new tool indicates that development time could be reduced to weeks, he said.\n\nDefense Interest and Funding Position\n\nLasserre said defense could be an early market for GSI's AI products because government entities have shown early interest and made financial commitments through Small Business Innovation Research, or SBIR, awards.\n\nGSI has won two SBIR awards with the Air Force Research Laboratory.\n\nThe company has won two awards with the Space Development Agency.\n\nIt has also won an award with the U.S. Army for a ruggedized edge server concept.\n\nOne active Space Development Agency award is funding radiation testing of a commercial Gemini-II part for potential space use. Lasserre said testing completed in June showed zero single-event latch-ups, though the company was still awaiting the third-party report. Total ionizing dose testing was expected to begin at the end of August or early September.\n\nThe Army-funded effort involves a ruggedized edge server that could support object detection or synthetic aperture radar imagery processing in field environments. Lasserre said the concept could ultimately become a product and future revenue source.\n\nOn funding, Lasserre said GSI had $77 million in cash and no debt. The company is burning roughly $4 million per quarter, he said, with an expected additional expense of several million dollars during the spring related to Plato tape-out. He said the company believes its cash position is sufficient to meet its near-term milestones.\n\nLooking ahead, Lasserre said investors should watch progress in completing the drone and Smart City proof-of-concept projects, the SDK rollout and Plato's tape-out. \"It's really more of an execution\" challenge than a technology-validation challenge, he said.\n\nAbout GSI Technology (NASDAQ:GSIT)\n\nGSI Technology, Inc is a fabless semiconductor company specializing in the design and development of high-performance memory products. Headquartered in Sunnyvale, California, the company was founded in 1995 and has focused its efforts on content addressable memory (CAM) and high-speed SRAM (static random-access memory) solutions. As a publicly traded company listed on NASDAQ under the ticker GSIT, GSI Technology leverages advanced architectures to meet demanding data-processing requirements.\n\nThe company's core product portfolio includes ternary CAM (TCAM) devices, binary CAM (BCAM) devices and high-speed synchronous SRAM.\n\nThis instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.\n\nThe article \" GSI Technology Eyes 2027 AI Production as Gemini-II Cuts Power 98% vs. NVIDIA \" was originally published by MarketBeat.\n\nView MarketBeat's top stocks for August 2026 .",
       "Language": "en"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-08-14",
+      "Time": "16:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股》日經漲0.59% TOPIX再創收盤新高",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1-%E6%97%A5%E7%B6%93%E6%BC%B20-59-topix%E5%86%8D%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-080300685.html",
+      "Content": "MoneyDJ新聞 2026-08-14 16:03:32 數位內容中心 發佈\n\n日股今(14)日收高，日經225指數收於68,713.80點，上漲405.21點或0.59%；東證股價指數(TOPIX)收於4,197.20點，上漲21.16點或0.51%，續刷新收盤高點。盤勢延續漲勢，主因係美股走揚，加上美國7月PPI增幅低於預期，聯準會提早升息的疑慮降溫，日股風險偏好回升。\n\n外部環境方面，美國通膨數據放緩，成為日股的主要支撐，油價下跌也提供助力，市場資金明顯轉向AI與半導體相關題材，帶動指數盤中一度衝高，TOPIX並持續改寫高點。\n\n權值股方面，愛德萬測試(6857.JP)、軟銀集團(9984.JP)、Kioxia Holdings(285A.JP)等AI與半導體相關權值股表現突出，成為推升日經225指數的主要動能。盤面上，這些個股的買盤延續，讓大盤即使在高檔也維持強勢。\n\n類股表現方面，其他製品、海運業、資訊與通訊業維持相對強勢，運輸設備與遊戲相關個股也獲得資金青睞。KDDI(9433.JP)、Kyocera(6971.JP)、Suzuki(6785.JP)、Terumo(4543.JP)、Toyota Tsusho(8015.JP)、Sumitomo Electric(5802.JP)等同步走高，顯示買氣並未侷限於單一族群。\n\n《日股》AI、半導體領漲，日經收漲2.08%\n\n《日股》日圓波動影響追價意願 日經收漲0.32%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
