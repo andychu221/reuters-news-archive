@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-14T13:01:11.726Z",
-  "total_news_count": 1194,
+  "last_updated": "2026-08-14T13:11:28.147Z",
+  "total_news_count": 1196,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-08-14",
+      "Time": "21:02:40",
+      "Source": "Yahoo Finance",
+      "Title": "Reddit Gains 12% by Joining the S&P 500",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/reddit-gains-12-joining-p-130240986.html",
+      "Content": "This article first appeared on GuruFocus .\n\nReddit ( NYSE:RDDT ) rose 12.22% premarket after S&P Dow Jones Indices said the company will join the S&P 500 on August 18, replacing AvalonBay Communities (AVB). Stocks often climb on index inclusion because fund managers tracking the benchmark have to buy shares to match the changes.\n\nReddit posted its eighth consecutive quarter of sales growth above 60% in the second quarter, and the stock fell after management said search referrals were \"choppy.\" CEO Steve Huffman attributed that to Google increasingly pushing its Gemini-powered AI Overviews.\n\nInclusion makes Reddit only the second pureplay social media company in the index, after Meta (META). Pinterest (PINS) and Snap (SNAP) both listed years earlier but are smaller by market value. Twitter held a place until Elon Musk bought it in 2022. In the same reshuffle, Sun Communities (SUI) joins the S&P MidCap 400, replacing Webster Financial (WBS).",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-08-14",
@@ -30,6 +40,16 @@
       "Title": "Applied Materials Extends Margin Streak to 13 Quarters but Shares Fall",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-extends-margin-streak-124959525.html",
       "Content": "This article first appeared on GuruFocus .\n\nApplied Materials ( NASDAQ:AMAT ) reported record third-quarter revenue of $9.12 billion, up 25% year over year, with non-GAAP diluted earnings of $3.50 per share, both ahead of the analyst consensus of $8.995 billion and $3.40. GAAP EPS came in at $3.17. Shares were down 5.38% premarket.\n\nSemiconductor Systems drove it, at $7.04 billion against $5.56 billion a year earlier, with DRAM rising to 26% of that segment from 22%. Non-GAAP gross margin reached 50.4%, which CFO Brice Hill said marked a 13th consecutive quarter of year-over-year expansion.\n\nThe mix underneath is shifting. China fell to 28% of revenue from 35% a year ago, while the United States doubled to 15% from 9% and Europe moved to 5%. Accounts receivable climbed to $7.69 billion from $5.19 billion at the October year-end, outpacing revenue growth. Non-GAAP free cash flow came in at $2.33 billion.\n\nFourth-quarter guidance calls for revenue of $10.25 billion give or take $500 million and non-GAAP EPS of $4.02 give or take $0.20, implying another step up from a record quarter. CEO Gary Dickerson raised Applied's calendar 2026 Semiconductor Systems revenue expectations and pointed to 2027 as another growth year.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, AMZN",
+      "Date": "2026-08-14",
+      "Time": "20:38:25",
+      "Source": "Yahoo Finance",
+      "Title": "Citizens Pays a Higher Multiple for Alphabet Than for Amazon",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/citizens-pays-higher-multiple-alphabet-123825602.html",
+      "Content": "This article first appeared on GuruFocus .\n\nCitizens analyst Andrew Boone reiterated Market Outperform ratings on Alphabet ( NASDAQ:GOOGL ) and Amazon ( NASDAQ:AMZN ), leaving price targets unchanged at $515 and $315. Alphabet and Amazon shares are little change in premarket.\n\nOn Alphabet, Boone applies roughly 32x an estimated $16.27 in 2027 earnings per share. The market is currently paying 21.3x that same number. His case runs on YouTube and search leadership, distribution across products with more than a billion users each, and high profitability.\n\nAmazon gets a slightly lower multiple, about 29x an estimated $10.99 per share in 2027, while the market is currently pricing it at 24.1x. He also has the stock at 11.0x a $262 billion 2027 EBITDA forecast. The argument is logistics capability underpinning retail, plus AWS leadership in cloud.",
       "Language": "en"
     },
     {
