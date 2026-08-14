@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-14T23:34:14.497Z",
+  "last_updated": "2026-08-14T23:34:35.840Z",
   "total_news_count": 1340,
   "news": [
     {
-      "Ticker": "AMD",
+      "Ticker": "INTC, AMD",
       "Date": "2026-08-15",
       "Time": "06:50:04",
       "Source": "Yahoo Finance",
@@ -1273,7 +1273,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, LRCX, AMAT",
+      "Ticker": "LRCX, AMAT",
       "Date": "2026-08-14",
       "Time": "21:44:00",
       "Source": "Yahoo Finance",
