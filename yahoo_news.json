@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-16T15:25:57.562Z",
-  "total_news_count": 1537,
+  "last_updated": "2026-08-16T15:34:39.365Z",
+  "total_news_count": 1538,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-16",
+      "Time": "23:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
+      "URL": "https://finance.yahoo.com/m/e4a17318-f0d1-30e0-a2ab-27aa2390c12a/i-checked-vig%27s-top-holdings..html",
+      "Content": "Low-yielding tech giants Broadcom (0.7%) and Apple (0.4%) wouldn't be the top holdings you'd expect to see in the largest dividend-focused ETF. However, they currently rank as the two largest holdings of the Vanguard Dividend Appreciation ETF (NYSEMKT: VIG), which has nearly $115 billion in assets under management.\n\nInstead of holding yield-focused stocks, the Vanguard Dividend Appreciation ETF invests in dividend growers. It aims to deliver a high total return from share price appreciation and dividend income.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nFocusing on the best kind of dividend stock\n\nThe VIG is a passively managed ETF that aims to track the performance of the S&P U.S. Dividend Growers Index . This index screens companies based on several traits. A company must be part of the U.S. stock market and have increased its dividends for at least the past decade. However, it excludes REITs (which pay non-qualified dividends) and the top 25% of companies by yield. These eliminations remove meaningful yield and risk. The index then weighs companies by market cap, meaning the largest ones are its top holdings. Given their large size and dividend growth records, Broadcom and Apple currently come out on top.\n\nThe fund's focus on dividend growth over yield is a wise strategy, given the data on stocks by their dividend policies.\n\nDividend status\n\nAverage annual total return\n\nDividend Growers & Initiators\n\n10.22%\n\nDividend Payers\n\n9.20%\n\nNo Change in Dividend Policy\n\n6.87%\n\nDividend Cutters & Eliminators\n\n-0.96%\n\nDividend Non-Payers\n\n4.21%\n\nData source: Ned Davis Research and Hartford Funds. Note: Returns data for S&P 500 stocks from 1973-2025.\n\nAs that table shows, dividend growers have significantly outperformed companies with no change in their dividend policy, as well as cutters and eliminators. By excluding the top 25% of companies by their yields, the index aims to avoid the risk of weaker payers dragging down returns. This strategy has paid off for investors. VIG has delivered an average annual total return of 10.2% since its inception two decades ago. It's a reminder that investors should look beyond a stock's yield to its dividend growth to achieve the best total returns.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-16",
