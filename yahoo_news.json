@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-17T16:32:23.696Z",
-  "total_news_count": 1748,
+  "last_updated": "2026-08-17T16:35:19.941Z",
+  "total_news_count": 1750,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-18",
+      "Time": "00:22:17",
+      "Source": "Yahoo Finance",
+      "Title": "Rivian Closes the Self-Driving Gap With Tesla",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/rivian-closes-self-driving-gap-162217297.html",
+      "Content": "This article first appeared on GuruFocus .\n\nRivian Automotive Inc. ( RIVN , Financials ), a builder of electric vehicles, is closing the gap with Tesla in advanced driver-assistance technologies, making software a bigger part of its growth strategy.CNBC testing over hundreds of miles indicated Rivian's Autonomy+ technology was better than historical systems such as General Motors' Super Cruise, but Tesla's FSD was still more capable overall.Tesla navigated traffic signals, junctions, exit ramps and nearly 200 miles of combined highway and city driving with little assistance. Rivian still needs driver input for some of these and can't change lanes by itself yet.That gap may be closing soon. Rivian plans to launch point-to-point driving later this year, moving Autonomy+ closer to what Tesla already offers today.The technology also offers a recurring-revenue possibility. Rivian's Autonomy+ subscription is priced at $49.99 per month, compared to Tesla's FSD subscription at $99 a month.The question for investors is no longer whether Rivian can produce competitive driving software. It's can the company fill that last gap and convert that software into real high-margin income soon.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-17",
+      "Time": "23:51:08",
+      "Source": "Yahoo Finance",
+      "Title": "Why Western Digital Stock Popped Today",
+      "URL": "https://finance.yahoo.com/m/b16d236e-3b28-3a09-9182-ba6036e2c92c/why-western-digital-stock.html",
+      "Content": "Computer hard-drive manufacturer Western Digital (NASDAQ: WDC) stock jumped a lucky 7% through 11:25 a.m. ET Monday -- and has Donald Trump to thank for it.\n\nOver the weekend, Trump Commerce Secretary Howard Lutnick told The Wall Street Journal the Trump administration \"is not in favor\" of Apple (NASDAQ: AAPL) buying high-bandwidth memory (HBM) from Yangtze Memory Technologies and CXMT in China , and would prefer Apple buy from manufacturers reshoring semiconductor manufacturing to the United States instead.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWhat this means for Western Digital stock\n\nWhat does this have to do with Western Digital, which doesn't make HBM, but rather old-tech hard disk drives?\n\nBroadly speaking, both DRAM and NAND memory chips, and also the hard disk memory drives that Western Digital makes, are used for computer memory. Memory demands have gone through the roof as everyone and his brother rushes to build data centers -- and to tailor them to provide memory-intensive \"inference\" functions.\n\nAI hyperscalers would generally prefer to use HBM for this. Still, the harder it becomes to obtain HBM supply and the higher HBM prices go, the more they'll look for alternative (and cheaper) ways to store information in memory.\n\nWestern Digital's hard drives provide one such alternative.\n\nWhat's next for Western Digital stock\n\nThis is not exactly a secret, and investors have already bid up Western Digital stock by 5x over the past year in anticipation of stronger demand for the company's products. Even so, at a price-to-earnings ratio of just 21x and a projected long-term annual earnings growth rate of 68%, Western Digital stock doesn't look unreasonably expensive today.\n\nAnd with President Trump intent on closing off one possible solution to the memory crisis, Western Digital stands out as one of the few options remaining. That can only be good for Western Digital stock.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-08-17",
