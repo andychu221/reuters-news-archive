@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-17T10:26:01.096Z",
-  "total_news_count": 1671,
+  "last_updated": "2026-08-17T10:34:33.877Z",
+  "total_news_count": 1672,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-17",
+      "Time": "18:19:05",
+      "Source": "Yahoo Finance",
+      "Title": "Apple to change app data consent rules, German regulator says",
+      "URL": "https://finance.yahoo.com/media-advertising/articles/apple-change-app-data-consent-101905201.html",
+      "Content": "DUESSELDORF, Germany, Aug 17 (Reuters) - Apple will change rules governing how app developers can use personal ‌data for targeted advertising on iPhones and iPads, ‌Germany's competition authority said on Monday, closing a years-long investigation.\n\nThe Federal ​Cartel Office found that Apple's App Tracking Transparency framework gave its own apps more favourable consent prompts than those of third-party developers, potentially breaching competition rules.\n\nMore from Yahoo Scout\n\nHow did Apple's framework favor its own apps unfairly?\n\nWhat changes must Apple make to its advertising rules?\n\nWhat penalties has Apple faced in other countries?\n\nHow will these changes affect third-party app developers?\n\n• Apple has ‌four months to implement ⁠the changes after the decision is served. Commitments run for seven years and will ⁠be monitored by a trustee.\n\n• Under the commitments, consent pop-ups for third-party apps must be redesigned to remove discouraging ​language and ​symbols, and made visually ​and linguistically neutral.\n\n• Third-party ‌app publishers will also gain more flexibility to combine Apple's required consent request with separate data-protection consent prompts.\n\n• Apple said the changes would apply in almost all European Union countries and that it had adapted the text ‌and design of the consent ​prompt at the authority's request.\n\n• Developers ​of third-party apps, ​including Facebook parent Meta Platforms, aim for ‌accurate user data so that ​targeted adverts can ​be displayed on devices. These generate more revenue than broader campaigns.\n\n• France and Italy have already fined ​Apple €150 million ‌and €98.6 million, respectively, over the ATT framework.\n\n(Reporting by ​Matthias Inverardi and Hakan Ersen, writing by Thomas ​Seythal; editing by Matthias Williams)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-17",
@@ -23,7 +33,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AMZN, NVDA, MU",
+      "Ticker": "INTC, AMZN, NVDA, MU",
       "Date": "2026-08-17",
       "Time": "17:26:00",
       "Source": "Yahoo Finance",
