@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T12:34:26.987Z",
-  "total_news_count": 194,
+  "last_updated": "2026-08-18T12:34:48.068Z",
+  "total_news_count": 195,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -10,6 +10,16 @@
       "Title": "Google Buys a Dead Airline's Internal Emails to Train AI",
       "URL": "https://finance.yahoo.com/technology/ai/articles/google-buys-dead-airlines-internal-120340423.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOGL ) Google is buying internal business data from bankrupt Spirit Airlines for $10 million, saying it plans to use the material for product development and to train its AI models. Alphabet shares were down 0.27% premarket.\n\nAlphabet will acquire employee emails, Microsoft Teams messages, spreadsheets and calendars, along with marketing, productivity and operations data. The data will be de-identified before the sale closes and will contain no customer information or personally identifiable information.\n\nA US bankruptcy judge considers the sale at a hearing on Wednesday. Spirit also received a competing bid of $7.5 million from Mercor, an AI data company, so the court has two offers in front of it. Spirit has been selling assets since shutting down operations in May under high debt and fuel costs, having already auctioned LaGuardia flight slots to JetBlue in July.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-18",
+      "Time": "20:00:14",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Tests Cybercab on Employees First in Austin Rollout",
+      "URL": "https://finance.yahoo.com/technology/articles/tesla-tests-cybercab-employees-first-120014878.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) has told employees it is preparing a public launch of Cybercab in Austin as soon as this month, The Information reported, citing people with knowledge of the plans. Tesla shares were down 1.41% premarket.\n\nThe sequence, according to that report, starts with rides for Tesla employees on public roads, followed a few days later by Cybercabs entering the robotaxi service in Austin. Groundwork over recent weeks has included test driving, employee rides on private roads, and training sessions with local first responders.\n\nCybercab is built without a steering wheel or pedals, which makes it the vehicle Tesla's robotaxi fleet ambitions depend on. Tesla began testing the production version on public roads in June, and production is expected to ramp later this year.\n\nTesla did not respond to Reuters' request for comment.",
       "Language": "en"
     },
     {
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, GOOGL",
+      "Ticker": "GOOGL",
       "Date": "2026-08-18",
       "Time": "19:57:19",
       "Source": "Yahoo Finance",
