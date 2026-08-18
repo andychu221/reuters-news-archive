@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-18T15:01:06.671Z",
-  "total_news_count": 221,
+  "last_updated": "2026-08-18T15:11:43.554Z",
+  "total_news_count": 222,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-18",
+      "Time": "23:01:20",
+      "Source": "Yahoo Finance",
+      "Title": "Google Could Hand AMD a Bigger Role in Its AI Chips",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-could-hand-amd-bigger-150120866.html",
+      "Content": "This article first appeared on GuruFocus .\n\nChipmaker Advanced Micro Devices Inc. ( AMD , Financials ) may be taking a significantly bigger part in Google's specialized AI hardware approach. SemiAnalysis reports that Google is working with AMD on a future version of their tensor processing unit, or TPU.The article says AMD might help create Google's 10th-gen TPU, leveraging its competence in CPUs, packaging and networking.That would be a major turn if confirmed. In the past, Google has relied on other semiconductor partners for some of its custom chip work. AMD has been more renowned for selling CPUs and GPUs directly into data centers.Such a relationship between Google and AMD would be significant, said Wedbush analyst Matt Bryson, and might indicate the growing relevance of skills in designing ASICs and reusable chip IP. The broader opportunity is evident for investors.A more prominent role on Google's TPU roadmap could provide AMD another avenue to capitalize on hyperscaler AI spending, in addition to its current accelerator and processor offerings. The only real limitation is that neither Google nor AMD has confirmed the partnership.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-18",
