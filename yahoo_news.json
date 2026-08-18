@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T23:53:25.016Z",
-  "total_news_count": 1839,
+  "last_updated": "2026-08-18T00:01:33.514Z",
+  "total_news_count": 1840,
   "news": [
     {
       "Ticker": "2408.TW",
@@ -13,7 +13,17 @@
       "Language": "zh"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "NVDA",
+      "Date": "2026-08-18",
+      "Time": "07:15:01",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Faces 29 States in Court Tuesday. The Case Could Be Big Tech’s Big Tobacco Moment.",
+      "URL": "https://finance.yahoo.com/m/f065e371-1a69-324b-9f79-881b725316cb/meta-faces-29-states-in-court.html",
+      "Content": "Meta Platforms (NASDAQ:META) will be in an Oakland federal courtroom on Tuesday, defending itself against the 29 states that say it built Facebook and Instagram to addict children and then told parents the platforms were safe.\n\nA bipartisan group of state attorneys general will attempt to convince the court that the social media giant knew its products were harmful. It goes to trial less than two weeks after a judge in New Mexico hit Meta with a nearly $1 billion judgment in a similar case.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWhat the states allege\n\nThe states' argument is that the addiction was designed in. They point to infinite scroll, likes, autoplay, algorithmic recommendations, and weak age controls. They also say Meta violated the Children's Online Privacy Protection Act (COPPA), a federal law that bars companies from collecting personal data on kids under 13 without a parent signing off.\n\nJudge Yvonne Gonzalez Rogers threw out most of Meta's attempt to get the case dismissed in April.\n\nMeta denies wrongdoing and is leaning on Section 230, the federal law that generally shields internet platforms from being sued over what their users post. The company argues that its recommendation algorithms are protected editorial choices and that \"social-media addiction\" isn't a recognized medical diagnosis.\n\nMeta's legal troubles are piling up fast\n\nThe case is part of a torrent of similar cases brought against the company, including a very similar case Meta lost in New Mexico court in which a jury found 75,000 violations of the state's consumer-protection laws and assessed a $375 million penalty. A judge then ruled that Meta's platforms amounted to a \"public nuisance\" and ordered another $567 million for a youth mental-health fund along with mandated product changes. Meta maintains its innocence here as well and is appealing all of it.\n\nOther states are moving the same way as well as school districts across the country. Meta settled with a first test case in May for $9 million. It faces 1,200 more.\n\nWhy some are calling this big tech's \"big tobacco moment\"\n\nSome industry observers are wondering if this could prove to be a \"big tobacco moment\" for Meta and tech companies like it.\n\nIn the 1990s, every state in the country sued cigarette makers in a series of extremely high-profile cases that eventually led to the 1998 Master Settlement Agreement, which put the industry on the hook for a whopping $246 billion and restricted how tobacco companies could market their product.\n\nStory Continues\n\nWhile the settlement itself was an immediate hit to their bottom lines, the cases were public relations nightmares for the firms involved and seriously harmed their sales long-term.\n\nWhat a Meta loss could mean for the tech industry\n\nIf Meta loses this case, it could open the floodgates to more lawsuits. And not just for Meta, but for companies across big tech whose products rely on similar, algorithmic recommendations. The 9th Circuit recently gave the green light for thousands of lawsuits to proceed against not just Meta, but Alphabet , TikTok , and Snap .\n\nThe big question is whether Section 230 will hold, which up to this point has been a durable firewall protecting tech companies from allegations of harm. If Meta can't stand behind that statute, it will have far-reaching consequences for how other tech companies design and distribute their products.\n\nOf course, Meta could still defend itself successfully here.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA, INTC",
       "Date": "2026-08-18",
       "Time": "06:56:01",
       "Source": "Yahoo Finance",
