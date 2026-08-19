@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-19T22:01:24.777Z",
-  "total_news_count": 615,
+  "last_updated": "2026-08-19T22:11:41.618Z",
+  "total_news_count": 618,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-20",
+      "Time": "06:04:17",
+      "Source": "Yahoo Finance",
+      "Title": "Broadcom Gets Fresh Google Warning",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html",
+      "Content": "This article first appeared on GuruFocus .\n\nBroadcom ( NASDAQ:AVGO ) shares fell more than 5% Wednesday after rival Marvell Technology ( NASDAQ:MRVL ) secured a major custom-chip partnership with Google, raising fresh questions about whether Broadcom's dominant position in the search giant's AI silicon program could gradually erode as hyperscalers diversify suppliers.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nBroadcom designs semiconductors used in networking, connectivity and custom AI accelerators, while its VMware business adds a large infrastructure-software operation. Its custom AI chip business has become increasingly important as Google and other hyperscalers build alternatives to Nvidia ( NASDAQ:NVDA ) GPUs.\n\nMarvell's agreement gives Google the right to purchase as many as 58.97 million Marvell shares at $206.58 each, potentially creating about $12.2 billion of equity value. Portions of the warrant vest as Google reaches purchasing thresholds, including tranches linked to every $500 million of qualifying product purchases.\n\nThat structure matters because it directly incentivizes Google ( NASDAQ:GOOG ) to expand business with Marvell.\n\nBroadcom remains a critical partner for Google's Tensor Processing Units and, according to the supplied report, retains its principal agreement through 2031. But Marvell's entrance means Broadcom is no longer viewed as the only meaningful supplier for Google's custom AI silicon.\n\nThe market reaction reflected that concern: Broadcom dropped for a fourth consecutive session while Marvell rallied roughly 10%.\n\nStill, the addressable market is expanding rapidly enough that supplier diversification does not automatically mean falling Broadcom revenue. Google is reportedly planning as much as $205 billion of 2026 AI-related capital spending, while AI infrastructure capacity remains constrained.\n\nBroadcom itself generated $22 billion in fiscal second-quarter revenue and said AI semiconductor revenue rose 70% year over year to $10 billion.\n\nInvestor Takeaway\n\nFor Broadcom investors, the key issue is not whether Marvell wins some Google business, but whether Broadcom's share of Google's future TPU spending falls faster than the overall custom-AI market expands.\n\nInvestors should watch AI semiconductor revenue growth, customer concentration, custom-XPU bookings and margins when Broadcom reports fiscal third-quarter results on September 2 .\n\nA sustained AI revenue trajectory would support the argument that Google, Marvell and Broadcom can all grow simultaneously. But evidence that Marvell is taking progressively larger TPU programs could force investors to reassess Broadcom's long-term custom-silicon moat.\n\nThe September earnings call should therefore become an important test of whether Wednesday's selloff reflects genuine share-loss risk or an overreaction to Google adding another supplier.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-08-20",
+      "Time": "05:58:24",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Adds Grok 4.6 to Bedrock",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-adds-grok-4-6-215824526.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon.com Inc. ( AMZN , Financials ), the cloud and e-commerce giant, is adding SpaceXAI's latest Grok model to Bedrock as competition for enterprise AI customers continues to heat up.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nGrok 4.6 is now generally available to developers in supported AWS regions, SpaceXAI said. This opens up a much wider path into companies that are already building AI applications on Amazon Web Services.\n\nAmazon Bedrock enables customers to access and deploy third-party AI models without having to build the underlying infrastructure themselves. Adding Grok provides AWS users with another option, on top of the growing list of models already available from the platform.\n\nBut for SpaceXAI, the bigger win is dissemination. AWS could be an opportunity to get Grok in front of enterprise developers and turn model improvements into real commercial usage, not just consumer attention.\n\nThe acquisition strengthens Bedrock's position in the race for AI workloads between Amazon and Microsoft Azure and Google Cloud.",
+      "Language": "en"
+    },
     {
       "Ticker": "ADI",
       "Date": "2026-08-20",
@@ -13,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD, MU",
+      "Ticker": "AMZN",
+      "Date": "2026-08-20",
+      "Time": "05:56:03",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Makes Major Move for Shoppers",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-makes-major-move-shoppers-215603266.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) shares rose Wednesday after the e-commerce giant said it plans to expand Prime Air drone delivery to nearly 500 U.S. cities and towns by the end of 2026, a roughly sixfold increase that could make ultra-fast delivery a much larger part of Amazon's logistics and Prime membership strategy.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nPrime Air currently operates from 11 locations across seven states, with each site covering roughly 175 square miles. Amazon says it has already completed hundreds of thousands of drone deliveries this year, with some packages reaching customers in as little as 30 minutes.\n\nThe service can carry packages weighing up to five pounds, a threshold Amazon says covers more than 60% of its most commonly purchased products. Eligible items include groceries, medications and electronics.\n\nPricing is designed to encourage adoption. Prime members pay nothing for drone delivery on orders of at least $50, while smaller Prime orders cost $2.99. Non-Prime customers pay $4.99.\n\nThat gives Amazon another potential lever for increasing the value of Prime while reducing delivery times on high-frequency purchases.\n\nThe company plans to expand into major markets including Chicago and Atlanta, with Cleveland, Syracuse and Boise also expected to join the network.\n\nCompetition is intensifying. Alphabet's ( NASDAQ:GOOG ) Wing has completed more than one million commercial deliveries, while Zipline has surpassed two million worldwide.\n\nSafety remains the biggest operational hurdle. Amazon holds FAA Part 135 certification and says its drones use cameras and onboard sensors to identify obstacles autonomously, but the system has faced scrutiny after accidents in Arizona and Texas triggered federal investigations.\n\nInvestor Takeaway\n\nFor Amazon investors, the key question is whether Prime Air can scale without adding excessive delivery costs or regulatory risk.\n\nInvestors should watch delivery volumes, geographic expansion, cost per package and whether drone access improves Prime retention or order frequency.\n\nThe upside is meaningful if Amazon can shift lightweight, high-frequency orders away from vans and traditional last-mile routes, potentially improving delivery speed and logistics efficiency.\n\nThe biggest risk is execution. Safety incidents, FAA restrictions or poor economics could slow the rollout.\n\nIf Amazon reaches close to 500 markets while maintaining reliability and low unit costs, Prime Air could evolve from an experimental service into a meaningful competitive advantage in last-mile delivery.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL, NVDA, AMD, MU",
       "Date": "2026-08-20",
       "Time": "05:52:00",
       "Source": "Yahoo Finance",
@@ -33,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO",
+      "Ticker": "META, AVGO",
       "Date": "2026-08-20",
       "Time": "05:49:54",
       "Source": "Yahoo Finance",
@@ -63,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO, MRVL",
+      "Ticker": "GOOGL, AVGO, MRVL",
       "Date": "2026-08-20",
       "Time": "05:15:07",
       "Source": "Yahoo Finance",
