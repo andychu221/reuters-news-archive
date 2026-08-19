@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-19T07:18:28.168Z",
-  "total_news_count": 405,
+  "last_updated": "2026-08-19T07:27:05.100Z",
+  "total_news_count": 416,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "15:20:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "永豐期貨：連兩日重挫！台股再殺589點失守45,000大關",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E9%80%A3%E5%85%A9%E6%97%A5%E9%87%8D%E6%8C%AB-%E5%8F%B0%E8%82%A1%E5%86%8D%E6%AE%BA589%E9%BB%9E%E5%A4%B1%E5%AE%8845-000%E5%A4%A7%E9%97%9C-072029730.html",
+      "Content": "【財訊快報／編輯部】指數週三下跌589.33點，收在44719.35點，成交量0.89兆元。台指期下跌673點至44500點，逆價差為-219.35點。籌碼面部分，三大法人賣超708.48億元；而在台指期淨部位方面，三大法人淨空單減少250口至-4150口，其中外資淨空單減少1577口至-81501口；十大交易人中的特定法人全月份台指期淨多單增加4032口至2902口。台股週三未能止住週二的修正頹勢，盤面持續面臨沉重的壓力。大盤呈現跳空開低，隨即引發短線停損與多殺多賣壓，指數盤中一度重挫並下探至44,308點。儘管盤中低接買盤零星浮現，帶動指數微幅收斂跌幅，但終場依然重挫589點（-1.30%），收在44,719點，正式宣告失守45,000點整數大關；總成交量則顯著萎縮至8,478億元。\n\n盤面結構上，連續兩日的長黑K棒顯示短線空方力道極強。週三下跌家數達792家，整體市場信心明顯受到動搖。在經歷前波的高檔熱絡後，隨著獲利了結賣壓接連出籠，多方資金全面轉趨保守，市場缺乏能夠逆勢撐盤的強勢主流族群，導致大盤呈現無差別的弱勢修正格局。\n\n整體來看，技術面上出現了較深度的破位修正。週三成交量降至8,400餘億元，說明在指數快速急跌的過程中，市場承接意願大幅降溫，資金選擇退場觀望。在短線籌碼尚未徹底沉澱之前，後續宜密切觀察週三低點44,300點附近能否發揮初步的止跌支撐效應，以及成交量是否能維持量縮築底的態勢，避免恐慌性賣壓再度湧現。\n\n選擇權未平倉量部分，08月買權最大OI落在48000點，賣權最大OI落在44000點 ; 08月F3買權最大OI落在47500點，賣權最大OI落在42000點。全月份未平倉量put/call ratio值由1.05下降至1.02。VIX指數上升0.39至30.84。外資台指期買權淨金額-1.48億元 ; 賣權淨金額0.82億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-08-19",
+      "Time": "15:19:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "槓桿風險消退、盈利前景強勁，匯豐上調韓股評級至「增持」",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%A7%93%E6%A1%BF%E9%A2%A8%E9%9A%AA%E6%B6%88%E9%80%80-%E7%9B%88%E5%88%A9%E5%89%8D%E6%99%AF%E5%BC%B7%E5%8B%81-%E5%8C%AF%E8%B1%90%E4%B8%8A%E8%AA%BF%E9%9F%93%E8%82%A1%E8%A9%95%E7%B4%9A%E8%87%B3-%E5%A2%9E%E6%8C%81-071952245.html",
+      "Content": "【財訊快報／劉敏夫】外電報導指出，匯豐將韓國股票評級從「中性」上調至「增持」，認為過度槓桿已被消除，企業盈利增長前景依然強勁。匯豐方面認為，儘管市場波動性依然較高，但已從高點回落，流入個股槓桿ETF的資金也已放緩，但韓國當地股票需求依然強勁。同時，預計2026年收益將增長300%或更多，2027年還將再增長30%。\n\n匯豐指出，關鍵在於隨著更多記憶體供應的到來，盈利預期上調是否會開始降溫，但如果美國數據中心支出保持強勁，那麼利多因素不僅限於記憶體領域，還可以擴展到電力設備、儲能和工程等其他領域。",
+      "Language": "zh"
+    },
     {
       "Ticker": "000660.KS",
       "Date": "2026-08-19",
@@ -11,6 +31,36 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-buy-back-cancel-070906682.html",
       "Content": "SEOUL, Aug 19 (Reuters) - SK Hynix said ‌on Wednesday it ‌would buy back and cancel ​40 trillion won ($28.61 billion) worth of treasury shares to boost ‌shareholder returns.\n\nThe ⁠South Korean chipmaker also said it ⁠would spend at least 50% of ​free cash ​flow ​generated between 2025 ‌and 2027 on shareholder returns.\n\nMore from Yahoo Scout\n\nHow will SK Hynix distribute returns between 2025 and 2027?\n\nWhy is SK Hynix buying back $28.61 billion worth of shares?\n\nWhen will SK Hynix announce additional shareholder return details?\n\nWhat percentage of free cash flow will go to shareholders?\n\nThe company said it plans to pursue additional shareholder returns ‌through share ​repurchases, cancellations ​and ​dividends, with details ‌on the amount ​and method ​to be announced alongside its third-quarter ​earnings ‌release.\n\n($1 = 1,397.9200 won)\n\n(Reporting by ​Heejin KimEditing by ​Ed Davies)",
       "Language": "en"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-08-19",
+      "Time": "15:05:22",
+      "Source": "Yahoo奇摩股市",
+      "Title": "日經指數週三重挫3.16%，債券殖利率飆升打擊AI交易",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E6%8C%87%E6%95%B8%E9%80%B1%E4%B8%89%E9%87%8D%E6%8C%AB3-16-%E5%82%B5%E5%88%B8%E6%AE%96%E5%88%A9%E7%8E%87%E9%A3%86%E5%8D%87%E6%89%93%E6%93%8Aai%E4%BA%A4%E6%98%93-070522074.html",
+      "Content": "【財訊快報／劉敏夫】日本股市週三走跌，延續週二下滑跌勢，因對債券殖利率飆升的擔憂，削弱了投資人對人工智能交易的風險偏好。收盤時，東證第一部指數下跌127.91點或3.09%，報4,012.31點；日經225指數下滑2,134.31點或3.16%，報65,326.42點。\n\n週三日股隨週二美股下滑跌勢起舞，追蹤半導體股價的費城半導體指數收跌4.98%。\n\n大和資產管理公司首席策略分析師Kazunori Tatebe表示，更高的殖利率將增加超大規模數據中心營運商的借貸成本，引發人們對資本支出前景以及對受益於投資熱潮的人工智能基礎設施公司可能產生的影響的擔憂。\n\n週二日本10年期公債殖利率一度攀升至1996年以來的高點，主要受日本央行可能下月升息的猜測影響。Tatebe表示，中東衝突持續的不確定性可能會加劇週三的避險情緒。同時，油價持續走升，因美國和伊朗在解決爭端問題上陷入僵局。\n\nIwai Cosmo證券資深市場分析師Shoichi Arisawa表示，投資人擔心借貸成本會進一步上升，這促使他們對估值已經很高的科技股採取避險態度。\n\nArizawa指出，債券殖利率的整體擔憂正給人工智能和晶片相關股票帶來壓力。同時，市場對日本央行下個月可能升息的謹慎情緒加劇了避險情緒。\n\n個股表現方面，記憶體晶片製造商鎧俠股價下滑12.60%；光纖電纜製造商古河電氣下跌13.69%；營收逾三成來自北美市場的汽車製造大廠豐田汽車股價滑落2.68%；金融控股業者三菱日聯金融集團股價下挫5.95%；能源開採商國際石油開發帝石股價下跌1.03%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "14:47:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤後焦點】台股量縮下跌589點　收44719點失守季線",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E4%B8%8B%E8%B7%8C589%E9%BB%9E-%E6%94%B644719%E9%BB%9E%E5%A4%B1%E5%AE%88%E5%AD%A3%E7%B7%9A-064723320.html",
+      "Content": "（中央社記者曾仁凱台北2026年8月19日電）美國費城半導體指數重跌近5%，韓股早盤熔斷，台股開低下跌近千點；終場台股下跌589.33點，收在44719.35點，跌幅1.3%，失守45000點及季線44811點，成交值新台幣8478.57億元，為近7個交易日低量。\n\n權值股表現方面，台積電 (2330) 今天終場下跌30元或1.26%，收在2350元；聯發科 (2454) 跌40元或1.03%，收3845元；台達電 (2308) 跌55元或3.02%，收1765元。\n\n台灣機器人與智慧自動化展今天登場，包括新代 (7750) 、盟立 (2464) 、新漢 (8234) 、台灣精銳 (4583) 相對強勢；被動元件族群今天也吸引資金轉進，日電貿 (3090) 、大毅 (2478) 、信昌電 (6173) 、金山電 (8042) 收盤股價亮燈漲停，華新科 (2492) 、堡達 (3537) 等漲逾5%。\n\n散熱族群今天也走強，獲主動式ETF加碼的健策 (3653) 大漲逾6%，奇鋐 (3017) 、雙鴻 (3324) 逆勢收紅。\n\n群益投顧研究部副總裁曾炎裕分析，美國公債殖利率居高不下，10年期美債殖利率維持約4.7%，目前這對於高估值的AI股會帶來壓力。\n\n儘管美國或台灣的AI供應鏈企業財報都非常出色，但AI資本支出龐大，現在又傳出科技巨頭有許多表外的隱形資本支出，引發投資人疑慮。曾炎裕認為，AI發展仍存在許多不確定性，多空消息造成市場波動加劇。\n\n曾炎裕表示，接下來觀察重點看AI指標企業Anthropic最快今年10月掛牌，可能帶來估值比價，以及資金排擠等連鎖反應，引發市場新一輪波動。（編輯：張良知）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "14:44:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股量縮下跌589點　收44719點失守季線",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E4%B8%8B%E8%B7%8C589%E9%BB%9E-%E6%94%B644719%E9%BB%9E%E5%A4%B1%E5%AE%88%E5%AD%A3%E7%B7%9A-064457060.html",
+      "Content": "（中央社記者曾仁凱台北19日電）美國費城半導體指數重跌近5%，韓股早盤熔斷，台股開低下跌近千點；終場台股下跌589.33點，收在44719.35點，跌幅1.3%，失守45000點及季線44811點，成交值新台幣8478.57億元，為近7個交易日低量。\n\n權值股表現方面，台積電今天終場下跌30元或1.26%，收在2350元；聯發科跌40元或1.03%，收3845元；台達電跌55元或3.02%，收1765元。\n\n台灣機器人與智慧自動化展今天登場，包括新代、盟立、新漢、台灣精銳相對強勢；被動元件族群今天也吸引資金轉進，日電貿、大毅、信昌電、金山電收盤股價亮燈漲停，華新科、堡達等漲逾5%。\n\n散熱族群今天也走強，獲主動式ETF加碼的健策大漲逾6%，奇鋐、雙鴻逆勢收紅。\n\n群益投顧研究部副總裁曾炎裕分析，美國公債殖利率居高不下，10年期美債殖利率維持約4.7%，目前這對於高估值的AI股會帶來壓力。\n\n儘管美國或台灣的AI供應鏈企業財報都非常出色，但AI資本支出龐大，現在又傳出科技巨頭有許多表外的隱形資本支出，引發投資人疑慮。曾炎裕認為，AI發展仍存在許多不確定性，多空消息造成市場波動加劇。\n\n曾炎裕表示，接下來觀察重點看AI指標企業Anthropic最快今年10月掛牌，可能帶來估值比價，以及資金排擠等連鎖反應，引發市場新一輪波動。（編輯：張良知）1150819",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -41,6 +91,26 @@
       "URL": "https://finance.yahoo.com/m/71167428-7d1d-3ba6-9a00-632c5385e891/tim-cook%27s-final-earnings.html",
       "Content": "Since Tim Cook became CEO of Apple (NASDAQ: AAPL) in 2011, taking over for the legendary Steve Jobs, the company's share price has skyrocketed 2,180% (as of Aug. 17). This was an extremely successful tenure. But it's time to hang it up. The tech executive will step down on Sept. 1 and become executive chairman. He'll be replaced by John Ternus, a 25-year Apple veteran who's currently the hardware chief.\n\nCook's final earnings call for Apple's fiscal 2026 third quarter, which ended June 27, was on July 30. It happened the same week the business reached a $5 trillion market cap , though that valuation has fallen to $4.5 trillion today, driven by a post-earnings sell-off.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nApple remains one of the most valuable and dominant enterprises on the planet, which makes things easier for its successor. Here's what investors should watch as Ternus takes over the CEO role.\n\nDoes Apple need to introduce a new game-changing device?\n\nThis is where Ternus' background in hardware could shine through. The biggest question has long focused on the company's ability to introduce a new product line that can drive financial results. This is a difficult task, given Apple's massive revenue base.\n\nFor what it's worth, Apple is working on a foldable phone, an artificial intelligence (AI) pin, and smart glasses, as it leans into a forward-thinking mentality. Maybe one of these ideas will break through. But it might not be necessary for Ternus to do too much early on.\n\nSales of the iPhone, which remains the flagship device, rose more than 20% year over year in each of the last three fiscal quarters. This has occurred despite Apple not yet launching its updated Siri voice assistant.\n\nWill Apple adjust its capital allocation policy?\n\nThrough the first nine months of fiscal 2026, Apple paid $11.8 billion in dividends. On the other hand, its share repurchases totaled $62.1 billion. During his tenure, Tim Cook oversaw a mind-boggling $877 billion worth of stock buybacks. This has been the hallmark of Apple's capital allocation policy for more than a decade.\n\nNow that Ternus will soon be in charge, maybe he will decide to direct more of the company's cash toward research and development projects or mergers and acquisitions. This relates in part to the previous point. Ternus could become much more aggressive than Cook was in trying to find the next major product form factor and end up diverting financial resources from returning capital to shareholders.\n\nStory Continues\n\nCan Apple Intelligence strengthen the ecosystem?\n\nThe last factor investors should watch is how the company's AI playbook , known as Apple Intelligence, evolves. Critics have called out the business for falling behind its big tech peers, which are spending large sums on infrastructure. Ternus could have greater conviction on where to invest in the AI trend, taking a more urgent approach than the company has historically been known for.\n\nFor Apple, though, it all comes down to how this technology could strengthen its already robust ecosystem. Ternus probably understands that the business doesn't need to do anything wild. Apple can lean into its unrivaled brand power, customer loyalty, and hardware/software adeptness to widen its economic moat. AI is just a tool to support that goal.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "14:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股下挫589點失守45K！ 被動元件逆勢狂噴 「4檔」收漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%B8%8B%E6%8C%AB589%E9%BB%9E%E5%A4%B1%E5%AE%8845k-%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E9%80%86%E5%8B%A2%E7%8B%82%E5%99%B4-4%E6%AA%94-%E6%94%B6%E6%BC%B2%E5%81%9C-061900929.html",
+      "Content": "台股今（19）日開低震盪，早盤一度下挫逾900點，後續反彈跌勢收斂，中場收跌589點，來到44719點，失守45K關卡，跌幅1.3%；櫃買指數則收384.79點，下跌6.04點，跌幅1.55%。\n\n權值股部分，台積電今日開低震盪，一度觸及2335元低點，不過尾盤受3965張買單拉抬，收2350元，下跌30元，跌幅1.26%%，聯發科、鴻海、也有逾1%的跌幅，大立光則逆勢上漲4.91%，收5550元。\n\n觀察今日盤面，被動元件逆勢突圍，大毅、日電貿、信昌電、金山電收漲停，華新科上漲5.67%，凱美、禾伸堂、蜜望實、佳邦、也有逾3%~4%的漲幅，國巨*則收平盤。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "14:13:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "8月台股期指跌476點",
+      "URL": "https://tw.news.yahoo.com/8%E6%9C%88%E5%8F%B0%E8%82%A1%E6%9C%9F%E6%8C%87%E8%B7%8C476%E9%BB%9E-061342209.html",
+      "Content": "（中央社台北19日電）台北股市今天終場跌589.33點，收44719.35點。8月台指期以44612點作收，下跌476點，與現貨相較，逆價差107.35點。\n\n台灣期貨交易所為近2個月指數期貨契約訂定開盤參考價為，8月期貨45088點、9月期貨45173點。\n\n台股今天終場跌589.33點，收44719.35點，成交金額新台幣8478.57億元。\n\n8月台指期貨以44612點作收，跌476點，成交2萬3867口；9月期貨以44528點作收，跌645點，成交3萬7808口。實際收盤價格以期交所公告為準。1150819",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -123,6 +193,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-08-19",
+      "Time": "13:45:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》遠距醫療平台—DOCS、HIMS、AMWL",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%81%A0%E8%B7%9D%E9%86%AB%E7%99%82%E5%B9%B3%E5%8F%B0-docs-hims-amwl-054500272.html",
+      "Content": "MoneyDJ新聞 2026-08-19 13:45:54 數位內容中心 發佈\n\nDoximity（DOCS.US）\n\n8月14日，Doximity披露臨床工作流用量持續升高，季度活躍工作流處方醫師年增逾30%，近一半已使用AI工具，7月AI Scribe用戶較前期增10倍。這顯示公司正把AI、telehealth與決策支援整合進醫師日常工作流。\n\nHims & Hers Health（HIMS.US）\n\n8月公布第二季營運細節時，Hims & Hers指出其AI原生照護平台已進入核心流程，Hers減重方案的訊息互動量增為3倍，可回覆80%的問題。這使平台在消費者端訂閱醫療之外，也同步壓低非臨床客服工作量近50%。\n\nAmwell（AMWL.US）\n\n第二季財報中，Amwell表示Defense Health Agency已發出授標意向，擬以單一來源合約直接簽約，平台目前已服務Military Health System的960萬人。這是公司由傳統遠距醫療供應商轉向AI驅動照護基礎設施的關鍵進展。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》軟體定義自駕—TSLA、RIVN、OUST\n\n《美股主題週報》遠距醫療平台—DOCS、HIMS、AMWL\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII, .KS11, .N225, .SPX",
       "Date": "2026-08-19",
       "Time": "13:44:03",
@@ -140,6 +220,16 @@
       "Title": "台股收盤跌589點失守45K！下殺凶手找到了 航海王逆勢發威",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E8%B7%8C589%E9%BB%9E%E5%A4%B1%E5%AE%8845k-%E4%B8%8B%E6%AE%BA%E5%87%B6%E6%89%8B%E6%89%BE%E5%88%B0%E4%BA%86-%E8%88%AA%E6%B5%B7%E7%8E%8B%E9%80%86%E5%8B%A2%E7%99%BC%E5%A8%81-054049354.html",
       "Content": "油價走高加深通膨疑慮，全球公債殖利率創數十年新高，衝擊美股4大指數收黑，費城半導體指數重挫近5%，頹勢蔓延至亞股，韓股重挫逾6%。美股重挫加上台股今（19）日適逢台指期結算日，外資目前手握超過8.5萬口淨空單，加上台股連日反彈面臨賣壓，諸多因素衝擊早盤一度下跌近千點，下探44308點附近，收盤跌589.33點收44719.35點，成交量8479億。\n\n台積電下挫30元收2350元，台達電跌4%，鴻海及聯發科跌逾1%。記憶體股成重災區，南亞科跌近7%，華邦電跌近5%。航運股逆勢走強，長榮漲近1%收240元，四維航漲停。\n\n鐘崑禎分析師表示，今是期貨結算日指數震盪很正常，他強調本週台股遇到震盪偏向是籌碼面因素，跟基本面無關，非基本面因素的震盪，都是額外加碼的買點。\n\n台股昨日挑戰4萬6千點失利，終場下挫548點，收在45308點。外資終結連6買，轉手賣超台股119.85億元。\n\n美股道瓊下跌116.38點或0.22%，收53,343.40點。S&P500下跌53.30點或0.69%，收7,691.76點。NASDAQ下跌355.20點或1.33%，收26,289.71點。費城半導體下跌628.54點或4.98%，收11,992.46點。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-19",
+      "Time": "13:35:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI投入增+獲利承壓，花旗/美銀降百度美股目標價",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%8A%95%E5%85%A5%E5%A2%9E-%E7%8D%B2%E5%88%A9%E6%89%BF%E5%A3%93-%E8%8A%B1%E6%97%97-%E7%BE%8E%E9%8A%80%E9%99%8D%E7%99%BE%E5%BA%A6%E7%BE%8E%E8%82%A1%E7%9B%AE%E6%A8%99%E5%83%B9-053500772.html",
+      "Content": "MoneyDJ新聞 2026-08-19 13:35:05 新聞中心 發佈\n\n綜合港媒報導，百度(BIDU.US，9888.HK)公布今(2026)年第二季業績後，花旗發布研究報告指出，百度第二季業績略低於預期，基於業績預測調整及下調雲業務估值倍數，將其美股目標價由177美元下調至166美元，降幅6.21%，維持「買入」評級。美銀亦下調百度目標價，將其美股目標價由165美元下調至141美元；其港股目標價由160港元下調至137港元，亦維持「買入」評級。\n\n花旗指出，儘管百度GPU雲收入加速成長，但因AI雲基礎設施成長缺乏持續性而抵消；預測第三季通用業務收入將年減1.5%；AI驅動的收入將年增29%；AI雲基礎設施收入將年增65%至69.4億元(人民幣,下同)。報告並指出，百度美股股價近日下跌，反映AI雲基礎設施收入增速放緩、淨利潤未達預期、擬議中的分拆崑崙芯缺乏明確的上市時間表。而有鑑於估值處於低檔及雙重主要上市轉換帶來的催化劑，維持「買入」評級。\n\n美銀指出，百度第二季經營利潤優於預期，但雲端業務成長放緩及資本支出增加，預期集團將提升雲端業務成長，續加大AI投入；預計百度第三季收入相較去年同期將基本持平，雲端業務成長較上季加快；利潤率承壓，但預計第四季會有所改善。預期百度將積極擴張運算能力(主要用於雲端業務)，並投資於自主研發AI模型和應用，因此利潤前景較不明朗，將2026至2028年百度核心業務經調整後淨利潤預期下調6%至15%。\n\n不過，美銀重申對百度「買入」評級，認為估值極具吸引力，以及下半年將出現多項有利因素，包括雲端業務成長加速；ERNIE模型升級並有望重返頂級行列；年底前配發股息；雙重上市及潛在資產分拆等憧憬。\n\n摩根大通則指出，百度第二季業績在營運層面大致符合預期，但獲利表現遜於市場預期；第二季資本支出增至114億元，主要用於AI基礎設施投資；而崑崙芯分拆上市未被提及，因其香港雙重主要上市轉換改變價值傳遞順序，從分拆轉向滬港通。摩根大通對百度收入預期基本保持不變，但市場普遍預期公司今年經調整每股獲利預測將有所下調；維持對百度「增持」評級，H股目標價200港元。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n小摩維持騰訊目標價690港元；高盛則降至670港元\n\n估Q2獲利年減56%，野村下調百度美股目標價\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -181,6 +271,26 @@
       "URL": "https://finance.yahoo.com/m/d3012e35-f953-3a8a-99da-70c9c358a59e/prediction%3A-3-unstoppable.html",
       "Content": "Only three companies currently have a $4 trillion valuation: Nvidia , Apple , and Alphabet . However, I think this club is about to be a bit more crowded by the time 2028 rolls around. There are three stocks within striking distance of achieving the $4 trillion mark, and one could reach the entry point as quickly as the end of 2026.\n\nIn my view, the three stocks that appear to be next in line to gain entry to the $4 trillion club are Microsoft (NASDAQ: MSFT), Amazon (NASDAQ: AMZN), and Taiwan Semiconductor Manufacturing (NYSE: TSM). These three stocks are valued at $3.6 trillion, $2.8 trillion, and $2.2 trillion, respectively. By 2028, all three should be in the $4 trillion club, and all of them look like strong investments right now.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMicrosoft is close to regaining entry\n\nMicrosoft is only a stone's throw away from $4 trillion right now, a barrier it has crossed in the recent past. In fact, it could reach that level again by the end of 2026 if one thing happens.\n\nTo start the year, investors were uninterested in the stock and heavily sold it off. However, after a strong earnings report, it is back in the game and has recovered from its lows.\n\nStill, Microsoft isn't valued near the level it used to be at, and trades for 24 times forward earnings.\n\nWhile 24 times forward earnings isn't necessarily cheap, it is a lot lower than the low 30s price-to-forward-earnings level it used to trade at. If Microsoft could reach 30 times forward earnings before 2026 is over, that would indicate a gain of 23%.\n\nIf its market cap rose by 23%, that would price the company at $4.38 trillion, easily gaining re-entry into the $4 trillion club. That's well within reach, and Microsoft could do it by the end of this year.\n\nAmazon is also cheap\n\nAmazon has a catalyst similar to Microsoft's, as it's currently trading for 21 times forward earnings, compared to the neighborhood of 30 times forward earnings it normally trades at.\n\nShould Amazon's valuation rise to 30 times forward earnings, that would result in 44% growth. A 44% higher market cap moves Amazon to $4.05 trillion.\n\nAs a result, I think there's a strong chance that Amazon gets into this club before 2026 is over, but for sure by 2027, since its stock rarely stays beaten down for long .\n\nStory Continues\n\nTaiwan Semiconductor has some growing to do\n\nLast is Taiwan Semiconductor (TSMC for short), which doesn't have the same catalyst that Amazon and Microsoft share -- it trades at 25.5 times forward earnings.\n\nAs a result, TSMC must grow its way into a $4 trillion valuation. With the company being valued at $2.2 trillion right now, for it to join the $4 trillion club by the end of 2028, it must grow at a compound annual rate of about 28%. Fortunately for TSMC investors, that's slightly below where it expects to grow.\n\nWall Street analysts expect it to grow its revenue by 43% for the remainder of this year and a 34% pace next year. Because TSMC is reasonably valued and isn't dealing with shifting profit margins, investors can assume the stock's growth will be closely tied to the revenue growth. That positions TSMC well to grow above the required rate and reach a $4 trillion market before 2028 is over.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "12:35:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股盤中暴跌近千點！又外資的鍋？「名師警告：這波C波下殺很恐怖」失守45,000之後殘酷劇本曝",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%BF%91%E5%8D%83%E9%BB%9E-%E5%8F%88%E5%A4%96%E8%B3%87%E7%9A%84%E9%8D%8B-%E5%90%8D%E5%B8%AB%E8%AD%A6%E5%91%8A-%E9%80%99%E6%B3%A2c%E6%B3%A2%E4%B8%8B%E6%AE%BA%E5%BE%88%E6%81%90%E6%80%96-%E5%A4%B1%E5%AE%8845-043513627.html",
+      "Content": "台股今（19）日開盤湧現強烈賣壓，盤中一度暴跌近千點，不僅失守45,000點大關，更引發市場高度恐慌，導致大跌的主要原因包括美股半導體重挫，費城半導體指數重挫4.98％，衝擊台積電ADR表現；亞股也同步崩跌，日股早盤下殺逾2,000點、韓股更一度觸發熔斷；此外，今日適逢台指期結算，外資高達8.3萬口以上的淨空單，面臨無情的「壓低結算」沉重壓力。\n\n面對大盤劇烈震盪，各大機構與資深分析師看法分歧，市場點名「多頭／技術修正派」與「極端空頭派」正展開激烈的兩大陣營對決。\n\n多數主流分析師與投顧法人認為，這波下殺屬於「漲多遇利空」的正常修正，並非基本面崩壞；資深股市分析師周代運指出，此波跌勢與2008年次貸風暴或2011年歐債危機的系統性金融崩潰不同，台股在一個多月內漲幅已高，且融資餘額墊高突破5,500億元，技術面本就有修正壓力。\n\n財經專家阮慕驊則分析，指數目前被夾在下彎的季線與月線之間，反彈剛好觸及約一半的「半分位」跌幅，屬於多空最易拉鋸的區域，短線動能正領先轉弱；永豐金投顧強調，台股先前自低點反彈已超過6,000點，逼近歷史高點本就容易引發震盪，加上美國大選逼近使避險情緒升溫，惟中長期多頭格局依然健康，當前急速拉回屬於健康的技術修正，只要等待籌碼沉澱，大盤仍有機會展開新一波攻勢。\n\n然而，部分空頭分析師對後市看法相對悲觀。空頭派分析師陳嘉偉發出警告，7月股災以來的這波反彈「完全沒有量」，在波浪理論上屬於標準的「B波逃命波」，隨著今日長黑下殺，大盤恐將正式進入「最具殺傷力的C波下殺」，後續甚至不排除回測並跌破前波低點39,384點，投資人不可不防。\n\n在技術與籌碼面上，統一證券投顧指出，8月反彈期間成交量遲遲無法放大，顯示高檔追價力道不足，目前日線級別的KD與RSI指標已高檔轉折向下，短線震盪難免。\n\n國票證券投顧則建議，由於台指期結算日波動難免放大，投資人在操作上不宜因為單日的長黑棒就驚慌急於殺低，同時也不建議在盤中拉回反彈時過度追價，應靜待支撐區附近出現明顯的止穩跡象。\n\n在基本面（如全球AI資本支出擴張）有撐的前提下，法人建議操作應採取「逢低布局、反彈汰弱留強」策略，中長線核心聚焦流動性佳的中大型AI權值股，包含台積電（2330）、散熱、PCB、電源管理、機器人概念與特用化學等。\n\n此外，今日適逢台北國際自動化工業大展登場，相關自動化、機器人概念股有望吸引資金目光；此外，盤中如信昌電（6173）與華新科（2492）等被動元件族群亦逆勢走強，可作為短期抗震觀察指標。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-19",
+      "Time": "12:34:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股盤中一度大跌千點 學者：美經濟基本面轉弱影響",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-%E5%BA%A6%E5%A4%A7%E8%B7%8C%E5%8D%83%E9%BB%9E-%E5%AD%B8%E8%80%85-%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%BD%89%E5%BC%B1%E5%BD%B1%E9%9F%BF-043446081.html",
+      "Content": "受美國股市大跌影響，台股19日加權指數以4萬5071點開出，下跌237點，盤中一度大跌千點，台積電開盤下跌35元，來到2345元，主要權值股早盤全面下挫。分析師指出，隨著國際油價攀升，全球債市賣壓加重，台股呈現整理局面。\n\n資深分析師王榮旭表示，「昨天在科技股的部分，費半指數重挫這個直接拖累到了，台股、韓股、日股今天早盤都開低，未來這一、兩天這個行情，可能會再震盪一下，我們會觀察月線以及季線。」\n\n亞洲主要股市19日開盤同樣面臨賣壓，日本日經225指數開盤後，一度大跌超過2000點，韓股開盤一度暴跌5%至6%，觸發交易熔斷機制。財經學者分析，全球股市都受到美國經濟基本面轉弱，電子商品預期需求轉弱，衝擊投資人信心。\n\n中央大學經濟系教授吳大任指出，「美國的消費可能會開始鬆動，那一旦消費開始下降的話，四大雲端公司、美國七大科技公司，他們在AI上面的投資，可能就開始會受到影響。」\n\n學者指出，美債遭市場拋售推升殖利率，加上美伊戰線拉長，使得美國通膨嚴重，市場信心不足，近期可預見內全球股市的不確定仍高。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, AVGO, MU",
