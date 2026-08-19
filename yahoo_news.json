@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-19T09:00:57.375Z",
-  "total_news_count": 430,
+  "last_updated": "2026-08-19T09:12:24.686Z",
+  "total_news_count": 431,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-19",
+      "Time": "16:48:02",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
+      "URL": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html",
+      "Content": "HONG KONG, Aug 19 (Reuters) - Alphabet has raised A$5.5 billion ($3.89 billion) via ‌its inaugural Australian dollar debt issuance, ‌according to a term sheet seen by Reuters, ​adding to the hectic pace of fundraising by global tech companies.\n\nThe U.S. tech giant raised the amount by issuing 3-, ‌5-, 10- and ⁠20-year bonds, the term sheet showed. The company set the ⁠coupon at 6.9% for the longest tenure bond tranche, according to the term ​sheet.\n\nAlphabet did ​not immediately respond ​to a request ‌for comment from Reuters.\n\nGlobal tech companies are increasingly looking to capital markets to fund their massive AI spending, after having typically relied on their large cash ‌reserves to fund investments.\n\nThe ​firms are expected to ​spend more than $730 ​billion this year primarily on ‌AI, and the outlay ​is already ​squeezing cash flows. Alphabet posted its first ever negative free cash flow ​in its ‌second-quarter report in late July.\n\n($1 = 1.4136 ​Australian dollars)\n\n(Reporting by Sumeet Chatterjee; Editing ​by Sonia Cheema)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-19",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-19",
       "Time": "15:57:00",
       "Source": "Yahoo Finance",
