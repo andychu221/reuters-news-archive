@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T10:32:14.025Z",
-  "total_news_count": 458,
+  "last_updated": "2026-08-19T10:34:41.000Z",
+  "total_news_count": 459,
   "news": [
     {
       "Ticker": "3443.TW",
@@ -23,6 +23,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "INTC",
+      "Date": "2026-08-19",
+      "Time": "17:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "88% of Nvidia's Portfolio Is Invested in These 3 Artificial Intelligence (AI) Stocks",
+      "URL": "https://finance.yahoo.com/m/9a201b7f-b724-3b93-8839-9d564e78d076/88%25-of-nvidia%27s-portfolio-is.html",
+      "Content": "Nvidia (NASDAQ: NVDA) is one of the leading artificial intelligence (AI) companies in the world, but is the semiconductor specialist as good at picking AI stocks as it is at building GPUs? Nvidia's public equity portfolio includes several companies that are capitalizing on the AI boom, and three of them, Space Exploration Technologies (NASDAQ: SPCX), CoreWeave (NASDAQ: CRWV), and Intel (NASDAQ: INTC), make up almost 88% of the portfolio. Are these AI stocks retail investors should also consider buying?\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. SpaceX -- 33.1% of Nvidia's portfolio\n\nSpaceX conducted the largest IPO in history in June. The company is best-known for revolutionizing the space travel industry. But its biggest opportunities are in the AI sector, or at least, that's what the company itself believes. SpaceX's CEO, Elon Musk, recently said that within five years, AI will account for the overwhelming majority of the company's value. SpaceX is projecting $1 trillion in revenue by 2030, a substantial portion of which will presumably come from AI.\n\nNow, there are some reasons to be bullish on SpaceX's AI business. During the company's second quarter, AI revenue was $2.6 billion, up 247.5% compared to the year-ago period. The rocket company's total revenue was $7.8 billion, up 92% year over year. So, AI is growing much faster than the rest of the business, and SpaceX is doubling down and investing significant sums into this segment.\n\nThe company also has deals (to provide AI computing capacity) with some important names, including Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Anthropic . However, the market has already factored in some of SpaceX's AI-related success in its share price: The company is worth nearly $2 trillion despite generating significantly less revenue than similarly sized peers and remaining unprofitable.\n\nFurther, it will face significant competition in the field and may not capture a large enough market share (and the total market may be smaller than expected) in the AI industry. There is little room for error for SpaceX. Investors should wait for a much better entry point to initiate a position.\n\n2. CoreWeave -- 7.4% of Nvidia's portfolio\n\nCoreWeave recently posted excellent second-quarter results. The company's revenue of $2.6 billion rose 112.5% compared to the year-ago period. CoreWeave remains unprofitable, with its operating and net losses widening compared to the prior-year quarter. But CoreWeave is investing heavily into building data centers tailored to AI, and it is paying off -- it ended the period with a cloud backlog of $104 billion, which soared by 245.5% year over year. CoreWeave's trailing-12-month revenue is only $7.6 billion.\n\nStory Continues\n\nThe company's revenue backlog provides significant visibility into the next few quarters, during which we should see the top line continue to expand rapidly. Meanwhile, the stock doesn't seem overvalued. CoreWeave isn't profitable, but its price-to-sales ratio of 7.2 is reasonable given how quickly the top line is growing and the fact that it should maintain that pace for the foreseeable future, based on its backlog. There are some risks. For instance, CoreWeave relies heavily on a single customer for the majority of its revenue, probably Microsoft (NASDAQ: MSFT). Even with that caveat, though, the company looks likely to deliver competitive returns over the next few years.\n\n3. Intel -- 47.3% of Nvidia's portfolio\n\nIntel, a leader in the CPU (Central Processing Unit) market, is also posting solid results. In the second quarter, the company's revenue increased by 25% year over year to $16.1 billion, while its adjusted earnings per share came in at $0.42, up from the $0.10 adjusted loss per share reported in the year-ago period. Intel is seeing soaring demand for its products thanks to the rise of agentic AI, or self-directed systems that can help companies automate tasks and boost productivity by autonomously working toward goals.\n\nAI agents run on CPUs -- that's where Intel shines. And the company may ride this tailwind over the next few years. Is the stock still attractive at current levels, after more than doubling this year? My view is that, in Wall Street parlance, Intel is a \"hold\" rather than a strong \"buy.\" Here are three reasons why.\n\nFirst, Intel has lost some ground to its biggest competitor in the CPU space, Advanced Micro Devices (NASDAQ: AMD), in recent quarters. Second, Intel has encountered manufacturing issues that it has yet to fully resolve. Finally, the company seems somewhat overvalued. It is trading at 80.7x forward earnings -- versus an average of 21.7x for information technology stocks.\n\nIntel might grow its earnings fast enough over the next few years to justify its valuation, given its position in the CPU market and the rising demand for its hardware. However, investors who don't currently have a stake in the company should wait for a pullback.",
+      "Language": "en"
+    },
+    {
       "Ticker": "2344.TW, 2408.TW",
       "Date": "2026-08-19",
       "Time": "17:42:05",
@@ -33,7 +43,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-08-19",
       "Time": "17:36:01",
       "Source": "Yahoo Finance",
