@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-19T02:00:42.122Z",
-  "total_news_count": 353,
+  "last_updated": "2026-08-19T02:11:23.584Z",
+  "total_news_count": 354,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL, AMZN",
+      "Date": "2026-08-19",
+      "Time": "09:46:01",
+      "Source": "Yahoo Finance",
+      "Title": "Google Cloud Grew 82% Last Quarter. Azure Grew 43% and AWS Grew 37%.",
+      "URL": "https://finance.yahoo.com/m/1e686ed3-ff87-32b5-be4a-ee839ae718e0/google-cloud-grew-82%25-last.html",
+      "Content": "The three biggest cloud computing providers all closed the same quarter on June 30 and reported it within about a week of one another in late July. The growth rates were not alike.\n\nAlphabet (NASDAQ:GOOG)(NASDAQ:GOOGL) said Google Cloud revenue rose 82% year over year to $24.8 billion. Microsoft (NASDAQ:MSFT) reported 43% growth in Azure and other cloud services for the period, the fourth quarter of its fiscal 2026. And Amazon (NASDAQ:AMZN) said Amazon Web Services (AWS) revenue climbed 37% to $42.2 billion.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThat last number is strong on its own. Amazon CEO Andy Jassy described the quarter as the unit's \"fastest growth in 18 quarters.\" So the largest cloud provider just posted its best rate since late 2021 -- and still grew at less than half Google Cloud's pace.\n\nWhat's driving a gap that wide?\n\nImage source: Getty Images.\n\nGoogle Cloud keeps speeding up\n\nThe 82% is not a one-quarter spike. Google Cloud grew 63% year over year in the first quarter of 2026, and its $24.8 billion second quarter compares with $13.6 billion in the same period a year ago. The unit is accelerating even as its base compounds.\n\nProfitability is scaling faster still. The segment's operating income more than tripled year over year, from $2.8 billion to $8.8 billion, lifting its operating margin from about 21% to about 36%. That kind of margin expansion tells me the growth isn't being bought with discounts.\n\nThe demand signals stretch years out, too. Google Cloud's backlog (contracted work not yet recognized as revenue) reached $514 billion in the second quarter, after nearly doubling quarter over quarter to more than $460 billion in the first. At the unit's current revenue pace, that comes to about five years of work already signed.\n\n\"[W]e continue to be supply constrained -- a sign of momentum and rapid adoption,\" CEO Sundar Pichai said on Alphabet's second-quarter earnings call.\n\nAs for what's behind the demand, Alphabet's release credits growth across enterprise artificial intelligence (AI) solutions, AI infrastructure, and core Google Cloud Platform services. Pichai said nearly 90% of the Fortune 100 now use Gemini Enterprise. And existing Google Cloud customers, he said, are \"expanding their usage and exceeding their commitments by more than 50%.\"\n\nStory Continues\n\nSame dollars, different bases\n\nOf course, percentages flatter a small base, and Google Cloud is still the smallest of the three. Its $24.8 billion quarter compares with $42.2 billion at AWS. Measured in new dollars added versus a year ago, though, the two are nearly even: Google Cloud added about $11.1 billion of year-over-year revenue in the quarter, and AWS added about $11.4 billion.\n\nAzure sits between them in size. Microsoft doesn't disclose the segment's quarterly dollars, but CEO Satya Nadella said Azure revenue surpassed $100 billion for the fiscal year that ended in June. Google Cloud's second-quarter pace annualizes to about $99 billion -- roughly the scale Azure just crossed. A year ago, Google Cloud ran at about half that scale.\n\nMicrosoft's contracted book is the biggest of all. Its commercial remaining performance obligations reached $678 billion, up 84% year over year, though that figure covers Microsoft's whole commercial business, not just Azure.\n\nCan the rate hold?\n\nNot at 82%. Next year's rate will be measured against this year's $24.8 billion quarter instead of last year's $13.6 billion one, and a base that compounds this fast works against its own growth rate.\n\nBut demand doesn't look like the limiting factor. After all, the backlog equals about five years of revenue at the current pace, and customers are outrunning their own commitments.\n\nAlphabet is spending to catch up, too. Its capital spending hit $44.9 billion in the quarter, roughly double a year earlier. That outlay pushed free cash flow to negative $5.9 billion for the period.\n\nSure, contracted work converts gradually (Alphabet expects just over half the backlog to become revenue within the next 24 months), and the supply constraints Pichai flags may cap how quickly that happens. But the signed demand arguably gives the growth an unusually long runway for a business this size.\n\nOverall, the ranking looks less strange up close. Google Cloud is seeing the same AI demand as its larger rivals, on a smaller base, and it is converting a record backlog into revenue about as fast as it can add capacity.\n\nI don't expect 82% again this time next year. But the demand already under contract can, I think, keep the unit growing faster than its two bigger rivals for a while.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-19",
@@ -603,7 +613,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMD",
+      "Ticker": "GOOGL, AMD",
       "Date": "2026-08-19",
       "Time": "03:41:44",
       "Source": "Yahoo Finance",
