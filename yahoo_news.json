@@ -1,25 +1,15 @@
 {
-  "last_updated": "2026-08-19T19:34:23.639Z",
-  "total_news_count": 587,
+  "last_updated": "2026-08-19T19:34:42.281Z",
+  "total_news_count": 586,
   "news": [
     {
-      "Ticker": "INTC",
+      "Ticker": "MRVL",
       "Date": "2026-08-20",
-      "Time": "03:07:25",
+      "Time": "03:15:20",
       "Source": "Yahoo Finance",
-      "Title": "Wedbush Flags Surprising Move in Intel GPU Prices",
-      "URL": "https://finance.yahoo.com/markets/stocks/articles/wedbush-flags-surprising-move-intel-190725379.html",
-      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) is seeing a sharp jump in pricing for one of its workstation GPUs, with Wedbush saying the move provides fresh evidence that surging memory costs are being passed through to customers. For investors, the development matters because higher component costs can support selling prices but also threaten margins and demand if inflation spreads across Intel's product portfolio.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel's Arc Pro B70 GPU has risen as much as 48% in price over the past month, according to Wedbush analyst Matt Bryson. The card carries 32GB of GDDR6 ECC memory, making it particularly exposed to the tightening memory market and attractive for AI inference workloads.\n\nPer Tom's Hardware, Intel's Arc Pro B70 workstation GPU has seen prices rise 30% in the US (the ASRock Creator variant now $1,299 versus $999 last month, against a $949 MSRP), 26% in Germany, and 46% in Korea, where it moved from KRW 1,889,980 (~$1,334) on July 21 to KRW 2,798,980 (~$1,975) by August 16, Bryson wrote.\n\nIntel's own Korean list price has climbed to KRW 2.817 million.\n\nWe see this news as another instance of memory cost pass-through, Bryson added.\n\nThe pricing move fits a broader pattern inside Intel. In its latest quarterly filing, the company said Data Center and AI server average selling prices increased 48% year over year during the second quarter, driven mainly by a richer mix of premium products and, to a lesser extent, pricing actions designed to offset higher input costs.\n\nIntel generated $16.1 billion in second-quarter revenue, up 25% year over year, and guided for $15.8 billion to $16.8 billion in third-quarter sales.\n\nInvestor Takeaway\n\nThe key issue for Intel investors is whether higher memory costs can continue being passed through without weakening demand.\n\nInvestors should watch gross margins, GPU unit volumes and pricing across Intel's broader client and data-center businesses. Strong demand would allow Intel to preserve profitability even as memory inputs become more expensive.\n\nThe risk is that elevated component prices eventually pressure volumes, particularly in more price-sensitive workstation and PC markets.\n\nIntel has also warned that industry-wide supply constraints could persist into next year, making supply availability and input-cost inflation important variables for the stock.\n\nIf Intel can maintain higher selling prices while keeping volumes resilient, the memory squeeze could prove manageable. If demand softens, however, the same pricing pressure could become a margin and growth headwind.",
-      "Language": "en"
-    },
-    {
-      "Ticker": "INTC",
-      "Date": "2026-08-20",
-      "Time": "03:03:56",
-      "Source": "Yahoo Finance",
-      "Title": "Wedbush Issues Stark Warning for Intel Stock as GPU Prices Surge",
-      "URL": "https://finance.yahoo.com/markets/stocks/articles/wedbush-issues-stark-warning-intel-190356281.html",
-      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) is facing higher graphics-card prices as memory costs feed into the pricing of its Arc Pro B70 workstation GPU, according to a Wednesday analyst note from Wedbush Securities.\n\nThe B70 has become more expensive across several markets over the past month. Wedbush analyst Matt Bryson cited a 30% increase in the U.S., with the ASRock Creator version rising to $1,299 from $999, while prices climbed 26% in Germany and 46% in South Korea.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nBryson said the price changes point to memory-cost increases being passed through to customers. The B70 includes 32GB of GDDR6 ECC memory, which may make it suitable for AI inference workloads.\n\nIn South Korea, the card's price increased from about 1.89 million won on July 21 to nearly 2.8 million won by Aug. 16. Intel's own listed price has since reached about 2.82 million won.\n\nThe pricing trend could have mixed implications for Intel. Higher GPU prices may support revenue per unit, but rising memory expenses could also pressure demand and margins if costs remain elevated.\n\nHigher GPU pricing may offer some revenue support, but investors will likely watch whether memory inflation weighs on margins.",
+      "Title": "Marvell Stock Rises 10% on Google Warrant Deal",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-rises-10-google-191520066.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology ( NASDAQ:MRVL ) rose 10.45% intraday after disclosing a warrant agreement with Alphabet's ( NASDAQ:GOOGL ) Google, granting the right to purchase up to 58,970,907 Marvell shares at $206.58 each. The warrant runs until August 18, 2033.\n\nWarning! GuruFocus has detected 3 Warning Sign with MRVL.\n\nIs MRVL fairly valued? Test your thesis with our free DCF calculator.\n\nThe vesting is mostly performance-linked. Of the total, 1,360,867 shares vest in equal quarterly installments over the first year. The remainder vests in tranches, one for each $500 million of custom product revenue Marvell recognizes from Google, running from the third quarter of fiscal 2027 through the end of fiscal 2033.\n\nUnder the partnership, Marvell will develop AI inference accelerators, storage, networking and memory interface controllers, and near-memory computing technologies for Google. Demand for custom chips has risen as companies seek alternatives to Nvidia ( NASDAQ:NVDA ) graphics processors, including Google's tensor processing units used for AI workloads.",
       "Language": "en"
     },
     {
@@ -113,7 +103,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "MRVL, GOOGL",
       "Date": "2026-08-20",
       "Time": "02:03:51",
       "Source": "Yahoo Finance",
@@ -123,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO, GOOGL",
+      "Ticker": "MRVL, AVGO, GOOGL",
       "Date": "2026-08-20",
       "Time": "02:01:30",
       "Source": "Yahoo Finance",
@@ -213,7 +203,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, GOOGL, NVDA",
+      "Ticker": "MRVL, META, GOOGL, NVDA",
       "Date": "2026-08-20",
       "Time": "01:36:48",
       "Source": "Yahoo Finance",
