@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T09:28:42.908Z",
-  "total_news_count": 280,
+  "last_updated": "2026-08-20T10:28:32.922Z",
+  "total_news_count": 279,
   "news": [
     {
       "Ticker": "6770.TW",
@@ -3883,20 +3883,6 @@
       "Related_Score": 4,
       "Sentiment_Score": 0,
       "Keywords": "指數大漲,量價背離,籌碼沉澱,AI趨勢,市場風險"
-    },
-    {
-      "Ticker": "2408.TW",
-      "Date": "2026-07-21",
-      "Time": "17:44:32",
-      "Source": "自由時報",
-      "Title": "AI推論引爆需求 南亞科估今年記憶體產值將占半導體五成",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5512798",
-      "Content": "〔記者林薏茹 ...",
-      "Language": "zh",
-      "AI_Summary": "• DRAM大廠南亞科（2408）預期，今年記憶體產值可望達8000億美元，占整體半導體產值比重上看五成，改寫歷史新高。\n• AI快速發展正改變記憶體產業，DRAM已從提升運算效能的重要元件，逐漸成為限制AI算力提升的關鍵瓶頸。\n• 隨著AI從運算從訓練走向推論，未來一至兩年將有更多3D IC進入市場。\n• 今年HBM約占整體DRAM容量需求近一成，傳統伺服器DRAM則超過四成，兩者合計已占市場逾五成。\n• 預期今年全球半導體產值可望突破1兆美元，其中DRAM與NAND Flash產值就可能超過8000億美元。",
-      "Related_Score": 4,
-      "Sentiment_Score": 1,
-      "Keywords": "記憶體產值,AI推論,3D IC,HBM,半導體市場"
     }
   ]
 }
