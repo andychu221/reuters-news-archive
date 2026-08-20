@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-20T09:00:49.068Z",
-  "total_news_count": 167,
+  "last_updated": "2026-08-20T09:12:06.546Z",
+  "total_news_count": 168,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-08-20",
+      "Time": "17:03:00",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon's Stake in Anthropic Could Be Worth Over $400 Billion If the AI Start-Up's Reported IPO Valuation Holds. Should Jeff Bezos' Amazon Investors Care?",
+      "URL": "https://finance.yahoo.com/m/68833dec-dcb0-3df6-adf6-fbfc5fc8a435/amazon%27s-stake-in-anthropic.html",
+      "Content": "One of the most impressive investments at the corporate level in recent years has been Amazon 's (NASDAQ: AMZN) decision to take an early stake in Anthropic. The tech giant invested $8 billion in the artificial intelligence start-up in 2024, then followed that up with an additional $5 billion investment this year.\n\nCombined, those moves gave Amazon a reported 21% stake in Anthropic, the developer of the Claude chatbot and family of large language models. And they have paid off in a big way. According to Amazon's quarterly financial reports, its Anthropic stake was valued at $190.4 billion as of the end of June , including $97.9 billion in convertible notes and $92.5 billion in nonvoting preferred stock.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBut that calculation was based on a May 2026 funding round that valued Anthropic at $965 billion, and it's already being valued at much more than that. In early July, secondary markets were valuing Anthropic at $1.2 trillion in anticipation of the company going public as early as October.That would bring Amazon's stake to a whopping $252 billion.\n\nAnd more recent estimates from secondary markets put Anthropic's valuation at much higher -- $2 trillion or more. If Anthropic is successful in that offering (it submitted its confidential S-1 form to the Securities and Exchange Commission earlier this year to explore the possibility), Amazon's stake in it would be valued at roughly $420 billion.\n\nThe bigger Anthropic gets, the better it is for Amazon\n\nAmazon could book a huge profit from its Anthropic shares, should it ever want to divest itself of some of them. But considering how fast Anthropic is growing, it may be hard for Executive Chairman Jeff Bezos and CEO Andy Jassy to pull the trigger on a sale.\n\nLet's look at how the Anthropic stake has become an increasingly larger part of Amazon. By doing so, we'll look at four data points.\n\nMetric\n\nMarch 31, 2026\n\nJune 30, 2026\n\nEstimated Valuation in July 2026\n\nEstimated Valuation in August 2026\n\nAnthropic's estimated value\n\n$353 billion\n\n$965 billion\n\n$1.2 trillion*\n\n$2 trillion*\n\nAmazon's stake in Anthropic\n\n$74.2 billion\n\n$190.4 billion\n\n$252 billion\n\n$420 billion\n\nAmazon's market cap\n\n$2.158 trillion\n\n$2.566 trillion\n\n$2.814 trillion**\n\nAnthropic stake as a percentage of Amazon's market cap\n\n3.43%\n\n7.42%\n\n8.95%\n\n14.92%\n\nStory Continues\n\nData sources: Amazon filings, Macrotrends. *Targeted IPO valuation. **Amazon's market cap as of Aug. 17, 2026.\n\nFor this example, we'll look at the value of Amazon's stake in Anthropic as reported by the company in its two most recent quarterly filings and compare it to the company's market cap. At the end of March, Anthropic accounted for only 3.4% of Amazon's value, but that share climbed to 7.4% by the end of June as Anthropic's valuation rose.\n\nIf Anthropic achieved a $1.2 trillion valuation in its IPO -- a conservative estimate, given how secondary markets are pricing the start-up now -- its Anthropic shares would be nearly 9% of Amazon's value. But based on a $2 trillion valuation -- assuming that Amazon's market cap stays roughly at its current level for the next two months or so -- that Anthropic stake is providing nearly 15% of Amazon's value.\n\nWith all this in mind, Amazon investors should be watching the Anthropic news closely. The bigger the AI startup gets, the more important it is to Amazon. Based on its current outlook, Bezos and Jassy could realize a windfall if they sell some or all of those shares -- money that could help fund Amazon's aggressive AI build-out. And if Anthropic's valuation craters, Amazon would be looking at big paper declines.\n\nEither way, though, Amazon's $13 billion investment has been amazingly profitable -- and it may just be in the opening stages.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-20",
@@ -63,7 +73,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA, MU",
+      "Ticker": "GOOGL, NVDA, MU",
       "Date": "2026-08-20",
       "Time": "15:30:00",
       "Source": "Yahoo Finance",
