@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-20T20:01:01.163Z",
-  "total_news_count": 318,
+  "last_updated": "2026-08-20T20:12:56.041Z",
+  "total_news_count": 321,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-21",
+      "Time": "03:55:32",
+      "Source": "Yahoo Finance",
+      "Title": "Waymo Builds Its Own Chip and Reduces Its Nvidia Dependence",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/waymo-builds-own-chip-reduces-195532671.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet's ( NASDAQ:GOOGL ) Waymo has built a custom application-specific integrated circuit for its robotaxis, already in production in its latest generation, Bloomberg reported. Waymo said the chip speeds up sensor data processing and the AI models its vehicles use to read and respond to their surroundings. Alphabet shares were down 1.06% intraday.\n\nWaymo has relied on parts from Nvidia ( NASDAQ:NVDA ) and Advanced Micro Devices ( NASDAQ:AMD ), integrating them into computers of its own design. The new chip runs above 1,000 TOPS, which puts it level with Nvidia's latest autonomous driving systems on that measure, and is made on Taiwan Semiconductor's ( NYSE:TSM ) 5-nanometer process.\n\nGoogle has been building out custom silicon to control AI infrastructure costs, including the warrant arrangement with Marvell ( NASDAQ:MRVL ) disclosed this week. Waymo's fleet has largely been Jaguar vehicles retrofitted with autonomous technology, but the robotaxi it launched with Geely's Zeekr is now being fitted with the new chip. Waymo said the shift toward purpose-built vehicles may cut costs while giving riders more space.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-08-21",
+      "Time": "03:40:28",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Slips as $200 Billion Youth-Safety Trial Intensifies",
+      "URL": "https://finance.yahoo.com/media-advertising/articles/meta-slips-200-billion-youth-194028769.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ), the social-media, digital-advertising and artificial-intelligence powerhouse, slipped approximately 0.4% to $543.865 Thursday afternoon as its blockbuster youth-safety trial moved into testimony. Twenty-nine states accuse Meta of illegally collecting children's data and engineering Facebook and Instagram to keep younger users glued to their screens.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nThe testimony landed hard. Former Meta safety engineer Arturo Bejar said child protection repeatedly took a back seat to engagement, according to The Guardian . Meta denies wrongdoing and points to age restrictions, parental controls and expanded safeguards. The numbers are staggering: the states see roughly $200 billion as a more realistic penalty, while Meta says theoretical exposure could soar to $1.4 trillion.\n\nBut the scariest outcome is not a gigantic check. A judge could force Meta to weaken infinite scroll, tighten recommendation systems or rebuild the addictive machinery powering its advertising empire. Second-quarter revenue exploded 28% to $60.8 billion, yet costs jumped 55%.\n\nThe stock now trades 35.25% below its $839.91 GF Value estimatea massive valuation gap that screams upside if Meta survives the legal storm without sacrificing engagement or crushing margins.\n\nMeta Slips as $200 Billion Youth-Safety Trial Intensifies · us.finance.gurufocus\n\nMeta Slips as $200 Billion Youth-Safety Trial Intensifies · us.finance.gurufocus The stock now trades 35.25% below its $839.91 GF Value estimatea massive valuation gap that screams upside if Meta survives the legal storm without sacrificing engagement or crushing margins.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-21",
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO",
+      "Ticker": "GOOGL, AVGO",
       "Date": "2026-08-21",
       "Time": "03:31:22",
       "Source": "Yahoo Finance",
@@ -53,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "GOOGL, NVDA, AMD",
       "Date": "2026-08-21",
       "Time": "03:21:01",
       "Source": "Yahoo Finance",
@@ -63,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, AMZN, NVDA",
       "Date": "2026-08-21",
       "Time": "03:09:58",
       "Source": "Yahoo Finance",
@@ -110,6 +130,16 @@
       "Title": "Opendoor Is Repurchasing 5% of Its Outstanding Shares. Here's What That Means for the Company.",
       "URL": "https://finance.yahoo.com/m/45f7e757-d787-358e-8f97-ced13c474802/opendoor-is-repurchasing-5%25.html",
       "Content": "A brutally frozen housing market has taken a toll on the stock prices of many different businesses. Homebuilders, makers of construction supplies, and real estate brokerages are all in the doldrums. One previously hot stock trying to turn things around amid this headwind is Opendoor Technologies (NASDAQ: OPEN).\n\nThe iBuying platform operator got a new CEO last year and recently announced it had taken out convertible debt to raise funds to repurchase 5% of its outstanding stock. Despite these headlines, its shares continue to fall due to the pain in the housing market and the business's inability to generate a profit.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHere's what the transaction means for the company, and whether Opendoor stock looks like a good value right now.\n\nFinancial engineering, but at what cost?\n\nConvertible notes are bonds with low interest rates -- sometimes as low as zero percent. But investors in said bonds can convert them into newly issued shares of stock at a certain price, which is a good deal if the stock is trading above that level.\n\nOpendoor just took out 0% 2030 convertible notes -- meaning they are due in 2030 -- worth $650 million. It is using $158 million of this capital to repurchase around 5% of its common stock, as announced in a press release. The convertible price for these bonds is just $4.71, which is about a 32% premium versus Wednesday's closing share price of $3.58.\n\nTo offset potential dilution, Opendoor bought capped calls, which artificially inflate the conversion price. In this case, the new converted price is $6.98, below which no shareholder dilution will occur.\n\nWhile management may proclaim that this is a bond with no upfront costs, the actual cost to shareholders will be borne in these capped-call transactions (a direct cash cost at the time of bond issuance), and in potential dilution years down the line. Bondholders could see significant gains if the stock price rises from here, which existing shareholders will pay for through new share issuance. Otherwise, Opendoor will be forced to repay the principal in cash.\n\nA business model in need of repair\n\nFinancial engineering can create value for shareholders, provided a business is doing well. Opendoor is on a shaky financial footing.\n\nLast quarter, revenue fell by nearly half year over year to $883 million. With slim gross margins on the iBuying business, its gross profit was just $86 million. The business model is to buy homes directly from consumers and resell them, which comes with low gross margins and requires stuffing existing inventory on the balance sheet, sometimes funded with debt.\n\nStory Continues\n\nExisting home sales in the United States are down to around 4 million a year, as compared to over 5 million a year prior to the COVID-19 pandemic. Opendoor has failed to gain market share with its iBuying strategy, which has been a double-edged sword amid this macroeconomic environment. The company posted a net loss of $162 million last quarter, and it has never generated a profit.\n\nShould you buy Opendoor stock?\n\nManagement taking out a nifty convertible bond does not change anything about Opendoor's failed business model. The company is trying to pivot to new business strategies, such as automated pricing and offering new services to homebuyers and sellers, but it is failing to generate interest at the moment.\n\nA frozen housing market is going to make it difficult for even the best businesses in the sector, let alone one that has never generated a profit. Right now, Opendoor's market cap of $3.25 billion is more than 10 times its trailing gross profit generation. (We cannot value Opendoor relative to its earnings since it has none.) Gross profits have been declining for many quarters.\n\nAdd everything up, and this repurchase authorization fueled by debt is likely a bad sign for the company, not a good one. Avoid buying the dip on Opendoor stock.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-21",
+      "Time": "03:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell vs. Broadcom: One AI Stock Is a Better Buy After Google's Deal",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/marvell-vs-broadcom-one-ai-190000071.html",
+      "Content": "Alphabet Inc .'s GOOGL Google is broadening its custom artificial intelligence (AI)-chip supply chain through a new partnership with AI networking chipmaker Marvell Technology, Inc . MRVL. The deal would strengthen the position of the latter, while raising concerns about Broadcom Inc .'s AVGO role as a major supplier.\n\nSo, now the key question is: does the deal make Marvell a better AI stock to buy than Broadcom? Let's take a closer look –\n\nGoogle's Marvell Deal Challenges AVGO's AI Chip Dominance\n\nFor quite some time, Alphabet-owned Google and other blue-chip companies have been developing custom AI chips to find more cost-effective alternatives to NVIDIA Corporation 's NVDA advanced chips.\n\nAlphabet's Google has primarily collaborated with Broadcom to develop its custom chips. In April, Broadcom confirmed that it had extended its partnership with Google through 2031, under which it will provide the company with tensor processing units (TPUs) and networking equipment.\n\nHowever, Google recently entered into a partnership with Marvell focused on TPUs, including accelerators, storage and network interface controllers. The Google AI chip deal allows Marvell to sell up to $12.2 billion in shares to Google.\n\nThe partnership and Google's warrant expand Marvell's hyperscaler customer base and bolster its long-term growth prospects. The strategic deal aligns Google's interests with Marvell's growth ambitions and establishes the latter as a key supplier of custom AI silicon to hyperscalers, a role the company has pursued for years.\n\nBut the deal with Marvell doesn't mean that Google is moving away from Broadcom. It simply means Google is looking for more than one custom-chip partner. Still, the deal could reduce Broadcom's share of Google's future AI-chip spending, potentially weigh on its business and create a competitive challenge for the company.\n\nAfter Google's Deal, Is Marvell a Better Buy Than Broadcom?\n\nGoogle's partnership with Marvell to diversify its custom AI-chip supply chain has strengthened Marvell's position as a key supplier of custom AI silicon to hyperscalers, while posing a competitive threat to Broadcom.\n\nBroadcom remains heavily dependent on AI-related spending, and its relatively concentrated AI customer base could leave it vulnerable to a slowdown in AI infrastructure investment or weaker demand from hyperscalers.\n\nFollowing the announcement, Broadcom's share fell roughly 5% on Wednesday as investors remained concerned about its position with Google. On the other hand, Marvell's shares jumped more than 9% as the deal has given the company a much larger role in the rapidly expanding AI-chip market.\n\nStory Continues\n\nMoreover, Broadcom's debt-to-equity ratio of 71.5% far exceeds Marvell's 27.2%, indicating greater financial leverage and possibly higher downside risk if economic conditions worsen.\n\nImage Source: Zacks Investment Research\n\nSo, all things considered, Marvell appears to be the more attractive buy following the Google deal, positioning it for sustained growth as demand for custom AI silicon continues to increase. As a result, Marvell's expected earnings growth rate for the current year is 42.3%. The Zacks Consensus Estimate of $4.05 for MRVL's earnings per share is up 19.8% year over year.\n\nMarvell currently has a Zacks Rank #2 (Buy). You can see the complete list of today's Zacks Rank #1 (Strong Buy) stocks here.",
       "Language": "en"
     },
     {
