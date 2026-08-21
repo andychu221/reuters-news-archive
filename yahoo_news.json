@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-08-21T15:32:14.218Z",
+  "last_updated": "2026-08-21T15:34:21.930Z",
   "total_news_count": 517,
   "news": [
     {
-      "Ticker": "GOOGL",
+      "Ticker": "MRVL",
+      "Date": "2026-08-21",
+      "Time": "23:25:18",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell Faces a 12% Earnings Swing After Its 196% Rally",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/marvell-faces-12-earnings-swing-152518208.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSemiconductor maker Marvell Technology Inc. ( MRVL , Financials ) is heading into its Aug. 27 earnings announcement with investors anticipating another significant increase . The options market is pricing in about a 12.4% move up or down after the fiscal second quarter results.At the firm's current share price of $251.01, that predicts a move of around $31, bringing the stock near $282 on the upside or $220 on the downside. No wonder given Marvell's tremendous run. That's some volatility.Shares have surged over 196% this year on high demand for specialized AI chips and optical networking equipment, and its strengthened collaboration with Alphabet Inc. (GOOGL, Financials).Wall Street forecasts Marvell will post earnings of $0.93 per share, up around 39% from a year ago Revenue is predicted to increase by 35% to $2.71 billion. Investors will be watching data-center growth and guidance especially intently.The fear is expectations have increased just about as fast as the stock. Marvell's AI business forecast will matter after such a big runup and even good results could disappoint.Now the earnings report is a test of whether fundamentals can match the valuation investors have already placed on the company.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MRVL, GOOGL",
       "Date": "2026-08-21",
       "Time": "23:07:20",
       "Source": "Yahoo Finance",
@@ -20,16 +30,6 @@
       "Title": "India Orders Google to Remove Hundreds of Firebase Accounts",
       "URL": "https://finance.yahoo.com/technology/ai/articles/india-orders-google-remove-hundreds-145241032.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet Inc. ( GOOGL , Financials ), the parent of Google, is dealing with another cybersecurity headache in India after regulators ordered the suspension of hundreds of accounts linked to alleged fraud on its Firebase platform.India's cybercrime agency submitted a series of notifications to Google after it noticed a pattern of criminals using Firebase to host phishing pages, spyware and databases of stolen financial information, Reuters said.In August alone, authorities demanded the takedown of at least 57 websites and databases. Some of the pages posed as big Indian banks while others were used to obtain credit-card details, one-time passwords and data from the victims' phones.Google said it has tough regulations against phishing, malware and financial fraud and it works with law authorities to assess removal requests. Reuters also said that there was no sign that Google or Firebase were involved in the schemes.That matters because Firebase is part of Google Cloud, which pulled in roughly $25 billion in revenue last quarter.The greater worry for investors is that the increasing abuse of widely used cloud tools pushes platforms to speed up the process of deleting dangerous content, resulting in more compliance rules and more monitoring costs required by governments.",
-      "Language": "en"
-    },
-    {
-      "Ticker": "ARM",
-      "Date": "2026-08-21",
-      "Time": "22:50:12",
-      "Source": "Yahoo Finance",
-      "Title": "Nvidia Eyes Deal With $2.3 Billion AI Chip Rival",
-      "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-deal-2-3-145012820.html",
-      "Content": "This article first appeared on GuruFocus .\n\nAs rivalry in AI inference intensifies, the leader in AI chips, Nvidia Corp. ( NVDA , Financials ), is apparently considering a transaction with South Korean startup Rebellions .Bloomberg said that the corporation is in early talks with the company on numerous possibilities including a technical cooperation, an investment or possibly an acquisition.The article also said that Rebellions CEO Sunghyun Park met with CEO Jensen Huang this week at Nvidia's headquarters in Santa Clara. The discussions are at an early stage and may not result in a transaction.Rebellions develops neural processing units built for AI inference, which is the phase of artificial intelligence where trained models process fresh data and provide outputs.The business has raised over $850 million from investors such as SK Hynix, Samsung Ventures and Arm Holdings plc (ARM, Financials). Its last valuation was roughly $2.3 billion. The interest is notable for Nvidia as Rebellions operates in a market seeking to challenge Nvidia's supremacy.Nvidia has shown a willingness to engage with smaller inference-chip players, including a licensing deal with Groq last year. A Rebellions transaction might offer another avenue for Nvidia to solidify its position as inference takes a bigger slice of total AI spending.",
       "Language": "en"
     },
     {
