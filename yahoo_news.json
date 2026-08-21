@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T20:11:53.439Z",
-  "total_news_count": 589,
+  "last_updated": "2026-08-21T20:25:49.385Z",
+  "total_news_count": 590,
   "news": [
     {
       "Ticker": "META",
@@ -211,6 +211,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/mu-stock-alert-bmo-names-181410478.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicron Technology ( NASDAQ:MU ) received an Outperform rating and a $1,300 price target from BMO Capital as the firm began coverage of the memory-chip maker alongside other semiconductor companies.\n\nBMO's view centers on Micron's exposure to artificial intelligence infrastructure. The firm expects demand for high-bandwidth memory, or HBM, to remain a key factor as data-center operators expand AI computing capacity.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nThe analysts also pointed to industry supply and demand conditions that could support higher pricing across DRAM and NAND memory products. Micron's long-term customer agreements may provide additional visibility into future business levels, according to BMO.\n\nThe broader coverage reflects BMO's positive stance on AI-related semiconductor demand and an anticipated recovery across parts of the analog market. Micron stands out within that view because memory content has become increasingly important to AI systems.\n\nThe $1,300 target provides a new valuation reference for investors following Micron as the company navigates tight memory markets and continued spending on AI infrastructure.\n\nBMO's Outperform rating and $1,300 target suggest the firm expects AI-driven memory demand to support further upside.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-22",
+      "Time": "02:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》CBOE等1檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-cboe%E7%AD%891%E6%AA%94-180400435.html",
+      "Content": "MoneyDJ新聞 2026-08-22 02:04:22 數位內容中心 發佈\n\nCboe Global Markets（CBOE.US）： 成交價300.99美元，上漲2.34%，開盤297.24美元，盤中高點302.18美元，盤中低點295.65美元，均價299.71美元，成交量5.37萬股。\n\nCboe Global Markets近日重啟二元選擇合約，讓交易者可就標普500指數是否在短期內達到特定門檻，進行是或否的部位配置。這項產品初期將透過盈透證券提供，後續也規劃由嘉信等其他中介機構上架。Cboe Global Markets早在2008年就曾推出連結標普500與VIX波動率指數的二元選擇合約，但當時未能吸引足夠參與者，之後退出市場。這次重新推出，時點正值Kalshi與Polymarket等預測型平台交易熱度升高，Nasdaq也已獲得監管批准，準備推出二元指數選擇權合約。\n\n《韓股》半導體權值股領跌 KOSPI收跌5.8%\n\nAI動能、企業獲利強勁 小摩喊標普年底8000點\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
