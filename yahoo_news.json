@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-21T12:00:51.106Z",
-  "total_news_count": 477,
+  "last_updated": "2026-08-21T12:11:21.222Z",
+  "total_news_count": 478,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-08-21",
+      "Time": "20:03:23",
+      "Source": "Yahoo Finance",
+      "Title": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/exclusive-dutch-regulator-fines-uber-120323411.html",
+      "Content": "By Toby Sterling\n\nAMSTERDAM, Aug 21 (Reuters) - The Dutch Data Protection Authority (AP) has decided to fine Uber €825 million ($966 million) under European data protection rules ‌for deactivating driver accounts through automated systems without adequately informing them, ‌according to an August 17 decision reviewed by Reuters.\n\nThe penalty would be the second-largest ever issued ​under Europe's General Data Protection Regulation, behind a €1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States, which Meta is appealing.\n\nUber said it would also appeal.\n\n\"We strongly disagree with this ‌decision and disproportionate fine,\" a ⁠spokesperson said, adding that the company takes drivers' rights seriously and its current policies include both human reviews and opportunities ⁠for drivers to dispute platform suspensions.\n\nThe AP confirmed the decision, but could not immediately comment further.\n\nGDPR rules ban decisions made solely by computer algorithm when they have a ​significant impact ​on people's lives, saying such decisions require ​meaningful human review and a ‌way to challenge a decision.\n\n\"The AP has determined that Uber violated drivers' rights, specifically the right not to be subject to automated decision-making that has...significant consequences,\" the decision said.\n\n\"Uber has also violated the right to be informed,\" the decision said, saying the agency considered it a serious matter worthy of the large fine.\n\nThe ‌case concerns European incidents in 2020 to ​2022, stemming initially from a French complaint. It ​was handled by the Dutch regulator ​because Uber's European headquarters are in the Netherlands.\n\nUber temporarily suspended ‌some drivers who were suspected of ​fraud, including when its ​systems concluded drivers had taken unnecessary detours to inflate fares or accepted trips without intending to complete them.\n\nUber says it did not permanently deactivate ​such accounts without human ‌review.\n\nDrivers with low customer ratings were sometimes permanently suspended. Uber said ​it no longer makes permanent deactivation decisions solely through automated systems.\n\n(Reporting ​by Toby Sterling; Editing by Kirsten Donovan)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-21",
