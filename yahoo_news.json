@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T20:32:09.129Z",
-  "total_news_count": 592,
+  "last_updated": "2026-08-21T20:34:42.244Z",
+  "total_news_count": 594,
   "news": [
     {
       "Ticker": "META",
@@ -10,6 +10,16 @@
       "Title": "Meta's $800 Bull Case Comes Down to One AI Win",
       "URL": "https://finance.yahoo.com/technology/ai/articles/metas-800-bull-case-comes-200427359.html",
       "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms Inc. ( META , Financials ), the parent of Facebook and Instagram, continues to spend aggressively on artificial intelligence, but Bernstein thinks investors may be looking too much at the expense and not enough at what could go right.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nAnalyst Mark Shmulik maintained an Outperform rating and $800 price target, saying Meta's core business is still robust enough to support the AI drive. Revenue is still growing roughly 28% year over year, with early evidence of AI monetization starting to come in business messaging, paid model APIs and subscriptions.\n\nThat matters because Meta doesn't need every AI project to be a big moneymaker. Bernstein, however, believes that one good consumer AI success may do a lot to improve mood among investors and make today's spending look a lot more justified.\n\nThere is still a lot of execution risk. Meta is likely to continue heavy expenditure on AI models, personnel and infrastructure at least through 2027. But the valuation is helping.\n\nBernstein thinks the stock already represents much of the uncertainties around that investment, at about 15 times next year's earnings. The scenario for investors is really simple: Meta's primary advertising engine is still growing rapidly, and the business is starting to show that AI might someday lead to new sources of income, not just a cost center.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-22",
+      "Time": "04:02:34",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's Next CEO Could Spend More to Catch Up in AI",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apples-next-ceo-could-spend-200234724.html",
+      "Content": "This article first appeared on GuruFocus .\n\niPhone-maker Apple Inc. ( AAPL , Financials ) could enter a more aggressive phase of AI investment with John Ternus taking over as CEO on Sept. 1. Apple's next chapter could be more focused on artificial intelligence and possibly include higher investment, said Bank of America.That would be a big departure for a corporation that has traditionally been more cautious about big technological investments.The concern for investors is whether Ternus concludes Apple needs to spend more aggressively to narrow the gap with rivals who have already committed massive amounts to AI infrastructure, models and cloud capacity.Apple has added more AI functions into its products but investors still argue whether the company is advancing fast enough.A larger push for investment could assist drive development, but could also squeeze margins if spending outpaces revenue generated from those efforts.The leadership shift gives investors another item to watch in addition to product launches.Whoever takes over from Tim Cook will be leading one of the world's most profitable tech firms. How much investment Ternus decides to put into AI might very well determine the next growth cycle for Apple.",
       "Language": "en"
     },
     {
@@ -23,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL",
+      "Date": "2026-08-22",
+      "Time": "04:01:29",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Falls as Leadership Questions Deepen Its AI Dilemma",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-falls-leadership-questions-deepen-200129650.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ), the consumer-technology giant behind the iPhone, slipped approximately 0.2% to $310.60 Friday morning as investors wrestled with one big question: Will Apple's next chief executive finally hit the accelerator on artificial intelligence? The stock trailed a rising market, yet the company still carried a towering market value of roughly $4.58 trillion. Expectations remain sky-high.\n\nWarning! GuruFocus has detected 2 Warning Sign with META.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nApple has refused to copy the hyperscalers' data-center spending frenzy. Its playbook is leaner: use outside partners, push more processing onto devices and weaponize an installed base measured in billions. The engine is hardly sputtering. Fiscal third-quarter revenue jumped 16% to $109.4 billion, while earnings surged 29% to $2.02 per share. But supply constraints and a slower AI rollout are creating doubt. Discipline can protect profits. It can also become hesitation.\n\nThe chart makes the pressure obvious. At $310.60, Apple trades 9.44% above its GF Value estimate of $283.81 and at roughly 35 times trailing earnings. That premium demands more than promises. Spend aggressively on AI, and margins could take a hit. Stay cautious, and Apple risks becoming increasingly dependent on outside models and chip suppliers. Friday's dip was modest. The warning was not: Wall Street wants Apple's AI advantage to show up in products, growth and profits.\n\nApple Falls as Leadership Questions Deepen Its AI Dilemma · us.finance.gurufocus\n\nApple Falls as Leadership Questions Deepen Its AI Dilemma · us.finance.gurufocus The chart makes the pressure obvious. At $310.60, Apple trades 9.44% above its GF Value estimate of $283.81 and at roughly 35 times trailing earnings. That premium demands more than promises. Spend aggressively on AI, and margins could take a hit. Stay cautious, and Apple risks becoming increasingly dependent on outside models and chip suppliers. Friday's dip was modest. The warning was not: Wall Street wants Apple's AI advantage to show up in products, growth and profits.\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-08-22",
       "Time": "04:00:45",
       "Source": "Yahoo Finance",
@@ -43,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "AAPL, META",
       "Date": "2026-08-22",
       "Time": "03:54:54",
       "Source": "Yahoo Finance",
@@ -93,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-08-22",
       "Time": "03:42:28",
       "Source": "Yahoo Finance",
@@ -113,7 +133,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM, NVDA",
       "Date": "2026-08-22",
       "Time": "03:39:30",
       "Source": "Yahoo Finance",
