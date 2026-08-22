@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T00:28:25.080Z",
-  "total_news_count": 274,
+  "last_updated": "2026-08-22T06:28:46.514Z",
+  "total_news_count": 270,
   "news": [
     {
       "Ticker": "2454.TW, 2330.TW",
@@ -3781,62 +3781,6 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "ETF換股,投信賣超,個股修正,盤勢震盪"
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-07-23",
-      "Time": "13:54:48",
-      "Source": "自由時報",
-      "Title": "台股白忙一場！台積電、聯電拉尾盤 指數震盪逾700點收漲25點",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5514615",
-      "Content": "〔財經頻道／綜合 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週四（24日）開盤上漲，盤中一度下跌485點，所幸尾盤有權值股點火，終場收漲25.03點，收44850.81點。\n• 台積電（2330）由黑翻紅，收2405元，成交額為551.77億元，排名第1。\n• 聯發科（2454）漲25元，收3875元，成交額為305.2億元，排名第5。\n• 盤中矽晶圓、矽智財、AI股、光電走揚，但隨後台積電、聯電、力積電、華邦電等股價走跌拖累。\n• 成交量為8925億元。",
-      "Related_Score": 4,
-      "Sentiment_Score": 0,
-      "Keywords": "指數震盪,權值股拉抬,籌碼換手,量價變化"
-    },
-    {
-      "Ticker": "2344.TW",
-      "Date": "2026-07-23",
-      "Time": "11:27:24",
-      "Source": "自由時報",
-      "Title": "焦點股》華邦電：大跌逾半根停板 力守五日線",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5514750",
-      "Content": "〔記者 ...",
-      "Language": "zh",
-      "AI_Summary": "• 記憶體廠華邦電（2344）股價開高走低，盤中一度重挫超過5.8%、跌至161元。\n• 截至上午10時41分，大跌5.56%、暫報161.5元，力守五日線之上。\n• 三大法人合計賣超6635張，其中外資連二賣。\n• 華邦電6月合併營收205.97億元，年增189.88%；第二季合併營收598.43億元，年增184.7%。",
-      "Related_Score": 4,
-      "Sentiment_Score": -1,
-      "Keywords": "記憶體股,獲利了結,營收創新高,法人賣超"
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-07-23",
-      "Time": "09:58:18",
-      "Source": "自由時報",
-      "Title": "焦點股》聯發科：Google加碼資本支出！股價重回4000",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5514666",
-      "Content": "〔記者卓怡 ...",
-      "Language": "zh",
-      "AI_Summary": "• 谷歌（Google）母公司Alphabet決定上調今年資本支出至1950億至2050億美元，有利相關供應鏈後市表現。\n• 法人看好聯發科（2454）可望接到更多來自Google的訂單，股價企圖站穩4000元大關。\n• Google在2028年設定積極的出貨量目標，TPU總量有望達到1200-1500萬顆，運算晶片總量可能達到3000-3500萬顆。\n• 市場傳出聯發科將新增第二個AI ASIC客戶，可能來自Space X，有望成為另一個成長催化劑。\n• 聯發科股價上漲4.16%，暫報4010元，收復月線。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "Google資本支出,AI ASIC,TPU,供應鏈成長,股價反彈"
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-07-23",
-      "Time": "09:40:41",
-      "Source": "自由時報",
-      "Title": "三星發表最新3款摺疊手機 台積電受惠",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5514625",
-      "Content": "〔記者王憶紅／台 ...",
-      "Language": "zh",
-      "AI_Summary": "• 三星發表下半年旗艦手機-第8代摺疊機Galaxy Z系列3款機型，其中Galaxy Z Fold8、Galaxy Z Fold8 Ultra在採用高通晶片下，台積電（2330）將受惠。\n• 預估2026年全球智慧型摺疊手機出貨量將成長21%，書本式左右開闔摺疊手機將成為市場主流。\n• 三星新機價格備受關注，但市場人士認為三星身為記憶體產業龍頭，相對有採購優勢。\n• 三星Z Fold8推出全新螢幕比例，封面螢幕為5.5吋、內頁螢幕為7.6吋，是目前最輕盈的Galaxy摺疊手機。",
-      "Related_Score": 3,
-      "Sentiment_Score": 0,
-      "Keywords": "摺疊手機,高通晶片,台積電受惠,手機市場趨勢,AI手機"
     }
   ]
 }
