@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-22T19:00:28.794Z",
+  "last_updated": "2026-08-22T19:11:09.569Z",
   "total_news_count": 203,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-08-23",
       "Time": "02:53:00",
       "Source": "Yahoo Finance",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-23",
       "Time": "02:33:00",
       "Source": "Yahoo Finance",
