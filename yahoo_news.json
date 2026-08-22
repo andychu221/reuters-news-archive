@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-22T21:34:47.426Z",
-  "total_news_count": 215,
+  "last_updated": "2026-08-22T22:00:20.944Z",
+  "total_news_count": 216,
   "news": [
+    {
+      "Ticker": "NVDA, MU",
+      "Date": "2026-08-23",
+      "Time": "05:17:44",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html",
+      "Content": "Investing.com -- Rising memory chip costs are pushing up the price of servers that use Nvidia Corp's artificial intelligence chips, with some of the chipmaker's biggest customers facing increases of more than 15%, Bloomberg News reported on Saturday, citing people familiar with the matter.\n\nThe higher prices are expected to apply to systems shipped early next year, including those equipped with Nvidia's flagship Vera Rubin and Grace Blackwell chips, the report said.\n\nThe size of the increase will vary depending on the Nvidia chip generation and memory configuration.\n\nCompanies that build servers under contract for major data center operators such as Microsoft Corp, Alphabet Inc's Google and Oracle Corp have recently notified customers of the upcoming price increases, the report said, citing sources who asked not to be identified because the communications have not yet been made public.\n\nMemory chipmakers Samsung Electronics Co, SK Hynix Inc and Micron Technology Inc have gained unprecedented leverage amid a surge in demand for AI infrastructure, with the two Korean firms and Micron accounting for most of the world's DRAM production, the report said.\n\nThe effectiveness of Nvidia's AI accelerator processors depends on how much DRAM they are paired with, the report said.\n\nMajor technology companies including Apple Inc and Qualcomm Inc have recently said they have been forced to raise prices because of chip shortages.\n\nNvidia has a gross margin of 75%, which said the chipmaker can charge tens of thousands of dollars per chip because supply from contract manufacturer Taiwan Semiconductor Manufacturing Co still cannot meet runaway demand.\n\nNvidia has also raised prices for its gaming-oriented PC graphics cards, the report said, citing industry news site Tom's Hardware.\n\nMajor customers including Amazon, Microsoft, Google and Meta Platforms are all pursuing their own in-house chip programs but remain dependent on purchases from Nvidia for their data center build-outs, according to the report.\n\nTheir ability to gain greater independence will also hinge on access to supply from Samsung, SK Hynix and Micron, the report added.\n\nThe price increases are also likely to add complexity to the industry's massive AI data center build-out ambitions, the report added, noting that project delays, labor shortages, tightening capital markets and community resistance to developments have already complicated many plans.\n\nNvidia customers face over 15% server price hikes as memory costs soar - report\n\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'\n\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-23",
