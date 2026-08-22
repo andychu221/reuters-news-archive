@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-22T21:28:16.687Z",
-  "total_news_count": 267,
+  "last_updated": "2026-08-22T22:28:22.296Z",
+  "total_news_count": 266,
   "news": [
     {
       "Ticker": "2454.TW, 2330.TW",
@@ -3725,20 +3725,6 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "AI ASIC,營收預估,Google TPU,法說會展望,手機市場"
-    },
-    {
-      "Ticker": "2454.TW, 3443.TW",
-      "Date": "2026-07-24",
-      "Time": "05:30:00",
-      "Source": "自由時報",
-      "Title": "Google擴大資本支出 聯發科、創意迎成長動能",
-      "URL": "https://ec.ltn.com.tw/article/paper/1763877",
-      "Content": "〔記者卓怡君 ...",
-      "Language": "zh",
-      "AI_Summary": "• 谷歌（Google）母公司Alphabet決定上調今年資本支出至1950億至2050億美元，有利相關供應鏈後市表現。\n• 聯發科（2454）負責Google TPU專案，創意（3443）操刀Google客製化CPU專案，明年有望迎來新一波成長。\n• Google在2028年設定積極的出貨量目標，TPU總量有望達到1200~1500萬顆，運算晶片總量可能達到3000~3500萬顆。\n• 市場傳出聯發科將新增第二個AI ASIC大型客戶，可能來自SpaceX，有望成為另一大成長催化劑。\n• 創意已取得Axion2 CPU與下一代CPU的設計，預期將成為明年重要成長動能來源。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "Google資本支出,AI ASIC,TPU,CPU,供應鏈成長"
     }
   ]
 }
