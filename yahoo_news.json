@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T09:00:31.152Z",
-  "total_news_count": 305,
+  "last_updated": "2026-08-23T09:11:11.409Z",
+  "total_news_count": 306,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, GOOGL, AMZN",
+      "Date": "2026-08-23",
+      "Time": "16:41:05",
+      "Source": "Yahoo Finance",
+      "Title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html",
+      "Content": "According to Rosenblatt's Scott Devitt, Amazon (NASDAQ: AMZN )'s leading position in artificial intelligence remains underappreciated. This bold claim was made in a recent research note on August 19, where Devitt initiated coverage on the stock with a $335 price target.\n\nThe firm anticipates AWS to exit 2026 at a 45% growth rate, compared with the Street's 38% expectations. The firm further noted that AWS is seen on a path to $335 billion by 2028.\n\nDoes the Claim Hold Up?\n\nThe AWS acceleration claim is supported by recent numbers. AWS growth has climbed for five consecutive quarters, from 17% in Q2 2025 to 37% in Q2 2026. This strengthens the argument that AI demand is adding another growth cycle. Amazon's Q2 fiscal 2026 results filed July 30, 2026 also showed AWS accelerating to $42.23 billion, its fastest pace in 18 quarters. AWS backlog, meanwhile, stood at $496 billion, growing triple digits year-over-year. The company's AI and Chips businesses also each cleared $25 billion annualized run rates in Q2 with triple-digit growth.\n\nAWS against Microsoft Azure and Google Cloud\n\nAWS's 37% growth may be the best it has gained in years, but it is still the slowest of the Big Three hyperscalers. Google Cloud grew 82%, Azure grew 43%, while AWS grew 37%. AWS grew at less than half the pace of Alphabet Inc.'s (NASDAQ: GOOGL ) Google Cloud unit, and also trailed behind Microsoft's Azure.\n\nGoogle Cloud's 82% growth is not a one-quarter spike, rather, the unit also witnessed growth of 63% year-over-year in the first quarter of 2026. For Azure, Microsoft Corporation (NASDAQ: MSFT ) only posts the growth rate, and revenue for the full fiscal 2026 cross $100 billion, putting it behind AWS and ahead of Google Cloud. Looking at the growth percentages, it seems that AWS is the laggard of the three. However, AWS brings in far more revenue overall. It brought $42.2 billion in revenue last quarter, putting it on a $169 billion annualized run rate. This makes AWS larger in size, and its also adding more actual dollars in revenue than Google Cloud each quarter because of its much larger base.\n\nSo Amazon catching up is a question that doesn't have a clean answer. By growth rate, it's still behind both, but ahead of both if we look at the dollar figures.\n\nValuation and Sentiment\n\nAmazon trades at roughly 22x forward P/E, roughly in line with Microsoft's forward P/E of 24x and higher than Alphabet Google's 17x forward P/E. This implies the market is likely pricing in margin expansion from Amazon's AWS, digital advertising, and margin growth. Rosenblatt further echoes this sentiment, noting how customers increasing AI spending are also increasing core AWS usage, compounding gains.\n\nStory Continues\n\nQ1 2026 saw Amazon's hedge fund holders dropping from 381 in the prior quarter to 353. However, recent filings show Coatue Management raising its AMZN stake by an estimated 49% in Q2 to 11.83 million shares, and Arrowstreet Capital increasing its position by 24% to 40.35 million shares. These moves suggest how major growth-focused funds have been buying into Amazon's cloud expansion and AI story.\n\nOverall, AWS is still behind Google Cloud and Microsoft on growth rate. Whether it manages to close this gap is the thing to watch over the coming quarters, not something that this quarter's numbers have settled.\n\nWhile we acknowledge the potential of AMZN as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<p class=\"text text-block pa",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, GOOGL, NVDA",
       "Date": "2026-08-23",
       "Time": "16:35:00",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, AMZN, NVDA",
       "Date": "2026-08-23",
       "Time": "16:05:00",
       "Source": "Yahoo Finance",
