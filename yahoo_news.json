@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T17:26:27.632Z",
-  "total_news_count": 303,
+  "last_updated": "2026-08-24T17:32:00.468Z",
+  "total_news_count": 304,
   "news": [
     {
       "Ticker": "005930.KS",
@@ -23,7 +23,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "SNDK",
+      "Date": "2026-08-25",
+      "Time": "00:57:00",
+      "Source": "Yahoo Finance",
+      "Title": "SNDK Jumps 25% in a Month: Is there More Room for the Stock to Rise?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/sndk-jumps-25-month-more-165700507.html",
+      "Content": "Sandisk SNDK shares have jumped 24.9% in the past month, outperforming the Zacks Computer and Technology sector's return of 5.6%. SNDK has outperformed peers, including Micron MU, Seagate STX and Western Digital WDC. Shares of Micron and Seagate have increased 7.4% and 4.1%, respectively, while Western Digital has dropped 7.7% over the same time frame. The outperformance can be attributed to the rapid expansion of SNDK's Datacenter business that has strengthened its AI investment narrative. Datacenter revenues surged 437% year over year to $5.15 billion in fiscal 2026. Datacenter remains Sandisk's fastest-growing end market and expects its share of the total NAND total addressable market (TAM) to rise from roughly 30% in calendar 2025 to around 50% in calendar 2026.\n\nSNDK Stock's Price Performance\n\nImage Source: Zacks Investment Research\n\nDoes the Datacenter strength make the Sandisk stock a buy? Let's find out.\n\nSandisk Rides on Improving Revenue Visibility\n\nSandisk's eight New Business Model (NBM) agreements are expected to represent more than 50% of its bits in fiscal 2027 and roughly two-thirds in fiscal 2028. At floor pricing, the signed NBMs represent a minimum of $93.9 billion in expected revenues, while remaining performance obligations (RPO) would total $91.1 billion, including agreements signed after quarter-end. The contracts also carry $16.5 billion of financial guarantees. NBMs are now expected to cover more than half of Sandisk's bits in fiscal 2027 and approximately two-thirds in fiscal 2028. This multi-year visibility potentially makes Sandisk's earnings stream more predictable than under the traditional spot-driven NAND model.\n\nFor the first quarter of fiscal 2027, Sandisk expects revenues in the $10.3-$10.8 billion range compared with $8.97 billion, up 51% sequentially and 372% year over year. The company expects sequential revenue growth to be supported by both higher bit shipments and higher pricing. Sandisk also said customer demand is growing faster than supply and expects bits to remain on allocation beyond calendar 2027, signaling a favorable supply-demand environment that could support pricing and profitability. Sandisk expects non-GAAP gross margin in the 83-85% range and earnings in the $44-$46 per share range.\n\nAI inference and rising Datacenter storage intensity are likely to remain Sandisk's most important growth drivers. The company believes AI is becoming increasingly memory-centric and storage-intensive as inference and agentic AI generate more data that must be stored, retrieved and served at low latency. Sandisk expects the enterprise Datacenter flash market to reach approximately 1.2 zettabytes by 2030 as the need for token proliferation and KV-cache requirements accelerates.\n\nFor fiscal 2028 through fiscal 2030, Sandisk targets mid-to-high-teens revenue growth, non-GAAP gross margins of approximately 80%, operating margins of roughly 75% and adjusted free cash flow margins of approximately 50%. Strong profitability is expected to help the company generate healthy cash flow to support share repurchases. The company spent $4.5 billion on repurchases during the fiscal fourth quarter and subsequently added $14 billion to SNDK's repurchase authorization, leaving $15.5 billion available. Sandisk expects to return 100% of excess cash to shareholders after investing in the business.\n\nStory Continues\n\nSNDK's Earnings Estimate Revision Trend Positive\n\nThe Zacks Consensus Estimate for first-quarter 2027 earnings is currently pegged at $46.23 per share, up over the past 30 days, indicating 12.8% growth from the figure reported in the year-ago quarter.\n\nConsensus Estimate Trend\n\nThe consensus estimates for fiscal 2027 earnings are currently pegged at $213.30 per share, up 10.6% over the past 30 days. Sandisk reported earnings of $70.88 per share in fiscal 2026.\n\nSNDK Shares Are Trading at a Premium\n\nSandisk has a Value Score of C, which suggests the stock is trading at a premium.\n\nIn terms of forward-12-month price/sales (P/E), Sandisk shares are trading at 4.62X, higher than the Zacks Computer Storage Devices industry's 2.99X and Micron's 4.44X but lower than Seagate's 9.66X and Western Digital's 7.92X.\n\nSNDK Stock's Valuation\n\nConclusion\n\nSandisk's strong Datacenter momentum, improving revenue visibility and favorable NAND supply-demand dynamics strengthen its growth outlook. AI inference is driving higher storage requirements, while the company's expanding enterprise SSD portfolio and NBMs provide greater visibility into future revenues and cash flows. The positive earnings estimate revision trend further reflects improving expectations for Sandisk's profitability. Although SNDK's valuation is at a premium to the industry, its rapidly expanding Datacenter business, AI-driven demand, strong pricing environment and improving earnings outlook appear capable of supporting the premium.\n\nSandisk currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SNDK, MU",
       "Date": "2026-08-25",
       "Time": "00:54:55",
       "Source": "Yahoo Finance",
@@ -63,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-08-25",
       "Time": "00:28:35",
       "Source": "Yahoo Finance",
