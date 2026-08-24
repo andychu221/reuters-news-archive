@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-23T23:33:52.681Z",
-  "total_news_count": 379,
+  "last_updated": "2026-08-24T00:00:53.034Z",
+  "total_news_count": 380,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-08-24",
+      "Time": "07:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "Micron, Sandisk, and SK Hynix: History Says This About the Memory Trio's Rally",
+      "URL": "https://finance.yahoo.com/m/55f49a16-49d8-3bed-8897-7cbafe14cdcb/micron%2C-sandisk%2C-and-sk.html",
+      "Content": "Memory stocks have been on a tremendous run over the past year, buoyed by surging prices, ballooning gross margins, and huge free cash flow. This has helped the stocks of Micron Technology (NASDAQ: MU), Sandisk (NASDAQ: SNDK), and SK Hynix (NASDAQ: SKHY) (before its U.S. IPO) go parabolic this year. Micron is up more than 700% over the past year, while Sandisk is up an almost inconceivable 3,400% during the same stretch. SK Hynix's Korean shares, meanwhile, have surged 600% during the past year.\n\nThe current memory supercycle can be tied directly to the AI infrastructure build-out, which has led to major supply-demand imbalances. The memory market is divided between DRAM (dynamic random access memory), used for very short-term storage, and NAND (flash), which retains data longer. Both have seen tremendous increases in AI-related demand.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe biggest driver in the market right now is high-bandwidth memory (HBM), which is packaged with graphics processing units (GPUs) and other AI chips to reduce latency and power consumption. It's one of the biggest bottlenecks in all of AI, and as such, the big three DRAM makers -- SK Hynix, Samsung , and Micron -- have been dedicating most of their resources to keeping up with demand. This is leading to a supply shortage across the entire DRAM market and skyrocketing prices.\n\nFlash memory, meanwhile, is used in colossal enterprise solid-state drives (SSDs) that store training data. Flash has been supply-constrained as the big three memory makers have shifted their focus to HBM, after earlier cutting production and redirecting resources toward DRAM following the NAND market's crash after the pandemic. Stay-at-home mandates had led to a pull-through in demand for electronics, which are big users of flash memory, but once they were lifted, the market collapsed.\n\nHistory says the market will collapse, but this time does look different\n\nHistory would tell us that memory stocks will eventually crash, as traditionally, boom cycles are met by increasing supply that eventually overtakes demand, causing memory prices to sink. However, this cycle does seem different.\n\nFirst, AI infrastructure demand just continues to soar, with no signs of slowing down. Second, memory makers, especially those focused on HBM, are struggling to keep up, and a few factors will continue to constrain supply growth. This includes limited capacity growth for EUV ( extreme ultraviolet lithography ) machines needed in the manufacturing of both HBM and advanced logic chips, such as GPUs; HBM requiring upwards of three times the wafer capacity of regular DRAM; and the lead times required to construct new clean rooms. Finally, all of the memory makers, including pure-play flash maker Sandisk, have been able to secure long-term contracts for the first time in history.\n\nStory Continues\n\nWith both DRAM and NAND memory cycles still looking to have a long runway ahead, and stock valuations not reflecting this, memory makers could continue to be top AI stocks to own.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-24",
