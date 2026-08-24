@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-24T18:31:58.341Z",
-  "total_news_count": 316,
+  "last_updated": "2026-08-24T18:34:32.399Z",
+  "total_news_count": 321,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-25",
+      "Time": "02:31:48",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Just Took a Blow to Its AI Chip Plans",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) has lost another senior artificial-intelligence hardware engineer to DensityAI, adding fresh execution risk to Elon Musk's push to make custom silicon a critical part of Tesla's autonomous-driving and robotics strategy. Shishuang Sun, most recently Tesla's senior director of AI hardware design, has joined the startup built largely by former members of Tesla's Dojo team.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nSun worked on hardware for both Dojo and Autopilot and specializes in advanced packaging and system integration, an increasingly important bottleneck as AI chips consume more power and generate more heat.\n\nHis departure is particularly notable because DensityAI was founded by former Dojo chief Ganesh Venkataramanan and other Tesla veterans. Roughly 20 Dojo employees left for the startup before Tesla dismantled the original Dojo organization in August 2025.\n\nTesla subsequently shifted its chip strategy toward AI5 and AI6, which are intended to support autonomy and potentially broader training workloads. Tesla said earlier this year that AI5 production is planned for 2027 and AI6 for 2028.\n\nThat makes retaining experienced chip engineers increasingly important. Tesla's valuation thesis now depends heavily on Full Self-Driving, robotaxis and Optimus, all of which require efficient inference hardware at enormous scale. Tesla itself says its custom FSD chips are designed around maximizing silicon performance per watt for autonomous driving.\n\nInvestors Takeaway\n\nOne personnel departure does not derail Tesla's AI roadmap, but repeated losses from a specialized hardware team can create schedule and execution risk.\n\nInvestors should watch whether Tesla keeps AI5 on track for 2027 production, whether AI6 development remains on schedule, and whether additional senior engineers follow Sun to DensityAI.\n\nThe broader question is whether Tesla can preserve enough internal chip expertise while relying on manufacturing partners and outside compute suppliers. A delay in AI5 or AI6 could matter far beyond semiconductor costs because those chips sit underneath Tesla's autonomy and robotics ambitions.\n\nFor now, Sun's exit is less an immediate earnings issue than another test of whether Tesla can rebuild and retain the technical bench required to deliver Musk's increasingly AI-heavy growth story.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-08-25",
+      "Time": "02:22:39",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Rises as Investors Flee the AI Spending Arms Race",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-rises-investors-flee-ai-182239108.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ), the consumer-technology giant behind the iPhone, jumped to $312.12 before Monday's opening bell, defying a roughly 0.6% drop in Nasdaq futures. Reuters highlighted Apple and Amazon as the only major technology names trading higher as chip weakness, geopolitical tension and Nvidia's looming earnings report rattled the market.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe business is still firing. Apple's fiscal third-quarter revenue surged 16% to $109.4 billion, while diluted earnings shot up 29% to $2.02 per share. Gross margin hit 50.1%, helped by roughly two percentage points from tariff refunds. Better yet, Apple is producing that firepower without pouring hundreds of billions of dollars into AI data centers.\n\nThat discipline protects cash flow, but the stock already demands near-perfect execution. At $312.12, Apple trades 10.03% above its GF Value estimate of $283.67 and at roughly 35 times earnings. Investors are betting Apple can turn its enormous device ecosystem into an AI distribution machine. Now the company must deliver enough growth to defend that premium.\n\nApple Rises as Investors Flee the AI Spending Arms Race · us.finance.gurufocus\n\nApple Rises as Investors Flee the AI Spending Arms Race · us.finance.gurufocus That discipline protects cash flow, but the stock already demands near-perfect execution. At $312.12, Apple trades 10.03% above its GF Value estimate of $283.67 and at roughly 35 times earnings. Investors are betting Apple can turn its enormous device ecosystem into an AI distribution machine. Now the company must deliver enough growth to defend that premium.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-08-25",
@@ -33,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, AMZN, NVDA",
+      "Ticker": "INTC, GOOGL, AMZN, NVDA",
       "Date": "2026-08-25",
       "Time": "01:38:09",
       "Source": "Yahoo Finance",
@@ -50,6 +70,26 @@
       "Title": "Marvell's Next AI Opportunity Could Be Worth Billions",
       "URL": "https://finance.yahoo.com/technology/ai/articles/marvells-next-ai-opportunity-could-173548161.html",
       "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology Inc. ( MRVL , Financials ) may have a lot larger AI opportunity in front of it than the market is giving it credit for.\n\nWarning! GuruFocus has detected 3 Warning Sign with MRVL.\n\nIs MRVL fairly valued? Test your thesis with our free DCF calculator.\n\nGF Securities outlined a number of revenue opportunities related to Google and Amazon, noting that Marvell might benefit if cloud giants construct more of their own AI chips. The Google opportunity is particularly immense.\n\nThe business estimates that CXL and DPU silicon will each be worth about $3 billion in 2028. It also estimates another $3 billion from MPU solutions designed to enable AI token production. A single customer represents a multi-billion-dollar opportunity. Amazon adds an extra leg.\n\nMarvell is also expected to be included in Amazon's Trainium 3 program, generating around $1 billion in 2026 and $2 billion in 2027, according to GF Securities.\n\nThe company also views Marvell's optical networking position as a potential way to gain a larger portion of future Trainium 4 revenue.\n\nThat may not be the whole story. GF Securities said the equity tie-up with Google may increase Marvell's prospects of winning future TPU contracts, particularly the TPU v10.\n\nThat's what makes the scenario interesting. Marvell is becoming a way to play the bespoke AI chip boom without betting on just one hyperscaler. Next question is how much of that expected revenue actually turns into firm design wins.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-25",
+      "Time": "01:34:35",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla's Biggest Robotaxi Test Arrives Sept. 3",
+      "URL": "https://finance.yahoo.com/technology/articles/teslas-biggest-robotaxi-test-arrives-173435290.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla Inc. ( TSLA , Financials ) is poised to shine a lot stronger light on one of the biggest pieces of its valuation story.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nThe company will show off the production version of its Cybercab on Sept. 3 in Austin, offering investors a closer look at the vehicle Tesla believes can lead to a much larger robotaxi service. The Cybercab is exclusively designed for autonomy.\n\nIt does not have a steering wheel or pedals and is designed to run on Tesla's Full Self-Driving software as part of a larger ride-hailing network. So this launch is bigger than just a usual vehicle reveal.\n\nThe belief that autonomous driving could one day become a high-margin software and mobility business is a big portion of Tesla's premium value. And the corporation is beginning to get more room to prove out that argument.\n\nNevada just permitted Tesla to operate as many as 5,000 robotaxis in Clark County, home to Las Vegas. Tesla has indicated it hopes to have roughly 2,500 vehicles on the road in a year's time.\n\nThat means it might deploy more vehicles than Waymo, which was authorized for up to 1,000. Tesla still has a lot to show, especially on safety, regulation and real-world reliability. But Sept. 3 may offer investors their best view yet of how close the Cybercab is to transitioning from idea to practical reality.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-25",
+      "Time": "01:27:45",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Stock Fans Just Got Bad News From China",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-fans-just-got-172745132.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) is recalling about three million vehicles in China as regulators address concerns involving electronic door handles and driver-attention systems.\n\nThe door-handle action covers Model 3, Model Y, Model S and Model X vehicles produced or imported during specified periods from 2019 through April 2026. Tesla plans software changes and warning labels, with updates designed to help occupants exit after certain crashes.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nA separate recall affects China-made Model 3 and Model Y vehicles produced through December 2025. Tesla plans to improve driver monitoring through over-the-air software updates, while vehicles that cannot receive the changes remotely will require service-center work.\n\nThe recall comes as Tesla faces growing competition in China. Model Y deliveries in the country fell 18% year over year to 25,158 in July, according to China Passenger Car Association data.\n\nThe recalls could add near-term pressure on Tesla as safety scrutiny and weaker China demand create additional challenges in a key EV market.",
       "Language": "en"
     },
     {
@@ -70,6 +110,16 @@
       "Title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops",
       "URL": "https://finance.yahoo.com/technology/ai/articles/broadcom-credit-risk-soars-mega-172116287.html",
       "Content": "(Bloomberg) -- Bond traders have ramped up measures of credit risk associated with Broadcom Inc. as it backstops mega financing packages for the buildout of artificial intelligence.\n\nMost Read from Bloomberg\n\nCanadians Brace for Economic Pain as 50% US Tariffs Take Effect\n\nCanada Sees Long Trade War With US That May Last Beyond Midterms\n\nBessent Has No Easy Fix for What's Really Driving Yields Up\n\nUS Oil Refiners Face Import Squeeze From Biggest Foreign Seller\n\nUS-Canada Trade Talks Fell Apart Over Fine Print, Envoy Says\n\nThe yields on Broadcom's 5.15% bonds that mature in 2031 rose about 14 basis points so far in August. The price of its five-year credit default swaps, meanwhile, climbed 28 basis points over the same period — a larger amount than both Oracle Corp. and SpaceX.\n\nBroadcom is in talks to raise more than $60 billion in debt for an AI chip financing deal that is expected to benefit Anthropic PBC and other companies. While the proposal is still being ironed out, Broadcom could potentially guarantee a portion of a senior-secured tranche.\n\nThat's after it struck an agreement earlier this year to backstop most of a $35 billion debt package while investors including Apollo Global Management Inc. and Blackstone Inc. financed the purchase of custom AI chips to lease to Anthropic.\n\n\"The rise in Broadcom's CDS seems to me is more specific to their balance sheet than overall angst over AI investment,\" said Tony Trzcinka, investment grade portfolio manager at Impax Asset Management, adding it was likely related to expectations of additional financial guarantees by Broadcom for chip-financing deals.\n\nThe use of guarantees and other forms of financial support have gained pace this year as tech companies invest billions to expand cloud-computing capacity. Under these agreements, chipmakers like Broadcom or Nvidia Corp. are effectively lending the strength of their balance sheets to their clients to boost their purchasing ability.\n\nThis is raising concerns that risks are accumulating that are not visible on the balance sheets of these companies and that, in an industry downturn, similar backstops could force them to honor billions in pledges when their own earnings are under pressure.\n\n\"This adds to recent concerns around the growing layer of 'phantom leverage' growing underneath the vast AI ecosystem as the backlog of leases, purchase commitments, residual value guarantees and other backstops is poised to stretch into the trillions,\" Tarek Hamid, a strategist at JPMorgan Chase & Co., wrote in a note on Monday, in reference to Broadcom's potential $60 billion financing deal.\n\nStory Continues\n\nMost Read from Bloomberg Businessweek\n\nThe Diamond Industry's Old Guard Wants You to Buy 'Natural'\n\nNew York's Israeli Restaurants Are Doing Better Than You Might Think\n\nThe Seniors Against Senior Housing\n\nMoldy Peanuts Can Be Deadly. The Solution Is More Mold\n\nDrones, Balloons and Sound Waves: New Ways to Fight the World's Fires\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-25",
+      "Time": "01:21:07",
+      "Source": "Yahoo Finance",
+      "Title": "Nancy Pelosi Adds Intel and Bloom Energy Positions",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-adds-intel-bloom-172107014.html",
+      "Content": "This article first appeared on GuruFocus .\n\nU.S. Rep. Nancy Pelosi disclosed fresh investments in Intel ( NASDAQ:INTC ) and Bloom Energy ( NYSE:BE ), adding to a portfolio that has drawn attention for its exposure to technology and energy companies, according to a Monday regulatory filing.\n\nThe disclosure shows Pelosi acquired 10,000 Intel shares on July 24, with the transaction valued between $500,001 and $1 million. She also obtained 50 Intel call contracts carrying a $50 strike price and expiring June 17, 2027.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe filing also listed 15,000 Bloom Energy shares and 100 call options with a $100 strike price and the same June 2027 expiration date. Call options give investors the right, but not the obligation, to purchase shares at a predetermined price.\n\nThe disclosures could draw additional investor attention to Intel and Bloom Energy, although they do not indicate future performance or investment recommendations.",
       "Language": "en"
     },
     {
@@ -183,7 +233,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK, NVDA",
+      "Ticker": "AAPL, SNDK, NVDA",
       "Date": "2026-08-25",
       "Time": "00:28:35",
       "Source": "Yahoo Finance",
