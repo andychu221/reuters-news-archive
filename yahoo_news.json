@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-24T17:32:00.468Z",
-  "total_news_count": 304,
+  "last_updated": "2026-08-24T17:34:28.153Z",
+  "total_news_count": 306,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-08-25",
+      "Time": "01:27:45",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Stock Fans Just Got Bad News From China",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-fans-just-got-172745132.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) is recalling about three million vehicles in China as regulators address concerns involving electronic door handles and driver-attention systems.\n\nThe door-handle action covers Model 3, Model Y, Model S and Model X vehicles produced or imported during specified periods from 2019 through April 2026. Tesla plans software changes and warning labels, with updates designed to help occupants exit after certain crashes.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nA separate recall affects China-made Model 3 and Model Y vehicles produced through December 2025. Tesla plans to improve driver monitoring through over-the-air software updates, while vehicles that cannot receive the changes remotely will require service-center work.\n\nThe recall comes as Tesla faces growing competition in China. Model Y deliveries in the country fell 18% year over year to 25,158 in July, according to China Passenger Car Association data.\n\nThe recalls could add near-term pressure on Tesla as safety scrutiny and weaker China demand create additional challenges in a key EV market.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-25",
+      "Time": "01:21:07",
+      "Source": "Yahoo Finance",
+      "Title": "Nancy Pelosi Adds Intel and Bloom Energy Positions",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-adds-intel-bloom-172107014.html",
+      "Content": "This article first appeared on GuruFocus .\n\nU.S. Rep. Nancy Pelosi disclosed fresh investments in Intel ( NASDAQ:INTC ) and Bloom Energy ( NYSE:BE ), adding to a portfolio that has drawn attention for its exposure to technology and energy companies, according to a Monday regulatory filing.\n\nThe disclosure shows Pelosi acquired 10,000 Intel shares on July 24, with the transaction valued between $500,001 and $1 million. She also obtained 50 Intel call contracts carrying a $50 strike price and expiring June 17, 2027.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nThe filing also listed 15,000 Bloom Energy shares and 100 call options with a $100 strike price and the same June 2027 expiration date. Call options give investors the right, but not the obligation, to purchase shares at a predetermined price.\n\nThe disclosures could draw additional investor attention to Intel and Bloom Energy, although they do not indicate future performance or investment recommendations.",
+      "Language": "en"
+    },
     {
       "Ticker": "005930.KS",
       "Date": "2026-08-25",
@@ -73,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK, NVDA",
+      "Ticker": "AAPL, SNDK, NVDA",
       "Date": "2026-08-25",
       "Time": "00:28:35",
       "Source": "Yahoo Finance",
