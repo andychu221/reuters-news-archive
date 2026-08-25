@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-08-25T01:11:03.356Z",
-  "total_news_count": 400,
+  "last_updated": "2026-08-25T01:26:28.964Z",
+  "total_news_count": 410,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "09:05:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股早盤挫逾500點 台積電跌25元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%8C%AB%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C25%E5%85%83-010504175.html",
+      "Content": "美晶片股和記憶體族群挫跌，台指期夜盤下跌208點，台北股市今天（25日）早盤跌逾500點，加權指數為44234.17點。台積電跌25元至2350元。\n\n台股昨天收在44762.32點，美股四大指數終場道瓊工業指數上漲140.15點或0.26%，收53417.16點，標準普爾500指數跌21.51點或0.28%，收7652.86點，斯達克指數下挫200.27點或0.76%，收25980.19點，費城半導體指數挫跌317.21點或2.70%，收11423.17點。AI晶片龍頭輝達（NVDA-US）下跌2.91%、台積電ADR下跌2.11%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "09:04:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股開盤】跌33.96點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E8%B7%8C33-96%E9%BB%9E-010419394.html",
+      "Content": "（中央社台北2026年8月25日電）台北股市今天開盤跌33.96點，加權股價指數為44728.36點，成交金額新台幣50.13億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "09:03:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤跌33.96點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E8%B7%8C33-96%E9%BB%9E-010347865.html",
+      "Content": "（中央社台北25日電）台北股市今天開盤跌33.96點，加權股價指數為44728.36點，成交金額新台幣50.13億元。1150825",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "08:52:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年 8月25日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B4-8%E6%9C%8825%E6%97%A5-005215745.html",
+      "Content": "【統一證券】\n\n技術面觀察，週一台股終場失守季線，成交量未達7千億，為窒息量(\n\n近4個月新低)，技術指標KD、RSI已回落至中性水位，MACD紅柱體縮\n\n短。目前加權指數月線已扣低值，短線以月線視為多方防守線，台股\n\n靜待補量，即有機會再走揚。若後續盤面成交量持續低於8千億，不排\n\n除出現假跌破失守月線，屆時應優先佈局AI績優權值股。\n\n【國票證券】\n\n本週迎來Nvidia財報與Jackson Hole央行年會，加上川普將發布對伊朗\n\n貿易夥伴的經濟制裁行動，買盤縮手下短期橫盤整理視之。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "08:44:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "日陸歐股全失寵？國泰金調查：57%獨鍾台股　散戶看重「這一點」",
+      "URL": "https://tw.news.yahoo.com/%E6%97%A5%E9%99%B8%E6%AD%90%E8%82%A1%E5%85%A8%E5%A4%B1%E5%AF%B5-%E5%9C%8B%E6%B3%B0%E9%87%91%E8%AA%BF%E6%9F%A5-57-%E7%8D%A8%E9%8D%BE%E5%8F%B0%E8%82%A1-%E6%95%A3%E6%88%B6%E7%9C%8B%E9%87%8D-004413301.html",
+      "Content": "美伊地緣政治衝突升溫、荷莫茲海峽封鎖危機再現，加上通膨疑慮與國際股市劇烈波動，讓全球投資人態度轉趨保守。不過，國泰金控日前公布今年8月國民經濟信心調查顯示，在面對未來6個月最想投資的股市時，台灣散戶依然展現對在地市場的強大信心，高達57%民眾將「台股」列為投資首選，遠遠甩開其他國際市場。\n\n據國泰金控20日公布的8月調查時事題「民眾未來6個月最想投資的股市」，結果顯示國人對不同區域市場的偏好呈現高度懸殊：台股57%高居榜首，顯示本土資金對台股韌性仍抱持高度期待。其次為美股24%，反映部分投資人持續布局全球龍頭企業。無投資意願16%名列第三，顯示部分資金因近期市場波動大而選擇觀望。至於日股、陸股約各2%、歐股僅1%有投資意願，分析是受地緣政治及區域經濟疲軟影響，獲國人青睞的比率相當低。\n\n調查進一步分析民眾願意增持各國股市的核心動機，民眾最看重的三大因素分別為：看好成分股企業可持續獲利（30%）為最主要考量，顯示台股上市櫃企業的營運基本面與獲利能力，是支撐投資人信心最堅實的底氣。國家經濟體質穩健、經濟前景佳（25%）次之，反映國人對台灣經濟韌性仍具信心。分散投資風險需求（20%）名列第三，顯示部分民眾係基於資產配置考量進行卡位。\n\n雖然台股依然是國人的投資首選，但受7月以來美伊軍事衝突升溫、韓國股市頻繁熔斷、美國升息預期重燃，以及市場對AI產業發展疑慮再起等影響，民眾對整體股市的短期看法已漸趨理性審慎。\n\n此外，調查指出，8月民眾對台股的樂觀指數由高檔回落至36.2，代表入市意願的風險偏好指數亦降至29.1。\n\n在地緣政治帶動油價上漲的背景下，民眾對生活成本升高的感受極為明顯。調查顯示，高達68%的民眾認為2026年通膨率將突破2%警戒線，平均預期值達2.3%，明顯高於主計總處預估的1.93%。\n\n調查亦顯示，8月景氣現況樂觀指數降至3.1，景氣展望樂觀指數降至8.0；大額消費意願指數降至15.3，耐久財消費意願指數則滑落至-6.0，顯示大眾在消費與投資上皆轉向「指引明朗再出發」的審慎戰略。\n\n景氣樂觀指數\n\n景氣現況樂觀指數＝(改善很多＋稍有改善)－(稍有惡化＋明顯惡化)。（由 經濟景氣現況問題 計算而得）\n\n景氣展望樂觀指數＝(改善很多＋稍有改善)－(稍有惡化＋明顯惡化)。（由 經濟景氣預期問題 計算而得）\n\n資料來源：國泰金控經濟研究處 製表：林詠青、AI協作\n\n就業樂觀指數\n\n就業現況樂觀指數＝比較容易－比較困難。（由 就業現況問題 計算而得）\n\n就業展望樂觀指數＝比較容易－比較困難。（由<u",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-25",
+      "Time": "08:31:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "存儲五雄週一全倒，希捷、SanDisk齊跌逾6%，標普和那指100最遜咖",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%AD%98%E5%84%B2%E4%BA%94%E9%9B%84%E9%80%B1-%E5%85%A8%E5%80%92-%E5%B8%8C%E6%8D%B7-sandisk%E9%BD%8A%E8%B7%8C%E9%80%BE6-%E6%A8%99%E6%99%AE%E5%92%8C%E9%82%A3%E6%8C%87100%E6%9C%80%E9%81%9C%E5%92%96-003107237.html",
+      "Content": "【財訊快報／陳孟朔】美股存儲族群週一(24日)再遭猛烈拋售，「存儲五雄」無一倖免，其中，希捷科技(Seagate Technology，美股代碼STX)和SanDisk(美股代碼SNDK)雙雙急挫逾6%，美光科技(Micron Technology，美股代碼MU)、威騰電子(Western Digital，美股代碼WDC)及SK海力士(SK hynix，美股代碼SKHY)ADR同步重挫約5%，成為科技股當日主要殺盤重心。費城半導體指數終場急跌317.21點或2.70%，收在11,423.17點。五雄當中，希捷科技收低6.51%至794.65美元，跌幅居首且成了標普和那指100雙料最大輸家；SanDisk重挫6.45%至1,493.12美元，淪為標普和那指100雙料第二大輸家；美光大跌5.83%至910.43美元，在費半墊底；威騰電子挫低5.24%至435.38美元；剛於7月登陸那斯達克的SK海力士ADR則跌4.92%，收155.37美元，五檔跌幅全部超過4.9%。存儲股集體殺低，也拖累Roundhill Memory ETF(DRAM)週一收盤重挫近6%。\n\n這波賣壓首先來自中國記憶體競爭疑慮重新升溫。市場報導，美國川普政府可能允許蘋果(Apple)採購中國供應商的DRAM及NAND記憶體，引發投資人擔心長鑫存儲(CXMT)等中國業者若進一步切入蘋果供應鏈，可能加劇全球記憶體市場價格競爭；SanDisk、美光與威騰電子因此首當其衝。另一方面，輝達(Nvidia)將於週三(26日)盤後公布財報，在這項AI產業關鍵財報揭曉前，投資人同步降低半導體與AI硬體曝險，形成第二股賣壓。\n\n值得注意的是，週一重挫並非存儲基本面突然全面惡化，而是「中國競爭疑慮＋輝達財報前降風險＋前波漲幅過大」三股力量同時發作。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-08-25",
+      "Time": "08:22:51",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】靜待華許發言與輝達財報",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-%E9%9D%9C%E5%BE%85%E8%8F%AF%E8%A8%B1%E7%99%BC%E8%A8%80%E8%88%87%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1-002251367.html",
+      "Content": "日期：2026年 8月25日\n\n※盤勢分析\n\n債市衝擊股市，靜待華許發言與輝達財報，現階段個股單兵作戰\n\n※昨日盤勢\n\n美國長債殖利短期攀升，市場對財政赤字、政府發債規模及企業AI融資需求\n\n的疑慮同步升溫，加上美國與加拿大貿易談判惡化，影響週一台股開高走低，電\n\n子指標股走勢分化，終場加權指數失守季線，成交量為近4個月新低量。盤面高\n\n價股川湖續強；矽晶圓受惠漲價紅利成為電子主角、導線架及部分記憶體亦相對\n\n匯集人氣；由於成交量持續降溫，投資信心薄弱，上週強勢的ABF、CCL及航運擴\n\n大震幅。權值股方面，台積電下跌1.45%、鴻海下跌0.81%、聯發科下跌0.66%、\n\n廣達上漲1.09%，台達電下跌0.86%。\n\n盤面強勢股，光寶科、台勝科、晶豪科、光環、大甲、利機等共19檔漲停；\n\n順德、良維、永擎、川湖、環球晶、倚強科、長聖等漲幅6%以上。盤面弱勢股，\n\n新盛力、貿聯-KY等共6檔跌停；環宇-KY、嘉鋼、中再保、德宏、大量、聯鈞、\n\n應廣、台塑化、均華等跌幅7%以上。\n\n觀察盤面變化，三大類股皆墨，電子下跌0.94%、傳產下跌1.41%、金融下跌\n\n1.35%。在次族群部份以生技、電線電纜表現較佳，分別上漲1.74%、1.42%。\n\n※資金動向\n\n三大法人合計賣超170.14億元。其中外資賣超157.36億元，投信買超30.55\n\n億元，自營商賣超43.33億元。外資買超前五大為力積電、陽明、仁寶、鼎元、\n\n兆豐金；賣超前五大為南亞、群創、台塑、台塑化、台化。投信買超前五大為聯\n\n電、遠東新、富喬、頎邦、遠東銀；賣超前五大為慧洋-KY、第一金、兆豐金、\n\n華南金、順達。資券變化方面，融資減16.8億元，融資餘額為5452.59億元，融\n\n券增0.15萬張，融券餘額為20.15萬張。外資台指期部位，空單減少65口，淨空\n\n單部位82529口，借券賣出金額240.62億元。成交比重：電子80.59%、傳產\n\n16.92%、金融2.49%。\n\n※今日盤勢分析\n\n美國財政部可能動用規模接近1兆美元的財政部一般帳戶，為近期宣布擴大\n\n公債回購的計畫提供資金，藉此增加干預長期公債殖利率的籌碼。週一美債殖利\n\n率與油價同步回落，未能抵銷市場對AI需求、加拿大關稅及伊朗局勢的擔憂。週\n\n一美股四大指數漲跌互見，台積電ADR下跌2.11%。\n\n台股後市分析如下：第一、英特爾衝刺先進封裝再傳捷報，SK海力士披露，\n\n將於下一代高頻寬記憶體（HBM）導入英特爾EMIB先進封裝技術。SK海力士成為\n\n繼蘋果等大廠之後，又一台積電「大咖客戶」採用英特爾先進封裝技術，業界分\n\n析，主因台積電CoWoS產能塞爆的訂單外溢效應。\n\n第二、SpaceX加速其在太空建造AI資料中心的計畫。SpaceX將使用輝達的\n\nVera Rubin平台，擴大支援其AI聊天機器人Grok及相關服務的AI基礎設施。馬斯\n\n克本月稍早告訴投資人，SpaceX在2027年將取得「非常可觀比例的」輝達GPU。\n\n第三、技術面觀察，週一台股終場失守季線，成交量未達7千億，為窒息量(\n\n近4個月新低)，技術指標KD、RSI已回落至中性水位，MACD紅柱體縮短。目前加\n\n權指數月線已扣低值，短線以月線視為多方防守線，台股靜待補量，即有機會再\n\n走揚。若後續盤面成交量持續低於8千億，不排除出現假跌破失守月線，屆時應\n\n優先佈局AI績優權值股。\n\n第四、盤面資金聚焦矽晶圓、導線架、部分記憶體、及生技等族群，包括環\n\n球晶、順德、晶豪科、藥華藥等表現強勢。\n\n※投資策略\n\n儘管美國財政部擴大公債回購計畫，惟美國債務突破40兆美元，市場擔憂財\n\n政壓力。本週央行年會華許發言、NVIDIA與Marvell財報，將視為風險資產投資\n\n風向球。在美伊戰事持續未明、債市衝擊美股科技股回檔修正，加上台股技術面\n\n弱勢、外資期貨淨空單高於8萬口，預估盤面將呈現橫向整理，資金轉向個股單\n\n兵作戰，短線仍須嚴防行情波動。操作建議「逢低布局、反彈汰弱留強」，選股\n\n以流動性佳的中大型AI權值股為主。長線追蹤族群：台積電及先進製程/封裝、\n\n載板與PCB、矽晶圓、電源管理相關、機箱滑軌、貨櫃散裝、自行車、特用化學\n\n及高殖利率銀行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-25",
+      "Time": "08:22:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】法人：台股待補量關注華許演說",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E6%B3%95%E4%BA%BA-%E5%8F%B0%E8%82%A1%E5%BE%85%E8%A3%9C%E9%87%8F%E9%97%9C%E6%B3%A8%E8%8F%AF%E8%A8%B1%E6%BC%94%E8%AA%AA-002249062.html",
+      "Content": "（中央社記者鍾榮峰台北2026年08月25日電）美晶片股和記憶體族群挫跌，台積電ADR跌2.11%，台指期夜盤收44532點下跌208點，台積電期貨夜盤收2382點下跌3點。台股24日量縮下跌461點，創4月8日以來低量。期貨法人指出，市場資金未退場，轉進低基期與特定題材股，資金快速輪動，後續補量有利上攻。\n\n證券法人指出，美國聯邦準備理事會（Fed）主席華許（Kevin Warsh）本週稍後將在全球央行年會發表首場主題演說，市場高度關注美公債殖利率動向，美伊談判進展未明，外資台指期淨空單仍超過8.2萬口，短線台股嚴防行情波動。\n\n美國向伊朗擴大施加經濟壓力，美國將公布7月核心個人消費支出物價指數（PCE），本週輝達（NVIDIA）和邁威爾（Marvell）將公布財報，美股4大指數大多收低。\n\n道瓊工業指數上漲140.15點或0.26%，收53417.16點，標準普爾500指數跌21.51點或0.28%，收7652.86點。\n\n那斯達克指數下挫200.27點或0.76%，收25980.19點，費城半導體指數挫跌317.21點或2.70%，收11423.17點。\n\n輝達跌2.91%收208.48美元，台積電美國存託憑證（ADR）跌2.11%收410.12美元，博通跌2.63%，英特爾（Intel）跌3.12%，美光（Micron）挫跌5.83%，SK海力士ADR跌4.92%，超微（AMD）跌3.49%，SanDisk挫6.45%。\n\n台股24日量縮下跌461.97點，收44762.32點，成交值新台幣6294.27億元，是4月8日以來單日低量，失守45000點關卡和季線約44870點。在台指期淨部位，三大法人24日淨空單減少173口至4406口，其中外資淨空單減少65口至8萬2529口。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-25",
+      "Time": "08:22:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美半導體股挫跌　法人：台股待補量關注華許演說",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E6%8C%AB%E8%B7%8C-%E6%B3%95%E4%BA%BA-%E5%8F%B0%E8%82%A1%E5%BE%85%E8%A3%9C%E9%87%8F%E9%97%9C%E6%B3%A8%E8%8F%AF%E8%A8%B1%E6%BC%94%E8%AA%AA-002238549.html",
+      "Content": "（中央社記者鍾榮峰台北25日電）美晶片股和記憶體族群挫跌，台積電ADR跌2.11%，台指期夜盤收44532點下跌208點，台積電期貨夜盤收2382點下跌3點，台股24日量縮下跌461點，創4月8日以來低量。期貨法人指出，市場資金未退場，轉進低基期與特定題材股，資金快速輪動，後續補量有利上攻。\n\n證券法人指出，美國聯邦準備理事會（Fed）主席華許（Kevin Warsh）本週稍後將在全球央行年會發表首場主題演說，市場高度關注美公債殖利率動向，美伊談判進展未明，外資台指期淨空單仍超過8.2萬口，短線台股嚴防行情波動。\n\n美國向伊朗擴大施加經濟壓力，美國將公布7月核心個人消費支出物價指數（PCE），本週輝達（NVIDIA）和邁威爾（Marvell）將公布財報，美股4大指數大多收低。\n\n道瓊工業指數上漲140.15點或0.26%，收53417.16點，標準普爾500指數跌21.51點或0.28%，收7652.86點。\n\n那斯達克指數下挫200.27點或0.76%，收25980.19點，費城半導體指數挫跌317.21點或2.70%，收11423.17點。\n\n輝達跌2.91%收208.48美元，台積電美國存託憑證（ADR）跌2.11%收410.12美元，博通跌2.63%，英特爾（Intel）跌3.12%，美光（Micron）挫跌5.83%，SK海力士ADR跌4.92%，超微（AMD）跌3.49%，SanDisk挫6.45%。\n\n台股24日量縮下跌461.97點，收44762.32點，成交值新台幣6294.27億元，是4月8日以來單日低量，失守45000點關卡和季線約44870點。在台指期淨部位，三大法人24日淨空單減少173口至4406口，其中外資淨空單減少65口至8萬2529口。（編輯：張均懋）1150825",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-25",
@@ -11,6 +101,16 @@
       "URL": "https://finance.yahoo.com/m/97925645-4826-3d31-b8e6-374f6030e2e5/oklo%27s-ceo-says-used-nuclear.html",
       "Content": "For decades, the U.S. has treated spent nuclear fuel as one of the biggest environmental problems left behind by nuclear power, with roughly 94,000 metric tons of spent fuel stored in facilities across the country. And while the materials are safely contained, some of the isotopes in this spent fuel have a half-life of nearly 25,000 years -- so yes, they're dangerous, and an enormous liability.\n\nBut Oklo (NYSE: OKLO) is proposing something audacious. The company argues that all that fuel sitting in storage still contains enormous amounts of usable energy. And you know what? The science -- and more importantly, the regulators -- support the premise.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThis is where Oklo sees the silver lining -- one that could rival some of the world's largest energy reserves. But is all this a pipe dream, or is there an actual business opportunity here? And more importantly, how close is Oklo to taking this opportunity and delivering a real return on investment ?\n\nInside Oklo's $1.68 billion nuclear fuel recycling plan\n\nIn 2025, Oklo announced plans to build a fuel recycling facility in Tennessee as part of a larger $1.68 billion advanced fuel center project.\n\n\"The recycling facility will recover usable fuel material from used nuclear fuel and fabricate it into fuel for advanced reactors,\" the company said in its announcement. \"This process can reduce waste volumes for more economical, clean, and efficient disposal pathways.\"\n\nBut the even bigger headline here is that the estimated 94,000 metric tons of used nuclear fuel could generate energy equivalent to 1.3 trillion barrels of oil. That's five times Saudi Arabia's estimated oil reserves.\n\nThe U.S. Department of Energy itself notes that more than 90% of the potential energy in spent nuclear fuel remains even after it has been used in a conventional reactor. So that's a viable claim.\n\nOklo CEO Jacob DeWitte highlights the claim, saying, \"By recycling used fuel at scale, we are turning waste into gigawatts, reducing costs, and establishing a secure U.S. supply chain that will support the deployment of clean, reliable, and affordable power.\"\n\nNow, those are some big numbers being thrown around, so let's frame it against the potential scope of this opportunity.\n\nThe U.S. operates a once-through nuclear fuel cycle. Uranium is mined, processed into fuel, used in reactors, and then stored as waste. It's not exactly the most efficient or environmentally friendly of processes. Oklo's proposal would move away from that strictly once-through model by recovering usable material from spent fuel.\n\nStory Continues\n\nEven better, DeWitte says its recycling process can shorten the material's half-life from tens of thousands of years to a few hundred years while also reducing the volume of the material up for final disposal. That plan checks every box on an ESG rating scorecard.\n\nAnd on top of that, many U.S. leaders view the country's dependence on imported oil as a major strategic vulnerability. One need only look at the havoc caused by the repeated closure of the Strait of Hormuz this past year to see just how vulnerable the global energy market is.\n\nSo, Oklo's planned recycling program could potentially become a valuable piece of America's energy-security strategy.\n\nThe risks behind Oklo's ambitious nuclear timeline\n\nBut there's a caveat here: While the proposal is ambitious, it's also theoretical.\n\nThe fuel recycling plant isn't expected to begin producing metal fuel until the early 2030s. It doesn't even have a groundbreaking date set yet.\n\nOn top of that, it also needs to work within the company's larger Aurora reactor business, which is still moving through the regulatory and development process.\n\nGranted, Oklo has managed to jump some hoops since the initial announcement. It received a DOE start-up authorization for its Groves Isotope Test Reactor in Texas in July 2026. Then, in early August, it achieved a controlled, self-sustaining nuclear chain reaction at low power -- a criticality in nuclear science terms. This is an important step toward establishing operating experience and demonstrating deployment capabilities that could inform Oklo's future commercial facilities.\n\nBut the fact remains that Oklo does not yet have an operating commercial nuclear power reactor, nor is it anywhere close to completing the fuel recycling facility.\n\nSo it's a bet, and a long one at that.\n\nAnd yet, many Wall Street analysts are willing to underwrite that bet, with the stock getting a solid Moderate Buy rating from consensus estimates. So if you're willing to go the distance, Oklo is a viable long-term choice, but it needs to execute and deliver for all this to make sense.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-25",
+      "Time": "08:19:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "晶片股遭拋售，費半急瀉2.70%、那指下跌0.76%，輝達連七黑四年首見",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%99%B6%E7%89%87%E8%82%A1%E9%81%AD%E6%8B%8B%E5%94%AE-%E8%B2%BB%E5%8D%8A%E6%80%A5%E7%80%892-70-%E9%82%A3%E6%8C%87%E4%B8%8B%E8%B7%8C0-76-001942014.html",
+      "Content": "【財訊快報／陳孟朔】美股四大指數在上週週線齊收黑後，週一收盤呈現一上三下的表現，道瓊工業指數追高約140點或0.26%連二紅，同日，標普、那指和費半依序跌0.28%、0.76%和2.7%，投資人等待輝達財報、美國通膨數據及聯準會(Fed)主席華許在傑克森霍爾年會的演說，科技與晶片股遭到拋售。預計週三盤後公布財報的輝達股價下挫2.91%，不僅是道瓊最大魯蛇，連七黑亦是近四年來首見，帶衰費半重挫2.7%退回近四週新低。紐約股市24日收盤時，道瓊工業指數上漲140.15點或0.26%，收在53,417.16點；標普500指數下跌21.51點或0.28%，收在7,652.86點；那斯達克指數(那指)下跌200.27點或0.76%，失守兩萬六，收在25,980.19點。\n\n費城半導體指數重挫317.20點或2.70%，收在11,423.17點為7月31日以來最低。台積電ADR下挫2.11%至410.12美元，非費半成份股的聯電ADR逆勢急漲3.87%至19.05美元。\n\n閃迪(SanDisk，美股代碼SNDK)急瀉6.45%，美光科技(Micron，美股代碼MU)挫跌5.83%淪為費半最大魯蛇，博通(Broadcom)下滑2.63%；輝達(Nvidia，美股代碼NVDA)跌2.91%，收在208.48美元，連續第七個交易日收黑，寫下2022年9月以來最長連跌紀錄。特斯拉(Tesla)亦下挫3.83%淪為七雄最大輸家。\n\n除輝達週三盤後財報前的觀望情緒外，美國政界對AI數據中心耗電及電網可靠性的批評升高，也打擊科技股氣氛。德州州長格雷格．艾波特(Greg Abbott)本月已暫停州內電網審批新的數據中心項目。金融股則逆勢走高，摩根大通銀行(JPMorgan Chase)上漲1.4%，Visa勁揚3%，共同支撐道瓊收紅。\n\n本週市場焦點集中在週三公布的7月個人消費支出(PCE)物價指數與輝達財報，以及華許(Kevin Warsh)週五(28日)在傑克森霍爾(Jackson Holl)全球央行年會的演說。CNBC報導美國財政部可能動用一般帳戶(TGA)部分現金擴大美債回購，帶動長債殖利率回落，但30年期殖利率仍守在5%以上；市場正等待輝達交出足以支撐AI估值的財測，以及華許釐清聯準會下一步利率方向。\n\n美股盤後小漲\n\n美國股市週一盤後上揚，不動產服務業者Real REMAX Group Inc(REAX US)盤後股價上揚，因該公司計畫回購自家股票的消息，催化了買盤人氣。\n\n道瓊指數期指上漲7.00點或0.01%，報53,496.00點。\n\nReal REMAX Group Inc盤後股價上漲7.1%。該公司宣布董事會授權一項規模4.5億美元或數量2,500萬股的股票回購計畫。\n\n寬頻媒體通訊業者特許通訊公司(CHTR US)盤後股價下跌1.8%。儘管盤後股價滑落，但是信評機構標普(S&P)仍確認該公司長期債信評級在BB+。",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT, GOOGL, AMZN",
