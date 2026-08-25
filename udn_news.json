@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-25T10:04:11.893Z",
-  "total_news_count": 47,
+  "last_updated": "2026-08-25T11:04:34.456Z",
+  "total_news_count": 49,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-08-25",
+      "Time": "18:58:00",
+      "Source": "經濟日報",
+      "Title": "晶片霸主保衛戰1／台積電兩大對手「有錢了」 AI 改寫半導體三強戰局",
+      "URL": "https://money.udn.com/money/story/124480/9713538?from=edn_search_result",
+      "Content": "經濟日報 記者劉秀珍／專題報導\n\nAI重點 AI代理人興起推升CPU需求，英特爾獲利明顯改善。 三星受DRAM需求爆發帶動，資本實力快速追上台積電。 台積電技術仍領先，但已開始認真看待英特爾與三星。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-08-25",
+      "Time": "18:58:00",
+      "Source": "經濟日報",
+      "Title": "晶片霸主保衛戰2／稱霸 CoWoS 還不夠 台積電為何開始研究英特爾 EMIB？",
+      "URL": "https://money.udn.com/money/story/124480/9713593?from=edn_search_result",
+      "Content": "經濟日報 記者劉秀珍／專題報導\n\n外電報導台積電（2330）最近一個防禦性動作引發關注，雖然還未獲台積電證實，但相當不尋常，也引發業界諸多討論。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2454.TW",
       "Date": "2026-08-25",
