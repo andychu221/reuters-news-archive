@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T16:11:28.666Z",
-  "total_news_count": 575,
+  "last_updated": "2026-08-25T16:21:14.733Z",
+  "total_news_count": 576,
   "news": [
     {
       "Ticker": "META",
@@ -43,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "STM",
+      "Date": "2026-08-25",
+      "Time": "23:24:00",
+      "Source": "Yahoo Finance",
+      "Title": "STMicroelectronics-NUS Lab Strengthens Low-Power Edge AI Push",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/stmicroelectronics-nus-lab-strengthens-low-152400711.html",
+      "Content": "STMicroelectronics N.V. STM, or ST, has partnered with the National University of Singapore (NUS) to launch the ST-NUS HELIX Corporate Lab, a four-year research initiative focused on advancing generative and embodied AI at the edge.\n\nHELIX, or Hybrid Embodied Low-power Intelligent Xceleration, will develop technologies that allow AI systems to process information locally rather than relying heavily on cloud infrastructure. The initiative targets applications such as robots, humanoids and drones that require real-time sensing, decision-making and actuation while operating under tight power constraints.\n\nSTMicroelectronics-NUS Lab Targets Low-Power Edge AI\n\nThe ST-NUS HELIX Corporate Lab will focus on embodied AI, where intelligence is built into physical systems such as robots, humanoids and drones. The initiative aims to develop AI systems that can perceive, reason and act in real time while operating within the latency, power and compute constraints of edge devices.\n\nResearch at HELIX will span AI models and system architecture, heterogeneous accelerators, on-chip memory hierarchies, circuit design, chip integration and silicon implementation. The program will focus on memory-centric architectures, innovative in-memory computing and scalable compute-and-memory systems to address energy efficiency, memory bandwidth, latency, scalability and integration challenges associated with edge AI.\n\nSTMicroelectronics will contribute its silicon, architecture, integration and engineering capabilities to the lab. The research will use ST's P18 18-nanometer FD-SOI technology, which enables ultra-low-power operation and adaptive body-biasing, together with embedded Phase Change Memory. The combination is designed to reduce off-chip data movement in memory-intensive AI workloads. ST will also provide NUS with a dedicated design chassis based on its P18 technology. According to the release, this will give researchers an industrial-grade foundation for developing, integrating and validating new AI accelerator concepts while allowing them to focus on differentiated innovation and system-level validation.\n\nEdge AI Push Builds on STM's Broader AI Strategy\n\nThe NUS collaboration builds on STMicroelectronics' focus on intelligent sensing, robotics and physical AI. In the second quarter of 2026, Industrial revenues rose 34% year over year and 20% sequentially, supported by microcontrollers, analog and power-conversion products. Management highlighted intelligent sensing, real-time control and efficient power management as key to factory automation and robotics.\n\nST has also expanded its edge AI portfolio with industrial MEMS sensors featuring embedded AI, a compact 3D LiDAR module and ultra-low-power global-shutter image sensors. The company is further strengthening its physical AI ecosystem through NVIDIA Halos for Robotics, while the NXP MEMS integration is broadening its sensing capabilities.\n\nSTM stock has gained 43.5% in the past six months compared with the Zacks Semiconductor - General industry's 16.8% rise. Improving demand, strong bookings and momentum in AI-related applications support the company's growth prospects. ST also raised its data-center revenue ambition to more than $1 billion for 2026 and well above $2 billion for 2027. Nonetheless, trade-policy uncertainty, end-market volatility, manufacturing transitions and unused-capacity charges could pressure results. Successful execution of its manufacturing reshaping program and AI-related investments will also be key to sustaining momentum.\n\nStory Continues\n\nImage Source: Zacks Investment Research\n\nSTM's Zacks Rank & Key Picks\n\nSTMicroelectronics currently carries a Zacks Rank #3 (Hold).\n\nHere are some better-ranked stocks from the same sector.\n\nMonolithic Power Systems, Inc. MPWR currently sports a Zacks Rank #1 (Strong Buy). You can see the complete list of today's Zacks #1 Rank stocks here .\n\nMonolithic delivered a trailing four-quarter earnings surprise of 4.6%, on average. The stock has gained 41.8% year to date. The Zacks Consensus Estimate for Monolithic's 2026 sales and earnings per share (EPS) implies an increase of 46.4% and 52.6%, respectively, from a year ago.\n\nPaycom Software, Inc. PAYC currently sports a Zacks Rank of 1. Paycom delivered a trailing four-quarter earnings surprise of 7.2%, on average. The stock has inched up 44.1% year to date.\n\nThe Zacks Consensus Estimate for Paycom's 2026 sales and EPS implies improvements of 7.5% and 27.3%, respectively, from a year ago.\n\nNVIDIA Corporation NVDA carries a Zacks Rank #2 (Buy) at present. It has a trailing four-quarter earnings surprise of 5.5% on average. Shares of NVDA have climbed 11.8% year to date.\n\nThe Zacks Consensus Estimate for NVIDIA's fiscal 2027 EPS indicates 80% growth on an 87% revenue rise from the year-ago levels.",
+      "Language": "en"
+    },
+    {
       "Ticker": "LITE",
       "Date": "2026-08-25",
       "Time": "23:14:00",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "LITE, NVDA",
+      "Ticker": "CSCO, LITE, NVDA",
       "Date": "2026-08-25",
       "Time": "23:13:00",
       "Source": "Yahoo Finance",
