@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-25T12:01:22.756Z",
-  "total_news_count": 526,
+  "last_updated": "2026-08-25T12:11:35.574Z",
+  "total_news_count": 527,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-25",
+      "Time": "20:03:33",
+      "Source": "Yahoo Finance",
+      "Title": "Google expands Gemini AI platform for law firms, lawyers",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-expands-gemini-ai-platform-120333157.html",
+      "Content": "By Mike Scarcella\n\nWASHINGTON, Aug 25 (Reuters) - Alphabet's Google on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms, accelerating a race among technology companies to meet legal ‌sector demand for AI.\n\nThe company said its Gemini Enterprise for Legal would help law firms use AI to ‌manage routine and complex work to allow lawyers to focus on higher-value services, while keeping their data secure and confidential.\n\nThe new plug-in for Gemini Enterprise ​includes integration with legal software and data platforms and a stable of AI agents that Google said can handle specialized legal and administrative functions without significant human oversight.\n\nAlphabet launched Gemini Enterprise for business customers in October, in a bid to attract more corporate clients with its AI offerings. Google Cloud has become one of Alphabet's fastest-growing businesses.\n\nIn addition to legal, Google on Tuesday said ‌it was unveiling industry tools for the ⁠financial services sector and would later roll out other industry-specific offerings.\n\nRival AI companies including Anthropic have also expanded their enterprise offerings in recent months, including in the legal sector. A 2026 report ⁠on the legal industry's adoption of AI from Deloitte found that law firms are investing heavily in the technology as part of a transformation that's still in its early stages.\n\nThomson Reuters, which owns Reuters and Westlaw's legal research database, is among the competitors for ​legal ​industry market share. On Monday it launched a proprietary large language ​model called Thomson 1.0 that is trained on its legal ‌research content and built for professional work. It said the model is built on open-source technology and draws on decades of its own \"authoritative\" legal content.\n\nGoogle said its platform will connect directly and securely to other legal technology platforms owned by Thomson Reuters, legal AI software developer Harvey, data analytics and technology company LexisNexis and others.\n\nLaw firms are rapidly adopting generative AI tools that can assist with legal research, draft filings and perform other legal tasks. Many are also using AI for ‌business operations like client and case management, seeking to cut costs and ​improve efficiency.\n\nGoogle's new offering is designed to be flexible for law firms, ​said Amrita Mehrok, a Google Cloud product director at ​the company, allowing them to choose among AI models embedded in the platform.\n\nStory Continues\n\nSome large law ‌firms have formed strategic partnerships with AI providers and ​in some instances are building ​their own AI platforms. Google said Weil Gotshal, Cleary Gottlieb, Freshfields and Williams & Connolly are among a group of firms collaborating with it on Gemini Enterprise for Legal.\n\nWeil Gotshal's co-managing partner Jonathon Soler in an interview said ​clients increasingly expect their lawyers to be ‌using AI and taking advantage of its efficiencies.\n\nCleary Gottlieb managing partner Jeffrey Karpf said the firm's collaboration with ​Google would allow it to \"be involved in the creation of useful tools for law firms deploying AI.\"\n\n(Reporting ​by Mike Scarcella; Editing by David Bario and Stephen Coates)",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-25",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AVGO",
+      "Ticker": "GOOGL, NVDA, AVGO",
       "Date": "2026-08-25",
       "Time": "19:35:00",
       "Source": "Yahoo Finance",
