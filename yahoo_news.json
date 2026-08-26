@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T13:01:00.426Z",
-  "total_news_count": 789,
+  "last_updated": "2026-08-26T13:11:28.004Z",
+  "total_news_count": 790,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-08-26",
       "Time": "20:32:00",
       "Source": "Yahoo Finance",
@@ -43,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AMZN",
+      "Date": "2026-08-26",
+      "Time": "20:28:33",
+      "Source": "Yahoo Finance",
+      "Title": "Amazon Shuts Down 21-Year-Old Service as AI Reshapes Its Business",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-shuts-down-21-old-122833004.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) is preparing to retire Mechanical Turk, ending a 21-year run for the crowdsourced work platform on Sept. 30.\n\nThe service was introduced in 2005 to connect businesses with people completing small online assignments that computers struggled to handle. Tasks included data labeling, transcription and surveys, with payments often made on a per-task basis.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nMechanical Turk later became part of Amazon Web Services' broader offerings for human review and data annotation, including support for artificial intelligence development. AWS had promoted the workforce as a way to obtain human input around the clock.\n\nThe decision comes as AI capabilities have progressed and competing data-labeling platforms have expanded. Amazon had already stopped taking new Mechanical Turk customers last month, pointing toward a broader shift in the service's role.\n\nThe platform once counted more than 500,000 workers, according to Amazon. Its closure could push remaining users and businesses that rely on human data workers toward alternative providers.\n\nThe shutdown is unlikely to materially affect shares, but it reflects changes in AWS' AI-focused service portfolio.",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-08-26",
       "Time": "20:25:53",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-08-26",
       "Time": "20:20:01",
       "Source": "Yahoo Finance",
