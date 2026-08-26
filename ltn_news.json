@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T10:28:25.531Z",
-  "total_news_count": 279,
+  "last_updated": "2026-08-26T11:29:05.946Z",
+  "total_news_count": 277,
   "news": [
     {
       "Ticker": "2344.TW, 6770.TW",
@@ -3855,34 +3855,6 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "ETF,投資人數,規模,震盪加劇,長期投資"
-    },
-    {
-      "Ticker": "2344.TW",
-      "Date": "2026-07-27",
-      "Time": "18:50:27",
-      "Source": "自由時報",
-      "Title": "外資買超80億前10大賣超出爐！華邦電、友達上榜 它砍逾萬張最慘",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5519536",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 外資週一（27日）由賣轉為買超80.4億元，但對電子股進行提款。\n• 華邦電（2344）遭外資賣超10,620張，股價受衝擊。\n• 至上（8112）遭外資砍11,243張，股價下跌4.53%，收盤價為84.3元。",
-      "Related_Score": 3,
-      "Sentiment_Score": -1,
-      "Keywords": "外資動向,賣超,電子股,記憶體"
-    },
-    {
-      "Ticker": "2303.TW",
-      "Date": "2026-07-27",
-      "Time": "18:32:34",
-      "Source": "自由時報",
-      "Title": "外資熱錢回流！狂買這2檔電子近10萬張 前10大買超1次看",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5519522",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 外資週一（27日）由賣轉為買超80.4億元，買超前10大個股中，群創與聯電為唯二電子股。\n• 群創（3481）獲外資買超56,496張，但股價終場下跌4.34%，收盤價為47.5元。\n• 聯電（2303）獲外資買超43,123張，但股價終場下跌1.56%，收盤價為126元。",
-      "Related_Score": 3,
-      "Sentiment_Score": -1,
-      "Keywords": "外資買超,電子股,記憶體,面板"
     }
   ]
 }
