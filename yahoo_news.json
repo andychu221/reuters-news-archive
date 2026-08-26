@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-26T19:01:13.409Z",
-  "total_news_count": 867,
+  "last_updated": "2026-08-26T19:11:12.325Z",
+  "total_news_count": 869,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-08-27",
+      "Time": "03:00:22",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia’s AI Servers Are About to Get Pricier — What a 15%+ Hike Means for the Whole Stack",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-servers-pricier-15-190022645.html",
+      "Content": "Some of NVIDIA Corporation (NASDAQ: NVDA )'s largest customers have been told that prices of servers ‌containing its AI chips will rise by more than 15%, according to a Bloomberg News report from August 22. The increases will go into effect on systems ⁠shipped early next year and will include those with the flagship Vera Rubin and Grace Blackwell chips, the report said.\n\nWhile Nvidia hasn't yet confirmed the news, the hikes tied to soaring memory costs will depend on the chip generation and memory configurations. The report added that server manufacturers supplying Microsoft, Oracle, and Google have already begun notifying customers. The news lands just days ahead of the chipmaker's earnings release on August 26.\n\nWhy Now?\n\nNVIDIA Corporation (NASDAQ:NVDA)'s core manufacturing costs aren't driving these price hikes. Rather, it's a broader industry-wide memory shortage. Due to the AI infrastructure boom, memory manufacturers such as Samsung Electronics and SK Hynix have gained outsized pricing power, allowing them to pass down these costs downstream and forcing hardware providers such as Nvidia to hike server prices.\n\nNvidia has already raised prices on GEForce graphics cards earlier in the month. As per a Bloomberg report, this pressure has now reached the top of the Nvidia stack, with the 15% rise on systems selling for millions of dollars each adding hundreds of thousands of dollars per rack across deployments.\n\nThe Bull Case\n\nThe bullish interpretation for Nvidia's price hikes is pretty straightforward. The chipmaker may have enough ability to pass on its costs to customers while accelerator supply remains tight, demonstrating a sign of pricing power. If Nvidia's margins stay steady even after it enforces the hikes, and hyperscalers continue ordering at planned volumes, the costs are likely being absorbed by customers rather than Nvidia itself.\n\nMoreover, price increases, if accepted without any resistance, would be an evidence of extraordinary demand. This would in turn reinforce the AI infrastructure boom. With customers eating most of the memory inflation, Nvidia is likely to have the pricing power in the stack. This is an important point considering investors are watching how rising HBM costs could erode Nvidia's gross-margin profile.\n\nThe Bear Case\n\nWhile Nvidia may be demonstrating pricing strength, every pricing hike also improves the economics of seeking alternatives. This is because the hikes are eventually squeezing the economics of buyers purchasing these systems, who may eventually move to other options, if they become available.\n\nStory Continues\n\nCompanies such as Amazon, Microsoft, Meta, and Google are all developing in-house accelerators. However, these companies also remain dependent on purchases from Nvidia for their data center build-out. Their independence also depends on the supply from Samsung, SK Hynix and Micron Technology, Inc. (NASDAQ: MU ).\n\nHedge Fund Sentiment\n\nInstitutional interest has only been gaining more ground in the AI chipmaker. In the first quarter 0f 2026, Insider Monkey's database showed the number of hedge fund holders increased  in Nvidia from 264 to 275. This number climbed to 285 in Q2. Recent filings also show that Fisher Asset Management increased its stake by 3% to hold 90.94 million shares worth $18 billion. AQR Capital Management also boosted its position by 18%, while Arrowstreet Capital increased its holding by 10%.\n\nOverall, the reported Nvidia price hike is more of a supply-chain story. Nvidia's August 26 earnings call may provide clues on whether Bloomberg's reporting holds true, and whether the company itself considers this as a margin risk or a pricing opportunity.\n\nWhile we acknowledge the potential of NVDA as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nCompanies such as Amazon, Microsoft, Meta, and Google are all developing in-house accelerators. Howeve",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-08-27",
+      "Time": "02:49:05",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft's 29% Sprint Leaves Cash Flow Behind",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsofts-29-sprint-leaves-cash-184905244.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ), the enterprise-software and cloud giant, traded at $494.12 Wednesday after ripping 29% higher across eight sessions following its July 29 earnings report. That is not a rebound. It is a stampede. Momentum traders are charging in, but the stock is climbing faster than Microsoft's cash machine.\n\nWarning! GuruFocus has detected 3 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe quarterly results were huge. Revenue jumped 18% to $90 billion. Azure growth hit 43%. Commercial remaining performance obligations rocketed 84% to $678 billion. Then came the catch: free cash flow sank 23% to $19.6 billion as AI infrastructure spending exploded. The growth is real. The cash squeeze is real, too.\n\nMicrosoft's backlog equals roughly 7.5 quarters of current revenue, but backlog does not pay today's bills. The company must buy chips, lock down electricity and build enormous data centers before much of that demand becomes cash. At $494.12, the shares sit 14.69% below the $579.21 GF Value estimate, signaling potential upside. But the next leg higher needs more than momentum. Microsoft must show that its AI empire can turn massive spending into massive cash.\n\nMicrosoft's 29% Sprint Leaves Cash Flow Behind · us.finance.gurufocus\n\nMicrosoft's 29% Sprint Leaves Cash Flow Behind · us.finance.gurufocus Microsoft's backlog equals roughly 7.5 quarters of current revenue, but backlog does not pay today's bills. The company must buy chips, lock down electricity and build enormous data centers before much of that demand becomes cash. At $494.12, the shares sit 14.69% below the $579.21 GF Value estimate, signaling potential upside. But the next leg higher needs more than momentum. Microsoft must show that its AI empire can turn massive spending into massive cash.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-27",
@@ -53,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-08-27",
       "Time": "02:17:00",
       "Source": "Yahoo Finance",
