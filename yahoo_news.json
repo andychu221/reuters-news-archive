@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-26T22:11:09.310Z",
-  "total_news_count": 908,
+  "last_updated": "2026-08-26T22:26:20.801Z",
+  "total_news_count": 913,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-27",
+      "Time": "06:14:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】小幅收低",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%B0%8F%E5%B9%85%E6%94%B6%E4%BD%8E-221435141.html",
+      "Content": "（中央社台北2026年8月27日電）美國通膨數據高於預期，許多投資人暫時觀望，等待人工智慧（AI）指標企業輝達（Nvidia）公布財報，美股3大指數今天小幅收低。\n\n道瓊工業指數下跌113.52點或0.21%，收報53463.88點。\n\n標普500指數下挫1.58點或0.02%，收在7675.70點。\n\n那斯達克指數下滑21.10點或0.08%，收26130.20點。\n\n費城半導體指數上揚23.20點或0.20%，收11611.24點。",
+      "Language": "zh"
+    },
     {
       "Ticker": "AMZN, NVDA",
       "Date": "2026-08-27",
@@ -31,6 +41,46 @@
       "URL": "https://finance.yahoo.com/m/2e29cb91-ada2-36f7-aa72-861964c430e3/stock-market-today%2C-aug.-26%3A.html",
       "Content": "Meta Platforms (NASDAQ:META), a social networking and artificial intelligence (AI) giant, closed at $576.14, up 1.07%. The stock moved after Meta settled a high-profile child-safety case with U.S. states. Meta agreed to pay up to $18 billion and introduce child-safety measures such as daily time limits and muted school-time notifications. Meta has also called on competitors to introduce similar protections.\n\nTrading volume reached 31.1 million shares, coming in about 69% above its three-month average of 18.4 million shares. Meta Platforms IPO'd in 2012 and has grown 1,270% since going public.\n\nHow the markets moved today\n\nThe S&P 500 closed at 7,676, down 0.02%, while the Nasdaq Composite finished at 26,130, down 0.08%. Among social media and digital advertising platforms, Alphabet closed at $339.10, down 1.23%, and Snap closed at $5.42, down 8.45%.\n\nWhat this means for investors\n\nMeta shares rose slightly following today's settlement because it resolves the legal cases over child addiction with payouts that will be spread over the coming 10 years. Several media reports had compared the case to tech's \"big tobacco\" moment, sparking fears that it would have to pay a much larger amount.\n\nEven so, as mega tech firms race to develop AI infrastructure, every dollar counts. The bigger question for investors is when and whether Meta's 2026 capital expenditure of $125 billion to $145 billion will generate returns. Meta's ad revenue continues to show impressive growth, and the legal cloud may have lifted, but that massive cash burn is still worth watching.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-27",
+      "Time": "05:36:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR26日上漲0.28美元漲幅0.07%折台股2658.01元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr26%E6%97%A5%E4%B8%8A%E6%BC%B20-28%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-07-%E6%8A%98%E5%8F%B0%E8%82%A12658-01%E5%85%83-213626794.html",
+      "Content": "(中央社台北2026年 8月27日電)台積電在NYSE掛牌 ADR以417.69美元作收，上漲0.28美元，漲幅 0.07%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 8月26日新台幣匯市收盤價31.818元計算，相當台股台積電每股為 2658.01元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/26\n\n417.69\n\n0.28\n\n0.07\n\n31.818\n\n2658.0\n\n8/25\n\n417.41\n\n7.29\n\n1.78\n\n31.868\n\n2660.4\n\n8/24\n\n410.12\n\n-8.83\n\n-2.11\n\n31.854\n\n2612.7\n\n8/21\n\n418.95\n\n2.95\n\n0.71\n\n31.848\n\n2668.5\n\n8/20\n\n416.00\n\n3.91\n\n0.95\n\n31.925\n\n2656.1\n\n8/19\n\n412.09\n\n-1.32\n\n-0.32\n\n31.937\n\n2632.1\n\n8/18\n\n413.41\n\n-17.56\n\n-4.07\n\n31.945\n\n2641.2\n\n8/17\n\n430.97\n\n4.62\n\n1.08\n\n31.852\n\n2745.4\n\n8/14\n\n426.35\n\n-4.14\n\n-0.96\n\n32.046\n\n2732.5\n\n8/13\n\n430.49\n\n1.34\n\n0.31\n\n32.168\n\n2769.6",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-27",
+      "Time": "05:36:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR26日下跌0.11美元跌幅1.37%折台股25.20元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr26%E6%97%A5%E4%B8%8B%E8%B7%8C0-11%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-37-%E6%8A%98%E5%8F%B0%E8%82%A125-20%E5%85%83-213624510.html",
+      "Content": "(中央社台北2026年 8月27日電)友達光電在OTC US掛牌ADR以7.92美元作收，下跌0.11美元，跌幅 1.37%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 8月26日新台幣匯市收盤價31.818元計算，相當台股友達每股為 25.20元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/26\n\n7.92\n\n-0.11\n\n-1.37\n\n31.818\n\n25.2\n\n8/25\n\n8.03\n\n0.15\n\n1.90\n\n31.868\n\n25.5\n\n8/24\n\n7.88\n\n-0.12\n\n5 -1.53\n\n31.854\n\n25.1\n\n8/21\n\n8.00\n\n5 0.01\n\n7 0.15\n\n31.848\n\n25.4\n\n8/20\n\n7.99\n\n8 -0.23\n\n2 -2.91\n\n31.925\n\n8/19\n\n8.23\n\n0.05\n\n0.61\n\n31.937\n\n26.2\n\n8/18\n\n8.18\n\n-0.30\n\n-3.54\n\n31.945\n\n26.1\n\n8/17\n\n8.48\n\n0.44\n\n5.47\n\n31.852\n\n27.0\n\n8/14\n\n8.04\n\n-0.01\n\n5 -0.23\n\n32.046\n\n25.7\n\n8/13\n\n8.05\n\n5 -0.09\n\n5 -1.12\n\n32.168\n\n25.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-27",
+      "Time": "05:36:20",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR26日下跌0.26美元跌幅0.60%折台股136.53元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr26%E6%97%A5%E4%B8%8B%E8%B7%8C0-26%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-60-%E6%8A%98%E5%8F%B0%E8%82%A1136-53%E5%85%83-213620527.html",
+      "Content": "(中央社台北2026年 8月27日電)中華電信在NYSE掛牌ADR 以 42.91美元作收，下跌0.26美元，跌幅 0.60%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 8月26日新台幣匯市收盤價31.818元計算，相當台股中華電信每股為136.53元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/26\n\n42.91\n\n-0.26\n\n-0.60\n\n31.818\n\n136.5\n\n8/25\n\n43.17\n\n0.00\n\n31.868\n\n137.5\n\n8/24\n\n-0.21\n\n-0.48\n\n31.854\n\n8/21\n\n43.38\n\n0.02\n\n0.05\n\n31.848\n\n138.1\n\n8/20\n\n43.36\n\n0.36\n\n0.84\n\n31.925\n\n138.4\n\n8/19\n\n43.00\n\n0.10\n\n0.23\n\n31.937\n\n137.3\n\n8/18\n\n42.90\n\n0.41\n\n0.96\n\n31.945\n\n137.0\n\n8/17\n\n42.49\n\n-0.09\n\n31.852\n\n135.3\n\n8/14\n\n42.58\n\n0.30\n\n0.71\n\n32.046\n\n136.4\n\n8/13\n\n42.28\n\n-0.06\n\n-0.14\n\n32.168\n\n136.0",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-27",
+      "Time": "05:36:18",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR26日下跌0.57美元跌幅2.91%折台股121.1元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr26%E6%97%A5%E4%B8%8B%E8%B7%8C0-57%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-91-%E6%8A%98%E5%8F%B0%E8%82%A1121-1%E5%85%83-213618853.html",
+      "Content": "(中央社台北2026年 8月27日電)聯電在NYSE掛牌 ADR以19.03美元作收，下跌0.57美元，跌幅 2.91%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 8月26日新台幣匯市收盤價31.818元計算，相當台股聯電每股為121.10元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n8/26\n\n19.03\n\n-0.57\n\n-2.91\n\n31.818\n\n121.1\n\n8/25\n\n19.60\n\n0.55\n\n2.89\n\n31.868\n\n124.9\n\n8/24\n\n19.05\n\n0.71\n\n3.87\n\n31.854\n\n121.3\n\n8/21\n\n18.34\n\n0.34\n\n1.89\n\n31.848\n\n116.8\n\n8/20\n\n18.00\n\n-0.12\n\n-0.66\n\n31.925\n\n114.9\n\n8/19\n\n18.12\n\n-0.36\n\n-1.95\n\n31.937\n\n115.7\n\n8/18\n\n18.48\n\n-1.05\n\n-5.38\n\n31.945\n\n118.0\n\n8/17\n\n19.53\n\n0.38\n\n1.98\n\n31.852\n\n124.4\n\n8/14\n\n19.15\n\n-0.23\n\n-1.19\n\n32.046\n\n122.7\n\n8/13\n\n19.38\n\n0.07\n\n0.36\n\n32.168\n\n124.6",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
