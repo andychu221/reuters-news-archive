@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-27T19:25:44.298Z",
-  "total_news_count": 1172,
+  "last_updated": "2026-08-27T19:34:26.494Z",
+  "total_news_count": 1173,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-08-28",
+      "Time": "03:08:17",
+      "Source": "Yahoo Finance",
+      "Title": "Broadcom Faces New AI Challenge as Google Deepens Marvell Partnership",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-ai-challenge-google-190817740.html",
+      "Content": "This article first appeared on GuruFocus .\n\nBroadcom ( NASDAQ:AVGO ) shares are under pressure as investors weighed Google's expanded relationship with Marvell and fresh performance data from an OpenAI chip project.\n\nOpenAI said its Jalapeno inference processor delivered 1.5 to 1.9 times more AI work per watt than comparison systems at peak throughput. The project could give Broadcom another avenue to grow its custom silicon business as cloud companies diversify suppliers.\n\nWarning! GuruFocus has detected 2 Warning Sign with AVGO.\n\nIs AVGO fairly valued? Test your thesis with our free DCF calculator.\n\nMarvell Technology ( NASDAQ:MRVL ) shares rose nearly 8% after Google expanded cooperation on custom AI processors and networking products. The arrangement could generate as much as $120 billion in revenue if purchase targets are met through fiscal 2033.\n\nBroadcom enters the development with AI semiconductor revenue of $10.8 billion in fiscal second quarter, up 143% from a year earlier. Management expects about $16 billion in the current quarter.\n\nGoogle's Marvell ties create competition, but OpenAI's custom-chip work could provide Broadcom with a separate AI growth driver.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-08-28",
