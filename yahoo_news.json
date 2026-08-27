@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-08-27T19:00:55.605Z",
-  "total_news_count": 1170,
+  "last_updated": "2026-08-27T19:11:16.513Z",
+  "total_news_count": 1171,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL",
+      "Date": "2026-08-28",
+      "Time": "03:06:53",
+      "Source": "Yahoo Finance",
+      "Title": "Google Makes Quiet Change to AI Oversight",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-makes-quiet-change-ai-190653772.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet (GOOGL) is moving a team responsible for studying AI risks and societal impacts out of Google DeepMind, extending a broader restructuring of the company's most important artificial-intelligence operation. The shift is unlikely to change Alphabet's near-term financial trajectory, but it matters to investors because it comes as Google accelerates development of increasingly powerful Gemini models while simultaneously reorganizing the leadership and oversight structure around them.\n\nWarning! GuruFocus has detected 2 Warning Sign with CRWD.\n\nIs GOOG fairly valued? Test your thesis with our free DCF calculator.\n\nAccording to The Wall Street Journal, the AI-responsibility team is being moved outside DeepMind, the research lab developing Google's frontier models. Some researchers are concerned the change could reduce the team's independence or make it harder to identify risks stemming from the newest systems.\n\nThe move follows a major leadership overhaul announced earlier in August. DeepMind co-founder Demis Hassabis became chairman of Google DeepMind and chief scientist of Alphabet, shifting away from day-to-day management. Koray Kavukcuoglu, meanwhile, took operational control as senior vice president of Google DeepMind while remaining Google's chief AI architect.\n\nAlphabet is also adding senior research talent. Barret Zoph, co-founder of Thinking Machines Lab and a former OpenAI research executive, is joining DeepMind as vice president of research.\n\nThe restructuring comes while Alphabet's AI investments are translating into unusually strong commercial growth. Second-quarter Google Cloud revenue surged 82% to $24.8 billion, driven partly by enterprise AI infrastructure and solutions. Alphabet also reported that Gemini had surpassed 950 million monthly users earlier this month.\n\nInvestor Takeaway\n\nFor Alphabet investors, the immediate question is not whether moving an AI-risk team changes earnings. It is whether Google can accelerate frontier-model development without weakening internal safeguards or creating additional regulatory exposure.\n\nThe more important signals to watch are Gemini adoption, Google Cloud AI growth and progress on newer models such as Gemini 4. Alphabet is committing enormous capital to that race, with second-quarter capital expenditures reaching $44.9 billion.\n\nIf the leadership changes produce faster model development and commercialization, they could strengthen Alphabet's AI advantage. But researcher departures, safety controversies or regulatory scrutiny would make the organizational shake-up more consequential for shareholders.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META, AMZN, NVDA",
       "Date": "2026-08-28",
       "Time": "02:32:00",
       "Source": "Yahoo Finance",
