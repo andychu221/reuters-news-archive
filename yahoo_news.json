@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-27T13:01:19.357Z",
-  "total_news_count": 1083,
+  "last_updated": "2026-08-27T13:11:31.391Z",
+  "total_news_count": 1085,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-08-27",
+      "Time": "20:48:12",
+      "Source": "Yahoo Finance",
+      "Title": "Could Meta’s teen settlement be less painful than feared? Citi weighs in",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/could-meta-teen-settlement-less-124812518.html",
+      "Content": "Investing.com -- Citi said Meta Platforms' (NASDAQ: META) $18 billion settlement with 52 U.S. state attorneys general over teen usage removes a major overhang, and that the operational hit should prove manageable.\n\n\"We believe Meta's $18B settlement (assuming YT & TT join) with 52 U.S. State AGs around teen usage removes a significant overhang in shares and comes at a time when Meta's AI product roadmap is emerging,\" analyst Ronald Josey wrote.\n\nUnder the consent order, 13- to 17-year-olds on Facebook and Instagram face a two-hour daily limit, alongside night and school usage blocks and prompts after periods of continuous use.\n\nCiti argued the practical impact is limited. The average teen uses Instagram for around an hour a day, well inside the new cap, while teens account for less than 1% of Meta's revenue and are already excluded from interest, behavior and demographic ad targeting.\n\nThe bank also noted the figure came in far below what regulators initially sought. \"The settlement is well below the $200B & $1.4T amounts that were initially contemplated by state AGs,\" Citi said, adding that it brings certainty and creates a framework going forward.\n\nCiti added that Meta will take a $10 billion legal expense accrual in the third quarter, lifting 2026 expense guidance. Litigation risks remain, including New Mexico's appeal and roughly 1,200 school district cases.\n\nCiti reiterated its Buy rating and $800 price target, flagging Meta Connect on Sept. 23 as a catalyst.\n\nCould Meta's teen settlement be less painful than feared? Citi weighs in\n\nThis sector is 'poised for a big, beautiful year': Truist\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-27",
@@ -63,6 +73,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "MSFT",
+      "Date": "2026-08-27",
+      "Time": "20:13:07",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Makes Bigger Global AI Push",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-makes-bigger-global-ai-121307905.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) is deepening its push into Saudi Arabia's rapidly expanding artificial intelligence market through a broader partnership with HUMAIN, giving investors another potential route for Azure and Microsoft 365 Copilot adoption. The agreement does not yet include financial terms or committed cloud spending, but it could position Microsoft closer to the enterprise and government AI workloads emerging from one of the Middle East's biggest technology investment programs.\n\nWarning! GuruFocus has detected 3 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nHUMAIN, owned by Saudi Arabia's Public Investment Fund, plans to bring its ALLAM Arabic-language AI models to Microsoft Foundry and eventually into the Microsoft 365 Copilot ecosystem.\n\nHUMAIN's AI specialists will also work alongside Microsoft's Forward Deployed Engineers inside customer organizations, potentially helping Saudi companies move from AI experimentation to production deployments.\n\nThat could be more important than simply adding another model to Microsoft's catalog. Foundry is increasingly central to Microsoft's effort to make Azure a platform where enterprises can choose, customize and deploy different AI models while connecting AI agents to Microsoft 365 Copilot and Teams.\n\nThe partnership also gives Microsoft exposure to HUMAIN's rapidly expanding AI infrastructure ecosystem. HUMAIN already has major relationships with Nvidia ( NASDAQ:NVDA ), Advanced Micro Devices ( NASDAQ:AMD ) and Amazon ( NASDAQ:AMZN ). AMD has announced a $10 billion collaboration targeting up to 500 megawatts of AI infrastructure, while AWS and HUMAIN have outlined more than $5 billion of investment and infrastructure capable of supporting up to 150,000 AI accelerators.\n\nMicrosoft shares closed Tuesday at $491.71, up nearly 1%.\n\nInvestor Takeaway\n\nInvestors should not treat the HUMAIN agreement as a major revenue catalyst until Microsoft discloses cloud commitments, customer deployments or spending levels. The key metric is whether ALLAM adoption translates into incremental Azure consumption and wider Copilot usage across Saudi enterprises and government agencies. Evidence of large-scale production workloads would strengthen the case that Microsoft is capturing more of Saudi Arabia's AI buildout. Investors should also watch whether Microsoft secures dedicated infrastructure commitments comparable with HUMAIN's AMD and AWS agreements, which would turn the partnership from strategic positioning into a more measurable revenue opportunity.",
+      "Language": "en"
+    },
+    {
       "Ticker": "AAPL",
       "Date": "2026-08-27",
       "Time": "20:08:06",
@@ -93,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO, AAPL",
+      "Ticker": "GOOGL, AVGO, AAPL",
       "Date": "2026-08-27",
       "Time": "20:05:55",
       "Source": "Yahoo Finance",
