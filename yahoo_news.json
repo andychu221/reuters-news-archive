@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T14:32:09.204Z",
-  "total_news_count": 1102,
+  "last_updated": "2026-08-27T14:34:24.718Z",
+  "total_news_count": 1103,
   "news": [
     {
       "Ticker": "SNDK",
@@ -21,6 +21,16 @@
       "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E9%87%8D%E7%87%83%E7%A7%91%E6%8A%80%E8%82%A1%E4%BF%A1%E5%BF%83-%E8%B2%BB%E5%8D%8A%E9%96%8B%E6%BC%B22-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E4%B8%8A%E6%94%BB300%E9%BB%9E-135857701.html",
       "Content": "輝達發布強勁財季業績及樂觀前景展望，提振了市場對於AI投資高速擴張仍將持續更長時間的信心。周四（27日）美股一開盤，以科技股為主的那斯達克指數跳漲逾200點，與台股連動密切的費城半導體指數大漲逾2%。台指期夜盤稍早一度大漲313點，報46377點。\n\n輝達在周三美股盤後公布，2028財年營收預計將成長約70%，明顯高於分析師原先預期的44%。輝達樂觀的未來展望緩解了投資人對於AI經濟泡沫的擔憂。\n\nSwissquote資深分析師Ipek Ozkardeskaya強調，「輝達的財報無法被忽視。」她指出，關鍵就在於公司的銷售前景，「無論市場預期有多高，無論所謂的內部預期高到什麼程度，輝達最終都成功超越了所有這些預期。」\n\n紐約梅隆銀行（BNY）策略師Geoff Yu表示，「核心科技公司的獲利成長非常關鍵，因為這正是美國市場的主要驅動力，而科技投資也是美國經濟成長的主要動力。」\n\n【看原文連結】",
       "Language": "zh"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-08-27",
+      "Time": "21:56:58",
+      "Source": "Yahoo Finance",
+      "Title": "Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck",
+      "URL": "https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html",
+      "Content": "Good morning. Stocks advanced on Thursday after Nvidia's ( NVDA ) bullish outlook sparked a rally in tech stocks, offsetting weakness elsewhere. Nvidia stock gained over 6% in early trading, while semiconductor stocks like Intel ( INTC ) and SK Hynix ( SKHY ) also rose.\n\nEarnings movers Salesforce ( CRM ), Okta ( OKTA ), and CrowdStrike ( CRWD ) also surged by double digits on the backs of strong results and outlooks, spurring a rally in software names as well. Salesforce CEO Marc Benioff called for an end to fears of software disruption, saying, \"This nonsense of this SaaSpocalypse, I think it's time for it to stop.\"\n\nHere's a check of the markets in the first few minutes of trading, based on a heat map powered by Yahoo Finance AlphaSpace data .\n\nTech ( XLK ) outperformed the rest of the market as the lone S&P 500 sector in the green. Strength in tech helped counterbalance declines in Utilities ( XLU ), Energy ( XLE ), and Communications Services ( XLC ).\n\nHere are some notable stocks that Yahoo Finance readers are viewing this morning: Nvidia, Sandisk ( SNDK ), INTC, Marvell ( MRVL ), CrowdStrike, SK Hynix, Dollar Tree ( DLTR ).\n\nClick here for the latest stock market news and in-depth analysis, including events that move stocks\n\nRead the latest financial and business news from Yahoo Finance\n\nHere are some notable stocks that Yahoo Finance readers are viewing this morning: Nvidia, Sandisk ( SNDK ), INTC, Marvell ( MRVL ), CrowdStrike, SK Hynix, Dollar Tree (<a href=\"https://finance.yahoo.com/quote/DLTR/\" data-ylk=\"slk:DLTR;elm:context_link;itc:0;sec:content-canvas;cpos:15;pos:1;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"DLTR\"",
+      "Language": "en"
     },
     {
       "Ticker": "KLAC",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, TSLA, META, MSFT, GOOGL, AMZN",
       "Date": "2026-08-27",
       "Time": "21:30:00",
       "Source": "Yahoo Finance",
