@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-27T18:00:56.741Z",
-  "total_news_count": 1157,
+  "last_updated": "2026-08-27T18:11:29.993Z",
+  "total_news_count": 1158,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-08-28",
+      "Time": "01:43:00",
+      "Source": "Yahoo Finance",
+      "Title": "5 Reasons to Buy Broadcom Stock Before Its Sept. 2 Earnings",
+      "URL": "https://finance.yahoo.com/m/b9d8e34e-4e2c-3ca4-b701-c740a14d6a54/5-reasons-to-buy-broadcom.html",
+      "Content": "After a hot start to 2026, Broadcom (NASDAQ: AVGO) shares have lost significant steam. However, its Sept. 2 earnings report after the bell on Wednesday could prove to be a major catalyst. Let's look at five reasons to buy this AI stock ahead of earnings and for the long term.\n\nThe TPU king\n\nBroadcom's biggest revenue driver is the custom AI chips it helped Alphabet develop, called Tensor Processing Units (TPUs). Alphabet is aggressively spending on AI infrastructure, raising its capital expenditure ( capex ) budget to between $195 billion and $205 billion, and indicating it will significantly increase it next year.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIn addition, Alphabet has also begun to sell TPUs to customers outside of Google Cloud. Anthropic has placed $21 billion worth of TPU orders with Broadcom, and the three companies have signed an agreement for future TPU commitments. Broadcom delivers the chips and books the revenue, while Alphabet collects a licensing fee from Broadcom.\n\nThis all points to strong TPU growth for Broadcom in the coming years. And while other companies are starting to play a role with TPUs, Broadcom remains Alphabet's primary partner, especially for its flagship training chip.\n\nJalapeño spices things up\n\nTPUs are not the only custom chips that Broadcom has helped co-develop. OpenAI recently unveiled its new Jalapeño chip for inference, which Broadcom helped co-develop. In inference tests, the chip outperformed other AI chips, a result confirmed by SemiAnalysis. This includes Nvidia 's Blackwell chips and TPUs, although it did not include Nvidia's newest Rubin chips, which are just starting to ship to customers now.\n\nOpenAI will begin deploying Jalapeño chip in its AI data centers by the end of the year. This should become another big potential revenue boost for Broadcom in the future.\n\nAccess to the bottlenecks\n\nIf any hyperscalers want to design and make custom chips for inference or training at scale, they are going to need access to high-bandwidth memory (HBM) and manufacturing capacity. Broadcom has both. Broadcom has signed a $200 billion deal with Samsung Electronics to supply HBM, manufacturing, and advanced packaging through 2030. The company has also said that it has secured advanced node capacity with Taiwan Semiconductor Manufacturing .\n\nStory Continues\n\nThe importance of this should not be overlooked. Nvidia has locked in much of SK Hynix 's HBM capacity, with Amazon also a big customer, while Advanced Micro Devices has also secured capacity from Samsung. These companies also aren't relying on just one supplier, so that doesn't leave a lot of room for other players, and Micron Technology 's HBM capacity is about a third of its Korean competitors. As such, having this access to HBM and manufacturing capacity is actually a huge moat in the custom chip business.\n\nOptical upside\n\nGiven the importance of its custom chip business, it is easy to overlook that Broadcom is also well positioned to ride the shift to optical networking, which is faster and generates less heat than traditional copper wires, within AI data centers. Broadcom is a big player in the optical DSP (digital signal processor) market. DSPs are the primary chips used to take electrical signals from AI chip clusters and convert them into light, allowing the data to be moved through optical systems. It is also the leader in co-packaged optics, where it integrates optical receivers directly into its custom chips.\n\nOptical connectivity is a fast-growing market, and this is another big potential area of growth for the company that plays directly into its custom chip business.\n\nAttractive valuation\n\nWith the pullback in its shares over the past couple of months, Broadcom now trades at a forward price-to-earnings ratio (P/E) of just 18 based on analysts' estimates for fiscal 2027 (ending October 2027). That's a very attractive valuation given its growth prospects, and gives the stock plenty of room to run if it can deliver strong fiscal Q3 results and issue upbeat guidance in September.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-08-28",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-08-28",
       "Time": "01:13:30",
       "Source": "Yahoo Finance",
