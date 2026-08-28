@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-28T01:20:30.039Z",
-  "total_news_count": 1244,
+  "last_updated": "2026-08-28T01:26:07.925Z",
+  "total_news_count": 1257,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-28",
+      "Time": "09:10:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達股價勁揚　台股開盤上漲逾500點",
+      "URL": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E5%8B%81%E6%8F%9A-%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E4%B8%8A%E6%BC%B2%E9%80%BE500%E9%BB%9E-011040488.html",
+      "Content": "（ 中央社記者 曾仁凱台北28日電） 輝達 （ NVIDIA ）公布財報、財測再度超越預期，週四股價勁揚8.74%，激勵今天 台股 開盤大漲逾500點，再度站到46000點大關之上。至9時5分，台股加權指數上漲526.57點，至46501.79點。代表中小型股票的上櫃指數也走高。\n\n3大權值股，台積電最多上漲35元至2445元； 聯發科 上漲75元至3940元； 台達電 最多漲60元至1830元。\n\n法人分析，輝達最新財報再次驗證AI產業需求並未降溫， 從輝 達揭露的財報來看，第2季資料中心營收達890億美元、年增117%，占整體營收高達92%。且更重要的是，成長動能正從少數大型雲端業者，擴散至AI新創、企業與實體AI應用，AI基礎建設需求正由「單點爆發」走向「全面開花」。（編輯： 潘羿菁 ）1150828",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-28",
+      "Time": "09:04:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤漲95.61點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%BC%B295-61%E9%BB%9E-010431829.html",
+      "Content": "（ 中央社 台北 28日電）台北股市今天開盤漲95.61點，加權股價指數為46070.83點，成交金額新台幣125.71億元。1150828",
+      "Language": "zh"
+    },
     {
       "Ticker": "NOD.OL",
       "Date": "2026-08-28",
@@ -21,6 +41,106 @@
       "URL": "https://finance.yahoo.com/m/bcd4c313-073d-30c3-bb02-f985a957ff14/lumentum-sees-ai-data-centers.html",
       "Content": "Lumentum Just Delivered the AI Growth Investors Wanted\n\nLumentum (NASDAQ:LITE) CEO Michael Hurlston said the growing bandwidth requirements of artificial intelligence data centers are accelerating a shift from copper connections to optical technologies, creating new demand across racks, clusters and data centers.\n\nSpeaking at Deutsche Bank's 20th Annual Tech Conference, Hurlston said copper's effective reach declines as connection speeds rise. At 800G, he said, copper can reliably carry signals for roughly 10 meters, while at 1.6T its reliable range falls to approximately two to three meters. Many links within data-center racks and clusters exceed those distances, he said.\n\n→ Quantum Computing Is Raising the Stakes for Cybersecurity: 5 Stocks to Watch\n\nAI Cold War Catches Light: Federal Friction in the Server Rack\n\n\"As these speeds go up, you go from 800G to 1.6T, eventually we are going to go to 3.2T, the presence of copper and the technical aspects of copper become more and more difficult to make work,\" Hurlston said.\n\nOptical Switching Opportunity Expands\n\nHurlston highlighted optical circuit switches, or OCS, as a major growth opportunity. He said customer engagement for OCS is broad and extends beyond Google, despite investor perceptions that Google is the principal user of the technology.\n\n→ NVIDIA Reveals $21 Billion SpaceX Stake: Signal of Confidence or Circular Financing?\n\n3 Photonics Companies Making Quantum Tech Possible\n\nOCS can be deployed inside a rack to route traffic around overloaded or failed graphics processing units and tensor processing units, Hurlston said. He noted that hardware failures can be especially problematic when large compute models involve tens of millions of dollars in compute time.\n\nThe company's largest customer has substantially increased orders since Lumentum's most recent earnings call, according to Hurlston. He said stronger OCS demand and the product's margin profile supported Lumentum's updated fiscal 2028 earnings-power target of $40.\n\n→ Berkshire Boosts Its Bet: This AI Hyperscaler Is Now a Top-3 Holding\n\nLumentum had previously cited an $8 billion total addressable market for OCS, but Hurlston said that estimate now appears \"significantly under called.\" He attributed expanding interest to OCS's power and loss advantages relative to electrical switches.\n\n\"We think this will be one of the largest growth drivers in the company,\" Hurlston said.\n\nScale-Up, Scale-Across and Optical Engines\n\nHurlston said co-packaged optics, or CPO, and near-packaged optics, or NPO, represent the company's largest near-term opportunities. He argued the technologies should not be viewed as mutually exclusive or as a threat to the broader optics industry.\n\nStory Continues\n\nIn CPO designs, the optical engine is placed on the same substrate as core computing hardware, such as a switch or GPU. NPO places the optical engine separately from the principal compute or switch substrate. Hurlston said NPO is currently expected to represent a larger opportunity than CPO in the near term because some customers are adopting optical lanes at a higher rate.\n\nLumentum sees opportunities to supply high-powered lasers and external light sources, or ELS, to these architectures. In some configurations, lasers are separated from the optical engine and placed on the faceplate of a tray, he said. For certain NPO customers, Lumentum expects to supply the complete ELS.\n\nHurlston also said the company's scale-across business—connecting separate data centers through fiber—is underappreciated. Training models can exceed the capacity of a single data center, requiring multiple facilities to operate together, he said. In addition, community resistance to large data-center projects may encourage operators to build smaller facilities dispersed over several kilometers, increasing the need for fiber connectivity among them.\n\nLaser Demand and Manufacturing Capacity\n\nOn laser products, Hurlston said average selling prices for electro-absorption modulated lasers, or EMLs, roughly double in the transition from 100G to 200G. He said Lumentum and Broadcom are currently the two large suppliers of 200G EMLs, with limited competitive pressure visible in the near term.\n\nWhile the number of EMLs is expected to rise as the market transitions from 800G to 1.6T, Hurlston said EML-based transceivers could decline as a percentage of the market as silicon photonics gains adoption. He estimated EML-based transceivers account for roughly 70% to 80% of the 800G market and could represent about 40% to 50% at 1.6T. At 3.2T, he said, silicon photonics may face technical limitations that could increase both EML unit volumes and market share.\n\nHurlston said laser quality and consistency can improve transceiver yields for customers, supporting a price premium. He added that Chinese suppliers may eventually compete in lower-power continuous-wave laser markets, particularly 70-milliwatt and 100-milliwatt products, but said Lumentum currently sees a supply gap it is being asked to fill.\n\nThe company is preparing manufacturing capacity to address demand. Hurlston said Lumentum's Greensboro facility is expected to begin generating revenue in early calendar 2028 after a roughly two-year production ramp. NVIDIA has entered a multibillion-dollar long-term agreement with Lumentum and helped support the fab purchase and equipment investment, he said.\n\nHowever, Hurlston said NPO demand has arrived earlier and at a larger scale than the company previously expected. Rather than becoming a late-2028 or early-2029 event, he said the opportunity now appears to be emerging in late 2027 and early 2028.\n\nHe identified time as the primary constraint on expanding supply, citing lengthy cycles for installing equipment, qualifying products internally and securing customer qualification. Lumentum is also managing constraints involving reactors, e-beam lithography tools and indium phosphide substrates.\n\nCloud Light Progress and Industry Risks\n\nHurlston said Lumentum's Cloud Light module business has improved after earlier quality and time-to-market challenges. Following the acquisition of Cloud Light, quarterly revenue fell below $50 million because of quality issues, he said. The business has since improved quality and engineering execution, and is now running at more than $200 million in quarterly revenue.\n\nThe company has begun shipping 1.6T modules and is ahead of competitors on certain stock-keeping units, according to Hurlston. He said the next priority is improving gross margins in the module business.\n\nOn geopolitical risks, Hurlston said Lumentum could be a net beneficiary if the U.S. restricts Chinese transceiver suppliers, but cautioned that Chinese companies account for 70% of transceivers in the U.S. market. A sudden loss of that supply could disrupt hyperscalers and would require a measured policy approach, he said.\n\nLooking ahead, Hurlston said investors should watch for optical connectivity moving beyond backplanes and into trays, where it could connect GPUs and memory. \"Does this thing really take hold?\" he said. \"Are you going to see optics actually go in tray and serve this high bandwidth connectivity between memory and between GPUs?\"\n\nAbout Lumentum (NASDAQ:LITE)\n\nLumentum Holdings Inc, headquartered in San Jose, California, is a leading provider of photonic technologies that enable high-speed optical communication networks and advanced industrial applications. The company designs and manufactures a broad range of lasers, optical modules and subsystems tailored to the evolving requirements of telecommunications carriers, cloud data centers and enterprise networking.\n\nIts core product portfolio includes tunable and fixed-wavelength laser transmitters, coherent optical engines, transceivers for long-haul, metro and data center interconnects, as well as test and measurement instruments.\n\nThis instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest reporting and unbiased coverage. Please send any questions or comments about this story to contact@marketbeat.com.\n\nThe article \" Lumentum Sees AI Data Centers Driving Major Optical Connectivity Growth \" was originally published by MarketBeat.\n\nView MarketBeat's top stocks for August 2026 .",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-08-28",
+      "Time": "08:55:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達財報點火AI需求，台積電ADR週四急彈2.3%，為費半第七旺個股",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E9%BB%9E%E7%81%ABai%E9%9C%80%E6%B1%82-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E9%80%B1%E5%9B%9B%E6%80%A5%E5%BD%882-3-%E7%82%BA%E8%B2%BB%E5%8D%8A%E7%AC%AC%E4%B8%83%E6%97%BA%E5%80%8B%E8%82%A1-005503391.html",
+      "Content": "【財訊快報／陳孟朔】全球晶圓代工一哥台積電(2330)ADR(美股代碼TSM)週四(27日)跨步高，終場收在427.30美元為8月17日(430.97美元)以來最高，上漲9.61美元或2.31%為費城半導體指數第七旺個股，受惠大客戶輝達(Nvidia)最新財報及財測大幅優於市場預期，再度確認全球AI基礎建設投資需求維持高速成長，身為輝達先進製程主要代工商的台積電直接受惠，成為資金追逐AI供應鏈的重要標的。輝達最新一季營收達962.2億美元，年增106%，高於市場預期的921.7億美元，並預估下一季營收約1,080億美元；更受到市場矚目的是，公司預期下一個會計年度營收仍可成長約70%，遠高於分析師原先預估約45%的增幅。強勁展望舒緩市場先前對AI資本支出可能見頂的疑慮，也意味輝達GPU及相關AI晶片對先進製程的需求仍將維持高檔。\n\n台積電因此成為這波輝達財報行情中最直接的上游受惠者之一。輝達Blackwell以及後續Rubin平台均高度仰賴台積電先進製程與先進封裝產能，當AI加速器需求持續擴張，不僅有利3奈米等先進製程產能利用率，也進一步支撐CoWoS等先進封裝需求。市場因此將輝達最新財測視為台積電未來數季AI相關訂單能見度的重要正面訊號。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-28",
+      "Time": "08:46:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "SpaceX波動率驟降，馬斯克喊2033年營收上看3.5兆美元",
+      "URL": "https://tw.stock.yahoo.com/news/spacex%E6%B3%A2%E5%8B%95%E7%8E%87%E9%A9%9F%E9%99%8D-%E9%A6%AC%E6%96%AF%E5%85%8B%E5%96%8A2033%E5%B9%B4%E7%87%9F%E6%94%B6%E4%B8%8A%E7%9C%8B3-5%E5%85%86%E7%BE%8E%E5%85%83-004610019.html",
+      "Content": "【財訊快報／陳孟朔】全球首富、暨特斯拉(美股代碼TSLA)與SpaceX(美股代碼SPCX)執行長馬斯克(Elon Musk)週四表示，SpaceX年營收可望在2033年前後達到3.5兆美元，較摩根士丹利原先預測的2040年提早七年。本月稍早，馬斯克也曾預測公司年營收將於2030年突破1兆美元，比首次公開上市(IPO)前的預估提前一年。馬斯克最新說法帶動SpaceX週四收漲0.89%，報140.87美元；旗下另一家上市公司特斯拉(Tesla)則上漲2.60%，收報354.81美元，表現優於那指同日1.57%的漲幅。\n\nSpaceX上市初期一度成為美股大型股中波動最劇烈的個股之一，但過去三週主要在140美元附近、約10美元區間內震盪。ThinkOrSwim數據顯示，其期權隱含波動率已由首份財報公布前超過120，大幅降至57。市場認為，首輪股票禁售期屆滿後，內部人士及早期投資者並未大量出售，加上SpaceX納入那斯達克100與羅素1000指數後吸引被動型資金進場，均有助降低股价波動。\n\n期權市場近期則轉向偏多。週四約50萬口SpaceX期權合約中，買權成交量達33.5萬口，其中約16.8萬口屬主動買進，明顯高於主動買進的7.5萬口賣權。不過，Convex Asset Management創辦人兼投資長史密斯(Noel Smith)提醒，SpaceX目前的隱含波動率仍高於實際波動率，代表期權價格並不算便宜；即使波動率已降至54至55附近，他仍較傾向賣出波動率。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-28",
+      "Time": "08:45:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達週四股價飆8.74%，單日市值暴增4420億美元，帶動費半大漲2.33%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E9%80%B1%E5%9B%9B%E8%82%A1%E5%83%B9%E9%A3%868-74-%E5%96%AE%E6%97%A5%E5%B8%82%E5%80%BC%E6%9A%B4%E5%A2%9E4420%E5%84%84%E7%BE%8E%E5%85%83-%E5%B8%B6%E5%8B%95%E8%B2%BB%E5%8D%8A%E5%A4%A7%E6%BC%B22-33-004519556.html",
+      "Content": "【財訊快報／陳孟朔】輝達(Nvidia，美股代碼NVDA)週四(27日)股價收盤大漲18.32美元或8.74%至227.98美元，市值單日增加約4,420億美元至5.49兆美元，創下公司歷來最大單日市值增幅，也是美股個股史上第二高紀錄，僅次於微軟今年7月30日創下的近4,500億美元紀錄。股價收在227.98美元為史上次高，5月14日收在235.74美元為史上新高，開春以來漲幅擴大到22.24%，市值逼近5.5兆美元，穩居全球企業市值一哥寶座。輝達第二季營收、獲利及財測全面優於市場預期，並罕見提供較長期展望，預估2028會計年度營收將成長約70%，緩解投資人對AI基礎建設支出降溫的疑慮。執行長黃仁勳表示，實際需求「遠高於70%」，目前成長主要受到供應能力限制，AI產業已經抵達新的轉折點。\n\n黃仁勳指出，一年前只有一家大型AI實驗室積極擴建運算基礎設施，如今已有多家前沿實驗室、AI新創公司、開源模型開發商及實體AI業者同步擴張。輝達AI雲端、工業與企業客戶當季貢獻403億美元營收，年增138%，顯示收入來源正逐步由大型雲端服務商擴展至更廣泛的企業客戶。\n\n輝達大漲也打破過去連續四季財報公布隔日股價下跌的走勢，並帶動半導體與AI概念股同步走高。博通、英特爾及Nebius收高，費城半導體指數上漲2.33%；市場暫時淡化大型客戶自研晶片及AI投資回報的不確定性，重新聚焦下一代Rubin晶片、HBM供應及數據中心建設帶來的成長動能。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-08-28",
+      "Time": "08:44:18",
+      "Source": "Yahoo奇摩股市",
+      "Title": "韓國國民年金上半年報酬率衝上27.20%，韓股與AI行情成主要推力",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E5%9C%8B%E5%9C%8B%E6%B0%91%E5%B9%B4%E9%87%91%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A0%B1%E9%85%AC%E7%8E%87%E8%A1%9D%E4%B8%8A27-20-%E9%9F%93%E8%82%A1%E8%88%87ai%E8%A1%8C%E6%83%85%E6%88%90%E4%B8%BB%E8%A6%81%E6%8E%A8%E5%8A%9B-004418345.html",
+      "Content": "【財訊快報／陳孟朔】路透報導，韓國國民年金公團(National Pension Service，NPS)週五(28日)公布，2026年上半年基金投資報酬率達27.20%，明顯高於2025年同期的4.08%，也超越去年全年創紀錄的18.82%，反映韓國股市大漲及全球人工智慧(AI)相關資產走強帶來的可觀收益。今年上半年韓國綜合股價指數(KOSPI)在半導體出口、AI需求及政策改革預期帶動下大幅攀升，三星電子與SK海力士等大型權值股成為主要推力。NPS原已持有龐大的韓國股票部位，韓國政府並於5月底將其2026年底國內股票配置目標提高至20.80%，高於年初設定的14.90%，使基金更直接受惠於本土股市行情。\n\n除韓股外，海外科技股、AI基礎設施及其他風險性資產上漲，也對整體績效形成支撐。截至今年5月底，NPS基金規模已達1,848.7兆韓元，1988年成立以來累計投資收益約1,354.9兆韓元，為全球規模第三大的公共退休基金。\n\nNPS在2025年全年賺得231.6兆韓元，報酬率18.82%，已創基金成立以來最高紀錄；今年上半年報酬率進一步升至27.20%，顯示提高股票及海外資產配置帶來的收益效果。不過，韓國人口快速老化及退休金支出增加，使基金仍需兼顧長期報酬、資產價格波動與韓元匯率穩定，單一半年度的高報酬並不等同長期精算壓力已經解除。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-28",
+      "Time": "08:44:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年 8月28日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B4-8%E6%9C%8828%E6%97%A5-004407596.html",
+      "Content": "【統一證券】\n\n技術面觀察，週四大盤收量增帶上影線的紅K棒，收盤仍在所\n\n有均線之上，惟成交量仍不足一兆。技術指標部分，日KD與\n\nRSI向上、MACD紅柱體擴大，在5日線未跌破且下彎前，盤勢\n\n仍有利於多方。\n\n【國票證券】\n\n雖台股欲藉由輝達利多突破46402點，惟成交量僅9600億元出\n\n頭，與前高動輒1.1兆的成交量相比仍有不足，加上權值龍頭\n\n台積電始終無法實質站上07/17空方缺口上緣2420元，在攻高\n\n條件尚缺的情況下仍得觀察總經面或中東情勢能否適時補上\n\n關鍵一擊，至於下檔則留意由兩大黃金分割率44750點至44850\n\n點所構成的支撐，支撐不破前可先排除回測第二隻腳的風險，\n\n台股短線高檔格局有望延續。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-28",
+      "Time": "08:44:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【國票金控晨訊】台股有望挑戰前高",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A5%A8%E9%87%91%E6%8E%A7%E6%99%A8%E8%A8%8A-%E5%8F%B0%E8%82%A1%E6%9C%89%E6%9C%9B%E6%8C%91%E6%88%B0%E5%89%8D%E9%AB%98-004405325.html",
+      "Content": "發起挑戰\n\n.CBP-->B75\n\n日期：2026年 8月28日\n\n※操作建議與結論\n\n科技股帶動，四大指數全數收漲 Rubin全面量產，散熱商機再擴大\n\n今日盤勢及未來走勢：(留意散熱布局機會)\n\n科技股財報優異，帶動四大指數全數收漲，幅度介於+0.20%至+2.33%，台積\n\n電ADR亦上漲2.30%，帶動台指期夜盤上漲324點(+0.70%)，台股早盤有望向前高\n\n發起挑戰，除觀察量能可否增溫之外，考量台積電期貨夜盤上漲23元，盤中留意\n\n現貨能否藉此順勢站上壓力2420元，以此作為今日台股過高意願的指標。\n\n※短線觀點\n\n雖台股欲藉由輝達利多突破46402點，惟成交量僅9600億元出頭，與前高動\n\n輒1.1兆的成交量相比仍有不足，加上權值龍頭台積電始終無法實質站上07/17空\n\n方缺口上緣2420元，在攻高條件尚缺的情況下仍得觀察總經面或中東情勢能否適\n\n時補上關鍵一擊，至於下檔則留意由兩大黃金分割率44750點至44850點所構成的\n\n支撐，支撐不破前可先排除回測第二隻腳的風險，台股短線高檔格局有望延續。\n\n※操作看法\n\n當前台股已進入前波高點附近，高檔震盪格局短時間應難避免，盤面資金除\n\n會在不同族群之間快速輪動，同一族群內亦容易出現高低位階切換，故操作上不\n\n宜因單日強勢便過度追價，選股則建議採取長線保護短線的策略，透過布局長線\n\n展望良好之個股，以規避短線盤勢震盪的干擾。\n\n※重點產業與族群\n\n散熱 – 3017奇鋐、3324雙鴻、3653健策\n\n產業觀點：隨新一代GPU導入，機櫃級散熱架構升級，冷板與CDU滲透率提升\n\n，帶動單櫃產值上揚，散熱產業價值加速上修。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-08-28",
+      "Time": "08:37:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "1分鐘讀財經》全球品牌廠開搶陸DRAM！大摩爆台股「這2檔」跟著噴發",
+      "URL": "https://tw.stock.yahoo.com/news/1%E5%88%86%E9%90%98%E8%AE%80%E8%B2%A1%E7%B6%93-%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E5%BB%A0%E9%96%8B%E6%90%B6%E9%99%B8dram-%E5%A4%A7%E6%91%A9%E7%88%86%E5%8F%B0%E8%82%A1-%E9%80%992%E6%AA%94-%E8%B7%9F%E8%91%97%E5%99%B4%E7%99%BC-003725014.html",
+      "Content": "小編今天（28）日精選5件國內外重要財經大事。摩根士丹利證券半導體產業分析師詹家鴻指出，長鑫存儲受惠大陸本土強勁AI、伺服器需求，帶動HBM與DDR5記憶體需求成長；全球DRAM供給吃緊不僅支撐DRAM價格，更促使全球品牌廠開始採用長鑫存儲DRAM，初評「優於大盤」，同時，在記憶體正向循環中，仍看好台廠南亞科（2408）、華邦電（2344）。\n\n【1】陸記憶體廠抬頭 兩台廠聚光\n\n野村估計，記憶體供應緊俏問題未來不容易緩解，長鑫存儲市占率將加速提升，受惠於產能擴充、製程升級與DRAM單位售價上漲，預估長鑫存儲今年～2028年營收與歸屬母公司淨利的年複合成長率將分別達63％、74％。\n\n【2】AI算力軍備賽升級》AWS將部署200萬顆輝達GPU\n\nAI算力軍備競賽再升級。亞馬遜旗下AWS宣布，2027～2028年將在全球基礎設施新增部署200萬顆輝達（NVIDIA）GPU，涵蓋Blackwell Ultra、Rubin及Rubin Ultra，並導入Vera CPU，凸顯大型雲端服務商AI基建投資持續升溫。輝達執行長黃仁勳直言，AI已迎來真正的「轉折點」，產生的Token開始創造生產力與利潤，「如今算力就是營收」。\n\n【3】循環融資疑慮 黃仁勳：遺憾投資太少\n\n輝達鉅額投資OpenAI、Anthropic等前沿AI公司，引發市場「循環融資」疑慮，執行長黃仁勳卻毫不避諱，直言這是「千載難逢的機會」，甚至坦言自己唯一的遺憾，就是「沒有投資更多、也沒有更早投資」。\n\n【4】輝達效應 台幣匯率爆量狂升衝31.7元\n\n輝達財報優於預期，激勵國內上演股匯雙漲行情，台股加權指數盤中一度漲破46,000點，激勵新台幣匯率一度激升近1.7角，升抵31.6字頭，隨後美元買盤進場使升幅略收斂至1.1角，收在31.708元，創逾兩個月新高，總成交量破20億美元至25.95億美元。\n\n【5】美政府擬對半導體祭新關稅\n\n新聞網站《Politico》引述消息報導，川普政府考慮對半導體祭出新一輪關稅，甚至還可能將課稅範圍擴大至搭載晶片的筆電、遊戲主機與資料中心伺服器等科技產品。然而，此舉在美國科技界引發恐慌，目前美國企業高度仰賴亞洲半導體，其中台灣更生產全球9成以上最先進的晶片。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-28",
+      "Time": "08:34:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達狂飆8.7%點燃AI行情！那指、費半大漲1.57%和2.33%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E7%8B%82%E9%A3%868-7-%E9%BB%9E%E7%87%83ai%E8%A1%8C%E6%83%85-%E9%82%A3%E6%8C%87-%E8%B2%BB%E5%8D%8A%E5%A4%A7%E6%BC%B21-003410868.html",
+      "Content": "【財訊快報／陳孟朔】紐約股市週四(27日)全面收紅，輝達(Nvidia)財報與展望再次確認AI運算需求強勁，股價飆漲8.74%，加上賽富時股價飆近23%帶動科技與晶片類股大漲，助那指和費半各抽高1.57%和2.33%。同日，道瓊工業指數漲約106點或0.2%、標普漲0.72%向峰頂挺進。紐約股市27日收盤時，道瓊工業指數收高105.56點或0.20%，報53,569.44點；標普500指數上漲55.29點或0.72%，報7,730.99點，8月13日收在7,798.99點為史上新高。\n\n以科技股為主的那斯達克指數(那指)勁揚411.15點或1.57%，報26,541.35點，創8月4日急漲2.59%以來單日最旺；以晶片為主的費城半導體指數同步彈升270.93點或2.33%至11,882.17點。標普科技類股更大漲3.40%，但標普其餘十個類股收低，顯示升勢主要集中在科技股。\n\n美國勞工部週四公布，截至8月22日止一週首次申領失業救濟人數減少4,000人至20.3萬人，低於市場預估的20.8萬人，顯示勞動市場仍具韌性；7月商品貿易逆差則由1,015億美元擴大至1,188億美元，創2025年3月以來最大。通膨與政策緊縮疑慮推高債息，10年期美債殖利率一度升至4.6703%，30年期升至5.1931%；投資人接下來聚焦聯準會主席華許(Kevin Warsh)週五(28日)在傑克森霍爾全球央行年會的演說，以研判未來加息路徑。\n\n輝達收盤急漲8.74%，創2025年4月以來最大單日升幅，市值單日增加約4,420億美元，為美股史上個股單日市值增長第二高，股價收在227.98美元為史上次高，5月14日締造收市新高235.74美元。公司第二季業績及財測優於預期，財務長克蕾絲(Colette Kress)預估2028財年營收將增長70%，執行長黃仁勳則表示實際需求「遠高於70%」，緩解市場對AI資本支出回報、循環融資及大型客戶自研晶片可能削弱需求的疑慮。博通(Broadcom)與英特爾各漲約4.40%，特斯拉(Tesla)上揚2.60%，微軟漲1.70%，亞馬遜則逆勢下跌1.50%。\n\n軟體與網路安全類股同樣成為多頭焦點。賽富時(Salesforce)上調全年財測並宣布深化與Anthropic合作，股價飆升22.60%，拿下道瓊和標普雙料幅王；Okta大漲28.63%，CrowdStrike勁揚20.50%。反觀，麥當勞下挫2.60%，為跌幅最大道瓊成分股；快餐連鎖業者Wendy&#x27;s因維權投資人佩爾茨(Nelson Peltz)旗下Trian基金暫無私有化計畫，股價重挫13.60%。\n\n美股盤後小黑\n\n美國股市週四盤後下跌，應用軟體供應商歐特克公司(ADSK US)盤後股價下跌，因該公司年度第三季每股獲利指引不如市場分析師樂觀的消息，影響了買盤人氣。\n\n道瓊指數期指下滑32.00點或0.06%，報53,589.00點。\n\n歐特克盤後股價下跌5.2%。該公司預期第三季經調整後的每股獲利將落在3.04美元至3.09美元，不如市場分析師預估中值的3.15美元樂觀。\n\n提供資訊科技與資料分析服務的Elastic N.V.(ESTC US)盤後股價上漲18%。股價的楊升，主要因為該公司將本年度全年經調整後的每股獲利預估區間上調至3.29美元至3.37美元，較市場分析師預估中值3.24美元樂觀。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-08-28",
+      "Time": "08:31:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】AI買盤歸隊　台股待補量挑戰前高",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-ai%E8%B2%B7%E7%9B%A4%E6%AD%B8%E9%9A%8A-%E5%8F%B0%E8%82%A1%E5%BE%85%E8%A3%9C%E9%87%8F%E6%8C%91%E6%88%B0%E5%89%8D%E9%AB%98-003129875.html",
+      "Content": "日期：2026年 8月28日\n\n※盤勢分析\n\n輝達財測利多點火，AI買盤歸隊，台股待補量挑戰前高\n\n※昨日盤勢\n\n輝達公布財報，對未來財測超乎市場預期，盤後股價上漲，帶動周四台股開\n\n高震盪，盤中一度欲挑戰突破站上前波8/14高點，然高檔獲利賣壓出籠，導致收\n\n盤4萬6得而復失、漲幅收斂。盤面資金往AI相關族群流入，其中光學鏡頭受惠蘋\n\n果新機發表及跨入CPO雙題材利多，龍頭股大立光持續飆漲停，帶動相關族群多\n\n檔個股亮燈，表現最為強勢。權值股方面，台積電下跌0.21%、鴻海上漲2.23%、\n\n聯發科下跌2.03%、廣達上漲0.30%，台達電上漲1.14%。\n\n盤面強勢股，大立光、玉晶光、聯一光、台虹、亞電、南亞、金居、南電、\n\n華通、穩懋、環宇-KY、富世達、禾伸堂、光鼎等54檔個股漲停；順德、泰鼎-KY\n\n、順達、松川精密、柏承、上詮、新日興等漲幅8%以上。盤面弱勢股，智通*、\n\n和益、台光電、長廣、台燿、第一保、晟鈦、全友等跌幅5%以上。終場台灣加權\n\n指數上漲142.6點，以45975.22點作收，成交量9246.84億元。\n\n觀察盤面變化，三大類股同步上漲，電子上漲0.16%、傳產上漲1.50%、金融\n\n上漲0.20%。在次族群部份以塑膠、光電、電機機械表現較佳，分別上漲7.99%、\n\n4.02%、3.53%。\n\n※資金動向\n\n三大法人合計買超626.79億元。其中外資買超490.94億元，投信賣超14.5億\n\n元，自營商買超150.35億元。外資買超前五大為南亞科、華邦電、台塑、國票金\n\n、鴻海；賣超前五大為仁寶、聯電、力成、台泥、中信金。投信買超前五大為台\n\n半、南亞、富邦金、台表科、華星光；賣超前五大為聯電、凱基金、國巨*、長\n\n榮、世界。資券變化方面，融資增51.16億元，融資餘額為5599.19億元，融券增\n\n0.38萬張，融券餘額為21.06萬張。外資台指期部位，空單增加1148口，淨空單\n\n部位84836口，借券賣出金額238.59億元。成交比重：電子84.08%、傳產13.93%\n\n、金融2.00%。\n\n※今日盤勢分析\n\n《華爾街日報》報導，川普政府已向斡旋國表明，無意重返今年6 月與伊朗\n\n達成的諒解備忘錄條款，此消息牽動油價走高。另外多名Fed官員鷹派發言，使\n\n得美債殖利率回再度攀高，市場靜待今晚央行年會華許的發言，藉以判斷利率的\n\n路徑。受惠輝達及軟體股財報釋佳音，帶動美股四大指數同步上漲，台機電ADR\n\n上漲2.3%。然盤後Marvell公部財報，業績符合分析師預期，並宣布上調年度財\n\n測，但仍不足以提振股價，盤後一度重挫逾7%。\n\n台股後市分析如下：第一、國發會27日公布7月景氣燈號，續亮代表景氣熱\n\n絡的紅燈，呈現連8紅，且景氣領先及同時指標持續上升。國發會表示，人工智\n\n慧（AI）需求強勁，經濟穩健成長，有望帶領景氣燈號改寫史上最長的「連9紅\n\n」紀錄。\n\n第二、蘋果首款2奈米M6晶片正式亮相，供應鏈關注焦點除台積電N2製程，\n\n更在後續高階M系列將採取何種封裝架構。半導體業者表示，從前代M5 Pro、M5\n\nMax的Fusion Architecture（融合架構），以及最新M5 Ultra四晶粒設計推演，\n\n蘋果晶片已由單一大型裸晶走向模組化，未來若延伸至M6 Pro、Max或Ultra，\n\nSoIC-MH、WMCM等先進封裝需求可望升高，設備廠弘塑、均華及印能，以及材料\n\n廠長興、新應材及永光等受惠可期。\n\n第三、技術面觀察，週四大盤收量增帶上影線的紅K棒，收盤仍在所有均線\n\n之上，惟成交量仍不足一兆。技術指標部分，日KD與RSI向上、MACD紅柱體擴大\n\n，在5日線未跌破且下彎前，盤勢仍有利於多方。\n\n四、盤面資金聚焦光學鏡頭、PCB、光通訊、散熱等族群，包括大立光、玉\n\n晶光、台虹、金居、穩懋、富世達等表現強勢。\n\n※投資策略\n\n美伊談判卡關油價回升，疊加Fed官員鷹派言論，美債殖利率再度攀升，市\n\n場靜待今晚華許演說釋放利率訊號；台股受惠輝達財測釋佳音、景氣燈號連8紅\n\n及下週半導體展等利多題材發酵，AI買盤歸隊帶動台股維持強勢，然4萬6之上追\n\n價買盤縮手，成交量仍不足1兆，台股欲挑戰突破8/14前高，並有效站穩，待量\n\n能放大。由於外資期貨淨空單增加逾8.4萬口之上，加上今晚華許發言仍有不確\n\n定性，短線仍須嚴防行情波動，預期大盤震盪盤堅、類股輪動。選股以流動性佳\n\n的中大型AI權值股為主。長線追蹤族群：台積電及先進製程/封裝、載板與PCB、\n\n矽晶圓、電源管理相關、機箱滑軌、貨櫃散裝、自行車、特用化學及高殖利率銀\n\n行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-28",
+      "Time": "08:31:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】輝達漲逾8%　法人：留意全球央行年會訊息",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E8%BC%9D%E9%81%94%E6%BC%B2%E9%80%BE8-%E6%B3%95%E4%BA%BA-%E7%95%99%E6%84%8F%E5%85%A8%E7%90%83%E5%A4%AE%E8%A1%8C%E5%B9%B4%E6%9C%83%E8%A8%8A%E6%81%AF-003127805.html",
+      "Content": "（中央社記者曾仁凱台北2026年08月28日電）輝達（NVIDIA）公布財報、財測指引超越預期，輝達27日股價大漲18.32美元或8.74%。激勵美股半導體族群走高，台指期夜盤續揚，法人看好AI買盤歸隊帶動台股維持強勢，須留意聯準會主席華許在全球央行年會所發表的言論。\n\n美股週四在科技股領漲下，4大指數收高。道瓊工業指數上漲105.56點或0.20%，收53569.44點，標普500指數上揚55.29點或0.72%，收在7730.99點。\n\n那斯達克指數勁揚411.15點或1.57%，收26541.35點，費城半導體指數大漲270.93點或2.33%，收11882.17點。\n\n輝達公布第2季財會年度營收高達962.2億美元，年增106%，且公司預期2028年營收將再成長70%，財報財測皆超越預期，輝達週四股價大漲18.32美元或8.74%，激勵半導體族群，英特爾上漲3.85美元或4.36%，博通上漲15.95美元或4.49%，台積電ADR上漲9.61美元或2.3%，收427.3美元。\n\n國泰投信基金經理人李翰林分析，輝達最新財報再次驗證AI產業需求並未降溫，且更重要的是，成長動能正從少數大型雲端業者，擴散至AI新創、企業與實體AI應用。\n\n李翰林指出，從輝達揭露的財報來看，第2季資料中心營收達890億美元、年增117%，占整體營收高達92%。其中除了大型CSP持續擴大資本支出外，AI雲端、工業及企業客戶營收（ACIE）營收達403億美元、年增138%。這代表AI已不再只是大型科技公司的軍備競賽，AI基礎建設需求正由單點爆發走向全面開花。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -111,6 +231,16 @@
       "URL": "https://finance.yahoo.com/m/a794298f-96f7-3b33-88b6-3254f8251a7a/here%27s-why-salesforce-stock.html",
       "Content": "Shares of Salesforce (NYSE: CRM) surged on Thursday after the cloud-based customer relationship management platform's quarterly results helped to calm investors' fears of a forthcoming \"SaaSpocalypse.\"\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe doomsayers have it wrong\n\n\"This nonsense of this SaaSpocalypse, I think it is time for it to stop,\" CEO Marc Benioff said during Salesforce's earnings call.\n\nBenioff is referring to concerns that the relentless advances in artificial intelligence (AI) would reduce the need for software sold on a subscription basis. The theory was that companies that relied on this so-called software-as-a-service ( SaaS ) business model would rapidly cede revenue to AI-powered competitors and see their pricing power erode.\n\n\"We've been hearing about this for the last two quarters, these dire predictions about the end of software and how the [AI] models eat everything, but none of them have come true for us,\" he said.\n\nSalesforce's financial results support Benioff's statements. The software leader's revenue rose 11% year over year to $11.3 billion in its fiscal 2027 second quarter, which ended on July 31.\n\n\"AI is delivering value across every layer of our platform,\" Benioff said. \"We're seeing incredible demand for our AI and data products, with ARR [annual recurring revenue] about to cross $4 billion.\"\n\nThe company's Agentforce offering, which helps customers create AI agents to perform a range of business tasks, is growing particularly fast. Agentforce ARR increased over 240% to $1.5 billion.\n\nAll told, Salesforce's net income climbed to $3.5 billion, or $4.29 per share, from $1.9 billion, or $1.96 per share, in the prior-year quarter, driven by a $2.6 billion gain on its investment in leading AI model developer Anthropic.\n\nAn intriguing new partnership\n\nSalesforce is teaming up with Anthropic to launch Claudeforce, which combines the reasoning of Anthropic's highly regarded Claude models with Salesforce's trusted data security and business workflows.\n\n\"Through this partnership, companies can point Claude at the customer information and business context that they've been building in Salesforce for decades, and use it to actually run and grow their businesses,\" Anthropic CEO Dario Amodei said.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-08-28",
+      "Time": "07:17:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股》輝達嗨 Salesforce破軟體末日論 費半揚",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E8%BC%9D%E9%81%94%E5%97%A8-salesforce%E7%A0%B4%E8%BB%9F%E9%AB%94%E6%9C%AB%E6%97%A5%E8%AB%96-%E8%B2%BB%E5%8D%8A%E6%8F%9A-231700924.html",
+      "Content": "MoneyDJ新聞 2026-08-28 07:17:46 郭妍希 發佈\n\nAI晶片龍頭輝達(Nvidia Corp.)預測2028年度營收有望大增70%激勵AI概念股，再加上資安、軟體股飛漲，美國四大指數27日全面收高。\n\n道瓊工業平均指數8月27日終場上漲0.2%(105.56點)、收53,569.44點。那斯達克指數上漲1.57%(411.15點)、收26,541.35點，創8月17日以來收盤新高。標準普爾500指數上漲0.72%(55.29點)、收7,730.99點，創8月17日以來收盤新高。費城半導體指數上漲2.33%(270.93點)、收11,882.17點。\n\n輝達於26日美股盤後 公布 會計年度第二季(5-7月)財報、本季(8-10月)財測皆擊敗華爾街原先預期，輝達財務長Colette Kress預估2028會計年度營收成長率有望高達70% (遠超分析師原先預估的44%)。Kress並表示，客戶預測「顯示我們明年的成長幅度將擴大一倍」，但她也指出，公司財測已反映供應受限的影響。\n\n輝達聞訊跳空大漲8.74%、收227.98美元，創5月14日以來收盤新高，漲幅居費半30支成分股之冠。輝達晶圓代工夥伴台積電(2330) ADR同步上漲2.3%、收427.30美元。輝達競爭對手網通晶片設計大廠博通(Broadcom)勁揚4.49%、收371.54美元。\n\n資料中心高速連接解決方案供應商Credo Technology、Astera Labs, Inc.分別勁揚6.07%、4.75%。其中，Credo漲幅在費半30支成分股中居次。\n\n線上客戶管理軟體提供商暨企業雲端運算公司Salesforce調高全年營收與獲利預測，並推出整合Anthropic旗下Claude AI模型的新外掛程式，激勵股價飆漲22.58%、收252.05美元。Salesforce成為推升藍籌股道瓊工業指數的最大功臣，創下6年來最大單日漲幅。\n\n資安軟體業者CrowdStrike也飆漲20.5%、收227.96美元。該公司 調高 全年營收預測，第二季獲利亦優於市場預期。\n\nSalesforce與CrowdStrike的財報緩解市場對先進AI工具可能顛覆傳統軟體產業的疑慮，提升投資人買進先前遭重挫軟體股的意願，也縮小軟體股與半導體股之間的表現差距。半導體業一直被視為AI熱潮的主要受惠者。\n\n其他軟體公司股價也同步走高，ServiceNow與Palo Alto Networks分別勁揚10.04%、12.83%。\n\n不過，mRNA療法及疫苗生技業者莫德納(Moderna Inc.)宣布發行20億美元可轉換公司債後，股價逆勢下挫4.6%、收142.77美元。\n\nPC與印表機大廠惠普(HP)第三季PC部門出貨量與利潤率均下滑。HP財務長Karen Parkhill 警告 ，第四季記憶體占整機物料成本比重將進一步攀升，恐使營收表現不若傳統旺季水準，個人系統部門毛利率也將受壓，預計2027會計年度才能逐步改善。HP應聲下挫2.92%、收29.63美元。\n\n隨著輝達財報公布，投資人焦點轉向聯準會(Fed)主席華許(Kevin Warsh)於美東時間週五(28日)上午10點在傑克森洞(Jackson Hole)全球央行研討會發表的演說。市場將從中尋找Fed如何看待最新通膨數據，以及美國財政部壓低殖利率行動的線索。\n\n週三公布的個人消費支出(PCE)數據高於預期，使貨幣政策前景更加不明朗，也削弱本(8)月稍早溫和消費者通膨報告所帶來的部分樂觀情緒。\n\n兩名Fed官員週四再次表達對通膨前景的持續憂慮，重申支持升息以對抗物價壓力的立場。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用 個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n世芯-KY N2專案價量勝N3，有信心獲台積電產能\n\nAMD傳獲谷歌青睞研發第10代TPU 首闖客製AI晶片\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
