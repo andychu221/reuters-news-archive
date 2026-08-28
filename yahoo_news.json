@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T13:32:05.936Z",
+  "last_updated": "2026-08-28T13:34:46.290Z",
   "total_news_count": 229,
   "news": [
     {
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMZN, NVDA",
+      "Ticker": "INTC, AMZN, NVDA",
       "Date": "2026-08-28",
       "Time": "20:30:01",
       "Source": "Yahoo Finance",
@@ -43,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-08-28",
       "Time": "20:25:01",
       "Source": "Yahoo Finance",
@@ -103,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-08-28",
       "Time": "20:08:21",
       "Source": "Yahoo Finance",
@@ -123,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "AAPL, INTC",
       "Date": "2026-08-28",
       "Time": "19:47:48",
       "Source": "Yahoo Finance",
