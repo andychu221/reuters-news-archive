@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T08:28:34.747Z",
-  "total_news_count": 266,
+  "last_updated": "2026-08-29T09:28:36.095Z",
+  "total_news_count": 262,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -3665,62 +3665,6 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "違約交割,台股,波動,個股"
-    },
-    {
-      "Ticker": "2303.TW",
-      "Date": "2026-07-30",
-      "Time": "17:15:40",
-      "Source": "自由時報",
-      "Title": "96萬股東傻眼！「這群人」聯手突襲 聯電爆量打開漲停",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5523275",
-      "Content": "〔財經頻 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週四（30日）震盪1751點，終場跌105點，失守4萬點。\n• 外資續賣超483.12億元，聯電（2303）成為最大苦主，遭賣超3.5萬張。\n• 三大法人合計賣超聯電3.92萬張，股價打開漲停，終場收110元。\n• 外資賣超前10大個股包含聯電（2303）、鴻海（2317）、友達（2409）等。",
-      "Related_Score": 3,
-      "Sentiment_Score": -1,
-      "Keywords": "台股,震盪,外資,賣超,聯電"
-    },
-    {
-      "Ticker": "2344.TW",
-      "Date": "2026-07-30",
-      "Time": "17:00:23",
-      "Source": "自由時報",
-      "Title": "台股震盪1751點失守4萬點！外資獨寵這檔電子 反手狂買3.6萬張",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5523234",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週四（30日）震盪1751點，終場跌105點，失守4萬點。\n• 外資賣超483.12億元，但獨寵華邦電（2344），買超3.6萬張。\n• 華邦電是外資買超前10大中，唯一一檔電子股。\n• 外資買超前10大個股包含合庫金（5880）、華邦電（2344）、長榮航（2618）等。",
-      "Related_Score": 3,
-      "Sentiment_Score": 1,
-      "Keywords": "台股,外資,買超,電子股,金融股"
-    },
-    {
-      "Ticker": "2303.TW, 2344.TW",
-      "Date": "2026-07-30",
-      "Time": "16:48:24",
-      "Source": "自由時報",
-      "Title": "華邦電、國巨*腰斬殺瘋了！兇手抓到了 逾百萬股東欲哭無淚",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5523216",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週四（30日）震盪，投信續買超126.65億元，但大砍華邦電（2344）與國巨*（2327）。\n• 受此衝擊，國巨*跌停收456.5元，華邦電跌8.85%，收118.5元。\n• 投信賣超前10大個股包含華邦電（2344）、國巨*（2327）、聯電（2303）等。\n• 華邦電在外資反手狂買下，打開跌停。",
-      "Related_Score": 3,
-      "Sentiment_Score": -1,
-      "Keywords": "台股,投信,賣超,記憶體,被動元件"
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-07-30",
-      "Time": "16:35:56",
-      "Source": "自由時報",
-      "Title": "台積電掀玻璃基板熱潮 友達：已有合作夥伴、試產線規劃中",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5523189",
-      "Content": "〔記者陳梅英 ...",
-      "Language": "zh",
-      "AI_Summary": "• 友達（2409）董事長彭双浪表示，公司在先進封裝、光通訊及Glass Core領域均有布局。\n• 友達已規劃建置TGV、RDL及Glass Core試產線，並有合作夥伴共同開發。\n• 公司深耕玻璃製程近30年，具備TGV、RDL及異質整合等關鍵能力。\n• Glass Core技術預計2-3年進入成熟階段，資本支出已納入相關試產線建置。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "玻璃基板,先進封裝,試產線,技術布局,合作夥伴"
     }
   ]
 }
