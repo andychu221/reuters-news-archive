@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T07:28:44.192Z",
-  "total_news_count": 255,
+  "last_updated": "2026-08-30T08:28:46.729Z",
+  "total_news_count": 252,
   "news": [
     {
       "Ticker": "3661.TW, 3006.TW",
@@ -3521,48 +3521,6 @@
       "Related_Score": 3,
       "Sentiment_Score": -1,
       "Keywords": "台股,投信,賣超,被動元件"
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-07-31",
-      "Time": "16:06:44",
-      "Source": "自由時報",
-      "Title": "聯發科：Q3營收季增0-5％   年增7-12％",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5524337",
-      "Content": "〔記者卓怡 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科預期第3季營收介於1522億元至1598億元，季增0-5%，年增7-12%。\n• 預計第3季毛利率為46% ± 1.5%，費用率為31% ± 2%。\n• 預期全年美元營收可望達到高個位數百分比成長，毛利率維持目標區間。\n• 為確保供應鏈產能及推動AI ASIC佈局，核准總額50億美元的彈性融資預算案。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "營收展望,毛利率,費用率,融資,AI ASIC"
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-07-31",
-      "Time": "15:47:00",
-      "Source": "自由時報",
-      "Title": "超預期！聯發科蔡力行：上修2027年ASIC市佔目標至15-20％",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5524311",
-      "Content": "〔記者卓 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科上修2027年AI ASIC市佔目標至15-20%，原預估為10-15%。\n• 首款AI加速器ASIC預計今年第4季量產，今年資料中心營收可望超過20億美元。\n• 預期2027年資料中心可服務市場規模（SAM）達800億美元。\n• 第二款ASIC預計2028年量產，有信心市佔率會隨之增加。",
-      "Related_Score": 5,
-      "Sentiment_Score": 2,
-      "Keywords": "AI ASIC,市佔率,資料中心,營收成長,量產"
-    },
-    {
-      "Ticker": "2454.TW",
-      "Date": "2026-07-31",
-      "Time": "15:44:49",
-      "Source": "自由時報",
-      "Title": "聯發科Q2每股盈餘15.28元   上半年每股盈餘30.45元",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5524291",
-      "Content": "〔記者 ...",
-      "Language": "zh",
-      "AI_Summary": "• 聯發科第2季合併營收1521.83億元，季增2.0%，年增1.2%。\n• 單季稅後淨利246.05億元，每股盈餘15.28元。\n• 累計上半年稅後淨利489.81億元，每股盈餘30.45元。\n• 第2季營收成長主要受惠智慧裝置平台市占率提升，抵銷手機市場需求減少。",
-      "Related_Score": 5,
-      "Sentiment_Score": 0,
-      "Keywords": "營收,淨利,EPS,智慧裝置,手機市場"
     }
   ]
 }
