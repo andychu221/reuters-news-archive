@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T10:00:44.495Z",
-  "total_news_count": 210,
+  "last_updated": "2026-08-31T10:26:20.726Z",
+  "total_news_count": 213,
   "news": [
     {
       "Ticker": "NVDA",
@@ -103,6 +103,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".KS11",
+      "Date": "2026-08-31",
+      "Time": "16:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》科技股回穩 KOSPI收漲0.46%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-%E7%A7%91%E6%8A%80%E8%82%A1%E5%9B%9E%E7%A9%A9-kospi%E6%94%B6%E6%BC%B20-46-084400781.html",
+      "Content": "MoneyDJ新聞 2026-08-31 16:44:50 數位內容中心 發佈\n\n韓股今(31)日走勢分歧，韓國KOSPI指數尾盤由跌轉升、收於6820.02點，上漲31.14點或0.46%；韓國KOSDAQ指數收於834.29點，下跌4.12點或0.49%。盤面先受到美國Fed主席華許(Kevin Warsh)偏鷹談話壓抑，隨後又遭美國與伊朗在荷姆茲海峽一帶衝突升溫拖累，但午後科技股回穩，才帶動大盤收復失土。\n\n宏觀壓力方面，華許在Jackson Hole會議談及通膨風險，市場因此提高對美國利率路徑的警戒，KOSPI指數一度開低2.58%。同時，中東緊張情勢升溫也削弱市場風險偏好，早盤賣壓一度擴散至整體盤面。\n\n半導體與權值股方面，尾盤反彈的主力仍在大型晶片股。Samsung Electronics(005930.KS)與SK hynix(000660.KS)收盤分別上漲1.17%與1.27%，成為KOSPI指數翻紅主力，Samsung Electro-Mechanics(009150.KS)、LG Energy Solution(373220.KS)與Samsung Biologics(207940.KS)亦收高，支撐指數回穩；不過，Samsung Life Insurance(032830.KS)收低，顯示金融族群表現仍偏弱。\n\n《日股》震盪見買盤，日經收跌0.14%、TOPIX漲0.23%\n\n《總經放大鏡》美房市轉弱 PCE今晚登場等6則\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-08-31",
+      "Time": "16:38:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股》震盪見買盤，日經收跌0.14%、TOPIX漲0.23%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1-%E9%9C%87%E7%9B%AA%E8%A6%8B%E8%B2%B7%E7%9B%A4-%E6%97%A5%E7%B6%93%E6%94%B6%E8%B7%8C0-14-topix%E6%BC%B20-083800431.html",
+      "Content": "MoneyDJ新聞 2026-08-31 16:38:51 數位內容中心 發佈\n\n日股今(31)日走勢分歧，日經225指數收於66,311.93點，下跌93.63點或0.14%；東證股價指數(TOPIX)收於4,156.29點，上漲9.58點或0.23%。盤面主軸仍是利率觀望，美國聯準會官員偏鷹談話後，市場重新提高9月利率上調預期，帶動美國長天期殖利率走高，也讓日股對評價偏高的成長股與科技股更為保守。\n\n利率與殖利率方面，早盤賣壓先行湧現，日經225指數一度明顯走弱，盤勢震盪之後雖有承接買盤，跌幅仍未能完全收斂。市場反應集中在利率敏感族群，顯示投資人仍在消化美國政策路徑與利率環境變化。\n\n半導體與權值股方面，拖累日經225指數的主力，來自愛德萬測試(6857.JP)、TDK(6762.JP)、Murata Manufacturing(6981.JP)、Lasertec(6920.JP)與Disco(6146.JP)等半導體和高權值科技股。\n\n《日股》半導體撐盤力道減 日經收跌0.2%\n\n《日股》日經漲1.16% TOPIX續創收盤新高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-08-31",
       "Time": "16:35:00",
@@ -133,7 +153,17 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2330.TW",
+      "Ticker": ".SPX",
+      "Date": "2026-08-31",
+      "Time": "16:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》量子運算—IONQ、RGTI、QBTS",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%87%8F%E5%AD%90%E9%81%8B%E7%AE%97-ionq-rgti-qbts-080200088.html",
+      "Content": "MoneyDJ新聞 2026-08-31 16:02:04 數位內容中心 發佈\n\nIonQ（IONQ.US）\n\n2026/08/29，IonQ完成對SkyWater Technology的收購，每股對價為15.00美元現金加0.4883股IonQ普通股。公司表示交易完成後現金部位約為20億美元，並持續強調垂直整合、全堆疊量子平台布局。\n\nRigetti Computing（RGTI.US）\n\n本週，Rigetti最值得記住的是108量子位元Cepheus-1-108Q已全面上線至Rigetti QCS、Amazon Braket、Microsoft Azure Quantum及qBraid。這使其商業化主軸由單機研發轉向多平台雲端調用與系統級交付。\n\nD-Wave Quantum（QBTS.US）\n\n本週，D-Wave披露NTT DOCOMO已將第2個量子運算應用部署到正式生產環境，並把每日尖峰時段位置註冊訊號降低65.3%。這是近7日少數直接對應營運指標的量產級案例。\n\nIBM（IBM.US）\n\n2026/08/26，IBM宣布完成對HRL Laboratories, LLC的收購，整合超導量子位元與矽自旋量子位元、低溫技術及封裝互連能力。公司並重申IBM Quantum Starling將於2029年達成1億次量子操作目標。\n\nQuantinuum（QNT.US）\n\n本週，Quantinuum公布Sol系統2027年目標為192個物理量子位元、100個邏輯量子位元，邏輯保真度99.999%。同時，Oracle已採購Helios並部署於企業雲端平台，讓其邏輯量子位元路線與雲端交付同步推進。\n\nInfleqtion（INFQ.US）\n\n本週，Infleqtion重申將於2026年稍晚交付1套30個邏輯量子位元系統，持續把競爭主軸放在明確交付節點。同期其第二季營收在修正後由1260萬美元上調至1350萬美元，年增幅度也同步提高。\n\nQuantum Computing Inc.（QUBT.US）\n\n本週，Quantum Computing Inc.披露Dirac-3量子最佳化系統已完成銷售、交付與安裝，NeuraWave也達到部署就緒。第二季營收為560萬美元，且截至6月30日backlog約4250萬美元，顯示商業化案件正在落地。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《強勢美股特報》MRNA,CDW,AMD,COIN等10檔\n\n《美股主題週報》量子運算—IBM、IONQ、RGTI\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
       "Date": "2026-08-31",
       "Time": "16:01:00",
       "Source": "Yahoo奇摩股市",
