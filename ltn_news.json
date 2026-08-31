@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T23:25:41.720Z",
-  "total_news_count": 249,
+  "last_updated": "2026-08-31T23:28:39.540Z",
+  "total_news_count": 250,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -15,6 +15,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "矽光子,光通訊,AI,CPO,光收發器"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-08-31",
+      "Time": "20:57:05",
+      "Source": "自由時報",
+      "Title": "輝達首度投資台灣公司 認購35億美元聯發科ECB",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5558598",
+      "Content": "〔記者卓怡君／台北報導〕IC設計龍頭聯發科（2454）今日宣布完成總額39億美金，超過1200億台幣的海外可轉債（ECB）訂價，為台灣資本市場至今金額最大的海外可轉債發行，值得注意的是，聯發科此次海外募資案吸引AI 基礎建設的長期重要合作夥伴包括NVIDIA（輝達）和Alphabet（Google母公司），以及著名國際投資人的熱烈參與及認購，其中輝達（NVIDIA）投資美金35億元於聯發科發行的海外可轉換公司債，這同時也是輝達第一次大手筆投資台灣公司。\n\n 聯發科表示，很高興此次海外募資案吸引來自AI 基礎建設的長期重要合作夥伴包括NVIDIA和Alphabet，以及著名國際投資人的熱烈參與及認購，充分展現對聯發科由AI ASIC晶片擴展至機櫃級運算系統與平台（full scale systems and platform）策略布局的信心。相信憑藉著聯發科在 AI 基礎建設、邊緣AI 運算、旗艦行動平台、連結技術、物聯網，以及實體 AI世代下軟體定義汽車等領域的領先地位，聯發科將與客戶及合作夥伴共同掌握 AI 從邊緣到雲端全面擴展所帶來的長期成長機會。\n\n 同時，聯發科也與NVIDIA共同宣布將深化從邊緣AI到雲端AI的長期合作夥伴關係，共同打造跨世代的AI基礎建設、邊緣AI運算與實體AI世代下的車用產品。在這更緊密的合作下，除了既有的AI ASIC晶片之外，聯發科將採用NVIDIA最新NVLink Fusion平台，協助客戶快速地將客製化XPU帶入以NVIDIA NVLink連結的機櫃級AI工廠。聯發科將以NVIDIA NVLink Fusion平台為設計基礎，為客戶開發客製化AI加速器。NVLink Fusion平台提供預先建置（prebuilt）、預先認證（prequalified）與系統級預先驗證（system-prevalidated）的平台，加速客戶從晶片、先進封裝到機櫃級系統的開發進程，客戶無須從頭開發與驗證客製化 XPU 周邊的各項系統元件，更能將資源集中在打造平台核心優勢的差異化運算能力上。",
+      "Language": "zh"
     },
     {
       "Ticker": "2454.TW",
