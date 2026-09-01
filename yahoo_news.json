@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-01T18:01:03.904Z",
-  "total_news_count": 583,
+  "last_updated": "2026-09-01T18:11:38.407Z",
+  "total_news_count": 587,
   "news": [
+    {
+      "Ticker": "LITE",
+      "Date": "2026-09-02",
+      "Time": "02:00:35",
+      "Source": "Yahoo Finance",
+      "Title": "Deutsche Bank Names Lumentum and Coherent Top AI Picks as Spending Surges",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-names-lumentum-coherent-180035804.html",
+      "Content": "This article first appeared on GuruFocus .\n\nDeutsche Bank has started covering a group of hardware stocks tied to the expansion of AI infrastructure, with Lumentum Holdings ( NASDAQ:LITE ) and Coherent ( NYSE:COHR ) emerging as its top picks.\n\nAnalyst Gianmarco Conti said AI adoption is increasing demand for computing capacity as consumers and businesses use more data and digital services. That trend could broaden the investment opportunity beyond GPUs toward CPUs, optical components and other infrastructure.\n\nWarning! GuruFocus has detected 6 Warning Sign with ANET.\n\nIs ANET fairly valued? Test your thesis with our free DCF calculator.\n\nLumentum and Coherent received Buy ratings. Deutsche Bank pointed to their laser technologies, which are used in optical connections for AI systems. Conti also noted that both companies face supply constraints and are raising prices, while Nvidia has invested $2 billion in each company.\n\nArista Networks ( NYSE:ANET ) and Cisco Systems ( NASDAQ:CSCO ) also received Buy ratings. Deutsche Bank cited Arista's exposure to enterprise and sovereign AI deployments and Cisco's combination of silicon, optics and networking systems, alongside $9.3 billion in hyperscaler AI orders.\n\nHewlett Packard Enterprise (HPE) also earned a Buy rating. A10 Networks (ATEN), Dell Technologies (DELL) and Ingram Micro (INGM) received Hold ratings.\n\nWhat it means for stocks: Deutsche Bank's coverage highlights optical and networking suppliers as potential beneficiaries of continued AI infrastructure spending.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-09-02",
+      "Time": "01:59:00",
+      "Source": "Yahoo Finance",
+      "Title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html",
+      "Content": "Broadcom AVGO is expanding VMware's role in enterprise private artificial intelligence (AI) infrastructure as organizations increasingly look to deploy AI workloads across secure on-premises and private-cloud environments. VMware Cloud Foundation (VCF) 9.1 strengthens this effort by improving infrastructure efficiency, security and support for enterprise AI inferencing. The expansion could help Broadcom capture a larger share of enterprise AI and hybrid-cloud spending while strengthening its position against Nutanix NTNX and Microsoft MSFT. Broadcom's infrastructure software already helps enterprises modernize, optimize and secure complex private-cloud, hybrid-cloud and edge environments.\n\nVCF 9.1 broadens VMware's relevance as enterprises combine AI workloads with traditional applications. The platform supports heterogeneous computing across AMD, Intel and NVIDIA architectures, allowing customers to run AI, Kubernetes and conventional virtualized workloads within a common private-cloud environment. Broadcom noted that VCF 9.1 deployments for on-premises cloud computing have been extremely strong and are contributing to robust revenue growth.\n\nThe momentum is already visible in Broadcom's infrastructure software business. Software revenues increased 9% year over year to $7.2 billion in the second quarter of fiscal 2026, while annualized recurring revenues advanced 17%. Broadcom expects infrastructure software revenues to reach approximately $8.9 billion in the third quarter, representing 31% year-over-year growth. Strong VCF demand contributed to higher operating income in Broadcom's infrastructure software business.\n\nVMware gives Broadcom exposure to a highly profitable software stream. Infrastructure software generated a 93% gross margin in the second quarter of fiscal 2026, while operating margin improved to roughly 79%. Growing deployments of CPUs alongside Graphics Processing Unit (GPUs) are accelerating VMware growth and Broadcom expects this momentum to continue over the next several quarters. This combination of AI-enabled private-cloud adoption, recurring revenues and strong margins could make VMware an increasingly important contributor to AVGO.\n\nAVGO Faces Tough Competition\n\nNutanix is intensifying its competition with Broadcom by positioning the Nutanix Cloud Platform and Nutanix Agentic AI as flexible alternatives for enterprise hybrid-cloud and AI deployments. Nutanix Agentic AI is designed to lower complexity, strengthen security and provide more predictable costs, while supporting both AMD and NVIDIA GPUs. Nutanix Agent Gateway adds governance and cost controls for AI spending. Its external-storage strategy lets customers migrate while retaining existing Dell, NetApp and other storage infrastructure, reducing switching costs. Nutanix secured several seven-figure ACV deals in the fourth quarter, with customers citing lower total cost of ownership and easier migration. Management also expects external storage to become a meaningful growth contributor.\n\nMicrosoft presents a broader challenge through Azure and its enterprise AI ecosystem. In the fourth quarter of fiscal 2026, Azure surpassed $100 billion in annual revenues, growing 41%, while Microsoft continues expanding AI infrastructure capacity. Microsoft's Sovereign Cloud enables customers to run models across public, customer-controlled and fully disconnected environments, while Foundry offers more than 11,000 AI models and has seen a fivefold increase in customers building with models from multiple providers. Broadcom itself acknowledges that workload migration to public clouds could limit demand for its virtualization portfolio.\n\nStory Continues\n\nAVGO's Share Price Performance, Valuation & Estimates\n\nShares of Broadcom have gained 6.3% year to date, underperforming the broader Zacks Computer and Technology sector's 16.8% growth.\n\nAVGO Stock's Price Performance\n\nImage Source: Zacks Investment Research\n\nAVGO stock is trading at a premium, with forward 12-month price/earnings of 20.70X compared with the broader sector's 20.65X. Broadcom has a Value Score of D.\n\nAVGO's Valuation\n\nThe Zacks Consensus Estimate for Broadcom's earnings is currently pegged at $3.22 per share, unchanged over the past 30 days, suggesting 90.53% growth.\n\nBroadcom Inc. Price and Consensus\n\nBroadcom Inc. price-consensus-chart | Broadcom Inc. Quote\n\nBroadcom currently has a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-09-02",
+      "Time": "01:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "What Is a Small Modular Reactor, and Why Is Big Tech Signing Multi-Decade Deals for Them?",
+      "URL": "https://finance.yahoo.com/m/22e81d09-1ffb-343c-8547-5dc3eb381754/what-is-a-small-modular.html",
+      "Content": "The nuclear energy market fizzled out for roughly a decade after the 2011 Fukushima disaster. But over the past few years, the market's demand for nuclear power rose again -- driven by the expansion of the cloud , AI , and industrial automation markets. New decarbonization initiatives and safer nuclear technologies also drove more countries to restart their nuclear programs.\n\nThat shift is generating strong tailwinds for producers of small modular reactors (SMRs). Many top tech companies -- including Alphabet 's (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, Amazon (NASDAQ: AMZN), and Oracle (NYSE: ORCL) -- have signed framework, financing, and deployment deals to expand their SMR capacity over the next two decades.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWhat are SMRs?\n\nSMRs are compact nuclear reactors designed to produce up to 300 MWe per unit. By comparison, conventional nuclear power plants typically generate more than 1,000 MWe.\n\nSMRs are much smaller than conventional reactors, and they're prefabricated in factories. Their modular design enables them to be connected to additional SMRs in larger plants. That approach reduces the time and costs for constructing a custom nuclear power plant. Their smaller design also allows them to be deployed in remote areas with challenging terrain.\n\nKey companies to watch in the SMR space include NuScale (NYSE: SMR), Oklo (NYSE: OKLO), and GE Vernova (NYSE: GEV). These companies all produce different types of SMRs (and even smaller microreactors). Still, they'll all benefit from the surging power demands of the cloud infrastructure and AI markets over the next few decades.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-02",
@@ -13,7 +43,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT",
+      "Date": "2026-09-02",
+      "Time": "01:44:47",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Stock Drops as $41 Billion Capex Meets 4.8% Yields",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-drops-41-billion-174447308.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ), the enterprise-software and cloud-computing giant, dropped approximately 0.9% to $502.59 Tuesday morning as the 10-year Treasury yield closed in on 4.8%. That matters when one of the world's biggest technology companies is spending at full throttle to win the AI race.\n\nWarning! GuruFocus has detected 3 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nMicrosoft deployed $41 billion in capital expenditures during its fiscal fourth quarter , including $5.6 billion through finance leases. Roughly two-thirds funded processors, GPUs and other shorter-lived equipment. Free cash flow came in at $19.6 billion, less than half the quarter's reported capital spending.\n\nThe balance sheet is not flashing danger. Microsoft produced $55.4 billion in operating cash flow, while Azure revenue rocketed 43%. The shares also sit 13.48% below their $580.87 GF Value estimate, pointing to potential undervaluation. But with risk-free yields near 4.8%, every new data center must work harderand investors will demand faster proof that today's massive AI spending can deliver tomorrow's profits.\n\nMicrosoft Stock Drops as $41 Billion Capex Meets 4.8% Yields · us.finance.gurufocus\n\nMicrosoft Stock Drops as $41 Billion Capex Meets 4.8% Yields · us.finance.gurufocus The balance sheet is not flashing danger. Microsoft produced $55.4 billion in operating cash flow, while Azure revenue rocketed 43%. The shares also sit 13.48% below their $580.87 GF Value estimate, pointing to potential undervaluation. But with risk-free yields near 4.8%, every new data center must work harderand investors will demand faster proof that today's massive AI spending can deliver tomorrow's profits.\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-09-02",
       "Time": "01:43:00",
       "Source": "Yahoo Finance",
