@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T11:25:53.647Z",
-  "total_news_count": 819,
+  "last_updated": "2026-09-02T11:34:22.777Z",
+  "total_news_count": 820,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -63,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-09-02",
       "Time": "18:35:00",
       "Source": "Yahoo Finance",
@@ -183,6 +183,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-09-02",
+      "Time": "18:00:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook",
+      "URL": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html",
+      "Content": "Apple stock just had its best day in five weeks as John Ternus took over from Tim Cook as CEO , becoming just the company's third chief executive this century.\n\nThe rally has pushed Apple away from a support zone near $310 and back toward its late-July record area near $340 — giving shareholders a natural way to define both their downside and upside with options.\n\nApple ( AAPL ) was trading around $325 early this week, almost exactly halfway between those two levels. That sets up a strategy known as a collar .\n\nA collar isn't a standalone options bet. The investor must own 100 Apple shares — either already held or bought outright — and then layer the options on top. In this case, that means buying one Sept. 18 $310 put and selling one Sept. 18 $340 call.\n\nWith Apple at $324.77 when the trade was priced, the $310 put cost about $2.17 per share, or $217 for one contract. The $340 call brought in about $2.12 per share, or $212.\n\nNet cost for the hedge comes to about a nickel per share.\n\nThat's $5.\n\nThe put provides the real insurance. For about $5 per 100 shares, the collar protects against a drop below $310 through Sept. 18. If Apple falls below that level at expiration, the put gains value dollar for dollar as the stock declines.\n\nMore from Yahoo Scout\n\nWhy did Apple stock surge following CEO transition?\n\nHow does a collar strategy work for Apple?\n\nHow might Apple's September event impact stock price?\n\nWhat are the risks of Apple's collar trade?\n\nThe short call pays for nearly all of that protection, but there is a catch. Above $340, further gains are surrendered, and the shares can be called away — meaning the investor may have to sell them at the $340 strike.\n\nIt's the same basic trade-off behind the covered call used on Apple in July , with one important addition.\n\nThat earlier trade generated a premium but didn't protect against a big drop. Adding the put converts the cushion into an actual floor.\n\nUsing the prices above, the collar's breakeven is about $324.82 at the Sept. 18 expiration.\n\nBelow $310, the maximum loss is roughly $1,482 on the 100-share position. Above $340, the maximum profit is roughly $1,518. If Apple finishes between the two strikes, both options expire worthless, leaving the investor with the stock's gain or loss in that range, minus the $5 cost of the hedge.\n\nThere's also another catalyst squeezed into this relatively short window. Apple is expected to hold its next major product event on Sept. 9, Ternus's first as CEO , before these options expire nine days later.\n\nFor shareholders who want to stick around for the new CEO and the next product reveal, the collar offers a straightforward trade-off.\n\nGive up the gains above $340, accept that the shares could be called away, and for about $5 upfront, buy crash protection below $310.\n\nJared Blikre is the global markets and data editor for Yahoo Finance. Follow him on X at @SPYJared or email him at jaredblikre@yahooinc.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance\n\nApple stock is trading midway between $310 and $340. · Yahoo Finance AlphaSpace\n\nApple stock is trading midway between $310 and $340. · Yahoo Finance AlphaSpace Apple ( AAPL ) was trading around $325 early this week, almost exactly halfway between those two levels. That sets up a strategy known as a collar .\n\n<p clas\n\nYahoo Finance analysis of AlphaSpace data\n\nYahoo Finance analysis of AlphaSpace data With Apple at $324.77 when the trade was priced, the $310 put cost about $2.17 per share, or $217 for one contract. The $340 call brought in about $2.12 per share, or $212.\n\n<button class=\"icon-btn fin-size-medi",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-02",
       "Time": "17:50:00",
@@ -233,7 +243,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN, NVDA",
+      "Ticker": "AAPL, META, MSFT, GOOGL, AMZN, NVDA",
       "Date": "2026-09-02",
       "Time": "17:26:00",
       "Source": "Yahoo Finance",
