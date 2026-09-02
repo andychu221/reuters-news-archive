@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-02T00:34:03.508Z",
-  "total_news_count": 665,
+  "last_updated": "2026-09-02T01:00:33.480Z",
+  "total_news_count": 669,
   "news": [
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-09-02",
+      "Time": "08:20:00",
+      "Source": "Yahoo Finance",
+      "Title": "Are New Automated Token Portfolios (ATPs) the Future of Crypto Investing? Here's What Investors Need to Know.",
+      "URL": "https://finance.yahoo.com/m/42b28ae6-db3b-3b9d-a394-fe4dd7a1760f/are-new-automated-token.html",
+      "Content": "On Aug. 25, Bitwise, a major asset manager, announced that it would soon launch a trio of automated token portfolios (ATPs), which would be built using tokenized U.S. stocks issued by Coinbase Global (NASDAQ: COIN). An ATP is a professionally picked basket of stocks that you hold in a crypto wallet, with each company's shares represented as crypto tokens. The point of holding those assets as crypto tokens is that you can put their value to work in various crypto applications, unlike if you were to hold the stocks directly.\n\nSo is this new piece of financial tech going to become the future of crypto investing?\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nATPs are a lot like ETFs\n\nAs you probably know, an exchange-traded fund (ETF) is a vehicle that pools investors' capital and issues shares. The asset issuer owns the underlying stocks that back the ETF, and investors own a claim on the pool of assets.\n\nAn automated token portfolio is an inversion of that dynamic that produces similar results. Bitwise selects the portfolio's holdings and its target weights, just as it would with an ETF, but investors keep direct control over the tokens in a crypto wallet. Glider, a business that's partnered with Bitwise and Coinbase, performs automated rebalancing of the funds in the wallet on a daily basis to match the target weights.\n\nBitwise named its flagship ATP Mag7X, and it holds eight stocks at an equal weight -- the Magnificent Seven stocks , plus Space Exploration Technologies . As of August 2026, it charges a 0.15% access fee for the model, which excludes trading costs and Glider's platform fees. That fee is comparable to what investors would pay on an index ETF, so it's not very expensive at all.\n\nBecause you hold the tokens directly, they can be used as collateral for decentralized finance (DeFi) apps, or for lending, borrowing, or trading with leverage. That flexibility of the capital is the main point of the ATPs. For crypto-native assets, like Bitcoin or Ethereum , the flexibility is already there, so Bitwise has less reason to wrap them in an ATP, though it's plausible that it'll eventually do so anyway.\n\nThe other reason to use ATPs is that for investors who have a lot of capital tied up in crypto (and in active use), but not much capital in the traditional financial system, ATPs provide a path to get exposure to the businesses that mostly live in the traditional system. For those users, the ATPs are a friction-reducing workaround to needing to set up a separate brokerage account and transfer their funds, potentially across international borders.\n\nStory Continues\n\nAccess could be on the way next year\n\nCurrently, the rules about trading securities mean that investors in the U.S. are not legally allowed to use automated token portfolios. So there are no U.S. investor protections associated with them either.\n\nHowever, U.S.-based investors should still pay attention to the concept and the trend it may start, as regulations could soon change. The Securities and Exchange Commission (SEC) is still in the process of finalizing its tokenized securities exemptions, which are slated for completion in 2027. Furthermore, as Bitwise and perhaps other asset managers create new portfolio concepts to use as ATPs, they may make interesting combinations of assets for which there are no ETFs. These could be opportunities for the right kind of investors.\n\nOne last thing to note is that these automated portfolios might not be tax-efficient. Every automated rebalance counts as a sale. So read up on how cryptocurrency is taxed where you live before assuming that a daily rebalanced wallet will cost less than an ETF or just buying the same tokenized assets yourself.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-09-02",
+      "Time": "08:19:27",
+      "Source": "Yahoo Finance",
+      "Title": "Why S&P Global Stock Bumped Higher Today",
+      "URL": "https://finance.yahoo.com/m/63e1565a-d220-3a79-a753-fd1cfa9937d6/why-s%26p-global-stock-bumped.html",
+      "Content": "A potential spin-off of a key business unit was the development that pushed S&P Global (NYSE: SPGI) stock slightly higher on Tuesday. Shares of the company behind the famous family of stock indexes rose by 1%. Interestingly, this was more than sufficient to beat its own S&P 500 index, which fell slightly on the day.\n\nPossible divestment\n\nEarly that afternoon, Bloomberg reported that S&P Global's management is considering carving out Capital IQ Pro, its data and research platform, perhaps into a separate, publicly traded company. Citing unnamed \"people familiar with the matter,\" the financial news agency added that the company was in the early stages of considering such a move.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIf accurate, it'll probably advance to later stages. Bloomberg's sources said that \"CapIQ,\" as it's commonly known in the financial industry and among investors, could boast a valuation in the high single-digit billions of dollars.\n\nThose people added a caveat that S&P Global could ultimately decide not to separate CapIQ. When contacted by Bloomberg, an unnamed spokesperson for S&P Global refused to comment on the story.\n\nA valuable asset\n\nCapIQ is a sprawling platform with mountains of financial data; Bloomberg said it has information on over 60 million private companies, for a start. It also has significant, widespread name recognition among financial professionals, which enhances its brand value. It's entirely reasonable to expect it to command a high valuation if spun off from its parent.\n\nSince this consideration is apparently in the early stages, investors were only cautiously optimistic that it would happen somewhere down the road. I wouldn't buy into S&P Global simply because of the possibility of a CapIQ divestment -- it's way too speculative at this stage -- but it's certainly a story worth keeping an eye on.",
+      "Language": "en"
+    },
     {
       "Ticker": ".SPX, 2330.TW",
       "Date": "2026-09-02",
@@ -23,7 +43,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "NVDA, AAPL",
       "Date": "2026-09-02",
       "Time": "07:28:30",
       "Source": "Yahoo Finance",
@@ -73,6 +93,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "NVDA",
+      "Date": "2026-09-02",
+      "Time": "07:14:00",
+      "Source": "Yahoo Finance",
+      "Title": "Not Nvidia. Not OpenAI. This Artificial Intelligence (AI) Stock Will Be the Ultimate Winner.",
+      "URL": "https://finance.yahoo.com/m/12b1e618-3ae5-3963-938b-79645f49cf63/not-nvidia.-not-openai.-this.html",
+      "Content": "There are few companies in the artificial intelligence (AI) space that can be considered to \"do it all.\" Some focus on making hardware, like Nvidia (NASDAQ: NVDA) (although it has stepped into the large language model game as well); others develop large language models like OpenAI; some create AI applications; and others host AI workloads. However, there's one company that's doing nearly everything possible in AI, and it's doing quite well at it: Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL).\n\nAlphabet's success across so many areas of the AI trend underscores why it's a top stock to buy now.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAlphabet's fingerprints are everywhere in the AI realm\n\nRegardless of where you go in AI, Alphabet has likely been there.\n\nFirst and foremost, it has developed a set of leading large language models (LLMs) that serve as the base of several powerful AI products. These models have already been integrated into some of Alphabet's core products, such as the Google Search engine, advertising tools, and YouTube. Users can also access the powerful Gemini model as a stand-alone product, much like they could a competing product such as OpenAI's ChatGPT.\n\nRunning these models requires a ton of computing power, and Alphabet has used plenty of Nvidia GPUs to train and run inference workloads for its LLMs. However, it didn't want to be completely tied to the Nvidia ecosystem, and it saw the writing on the wall years ago. This is why it developed custom AI chips in collaboration with Broadcom (NASDAQ: AVGO).\n\nThe Tensor Processing Unit (TPU) is the result of that relationship, and it has given Alphabet an edge over its peers in the computing landscape. TPUs can outperform GPU-based computing in many applications, but the workload must be properly configured for the TPU to be effective, and they only can handle tensor operations. However, within that niche, the TPU's prowess is so legendary that Alphabet is now selling some of them directly to third parties.\n\nHowever, the chief way clients can access Alphabet's TPUs is through Google Cloud. That cloud computing division will be a long-term beneficiary of the AI build-out. Many aspiring players in the AI space don't have the resources necessary to build and equip their own AI-capable data centers, so they opt to rent computing power from a provider like Google Cloud instead. Cloud computing is billed for based on usage, which gives Alphabet a fantastic recurring revenue stream.\n\nStory Continues\n\nAlphabet is involved in nearly every part of the AI sector, whether it's models themselves, AI applications, computing hardware, or cloud computing. Furthermore, Alphabet seems to be doing quite well in all of these categories.\n\nAlphabet's growth is impressive for its size and maturity\n\nAlphabet won't grow as fast overall as some AI businesses you hear about because the rapid-growth parts of its business are overshadowed by its massive legacy advertising business, thanks to the Google Search engine. However, this business generates cash that Alphabet can deploy to fund its investments in  AI bets, making it a less risky investment than some others in the AI sector.\n\nIn Q2, Alphabet's revenue increased by 24% while operating income rose 30%. Headlining Alphabet's growth was Google Cloud, which saw revenue grow 82% and its operating margin expand year over year from 20.7% to 35.6%.\n\nAlphabet crushed its Q2 results, and Wall Street analysts expect more of the same to close out 2026 and into 2027. For Q3 and Q4, analysts expect 24% year-over-year revenue growth in each quarter. For 2027, their full-year growth estimates average 22%. Those may be high expectations, but if Alphabet can meet them, it's clearly a top stock choice.\n\nI think Alphabet will emerge as one of the big winners of the AI boom because it is doing everything so well. This makes Alphabet stock a smart buy now; if it can keep up a 20% growth rate over the next few years, it will easily crush the market.",
+      "Language": "en"
+    },
+    {
       "Ticker": ".SPX",
       "Date": "2026-09-02",
       "Time": "07:10:00",
@@ -101,6 +131,16 @@
       "URL": "https://tw.news.yahoo.com/%E6%8C%81%E6%9C%89%E7%B7%AF%E7%A9%8E%E5%8F%B0%E8%82%A1etf%E7%B8%BE%E6%95%88%E6%90%B6%E7%9C%BC-224313079.html",
       "Content": "台股 9月開門紅，在眾多千金股大漲帶領下，呈現開高走高，終場大漲820點，收在46,948點，其中，最受矚目的是即 將除權息 的千金股緯穎股價漲停創高至7,800元，奪回台股第三高寶座。也帶動持有緯穎的 台股ET F績效表現亮眼。\n\n根據CMoney統計至8月31日，盤點86檔台股原型ETF，計有43檔約半數持有緯穎；以持有權重來看， 中信成長高 股息持有8.2%最高，主動群益台灣強棒持有7.1%居次，而大華優利高填息30和主動 中信台灣 卓越也都在6%以上。\n\n從緯穎含量前十大ETF近一周表現來看，截至昨（1）日，主動永豐科技趨勢漲11.3%最多，主動群益台灣強棒漲7.8%、中信成長高股息漲幅也有7.5%，表現都大幅贏過加權報酬指數的3.97%。\n\n展望台股後市，主動群益台灣強棒經理人陳沅易表示，AI資本支出動能仍具吸引力，也重塑半導體產業發展，進而加速廠商研發創新與生產腳步，產業前景正向，台灣因擁有完整的半導體產業鏈，在AI長線趨勢不變下，台廠作為全球AI產業最重要的供應商，可望持續享有獲利、資本雙漲利多，台股中長期仍維持多頭區間趨勢不變。\n\n中長線布局策略應著重公司長期發展優勢，可優先布局半導體先進製程、半導體材料、通訊等族群，以及AI應用以及提高生產力族群。\n\n在投資策略方面，主動中信台灣卓越經理人張書廷表示，建議採取「順勢布局、分批操作」原則。由於大盤已累積相當漲幅，不宜過度追價，可利用市場震盪拉回時逐步建立部位。建議聚焦具備技術門檻、產業地位領先、受惠AI趨勢且獲利成長能見度高的核心產業，同時兼顧部分具防禦特性的資產配置。\n\n整體而言，在企業獲利持續成長與AI產業趨勢未出現反轉",
       "Language": "zh"
+    },
+    {
+      "Ticker": "NVDA",
+      "Date": "2026-09-02",
+      "Time": "06:36:30",
+      "Source": "Yahoo Finance",
+      "Title": "Nvidia was just the beginning — Here are AI’s next big winners",
+      "URL": "https://finance.yahoo.com/m/2eef6033-8947-3417-8d77-87000c88dd28/nvidia-was-just-the-beginning.html",
+      "Content": "Nvidia was only the beginning of the AI boom, and Sylvia Jablonski argues that September's volatility could unlock the next big winners. With hyperscalers still spending aggressively and AI infrastructure expanding, the real upside may come from the overlooked trades — memory, photonics, and the companies fueling the chips.",
+      "Language": "en"
     },
     {
       "Ticker": "NVDA",
