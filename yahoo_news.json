@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T12:32:12.997Z",
+  "last_updated": "2026-09-02T12:34:10.713Z",
   "total_news_count": 836,
   "news": [
     {
@@ -293,7 +293,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSLA, NVDA",
       "Date": "2026-09-02",
       "Time": "18:07:00",
       "Source": "Yahoo Finance",
@@ -403,7 +403,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AAPL, META, MSFT, GOOGL, AMZN, NVDA",
+      "Ticker": "TSLA, AAPL, META, MSFT, GOOGL, AMZN, NVDA",
       "Date": "2026-09-02",
       "Time": "17:26:00",
       "Source": "Yahoo Finance",
