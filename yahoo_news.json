@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-02T01:11:10.075Z",
-  "total_news_count": 670,
+  "last_updated": "2026-09-02T01:26:05.388Z",
+  "total_news_count": 684,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "09:05:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤最多跌逾300點  台積電跌30元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%9C%80%E5%A4%9A%E8%B7%8C%E9%80%BE300%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C30%E5%85%83-010530368.html",
+      "Content": "美國 與 伊朗 敵對行動升高，引發市場擔心。 台股 今天 開盤最多跌逾 300點 ，加權股價指數 46 ,599. 67點 。 台積 電跌 30元 ，達 2410元 。\n\n台股1日收在收在46948.72點，漲820.25點。美股1日道瓊工業指數下跌419.02點或0.79%，收在52766.88點；標普500指數下失54.67點或0.71%，收在7631.47點；以科技股為主的那斯達克指數下挫271.12點或1.03%，收26099.77點；費城半導體指數挫跌246.44點或2.14%，收11288.61點。而AI晶片龍頭輝達（NVDA-US）下跌1.39%、 台積電 ADR下跌0.24%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "09:05:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股開盤】跌47.4點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E8%B7%8C47-4%E9%BB%9E-010502243.html",
+      "Content": "（中央社台北2026年9月2日電）台北股市今天開盤跌47.4點，加權股價指數為46901.32點，成交金額新台幣84.59億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-02",
+      "Time": "08:47:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "存儲五雄9月開門全黑，美光跌2.64%、SK海力士ADR跌2.31%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%AD%98%E5%84%B2%E4%BA%94%E9%9B%849%E6%9C%88%E9%96%8B%E9%96%80%E5%85%A8%E9%BB%91-%E7%BE%8E%E5%85%89%E8%B7%8C2-64-sk%E6%B5%B7%E5%8A%9B%E5%A3%ABadr%E8%B7%8C2-31-004728691.html",
+      "Content": "【財訊快報／陳孟朔】美股9月首個交易日科技股賣壓升溫，油價急漲與全球長債殖利率同步走高，壓抑高估值科技股，費城半導體指數週二收跌2.14%，報11,288.61點，盤中最低下探11,172.90點。美國10年期公債殖利率升至約4.79%，加上紐約期油突破每桶90美元，市場憂心能源價格上升將加重通膨壓力，半導體成為科技股主要賣壓區之一。存儲五雄9月開門全數收黑，其中，美光(Micron Technology，美股代碼MU)收跌2.64%至933.44美元，SanDisk(美股代碼SNDK)跌1.90%至1,536.87美元；威騰電子(Western Digital，美股代碼WDC)相對抗跌，微跌約0.02%至450.44美元；希捷科技(Seagate Technology，美股代碼STX)跌1.42%至816.64美元，連續第三個交易日收低；7月才在那斯達克掛牌的SK海力士ADR(SK Hynix，美股代碼SKHY)收在約160.78美元，跌2.31%，五檔同步落入賣方陣營。\n\n存儲五雄中，美光除受到半導體類股整體走弱拖累外，另有個股利空干擾。路透報導，美光位於台灣桃園及台中的工會表示，若公司不調整獎金制度並讓員工分享更多獲利，將朝可能發動罷工的方向推進；兩地工會會員接近1萬人，而美光在兩地員工約1.5萬人。市場關注勞資爭議若持續升高，是否對美光在台灣的重要生產基地造成干擾。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "08:45:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資爆買ETF是看好台股？ 阮慕驊揭真相：全都是套利",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%88%86%E8%B2%B7etf%E6%98%AF%E7%9C%8B%E5%A5%BD%E5%8F%B0%E8%82%A1-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD%E7%9C%9F%E7%9B%B8-%E5%85%A8%E9%83%BD%E6%98%AF%E5%A5%97%E5%88%A9-004500320.html",
+      "Content": "9月首個交易日外資買超前25名有17檔是ETF，合計買進86.6萬張、占比高達83.2%。財經專家阮慕驊示警，這並非外資對台股的強力表態，而是透過申購買回機制發生的價差套利。\n\n外資買超ETF是套利操作？\n\n財經專家阮慕驊在臉書發文表示：「外資買超榜被ETF洗版，那不是買盤，是套利。」當天榜首00403A主動統一升級50單日獲買超27萬張，第二名00981A也有9.1萬張。若照字面解讀看似外資強力表態，實際上卻非外資看好台股而大舉入場。\n\n折價為市場普遍現象\n\n針對市場「外資撿便宜」的說法，阮慕驊指出，雖然外資買超的17檔ETF中有14檔處於折價（市價低於淨值0.16%至0.68%），但當天全市場356檔ETF中就有225檔折價（佔63%），折溢價中位數為負0.22%，顯示折價本身是整個ETF市場的普遍狀態。在數據相關度上，外資買超的133檔ETF折溢價中位數為負0.25%；賣超的59檔中位數則為0.00%。雙方的Spearman等級相關為負0.21，呈現越折價越買、溢價則賣的趨勢。然而，負0.21屬於弱相關，代表折價僅能解釋一部分行為。\n\n流通單位變化曝套利證據\n\n決定性的證據來自ETF的流通單位變化。阮慕驊分析 ， 當天流通單位減少最多的前8檔全部處於折價，且外資8檔全數買超。以00403A為例，外資在次級市場買進2.71億單位，當天流通單位即減少2.37億單位，兩者呈現一比一對應。當時市價比淨值低0.57%，套利者買進ETF後向投信申請買回，換回一籃子成分股賣出以賺取價差；00981A減少1.79億單位、00631L減少1.44億單位，皆運作相同模式。反向的溢價套利亦同步發生。例如00406A溢價0.50%，流通單位增加2.96億（成長10.05%），自營商當天賣超10.8萬張。此為套利者買進一籃子股票申購ETF再拋入市場，外資僅是接貨的一方。\n\n投資人應修正的三大認知\n\n阮慕驊提醒投資人必須修正三個認知：\n\n機制並非賣還給投信： 而是向投信申請買回。這17檔ETF當天投信買賣超全部為0，投信並未在次級市場接手，套利者是透過參與券商買回換回成分股或現金。\n\n套利空間極薄： 折價幅度多在0.2%至0.7%，扣除手續費、證交稅0.1%與市場衝擊成本後，淨利可能不足0.2%。這屬於參與券商與流動量提供者的日常庫存管理與造市義務。\n\n此非普遍現象： 全市場268檔ETF當天流通單位完全未變，折價超過0.3%的ETF中僅20%出現淨買回。主要發生的標的為新掛牌主動式ETF，如00403A、00405A、00406A、00407A，掛牌均未滿半年，機制仍處磨合期。\n\n（封面圖／翻攝自阮慕驊臉書）\n\n【<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"本文\",\"yModuleName\":\"content-canvas\"}\" data-ylk=\"slk:本文;elm:context_link;itc:0;sec:content-canvas;\" href=\"https://fnc.ebc.net.tw/fncnews/money/217360?utm_source=yahoonews&utm_medium=referral",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-09-02",
@@ -11,6 +51,86 @@
       "URL": "https://finance.yahoo.com/energy/articles/fervo-energy-frvo-bags-power-004015387.html",
       "Content": "Fervo Energy (NASDAQ:FRVO) soared by 28.41 percent on Tuesday to close at $19.75 apiece after bagging home a new power purchase agreement (PPA) with Google to support the development of its data center facility in Utah.\n\nUnder the agreement, the energy company will deliver 396 megawatts of power to Google from its Cape Station project to serve as a foundational building block for the technology giant's future data center.\n\nThe first phase of the project has already advanced toward commercial operations, while the second phase is currently underway. Eight GeoBlocks are slated to come online in 2028.\n\nPhoto from Fervo Energy\n\nAdditionally, Google will have the option to expand its offtake by another 600 MW, which would bring its overall contracted capacity to around 1 GW by 2030.\n\nFinal data center plan remains subject to a variety of factors, including engineering feasibility, state and local approvals, and commercial conditions.\n\nExpanded Partnership\n\nThe agreement followed Fervo and Google's earlier development of Project Red in Nevada in 2023, which successfully delivered power to the local grid, including Google's data centers.\n\nThe firms then signed an official PPA involving 115 MW of geothermal capacity, which they said also helped insulate customers from the project's costs.\n\nRevenues Climb\n\nDeals aside, Fervo Energy (NASDAQ:FRVO) said last month that it raked in $113 million in revenues for the second quarter of the year, versus none in the same period last year, amid continued strong demand from its customers, with behind-the-meter capabilities playing a growing role in meeting said demand outside conventional grid interconnection timelines.\n\nHowever, net losses increased by 390 percent to $55.9 million from $11.4 million, dragged by higher operating losses and non-operating expenses.\n\nHedge Funds Buy In\n\nFervo Energy (NASDAQ:FRVO), a newly listed company that debuted on the stock market only last May, has seen a strong reception from institutional investors, partly thanks to the growing demand for energy to power the artificial intelligence industry.\n\nInsider Monkey's data showed that 53 hedge funds held positions in the stock in the second quarter of the year, with their collective holdings totaling $691 million.\n\nValue Aligned Research Advisors ranked first among the largest hedge fund investors,  with $36.69 million, followed by Scopus Asset Management with $53.6 million.\n\nCitadel Investment Group came third at $46.76 million.\n\nWhile we acknowledge the potential of FRVO as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<p class=\"text text-block paragraph text-justify neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: in",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "08:37:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年9月2日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B49%E6%9C%882%E6%97%A5-003745283.html",
+      "Content": "【統一證券】\n\n中東衝突與債市風暴未歇，仍會對股市造成干擾，預期大盤震盪盤堅、類股輪動。操作建議低接不追高、選股以流動性佳的中大型AI權值股為主。\n\n【國票證券】\n\n台股早盤將開低於盤下，考量伺服器廠戴爾盤後業績報喜，不排除台股相關概念股有望成為反攻指標，操作上可多加留意。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "08:37:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【國票金控晨訊】台股早盤估開低　可留意蘋概股",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A5%A8%E9%87%91%E6%8E%A7%E6%99%A8%E8%A8%8A-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E4%BC%B0%E9%96%8B%E4%BD%8E-%E5%8F%AF%E7%95%99%E6%84%8F%E8%98%8B%E6%A6%82%E8%82%A1-003743006.html",
+      "Content": "日期：2026年 9月 2日\n\n※操作建議與結論\n\n◎今日盤勢及未來走勢\n\n留意蘋概股布局機會\n\n升息與通膨隱憂使國際債市遭遇拋售，拖累美股主要指數全數收跌，幅度介\n\n於-2.14%至-0.71%，影響台指期夜盤回吐日盤漲幅，以下跌522點(-1.11%)作收\n\n，預估台股早盤將開低於盤下，然考量伺服器廠戴爾盤後業績報喜，不排除台股\n\n相關概念股有望成為反攻指標，操作上可多加留意。\n\n◎短線觀點\n\n若台股能將46000點翻轉成支撐，配合台積電順勢圖突破頸線壓力，則加權\n\n指數越過06/24空方缺口上緣47100點只剩下時間問題，惟需留意在上週聯準會主\n\n席華許鷹聲之下，本週五非農就業數據和下週五CPI發布前恐成壓抑買盤追價意\n\n願的因素，下半週量能可否維持高檔將是攻高關鍵。\n\n◎操作看法\n\n九月升息機率、美債殖利率與國際油價持續攀升，故短線操作仍應避免追逐\n\n漲幅過大的個股，後續若進入高檔震盪，盤面資金應持續在具題材性的族群中駐\n\n足，如蘋果(AAPL)秋季發表會邁入倒數，預期高階機種與首支折疊iPhone將成買\n\n盤焦點，相關個股可留意布局機會。\n\n◎重點產業與族群\n\n蘋概股–2317鴻海、3008大立光、3376新日興\n\n產業觀點：蘋果秋季發表會將於台灣時間09/10凌晨1點舉行，首輪焦點除高\n\n階機種之外，首款摺疊iPhone相關資訊也將一併發布，供應鏈有\n\n望成為市場焦點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-02",
+      "Time": "08:36:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "新執行長特努斯預告iPhone發表會非同凡響，蘋果週二股價逆勢急漲2.61%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%96%B0%E5%9F%B7%E8%A1%8C%E9%95%B7%E7%89%B9%E5%8A%AA%E6%96%AF%E9%A0%90%E5%91%8Aiphone%E7%99%BC%E8%A1%A8%E6%9C%83%E9%9D%9E%E5%90%8C%E5%87%A1%E9%9F%BF-%E8%98%8B%E6%9E%9C%E9%80%B1%E4%BA%8C%E8%82%A1%E5%83%B9%E9%80%86%E5%8B%A2%E6%80%A5%E6%BC%B22-61-003659766.html",
+      "Content": "【財訊快報／陳孟朔】蘋果公司(美股代碼AAPL)新任執行長特努斯(John Ternus)上任首日向全體員工發出公開信，預告9月9日登場的iPhone新品發表會將「極其非凡」，並強調公司仍擁有強勁且具延續性的產品研發管線，提振市場對蘋果進入新領導時代後創新能力的期待。特努斯表示，除了下週的重磅發表會，他同樣期待蘋果正在研發的產品，以及目前尚未被想像、未來將由團隊共同創造的新產品。他並感謝掌舵蘋果15年的前任執行長庫克(Tim Cook)，在交接期間分享經驗及知識；庫克卸任執行長後將留任執行董事長。\n\n蘋果除準備推出首款折疊式iPhone，也規劃進軍智慧家庭裝置市場，產品藍圖據傳涵蓋配備攝影鏡頭的AirPods、智慧眼鏡、桌面型家庭機器人及觸控螢幕MacBook。特努斯週二亦首次在社群平台X發文，蘋果行銷主管喬斯維亞克(Greg Joswiak)則表示，新任執行長將在9月9日發表會透露更多訊息。\n\n蘋果股價週二急漲8.26美元或2.61%，收在325.13美元為7月30日以來最高，不僅是道瓊成份股中表現最佳個股，也是科技七雄當日最大贏家，今年漲了19.59%，市值來到4兆7450億美元，全球排名第二，只輸給5兆2403億美元的輝達。在整體美股受債息上升及中東局勢拖累之際，蘋果逆勢走強，反映資金提前押注新款iPhone及後續產品布局可望推動新一輪成長週期。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2454.TW, 2330.TW",
+      "Date": "2026-09-02",
+      "Time": "08:35:41",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】預期大盤震盪盤堅　類股輪動",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-%E9%A0%90%E6%9C%9F%E5%A4%A7%E7%9B%A4%E9%9C%87%E7%9B%AA%E7%9B%A4%E5%A0%85-%E9%A1%9E%E8%82%A1%E8%BC%AA%E5%8B%95-003541425.html",
+      "Content": "日期：2026年 9月 2日\n\n※盤勢分析\n\nAI回神、半導體展登場，惟油價及債市干擾，台股震盪盤堅\n\n◎昨日盤勢\n\n周二台股受惠輝達投資35億美元聯發科ECB的利多，聯發科開盤跳空漲停，\n\n帶動AI族群買盤回神，推升加權指數大漲，創8月以來波段的新高。探針卡族群\n\n隨著 AI 晶片邁向 2 奈米尖端製程及 CoWoS 先進封裝，引爆高階測試需求，多\n\n檔個股高掛表現強勢。另外弱勢股欣興涉及司法風暴，周二爆出851億大量低檔\n\n承接，股價開低走高收紅K，跌幅收斂。權值股方面，台積電上漲1.46%、鴻海上\n\n漲2.40%、聯發科漲跌、廣達上漲1.03%，台達電上漲1.36%。\n\n盤面強勢股，聯發科、緯穎、穎崴、精測、雍智科技、全新、穩懋、雙鴻、\n\n合晶、家登、鼎元等共37檔漲停；創威、環球晶、同欣電、中砂、台化、京元電\n\n、智邦等漲幅8%以上。盤面弱勢股，宏致、吉祥全、勝昱跌停；州巧、大立、佳\n\n大、漢達、基亞、藥華藥等跌幅6%以上。終場台灣加權指數上漲820.25點，以\n\n46948.72點作收，成交量1.08兆元。三大類股同步上漲，電子上漲2.00%、傳產\n\n上漲0.44%、金融上漲1.45%。在次族群部份以油電燃氣、通信網路、其他電子表\n\n現較佳，分別上漲3.89%、2.97%、2.87%。\n\n◎資金動向\n\n三大法人合計買超566.37億元。其中外資買超267.08億元，投信買超136億\n\n元，自營商買超163.3億元。外資買超前五大為台化、台新新光金、台泥、凱基\n\n金、南茂；賣超前五大為力積電、華邦電、南亞科、聯電、友達。投信買超前五\n\n大為聯電、中信金、台新新光金、臻鼎-KY、遠東銀；賣超前五大為華邦電、華\n\n南金、國巨*、臺企銀、台中銀。資券變化方面，融資增82.39億元，融資餘額為\n\n5781.15億元，融券增0.31萬張，融券餘額為22.08萬張。外資台指期部位，空單\n\n減少4251口，淨空單部位78706口，借券賣出金額294.04億元。成交比重：電子\n\n86.07%、傳產11.22%、金融2.71%。\n\n◎今日盤勢分析\n\n美國週二公布7月職位空缺數小幅增加，自6月的4.3%升至4.4%，就業市場大\n\n致保持穩定，市場接下來聚焦週五公布的8月非農就業報告；美軍轟炸伊朗石油\n\n港措施，帶動國際油價飆漲逼近今年高點。能源價格攀升加劇通膨疑慮，各國公\n\n債殖利率利同步走高，10年期美債殖利率上升至4.79%，拖累美股走勢。週二美\n\n股四大指數同步下跌，台積電ADR下跌0.32%，台指期夜盤下跌522點。美股盤後\n\nDELL公佈財報報喜，盤後股價上漲逾7%。\n\n台股後市分析如下：第一、AI需求持續點火，台灣製造業景氣維持高檔，中\n\n經院院長連賢明1日表示，8月製造業採購經理人指數（PMI）續升至62.5，連11\n\n個月擴張，反映出口及AI產業持續暢旺，但高頻寬記憶體等零組件供不應求，價\n\n格大幅上漲，不只形成生產瓶頸，也可能進一步推升電子產品價格，短期內恐難\n\n明顯紓解。\n\n第二、SEMICON Taiwan國際半導體展將於9月2日登場，異質整合高峰論壇\n\n9/1舉行。針對人工智慧AI領域的晶片異質整合趨勢，陳燕銘指出，AI效能升級\n\n持續驅動電晶體和異質整合設計發展，系統協同技術優化（STCO）對新一代AI系\n\n統電源傳輸和降低散熱等非常關鍵，生態系合作對於半導體設計、架構、材料以\n\n及工具的創新也很關鍵。\n\n第三、技術面觀察，週二加權指數收量縮紅K，收盤仍持續站上所有均線之\n\n上。指標方面，KD、RSI向上、MACD紅柱體放大，在5日線未跌破且下彎前，整體\n\n技術面仍有利多方。\n\n四、盤面資金聚焦AI、探針卡、光通訊、矽晶圓等族群，包括聯發科、緯穎\n\n、穎崴、全新、合晶等表現強勢。\n\n◎投資策略\n\n美伊衝突再度升溫，導致油價反彈至6月以來的高點，疊加各國債券殖利率\n\n持續攀高，拖累美股回檔；台股受惠輝達投資聯發科ECB利多，AI族群買盤回神\n\n，強勢推升大盤突破8月以來波段新高。今日國際半導體展開跑，搭配製造業連\n\n11紅及蘋果9/9新品發表會等利多題材，可望支撐買盤。惟中東衝突與債市風暴\n\n未歇，仍會對股市造成干擾，預期大盤震盪盤堅、類股輪動。操作建議低接不追\n\n高、選股以流動性佳的中大型AI權值股為主。長線追蹤族群：台積電及先進製程\n\n/封裝、銅箔基板、光傳輸、電源管理、散熱、機箱滑軌、貨櫃散裝、自行車、\n\n特用化學及高殖利率銀行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-02",
+      "Time": "08:31:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "馬斯克估AI推升全球經濟20%-30%，十年內人形機器人上看10億台",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E4%BC%B0ai%E6%8E%A8%E5%8D%87%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F20-30-%E5%8D%81%E5%B9%B4%E5%85%A7%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B8%8A%E7%9C%8B10%E5%84%84%E5%8F%B0-003107465.html",
+      "Content": "【財訊快報／陳孟朔】身兼全美電動車一哥特斯拉(美股代碼TSLA)與火箭與衛星公司SpaceX(美股代碼SPCX)執行長馬斯克(Elon Musk)週二表示，人工智慧(AI)可能使全球經濟規模擴大20%至30%，相當於每年增加約20兆至30兆美元產值，機器人技術更將帶來跳躍式的生產力增長。馬斯克透過視訊連線參加在北卡羅來納州阿什維爾舉行的二十國集團(G20)財長與央行總裁會議。他表示，AI帶來的顯著生產力提升已經開始浮現，隨著技術持續進步，對全球產出與工作模式的影響將進一步擴大。\n\n在就業與自動化方面，馬斯克預測，最晚到2027年底，AI將有能力完成所有數位領域的工作，也就是不需要人類親手製作實體產品的任務。他對機器人產業尤其樂觀，估計未來十年全球人形機器人數量可能達到10億台。\n\n馬斯克同時呼籲各國監管機構鼓勵並擁抱AI及機器人等新技術，主張相關創新應採取「預設合法」原則，而非在推出前先被視為違法。這番言論延續他對AI與人形機器人大規模商業化的樂觀看法，但其經濟增長及普及速度預測仍取決於技術成熟度、建設成本與監管環境。\n\n馬斯克旗下兩大上市公司週二同步收黑，特斯拉股價大跌11.86美元或3.22%，收報356.09美元；SpaceX(SPCX)下跌1.46美元或1.02%，收在142.23美元。在全球債息攀升及美伊衝突升級拖累成長股之際，兩檔個股均未能受到馬斯克在G20會議上看好AI與人形機器人前景的言論提振。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-02",
+      "Time": "08:27:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "債息與美伊戰火夾擊，美股四大指數齊黑，那指、費半各挫1%和2.1%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%82%B5%E6%81%AF%E8%88%87%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%81%AB%E5%A4%BE%E6%93%8A-%E7%BE%8E%E8%82%A1%E5%9B%9B%E5%A4%A7%E6%8C%87%E6%95%B8%E9%BD%8A%E9%BB%91-%E9%82%A3%E6%8C%87-%E8%B2%BB%E5%8D%8A%E5%90%84%E6%8C%AB1-%E5%92%8C2-002709348.html",
+      "Content": "【財訊快報／陳孟朔】紐油期油大漲逾5%推升通膨壓力促全球債券殖利率急升，加上美國與伊朗再度交火，投資人憂慮能源成本推高通膨及利率，在跨入向來「悲情居多」的九月，首個交易日美股四大股指全面收黑，蘋果股價在新執行長上任首日逆勢急彈2.61%，成為道瓊和科技七雄最旺個股，三大股指同步連二黑。紐約股市9月1日收盤時，道瓊工業指數收跌419.02點或0.79%，失守五萬三關口，報52,766.88點；標普500指數下挫54.67點或0.71%，收在7,631.47點；那斯達克指數挫跌271.12點或1.03%，報26,099.77點；上日小彈0.57%的費城半導體指數急吐246.44點或2.14%至11,288.61點為7月29日以來的五週新低，台積電ADR小跌0.32%為費半第四旺，Credo科技急殺8.65%表現墊底。\n\n全球債息齊步大漲，推升政府和企業融資壓力；美國10年期公債殖利率最高升至4.7961%，創約20個月新高，30年期殖利率攀抵5.2857%；日本10年期公債殖利率亦自1996年以來首次升破3%，全球借貸成本同步走高，壓抑科技與其他高估值類股。\n\n地緣政治方面，美軍對伊朗境內伊斯蘭革命衛隊目標發動新一輪攻擊，伊朗隨即宣布展開報復行動。川普警告，若伊朗繼續反擊，將遭到更猛烈、更高層級的打擊。市場擔心中東能源供應風險加劇通膨壓力，利率交換市場顯示，聯準會(Fed)9月升息1碼的機率已接近70%。\n\n個股方面，蘋果逆勢大漲8.26美元或2.61%，收報325.13美元，成為道瓊成份股與科技七雄表現最佳個股。特努斯(John Ternus)週二正式接任執行長，庫克(Tim Cook)轉任執行董事長；市場期待蘋果9月9日新品發表會及折疊式iPhone等後續產品布局。同日，同在道瓊成份股中的微軟、Alphabet、輝達和亞馬遜依序挫1.24%、1.28%、1.51%和1.87%。\n\n題材股方面，諾華製藥(Novartis)因多發性硬化症新藥第三期試驗結果正面，ADR大漲6.04%，成為大型股亮點；油價走高帶動油田服務商SLB與哈里伯頓(Halliburton)漲逾4%。跌幅較大個股中，CrowdStrike重挫6.90%，戴爾在財報公布前收跌6.80%，但盤後因業績與展望優於預期一度反彈10.3%；特斯拉挫跌3.22%，航空及郵輪股普遍跌逾2%，反映燃料成本上升的壓力。\n\n美股盤後小紅\n\n美國股市週二盤後上揚，應用軟體供應商Gitlab公司(GTLB US)盤後股價上漲，漲勢相對醒目，因該公司年度財測指引較市場預期樂觀的消息，催化了買盤人氣。\n\n道瓊指數期指上漲13.00點或0.03%，報52,841.00點。\n\nGitlab公司盤後股價大漲18%。該公司將本年度營收預估值向上調升至11.3億美元，較市場分析師預估中值11.2億美元樂觀。\n\n半導體元件生產商Credo科技集團(CRDO US)盤後股價下跌7.1%，股價的滑落，主要因為該公司雖看好第二季營收表現，但是市場認為，這尚不足以支撐年初迄今已經上漲44%的股價。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2454.TW",
+      "Date": "2026-09-02",
+      "Time": "08:23:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】美股收黑　法人：留意台股追高風險",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E7%BE%8E%E8%82%A1%E6%94%B6%E9%BB%91-%E6%B3%95%E4%BA%BA-%E7%95%99%E6%84%8F%E5%8F%B0%E8%82%A1%E8%BF%BD%E9%AB%98%E9%A2%A8%E9%9A%AA-002336172.html",
+      "Content": "（中央社記者潘智義台北2026年9月2日電）台股1日受輝達（NVIDIA）投資聯發科 (2454) 消息激勵上漲1.78%，法人認為，雖然台股多頭格局未變，但單日漲勢明顯領先全球各國股市，加上美股因伊朗情勢收黑，投資人仍應留意追高風險。\n\n全球債市掀拋售潮之際，美國與伊朗敵對行動升高，引發市場擔心，能源價格飆漲恐迫使各國央行升息壓抑通膨，華爾街股市主要指數今天收低。\n\n道瓊工業指數下跌419.02點或0.79%，收報52766.88點；標普500指數滑落54.67點或0.71%，收在7631.47點；那斯達克指數下挫271.12點或1.03%，收26099.77點；費城半導體指數挫跌246.44點或2.14%，收11288.61點。\n\n台股1日上漲820.25點，漲幅1.78%，收在46948.72點。\n\n資深證券分析師蔡明翰接受電訪表示，輝達（NVIDIA）投資聯發科帶動股價走高，市場氣氛樂觀，但台股卻因此變成當天全球最強的股市。雖然台股偏多趨勢未變，但因指數距歷史高電僅1000多點，且與台股關聯度高的美股費城半導體指數仍在月線之下震盪，台股在是否超漲疑慮下，投資人仍應留意追高風險。\n\n台積電與經濟部和高雄市政府配合，規劃進駐高雄白埔產業園區，協助推動先進封裝設備供應鏈發展，加速材料和設備驗證，協助建立全球先進封裝技術與設備暨材料協同驗證平台，預期效率提升25%至50%。\n\n沃旭能源1日舉行920MW大彰化西南第二階段及西北離岸風場完工儀式，該風場為全球首座專為台積電供應綠電的離岸風場。沃旭表示，風場正進行最終試運轉與測試作業，在完成主管機關及台電相關許可申請後，將達成全面商轉。\n\n面板廠群創1日宣布，憑藉在大尺寸面板製程、精密加工及量產經驗，繼布局扇出型面板級封裝（FOPLP）晶片優先（Chip First）與玻璃穿孔（TGV）技術後，首次在SEMICON Taiwan半導體展發表後晶片封裝（Chip Last）關鍵技術平台，將積極推進客戶驗證，預計於2027年下半年量產。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "08:23:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "伊朗情勢拖累美股收黑　法人：留意台股追高風險",
+      "URL": "https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E6%83%85%E5%8B%A2%E6%8B%96%E7%B4%AF%E7%BE%8E%E8%82%A1%E6%94%B6%E9%BB%91-%E6%B3%95%E4%BA%BA-%E7%95%99%E6%84%8F%E5%8F%B0%E8%82%A1%E8%BF%BD%E9%AB%98%E9%A2%A8%E9%9A%AA-002312180.html",
+      "Content": "（ 中央社記者 潘智義台北2日電） 台股 1日受 輝達 （ NVIDIA ）投資 聯發科 消息激勵上漲1.78%，法人認為，雖然台股多頭格局未變，但單日漲勢明顯領先全球各國股市，加上 美股 因 伊朗 情勢收黑，投資人仍應留意追高風險。\n\n全球債市掀拋售潮之際，美國與伊朗敵對行動升高，引發市場擔心，能源價格飆漲恐迫使各國央行升息壓抑通膨，華爾街股市主要指數今天收低。\n\n道瓊工業指數下跌419.02點或0.79%，收報52766.88點；標普500指數滑落54.67點或0.71%，收在7631.47點；那斯達克指數下挫271.12點或1.03%，收26099.77點；費城半導體指數挫跌246.44點或2.14%，收11288.61點。\n\n台股1日上漲820.25點，漲幅1.78%，收在46948.72點。\n\n資深證券分析師蔡明翰接受電訪表示， 輝達投資 聯發科帶動股價走高，市場氣氛樂觀，但台股卻因此變成當天全球最強的股市。雖然台股偏多趨勢未變，但因指數距歷史高電僅1000多點，且與台股關聯度高的 美股費城 半導體指數仍在月線之下震盪，台股在是否超漲疑慮下，投資人仍應留意追高風險。\n\n台積電與經濟部和高雄市政府配合，規劃進駐高雄白埔產業園區，協助推動先進封裝設備供應鏈發展，加速材料和設備驗證，協助建立全球先進封裝技術與設備暨材料協同驗證平台，預期效率提升25%至50%。\n\n沃旭能源1日舉行920MW大彰化西南第二階段及西北離岸 風場 完工儀式，該風場為全球首座專為台積電供應綠電的離岸風場。沃旭表示，風場正進行最終試運轉與測試作業，在完成主管機關及台電相關許可申請後，將達成全面商轉。\n\n面板廠群創1日宣布，憑藉在大尺寸面板製程、精密加工及量產經驗，繼布局扇出型面板級封裝（FOPLP）晶片優先（Chip First）與玻璃穿孔（TGV）技術後，首次在SEMICON Taiwan半導體展發表後晶片封裝（Chip Last）關鍵技術平台，將積極推進客戶驗證，預計於2027年下半年量產。（編輯：楊凱翔）1150902",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -231,6 +351,26 @@
       "URL": "https://finance.yahoo.com/m/478fddf1-f0bc-3da4-b69d-0d731754e41a/tesla-stock-investors-stand.html",
       "Content": "Tesla has had a rough year by its own standards. Profits are shrinking, cash flow has turned negative, and the stock has trailed nearly every one of its Magnificent 7 peers.\n\nA new policy out of Washington has nothing to do with cars, robots, or chips, yet it could still hand Tesla's energy business a real opening.\n\nPresident's power grid order could benefit Tesla energy storage\n\nOn Aug. 26, President Donald Trump declared a national emergency and signed an executive order aimed at keeping foreign-made equipment off the U.S. power grid, Utility Dive reported.\n\nThe order covers transformers, inverters, battery storage systems, circuit breakers, generators, turbines, and the software that runs them. Cybersecurity and sabotage risks were cited as the rationale.\n\nAny transaction involving equipment from a \"Covered Foreign Entity\" after Aug. 26 falls under the restrictions. The Department of Energy now has up to 180 days to spell out exactly which countries, companies, and products are covered, according to the White House .\n\nUntil that rule lands, utilities are left guessing about the order's full scope.\n\nMore Tesla:\n\nTesla sales rebound hides costly problem for investors\n\nTesla record revenue masks cash burn, $1B SpaceX swing\n\nElon Musk, Tesla and SpaceX face serious questions from investors\n\nThe order also reaches equipment already installed across the grid. Energy Secretary Chris Wright has been directed to identify existing foreign-made equipment that poses risks. He must also recommend remedies, which could range from additional monitoring to outright removal, giving utilities an incentive to start lining up domestic alternatives now rather than later, Utility Dive reported .\n\nChina's dominance in key underlying supply chains makes the stakes clearer. The country accounts for roughly 80% of global lithium-ion battery production capacity and 85% of solar manufacturing capacity.\n\nThis means that any serious push toward domestic sourcing could have significant implications for energy developers and the utilities powering the U.S. grid, Quartz reported .\n\nWhy Tesla's energy business could be a winner\n\nTesla is one of a handful of U.S. companies with an existing, at-scale grid battery storage product, which is why analysts see it as a potential beneficiary of the policy shift. The company's Energy Generation and Storage business has become its fastest-growing major segment, and Wall Street has increasingly built that growth into its valuation models, Fox Business reported .\n\nRBC's own sum-of-the-parts model for Tesla assigned 15% of the company's valuation to Megapack energy storage, alongside 52% for Robotaxis and 27% for full self-driving software, with the traditional car business making up just 6%, TheStreet reported .\n\nStory Continues\n\nThat weighting shows how far Tesla's own investor base has already shifted away from thinking of it purely as an automaker.\n\nDemand for that storage capacity has been climbing independent of any policy change. UBS analyst Joseph Spak projected 15.1 gigawatt-hours of energy storage deployment in the first quarter alone at the time, up 45% year over year, driven by grid upgrades and AI data center demand, even as the same analyst kept a Sell rating on the stock overall, according to TheStreet .\n\nA separate 25-gigawatt-hour Megapack supply deal with NatPower, announced ahead of Tesla's second-quarter earnings, further reinforced energy storage as one of the company's more established growth engines.\n\nTesla's supply chain complicates the clean domestic-winner narrative. The company has reportedly committed to sourcing at least 20 gigawatt-hours of battery cells from China's CATL for stationary storage between 2026 and 2028, representing roughly 30% of Tesla Energy's projected cell needs.\n\nThis shows that Tesla is not entirely insulated from the same foreign-sourcing questions the executive order is meant to address.\n\nTesla's stock still has a rough 2026 to explain\n\nTesla shares were up roughly 12% over the past 12 months but have fallen nearly 18% so far in 2026, while badly trailing the S&P 500's roughly 12% year to date. Shares have remained roughly 26% below their all-time high of $498.83, set in December 2025, according to Barchart .\n\nTesla's second-quarter 2026 earnings, released July 22, explain why. Revenue climbed 26% year over year to a record $28.24 billion, beating Wall Street estimates, yet the stock still fell roughly 5% the next session as profitability came in far weaker than expected, Barchart noted.\n\nFree cash flow went negative $1.09 billion for the quarter. A year earlier it was positive $146 million. The first quarter of 2026 had come in at positive $1.44 billion. That reversal in three quarters, not the revenue beat, is the number that spooked investors, according to Barchart .\n\nSome of Tesla's reported net income also reflects unrealized SpaceX equity gains, rather than cash the business actually generated.\n\nCapital expenditures told the same story from a different angle. Spending jumped 142% year over year to $5.79 billion, up from $2.39 billion in the prior-year quarter. This reflects the scale of Tesla's simultaneous bets on Robotaxis, humanoid robots, and semiconductor manufacturing, Utility Dive reported .\n\nWhat Tesla investors should watch next\n\nThe executive order is best treated as a potential long-term tailwind rather than an immediate catalyst. The Department of Energy's rulemaking process will not conclude for months, and any resulting shift in utility purchasing habits toward domestic suppliers will take additional time to translate to Tesla's actual order backlog.\n\nThe more immediate signal to track is whether Megapack deployment growth continues to outpace the rest of Tesla's business in upcoming quarterly reports, since that is the segment most directly positioned to benefit if utilities start favoring U.S.-linked suppliers.\n\nInvestors should also watch how quickly the Department of Energy names specific covered entities, since a narrow list would blunt the policy's practical impact on Tesla's addressable market.\n\nTesla's next earnings report, expected in October, will be the first real opportunity to see whether energy storage bookings show any measurable shift tied to the new rules, or whether the order remains mostly a headline-level opportunity layered on top of a business still working through a difficult year on the car side.\n\nRelated: Morgan Stanley sends a blunt Tesla message to investors\n\nThis story was originally published by TheStreet on Sep 1, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nWhatever tailwind the grid order provides will need to work against a genuinely difficult year for Tesla stock.Xiaolu/Getty Images\n\nWhatever tailwind the grid order provides will need to work against a genuinely difficult year for Tesla stock.Xiaolu/Getty Images Tesla's stock still has a rough 2026 to explain\n\n<!-- HTM",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-02",
+      "Time": "06:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "法人9月必收20檔！川湖、大立光、鴻海、南亞、華通…目標價EPS一表看",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B3%95%E4%BA%BA9%E6%9C%88%E5%BF%85%E6%94%B620%E6%AA%94-%E5%B7%9D%E6%B9%96-%E5%A4%A7%E7%AB%8B%E5%85%89-%E9%B4%BB%E6%B5%B7-%E5%8D%97%E4%BA%9E-220030204.html",
+      "Content": "台股9月開門紅，昨(9/1)大漲820點，收46948點，僅差51點就叩關4萬7了，法人認為，台股將醞釀再創新高，加上國際半導體展今(9/2)開展，可聚焦AI晶片、矽光子、先進封裝等關鍵零組件，至於非電可關注AI帶動的特化與電子級化學品，比如跨足AI鏈的南亞等；追求中長期穩健獲利的人，則可留意統一超與國泰金等，點名20檔目標價EPS一表看。\n\n從萬金股川湖，目標價1萬3850元，到7檔千金股：創意目標價8000元、大立光6340元、聯發科6000元、聯亞3850元、奇鋐3800元、台積電3500元、貿聯-KY 3100元； 人氣股鴻海目標價376元、華通320元、南亞265元、國泰金125元；未滿百元僅2檔：中信金、寶雅目標價皆77元。\n\n金控龍頭旗下投顧出具「9月台股產業投資策略」報告表示，AI企業大量發債，導致債券殖利率走高，進而影響短期股價評價，但AI供應鏈基本面穩固，下一世代AI平台的技術障礙正一一排除，尤其提升算力之關鍵因素，逐漸從AI晶片擴及關鍵零組件，預料將成為台灣供應鏈的下波成長動能。\n\n國際半導體展(SEMICON Taiwan 2026)將在9/2~4盛大展開，預期將為CPU(中央處理器)、SPE(半導體設備)以及TPU(谷歌AI晶片)供應鏈帶來新方向。SPE部分，由於AI邊緣應用帶動更大的ASIC(客製化晶片)與其他晶片的整合需求，加上台積電(TSMC)CoWoS先進封裝產能吃緊情況未解，將有利其他業者如英特爾(Intel)、日月光投控等取得外溢訂單，帶來非TSMC以外的需求動能。\n\n投顧表指出，T-glass(高階玻纖布)短缺尚未緩解，且AI伺服器GPU(圖形處理器)、ASIC及一般伺服器需求強，預期ABF載板供應將持續緊張。AI ASIC開案動能強勁，Google CPU及亞馬遜AWS Trn3放量可期，但晶圓代工與先進封裝產能配置是否能滿足出貨需求仍是關鍵。\n\n看好3大AI關鍵零組件：滑軌、散熱與光通訊\n\nCSP(雲端服務供應商)、企業不斷提升AI基建的資本支出，促使下一世代AI系統加快研發與量產時程，其提升算力的策略，逐漸從單純的提升AI晶片運算能力，擴及到如何整合更多伺服器機櫃，這將使得串聯伺服器與機櫃之關鍵零組件，如滑軌、散熱模組、光通訊模組、機櫃結構設計等的重要性大幅提升，並成為下波美中貿易戰的戰略焦點。\n\n台灣供應鏈不僅具有絕佳的戰略位置，更在這些關鍵性零組件中具有技術主導權，因此預期將可擴大市占率，再搭配產品組合優化，為股價帶來更強的刺激力道。\n\n投顧認為，9月有4大選股策略，包括AI議題之CPO供應鏈與先進封裝/關鍵性零組件/產業旺季暨殖利率概念等，說明如下：\n\n選股策略1：矽光網路交換器(Spectrum-X Ethernet Photonics)\n\n大立光(3008)切入CPO，成功延伸至下游光纖陣列模組(FAU)，完成零組件到模組一條龍布局，在輝達光通訊角色從間接供應商晉升直接供應商，設備需求與單機價值量可望同步提升，萬潤(6187)、旺矽(6223)可望受惠。\n\n選股策略2：先進封裝資本支出\n\n受益於強勁的AI與高效能運算需求，預估台積電的先進封裝CoWoS總產能將於2027年底達到每月18萬片，而AI代理(Agentic AI)與通用型伺服器需求將成為2027年半導體成長的另一動力，造福晶圓代工與先進封裝供應商，該類議題看好個股：志聖(2467)、日月光(3711)、中砂(1560)、力成(6239)等。\n\n選股策略3：關鍵性零組件",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-09-02",
+      "Time": "06:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "發哥狂噴別瞎追！旗下子公司集體也瘋漲 專家冷眼撕糖衣：只有「這1檔」不是妖股",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%99%BC%E5%93%A5%E7%8B%82%E5%99%B4%E5%88%A5%E7%9E%8E%E8%BF%BD-%E6%97%97%E4%B8%8B%E5%AD%90%E5%85%AC%E5%8F%B8%E9%9B%86%E9%AB%94%E4%B9%9F%E7%98%8B%E6%BC%B2-%E5%B0%88%E5%AE%B6%E5%86%B7%E7%9C%BC%E6%92%95%E7%B3%96%E8%A1%A3-%E5%8F%AA%E6%9C%89-%E9%80%991%E6%AA%94-220030708.html",
+      "Content": "9月第一個交易日，台灣股市展現了強大多頭氣勢，直接奪下「最強亞股」寶座。在輝達（Nvidia）首度直接投資台灣本土企業的世紀利多點火下，加權指數全力逼近47,000點大關，成為全球市場矚目的焦點；然而，萬寶投顧總監蔡明彰指出，在本土資金瘋狂湧入背後，國際總經大潮正暗流洶湧，美債殖利率創下新高、費城半導體指數壓盤觀望，市場正屏息等待本周美國非農就業報告「多空決戰」。\n\n台股多方在9月初順利奪回盤面主導權，回顧8月份表現，台股以6.98％的反彈幅度，上漲約3,000點，強勢壓倒韓國3.4％、日本3.03％與中國大陸4％，港股雖然單月反彈13.13％，但今年以來（YTD）累計績效仍為負1％；反觀台股，今年以來累積績效已高達上漲61％，在9月第一個交易日，歷史性地追平了長期居冠的韓股。\n\n本輪多頭最核心引爆點，莫過於輝達首度直接投資台灣本土企業，並宣布認購聯發科發行的35億美元，折合新台幣約1,100億元海外無息可轉換公司債（ECB），其債券條件為5年期、票面利率0％，轉換價格為4,513元，溢價15％；轉換時程預計9月8日於新加坡掛牌，滿三個月後，在12月7日可開始轉換為普通股，完全轉換後將占聯發科股本的1.67％。\n\n這場強強聯手，將雙方合作從原本的邊緣AI PC、智慧汽車，正式延伸至最核心的雲端AI領域，受此利多激勵，聯發科昨（1）日開盤即跳空漲停，股價距離轉換價僅剩4％的一步之遙。\n\n蔡明彰提醒，聯發科今年以來漲幅已高達205％，遠超競爭對手邁威爾（Marvell）142％。由於ECB模式有三個月的轉換鎖定期，短線激情過後應保持冷靜，切忌盲目追高；此外，雖然聯發科集團旗下亞信（3169）、達發（6526）、九陽（ 8040）等紛紛漲停慶祝，但目前看來僅達發基本面表現較為扎實，其餘個股多屬題材性跟漲。\n\n儘管台股反向大漲、外冷內熱，但國際市場的觀望氣氛已達頂點。作為台韓股市先行指標的費城半導體指數，今年以來雖上漲63％，但近期股價持續受到壓制在100日線以下。\n\n美國方面，本周五9月4日即將公布8月非農就業報告，市場預估新增就業人數為5.5萬人，前月即7月數據意外暴冷減少2萬多人，當時被市場視為「不升息」的利多；然而，在美國通膨已達2％目標當下，若本次就業數據持續低迷如僅剩2、3萬人，華爾街恐將轉向擔憂停滯性通膨，也就是高通膨、低就業的全面降臨，屆時將對全球股市造成劇烈衝擊。\n\n此外，美股勞動節後的9月7日，美國預計將迎來大規模的投資級公司債發行，恐引發資金擠壓效應，排擠政府公債。\n\n台股市場部分，在資金過度集中的電子股中，記憶體族群卻出現了主力資金反向調節的異象，雖然記憶體基本面普遍被看好，但蔡明彰表示，第四季記憶體可能面臨報價的「天花板」，此舉導致部分大戶採取反向操作，在大盤大漲之際，反而將資金撤出記憶體類股。\n\n更值得警戒的是，全球四大記憶體巨頭美光（Micron）、閃迪（SanDisk）、海力士（SK Hynix）、三星（Samsung）等近期股價皆疲軟、未能創新高；然而，台股的南亞科（2408）卻在此時反向創下新高，這種與國際產業行情嚴重背離的異常走勢，暗示短線籌碼面可能過熱，投資人需密切留意隨之而來的補跌風險。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
