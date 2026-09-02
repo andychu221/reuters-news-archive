@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T22:11:45.648Z",
-  "total_news_count": 973,
+  "last_updated": "2026-09-02T22:26:56.440Z",
+  "total_news_count": 978,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -33,6 +33,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "05:46:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR2日下跌0.03美元跌幅0.36%折台股26.02元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr2%E6%97%A5%E4%B8%8B%E8%B7%8C0-03%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-36-%E6%8A%98%E5%8F%B0%E8%82%A126-02%E5%85%83-214652441.html",
+      "Content": "(中央社台北2026年 9月 3日電)友達光電在OTC US掛牌ADR以8.20美元作收，下跌0.03美元，跌幅 0.36%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 9月 2日新台幣匯市收盤價31.728元計算，相當台股友達每股為 26.02元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/ 2\n\n8.20\n\n-0.03\n\n-0.36\n\n31.728\n\n26.0\n\n9/ 1\n\n8.23\n\n-0.08\n\n-0.96\n\n31.633\n\n8/31\n\n8.31\n\n0.29\n\n3.62\n\n31.666\n\n26.3\n\n8/28\n\n8.02\n\n0.09\n\n1.13\n\n31.628\n\n25.3\n\n8/27\n\n7.93\n\n0.01\n\n0.13\n\n31.708\n\n25.1\n\n8/26\n\n7.92\n\n-0.11\n\n-1.37\n\n31.818\n\n25.2\n\n8/25\n\n8.03\n\n0.15\n\n1.90\n\n31.868\n\n25.5\n\n8/24\n\n7.88\n\n-0.12\n\n5 -1.53\n\n31.854\n\n8/21\n\n8.00\n\n5 0.01\n\n7 0.15\n\n31.848\n\n25.4\n\n8/20\n\n7.99\n\n8 -0.23\n\n2 -2.91\n\n31.925",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "05:46:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR2日上漲0.24美元漲幅0.56%折台股137.95元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr2%E6%97%A5%E4%B8%8A%E6%BC%B20-24%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-56-%E6%8A%98%E5%8F%B0%E8%82%A1137-95%E5%85%83-214648671.html",
+      "Content": "(中央社台北2026年 9月 3日電)中華電信在NYSE掛牌ADR 以 43.48美元作收，上漲0.24美元，漲幅 0.56%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 9月 2日新台幣匯市收盤價31.728元計算，相當台股中華電信每股為137.95元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/ 2\n\n43.48\n\n0.24\n\n0.56\n\n31.728\n\n137.9\n\n9/ 1\n\n43.24\n\n0.03\n\n0.07\n\n31.633\n\n136.7\n\n8/31\n\n43.21\n\n0.22\n\n0.51\n\n31.666\n\n136.8\n\n8/28\n\n42.99\n\n0.01\n\n0.02\n\n31.628\n\n135.9\n\n8/27\n\n42.98\n\n0.16\n\n31.708\n\n136.2\n\n8/26\n\n42.91\n\n-0.26\n\n-0.60\n\n31.818\n\n136.5\n\n8/25\n\n43.17\n\n0.00\n\n31.868\n\n137.5\n\n8/24\n\n-0.21\n\n-0.48\n\n31.854\n\n8/21\n\n43.38\n\n0.05\n\n31.848\n\n138.1\n\n8/20\n\n43.36\n\n0.36\n\n0.84\n\n31.925\n\n138.4",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "05:46:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR2日下跌0.50美元跌幅2.44%折台股126.72元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr2%E6%97%A5%E4%B8%8B%E8%B7%8C0-50%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-44-%E6%8A%98%E5%8F%B0%E8%82%A1126-72%E5%85%83-214646153.html",
+      "Content": "(中央社台北2026年 9月 3日電)聯電在NYSE掛牌 ADR以19.97美元作收，下跌0.50美元，跌幅 2.44%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 9月 2日新台幣匯市收盤價31.728元計算，相當台股聯電每股為126.72元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/ 2\n\n19.97\n\n-0.50\n\n-2.44\n\n31.728\n\n126.7\n\n9/ 1\n\n20.47\n\n0.59\n\n2.97\n\n31.633\n\n129.5\n\n8/31\n\n19.88\n\n0.09\n\n0.45\n\n31.666\n\n125.9\n\n8/28\n\n19.79\n\n0.72\n\n3.78\n\n31.628\n\n125.1\n\n8/27\n\n19.07\n\n0.04\n\n0.21\n\n31.708\n\n120.9\n\n8/26\n\n19.03\n\n-0.57\n\n-2.91\n\n31.818\n\n121.1\n\n8/25\n\n19.60\n\n0.55\n\n2.89\n\n31.868\n\n124.9\n\n8/24\n\n19.05\n\n0.71\n\n3.87\n\n31.854\n\n121.3\n\n8/21\n\n18.34\n\n0.34\n\n1.89\n\n31.848\n\n116.8\n\n8/20\n\n18.00\n\n-0.12\n\n-0.66\n\n31.925\n\n114.9",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-09-03",
       "Time": "05:43:41",
@@ -41,6 +71,16 @@
       "URL": "https://finance.yahoo.com/technology/articles/microsoft-detail-quarterly-azure-sales-214341741.html",
       "Content": "Investing.com -- Microsoft Corporation (NASDAQ:MSFT) on Wednesday announced plans to begin disclosing standalone quarterly sales figures for its Azure cloud unit, answering years of Wall Street demands for greater transparency into its core growth engine. The financial reporting change comes alongside the software giant's first major reorganization of its reportable business segments since 2015, set to take effect with its fiscal first-quarter results this fall.\n\nUnder the updated structure detailed in an SEC filing, Microsoft will collapse its traditional three reporting segments into two streamlined divisions: Agents and Infra, and Devices and Consumer. The new Agents and Infra unit merges Azure and server products with Microsoft 365 business software, while Devices and Consumer brings together Windows, Xbox gaming, search, and LinkedIn advertising revenues.\n\nAlongside the organizational shift, historical figures provided by the company revealed that quarterly Azure revenue steadily expanded to hit $29.4 billion in the most recent quarter. For the full fiscal year ending in June, Azure eclipsed $100 billion in annual sales, up from $75 billion in the prior year, accounting for roughly 30% of total revenue.\n\nBy releasing concrete revenue totals rather than just percentage growth rates, Microsoft equips analysts with a direct quarterly benchmark against primary cloud rivals Amazon Web Services and Alphabet's Google. The competitive landscape remains intensely fierce amid an industrywide AI data center buildout, where AWS alone generated $128.7 billion in calendar 2025 sales.\n\nThe reorganization underscores Microsoft's evolving enterprise strategy as it deepens its commercial AI footprint and maintains its pivotal infrastructure relationship with OpenAI. Investors will now be watching how the consolidated Agents and Infra metrics track margin performance as corporate demand for cloud and AI software accelerates into fiscal 2027.\n\nShares of Microsoft gained 0.4% in extended trading following the announcement as investors digested the sweeping structural changes.\n\nMicrosoft to detail quarterly Azure sales in sweeping reportable segment revamp\n\nGoldman expects lower but still attractive stock market returns in 2026\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-03",
+      "Time": "05:41:44",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR2日上漲1.50美元漲幅0.36%折台股2636.60元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr2%E6%97%A5%E4%B8%8A%E6%BC%B21-50%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-36-%E6%8A%98%E5%8F%B0%E8%82%A12636-60%E5%85%83-214144616.html",
+      "Content": "(中央社台北2026年 9月 3日電)台積電在NYSE掛牌 ADR以 415.50美元作收，上漲1.50美元，漲幅 0.36%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 9月 2日新台幣匯市收盤價31.728元計算，相當台股台積電每股為 2636.60元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/ 2\n\n415.50\n\n1.50\n\n0.36\n\n31.728\n\n2636.6\n\n9/ 1\n\n414.00\n\n-1.32\n\n-0.32\n\n31.633\n\n2619.2\n\n8/31\n\n415.32\n\n-2.20\n\n-0.53\n\n31.666\n\n2630.3\n\n8/28\n\n417.52\n\n-9.78\n\n-2.29\n\n31.628\n\n2641.0\n\n8/27\n\n427.30\n\n9.61\n\n2.30\n\n31.708\n\n2709.7\n\n8/26\n\n417.69\n\n0.28\n\n0.07\n\n31.818\n\n2658.0\n\n8/25\n\n417.41\n\n7.29\n\n1.78\n\n31.868\n\n2660.4\n\n8/24\n\n410.12\n\n-8.83\n\n-2.11\n\n31.854\n\n2612.7\n\n8/21\n\n418.95\n\n2.95\n\n0.71\n\n31.848\n\n2668.5\n\n8/20\n\n416.00\n\n3.91\n\n0.95\n\n31.925\n\n2656.1",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT",
@@ -101,6 +141,16 @@
       "URL": "https://finance.yahoo.com/m/4bd641d8-b429-327a-a405-6fee4d5436d5/billionaire-philippe-laffont.html",
       "Content": "Micron (NASDAQ: MU) has been an incredible stock to own in 2026, as it's up by around 225% this year. Just because it has done so well already, though, doesn't mean it isn't primed for more upside, and one billionaire investor recently bought more shares of it.\n\nDuring the second quarter, billionaire Phillippe Laffont, who runs investment management firm Coatue Management, massively increased its Micron stake. As of the end of Q1, it held around 166,000 Micron shares. As of June 30, it held 3.1 million. That's a huge jump in a short time frame, but after looking at Micron's potential, I think it makes perfect sense.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMicron is down over 20% from the all-time high it hit in June, and I think now could be the perfect time to load up on shares, as a rally could be imminent.\n\nMicron isn't being respected for its growth potential\n\nMicron makes memory chips, which are in short supply because the artificial intelligence build-out is consuming the majority of what producers can manufacture. Every memory-chip maker is more than sold out well in advance of production, which has caused prices for memory to skyrocket. Little has changed when it comes to their input costs, so this price growth is creating pure profit for Micron.\n\nThe biggest question investors have to ask is how long these conditions will last. Micron is building several new production facilities to increase its manufacturing capacity (as are its peers), but those won't be done until mid-2027 or later. That leaves plenty of time for Micron to benefit from soaring memory chip prices.\n\nFurthermore, Micron's management team projects that tightness in the memory chip market won't ease until 2028 at the earliest, so there could be further price hikes before there's any relief for buyers.\n\nThat bodes well for Micron, and its incredible results could continue.\n\nIn its fiscal 2026 Q3, which ended May 28, its revenue rose an astonishing 346% year over year. For fiscal Q4, Wall Street analysts expect 348% growth, but confidence in that projection is likely low given the volatility in the memory chip industry. Despite those impressive results and strong projections, Micron's stock is still trading at a cheap valuation of 6 times its fiscal 2027 earnings estimates.\n\nStory Continues\n\nIf it could rise to a merely market-average valuation of around 20 times earnings, it would deliver a huge return to investors in a short time frame. However, the current discount reflects the market's worry about what comes next for Micron.\n\nToday, demand for memory chips is the strongest the world has ever seen. But memory has historically been a highly cyclical market, with prices rising and falling based on shifting supply-and-demand dynamics. The peaks are great, but the valleys are tough, and the stock's discounted valuation reflects market concern about what will happen to Micron once the shortage is resolved.\n\nHowever, it could still take years for supply to catch back up to demand, and I think Micron could still be a solid investment in the meantime, but investors will need to keep this one on a short leash.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-03",
+      "Time": "05:05:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電強勢背書！CPO量產開第一槍 4檔光通訊大廠「爆單倒數」？",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%BC%B7%E5%8B%A2%E8%83%8C%E6%9B%B8-cpo%E9%87%8F%E7%94%A2%E9%96%8B%E7%AC%AC-%E6%A7%8D-4%E6%AA%94%E5%85%89%E9%80%9A%E8%A8%8A%E5%A4%A7%E5%BB%A0-%E7%88%86%E5%96%AE%E5%80%92%E6%95%B8-210530405.html",
+      "Content": "台積電先進封裝技術發展副總經理徐國晉表示，矽光子已成為市場主流，其最終體現的共同封裝光學（CPO）技術將在今年下半年正式進入量產。隨著矽光子技術從概念走向實際量產，加上高頻寬傳輸需求爆發，專家點名4檔光通訊供應鏈將成為幕後最大贏家。\n\n資深分析師孫慶龍在財經節目中指出，徐國晉的表態為CPO技術提供強大背書，過去市場對CPO可靠度的質疑，如今已遭許多實際數據與市場驗證徹底破除。目前證實已有一家產業龍頭（即輝達 ）宣布CPO技術將在2026年下半年正式進入量產。\n\n受惠於高階傳輸需求，100G以上的矽光子市場在2024年實現翻倍成長後，預估2025年將再成長60%，2028年還會迎來另一波更強勁的爆發浪潮。徐國晉坦言，矽光子將成為市場的主流技術，並預估到了2027年將拿下高達50%的市場占有率。\n\n輝達官方點名的全球12家CPO合作夥伴中，台灣佔據關鍵4席，包括台積電負責晶圓代工、鴻海負責交換器系統組裝、日月光投控旗下的矽品負責先進封裝，以及波若威提供光纖連接套件。\n\n其他國際夥伴則包含美國康寧、Coherent、Fabrinet與Lumentum，主要負責雷射光源、光模組代工與特殊光纖；日本住友電工與扇港先進負責高階光纖與光學連接器，以及大陸天孚通信主要提供收發模組的關鍵零組件。\n\n孫慶龍強調，隨著上述台廠四大龍頭切入，其背後緊密合作的台灣供應鏈也將迎來大商機。上詮作為台積電FAU核心夥伴，負責光訊號進出晶片的關鍵介面；訊芯KY切入鴻海CPO交換器出貨鏈；大立光斥資百億建廠佈局高精度FA（主動對準）與自動化製程，預估第四季試產認證；光聖則聚焦高速光纖連接與高密度耦合技術。\n\n此外，由於CPO將晶片與光學元件共同封裝，大幅提升測試難度，帶動測試設備與高單價介面需求。包括旺矽、穎崴、精測等測試介面廠，以及自動化設備廠萬潤，均因提早布局而成為此波CPO量產浪潮下的主要受益者。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
