@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-03T12:01:27.074Z",
-  "total_news_count": 1156,
+  "last_updated": "2026-09-03T12:11:21.688Z",
+  "total_news_count": 1157,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-09-03",
+      "Time": "20:04:38",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Is Rewiring Its Business for the AI Era",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-rewiring-business-ai-era-120438732.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft Corp. ( MSFT , Financials ) is shifting the way it reports its business and the new structure brings artificial intelligence much closer to the center. Microsoft is moving to two new reporting categoriesAgents and Infra and Devices and Consumereffective with first-quarter fiscal 2027 data.The Agents and Infra category will consist of Azure, Microsoft 365, GitHub, productivity and server licenses, industrial solutions and support services.Devices and Consumer will cover Windows OEM and devices, Xbox and search and advertising. AI is changing Microsoft's products and its business strategy, and also eroding the lines between traditional product categories, said CEO Satya Nadella.The change in reporting also means Azure is more simply focused on consumption based platform and infrastructure revenue.Microsoft predicts Agents and Infra revenue of $75.15 billion to $75.75 billion in fiscal Q1. Devices and Consumer sales is expected to be $14.7 billion to $15.2 billion.Crucially, the corporation did not revise down its full-year revenue forecast. The company continues to expect total fiscal Q1 revenue to range between $89.85 billion and $90.95 billion. The numbers are much the same for investors. The framework is not.Microsoft is gradually positioning Azure, GitHub and Microsoft 365 as pieces of a larger AI and infrastructure engine. The next test comes in October when investors finally see results under the new reporting format.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-03",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-09-03",
       "Time": "19:14:00",
       "Source": "Yahoo Finance",
