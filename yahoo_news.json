@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T14:01:00.981Z",
-  "total_news_count": 1185,
+  "last_updated": "2026-09-03T14:11:19.186Z",
+  "total_news_count": 1186,
   "news": [
     {
       "Ticker": "AVGO",
@@ -10,6 +10,16 @@
       "Title": "Broadcom Stock Tumbles as AI Growth Soars 221%. The Problem Is Investor Expectations",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-tumbles-ai-growth-135255976.html",
       "Content": "This article first appeared on GuruFocus .\n\nBroadcom ( NASDAQ:AVGO ) shares fell about 5% after the chipmaker posted another sharp increase in artificial-intelligence revenue, with the market appearing to focus more on future expectations than current growth.\n\nAI semiconductor sales reached $16.7 billion in the latest quarter, up 221% from a year earlier and 54% from the prior quarter. Total revenue increased 86% to $29.59 billion, while adjusted earnings rose to $3.32 a share.\n\nWarning! GuruFocus has detected 2 Warning Sign with AVGO.\n\nIs AVGO fairly valued? Test your thesis with our free DCF calculator.\n\nBroadcom also lifted its fiscal 2027 AI semiconductor revenue outlook to about $115 billion from more than $100 billion previously. It expects roughly $230 billion in the category for fiscal 2028, suggesting management sees demand continuing to expand.\n\nStill, the fourth-quarter forecast of $34.8 billion in total revenue came in slightly below the $35.03 billion analyst estimate cited in the report. That gap may have amplified concerns that investors were already pricing in a larger upside surprise.\n\nCompetition in custom AI chips is another consideration, particularly as major technology companies develop alternatives for their data centers.\n\nBroadcom's AI growth remains robust, but elevated expectations could keep shares sensitive to even modest guidance gaps.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-09-03",
+      "Time": "21:44:45",
+      "Source": "Yahoo Finance",
+      "Title": "ePlus (PLUS) Expands Its Microsoft Footprint Even As Profit Margins Slip",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/eplus-plus-expands-microsoft-footprint-134445622.html",
+      "Content": "On August 24, ePlus (NASDAQ: PLUS ) announced it had completed the acquisition of the assets of Daymark Solutions, a Massachusetts-based IT services provider, with the deal having closed three days earlier on August 21. The announcement landed three weeks after the company posted first-quarter fiscal 2027 results on August 4, showing sales climbing even as profit slipped. Together, the two headlines capture where ePlus stands right now: reaching for new growth in cloud and security while working through pressure on its existing business.\n\nA Deal Built For Microsoft's Ecosystem\n\nDaymark, founded in 2001, built its business serving highly regulated, data-intensive industries including energy and utilities, healthcare, life sciences, defense, and financial services. Its core capabilities span modern data center infrastructure, cloud, Microsoft 365, Microsoft 365 Copilot, and cybersecurity, and its status as a Microsoft Tier 1 Cloud Solution Provider slots directly alongside ePlus' existing Azure and Microsoft 365 professional and managed services work. The acquisition also gives ePlus a deeper foothold in the New England region, particularly metropolitan Boston. CEO Mark Marron framed it as a way to gain a specialized Microsoft team that could serve as a catalyst for growth across Azure, Microsoft 365, security, and Copilot.\n\nThe timing lines up with what was already ePlus' fastest-growing segment. Managed services revenue rose 15.1% to $51.3 million in the first quarter, the segment's first quarter above $50 million, with gross profit up 11.3% on that growth. The balance sheet backs further moves like this one: cash and equivalents reached $448.9 million as of June 30, up from $410.8 million three months earlier, giving ePlus room for additional acquisitions, dividends, and buybacks. Management also pointed to record sales and a significant rise in booked and open orders, positioning the company for what it called a stronger second half.\n\nWhere The Growth Isn't Reaching Profit\n\nThe first quarter numbers show a company growing on top but shrinking underneath. Net earnings from continuing operations fell 5.4% to $30.3 million, adjusted EBITDA dropped 9.2% to $47.8 million, and operating income declined 9.6% to $38.8 million. Gross margin slipped to 23.3% from 23.9% a year earlier, with margin compression showing up across all three business segments rather than just one.\n\nThe professional services segment, the part of the business closest to the consulting and implementation work Daymark specializes in, fell 5.1% to $68.1 million, and its margin dropped to 36.9% from 39.2%. The product segment saw its own margin decline, to 21.0% from 21.3%, as an ongoing memory chip shortage extended lead times and delayed shipments. Terms of the Daymark transaction were not disclosed, leaving no visibility into what ePlus paid or how the deal affects near-term results.\n\nStory Continues\n\nA Market That Hasn't Picked A Side\n\nHedge fund ownership of ePlus held steady at 19 funds quarter over quarter, unchanged rather than building or fading. Short interest sits at 6.04% of float, a level that reflects a real contingent of skeptics without signaling outright pessimism. As of September 3, shares trade at a forward P/E of 16.21, a multiple that isn't pricing in aggressive growth. Taken together, the numbers describe a stock the market hasn't strongly committed to in either direction, cheap enough relative to expected earnings but shadowed by enough short interest to echo the profitability questions sitting in the latest results.\n\nWhat Comes Next For ePlus\n\nePlus is layering a strategic, Microsoft-aligned acquisition onto a quarter where sales grew but profit didn't follow. The bull case rests on Daymark's specialized team feeding the same managed services growth that already produced a $50 million quarter, backed by a balance sheet with room to keep investing. The bear case rests on margin compression that touched every segment and a supply chain headwind that hasn't resolved. For the optimistic view to hold, Daymark's integration needs to show up in managed services growth rather than added cost.\n\nWhile we acknowledge the potential of PLUS as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nePlus (PLUS) Expands Its Microsoft Footprint Even As Profit Margins Slip\n\nePlus (PLUS) Expands Its Microsoft Footprint Even As Profit Margins Slip A Deal Built For Microsoft's Ecosystem",
       "Language": "en"
     },
     {
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, GOOGL, AMZN, NVDA",
       "Date": "2026-09-03",
       "Time": "21:42:00",
       "Source": "Yahoo Finance",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AVGO",
+      "Ticker": "GOOGL, AVGO",
       "Date": "2026-09-03",
       "Time": "21:08:58",
       "Source": "Yahoo Finance",
