@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T23:32:22.393Z",
-  "total_news_count": 1296,
+  "last_updated": "2026-09-03T23:34:30.949Z",
+  "total_news_count": 1297,
   "news": [
     {
       "Ticker": ".TWII",
@@ -113,6 +113,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "INTC",
+      "Date": "2026-09-04",
+      "Time": "05:45:04",
+      "Source": "Yahoo Finance",
+      "Title": "Intel (INTC) Outperforms Broader Market: What You Need to Know",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-outperforms-broader-market-214504078.html",
+      "Content": "Intel (INTC) closed at $91.67 in the latest trading session, marking a +1.8% move from the prior day. The stock's performance was ahead of the S&P 500's daily gain of 1.06%. Elsewhere, the Dow gained 1.18%, while the tech-heavy Nasdaq added 1.4%.\n\nThe world's largest chipmaker's shares have seen a decrease of 10.9% over the last month, not keeping up with the Computer and Technology sector's gain of 3.99% and the S&P 500's gain of 2.46%.\n\nAnalysts and investors alike will be keeping a close eye on the performance of Intel in its upcoming earnings disclosure. The company's earnings per share (EPS) are projected to be $0.39, reflecting a 69.57% increase from the same quarter last year. At the same time, our most recent consensus estimate is projecting a revenue of $16.36 billion, reflecting a 19.85% rise from the equivalent quarter last year.\n\nIn terms of the entire fiscal year, the Zacks Consensus Estimates predict earnings of $1.47 per share and a revenue of $62.12 billion, indicating changes of +250% and +17.54%, respectively, from the former year.\n\nAdditionally, investors should keep an eye on any recent revisions to analyst forecasts for Intel. These revisions typically reflect the latest short-term business trends, which can change frequently. As a result, we can interpret positive estimate revisions as a good sign for the business outlook.\n\nOur research reveals that these estimate alterations are directly linked with the stock price performance in the near future. To capitalize on this, we've crafted the Zacks Rank, a unique model that incorporates these estimate changes and offers a practical rating system.\n\nThe Zacks Rank system, ranging from #1 (Strong Buy) to #5 (Strong Sell), possesses a remarkable history of outdoing, externally audited, with #1 stocks returning an average annual gain of +25% since 1988. Over the past month, there's been a 0.06% fall in the Zacks Consensus EPS estimate. As of now, Intel holds a Zacks Rank of #3 (Hold).\n\nLooking at valuation, Intel is presently trading at a Forward P/E ratio of 61.41. This indicates a premium in contrast to its industry's Forward P/E of 35.61.\n\nInvestors should also note that INTC has a PEG ratio of 6.82 right now. The PEG ratio bears resemblance to the frequently used P/E ratio, but this parameter also includes the company's expected earnings growth trajectory. The Semiconductor - General industry currently had an average PEG ratio of 1.74 as of yesterday's close.\n\nThe Semiconductor - General industry is part of the Computer and Technology sector. This group has a Zacks Industry Rank of 23, putting it in the top 10% of all 250+ industries.\n\nStory Continues\n\nThe Zacks Industry Rank gauges the strength of our industry groups by measuring the average Zacks Rank of the individual stocks within the groups. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.\n\nTo follow INTC in the coming trading sessions, be sure to utilize Zacks.com.",
+      "Language": "en"
+    },
+    {
       "Ticker": "LRCX",
       "Date": "2026-09-04",
       "Time": "05:45:02",
@@ -143,7 +153,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-09-04",
       "Time": "05:39:40",
       "Source": "Yahoo Finance",
