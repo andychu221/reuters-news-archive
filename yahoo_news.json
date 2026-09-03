@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-03T09:11:29.721Z",
-  "total_news_count": 1105,
+  "last_updated": "2026-09-03T09:26:42.032Z",
+  "total_news_count": 1115,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "17:03:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超台股481億元連2賣　減碼記憶體和ETF",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1481%E5%84%84%E5%85%83%E9%80%A32%E8%B3%A3-%E6%B8%9B%E7%A2%BC%E8%A8%98%E6%86%B6%E9%AB%94%E5%92%8Cetf-090304713.html",
+      "Content": "（中央社記者鍾榮峰台北2026年9月3日電）台股今天殺尾盤下挫307點失守46000點，三大法人合計賣超新台幣637.11億元，其中外資及陸資賣超481.46億元，連2賣，主要減碼記憶體股、主動ETF和高息ETF，加碼友達、金融股和聯電。\n\n在台指期淨部位，三大法人今天淨空單減少3106口至6052口，其中外資淨空單減少3754口至8萬1575口。\n\n台股下跌307.06點，收在45857.66點，成交值新台幣9462.71億元。自營商賣超167.07億元，投信買超11.42億元，外資及陸資賣超481.46億元，三大法人合計賣超637.11億元。\n\n根據台灣證券交易所統計，外資今天敲進超過萬張的個股包括友達、遠東銀、兆豐金、聯電、國票金、群創、合庫金、元大金、強茂、第一金、華航等。\n\n外資今天賣超逾萬張的股票包括主動統一台股增長（00981A）、南亞科、華邦電、臺企銀、力積電、大華優利高填息30（00918）、旺宏、群益台灣精選高息（00919）、主動凱基台灣（00407A）、復華台灣科技優息（00929）、臻鼎-KY、主動復華未來50（00991A）等。\n\n台新投顧總經理黃文清接受記者電訪分析，美國和伊朗局勢訊息反覆，國際油價走揚，通膨疑慮增溫，美國長期公債殖利率高檔，市場預期美國升息空間大，短期可能影響科技股高估值表現，外資在台股期現貨市場布局相對謹慎。\n\n展望台股後市，台新台灣中小主動式ETF基金經理人沈建宏表示，後續關注美伊雙方談判進展，國際油價未見明顯回落，美國聯邦準備理事會（Fed）高度關注高通膨遲未降溫，升息情境恐難避免，此外接近11月美國期中選舉，按照歷史經驗，投資人相對觀望美股多弱勢表現，對台股影響值得觀察。",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-03",
@@ -63,6 +73,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "16:12:18",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資再砍台股481億元，新台幣週四弱勢再貶2.7分，收31.755元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%86%8D%E7%A0%8D%E5%8F%B0%E8%82%A1481%E5%84%84%E5%85%83-%E6%96%B0%E5%8F%B0%E5%B9%A3%E9%80%B1%E5%9B%9B%E5%BC%B1%E5%8B%A2%E5%86%8D%E8%B2%B62-7%E5%88%86-%E6%94%B631-755%E5%85%83-081218908.html",
+      "Content": "【財訊快報／劉敏夫】台北外匯市場週四新台幣兌美元匯價震盪走貶。日圓快速走強引發干預猜測，週三紐約匯市美元指數走跌，週四亞洲貨幣多數走升，台幣表現相對疲軟，與此同時，台股集中及店頭市場無差別殺低，加權指數收跌0.67%，外資持續賣超上市股票481.46億元，也不利台幣匯價行情。新台幣兌美元匯率週四以31.755元作收，與前一交易日比較，台幣匯率貶值2.7分。銀行間新台幣兌美元最高成交價為31.700元，最低成交價為31.827元，成交量為19億3,200萬美元。\n\n華僑銀行外匯策略分析師Christopher Wong於報告中指出，美元回落主要受到日圓大幅反彈帶動，其後美國勞動市場數據偏軟，進一步加劇美元跌勢。\n\nWong表示，短期而言，美元仍面臨上升風險。除非接下來公布的美國數據意外明顯走弱，市場對聯準會升息的預期料將維持堅挺。同時，市場焦點現轉向週四稍晚聯準會理事的談話，以及週五公布的美國非農就業報告。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW, 2330.TW",
+      "Date": "2026-09-03",
+      "Time": "16:11:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《台股盤後》收跌307點、日K連二黑，險守10日線",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E8%B7%8C307%E9%BB%9E-%E6%97%A5k%E9%80%A3%E4%BA%8C%E9%BB%91-%E9%9A%AA%E5%AE%8810%E6%97%A5%E7%B7%9A-081100752.html",
+      "Content": "MoneyDJ新聞 2026-09-03 16:11:00 新聞中心 發佈\n\n受惠NVIDIA上漲逾3%、帶動費半指數上漲0.45%，台股今(3)日早盤由台積電、台達電、聯發科領軍開高，加上金融股、長榮續強，大盤一度上探46517.45點，惟在日韓股市翻黑、NASDAQ電子盤走弱下，南亞、川湖、群創等盤中皆翻黑，南亞科、緯穎更是一路走低，加上19大類股跌多漲少、上半週撐盤的台塑四寶/台泥亦轉弱下，加權指數終場收在45857.66點、日K連二黑，下跌307.06點或0.67%、險守10日線，成交量9462.71億元。\n\n隨著美國公債殖利率漲勢暫歇、戴爾飆高激勵AI晶片股，美國四大指數2日全面上揚。亞洲股市方面，因美股昨日走揚，加上日經225指數昨日重挫近1,900點、吸引低接買盤湧入，帶動日經指數以紅盤開出，之後因權重股迅銷大跌，加上部分半導體相關股走軟，拖累日經指數漲幅收斂、翻黑，收盤跌0.17%；韓國KOSPI指數則收漲0.26%。\n\n台股今日開高走低，失守46000點整數關卡。電子股走勢不同調，權王台積電於平盤附近上下震盪，終場以2390元作收，小漲0.21%，鴻勁、致茂、台達電、聯發科齊揚，大立光熄火重挫逾8%，南亞科、國巨*、緯穎都走低。另外載板族群也淪為重災區，南電股價殺至跌停，景碩、臻鼎-KY雙雙下跌逾8%，欣興也跌半根停板以上。\n\n以29大類股表現來看，今日盤面以塑膠類股跌勢最深、下跌5.45%，光電股跌5.24%、跌幅居次，玻璃陶瓷跌3.48%、跌幅居第三。強勢股部分，金融保險族群上漲2.19%、漲幅最高，其中玉山金大漲近7%、飆新天價，遠東銀亦漲5%。航運、綠能環保類股分別上漲1.4%、1.05%，漲幅居第二及第三。\n\n三大法人動向方面，今日三大法人合計賣超637.12億元；自營商賣超167.08億元，投信買超11.42億元，外資及陸資賣超481.46億元。\n\n《台股盤後》量增收漲663點、日K連二紅，收復10日線\n\n《台股盤後》量縮收漲290點、重返5日線；週K翻黑\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-03",
       "Time": "16:01:41",
@@ -73,6 +103,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-09-03",
+      "Time": "16:00:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《日股》權值股走勢分歧 日經收跌0.17%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1-%E6%AC%8A%E5%80%BC%E8%82%A1%E8%B5%B0%E5%8B%A2%E5%88%86%E6%AD%A7-%E6%97%A5%E7%B6%93%E6%94%B6%E8%B7%8C0-17-080000357.html",
+      "Content": "MoneyDJ新聞 2026-09-03 16:00:58 數位內容中心 發佈\n\n日股今(3)日走勢分歧，日經225指數收於64,214.48點，下跌111.16點或0.17%；東證股價指數(TOPIX)收於4,102.04點，上漲20.44點或0.50%。盤勢先受到美股反彈與美國長天期殖利率回檔帶動走高，但買盤未能延續。\n\n外部因素方面，開盤後市場一度受到風險偏好回溫支撐，指數明顯走高。不過，原油價格偏強，加上中東情勢仍具不確定性，追價意願很快降溫，日經225指數在64,400點附近反覆震盪，終場收跌。\n\n商社與防禦類股方面，波克夏海瑟威(Berkshire Hathaway)執行長阿貝爾(Greg Abel)對商社股釋出投資意願，帶動Mitsubishi Corp.(8058.JP)、Mitsui(8031.JP)、Sumitomo(8053.JP)、Itochu(8001.JP)走強。電力與瓦斯、海運、石油與煤製品同步走強，對TOPIX形成支撐。\n\n權值股表現分歧，軟銀集團(9984.JP)、東京威力科創(8035.JP)、ORIX(8591.JP)、Hoya(7741.JP)表現相對穩健；但Fast Retailing(9983.JP)、愛德萬測試(6857.JP)、IBIDEN(4062.JP)、Fujikura(5803.JP)、Disco(6146.JP)、TDK(6762.JP)、Sumitomo Electric(5802.JP)、BayCurrent(6532.JP)、Kyocera(6971.JP)、Daiichi Sankyo(4568.JP)走弱，壓抑日經225指數表現。\n\n《日股》日經跌0.3%險守66000點 半導體撐盤\n\n《日股》半導體拖累 日經收跌2.54%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-03",
       "Time": "15:57:00",
@@ -81,6 +121,16 @@
       "URL": "https://finance.yahoo.com/m/8c0f200b-d947-3544-b912-fbbfadf51a44/3-no-brainer-tech-stocks-to.html",
       "Content": "Not every investor wants to buy an index fund and settle for average returns. Some people want to try to beat the market, and the tech sector has offered some of the most compelling returns. For instance, the State Street Technology Select Sector SPDR ETF (NYSEMKT: XLK) has an annualized 24.3% return over the past decade, soundly outperforming the S&P 500 during that stretch.\n\nWhile tech exchange-traded funds (ETFs) can outshine the S&P 500, investors can give themselves a chance to enhance their returns by investing in solid tech stocks with promising long-term catalysts. If you have $5,000 ready to put to work in the market now, these three look like some of the best options.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nCipher Digital\n\nCipher Digital (NASDAQ: CIFR) builds artificial intelligence (AI) data centers for hyperscalers that need additional capacity. It relies on a co-location model, which means Cipher Digital provides the facilities and power, while its tenants are responsible for bringing their own chips.\n\nThis arrangement reduces the size of Cipher Digital's revenues, but it also reduces the company's overhead. Furthermore, when AI processors become obsolete because newer versions have come out, or because they've simply reached the end of their useful lives, the costs of replacing them do not fall on Cipher Digital.\n\nThe company has signed multiple long-term deals with hyperscalers. Cipher Digital began delivering data center capacity at its Black Pearl site in August, which was two months ahead of schedule. Its average contracted net operating income is projected to jump substantially from $97 million this year to $686 million next year.\n\nCipher Digital is targeting a 5.2 gigawatt (GW) portfolio by 2030. As Cipher Digital brings more of its data center sites online, its revenue should compound quickly. It has had no issue with securing deals, especially as demand for AI compute continues to accelerate.\n\nMarvell Technology\n\nMarvell Technology (NASDAQ: MRVL) first got people's attention when Nvidia CEO Jensen Huang predicted that it would be the next $1 trillion company. That remark brought more attention to the stock, which has more than doubled this year.\n\nMarvell Technology specializes in AI networking products and application-specific integrated circuits (ASICs). ASICs are powerful custom chips designed for a narrow range of workloads, but they have become a more important part of AI infrastructure as tech giants seek ways to improve efficiency and lower costs. Broadcom (NASDAQ: AVGO) has dominated this space, but Marvell's $120 billion chip-design deal with Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) demonstrates how quickly it is gaining ground.\n\nStory Continues\n\nIts shares are actually down since Marvell Technology announced that deal, as investors wanted the revenue to arrive right away. The bulk of that revenue will start to show up in Marvell Technology's fiscal 2029. Meanwhile, it recently reported its fiscal 2027 second-quarter results, which showcased a 37% year-over-year revenue jump.\n\nManagement also guided for fiscal 2027 Q3 revenue of $3.15 billion at the midpoint. That would be a 52% year-over-year increase. All of this growth is taking place without the money from the Alphabet deal. When revenue finally materializes from that megacontract, the stock may continue to rally toward new highs.\n\nFortinet\n\nFortinet (NASDAQ: FTNT) is benefiting from a multiyear tailwind. As AI agents proliferate the digital world, organizations' cybersecurity needs will increase. AI will increase the number of vulnerable points, and this same technology also makes it easier for hackers to infiltrate online systems.\n\nInvestors have been connecting the dots, which is one reason Fortinet shares have more than doubled this year. Fundamentals remain strong, with 26% year-over-year revenue growth in Q2 being one of the main highlights of its latest report. Fortinet also raised its guidance for the year. A solid base of more than 900,000 lifetime customers offers Fortinet meaningful growth potential as more businesses use AI and end up needing additional cybersecurity protections.\n\nFortinet's valuation has increased a bit due to the run-up. The stock has long-term tailwinds, but it may be on the verge of a near-term correction that could lead to a more attractive entry point.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "15:50:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股下跌307點！ 三大法人賣超637億 網哀：怎麼比昨天痛",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%B8%8B%E8%B7%8C307%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85637%E5%84%84-%E7%B6%B2%E5%93%80-%E6%80%8E%E9%BA%BC%E6%AF%94%E6%98%A8%E5%A4%A9%E7%97%9B-075000106.html",
+      "Content": "台股今（3）日開高走低，早盤一度衝上46517點，午後賣壓突然加重，指數翻黑一路走弱，終場收在45857點，下跌307點、跌幅0.67%，失守46K關卡，盤中高低震盪超過600點，成交量約9400億元，三大法人合計賣超637.11億元。\n\n外資狂砍481億\n\n根據證交所公布的三大法人買賣超資料，外資及陸資賣超481.45億元，自營商同樣偏空，其中自行買賣賣超56.78億元，避險部分更賣超110.28億元，兩者合計賣超167.06億元。相較之下，投信今日逆勢站在買方，單日買超11.41億元。\n\n投信逆勢掃進緯創\n\n進一步觀察投信買超個股，緯創（3231）成為今日最大買超標的，單日買超1萬4523張，遠遠領先其他個股。其餘買超前10名包括遠東新（1402）3571張、中信金（2891）3353張、長榮航（2618）3324張、國泰金（2882）3242張、興富發（2542）3213張。此外，上海商銀（5876）買超2966張、強茂（2481）2850張、亞泥（1102）2803張、大成鋼（2027）2098張。從投信買超名單來看，今日資金並未全面集中AI與電子族群，金融、傳產及航運同樣獲得投信加碼。\n\n聯電、南電、欣興遭調節\n\n投信賣超部分，臺企銀（2834）遭賣超4314張居冠，聯電（2303）賣超3756張，台中銀（2812）賣超3312張，合庫金（5880）賣超3264張，華南金（2880）賣超2636張。電子股則以南電（8046）遭賣超2319張較為受到市場關注，南亞科（2408）賣超1992張，欣興（3037）也遭賣超1912張，群益證（6005）則賣超1851張。其中欣興近期股價在高檔震盪，投信持續調節也引發市場討論，PTT股民甚至直呼「欣興投信每天倒」，ABF載板族群同步成為網友熱議焦點。\n\n網炸鍋：怎麼比昨天還痛？\n\n三大法人買賣超數據公布後，PTT股版隨即掀起熱烈討論，有網友指出，今日法人賣超金額雖然沒有前一日高，但市場體感卻更加沉重，直接留言：「賣比昨天少結果比昨天痛」，引發不少網友附和。也有網友認為，早盤一度上攻讓部分投資人追高，結果午後反轉，形成「早盤買、尾盤套」的窘境；另有網友則擔心外資若持續撤出，台股9月行情恐怕還有震盪壓力。不過，也有部分網友認為今日僅下跌307點，跌幅不到1%，不必過度恐慌，認為市場仍處於高檔震盪階段。\n\n（封面示意圖／AI生成）\n\n【 本文 由<a data-yga=\"{\"yInteractivityType\":\"0\",",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -123,6 +173,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-09-03",
+      "Time": "15:15:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI概念股下挫拖累　日經225指數小跌作收",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8B%E6%8C%AB%E6%8B%96%E7%B4%AF-%E6%97%A5%E7%B6%93225%E6%8C%87%E6%95%B8%E5%B0%8F%E8%B7%8C%E4%BD%9C%E6%94%B6-071505095.html",
+      "Content": "（中央社東京2026年09月3日綜合外電報導）東京股市日經225指數今天收黑，主因光纖電纜製造商藤倉及古河電工領跌，導致人工智慧（AI）相關類股走低；東證股價指數則在貿易商社股走強及油價回穩支撐下收紅。\n\n日股基準日經225指數收盤下跌111.16點或0.17%，來到64214.48點。\n\n東證股價指數收盤上漲20.44點或0.50%，來到4102.04點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-03",
+      "Time": "15:14:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Follow法人】記憶體又成提款機？外資砍南亞科華邦電逾6萬張 反手買台積電235億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E8%A8%98%E6%86%B6%E9%AB%94%E5%8F%88%E6%88%90%E6%8F%90%E6%AC%BE%E6%A9%9F%EF%BC%9F%E5%A4%96%E8%B3%87%E7%A0%8D%E5%8D%97%E4%BA%9E%E7%A7%91%E8%8F%AF%E9%82%A6%E9%9B%BB%E9%80%BE6%E8%90%AC%E5%BC%B5-%E5%8F%8D%E6%89%8B%E8%B2%B7%E5%8F%B0%E7%A9%8D%E9%9B%BB235%E5%84%84%E5%85%83-071402991.html",
+      "Content": "（下午4點50分更新買賣超個股）\n\n台股今（3）日震盪走低，終場下跌307點，失守4萬6千點關卡。三大法人合計賣超637.11億元，其中外資今日再賣超481.45億元，呈現連2賣，兩日累計提款1,394.99億元。資深台股分析師蔡明翰表示，外資近期賣超主要反映台股位階相對偏高，法人目前仍處於觀望、多空分歧階段。觀察個股，記憶體再成提款重災區，南亞科（2408）、華邦電（2344）合計遭砍逾6萬張；台積電（2330）則逆勢獲外資加碼235億元。\n\n外資今日賣超前三大：00981A、南亞科、華邦電\n\n外資今日賣超以主動統一台股增長（00981A）居冠，單日遭調節逾3.8萬張；記憶體股南亞科（2408）遭外資砍逾3.4萬張排名第二；華邦電（2344）則遭賣超逾2.6萬張，位居第三。\n\n值得注意的是，記憶體族群成為外資今日主要提款對象，除了南亞科、華邦電包辦第二、三名外，力積電（6770）、旺宏（2337）也分別遭賣超約1.9萬張及1.5萬張，前十大賣超榜中共有4檔記憶體相關個股入列。\n\nETF同樣遭到外資調節，除了賣超冠軍主動統一台股增長外，大華優利高填息30（00918）、群益台灣精選高息（00919）、主動凱基台灣（00407A）及復華台灣科技優息（00929）也擠進前十大，前十大賣超榜共有5檔ETF入列。\n\n外資今日買超前三大：友達、遠東銀、兆豐金\n\n觀察外資今日買超個股，面板股友達（2409）以買超逾5.5萬張高居第一，遠東銀（2845）獲外資買超近3萬張排名第二，兆豐金（2886）則獲加碼逾2.3萬張，位居第三。\n\n外資今日買盤也明顯集中金融股，除了遠東銀、兆豐金外，國票金（2889）、合庫金（5880）、元大金（2885）及第一金（2892）也進入前十大，前十大買超個股中共有6檔金融股。\n\n其餘個股方面，晶圓代工廠聯電（2303）獲外資買超逾2.2萬張；另一檔面板股群創（3481）也獲加碼逾1.9萬張。值得注意的是台積電（2330）也獲外資買超9,838張，若以今日收盤價估算，外資單日加碼金額約235億元。\n\n外資連2賣是轉空？蔡明翰：高檔正常調節\n\n蔡明翰指出，台股前波一度逼近4萬7千點，準備挑戰歷史高點，相較之下，與台股連動度較高的費城半導體指數及韓股仍處整理階段，台股位階明顯較高，因此外資近期出現獲利調節並不意外，他認為，目前整體格局仍是在消化上半年大漲後的漲幅，趨勢尚未出現明顯改變。\n\n至於外資何時可能重新轉為連續買超？蔡明翰認為，關鍵仍要觀察美國科技股，以費城半導體指數為主，若費半重新站回月線、趨勢逐步轉強，資金重新回流科技及AI族群，屆時才較有機會看到外資轉為較具連續性的買超，台股也才有進一步向上挑戰的空間。\n\n蔡明翰指出，目前法人並非明顯偏多或偏空，而是處於觀望階段，後續仍須等待美國科技股轉強，才有機會看到法人資金出現較具持續性的回流。\n\n外資再砍481億元 三大法人合計賣超637億元\n\n根據證交所公布籌碼動向，三大法人今日合計賣超637.11億元。其中，外資今日再砍481.45億元，呈連2賣，累計賣超1,394.99億元。\n\n其中投信則是逆勢買超，投信今日由賣轉買，合計買超11.41億元。自營商則持續賣超167.06億元，其中自行買賣買超56.78億元，避險操作賣超110.28億元。\n\n台股今日震盪走低，加權指數終場收在45,857點，下跌307點，失守4萬6千點關卡。成交金額約9,892億元；權王台積電（2330）終場收在2,390元，上漲5元。\n\n湯暖萱／財經特派記者，主跑主計處、營建、百貨紡織等",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-09-03",
       "Time": "15:14:02",
@@ -130,6 +200,16 @@
       "Title": "【Follow法人】外資賣不停再砍481億元！連2日提款1395億元 台股失守4萬6",
       "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E8%B3%A3%E4%B8%8D%E5%81%9C%E5%86%8D%E7%A0%8D481%E5%84%84%E5%85%83%EF%BC%81%E9%80%A32%E6%97%A5%E6%8F%90%E6%AC%BE1395%E5%84%84%E5%85%83-%E5%8F%B0%E8%82%A1%E5%A4%B1%E5%AE%884%E8%90%AC6-071402991.html",
       "Content": "台股今（3）日震盪走低，終場下跌307點，失守4萬6千點關卡。三大法人同步站在賣方，合計賣超637.11億元，其中外資今日再賣超481.45億元，呈現連2賣，兩日累計提款1,394.99億元。\n\n外資再砍481億元 三大法人同步站賣方\n\n根據證交所公布籌碼動向，三大法人今日合計賣超637.11億元。其中，外資今日再砍481.45億元，呈連2賣，累計賣超1,394.99億元。\n\n投信則是逆勢買超，投信今日由賣轉買，合計買超11.41億元。自營商則持續賣超167.06億元，其中自行買賣買超56.78億元，避險操作賣超110.28億元。\n\n台股今日震盪走低，加權指數終場收在45,857點，下跌307點，失守4萬6千點關卡。成交金額約9,892億元；權王台積電（2330）終場收在2,390元，上漲5元。\n\n湯暖萱／財經特派記者，主跑主計處、營建、百貨紡織等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "15:11:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "大華銀投信Q4看好「美台韓」AI金三角，台股具三大關鍵利多支撐",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E8%8F%AF%E9%8A%80%E6%8A%95%E4%BF%A1q4%E7%9C%8B%E5%A5%BD-%E7%BE%8E%E5%8F%B0%E9%9F%93-ai%E9%87%91%E4%B8%89%E8%A7%92-%E5%8F%B0%E8%82%A1%E5%85%B7%E4%B8%89%E5%A4%A7%E9%97%9C%E9%8D%B5%E5%88%A9%E5%A4%9A%E6%94%AF%E6%92%90-071111541.html",
+      "Content": "【財訊快報／記者劉居全報導】大華銀投信今(3)日舉辦第四季展望記者會，大華銀投信執行副總張耿豪指出，全球金融市場迎來2026年第四季關鍵轉折期，全球經濟當前正處於「消費端降溫、AI資本支出高企與聯準會政策僵局」的三方角力中。展望第四季台股行情，大華銀投信指數量化投資部門主管郭修誠指出，全球AI浪潮已由一階的「硬體建置」快速推進至二階的「終端應用與邊緣運算（Edge AI）爆發期」。身為全球半導體與伺服器製造心臟的台灣，供應鏈獲利動能將呈現跨年度的階梯式成長，預估台股上市公司盈餘在2026下半年修正後將快速築底，並於2027年迎來雙位數的第二波獲利潮。\n\n在投資亮點方面，台股具備三大關鍵利多支撐：一、AI實質獲利轉化：GB200與新世代晶片平台於2026年第四季起全面量產出貨，邊緣AI如AI PC、AI手機滲透率將在2027年突破40%大關，帶動散熱模組、高階PCB及先進封裝供應鏈營收步入歷史高峰。\n\n二、金控資本結構強化與股利政策升級：受惠海外投資收益回升與壽險業接軌順利，金融股獲利基底紮實，預估2027年金融業現金股利發放總額將創歷史新高，提供大盤堅實的下檔殖利率支撐。\n\n三、資金效應與評價重估：高股息ETF資金龐大，搭配外資在2026年底回補低本益比優質股，被動與主動資金共振將持續推升企業價值重估（Rerating）。\n\n郭修誠表示，面對台股大盤處於歷史高估值區間（預估本益比逾21倍）及潛在波動，大華銀投信推出「美、台、韓AI黃金金三角」旗艦配置策略，大華美國MAG7+（009815）、大華優利高填息30（00918）與大華韓國KOSPI 50（009829）聯手，提供投資人掌握全球AI供應鏈與高息防禦的雙重優勢。",
       "Language": "zh"
     },
     {
@@ -263,6 +343,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-03",
+      "Time": "14:33:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》智慧化農業—DE、AGCO、CNH",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%99%BA%E6%85%A7%E5%8C%96%E8%BE%B2%E6%A5%AD-agco-cnh-063300199.html",
+      "Content": "MoneyDJ新聞 2026-09-03 14:33:07 數位內容中心 發佈\n\nDeere（DE.US）\n\nAGCO（AGCO.US）\n\n2026/09/01起，AGCO啟用加州Visalia新零件配送中心，面積115,000平方英尺，西岸零件容量提升至原先2倍以上。此次擴建同步導入倉儲自動化與智慧預測，將智慧農機競爭延伸到備件供應與服務效率。\n\nCNH Industrial（CNH.US）\n\n2026/09/01，CNH Industrial宣布與Bourgault Industries建立策略聯盟，將透過CNH經銷網供應聯名播種設備，並與FieldOps平台串接。首批2028年式產品將自2027/02起開放接單，主軸鎖定精準播種air drill systems與高容量air carts。\n\nCorteva（CTVA.US）\n\n2026年第4季，Corteva預計拆分為兩家獨立上市公司，由Vylor承接種子與基因授權業務，Corteva保留作物保護。這次分拆把種業科技與作保業務拆開，對應數位育種、性狀平台與農場決策服務的獨立推進路線。\n\nLindsay（LNN.US）\n\n近期市場數據顯示，Lindsay第2季營收為1.608億美元，雖年減5.1%，但中東與北非大型灌溉專案仍按計畫推進。其核心產品涵蓋Zimmatic灌溉系統與自動化監測，反映智慧灌溉需求在部分區域仍持續落地。\n\nValmont Industries（VMI.US）\n\nValmont Industries近期與智慧農業最相關的訊號，來自灌溉自動化設備後市場服務。公司指出，2026年第2季農業事業售後零件銷售年增約6%，技術服務收入年增7%，顯示既有設備升級與維運需求仍在延續。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》3D列印—DDD、MTLS、XMTR\n\n《美股主題週報》電網設備現代化—PWR、ETN、GEV\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2303.TW",
       "Date": "2026-09-03",
       "Time": "14:30:39",
@@ -300,6 +390,16 @@
       "Title": "電子股下挫　台股殺尾盤跌307點失守46000點",
       "URL": "https://tw.news.yahoo.com/%E9%9B%BB%E5%AD%90%E8%82%A1%E4%B8%8B%E6%8C%AB-%E5%8F%B0%E8%82%A1%E6%AE%BA%E5%B0%BE%E7%9B%A4%E8%B7%8C307%E9%BB%9E%E5%A4%B1%E5%AE%8846000%E9%BB%9E-062914256.html",
       "Content": "（ 中央社記者鍾榮峰 台北3日電） 美國 和伊朗局勢緊張， 國際油價 高檔牽動升息疑慮和債市波動，日韓股市午盤後下殺，牽動 台股 翻黑挫跌，上下波動近680點，電子股下挫，印刷電路和載板、記憶體、光電、塑膠、被動元件等類股回落，尾盤加權指數挫跌逾300點，失守46000點大關。\n\n終場加權指數下跌307.06點，收45857.66點，5日線約46 2 92點得而復失，成交量 新台幣9462 .71億元，連續2個交易日量能均未突破兆元，電子指數下殺跌0.85%，金融指數勁揚2.19%，代表中小型股的櫃買OTC指數挫跌2.88%。\n\n權王 台積電終場收2390元 ，上漲 5元 ，漲幅0.21%， 電子權值股 聯發科收4340元，漲1.52%，台達電收1760元，漲1.73%，鴻海翻黑收247.5元，跌1.39%。日月光投控收平盤589元，聯電收125元，跌0.79%。\n\n記憶體族群南亞科收477.5元，跌7.82%，印刷電路板廠欣興收923元，跌5.14%，IC載板廠南電跌停1080元，被動元件大廠國巨收511元，跌5.37%，力積電收67.8元，跌3.69%，大立光收7150元，跌8.45%。\n\n台塑四寶回檔，南亞收221元，跌6.95%，台塑收65.7元，跌1.65%，台化收69.7元，跌4.26%，台塑化收76.5元，跌2.8%。\n\n股價超過千元的高價股漲跌互見，華碩、旭隼、玉晶光跌出千元，高價股守「47千金」。\n\n台新投顧總經理 黃文清 指出，台股今天走勢區間震盪，成交量仍未放大，個股表現。族群輪動。\n\n黃文清表示，台股基本面仍有題材，加上SEMICON國際半導體展持續登場，帶動人工智慧AI題材熱度，不過成交未放量，指數不易大漲，後續關注美國和伊朗局勢變化、國際油價是否回落降低通膨變數，以及美國長期公債殖利率對美科技股估值影響。\n\n台新台灣中小主動式ETF基金經理人沈建宏表示，美國10年債殖利率維持4.5%以上，恐牽動科技股評價，此外美台企業公布財報後，科技業基本面題材處於空窗期，預期9月台股維持震盪格局，長線來看AI成長趨勢未變，可留意新題材與輪漲。（編輯：楊凱翔）1150903",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-03",
+      "Time": "14:22:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "大華銀投信點名台股3利多　曝「美、台、韓 AI黃金金三角」旗艦配置策略",
+      "URL": "https://tw.news.yahoo.com/%E5%A4%A7%E8%8F%AF%E9%8A%80%E6%8A%95%E4%BF%A1%E9%BB%9E%E5%90%8D%E5%8F%B0%E8%82%A13%E5%88%A9%E5%A4%9A-%E6%9B%9D-%E7%BE%8E-%E5%8F%B0-%E9%9F%93-062255860.html",
+      "Content": "大華銀投信今日舉辦第四季展望記者會，展望 台股 行情，指數量化投資部門主管 郭修誠 指出，全球AI浪潮已由一階的「硬體建置」快速推進至二階的「終端應用與邊緣運算（Edge AI）爆發期」。身為全球半導體與伺服器製造心臟的台灣，供應鏈獲利動能將呈現跨年度的階梯式成長，預估台股上市公司盈餘在下半年修正後將快速築底，並於2027年迎來雙位數的第二波獲利潮。\n\n投資亮點方面，台股具備三大關鍵利多支撐：\n\n1. AI實質獲利轉化GB200與新世代晶片平台於2026年第四季起全面量產出貨，邊緣AI如AI PC、AI手機滲透率將在2027年突破40%大關，帶動散熱模組、高階PCB及先進封裝供應鏈營收步入歷史高峰。\n\n2. 金控資本結構強化與股利政策升級受惠海外投資收益回升與壽險業接軌順利，金融股獲利基底紮實，預估2027年金融業現金股利發放總額將創歷史新高，提供大盤堅實的下檔殖利率支撐。\n\n3. 資金效應與評價重估高股息ETF資金龐大，搭配外資在2026年底回補低本益比優質股，被動與主動資金共振將持續推升企業價值重估（Rerating）。\n\n郭修誠進一步提到，隨著台股高檔震盪，兼具資本增值與配息防守能力的資產成為資金避風港。大華銀投信旗艦產品—— 大華優利 高填息30（00918）展現出極佳的長期回報韌性。00918資產規模已突破1150億元大關，躍居台股高息類型ETF第五大。\n\n在配息與填息表現方面，00918近四次單次配息率加總達11.71%，且在過去13次除息紀錄中共有10次成功完成填息，填息成功率高達77%。\n\n<img alt=\"\" class=\"rounded-lg\" height=\"581\" loading=\"lazy\" src=\"https://s.yimg.com/lo/mysterio/api/a6369c2ca3766082eea82bc2a7be94b378e60f72fea1a586f93d95ec6c9246a9/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat",
       "Language": "zh"
     },
     {
