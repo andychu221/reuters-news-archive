@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-04T13:11:26.436Z",
-  "total_news_count": 1458,
+  "last_updated": "2026-09-04T13:32:15.447Z",
+  "total_news_count": 1460,
   "news": [
+    {
+      "Ticker": "NXPI",
+      "Date": "2026-09-04",
+      "Time": "20:52:00",
+      "Source": "Yahoo Finance",
+      "Title": "Implied Volatility Surging for NXP Semiconductors Stock Options",
+      "URL": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-nxp-semiconductors-125200473.html",
+      "Content": "Investors in NXP Semiconductors N.V. NXPI need to pay close attention to the stock based on moves in the options market lately. That is because the Sep 18, 2026 $130 Call had some of the highest implied volatility of all equity options today.\n\nWhat is Implied Volatility?\n\nImplied volatility shows how much movement the market is expecting in the future. Options with high levels of implied volatility suggest that investors in the underlying stocks are expecting a big move in one direction or the other. It could also mean there is an event coming up soon that may cause a big rally or a huge sell-off. However, implied volatility is only one piece of the puzzle when putting together an options trading strategy.\n\nWhat do the Analysts Think?\n\nClearly, options traders are pricing in a big move for NXP Semiconductors shares, but what is the fundamental picture for the company? Currently, NXP Semiconductors is a Zacks Rank #3 (Hold) in the Semiconductor - Analog and Mixed industry that ranks in the Top 9% of our Zacks Industry Rank. Over the last 60 days, seven analysts have increased their earnings estimates for the current quarter, while none have revised their estimates downward. The net effect has taken our Zacks Consensus Estimate for the current quarter from $3.99 per share to $1.14 in that period.\n\nGiven the way analysts feel about NXP Semiconductors right now, this huge implied volatility could mean there's a trade developing. Oftentimes, options traders look for options with high levels of implied volatility to sell premium. This is a strategy many seasoned traders use because it captures decay. At expiration, the hope for these traders is that the underlying stock does not move as much as originally expected.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "LRCX",
+      "Date": "2026-09-04",
+      "Time": "20:50:00",
+      "Source": "Yahoo Finance",
+      "Title": "Is the Options Market Predicting a Spike in Lam Research Stock?",
+      "URL": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-lam-125000084.html",
+      "Content": "Investors in Lam Research Corporation LRCX need to pay close attention to the stock based on moves in the options market lately. That is because the Sep 4, 2026 $195 Call had some of the highest implied volatility of all equity options today.\n\nWhat is Implied Volatility?\n\nImplied volatility shows how much movement the market is expecting in the future. Options with high levels of implied volatility suggest that investors in the underlying stocks are expecting a big move in one direction or the other. It could also mean there is an event coming up soon that may cause a big rally or a huge sell-off. However, implied volatility is only one piece of the puzzle when putting together an options trading strategy.\n\nWhat do the Analysts Think?\n\nClearly, options traders are pricing in a big move for Lam Research shares, but what is the fundamental picture for the company? Currently, Lam Research is a Zacks Rank #2 (Buy) in the Electronics – Semiconductors industry that ranks in the Top 19% of our Zacks Industry Rank. Over the last 60 days, eight analysts have increased their earnings estimates for the current quarter, while none have revised their estimates downward. The net effect has taken our Zacks Consensus Estimate for the current quarter from $1.80 per share to $2.15 in that period.\n\nGiven the way analysts feel about Lam Research right now, this huge implied volatility could mean there's a trade developing. Oftentimes, options traders look for options with high levels of implied volatility to sell premium. This is a strategy many seasoned traders use because it captures decay. At expiration, the hope for these traders is that the underlying stock does not move as much as originally expected.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-04",
@@ -13,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-09-04",
       "Time": "20:40:00",
       "Source": "Yahoo Finance",
