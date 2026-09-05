@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-05T23:00:50.825Z",
-  "total_news_count": 303,
+  "last_updated": "2026-09-05T23:34:21.634Z",
+  "total_news_count": 304,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-09-06",
+      "Time": "06:58:25",
+      "Source": "Yahoo Finance",
+      "Title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html",
+      "Content": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ: INTC ) to $92 from $109. Mizuho's note reads more bullish on INTC's business than the price target suggests, but the firm is stopping short of turning bullish.\n\nThe firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server refreshes, and improving PC demand and potential foundry growth. However, CPU supply constraints and near-term multiple compression on Agentic AI stocks keep the Wall Street firm on the sidelines.\n\nThe Case for Optimism\n\nThe first operating tailwind Mizuho notes for Intel is server OEMs reporting accelerating Agentic-AI demand into 2027. This demand is not only driving higher token usage but also improving CPU to GPU ratio in AI infrastructure, i.e. the ratio of CPUs to GPUs deployed in servers. This is an important aspect considering CPUs act as managers and directors to GPUs even though GPUs do the heavy weight work.\n\nRecent server refreshes are also driving some of the upside for Intel. Meanwhile, corporate PC refresh activity is also beginning to materialize. On the foundry side, the firm expects Advanced Packaging Revenue to reach $3.5 billion by 2029, with external foundry customers for Intel's 14A process likely to add another $3.5 billion.\n\nIntel May Undership Demand\n\nWhile stronger demand is a good sign, CPU supply constraints could be a problem for Intel if the company is unable to fully meet improving demand. Mizuho noted that Intel's CPU customers may face supply constraints that could lead them to face shortages next year.\n\nWhile supply shortages are usually an avenue for supporting prices, they may also limit unit growth and pave way for competitors.\n\nA valuation problem also exists for Intel, as it does for other Agentic AI stocks. However, it is worth noting that while tailwinds are supported by specific figures or percentages, the reported justification for cutting the price target appears to reflect on multiple compression for Agentic AI stocks. This makes the call less about deteriorating fundamentals and more about how much investors should be paying for those fundamentals today.\n\nAnalysis and Bottom-line\n\nSmart money positioning has become considerably more constructive on Intel. As per Insider Monkey's database tracking more than a thousand hedge funds, 138 hedge funds held INTC at the end of the second quarter, up from 112 in the prior one.\n\nNotable holders include Coatue Management and AQR Capital Management, with roughly 12.08 million shares and 10.74 million shares in Intel respectively.\n\nStory Continues\n\nInstitutional interest increasing for Intel is a sign that investors are willing to bet on Intel's turnaround story.\n\nOverall, it can be safe to say that Intel's AI opportunity is becoming increasingly difficult to ignore. Agentic AI demand is increasing, traditional servers are entering a refresh cycle, while advanced packaging and foundry services offer additional upside. However, CPU supply constraints and limited near-term stock upside could temper the investment case.\n\nWhile we acknowledge the potential of INTC as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nA valuation problem also exists for Intel, as it does for other Agentic AI stocks. However, it is worth noting that while tailwinds are supported by specific figures or percentages, the reported justification for cutting the price target appears to reflect on multiple compression for Agentic AI stocks. This makes the call less about deteriorating fundam",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-06",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-09-06",
       "Time": "06:40:17",
       "Source": "Yahoo Finance",
