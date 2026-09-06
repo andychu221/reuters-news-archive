@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T08:28:26.836Z",
-  "total_news_count": 232,
+  "last_updated": "2026-09-06T09:28:52.709Z",
+  "total_news_count": 230,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -3217,34 +3217,6 @@
       "Related_Score": 2,
       "Sentiment_Score": 0,
       "Keywords": "處置股票,注意股,人工撮合,上市櫃"
-    },
-    {
-      "Ticker": "2303.TW, 2344.TW, 6770.TW",
-      "Date": "2026-08-07",
-      "Time": "17:15:13",
-      "Source": "自由時報",
-      "Title": "群創大暴走！「這群人」伸魔爪突襲 近百萬股東血流不止",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5532188",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週五指數收跌170點，失守季線，外資轉為賣超407.16億元。\n• 外資大舉賣超群創（3481）逾5萬張，導致股價大跌2.9%，收盤價為47.55元，成交量達27.08萬張。\n• 外資賣超前十大個股中，包含華邦電（2344）、聯電（2303）、力積電（6770）等。",
-      "Related_Score": 4,
-      "Sentiment_Score": -1,
-      "Keywords": "外資賣超,權值股,指數修正,個股重挫"
-    },
-    {
-      "Ticker": "2303.TW",
-      "Date": "2026-08-07",
-      "Time": "16:48:24",
-      "Source": "自由時報",
-      "Title": "緯創一路狂瀉！兇手抓到了 36萬股東哀號",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5532141",
-      "Content": "〔財經 ...",
-      "Language": "zh",
-      "AI_Summary": "• 台股週五指數收跌170點，失守季線，投信轉為賣超25.6億元。\n• 緯創（3231）遭投信砍逾萬張，股價連3跌，跌幅擴大至3.17%，收盤價為183.5元，近3天股價跌幅達5.89%。\n• 投信賣超前十大個股中，包含聯電（2303）、上銀（2049）、國巨（2327）等。",
-      "Related_Score": 4,
-      "Sentiment_Score": -1,
-      "Keywords": "投信賣超,權值股,指數修正,個股重挫"
     }
   ]
 }
