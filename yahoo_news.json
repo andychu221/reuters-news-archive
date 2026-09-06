@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T18:34:01.608Z",
-  "total_news_count": 409,
+  "last_updated": "2026-09-06T18:34:30.622Z",
+  "total_news_count": 410,
   "news": [
     {
       "Ticker": ".TWII",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-09-07",
+      "Time": "01:35:45",
+      "Source": "Yahoo Finance",
+      "Title": "KeyBanc warns Apple’s iPhone 18 launch may be a negative catalyst for shares",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/keybanc-warns-apple-iphone-18-173545777.html",
+      "Content": "Investing.com -- Apple's Sept. 9 iPhone launch event could become a negative catalyst for its shares as investors focus on pricing and the impact of higher costs on demand and margins.\n\nKeyBanc Capital Markets said in a research note that Apple could either raise prices broadly to offset gross-margin pressure, potentially hurting unit volumes and triggering \"sticker shock,\" or raise prices more selectively, which could put greater scrutiny on margins and raise the prospect of further increases later.\n\nKeyBanc maintained an Underweight rating on Apple and a $250 price target, compared with a reported share price of $324.96 in the note.\n\nKeyBanc expects Apple to unveil three new iPhones at the event: the iPhone 18 Pro, iPhone 18 Pro Max and a first-generation foldable iPhone, referred to as the Fold/Ultra. It also expects two new Apple Watch models, new AirPods and further clarity on the timing of iOS 27.\n\nThe iPhone 18 Pro is expected to retain a 6.3-inch display while gaining an A20 Pro chip, a C2 modem and a variable-aperture camera. The Pro Max is expected to keep its 6.9-inch display and receive a larger battery, while the Fold/Ultra could feature a 5.5-inch display when closed and a 7.8-inch screen when opened.\n\nKeyBanc expects total iPhone 18 builds at about 80 million units in the fourth quarter of fiscal 2026 and first quarter of fiscal 2027, down from roughly 91 million a year earlier. It attributed the expected decline largely to the absence of a base iPhone 18 model, with higher pricing and a richer product mix expected to partly offset lower volumes.\n\nThe brokerage is modeling a $150 increase for the iPhone 18 Pro to $1,249, a $200 increase for the Pro Max to $1,399, and a $2,199 price for the Fold/Ultra.\n\nHistorically, Apple shares have tended to weaken around iPhone announcements, according to KeyBanc. The stock has averaged a 0.72% decline on the announcement day over the past five years and a 1.22% decline five trading days later.\n\nKeyBanc warns Apple's iPhone 18 launch may be a negative catalyst for shares\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nWolfe Research outlines eight risks that could spark stock declines in 2026",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-07",
       "Time": "01:35:00",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, NVDA, AMD, AVGO, MU",
+      "Ticker": "NVDA, AMD, AVGO, MU",
       "Date": "2026-09-07",
       "Time": "01:34:01",
       "Source": "Yahoo Finance",
