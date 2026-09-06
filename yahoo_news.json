@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-06T23:25:46.041Z",
-  "total_news_count": 441,
+  "last_updated": "2026-09-06T23:34:29.677Z",
+  "total_news_count": 442,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM, NVDA",
       "Date": "2026-09-07",
       "Time": "06:51:01",
       "Source": "Yahoo Finance",
@@ -13,7 +13,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "GOOGL, NVDA",
+      "Ticker": "AAPL",
+      "Date": "2026-09-07",
+      "Time": "06:48:34",
+      "Source": "Yahoo Finance",
+      "Title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
+      "URL": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
+      "Content": "Apple Inc. (NASDAQ: AAPL ) raised the price of Apple TV in the U.S. to $14.99 a month from $12.99 and increased the individual Apple One bundle to $21.95 a month from $19.95, CNBC reported.\n\nApple TV launched in 2019 at $4.99 a month and has since added significant content, including the film \"F1\" and a fourth season of \"Ted Lasso.\" The move follows a $1-a-month increase to Apple Music in July, which Apple attributed to licensing costs. Apple reported $30.7 billion in services revenue for its fiscal third quarter, up 12% year over year. The segment's gross margin fell more than a percentage point sequentially, which the company blamed on product mix and foreign exchange headwinds.\n\nBull Case\n\nThe higher price shows a genuinely larger content library, not just a margin grab. Apple TV launched with limited programming at $4.99 a month. It now includes award-winning originals like \"Severance\" and blockbuster films like \"F1\" and gives Apple a stronger case that the price increase tracks real value added rather than outpacing what subscribers get.\n\nApple Inc. (NASDAQ: AAPL ) is raising prices in step with the rest of the industry, not standing out as an outlier. Netflix, Hulu, Disney+, and Peacock have all raised their own prices recently, reducing the competitive and reputational risk that price-sensitive subscribers abandon Apple TV specifically for a cheaper alternative.\n\nServices remains a genuine growth engine with real momentum behind it. Revenue in the segment grew 12% to $30.7 billion in the fiscal third quarter, and price increases across Apple TV, Apple Music, and Apple One bundles all flow directly into that high-margin, recurring revenue line, reinforcing one of Apple's most valuable businesses beyond hardware sales.\n\nBear Case\n\nThe price increase could still test Apple TV's ability to retain subscribers. Apple Inc. (NASDAQ: AAPL ) is asking customers to pay more for a service that competes with larger streaming platforms, and repeated price increases could push some price-sensitive subscribers to cancel or switch to alternatives. Since Apple does not disclose standalone Apple TV subscriber numbers, investors have limited visibility into how much churn previous price increases have caused or how much more pricing power the service actually has.\n\nThis is a frequent, compounding pattern of increases that risks subscriber fatigue. The price has now risen multiple times since 2019, with this hike arriving just weeks after Apple raised Apple Music prices too, and repeated increases across several bundled services in quick succession raise real risk of subscriber pushback or cancellations, particularly for a product with a smaller content library than key rivals.\n\nStory Continues\n\nApple TV remains a smaller, narrower service than the rivals it is now priced closer to. Even after this increase, Apple TV's content library is a fraction of Netflix's or Disney+'s total catalog. It simply means Apple is now charging closer to what larger platforms charge without yet matching their scale of content.\n\nHedge Fund Data\n\nInsider Monkey's database shows Apple Inc. (NASDAQ: AAPL ) was held by 169 hedge funds in the second quarter of 2026, essentially flat from 170 in the first quarter, with total holdings valued at $124.80 billion, up from $107.48 billion. Netflix, the streaming rival most often compared to Apple TV on price and content, was held by 121 funds worth $9.95 billion, down from 144 funds a quarter earlier. Apple's fund count held steady while Netflix's declined notably over the same period.\n\nConclusion\n\nApple's price increase looks reasonable given the growth of its Apple TV+ content library and the broader trend of streaming services raising prices. Nonetheless, the higher cost could test subscriber loyalty, especially because Apple does not disclose standalone Apple TV+ subscriber numbers. It makes it difficult for investors to gauge how much churn the hike could cause. Overall, the increase should support Services revenue as long as Apple can retain subscribers and demonstrate enough value to justify the higher price.\n\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nApple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.\n\nApple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S. Bull Case\n\nThe price increase could still test Apple TV's ability to retain subscribers. Apple Inc. (NASDAQ:<a href=\"https://finance.yahoo.com/quote/AAPL\" data-ylk=\"slk:AAPL;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, GOOGL, NVDA",
       "Date": "2026-09-07",
       "Time": "06:31:47",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AMD",
+      "Ticker": "INTC, NVDA, AMD",
       "Date": "2026-09-07",
       "Time": "06:30:01",
       "Source": "Yahoo Finance",
