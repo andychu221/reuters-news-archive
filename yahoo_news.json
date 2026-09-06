@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-06T20:34:15.500Z",
-  "total_news_count": 424,
+  "last_updated": "2026-09-06T20:34:34.868Z",
+  "total_news_count": 425,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-09-07",
+      "Time": "04:16:09",
+      "Source": "Yahoo Finance",
+      "Title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
+      "Content": "CNBC reported that Apple Inc. (NASDAQ: AAPL ) announced new Mac Mini and Mac Studio models with updated chips built for AI workloads.\n\nThe Mac Mini now offers Apple's new M6 chip, its first built on a 2-nanometer process, or an M5 Pro, and starts at $899, up from $799 for the prior model. Apple says the M6 delivers 4 times faster AI performance and 2 times faster graphics than the M4 model it replaces, while the M5 Pro can process large language model prompts up to 8.5 times faster than the M2 Pro version. The Mac Studio now starts at $2,499 with the M5 Max chip or $5,499 with the new M5 Ultra, up from $5,299 for the prior Ultra model, and multiple M5 Ultra units can be linked together to pool memory for running large AI models. \"With these frameworks and new chips, developers can run and fine-tune large AI models locally on their Mac,\" Apple said. Preorders opened Tuesday, with units shipping September 22.\n\nBull Case\n\nThe performance gains here are substantial, not incremental. The M6 chip delivers 4 times faster AI performance and is Apple Inc. (NASDAQ: AAPL )'s first chip built on a 2-nanometer process. The M5 Pro configuration processes large language model prompts 8.5 times faster than the model it replaces, Apple's own specifications show, giving Apple genuine technical claims to back its AI-focused marketing.\n\nApple is showing pricing power even as component costs rise industry-wide. Despite memory and silicon shortages pushing costs higher across the industry, Apple raised prices on both product lines rather than absorbing the cost pressure itself. It is a sign the company believes demand can bear higher price points.\n\nThese desktops are becoming more strategically important to Apple than their revenue alone suggests. It shows how Mac desktops have become a foothold in the AI development world for Apple. It is a showcase for its custom silicon that can influence which platform developers build AI tools on and an ecosystem benefit that extends beyond the sale of any individual machine.\n\nBear Case\n\nThe price increases land directly on the customer, not on Apple Inc. (NASDAQ: AAPL )'s margin cushion since the Mac Mini's entry price has risen from $599 at its 2024 launch to $899 now, a jump of roughly 50% in two years. The increases are linked to memory and silicon cost pressures rather than a deliberate premium repositioning. It means Apple may be passing through cost increases rather than capturing additional margin.\n\nMac desktops remain a small part of Apple's overall business regardless of how compelling the AI upgrades are. Mac Mini and Mac Studio sales are a fraction of what iPhone contributes to Apple's revenue, so even meaningful technical improvements to these product lines are unlikely to move Apple's overall financial results in any given quarter.\n\nStory Continues\n\nThe unusual timing suggests this may be a reactive move rather than a planned showcase. Apple made this announcement weeks ahead of its typical fall product event, catching much of the market by surprise, a pattern that can reflect competitive urgency to keep pace with AI-capable PCs from rivals as much as it shows a carefully sequenced product strategy.\n\nHedge Fund Data\n\nInsider Monkey's database shows Apple Inc. (NASDAQ: AAPL ) was held by 169 hedge funds in the second quarter of 2026, essentially flat from 170 in the first quarter. Microsoft, the closest large-cap technology peer by fund ownership, was held by 273 funds worth $66.51 billion, down slightly from 282 funds a quarter earlier.\n\nConclusion\n\nApple's new Mac Mini and Mac Studio boost its on-device AI strategy. But high prices and small desktop sales limit the immediate financial payoff. If better AI performance drives new buyers without cutting overall sales, Apple will widen its chip advantage and make the Mac essential for AI developers. However, rising component costs and high prices could easily squeeze customer demand. While these desktop upgrades clearly improve Apple's AI market position, investors still need to see stronger overall Mac sales before these chips make a real impact on the bottom line.\n\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nApple (AAPL)'s New Mac Mini and Studio Bet Big on On-Device AI\n\nApple (AAPL)'s New Mac Mini and Studio Bet Big on On-Device AI Bull Case\n\nThe price increases land directly on the customer, not on Apple Inc. (NASDAQ:<a href=\"https://finance.yahoo.com/quote/AAPL\" data-ylk=\"slk:AAPL;elm:context_link;itc:0;sec:",
+      "Language": "en"
+    },
     {
       "Ticker": "8035.T",
       "Date": "2026-09-07",
@@ -163,7 +173,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, NVDA, AMD, AVGO, MU",
+      "Ticker": "NVDA, AMD, AVGO, MU",
       "Date": "2026-09-07",
       "Time": "01:34:01",
       "Source": "Yahoo Finance",
