@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T07:28:59.604Z",
-  "total_news_count": 234,
+  "last_updated": "2026-09-06T08:28:26.836Z",
+  "total_news_count": 232,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -3245,34 +3245,6 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "投信賣超,權值股,指數修正,個股重挫"
-    },
-    {
-      "Ticker": "5347.TWO",
-      "Date": "2026-08-07",
-      "Time": "15:51:26",
-      "Source": "自由時報",
-      "Title": "晶圓出貨量減少 世界先進7月營收月減兩成",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5532052",
-      "Content": "〔記者林 ...",
-      "Language": "zh",
-      "AI_Summary": "• 世界先進（5347）7月合併營收為47.06億元，較6月歷史新高下滑21.26%，但年增30.25%。\n• 預估第3季晶圓出貨量季增1%至3%，平均銷售單價（ASP）季增2%至4%，毛利率預計落在32.5%至34.5%。\n• 第3季產能利用率預計提升至90%，並積極向外尋找設備以滿足後續擴產需求。",
-      "Related_Score": 5,
-      "Sentiment_Score": 0,
-      "Keywords": "營收月減,晶圓出貨量,產能利用率,AI伺服器,電源管理"
-    },
-    {
-      "Ticker": "2344.TW",
-      "Date": "2026-08-07",
-      "Time": "15:48:36",
-      "Source": "自由時報",
-      "Title": "華邦電7月營收267億元 月增近三成再締新猷",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5532038",
-      "Content": "〔記 ...",
-      "Language": "zh",
-      "AI_Summary": "• 華邦電（2344）7月營收267.73億元，月增29.98%，年增291.55%，創下新高紀錄。\n• 預期第三季記憶體價格將持續上漲，但漲幅可能不如前一波。\n• 預期2027年記憶體需求缺口將更難滿足，客戶有意提前簽訂長約至2030年。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "營收創高,記憶體價格,AI應用,長約"
     }
   ]
 }
