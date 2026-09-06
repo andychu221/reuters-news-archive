@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T06:28:39.176Z",
-  "total_news_count": 235,
+  "last_updated": "2026-09-06T07:28:59.604Z",
+  "total_news_count": 234,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -3273,20 +3273,6 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "營收創高,記憶體價格,AI應用,長約"
-    },
-    {
-      "Ticker": "8299.TWO",
-      "Date": "2026-08-07",
-      "Time": "15:05:07",
-      "Source": "自由時報",
-      "Title": "群聯7月營收271億元月增近一成 再創新高",
-      "URL": "https://ec.ltn.com.tw/article/breakingnews/5531980",
-      "Content": "〔記者林 ...",
-      "Language": "zh",
-      "AI_Summary": "• 群聯（8299）7月營收271.62億元，月增9%，年增超過377%，創下單月新高。\n• AI伺服器等需求暢旺是營收成長主因，累計前七月營收年增超過263%，創同期新高。\n• AI時代徹底改變NAND產業需求結構，AI工廠需要大量儲存空間，需求將呈現指數型成長。",
-      "Related_Score": 5,
-      "Sentiment_Score": 1,
-      "Keywords": "營收創高,AI伺服器,NAND儲存,指數型成長,企業級儲存"
     }
   ]
 }
