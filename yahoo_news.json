@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-07T01:10:50.885Z",
-  "total_news_count": 450,
+  "last_updated": "2026-09-07T01:26:20.557Z",
+  "total_news_count": 464,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-07",
+      "Time": "09:04:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股早盤漲逾600點 台積電漲30元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE600%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B230%E5%85%83-010428259.html",
+      "Content": "美國上周五公布8月新增就業人數遠高於預期，外界對於聯準會（Fed）升息抑制通膨的預期升高，4日美股多數收黑。台北股市今天（7日）開盤2分鐘後，漲674.46點，早盤加權指數為47225.59點。台積電漲30元至2440元。\n\n台股4日收在46551.13點，美股四大指數終場道瓊工業指數下跌271.86點或0.51%，收在53414.25點。標普500指數跌29.11點或0.38%，收7718.60點。那斯達克指數下跌77.07點或0.29%，收在26506.99點。費城半導體指數逆勢上漲383.133點或3.38%，收在11735.262點。AI晶片龍頭輝達（NVDA-US）上漲0.84%、台積電ADR上漲2.85%。",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-07",
@@ -13,6 +23,86 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:44:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "PIMCO低配美股七巨頭轉押亞洲，AI資本支出熱潮帶動設備鏈受青睞",
+      "URL": "https://tw.stock.yahoo.com/news/pimco%E4%BD%8E%E9%85%8D%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E9%A0%AD%E8%BD%89%E6%8A%BC%E4%BA%9E%E6%B4%B2-ai%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E7%86%B1%E6%BD%AE%E5%B8%B6%E5%8B%95%E8%A8%AD%E5%82%99%E9%8F%88%E5%8F%97%E9%9D%92%E7%9D%9E-004419418.html",
+      "Content": "【財訊快報／陳孟朔】外電報導，全球固定收益(債券)投資的絕對權威與領導品牌品浩(PIMCO)旗下旗艦60/40策略平衡收益與成長基金(Balanced Income and Growth Fund)正降低美國大型科技股配置，轉向亞洲AI設備供應商、中國金融與醫療保健股票。基金經理Emmanuel Sharef表示，隨著AI資本支出急速擴張，美國多家超大規模數據中心業者債務負擔增加，加上估值偏高與獲利前景不確定，目前已低配多數超大規模雲端業者及「美股七巨頭」。這檔基金規模接近190億美元，依外電彙整數據，過去三年績效優於97%的同類基金。Sharef指出，投資人不必持有市場上最昂貴的股票才能參與AI趨勢，目前PIMCO仍維持亞洲高配，主因亞洲企業獲利成長較強，且許多公司位居AI供應鏈較下游的位置，可直接受惠數據中心建設與硬體需求擴張。\n\nSharef認為，AI資本支出規模龐大，除GPU之外，也將大幅拉動半導體零組件、冷卻設備、電纜互聯、光學設備、電源、建築設備、金屬及其他數據中心基礎材料需求。這代表AI投資主線正由美國大型平台與軟體公司，逐步向亞洲硬體製造、供應鏈與基建設備業者擴散，與近期市場由軟體轉向AI硬體的資金輪動相互呼應。\n\n除亞洲AI設備鏈外，PIMCO也看好中國金融股以及生物科技、生命科學產業，並在過去約18個月持續增加醫療領域配置。Sharef表示，產業併購增加有助部分生技企業提升獲利預期，而AI技術進一步導入藥物研發，也可能擴大長期成長空間。整體而言，PIMCO的配置轉向顯示，機構投資人對AI多頭本身並未轉悲觀，而是開始迴避估值昂貴、資本支出與負債快速膨脹的美國大型科技股，尋找估值較低且更直接受惠AI基建支出的亞洲供應鏈標的。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:42:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "費半大漲隔天追高必套？ 9成散戶都搞錯 實操口訣大公開",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B2%BB%E5%8D%8A%E5%A4%A7%E6%BC%B2%E9%9A%94%E5%A4%A9%E8%BF%BD%E9%AB%98%E5%BF%85%E5%A5%97-9%E6%88%90%E6%95%A3%E6%88%B6%E9%83%BD%E6%90%9E%E9%8C%AF-%E5%AF%A6%E6%93%8D%E5%8F%A3%E8%A8%A3%E5%A4%A7%E5%85%AC%E9%96%8B-004200902.html",
+      "Content": "費半大漲隔天衝進場卻總是被套高點？分析師周代運表示：「總體大盤看美國，半導體情緒看台灣。」揭露半導體供應鏈早已轉由台股白天率先定調的市場實況。\n\n翻轉台美股連動迷思\n\n分析師周代運表示，許多投資人常遇到深夜看見費半指數大噴、新聞滿滿半導體利多，心裡盤算隔天開盤進場，以為外盤強勁台股必跟著水漲船高，結果隔天開高回檔直接被埋在短線高點。多數人檢討時常歸因於主力刻意殺散戶，但其實這是認知上的盲點。網路上常見「美股帶台股」的口號，放在大盤、金融或傳產族群確實成立，因為全球風險偏好、美元匯率與總體資金流動由美股主導；但只要切到半導體、IC設計、封測、PCB、記憶體這一整條台廠鏈，這套邏輯就會失效，照著做反而會反覆吃虧。\n\n台股白天已先定調\n\n周代運談到，圈內老盤手私底下的共識是總體大盤看美國，半導體情緒看台灣。關鍵在於交易時差，台股白天先開盤，整整半天的外資投信買賣、大戶試單調節與個股量價變化，就已經把市場對半導體的預期給定調下來。晚間費半的漲跌，很多時候不是給台股的領先訊號，更像是對白天台股盤勢的確認與補漲補跌。過去確實是台股跟著美股走，但觀察近5年開始，常常是台股白天先跑出方向，美股夜盤再跟進反應。\n\n拆解開高回檔真相\n\n周代運分析，這種主從關係能解釋不少令人困惑的盤面現象。當前一日台股科技股已經提前拉過一波，資金完成卡位，就算夜間費半繼續大漲，也只是落後的情緒延續而非全新利多。等到隔天早上散戶看新聞衝進場，預期早就反映在股價上，屬於標準的利多出盡，主力剛好趁樂觀順勢調節持股。反過來說，當費半夜間重挫，隔天台股卻殺不動甚至收紅，原因就在台股白天已經完成一輪回檔洗盤，賣壓釋放完畢，美股下跌只是跟隨台股走完的節奏，利空提前被價格消化，自然沒有繼續殺盤的動能。\n\n實務操作判讀原則\n\n周代運以近期盤勢為例，當時美股大盤偏弱收黑，唯獨費半逆勢大漲超過3%，討論區瀰漫樂觀氣氛，不少人預期隔天台股科技族群直接續攻。然而回頭看台股當日盤，存儲以及半導體權值股早有資金悄悄布局，盤面強度已先行反應，夜盤費半的上漲只是情緒加成，沒有帶來新的產業訊息，根本撐不起隔日無腦追高的行情。散戶很大一部分虧損來自拿大盤邏輯硬套在科技族群身上。實務上可記住簡單的分辨原則：大盤、傳產、金融類股多參考美股夜盤情緒；半導體這類台廠核心族群，優先看台股白天真實的量價與籌碼變化，美股僅拿來當驗證參考，絕不要當作進場的主要依據。\n\n（封面示意圖/AI生成）\n\n【<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement&quo",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".KS11, .SPX",
+      "Date": "2026-09-07",
+      "Time": "08:37:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "費半勁揚助攻，KOSPI跳空急漲3.30%、SK海力士大漲近6%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B2%BB%E5%8D%8A%E5%8B%81%E6%8F%9A%E5%8A%A9%E6%94%BB-kospi%E8%B7%B3%E7%A9%BA%E6%80%A5%E6%BC%B23-30-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%A4%A7%E6%BC%B2%E8%BF%916-003709809.html",
+      "Content": "【財訊快報／陳孟朔】韓股週一(7日)開市強勢跳空，韓國綜合股價指數(KOSPI)開盤大漲3.30%，權值電子雙雄領軍衝高，SK海力士漲近6%，三星電子漲逾4%。上週五美股三大指數雖因美債殖利率上升收黑，但半導體類股逆勢大漲，帶動亞洲晶片股週一開盤補漲。費城半導體指數上週五勁揚3.40%，成為美股盤面最強主線之一，記憶體與數據儲存類股漲勢尤其突出。Investopedia報導，閃迪上漲約12%，美光、威騰及希捷同步勁揚約6%，反映市場重新押注AI伺服器、記憶體及高頻寬記憶體(HBM)需求。\n\n在美國上市的SK海力士ADR(SKHY)上週五大漲13.32美元或8.14%，收在177美元，盤中最高觸及177.70美元，為首爾掛牌股票提供明確比價支撐。SK海力士身為輝達HBM核心供應商，其ADR強勢表現進一步推升韓國本地市場對AI記憶體族群的追價意願、在韓國掛牌的股價早盤大漲近6%。\n\n三星電子則受惠於記憶體族群全面走強及市場對HBM業務改善的預期，開盤漲幅超過4%。由於三星電子與SK海力士合計占KOSPI權重極高，兩檔股票同步跳升，成為韓股大盤開市急漲3.30%的主要動力；不過，美國週一適逢勞動節休市，韓股後續漲勢能否延續，將取決於外資買盤及半導體權值股能否守住早盤升幅。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-07",
+      "Time": "08:36:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年9月7日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B49%E6%9C%887%E6%97%A5-003634268.html",
+      "Content": "【統一證券】\n\n台股估將呈現震盪盤堅格局。操作建議低接不追高、選股以流動性佳的中大型AI權值股為主。\n\n【國票證券】\n\n美非農數據優於預期，美四大指數跌多漲少，費半指數逆勢上揚。台股有望挑戰47000點大關，可留意被動元件布局機會。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-07",
+      "Time": "08:35:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】法人看台股持續受美國利率牽動　短線難脫盤整格局",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E6%B3%95%E4%BA%BA%E7%9C%8B%E5%8F%B0%E8%82%A1%E6%8C%81%E7%BA%8C%E5%8F%97%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%8E%87%E7%89%BD%E5%8B%95-%E7%9F%AD%E7%B7%9A%E9%9B%A3%E8%84%AB%E7%9B%A4%E6%95%B4%E6%A0%BC%E5%B1%80-003532258.html",
+      "Content": "（中央社記者曾仁凱台北2026年9月7日電）台股上週高檔區間震盪，週五衝高693.47點，收在46551.13點，全週上漲219.68點或0.47%。法人看台股上有壓、下有撐，短線盤勢持續受到美國利率環境牽動，難脫盤整格局。\n\n美國上週五公布8月新增就業人數遠高於預期，外界對於聯準會（Fed）升息抑制通膨的預期升高，4日美股多數收黑。道瓊工業指數下跌271.86點或0.51%，收在53414.25點。標普500指數跌29.11點或0.38%，收7718.60點。\n\n以科技股為主的那斯達克指數下跌77.07點或0.29%，收在26506.99點。不過與台股關連性高的費城半導體指數逆勢上漲383.133點或3.38%，收在11735.262點。\n\n個股方面，DRAM族群大漲，記憶體模組廠Sandisk大漲185.01美元或11.9%，收1740美元，美光、SK海力士ADR也都上漲超過6%。另外輝達（NVIDIA）上漲1.91美元或0.84%，收230.36美元；台積電ADR也上漲11.9美元或2.85%，收428.91美元。\n\n永豐金投顧分析，由於中東戰事談談打打，局勢始終不能降溫，油價居高不下，使得美國通貨膨脹無法降溫，美國10年期公債殖利率突破4.7%，且聯準會態度搖擺，壓抑股市表現。加上美國期中選舉將至，市場觀望選舉結果。\n\n永豐金投顧表示，近期有FOMC（聯邦公開市場委員會）會議決策，11月則有美國期中選舉，市場觀望，預料台股短線難脫盤整格局。不過2026年上半年台股上市公司稅前淨利新台幣3.67兆元，較去年同期暴增92.9%，預計明年股息可望豐厚，沉寂多時的高股息題材有望發揮。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-09-07",
+      "Time": "08:35:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】費半助攻　台股有望叩關47000點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-%E8%B2%BB%E5%8D%8A%E5%8A%A9%E6%94%BB-%E5%8F%B0%E8%82%A1%E6%9C%89%E6%9C%9B%E5%8F%A9%E9%97%9C47000%E9%BB%9E-003530363.html",
+      "Content": "日期：2026年 9月 7日\n\n※盤勢分析\n\n非農強勁擾動升息預期，惟費半飆揚助攻，台股有望叩關四萬七\n\n※昨日盤勢\n\n受到聯準會理事華勒釋出偏鴿派言論激勵，市場預期只要通膨持續降溫，9\n\n月有望維持利率不變。帶動台股展現強烈的多頭反撲企圖心，早盤以45,991點紅\n\n開出後，多方買盤隨即大舉湧入權值股及被動元件，推升指數震盪走高，終場大\n\n漲693 點，收在46,551點，惟美中不足的是今日成交量萎縮至8,256億元，呈現\n\n典型的「價漲量縮」格局。權值股方面，台積電上漲0.83%、鴻海上漲3.43%、聯\n\n發科上漲1.72%、廣達上漲2.98%，台達電上漲3.69%。\n\n盤面強勢股，國巨*、華星光、華新科、高力、鼎元、禾伸堂、雙鴻、大量\n\n等漲停；奇鋐、仁寶、信昌電、合晶、微星、昇達科、玉晶光、富采、威盛等漲\n\n幅6%以上。盤面弱勢股，應廣、松崗、康控-KY等跌停；上詮、吉祥全、天良、\n\n其陽、東科-KY、禾瑞亞、金像電等跌幅5%以上。終場台灣加權指數上漲693.47\n\n點，以46551.13點作收，成交量8256.27億元。\n\n三大類股漲跌互見，電子上漲1.63%、傳產上漲0.89%、金融上漲1.17%。在\n\n次族群部份以電腦及週邊設備業、電機機械、電子零組件表現較佳，分別上漲\n\n4.69%、3.55%、2.63%。\n\n※資金動向\n\n三大法人合計買超616.72億元。其中外資買超562.13億元，投信賣超9.11億\n\n元，自營商買超63.7億元。外資買超前五大為仁寶、聯電、鴻海、緯創、國巨*\n\n；賣超前五大為臺企銀、群創、力積電、頎邦、友達。投信買超前五大為玉山金\n\n、彰銀、兆豐金、緯創、興富發；賣超前五大為華邦電、欣興、長興、富喬、南\n\n亞科。資券變化方面，融資增31.55億元，融資餘額為5818.95億元，融券減0.37\n\n萬張，融券餘額為21.92萬張。外資台指期部位，空單增加880口，淨空單部位\n\n82389口，借券賣出金額285.53億元。成交比重：電子87.98%、傳產8.97%、金融\n\n3.05%。\n\n※今日盤勢分析\n\n美國週五公布8月非農就業人口大增16.2萬人，遠優於市場預期的5.6萬人，\n\n失業率持平於4.1%，勞動市場強勁推升聯準會9月升息機率攀至六成；儘管美國\n\n總統川普公開施壓要求降息，但美伊荷莫茲海峽衝突升級帶動國際油價週線大漲\n\n逾9%，通膨疑慮再起使10年期美債殖利率升至4.78%，拖累道瓊、標普與那斯達\n\n克同步收黑。惟記憶體與AI硬體買盤強勁，費半逆勢大漲3.38%，台積電ADR上揚\n\n2.85%，激勵台指期夜盤強漲站上47,182點，今日台股有望順勢開高挑戰4萬7關\n\n台股後市分析如下：第一、蘋果將於台灣時間9月10日凌晨舉行秋季發表會\n\n，市場聚焦iPhone 18系列、首款折疊機iPhone 18Fold及新任執行長特納斯的\n\n首秀。規格方面，Pro系列預料將搭載台積電2奈米製程打造的A20 Pro晶片、自\n\n研C2數據機晶片，並導入可變光圈鏡頭技術；受零組件成本上揚影響，新機售價\n\n預計小幅調漲100美元或10%至20%。\n\n第二、受全球半導體先進製程與先進封裝擴產潮帶動，台灣五大廠務工程業\n\n者（漢唐、亞翔、帆宣、聖暉*、洋基工程）最新在手訂單合計已達8,807億元，\n\n若計入二次配等後段工程，整體規模已突破9,000億元。隨下半年海內外新一輪\n\n晶圓廠與先進封裝新案陸續發包，產業在手訂單總量將正式叩關兆元里程碑。\n\n第三、技術面觀察，週五大盤拉出一根紅K棒，並強勢站回所有均線之上。\n\n指標部分，KD 與 RSI 同步略微向上勾頭，短線動能重啟；MACD 亦維持紅柱體\n\n排列，顯示中多架構依然穩健。惟量能若能擴增至兆元以上，行情續航力將更具\n\n第四、盤面資金聚焦被動元件、光通訊、PCB等個股，包括國巨、華新科、\n\n華星光、聯一光、大量、騰輝電子-KY等表現強勢。\n\n※投資策略\n\n美就業數據意外強勁重燃升息押注，疊加美伊戰火推升油價與美債殖利率攀\n\n高，壓抑美股主要指數走勢；所幸費半逆勢上漲逾3%，台指期夜盤率先衝破4萬7\n\n千點大關，展現多方控盤底氣。本週台灣時間10日凌晨迎來蘋果秋季發表會，搭\n\n配台廠廠務工程在手訂單直逼兆元，加上金融類股創高助攻，下檔支撐力道強勁\n\n。惟地緣政治與升息拉鋸仍會造成高檔震盪，將呈現震盪盤堅格局。操作建議低\n\n接不追高、選股以流動性佳的中大型AI權值股為主。長線追蹤族群：台積電及先\n\n進製程/封裝、銅箔基板、光傳輸、電源管理、散熱、機箱滑軌、貨櫃散裝、自\n\n行車、特用化學及高殖利率銀行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:34:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI硬體類股上週五逆勢狂飆，費半抽高3.37%、閃迪飆揚12%領漲",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E7%A1%AC%E9%AB%94%E9%A1%9E%E8%82%A1%E4%B8%8A%E9%80%B1%E4%BA%94%E9%80%86%E5%8B%A2%E7%8B%82%E9%A3%86-%E8%B2%BB%E5%8D%8A%E6%8A%BD%E9%AB%983-37-%E9%96%83%E8%BF%AA%E9%A3%86%E6%8F%9A12-%E9%A0%98%E6%BC%B2-003433801.html",
+      "Content": "【財訊快報／陳孟朔】美國8月非農就業人口大增16.2萬人，遠高於市場預期，帶動9月聯準會(Fed)升息押注急升，美股三大指數上週五(4日)同步收黑，道瓊跌0.51%、標普500跌0.38%、那指跌0.29%。不過，科技股內部出現劇烈分化，AI算力、存儲、半導體設備及光通訊硬體逆勢吸金，費城半導體指數大漲3.37%，明顯跑贏大盤，反映強勁非農壓低整體估值之際，資金仍積極追逐AI基礎設施實質訂單與資本支出題材。存儲族群成為當日最強主線，閃迪(Sandisk)暴漲約12%，為標普500漲幅最大的成分股；SK海力士ADR勁揚約8.1%，希捷科技漲約6.3%，美光科技漲約6.1%，威騰電子漲約5.9%。其他半導體股同步走強，KLA大漲逾7%，Marvell漲逾7%，AMD漲約4.7%，英特爾漲約4.5%，應用材料漲約4.3%；美超微漲逾4.5%，Cerebras更飆升10.3%。輝達則相對溫和，收漲逾0.8%，但受惠戴爾最近一週上修AI伺服器全年展望，近三個交易日累計仍上漲近6%。Investopedia指出，存儲與其他AI相關硬體股是上週五(4日)標普500最突出的逆勢贏家。\n\n台積電ADR亦加入反彈行列，同日收在428.91美元，上漲11.90美元或2.85%，但漲幅仍略遜於費半的3.37%，顯示當日資金更集中追逐彈性較大的存儲、設備及AI硬體個股。光通訊族群同樣強勢，Coherent收漲約6.6%，康寧漲約5.7%，Lumentum漲約4%，反映AI數據中心投資焦點正由單純算力逐步擴大至高速光互聯與網路傳輸。\n\n《Barron&#x27;&#x27;s》指出，Globalt Investments資深投資組合經理Thomas Martin認為，上週五(4日)晶片股強勢與非農數據本身「幾乎沒有關係」，更主要反映資金持續由軟體轉向半導體與AI硬體；iShares Expanded Tech-Software ETF當天跌約2.4%，與費半勁揚形成鮮明對比。市場目前交易邏輯逐漸分成兩條線，一方面是「強勁非農、升息機率上升」壓抑大盤與高估值軟體股，另一方面則是「AI資本支出持續、存儲與高速互聯供需吃緊」支撐硬體供應鏈，令上週五(4日)盤面呈現大盤走弱、AI硬體全面走強的明顯分化。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX",
+      "Date": "2026-09-07",
+      "Time": "08:32:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【國票金控晨訊】台股估開於盤上　盤中挑戰47000點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A5%A8%E9%87%91%E6%8E%A7%E6%99%A8%E8%A8%8A-%E5%8F%B0%E8%82%A1%E4%BC%B0%E9%96%8B%E6%96%BC%E7%9B%A4%E4%B8%8A-%E7%9B%A4%E4%B8%AD%E6%8C%91%E6%88%B047000%E9%BB%9E-003228756.html",
+      "Content": "日期：2026年 9月 7日\n\n※操作建議與結論\n\n美非農數據優於預期，美四大指數跌多漲少 費半指數逆勢上揚\n\n台股有望挑戰47000點大關\n\n今日盤勢及未來走勢：(留意被動元件布局機會)\n\n美國8月非農就業數據優於市場預期，帶動美債殖利率上揚，並進一步推升\n\n市場升息預期，然費半指數在位於半年線支撐下，反倒逆勢走揚，終場美四大指\n\n數跌多漲少，幅度介於-0.51%至3.37%，台積電ADR上漲2.85%，台指期夜盤上漲\n\n473點，估今日台股開於盤上，盤中科技權值股或有買盤湧入，挹注指數挑戰\n\n47000點大關。\n\n※短線觀點\n\n隨著FOMC會議逐步逼近，市場對通膨、就業等總經數據的敏感度\n\n將明顯升高，短線股市震盪幅度恐隨之放大。不過上週五台股在午盤後買盤明顯\n\n回流，指數一路走高，不僅重新站回五日均線，週K線亦成功由黑翻紅，顯示多\n\n方仍占有一定優勢，預期指數仍有機會震盪走高，朝向歷史高挺進。\n\n※操作看法\n\n由於日韓大廠將產能優先配置於高階AI產品，使中低階MLCC供給\n\n逐漸出現缺口，產業再次出現供不應求與漲價契機。被動元件產業也因此逐步擺\n\n脫過去景氣循環的框架，轉向由AI、高速網通與車用電子所驅動的結構性成長趨\n\n勢，相關個股，可趁拉回時擇機佈局。\n\n※重點產業與族群：\n\n被動元件– 2327國巨、3090日電貿、6173信昌電\n\n產業觀點：AI伺服器已成為被動元件產業最重要的成長動能，產業結構也逐\n\n漸由過去受手機、PC需求影響的景氣循環模式，轉變為由AI、高速網通與車用電\n\n子驅動的結構性成長產業。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-09-07",
       "Time": "08:29:34",
@@ -21,6 +111,56 @@
       "URL": "https://finance.yahoo.com/technology/articles/microsoft-msft-outlook-openai-chatgpt-002934990.html",
       "Content": "On August 31, 2026, CNBC reported that Microsoft Corporation (NASDAQ: MSFT ) suffered a widespread Outlook and Exchange Online outage on August 31, with Downdetector reports peaking at 6,015 for Outlook and 2,044 for Microsoft 365. Microsoft said on its status page that \"users may experience degraded functionality with various Exchange Online functionalities\" while it reviewed service telemetry to find the cause.\n\nOn the same day, OpenAI's ChatGPT Work, its enterprise AI agent that competes directly with Microsoft's own Copilot and with Anthropic's Claude Cowork, suffered a separate roughly three-hour outage, leaving users across multiple plans unable to start or continue tasks. OpenAI confirmed full recovery by evening. There were no reports that the two outages were connected, though Microsoft and OpenAI remain closely tied through Microsoft's investment in and Azure infrastructure support for OpenAI.\n\nBull Case\n\nMicrosoft Corporation (NASDAQ:MSFT)'s scale makes the latest Outlook and Exchange outage relatively small compared with the company's broader growth. Microsoft generated record fiscal fourth-quarter revenue of $90.01 billion, up 18% year over year. Azure revenue surpassed $100 billion annually after growing 43% in the quarter. Those results show that one service disruption does not define Microsoft's much larger cloud and software business.\n\nEnterprise demand also remains strong. Commercial remaining performance obligations jumped 84% year over year to $678 billion. It gives Microsoft substantial contracted revenue ahead. Microsoft 365 Copilot also surpassed 30 million paid seats, while net seat additions more than doubled sequentially. That growth shows customers continue using Microsoft's broader productivity and AI ecosystem despite occasional service disruptions.\n\nInvestors have also started rewarding Microsoft's AI execution. The stock jumped roughly 17% after the company's July earnings report as Azure's accelerating growth gave investors stronger evidence that Microsoft can turn heavy AI infrastructure spending into higher revenue. Azure's continuous growth could keep supporting the investment case as demand for AI computing expands.\n\nOpenAI's ChatGPT Work outage gives little direct threat to Microsoft because Microsoft competes with ChatGPT Work through its own Copilot products while maintaining a broader cloud and software ecosystem. Microsoft also controls Azure, which gives the company a major position in the infrastructure layer supporting the AI industry. A competitor's service disruption does not materially undermine Microsoft's own AI opportunity.\n\nStory Continues\n\nBear Case\n\nRecurring email outages create a real reputational risk for Microsoft Corporation (NASDAQ:MSFT). Thousands of users rely on Outlook and Exchange for critical business communications, so repeated disruptions could undermine customer confidence in Microsoft's promise of reliable cloud services. Microsoft also had not identified the root cause as the latest outage unfolded. It adds to concerns about its ability to prevent similar incidents.\n\nMicrosoft also faces growing pressure from its AI infrastructure buildout. Management expects fiscal 2027 capital expenditures to reach $255 billion to $260 billion. Azure capacity remains constrained as customer demand exceeds available infrastructure. Microsoft must keep expanding data-center capacity to meet AI demand, which could pressure cash generation and increase the operational strain on its cloud network.\n\nMicrosoft's relationship with OpenAI creates another layer of risk. Azure hosts much of OpenAI's computing infrastructure, while ChatGPT Work increasingly competes with Microsoft 365 Copilot for enterprise AI spending. The partnership gives Microsoft exposure to OpenAI's growth, but it also creates strategic tension as both companies pursue the same enterprise customers and AI workloads.\n\nHedge Fund Data\n\nInsider Monkey's database shows Microsoft Corporation (NASDAQ:MSFT) was held by 273 hedge funds in the second quarter of 2026, down slightly from 282 in the first quarter, even as total holdings value rose to $66.51 billion from $63.58 billion. Alphabet, Microsoft's closest large-cap rival in cloud and AI infrastructure, was held by more funds, 275, up from 265, with holdings value climbing faster to $93.74 billion from $72.41 billion. Alphabet already held a larger dollar position than Microsoft in both quarters, and its fund count overtook Microsoft's this quarter, 275 to 273, after trailing 265 to 282 in the first, a genuine crossover worth watching given how much Microsoft has poured into AI infrastructure.\n\nConclusion\n\nMicrosoft's latest outage highlights a genuine reliability risk, but the incident does little to change the broader investment story. Strong Azure growth with Copilot adoption and a $678 billion commercial backlog point to sustained enterprise demand, while massive AI infrastructure spending and capacity constraints create meaningful execution risks. Microsoft's complicated relationship with OpenAI adds another layer of uncertainty, but the company's scale and diversified cloud business give it enough strength to absorb isolated disruptions.\n\nOverall, the outage looks more like an operational warning than a fundamental threat to Microsoft's long-term growth.\n\nWhile we acknowledge the potential of MSFT as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nMicrosoft (MSFT)’s Outlook and OpenAI's ChatGPT Work Both Broke the Same Day\n\nMicrosoft (MSFT)’s Outlook and OpenAI's ChatGPT Work Both Broke the Same Day Bull Case\n\n<button class=\"secondary-btn fin-size-large readmore-button rounded highlightWhenExpanded yf-7mptsx\" data-ylk=\"elm:readmore;itc:1;sec:content-canvas;slk:Story%20Continues\" data-yga=\"{\"",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:28:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "升息機率飆58%！ 費半卻大漲3.3% 阮慕驊揭背後關鍵",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%87%E6%81%AF%E6%A9%9F%E7%8E%87%E9%A3%8658-%E8%B2%BB%E5%8D%8A%E5%8D%BB%E5%A4%A7%E6%BC%B23-3-%E9%98%AE%E6%85%95%E9%A9%8A%E6%8F%AD%E8%83%8C%E5%BE%8C%E9%97%9C%E9%8D%B5-002800822.html",
+      "Content": "非農就業超預期引升息疑慮，美股收黑但費半大漲3.3% ，阮慕驊直言：「非農爆表不等於升息，資金沒離開只是重新排隊，高利率下選股比選市重要。」\n\n非農就業數據超預期\n\n財經專家阮慕驊表示，八月非農就業新增16.2萬人，遠高於市場預期的5萬出頭，前兩個月還合計上修5.5萬人，失業率持平於4.1%，薪資年增3.1%。數據一出，聯準會九月升息機率從49%跳升至58%。阮慕驊指出，前一天理事華勒才說傾向九月按兵不動，隔天就被數據打臉。市場反應直接，兩年期公債殖利率一度衝上4.416%，創2025年1月以來新高；美股三大指數全數收黑，黃金跌近1%，美元指數走強。\n\n九月劇本預估鷹派不動\n\n針對數據變化，阮慕驊說明：「我要先講一個觀念：非農爆表，不等於九月一定升息。58%是『偏向升息』，不是『篤定升息』。」他強調聯準會看的是通膨路徑而非單一數據，就業強代表經濟有韌性，但決定升息與否在於核心通膨是否重新抬頭。目前薪資年增3.1%屬溫和，未出現薪資推升物價的螺旋現象。因此他判斷九月最可能的劇本是「鷹派不動」，即利率不動但透過聲明和點陣圖釋放隨時可升訊號，將選擇權留在手上；真要升息，九月至十二月之間的機率比九月單一會議高。\n\n債市結構呈現「熊平走勢」\n\n阮慕驊分析債市結構指出，兩年期殖利率上升3.4個基點，十年期反而微幅下跌，殖利率曲線收窄到40個基點。短端反映聯準會政策預期，長端反映經濟成長與通膨長期看法。短端往上、長端持平的「熊平」走勢，代表市場認為聯準會可能偏緊，但經濟不致過熱，長期通膨預期未失控。這種走勢對股市並非最壞情境，最壞的是長端跟著往上衝，才會導致估值全面下修。\n\n資金重排隊有利AI族群\n\n對於股債關係，阮慕驊認為要分開看待。指數雖跌，但費城半導體指數大漲3.37%，三十檔成分股全數收紅，存儲的SanDisk、美光，以及光通訊的Marvell、康寧皆是大漲。阮慕驊表示：「這告訴我們，資金沒有離開市場，只是在重新排隊。」利率高對本益比偏高、無獲利支撐的公司壓力大；但對獲利加速的AI基礎建設族群，利率不是主要變數，訂單才是。特斯拉跌近6%，正是估值對利率敏感的典型。\n\n利率維持高檔選股為重\n\n針對投資部位，阮慕驊給出明確方向：債券部分，短天期公債殖利率來到4.4%附近，鎖住高收益機會就在眼前，不必急著拉長存續期間賭降息；股票部位，不要因指數跌就恐慌，要檢視手上的股票是靠獲利支撐，還是靠本益比支撐。九月會議前市場仍會反覆震盪，但方向已明確，利率將維持高檔更久，選股比選市更重要。\n\n（封面圖／翻攝自阮慕驊臉書）\n\n【<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"本文\",\"yModuleName\":\"content-canvas\"}\" data-ylk=\"slk:本文;elm:context_l",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-07",
+      "Time": "08:26:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "法人看台股持續受美國利率牽動　短線難脫盤整格局",
+      "URL": "https://tw.news.yahoo.com/%E6%B3%95%E4%BA%BA%E7%9C%8B%E5%8F%B0%E8%82%A1%E6%8C%81%E7%BA%8C%E5%8F%97%E7%BE%8E%E5%9C%8B%E5%88%A9%E7%8E%87%E7%89%BD%E5%8B%95-%E7%9F%AD%E7%B7%9A%E9%9B%A3%E8%84%AB%E7%9B%A4%E6%95%B4%E6%A0%BC%E5%B1%80-002605709.html",
+      "Content": "（中央社記者曾仁凱台北7日電）台股上週高檔區間震盪，4日衝高693.47點，收在46551.13點，全週上漲219.68點或0.47%。法人看台股上有壓、下有撐，短線盤勢持續受到美國利率環境牽動，難脫盤整格局。\n\n美國上週五公布8月新增就業人數遠高於預期，外界對於聯準會（Fed）升息抑制通膨的預期升高，4日美股多數收黑。道瓊工業指數下跌271.86點或0.51%，收在53414.25點。標普500指數跌29.11點或0.38%，收7718.60點。\n\n以科技股為主的那斯達克指數下跌77.07點或0.29%，收在26506.99點。不過與台股關連性高的費城半導體指數逆勢上漲383.133點或3.38%，收在11735.262點。\n\n個股方面，DRAM族群大漲，記憶體模組廠Sandisk大漲185.01美元或11.9%，收1740美元，美光、SK海力士ADR也都上漲超過6%。另外輝達（NVIDIA）上漲1.91美元或0.84%，收230.36美元；台積電ADR也上漲11.9美元或2.85%，收428.91美元。\n\n永豐金投顧分析，由於中東戰事談談打打，局勢始終不能降溫，油價居高不下，使得美國通貨膨脹無法降溫，美國10年期公債殖利率突破4.7%，且聯準會態度搖擺，壓抑股市表現。加上美國期中選舉將至，市場觀望選舉結果。\n\n永豐金投顧表示，近期有FOMC（聯邦公開市場委員會）會議決策，11月則有美國期中選舉，市場觀望，預料台股短線難脫盤整格局。不過2026年上半年台股上市公司稅前淨利新台幣3.67兆元，較去年同期暴增92.9%，預計明年股息可望豐厚，沉寂多時的高股息題材有望發揮。（編輯：楊凱翔）1150907",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:25:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股基金連兩週失血，中東戰火與高殖利率壓抑風險胃納",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%9F%BA%E9%87%91%E9%80%A3%E5%85%A9%E9%80%B1%E5%A4%B1%E8%A1%80-%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E8%88%87%E9%AB%98%E6%AE%96%E5%88%A9%E7%8E%87%E5%A3%93%E6%8A%91%E9%A2%A8%E9%9A%AA%E8%83%83%E7%B4%8D-002511595.html",
+      "Content": "【財訊快報／陳孟朔】路透報導，美國股票型基金連續第二週遭資金撤出。根據LSEG Lipper數據，截至9月2日止當週，美國股票基金淨流出111.2億美元，雖低於前一週的227.2億美元，但中東緊張局勢再起、油價與美債殖利率同步走高，仍明顯壓抑投資人風險胃納；所幸輝達與戴爾等AI相關企業財報表現強勁，部分抵銷市場賣壓。大型股基金當週淨流出75.2億美元，較前一週247.3億美元的淨賣出規模顯著收斂；中型股基金流出5.72億美元，小型股基金則流出18.3億美元。類股基金合計遭撤資34.8億美元，其中科技、金融及工業股賣壓最重，分別淨流出13.9億、13.1億及6.20億美元。\n\n路透指出，最近一週稍早美軍攻擊鄰近荷姆茲海峽的伊朗軍事目標，德黑蘭則表示已對區內美國資產發動報復，帶動油價與債券殖利率上衝，進一步削弱股票市場吸引力。不過，輝達與戴爾最新業績顯示AI資本支出循環仍具韌性，使科技股與整體市場跌勢未進一步擴大。\n\n相較之下，資金明顯轉向現金與短天期固定收益。美國債券基金當週淨流入42.7億美元，降至五週低點，但短至中期政府債及美國公債基金仍吸金45.3億美元；短至中期投資級債基金與貸款參與基金則分別吸金15.3億及9.90億美元。貨幣市場基金更大舉吸金487.6億美元，創四週最大單週流入，反映在地緣政治與高利率環境下，投資人防禦性配置需求明顯升高。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:23:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "非農遠優預期、升息押注升溫，美股三大指數收跌，費半逆勢急漲3.37%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9D%9E%E8%BE%B2%E9%81%A0%E5%84%AA%E9%A0%90%E6%9C%9F-%E5%8D%87%E6%81%AF%E6%8A%BC%E6%B3%A8%E5%8D%87%E6%BA%AB-%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E6%94%B6%E8%B7%8C-%E8%B2%BB%E5%8D%8A%E9%80%86%E5%8B%A2%E6%80%A5%E6%BC%B23-37-002326961.html",
+      "Content": "【財訊快報／陳孟朔】美國8月非農就業增幅遠超預期，重新點燃聯準會(Fed)9月升息押注，美債殖利率應聲走高，美股三大指數上週五(4日)同步翻空收黑，跌幅0.51%以內，但晶片類股榮光乍現、逆勢大漲3.4%助其週線翻紅。紐約股市4日收盤時，道瓊工業指數收跌271.86點或0.51%，報53,414.25點；標普500跌29.11點或0.38%，報7,718.60點；那指跌77.07點或0.29%，報26,506.99點；費半則逆勢大漲383.13點或3.38%，收在11,735.26點，台積電ADR雖跳漲2.85%仍不及費半表現。\n\n週線來看，道瓊跌0.3%，標普500小漲0.1%，那指漲0.4%，費半則逆勢勁揚約1.7%，為四大股指中表現最強。\n\n美國勞工部公布，8月非農就業人口大增16.2萬人，遠高於市場預期約5.6萬人，失業率維持4.1%，勞動參與率升至61.6%；7月非農更由原先減少2.3萬人上修為增加2.1萬人。數據公布後，市場對Fed 9月升息1碼的預期明顯升溫，CME FedWatch顯示機率由前一日49.4%升至58.4%，Fed基金期貨其他估算則一度超過六成。美國10年期公債殖利率盤中升破4.8%，2年期殖利率也明顯走高，投資人焦點進一步轉向未來一週兩大通膨數據CPI與PPI數據。\n\n市場對Fed政策方向的分歧也進一步擴大。川普上週五(4日)再度要求Fed降息，但強勁就業報告卻削弱短期降息理由，花旗隨即把下一次降息預測由原先2026年底延後至2027年6月。路透指出，雖然就業數據顯示經濟韌性仍強，但Fed 9月會議最終決策仍高度取決於下一輪通膨數據；若CPI持續偏高，升息預期可能進一步升溫，並持續對高估值成長股形成壓力。\n\n大型科技股表現分化，特斯拉(Tesla，美股代碼TSLA)受Cybercab發布內容欠缺部署規模與時間表，加上美國國家公路交通安全管理局(NHTSA)對近1,000輛Cybercab展開合規審查，股價重挫5.96%淪為科技七雄最遜咖；蘋果(美股代碼AAPL)跌約2.5%，微軟(美股代碼MSFT)跌約2%，輝達(美股代碼NVDA)則逆勢上漲約0.8%。消費股方面，全球知名瑜伽運動服業者露露檸檬(Lululemon)因連續第二季下調全年財測，股價暴跌17.38%至100.61美元為近八年新低，且淪為標普最大魯蛇。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-07",
+      "Time": "08:21:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Hartnett示警民主黨中選橫掃恐令美股跌逾10%，AI泡沫面臨破裂風險",
+      "URL": "https://tw.stock.yahoo.com/news/hartnett%E7%A4%BA%E8%AD%A6%E6%B0%91%E4%B8%BB%E9%BB%A8%E4%B8%AD%E9%81%B8%E6%A9%AB%E6%8E%83%E6%81%90%E4%BB%A4%E7%BE%8E%E8%82%A1%E8%B7%8C%E9%80%BE10-ai%E6%B3%A1%E6%B2%AB%E9%9D%A2%E8%87%A8%E7%A0%B4%E8%A3%82%E9%A2%A8%E9%9A%AA-002137700.html",
+      "Content": "【財訊快報／陳孟朔】MarketWatch報導，美銀證券首席投資策略師哈奈特(Michael Hartnett)在最新一期《Flow Show》報告中警告，若民主黨在美國期中選舉同時奪下參眾兩院，美股可能下跌逾10%，美元及債券殖利率同步走低，並可能成為戳破AI投資泡沫的催化因素。Hartnett強調，這是尾部風險情境推演，而非對選舉結果或股市走勢的基本預測。哈奈特認為，全球債券殖利率升至近20年高點，是AI資本支出熱潮面臨的更直接威脅。10年期美債殖利率一度升至4.81%，30年期報5.31%；德國10年期公債殖利率觸及3.38%，日本10年期殖利率則突破3%。他以「債券主導泡沫」概括當前市場，並認為在全球30年期殖利率降至5%以下前，承擔龐大資本支出的AI基礎設施業者，表現可能持續落後於AI應用企業。\n\n預測市場Polymarket顯示，民主黨橫掃兩院的機率一度升至50%，共和黨全面守住兩院的機率約10%；但美銀8月基金經理調查仍以「共和黨控制參院、民主黨拿下眾院」為最普遍預期。Hartnett指出，若民主黨全面勝選，稅負及監管上升可能壓抑企業獲利與AI資本支出；若共和黨守住兩院，則可能延續風險偏好及AI行情，而兩黨分掌國會的政治僵局，對市場則是相對溫和的情境。\n\n哈奈特同時示警，超大型雲端服務商在龐大AI資本支出承諾下，自由現金流已承受明顯壓力，長端殖利率持續上升將進一步提高融資成本及壓低長久期科技股估值。不過，民主黨勝選本身並不必然導致AI泡沫破裂，真正的傳導關鍵仍在於選後稅制與監管是否轉向、企業是否削減數據中心投資，以及債券殖利率能否自高檔回落。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
