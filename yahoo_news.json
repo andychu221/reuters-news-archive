@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T06:11:06.435Z",
-  "total_news_count": 477,
+  "last_updated": "2026-09-07T06:20:06.508Z",
+  "total_news_count": 479,
   "news": [
     {
       "Ticker": "GOOGL, AMZN",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2379.TW",
+      "Date": "2026-09-07",
+      "Time": "10:48:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "晶圓代工漲價增成本！瑞昱邱順建稱將與客戶溝通，Wi-Fi 8加速開發",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%99%B6%E5%9C%93%E4%BB%A3%E5%B7%A5%E6%BC%B2%E5%83%B9%E5%A2%9E%E6%88%90%E6%9C%AC-%E7%91%9E%E6%98%B1%E9%82%B1%E9%A0%86%E5%BB%BA%E7%A8%B1%E5%B0%87%E8%88%87%E5%AE%A2%E6%88%B6%E6%BA%9D%E9%80%9A-wi-fi-8%E5%8A%A0%E9%80%9F%E9%96%8B%E7%99%BC-024831993.html",
+      "Content": "【財訊快報／記者李純君報導】瑞昱半導體(2379)董事長邱順建，針對晶圓代工漲價致使成本墊高，他表示會和客戶溝通。最後就今年第四季及明年景氣，認為的確有受到資源產能的排擠。邱順建今日獲選為工研院第十五屆院士，在授證典禮前受訪，提到自己獲選為院士非常榮幸，瑞昱多年來對台灣電子產業有所貢獻，也一路見證台灣產業的發展，今天非常榮幸能夠加入這個由許多傑出前輩組成的團隊，成為其中一員。\n\n而就瑞昱從早期的網卡晶片發展至今，現在又迎接AI時代，針對如何看待產業脈動與趨勢，以及對未來的願景，他表示，台灣科技產業的發展，正好跟隨著智慧生活及聯網生活的趨勢持續前進，瑞昱成立至今已經接近40年，非常榮幸能夠一路參與這股產業脈動，且瑞昱從早期的網路晶片開始發展，如今已進入AI驅動智慧生活的時代。\n\n再就如何看待今年第四季及明年全年的電子產業景氣，邱順建表示，目前確實出現資源排擠的情況，部分消費性產品所使用的資源或產能，可能轉向特定的AI應用，不過，瑞昱在Wi-Fi及其他應用領域仍會持續推進產品與技術開發。\n\n而就瑞昱在Wi-Fi及光通訊方面的佈局，邱順建指出，在無線網路方面，除了Wi-Fi 7，瑞昱也已經投入Wi-Fi 8的開發，且預期Wi-Fi 8的發展速度應該會非常快，目前Wi-Fi 8已經進入技術開發階段。光通訊方面，受惠於AI應用快速成長，業界都在積極投入，瑞昱也正著手建立相關IP及產品。\n\n最後就目前晶圓代工價格正在調整，瑞昱將如何因應成本上升及轉嫁問題，邱順建表示，受到全球供需變化影響，整體供應鏈的價值及價格自然會有所調整，瑞昱只能與合作夥伴保持密切溝通，共同因應並度過這段供應鏈調整期。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, AMD",
       "Date": "2026-09-07",
       "Time": "10:46:01",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/m/7491f9f5-cce6-3fad-9808-2082ebef6e13/prediction%3A-data-center.html",
       "Content": "In the second quarter of 2025, data center products generated about 42% of Advanced Micro Devices' (NASDAQ:AMD) revenue. Last quarter, they generated 58% -- $6.7 billion of the chipmaker's record $11.5 billion total.\n\nBehind that shift is a simple growth gap. In the second quarter, data center revenue climbed 107% from a year earlier. Everything else AMD sells (client processors, gaming chips and embedded products) grew about 8% combined.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWith a gap that wide, the mix shifts every quarter on its own.\n\nMy prediction: the segment passes 70% of AMD's revenue at some point in 2027, before the Helios rack ramp is finished. Here's the math, step by step, and what could break it.\n\nImage source: AMD.\n\nA widening spread\n\nThe second quarter's 50% companywide growth blended two very different businesses. Data center, home to EPYC server processors and the Instinct graphics processing units (GPUs) behind artificial intelligence (AI) computing, more than doubled over the year, from about $3.2 billion to $6.7 billion. The rest of the company combined for about $4.8 billion. Client revenue, at $3.1 billion, was up 23%, embedded grew 19%, and gaming fell 31%.\n\nThird-quarter guidance widens the gap. Management's guide calls for revenue near $13 billion in the third quarter -- about 41% growth, down from the second quarter's 50%. But chief financial officer Jean Hu said the company expects data center sales to accelerate in the second half of the year. In other words, nearly every incremental dollar in that guide is a data center dollar.\n\nIf everything outside data center simply holds near $4.8 billion combined, data center lands around $8.2 billion in the third quarter. That would be about 63% of revenue, five percentage points of mix shift in one quarter.\n\nWhat does it take to get to 70%?\n\nFor the segment to reach 70% of revenue, it has to grow to about 2.3 times the size of everything else AMD sells. Last quarter, it was about 1.4 times that size.\n\nRun those two rates forward a year, with data center slowing from 107% to 90% and the rest still growing about 8%.\n\nBy the second quarter of 2027, the segment would be producing roughly $12.8 billion against about $5.2 billion for everything else. That comes to about 71% of revenue. And even a sharper slowdown to about 85% growth still gets there within a year.\n\nStory Continues\n\nManagement is aiming higher than my scenario assumes. \"Taken together, we now expect data center segment revenue to more than double year-over-year in 2027,\" CEO Lisa Su said on the company's second-quarter earnings call.\n\nHelios, AMD's rack-scale AI system built on MI400 series chips, is in production, and Su said initial shipments are on track to begin late this quarter, with the ramp building through the fourth quarter and into 2027.\n\nOpenAI has agreed to deploy 6 gigawatts of AMD GPUs, with the first gigawatt of MI450 series chips set to begin deploying later this year. Meta Platforms signed its own 6-gigawatt agreement, with first shipments on the same timeline. And Anthropic plans up to 2 gigawatts, with the first gigawatt beginning in the first half of 2027.\n\nAMD's other businesses could get in the way\n\nThe likeliest way this prediction fails isn't a data center stumble -- it's strength everywhere else.\n\nClient revenue grew 23% in the latest quarter, a healthy rate hidden inside that combined 8% figure because gaming fell 31% alongside it. And at about $780 million a quarter, gaming may soon be too small for its declines to keep masking that.\n\nA PC upgrade cycle could push client growth toward 30% while gaming stops falling, lifting the rest of the company to about 20% growth. Hold data center at 90%, and the segment sits near 69% of revenue by mid-2027, just under the line.\n\nOf course, that outcome would be good for AMD. It would likely push the crossover out a quarter or two, still inside 2027.\n\nBut a Helios stumble is what breaks the prediction outright. If shipments slip and data center growth gets cut in half to about 50%, the segment could sit around 66% of revenue in mid-2027, and I think 70% waits until 2028.\n\nUltimately, the spread between 107% and 8% is wide enough that the prediction doesn't need a best-case 2027. It survives a real data center slowdown, and a client revival mostly delays it.\n\nInvestors, I'd argue, are already pricing AMD like a data center company. The stock trades at about $474 as of this writing, or around 30 times what AMD is expected to earn in 2027.\n\nThe valuation looks reasonable next to 41% guided revenue growth, but a smooth Helios ramp is already baked into the price.\n\nI expect the crossover to come around the middle of 2027, give or take a quarter.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2379.TW",
+      "Date": "2026-09-07",
+      "Time": "10:26:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "工研院第15屆新任院士出爐，台積電秦永沛、瑞昱邱順建北榮陳威明獲選",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%A5%E7%A0%94%E9%99%A2%E7%AC%AC15%E5%B1%86%E6%96%B0%E4%BB%BB%E9%99%A2%E5%A3%AB%E5%87%BA%E7%88%90-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A7%A6%E6%B0%B8%E6%B2%9B-%E7%91%9E%E6%98%B1%E9%82%B1%E9%A0%86%E5%BB%BA%E5%8C%97%E6%A6%AE%E9%99%B3%E5%A8%81%E6%98%8E%E7%8D%B2%E9%81%B8-022602051.html",
+      "Content": "【財訊快報／記者李純君報導】工研院今（7）日舉辦「第15屆工研院院士授證典禮」，今年共有三位新科院士獲頒殊榮，分別為台積電(2330)執行副總經理暨共同營運長秦永沛、瑞昱半導體(2379)董事長邱順建，以及臺北榮民總醫院院長陳威明。工研院表示，三位院士橫跨半導體製造、資訊通訊及智慧醫療領域，不僅在各自專業領域持續突破創新，再以技術與產業影響力，推動臺灣產業升級與社會進步。今年院士授證典禮以「跨域創新 韌性共榮」為主軸，並同步展出跨域創新技術。\n\n工研院董事長吳政忠表示，今年適逢第15屆院士授證典禮，三位新任院士分別是臺灣半導體護國群山的「造山者」，及守護國人健康的「生命靠山」，皆為臺灣產業與社會發展帶來卓著貢獻。\n\n他指出，面對地緣政治、供應鏈重組與生成式AI崛起，臺灣正迎來重要發展契機。臺灣已從早期向歐美取經的「學習者」，成為半導體與關鍵技術領域不可或缺的合作夥伴，例如工研院將打造「先進半導體研發基地」，超前部署先進封裝與綠色半導體技術；深化臺美量子晶片合作，助臺灣從「矽島」邁向「量子島」；並推動「台灣無人載具系統研發聯盟」，建立國產自主且具韌性的無人機供應鏈。工研院也取得美國境外首個「綠色無人機系統（Green UAS）」評鑑授權，協助臺灣接軌國際、拓展全球商機。未來工研院將持續凝聚院士的卓越智慧與產業影響力，深化供應鏈韌性，攜手產業邁向綠色永續的未來。\n\n工研院三位新科院士也致詞發表感言。秦永沛表示，近40年的半導體製造歷程中，他始終秉持「追根究柢、做到極致」的精神，將實驗室製程技術轉化為世界級量產能力，期盼持續推動製程創新與臺灣半導體供應鏈升級。\n\n邱順建表示，獲選院士不僅是對個人，也是對瑞昱團隊創新成果的肯定。未來將持續以研發創新推動高科技普及化，實現「智慧聯網生活」願景，為臺灣及全球科技發展創造更大價值。陳威明表示，38年的行醫歷程讓他深刻體會，醫療進步源自臨床需求，更仰賴醫療、科技與產業跨域合作，期盼持續結合臺灣醫療與科技優勢，讓創新成果真正回到臨床、造福更多病人。",
+      "Language": "zh"
     },
     {
       "Ticker": "2408.TW",
