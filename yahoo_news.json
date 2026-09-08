@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-08T07:00:46.949Z",
-  "total_news_count": 777,
+  "last_updated": "2026-09-08T07:26:40.931Z",
+  "total_news_count": 787,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "15:19:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI算力短缺翻轉議價權，數據中心電價差距最高達400%",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E7%AE%97%E5%8A%9B%E7%9F%AD%E7%BC%BA%E7%BF%BB%E8%BD%89%E8%AD%B0%E5%83%B9%E6%AC%8A-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%9B%BB%E5%83%B9%E5%B7%AE%E8%B7%9D%E6%9C%80%E9%AB%98%E9%81%94400-071908071.html",
+      "Content": "【財訊快報／陳孟朔】人工智慧(AI)算力需求激增，正在翻轉大型雲端服務商與數據中心營運商之間的議價關係。過去由微軟(Microsoft，美股代碼MSFT)、Google等大型買家主導合約條款，如今因高階AI伺服器與電力供應吃緊，CoreWeave(美股代碼CRWV)、Nebius(美股代碼NBIS)及Nscale等新興算力供應商開始掌握更多議價空間。《信息報》(The Information)報導，大型雲端業者為讓輝達(Nvidia，美股代碼NVDA)伺服器機架儘快上線，正逐步接受較寬鬆的服務等級協議(SLA)。過去只要單一機架因斷電、過熱或交換器故障停機，客戶可能要求免除長達六個月租金，違約次數達到一定程度甚至可以終止租約；如今數據中心供給有限，營運商得以降低違約懲罰，並要求更嚴格的付款保障。\n\n輝達與超微(AMD，美股代碼AMD)也從晶片供應商轉變為數據中心專案的信用支持者。知情人士透露，兩家公司有時會為同一項目競標，向數據中心開發商提供最長15年的租約信用擔保，以確保搭載自家晶片的設施順利建成。輝達因資產負債表規模較大，採取的條件通常更為積極，進一步加速AI晶片、融資及數據中心租賃的垂直整合。\n\n電力短缺則令成本差異急遽擴大，同一月份不同客戶支付的電價差距最高可達400%，部分大型雲端業者反而因交付時程緊迫而承擔最高價格。過去數年間，興建一座1吉瓦數據中心的成本已增加一倍以上。輝達執行長黃仁勳(Jensen Huang)因而提出分散式算力架構，與Equinix(美股代碼EQIX)及Together AI合作，把推理服務部署至更接近用戶的既有機房，顯示AI基礎設施正由超大型集中式園區，逐步向多節點、去中心化網路發展。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "15:16:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Firmus與OpenAI簽多年期算力合約，帶動旗下客戶簽約總容量破900MW",
+      "URL": "https://tw.stock.yahoo.com/news/firmus%E8%88%87openai%E7%B0%BD%E5%A4%9A%E5%B9%B4%E6%9C%9F%E7%AE%97%E5%8A%9B%E5%90%88%E7%B4%84-%E5%B8%B6%E5%8B%95%E6%97%97%E4%B8%8B%E5%AE%A2%E6%88%B6%E7%B0%BD%E7%B4%84%E7%B8%BD%E5%AE%B9%E9%87%8F%E7%A0%B4900mw-071619582.html",
+      "Content": "【財訊快報／陳孟朔】獲AI晶片一哥--輝達(Nvidia，美股代碼NVDA)支持的澳洲人工智慧(AI)基礎設施業者Firmus週二宣布，已與OpenAI簽署多年期協議，將由兩座位於馬來西亞的數據中心提供運算能力。OpenAI將成為相關設施的核心客戶，帶動Firmus旗下客戶簽約總容量突破900兆瓦(MW)。路透報導，Firmus並未披露合約金額，OpenAI也未立即回應置評要求。Firmus目前在澳洲與新加坡營運兩座AI數據中心，另有五座設施正在亞太地區開發；公司計畫在區內大規模部署輝達新一代Vera Rubin處理器，馬來西亞項目將進一步擴大其亞洲基礎設施版圖。\n\n這筆合約簽署之際，Firmus傳出最快可能於今年在澳洲進行首次公開招股(IPO)，有望成為當地近年規模最大的上市案之一。Firmus在最近一輪融資中的估值已超過105億美元，投資人除輝達外，還包括Jane Street、黑石集團(Blackstone，美股代碼BX)旗下基金及Coatue Management。\n\n馬來西亞目前是東南亞成長最快的數據中心市場，吸引美中AI企業爭奪電力、土地及運算資源，但快速擴建也引發外界對耗電量與水資源使用的疑慮。OpenAI上週發布迄今能力最強的Astra模型，對高階晶片及數據中心容量的需求持續擴大，這項協議顯示AI競爭已從模型性能延伸至電力與實體算力的長期鎖定。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-08",
+      "Time": "14:41:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電攜ASML推進12吋光罩　2031年建試產線攻先進製程",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%9Casml%E6%8E%A8%E9%80%B212%E5%90%8B%E5%85%89%E7%BD%A9-2031%E5%B9%B4%E5%BB%BA%E8%A9%A6%E7%94%A2%E7%B7%9A%E6%94%BB%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B-064109917.html",
+      "Content": "（中央社記者張建中新竹2026年09月8日電）台積電 (2330) 今天宣布，與ASML展開合作，共同推動轉移升級至12吋光罩，將微影技術的價值發揮到極致，消除需要兩張6吋光罩在High NA EUV曝光時進行拼接的限制，目標於2031年之前建立12吋光罩試產線，並於2033年之前實現微影系統全面就緒，以支援先進製程量產。\n\n台積電今天發布新聞稿表示，於BACUS國際光學工程學會（SPIE）先進微影技術研討會前宣布與艾司摩爾（ASML）共同推動半導體產業轉移升級至更大尺寸的極紫外光（EUV）微影光罩合作計畫。\n\n台積電董事長暨總裁魏哲家說，唯有產業攜手解決複雜問題，才能開創單一企業無法獨力實現的無限可能。藉由匯聚產業價值鏈的專業能力，期許透過持續創新來降低門檻，讓先進解決方案得以大規模普及，進而持續傳遞尖端技術的價值。\n\n魏哲家表示，台積電有意自2030年起，在先進製程量產中導入艾司摩爾的High NA技術。隨著製程技術持續推進，特別是在AI應用帶動電晶體架構日益複雜的趨勢下，台積電預期需要使用High NA EUV曝光的光罩層數將隨之增加。\n\n台積電指出，高數值孔徑極紫外光（High NAEUV）自現行的6吋光罩，轉移至更大的12吋光罩，預期將進一步提升晶圓廠的生產力、降低晶片製造成本，並消除需要兩張6吋光罩在High NA EUV曝光時進行拼接的限制，使整個半導體產業受惠。\n\n台積電表示，這一轉移能讓先進晶片製造服務提供者充分利用High NA EUV的優勢，更提升未來世代先進晶片的成本效益。\n\n艾司摩爾總裁暨執行長福克（Christophe Fouquet）說，預期隨著元件微縮藍圖的推進，High NA EUV的採用將逐步提升。初期透過沿用現行的6吋光罩，而後導入12吋光罩以進一步提升設備生產力，讓產業能夠滿足市場對更小、更快、更節能晶片的需求。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "14:35:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Perplexity推本地Agent，採用阿里Qwen3.8-27B聚焦文件與程式任務",
+      "URL": "https://tw.stock.yahoo.com/news/perplexity%E6%8E%A8%E6%9C%AC%E5%9C%B0agent-%E6%8E%A1%E7%94%A8%E9%98%BF%E9%87%8Cqwen3-8-27b%E8%81%9A%E7%84%A6%E6%96%87%E4%BB%B6%E8%88%87%E7%A8%8B%E5%BC%8F%E4%BB%BB%E5%8B%99-063538885.html",
+      "Content": "【財訊快報／陳孟朔】美國科技媒體SiliconANGLE報導，矽谷AI獨角獸Perplexity推出本地Agent產品Portable Computer，採用阿里巴巴(09988.HK；美股代碼BABA)最新開源模型Qwen3.8-27B，顯示中國開源模型進一步進入美國AI新創公司的產品體系。Portable Computer可在輝達(Nvidia，美股代碼NVDA)DGX Spark及符合規格的Linux電腦上運行，協助用戶處理文件、分析數據、撰寫程式及執行多步驟任務。系統預設在本地完成模型推理及文件處理，只有遇到較複雜任務時，才會在取得用戶同意後呼叫雲端模型，有助減少敏感資料外傳。\n\n除原始Qwen3.8-27B外，Perplexity亦推出經過後訓練與硬體優化的PPLX 27B版本，使模型更適合Agent規劃、工具調用及工作流程執行。Portable Computer最低需要配備24GB顯示記憶體的輝達RTX GPU，初期支援Linux，Windows版本預計於9月推出。\n\nPerplexity選擇以阿里千問作為本地Agent底座，反映中國開源模型的競爭力已由排行榜與開發者下載，進一步延伸至海外商業產品。對阿里而言，本地部署可擴大Qwen在企業資料安全、主權AI及邊緣運算市場的應用；對Perplexity而言，27B參數模型則在運算成本、隱私與Agent能力之間提供相對可行的平衡。",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-08",
@@ -13,7 +53,47 @@
       "Language": "en"
     },
     {
-      "Ticker": "2344.TW, 2408.TW",
+      "Ticker": ".TWII, .SPX, 2454.TW, 2330.TW",
+      "Date": "2026-09-08",
+      "Time": "14:26:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股盤後】台股高低震盪逾550點收47105點　台積電收紅聯發科翻黑",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E8%82%A1%E9%AB%98%E4%BD%8E%E9%9C%87%E7%9B%AA%E9%80%BE550%E9%BB%9E%E6%94%B647105%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E7%B4%85%E8%81%AF%E7%99%BC%E7%A7%91%E7%BF%BB%E9%BB%91-062619251.html",
+      "Content": "（中央社記者吳家豪台北2026年9月8日電）台股今天走勢震盪，盤中一度漲逾250點，但電子權值股與人工智慧（AI）代工族群出現技術性拉回，大盤轉弱翻黑回測47000點，高低震盪超過550點，終場指數收在47105.78點，下跌220.49點，跌幅0.47%，成交值降至新台幣8766.62億元。\n\n電子類股指數終場下跌0.7%，半導體指數漲0.21%，金融指數上揚1.2%。傳產族群以航運、觀光指數表現較弱勢，終場下跌0.93%、0.55%。\n\n觀察盤面焦點，晶圓代工廠台積電 (2330) 盤中突破2500元大關，最高觸及2505元，終場收在2470元，上漲0.41%；鴻海 (2317) 跌1.76%，收251.5元；IC設計龍頭聯發科 (2454) 開高走低翻黑，終場下挫1.05%，收4710元。\n\nAI伺服器代工廠緯創 (3231) 因發行海外存託憑證（GDR），面臨法人借券套利賣壓，終場跌5.33%，以186.5元作收；廣達 (2382) 下跌5.61%，收328元。\n\n記憶體族群受惠於報價回升與原廠產能排擠效應，表現抗跌，華邦電 (2344) 、南亞科 (2408) 終場分別上漲4.44%、2.71%，收在188元、531元。\n\n千元以上高價股走勢分歧，股王信驊 (5274) 小漲0.03%，收19220元；股后川湖 (2059) 盤中觸跌停，終場重挫9.96%，收在12520元；穎崴 (6515) 營收連3月創新高，今天盤中亮燈漲停直到終場，收7700元。\n\n資深證券分析師蔡明翰對中央社記者表示，台股今天高低震盪逾550點，主因適逢美股休市缺乏明確方向指引。目前台股在月線之上維持強勢，但美股費城半導體指數仍在月線之下，兩者走勢落差成為壓抑台股短線攻高的原因。\n\n蔡明翰認為，本週市場焦點在於即將公布的美國消費者物價指數（CPI）與生產者物價指數（PPI）等通膨數據，將牽動聯準會（Fed）9月利率決策；後續台股若要挑戰新高，關鍵在於美國通膨數據公布後費半指數能否發動補漲。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-08",
+      "Time": "14:25:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股高低震盪逾550點收47105點　台積電收紅聯發科翻黑",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%AB%98%E4%BD%8E%E9%9C%87%E7%9B%AA%E9%80%BE550%E9%BB%9E%E6%94%B647105%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E7%B4%85%E8%81%AF%E7%99%BC%E7%A7%91%E7%BF%BB%E9%BB%91-062517449.html",
+      "Content": "（中央社記者吳家豪台北8日電）台股今天走勢震盪，盤中一度漲逾250點，但電子權值股與人工智慧（AI）代工族群出現技術性拉回，大盤轉弱翻黑回測47000點，高低震盪超過550點，終場指數收在47105.78點，下跌220.49點，跌幅0.47%，成交值降至新台幣8766.62億元。\n\n電子類股指數終場下跌0.7%，半導體指數漲0.21%，金融指數上揚1.2%。傳產族群以航運、觀光指數表現較弱勢，終場下跌0.93%、0.55%。\n\n觀察盤面焦點，晶圓代工廠台積電盤中突破2500元大關，最高觸及2505元，終場收在2470元，上漲0.41%；鴻海跌1.76%，收251.5元；IC設計龍頭聯發科開高走低翻黑，終場下挫1.05%，收4710元。\n\nAI伺服器代工廠緯創因發行海外存託憑證（GDR），面臨法人借券套利賣壓，終場跌5.33%，以186.5元作收；廣達下跌5.61%，收328元。\n\n記憶體族群受惠於報價回升與原廠產能排擠效應，表現抗跌，華邦電、南亞科終場分別上漲4.44%、2.71%，收在188元、531元。\n\n千元以上高價股走勢分歧，股王信驊小漲0.03%，收19220元；股后川湖盤中觸跌停，終場重挫9.96%，收在12520元；穎崴營收連3月創新高，今天盤中亮燈漲停直到終場，收7700元。\n\n資深證券分析師蔡明翰對中央社記者表示，台股今天高低震盪逾550點，主因適逢美股休市缺乏明確方向指引。目前台股在月線之上維持強勢，但美股費城半導體指數仍在月線之下，兩者走勢落差成為壓抑台股短線攻高的原因。\n\n蔡明翰認為，本週市場焦點在於即將公布的美國消費者物價指數（CPI）與生產者物價指數（PPI）等通膨數據，將牽動聯準會（Fed）9月利率決策；後續台股若要挑戰新高，關鍵在於美國通膨數據公布後費半指數能否發動補漲。（編輯：楊蘭軒）1150908",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-08",
+      "Time": "14:23:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電攜手ASML攻12吋EUV光罩 拚2033年導入先進製程量產",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%9C%E6%89%8Basml%E6%94%BB12%E5%90%8Beuv%E5%85%89%E7%BD%A9-%E6%8B%9A2033%E5%B9%B4%E5%B0%8E%E5%85%A5%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E9%87%8F%E7%94%A2-062356707.html",
+      "Content": "半導體先進製程迎來重大技術推進。晶圓代工龍頭台積電與晶片微影設備巨擘艾司摩爾（ASML），於美國時間9月7日在加州蒙特雷舉行的BACUS先進微影技術研討會前夕共同宣布，雙方將攜手推動半導體產業由現行的6吋光罩升級至12吋光罩，全面釋放高數值孔徑極紫外光（High NA EUV）效益，並目標於2031年前建立12吋光罩試產線，2033年前實現微影系統就緒以支援先進製程量產。\n\n目前半導體產業在採用High NA EUV技術時，受限於現行6吋光罩規格，曝光時需要拼接兩張光罩。台積電與ASML此次推動轉向12吋大尺寸光罩，將消除拼接限制，預期可提升晶圓廠生產力並降低晶片製造成本，使先進製程代工服務更能發揮High NA EUV優勢，為未來世代先進晶片提供更佳的成本效益。\n\n台積電董事長暨總裁魏哲家指出，台積電深信唯有產業攜手解決複雜問題，才能開創單一企業無法獨力實現的無限可能，期盼藉由匯聚產業鏈專業能力持續創新降低門檻，讓先進解決方案得以大規模普及。\n\nASML總裁暨執行長Christophe Fouquet也表示，初期將先沿用6吋光罩，後續導入12吋光罩進一步提升設備產能，滿足市場對微縮與節能晶片的需求，該合作初期已獲半導體廠及光罩夥伴大力支持。\n\n台積電預計自2030年起在先進製程量產中導入ASML的High NA技術。隨著AI應用推動電晶體架構日益複雜，需要High NA EUV曝光的光罩層數也將持續增加，雙方此次擴大合作並獲得關鍵生態系夥伴響應，將為半導體次世代先進製程量產鋪路。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-08",
+      "Time": "14:21:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "ASML與台積電共推High NA EUV微影技術落地，2031年建立12吋光罩試產線",
+      "URL": "https://tw.stock.yahoo.com/news/asml%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%B1%E6%8E%A8high-na-euv%E5%BE%AE%E5%BD%B1%E6%8A%80%E8%A1%93%E8%90%BD%E5%9C%B0-2031%E5%B9%B4%E5%BB%BA%E7%AB%8B12%E5%90%8B%E5%85%89%E7%BD%A9%E8%A9%A6%E7%94%A2%E7%B7%9A-062108862.html",
+      "Content": "【財訊快報／記者李純君報導】艾司摩爾（ASML Holding N.V.）與台積電(2330)共同推動轉移升級至12吋光罩，以將高數值孔徑極紫外光（High NA EUV）微影技術的價值發揮到極致。該合作目標於2031年之前建立12吋光罩試產線（pilot line），並於2033年之前實現微影系統全面就緒，以支援先進製程量產。艾司摩爾與台積電發起合作，共同引領半導體產業轉移升級至更大尺寸的極紫外光（EUV）微影光罩。High NA EUV將自現行的6吋光罩，轉移至更大的12吋光罩，預期將進一步提升晶圓廠的生產力、降低晶片製造成本，並消除需要兩張6吋光罩在High NA EUV曝光時進行拼接的限制，使整個半導體產業受惠。此轉移能讓先進晶片製造服務提供者充分利用High NA EUV的優勢，更提升未來世代先進晶片的成本效益。\n\n艾司摩爾總裁暨執行長Christophe Fouquet表示：「我們預期，隨著元件微縮藍圖的推進，High NA EUV的採用將逐步提升。初期透過沿用現行的6吋光罩，而後導入12吋光罩以進一步提升設備生產力，讓產業能夠滿足市場對更小、更快、更節能晶片的需求。我們很高興這項合作在初期便獲得半導體製造廠商、光罩廠商、以及合作夥伴的大力支持。」\n\n台積電董事長魏哲家表示：「台積電深信，唯有產業攜手解決複雜問題，才能開創單一企業無法獨力實現的無限可能。藉由匯聚產業價值鏈的專業能力，我們期許透過持續創新來降低門檻，讓先進解決方案得以大規模普及，進而持續傳遞尖端技術的價值。」\n\n台積電有意自2030年起，在先進製程量產中導入艾司摩爾的High NA技術。隨著製程技術持續推進，特別是在AI應用帶動電晶體架構日益複雜的趨勢下，台積公司預期需要使用High NA EUV曝光的光罩層數將隨之增加。\n\n艾司摩爾與台積電於近日在加州蒙特雷舉辦的BACUS國際光學工程學會（SPIE）先進微影技術研討會前宣布發起產業合作，以共同推動轉移升級至12吋光罩，並計劃於2031年之前建立12吋光罩試產線，為2033年12吋High NA微影系統導入先進製程量產奠定基礎。眾多關鍵生態系統夥伴與供應商均出席此活動，並表達對該轉移的參與意願。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2344.TW, 2408.TW",
       "Date": "2026-09-08",
       "Time": "14:21:00",
       "Source": "Yahoo奇摩股市",
@@ -30,6 +110,16 @@
       "Title": "今日台股》電子股尾盤遇壓！台積電逆勢上漲10元收2470元　台股終場下跌220點",
       "URL": "https://tw.news.yahoo.com/%E4%BB%8A%E6%97%A5%E5%8F%B0%E8%82%A1-%E9%9B%BB%E5%AD%90%E8%82%A1%E5%B0%BE%E7%9B%A4%E9%81%87%E5%A3%93-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%86%E5%8B%A2%E4%B8%8A%E6%BC%B210%E5%85%83%E6%94%B62470%E5%85%83-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E4%B8%8B%E8%B7%8C220%E9%BB%9E-060354041.html",
       "Content": "今日個股成交量排行榜前五名：友達、華邦電、聯電、群創、力積電\n\n今日個股成交值排行榜前五名：台積電、華邦電、南亞科、聯電、聯發科\n\n由於美國適逢勞動節假期，美股週一（7日）休市一日；但台指期盤後終場下跌133點或0.28%，收在47,329點，台北股市今（8）日開盤上漲8.97點或0.02%，來到47,335.24點，不過陷入多空激戰的情形，盤中最高來到47,578.24點，最低來到47,023.73點，上下震盪554.51點，不過尾盤空方站強勢方，終場下跌220.49點（約0.47%），收在47,105.78點，成交量為8,766.62億元。\n\n中小型股開高走低，早盤表現相對強勁，持穩在紅盤之上，不過午盤出現賣壓襲擊，終場下跌2.14點（約0.52%），收在407.19點，成交量為2,129.23億元。\n\n權值股走勢分歧，權王台積電開高走高，以2,465元盤上開出，盤中站上2,500元關卡，最高來到2,505元，終場上漲10元（約0.41%），收在2,470元，挹注大盤指數就有79點；聯發科則是開高走低，早盤最高來到4,830元，午盤過後遇壓翻黑，終場下跌50元（約1.05%），收在4,710元；台達電同樣遇壓走低，終場下跌45元（約2.43%），收在1,805元。\n\n證券開戶必選富邦證券，股票下單使用心得、手續費及開戶流程優惠懶人包\n\n>> 立即線上開證券戶 <<\n\n今日由伺服器族群帶頭領跌，川湖下跌逾9%，緯穎、聯亞、貿聯-KY下跌逾6%，廣達下跌逾5%，信邦、嘉澤下跌逾4%。\n\n被動元件族群也有賣單調節，今展科、金山電下跌逾7%，千如下跌逾5%，大毅、信昌電、鈺鎧、蜜望實、立隆電、聚鼎下跌逾4%。\n\nPCB族群也呈現疲弱，台虹被打到跌停價294.5元，亞電、同欣電、金像電下跌逾4%，華通、台表科、競國下跌逾3%。\n\n不過今日塑化族群逆勢撐盤，台塑四寶今（8）日下午將公布8月營收，市場提前聚焦南亞（1303）營運表現，南亞日前公布7月自結財報，稅前盈餘47.91億元、稅後純益31.68億元，較去年同期暴增約337倍，每股稅後純益（EPS）達0.4元，最新外資給予南亞「優於大盤」評等，目標價則上看424元，並預估南亞2026年淨利將大增2375.3%，帶動今日南亞終場上漲逾1%，帶動塑化族群同步走強，勝悅-KY上漲逾2%，台聚、亞聚、東聯上漲逾1%。\n\n金融族群也成為資金避風港，玉山金、台新新光金上漲逾4%，上海商銀、安泰銀上漲逾3%，臺企銀、彰銀、永豐金上漲逾2%。\n\n此外，AI與先進製程需求持續升溫，晶圓廠擴產也帶旺半導體氣體設備商機，設備股也有買單挹注，穎崴、東捷、耀穎攻上漲停板，創新服務上漲逾8%，鴻勁、大量上漲逾6%，旺矽上漲逾5%。\n\n光通訊族群也有資金挹注，外資高盛重磅上修光收發器預測，由於全球AI算力浪潮帶動1.6T出貨預估上修61%，矽光子憑成本優勢全面崛起，外資喊買光通訊供應鏈，上銓、全新、聯亞全入列，帶動相關個股走高，穎崴、耀穎攻上漲停板，蔚華科上漲逾8%，旺矽上漲逾5%，創威上漲逾4%。\n\n原文出處\n\n今日台股》電子股尾盤遇壓！台積電逆勢上漲10元收2470元　台股終場下跌220點\n\nKKday/Klook 9月最新折扣碼/優惠碼(卡優獨家88折)、信用卡刷卡回饋整理\n\n上海商銀小小兵信用卡-指定影城享12%，新戶贈小小兵拖拉包(舊戶加辦也享50元)\n\n2026 新光證券限時開戶零門檻，結合「資金管理帳戶」高速開戶，開啟零負擔的投資第一步!\n\n2026 新手投資股票完整教學｜七款免付費必備App推薦！\n\n聯電爆量漲停後驚見「只跌1元」！新光證券：下一波盯這關鍵",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "14:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》儲能系統—RUN、TSLA、ENPH",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%84%B2%E8%83%BD%E7%B3%BB%E7%B5%B1-run-tsla-enph-060300390.html",
+      "Content": "MoneyDJ新聞 2026-09-08 14:03:52 數位內容中心 發佈\n\nSunrun（RUN.US）\n\n9月，Sunrun參與PG&E的SHARE計畫，將約21,000個既有可調度裝置納入加州虛擬電廠（VPP），尖峰時可提供12MW，最早於今年秋季支援電網並持續至2027年。家用電池用戶每顆可獲200美元獎勵，顯示其住宅儲能已延伸至電網調度。\n\nTesla（TSLA.US）\n\n本週與儲能最相關的量化訊號，是Tesla在2025年部署超過31GWh儲能系統，涵蓋Powerwall與Megapack，橫跨家用、工商用與電網級應用。原始資料並指出，2026年第1季動能仍在加速，儲能仍是公司成長主軸之一。\n\nEnphase Energy（ENPH.US）\n\n近期，Enphase Energy把家用儲能與能源管理服務整合推進至全美，Enphase Care已覆蓋全部州別，提供24小時支援、主動監測與人工智慧（AI）輔助異常偵測。公司並開放首款商用電池儲能產品預購，顯示平台正由設備延伸至持續服務。\n\nAlbemarle（ALB.US）\n\n9月4日，Albemarle完成Wodgina專案鋰輝石精礦拍賣，價格為每噸2307美元，產品規格為6%氧化鋰。對儲能系統產業，本週最值得記住的是上游鋰原料價格已有明確成交訊號，且原始資料同時提到公司第2季鋰價年增61%。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》氫能動力—BE、PLUG、APD\n\n《美股主題週報》儲能系統—TSLA、ENPH、RUN\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -111,6 +201,16 @@
       "URL": "https://finance.yahoo.com/m/1a0b2e6f-9873-34f3-ad0f-ccf7e05626ef/amazon%27s-39%25-aws-operating.html",
       "Content": "Amazon (NASDAQ: AMZN) may be best known as an e-commerce company, but the largest segment of its business is Amazon Web Services (AWS), primarily due to its impressive operating profit margin. During Amazon's second quarter (Q2) of 2026, AWS's operating profits rose at a jaw-dropping 64% pace, resulting in an incredible 39% operating margin.\n\nThat's a huge deal for Amazon's financial picture, and I think it's the single best reason to buy the stock, as it allows a smaller revenue segment to shine.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAWS is the most important part of Amazon\n\nAmazon's business is broken up into three parts: North American commerce, International commerce, and AWS. In Q2, these business units accounted for 58%, 21%, and 21% of sales, respectively. Despite North American and International commerce making up 79% of total sales, they only account for about 40% of operating profits. AWS accounts for 60% despite being a much smaller portion of sales.\n\nWhy is that the case?\n\nIt's because of AWS's superior operating margin. Because Amazon can earn a far greater profit per dollar of revenue in AWS, it tilts the scales in favor of this business segment. Amazon knows this, which is why the company is focusing all of its available capital expenditure dollars into building out infrastructure so AWS can continue to grow at its rapid 37% pace. Management also noted that the company is in a compute-constrained state, and AWS won't have enough capacity to meet demand in 2026, and the same will likely be true in 2027.\n\nWith Amazon's most profitable business segment growing at the fastest pace, it creates a perfect catalyst for Amazon's stock to rise dramatically over the next few years. All of Amazon's huge data center spending will start to really pay off, and it's possible that its AWS revenue growth rate will accelerate, too.\n\nDue to AWS's superior operating margin, Amazon's companywide profits will grow faster than revenue, which is music to investors' ears. This effect can produce market-crushing stocks, and I think that's exactly what Amazon will be over the next five years.\n\nThere are few companies with a setup like Amazon's, with its rising growth rate and improving operating margins. I think that makes Amazon a top stock to buy right now, and definitely at the top of the list of the best artificial intelligence stocks to buy during the remainder of 2026.\n\nStory Continues\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again\n\nIn 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. If you'd invested $5,000 then, you'd be sitting on $2,991,096 today.*\n\nNow, for the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. It's a key player in the $1.8 trillion space race, and with the stock recently sitting 20% off its highs, the window to get in early is closing fast.\n\nContinue »\n\n*Stock Advisor returns as of August 3, 2026\n\nKeithen Drury has positions in Amazon. The Motley Fool has positions in and recommends Amazon. The Motley Fool has a disclosure policy .\n\nAmazon's 39% AWS Operating Margin the Single Best Reason to Buy the Stock in September was originally published by The Motley Fool\n\nImage source: The Motley Fool.\n\nImage source: The Motley Fool. AWS is the most important part of Amazon\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "12:47:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "11檔記憶體營收翻倍太驚喜！華邦電、南亞科噴發是糖衣還毒藥？專家：不要聽故事「這項數據」才是真理",
+      "URL": "https://tw.stock.yahoo.com/news/11%E6%AA%94%E8%A8%98%E6%86%B6%E9%AB%94%E7%87%9F%E6%94%B6%E7%BF%BB%E5%80%8D%E5%A4%AA%E9%A9%9A%E5%96%9C-%E8%8F%AF%E9%82%A6%E9%9B%BB-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%99%B4%E7%99%BC%E6%98%AF%E7%B3%96%E8%A1%A3%E9%82%84%E6%AF%92%E8%97%A5-%E5%B0%88%E5%AE%B6-%E4%B8%8D%E8%A6%81%E8%81%BD%E6%95%85%E4%BA%8B-044721343.html",
+      "Content": "台股大盤今（8）日受到國際局勢動盪與部分權值股熄火影響，盤勢呈現震盪走跌，然而盤面上卻有一支族群無懼大盤頹勢、逆勢異軍突起—記憶體產業族群在「超級循環（Supercycle）」全面引爆預期下，成為資金瘋狂湧入的最佳避風港；資深證券分析師指出，記憶體族群今日的強勁表現，主要得益於8月營收全面爆發、AI伺服器訂單激增、以及缺貨漲價效益擴大等三大利多助攻。\n\n營收大爆發、AI重估儲存價值 記憶體迎三大利多\n\n受惠於AI基礎建設的強勁需求與記憶體漲價效應，台廠記憶體族群迎來爆發性成長，其中南亞科（2408）與華邦電（2344）8月營收分別大幅年增560％與289％，而宜鼎（5289）與鈺創（5351）更繳出年增逾5倍的亮眼成績。\n\n此外，模組大廠威剛（3260）前8月累計營收首度突破千億大關，加上十銓（4967）、創見（2451）、旺宏（2337）及宇瞻（8271）等共11檔相關個股皆呈現營收翻倍式的爆發增長，在盤前即引發市場高度關注，促使市場資金在大盤走勢震盪時，迅速轉入這類具有實質業績支撐的族群，成為類股今日集體噴發的實質底氣。\n\n除了基本面亮眼外，美股大廠連動效應更起到臨門一腳的作用，近期美商戴爾（Dell）公布的第二季財報大幅優於預期，明確顯示全球AI伺服器的訂單需求極為激增；加上市場對OpenAI即將推出的新世代模型「GPT-6Astra」所帶來的硬體升溫預期，導致全球高階DRAM與NANDFlash出現嚴重的供應短缺，此波針對儲存端硬體價值的重新評價，前幾日已率先帶動美股美光（Micron）、威騰電子（Western Digital）漲勢，並於今日成功將多頭氣勢外溢至台股供應鏈。\n\n市場研調機構集邦（TrendForce）調查也為市場注射強心針，該報告指出，當前DRAM供給成長速度明顯落後於全球強勁需求，由於全球AI基礎建設正大量鎖定上游產能，全力轉向高頻寬記憶體（HBM）等高端製程，進而嚴重擠壓了常規記憶體產出，使各大廠的庫存水位紛紛觸底，在「缺貨＋漲價」雙重心理預期驅使下，市場長約報價獲得強力支撐，成為推升今日類股估值噴發的關鍵火種。\n\n專家多空論證：基本面無懈可擊 VS 提防獨強陷阱\n\n針對今日記憶體族群逆勢大漲，市場分析師多抱持「基本面極度看好，但短線操作須防主力設陷阱」的謹慎樂觀態度，並提出三大核心觀點供投資人參考。\n\n觀點一：基本面「無懈可擊」，本益比仍具高度吸引力\n\n華冠投顧分析師陳韋廷表示，記憶體是AI產業鏈中不可或缺的必備關鍵元件。若未來台股大盤要挑戰更高關卡，記憶體產業絕不可能缺席。他特別點名指標股如華邦電（2344）與南亞科（2408）因直接生產記憶體顆粒，是最能直接受惠這波行情的純度概念股。陳韋廷強調，目前部分個股法人預估明（2027）年的EPS獲利表現極佳，對比現在的股價，本益比仍處於非常低的「價值窪地」，加之近期技術面歷經大洗盤後迅速止穩，預期波段漲勢仍未結束。啟發投顧分析師白易弘亦認同此觀點，認為記憶體廠7、8月營收表現無懈可擊，基本面完全沒有問題，已持有的投資人短線上可以安心續抱。\n\n觀點二：警惕「獨強陷阱」，必須觀察HBM三巨頭\n\n不過，資深分析師蔡明翰則提出較為冷靜的示警，他指出，前幾日南亞科雖然公布營收大增，盤面上卻出現外資暴賣、股價不漲反跌的詭異現象，這反映出市場近期可能存在「只有一個人往前衝」的虛假多頭結構，並建議投資人，此時操作切不宜因單日的大漲而盲目無腦追高，短線上應先觀察全球HBM三巨頭美光、SK海力士、三星的股價是否能穩健、連續性地走揚，如果國際巨頭的集體多頭趨勢確立，台廠逆勢上漲才具備「真金白銀」的延續性。\n\n觀點三：不要聽故事！「乖乖看現貨報價」才是真理\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:le",
+      "Language": "zh"
     },
     {
       "Ticker": ".N225",
