@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T12:20:48.451Z",
-  "total_news_count": 839,
+  "last_updated": "2026-09-08T12:25:49.392Z",
+  "total_news_count": 841,
   "news": [
     {
       "Ticker": "ASML.AS",
@@ -21,6 +21,16 @@
       "URL": "https://finance.yahoo.com/technology/articles/tsmc-samsung-intel-just-gave-121154337.html",
       "Content": "This article first appeared on GuruFocus .\n\nASML Holding NV ( ASML , Financials ) already sells some of the most important machines in the semiconductor industry. Its next generation is starting to find customers.\n\nWarning! GuruFocus has detected 5 Warning Signs with BE.\n\nIs ASML fairly valued? Test your thesis with our free DCF calculator.\n\nTSMC, Samsung and Intel are moving toward ASML's High-NA extreme ultraviolet technology, which can print smaller and more complex features on advanced chips. That matters because AI processors are getting harder to build.\n\nNvidia, Google and other companies are designing increasingly large data-center chips. ASML is now working on changes that would allow its newest machines to handle those larger designs without giving up the finer resolution High-NA provides.\n\nIntel is furthest along.The company is already using High-NA EUV for certain layers of chips produced on its 18A process.\n\nTSMC is expected to bring the technology into production later in the decade, while Samsung is also preparing for wider adoption. For ASML, this is important for a simple reason. Its customers do not have many alternatives.\n\nAs chipmakers push toward smaller transistors and more complicated AI processors, the lithography step becomes increasingly difficult. ASML is the only company supplying EUV systems at commercial scale.\n\nThat puts it in an unusual position. The AI boom may begin with Nvidia GPUs and huge data centers, but making those chips increasingly depends on machines that ASML alone can build.\n\nThe next thing to watch is how quickly TSMC and Samsung move High-NA EUV from testing into high-volume production.\n\nASML GF Value chart\n\nASML GF Value chart TSMC, Samsung and Intel are moving toward ASML's High-NA extreme ultraviolet technology, which can print smaller and more complex features on advanced chips. That matters because AI processors are getting harder to build.\n\nThat puts it in an unusual position. The AI boom may begin with Nvidia GPUs and huge data centers, bu",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-08",
+      "Time": "19:56:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電攜ASML開發12吋光罩　專家：輝達GPU尺寸驅動",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%9Casml%E9%96%8B%E7%99%BC12%E5%90%8B%E5%85%89%E7%BD%A9-%E5%B0%88%E5%AE%B6-%E8%BC%9D%E9%81%94gpu%E5%B0%BA%E5%AF%B8%E9%A9%85%E5%8B%95-115615441.html",
+      "Content": "（中央社記者張建中新竹2026年09月8日電）台積電 (2330) 今天宣布，與ASML合作，共同推動轉移升級至12吋光罩，目標於2031年之前建立12吋光罩試產線。半導體產業專家表示，輝達（NVIDIA）GPU晶片尺寸越來越大，是促使台積電與ASML這次合作的一大關鍵。\n\n台積電今天發布新聞表示，於BACUS國際光學工程學會（SPIE）先進微影技術研討會前宣布與艾司摩爾（ASML）共同推動半導體產業轉移升級至更大尺寸的極紫外光（EUV）微影光罩合作計畫，HighNA（高數值孔徑）EUV將自現行的6吋光罩，轉移至更大的12吋光罩。\n\n半導體產業專家說，半導體製造廠採用6吋光罩曝光生產已行之多年，隨著High NA EUV單次曝光面積縮小，加上人工智慧（AI）晶片龍頭輝達的GPU晶片日益複雜，尺寸越來越大，使得6吋光罩成為半導體先進製程一大痛點。\n\n專家表示，改採方形的玻璃基板可以減少下腳料，不過，改採更大的12吋光罩，才能夠解決曝光時需要兩張6吋光罩拼接的問題，提升生產力，並可增加輝達GPU設計的彈性。\n\n專家指出，光罩自6吋升級至12吋是半導體業一大工程，除台積電與ASML合作外，還需要電子設計自動化（EDA）、光阻劑、光罩盒等生態系共同投入。英特爾（Intel）及三星（Samsung）也參與推動12吋光罩技術的產業倡議，有助於擴大經濟規模，加大供應鏈投入的意願。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -150,6 +160,16 @@
       "Title": "台股重返4萬7！主動式ETF平均漲逾26%　18檔勝大盤",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%87%8D%E8%BF%944%E8%90%AC7-%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E5%B9%B3%E5%9D%87%E6%BC%B2%E9%80%BE26-18%E6%AA%94%E5%8B%9D%E5%A4%A7%E7%9B%A4-103300173.html",
       "Content": "【記者呂承哲／台北報導】國際股市去槓桿調整告一段落，加上科技新品登場、AI需求持續暢旺，台股近期重拾漲勢。加權指數自7月底波段低點一路反彈，9月7日收47,326.27點，重返47,000點大關，今（8）日雖震盪，後市仍有望挑戰前高。\n\n隨台股反彈，訴求靈活選股的主動式台股ETF同步繳出亮眼成績。統計這波行情期間，主動式台股ETF平均績效達26.51%，22檔產品中共有18檔表現優於大盤，其中00992A主動群益科技創新上漲36.57%，居所有主動式台股ETF之冠。\n\n主動群益科技創新（00992A）經理人陳朝政表示，AI供應鏈長短料問題下半年將更加顯著，但AI算力建置與規格升級趨勢並未改變。台灣在晶圓代工、先進封裝、AI伺服器、PCB／CCL及散熱等全球AI基礎建設供應鏈中仍居關鍵地位，整體AI供應鏈仍處於上升週期。\n\n陳朝政指出，投資布局可聚焦基本面穩健、具護城河優勢的產業龍頭，掌握AI長期成長動能，同時關注AI技術迭代週期，提前布局可能出現短線爆發的題材。\n\n主動群益核心50（00415A）經理人許育誌則指出，台股歷經前波整理後，籌碼壓力已明顯緩解，加上經濟維持穩健、AI需求強勁，企業資本支出持續投入，相關應用逐步落地，台灣供應鏈扮演關鍵技術及零組件生產要角，後市仍正向看待。\n\n在AI浪潮重塑台股結構下，大型科技龍頭已成為市場成長核心，透過布局市值龍頭、趨勢高價股及潛力龍頭的主動式ETF，有助掌握台股核心成長動能。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-08",
+      "Time": "18:25:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股跌220點！法人看好AI模型「史詩級」迭代效應　半導體ETF受惠",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C220%E9%BB%9E-%E6%B3%95%E4%BA%BA%E7%9C%8B%E5%A5%BDai%E6%A8%A1%E5%9E%8B-%E5%8F%B2%E8%A9%A9%E7%B4%9A-%E8%BF%AD%E4%BB%A3%E6%95%88%E6%87%89-%E5%8D%8A%E5%B0%8E%E9%AB%94etf%E5%8F%97%E6%83%A0-102513049.html",
+      "Content": "台股今天近關情怯，早盤一度漲至4萬7578點，但追價乏力，尾盤拉回，終場下跌220點，收在4萬7105點，成交量8783億元。\n\n展望後市，台信投信指出，OpenAI最新GPT-6 Astra模型自9/3上市以來，市場驚喜不斷，這組動用輝達逾10萬顆GPU訓練，號稱「史上最聰明」的AI大語言模型，距ChatGPT-3於2023/3/14上市迄今僅約4年，卻帶動全球前沿模型訓練與推理所需的AI基礎設施需求持續擴張，也讓全球AI算力軍備競賽持續升溫。\n\n法人表示，繼GPT-6引爆AI模型史詩級迭代創新後，預估2026下半年，其他AI新創公司及科技巨頭們也將有多款新一代AI模型陸續登場，催生台廠半導體鏈AI商機持續噴發，半導體ETF股價點火開跑。\n\n根據CMoney統計，台股半導體ETF隨OpenAI於2023/3/14推出GPT模型-4上市迄今，累積報酬表現驚人，帶動半導體ETF同期間累積漲幅全數翻漲2~3倍，表現最好的是00904台新臺灣半導體30 ETF，自GPT-4上市以來的漲幅衝上324.21%、00892富邦台灣半導體ETF同期漲幅也有317.22%，至於00913兆豐台灣晶圓製造、00891中信關鍵半導體兩檔，同期股價含息報酬也接近300%，績效均領先加權股價指數。\n\n台新臺灣半導體30(00904)ETF經理人黃鈺民認為，GPT一有新版本推出，背後代表AI模型能力更先進，同時，更強的模型能力，將帶來更多AI應用場景，所需要的半導體先進製程、高頻寬記憶體(HBM)及先進封裝投資就越多，有助於全球半導體設備市場延續高成長，半導體股的「超級週期」紅利延續，並進一步激勵企業提高AI資本支出與預期預期，AI算力軍備競賽仍如火如荼上演，投資熱潮仍未退燒。\n\n黃鈺民強調，這次GPT-6模型上市後，被網友稱為人類史上最聰明的AI大腦，黃仁勳更指出，GPT-6版本的Astra問世，宣告通用人工智慧(AGI)時代來臨，即定義AGI時代的AI，將比生成式AI及傳統AI，更具備因果推理、自主認知能力，能夠跨領域解決複雜問題，若進入實體AI階段，AGI將更像自主AI代理人—自己想、自己規模、自已完成任務，這一切背後非得靠先進製程等重要半導體廠商參與、其中，最直接受惠的廠商，就是台灣半導體晶片製造與先進製程封裝協力廠，股價中長期仍大有可為。\n\n台新投信建議投資人宜中長期持有半導體ETF，趁美國11月期中選舉前，市場表現震盪之際，分批逢低布局，持續掌握全球「代理AI、邊緣AI、實體AI」三波帶旺的半導體股價爆發潛力。\n\n另有法人統計近期台股波段低點，即7/30加權指數收在39933.3點以來，至昨（9/7）天收在47326.27點為止，期間指數累計上漲775.14點。這期間內，主動式台股ETF整體平均績效26.51%，22檔產品中有18檔績效跑贏大盤，當中又以00992A主動群益科技創新，漲36.57%拔得頭籌。\n\n<img alt=\"\" class=\"rounded-lg\" height=\"653\" loading=\"lazy\" src=\"https://s.yimg.com/lo/mysterio/api/ec2c68ff8e38c937",
       "Language": "zh"
     },
     {
