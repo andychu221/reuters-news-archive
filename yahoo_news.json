@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-08T00:11:17.397Z",
-  "total_news_count": 725,
+  "last_updated": "2026-09-08T00:25:58.036Z",
+  "total_news_count": 732,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "08:12:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "字節跳動擬10月推空間AI模型，張一鳴親督、挑戰Meta與Google",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E6%93%AC10%E6%9C%88%E6%8E%A8%E7%A9%BA%E9%96%93ai%E6%A8%A1%E5%9E%8B-%E5%BC%B5-%E9%B3%B4%E8%A6%AA%E7%9D%A3-%E6%8C%91%E6%88%B0meta%E8%88%87google-001232478.html",
+      "Content": "【財訊快報／陳孟朔】外電引述知情人士報導，TikTok母公司字節跳動正準備推出一款用於即時空間場景影片生成的人工智慧模型，最快可能於10月發布，將與Meta Platforms(美股代碼META)及Alphabet(美股代碼GOOGL)在可應用於機器人、自主系統與虛擬世界的AI領域展開競爭。知情人士透露，字節跳動創辦人張一鳴正親自督導新模型開發，協調公司內部多個業務部門，並為項目調配人工智慧人才與算力資源，顯示空間智慧已被列為公司重要技術方向。不過，正式發布日期尚未敲定，相關時程仍可能調整。\n\n這款模型以字節跳動現有的電影級影片生成模型Seedance為基礎，不僅生成預先設定的影片內容，還可根據用戶指令即時建立及改變三維空間場景，讓使用者為直播、短劇和遊戲打造可互動的虛擬世界。\n\n空間影片生成被視為AI由文字與影像創作進一步走向「世界模型」的重要環節，模型必須理解物體、動作及空間關係，並維持場景連續性。若字節跳動如期推出產品，將使生成式AI競爭從短影片製作延伸至遊戲、機器人訓練及自主系統模擬，也將進一步推升高階晶片與數據中心算力需求。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "08:04:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美債殖利率逼近5%警戒線，洛克菲勒國際董事長示警恐刺破AI泡沫",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%80%BC%E8%BF%915-%E8%AD%A6%E6%88%92%E7%B7%9A-%E6%B4%9B%E5%85%8B%E8%8F%B2%E5%8B%92%E5%9C%8B%E9%9A%9B%E8%91%A3%E4%BA%8B%E9%95%B7%E7%A4%BA%E8%AD%A6%E6%81%90%E5%88%BA%E7%A0%B4ai%E6%B3%A1%E6%B2%AB-000453776.html",
+      "Content": "【財訊快報／陳孟朔】美國長期公債殖利率持續攀升，可能成為AI投資熱潮面臨的最大威脅。英國《金融時報》報導，洛克菲勒國際董事長夏瑪(Ruchir Sharma)指出，10年期美債殖利率已升至約4.8%，若決定性突破5%這道自網路泡沫時期以來的區間上緣，恐大幅推高企業融資成本，進而刺破AI泡沫並衝擊美股估值。夏瑪表示，過去約300年間，重大投資泡沫多在核心企業借貸成本明顯上升後破裂，但本輪週期的債務過度主要出現在政府而非企業部門。美國聯邦債務已突破40兆美元，財政赤字約占國內生產毛額(GDP)的6%，超過過去數十年平均水準的一倍，高額發債正與民間企業爭奪資金，產生愈來愈明顯的排擠效應。\n\nAI產業尤其容易受到衝擊。AI應用目前年收入估計約2,000億美元，遠低於數據中心及相關基礎設施逾1兆美元的投入，龐大資金缺口須依賴公司債及股權融資填補。當大型科技公司必須與殖利率超過5%、通膨調整後實質回報逾2.5%的美國公債競爭資金時，發債與增資成本勢必上升，部分回收期較長或獲利前景不明的AI計畫可能被迫延後或取消。\n\n夏瑪認為，市場目前仍隱含AI資本支出不受總體利率約束的樂觀假設，但若10年期美債殖利率迅速突破5%，並在六個月內累計上升超過75個基點，歷史經驗顯示足以對牛市形成重大壓力。與1990年代美債殖利率長期高於5%但美股仍強勁不同，如今美國公眾持有債務已接近GDP的100%，整體經濟對借貸的依賴更深，使5%不只是心理關卡，也可能成為AI融資模式與美股高估值能否維持的關鍵分水嶺。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225, .SPX",
+      "Date": "2026-09-08",
+      "Time": "07:29:22",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股休市，留意日、韓開盤表現和成交量能",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%BC%91%E5%B8%82-%E7%95%99%E6%84%8F%E6%97%A5-%E9%9F%93%E9%96%8B%E7%9B%A4%E8%A1%A8%E7%8F%BE%E5%92%8C%E6%88%90%E4%BA%A4%E9%87%8F%E8%83%BD-232922952.html",
+      "Content": "【財訊快報／魏聖峰】台股週一在費城半導體指數大漲、日股與韓國股市連袂上漲激勵下，帶動加權指數開高走高，並以相對高點的47,326.27點作收，距離6月下旬歷史高點48,218.87點剩不到900點，折合僅約1.85%。但加權指數表現亮眼，成交量卻跟不上來，最近四個交易日加權指數的成交量都不到1兆元，這樣的量能能否讓加權指數再創新高，存在難度。週一晚間美股因勞動節假期而休市，在沒有美股干擾因素下，台股能否再往前衝鋒陷陣，要看週二日股與韓國股市開盤表現而定，若這兩個市場開盤都有超過1%以上的漲幅，有利台股週二的開高表現。若日韓股市開盤下跌，加權指數漲多回檔的機率的確比較高。加權指數上檔反壓約落在47,400點以上，也就是週一加權指數的收盤價，若直接開高走高，也要提防高檔的解套賣壓以及投資人的追價意願。由於週一晚間美股休市，週二外資進出動作會減少，而是以內資為主要觀察點。加權指數的下檔支撐約在47,076點。相較於加權指數的表現，週一櫃買指數也上漲1.7%，漲幅表現與加權指數相當。\n\n週二開盤觀察重點不外乎台積電(2330)、聯發科(2454)、聯電(2303)、日月光投控(3711)、欣興(3037)、致茂(2360)、台達電(2308)；記憶體股的南亞科(2408)、華邦電(2344)、群聯(8299)、被動元件的國巨*(2327)、華新科(2492)和禾伸堂(3026)；PCB的金像電(2368)、台光電(2383)、臻鼎-KY(4958)；高價IC設計的信驊(5274)、創意(3443)、世芯-KY(3661)、力旺(3529)、達發(6526)等股，以及封測股的日月光投控、京元電子(2449)、精材(3374)和力成(6239)等股。探針卡的精測(6510)、旺矽(6223)和穎崴(6515)等。若以上的強勢指標股週二開盤不久全面翻黑，可能暗示週二大盤有拉回的壓力。\n\n非電子股族群則以南亞(1303)、台化(1326)、台塑(1301)和台塑化(6505)為重要觀察指標，南亞在電子材料經營有成，已成為台塑集團的金雞母，並擁有南亞科(2408)、南電(8046)轉投資持股是台塑集團當前基本面最強的指標股。當然，目前股價已在230元上下的南亞股價也不便宜，需要觀察技術面是否有再轉強的機會，做為未來進場觀察點。\n\n台積電供應鏈的弘塑(3131)、辛耘(3583)、家登(3680)、蔚華科(3055)、京鼎(3413)、鴻勁(7769)、致茂(2360)、萬潤(6187)、均華(6640)、漢唐(2404)、華景電(6788)等週一表現不錯的設備股，若股價能進一步轉強，有利大盤表現。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "07:25:19",
+      "Source": "Yahoo奇摩股市",
+      "Title": "全球折疊手機累計出貨年底或突破1億支，蘋果首年市占估達25%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%A8%E7%90%83%E6%8A%98%E7%96%8A%E6%89%8B%E6%A9%9F%E7%B4%AF%E8%A8%88%E5%87%BA%E8%B2%A8%E5%B9%B4%E5%BA%95%E6%88%96%E7%AA%81%E7%A0%B41%E5%84%84%E6%94%AF-%E8%98%8B%E6%9E%9C%E9%A6%96%E5%B9%B4%E5%B8%82%E5%8D%A0%E4%BC%B0%E9%81%9425-232519373.html",
+      "Content": "【財訊快報／陳孟朔】專業市場研究機構Counterpoint Research週一發表最新報告預估，全球折疊智慧型手機累計出貨量將在2026年底突破1億支，成為自2019年首款商用產品問世以來的重要里程碑。隨蘋果公司(美股代碼AAPL)正式加入，加上三星電子(005930.KS)、華為及其他中國品牌持續推出新機，2027年全球折疊手機出貨量可望年增37%，創2022年以來最快增速。Counterpoint預估，蘋果首款折疊iPhone今年出貨量最高約600萬支，即使銷售時間較短，仍可取得全球折疊手機市場25%占有率，直接升至第二名，僅次於三星的38%，並超越華為的22%。不過，新機上市初期主要限制可能來自產能而非需求，供貨地區預料將隨產能爬坡逐步擴大。\n\n目前折疊手機僅占全球智慧型手機市場約2%，仍屬高階利基產品，但參與品牌與產品形態正快速增加。三星持續推進Galaxy Z Fold8系列，華為在中國折疊手機市場居主導地位，小米集團(01810.HK)則推出中折疊旗艦小米18 Fold，摩托羅拉、榮耀、Google母公司Alphabet(美股代碼GOOGL)、vivo及OPPO也在研發新款產品。\n\nCounterpoint研究總監帕塔克(Tarun Pathak)表示，蘋果進場將加劇高階市場競爭，並提高消費者對折疊手機的關注度；然而，折疊機平均價格仍約為傳統直板手機的三倍，全面普及仍需數年。未來競爭關鍵將由硬體形態轉向軟體體驗、耐用度及生產力與內容消費等實際應用場景。",
+      "Language": "zh"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-09-08",
@@ -53,6 +93,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-08",
+      "Time": "06:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股》美國股市因勞動節休市一天",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E7%BE%8E%E5%9C%8B%E8%82%A1%E5%B8%82%E5%9B%A0%E5%8B%9E%E5%8B%95%E7%AF%80%E4%BC%91%E5%B8%82-%E5%A4%A9-221500191.html",
+      "Content": "MoneyDJ新聞 2026-09-08 06:15:05 郭妍希 發佈\n\n美國股市週一(9月7日)因勞動節(Labor Day)休市一天。\n\n受到就業數據引發聯準會(Fed)將於本(9)月稍晚升息的衝擊，美國四大指數上週五(4日)跌多漲少，但記憶體等AI晶片類股跳高，激勵費城半導體指數逆勢走強。\n\n道瓊工業平均指數9月4日終場下跌0.51%(271.86點)、收53,414.25點；週K線下跌0.27%。那斯達克指數下跌0.29%(77.11點)、收26,506.99點；週K線上漲0.4%。標準普爾500指數下跌0.38%(29.11點)、收7,718.60點；週K線上漲0.09%。費城半導體指數勁揚3.38%(383.16點)、收11,735.26點，創8月27日以來收盤新高；週K線上漲2.32%。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用 個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n勤業眾信：半導體業資本策略漸轉向以核心能力為導向\n\n台積：Token將成運算新貨幣；AI產業須突破4大瓶頸\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, MU, SNDK, SIMO",
       "Date": "2026-09-08",
       "Time": "06:05:00",
@@ -61,6 +111,16 @@
       "URL": "https://finance.yahoo.com/m/e08a90a2-842a-3d68-a6f9-b97505f341cc/the-ai-memory-stock-that.html",
       "Content": "The AI memory trade has become a hot one. Micron (NASDAQ: MU) and Sandisk (NASDAQ: SNDK) have trounced the S&P 500 this year, but investors who are looking for elevated returns may want to consider a smaller memory pick.\n\nSilicon Motion Technology (NASDAQ: SIMO) may have what it takes to outperform these behemoths in the future, especially if it remains underappreciated relative to its peers.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nNAND flash controllers are the backbone of memory\n\nSilicon Motion Technology produces NAND flash controllers that enable NAND flash memory. It's a critical component for various memory chips , which explains why the company counts Micron, Sandisk, and other chipmakers as its top customers.\n\nEach of Silicon Motion Technology's customers has reported exceptional results, with multi-year deals highlighted. Micron CEO Sanjay Mehrotra told investors that the company's strategic customer agreements will \"significantly enhance the durability and predictability of [the company's] strong financial performance.\"\n\nSandisk also reached multi-year deals that offer meaningful revenue visibility through its fiscal 2030. The company also reported 51% sequential growth in its fiscal 2026 fourth quarter while guiding for 20.4% sequential growth at its midpoint.\n\nThese companies' success directly translates into more demand for NAND flash controllers. That demand has contributed to Silicon Motion Technology shares soaring by more than 180% year-to-date.\n\nFundamentals are enjoying major tailwinds\n\nSilicon Motion Technology's stock gains align with its fundamentals . The company reported 127% year-over-year revenue growth in its second quarter. That included a 32% sequential jump in revenue, which comfortably beat guidance.\n\nInvestors were expecting up to $411 million in Q2 revenue based on guidance. However, Silicon Motion Technology actually delivered $451 million. Even better, the CEO said that the company has built a \"resilient platform for sustainable, high-quality revenue and profitability growth for years to come.\"\n\nThat commentary implies that Silicon Motion Technology's recent successes aren't a one-off event. Guidance for the third quarter implies up to $541 million in revenue, representing a 20% sequential jump.\n\nMicron and Sandisk both crushed recent guidance, and since they are some of Silicon Motion Technology's largest customers, it increases the likelihood of the latter crushing its Q3 forecast. Silicon Motion Technology will likely report earnings in late October, giving investors time to accumulate before the big day.\n\nStory Continues\n\nTo top it all off, the growth stock trades at a price-to-earnings ratio of just 28. The valuation will get more attractive in subsequent quarters as its revenue and net income continue to surge.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-08",
+      "Time": "06:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "大立光營收觸雷重挫、記憶體月增疲軟！9月台股驚驚漲「蔡明彰點名2大低位補漲安全牌」",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%A7%E7%AB%8B%E5%85%89%E7%87%9F%E6%94%B6%E8%A7%B8%E9%9B%B7%E9%87%8D%E6%8C%AB-%E8%A8%98%E6%86%B6%E9%AB%94%E6%9C%88%E5%A2%9E%E7%96%B2%E8%BB%9F-9%E6%9C%88%E5%8F%B0%E8%82%A1%E9%A9%9A%E9%A9%9A%E6%BC%B2-%E8%94%A1%E6%98%8E%E5%BD%B0%E9%BB%9E%E5%90%8D2%E5%A4%A7%E4%BD%8E%E4%BD%8D%E8%A3%9C%E6%BC%B2%E5%AE%89%E5%85%A8%E7%89%8C-220030105.html",
+      "Content": "美國最新公布的8月非農就業報告跌破市場眼鏡，新增就業人數高達16.2萬人，遠超市場預期的5.6萬人，將近預估值的三倍之多，該項看似強勁的經濟好消息，卻因強化了美國聯準會（Fed）於9月17日利率會議上的升息理由，被股市視為「重大利空」，導致高估值的AI半導體股應聲承壓。\n\n對此，萬寶投顧投資總監蔡明彰指出，就業報告雖帶來升息壓力，但也為先前跌破百日線、表現壓抑的費城半導體指數（SOX），爭取到了短期反彈的喘息緩衝期。\n\n非農結構暗藏季節性 CPI 與油價成通膨關鍵\n\n蔡明彰深入剖析就業結構發現，本月新增的16萬多就業人口中，有超過10萬人屬於季節性短期需求，包括餐飲服務業激增5.9萬人、教育行業返校需求增加4.2萬人；因此，實際的升息證據並不足夠，市場不必過度恐慌。\n\n目前全球投資人已將目光鎖定在9月11日即將公布的消費者物價指數（CPI），市場預期年增率為3.4％；值得注意的是，近期美國零售油價已創下新高、飆升至每加侖5.85美元，這波能源價格的漲勢，將成為干擾通膨數據與Fed決策的最大不確定因素。\n\n操作高低切換 資金湧向「季線補漲股」\n\n針對當前的盤面結構，蔡明彰建議，在9月11日CPI數據翻牌前的空窗期，市場主力資金正全面進行「高低位階切換」，操作策略應以搶進股價在季線之下、或剛站上季線的補漲型股票為主，例如成熟製程、被動元件等。\n\n成熟製程中聯電（2303）作為成熟製程龍頭，近期剛站上季線便強勢攻上漲停板，雖其與英特爾（Intel）策略結盟，但他提醒，由於川普（Donald Trump）近期自誇當年政府以20美元入股英特爾幫民眾賺錢同時，英特爾正因涉嫌濫用晶片法案補貼而面臨侵犯股東權益的訴訟壓力，後續效應仍需密切觀察。\n\n被動元件大廠國巨（2327）目前股價仍位於季線之下且有一段距離，對照日本被動元件大廠村田製作所（Murata）股價同樣在底部盤整，僅反彈約11％，顯見整個被動元件族群基期仍低，具備低檔補漲潛力。\n\n熱門領漲股獲利了結 記憶體動能短線偏弱\n\n相較於補漲股強勢，先前創下新高的熱門領漲股則面臨劇烈的拉回修正壓力。蔡明彰另點名兩大觀察指標，包括大立光（3008）、散熱雙雄。\n\n大立光雖被市場看好其跨入CPO（共同封裝光學）光通訊領域，不單純視其為蘋果概念股，但因8月營收50億元，年減16％不如預期，今日重挫跌停。奇鋐（3017）、雙鴻（3324）基本面依然亮眼，7月EPS高達6.47元，年增120％，但由於股價剛創新高，與大立光雙雙淪為獲利了結重災區。\n\n此外，針對記憶體族群，蔡明彰分析，儘管上周五美股美光（Micron,MU）與三星（Samsung）大漲，惟台灣記憶體廠8月營收月成長（MoM）動能疲軟，其中南亞科（2408）月增率不到2％，華邦電（2344）營收雖達273億元、年增289％，但月增率也僅2％，導致台股記憶體族群昨（7）日表現相對平淡。\n\n短期內全球金融市場受宏觀數據干擾波動劇烈，頻繁切換弱勢補漲股仍存在流動性風險與基本面轉弱之不確定性，在極端行情下可能面臨資金套牢，投資人應審慎評估自身風險承受度，妥善配置資產。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, AAPL, META, MSFT",
@@ -1721,6 +1781,16 @@
       "URL": "https://finance.yahoo.com/m/82d4e103-6433-3463-b135-a2d95c817a9b/how-much-would-you-need-in.html",
       "Content": "Anyone seeking dividend income should check out Realty Income (NYSE: O).\n\nIt's a real estate investment trust (REIT) -- a company that owns lots of real estate properties, leasing them out to tenants. Since REITs are required to pay out at least 90% of their taxable earnings as dividends, they tend to sport meaningful dividend payouts, and their yields tend to be higher than the average stock.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nRealty Income's dividend yield these days is hovering around 5.3%.\n\nLet's say you want $500 per month ($6,000 annually) in dividend income from Realty Income. How many shares should you buy? Well, its recent monthly payout was $0.271. So divide $500 by that and you'll get 1,845 shares. At a recent share price of $62, those shares would cost you $114,390.\n\nWhy invest in Realty Income?\n\nThere are multiple reasons to consider buying Realty Income . For example:\n\nThat fat dividend will grow over time, and it is paid monthly, not quarterly.\n\nThe stock's valuation is attractive, with a recent forward-looking price-to-earnings (P/E) ratio of 35, below the five-year average of 40, and a recent price-to-sales ratio of 9.6, below the five-year average of 10.5.\n\nIf you're worried about the stock market crashing this year, Realty Income has a low beta of 0.72, meaning that it tends to rise or fall less than the overall market. So if the S&P 500 drops by, say, 10%, Realty Income's stock might fall by around 7.2%, based on past performance.\n\nIt owns approximately 15,500 leased properties across all 50 states and parts of Europe, and they span 92 industries. That diversity is important.\n\nIt employs triple-net leases, which require tenants to cover real estate taxes, property insurance, and operating expenses. That keeps things simple for the company and reduces its risk.\n\nIts portfolio occupancy level was recently 98.8% and has never been below 96%.\n\nIt's looking to juice its growth via data centers. It's partnering with other companies to develop data centers.\n\nGive this solid dividend payer a closer look if you're seeking income.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-09-07",
+      "Time": "17:39:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《港股》恆指跌0.93%、日K翻黑；恆科指跌0.92%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B8%AF%E8%82%A1-%E6%81%86%E6%8C%87%E8%B7%8C0-93-%E6%97%A5k%E7%BF%BB%E9%BB%91-%E6%81%86%E7%A7%91%E6%8C%87%E8%B7%8C0-093900131.html",
+      "Content": "MoneyDJ新聞 2026-09-07 17:39:38 數位內容中心 發佈\n\n港股今(7)日下跌，恆生指數收於25,413.12點，下跌237.75點或0.93%，日K翻黑；恆生科技指數收於4,527.71點，下跌42.09點或0.92%。港股三大指數齊跌，市場氣氛偏弱，盤勢受外圍利率預期與地緣風險拖累，收盤維持回檔格局。\n\n外圍因素方面，美國上月非農就業數據強勁，使市場對9月升息預期升溫；同時，中東局勢升級帶動油價與通膨升溫隱憂，壓抑港股風險偏好。市場觀望本週美國通膨數據與後續宏觀數據，短線情緒偏謹慎。\n\n科網與金融方面，科網股跌多漲少，百度、小米、騰訊、阿里巴巴均下跌；內銀股普遍承壓，成為拖累大盤的另一主因。半導體及PCB族群則逆勢走強，華虹宏力、瀾起科技與兆易創新均上漲，而PCB概念股中，廣合科技、建滔積層板及建滔集團均走揚，顯示資金轉向個別題材股。\n\n《陸股》滬指跌0.97%、日K翻黑；恆指跌0.07%\n\n《陸股》滬指跌0.11%，週K翻紅；恆指漲0.07%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "TSLA, NVDA",
