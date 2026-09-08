@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-08T20:02:01.690Z",
-  "total_news_count": 953,
+  "last_updated": "2026-09-08T20:11:07.271Z",
+  "total_news_count": 954,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-09-09",
+      "Time": "03:51:24",
+      "Source": "Yahoo Finance",
+      "Title": "Meta stock wavers as Zuckerberg unveils ‘Muse’ autonomous AI assistant",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-stock-wavers-zuckerberg-unveils-195124270.html",
+      "Content": "Investing.com -- Meta Platforms (NASDAQ:META) shares saw a choppy trading session—initially popping 1% before sliding into the red—following the reveal of Muse, a proactive personal AI agent built to execute digital chores on your behalf.\n\nPowered by Meta's new real-world task model, Muse Spark, the agent goes far beyond standard chatbots. Muse acts as an autonomous digital proxy that can independently send emails, book travel arrangements, and complete web forms. Crucially, it doesn't need constant hand-holding. The agent continues grinding through complex tasks even after you close the app, resurfacing only when it needs human approval to finalize a purchase or send a sensitive message.\n\nTo tackle the inevitable security concerns of a highly autonomous agent, Meta engineered Muse Secure VM, a dedicated virtual machine that completely isolates the agent and your personal data. A secondary AI watchdog, dubbed Sentinel, sits between Muse and the open internet to vet every action before it executes. Passwords and login credentials stay securely locked away, allowing Muse to use them without ever directly \"seeing\" the data.\n\n\"You're in control,\" Mark Zuckerberg stated in the announcement. \"You choose which apps and services Muse has access to and you can disconnect them at any time. For sensitive actions like purchases or sending emails, Muse checks with you first.\"\n\nBolstering its utility as a digital shopper, Muse is the first AI agent covered by Stripe's Link purchase protections, with future integrations planned for Shop Pay and 1Password.\n\nMuse is currently rolling out across the US for free on iOS, Android, and muse.ai, with premium subscription tiers and AI glasses support on the horizon. Later this year, Meta plans to launch Muse Confidential VM, a premium tier offering total end-to-end data encryption controlled entirely by a user-held key.\n\nMeta stock wavers as Zuckerberg unveils 'Muse' autonomous AI assistant\n\nJPMorgan outlines ten strategic themes that could shape the outlook for 2026\n\nAs Claude disrupts stock market, Anthropic researcher warns 'world is in peril'",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-09",
