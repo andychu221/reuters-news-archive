@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-08T13:05:44.542Z",
-  "total_news_count": 73,
+  "last_updated": "2026-09-08T14:06:03.746Z",
+  "total_news_count": 74,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-08",
+      "Time": "21:46:00",
+      "Source": "經濟日報",
+      "Title": "美股早盤／三大指數跌 高通飆7.5%帶動費半上漲 台積電 ADR 漲2.5%",
+      "URL": "https://money.udn.com/money/story/123398/9742468?from=edn_search_result",
+      "Content": "經濟日報 編譯黃淑玲／綜合外電\n\nAI重點 美股三大指數早盤走弱，道瓊跌0.9%，標普500與那斯達克各跌0.2%。 高通宣布與AWS合作開發客製晶片，股價大漲7.5%，帶動費半與台積電ADR上揚。 油價與殖利率上升，加上美伊衝突及美加貿易緊張，持續壓抑市場風險情緒。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-09-08",
@@ -313,7 +323,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2330.TW, 2303.TW",
+      "Ticker": "2303.TW, 2330.TW",
       "Date": "2026-09-07",
       "Time": "17:19:00",
       "Source": "經濟日報",
