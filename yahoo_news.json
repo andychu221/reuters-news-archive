@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-09T15:26:28.809Z",
-  "total_news_count": 1203,
+  "last_updated": "2026-09-09T15:34:43.757Z",
+  "total_news_count": 1204,
   "news": [
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-09-09",
+      "Time": "22:54:30",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's Rally Pressures New CEO to Deliver on Foldable iPhone",
+      "URL": "https://finance.yahoo.com/video/apples-rally-pressures-ceo-deliver-145430259.html",
+      "Content": "Apple Inc.'s $570 billion summer surge is saddling new Chief Executive Officer John Ternus with high expectations heading into the company's most anticipated event in years: the unveiling of the foldable iPhone on Wednesday.The stock has rallied 15% since June 25, when the company announced it was raising prices on many of its products, sending the shares to their worst day in more than a year. Since then, a significant chunk of the gains have been driven by excitement about the new lineup of devices, particularly the foldable phone.For more, we speak with Bloomberg Tech host Ed Ludlow in Cupertino.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-09",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "AAPL, META",
       "Date": "2026-09-09",
       "Time": "22:36:58",
       "Source": "Yahoo Finance",
@@ -73,7 +83,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "TSLA, MU",
       "Date": "2026-09-09",
       "Time": "22:32:00",
       "Source": "Yahoo Finance",
