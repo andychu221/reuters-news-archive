@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-09T12:00:39.187Z",
-  "total_news_count": 1150,
+  "last_updated": "2026-09-09T12:12:12.632Z",
+  "total_news_count": 1151,
   "news": [
+    {
+      "Ticker": "META",
+      "Date": "2026-09-09",
+      "Time": "19:58:15",
+      "Source": "Yahoo Finance",
+      "Title": "Premarket movers: Meta Jumps on AI agent launch, NETGEAR surges",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-meta-jumps-ai-115815918.html",
+      "Content": "Investing.com - U.S. stock futures traded below the flatline on Wednesday as oil prices climbed above $100 a barrel and investors awaited inflation data that could reinforce expectations for the Federal Reserve to raise interest rates later this month.\n\nBy 06:13 ET (10:13 GMT), S&P 500 futures had fallen 19 points, or 0.3%, while Nasdaq 100 futures were down 134 points, or 0.5%. Dow Jones futures had slipped 206 points, or 0.4%.\n\nThe rise in oil prices has added to concerns about inflation, potentially complicating the Federal Reserve's policy outlook. Higher energy costs can feed into broader prices for consumers and businesses, while stronger inflation could make investors more cautious about interest-rate-sensitive growth stocks.\n\nHere are the biggest premarket movers this morning.\n\nMeta Platforms shares surged 3.6% in premarket trading after the company officially launched Muse, its autonomous artificial intelligence personal agent on Tuesday evening.\n\nPowered by Meta's proprietary Muse Spark model, Muse is designed to independently carry out tasks such as booking travel, sending emails, completing web forms and managing payments across iOS, Android and a dedicated web application.\n\nThe launch also marks a significant step in Meta's efforts to monetize its artificial intelligence investments. The company introduced its first tiered AI subscription model, offering plans priced at $20 and $100 per month alongside a free tier.\n\nEvommune shares fell 13.9% in premarket trading to $11.26 after the biotechnology company said its EVO756 drug candidate failed to meet the primary and secondary endpoints in a Phase 2b trial evaluating the treatment in adults with moderate-to-severe atopic dermatitis.\n\nThe randomized, double-blind, placebo-controlled study enrolled 121 adults over a 12-week treatment period. The trial failed to meet its primary endpoint, which measured the percentage change in the Eczema Area and Severity Index score from baseline at Week 12.\n\nEvommune said it will not advance EVO756 in atopic dermatitis, although it plans to continue Phase 2b development of the compound as a potential treatment for migraine prevention.\n\nBraze shares tumbled 11.5% before the open after the customer engagement software company delivered better-than-expected fiscal second-quarter results but issued weaker-than-expected profit guidance for the current quarter.\n\nBraze reported adjusted earnings per share of $0.19 for fiscal Q2 2027, above the $0.15 analyst consensus, while revenue rose 26% year over year to $227.2 million, beating expectations of $220.23 million.\n\nStory Continues\n\nHowever, the company's outlook overshadowed the earnings beat. Braze guided for fiscal third-quarter adjusted EPS of $0.13 to $0.14, whose midpoint was roughly 15% to 16% below the analyst consensus of $0.16.\n\nInvestors also focused on signs of moderating growth. Revenue growth slowed to 26.2% in the second quarter from 30.2% in the first quarter, while free cash flow margins declined sequentially and customer growth also showed signs of slowing.\n\nCanaccord was among the more positive voices, raising its price target on Braze to $37 while maintaining a Buy rating, citing record free cash flow and strong billings growth.\n\nNETGEAR shares jumped 8.9% in premarket trading after the FCC formally banned the import of all new consumer routers manufactured outside the United States, citing national security risks associated with foreign supply chains and cybersecurity vulnerabilities.\n\nThe regulatory action applies to new device models seeking FCC certification and could restrict product launches by many competitors that rely on overseas manufacturing.\n\nNETGEAR could benefit from the policy shift because it had already secured a conditional FCC approval exemption, allowing it to continue providing firmware updates and support for its existing router lineup while competitors adjust to the new restrictions.\n\nThe company has also seen momentum in its enterprise business, which recorded 7.7% year-over-year growth and an all-time-high non-GAAP gross margin of 54.1% in its most recent quarter.\n\nPremarket movers: Meta Jumps on AI agent launch, NETGEAR surges\n\nCiti pushes back Fed rate cuts to May after blowout January jobs report\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-09",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-09-09",
       "Time": "19:26:01",
       "Source": "Yahoo Finance",
