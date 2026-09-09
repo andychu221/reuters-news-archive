@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-09T01:21:09.511Z",
-  "total_news_count": 1022,
+  "last_updated": "2026-09-09T01:26:14.097Z",
+  "total_news_count": 1039,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "09:06:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "亞馬遜、微軟雲端AI戰況激烈，AWS重建Bedrock反攻Azure",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%BA%9E%E9%A6%AC%E9%81%9C-%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AFai%E6%88%B0%E6%B3%81%E6%BF%80%E7%83%88-aws%E9%87%8D%E5%BB%BAbedrock%E5%8F%8D%E6%94%BBazure-010613640.html",
+      "Content": "【財訊快報／陳孟朔】《信息報》(The Information)報導，亞馬遜(Amazon，美股代碼AMZN)旗下AWS已完成企業AI平台Bedrock的核心架構重建，改善容量不足、限流及錯誤訊息等問題，並開始從微軟(Microsoft，美股代碼MSFT)Azure爭取部分AI工作負載。亞馬遜週二股價跌1.54美元或0.60%，收256.97美元；微軟跌5.75美元或1.15%，收493.95美元。AWS於2023年推出Bedrock，讓企業透過AWS直接使用Anthropic Claude、OpenAI等模型，但初期因趕工上線及AI晶片容量未獲充分運用，客戶經常遭遇限流及錯誤訊息。雲端顧問公司Caylent測試發現，2024年Claude經由Bedrock運行時，每秒輸出代幣速度最多較直接使用Anthropic服務慢63%；部分企業申請額外運算容量更需等待最長三週。\n\nAWS其後由資深工程主管Anthony Liguori與另外五名工程師主導「Project Mantle」，重新設計Bedrock的運算資源分配架構，把不同客戶的工作負載有效分隔，並允許重要任務取得較高優先級。新架構去年12月推出後，客戶取得額外容量的等待時間據報由最多三週縮短至約兩日，Mantle也直接相容OpenAI及Anthropic的應用程式介面(API)，降低企業將AI工作移轉至AWS的難度。\n\n服務改善後，部分企業開始把原本放在OpenAI或Azure的工作負載轉移至Bedrock。一名金融業客戶自今年5月以來在AWS的支出增至原來五倍，AI顧問公司Loka亦有約六名客戶轉用Bedrock。AWS表示，Bedrock已成為公司歷來成長最快的「數十億美元級」服務，上半年新增客戶數超過推出首兩年的總和；不過，個別客戶近月仍曾遭遇間歇性中斷，最長一次約11小時，顯示其穩定性尚未完全經受住大規模企業應用的考驗。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "09:05:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "匯豐稱美股被低估，估值未充分反映AI推動生產率和盈利成長",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8C%AF%E8%B1%90%E7%A8%B1%E7%BE%8E%E8%82%A1%E8%A2%AB%E4%BD%8E%E4%BC%B0-%E4%BC%B0%E5%80%BC%E6%9C%AA%E5%85%85%E5%88%86%E5%8F%8D%E6%98%A0ai%E6%8E%A8%E5%8B%95%E7%94%9F%E7%94%A2%E7%8E%87%E5%92%8C%E7%9B%88%E5%88%A9%E6%88%90%E9%95%B7-010552399.html",
+      "Content": "【財訊快報／劉敏夫】外電報導指出，匯豐私人銀行及Premier Wealth全球首席投資長Willem Sels表示，美股並沒有看起來那麼貴，當前估值仍未充分反映人工智慧推動的生產率和盈利成長幅度。Sels指出，美股與歐洲股市的本益比差距已經收窄，而當前估值倍數也尚未完全體現他所稱的AI結構性投資週期。標普500指數目前的遠期本益比約為19倍，相比之下，歐洲Stoxx 600指數接近15倍。\n\nSels在接受電視採訪時表示，美股並不貴。市場正在質疑盈利成長的可持續性，但這種擔憂已經反映在價格中，因為估值差距已經縮小。\n\nSels補充稱，晶片製造商尤其受到投資者折價對待，因為市場甚至對2027年的盈利成長預測也持懷疑態度。他認為，隨著企業透過訂單和業績指引提供更具體的證據，這種懷疑將會逆轉。\n\nSels整體看好股票。他表示，儘管市場不斷受到新聞事件引發的波動衝擊，但股市多次很快恢復，因為經濟和企業表現都比人們預想的更具韌性，而政府和企業面對衝擊時也採取了主動因應，而不是被動觀望。\n\nSels指出，與未採用AI的企業相比，採用AI的企業在盈利、營收和利潤率成長方面表現更強，尤其是在美國。這表明AI技術已經開始帶來實際的生產率提升。\n\nSels表示，股票市場面臨的最大單一風險是債券殖利率大幅上升。他認為，10年期美國國債殖利率升至5%左右，可能成為觸發市場波動的一個水準。\n\n他承認，市場「長期以來已經習慣了債券波動率處於低點」，但他仍認為，強勁的盈利成長形成了有力支撐，使股市很難不繼續上漲。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-09",
+      "Time": "09:05:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股早盤漲302點 站上47400點 台積電漲15元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2302%E9%BB%9E-%E7%AB%99%E4%B8%8A47400%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B215%E5%85%83-010517776.html",
+      "Content": "中東局勢緊張壓抑投資人情緒，美股多收低，費城半導體指數獨強。台北股市今天回神，開盤漲36.96點，加權股價指數為47142.74點，成交金額新台幣85.25億元。早盤開高走高，開盤3分鐘後，漲302.25點，早盤加權指數為47408.03點。台積電最多漲15元至2485元。\n\n其他權值股早盤表現，鴻海（2317）以251.5元持平；聯發科（2454）下跌30元，為4680元；台達電（2308）下跌10元，為1795元；廣達（2382）上漲14.5元，為342.5元，漲幅逾4%。\n\n電子類股指數上漲0.63%、金融類股指數下跌0.51%，代表中小型股票的櫃買指數上漲1.41%。\n\n台股昨天收在47105.78點，美股四大指數終場道瓊工業指數下跌628.18點或1.18%，收報52786.07點。標普500指數下挫45.08點或0.58%，收在7673.52點。那斯達克指數滑落85.58點或0.32%，收26421.41點。費城半導體指數上漲152.61點或1.30%，收11887.87點；而AI晶片龍頭輝達（NVDA-US）下跌2.01%、台積電ADR上漲2.42%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-09",
+      "Time": "09:05:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股開盤】漲36.96點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E6%BC%B236-96%E9%BB%9E-010510117.html",
+      "Content": "（中央社台北2026年9月9日電）台北股市今天開盤漲36.96點，加權股價指數為47142.74點，成交金額新台幣85.25億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-09",
+      "Time": "09:04:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤漲36.96點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E6%BC%B236-96%E9%BB%9E-010408606.html",
+      "Content": "（中央社台北9日電）台北股市今天開盤漲36.96點，加權股價指數為47142.74點，成交金額新台幣85.25億元。1150909",
+      "Language": "zh"
+    },
     {
       "Ticker": "META",
       "Date": "2026-09-09",
@@ -13,6 +63,56 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "08:58:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI需求點燃光通訊股，Lumentum週二飆11.04%在標普500稱王",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%9C%80%E6%B1%82%E9%BB%9E%E7%87%83%E5%85%89%E9%80%9A%E8%A8%8A%E8%82%A1-lumentum%E9%80%B1%E4%BA%8C%E9%A3%8611-04-%E5%9C%A8%E6%A8%99%E6%99%AE500%E7%A8%B1%E7%8E%8B-005800870.html",
+      "Content": "【財訊快報／陳孟朔】《華爾街日報》及《霸榮周刊》(Barron&#x27;&#x27;s)報導，生成式AI模型持續推升數據中心高速傳輸需求，帶動兩大光通訊業者週二逆勢飆升。Lumentum Holdings(美股代碼LITE)大漲11.04%，成為標普500指數表現最佳成份股，收在978.54美元，創6月2日以來最高；Coherent Corp.(美股代碼COHR)亦勁揚7.10%，收在301.88美元為費半第二旺，只輸給飆9.05%的英特爾。光通訊類股走強，一方面受到OpenAI推出新一代Astra模型激勵。市場認為，模型推理及AI代理功能變得更加複雜，將增加數據中心內伺服器、交換器及運算叢集之間的資料傳輸量，進一步推升高速光收發模組、雷射元件與光纖連接設備需求。\n\n另一方面，康寧與Verizon簽署多年期大型光纖供應協議，進一步強化AI及寬頻基礎設施需求持續擴張的預期。根據協議，康寧將在2027年至2032年間供應超過8,000萬英里的高容量光纖及連接解決方案，消息除推升康寧股價外，買盤亦擴散至Lumentum、Coherent及Ciena等光通訊供應商。\n\nLumentum與Coherent均供應AI數據中心所需的高速光學與雷射元件，是運算速度提升及資料流量成長的直接受惠者。Investopedia報導，Lumentum今年以來股價累計漲幅已達約169%，Coherent則上漲約66%；週二在標普500指數下跌0.58%的情況下仍大幅走高，顯示資金持續集中於AI基礎設施與高速光互聯概念股。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "08:56:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "高通攜手亞馬遜拚AI晶片，採購金額最高600億美元，週二股價大漲3.17%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%AB%98%E9%80%9A%E6%94%9C%E6%89%8B%E4%BA%9E%E9%A6%AC%E9%81%9C%E6%8B%9Aai%E6%99%B6%E7%89%87-%E6%8E%A1%E8%B3%BC%E9%87%91%E9%A1%8D%E6%9C%80%E9%AB%98600%E5%84%84%E7%BE%8E%E5%85%83-%E9%80%B1%E4%BA%8C%E8%82%A1%E5%83%B9%E5%A4%A7%E6%BC%B23-17-005611602.html",
+      "Content": "【財訊快報／陳孟朔】路透報導，高通(Qualcomm，美股代碼QCOM)與亞馬遜(Amazon，美股代碼AMZN)達成多世代人工智慧(AI)基礎設施合作，亞馬遜未來採購高通AI數據中心晶片及相關產品的金額最高可達600億美元。消息刺激高通週二盤中一度大漲8.70%，觸及183.49美元，終場漲幅收斂至3.17%，收報174.09美元；亞馬遜則倒跌0.60%，收報256.97美元，成交金額73.87億美元。作為合作安排的一部分，高通將向亞馬遜發行認股權證，讓亞馬遜可按每股161.26美元認購最多2,500萬股高通普通股，潛在投資額約40.32億美元，認股權證將於2036年9月3日到期。其中375萬股在認股權證發行時已取得歸屬資格，但不代表亞馬遜已實際行使認購權；其餘股份的歸屬進度將與亞馬遜對高通產品的訂單及採購金額掛鈎。\n\n雙方將共同開發客製化AI推理晶片，支援亞馬遜雲端服務AWS持續擴張的AI數據中心基礎設施，並合作研發傳輸速率達1.6T及更高規格的新一代光互聯解決方案。高通也計畫擴大使用AWS雲端服務及Amazon Bedrock等生成式AI工具，加快晶片設計與驗證流程。\n\n這筆合作被市場視為高通進軍AI數據中心市場的重要突破，有助降低公司對智慧型手機晶片業務的依賴，並向輝達主導的AI運算市場發起挑戰。高通先前預估，數據中心業務年度營收可望在2027會計年度達到50億美元、2029會計年度增至150億美元；亞馬遜的採購承諾及股權綁定安排，則提高上述成長目標的能見度。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-09",
+      "Time": "08:55:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI熱潮迎13項壓力測試，IPO、晶片供應與數據中心成秋季焦點",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%BF%8E13%E9%A0%85%E5%A3%93%E5%8A%9B%E6%B8%AC%E8%A9%A6-ipo-%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89%E8%88%87%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E6%88%90%E7%A7%8B%E5%AD%A3%E7%84%A6%E9%BB%9E-005523519.html",
+      "Content": "【財訊快報／陳孟朔】《信息報》(The Information)報導，全球AI產業未來三個月將迎來13項關鍵事件，涵蓋Anthropic首次公開募股(IPO)、輝達銷售團隊換帥、台積電(2330)先進製程產能分配、算力期貨上市，以及數據中心建設面臨的政治阻力。這些事件將檢驗AI資本支出、晶片需求與企業應用能否延續，也可能重新塑造科技公司的估值邏輯。資本與晶片供應方面，Anthropic預計數週內提交IPO申請，招股文件將揭露收入、虧損、數據中心合約，以及與股東亞馬遜和Alphabet之間的商業往來。輝達則由微軟老將Nick Parker接掌銷售團隊，在Vera Rubin伺服器開始大規模出貨之際，應對Google、亞馬遜與OpenAI加速自研晶片的競爭。台積電秋季產能分配亦備受關注，輝達與Google均爭取更多先進製程產能，結果將影響Vera Rubin及TPU的供貨速度。\n\nAI基礎設施擴張開始面臨現實限制。美國地方社區對數據中心耗電、用水、土地及環境影響的反對升高，中期選舉可能迫使政治人物收緊對巨型項目的支持。與此同時，芝商所(CME)及洲際交易所(ICE)正籌備推出與GPU租賃價格掛鈎的算力期貨；若獲監管機構批准，AI企業將首次擁有類似航空公司利用能源期貨的工具，以對沖運算成本波動。\n\n大型科技公司的AI策略也進入調整期。微軟正測試OpenAI、DeepSeek及月之暗面等模型，以降低365 Copilot對Anthropic的依賴；亞馬遜可能在11月AWS年度大會交代Nova模型是否轉向開源；Meta則嘗試把WhatsApp與Messenger的AI代理推向企業客服、銷售及營運市場。xAI收購Cursor後能否提升Grok在開發者市場的競爭力，以及OpenAI與Jony Ive合作的AI裝置能否亮相，同樣是商業化的重要觀察點。\n\n此外，蘋果新任執行長特努斯(John Ternus)面臨重整老化管理團隊的挑戰，灣區以未上市AI公司股權支付房屋首期款的構想能否真正成交，以及Life Biosciences長壽療法能否取得初步安全數據，也被列入13項變數。整體而言，AI行情能否延續，將不再只取決於模型性能，而要同時接受資金籌措、晶片供給、能源容量、監管阻力及實際營收的多重檢驗。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "08:53:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "花旗指美企盈利上調潮創2021年來最長紀錄，或成美股最強支撐",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8A%B1%E6%97%97%E6%8C%87%E7%BE%8E%E4%BC%81%E7%9B%88%E5%88%A9%E4%B8%8A%E8%AA%BF%E6%BD%AE%E5%89%B52021%E5%B9%B4%E4%BE%86%E6%9C%80%E9%95%B7%E7%B4%80%E9%8C%84-%E6%88%96%E6%88%90%E7%BE%8E%E8%82%A1%E6%9C%80%E5%BC%B7%E6%94%AF%E6%92%90-005328002.html",
+      "Content": "【財訊快報／劉敏夫】外電報導指出，隨著通膨風險高漲，美國企業強勁的盈利前景正在為美股提供支撐。花旗集團一項指數顯示，美國企業盈利預期已連續第21週出現上調多於下調的情況，為2021年9月以來持續時間最長的一輪上調。\n\n這一趨勢使美國企業有機會在此前一個表現數一數二的季度之後，再迎來一個強勁的財報季。與此同時，西德州中級(WTI)原油價格穩居每桶90美元上方，交易員也在為聯準會下週可能升息做準備，但盈利預期改善仍提振了市場情緒。\n\n儘管過去一個月美股漲勢有所停頓，標普500指數目前仍僅較紀錄高點低了約1%。\n\nState Street Global Markets股票研究主管Marija Veitmane表示，推動股市的是微觀因素，而不是宏觀因素。仍然看到強勁的盈利預期上調正在增強投資者對股票的興趣，不認為這是市場陷入狂熱，或是對風險視而不見。\n\n瑞銀集團全球宏觀股票策略主管Keith Parker指出，僅過去兩個月，市場對標普500指數成分股明年盈利的預期就已上調近4%。這種情況非常罕見，也表明近期美國企業盈利在多個行業都表現出相當強的韌性。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-09",
+      "Time": "08:50:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年9月9日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B49%E6%9C%889%E6%97%A5-005026507.html",
+      "Content": "【統一證券】\n\n台股低檔買盤具支撐。惟中東地緣風險未歇、日圓急升引發利差交易平倉效應，短線仍須提防行情波動，操作建議低接不追高、選股以流動性佳的中大型AI權值股為主。\n\n【國票證券】\n\n台股維繫高檔震盪走勢，記憶體族群回檔宜偏多因應，後續市場焦點將轉向美國PPI、CPI及蘋果新品發表會，在重要事件揭曉前，預期台股維持高檔震盪、類股輪動格局。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-09",
       "Time": "08:50:01",
@@ -21,6 +121,66 @@
       "URL": "https://finance.yahoo.com/m/4307f5e2-5721-3cca-ac9e-399c2d2d0f67/history-says-september-is-the.html",
       "Content": "Equity markets have historically delivered lower returns in September than in other months, a phenomenon known as the September effect. Will the same thing happen this year? It's hard to say, but it's also not particularly important for investors focused on the long game. There are plenty of stocks worth buying that could beat the broader market over the long run, regardless of what happens this month. Here's one great example: Apple (NASDAQ:AAPL). The tech giant has a rock-solid business, excellent prospects, and a major potential catalyst coming up (very) soon.\n\nImage source: The Motley Fool.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe start of a new era\n\nOn Sept. 1, Tim Cook, the longtime CEO of Apple, stepped down from his position and became executive chairman of the company's board of directors. Apple's new CEO is John Ternus, the former vice president of hardware engineering. Since Tim Cook led Apple through a period in which it crushed broader equity indexes, many investors were not thrilled about his decision to step down as CEO.\n\nHowever, John Ternus could start his tenure as CEO with a bang and help investors regain some confidence about the company's outlook. On Sept. 9, the company will unveil a new lineup of products, probably including the newest iPhone. This event is always highly anticipated, but it is even more so this year, and not just because of the recent CEO change. Apple has reportedly been working on a foldable iPhone for some time and might finally reveal it to the world. A foldable iPhone could meaningfully move the needle for Apple.\n\nFoldable smartphones launched by other brands have proved popular. Yet, the category still accounts for just 2% of the smartphone market, according to some estimates. There is plenty of room to grow, and if Apple launches a high-quality foldable phone, it could strengthen its ecosystem, enable it to retain more customers, and attract new ones.\n\nThe long-term view\n\nApple's foldable iPhone may well disappoint investors and analysts, leading to a meaningful dip in the company's share price following its September event. Of course, the opposite could also happen. But it's important not to be too concerned with the stock's short-term movements. Whatever happens on Sept. 9, Apple will almost certainly still be an excellent stock to hold onto for a while. Here are three reasons why.\n\nStory Continues\n\nFirst, the company's financial results have remained strong in recent years despite significant headwinds, including tariffs. In the third quarter of its fiscal year 2026, ended June 27, Apple's revenue climbed 16% year over year to $109.4 billion. Revenue growth has rebounded meaningfully in recent quarters, providing evidence that the iPhone can still drive strong top-line increases.\n\nAAPL Revenue (Quarterly YoY Growth) data by YCharts\n\nThe company's earnings per share came in at $2.02, up 29% compared to the year-ago period. Apple's shares fell following its latest update, largely due to concerns about supply constraints. Still, the tech leader has performed fairly well in recent quarters, especially considering the broader economic environment. That speaks to the resilience of its underlying business. Second, Apple has a massive user ecosystem. It boasts an installed base of more than 2.5 billion devices, providing significant monetization opportunities.\n\nApple is already squeezing plenty of money out of its ecosystem with the many subscriptions it offers. But there is room for improvement, and as the company's high-margin services segment continues to grow, expect it to lift company-wide margins. Third, Apple generates more than enough cash to pour into R&D. The company's trailing-12-month free cash flow is $136.68 billion, up 38.4% year over year.\n\nThat grants Apple the flexibility to pursue opportunities in potentially lucrative areas, including artificial intelligence, while still rewarding shareholders with share buybacks and dividend increases. All of these factors make Apple an attractive stock to buy, regardless of how it performs this month.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, .SPX",
+      "Date": "2026-09-09",
+      "Time": "08:47:24",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【國票金控晨訊】美股跌多漲少　台股走勢估高檔震盪",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A5%A8%E9%87%91%E6%8E%A7%E6%99%A8%E8%A8%8A-%E7%BE%8E%E8%82%A1%E8%B7%8C%E5%A4%9A%E6%BC%B2%E5%B0%91-%E5%8F%B0%E8%82%A1%E8%B5%B0%E5%8B%A2%E4%BC%B0%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA-004724714.html",
+      "Content": "日期：2026年 9月 9日\n\n※操作建議與結論\n\n美油價維持高檔，美股跌多漲少\n\n惟費半逆勢上揚，有望挹注台股多方攻勢延續\n\n今日盤勢及未來走勢：(台股維繫高檔震盪走勢，記憶體族群回檔宜偏多因應)\n\n隨國際情勢動盪，推升油價維持高檔，推升市場對於通膨預期，美股四大指\n\n數呈跌多漲少，幅度介於1.18% 至 +1.3%，台積電ADR上漲2.35%，台指期夜盤上\n\n漲100點，預期在美科技股逆勢上漲帶動下，有望挹注台股多方攻勢延續，指數\n\n仍有望守穩五日線之上。\n\n※短線看法\n\n台股近日多方攻勢強勁，指數持續朝前高挺進，惟隨著位階逐步墊高，短線\n\n震盪與籌碼換手也將同步加劇，所幸短中期均線仍維持多頭排列，整體多方架構\n\n尚未改變，後續市場焦點將轉向美國PPI、CPI及蘋果新品發表會，在重要事件揭\n\n曉前，預期台股維持高檔震盪、類股輪動格局。\n\n※操作建議\n\nAI與HBM需求持續排擠傳統DRAM產能，搭配庫存低檔、報價維持高檔，記憶\n\n體景氣仍具支撐，加上記憶體大廠八月營收表現亮眼，顯示漲價效益逐步反映至\n\n營運，操作上可留意相關個股，把握股價在五日均線附近逢低布局。\n\n※重點產業與族群：\n\n【新增6620 漢達】\n\n記憶體 – 2344華邦電、2408南亞科\n\n觀點：AI伺服器與HBM需求持續擴張，帶動主要原廠優先配置高階產能，然\n\n傳統DRAM新增供給有限，供需缺口延續，報價維持高檔。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-09-09",
+      "Time": "08:45:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】台指期夜盤漲百點　估台股今震盪盤堅",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E6%BC%B2%E7%99%BE%E9%BB%9E-%E4%BC%B0%E5%8F%B0%E8%82%A1%E4%BB%8A%E9%9C%87%E7%9B%AA%E7%9B%A4%E5%A0%85-004509803.html",
+      "Content": "日期：2026年 9月 9日\n\n※盤勢分析\n\nAI供應鏈營收亮眼，美伊衝突油價上漲攪局，台股震盪盤堅\n\n※昨日盤勢\n\n美股週一因勞動節休市，然中東衝突持續升溫，國際油價再度攀高。週二台\n\n股早盤受惠亞幣升值熱錢買盤效應，由台積電領軍帶領指數再創8月反彈以來新\n\n高，惟高檔追價買盤意願不足，午盤過後賣壓出籠，終場收黑下跌。盤面買盤聚\n\n焦8月營收繳出佳績個股，其中以半導體設備族群表現強勢。權值股方面，台積\n\n電上漲0.41%、鴻海下跌1.76%、聯發科下跌1.05%、廣達下跌5.61%，台達電下跌\n\n2.43%。\n\n盤面強勢股，穎崴、東捷、力旺、系微、漢達、華安、世紀*等共19檔漲停\n\n；晟鈦、蔚華科、律勝、大量、鴻勁、藥華藥等漲幅6%以上。盤面弱勢股，台虹\n\n、聯鈞、沛爾生醫*-創、永擎跌停；松翰、風青、光鼎、聯傑、松川精密、金山\n\n電等跌幅7%以上。終場台灣加權指數下跌220.49點，以47105.78點作收，成交量\n\n8766.62億元。\n\n三大類股漲跌互見，電子下跌0.70%、傳產下跌0.03%、金融上漲1.20%。在\n\n次族群部份以居家生活、生技醫療、食品表現較佳，分別上漲2.01%、1.24%、\n\n1.19%。\n\n※資金動向\n\n三大法人合計賣超125.15億元。其中外資買超132.69億元，投信賣超72.43\n\n億元，自營商賣超185.4億元。外資買超前五大為華邦電、友達、南亞科、臺企\n\n銀、第一金；賣超前五大為聯電、緯創、群創、仁寶、英業達。投信買超前五大\n\n為台新新光金、玉山金、富喬、彰銀、中信金；賣超前五大為華通、遠東新、凱\n\n基金、緯穎、永豐金。資券變化方面，融資減20.05億元，融資餘額為5862.67億\n\n元，融券減0.26萬張，融券餘額為20.86萬張。外資台指期部位，空單增加2771\n\n口，淨空單部位82262口，借券賣出金額286.68億元。成交比重：電子88.37%、\n\n傳產8.69%、金融2.94%。\n\n※今日盤勢分析\n\n美國中央司令部週二發動新一波攻擊，摧毀五艘伊朗原油運油船，推升布蘭\n\n特原油逼近每桶100美元，加深市場對通膨與聯準會升息的疑慮，短天期美債殖\n\n利率走高，10年期美債殖利率則大致持平於4.79%，美股四大指數漲跌互見，台\n\n積電ADR上漲2.35%，台指期夜盤上漲100點，預期今日台股震盪盤堅。\n\n台股後市分析如下：第一、AI運算戰線從雲端快速向終端裝置及實體世界延\n\n伸，Arm 全面擴張AI運算布局，一口氣揭曉行動裝置、Physical AI與資料中心\n\n三大平台進展，包括推出新一代AI原生運算平台CSS for Mobile 2、Neoverse\n\nCSS N4，以及成立Arm Total Design for Physical AI生態系。值得注意的是，\n\nArm表示，CSS for Mobile 2內部參考設計採用台積電N2製程，隨新一代AI晶片\n\n進入2奈米世代，台積電先進製程可望持續扮演關鍵角色。\n\n第二、封測族群8月營收全面走強，力成、京元電及矽格單月營收均呈年月\n\n雙增，其中力成、矽格更連續兩月改寫歷史新高。三家公司成長動能各有側重，\n\n力成受惠記憶體封測回溫，京元電掌握AI及高效能運算晶片測試需求，矽格則由\n\nAI、高速互連及先進製程手機晶片共同推升，隨新產能陸續開出，封測業下半年\n\n成長動能延續。\n\n第三、技術面觀察，週二台股收量縮黑K，收盤仍守穩5日線之上。技術指標\n\nKD高檔K值下彎、RSI向下彎，MACD紅柱體擴大，整體技術面為高檔震盪，在5日\n\n線未跌破且下彎前，仍有利多方震盪盤堅。\n\n第四、盤面資金聚焦設備、探針卡、部分IC設計、8月營收成長等個股，包\n\n括穎崴、東捷、力旺、系微、華安等表現強勢。\n\n※投資策略\n\n中東衝突升溫推升布蘭特原油逼近百元大關，導致美債殖利率居高不墜，市\n\n場靜待本週通膨數據公布以判讀下週 FOMC 利率決策路徑。回歸台股，目前技術\n\n面均線維持多頭排列，受惠新台幣升值熱錢買盤、AI族群8月營收亮眼、今晚蘋\n\n果新品發表會等利多題材，台股低檔買盤具支撐。惟中東地緣風險未歇、日圓急\n\n升引發利差交易平倉效應，短線仍須提防行情波動，操作建議低接不追高、選股\n\n以流動性佳的中大型AI權值股為主。長線追蹤族群：台積電及先進封裝、銅箔基\n\n板、光傳輸、電源管理、散熱、機箱滑軌、貨櫃散裝、自行車、特用化學及高殖\n\n利率銀行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX",
+      "Date": "2026-09-09",
+      "Time": "08:39:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】美股多收黑費半獨強　投顧：台股47000點攻防成焦點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E7%BE%8E%E8%82%A1%E5%A4%9A%E6%94%B6%E9%BB%91%E8%B2%BB%E5%8D%8A%E7%8D%A8%E5%BC%B7-%E6%8A%95%E9%A1%A7-%E5%8F%B0%E8%82%A147000%E9%BB%9E%E6%94%BB%E9%98%B2%E6%88%90%E7%84%A6%E9%BB%9E-003903167.html",
+      "Content": "（中央社記者何秀玲台北2026年9月9日電）中東局勢緊張壓抑投資人情緒，美股多收低，費城半導體指數獨強，台積電ADR上漲2.3%，輝達下跌2.1%。投顧指出，台股目前面臨歷史高檔區壓力，市場並聚焦本週將公布的美國8月消費者物價指數（CPI）；今天盤勢觀察47000點關卡能否守穩，以及權值股表現。\n\n美股8日表現，道瓊工業指數下跌628.18點或1.18%，收報52786.07點。標普500指數下挫45.08點或0.58%，收在7673.52點。那斯達克指數滑落85.58點或0.32%，收26421.41點。費城半導體指數上漲152.61點或1.30%，收11887.87點。\n\n台股8日表現，下跌220.49點，終場收在47105.78點，三大法人僅外資站在買方，持續加碼新台幣132.68億元，寫下連3買，大舉敲進記憶體族群與面板股，並布局金融股避險。\n\n外資買超前10名排行榜，8月營收亮眼的記憶體族群成為資金避風港，華邦電獲買超9.25萬張登上榜首，南亞科以3.42萬張排在第3名。面板股友達也獲外資青睞，買超8.52萬張排第2。\n\n外資買超第4至10名依序為臺企銀2.68萬張、元大台灣50的2.08萬張、第一金1.6萬張、兆豐金1.34萬張、上海商銀1.17萬張、凱基台灣TOP50的1.06萬張、華航8979張。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-09",
+      "Time": "08:34:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "12吋光罩來了！台積電攜手ASML 打造晶片終極神兵",
+      "URL": "https://tw.stock.yahoo.com/news/12%E5%90%8B%E5%85%89%E7%BD%A9%E4%BE%86%E4%BA%86-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%9C%E6%89%8Basml-%E6%89%93%E9%80%A0%E6%99%B6%E7%89%87%E7%B5%82%E6%A5%B5%E7%A5%9E%E5%85%B5-003400729.html",
+      "Content": "晶圓代工龍頭台積電與微影設備巨擘ASML宣布發起產業合作，推動極紫外光（EUV）光罩由現行6吋邁向12吋大尺寸轉型，預計2031年成立試產線、2033年正式投入先進製程量產，全力鎖定AI晶片爆炸性需求！\n\n大尺寸光罩技術革命\n\n晶圓代工龍頭台積電與半導體設備巨擘艾司摩爾在SPIE BACUS年度會議前夕聯合宣布，將發起一項跨產業合作倡議，引領半導體產業過渡至大尺寸高數值孔徑極紫外光（High NA EUV）光罩技術。\n\n高數值孔徑極紫外光微影技術早期量產仍將沿用現行的6吋光罩。然而，改用尺寸更大的12吋光罩後，將能大幅提升晶圓廠生產力、降低晶片製造成本，並一舉消除光罩拼接的限制，讓先進晶片製造商能完整發揮High NA EUV技術的優勢，使未來世代的頂尖晶片更具成本效益。\n\n兩大巨頭擘劃產業願景\n\n根據ASML發布的新聞稿，ASML總裁暨執行長Christophe Fouquet表示：「我們預期隨著元件微縮技術路線圖演進，High NA EUV的採用率將逐步提升。初期將使用現行6吋光罩，隨後獲得12吋光罩的進一步支援，進而實現更高的曝光機生產力，滿足市場對更小、更快及更節能晶片的需求。」他同時對半導體製造商、光罩供應商與夥伴的高度支持表示欣慰。\n\n台積電董事長暨總裁魏哲家博士也在聲明中指出：「我們始終相信，當產業攜手解決複雜問題時，能夠解鎖單一企業無法獨自實現的可能性。透過凝聚產業價值鏈各方的專業力量，我們希望藉由持續創新降低技術門檻，並讓大規模的先進解決方案觸手可及，持續提供前沿技術所帶來的效益。」\n\n藍圖規劃與AI需求驅動\n\n台積電規劃自2030年起，將ASML的High NA EUV技術投入先進製程的量產。隨著技術節點推進，受AI應用帶動的晶體管架構複雜化影響，台積電預估需要使用High NA EUV曝光的層數將持續攀升。\n\n這項跨產業合作目標在於2031年建立12吋光罩試產線，並於2033年完成微影系統與整體生態系的全面就緒，正式進入先進製程量產階段。該活動也吸引了眾多生態系夥伴與關鍵供應商參與，並表達對此轉型的強烈意願。\n\n（封面示意圖／AI生成）\n\n【 本文 由<a data-yga=\"{\"yInteractivityType\":\"0\",&quot",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-09",
+      "Time": "08:32:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "半導體股逆勢吸金，費半逆漲1.3%逼近萬二、英特爾與AMD勁揚強攻",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E9%80%86%E5%8B%A2%E5%90%B8%E9%87%91-%E8%B2%BB%E5%8D%8A%E9%80%86%E6%BC%B21-3-%E9%80%BC%E8%BF%91%E8%90%AC%E4%BA%8C-%E8%8B%B1%E7%89%B9%E7%88%BE%E8%88%87amd%E5%8B%81%E6%8F%9A%E5%BC%B7%E6%94%BB-003253114.html",
+      "Content": "【財訊快報／陳孟朔】美股週二(8日)受油價走高及通膨疑慮壓抑，道瓊、標普和那替同步收黑，但半導體類股逆勢吸金，費城半導體指數終場追高1.3%，逼近萬二，30檔成分股中多達21檔上漲，成為科技股盤中止跌的重要支柱。MarketWatch報導，半導體股強勢反彈一度帶動那斯達克100指數由黑翻紅。個股方面，英特爾(Intel)暴漲9.05%，為費半主要領漲股之一；超微(AMD)勁揚5.90%，收505.74美元，同樣大幅跑贏費半。《霸榮周刊》(Barron&#x27;&#x27;s)報導，超微財務長Jean Hu對人工智慧(AI)市場前景釋出樂觀看法，預估2030年前相關市場規模有機會達2兆至3兆美元，激勵買盤湧入；英特爾則受到市場傳出可能再度調高CPU價格的消息推升。\n\n其他晶片股亦普遍走強，應用材料(Applied Materials)上漲3.98%，高通(Qualcomm)漲3.17%，博通(Broadcom)漲2.98%。路透報導，高通與亞馬遜簽訂長期合作協議，將共同開發AI數據中心客製化晶片及光學連接技術，成為當日晶片類股另一項重要利多。\n\n不過，費半並非全面齊漲。Astera和安森美(ON Semiconductor)各重挫6.94%和4.44%墊底；重量級的輝達逆勢下跌2.01%，微晶片科技(Microchip Technology)也跌1.07%至73.38美元，對指數形成明顯拖累。換言之，在輝達等權值股逆勢走低的情況下，費半仍能勁揚逾2%，凸顯週二漲勢主要由英特爾、超微、高通及博通等個股強力拉抬。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-09",
+      "Time": "08:27:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股多收黑費半獨強　投顧：台股47000點攻防成焦點",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E5%A4%9A%E6%94%B6%E9%BB%91%E8%B2%BB%E5%8D%8A%E7%8D%A8%E5%BC%B7-%E6%8A%95%E9%A1%A7-%E5%8F%B0%E8%82%A147000%E9%BB%9E%E6%94%BB%E9%98%B2%E6%88%90%E7%84%A6%E9%BB%9E-002749436.html",
+      "Content": "（中央社記者何秀玲台北9日電）中東局勢緊張壓抑投資人情緒，美股多收低，費城半導體指數獨強，台積電ADR上漲2.3%，輝達下跌2.1%。投顧指出，台股目前面臨歷史高檔區壓力，市場並聚焦本週將公布的美國8月消費者物價指數（CPI）；今天盤勢觀察47000點關卡能否守穩，以及權值股表現。\n\n美股8日表現，道瓊工業指數下跌628.18點或1.18%，收報52786.07點。標普500指數下挫45.08點或0.58%，收在7673.52點。那斯達克指數滑落85.58點或0.32%，收26421.41點。費城半導體指數上漲152.61點或1.30%，收11887.87點。\n\n台股8日表現，下跌220.49點，終場收在47105.78點，三大法人僅外資站在買方，持續加碼新台幣132.68億元，寫下連3買，大舉敲進記憶體族群與面板股，並布局金融股避險。\n\n外資買超前10名排行榜，8月營收亮眼的記憶體族群成為資金避風港，華邦電獲買超9.25萬張登上榜首，南亞科以3.42萬張排在第3名。面板股友達也獲外資青睞，買超8.52萬張排第2。\n\n外資買超第4至10名依序為臺企銀2.68萬張、元大台灣50的2.08萬張、第一金1.6萬張、兆豐金1.34萬張、上海商銀1.17萬張、凱基台灣TOP50的1.06萬張、華航8979張。（編輯：楊凱翔）1150909",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN, NVDA",
@@ -41,6 +201,16 @@
       "URL": "https://finance.yahoo.com/m/aa148c4c-13c2-3ab0-8989-8d2c536e8dc5/why-phreesia-stock-got.html",
       "Content": "Hardly for the first time in recent trading sessions, Phreesia (NYSE: PHR) stock took it on the chin Tuesday. Investors remained bearish on the stock following the healthcare provider software specialist's second-quarter earnings release last week. This was exacerbated by an analyst's recommendation downgrade early Tuesday morning.\n\nBuffeted by these headwinds, the company's stock closed that trading session almost 7% lower.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nIt's now a hold, says pundit\n\nThe downgrading party was financial services company Raymond James , in the person of pundit John Ransom. He moved his Phreesia rating down one peg to market perform (hold, in other words) from his previous outperform (buy).\n\nThe catalyst for this, unsurprisingly, was that quarterly performance . According to reports, Ransom expressed concern that the company's organic revenue growth continues to decline, potentially turning negative in the second half of this year.\n\nThe analyst also wrote in his update that Phreesia's spending on the build-out of its artificial intelligence (AI) capabilities could pressure the growth of earnings before interest, taxes, depreciation, and amortization (EBITDA). On top of that, the company's target market of healthcare providers and networks might see constrained budgets going forward.\n\nA wait-and-see situation\n\nAlthough Phreesia posted a quarter where it missed on the bottom line, its performance wasn't bad by any stretch of the imagination -- revenue grew by 10% year over year, while profitability nearly tripled. That said, it has several new products that will probably need time to win over customers, and it's in the midst of restructuring its operations.\n\nIt has potential as an investment, to be sure, but it's probably best to wait a bit to see if the restructuring improves its business and those newer offerings capture the hearts of customers.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-09-09",
+      "Time": "08:20:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "布油逼近百美元加劇通膨憂慮，道瓊重挫628點，費半追漲1.3%連四紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B8%83%E6%B2%B9%E9%80%BC%E8%BF%91%E7%99%BE%E7%BE%8E%E5%85%83%E5%8A%A0%E5%8A%87%E9%80%9A%E8%86%A8%E6%86%82%E6%85%AE-%E9%81%93%E7%93%8A%E9%87%8D%E6%8C%AB628%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E8%BF%BD%E6%BC%B21-3-%E9%80%A3%E5%9B%9B%E7%B4%85-002021756.html",
+      "Content": "【財訊快報／陳孟朔】中東能源供應風險升高，布蘭特期油逼近百美元大關，通膨壓力升溫的同時，加上製藥類股重挫，美股勞動節假期後週二恢復交易，美股三大股指齊步追低，道瓊工業指數急吐逾600點、失守五萬三關口，但晶片股在英特爾大漲9%的助威下，費半追高1.3%連四紅，台積電ADR也追漲2.35%。道瓊工業指數早盤一度急瀉692點，終場下跌628.18點或1.18%，收在52,786.07點，標普500指數跌45.08點或0.58%，收7,673.52點；那斯達克指數跌85.58點或0.32%，收26,421.41點。\n\n大盤走弱之際，晶片股表現相對突出，費城半導體指數再漲152.61點或1.30%，連續第四個交易日收紅，收在11,887.87點，為8月18日以來最高，日高在12,023.86點。英特爾傳出計畫10月再度調高中央處理器(CPU)價格最多10%，股價飆漲9.05%；高通與亞馬遜達成多世代客製化AI晶片合作，高通收漲3.17%。超微同步大漲5.9%、台積電ADR也勁揚2.35%，惟輝達逆勢下跌約2%，成為大型晶片股中的主要拖油瓶。\n\n親伊朗的葉門胡塞武裝攻擊沙烏地阿拉伯南部多處能源設施，美軍同時襲擊伊朗油輪，令市場憂慮中東石油供應中斷範圍擴大。紐約期油盤中一度急漲3.55%至每桶94.73美元，布蘭特期油最高升至99.46美元，距離100美元關卡僅一步之遙，能源價格可能重新推升全球通膨的疑慮，成為壓抑大盤的重要因素。\n\n題材股方面，道瓊成份股安進(Amgen)暴跌10.10%，成為拖累道瓊的最大單一成份股；蘋果在新產品發表會前跌1.20%，微軟與IBM均跌逾1%，特斯拉則逆勢大漲3.90%。油氣類股受惠油價上揚，西方石油與雪佛龍分別上漲約1.00%及0.60%；數據中心概念股亦獲買盤追捧，CoreWeave與Nebius分別勁揚11.70%及7.70%，前者成為那指100成份股最旺個股。\n\n美股盤後小黑\n\n美國股市週二盤後下跌，提供軟體解決方案的ServiceTitan公司(TTAN US)盤後股價下跌，跌勢相對醒目，因該公司第二季營運呈現虧損局面的消息，影響了股價行情。\n\n道瓊指數期指下跌30.00點或0.06%，報52,802.00點。\n\nServiceTitan公司盤後股價下挫20%。該公司第二季每股虧損0.26美元，虧損金額大於市場分析師預估中值的0.25美元。\n\n農產品業者Mission Produce Inc(AVO US)盤後股價上漲7.8%，股價的揚升，主要因為該公司年度第三季營收4.5億美元、經調整後的每股獲利為0.18美元，雙雙表現優於預期。",
+      "Language": "zh"
     },
     {
       "Ticker": ".SPX",
