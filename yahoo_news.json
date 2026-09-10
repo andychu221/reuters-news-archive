@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-10T00:13:38.699Z",
-  "total_news_count": 1345,
+  "last_updated": "2026-09-10T00:25:58.538Z",
+  "total_news_count": 1350,
   "news": [
+    {
+      "Ticker": ".N225",
+      "Date": "2026-09-10",
+      "Time": "08:22:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資上週淨買進日股6900億日圓，規模較前週激增逾18倍",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E4%B8%8A%E9%80%B1%E6%B7%A8%E8%B2%B7%E9%80%B2%E6%97%A5%E8%82%A16900%E5%84%84%E6%97%A5%E5%9C%93-%E8%A6%8F%E6%A8%A1%E8%BC%83%E5%89%8D%E9%80%B1%E6%BF%80%E5%A2%9E%E9%80%BE18%E5%80%8D-002231298.html",
+      "Content": "【財訊快報／陳孟朔】日本財務省週四公布最新的資金流向數據顯示，截至9月4日止當週，外資淨買進6,900億日圓日本股票，較前一週修正後的358億日圓大幅增加，淨買進規模擴大逾18倍。債券市場方面，外資當週淨買進4,496億日圓日本債券，連續維持資金淨流入，但規模較前一週的5,091億日圓減少595億日圓，顯示境外投資人對日債仍具有一定需求。\n\n日本投資人對海外資產的操作則明顯分化，當週淨買進1,119億日圓海外債券，一改前一週大舉淨賣出8,240億日圓的情況，資金重新小幅流向外債市場。\n\n另一方面，日本投資人當週淨賣出4,816億日圓海外股票，與前一週淨買進358億日圓形成強烈反差。整體數據顯示，當週跨境資金偏向日本股票及債券，日本投資人則從海外股票市場撤出部分資金。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-09-10",
+      "Time": "07:59:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價重返百美元壓抑美股，惟費半逆勢收紅，台股高檔震盪加劇",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%87%8D%E8%BF%94%E7%99%BE%E7%BE%8E%E5%85%83%E5%A3%93%E6%8A%91%E7%BE%8E%E8%82%A1-%E6%83%9F%E8%B2%BB%E5%8D%8A%E9%80%86%E5%8B%A2%E6%94%B6%E7%B4%85-%E5%8F%B0%E8%82%A1%E9%AB%98%E6%AA%94%E9%9C%87%E7%9B%AA%E5%8A%A0%E5%8A%87-235900127.html",
+      "Content": "【財訊快報／黃冠豪】美股受到國際油價急漲、美債殖利率攀升影響，主要指數震盪收低。道瓊工業指數下跌405.41點、跌幅0.77%，收52,380.66點；S&P 500下跌0.48%，收7,636.36點；那斯達克指數下跌0.64%，收26,253.34點，三大指數連續承壓。不過費城半導體指數逆勢上漲0.37%，收11,931.22點，顯示AI與半導體資金仍具韌性。台指期夜盤則未能跟隨費半走強，終場收在46,984點，下跌194點；其中台積電期貨反而上漲5元，顯示指數壓力主要來自高檔籌碼調節，今日台股開盤仍須留意47,000點附近多空攻防。\n\nAI大型股呈現明顯分化。輝達下跌0.91%，收223.67美元；台積電ADR下跌0.83%。反觀AMD大漲3.04%至521.10美元，Intel續漲1.69%，ARM也上漲1.03%，半導體資金出現由龍頭向其他AI晶片股輪動跡象。\n\n大型科技股中，Google母公司Alphabet下跌2.09%，市場消化公司未來兩年將在芬蘭投入至少151億美元AI基礎建設的消息；Meta則成為全場焦點，大漲6.55%，主因推出可協助使用者執行寄信、交易與旅遊安排的AI助理「Muse」。\n\nSpaceX則下跌3.86%、收147.55美元，主要受到IPO後約319百萬股內部人持股解禁、潛在供給增加影響，短線籌碼壓力升高。\n\n昨晚最大變數來自中東局勢升溫，布蘭特原油重新站上每桶100美元，使市場重新擔憂通膨，美國10年期公債殖利率升至約4.84%，高利率壓力拖累成長股。另一方面，美國財政部公布60億美元長天期公債回購規模，未能有效壓低殖利率。市場接下來將聚焦PPI與CPI通膨數據，以及下週聯準會利率決策。\n\n台股今日預期仍以高檔震盪為主，台指夜盤回落形成壓力，但費半逆勢收紅，加上AMD、Intel、ARM維持強勢，AI硬體趨勢尚未明顯轉空。短線可觀察台積電(2330)能否守穩，以及資金是否轉向記憶體、成熟製程、PCB與AI伺服器供應鏈；指數高檔震盪加劇下，不宜過度追價。",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-10",
@@ -11,6 +31,16 @@
       "URL": "https://finance.yahoo.com/m/dcfb3d48-5a34-38ce-8955-de0b183adec2/why-pulse-biosciences-stock.html",
       "Content": "Investor pulses were racing for Pulse Biosciences (NASDAQ: PLSE) on Wednesday, as it was one of the better-performing medical device stocks on the market. This came down to an initiation of coverage by an analyst, backed by a rather positive evaluation of the company's business. Pulse's stock closed the day nearly 10% higher.\n\nLaunched with a bullish view\n\nThe initiating party was Freedom Capital Markets' Keith Hinton, who believes Pulse stock is a buy at a price target of $73 per share.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe pundit's bullish view, according to reports, centers on atrial fibrillation ablation, the surgical correction of an irregular heartbeat. The company's devices use a proprietary technology called nano-pulse stimulation (NPS), in which non-thermal, electrical energy pulses are used to do the work.\n\nCurrently, two NPS-based devices have been approved for clinical trials to treat atrial fibrillation. Hinton believes this is a rather large market that could potentially be disrupted by Pulse's advanced technology. If those trials are successful, the analyst speculated that the company could be bought out in the second half of 2027. The pundit added that Pulse also has a strong cash position.\n\nUnique and worth monitoring\n\nPulse is undoubtedly a unique medical device maker worth keeping an eye on. Whether it's a buy or not depends on an investor's risk tolerance, as the company will surely have much riding on the outcome of the lab testing for the treatment of atrial fibrillation. Personally, I'd be inclined to buy the stock, given its significant potential upside.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-10",
+      "Time": "07:33:51",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價衝破百元、聯準會升息壓力驟增 美股主要指數全盤皆墨",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E8%A1%9D%E7%A0%B4%E7%99%BE%E5%85%83-%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF%E5%A3%93%E5%8A%9B%E9%A9%9F%E5%A2%9E-%E7%BE%8E%E8%82%A1%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E5%85%A8%E7%9B%A4%E7%9A%86%E5%A2%A8-233351335.html",
+      "Content": "商傳媒 ｜方承業／綜合外電報導\n\n受到中東地緣政治緊張、國際油價飆升以及聯準會（美國的中央銀行，負責制定利率和貨幣政策）可能加速升息的預期影響，美國股市三大主要指數週三（9日）全面下挫。其中，道瓊工業平均指數下跌超過400點，為連續第二個交易日走弱。\n\n布蘭特原油價格週三盤中一度突破每桶100美元大關，為今年7月以來首次。這波漲勢源於美國與伊朗之間不斷升級的衝突。此前一天，伊朗襲擊了美國海軍船隻，美國中央司令部隨後對五艘伊朗油輪發動攻擊，加劇了市場對波斯灣地區石油供應可能中斷的擔憂。政治風險諮詢公司歐亞集團分析師指出，中東地區的地緣政治衝突，包括美伊在波斯灣的對抗，以及葉門戰事，是推升油價的主要力量。\n\n油價飆漲重新點燃了市場對通膨的擔憂。高盛（Goldman Sachs）曾預測，若衝突加劇，油價可能升破每桶120美元。此外，美國10年期公債殖利率（債券的報酬率，與債券價格反向變動，是市場衡量利率預期和風險的重要指標）在盤中也攀升至4.84%，創下2023年末以來新高。高利率環境使得高估值的成長型股票吸引力降低，並增加了企業的借貸成本。\n\n市場數據顯示，道瓊工業平均指數下跌402.56點，跌幅0.76%，收在52,382.51點。標準普爾500指數下跌26.11點，跌幅0.34%，收在7,647.16點。那斯達克綜合指數下跌108.44點，跌幅0.41%，收在26,312.97點。歐洲股市也普遍走低，亞洲市場則表現不一。\n\n儘管大盤承壓，部分個股表現亮眼。Meta受惠於其新推出的消費者導向人工智慧助理Muse，股價逆勢上漲逾5.2%。輝達（Nvidia）和蘋果公司（Apple）等科技巨頭也受到市場關注。蘋果新任執行長約翰·特努斯（John Ternus）即將迎來重要的產品發布週期，市場高度期待其首款可摺疊iPhone Duo，預計售價可能超過2,500美元。\n\n投資人目前正密切關注美國即將公布的通膨數據。生產者物價指數（PPI）將於今日發布，而消費者物價指數（CPI）則預計於週五出爐。這些數據將影響聯準會下週會議的利率決策預期。路透社（Reuters）援引芝商所（CME）的數據指出，市場預計聯準會下週升息一碼（0.25個百分點）的機率約為60%。美國總統川普（Donald Trump）則表示，因伊朗衝突而上漲的油價，預計將在美國期中選舉後才會回落。\n\n【提醒您】\n\n投資有賺有賠，本文僅供參考，不構成投資建議",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -31,6 +61,16 @@
       "URL": "https://finance.yahoo.com/m/4440fe1c-75b2-3e15-a806-3d6659bc5a81/why-sasol-stock-soared-nearly.html",
       "Content": "South Africa-based chemical company Sasol (NYSE: SSL) experienced a significant leap in its U.S.-listed equity on Hump Day. Much of this was due to a recommendation upgrade from an analyst at a top bank; with this, Sasol's American Depositary Shares (ADSes) surged to close the day almost 10% higher.\n\nEdging into buy territory\n\nWell before market open, Bank of America Securities prognosticator Sashank Lanka changed his rating on Sasol from neutral to buy. He also lifted his price target on the company's South Africa-listed shares to 270 rand ($18.86) from 200 rand ($12.49).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nAccording to reports, Lanka waxed bullish on Sasol's opportunities in the oil segment. He believes these could more than double the company's free cash flow (FCF) to 33 billion rand ($2.1 billion) in its current fiscal year, then drop to a still-considerable 26 billion rand ($1.6 billion) in 2028.\n\nWith that kind of improvement, the analyst speculated that Sasol might have enough scope to reinstate its dividend. In its full-year earnings announcement published at the end of August, the company said it was effectively suspending the payout because net debt exceeded its threshold for paying dividends.\n\nCaution warranted\n\nWe're still at, or near, the bottom of a down cycle in the global chemicals industry , and it doesn't feel as if the recovery will be quick.\n\nWhile Sasol has numerous strengths as a business, a major weakness is that it operates in a sector with few clear catalysts for a general upswing. I feel this will remain a drag on the company, no matter how well the oil operations do, so I'd remain very cautious on this stock.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-10",
+      "Time": "07:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股》油價/殖利率升 道瓊軟 Marvell帶旺費半",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-%E6%B2%B9%E5%83%B9-%E6%AE%96%E5%88%A9%E7%8E%87%E5%8D%87-%E9%81%93%E7%93%8A%E8%BB%9F-marvell%E5%B8%B6%E6%97%BA%E8%B2%BB%E5%8D%8A-230600643.html",
+      "Content": "MoneyDJ新聞 2026-09-10 07:06:41 郭妍希 發佈\n\n受到油價漲破每桶100美元、美國財政部擴大回購長債卻未能順利壓低殖利率衝擊，美國四大指數9日跌多漲少。\n\n道瓊工業平均指數9月9日終場下跌0.77%(405.41點)、收52,380.66點。那斯達克指數下跌0.64%(168.67點)、收26,253.34點。標準普爾500指數下跌0.48%(37.16點)、收7,636.36點。費城半導體指數逆勢上漲0.37%(43.45點)、收11,931.32點，創8月18日以來收盤新高。\n\n市場對全球石油供應的憂慮，加上中東緊張局勢再度升溫，推升布蘭特原油價格突破每桶100美元，來到對股市相當敏感的價位。\n\n美國與以色列對伊朗的戰爭目前已進入第7個月，引發市場擔憂衝突可能擴大至整個區域，而高油價也進一步加劇通膨壓力。\n\n另一方面，美國財政部宣布將買進最多60億美元的10年至20年期公債後，作為指標的美國10年期公債殖利率卻不跌反升至2023年11月以來新高。部分分析師原先預期買進規模會更大，介於80億至100億美元之間。\n\n無風險政府公債殖利率走高，降低了股票對投資人的吸引力。U.S. Bank Wealth Management資深投資策略師Rob Haworth表示，「這讓市場略感擔憂，尤其是在第3季財報季開始之前，目前能夠用來判斷企業獲利預期的資訊並不多。」\n\n8月生產者物價指數(PPI)、消費者物價指數(CPI)即將在9月10日、9月11日出爐，屆時有望提升通膨能見度。美國勞工部上週公布，8月新增就業人數遠高於預期後，交易員加碼押注聯準會(Fed)將在9月15日至16日的會議上升息。\n\n芝加哥商業交易所(CME) FedWatch工具顯示，聯邦基金期貨投資人9日預測，Fed 9月16日升息一碼至3.75%~4%的機率從前一個交易日的59.4%攀升至60.2%。\n\n社群龍頭Meta Platforms股價大漲6.55%、收653.69美元，創7月16日以來收盤新高，讓標普500指數收斂跌幅。Meta推出醞釀已久的AI助理，可自主代表使用者寄送電子郵件、出售汽車或預訂旅遊行程。\n\nGoogle母公司Alphabet Class A股則下跌2.28%、收330.65美元，創7月27日以來收盤新低。Alphabet宣布，未來兩年將在芬蘭投資至少151億美元建設AI基礎設施，其中包括一項大規模核能供應協議。\n\nInvestor`s Business Daily報導，Google雲端業務負責人Thomas Kurian週二(8日)在高盛一場會議上表示，「我們的加速器業務，也就是TPU業務，規模是排名第二大超大規模雲端服務商的兩倍以上。」近期宣布與Google合作開發客製化晶片並接受Google入股的ASIC設計服務巨擘邁威爾(Marvell Technology, Inc.)跳漲4.26%、收235.01美元，創8月27日以來收盤新高，漲幅居費半30支成分股之冠。\n\n(圖片來源：shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用 個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《油價》擔憂供應中斷 NYMEX原油上漲5.2%\n\n《美股》美伊交火油價嗨 道瓊軟 Tesla、費半漲\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "TSLA",
@@ -160,6 +200,16 @@
       "Title": "【美股盤後】3大指數收黑",
       "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-3%E5%A4%A7%E6%8C%87%E6%95%B8%E6%94%B6%E9%BB%91-220304326.html",
       "Content": "（中央社台北2026年9月10日電）國際油價飆破每桶100美元，加上蘋果公司股價下跌，美國公債殖利率上升，投資人等待本週稍晚將公布的重要通膨數據，美股3大指數今天收跌。\n\n道瓊工業指數下跌405.41點或0.77%，收報52380.66點。\n\n標普500指數下挫37.16點或0.48%，收在7636.36點。\n\n那斯達克指數滑落168.07點或0.64%，收26253.34點。\n\n費城半導體指數上漲0.37%或43.45點，收11931.32點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-10",
+      "Time": "06:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "輝達算力不再是唯一信仰？神祕戰略物資急「看懂茂迪、廣達滲透率魔咒」這幾檔光通訊黑馬正複製暴富劇本",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E7%AE%97%E5%8A%9B%E4%B8%8D%E5%86%8D%E6%98%AF%E5%94%AF-%E4%BF%A1%E4%BB%B0-%E7%A5%9E%E7%A5%95%E6%88%B0%E7%95%A5%E7%89%A9%E8%B3%87%E6%80%A5-%E7%9C%8B%E6%87%82%E8%8C%82%E8%BF%AA-%E5%BB%A3%E9%81%94%E6%BB%B2%E9%80%8F%E7%8E%87%E9%AD%94%E5%92%92-220030457.html",
+      "Content": "全球AI算力競賽正式邁入下半場！過去兩年市場目光高度集中在輝達（Nvidia）、超微（AMD）等大廠的GPU運算速度上，然而隨著AI模型規模呈幾何級數擴大、萬顆GPU大型集群（Cluster）成為標配，資料中心傳輸的物理極限與瓶頸已悄然浮現。對此，萬寶投顧投資總監蔡明彰指出，AI未來的決戰重點已正式從晶片的「算力」轉變為資料傳輸的「運力」，在「銅退光進」歷史轉折點上，矽光子（Silicon Photonics）與共同封裝光學（CPO）技術正迎來黃金五年的十倍數爆發潛力。\n\n「算力轉運力」催生1.6T極速升級\n\n隨著AI訓練與推理模型的資料吞吐量呈爆炸式成長，傳統以銅線為主的電子訊號傳輸遭遇嚴重的物理極限與高功耗挑戰；為了追求極致的傳輸效率，萬顆GPU之間連結介面正加速升級為光模組與光纖。\n\n市場研調機構數據顯示，全球光模組市場規模預計將從2021年的100億美元，一路飆升至2031年的1,100億美元，年複合成長率（CAGR）高達35％；在規格升級方面，目前的400G、800G光模組已無法滿足下一代AI超級電腦需求，市場主流正全力邁向1.6T甚至3.2T的極速規格，在此趨勢下，能提供高功率、長距離與多波長優勢的磷化銦（InP）雷射技術，成為此波升級中不可或缺的關鍵核心。\n\n低滲透率才是「賺大錢」黃金密碼\n\n面對美台兩地光通訊族群的集體飆漲，許多傳統投資人常陷入「營收獲利尚未實質放量，股價是否過高」泡沫迷思；蔡明彰強調：「股票市場超額報酬，往往聚焦在『低滲透率、高成長想像空間』的產業初創期，一旦產業進入成熟期、滲透率見頂，即便企業營收創歷史新高，股價反而動彈不得！」\n\n蔡明彰列舉兩大經典案例來印證，一是太陽能案例的茂迪（6244），2006年太陽能產業剛興起、全球滲透率極低時，昔日股王茂迪股價曾創下985元的天價；如今太陽能普及率大幅攀升、產業陷入紅海競爭，股價僅剩約22元；AI伺服器的廣達（2382）在2023年AI伺服器剛起步、滲透率極低，股價竟然全年意外狂飆210％；然而，到了2026年，即便其AI伺服器營收占比已高達80％，進入高滲透率階段、獲利亮眼，但因市場想像空間收斂，股價反而陷入大箱型整理。\n\n這正是當前矽光子與CPO處於最完美投資甜蜜點的原因。矽光子模組預估2026年市場滲透率僅10％，2028年將翻倍至18％；而CPO（共同封裝光學）目前在AI資料中心的滲透率更是僅有0.5％至1％的極低水準，預估2028年將達9％，迎來接近10倍成長，2030年更將爆發性成長至35％，該種「從無到有、從1％到35％」的起飛期，正是聰明資金瘋狂湧入的主因。\n\n美台光通訊標股集體「超車輝達」\n\n在市場資金引爆下，今年美股與台股的光通訊族群表現堪稱瘋狂，績效皆遠遠將AI晶片霸主輝達拋在腦後，今年YTD漲幅約20％。\n\n更值得注意的是，由於地緣政治與出口管制影響，半導體關鍵材料「磷化銦」近期出現嚴重的缺貨危機；蔡明彰指出，這場關鍵材料缺貨危機，直接引爆了掌控關鍵基板材料的美商AXTI股價今年狂噴325％；此外，美國知名的光學與光子產品製造大廠Lumentum飆漲165％、Coherent漲幅達64％，光纖大廠康寧也大漲90％，光收發模組廠AOI更是狂飆220％。\n\n這股光通訊狂潮同樣席捲台股市場，受惠於InP磷化銦基板與晶圓代工的強勁需求，台股兩大指標股聯亞（3081）今年YTD狂飆424％、全新（2455）也大漲255％，雙雙創下歷史新高天價；蔡明彰認為，這代表資金已經從第一階段的「買晶片代工（台積電）」，擴散到第二階段的「搶戰略物資與光傳輸技術」。\n\nAI產業的演進已從單純「晶片升級」擴大為「基礎網路架構的革命」，低滲透率、規格被迫升級、加上地緣政治催生的關鍵材料缺貨危機，三箭齊發讓矽光子與CPO成為全球科技投資的絕對主旋律，在「運力即國力、運力即終局」時代，這場由光通訊帶領的台美股大行情，才剛剛拉開序幕。\n\n<p class=\"mb-m",
       "Language": "zh"
     },
     {
