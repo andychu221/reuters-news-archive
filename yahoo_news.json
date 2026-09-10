@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-09-10T21:00:38.110Z",
-  "total_news_count": 406,
+  "last_updated": "2026-09-10T21:11:04.702Z",
+  "total_news_count": 408,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL",
+      "Date": "2026-09-11",
+      "Time": "05:05:26",
+      "Source": "Yahoo Finance",
+      "Title": "People Inc. CEO on AI-hungry Google: 'They don't share anything with us'",
+      "URL": "https://finance.yahoo.com/markets/article/people-inc-ceo-on-ai-hungry-google-they-dont-share-anything-with-us-210526796.html",
+      "Content": "An AI-hungry Google ( GOOG , GOOGL ) isn't playing nice with one of the largest content publishers on the internet.\n\n\"Here's the truth. For a long time, we had a deal with Google, an unwritten deal, which was 'you can use our content to build your search product, and in return, we get sessions,'\" People Inc. ( PPLI ) CEO Neil Vogel told Yahoo Finance from the Goldman Sachs Communacopia & Tech Conference (video above). \"Now the search product has turned into an AI product by and large, and they still use our content to train their AI, both in real time and in a training way — we don't have to get into the AI terminology of it — but now they don't share anything with us.\"\n\nGoogle's push into AI-powered summaries has upended search traffic for publishers. Many fear the situation will get worse, triggering more sweeping cost cuts among many players in 2026.\n\nVogel said the company has signed content licensing deals with Microsoft ( MSFT ), Meta ( META ), and OpenAI ( OPAI.PVT ). Ideally, he would also like to ink one with Google.\n\nHe stopped short of saying he would turn off Google from crawling People's content.\n\n\"So we're going to make an economic decision on it,\" Vogel said. \"We obviously can't turn them off now. They're still an important part of our business. I don't want to turn them off. I want to get to a reasonable economic solution. I think we can, I'm hopeful we can. We have no progress now, but we'll see.\"\n\nDespite the pressured search traffic, People has managed to post 11 straight quarters of digital revenue growth. Adjusted operating profits rose 15% from the prior year in the second quarter.\n\nVogel and People have a lot going on besides wrestling with Google, to say the very least.\n\nPeople — which rebranded from IAC in 2025 to reflect its major media brands, such as People and Food & Wine — submitted an $18 billion proposal in June to acquire all outstanding shares of MGM Resorts International ( MGM ) that it does not already own. The company — founded by media legend Barry Diller — currently holds a 26.1% stake in MGM.\n\nRegarding the car rental platform Turo, People holds approximately a 31% stake, remaining its largest external shareholder following an initial $250 million investment in 2019.\n\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the Power Players with Brian Sozzi podcast, and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-09-11",
       "Time": "04:35:01",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-09-11",
       "Time": "04:25:00",
       "Source": "Yahoo Finance",
@@ -180,6 +190,16 @@
       "Title": "BofA Tweaks Apple Stock Price Target After Ternus Debut",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/bofa-tweaks-apple-stock-price-185234629.html",
       "Content": "This article first appeared on GuruFocus .\n\nBank of America kept its Buy rating on Apple ( NASDAQ:AAPL ) after CEO John Ternus delivered his first product event, but lowered its price objective as softer-than-expected pricing threatened margins.\n\nThe bank reduced its Apple target to $370 from $380. From the referenced share price of $315.34, the new objective implies approximately 17% upside.\n\nWarning! GuruFocus has detected 2 Warning Signs with YB.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nAnalysts said the foldable iPhone Duo stole the show, introducing Apple's most meaningful form-factor change in years. Its folding display supports iPad-like productivity, while planned Pencil compatibility, FaceTime dual capture and optimized apps could help the device become mainstream.\n\nWhy Bank of America Lowered Apple's Target\n\nThe concern is not demand. New iPhone pricing came below expectations, potentially supporting higher sales volumes while pressuring gross margins as memory and component costs rise.\n\nThe firm raised its iPhone unit estimates by 2 million devices for fiscal 2026 and 5 million for fiscal 2027. However, the smaller-than-expected increase in average selling prices prompted earnings reductions. Its calendar 2027 earnings estimate fell to $9.98 per share from $10.32.\n\nBank of America maintained the 37-times earnings multiple used in its valuation, meaning the lower target reflects reduced profit expectations rather than weakening confidence in Apple's long-term strategy.\n\nTernus emphasized Apple's focus on integrating hardware, software and services while protecting customer privacy. He described the iPhone as an intelligent personal hub capable of understanding user context. New devices will run some AI models on-device and send more complex requests through Private Cloud Compute.\n\nThe event also introduced upgraded iPhone 18 Pro models, Apple Watches and AirPods featuring improved processors, cameras, battery performance and health capabilities.\n\nFor investors, the report presents a balanced signal: stronger unit demand and product innovation support the Buy thesis, but lower pricing and rising input costs could limit near-term earnings leverage. Future upside depends on Duo adoption, product mix and Apple's ability to preserve margins.\n\nAAPL GF Value chart\n\nAAPL GF Value chart Analysts said the foldable iPhone Duo stole the show, introducing Apple's most meaningful form-factor change in years. Its folding display supports iPad-like productivity, while planned Pencil compatibility, FaceTime dual capture and optimized apps could help the device become mainstream.\n\nTernus emphasized Apple's focus on integrating hardware, software and services while protecting customer priv",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-09-11",
+      "Time": "02:51:34",
+      "Source": "Yahoo Finance",
+      "Title": "Google Just Made an AI Move That Could Matter Far More Than Wall Street Thinks",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-just-made-massive-ai-185134977.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet Inc. ( GOOGL , Financials ), the parent company of Google and one of the largest cloud and AI providers , is taking its infrastructure deeper into university research.\n\nWarning! GuruFocus has detected 2 Warning Signs with YB.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nGoogle Public Sector is partnering with Morgan State University to build an AI-focused research campus supporting work in cybersecurity, climate science, health science and large language models.\n\nThe project will give researchers access to high-end GPU computing through Google Cloud and Nvidia infrastructure.\n\nThat is the obvious part. The longer-term opportunity is what happens after students and researchers become comfortable building on Google's technology.\n\nMorgan State also plans to create a Google-focused Center of Excellence for AI skills and workforce training. Faculty will gain access to Google for Startups, while the university will use Google SecOps and Mandiant security tools for research requiring stricter controls.\n\nThe partnership also connects Google to Morgan State's Obsidian AI platform, including projects involving traffic and urban mobility in Baltimore. For Alphabet, these deals are small compared with multibillion-dollar cloud contracts.\n\nBut they can still matter. Training future engineers and researchers on Google Cloud can make the platform harder to replace later.\n\nFor investors, the question is whether partnerships like this can quietly translate into greater cloud adoption as universities, startups and public-sector organizations expand their AI spending.\n\nGOOGL GF Value chart\n\nGOOGL GF Value chart Google Public Sector is partnering with Morgan State University to build an AI-focused research campus supporting work in cybersecurity, climate science, health science and large language models.\n\nBut they can still matter. Training future engineers and researchers on Google Cloud can make the platform harder to replace",
       "Language": "en"
     },
     {
