@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T10:12:26.655Z",
-  "total_news_count": 233,
+  "last_updated": "2026-09-10T10:26:12.651Z",
+  "total_news_count": 242,
   "news": [
     {
       "Ticker": "NVDA",
@@ -31,6 +31,36 @@
       "URL": "https://finance.yahoo.com/m/038db673-1a31-3352-90ef-a1b6f4b5ed85/3-quantum-stocks-just-scored.html",
       "Content": "The race to develop a fault-tolerant quantum computer has been ongoing, and the stakes are high. The technology is expected to be the next big advancement after artificial intelligence, and the U.S. government wants to make sure that a U.S.-based company is leading the way. As such, the government recently doled out $100 million each to three quantum stocks under the CHIPS Act.\n\nWhich stock is the best buy will largely be determined by their technology and how far along each is. Let's dig into the three stocks to see which one stands out.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\n1. Rigetti Computing\n\nOne of the companies getting $100 million in government funding is Rigetti Computing (NASDAQ: RGTI). As part of the deal, the U.S. government will also take a stake in the company.\n\nThe money will be used to help accelerate superconducting quantum research and improve current technical bottlenecks. The company specifically laid out three projects it will help fund. They include shrinking chip control electronics, massively expanding super-cooling freezer capacity, and manufacturing higher-density quantum chips.\n\nThe strength of the superconducting technology that Rigetti employs has always been speed. Its systems are about 10,000 times faster than trapped-ion systems and 100 times faster than neutral-atom systems. Where they struggle, though, is with accuracy, which is one of the most important hurdles that quantum computers need to overcome. While companies like IonQ have achieved 99.99% two- qubit gate fidelity (accuracy), Rigetti greatly trails with its Cepheus 1-108Q systems only hitting 99.1% two-gate fidelity.\n\n2. D-Wave Quantum\n\nAnother company getting $100 million in U.S. government funding in exchange for giving the government an equity stake is D-Wave Quantum (NASDAQ: QBTS). The company will use the money to help develop and scale its annealing and gate-model quantum systems.\n\nD-Wave is the leader in quantum annealing, which is a more narrow-purpose technology that helps solve optimization problems. The technology is much further along than more wide-ranging gate-based systems, and the company is already selling its Advantage II systems to commercial customers in industries such as logistics, finance, and defense.\n\nAt the same time, D-Wave has also started to pursue a gate-based system following its acquisition of Quantum Circuits earlier this year, which gave it a dual-rail gate-model processor with built-in error detection. For its systems, it will use fluxonium qubits, which are a type of superconducting qubit that has similar properties to those it uses for its annealing technology. D-Wave's goal is to create a system with the speed of superconducting and the accuracy of trapped ions, but it is still very early in the process.\n\nStory Continues\n\n3. Quantinuum\n\nA third company getting a $100 million check from the government is Quantinuum (NASDAQ: QNT), although it did not have to give up an equity stake.\n\nQuantunuum will use the proceeds to work with GlobalFoundries and Monarch Quantum to improve its supply chain. GlobalFoundries will be one of several foundries to produce its next-generation ion traps using 300mm wafer technology, while Monarch will develop and manufacture lasers and optical components for Quantunuum's trapped-ion systems.\n\nThe trapped-ion approach, while slower, has proven to be the most accurate quantum technology to-date. Quantunuum has achieved 99.92% two-qubit gate fidelity and is looking to reach 99.999% logical fidelity with its new Sol system next year.\n\nMeanwhile, the company is considered to have one of the best software stacks in the space. This includes its open-source quantum computing language Guppy that does advanced error correction directly in the code and its TKET quantum software development kit that acts as a universal translator.\n\nThe verdict\n\nThe quantum computing race is far from over, and which technology eventually comes out on top is still up in the air. That said, I'd be betting on accuracy over speed at this point, which is why I prefer Quantinuum. The company is an accuracy leader and already starting to see meaningful revenue growth. Backed by industrial giant Honeywell, Quantunuum's stock has a lot of potential.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:29:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "蔡力行剛喊完多多益善 聯發科8月營收爆發衝破641億",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%94%A1%E5%8A%9B%E8%A1%8C%E5%89%9B%E5%96%8A%E5%AE%8C%E5%A4%9A%E5%A4%9A%E7%9B%8A%E5%96%84-%E8%81%AF%E7%99%BC%E7%A7%918%E6%9C%88%E7%87%9F%E6%94%B6%E7%88%86%E7%99%BC%E8%A1%9D%E7%A0%B4641%E5%84%84-092959195.html",
+      "Content": "IC設計龍頭聯發科公布2026年8月營收報告，受惠各產品線進入旺季拉貨期，單月合併營收達新台幣641億8300萬元，月增32.41％、年增44.08％。聯發科副董事長暨執行長蔡力行日前在半導體展才高喊產能「多多益善」，8月業績隨即展現強勁爆發力。\n\n根據聯發科公布的自結數據，8月合併營收為641億8300萬元，較7月的484億7500萬元增加32.41％，比去年同期的445億4700萬元大增44.08％；累計今年1至8月合併營收達4139億9100萬元，較去年同期的3914億4800萬元成長5.76％。\n\n蔡力行日前在SEMICON Taiwan 2026論壇上表示，半導體與AI技術發展沒有終點，聯發科研發投資「絕對不會停下來」。面對龐大AI需求，他更向供應鏈爭取2027至2029年產能直呼「多多益善」，並指出台灣具備規模、速度、彈性與技術四大優勢，聯發科將持續深化邊緣AI與雲端運算布局。\n\n市場指出，第3季邁入旗艦智慧手機傳統備貨旺季，加上Wi-Fi 7滲透率拉升，客戶拉貨動能顯著增溫，法人預估，在新品備貨潮與AI應用擴大挹注下，這波拉貨動能將延續至季底，第3季營運可望維持高檔水準。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW, 2330.TW",
+      "Date": "2026-09-10",
+      "Time": "17:28:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資翻臉砍383億台股掉下4萬7 聯發科、被動元件兩路救火｜Yahoo財經掃描",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%BF%BB%E8%87%89%E7%A0%8D383%E5%84%84%E5%8F%B0%E8%82%A1%E6%8E%89%E4%B8%8B4%E8%90%AC7-%E8%81%AF%E7%99%BC%E7%A7%91%E3%80%81%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E5%85%A9%E8%B7%AF%E6%95%91%E7%81%AB%EF%BD%9Cyahoo%E8%B2%A1%E7%B6%93%E6%8E%83%E6%8F%8F-092807923.html",
+      "Content": "權值股壓盤，台股量縮回檔失守4萬7千點！今(10)日加權指數下跌242.87點、跌幅0.51%，收在46,940.49點，成交金額7,159.53億元。權王台積電(2330)在8月營收公布前賣壓先行，終場下跌15元、收2,450元，跌幅0.61%；盤後公告8月營收達5,148.06億元，月增10.1%、年增53.3%，首度突破5千億元並改寫單月新高，亮眼業績能否帶動後續股價表現備受股民關注。\n\n盤面權值股表現分歧，台達電(2308)因8月營收雖創同期新高、但月增動能中斷，股價重挫6.69%，成為拖累指數壓力；聯發科(2454)則開低走高、逆勢上漲2.05%，日月光投控(3711)、聯電(2303)同步收紅。面板雙虎雖成交爆量，但股價走勢分歧；被動元件受村田停產部分MLCC料號、轉單題材激勵，信昌電(6173)、光頡(3624)雙雙攻上漲停，國巨*(2327)也由黑翻紅。傳產方面，國際油價走高未能提振台塑四寶，族群集體收黑，台塑化(6505)更跌近半根停板；金融類股則逆勢上漲0.34%，發揮穩盤作用。\n\n亞股早盤普遍重挫，終場漲少跌多。日經指數由黑翻紅上漲0.20%；韓國綜合指數下跌0.25%；香港恆生指數重挫1.26%，上海綜合指數也下跌0.43%。\n\n油價衝高與美債殖利率急升，引爆市場對通膨及利率維持高檔的疑慮，美股市場同受衝擊：道瓊工業指數下跌0.77%、標普500指數下跌0.48%、那斯達克指數下跌0.64%，僅費城半導體指數逆勢上漲0.37%。\n\n📝盤點熱門股：群創、友達、主動統一升級50\n\n熱門成交股方面，面板雙虎雙雙擠進前五名，友達(2409)延續外資連兩日加碼熱度，加上攜手康寧布局玻璃基板封裝題材發酵，爆出49.57萬張奪下成交量冠軍，股價走揚；群創(3481)也受面板族群高人氣帶動，多空換手熱絡，但賣壓較重、股價走低，排名第四。\n\n晶圓代工股聯電(2303)盤中震盪幅度擴大，吸引資金積極進出，終場小幅走揚；記憶體股力積電(6770)則在族群受鎧俠發言衝擊之際獲買盤承接，股價走強。ETF方面，群益臺灣加權正2(00685L)隨大盤失守4萬7千點而回落，短線調節與避險交易升溫，成交量擠進第三。\n\n📌三大法人買賣超\n\n三大法人今日合計賣超503.12億元，其中，外資大舉賣超383.34億元，成為法人調節主力；投信則逆勢買超17.86億元，自營商自行買賣與避險部位加總賣超137.64億元。整體來看，僅投信站在買方，外資與自營商同步提款，法人賣壓明顯。\n\n✨本日議題股：被動元件\n\n被動元件族群今日逆勢強攻，全球龍頭村田製作所傳出優化MLCC產品線、逐步停產部分成熟規格產品，市場預期台廠有望迎來轉單契機，點燃族群買氣。信昌電(6173)、光頡(3624)雙雙亮燈漲停，國巨*(2327)也由黑翻紅...... 點我看更多\n\n👥台積電股價太委屈？：\n\n台積電(2330)8月營收衝上5,148.06億元，月增10.1%、年增53.3%，首度跨越5,000億元並再創單月新高，亮眼成績卻未讓股價同步噴出，引爆股民「委屈到不能再委屈」熱議。網友一面驚呼「鬼神營收」、「月增10%是什麼妖術」，另一面卻認為利多早已反映...... 點我看更多\n\n🔭重大財經事件展望\n\n周五國際財經焦點，先看美國市場，將公布8月消費者物價指數(CPI)與9月密西根大學消費者信心指數初值；企業財報方面，Adobe與甲骨文將於台灣時間凌晨公布財報，另有巴西8月CPI登場；歐洲方面，英國將公布7月國內生產毛額(GDP)、工業生產與貿易餘額；亞太區方面，日本將公布8月生產者物價指數(PPI)，企業成本壓力及其對通膨的傳導效果將是觀察重點；陸港澳方面，2026中國算力大會將在河北登場並持續至13日。\n\n台灣方面，財政部將公布8月稅收，國內財政收入與各主要稅目增減情形受到關注，另有伊雲谷AI活動登場；企業動態方面，股東會可留意愛普*(6531)，法說會則聚焦國巨*(2327)、群益證(6005)、恆勁科技(6920)等，後續營運與產業展望可能牽動相關族群表現；此外，晶宏(3141)將除息，竟天(6917)辦理現金增資。\n\n市場變化難捉摸？面對股市的大起大落，總會有看不懂、跟不上、難決策的時刻！ Yahoo財經掃描 每個台股交易日晚間6點上菜，整理市場最重要的財經熱點，從國際財經趨勢、產業焦點到個股異動，迅速掌握投資脈動，帶你快人一步，掌握市場先機。\n\n註：加權指數成交金額含盤後定價，不含零股、鉅額、拍賣及標購\n\n（核稿編輯：劉凱銘）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:26:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科8月營收衝上641億元創新高　手機晶片放量",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%918%E6%9C%88%E7%87%9F%E6%94%B6%E8%A1%9D%E4%B8%8A641%E5%84%84%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-%E6%89%8B%E6%A9%9F%E6%99%B6%E7%89%87%E6%94%BE%E9%87%8F-092640253.html",
+      "Content": "（中央社記者張建中新竹2026年09月10日電）IC設計廠聯發科 (2454) 自結8月營收攀高至新台幣641.83億元，創下歷史新高，月增32.41%，較去年同期增加44.08%。法人指出，旗艦手機系統單晶片放量是推升聯發科8月營收創高一大動力。\n\n聯發科累計前8月營收4139.91億元，較去年同期增加5.76%。\n\n聯發科預估，第3季營收將約1522億至1598億元；聯發科7月和8月合計營收達1126.58億元，聯發科第3季營運目標應可順利達成，不排除有機會超越目標。\n\n聯發科預期，第3季旗艦手機系統單晶片可望放量，應可抵銷其他產品疲弱影響，第3季整體手機晶片業績將持平或季減4%至6%，智慧裝置平台業績將季增4%至9%，是支撐第3季整體營運表現的主要動力。\n\n聯發科資料中心業務進展順利，首款AI加速器特殊應用晶片（ASIC）預計第4季量產，全年資料中心營收可望超過20億美元，全年整體美元營收將成長7%至9%。",
+      "Language": "zh"
     },
     {
       "Ticker": "META, NVDA, MU",
@@ -73,6 +103,36 @@
       "Language": "en"
     },
     {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:17:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】聯發科技115年8月份自結合併營收淨額公告",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80115%E5%B9%B48%E6%9C%88%E4%BB%BD%E8%87%AA%E7%B5%90%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6%E6%B7%A8%E9%A1%8D%E5%85%AC%E5%91%8A-091716623.html",
+      "Content": "日　　期：2026年09月10日\n\n公司名稱：聯發科 (2454)\n\n主　　旨：聯發科技115年8月份自結合併營收淨額公告\n\n發言人：顧大為\n\n說　　明：\n\n1.事實發生日:115/09/10\n\n2.公司名稱:聯發科技股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n聯發科技一百一十五年八月份自結合併營收淨額為新台幣641億8仟3佰萬元，\n\n較前月合併營收淨額新台幣484億7仟5佰萬元增加32.41%。\n\n6.因應措施:無\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):無",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:12:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】聯發科 2026年8月合併營收641.83億元 年增44.08%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%81%AF%E7%99%BC%E7%A7%91-2026%E5%B9%B48%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6641-83%E5%84%84%E5%85%83-%E5%B9%B4%E5%A2%9E44-091247605.html",
+      "Content": "日期： 2026 年 09 月 10日\n\n上市公司：聯發科 (2454)\n\n單位：仟元\n\n【公告】聯發科 2026年8月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n64,183,361\n\n去年同期\n\n44,546,643\n\n增減金額\n\n19,636,718\n\n增減百分比\n\n44.08\n\n本年累計\n\n413,991,412\n\n去年累計\n\n391,447,615\n\n22,543,797\n\n5.76",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-09-10",
+      "Time": "17:09:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《陸股》滬指跌0.43%、日K翻黑；科創50跌0.69%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E8%82%A1-%E6%BB%AC%E6%8C%87%E8%B7%8C0-43-%E6%97%A5k%E7%BF%BB%E9%BB%91-%E7%A7%91%E5%89%B550%E8%B7%8C0-090900859.html",
+      "Content": "MoneyDJ新聞 2026-09-10 17:09:39 數位內容中心 發佈\n\n中國A股主要指數今(10)日收低，上證指數收於3934.40點，下跌17.11點或0.43%，日K翻黑；深證成指收於13617.67點，下跌105.65點或0.77%；創業板指收於3338.42點，下跌16.55點或0.49%；科創50指數收於1569.22點，下跌10.84點或0.69%。整體盤勢偏弱，個股跌多漲少，市場情緒仍偏保守。\n\n四大指數中，上證指數跌幅相對較小；深證成指跌幅較大，壓力較明顯；創業板指與科創50同樣收黑，顯示成長類標的承壓，資金對高估值族群態度較審慎。成交量方面，滬市今成交7,797億元(人民幣,下同)，深市成交8,675億元，兩市成交額1兆6,472億元，較前一交易日量縮約11%。\n\n從盤面上來看，銀行股逆勢走強，寧波銀行、南京銀行漲逾3%，江蘇銀行、杭州銀行、成都銀行均漲逾2%，成為盤面少數亮點；電力族群也相對抗跌，顯示資金偏向防守與低波動方向。\n\n同時，存儲晶片概念延續升溫，太極實業漲停，深科技、德邦科技、德明利、普冉股份、佰維存儲跟漲；PCB、銅箔基板、玻纖與電子布相關概念同步走高，超聲電子、逸豪新材、金安國紀等表現居前。\n\n此外，油氣、煤炭與海運等族群盤中活躍；相較之下，大消費、農業、零售與汽車等族群承壓，調整較為明顯。整體來看，資金輪動雖有亮點，但仍不足以扭轉指數走弱格局。\n\n《陸股》滬指漲0.07%、惟日K連四黑；創業板指漲3.41%\n\n《陸股》滬指跌0.97%、日K翻黑；恆指跌0.07%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META, NVDA",
       "Date": "2026-09-10",
       "Time": "17:08:01",
@@ -91,6 +151,26 @@
       "URL": "https://finance.yahoo.com/m/67973396-ec01-3e3e-a9f1-948f5c34f7f1/wall-street-is-wrong-about.html",
       "Content": "Advanced Micro Devices (NASDAQ: AMD) and Broadcom (NASDAQ: AVGO) shares have been volatile over the past three months, with some drops coming even as the companies recently reported impressive quarterly sales and earnings that beat analysts' consensus estimates.\n\nSo, why is Wall Street getting these chip stocks wrong right now? Because investors are having a hard time wrapping their heads around the sheer size and long-term potential of the current artificial intelligence (AI) infrastructure boom.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHere's why they're missing it.\n\nWhat Wall Street gets wrong about AMD\n\nAMD designs both graphics processing units (GPUs) and central processing units (CPUs) for a variety of products, from data centers to personal computers. AMD has played second fiddle to Nvidia in the GPU market, but remains an important player.\n\nIn second-quarter 2026, AMD's data center revenue (which comes mainly from GPU sales) rose 107% to $6.7 billion. That growth was the main reason why AMD's total sales spiked 50% to $11.5 billion in the quarter, outpacing analysts' consensus estimates of about $11.3 billion. Non-GAAP earnings also increased 245% to $1.66 per share, outracing consensus estimates of $1.62 per share.\n\nStill, AMD's shares fell after the earnings report, continuing its several-month-long trend. Why?\n\nI'll concede that AMD's shares are trading at a premium right now. The stock's trailing price-to-earnings (P/E) ratio is 117, significantly higher than the tech sector average of 32. Some investors think that's too high a premium to pay, and that's a valid argument. But they may also be missing AMD's long-term opportunities in CPUs .\n\nAI companies are increasingly shifting their attention to CPUs because they're fast and efficient at processing agentic tasks. This is changing how many CPUs are being added to data centers.\n\nAMD CEO Lisa Su said that the ratio of GPUs to CPUs in servers used to be 4:1, and sometimes even 8:1. She says the processing power of AI agents is now shifting this toward a more 1:1 ratio. This change is opening up a total addressable market of $220 billion by 2030, according to AMD management.\n\nIt's not just AMD's leadership that's taking notice of the shift. An analyst at Raymond James recently said that the CPU market would reach $201 billion over the next four years.\n\nStory Continues\n\nAMD is already anticipating a surge in CPU demand, too, with sales from the segment helping to increase the company's server revenue by 70% in 2027.\n\nI understand if investors don't want to pay a premium for AMD stock. Still, if you're holding off on buying it because you think the AI infrastructure market is nearing an end, or you haven't considered AMD's CPU opportunity, you may want to reconsider sitting on the sidelines.\n\nBroadcom stock has one opportunity Wall Street is missing\n\nOne of Broadcom's most important growth engines is its application-specific integrated circuit (ASIC) designs, which are used extensively in artificial intelligence data centers. Unlike general-purpose GPUs and CPUs, Broadcom's ASICs can be designed to run specific AI models to maximize AI performance.\n\nThis is a unique play in the AI market, and it's made Broadcom a ton of money. The company's sales rose by 86% in the third quarter to $29.6 billion, and non-GAAP earnings popped 96% to $3.32 per share. Both beat analysts' consensus estimates for the quarter.\n\nBroadcom has long been a favorite chip stock among investors, but recently it's fallen out of favor as some investors worry that a slowdown in AI spending is imminent.\n\nI think they're wrong, and Broadcom management's recent guidance proves that investors are overlooking the company's unique opportunity. Broadcom's leadership estimated that its artificial intelligence sales will double in 2027, reaching $100 billion.\n\nThat's a huge increase, and it comes, in part, because Broadcom is such an important player in this space. Counterpoint Research estimates that Broadcom will have an impressive 60% market share in ASICs by the end of next year.\n\nBroadcom has already shown chip prowess in this space, and has secured custom chip deals with OpenAI, Meta , Alphabet , and others. Many of these are also long-term contracts, extending over the next several years as Broadcom works on new chip designs for AI leaders.\n\nFor those who are still worried that AI spending will slow soon, consider that the latest research from S&P 500 Global shows that the world's largest AI companies will spend more than $1 trillion next year on AI infrastructure, up from $750 billion this year.\n\nThis means that the current pullback in Broadcom stock is creating a buying opportunity for investors who understand Broadcom's long-term prospects in the AI market.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科 115年8月營收641.83億、年增44.08%",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-115%E5%B9%B48%E6%9C%88%E7%87%9F%E6%94%B6641-83%E5%84%84-%E5%B9%B4%E5%A2%9E44-08-090400727.html",
+      "Content": "聯發科(2454)8月營收資料(單位千元)\n\n本年累計\n\n64,183,361\n\n413,991,412\n\n去年同期\n\n44,546,643\n\n391,447,615\n\n19,636,718\n\n22,543,797\n\n增減百分比\n\n44.08%\n\n5.76%\n\n備註:海外子公司之營收係以當月平均匯率換算之\n\n聯發科8月營收衝上641億元創新高　手機晶片放量\n\n聯發科自結8月合併營收641.83億元，月增32.41%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-10",
+      "Time": "17:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科 聯發科技115年8月份自結合併營收淨額公告",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80115%E5%B9%B48%E6%9C%88%E4%BB%BD%E8%87%AA%E7%B5%90%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B6%E6%B7%A8%E9%A1%8D%E5%85%AC%E5%91%8A-090400429.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2454)聯發科-聯發科技115年8月份自結合併營收淨額公告\n\n1.事實發生日:115/09/10\n\n2.公司名稱:聯發科技股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n聯發科技一百一十五年八月份自結合併營收淨額為新台幣641億8仟3佰萬元，\n\n較前月合併營收淨額新台幣484億7仟5佰萬元增加32.41%。\n\n6.因應措施:無\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):無\n\n聯發科8月營收衝上641億元創新高　手機晶片放量\n\n聯發科自結8月合併營收641.83億元，月增32.41%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
@@ -151,6 +231,16 @@
       "URL": "https://finance.yahoo.com/m/35d93748-b0fe-32ed-a9ec-1192225a8a2d/2-no-brainer-dividend-stocks.html",
       "Content": "This has been a wild year, considering the war in Iran, tariffs, rising oil and gasoline prices, and stubbornly high inflation. But the stock market has been a stable force, up 12% on the year and predicted to provide double-digit gains for the fourth consecutive year.\n\nHowever, this is no time to sit still. The latest warning signs in the economy are the $40 trillion in U.S. national debt and spiraling bond yields, which are making borrowing even more expensive. So, as the fourth quarter approaches, it is a good time to consider strong dividend stocks with a long history of rewarding shareholders with generous, consistent payouts.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBoth of these companies have a compelling case for investment in the fourth quarter: Realty Income (NYSE: O) and International Business Machines (NYSE: IBM).\n\nNo-brainer dividend stock to buy No. 1: Realty Income\n\nIt's hard for me to ever pass over Realty Income. The real estate investment trust doesn't have the highest dividend yield, and its stock performance isn't as strong as some, but Realty Income provides two things I value most: diversification and consistent growth.\n\nRealty Income has a huge reach, owning about 15,500 commercial properties leased to 1,800 clients across 92 industries. That means a downturn in a single company, or even an industry, probably wouldn't hurt Realty Income and its revenue stream.\n\nAnd you want diversification? The largest industry weighting in Realty Income's portfolio is grocery stores, accounting for 11.1% of the company's rental income. Convenience stores, home improvement stores, dollar stores, fast-food restaurants, automotive stores, drugstores, and health and fitness centers each account for more than 4% of the weight.\n\nAnd finally, there's the growth. Realty Income is a monthly dividend stock (which means you get paid 12 times a year and can put that money to work for you, rather than waiting for a quarterly payout). It's paid a dividend for 674 consecutive months -- more than 56 years -- and has increased its dividend 135 times since the stock was listed on the New York Stock Exchange in 1994.\n\nRealty Income stock is up 8.5% this year, but if you include the dividend payouts in the total return, you have a 12.5% gain. The stock currently has a dividend yield of 5.3%.\n\nStory Continues\n\nNo-brainer dividend stock to buy No. 2: IBM\n\nSome people may consider this a contrarian pick. IBM stock is down 20% this year after a disastrous second-quarter earnings report that led to the worst day in the stock's history on July 14.\n\nBut I think it's a smart play. There's something to be said for buying stock in a great company that's had some bad luck. And that's IBM right now.\n\nThe issue with Big Blue isn't even its fault. The company saw a major earnings shortfall in Q2 because its customers shifted their spending away from IBM products to grab memory and storage products before those prices skyrocketed even further.\n\nAs a result, several major deals that IBM expected to close in Q2 didn't. And that meant revenue of $17.1 billion was up only 1% from a year ago. Net income was $2.2 billion, with earnings per share of $2.27, both down 1% from the previous year.\n\nBut that money isn't lost -- it's just delayed. CEO Arvind Krishna told analysts that about a third of the delayed transactions closed in the first weeks of July, so they'll be recorded on the company's Q3 report.\n\nSo, I'm fully expecting IBM to bounce back, turning the July disaster into an opportunity investors can capitalize on before the fourth quarter begins. RBC Capital has an \"outperform\" rating on IBM stock with a price target of $270, representing potential upside of 15%. Bank of America Securities is even more bullish, with a \"buy\" rating and a $330 price target, representing 40% upside.\n\nIBM has a dividend yield of 2.9% -- a generous payout for a tech company. I think it's due for a rebound.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".KS11",
+      "Date": "2026-09-10",
+      "Time": "16:27:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《韓股》風險偏好轉弱 KOSPI收跌0.25%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1-%E9%A2%A8%E9%9A%AA%E5%81%8F%E5%A5%BD%E8%BD%89%E5%BC%B1-kospi%E6%94%B6%E8%B7%8C0-25-082700862.html",
+      "Content": "MoneyDJ新聞 2026-09-10 16:27:41 數位內容中心 發佈\n\n韓股今(10)日走勢分歧，韓國KOSPI指數收於7,033.92點，下跌17.72點或0.25%；韓國KOSDAQ指數收於836.92點，上漲6.55點或0.79%。盤面主軸仍受中東局勢升溫、國際油價走高與通膨疑慮影響，市場風險偏好轉弱，KOSPI指數一度失守7,000點後才逐步收斂跌幅。\n\n外部環境方面，油價與美債殖利率為壓力來源，市場憂心油價上漲推升通膨，也使美國聯準會後續利率走向再度成為焦點；美國10年期公債殖利率升至4.85%，進一步壓抑全球風險資產表現。此外，期貨與選擇權結算日，以及KRX產業指數調整，也放大了盤中波動。\n\nKOSPI指數權值股方面，科技與電池族群承壓，防禦型與部分製造類股則撐盤。Samsung Electronics(005930.KS)、SK hynix(000660.KS)、LG Energy Solution(373220.KS)與Samsung Biologics(207940.KS)走弱，拖累指數表現；相較之下，Hyundai Motor(005380.KS)、Hanwha Aerospace(012450.KS)、Samsung Life Insurance(032830.KS)與Samsung C&T(028260.KS)逆勢收高，顯示資金在不同題材間快速輪動。\n\nKOSDAQ指數方面，中小型股獲得支撐，指數在機構買盤帶動下收紅，EcoPro BM(247540.KS)、HLB(028300.KS)、LVMC Holdings(900140.KS)走強，Jusung Engineering(036930.KS)、Robotis(108490.KS)與TCK(064760.KS)也表現突出；但Eo Technics(039030.KS)與Alteogen(196170.KS)偏弱，反映個股分歧仍大。後續市場將持續觀察油價走勢、美國物價數據公布對利率預期的影響。\n\n《韓股》半導體股動能轉疲 KOSPI收跌0.58%\n\n《韓股》半導體出口續強扮支撐 KOSPI收漲0.23%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
