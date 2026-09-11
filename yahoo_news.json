@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-11T13:32:07.810Z",
-  "total_news_count": 605,
+  "last_updated": "2026-09-11T13:33:43.340Z",
+  "total_news_count": 606,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-09-11",
+      "Time": "21:12:00",
+      "Source": "Yahoo Finance",
+      "Title": "MRVL Rides on the AI Capex Wave: What's Ahead for Investors?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/mrvl-rides-ai-capex-wave-131200023.html",
+      "Content": "Marvell Technology MRVL is benefiting from several AI infrastructure growth engines, including custom silicon, interconnect, optics and Ethernet switching. Custom silicon has more than 20 multi-generational socket wins, supporting a broader pipeline beyond individual product cycles. MRVL expects custom revenues to grow more than 20% in fiscal 2027 and more than double in fiscal 2028.\n\nGrowing hyperscaler demand for differentiated XPU and XPU-attach solutions as customers increasingly pursue tighter hardware-software co-design across AI infrastructure platforms. Interconnect and optics are also expanding MRVL's AI opportunity. Management expects the interconnect business to grow more than 70% year over year in fiscal 2027, supported by scale-out PAM ramps and scale-up and scale-across networking contributions.\n\nThe company expects TIAs and drivers to exceed a $1 billion annualized revenue run rate within the next few quarters. It also sees DCI module revenues reaching about a $1 billion rate during fiscal 2028, highlighting multi-site AI demand. MRVL's connectivity portfolio is advancing as AI clusters become larger and more complex. Marvell Technology highlighted strong 800G PAM4 demand and a quick ramp of 1.6T solutions.\n\nMRVL's Ethernet switching is gaining traction as well. Marvell Technology's expanded NVIDIA partnership spans optics, NVLink Fusion integration and AI-RAN, potentially widening access to next-generation infrastructure programs. However, geopolitical and policy risks remain important because MRVL operates through a global supply chain.\n\nMRVL ships a large portion of its products to China and Taiwan, while only a small portion is shipped to the United States. Evolving U.S. chip export restrictions, tariffs and trade tensions could alter customer purchasing behavior, delay deployments or raise compliance and logistics costs. Additionally, competition from other major players is also rising.\n\nHow Competitors Fare Against MRVL\n\nBroadcom AVGO remains a key competitor in HDD storage SoCs, while MRVL faces broader competition from diversified semiconductor companies across connectivity markets. The company faces stiff competition in the networking and custom silicon space from Advanced Micro Devices AMD as well. Competition could pressure pricing and returns, particularly in mature storage and connectivity categories.\n\nBroadcom is a leader in the domain of custom silicon solutions for data centers. Broadcom's advanced 3.5D XDSiP packaging platform is critical to ensure the performance and efficiency of custom AI XPUs. Advanced Micro Devices offers semi-custom SoCs and Instinct Accelerators to power data centers.\n\nStory Continues\n\nMRVL's Price Performance, Valuation and Estimates\n\nMarvell Technology shares have rallied 167.8% year to date, outperforming the Zacks Electronics - Semiconductors industry and Zacks Computer and Technology's appreciation of 30.3% and 17%, respectively.\n\nMRVL YTD Performance Chart\n\nImage Source: Zacks Investment Research\n\nMRVL stock is trading at a Price-to-Sales (P/S) multiple of 12.84X, higher than the Zacks Electronics - Semiconductors industry's P/S multiple of 5.07X.\n\nMRVL Forward 12-Month (P/S) Valuation Chart\n\nThe Zacks Consensus Estimate for MRVL's fiscal 2027 earnings indicates year-over-year growth of 47%. Estimates have been revised upward in the past 30 days.\n\nMarvell Technology currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-09-11",
@@ -93,7 +103,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "GOOGL",
+      "Ticker": "MRVL, GOOGL",
       "Date": "2026-09-11",
       "Time": "20:09:36",
       "Source": "Yahoo Finance",
