@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-13T09:00:55.846Z",
+  "last_updated": "2026-09-13T09:10:56.765Z",
   "total_news_count": 441,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-09-13",
       "Time": "16:45:00",
       "Source": "Yahoo Finance",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-09-13",
       "Time": "16:22:00",
       "Source": "Yahoo Finance",
@@ -43,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AAPL",
+      "Ticker": "AMZN, NVDA, AAPL",
       "Date": "2026-09-13",
       "Time": "16:05:00",
       "Source": "Yahoo Finance",
