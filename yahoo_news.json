@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T08:27:50.524Z",
-  "total_news_count": 435,
+  "last_updated": "2026-09-13T08:32:11.089Z",
+  "total_news_count": 436,
   "news": [
     {
       "Ticker": "NVDA",
@@ -3321,6 +3321,16 @@
       "URL": "https://tw.news.yahoo.com/%E6%8A%95%E4%BF%A1-%E5%8F%B0%E8%82%A1%E7%8D%B2%E5%88%A9%E5%AD%A3%E5%AD%A3%E8%B5%B0%E9%AB%98-%E6%8C%91%E6%88%B05%E8%90%AC%E9%BB%9E%E4%B8%8D%E6%98%AF%E5%A4%A2-124206101.html",
       "Content": "【記者柯安聰台北報導】台新投信指出，台股AI供應鏈獲利大爆發，帶動上市櫃企業第2季整體稅後純益首度突破2兆元大關，不僅較首季成長逾3成，更較去年同期激增逾1.6倍，累計上半年獲利高達3.6兆元，亦較去年成長近1倍。第2季財報公布後，分析師估計今年獲利將逐季走高，全年獲利可望上看7兆元歷史新高，台股挑戰5萬點不是夢，高盛證券甚至預估，台股憑藉強大企業獲利動能，未來12個月高點預期上看5萬4000點，近期拉回可找買點。具AI利基題材的中小型潛力股可望扮演上攻先鋒，建議優先布局台股中小主動式ETF掌握長線大行情。\n\n台新臺灣中小主動式ETF基金（00416A）經理人沈建宏表示，AI指標公司輝達第2季財報營收與獲利數據均超越華爾街預期，本季總營收達962億美元，較去年同期激增106%，更驚豔的是，2028財年營收將再大幅成長70%；此外，晶圓代工龍頭台積電第2季財報亦再次繳出「超乎預期並上調財測」的亮眼成績，不僅將2026年全年美元營收成長目標由「超過 30%」，上修至「超過 40%」，更將資本支出從原先的520億至560億美元，調升至600億至640億美元，兩大AI巨擘的強勁的展望預估，讓AI產業吃下定心丸，台灣中小股AI供應鏈受惠大，未來業績及股價成長爆發力可期。\n\n沈建宏指出，長線而言，市場對2026~2027企業獲利年增率預估持續成長，AI成長趨勢確立，短線若遇漲多拉回更有助於台股長期表現，具題材性的中小股將相對具表現空間，可優先布局。看好AI供應鏈受惠如材料升級、電力革新、新設計等；光通訊供應鏈；關鍵零組件；半導體上游材料與設備；美國設廠受惠股；漲價族群等。（自立電子報2026/9/11）",
       "Language": "zh"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-09-11",
+      "Time": "20:37:00",
+      "Source": "Yahoo Finance",
+      "Title": "IonQ Advances Quantum Computing With Superion 256: What's Ahead?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/ionq-advances-quantum-computing-superion-123700551.html",
+      "Content": "IonQ IONQ has launched Superion 256, its sixth-generation quantum computing platform and the foundation for future compute products. The platform has moved from early design to trapping ions in under a year, with IonQ fabricating its first fully integrated 256-qubit quantum processing units (QPUs) at its SkyWater subsidiary. The company has also trapped the first ions in prototype Superion 256 systems, which are being built simultaneously at multiple U.S. facilities.\n\nIonQ and SkyWater jointly designed and fabricated the chip, completing six tapeouts in the first half of 2026. Working with SkyWater's quantum foundry, IonQ cut its design cycle to two months from nine months. The teams also delivered 12 times more wafer lots over six months than they did at a previous foundry.\n\nAt the core of Superion 256 is IonQ's Electronic Qubit Control (\"EQC\"), which controls trapped-ion qubits with electronics integrated directly into the chip rather than with laser systems. The underlying qubit control is manufactured using standard semiconductor processes. The chip uses the same EQC technology that IonQ used to achieve a 99.99% two-qubit gate fidelity world record in October 2025.\n\nDesigned for data center deployment, the system fits a standard server rack without requiring a bespoke buildout. It also uses less power than a rack of GPUs, while its cooling system is suited to typical data center environments.\n\nThe Superion platform scales from 256 qubits to millions of qubits. Every generation that follows Superion 256 expands use of the same ions, the same qubits, the same electronic control and the same chip fabric. Superion 10K is already underway and integrates CMOS into the chip, a scaling technique SkyWater already manufactures at volume.\n\nIonQ is taking orders for Superion 256 now, with customer deliveries set for 2027. The company pre-sold its first system in the first quarter of 2026, while production-grade systems will also run on its cloud.\n\nIONQ's Peer Updates\n\nIBM IBM and Lockheed Martin, through an offset agreement with armasuisse, Switzerland's Federal Office for Defence Procurement, have established a hub for quantum innovation at ETH Zurich, a public research university. The new hub plans to host the country's first IBM Quantum System Two at the Swiss National Supercomputing Center in Lugano. The project also advances the strategic collaboration between the companies, combining Lockheed Martin innovations in quantum sensing and additive manufacturing with IBM's expertise in quantum computing and AI.\n\nStory Continues\n\nMeanwhile, Arm Holdings plc ARM has introduced CSS for Mobile 2, combining agentic AI and AI-native graphics in a single compute platform. CSS for Mobile 2 includes the new Arm Mali G2-Ultra NX GPU, the Arm C2 CPU cluster with SME2, enhanced system IP, physical implementations and a developer-ready software ecosystem in a platform optimized for next-generation mobile devices.\n\nThe Zacks Rundown for IONQ Stock\n\nOver the past year, IonQ shares have dropped 21.4% against the industry's 97.9% surge.\n\nImage Source: Zacks Investment Research\n\nIONQ is trading at a forward earnings multiple of 36.15X compared with the 4.93X industry average.\n\nEstimates for the company's loss per share have widened over the past three months, as shown below.\n\nIONQ stock currently carries a Zacks Rank #4 (Sell).\n\nYou can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "INTC, AMAT",
