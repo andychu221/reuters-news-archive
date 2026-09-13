@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T15:10:58.229Z",
-  "total_news_count": 508,
+  "last_updated": "2026-09-13T15:26:11.720Z",
+  "total_news_count": 510,
   "news": [
     {
       "Ticker": "NVDA",
@@ -43,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-13",
+      "Time": "22:20:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股反攻4萬8千點大關？富邦投顧董事長親曝「黃金交叉」：10月有望再破新高",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%8D%E6%94%BB4%E8%90%AC8%E5%8D%83%E9%BB%9E%E5%A4%A7%E9%97%9C-%E5%AF%8C%E9%82%A6%E6%8A%95%E9%A1%A7%E8%91%A3%E4%BA%8B%E9%95%B7%E8%A6%AA%E6%9B%9D-%E9%BB%83%E9%87%91%E4%BA%A4%E5%8F%89-10%E6%9C%88%E6%9C%89%E6%9C%9B%E5%86%8D%E7%A0%B4%E6%96%B0%E9%AB%98-142000850.html",
+      "Content": "富邦投顧董事長陳奕光（見圖）指出，本月行情在短線層面，有機會挑戰4萬8千點。（資料照，顏麟宇攝）\n\n台股本月呈震盪反彈格局，加權指數在4萬5到4萬6千點區間來回，與此同時，AI供應鏈題材持續帶動類股輪動，但外資賣壓未歇。對此，富邦投顧董事長陳奕光12於節目《富邦說趨勢》分析，本月行情在短線層面，有機會挑戰4萬8千點，10月份更有機會達到歷史新高。\n\n陳奕光推測，目前的震盪區間可能在4萬7千點上下。另外，週KD在8月14日達到「黃金交叉」，指數在那之後40-60天再漲了5-12%，若以4萬5千點計算，則10月份指數有望達到4萬8千點，甚至是5萬點，「所以這個黃金交叉，意義非凡。」\n\n陳奕光續指，外資至今賣超台股1.28兆，若減去台積電1.74兆，則剩下4000多億；也就是說，外資賣超台積電用作價差套利。而台積電分別在7月22日、8月13日、8月28日漲至2445元，因此台積電可能向2555元邁進；若台積電持續上揚，將貢獻大盤800點，「目前看來，挑戰歷史新高是指日可待。」\n\n陳奕光提到，過去當股市達到3萬9千點時，台幣貶至32.525；股市在達到4萬8千點後，台幣也貶至31.68；而近期台幣約坐落於31.5，因此股市可能再度達到4萬8千點。\n\n陳奕光表示，從整體行情而言，有許多正面因素存在，搭配上基本面後，整體行情可能進入「選股不選市」。他預測，股市在本月進入回升後，很有可能在10月中旬達到48218點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-13",
       "Time": "22:20:00",
@@ -81,6 +91,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
       "Content": "NVIDIA Corporation (NASDAQ: NVDA ) has an argument against rapid hardware obsolescence: older accelerators still command rental prices. For CoreWeave, Inc. (NASDAQ: CRWV ), which sells access to computing infrastructure, the harder question is how much of that rent becomes a return.\n\nThe September 7 settlement of a transaction-based GPU rental benchmark put NVIDIA's H100 SXM at $3.17 per GPU-hour and its older A100 SXM4 at $1.05. Those are market benchmarks, not CoreWeave's realized prices or the economics of its entire fleet.\n\nThe distinction matters because a chip can remain useful without every owner earning an attractive return on the equipment purchased around it.\n\nUseful hardware still carries a cost\n\nNVIDIA benefits when buyers believe its systems can serve workloads across multiple product generations. A longer revenue-producing life can make the initial purchase easier to justify and reinforce confidence in its computing ecosystem.\n\nThat does not guarantee faster replacement demand. Customers able to run suitable tasks on older equipment may defer some upgrades. NVIDIA still needs new systems to offer advantages worth paying for, especially when power and facility capacity constrain deployment.\n\nCoreWeave has a more direct exposure to utilization. Keeping installed accelerators working can extend the period over which equipment earns revenue. But rental income must cover power, facilities, operations, financing and the cost of the hardware itself.\n\nIts August 11 results illustrate why the accounting distinction matters. Second-quarter revenue reached $2.575 billion, while adjusted EBITDA was $1.510 billion. Yet the company reported a $626 million net loss and $640 million of net interest expense.\n\nA positive rental benchmark therefore cannot establish that depreciation assumptions are conservative or that shareholders will receive the implied equipment cash flows. Contract terms, utilization, operating costs and financing can produce different results for two owners of the same GPU.\n\nThe market signal is useful, but incomplete\n\nInsider Monkey's hedge fund database counted 285 NVIDIA holders in Q2 2026 versus 275 in Q1, and 71 CoreWeave holders versus 63. Ken Fisher's firm held NVIDIA, while Magnetar Capital remained a substantial CoreWeave holder. These historical positions are not reactions to September rental data.\n\nThe August 14 short-interest snapshot showed a sharper contrast: 1.23% of NVIDIA's float was sold short versus 16.92% of CoreWeave's. That measures positioning, not the correctness of either investment case.\n\nStory Continues\n\nFor NVIDIA Corporation (NASDAQ:NVDA), continued rental demand supports the durability argument. For CoreWeave, Inc. (NASDAQ:CRWV), durability is only an input. Investors still need evidence that useful hardware can earn enough after its associated costs to create lasting equity value.\n\nWhile we acknowledge the potential of NVDA and CRWV as investments, we believe certain other AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nNVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave\n\nNVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave The distinction matters because a chip can remain useful without every owner earning an attractive return on the equipment purchased around it.\n\nA positive rental benchmark therefore cannot establish that depreciation assumptions are conservative or that shareholders will receive the implied equipment cash flows. Contract terms, utilization, operating costs and financ",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-13",
+      "Time": "21:50:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "本週操盤筆記：超級央行週來了！Fed、日銀升息箭在弦上 美股、美債繃緊神經",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%9C%AC%E9%80%B1%E6%93%8D%E7%9B%A4%E7%AD%86%E8%A8%98-%E8%B6%85%E7%B4%9A%E5%A4%AE%E8%A1%8C%E9%80%B1%E4%BE%86%E4%BA%86-fed-%E6%97%A5%E9%8A%80%E5%8D%87%E6%81%AF%E7%AE%AD%E5%9C%A8%E5%BC%A6%E4%B8%8A-%E7%BE%8E%E8%82%A1-135003356.html",
+      "Content": "全球市場本週將迎來央行超級週，聯準會(Fed)、日本銀行(BOJ)及英國央行(BOE)將接連公布利率決策。其中，美國通膨與就業數據雙雙偏強，使Fed升息1碼(25個基點)機率突破八成；日銀也可能將利率調升至1.25%。在美國10年期公債殖利率逼近5%、油價一度突破每桶100美元之際，央行是否釋出持續緊縮訊號，將左右美股、債市與匯市走勢。\n\n標普500指數今年來在人工智慧(AI)基礎設施巨額投資及企業獲利成長帶動下，累計上漲近12%，但近期已較8月中旬歷史高點回落約2%。投資人除了關注全球利率走向，也將消化美國零售銷售、工業生產，以及英國、加拿大與日本通膨等重要數據。\n\n本週操盤筆記 (0914-0918)\n\nFed升息機率破八成 華許公信力迎來考驗\n\nFed將於週二至週三(15至16日)召開利率會議。新任Fed主席華許(Kevin Warsh)上月發表被市場視為偏鷹派的演說後，投資人便逐步提高9月升息押注。\n\n上週公布的8月消費者物價指數(CPI)進一步強化升息預期，剔除食品與能源的核心CPI月增0.3%，高於市場預期。根據倫敦證券交易所集團(LSEG)資料，聯邦基金期貨顯示，Fed將利率區間由目前3.5%至3.75%調高1碼的機率已超過80%。\n\n最新非農就業報告也顯示，美國8月新增16.2萬人，遠優於市場預期，加上Fed偏好的核心個人消費支出物價指數(Core PCE)年增率仍達3.3%，為升息提供更多理由。\n\nBNY Wealth投資長Alicia Levine表示，目前市場預期已明顯倒向9月升息，但投資人真正關心的是，這次行動究竟只是單次調整，或代表Fed重啟一連串升息。若華許暗示抗通膨工作尚未完成，可能進一步推高美債殖利率並壓縮股票估值。\n\n美國10年期公債殖利率上週五盤中一度升至4.99%，創近三年新高，終場報4.97%。一旦突破5%，債券對資金的吸引力將進一步提升，仰賴融資的小型股及高估值科技股恐首當其衝。\n\n日銀升息幾成定局 日元與日本債市繃緊神經\n\nFed公布決策後，市場焦點將迅速轉向日銀週四至週五(17至18日)舉行的政策會議。市場幾乎已完全反映日銀升息1碼、將政策利率由1%調高至1.25%的可能性。\n\n日銀7月雖選擇按兵不動，但已警告中東衝突推升能源價格、日元疲弱及AI相關需求強勁，可能使日本通膨超出預期。日銀總裁植田和男也表明，決策者將在9月會議討論是否升息，進一步強化市場預期。\n\n《路透》調查顯示，經濟學家預估日銀在本月升息後，可能於明年3月底前將利率調高至1.5%，並在第二季進一步升至1.75%。因此，市場除關注日銀是否如期行動，也將從植田和男的記者會尋找後續升息速度及最終利率水準的線索。\n\n日銀若釋出持續緊縮訊號，可能推升日元及日本公債殖利率，並促使部分日本資金撤出海外市場，對美債等全球債券帶來額外賣壓。反之，若植田態度偏向謹慎，日元可能再度承壓。\n\n英國央行料按兵不動\n\n英國央行將於週四(17日)公布利率決策。儘管能源價格上漲推升通膨風險，但《路透》調查的65名經濟學家預料，英國央行將把利率維持在3.75%，並可能至少按兵不動至2027年年中。\n\n英國央行總裁貝利(Andrew Bailey)日前也淡化升息勢在必行的說法，強調政策仍取決於經濟與地緣政治情勢。市場將觀察決策聲明是否提及油價上漲可能造成的第二輪通膨效應，以",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
