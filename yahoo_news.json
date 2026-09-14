@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-14T07:00:24.392Z",
-  "total_news_count": 610,
+  "last_updated": "2026-09-14T07:26:31.339Z",
+  "total_news_count": 620,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "15:13:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳點名AI下一戰場！台股重挫資安股逆勢噴出　2檔強鎖漲停",
+      "URL": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%BB%9E%E5%90%8Dai%E4%B8%8B-%E6%88%B0%E5%A0%B4-%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E8%B3%87%E5%AE%89%E8%82%A1%E9%80%86%E5%8B%A2%E5%99%B4%E5%87%BA-2%E6%AA%94%E5%BC%B7%E9%8E%96%E6%BC%B2%E5%81%9C-071300663.html",
+      "Content": "【記者呂承哲／台北報導】輝達（NVIDIA）執行長黃仁勳近日點名「網路資安」可能成為 AI 下一個重大應用領域，台股週一（14日）早盤雖一度重挫逾700點，資金湧入台灣資安概念股，中華資安（7765）、安碁資訊（6690）一早強攻漲停，伊雲谷（6689）也一度亮燈漲停。\n\n截至上午10點5分，台股跌勢收斂至345點、報在458392點。台股相關概念股包括中華資安、安碁資訊仍鎖在漲停板，伊雲谷上漲7.33%、零壹（3029）上漲3%、邁達特（6112）上漲6.73%，敦陽科（2480）上漲1.27%，僅精誠（6214）下跌1.06%。\n\n其中，中華資安、安碁資訊業務較集中於資安服務；零壹、精誠、敦陽科等業者則兼具系統整合及資訊服務業務。\n\n中華資安8月營收1.47億元、年增3%，前8月年增17%。受惠企業AI資安需求升溫，紅隊演練、滲透測試及SOC、MDR監控需求成長，AI與無人機資安業務也逐步進入收割期。\n\n安碁資訊8月營收2.2億元、年增8.2%，前8月年增13.51%、創同期新高。隨AI邁向Agentic AI，公司強化AI治理平台，涵蓋模型權限、資料管理及Agent任務執行。\n\n精誠8月營收59億元、年增61.91%，受惠大型企業對AI基礎建設、雲端平台及軟硬體需求增加，後續持續掌握AI、雲端與資安商機。\n\n伊雲谷日前則整合集團5家公司推出企業級AI產品全景圖，布局AI Agent、模型評測、治理、資安及Edge AI，並推出EAG治理平台。\n\n黃仁勳10日在舊金山高盛科技大會表示，隨AI程式設計能力持續進步，AI不僅能協助開發軟體，也能主動尋找程式漏洞，因此網路資安很可能成為AI下一個大型應用市場。\n\n黃仁勳認為，當攻擊端開始利用AI尋找弱點，防禦端同樣必須藉由AI持續監控、分析及修補漏洞，意味未來網路攻防將從傳統人工應對，進一步走向AI驅動的自動化防禦。\n\n隨AI逐步導入企業核心營運，資安防護範圍也從傳統網路設備，進一步擴大至端點、身分認證、雲端環境、企業網路及AI模型。根據櫃買中心產業價值鏈資料，台灣資安產業涵蓋營運安全、應用安全、網路與基礎設施安全、端點安全，以及資安營運管理、顧問與鑑識等服務。\n\n相較一次性的軟硬體建置，AI資安更強調持續監控及即時應變，企業對SOC、MDR、EDR、雲端安全及AI資安維運等服務需求可望提高。隨AI同時成為攻擊與防禦工具，能否提供長時間監控、即時偵測與自動化應變能力，也將成為資安業者爭取AI商機的重要觀察指標。\n\n<a data-yga=\"{\"yInteractivit",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "14:31:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股盤後】金融勁揚不敵電子弱勢　台股量縮下跌322點失守月線",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%87%91%E8%9E%8D%E5%8B%81%E6%8F%9A%E4%B8%8D%E6%95%B5%E9%9B%BB%E5%AD%90%E5%BC%B1%E5%8B%A2-%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E4%B8%8B%E8%B7%8C322%E9%BB%9E%E5%A4%B1%E5%AE%88%E6%9C%88%E7%B7%9A-063159796.html",
+      "Content": "（中央社記者鍾榮峰台北2026年9月14日電）中東局勢緊繃，人工智慧AI模型巨頭呼籲放緩產業發展，牽動日韓股市午盤後跌勢，台股今天開低量縮震盪，盤中一度下跌786點，金融股勁揚，聯電以及鴻海翻紅，指數跌幅漸收斂，尾盤金融續揚，電子轉弱，月線約46025點和46000點仍告失守。\n\n終場加權指數下跌322.33點，收45862.52點，跌幅0.7%，成交金額萎縮至新台幣6309.17億元，創4月8日以來單日低量，電子指數下跌0.94%，金融指數勁揚1.94%，代表中小型股的櫃買OTC指數跌0.21%。\n\n權王台積電 (2330) 終場收2380元，下跌30元，跌幅1.24%；電子權值股聯發科 (2454) 翻黑收4560元，跌0.55%；台達電 (2308) 收平盤1620元；鴻海 (2317) 收248.5元，漲0.2%。日月光投控 (3711) 收612元，跌0.97%；聯電 (2303) 收142.5元，漲1.42%。\n\n記憶體族群南亞科 (2408) 收473元，跌4.06%；印刷電路板廠欣興 (3037) 收970元，跌0.72%；IC載板廠南電 (8046) 收1055元，跌2.31%；被動元件大廠國巨 (2327) 翻紅收545元，漲0.18%；力積電 (6770) 收平盤70.7元。\n\n台塑四寶南亞 (1303) 收234元，跌0.21%；台塑 (1301) 收62.9元，跌2.63%；台化 (1326) 收67.6元，跌3.7%；台塑化 (6505) 收82.8元，跌0.96%。\n\n股價超過千元的高價股跌多於漲，大立光 (3008) 鎖跌停5995元；玉晶光 (3406) 跌破千元鎖跌停954元，AES-KY (6781) 失守千元，金像電 (2368) 千元失而復得，漢唐 (2404) 站穩千元，高價股守「46千金」。\n\n摩爾投顧分析師林漢偉表示，美股電子盤拉回，牽動台股開低，盤中跌點收斂，金融和部分電子權值股回穩，加權指數失守月線技術面轉弱，下檔季線有撐。\n\n展望台股後市，林漢偉指出，觀察16日台指期結算以及後續AI模型巨頭對產業發展看法，若收復月線、季線不帶量跌破，量能逐步回溫，台股伺機盤整上攻，市場已反應美國聯邦準備理事會（Fed）升息預期，觀察變數在於AI產業發展步調以及對資本支出影響。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "14:29:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "金融勁揚不敵電子弱勢　台股量縮下跌322點失守月線",
+      "URL": "https://tw.news.yahoo.com/%E9%87%91%E8%9E%8D%E5%8B%81%E6%8F%9A%E4%B8%8D%E6%95%B5%E9%9B%BB%E5%AD%90%E5%BC%B1%E5%8B%A2-%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E4%B8%8B%E8%B7%8C322%E9%BB%9E%E5%A4%B1%E5%AE%88%E6%9C%88%E7%B7%9A-062905528.html",
+      "Content": "（中央社記者鍾榮峰台北14日電）中東局勢緊繃，人工智慧AI模型巨頭呼籲放緩產業發展，牽動日韓股市午盤後跌勢，台股今天開低量縮震盪，盤中一度下跌786點，金融股勁揚，聯電以及鴻海翻紅，指數跌幅漸收斂，尾盤金融續揚，電子轉弱，月線約46025點和46000點仍告失守。\n\n終場加權指數下跌322.33點，收45862.52點，跌幅0.7%，成交金額萎縮至新台幣6309.17億元，創4月8日以來單日低量，電子指數下跌0.94%，金融指數勁揚1.94%，代表中小型股的櫃買OTC指數跌0.21%。\n\n權王台積電終場收2380元，下跌30元，跌幅1.24%；電子權值股聯發科翻黑收4560元，跌0.55%；台達電收平盤1620元；鴻海收248.5元，漲0.2%。日月光投控收612元，跌0.97%；聯電收142.5元，漲1.42%。\n\n記憶體族群南亞科收473元，跌4.06%；印刷電路板廠欣興收970元，跌0.72%；IC載板廠南電收1055元，跌2.31%；被動元件大廠國巨翻紅收545元，漲0.18%；力積電收平盤70.7元。\n\n台塑四寶南亞收234元，跌0.21%；台塑收62.9元，跌2.63%；台化收67.6元，跌3.7%；台塑化收82.8元，跌0.96%。\n\n股價超過千元的高價股跌多於漲，大立光鎖跌停5995元；玉晶光跌破千元鎖跌停954元，AES-KY失守千元，金像電千元失而復得，漢唐站穩千元，高價股守「46千金」。\n\n摩爾投顧分析師林漢偉表示，美股電子盤拉回，牽動台股開低，盤中跌點收斂，金融和部分電子權值股回穩，加權指數失守月線技術面轉弱，下檔季線有撐。\n\n展望台股後市，林漢偉指出，觀察16日台指期結算以及後續AI模型巨頭對產業發展看法，若收復月線、季線不帶量跌破，量能逐步回溫，台股伺機盤整上攻，市場已反應美國聯邦準備理事會（Fed）升息預期，觀察變數在於AI產業發展步調以及對資本支出影響。（編輯：楊蘭軒）1150914",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-14",
@@ -11,6 +41,36 @@
       "URL": "https://finance.yahoo.com/m/b0c41077-e52b-3f43-a1d6-5741af8895c5/archer-aviation-vs.-joby.html",
       "Content": "The two primary electric vertical takeoff and landing (eVTOL) aircraft stocks are Archer Aviation (NYSE: ACHR) and Joby Aviation (NYSE: JOBY). They're locked in a tight -- and unfriendly -- race to receive FAA certification for their eVTOL designs.\n\nThere's no way to know which company will receive its certification first, or at all. Until then, we have to rely on their quarterly financial reports to determine which one is in better shape.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nSo, does Archer or Joby have the best balance sheet right now? It was a close contest, but one company won out in the end.\n\nJoby has plenty of cash plus some new debt\n\nOne notable feature of Joby's cash hoard is how much it's increased over the last six months. As of Dec. 31, Joby had $240.8 million in cash and cash equivalents on its balance sheet, and $1.2 billion in short-term investments, for a total of $1.4 billion. As of the end of the second quarter, Joby had more than doubled its cash position to $629.9 million and had grown its short-term investments to $1.6 billion, for a total of $2.3 billion. That's an increase of about $850 million, or 60.8%.\n\nThat number becomes a bit less impressive when you consider the company's long-term debt. As of the end of 2025, Joby had no long-term debt on its balance sheet, an impressive position for a young start-up in a resource-intensive industry. But it couldn't last. Joby is now carrying $701.9 million in long-term debt.\n\nIt's worth noting that the increase in Joby's cash and short-term investments so far in 2026 is higher than its increase in long-term debt. In fact, if Joby really wanted to, it could completely pay off all of its long-term debt with cash and equivalents, and still have money left over. Of course, it probably won't, but the fact that it could is a positive sign.\n\nArcher has lower debt but fewer current assets\n\nAt first glance, Archer's financial picture looks superior to Joby's. Archer is carrying a total debt load of just $80.1 million, which is much lower than Joby's $701.9 million.\n\nBut Archer also has less cash on hand than Joby. At the end of Q2, Archer had $852.7 million in cash and equivalents on its balance sheet, and $707.9 million in short-term investments, for a total of $1.6 billion.\n\nInterestingly, if you subtract both companies' debt from their cash and short-term investment hoards, the numbers are nearly identical: $1.52 billion for Archer and $1.56 billion for Joby. Let's compare the rest of the balance sheets to find the winner.\n\nStory Continues\n\nSimilar companies, similar balance sheets\n\nThe rest of the companies' balance sheets -- surprise! -- are also pretty similar.\n\nBoth companies' assets include property and equipment, restricted cash, \"right-of-use\" assets for their aircraft, \"intangible assets,\" and \"goodwill,\" none of which are easily transferable or sellable in the event of a financial crisis. Joby values these assets at $374.5 million in total. Archer's add up to a much higher $552.8 million, largely due to its higher property and equipment assets, which include the Hawthorne Airport in Los Angeles, which it acquired last year for $126 million.\n\nBut it's the final part of the balance sheet that gives us our winner. At the bottom of the sheets are the calculations of shareholders' equity (total assets minus total liabilities). These, too, are similar: $1.8 billion for Joby and $1.9 billion for Archer. But there's a catch.\n\nJoby currently has more outstanding shares of stock: 986.5 million to Archer's 770 million. Its market cap is also much higher: $6.4 billion to Archer's $4.3 billion. And despite its recent stock price slide, its per-share price is higher, too: $6.45 per share to Archer's $5.55 per share. But its total shareholders' equity is a bit lower. That means each share of Joby stock is backed by fewer net assets than each share of Archer's stock.\n\nSo, all things considered, Archer Aviation has the better balance sheet... at least, for now.\n\nThat similarity may not last\n\nBoth Archer and Joby have recently announced major acquisitions that may have a substantial impact on their balance sheets and share counts in the future.\n\nJoby plans to buy defense technology company Resonant Sciences for $450 million in cash and $50 million in stock. The deal, expected to close next year, would give Joby access to additional defense-related technologies and about 1 million square feet of manufacturing space in Dayton, Ohio.\n\nMeanwhile, Archer has agreed to acquire three Boeing subsidiaries -- eVTOL business Wisk Aero, drone maker Insitu, and airspace services company SkyGrid -- in exchange for shares representing 19.75% of Archer's outstanding Class A stock.\n\nResonant Sciences reported more than $100 million in revenue over the past year, while Insitu brings in $200 million in annual sales. Given the potential impact these acquisitions may have on the businesses and their share counts, Archer's and Joby's balance sheets could look very different a year from now.\n\nThat said, investors should also remember that neither Archer nor Joby has received FAA approval to operate their eVTOLs commercially . If one or both companies receive that authorization and begin operating commercially, their financial pictures (including their balance sheets) will change dramatically. So while Archer Aviation's balance sheet may be our current winner, there's no guarantee that its stock will outperform Joby's in the long run.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-14",
+      "Time": "14:21:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股收跌322點 金融逆勢撐盤 成交量6300億創今年第3低",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C322%E9%BB%9E-%E9%87%91%E8%9E%8D%E9%80%86%E5%8B%A2%E6%92%90%E7%9B%A4-%E6%88%90%E4%BA%A4%E9%87%8F6300%E5%84%84%E5%89%B5%E4%BB%8A%E5%B9%B4%E7%AC%AC3%E4%BD%8E-062100720.html",
+      "Content": "台股今（14）日開低震盪，盤中一度下跌逾700點，雖然後續跌幅收斂，但尾盤受台積電1943張賣單影響，終場收45862點，失守46K關卡及月線，下跌322點，跌幅0.7%，成交量量縮至6300億，創今年第3低；惟金融股逆勢撐盤，富邦金上漲3.7%，永豐金、凱基金等也有逾2%的漲幅。\n\n權值股部分，台積電開低震盪，尾盤收最低2380元，下跌30元，跌幅1.24%，聯發科來到4560元，下跌25元，跌幅0.55%，鴻海、聯電則逆勢翻紅成功，分別上漲0.2%、1.42%`.\n\n觀察今日盤面，金融股逆勢撐盤，富邦金上漲3.7%來到154元，聯邦銀、永豐金、凱基金、第一金、彰銀、台新新光金上漲逾2%，國泰金、兆豐金、中信金、元大金、華南金、合庫金也有逾1%的漲幅。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "14:12:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "今日台股》台積電熄火下跌30元、拖累指數239點　台股終場下跌322點、失守46000點",
+      "URL": "https://tw.news.yahoo.com/%E4%BB%8A%E6%97%A5%E5%8F%B0%E8%82%A1-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%86%84%E7%81%AB%E4%B8%8B%E8%B7%8C30%E5%85%83-%E6%8B%96%E7%B4%AF%E6%8C%87%E6%95%B8239%E9%BB%9E-%E5%8F%B0%E8%82%A1%E7%B5%82%E5%A0%B4%E4%B8%8B%E8%B7%8C322%E9%BB%9E-%E5%A4%B1%E5%AE%8846000%E9%BB%9E-061242408.html",
+      "Content": "今日個股成交量排行榜前五名：友達、聯電、華邦電、群創、力積電\n\n今日個股成交值排行榜前五名：台積電、聯發科、南亞科、華邦電、聯電\n\n美國股市上週五（11日）迎來反彈，國際油價自高點回落，緩解市場對能源價格推升通膨的擔憂，美股四大指數全數走高，其中費半指數上漲逾1%，台指期夜盤也同步上漲401點，不過卻沒有帶動指數表現，本週適逢台指期結算，台北股市今（14）日開盤下跌174.11點或0.38%，來到46,010.74點，隨後跌點擴大到786.42點，來到45,398.43點，失守46,000點關卡，終場下跌322.33點（約0.7%），收在45,862.52點，成交量為6,309.17億元。\n\n中小型股同步走低，櫃買指數開盤下跌2.15點或0.54%，來到393.37點，午盤過後有買盤挹注，數度翻紅，可惜沒有維持到尾盤，終場下跌0.85點（約0.21%），收在394.67點，成交量為1,697.62億元。\n\n權值股多數走低，權王台積電開盤下跌25元，以2,385元開出，最低一度來到2,380元，終場下跌30元（約1.24%），收在2,380元，拖累大盤指數就有239點；聯發科開盤下跌110元，來到4,475元，不過盤中有買單挹注成功翻紅，最高一度來到4,650元，不過尾盤仍不敵賣壓，終場下跌25元（約0.55%），收在4,560元；台達電午盤也數度翻紅，終場收在平盤價1,620元。\n\n證券開戶必選富邦證券，股票下單使用心得、手續費及開戶流程優惠懶人包\n\n>> 立即線上開證券戶 <<\n\n今日市場關注焦點在於光學鏡頭族群，蘋果最新iPhone 18系列登場，鏡頭規格升級為光學供應鏈帶來新商機，不過，摩根士丹利（大摩）最新報告對台灣光學雙雄轉趨保守。根據外媒及財經媒體引述大摩報告，大立光、玉晶光近期股價大幅上漲，市場對共同封裝光學（CPO）及光纖陣列單元（FAU）的長期成長預期已提前反映在估值中，因此分別將大立光投資評級降至「中立」、玉晶光降至「減碼」，不過大摩雖然調降兩家公司評級，卻同步上修目標價，大立光目標價由4836元調高至7100元，玉晶光則由425元調高至910元。但今日兩檔個股都被打到跌停板，拖累光學鏡頭族群的股價，先進光下跌逾6%，今國光下跌逾4%，揚明光、聯一光、佳凌下跌逾3%。\n\n被動元件族群也賣壓沉重，天二科技下跌逾9%，馥鴻下跌逾6%，雷科、華容下跌逾4%，聚鼎、密望實下跌逾2%。\n\n記憶體族群也同步走弱，華邦電下跌逾6%，南亞科下跌逾4%，旺宏下跌逾2%，力積電收在平盤價70.7元。\n\n但也有族群逆勢走高，人工智慧（AI）快速發展，資安議題再度成為市場焦點。輝達（NVIDIA）執行長黃仁勳日前表示，網路安全很可能成為AI下一個重要應用領域；另一方面，Anthropic執行長阿莫戴（Dario Amodei）近日也呼籲，業界應適度放慢最先進AI模型的能力提升速度，讓安全機制有時間跟上。消息帶動資安、資服族群逆勢走強，驊宏資、伊雲谷、安碁資訊、意藍、安碁資訊、訊達、華經、邁達特、中華資安、力新攻上漲停板，創泓科技、立端上漲逾5%。\n\n資金也持續流向金融股，富邦金上漲逾3%，聯邦銀、上海商銀、永豐金、凱基金、第一金、彰銀、王道銀行、安泰銀、台新新光金上漲逾2%。\n\n原文出處\n\n今日台股》台積電熄火下跌30元、拖累指數239點　台股終場下跌322點、失守46000點\n\n首辦現賺 $7,000！美國運通耀金卡璀璨上市：五星飯店餐廳買一送一、星級住宿 $3,300 起超值開箱\n\nKKday/Klook 9月最新折扣碼/優惠碼(卡優獨家88折)、信用卡刷卡回饋整理\n\n新光證券開戶教學｜什麼是「資金管理帳戶」？下單手續費多少，2026新開戶享多項好禮！\n\n2026 新手投資股票完整教學｜七款免付費必備App推薦！\n\nFED升息機率近6成！新光證券：不只看CPI PPI恐先掀起波動行情",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-09-14",
+      "Time": "14:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》ASIC與GPU的競合—NVDA、AVGO、MSFT",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-asic%E8%88%87gpu%E7%9A%84%E7%AB%B6%E5%90%88-nvda-avgo-msft-060300900.html",
+      "Content": "MoneyDJ新聞 2026-09-14 14:03:11 數位內容中心 發佈\n\nNVIDIA（NVDA.US）\n\n2026年9月，NVIDIA一面洽談成為Anthropic首次公開募股（IPO）基石投資人，一面讓CUDA Toolkit 13.4正式支援Windows on Arm。這讓其布局從GPU晶片延伸到資本投資與開發平台，降低開發者轉向其他特定應用積體電路（ASIC）或系統單晶片（SoC）平台的摩擦。\n\nBroadcom（AVGO.US）\n\n2026年9月，Broadcom揭露Google TPU v8i已開始量產出貨，OpenAI第一代客製化加速器Jalapeno也於第3季出貨。管理層並稱Jalapeno在特定工作負載下，可用不到GPU一半的成本執行，直接把競爭焦點拉向推理端成本與能效。\n\nMicrosoft（MSFT.US）\n\n2026年9月，Microsoft傳出最快將推出下一代自研AI加速器Maia 300，並與台積電洽談2027年超過300,000顆產能。公司已把Maia系列鎖定大規模AI推理，且前代Maia 200已進入Azure生產環境，顯示其異質運算部署正從規劃走向落地。\n\nQualcomm（QCOM.US）\n\n2026年9月，Qualcomm與Amazon宣布長期AI資料中心合作，Amazon未來可能採購最高約600億美元的AI晶片與相關產品。合作內容除推理晶片外，也包含最高1.6Tbps的光通訊技術，反映雲端業者正擴大外部客製化加速器來源。\n\nMeta Platforms（META.US）\n\n2026年9月，Meta Platforms自研Iris AI晶片進入量產，成為MTIA四代路線中首款量產級訓練級晶片。公司並以2026年底前上線7GW AI算力為目標，顯示其自研晶片已由早期推理用途推進到訓練級負載。\n\nArm Holdings（ARM.US）\n\n2026年9月，Arm Holdings推出Neoverse CSS N4，單一晶粒最多可搭載128個核心，較CSS N3單插槽效能超過2倍。這項可配置中央處理器（CPU）子系統也支援台積電N3、N3P與N2，對應的是更快打造自研ASIC的設計路徑。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》高效能運算網路—AVGO、CSCO、AMD\n\n《美股主題週報》生成式人工智慧—NVDA、AMZN、ADBE\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -63,6 +123,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-14",
+      "Time": "13:48:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》先進封裝—TSM、AMKR、AMAT",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-tsm-amkr-amat-054800656.html",
+      "Content": "MoneyDJ新聞 2026-09-14 13:48:11 數位內容中心 發佈\n\nTaiwan Semiconductor Manufacturing Company Limited（TSM.US）\n\n9月12日市場消息指出，Taiwan Semiconductor Manufacturing Company Limited的CoWoS產能瓶頸仍未緩解，先進封裝需求已開始外溢至其他供應鏈。另有消息稱，公司可能在2028年把CoWoS產能提升至2026年水準的2倍，顯示擴產方向已更明確。\n\nAmkor Technology, Inc.（AMKR.US）\n\n9月8日，Amkor Technology, Inc.宣布亞利桑那先進封裝與測試園區啟動第2期擴建，總投資提高至120億美元。第2期將新增60,000平方公尺無塵室，且第1期33,000平方公尺產能已被客戶承諾超額預訂，顯示在地化需求已推進至多期建設。\n\nApplied Materials, Inc.（AMAT.US）\n\n9月10日，Applied Materials, Inc.表示先進封裝將是未來兩年最重要成長支柱之一，並預估2026年先進封裝業務成長超過70%。公司同時指出，先進邏輯、DRAM與先進封裝三大領域合計將占2026至2027年晶圓廠設備成長約80%。\n\nLam Research Corporation（LRCX.US）\n\nLam Research Corporation表示，advanced-packaging業務今年成長超過70%，並點名panel-level packaging為看好方向。公司同時將2026年全球晶圓廠設備（WFE）展望上修至low-1,500億美元區間，反映設備端對先進封裝需求判斷同步升高。\n\nOnto Innovation Inc.（ONTO.US）\n\nOnto Innovation Inc.本週資料顯示，Dragonfly G5已取得領先2.5D邏輯與高頻寬記憶體（HBM）客戶認證與採用，且自單一封裝測試代工（OSAT）客戶取得逾2億美元訂單。公司並把2026年先進封裝業務成長預估由逾50%上修至約80%。\n\nASML Holding N.V.（ASML.US）\n\nASML Holding N.V.與Taiwan Semiconductor Manufacturing Company Limited共同推動High-NA極紫外光（High-NA EUV）由6吋光罩轉向12吋光罩，目標在2031年建立試產線。ASML並指出，新技術可使High-NA設備吞吐量提升40%，為高密度chiplet與HBM整合提供新製造路線。\n\nKLA Corporation（KLAC.US）\n\nKLA Corporation本週相關資料聚焦先進封裝的量測與檢測需求升溫，背景來自AI封裝內含先進邏輯、多顆HBM與高密度互連後，缺陷若延後到後段才被發現，損失將顯著提高。公司截至期末的remaining performance obligations約125億美元。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n先進製程扛大旗 意德士下半年續旺\n\n補丁科16日將登興櫃 ，布局AI記憶體新架構\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-09-14",
       "Time": "13:44:34",
@@ -70,6 +140,16 @@
       "Title": "台股跌322.33點",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C322-33%E9%BB%9E-054434845.html",
       "Content": "（中央社台北14日電）台北股市今天開低走低，收盤跌322.33點，為45862.52點，跌幅0.70%，成交金額新台幣6309.17億元。\n\n加權指數開盤為46010.74點，盤中最高46050.24點，最低45398.43點；不含金融股指數40700.54點，跌389.84點。\n\n八大類股漲跌幅：泥窯股跌1.32%、食品股跌0.66%、塑化股跌1.45%、紡織股跌1.01%、機電股跌0.97%、造紙股跌0.31%、營建股跌1.32%、金融股漲1.94%。\n\n委買張數2227萬4436張，委賣張數1219萬3張，成交張數870萬5759張。\n\n收盤時上漲341家，下跌674家，持平84家。\n\n成交量前5名個股為友達、群益臺灣加權正2、主動中信台灣收益、元大台灣50正2、主動統一升級50。\n\n漲幅前5名個股為光鼎、全友、伊雲谷、華經、恩德。\n\n跌幅前5名個股為玉晶光、大立光、永擎、上銀、天瀚。1150914",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-14",
+      "Time": "13:43:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價破百嚇跑資金 美股基金單週失血323億美元",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E7%A0%B4%E7%99%BE%E5%9A%87%E8%B7%91%E8%B3%87%E9%87%91-%E7%BE%8E%E8%82%A1%E5%9F%BA%E9%87%91%E5%96%AE%E9%80%B1%E5%A4%B1%E8%A1%80323%E5%84%84%E7%BE%8E%E5%85%83-054300372.html",
+      "Content": "MoneyDJ新聞 2026-09-14 13:43:28 李彥瑾 發佈\n\n美伊戰火延燒推升油價，通膨與升息疑慮再起，上週全球股票基金湧現撤資潮。倫敦證交所集團（LSEG）旗下Lipper統計顯示，截至9月9日當週，全球股票基金淨流出155.2億美元，創3月18日以來最大單週失血規模。\n\n路透社報導，從主要市場資金流向來看，上週資金調節主要集中美國股票基金，單週遭撤資322.7億美元，創2025年12月17日以來最大淨流出；反觀歐洲及亞洲股票基金分別吸金111.6億、30.3億美元，與美國股票基金遭大幅調節形成鮮明對比。\n\n上週市場資金明顯轉趨保守，主因國際油價漲破每桶100美元，投資人擔心能源成本再度推高通膨，加上美國8月PPI仍具偏強，進一步強化聯準會（Fed）升息押注。目前市場預估，Fed 9月會議升息一碼的機率已突破八成。\n\n資金操作轉向防禦資產，債市延續吸金動能，上週全球債券基金維持淨流入89.5億美元，但規模降至7月底以來最低。\n\n（圖片來源：shutterstock）\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《美債》油價破百推高殖利率 5%關卡近在眼前\n\n《美債》油價逼近百美元 10年債殖利率重返4.8%\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -83,6 +163,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "13:23:14",
+      "Source": "Yahoo奇摩股市",
+      "Title": "群益00415A來囉！精選台股核心新50強　1萬入手",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%A4%E7%9B%8A00415a%E4%BE%86%E5%9B%89-%E7%B2%BE%E9%81%B8%E5%8F%B0%E8%82%A1%E6%A0%B8%E5%BF%83%E6%96%B050%E5%BC%B7-1%E8%90%AC%E5%85%A5%E6%89%8B-052314780.html",
+      "Content": "群益投信即將推出進化版市值ETF：00415A主動群益核心50，持股囊括強勢龍頭股、(準)千金趨勢股以及未來龍頭股，精粹台股核心新50強，掌握AI強勢股與非科技股之潛力商機，將於9月30日募集，每股發行價格10元，採季配息，預計10月20日掛牌。\n\n益投信主動式台股ETF研究團隊表示，自2023年AI元年以來，台股市值年年增長，加權指數每年漲幅更都超過20%，今年來更已漲逾60%，而掌握台股大多頭行情最簡單的方法就是透過市值型ETF 來參與。\n\n有別於過去的市值型ETF投資標的主要為上市股票，追求報酬和市場同步、緊跟大盤享受長期經濟成長週期，持股内容按追蹤指數定期調整而更動，進化版市值型ETF：00415A主動群益核心50訴求主動操作，能因應市況與產業趨勢靈活調整持股，力求超越大盤、創造超額報酬。\n\n00415A的投資標的範疇為上市櫃股票，以三大主軸精粹台股核心50強，包括獲利基本面底氣深厚的現任精壯龍頭股、AI強勢題材下股價與獲利皆展現爆發力的(準)千金股以及商機前景卓著的未來龍頭題材股股，全方位掌握台股核心成長動能。（如下圖，記者李錦奇攝影）\n\n主動群益核心50(00415A)經理人許育誌指出，預計其中30 檔成分股會以現任龍頭股為主，包含千金股，持股佔比約75%-80%，其餘20檔鎖定未來有機會成為龍頭股的強勢，持股佔比約20%-25%。\n\n許育誌指出，AI投資競賽持續升溫，四大CSP加速擴建資料中心，2026年資本支出預估突破7000億美元、再創新高。AI算力需求全面升級，晶片與伺服器商機同步擴大，供應鏈實力完整的台灣站穩核心受益位置，因此對於台股仍正向看待，主動式市值台股ETF更是投資人可善用的標的。\n\n在產業方面，包括晶圓代工、PCB/CCL、封測、電源供應器等等，可望持續受惠，中長期投資前景皆值得留意。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-09-14",
       "Time": "12:41:00",
@@ -90,6 +180,16 @@
       "Title": "半導體擴產熱，漢唐台/美專案能見度高",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%93%B4%E7%94%A2%E7%86%B1-%E6%BC%A2%E5%94%90%E5%8F%B0-%E7%BE%8E%E5%B0%88%E6%A1%88%E8%83%BD%E8%A6%8B%E5%BA%A6%E9%AB%98-044100062.html",
       "Content": "MoneyDJ新聞 2026-09-14 12:41:12 林昕潔 發佈\n\n漢唐(2404)受惠台積電(2330)及美光(MU.US)持續擴大資本支出，截至今年5月底在手訂單達1,939.4億元，改寫歷史新高，其中國內訂單約占三分之二、海外占三分之一，且尚未納入台積電亞利桑那州Fab 21 P3工程，法人預估，公司今年底在手訂單有望站穩2,000億元。\n\n法人表示，台積電的Fab 21 P2將完整貢獻漢唐今年營收，後續P3亦將展開施工，可望無縫銜接P2，支撐美國業務維持高檔。而除美國廠外，台積電新竹Fab 20、高雄Fab 22、台南Fab 18、嘉義AP7 P1機電工程及P2、AP8等專案，均為漢唐目前或後續潛在案件。而美光相關專案則包括台中后里、南科Falcon A，以及銅鑼力積電P5廠等也將挹注漢唐後續營運表現。\n\n(圖片來源:資料庫)\n\n巨茂H2動能強，未來三年營收目標逐年增3成\n\n廠務氣體設備商巨茂啟動IPO，在手訂單逾30億\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-14",
+      "Time": "12:29:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Fed決策前夕爆恐慌！台股盤中急殺近700點「大立光、精材、世紀慘殺跌停」黃仁勳神預言AI下個主戰場：概念股全噴了",
+      "URL": "https://tw.stock.yahoo.com/news/fed%E6%B1%BA%E7%AD%96%E5%89%8D%E5%A4%95%E7%88%86%E6%81%90%E6%85%8C-%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E6%80%A5%E6%AE%BA%E8%BF%91700%E9%BB%9E-%E5%A4%A7%E7%AB%8B%E5%85%89-%E7%B2%BE%E6%9D%90-%E4%B8%96%E7%B4%80%E6%85%98%E6%AE%BA%E8%B7%8C%E5%81%9C-042945516.html",
+      "Content": "台股今（14）日市況劇烈震盪，受全球AI三大巨頭罕見發聲呼籲放慢前沿模型開發速度影響，引爆高評價科技股獲利了結賣壓，大盤今日開低走低，盤中在恐慌賣壓湧現下一度重挫逾685點，引發市場一片驚驚，所幸隨後低接買盤逢低進場，多頭積極抵抗，使跌勢明顯收斂，上演驚險的拉回攻防戰。\n\n針對今日盤勢，市場資深分析師普遍認為，短線上台股正處於「利空交織的觀望期與高檔震盪洗盤」，隨著美國聯準會（Fed）利率決策、台指期結算以及中秋連假等變數同時在九月中旬引爆，操作上應採取保守防禦策略。\n\nAI龍頭言論成導火線 高評價族群慘遭資金提款\n\n引發今日台股大洗盤的導火線，源自於Anthropic、OpenAI與馬斯克（Elon Musk）等AI領袖公開呼籲放慢先進AI模型開發速度，此番言論實質修正了市場對高評價AI股的獲利預期，先前漲幅過大、本益比偏高的AI伺服器與零組件股票，股價高居不下，籌碼面極為脆弱，慘遭外資與本土資金雙重提款。\n\n電子大型權值股今日表現沉重，成為壓低大盤主因，台積電（2330）、鴻海（2317）、聯發科（2454）、台達電（2308）等全數開低遭外資倒貨；記憶體族群亦集體仆街，晶豪科（3006）、華邦電（2344）、南亞科（2408）等受美股記憶體走弱及AI資本支出恐放緩疑慮影響，跌勢慘烈。\n\n在個股部分，高價光學權值股大立光（3008）因遭外資調降評等放火，盤中罕見殺至跌停；玉晶光（3406）同步重挫失守千元大關；測試與晶圓級封裝廠精材（3374）也殺至跌停板；最具戲劇性的是世紀*（5314），先前連續狂拉11根漲停，但隨盈餘轉增資新股上櫃，今日面臨巨大賣壓，早盤直接跳空跌停鎖死，高達8萬張賣單排隊等逃命，成為今日盤面最弱勢的題材修正股。\n\n黃仁勳點名「資安、功率半導體」逆勢突圍\n\n雖然大盤一度遭血洗，但市場資金並未完全撤出，而是出現明顯的「避險大風吹」，具有實質利多與防禦特質的族群反而逆勢強攻。\n\n最大亮點為輝達（Nvidia）執行長黃仁勳在高盛科技大會上點名的「安全資訊概念股」，他直言資安將是下一個主要戰場，瞬間引爆今日概念股狂飆，中華資安（7765）、伊雲谷（6689）、華經（2468）、驊宏資（6148）等在買盤簇擁下強勢亮燈漲停。\n\n另外，功率半導體族群受惠於10月起調漲現貨價格10％至15％的利多刺激，德微（3675）強勢攻上漲停板284.5元，強茂（2481）盤中帶量大漲逾9％，台半（5425）同步逆勢強漲逾5％。其餘中小型股如光頡（3624）、聯一光（3441）、惠特（6706）、恩德（1528）等也在盤中鎖漲停。\n\n傳統避險族群方面，因中東情勢動盪，貨櫃航運三雄長榮（2603）、陽明（2609）與萬海（2615）等，皆展現相對抗跌的韌性。\n\nAI是調整非泡沫、保留五成現金過節\n\n面對今日巨幅波動，分析師到底怎麼看？啟發投顧分析師萬相和與資深分析師周代運皆指出，這次AI修正本質上是「預期評價的調整」，而非產業泡沫，雖然AI伺服器與PCB兩大族群短線承壓，但長期而言，這反而是修正過熱本益比的健康過程。\n\n有「股市老先覺」之稱的資深分析師杜金龍則透露，他個人已將持股水位降至6成，不過認為市場恐慌正是強弱股洗牌絕佳時機，因此並未一味看空，反而在今日期貨暴跌、市場極度恐慌之際，「向下分批承接」了台積電、聯電（2303）、川湖（2059）等優質標的，並將大盤定位為區間整理。\n\n不過，短線操作上仍不可掉以輕心；顧德投",
       "Language": "zh"
     },
     {
