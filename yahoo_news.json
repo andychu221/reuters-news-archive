@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-14T18:11:47.073Z",
-  "total_news_count": 769,
+  "last_updated": "2026-09-14T18:21:14.008Z",
+  "total_news_count": 770,
   "news": [
+    {
+      "Ticker": "ASML.AS",
+      "Date": "2026-09-15",
+      "Time": "02:17:46",
+      "Source": "Yahoo Finance",
+      "Title": "ASML Drops 5.4% as Customers Prepare for $400 Million Machines",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/asml-drops-5-4-customers-181746176.html",
+      "Content": "This article first appeared on GuruFocus .\n\nASML ( NASDAQ:ASML ), the chipmaking-equipment supplier, offers a powerful pitch for its next-generation machines: finer features and potentially 2.9 times the transistor density of its preceding platform. Its U.S. shares nevertheless traded at $1,606.29 Monday, down approximately 5.4% using the original report's implied previous close. The valuation picture shows the stock 27.04% above its GF Value estimatesuggesting investors still price in considerable growth despite the selloff.\n\nWarning! GuruFocus has detected 4 Warning Signs with NVDA.\n\nIs ASML fairly valued? Test your thesis with our free DCF calculator.\n\nThe commercial hurdle is the upfront bill. According to Reuters , High-NA machines cost approximately $400 million, compared with roughly $200 million for existing EUV systems, with adoption plans reaching 2028 at memory manufacturers Samsung and SK Hynix and 2030 at contract chipmaker TSMC. ASML separately confirmed that TSMC intends to begin using High-NA in high-volume manufacturing in 2030. That gives the technology a clearer commercial timetable, although broad deployment remains years away.\n\nThe sticker price tells only part of the story. Fewer patterning steps could help offset the equipment bill, but factory speed and the share of usable chips will decide whether customers save money. For ASML shareholders, the next test is execution: getting systems installed, accepted and working in production. Customer interest supports the growth case. Turning that interest into revenue is what must justify the stock's valuation premium.\n\nASML GF Value chart\n\nASML GF Value chart The commercial hurdle is the upfront bill. According to Reuters , High-NA machines cost approximately $400 million, compared with roughly $200 million for existing EUV systems, with adoption plans reaching 2028 at memory manufacturers Samsung and SK Hynix and 2030 at contract chipmaker TSMC. ASML separately confirmed that TSMC intends to begin using High-NA in high-volume manufacturing in 2030. That gives the technology a clearer commercial timetable, although broad deployment remains years away.\n\n<div id=\"sda-INARTICLE-339034fe-5a2a-3f08-98c6-7cddc715e8a0-1\" class=\"sdaContainer dv-all sda-INARTICLE-339034fe-5a2a-3f08-98c6-7cddc715e8a0-1 yf-d5hqm1 overflow margin visible plac\n\nASML Drops 5.4% as Customers Prepare for $400 Million Machines · us.finance.gurufocus\n\nASML Drops 5.4% as Customers Prepare for $400 Million Machines · us.finance.gurufocus The commercial hurdle is the upfront bill. According to Reuters , High-NA machines cost approximately $400 million, compared with roughly $200 million for existing EUV systems, with adoption plans reaching 2028 at memory manufacturers Samsung and SK Hynix and 2030 at contract chipmaker TSMC. ASML separately confirmed that TSMC intends to begin using High-NA in high-volume manufacturing in 2030. That gives the technology a clearer commercial timetable, although broad deployment remains years away.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-09-15",
@@ -83,7 +93,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "CSCO, NVDA",
       "Date": "2026-09-15",
       "Time": "01:10:12",
       "Source": "Yahoo Finance",
