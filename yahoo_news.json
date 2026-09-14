@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-14T23:01:06.145Z",
-  "total_news_count": 853,
+  "last_updated": "2026-09-14T23:11:10.070Z",
+  "total_news_count": 854,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-09-15",
+      "Time": "07:01:37",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
+      "URL": "https://finance.yahoo.com/m/bce0c7c7-b0ee-3152-a73b-9ed20219664e/microsoft-just-made-a-move.html",
+      "Content": "Microsoft (NASDAQ:MSFT)'s Azure business is a big driving force behind how the tech stock does. When its growth rate is strong, so too is the enthusiasm behind the stock. But if there are concerns about how the cloud business is doing, then there can be a pullback, as there was earlier this year when Azure's growth rate slowed.\n\nThe tech company recently announced a reporting change that will put even greater focus on Azure. And that could be a good thing for the stock.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nImage source: Getty Images.\n\nMicrosoft will start reporting Azure's revenue\n\nThe big focus for investors in the past when it came to Microsoft's stock has centered around Azure's growth rate. And unsurprisingly, when it came in better than expected when the company posted its most recent results in July, the stock ended up rising sharply afterward.\n\nNow, the company is going to start reporting the actual quarterly revenue it generates from Azure, rather than just the growth rate. It comes as the company reduces the number of reporting segments it has from three to two, with one particularly focused on artificial intelligence (AI): Agents and Infra. The other is Devices and Consumer. It's the Agents and Infra segment that is expected to be the much larger of the two, with its projected revenue for the first quarter of fiscal 2027 expected to be north of $75 billion, versus around $15 billion for Devices and Consumer.\n\nMicrosoft has been investing heavily in AI, and the strength of its Azure business benefits from that. Normally, when companies aren't doing well in a particular area, they may be tempted to obscure the numbers a bit. In Microsoft's case, with it putting Azure and its AI-related revenue more front and center, it's showing confidence in those areas of its business, and that's what investors likely want to see from the company as well: that its AI strategy is delivering strong results.\n\nIt's not too late to buy Microsoft's stock\n\nAlthough Microsoft's stock has been rallying since it released its earnings numbers in July, it's still an attractive-looking buy right now. It's trading at 28 times its trailing earnings, which isn't all that expensive , especially given how pricey other tech stocks are; investors are paying 38 times earnings for a piece of Apple 's business.\n\nStory Continues\n\nFor long-term investors, now may be as good a time as any to buy Microsoft's stock. The business is doing well, and its AI strategy may be picking up steam. It can be an ideal investment to just buy and forget about.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-09-15",
       "Time": "06:16:01",
       "Source": "Yahoo Finance",
