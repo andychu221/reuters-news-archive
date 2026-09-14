@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T10:34:20.182Z",
-  "total_news_count": 668,
+  "last_updated": "2026-09-14T10:52:24.670Z",
+  "total_news_count": 672,
   "news": [
     {
       "Ticker": "TSM",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-14",
+      "Time": "17:50:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超369億！ 他見名單哭了：剛買一些就崩",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85369%E5%84%84-%E4%BB%96%E8%A6%8B%E5%90%8D%E5%96%AE%E5%93%AD%E4%BA%86-%E5%89%9B%E8%B2%B7-%E4%BA%9B%E5%B0%B1%E5%B4%A9-095000851.html",
+      "Content": "台股今（14）日盤中一度重挫逾700點，午後跌幅雖有所收斂，終場仍下跌322點，收在45862點，失守46000點大關及月線，跌幅0.7%，成交量進一步縮至6300億元，創下今年第3低。三大法人合計賣超497.02億元，其中外資及陸資賣超369.63億元。\n\n觀察外資今日買賣超，賣超前10名中，友達（2409）以8萬8041張居冠，成為外資今日大砍焦點；其次為元大台灣50（0050），賣超4萬8347張，華邦電（2344）則遭賣超4萬2266張。除了個股之外，外資今日賣超集中在ETF。主動統一升級50（00403A）賣超2萬8031張、主動中信台灣收益（00406A）賣超2萬7963張，主動統一台股增長（00981A）也遭賣超2萬4801張；凱基台灣TOP50（009816）則賣超1萬8943張。另外，台泥（1101）遭賣超2萬6519張、中鋼（2002）賣超1萬3084張，玉山金（2884）也被外資調節1萬3037張。\n\n買超方面，外資今日明顯偏愛金融股與防禦型標的。臺企銀（2834）獲外資買超2萬2685張居冠，強茂（2481）買超1萬6628張，聯電（2303）則買超1萬3698張。中華電（2412）買超1萬1848張、第一金（2892）買超1萬1783張，台新新光金（2887）買超8494張、國票金（2889）買超8192張、合庫金（5880）買超7776張；力積電（6770）買超7338張，王道銀行（2897）買超5949張。整體來看，外資今日一邊大砍友達、華邦電及大型ETF，另一邊則加碼多檔金融股與中華電，從籌碼配置來看，操作風格相對偏向防禦。\n\n外資大砍友達與華邦電，也引發PTT網友熱烈討論，不少留言直接聚焦在記憶體族群。有人看到華邦電遭大賣，直呼「99華崩電」、「華崩真的崩」、「我剛買一些華崩試單就崩爛」，也有人認為外資與投信同步調節記憶體，可能讓相關個股短線承壓。對於外資大買金融股，也有網友注意到買超榜「又是一排金」，甚至留言「一堆金＋中華電」，認為外資在大盤震盪之際，資金明顯轉向金融與防禦型標的。不過，也有網友對強茂獲外資大買感到意外，留言討論「強茂買這麼多，有戲嗎」，認為短線仍須觀察外資後續是否持續加碼。另有網友指出，今日外資買超與賣超呈現明顯分化，後續籌碼動向仍值得留意。\n\n（封面示意圖/AI生成）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-14",
       "Time": "17:45:00",
@@ -51,6 +61,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/wall-street-pair-trade-long-094010240.html",
       "Content": "Investing.com - Enterprise software names are pointing sharply higher in pre-market trading on Monday as semiconductor stocks face broad selling pressure amid calls for broader slowdown in the AI arms race.\n\nAnthropic CEO Dario Amodei added to concerns around the pace of AI development over the weekend, publishing an essay that proposed \"pacing the frontier\" and slowing improvements in advanced AI capabilities. The comments followed a series of public departures by safety and alignment staff at major foundation-model labs, amid broader debate over whether existing safeguards are sufficient.\n\nAmodei's call was echoed by industry figures including Sam Altman, Elon Musk and Satya Nadella, potentially adding further pressure to sentiment around AI-linked stocks.\n\nRecent AI winners like Marvell and Intel are down 5.5% and 4.9%, respectively. On the other hand, CrowdStrike is leading the SaaS group with shares up 4.5% in pre-market Monday trade. The divergence is shaping up as one of the clearest expressions yet of a pair trade that hedge funds have discussed for several quarters: long enterprise SaaS, short AI hardware suppliers.\n\nThe thesis rests on a view that hyperscaler spending on AI infrastructure is plateauing while enterprise adoption of AI-powered software features continues to expand, insulating SaaS vendors from the hardware cycle while punishing chip makers and equipment suppliers.\n\nServiceNow and Atlassian are each indicated up 3.5% ahead of the open, with Workday and Adobe up 2.8%, and Intuit rising 2.3%. These names are the most direct equity expression of the rotation narrative: they sell recurring software subscriptions to enterprises embedding AI into workflows, a revenue stream that is largely decoupled from whether Nvidia ships another generation of training clusters.\n\nOn the other side of the trade, the damage in semiconductors and equipment is broad. Applied Materials fell 4.6%, Micron is seen down 4.4%, while major chipmakers AMD, Broadcom, and Nvidia are down 4.1%, 3%, and 2%, respectively.\n\nThe AI trade had for most of the past two years lifted both software and semiconductor stocks simultaneously, as investors priced a single unified buildout of AI capacity. That correlation has begun to fracture as concerns mount over possible overcapacity in data centers and signs of slower model-training investment from the large cloud providers.\n\nSoftware vendors are increasingly viewed as downstream beneficiaries of AI adoption, exposed to enterprise budget cycles rather than hyperscaler capex decisions.\n\nStory Continues\n\nThird-quarter earnings season for large-cap technology companies is approaching, and any guidance commentary from Microsoft, Alphabet, Amazon, or Meta Platforms on AI infrastructure spending plans will either validate or unwind the slowdown thesis.\n\nA hawkish signal from the Federal Reserve at its upcoming FOMC meeting could also complicate the SaaS rally: high-multiple software stocks carry significant duration risk, and any shift in the rate outlook would pressure valuations precisely as the group is attempting a breakout from semiconductor correlation.\n\nWall Street's new pair trade: Long software, short chips\n\nThese 2 stocks are best positioned to benefit from higher uranium prices: analyst\n\nMorgan Stanley CIO survey: Why AI hype isn't boosting 2026 IT budgets",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-14",
+      "Time": "17:36:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科取得機器設備",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8F%96%E5%BE%97%E6%A9%9F%E5%99%A8%E8%A8%AD%E5%82%99-093653817.html",
+      "Content": "日　　期：2026年09月14日\n\n公司名稱：南亞科 (2408)\n\n主　　旨：南亞科取得機器設備\n\n發言人：李培瑛\n\n說　　明：\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n機器設備\n\n2.事實發生日:115/6/22~115/9/14\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月14日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：折合新台幣約1,155,497,584元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\nULVAC, INC.，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n依訂單條件付款\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，\n\n並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n生產用途\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:",
+      "Language": "zh"
     },
     {
       "Ticker": "AMD, MU",
@@ -125,6 +145,16 @@
     {
       "Ticker": "2408.TW",
       "Date": "2026-09-14",
+      "Time": "16:59:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "達新4/14~9/14取得南亞科696張，計約2.05億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%81%94%E6%96%B04-14-9-14%E5%8F%96%E5%BE%97%E5%8D%97%E4%BA%9E%E7%A7%91696%E5%BC%B5-%E8%A8%88%E7%B4%842-085900329.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(1315)達新-本公司取得南亞科普通股股票公告\n\n1.證券名稱:南亞科普通股\n\n2.交易日期:115/4/14~115/9/14\n\n3.董事會通過日期: 民國109年6月15日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n(1)交易數量（仟股）：696\n\n(2)每單位價格（元）：294.34\n\n(3)交易總金額（元）：204,859,516\n\n6.處分利益（或損失）（取得有價證券者不適用）:不適用\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n(1)累積持有數量：230,000股\n\n(2)金額：85,321,081(元）\n\n(3)持股比例：0.0067 %\n\n(4)權利受限情形：無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n(1)占總資產比例：60.12%\n\n(2)占歸屬於母公司業主之權益比例：62.35%\n\n(3)營運資金數額：9,579,603,000（元）\n\n10.取得或處分之具體目的:投資組合\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:無\n\n14.監察人承認或審計委員會同意日期:民國109年6月15日\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:無\n\n矽品傳亞利桑那州布局將定案　台廠在美先進封測受矚\n\n南亞科 公告本公司取得機器設備\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-14",
       "Time": "16:56:19",
       "Source": "Yahoo奇摩股市",
       "Title": "【公告】達新取得南亞科普通股股票公告",
@@ -160,6 +190,16 @@
       "Title": "外資連3賣台股　調節友達、元大台灣50和主動ETF",
       "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A33%E8%B3%A3%E5%8F%B0%E8%82%A1-%E8%AA%BF%E7%AF%80%E5%8F%8B%E9%81%94-%E5%85%83%E5%A4%A7%E5%8F%B0%E7%81%A350%E5%92%8C%E4%B8%BB%E5%8B%95etf-084452065.html",
       "Content": "（中央社記者鍾榮峰台北2026年09月14日電）台股今天量縮震盪，終場下跌322點失守46000點和月線約46025點，三大法人合計賣超新台幣497.03億元，其中外資及陸資賣超369.64億元，連3賣，投信買超23.53億元，連4買。外資主要減碼友達、元大台灣50ETF、華邦電以及主動ETF等。\n\n在台指期淨部位，三大法人淨空單減少1328口至6250口，其中外資淨空單減少2409口至8萬2658口。\n\n觀察外資買賣超個股動向，根據台灣證券交易所統計，外資今天買超逾萬張的個股僅臺企銀、強茂、聯電、中華電、第一金等5檔。\n\n相較之下，外資今天減碼友達逾8.8萬張，賣超元大台灣50 ETF (0050) 及華邦電各約4.83萬張和4.23萬張，調節逾2萬張的股票包括主動統一升級50（00403A）、主動中信台灣收益（00406A）、台泥，以及主動統一台股增長（00981A），減碼逾萬張的股票包括凱基台灣TOP50（009816）、中鋼、玉山金、緯創、台積電等，其中外資賣超台積電1.12萬張，連4賣。\n\n展望台股動向，摩爾投顧分析師林漢偉接受記者電訪表示，台指期16日將結算，預期之前台股量縮觀望格局，指數波動緩步收斂，法人籌碼操作相對被動，觀察台股是否重返月線或守住季線約45210點支撐。\n\n林漢偉分析，短線台股未帶量跌破季線，17日台指期結算後加上漢測公開申購後龐大資金解凍，預期量能可回穩。\n\n觀察外資動向，林漢偉指出，外資未明顯增加台股現貨賣超規模，且在台指期淨空單水位未進一步擴大，外資對台股看法並未轉變，持續關注新台幣匯率走勢。\n\n觀察國際股市外部環境變數，林漢偉指出，AI模型巨頭釋出暫緩產業發展步調，的確對美台股市短期動向投下變數，「因為這出乎市場預料且尚未反應」，後續關注是否影響既有擴充AI資料中心和基礎建設資本支出規劃，以及是否衝擊輝達（NVIDIA）供應鏈，或者加速雲端服務供應商（CSP）布局特殊應用晶片（ASIC）量產腳步。\n\n至於中東局勢緊繃、國際油價飆漲以及美國聯邦準備理事會（Fed）利率升息預期等因素，林漢偉分析，先前市場已預先反應，此外國際油價緩步上漲，市場可逐步消化通膨變數，後續觀察升息是否轉變為長期趨勢。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-14",
+      "Time": "16:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "達新 本公司取得南亞科普通股股票公告",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%81%94%E6%96%B0-%E6%9C%AC%E5%85%AC%E5%8F%B8%E5%8F%96%E5%BE%97%E5%8D%97%E4%BA%9E%E7%A7%91%E6%99%AE%E9%80%9A%E8%82%A1%E8%82%A1%E7%A5%A8%E5%85%AC%E5%91%8A-084400920.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(1315)達新-本公司取得南亞科普通股股票公告\n\n1.證券名稱:\n\n南亞科普通股\n\n2.交易日期:115/4/14~115/9/14\n\n3.董事會通過日期: 民國109年6月15日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n(1)交易數量（仟股）：696\n\n(2)每單位價格（元）：294.34\n\n(3)交易總金額（元）：204,859,516\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n(1)累積持有數量：230,000股\n\n(2)金額：85,321,081(元）\n\n(3)持股比例：0.0067 %\n\n(4)權利受限情形：無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n(1)占總資產比例：60.12%\n\n(2)占歸屬於母公司業主之權益比例：62.35%\n\n(3)營運資金數額：9,579,603,000（元）\n\n10.取得或處分之具體目的:\n\n投資組合\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n民國109年6月15日\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:\n\n達新4/14~9/14取得南亞科696張，計約2.05億元\n\n富邦人壽發布2025年永續報告書 蟬聯《全球經濟雜誌》頒發「保險業永續實踐卓越獎」\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
