@@ -1,9 +1,29 @@
 {
-  "last_updated": "2026-09-14T17:33:52.771Z",
-  "total_news_count": 758,
+  "last_updated": "2026-09-14T17:34:22.018Z",
+  "total_news_count": 760,
   "news": [
     {
-      "Ticker": "NVDA",
+      "Ticker": "TSM",
+      "Date": "2026-09-15",
+      "Time": "01:18:39",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption",
+      "URL": "https://finance.yahoo.com/technology/articles/tsmc-falls-3-3-2028-171839155.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTwo manufacturing clocks came into sharper focus Monday as investors weighed the next phase of advanced chipmaking. Reuters reported that Taiwan Semiconductor Manufacturing ( NYSE:TSM ), the world's largest contract-chip producer, plans to adopt High-NA lithography by 2030. Its U.S.-listed shares traded at $418.84, down approximately 3.3% based on the earlier session reference point. The valuation picture is also getting tighter: GuruFocus puts GF Value at $363.08, leaving the stock 15.36% above that estimate.\n\nWarning! GuruFocus has detected 7 Warning Sign with DELL.\n\nIs TSM fairly valued? Test your thesis with our free DCF calculator.\n\nTSMC's A14 roadmap points to production beginning in 2028, roughly two years before the reported High-NA milestone. That gap looks dramatic at first glance, but the technologies are not interchangeable. High-NA is the next step in extreme-ultraviolet lithography equipment, while A14 is an entire manufacturing node built from multiple process technologies. TSMC therefore does not need every next-generation tool running simultaneously to keep pushing its leading-edge roadmap forward.\n\nThat distinction matters for investors. A later High-NA rollout does not automatically mean TSMC is falling behind on advanced-node production. The bigger test is whether it can keep improving yields, performance and cost per transistor with the equipment already available. The picture adds another layer to that debate: at $418.84, TSMC trades 15.36% above its $363.08 GF Value, suggesting investors are already paying a meaningful premium for continued manufacturing leadership.\n\nTSM GF Value chart\n\nTSM GF Value chart TSMC's A14 roadmap points to production beginning in 2028, roughly two years before the reported High-NA milestone. That gap looks dramatic at first glance, but the technologies are not interchangeable. High-NA is the next step in extreme-ultraviolet lithography equipment, while A14 is an entire manufacturing node built from multiple process technologies. TSMC therefore does not need every next-generation tool running simultaneously to keep pushing its leading-edge roadmap forward.\n\n<span\n\nTSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption · us.finance.gurufocus\n\nTSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption · us.finance.gurufocus That distinction matters for investors. A later High-NA rollout does not automatically mean TSMC is falling behind on advanced-node production. The bigger test is whether it can keep improving yields, performance and cost per transistor with the equipment already available. The picture adds another layer to that debate: at $418.84, TSMC trades 15.36% above its $363.08 GF Value, suggesting investors are already paying a meaningful premium for continued manufacturing leadership.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-09-15",
+      "Time": "01:11:37",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla Slips Nearly 2% as Musk's AI Caution Complicates the Autonomy Story",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-slips-nearly-2-musks-171137539.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla's AI ambitions came under a sharper spotlight Monday after Barron's reported that Elon Musk backed calls for a slower pace of AI development. Tesla ( NASDAQ:TSLA ), the electric-vehicle, energy-storage and autonomy company, traded about 1.9% lower at $358.58. The valuation picture remains demanding: GuruFocus puts GF Value at $333.89, leaving the stock 7.39% above that estimate.\n\nWarning! GuruFocus has detected 5 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nTesla still has a large operating base behind the AI narrative. Its second-quarter production update showed more than 480,000 vehicle deliveries and 13.5 gigawatt-hours of energy-storage deployments. Those are tangible businesses producing real volume today. They are different from the harder-to-measure economics of autonomous transportation, humanoid robots and future AI services, where investors still need clearer evidence on utilization, margins, safety performance and recurring revenue.\n\nThat distinction matters more when sentiment around AI turns cautious. Musk's comments do not automatically change Tesla's near-term vehicle or energy forecasts, but they reinforce the need to value proven operations separately from businesses that are still being built. The picture makes that tension visible: at $358.58, Tesla trades above its $333.89 GF Value, suggesting investors are still paying a premium for growth that has yet to be fully demonstrated in the financials.\n\nTSLA GF Value chart\n\nTSLA GF Value chart Tesla still has a large operating base behind the AI narrative. Its second-quarter production update showed more than 480,000 vehicle deliveries and 13.5 gigawatt-hours of energy-storage deployments. Those are tangible businesses producing real volume today. They are different from the harder-to-measure economics of autonomous transportation, humanoid robots and future AI services, where investors still need clearer evidence on utilization, margins, safety performance and recurring revenue.\n\nTesla Slips Nearly 2% as Musk's AI Caution Complicates the Autonomy Story · us.finance.gurufocus\n\nTesla Slips Nearly 2% as Musk's AI Caution Complicates the Autonomy Story · us.finance.gurufocus Tesla still has a large operating base behind the AI narrative. Its second-quarter production update showed more than 480,000 vehicle deliveries and 13.5 gigawatt-hours of energy-storage deployments. Those are tangible businesses producing real volume today. They are different from the harder-to-measure economics of autonomous transportation, humanoid robots and future AI services, where investors still need clearer evidence on utilization, margins, safety performance and recurring revenue.\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, NVDA",
       "Date": "2026-09-15",
       "Time": "00:54:03",
       "Source": "Yahoo Finance",
@@ -33,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, NVDA",
+      "Ticker": "NVDA",
       "Date": "2026-09-15",
       "Time": "00:30:00",
       "Source": "Yahoo Finance",
