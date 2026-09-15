@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-15T15:26:57.156Z",
-  "total_news_count": 1049,
+  "last_updated": "2026-09-15T15:32:17.143Z",
+  "total_news_count": 1050,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-09-15",
+      "Time": "23:18:02",
+      "Source": "Yahoo Finance",
+      "Title": "Sandisk $1,500 Stock Price Ignites Fresh Split Frenzy",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/sandisk-1-500-stock-price-151802320.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSandisk ( NASDAQ:SNDK ) shares fell nearly 5% Monday as investors considered whether the memory-chip maker could eventually pursue a stock split after its share price reached four-digit territory.\n\nSandisk closed at $1,551.99, while its 52-week range stretches from $89.56 to $2,354.39. The company has about 146 million shares outstanding, helping explain why its per-share price is much higher than many companies with similar market values.\n\nWarning! GuruFocus has detected 2 Warning Sign with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nA split would change the number of shares held by investors but would not alter Sandisk's underlying business or market capitalization. The company generated $20.25 billion in fiscal 2026 revenue, up 175% from a year earlier, while net income reached $11.4 billion.\n\nSandisk also has a $15.5 billion repurchase authorization after adding $14 billion in August. Buybacks can reduce shares outstanding, moving in the opposite direction from a stock split.\n\nA split could have greater relevance for the Dow Jones Industrial Average, which uses share prices to determine member weights. Sandisk's current price could make inclusion more difficult without a split, although such a move would not guarantee entry.",
+      "Language": "en"
+    },
     {
       "Ticker": "META, NVDA",
       "Date": "2026-09-15",
@@ -73,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "SNDK, MU",
       "Date": "2026-09-15",
       "Time": "22:14:00",
       "Source": "Yahoo Finance",
