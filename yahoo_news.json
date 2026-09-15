@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-15T10:52:21.565Z",
-  "total_news_count": 990,
+  "last_updated": "2026-09-15T11:00:37.662Z",
+  "total_news_count": 991,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-09-15",
+      "Time": "18:36:00",
+      "Source": "Yahoo Finance",
+      "Title": "Where Will Micron Technology Stock Be in 10 Years? Here's What History Says Could Come Next",
+      "URL": "https://finance.yahoo.com/m/862d1f86-f523-3bdb-91ae-3060be07880e/where-will-micron-technology.html",
+      "Content": "Over the long haul, stock market investing is a wealth-generating machine. And few companies exemplify this better than Micron Technology (NASDAQ: MU). If you bought $10,000 worth of the memory giant 10 years ago and held through the volatility , you would have roughly $550,790 today -- a life-changing return of over $5,410%.\n\nMost of the gains would have accrued over the last 12 months as generative artificial intelligence (AI) drove demand for its high-bandwidth memory hardware to skyrocket. That said, markets are fickle. And this boom is not guaranteed to last forever. Let's look at Micron's history to get some clues about what the next 10 years might hold for the company.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nWhy is Micron surging?\n\nConsumer-facing AI large language models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok rely on massive data centers for training and inference (the process of sifting through learned data to answer queries). And while these facilities are powered by a variety of computer hardware, high-bandwidth memory (HBM) has emerged as one of the biggest bottlenecks because global production has struggled to keep up with demand.\n\nMicron is one of only three companies capable of manufacturing HBM at the commercial scale required for AI data centers. And demand is so high that it is lifting prices across all its business segments, as manufacturing capacity that would otherwise have gone to other types of memory products is being redirected to HBM, leading to shortages.\n\nMicron's third-quarter revenue surged 346% year over year to $41.5 billion, driven mostly by its core data center and cloud memory units, which serve generative AI-related workloads. But unrelated segments like mobile and automotive also soared because the AI boom has tightened supply in the entire memory market, pushing up prices across the board.\n\nThe company's gross margin now stands at an eye-popping 84.6%, which is a level typically only seen in software companies that don't sell physical products. And earnings per share more than doubled to $24.67.\n\nA history of booms and busts\n\nWhile the AI boom has sparked Micron's biggest rally, it isn't the first time the company has seen its memory business explode. A similar situation occurred during the Windows and PC boom in the early 1990s, when rising PC adoption caused memory demand to outstrip supply. The same story played out during the late-2000s and early 2010s smartphone boom.\n\nStory Continues\n\nAll these events led to a temporary spike in Micron's revenue and margins. But they ultimately revealed the memory industry's greatest long-term weakness: cyclicality. In general, computer memory chips are commoditized and not well differentiated from each other. So when prices rise, producers tend to expand manufacturing capacity, which eventually leads to a glut in the market and causes prices to collapse in response.\n\nMicron itself is contributing to a potential future supply glut by committing a whopping $200 billion to expanding its memory production capacity in the U.S. But the biggest long-term threat may come from new Chinese rivals like CXMT, which aims to mass-produce memory chips with the ambitious goal of capturing 30% of the DRAM market by 2030.\n\nWhere will Micron stock be in 10 years?\n\nMicron bulls hope the current AI boom becomes a new normal of high profits and growth. But that would require the memory industry to behave differently than it has throughout its history. And this seems unlikely considering the huge amount of new production capacity expected to enter the market over the next decade and beyond.\n\nMicron stock probably won't regain the explosive growth it enjoyed over the previous few years. But with a forward price-to-earnings (P/E) of just 6.3, it also looks too cheap to fall much from its current price.",
+      "Language": "en"
+    },
     {
       "Ticker": "META, GOOGL, AMZN",
       "Date": "2026-09-15",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "AMD, INTC",
       "Date": "2026-09-15",
       "Time": "17:55:00",
       "Source": "Yahoo Finance",
