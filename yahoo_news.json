@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-15T08:14:49.237Z",
-  "total_news_count": 934,
+  "last_updated": "2026-09-15T08:26:25.854Z",
+  "total_news_count": 948,
   "news": [
+    {
+      "Ticker": "2454.TW, 2330.TW",
+      "Date": "2026-09-15",
+      "Time": "16:02:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯發科攜手台積電，首款2奈米旗艦5G Agentic AI晶片天璣9600 Pro上市",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E6%94%9C%E6%89%8B%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%A6%96%E6%AC%BE2%E5%A5%88%E7%B1%B3%E6%97%97%E8%89%A65g-agentic-ai%E6%99%B6%E7%89%87%E5%A4%A9%E7%92%A39600-pro%E4%B8%8A%E5%B8%82-080243217.html",
+      "Content": "【財訊快報／記者李純君報導】聯發科(2454)今日宣布，採用台積電(2330)2奈米製程產出的天璣9600系列旗艦5G Agentic AI晶片天璣9600 Pro上市，而天璣9600 M也亮相，且首批採用聯發科技天璣9600 Pro與天璣9600M晶片的智慧型手機將於近期上市。公司提到，天璣9600 Pro匯集天璣旗艦行動晶片超性能、超能效優勢，並擁有為Agentic AI體驗打造的AI技術及持續推動體驗進化的豐富生態系，將2奈米製程、全大核架構、AI原生架構等前瞻技術轉化成使用者有感的卓越能力，實現多元情境下的旗艦體驗。\n\n聯發科總經理暨營運長陳冠州表示，聯發科正全力擁抱AI時代，與產業攜手完成一場華麗的蛻變。聯發科憑藉從邊緣到雲端的多元成長引擎，將技術和生態資源整合成堅實的驅動力，以持續推動Agentic AI時代的高速發展。全新天璣也於今日乘勢登場，以全面進化的Agentic AI體驗，開啟智慧裝置端的AI新紀元。\n\n聯發科資深副總經理徐敬全表示，天璣9600 Pro作為天璣系列有史以來最強大的旗艦AI行動晶片，以全面革新的AI原生架構重塑旗艦的定義，打造卓越的Agentic AI新體驗。天璣9600M則為普及化旗艦體驗而生，而天璣9600 Pro採用全新的AI原生架構設計，藉由先進的台積電2奈米製程輔以與台積電設計技術協同優化（Design-Technology Co-Optimization，DTCO），造就突破性的性能與能效，並賦能Agentic AI手機新體驗。\n\n天璣9600 Pro以全新2+3+3全大核CPU架構打造，含2個主頻高達4.55GHz的C2-Ultra超大核、3個主頻為4.35GHz的C2-Pro大核及3個主頻為3.1GHz的C2-Pro大核，擁有更高容量的34.5MB快取記憶體架構（L2+L3+SLC），並率先支援更高速的LPDDR6記憶體與UFS5快閃記憶體。天璣9600 Pro的單核性能較上一代提升17%、多核性能提升15%，多核功耗相較於上一代峰值性能則節省61%。\n\n天璣9600 Pro專屬的的天璣智算融合架構，透過全新的CPU與NPU深度協作，構建強大的AI運算基礎。此外，該晶片還升級天璣調度引擎，藉由軟硬體協作精準調度算力、電源與快閃記憶體資源，助力手機廠商打造快速、省電、多應用程式維持背景運作（keepalive）的系統與AI體驗。\n\n聯發科長期深耕AI領域，致力推動AI應用創新，透過技術革新與生態夥伴合作，持續重構與拓展Agentic AI手機能力的邊界。天璣9600 Pro整合天璣雙NPU架構與Agentic AI引擎，具備強大的主動式感知與執行能力，同時兼顧系統級AI隱私安全。\n\n全新第二代超能效NPU融合低功耗感測器中樞架構，功耗較上一代大幅節省40%，實現AI Agents低功耗情境感知能力，隨時提供主動服務。第10代超性能NPU 1090為時下與未來的複雜裝置端AI應用需求所打造，大語言模型Prefill性能較上一代大幅提升51%，每瓦生成Token數提升55%。天璣9600 Pro的新一代生成式AI引擎3.0，INT4運算能力提升2倍，並支援新的混合注意力（Hybrid Attention，HAT）運算與大模型壓縮技術，同時可支援高達30B的混合專家模型（Mixture of Experts，MoE）於裝置端運作，為創新應用提供強勁算力。此外，天璣9600 Pro還提供Agentic AI引擎3.0，以偕同廣泛生態系夥伴打造新奇、實用的Agentic AI新體驗。\n\n天璣9600 Pro搭載旗艦G2-Ultra NX GPU，其峰值性能較上一代提升27%，功耗較上一代峰值性能下節省24%、光線追蹤性能提升18%。該晶片採用全新的天璣神經網路渲染架構，結合GPU與AI處理器的強大算力，助力行動遊戲畫質實現跨越式突破，讓玩家暢享高解析度驚豔畫質。\n\n此外，天璣9600 Pro還支援185fps遊戲，打造電競級滿格流暢表現，讓玩家在瞬息萬變的對戰中快人一步，穩操勝券。除上述之外，天璣星速引擎遊戲技術之中亦包括第三代光線追蹤引擎、天璣OMM光線追蹤硬體加速技術、天璣倍幀技術4.0，並率先提供Ray Tracing Pipeline技術。天璣9600 Pro憑藉強悍冷勁的軟硬體技術以及與廣泛的遊戲生態夥伴合作優化，為玩家帶來暢快且沉浸式的感官享受，將主機級遊戲體驗推向新高度。\n\n天璣旗艦的專業影像，是成就非凡佳作的關鍵所在。在圖片處理上，天璣9600 Pro整合Imagiq 1290影像處理器，採用天璣智慧影像架構，能進行ISP與NPU融合運算，為攝影創作者帶來卓越的拍攝體驗。此外，亦支援全景深運算光學圖像技術，透過NPU協同運算精準合成多景深的畫面，使照片能同時呈現遠近細節；另還支援超性能NPU協同追焦硬體引擎賦能的60fps專業運動級追焦技術。影片錄製部分，天璣9600 Pro率先為業界引進4K240原片不修圖超高速慢動作錄影，支援CS-ISP 4K60電影等級一鍵輸出與4K120電影等級log原色原片輸出，還支援微單眼等級17EV高動態影像技術，無論是日常生活或是專業需求，都能讓使用者從容駕馭高品質的創作內容。\n\n天璣9600M的ISP影像處理器結合強勁的NPU演算法加速，可提供專業高畫質、即時追焦影像的能力；Agentic AI引擎3.0為行動裝置帶來全時感知與主動協作的AI能力，打造懂使用者、有溫度的智慧體驗。天璣調度引擎透過即時、準確的算力調控，讓系統及應用程式具備快速回應的能力；遊戲方面，藉助旗艦等級的天璣神經網路渲染架構，可大幅提升畫質體驗，星速引擎的多元技術不僅為玩家帶來185fps流暢快感，更可在節省功耗下，讓遊戲能玩得更持久。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-15",
+      "Time": "16:01:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "米玉傑：A14等先進製程有太多未知　AI無法幫忙做到",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B1%B3%E7%8E%89%E5%82%91-a14%E7%AD%89%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%E6%9C%89%E5%A4%AA%E5%A4%9A%E6%9C%AA%E7%9F%A5-ai%E7%84%A1%E6%B3%95%E5%B9%AB%E5%BF%99%E5%81%9A%E5%88%B0-080113588.html",
+      "Content": "（中央社記者張建中台北2026年09月15日電）台積電 (2330) 執行副總經理暨共同營運長米玉傑今天表示，AI可以幫忙蒐集很多資訊，不過，未來幾年還不能為人做決定。AI在電子設計自動化（EDA）方面可以有比較大的發揮，但沒辦法幫忙做到A14製程。\n\n台灣大學今天與台積電文教基金會和聯合報共同舉辦「跨時代共問 AI時代共答論壇」，米玉傑與台大學弟妹對談。\n\n米玉傑說，人工智慧（AI）可以幫忙蒐集很多資訊，也會提供建議，不過，最後決定還是要人，預期未來幾年AI還是不能取代人做決定。\n\n他表示，畢竟一個人做決定並不容易，見解比較窄，因此，除了要有足夠的專業能力外，且要會聆聽，經過團隊討論會有比較好的決定。\n\n米玉傑說，他不太會用AI工具，他認為AI在EDA方面可以發揮比較大的功能，不過，A14等先進製程因為有太多的未知，AI無法幫忙做到。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-15",
+      "Time": "15:54:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "零組件全面狂飆，聯發科揭手機「漲價潮」，高階市場照樣吃香",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%85%A8%E9%9D%A2%E7%8B%82%E9%A3%86-%E8%81%AF%E7%99%BC%E7%A7%91%E6%8F%AD%E6%89%8B%E6%A9%9F-%E6%BC%B2%E5%83%B9%E6%BD%AE-%E9%AB%98%E9%9A%8E%E5%B8%82%E5%A0%B4%E7%85%A7%E6%A8%A3%E5%90%83%E9%A6%99-075454351.html",
+      "Content": "【財訊快報／記者李純君報導】手機晶片大廠聯發科(2454)坦言，手機諸多零件價格都上漲，包括用先進製程產出的SoC晶片、記憶體等，以及生成式AI系統，致使手機價格也得上漲，但市場上對高階手機機種接受度，也拉高了。萬物皆漲，目前消費性電子產品零件價格紛紛上漲，聯發科提到，今年大環境經濟狀況有變化，手機構建中，包括記憶體等諸多及零組件成本均上揚，另外，SoC的先進製程價格也上漲，致使手機價格變化較大。\n\n雖然成本明顯上揚，然聯發科也點出，目前手機品牌在旗艦市場的產品分層愈來愈細，不同售價、規格及消費族群都有各自定位，尤其，近年來高階手機售價也一路走高，這讓手機品牌廠在旗艦產品導入更高階晶片時，仍保有一定空間，對聯發科有利。\n\n再者，聯發科也補充，AI逐漸普及應用到終端市場，生成式AI模型逐步導入手機，供應端需要從模型壓縮、記憶體調度、資料頻寬，以及CPU、GPU、NPU之間的協同運作著手，提高既有記憶體的使用效率。整體來看，未來，手機平台的差異化也不會只來自晶片規格，而是取決於AI Agent、影像、應用程式與硬體平台之間的整合程度，聯發科均有佈局，也會受益。",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
@@ -11,6 +41,16 @@
       "URL": "https://finance.yahoo.com/m/23b2b343-1585-39fc-9629-3aefe20f7024/nuscale-power-is-closing-in.html",
       "Content": "NuScale Power (NYSE: SMR) has developed some of the nuclear power industry's most promising technology for small modular reactors (SMRs), which could make nuclear power more affordable, adaptable, and scalable. And as demand for electricity to power artificial intelligence data centers continues to soar, the time could be right for SMRs to step into the spotlight.\n\nSo far, NuScale is the only company that has gotten a small modular reactor design approved by the U.S. Nuclear Regulatory Commission (NRC). But is its technology ready to go from \"promising\" to \"proven?\"\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBased on what management said on the company's second-quarter earnings call on Aug. 5, NuScale might be getting closer to the final stages of a game-changing nuclear energy deal with the Tennessee Valley Authority (TVA).\n\nThat deal could be central to the company's future, but uncertainty and risks remain.\n\nNuScale's TVA deal: 6 gigawatts of nuclear power\n\nIn September 2025, the TVA announced that it had signed an agreement with ENTRA1 Energy, NuScale's strategic partner, to develop plants capable of providing up to 6 gigawatts of new nuclear power generation. ENTRA1 would build the nuclear plants, while NuScale would provide the small modular reactors to power them.\n\nIf and when they're completed, these plants would provide enough energy to power about 4.5 million homes or 60 data centers. As of 2025, the entire U.S. nuclear energy industry generated 97 gigawatts of power, so this single project would boost total U.S. nuclear energy production by about 6.2%.\n\nThat would all be great news for the outlook for SMRs. But there's a lot of uncertainty about when or if it will become a reality.\n\nWill the NuScale TVA deal happen?\n\nAs of this writing, the TVA's deal with NuScale is not yet final. There's a non-binding agreement, but no power purchase agreement (PPA) to buy nuclear energy or start the process of breaking ground for construction of the nuclear plants. That means NuScale isn't making any money from it yet.\n\nOn the Q2 earnings call, NuScale CEO John Hopkins said that \"we're extremely encouraged\" by the conversations with the TVA and ENTRA1. Hopkins understood that the discussions were \"progressing well\" and \"when the agreement is signed, NuScale will be ready to implement.\"\n\nStory Continues\n\nIf or when the TVA signs on the dotted line, this project could be a game-changer for the company and its stock. But investors are getting impatient. NuScale's share price has declined by about 75% over the past year.\n\nFor the second quarter, the company reported only $75,000 of revenue, down from $8.05 million in the prior-year period. It has about $1.9 billion in cash on its books, which could be enough liquidity to keep it operating until it can successfully commercialize its technology. But NuScale stock was recently downgraded by a prominent UBS analyst.\n\nNuScale's advanced SMR technology has helped make it one of the most-promising nuclear energy stocks . But whether it's the TVA deal or other opportunities, this company needs to sign some money-making deals sometime soon.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-15",
+      "Time": "15:32:18",
+      "Source": "Yahoo奇摩股市",
+      "Title": "米玉傑：研發樂趣是未知中找到方向　用功細察做對決定",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B1%B3%E7%8E%89%E5%82%91-%E7%A0%94%E7%99%BC%E6%A8%82%E8%B6%A3%E6%98%AF%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%89%BE%E5%88%B0%E6%96%B9%E5%90%91-%E7%94%A8%E5%8A%9F%E7%B4%B0%E5%AF%9F%E5%81%9A%E5%B0%8D%E6%B1%BA%E5%AE%9A-073218351.html",
+      "Content": "（中央社記者張建中台北2026年9月15日電）台積電 (2330) 執行副總經理暨共同營運長米玉傑今天表示，他加入台積電一直從事研發，研發的樂趣是在未知中找到方向。至於如何做正確決定，他說，要用功，看事情比較深，細節也比較深且遠，就可以做比較對的決定。\n\n台灣大學今天與台積電文教基金會、聯合報共同舉辦「跨時代共問 AI時代共答論壇」，米玉傑與台大學弟妹對談。\n\n米玉傑表示，他自台大畢業40多年，加入台積電一直從事研發，而研發的樂趣就是在未知中找到方向。至於面對重要事情怎麼做決定，他說，要用功，要準備好，對於事情不要放過細節，看事情比較深也比較遠，可以做比較對的決定。\n\n米玉傑強調，台積電走在產業最尖端，沒有人可以照抄；即便做的決定不一定是對的，不過，不要怕做決定，不做決定問題會更大。做決定後如果有問題趕快改，是研發成功很重要的因素。（編輯：張良知）",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -23,6 +63,86 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-09-15",
+      "Time": "15:24:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI股下挫　日股兩大指數微幅收跌",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E8%82%A1%E4%B8%8B%E6%8C%AB-%E6%97%A5%E8%82%A1%E5%85%A9%E5%A4%A7%E6%8C%87%E6%95%B8%E5%BE%AE%E5%B9%85%E6%94%B6%E8%B7%8C-072415313.html",
+      "Content": "（中央社東京2026年09月15日綜合外電報導）在美國人工智慧（AI）類股前一夜下挫後，日股兩大指數今天也雙雙微幅收跌。\n\n日股基準日經225指數收盤微跌8.89點或0.01%，收63484.10點。\n\n東證股價指數收盤下跌21.05點或0.52%，收4037.16點。\n\n不過OpenAI主要投資者、日本巨頭軟銀集團（SoftBank）收盤逆勢大漲約7.5%，成功收復前一夜的跌幅。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "15:17:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤後焦點】台股持續量縮收跌351點　成交值創今年次低",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E6%8C%81%E7%BA%8C%E9%87%8F%E7%B8%AE%E6%94%B6%E8%B7%8C351%E9%BB%9E-%E6%88%90%E4%BA%A4%E5%80%BC%E5%89%B5%E4%BB%8A%E5%B9%B4%E6%AC%A1%E4%BD%8E-071703797.html",
+      "Content": "（中央社記者江明晏台北2026年9月15日電）台股今天開低震盪，終場量縮下跌351.03點，收在45511.49點，成交值創今年次低量。投顧分析，台股近期受AI是否應放緩發展的非實質利空影響，待升息干擾淡化後，台股可望逐步擺脫壓力。\n\n美國人工智慧（AI）公司高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，使華爾街股市主要指數今天收盤全部走低，費城半導體指數重挫近6%。亞股普遍疲軟，日股小漲，韓股下跌逾1%。\n\n台股今天以45847.27點開低，早盤最高至46009點，漲逾147點，隨後追價無力、跌勢擴大，下探45491.97點；台股終場收在45511.49點，下跌351.03點，跌幅0.77%，成交值新台幣6034.53億元，創今年次低量，僅次於4月7日的5846億元。電子指數跌0.65%，金融指數跌1.1%；代表中小型股的櫃買OTC指數跌1.51%。\n\n權值股漲跌互見，台積電 (2330) 小漲5元收在2385元、漲幅0.21%，台達電 (2308) 漲逾3%，大立光 (3008) 收盤上漲1%；聯發科 (2454) 、聯電 (2303) 終場下跌近3%，國巨 (2327) 下跌1.47%，\n\n記憶體族群南亞科 (2408) 、華邦電 (2344) 、力積電 (6770) 、群聯 (8299) 、威剛 (3260) 收黑；散熱股疲軟，健策 (3653) 下跌近9%，奇鋐 (3017) 下跌近6%，印刷電路板（PCB）多檔個股收黑，臻鼎-KY (4958) 、欣興 (3037) 跌約2%，台光電 (2383) 、金像電 (2368) 下跌逾4%。\n\n觀察高價股走勢，股王信驊 (5274) 、股后川湖 (2059) 終場下跌逾2%，金像電跌破千元關卡，台股收盤千金股降至45檔。\n\n台新投顧總經理黃文清向中央社記者表示，台股近期震盪，主要受到美股費城半導體指數近兩個月跌幅較深影響，費半第2季漲幅較大，急漲後的修正效應持續，近期壓力主要集中在半導體族群。不過，目前判斷相關利空的實質影響仍言之過早，AI投資未必因此停頓，現階段心理因素的影響反而大於實質基本面，導致市場評價受到壓抑，AI概念股首當其衝。\n\n他表示，相較亞洲股市，台股表現仍相對抗跌，主因台灣半導體供應鏈受惠AI硬體需求強勁，台灣仍是AI浪潮的最大受惠者之一，加上台股7、8月營收持續創新高，基本面仍相當強勢。\n\n展望後市，黃文清指出，儘管市場預期美國聯準會可能升息，但相關因素對行情的影響已逐漸降低；待升息干擾淡化後，台股可望逐步擺脫壓力。（編輯：張良知）",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "15:12:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股持續量縮收跌351點　成交值創今年次低",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%8C%81%E7%BA%8C%E9%87%8F%E7%B8%AE%E6%94%B6%E8%B7%8C351%E9%BB%9E-%E6%88%90%E4%BA%A4%E5%80%BC%E5%89%B5%E4%BB%8A%E5%B9%B4%E6%AC%A1%E4%BD%8E-071234568.html",
+      "Content": "（中央社記者江明晏台北15日電）台股今天開低震盪，終場量縮下跌351.03點，收在45511.49點，成交值創今年次低量。投顧分析，台股近期受AI是否應放緩發展的非實質利空影響，待升息干擾淡化後，台股可望逐步擺脫壓力。\n\n美國人工智慧（AI）公司高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，使華爾街股市主要指數今天收盤全部走低，費城半導體指數重挫近6%。亞股普遍疲軟，日股小漲，韓股下跌逾1%。\n\n台股今天以45847.27點開低，早盤最高至46009點，漲逾147點，隨後追價無力、跌勢擴大，下探45491.97點；台股終場收在45511.49點，下跌351.03點，跌幅0.77%，成交值新台幣6034.53億元，創今年次低量，僅次於4月7日的5846億元。電子指數跌0.65%，金融指數跌1.1%；代表中小型股的櫃買OTC指數跌1.51%。\n\n權值股漲跌互見，台積電小漲5元收在2385元、漲幅0.21%，台達電漲逾3%，大立光收盤上漲1%；聯發科、聯電終場下跌近3%，國巨下跌1.47%，\n\n記憶體族群南亞科、華邦電、力積電、群聯、威剛收黑；散熱股疲軟，健策下跌近9%，奇鋐下跌近6%，竹印刷電路板（PCB）多檔個股收黑，臻鼎-KY、欣興跌約2%，台光電、金像電下跌逾4%。\n\n觀察高價股走勢，股王信驊、股后川湖終場下跌逾2%，金像電跌破千元關卡，台股收盤千金股降至45檔。\n\n台新投顧總經理黃文清向中央社記者表示，台股近期震盪，主要受到美股費城半導體指數近兩個月跌幅較深影響，費半第2季漲幅較大，急漲後的修正效應持續，近期壓力主要集中在半導體族群。不過，目前判斷相關利空的實質影響仍言之過早，AI投資未必因此停頓，現階段心理因素的影響反而大於實質基本面，導致市場評價受到壓抑，AI概念股首當其衝。\n\n他表示，相較亞洲股市，台股表現仍相對抗跌，主因台灣半導體供應鏈受惠AI硬體需求強勁，台灣仍是AI浪潮的最大受惠者之一，加上台股7、8月營收持續創新高，基本面仍相當強勢。\n\n展望後市，黃文清指出，儘管市場預期美國聯準會可能升息，但相關因素對行情的影響已逐漸降低；待升息干擾淡化後，台股可望逐步擺脫壓力。（編輯：張良知）1150915",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "15:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》減重藥物—LLY、NVO、CRBP",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%B8%9B%E9%87%8D%E8%97%A5%E7%89%A9-lly-nvo-crbp-071200286.html",
+      "Content": "MoneyDJ新聞 2026-09-15 15:12:03 數位內容中心 發佈\n\nEli Lilly（LLY.US）\n\n2026年4月獲批上市的口服GLP-1受體促效劑（GLP-1）Foundayo，單季開方醫師數由8,000名增至36,000名，且80%處方來自此前未使用GLP-1的新患者。這顯示Lilly本週最清楚的訊號，是口服劑型正直接擴大新病人滲透，而非僅替代注射劑。\n\nNovo Nordisk（NVO.US）\n\n2026年初上市的口服Wegovy，截至2026年6月累計處方已超過300萬張，公司並宣布簡化品牌為Novo，預計9月21日進一步揭露策略調整。這反映Novo本週主軸是以口服化結合品牌重整，強化肥胖治療產品組合的推進節奏。\n\nCorbus Pharmaceuticals（CRBP.US）\n\n2026年9月14日，Corbus公布每日一次口服候選藥CRB-913的CANYON-1一期b結果，254名肥胖成人中，60mg組第12週體重LS Mean下降5.0%，且對安慰劑的p值小於0.0001。這使非incretin口服減重藥正式以人體數據切入口服競爭賽道。\n\nViking Therapeutics（VKTX.US）\n\nViking本週最值得記住的訊號，是VK2735注射劑已進入兩項為期78週的三期試驗，口服VK2735也預計於2026年第4季啟動三期開發。這表示公司正同步推進注射與口服兩條晚期路線，競逐下一輪減重藥商業化時點。\n\nAmgen（AMGN.US）\n\nMariTide已進入三期開發，主打每8週一次或每季一次給藥潛力，且二期減重數據為20%。公司三期布局同時涵蓋慢性體重管理、心血管疾病、睡眠呼吸中止與糖尿病，顯示其本週主題訊號是以低頻給藥切入多共病適應症。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》老化管理與長壽醫學—NVO、LLY、ALT\n\n共信-KY動物靶向腫瘤消融新藥獲台灣藥證\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "15:09:50",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股791.24億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1791-24%E5%84%84%E5%85%83-070950891.html",
+      "Content": "（中央社台北2026年9月15日電）台股今天跌351.03點，收在45511.49點，成交值新台幣6034.53億元。三大法人外資及陸資、投信、自營商同步賣超，合計賣超791.24億元。\n\n自營商賣超142.06億元，投信賣超22.19億元，外資及陸資賣超626.99億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2454.TW",
+      "Date": "2026-09-15",
+      "Time": "15:08:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "精元7/17~9/15取得聯發科97張，計約3.85億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B2%BE%E5%85%837-17-9-15%E5%8F%96%E5%BE%97%E8%81%AF%E7%99%BC%E7%A7%9197%E5%BC%B5-%E8%A8%88%E7%B4%843-070800400.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2387)精元-本公司公告取得有價證券\n\n1.證券名稱:聯發科技股份有限公司\n\n2.交易日期:115/7/17~115/9/15\n\n3.董事會通過日期: 民國115年7月10日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:數量97,000股、每單位3,970.57元及交易總金額385,145,539元\n\n6.處分利益（或損失）（取得有價證券者不適用）:不適用\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n峻立科技(股)公司持有20,000股、金額90,239,841元、持股比例0.001%及無。\n\n精元電腦(股)公司持有20,000股、金額90,088,721元、持股比例0.001%及無。\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:占總資產比例0.45%、占權益之比例0.87%、營運資金數額6,682,037(仟元)\n\n10.取得或處分之具體目的:財務投資\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:無\n\n14.監察人承認或審計委員會同意日期:民國115年7月10日\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:無\n\n聯發科公布天璣9600 Pro旗艦手機平台，便利安全的邊際代理AI盡在掌中\n\n台股持續量縮收跌351點　成交值創今年次低\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "15:06:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Follow法人】三大法人全落跑！外資狠砍626億元 分析師示警補跌壓力",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%85%A8%E8%90%BD%E8%B7%91%EF%BC%81%E5%A4%96%E8%B3%87%E7%8B%A0%E7%A0%8D626%E5%84%84%E5%85%83-%E5%88%86%E6%9E%90%E5%B8%AB%E7%A4%BA%E8%AD%A6%E8%A3%9C%E8%B7%8C%E5%A3%93%E5%8A%9B-070639579.html",
+      "Content": "台股今（15）日震盪走低，三大法人賣超791.29億元，外資持續站在賣方，賣超626.99億元，累計4個交易日已倒貨2272.67億元。分析師指出，國際科技股走弱，加上AI投資放緩疑慮升溫，導致市場資金急凍，台股短期恐怕面臨補跌壓力，須待美股轉強及成交量回籠，才有望重啟多頭行情。\n\n根據證交所公布籌碼動向，三大法人今日合計賣超791.29億元；外資今日連4賣，賣超626.99億元。外資連4賣累計下來，已提款台股2272.67億元。\n\n投信今日終結連4買，轉身賣超22.19億元。另外，自營商由買轉賣，賣超142.07億元，其中自行買賣買超13億元、避險操作賣超155.07億元。\n\n華冠投顧分析師陳韋廷受訪指出，台股近期成交量連續萎縮，但無論多頭或空頭行情，都需要量能配合才能確立方向。隨著市場資金急凍，法人在國際股市走弱的壓力下只能持續站在賣方，投信籌碼也開始鬆動，陸續調節部分持股。\n\n他進一步表示，台股8、9月表現優於美、日、韓股市，但相對不利之處在於指數位階偏高，一旦缺乏量能支撐，便可能面臨補跌壓力；另外，量縮也意味賣壓尚未全面宣洩，指數下跌速度可能相對緩慢。\n\n產業面來看，AI發展速度過快，先前需求大幅擴張，帶動台灣供應鏈營收快速成長。如今三大科技巨頭釋出放緩訊號，包括馬斯克也附和，造成市場開始觀望AI投資動能是否降溫，短期恐對美國科技股及台灣電子股形成壓力，加上聯準會利率決策仍存在不確定性，資金態度更加保守。\n\n展望後市，陳韋廷認為，台股要真正止穩，仍須觀察美國科技股能否重新轉強，以及台股成交量能否回升。在市場方向尚未明朗前，投資人宜提高現金部位、控制持股水位，不宜貿然追價或積極做多。儘管依照原有多頭趨勢，台股守穩4萬6千點後理應具備反彈條件，但科技巨頭喊話已造成量能進一步萎縮，台股難以獨善其身，仍須等待美股反轉與成交量回籠，才有機會重啟多頭走勢。\n\n台股今日開低走低，加權指數終場下跌351點，收在45,511點。再加上受到興櫃股王漢測（7856）申購抽籤凍資8656億元影響，成交量6034.53億元，創下今年以來次低量。\n\n王詩婷／財經特派記者，主跑勞動部、半導體、生技等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "15:05:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "名師股戰》8萬口空單壓頂 台股慘探季線！這3檔卻被法人「偷吃貨」",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%90%8D%E5%B8%AB%E8%82%A1%E6%88%B0-8%E8%90%AC%E5%8F%A3%E7%A9%BA%E5%96%AE%E5%A3%93%E9%A0%82-%E5%8F%B0%E8%82%A1%E6%85%98%E6%8E%A2%E5%AD%A3%E7%B7%9A-%E9%80%993%E6%AA%94%E5%8D%BB%E8%A2%AB%E6%B3%95%E4%BA%BA-%E5%81%B7%E5%90%83%E8%B2%A8-070530014.html",
+      "Content": "今日9/15台股受費半重挫5.86%、晶片與記憶體股賣壓沉重影響，尾盤一度下跌至45491.97點，由於美伊衝突刺激油價上漲，同時美國10年期公債殖利率攀升，三大AI巨頭Anthropic、OpenAI、xAI齊喊「放慢腳步」，皆壓抑風險資產偏好；此外，外資期貨淨空單仍高達 8.2 萬口，及本週為國際央行週，市場對通膨及聯準會升息的擔憂，衝擊投資人信心。\n\n股價拉回反而是逢低佈局的好機會\n\n不過，從基本面來看，今年國內經濟與上市櫃公司營收表現相當強勁，相信季線可望繼續提供指數強力支撐，籌碼面投信近5日對台股仍維持買超，我們選股可以從最近投信買超股票當中，挑選業績表現好、未來展望也優的股票，趁近期股價有拉回的機會進場逢低佈局，未來勝率是相當的高。\n\n法人加持 跟著投信一起買\n\n投信近5日買超個股方面，近期業績表現好、未來展望也優的股票，我認為可以鎖定以下相關個股：\n\n聯電(2303) 8月營收250億、年增30.71％史上第3高，前8月合併營收1786.59億元，年增14.66％，也創歷史同期次高，顯示公司基本面仍強勁，法人預估今年EPS可達7.47元，2027年可望進一步來到7.48元。\n\n南亞(1303) 8月營收創50個月新高，公司看好AI帶動高階電子材料需求持續升溫，加上電力工程與策略聯盟產品拓展海外市場，預期第三季營收將較第二季及去年同期成長，第四季營收可望進一步攀升，法人預估2026、2027年EPS至13.82、21.67元。\n\n穩懋(3105) 8 月營收19.37 億元，月增 2.4%、年增 30.55%，續創今年單月新高，累計前 8 月營收136.77 億元、年增 33.01%，法人預期隨美系客戶新品備貨及光通訊、低軌衛星動能延續，第三季營收與毛利率均有望較第二季成長。\n\n我知道這幾天看著盤面、看到期貨空單、美股與成交量持續萎縮，心裡的確會毛毛的，加上有AI放慢腳步、美伊戰事緊張升溫、聯準會(Fed)即將升息、漢測(7856)抽籤吸走場上資金等非正向消息，影響投資人近期心態偏觀望。\n\n但老話一句：行情總在半信半疑中成長。 短線情緒是別人的，大方向的業績是自己的。趁這幾天拉回冷靜把子彈上膛，選有數字有題材有大人加持的個股上，才對得起接下來的中長線行情。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
       "Time": "15:05:00",
@@ -31,6 +151,26 @@
       "URL": "https://finance.yahoo.com/m/ebc850d4-e320-3ed5-bd8b-2b988b97c4a0/80-years-of-history-warn-what.html",
       "Content": "As of this writing, bond investors expect the Federal Reserve to raise interest rates at its next meeting on Sept. 16. Stubborn inflation and strong job growth in August suggest that the Fed will hike interest rates in September .\n\nA classic rule of thumb in investing is that higher interest rates tend to be bad news for stock prices. When investors can earn higher income on bonds, they might be incentivized to move money out of stocks. Does that mean you should sell stocks in case of a September rate hike?\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nNot necessarily. Charles Schwab recently published research based on nearly 80 years of data about how Fed interest rate hikes affect stock prices. The story is more complex than \"stocks always go down after rate hikes.\"\n\nLet's look at what 80 years of history can show us about rate hikes and stocks -- and what long-term investors should do next.\n\nFed rate hikes tend to lead to stock price declines -- but the market bounces back\n\nCharles Schwab researchers looked at data going back to 1946 to see what happens to stock prices after Fed rate hikes. The research found that the S&P 500 index (SNPINDEX: ^GSPC) historically experienced maximum drawdowns averaging -12% within the first six months of the Fed's first rate hike, and -14% within the first 12 months.\n\nBut not every Fed rate hike is the same. It matters how fast the Fed raises rates. The Schwab research also found that when the Fed tightens rates faster, the S&P 500 had an average maximum drawdown of -16% in the first 12 months.\n\nInvestors saw this kind of severe drawdown in 2022-2023, when the Fed fought high inflation by rapidly hiking interest rates. As interest rates rose quickly from near zero in January 2022 to 5.33% in summer 2023, the S&P 500 went into a bear market.\n\nEffective Federal Funds Rate data by YCharts\n\nHere's the good news for stock market investors: Even after a big drawdown, the market tends to bounce back fast. For example, if you had invested in the S&P 500 on Jan. 1, 2022, right before that bad year for stocks, your investment would be up almost 61% today.\n\n^SPX data by YCharts\n\nKeep in mind that over the very long run, ever since 1928, the S&P 500 has delivered average annual returns of about 10%. That includes economic crises, global conflicts, and times of rapidly rising interest rates. The Vanguard S&P 500 ETF (NYSEMKT: VOO) is one of the most popular exchange-traded funds that lets you own the entire S&P 500. In the past five years, this fund has delivered average annual returns of 12.75%.\n\nStory Continues\n\nHow to invest during Fed rate hikes\n\nNo one knows what's going to happen next with the economy, the job market, inflation, and other factors that influence the Fed's decisions. It's possible that this likely September rate hike will be a one-time increase, not the start of a longer, faster, more aggressive cycle of Fed rate increases. If Kevin Warsh's Fed raises rates more slowly than what happened in 2022, stock market prices might not go through such a big downturn.\n\nBut no matter what happens next with the Fed, most long-term investors should keep buying stocks according to their overall financial plan. Try not to overreact to short-term moves in interest rates. If you can leave your money invested for the next five to 10 years (or more), today's news about rate hikes likely won't mean much in the long run.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "14:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》關鍵資源「鈾」—LEU、CCJ、UUUU",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%88%BE-leu-ccj-064400009.html",
+      "Content": "MoneyDJ新聞 2026-09-15 14:44:12 數位內容中心 發佈\n\nCentrus Energy（LEU.US）\n\n2026年內，Centrus Energy已敲定美國能源部約9億美元高豐度低濃縮鈾（HALEU）濃縮任務訂單，若含選擇權總價值超過10億美元，且已提前完成額外900公斤HALEU生產。這使公司本週最明確的訊號，集中在美國本土濃縮與HALEU供應鏈的實單落地。\n\nCameco（CCJ.US）\n\n2026年初，Cameco已握有約8300萬公斤六氟化鈾（UF6）轉化服務合約，客戶涵蓋全球33家公用事業公司；其Blind River精煉廠現行年產能為1800萬公斤。這使本週最值得記住的訊號，不是單一礦山，而是公司在西方精煉與轉化鏈的樞紐角色。\n\nEnergy Fuels（UUUU.US）\n\n截至2026年6月30日，Energy Fuels指出White Mesa Mill成品三氧化八鈾（U3O8）可達約160萬磅，平均月產量超過26.5萬磅，磨礦加工成本約每磅9至12美元。這讓本週主題焦點落在美國唯一完全持照且運轉中的傳統鈾磨礦廠，顯示加工端仍是供應鏈關鍵節點。\n\nUranium Energy Corp.（UEC.US）\n\n2026年4月8日，Uranium Energy Corp.取得Texas Commission on Environmental Quality核准並在Burke Hollow啟動生產，成為十多年來美國首座新投產的原地浸出採鈾（ISR）作業。這一進展凸顯美國本土新增鈾供應已開始落地，但後續擴張仍受監管核准節奏牽動。\n\nX-Energy（XE.US）\n\n本週，X-Energy披露已與Centrus Energy及General Matter簽署HALEU濃縮服務長期協議，且DOW專案首批核心燃料已取得約7.6公噸現有材料。這使HALEU需求從政策討論進一步轉向具體採購與燃料配置，成為先進反應爐商轉進度的直接訊號。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》關鍵資源「鈾」—CCJ、UEC、DNN\n\n《美股主題週報》新式核能—GEV、CEG、BWXT\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "14:27:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》關鍵資源「銅」—FCX、SCCO、RIO",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%8A%85-fcx-scco-062700222.html",
+      "Content": "MoneyDJ新聞 2026-09-15 14:27:49 數位內容中心 發佈\n\nFreeport-McMoRan（FCX.US）\n\n9月10日白宮仍未就精煉銅關稅定案後，Freeport-McMoRan股價一度下跌。同週公司仍維持Grasberg地下礦復產節奏，2026年下半年目標恢復至整體產能約65%，使其成為本週對關稅預期與礦端復產最敏感的銅股之一。\n\nSouthern Copper（SCCO.US）\n\n9月10日隨關稅預期降溫與銅價回吐，Southern Copper收盤跌7.23%至194.14美元。與股價波動同時，公司已上調全期銅產量指引，並確認墨西哥El Pilar-Sonora專案已完成環評與許可要求，顯示本週主題仍落在產量擴張準備。\n\nBHP（BHP.US）\n\nBHP本週已委任Worley，為南澳Olympic Dam與Carrapateena潛在擴建案提供研究與工程、採購及施工管理（EPCM）服務，且初始EPCM工作已展開。兩案仍待最終投資決定，反映公司已推進前期工程細化，但尚未進入正式資本承諾階段。\n\nRio Tinto（RIO.US）\n\n9月10日Rio Tinto與Nyangumarta Warrarn Aboriginal Corporation簽署Winu銅金礦Project Agreement，為項目取得原住民合作條件。Winu由Rio持股70%，目標在最終監管核准與最終投資決定後，於2030年前實現首次產銅，成為其近期最關鍵的新銅礦進展。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》體驗式消費趨勢—DIS、ROKU、BKNG\n\n《美股主題週報》關鍵資源「銅」—FCX、SCCO、RIO\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
