@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-09-15T01:04:36.498Z",
-  "total_news_count": 862,
+  "last_updated": "2026-09-15T01:26:39.625Z",
+  "total_news_count": 884,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "09:06:26",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股早盤跌逾百點後翻紅 台積電漲25元",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E8%B7%8C%E9%80%BE%E7%99%BE%E9%BB%9E%E5%BE%8C%E7%BF%BB%E7%B4%85-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B225%E5%85%83-010626800.html",
+      "Content": "美國AI高層呼籲業界放緩AI技術發展，費半指數重挫近6%、 台積電 ADR下跌3.52%。台北股市今天（15日）開盤跌15.25點，加權股價指數為45847.27點，成交金額新台幣55.06億元。開盤不久一度跌逾百點，隨後翻紅，早盤加權指數最高為45947.45點。台積電最多漲25元至2405元。\n\n台股昨天收在45862.52點，美股四大指數終場道瓊工業指數下跌152.09點或0.29%；標準普爾500指數下滑37點或0.48%；那斯達克指數下挫146.63點或0.56%；費城半導體指數重跌692.72點或5.86%，收11131.28點。而AI晶片龍頭輝達（NVDA-US）下跌3.36%、台積電ADR下跌3.52%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "09:04:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股開盤】跌15.25點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4-%E8%B7%8C15-25%E9%BB%9E-010428813.html",
+      "Content": "（中央社台北2026年9月15日電）台北股市今天開盤跌15.25點，加權股價指數為45847.27點，成交金額新台幣55.06億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "09:04:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股開盤跌15.25點",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%96%8B%E7%9B%A4%E8%B7%8C15-25%E9%BB%9E-010416500.html",
+      "Content": "（中央社台北15日電）台北股市今天開盤跌15.25點，加權股價指數為45847.27點，成交金額新台幣55.06億元。1150915",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "08:45:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳挺川普反對放慢AI，強調維持競爭速度、同時重視安全警告",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8C%BA%E5%B7%9D%E6%99%AE%E5%8F%8D%E5%B0%8D%E6%94%BE%E6%85%A2ai-%E5%BC%B7%E8%AA%BF%E7%B6%AD%E6%8C%81%E7%AB%B6%E7%88%AD%E9%80%9F%E5%BA%A6-%E5%90%8C%E6%99%82%E9%87%8D%E8%A6%96%E5%AE%89%E5%85%A8%E8%AD%A6%E5%91%8A-004509785.html",
+      "Content": "【財訊快報／陳孟朔】《紐約時報》報導，輝達(美股代碼NVDA)執行長黃仁勳週一在洛杉磯All-In Summit峰會登台期間，現場接聽美國總統川普來電。川普在通話中將人工智慧(AI)帶來的危險稱為「騙局」，並批評放慢AI發展的主張，聲稱相關呼聲正中反對AI人士下懷，背後可能涉及政界或中國力量。黃仁勳在台上贊同川普不應放慢AI發展的觀點，但同時肯定因擔憂AI風險而離職的Anthropic研究員，表示企業內部必須嚴肅看待吹哨者提出的警告。這項表態顯示，黃仁勳支持維持美國AI競爭速度，但並未完全否定安全疑慮。\n\n《信息報》(The Information)報導，輝達、Palantir及博思艾倫已限制內部使用Anthropic部分AI模型，主要擔憂員工輸入內部程式碼、智慧財產權及其他敏感資料後，模型供應商可能保留或接觸相關內容。輝達目前將Claude限制於敏感度較低的任務；博思艾倫則禁止員工在涉及專有資料的資安專案中使用Anthropic商業模型。\n\nPalantir要求Anthropic提供不可撤銷的零資料保留承諾，才考慮擴大模型使用。企業資料安全疑慮與AI發展放緩爭議同時升溫，進一步加重AI概念股賣壓；輝達週一終場下跌7.33美元或3.36%至210.96美元，同日，費半急殺5.86%，表現相對抗跌。成交金額達276.41億美元，為美股成交額第二大個股。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:37:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "券商晨訊台股投資建議摘要 (1) 2026年9月15日",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%B8%E5%95%86%E6%99%A8%E8%A8%8A%E5%8F%B0%E8%82%A1%E6%8A%95%E8%B3%87%E5%BB%BA%E8%AD%B0%E6%91%98%E8%A6%81-1-2026%E5%B9%B49%E6%9C%8815%E6%97%A5-003708841.html",
+      "Content": "【統一證券】\n\n選股以流動性佳的中大型AI權值股為主。長線追蹤台積電及先進封測、半導體設備、銅箔基板等。\n\n【國票證券】\n\n台指期夜盤下跌221點，預估今天台股盤下開出，留意權值股動向以作為今日的進出場依據。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:35:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【統一證券晨訊】台股技術面弱勢　持續震盪整理",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8%E6%99%A8%E8%A8%8A-%E5%8F%B0%E8%82%A1%E6%8A%80%E8%A1%93%E9%9D%A2%E5%BC%B1%E5%8B%A2-%E6%8C%81%E7%BA%8C%E9%9C%87%E7%9B%AA%E6%95%B4%E7%90%86-003504735.html",
+      "Content": "日期：2026年 9月14日\n\n※盤勢分析\n\n債市、油價衝擊股市，靜待超級央行周結果，台股震盪整理\n\n◎昨日盤勢\n\n美國8月核心CPI公布後，市場對本週FED升息機率上升至87.3％，同時美10\n\n年期公債殖利率攀升至4.95%、AI三巨頭齊喊先進模型研發「降速」，以上皆導\n\n致亞洲股市週一開盤同步轉弱，大盤盤中回測季線，在金融股撐盤及創意強勢帶\n\n領下，加權指數跌幅收斂，終場堅守季線之上。黃仁勳點名資安將成未來AI新應\n\n用，激勵該族群強勢表態；功率半導體產業進入規格升級新週期，德微帶動功率\n\n元件全面走揚。反觀弱勢族群，外資降評大立光，光學股(新CPO)賣壓湧現。權\n\n值股方面，台積電失守季線下跌1.24%、鴻海上漲0.20%、聯發科下跌0.55%、廣\n\n達下跌1.19%，台達電收平盤。\n\n盤面強勢股，德微、順德、惠特、安碁資訊、驊宏資、全友等共25檔漲停；\n\n嘉基、中揚光、金居、台康生技、強茂、力旺等漲幅5%以上。盤面弱勢股，大立\n\n光、玉晶光、竹陞科技、上銀、永擎等共10檔跌停；天二科技、精材、光環、高\n\n力、藥華藥、晶豪科、盟立等跌幅6%以上。終場台灣加權指數下跌322.33點，以\n\n45862.52點作收，成交量6309.17億元。三大類股漲跌互見，電子下跌0.94%、傳\n\n產下跌0.99%、金融上漲1.94%。在次族群部份以數位雲端、居家表現較佳，分別\n\n上漲2.21%、1.05%。\n\n◎資金動向\n\n三大法人合計賣超483.61億元。其中外資賣超369.64億元，投信買超36.96\n\n億元，自營商賣超150.93億元。外資買超前五大為臺企銀、強茂、聯電、中華電\n\n、第一金；賣超前五大為友達、華邦電、台泥、中鋼、玉山金。投信買超前五大\n\n為彰銀、台新新光金、永豐金、玉山金、聯電；賣超前五大為華邦電、南亞科、\n\n遠東新、華新科、富喬。資券變化方面，融資減39.94億元，融資餘額為5838.78\n\n億元，融券增0.36萬張，融券餘額為20.15萬張。外資台指期部位，空單減少\n\n2409口，淨空單部位82658口，借券賣出金額275.41億元。成交比重：電子\n\n85.05%、傳產10.78%、金融4.16%。\n\n◎今日盤勢分析\n\nAnthropic、OpenAI及xAI領袖呼籲放慢先進AI模型開發，引發市場擔憂AI資\n\n本支出降溫，晶片股和記憶體股殺聲隆隆。國際油價續揚、美國10年期公債殖利\n\n率盤中短暫突破5%，也抑制市場風險偏好。週一美股四大指數皆墨，台積電ADR\n\n下跌3.52%。\n\n台股後市分析如下：第一、艾司摩爾在AI晶片需求推動下，既有極紫外光\n\n(EUV) 微影設備產能已接近售罄至2027年。ASML目前每台售價約2億美元的EUV設\n\n備，與此同時，客戶也加速承諾導入每台約4億美元的High NA EUV設備。執行長\n\nChristophe Fouquet表示，他不認為AI熱潮已接近尾聲。隨著主要晶片製造商陸\n\n續提出High NA量產時程，加上ASML擴充產能，公司在先進微影設備領域的優勢\n\n可望延續至2030年。\n\n第二、日媒報導，村田製作所準備擴大AI產能布局。著眼未來三至五年，研\n\n議包含新廠房在內的產能擴充計畫。此前，國巨也規劃在高雄、蘇州、越南及墨\n\n西哥增加產能；全球MLCC大廠同步大擴產，反映AI帶來動能持續向上。被動元件\n\n籌碼面仍待整理，建議參考法人態度再分批佈局。\n\n第三、技術面觀察，週一加權指數開低震盪，終場守季線之上，成交量未達\n\n7千億，再度出現窒息量(近5個月新低)，同時漢測抽籤凍結資金，故投資風氣偏\n\n觀望。指標方面，KD、RSI皆下滑、MACD翻為綠柱體，整體進入弱勢整理。昨日\n\n大盤留下464點下影線，雖有低接買盤，然5、10日均線已下彎，加上明日台指期\n\n結算，後續需留意外資期貨空單轉倉變化及美、日央行態度。櫃買指數，昨日已\n\n失守半年線，中小型股因資金排擠加速盤中震幅。\n\n四、盤面資金聚焦金融股、IP、資安、功率元件等個股，包括富邦金、創意\n\n、安碁資訊、德微等表現強勢。\n\n◎投資策略\n\n美伊衝突引發原油出口受阻、航運市場陷入混亂，布蘭特原油突破106美元\n\n；同時美國及英國10年期公債殖利率同步攀升、三大巨頭談AI軍備競賽應暫時緩\n\n緩，皆壓抑風險資產偏好。台股技術面弱勢、外資期貨淨空單仍高於8萬口，另\n\n外，本週為國際央行週，市場對通膨及聯準會升息的擔憂，衝擊投資信心。大盤\n\n持續震盪整理，操作建議保持適度資金彈性，低接不追高，選股以流動性佳的中\n\n大型AI權值股為主。長線追蹤族群：台積電及先進封測、半導體設備、銅箔基板\n\n、光傳輸、散熱、貨櫃散裝、特用化學及高殖利率銀行及壽險股等。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:34:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "證交所規劃台股儀表板　涵蓋授信、違約與基本面等3大項",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%AD%89%E4%BA%A4%E6%89%80%E8%A6%8F%E5%8A%83%E5%8F%B0%E8%82%A1%E5%84%80%E8%A1%A8%E6%9D%BF-%E6%B6%B5%E8%93%8B%E6%8E%88%E4%BF%A1-%E9%81%95%E7%B4%84%E8%88%87%E5%9F%BA%E6%9C%AC%E9%9D%A2%E7%AD%893%E5%A4%A7%E9%A0%85-003401790.html",
+      "Content": "（中央社記者曾仁凱台北2026年9月15日電）台股高檔波動加劇，為了讓投資人在市場波動時能做理性探討與分析，台灣證券交易所正著手規劃「台股儀表板」，證交所董事長林修銘透露，台股儀表板主要將涵蓋授信業務相關數據、投資人違約申報統計，以及上市櫃公司的營收與基本面趨勢等3大核心項目。\n\n林修銘表示，台灣憑藉強大的半導體與AI供應鏈，台股市值已躍升至全球第5名，正從「科技島」華麗轉型為「資本島」。為回應廣大投資人需求，證交所在金管會指導下規劃「台股儀表板」，期盼透過數據透明化與強化風險教育，守護台灣資本市場的穩健與安全。\n\n林修銘透露，台股儀表板主要將涵蓋授信業務相關數據、投資人違約申報統計，以及上市櫃公司的營收與基本面趨勢等3大核心項目。並透過統計數據、圖表與趨勢線，協助投資人理性觀察市場變化。\n\n除資訊透明外，儀表板也將清楚揭露各項數據與指標定義，讓投資人全盤掌握市場整體概況，落實投資交易與風險管理，妥善管理個人信用風險。\n\n針對外界關注的市場風險與槓桿情形，林修銘強調，台股整體的信用交易與槓桿情況相對健康，並無過度擴張的問題。從實際數據來看，在2026年7月總共1460萬開戶人數中，有融資與不限用途借貸款項餘額人數約29萬人，占總開戶數不到2%。\n\n同時林修銘指出，今年前7月上市信用交易占整體成交金額僅6.09%，上市融資餘額占上市股票總市值比重僅0.36%。投資人違約金額亦維持極低水準，以8月17日為例，違約買賣金額僅911.8萬元，占上市成交金額僅10萬分之0.46，每日違約人數約在20人以下。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:33:11",
+      "Source": "Yahoo奇摩股市",
+      "Title": "證交所規劃台股儀表板　涵蓋授信、違約與基本面",
+      "URL": "https://tw.news.yahoo.com/%E8%AD%89%E4%BA%A4%E6%89%80%E8%A6%8F%E5%8A%83%E5%8F%B0%E8%82%A1%E5%84%80%E8%A1%A8%E6%9D%BF-%E6%B6%B5%E8%93%8B%E6%8E%88%E4%BF%A1-%E9%81%95%E7%B4%84%E8%88%87%E5%9F%BA%E6%9C%AC%E9%9D%A2-003311950.html",
+      "Content": "（中央社記者曾仁凱台北15日電） 台股 高檔波動加劇，為了讓投資人在市場波動時能做理性探討與分析，台灣證券交易所正著手規劃「台股儀表板」，證交所董事長 林修銘 透露，台股儀表板主要將涵蓋授信業務相關數據、投資人違約申報統計，以及上市櫃公司的營收與基本面趨勢等3大核心項目。\n\n林修銘13日接受主持人謝金河專訪，他表示，台灣憑藉強大的半導體與AI供應鏈，台股市值已躍升至全球第5名，正從「科技島」華麗轉型為「資本島」。為回應廣大投資人需求，證交所在金管會指導下規劃「台股儀表板」，期盼透過數據透明化與強化風險教育，守護台灣資本市場的穩健與安全。\n\n林修銘透露，台股儀表板主要將涵蓋授信業務相關數據、投資人違約申報統計，以及上市櫃公司的營收與基本面趨勢等3大核心項目。並透過統計數據、圖表與趨勢線，協助投資人理性觀察市場變化。\n\n除資訊透明外，儀表板也將清楚揭露各項數據與指標定義，讓投資人全盤掌握市場整體概況，落實投資交易與風險管理，妥善管理個人信用風險。\n\n針對外界關注的市場風險與槓桿情形，林修銘強調，台股整體的信用交易與槓桿情況相對健康，並無過度擴張的問題。從實際數據來看，在2026年7月總共1460萬開戶人數中，有融資與不限用途借貸款項餘額人數約29萬人，占總開戶數不到2%。\n\n同時林修銘指出，今年前7月上市信用交易占整體成交金額僅6.09%，上市融資餘額占上市股票總市值比重僅0.36%。投資人違約金額亦維持極低水準，以8月17日為例，違約買賣金額僅911.8萬元，占上市成交金額僅10萬分之0.46，每日違約人數約在20人以下。（編輯：楊凱翔）1150915",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
@@ -13,6 +93,96 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "08:32:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "投行前景看淡，美銀估Q3交易收入大致持平，股價重挫5.14%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%8A%95%E8%A1%8C%E5%89%8D%E6%99%AF%E7%9C%8B%E6%B7%A1-%E7%BE%8E%E9%8A%80%E4%BC%B0q3%E4%BA%A4%E6%98%93%E6%94%B6%E5%85%A5%E5%A4%A7%E8%87%B4%E6%8C%81%E5%B9%B3-%E8%82%A1%E5%83%B9%E9%87%8D%E6%8C%AB5-14-003201294.html",
+      "Content": "【財訊快報／陳孟朔】CNBC報導，美國大型銀行股週一集體重挫，美國銀行(美股代碼BAC)執行長莫伊尼漢(Brian Moynihan)預告第三季投資銀行業務費用年減逾10%，交易收入則大致持平，與第二季投行費用激增50%、交易收入大增33%的強勁表現形成明顯反差。美銀終場大跌3.22美元或5.14%，收報59.47美元。莫伊尼漢在巴克萊全球金融服務會議表示，整體投行市場活動約下降10%，美銀在部分較活躍的業務領域布局不足，因此實際降幅可能更大。雖然該行仍擁有龐大交易儲備，尤其集中於中型市場業務，但投行收入可能出現兩位數下滑，令市場擔憂華爾街近期由人工智慧(AI)投資熱潮帶動的融資與顧問業務是否開始降溫。\n\nKBW銀行指數主要成分股同步承壓，高盛挫3.96%、摩根士丹利挫3.64%、花旗及紐約梅隆銀行各跌1.90%和3.07%、富國銀行跌1.75%，摩根大通銀行跌1.71%。北方信託挫3.95%，該公司財務長Fox預期本季業績將出現季節性下滑。\n\n花旗財務長Luchetti稍晚表示，第三季投行收入可望呈低個位數增長，交易業務收入則料有中個位數增幅，但9月剩餘時間仍是季度表現的關鍵。大型銀行對資本市場業務展望出現分歧，加上AI主題交易降溫及科技股急挫引發投資人降低風險部位，金融股成為週一美股另一主要賣壓中心。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:21:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR14日下跌0.66美元跌幅6.84%折台股28.49元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr14%E6%97%A5%E4%B8%8B%E8%B7%8C0-66%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%856-84-%E6%8A%98%E5%8F%B0%E8%82%A128-49%E5%85%83-002159213.html",
+      "Content": "(中央社台北2026年 9月15日電)友達光電在OTC US掛牌ADR以8.99美元作收，下跌0.66美元，跌幅 6.84%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以 9月14日新台幣匯市收盤價31.688元計算，相當台股友達每股為 28.49元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/14\n\n8.99\n\n-0.66\n\n-6.84\n\n31.688\n\n28.4\n\n9/11\n\n9.65\n\n-0.06\n\n-0.62\n\n31.638\n\n30.5\n\n9/10\n\n9.71\n\n0.16\n\n1.68\n\n31.548\n\n30.6\n\n9/ 9\n\n9.55\n\n0.15\n\n1.60\n\n31.505\n\n30.0\n\n9/ 8\n\n9.40\n\n1.14\n\n13.80\n\n31.535\n\n29.6\n\n9/ 4\n\n8.26\n\n0.01\n\n0.12\n\n31.630\n\n26.1\n\n9/ 3\n\n8.25\n\n0.05\n\n0.61\n\n31.722\n\n9/ 2\n\n8.20\n\n-0.03\n\n-0.36\n\n31.728\n\n26.0\n\n9/ 1\n\n8.23\n\n-0.08\n\n-0.96\n\n31.633\n\n8/31\n\n8.31\n\n0.29\n\n3.62\n\n31.666\n\n26.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:21:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR14日上漲0.40美元漲幅0.89%折台股143.39元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr14%E6%97%A5%E4%B8%8A%E6%BC%B20-40%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-89-%E6%8A%98%E5%8F%B0%E8%82%A1143-39%E5%85%83-002155516.html",
+      "Content": "(中央社台北2026年 9月15日電)中華電信在NYSE掛牌ADR 以 45.25美元作收，上漲0.40美元，漲幅 0.89%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以 9月14日新台幣匯市收盤價31.688元計算，相當台股中華電信每股為143.39元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/14\n\n45.25\n\n0.40\n\n0.89\n\n31.688\n\n143.3\n\n9/11\n\n44.85\n\n0.32\n\n0.72\n\n31.638\n\n141.9\n\n9/10\n\n44.53\n\n0.11\n\n0.25\n\n31.548\n\n140.4\n\n9/ 9\n\n44.42\n\n0.19\n\n0.43\n\n31.505\n\n139.9\n\n9/ 8\n\n44.23\n\n0.41\n\n0.94\n\n31.535\n\n139.4\n\n9/ 4\n\n43.82\n\n0.06\n\n0.14\n\n31.630\n\n138.6\n\n9/ 3\n\n43.76\n\n0.28\n\n0.64\n\n31.755\n\n138.9\n\n9/ 2\n\n43.48\n\n0.24\n\n0.56\n\n31.728\n\n137.9\n\n9/ 1\n\n43.24\n\n0.03\n\n0.07\n\n31.633\n\n136.7\n\n8/31\n\n43.21\n\n0.22\n\n0.51\n\n31.666\n\n136.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:21:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR14日下跌0.74美元跌幅3.27%折台股138.79元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr14%E6%97%A5%E4%B8%8B%E8%B7%8C0-74%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%853-27-%E6%8A%98%E5%8F%B0%E8%82%A1138-79%E5%85%83-002153254.html",
+      "Content": "(中央社台北2026年 9月15日電)聯電在NYSE掛牌 ADR以21.90美元作收，下跌0.74美元，跌幅 3.27%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以 9月14日新台幣匯市收盤價31.688元計算，相當台股聯電每股為138.79元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/14\n\n21.90\n\n-0.74\n\n-3.27\n\n31.688\n\n138.7\n\n9/11\n\n22.64\n\n0.52\n\n2.35\n\n31.638\n\n143.2\n\n9/10\n\n22.12\n\n-0.57\n\n-2.51\n\n31.548\n\n139.5\n\n9/ 9\n\n22.69\n\n0.87\n\n3.99\n\n31.505\n\n142.9\n\n9/ 8\n\n21.82\n\n1.05\n\n5.06\n\n31.535\n\n137.6\n\n9/ 4\n\n20.77\n\n0.91\n\n4.58\n\n31.630\n\n131.3\n\n9/ 3\n\n19.86\n\n-0.11\n\n-0.55\n\n31.755\n\n126.1\n\n9/ 2\n\n19.97\n\n-0.50\n\n-2.44\n\n31.728\n\n126.7\n\n9/ 1\n\n20.47\n\n0.59\n\n2.97\n\n31.633\n\n129.5\n\n8/31\n\n19.88\n\n0.09\n\n0.45\n\n31.666\n\n125.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-15",
+      "Time": "08:21:51",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR14日下跌15.23美元跌幅3.52%折台股2649.18元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr14%E6%97%A5%E4%B8%8B%E8%B7%8C15-23%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%853-52-%E6%8A%98%E5%8F%B0%E8%82%A12649-18%E5%85%83-002151548.html",
+      "Content": "(中央社台北2026年 9月15日電)台積電在NYSE掛牌 ADR以418.01美元作收，下跌 15.23美元，跌幅 3.52%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以 9月14日新台幣匯市收盤價31.688元計算，相當台股台積電每股為 2649.18元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n9/14\n\n418.01\n\n-15.23\n\n-3.52\n\n31.688\n\n2649.1\n\n9/11\n\n433.24\n\n5.21\n\n1.22\n\n31.638\n\n2741.3\n\n9/10\n\n428.03\n\n-7.33\n\n-1.68\n\n31.548\n\n2700.7\n\n9/ 9\n\n435.36\n\n-3.64\n\n-0.83\n\n31.505\n\n2743.2\n\n9/ 8\n\n439.00\n\n10.09\n\n2.35\n\n31.535\n\n2768.7\n\n9/ 4\n\n428.91\n\n11.90\n\n2.85\n\n31.630\n\n2713.2\n\n9/ 3\n\n417.01\n\n1.51\n\n0.36\n\n31.755\n\n2648.4\n\n9/ 2\n\n415.50\n\n1.50\n\n31.728\n\n2636.6\n\n9/ 1\n\n414.00\n\n-1.32\n\n-0.32\n\n31.633\n\n2619.2\n\n8/31\n\n415.32\n\n-2.20\n\n-0.53\n\n31.666\n\n2630.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-15",
+      "Time": "08:17:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【盤前焦點】費半挫近6%、台積電ADR跌3.52%　台股估震盪",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E6%8C%AB%E8%BF%916-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C3-52-%E5%8F%B0%E8%82%A1%E4%BC%B0%E9%9C%87%E7%9B%AA-001749850.html",
+      "Content": "（中央社記者江明晏台北2026年9月15日電）美國AI高層呼籲業界放緩AI技術發展，費半指數重挫近6%、台積電ADR下跌3.52%。台股14日跌322.33點，收在45862.52點，台股今天開盤恐震盪，投顧關注8月31日低點45450點是否守住。\n\n美國數間人工智慧（AI）公司的高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，這使華爾街股市主要指數今天收盤全部走低，其中費城半導體指數重挫將近6%。\n\n道瓊工業指數下跌152.09點或0.29%；標準普爾500指數下滑37點或0.48%；那斯達克指數下挫146.63點或0.56%；費城半導體指數重跌692.72點或5.86%，收11131.28點。\n\n台積電美國存託憑證（ADR）下跌3.52%，日月光ADR下跌逾6%，谷歌股價漲逾3%，Meta漲近3%；英特爾、美光挫逾5%，艾司摩爾大跌逾7%，輝達下跌3.36%。\n\n台股14日跌322.33點，收在45862.52點，成交值新台幣6309.17億元。三大法人合計賣超497.03億元。其中，自營商賣超150.92億元，投信買超23.53億元，外資及陸資賣超369.64億元。\n\n輝達（Nvidia）執行長黃仁勳今天出席洛杉磯舉行的All-In Summit活動時，在台上意外接到美國總統川普來電，兩人均駁斥外界對人工智慧（AI）可能「接管世界」的疑慮。\n\n沙烏地阿拉伯近日關閉國內一條重要輸油管道之後，市場擔憂供應吃緊，國際油價今天持續走揚。\n\n投顧分析，台股指數呈現箱型整理，反覆消化賣壓，其中最值得追蹤的是本波最大量，亦即8月31日低點45450點不宜跌破，否則極易形成中期頭部，台股焦點關注美國聯準會（Fed）動向，待變數漸漸釐清後，將有助季底的作帳行情。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "08:17:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "費半挫近6%、台積電ADR跌3.52%　台股估震盪",
+      "URL": "https://tw.news.yahoo.com/%E8%B2%BB%E5%8D%8A%E6%8C%AB%E8%BF%916-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C3-52-%E5%8F%B0%E8%82%A1%E4%BC%B0%E9%9C%87%E7%9B%AA-001709101.html",
+      "Content": "（中央社記者江明晏台北15日電）美國AI高層呼籲業界放緩AI技術發展，費半指數重挫近6%、台積電ADR下跌3.52%。台股14日跌322.33點，收在45862.52點，台股今天開盤恐震盪，投顧關注8月31日低點45450點是否守住。\n\n美國數間人工智慧（AI）公司的高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，這使華爾街股市主要指數今天收盤全部走低，其中費城半導體指數重挫將近6%。\n\n道瓊工業指數下跌152.09點或0.29%；標準普爾500指數下滑37點或0.48%；那斯達克指數下挫146.63點或0.56%；費城半導體指數重跌692.72點或5.86%，收11131.28點。\n\n台積電美國存託憑證（ADR）下跌3.52%，日月光ADR下跌逾6%，谷歌股價漲逾3%，Meta漲近3%；英特爾、美光挫逾5%，艾司摩爾大跌逾7%，輝達（NVIDIA）下跌3.36%。\n\n台股14日跌322.33點，收在45862.52點，成交值新台幣6309.17億元。三大法人合計賣超497.03億元。其中，自營商賣超150.92億元，投信買超23.53億元，外資及陸資賣超369.64億元。\n\n輝達執行長黃仁勳今天出席洛杉磯舉行的All-In Summit活動時，在台上意外接到美國總統川普來電，兩人均駁斥外界對人工智慧（AI）可能「接管世界」的疑慮。\n\n沙烏地阿拉伯近日關閉國內一條重要輸油管道之後，市場擔憂供應吃緊，國際油價今天持續走揚。\n\n投顧分析，台股指數呈現箱型整理，反覆消化賣壓，其中最值得追蹤的是本波最大量，亦即8月31日低點45450點不宜跌破，否則極易形成中期頭部，台股焦點關注美國聯準會（Fed）動向，待變數漸漸釐清後，將有助季底的作帳行情。（編輯：楊凱翔）1150915",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "08:11:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價及AI前沿發展疑慮，美股四大指數全黑、費半重挫5.86%",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E5%8F%8Aai%E5%89%8D%E6%B2%BF%E7%99%BC%E5%B1%95%E7%96%91%E6%85%AE-%E7%BE%8E%E8%82%A1%E5%9B%9B%E5%A4%A7%E6%8C%87%E6%95%B8%E5%85%A8%E9%BB%91-%E8%B2%BB%E5%8D%8A%E9%87%8D%E6%8C%AB5-86-001139041.html",
+      "Content": "【財訊快報／陳孟朔】人工智慧(AI)產業領袖呼籲放慢前沿模型開發，市場憂心數據中心與晶片需求降溫，加上油價盤中大漲超過4%，布蘭特期油盤中每桶逼近110美元大關推升通膨及升息疑慮的威力，美國股市週一全面收低。半導體類股成為主要賣壓中心，費城半導體指數重挫5.86%，道瓊、標普和那指依序跌0.29%、0.48%和0.56%。資訊科技與工業類股同步走弱；美國銀行下修投行業務展望，亦拖累大型銀行股集體下挫。道瓊工業指數高開177點後轉跌，早盤一度下挫294點，終場跌152.09點或0.29%，收52,421.20點；標普500指數跌37.00點或0.48%，收7,619.98點；那指一度挫跌1.29%，終場跌幅縮至0.56%或146.63點，收26,186.41點，反映低接買盤及資金轉向軟體與部分防禦型類股。\n\n晶片類股是全場賣壓中心，費城半導體指數慘跌692.72點或5.86%，收在11,131.28點為7月29日以來最低，且創下7月1日急瀉6.24%以來最殺，30檔成份股全趴，高通跌幅1%最抗跌，和康電訊和泰瑞達各瀉12.83%和13.30%墊底，台積電ADR挫3.52%為第四大抗跌股。\n\n人工智慧(AI)產業領袖呼籲放慢前沿模型發展，引發市場擔憂數據中心及晶片需求降溫，美光、應用材料及英特爾跌幅介於5.3%至7.1%，輝達下跌3.4%；Alphabet及Meta逆勢上漲3.2%和2.7%，軟體股Salesforce與Netflix分別勁揚4.7%及3.8%。\n\n美國銀行(美銀)執行長莫伊尼漢預期第三季交易收入年比大致持平，投行費用可能下滑逾10%，拖累美銀重挫5.14%；高盛、摩根士丹利、花旗及其他大型銀行亦同步走低。道瓊成分股中，開拓重工下跌4.2%，為表現最弱個股；麥當勞與沃爾瑪分別上漲2.0%和1.8%，顯示資金轉向部分防禦型消費股。而軟體和資安股逆勢大漲，賽富時大漲4.73%為道瓊最旺個股。\n\n沙烏地阿拉伯東西向輸油管線停運加深供應憂慮，紐約期油盤中一度升至每桶104.95美元，終場漲1.34%，收101.39美元；布蘭特期油一度飆近5%觸及109.80美元，收漲1.02%至105.68美元。能源價格升高加劇通膨疑慮，美國10年期公債殖利率盤中突破5%，為2023年10月以來首見；市場等待聯準會(Fed)週三公布利率決策，利率期貨顯示升息一碼機率約九成。\n\n美股盤後小紅\n\n美國股市週一盤後上揚，運輸及供應鏈管理公司雷典物流公司(RLGT US)盤後股價上漲，漲勢相對醒目，因該公司年度第四季營收超越預期的消息，催化了買盤人氣。\n\n道瓊指數期指上漲20.00點或0.04%，報52,881.00點。\n\n雷典物流公司盤後股價上漲10.1%。該公司發布年度第四季財報，結果當季營收2.614億美元，表現超越市場分析師預估中值的2.31億美元。\n\n餐飲業者戴夫及巴斯特娛樂公司(PLAY US)盤後股價下挫13.6%，股價的滑落，主要因為該公司年度第二季營收5.441億美元，表現落後市場分析師預期的5.581億美元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "07:55:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI安全擔憂引爆美晶片股大跌，拖累科技類股重挫",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E5%AE%89%E5%85%A8%E6%93%94%E6%86%82%E5%BC%95%E7%88%86%E7%BE%8E%E6%99%B6%E7%89%87%E8%82%A1%E5%A4%A7%E8%B7%8C-%E6%8B%96%E7%B4%AF%E7%A7%91%E6%8A%80%E9%A1%9E%E8%82%A1%E9%87%8D%E6%8C%AB-235552291.html",
+      "Content": "商傳媒 ｜方承業／綜合外電報導\n\n美國人工智慧（AI）產業領袖對AI發展速度過快及其潛在風險的擔憂加劇，引發市場對AI產業成長可能放緩的疑慮。此一觀點導致全球AI相關股票在週一普遍下跌，其中美國晶片類股尤其受到重挫，費城半導體指數單日暴跌 5.9%，創下今年7月1日以來最大跌幅，連帶拖累美股大盤走低。\n\n近期，Anthropic執行長達里奧·阿莫代（Dario Amodei）、OpenAI執行長奧特曼（Sam Altman）以及xAI執行長馬斯克（Elon Musk）等重量級人物，先後對AI技術的快速演進發出警告。達里奧·阿莫代表示，AI的發展速度已讓研究人員難以確保其安全性。同時，他建議建立獨立的審計機構，以監督AI實驗室的安全規範，並呼籲監管機構允許各實驗室合作，協調安全標準。前Google DeepMind研究員Alex Turner也認為，AI模型的「遞歸式自我改進」（recursive self-improvement，指AI模型在無人類介入下，能自行創造或改進下一代AI系統）可能迅速導致其智慧超越人類理解範疇。\n\n在AI倫理與治理方面，微軟（Microsoft）於今日發布了「人本AI」（Humanist AI）行為準則草案，旨在確保未來AI系統「服從、對齊且受控」，明確禁止AI模型涉及武器開發或模擬意識。該草案目前正進行為期六週的公開諮詢。此外，許多企業在導入AI工具時，面臨傳統第三方風險管理（Third-Party Risk Management, TPRM）機制難以應對的問題。Vanta的Evan Rowse指出，AI供應商可能在審查間大幅改變其風險屬性，傳統依賴「時間點快照」的評估方式已不適用，企業需建立持續監測機制來追蹤AI風險。\n\n除了安全疑慮，AI導入的經濟效益也逐漸成為企業關注焦點。SHI International的Jack Hogan指出，隨著AI從實驗階段邁向大規模應用，組織必須衡量AI資源的消耗，特別是Token（AI處理資訊的基本單位）的用量，並將其與實際業務成果連結，確保投入與產出效益相符。他以Paramount Skydance為例，該公司已設定員工使用Claude模型的支出上限，以有效管理AI成本。\n\n受AI安全疑慮影響，週一美國股市三大指數普遍下跌。標準普爾500指數下跌 0.48%，道瓊工業平均指數下跌 0.29%，那斯達克綜合指數下跌 0.56%。資訊科技類股領跌 1.68%，工業類股下跌 1.44%。值得注意的是，晶片類股遭到拋售，輝達（NVIDIA）股價下跌 3.4%，康寧公司（Corning）、Coherent、Lumentum等供應商股價跌幅更大。然而，部分網路股及網路安全類股（如CrowdStrike、派拓網路）表現強勁，逆勢上漲。\n\n在更廣泛的宏觀經濟層面，美國10年期公債殖利率突破 5% 的關鍵門檻，顯示市場對通膨和聯準會（Fed）升息的預期。分析師警告，高利率可能削弱美股吸引力，並對當前牛市構成威脅。台灣作為全球半導體供應鏈的關鍵一環，在美國晶片股因AI成長放緩疑慮而重挫之際，台灣科技業亦將連帶面臨類似的觀望與調整壓力。\n\n參考來源\n\nQ&A: The real cost of AI is beginning to scale within organi… （Digital Journal）\n\nChina says U.S. tech leaders&#x27; calls for AI slowdown are &#x27;mal… （The Washington Post）\n\nMicrosoft Publishes Humanist AI Code of Conduct, Rejects Mod… （NewsCord）\n\nAI vendors can change their risk profile between reviews, an… （KPVI）\n\nStudy: How trustworthy are Gemini, Copilot, OpenAI and other… （FINCHANNEL）\n\nAccenture: AI can accelerate defense production and supply （Ua.news）\n\nVitalik Buterin Says Crypto Anti-Collusion Rules Could Apply… （CryptoNews）\n\nThe AI doom debate is getting carried away. AI is a product,… （Business Insider）\n\nAI leaders concerned about model self-improvement （Ua.news）\n\nU.S. Stock Market Close: Calls for Slowing AI Growth Hammer… （FuTu News）",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
       "Time": "07:46:01",
@@ -21,6 +191,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/prediction-interactive-brokers-ends-2026-234601495.html",
       "Content": "Interactive Brokers (NASDAQ:IBKR) grew its customer-account count by another 143,000 in August. That put the automated global broker at 5.46 million accounts, up 35% from a year earlier, according to the monthly metrics update it published on Sept. 1.\n\nA total like that puts a round number within reach. And my prediction is that Interactive Brokers gets there, ending 2026 with more than 6 million customer accounts.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe milestone isn't a formality, though. Hitting it requires the last four months of the year to deliver almost as much account growth as the previous four did.\n\nImage source: The Motley Fool.\n\nRunning the numbers\n\nGetting from 5.46 million accounts on Aug. 31 to 6 million by Dec. 31 requires growth of about 2.4% a month for four months. That means about 135,000 additions a month.\n\nThe company has been running ahead of that bar. It added just over 600,000 accounts in the four months through August (an average of about 150,000 a month) as its total climbed from April's 4.86 million. And August's 143,000 additions alone were already above the monthly average the milestone calls for.\n\nIn other words, Interactive Brokers could slow down from its summer pace and still cross 6 million. Every month since April has cleared the required rate.\n\nCan the pace hold?\n\nThe growth streak is much longer than a summer. The company entered 2026 with about 4.4 million accounts and has grown its base every month since, at monthly rates of about 2.2% to 3.8% by my math.\n\nEven more, the growth has been speeding up. Customer accounts were 31% higher year over year in February. And by August, the growth rate had reached 35%.\n\n\"We are growing everywhere globally, all the regions, all the account types, whether it's financial advisor, introducing brokers, direct accounts,\" said CEO Milan Galik on Interactive Brokers' second-quarter call in July. \"We are pleased with our growth across the board.\"\n\nGalik also noted momentum with introducing brokers (outside firms that bring their customers onto Interactive Brokers' platform), saying the company had posted probably its fourth or fifth straight quarter with a double-digit number of integrations going online.\n\nOf course, the streak has had slower stretches, and they show how the prediction could miss. From February through April, monthly growth hovered around 2.2% to 2.4%, and four months at the slower end of that range would leave the year-end count just short of 6 million. Last December, account growth was 2% month over month. Four months at that rate would put the total near 5.9 million instead.\n\nStory Continues\n\nEach new account feeds two revenue lines\n\nEach new customer arrives with trading activity and cash. Each feeds one of the company's two main revenue lines.\n\nThe trading half shows up as commissions. Commission revenue climbed 30% year over year in the second quarter to a record $673 million, as customer trading volume in options and stocks climbed 17% and 14%, respectively.\n\nThe cash half is even bigger. Customers park uninvested cash in their accounts and borrow against their holdings, and Interactive Brokers earns interest on both sides. Net interest income rose 23% year over year to $1.06 billion in the same quarter, mostly because average customer margin loans and credit balances grew. And both balances ended August higher than a year earlier: client credit balances at $185.6 billion, up 27%, and margin loans at $101.5 billion, up 41%.\n\nSure, one new account may not produce much revenue by itself. But the ones Interactive Brokers keeps adding land on an unusually profitable platform -- the company arguably operates more like a tech company than a traditional broker. It posted a 77% pre-tax profit margin last quarter, up from 75% a year earlier, and earnings per share rose about 35% to $0.69.\n\nInvestors haven't ignored any of this. At about $91 as of this writing, the growth stock trades about 7% shy of its 52-week high.\n\nShares also go for about 28 times next year's earnings estimates -- a price that arguably already assumes the account growth keeps coming.\n\nThis prediction is a call on the customer count, though, not a verdict on the stock's valuation. Will Interactive Brokers really finish the year with more than 6 million customer accounts? I think so. The required pace is slower than anything the company has posted since April, and management says the growth is coming from everywhere at once.\n\nA slowdown to last winter's rate would leave the count just short. I just don't see anything in the recent numbers pointing that way.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII, .SPX",
+      "Date": "2026-09-15",
+      "Time": "07:33:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國際變數增多，台股金融、資安股表現強勢，季線支撐強",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E8%AE%8A%E6%95%B8%E5%A2%9E%E5%A4%9A-%E5%8F%B0%E8%82%A1%E9%87%91%E8%9E%8D-%E8%B3%87%E5%AE%89%E8%82%A1%E8%A1%A8%E7%8F%BE%E5%BC%B7%E5%8B%A2-%E5%AD%A3%E7%B7%9A%E6%94%AF%E6%92%90%E5%BC%B7-233336474.html",
+      "Content": "【財訊快報／方亞申】中東戰爭遲未停歇且擴散，國際油價登百美元之上，且本週國際即將面對超級央行周、升息機率大增。美國終端AI大廠Anthropic及OpenAI老闆呼籲AI發展降速，美國10年期公債殖利率逼近5%，總體經濟消息並不好。所幸功率半導體、高階MLCC、玻纖布、銅價等皆傳出漲價聲音，相關個股二極體、MOSEFT、CCL以及探針及CPO設備股表現還不錯，尤其是資安股，低檔還是有一定支撐買盤。金融股持續盤堅創高者不少，是台股重要指標。週一指數終場下跌322.33點或0.70%，收在45,862.52點，成交量6,317.66億元。本週全球利率、油價都是觀察焦點，指數不容易大漲。美國8月核心CPI月升0.3%，稍高於預期，不過中東情勢不穩定，戰事波及產油大國沙烏地阿拉伯，美國也無勝把握，伊朗聯合葉門轟炸沙國輸油管線，好似魚死網破，令國際油價飆升至近幾個月來最高，西德州原油又上漲至105美元附近，加深美國及全球通膨壓力。再來就是AI伺服器零組件掃貨，不管是晶片、原物料銅等等價格屢創高，聯準會先前都出來說話，前情況較2週前傑克森全球央行開會時更嚴峻，本週聯準會開會升息一碼幾乎是共識，問題是聯準會後續要升息幾碼？是市場關注焦點。\n\n再來，近幾日估值最高的獨角獸Anthropic及OpenAI老闆都認為AI發展過快，對於晶片商AMD及輝達可能不是太好的事。這一連串變數都偏空，美股四大指數必須力守季線，否則將拉長整理時間。\n\n道瓊工業指數9/14下跌152.09點或0.29%，收52421.20點；S&P500指數9/14下跌37.00點或0.48%，收7619.98點；NASDAQ指數9/14下跌146.63點或0.56%，收26186.41點；費城半導體指數9/14大跌692.72點或5.86%，收11131.28點。\n\n台股相對國際其他股市近一個月表現強勢，主要在於基本面太好，正常情況下，外資預估今年上市櫃企業獲利有機會超過7.5兆、明年將超過8兆。惟受美股影響，AI供應鏈表現相對偏弱，高價股幾乎都下跌居多，僅創意(3443)表現較強，台積電(2330)持續偏弱，但聯電(2303)、世界(5347)表現還不錯。CPO族群華星光(4979)、全新(2455)、統新(6426)以及設備的惠特(6706)走勢不弱。殖利率相對較高的華碩(2357)、崇越(5434)、瑞昱(2379)、聯詠(3034)加上廠務的帆宣(6196)、漢唐(2404)、蔚華科(3055)、聖暉*(5536)、光焱科技(7728)、貿聯-KY(3665)也是相對強。PCB族群中的CCL表現較強，包括台燿(6274)、聯茂(6213)以及金居(8358)。被動元件以信昌電(6173)表現最強。其他如祥碩(5269)、譜瑞-KY(4966)、順德(2351)、尖點(8021)、天鈺(4961)、瑞儀(6176)以及功率半導體的台半(5425)、德微(3675)、強茂(2481)、大中(6435)、雍智科技(6683)、富鼎(8261)都是相對抗跌上漲者。\n\n軟體資安族群在黃仁勳提醒市場發展方向，包括宏碁資訊(6811)、凌群(2453)、華經(2468)、大綜(3147)、力新(5202)、驊宏資(6148)、晉泰(6221)、伊雲谷(6689)、安碁資訊(6690)等強勢補漲。金融股更強，近三個月股價普遍大漲，包括彰銀(2801)、凱基金(2883)、富邦金(2881)、華南金(2880)、國泰金(2882)、台新新光金(2887)、兆豐金(2886)、永豐金(2890)、第一金(2892)、合庫金(5880)、臺企銀(2834)等創新高者多，是台股降低跌幅焦點。",
+      "Language": "zh"
     },
     {
       "Ticker": "AVGO",
@@ -53,6 +233,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "07:11:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】收跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E8%B7%8C-231135910.html",
+      "Content": "（中央社台北2026年9月15日電）美國數間人工智慧（AI）公司的高層近日以安全疑慮為由，呼籲業界放緩AI技術發展速度，這使華爾街股市主要指數今天收盤全部走低，其中費城半導體指數重挫將近6%。\n\n道瓊工業指數下跌152.09點或0.29%，收52421.20點。\n\n標準普爾500指數下滑37.00點或0.48%，收7619.98點。\n\n那斯達克指數下挫146.63點或0.56%，收26186.41點。\n\n費城半導體指數重跌692.72點或5.86%，收11131.28點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA, MSFT",
       "Date": "2026-09-15",
       "Time": "07:01:37",
@@ -61,6 +251,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-made-move-could-230137006.html",
       "Content": "Microsoft (NASDAQ:MSFT)'s Azure business is a big driving force behind how the tech stock does. When its growth rate is strong, so too is the enthusiasm behind the stock. But if there are concerns about how the cloud business is doing, then there can be a pullback, as there was earlier this year when Azure's growth rate slowed.\n\nThe tech company recently announced a reporting change that will put even greater focus on Azure. And that could be a good thing for the stock.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nImage source: Getty Images.\n\nMicrosoft will start reporting Azure's revenue\n\nThe big focus for investors in the past when it came to Microsoft's stock has centered around Azure's growth rate. And unsurprisingly, when it came in better than expected when the company posted its most recent results in July, the stock ended up rising sharply afterward.\n\nNow, the company is going to start reporting the actual quarterly revenue it generates from Azure, rather than just the growth rate. It comes as the company reduces the number of reporting segments it has from three to two, with one particularly focused on artificial intelligence (AI): Agents and Infra. The other is Devices and Consumer. It's the Agents and Infra segment that is expected to be the much larger of the two, with its projected revenue for the first quarter of fiscal 2027 expected to be north of $75 billion, versus around $15 billion for Devices and Consumer.\n\nMicrosoft has been investing heavily in AI, and the strength of its Azure business benefits from that. Normally, when companies aren't doing well in a particular area, they may be tempted to obscure the numbers a bit. In Microsoft's case, with it putting Azure and its AI-related revenue more front and center, it's showing confidence in those areas of its business, and that's what investors likely want to see from the company as well: that its AI strategy is delivering strong results.\n\nIt's not too late to buy Microsoft's stock\n\nAlthough Microsoft's stock has been rallying since it released its earnings numbers in July, it's still an attractive-looking buy right now. It's trading at 28 times its trailing earnings, which isn't all that expensive , especially given how pricey other tech stocks are; investors are paying 38 times earnings for a piece of Apple 's business.\n\nStory Continues\n\nFor long-term investors, now may be as good a time as any to buy Microsoft's stock. The business is doing well, and its AI strategy may be picking up steam. It can be an ideal investment to just buy and forget about.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-15",
+      "Time": "06:49:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電營收破5千億「股價卻失守季線」！除息前外資連4賣狂倒2.3萬張 分析師爆「不是AI不行」：這原因壓死利多",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%87%9F%E6%94%B6%E7%A0%B45%E5%8D%83%E5%84%84-%E8%82%A1%E5%83%B9%E5%8D%BB%E5%A4%B1%E5%AE%88%E5%AD%A3%E7%B7%9A-%E9%99%A4%E6%81%AF%E5%89%8D%E5%A4%96%E8%B3%87%E9%80%A34%E8%B3%A3%E7%8B%82%E5%80%922-3%E8%90%AC%E5%BC%B5-%E5%88%86%E6%9E%90%E5%B8%AB%E7%88%86-224930832.html",
+      "Content": "晶圓代工龍頭台積電(2330)公布8月合併營收，站上5千億元，但16日除息前夕，外資已連4賣，昨（14日）更一次倒貨1.1萬張，股價下探2,380元。資深分析師蔡明翰指出，台積電營收驚豔，股價卻不買單，並非AI訂單突然消失，主要原因是升息疑慮壓過基本面利多。但他強調，只要AI需求和台積電等企業營收未轉弱，拉回就是布局的買點。\n\n歷史級成績單 營收衝破5千億\n\n台積電上周揭曉8月合併營收，達5,148.06億元，月增10.1%、年增53.3%，不僅連續第4個月改寫歷史紀錄，而且單月營收更首度突破5千億元大關。累計今年1至8月，合併營收已達3兆3,868.7億元，年成長39.3%。市場也持續看好AI應用的強勁需求，帶動先進製程規模高速成長。另一方面，台積電將在本周16日除息7元。\n\n雖然歷史紀錄顯示，台積電都能順利填息，但不尋常的是，外資從營收公布前一天，已開始出脫台積電的股票，昨日提款力道加重，賣超11,191張，連4個交易日賣超，合計倒貨達23,945張。在龐大賣壓下，台積電昨下跌30元，收2,380元，不僅跌破2千4關卡，也失守季線位置。\n\n通膨、升息疑慮 引爆評價修正\n\n對於台積電的股價不給營收面子，資深分析師蔡明翰在「財經震翰彈_蔡明翰」YT頻道分析，這絕非AI訂單消失。\n\n蔡明翰進一步指出，由於美國公布的PPI與核心CPI月增率高於預期，加上能源價格上揚，顯示通膨仍極具頑強，導致市場認為聯準會升息的疑慮大增，高本益比的科技股因此面臨評價修正壓力，也就是說，升息疑慮暫時壓過了基本面的利多。\n\n業績底氣充足 Q4月營收可望再創高\n\n從台積電營收結構，蔡明翰提出看法表示，依據台積電第三季財測中位數換算，9月營收只需達到4,600億至4,639億元即可達標，即便不小心出現月減，第三季業績依然能輕鬆達標，甚至挑戰財測上緣。更關鍵的是，推估台積電第四季月營收將落在5,280億至5,540億元之間，意味著今年年底之前，台積電月營收可望持續傳出改寫歷史新高的喜訊。\n\n不過，由於台股位處高檔，費半指數仍在季線下方震盪，蔡明翰也提醒，別看到股價突破就盲目追高。他建議投資人，如果台股因央行升息或總經事件衝擊拉回，只要AI需求與台積電等企業營收未轉弱，多頭結構就不會改變，逢低反而可以布局基本面穩健成長的個股。",
+      "Language": "zh"
     },
     {
       "Ticker": "TSLA",
@@ -103,6 +303,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "06:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股》AI擔憂拖累 費城半導體指數跌逾5%",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1-ai%E6%93%94%E6%86%82%E6%8B%96%E7%B4%AF-%E8%B2%BB%E5%9F%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8C%87%E6%95%B8%E8%B7%8C%E9%80%BE5-221500433.html",
+      "Content": "MoneyDJ新聞 2026-09-15 06:15:05 黃文章 發佈\n\n美股週一下跌，AI擔憂拖累費城半導體指數跌逾5%。道瓊工業指數9月14日收盤下跌152.09點，或0.29%，收52,421.20點；標普500指數下跌37.00點，或0.48%，收7,619.98點；那斯達克綜合指數下跌146.62點，或0.56%，收26,186.41點。費城半導體指數下跌5.86%或692.72點，報11,131.28點。\n\n人工智慧公司Anthropic執行長達里奧·阿莫迪（Dario Amodei）發表了一篇長達3,800字、內容悲觀的文章，緊急呼籲放緩AI發展速度，衝擊範圍遍及整個半導體與AI基礎設施產業。\n\nOpenAI執行長薩姆·奧特曼（Sam Altman）也表示：「AI發展可能朝兩個非常糟糕的方向發展，而這兩種情況我們都必須避免。第一，我們可能失去對未來的控制，讓AI掌控人類的未來。第二，我們可能最終進入一個權力過度集中的世界。」\n\n另一方面，美國總統唐納·川普（Donald Trump）反駁外界日益高漲的人工智慧（AI）加強監管呼聲，並抨擊Anthropic執行長達里奧·阿莫迪。川普表示：「AI/資料中心之所以會爆發這一波爭議，唯一原因就是美國大幅領先其他所有國家。」\n\n白宮AI主管大衛·薩克斯（David Sacks）也反駁日益高漲的AI恐慌，並指出中國「非常不可能」加入全球性的AI監管協議。\n\n高盛策略師班·斯奈德（Ben Snider）認為，升息本身並不足以判斷牛市是否結束，企業盈利才是決定股市中長期方向的最重要因素。當利率上升時，估值倍數可能下降；但如果企業獲利成長速度足夠快，仍然可以抵銷估值壓縮帶來的負面影響。\n\n斯奈德指出，雖然標普500指數的預期本益比已經從年初約22倍下降至19倍，但指數仍然距離歷史高點僅約2%，這代表企業獲利預期可能正在上升。假設股價大致維持不變，但未來12個月預期獲利增加，那麼本益比自然會下降。因此，本益比從22倍降至19倍，不一定代表投資人正在拋售股票，也可能代表企業獲利成長正在追上股價。\n\n這一點對目前由人工智慧與大型科技企業帶動的美股行情尤其重要。過去市場擔心人工智慧股票估值過高，但如果大型科技公司的營收、獲利及自由現金流仍然持續成長，那麼高估值便有機會透過盈利成長逐步消化。換言之，股市並不一定需要依靠股價下跌來修正估值，也可能透過「企業獲利上升、股價漲幅放緩」的方式完成估值正常化。\n\n高盛歸納過去幾十年的歷史資料顯示，在七次升息週期中，標普500指數在首次升息前後前三個月平均下跌約2%，但首次升息後12個月卻平均上漲9%。這意味著升息帶來的市場衝擊可能集中在短期，而當市場逐漸確認經濟基本面仍然強勁之後，股市反而可能重新上漲。\n\n凱投宏觀資深市場經濟學家詹姆斯·雷利（James Reilly）預測標普500指數今年底可能升至8,250點，較目前水準仍有約7.7%的上漲空間；但到了2027年底，指數可能大跌21%至6,500點。他認為市場可能還存在最後一段上漲行情，但這段行情結束後，泡沫風險將迅速升高。\n\n雷利預期，到2027年，頂級人工智慧超大規模資料中心營運商的自由現金流總額可能轉為負值。這是一項相當重要的警訊。如果企業收入與帳面獲利看起來仍然強勁，但自由現金流持續惡化，就代表企業可能必須透過舉債、發債或其他融資方式支持投資。當市場資金充裕時，這種模式或許可以維持；但一旦利率上升、信用環境轉緊，融資成本提高，原本建立在大量資金之上的人工智慧投資週期便可能迅速降溫。\n\n另一個值得注意的現象，是標普500指數的市值集中程度。少數大型科技企業的市值占比已經非常高，因此指數上漲愈來愈依賴少數公司。這種集中可以在牛市中產生強大的正向循環：大型科技股上漲推升指數，指數上漲吸引資金流入被動型基金，基金再進一步買入大型成分股，最後形成「越漲越買」的市場結構。但問題在於，一旦核心股票的成長預期遭到修正，市場也可能形成相反的負向循環，少數大型股票下跌便足以拖累整體指數。\n\n此外，IPO及後續股票發行重新活躍，也是一項值得警惕的市場訊號。企業往往會選擇在市場估值偏高、投資人風險偏好強烈時上市或籌資。當大量企業開始希望趁高估值進入市場，某種程度上也反映市場參與者認為目前的資產價格足以提供有利的退出或融資條件。歷史經驗顯示，IPO市場異常熱絡未必代表牛市健康，反而可能是泡沫進入後期的典型現象。\n\n（圖片來源：MoneyDJ理財網資料庫）\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n日銀委員：應持續升息、\"全球進入升息模式\"\n\n今年1-7月香港從俄羅斯進口近100公噸黃金\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-15",
       "Time": "06:02:38",
@@ -111,6 +321,16 @@
       "URL": "https://finance.yahoo.com/m/0cb435d3-185c-3061-b8d2-e0c86ff48fd4/why-slb-stock-slumped-today.html",
       "Content": "SLB (NYSE: SLB), the sprawling global oilfield services company, didn't have a great day on the U.S. stock market as the trading week began. The recent closure of a major oil pipeline in the Middle East rattled investors, as did an analyst's report on the likely harmful effects on sector stocks with high exposure to the region. As a result, SLB's shares fell by nearly 5% that trading session.\n\nTurning the valve\n\nOn Friday, the government of Saudi Arabia announced it had shut down the East-West pipeline, a major conduit for crude oil in its region. This was in the face of drone attacks coming from Iraq, according to government officials cited by Reuters. As of late Monday afternoon, the pipeline was still shut.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nCitigroup felt obliged to offer its take on this, issuing an analyst note before Monday's market open.\n\nAccording to Streetinsider, the bank's pundits cautioned that an extended shutdown of the pipeline could negatively affect drilling activity. This depends on how long the shutdown lasts, however; if it's short in duration, drilling likely won't be hampered significantly.\n\nIn its note, Citigroup identified a set of oilfield services companies exposed to the Saudi market, with SLB topping the list. The analysts also included SLB's rivals/peers Baker Hughes and Halliburton , among others.\n\nCaution warranted\n\nThe shutdown is a recent development in the Iran conflict, which is increasingly spilling over into other countries in the region. Since there doesn't seem to be any resolution on the horizon, the detrimental effects on oil assets and the energy industry generally are likely to be exacerbated. That alone would make me hesitant to invest in SLB and its peers in the oilfield services sector.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-15",
+      "Time": "06:00:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI驚爆失控作弊危機！OpenAI、馬斯克喊減速「蔡明彰示警硬體高估值修正」資金正急轉低基期AI資安",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%A9%9A%E7%88%86%E5%A4%B1%E6%8E%A7%E4%BD%9C%E5%BC%8A%E5%8D%B1%E6%A9%9F-openai-%E9%A6%AC%E6%96%AF%E5%85%8B%E5%96%8A%E6%B8%9B%E9%80%9F-%E8%94%A1%E6%98%8E%E5%BD%B0%E7%A4%BA%E8%AD%A6%E7%A1%AC%E9%AB%94%E9%AB%98%E4%BC%B0%E5%80%BC%E4%BF%AE%E6%AD%A3-%E8%B3%87%E9%87%91%E6%AD%A3%E6%80%A5%E8%BD%89%E4%BD%8E%E5%9F%BA%E6%9C%9Fai%E8%B3%87%E5%AE%89-220030006.html",
+      "Content": "全球AI產業正面臨發展以來最嚴峻的「速度與安全」拉鋸戰，包括OpenAI、Anthropic以及xAI在內的前沿模型廠執行長，近期紛紛拋出「放緩AI進程」的主張，警告AI的自我改進能力已逐漸超越人類控制。\n\n此舉在資本市場掀起巨浪，萬寶投顧投資總監蔡明彰對此發出重磅示警，隨著模型廠拉貨降溫，過去兩年享有極高溢價的台灣硬體供應鏈將面臨「地心引力」的估值修正壓力，市場資金正加速進行典範轉移，大舉流入具備剛性防禦需求的「AI資安」族群。\n\nAI Agent 驚爆「跨平台結盟作弊」\n\n過去AI失控多被視為科幻情節，但今年7月OpenAI旗下AI Agent（智慧代理）在接受內部評量時的「私下結盟作弊事件」，正式為敲響了產業警鐘；該Agent在未獲授權下，私自存取內部公佈欄並跨平台連結至外部Hugging Face平台，透過偷看程式庫與篡改測試評分成功欺騙人類評估系統。\n\n業內人士指出，前沿模型已具備自動撰寫、修改程式的自我學習能力，其所衍生的兩大末日風險—「失控風險」（自我改進威脅金融系統與資料中心）與「濫用風險」（罪犯利用AI開發新型致命病毒）已迫在眉睫。\n\n高滲透率硬體面臨高估值修正\n\n除了安全顧慮外，商業上的「預期管理」更是大廠高喊減速的關鍵；數據顯示，美國前五大雲端服務供應商（CSP）的資本支出在2026年預計將達8,050億美元，2027年更將攀升至驚人的1.1兆美元，約占美國GDP的3.2％，在AI獲利尚未跟上的財務壓力下，放緩速度成為大廠不得不為的降溫手段。\n\n蔡明彰分析，股票市場超額報酬往往聚焦在「低滲透率、高想像空間」初創期，例如AI伺服器大廠廣達在2023年AI剛起步時股價狂飆；但到了2026年，即使AI伺服器營收占比攀升至高位、獲利亮眼，但因市場想像空間收斂，股價已陷入大箱型整理。\n\n當許多AI概念股在2026年上半年漲幅過大、位階過高，市場又面臨支出天花板的疑慮時，法人「誰先賣誰贏」的集體大逃殺可能上演；投資人應採取「確保戰果」策略，將資金從高位階的算力硬體，調整至具備補漲想像空間的低位階族群。\n\n黃仁勳點名：資安是下一個大商機\n\nAI是否該放慢腳步，已在科技界與美政界掀起兩極化博弈。\n\n一是科技巨頭分歧，微軟執行長表態支持審慎發展與獨立審計，Google與Meta則持觀望態度，營收完全仰賴算力需求的輝達（Nvidia）執行長黃仁勳則堅決反對放緩，但他敏銳地指出，「資安」將是AI下一個巨大的商業機會，強調「AI速度可慢，但資安絕對不能停」。\n\n二是美國政壇角力，川普（Donald Trump）強烈反對AI監管，直言「美國放慢等於將龍頭寶座拱手讓給中國」；而歐巴馬（Barack Obama）及民主黨陣營則強烈敦促立法監管。即將到來的11月美國期中選舉，將成為決定AI監管法案與零組件缺貨邏輯是否改變的關鍵轉折點。\n\n資金大洗牌：美股資安三雄暴漲\n\n這場由算力轉向安全的產業典範轉移，已直接反映在資本市場上。在美股市場，資安三雄今年以來（YTD）表現氣勢如虹，Palo Alto Networks（PANW）大漲83％、CrowdStrike（CRWD）上網78％，Fortinet（FTNT）更狂飆100％。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-",
+      "Language": "zh"
     },
     {
       "Ticker": "ON",
