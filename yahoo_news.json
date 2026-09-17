@@ -1,17 +1,7 @@
 {
-  "last_updated": "2026-09-17T14:33:17.743Z",
-  "total_news_count": 328,
+  "last_updated": "2026-09-17T14:33:33.334Z",
+  "total_news_count": 327,
   "news": [
-    {
-      "Ticker": "MRVL",
-      "Date": "2026-09-17",
-      "Time": "22:17:00",
-      "Source": "Yahoo Finance",
-      "Title": "Can MRVL's Data Center Business Sustain Its Growth in 2027?",
-      "URL": "https://finance.yahoo.com/technology/articles/mrvls-data-center-business-sustain-141700678.html",
-      "Content": "Marvell Technology MRVL is increasingly becoming a data center-focused semiconductor company, with artificial intelligence (AI) infrastructure driving demand across custom silicon, optical interconnects and switching. The data center end market accounted for 74% of Marvell Technology's fiscal 2026 revenues, up from its historical positioning across a broader range of markets.\n\nThe momentum accelerated in the second quarter of fiscal 2027. Data center revenues reached a record $2.17 billion, which increased 46% year over year and 18% sequentially, and accounted for 79% of total company revenues. Growth was broad-based across optical interconnect, switching and custom products as hyperscalers continued expanding AI infrastructure. Networking and optical connectivity are becoming increasingly important as AI clusters require greater bandwidth.\n\nMRVL reported strong demand for 800G optical DSPs, while its 1.6T products are ramping rapidly. Scale-out switching is expected to more than double in fiscal 2027, supported by broader adoption of its 51.2T switch products. The company is also pursuing scale-up opportunities as customers evaluate next-generation optical architectures, including near-packaged optics and co-packaged optics.\n\nCustom silicon represents another significant growth avenue for Marvell Technology. MRVL expects its custom business to accelerate during the second half of fiscal 2027 and more than double year over year in fiscal 2028, driven by XPU and XPU-attach solutions. Its expanded hyperscaler agreement covers AI inference accelerators, storage controllers, network interface controllers, memory interface controllers and near-memory compute.\n\nMRVL is also expanding its position in next-generation AI infrastructure through its relationship with NVIDIA, including NVLink Fusion, scale-up switching and silicon photonics. Recent product introductions, such as the 102.4 Tbps Teralynx T100 switch and expanded 1.6T optical DSP portfolio, further broaden its data center exposure. MRVL expects its data center revenues to grow approximately 60% in fiscal 2027.\n\nHow Competitors Fare Against MRVL\n\nIn the data center market, MRVL faces stiff competition from Broadcom AVGO and Advanced Micro Devices AMD.\n\nBroadcom is a leader in the domain of custom silicon solutions for data centers. Broadcom's advanced 3.5D XDSiP packaging platform is critical to ensure the performance and efficiency of custom AI XPUs. Broadcom's relationships with leading hyperscale and frontier AI customers give it direct insight into workload requirements and help shape differentiated accelerators. The company continues to work with six core XPU customers across multiyear programs.\n\nStory Continues\n\nAdvanced Micro Devices is another established player in the custom silicon solutions and AI accelerator market. Advanced Micro Devices offers semi-custom SoCs and Instinct Accelerators to power data centers. AMD is broadening its data center AI opportunity from Instinct accelerators to the Helios rack-scale platform. In the second quarter of 2026, Data Center revenues rose 107% year over year to $6.7 billion, while Instinct sales more than doubled.\n\nMRVL's Price Performance, Valuation and Estimates\n\nMarvell Technology shares have gained 170.3% year to date, outperforming the Zacks Electronics - Semiconductors industry and Zacks Computer and Technology's return of 22.9% and 17%, respectively.\n\nMRVL YTD Performance Chart\n\nImage Source: Zacks Investment Research\n\nMRVL stock is trading at a Price-to-Sales (P/S) multiple of 12.77X, higher than the Zacks Electronics - Semiconductors industry's P/S multiple of 4.75X.\n\nMRVL Forward 12-Month (P/S) Valuation Chart\n\nThe Zacks Consensus Estimate for MRVL's fiscal 2027 earnings suggests year-over-year growth of 48%. Estimates have been revised upward in the past seven days.\n\nMarvell Technology currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
-      "Language": "en"
-    },
     {
       "Ticker": "CSCO",
       "Date": "2026-09-17",
@@ -33,7 +23,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "MSFT, AMZN",
+      "Ticker": "ARM, MSFT, AMZN",
       "Date": "2026-09-17",
       "Time": "21:44:08",
       "Source": "Yahoo Finance",
