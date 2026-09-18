@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-18T12:13:46.228Z",
-  "total_news_count": 531,
+  "last_updated": "2026-09-18T12:33:34.000Z",
+  "total_news_count": 532,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-09-18",
+      "Time": "20:27:38",
+      "Source": "Yahoo Finance",
+      "Title": "One stock is up 540%, and it's not alone",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/one-stock-540-not-alone-122738308.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSandisk Corp. ( SNDK , Financials ), a flash-memory and storage company benefiting from tighter memory markets, has become the standout name in an unusually strong group of large-cap stocks.\n\nWarning! GuruFocus has detected 3 Warning Signs with MU.\n\nIs MU fairly valued? Test your thesis with our free DCF calculator.\n\nIts shares have climbed 540.31% this year, the biggest gain among 31 large- and mega-cap U.S. stocks carrying Seeking Alpha's highest momentum grade as of Sept. 17. But Sandisk is hardly alone.\n\nDell Technologies has surged 347.48%, while Micron Technology is up 224.64%. Intel has gained 173.85%, Marvell Technology 170.31% and Advanced Micro Devices 139.31%. That concentration is notable.\n\nMany of the market's strongest performers now sit somewhere in the infrastructure chain supporting AI from memory and processors to servers and networking.\n\nThe rally has also spread beyond technology. Moderna has gained 393.79%, Bloom Energy is up 210.76%, and several refiners have posted triple-digit advances.\n\nStill, the semiconductor cluster stands out because several of these stocks have already experienced enormous reratings. That changes the question for investors.\n\nMomentum alone can carry stocks only so far. Upcoming earnings will need to show that AI demand, memory pricing and infrastructure spending are growing fast enough to support valuations after such extraordinary runs.\n\nMU GF Value chart\n\nMU GF Value chart Its shares have climbed 540.31% this year, the biggest gain among 31 large- and mega-cap U.S. stocks carrying Seeking Alpha's highest momentum grade as of Sept. 17. But Sandisk is hardly alone.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-09-18",
@@ -733,7 +743,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "META",
+      "Ticker": "ARM, META",
       "Date": "2026-09-18",
       "Time": "13:45:46",
       "Source": "Yahoo Finance",
