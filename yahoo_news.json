@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-19T14:13:54.338Z",
-  "total_news_count": 160,
+  "last_updated": "2026-09-19T14:33:17.107Z",
+  "total_news_count": 161,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-09-19",
+      "Time": "21:37:00",
+      "Source": "Yahoo Finance",
+      "Title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-still-hidden-winner-133700100.html",
+      "Content": "It's no secret that Arm Holdings (NASDAQ: ARM) is a crucial piece of the artificial intelligence (AI) puzzle. But how often do you think of Arm as a top-shelf AI investment? It's easy to forget this impressive compounder amid the glitzy hypergrowth of Nvidia 's and AMD 's expensive AI accelerators.\n\nArm doesn't build the chips that train large language models. The company doesn't actually build chips at all. Instead, Arm designs fundamental instruction sets and CPU cores. It licenses those designs to anyone with a fab contract and an ambition and collects a royalty on every unit shipped. It's basically a toll booth on a road that keeps getting wider.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nArm's toll road runs through the data center now\n\nArm's toll road used to run almost entirely through smartphones. Now it runs through the data center too. Nvidia's Vera CPU pairs Arm cores with its accelerators. Amazon 's Graviton, Microsoft 's Cobalt, and Alphabet 's Google Axion are all Arm-based, built in-house by companies that spend like nation-states on server capacity .\n\nEvery AI cluster on the planet needs general-purpose compute to feed the high-speed AI accelerators, handle networking, and run the orchestration layer. A growing share of that work sits on Arm designs.\n\nThe newer wrinkle is that Arm keeps climbing the value chain. The Armv9 architecture commands higher royalty rates than the model it replaced. Compute subsystems (pre-validated bundles of cores and interconnect, ready to hand to a foundry) let customers skip years of design work while paying Arm considerably more per chip than a bare core license would fetch. So the royalties per chip are getting richer, while Arm's customers are accelerating their unit volumes.\n\nBetter growth than the smartphone era\n\nThe AI boom isn't Arm's first rodeo. Pretty much every smartphone I've ever seen was built around an Arm-based CPU, for example.\n\nBut the peak growth years of the early smartphone era can't compare to the recent financials. Arm's full-year sales rose 21% year over year in 2011 and 17% in 2012. The top-line growth rates of the last two fiscal years were 23% and 24%, respectively. And that's from much larger starting revenues in each calculation.\n\nTo be fair, Wall Street is starting to pay attention to Arm. The stock has outperformed Nvidia in the last month, year, and three years as of Sept. 17. It's also richly valued at 55 times trailing sales and 188 times free cash flow .\n\nStory Continues\n\nSo Arm is less of a secret every day, as shown in the price chart. You're still likely to raise eyebrows if you drop this name around the next AI-stock watercooler chat. And then you can discuss whether the stock is worth 55 times sales. Careful, it's a short lunch break.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-09-19",
