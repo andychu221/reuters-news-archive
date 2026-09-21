@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-21T19:20:08.721Z",
-  "total_news_count": 405,
+  "last_updated": "2026-09-21T19:33:11.631Z",
+  "total_news_count": 407,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-09-22",
+      "Time": "03:19:06",
+      "Source": "Yahoo Finance",
+      "Title": "SanDisk Faces a Make-or-Break Test at $1,832",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/sandisk-faces-break-test-1-191906782.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSanDisk Corporation ( SNDK , Financials ) is bumping up against a technical ceiling , as its recent rise runs smack into a critical resistance level.The stock was trading at roughly $1,779 with the last five-hour candle closed at $1,776.11. It nearly touched the $1,832 resistance level at the current high of $1,827.72 which also corresponds to the 61.8% Fibonacci retracement.The trend overall is still to the upside. SanDisk is above its 200-day simple moving average of $1,626.51 and its SuperTrend line of $1,622.34.But there are holes in the momentum. The relative strength index was at 65.57 near an overbought level and average directional index at 21.60, indicating a weak trend. Trading volume has also dropped as the stock approaches resistance.That leaves the $1,832 level as the near-term challenge. A solid five hour close above it, especially on heavier volume would indicate a breakout. Technically, the setup suggests potential targets at $1,980 and $2,100.A refusal would be another matter. A decline below $1,730 with a loss of momentum would indicate that the breakout attempt has failed and focus may turn to lower support levels.So the next catalyst is straightforward: Can SanDisk move $1,832 from resistance to support?",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-09-22",
+      "Time": "02:48:55",
+      "Source": "Yahoo Finance",
+      "Title": "Arm Holdings (ARM) Soars 17% on Ambitious $2B Revenue Goal; Hedge Funds Bullish",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-soars-17-184855651.html",
+      "Content": "Arm Holdings (NASDAQ:ARM) extended its winning streak to a fifth consecutive day on Monday, jumping as much as 16.8 percent in intraday trading to hit $322, as investors resumed buying positions after management signaled a very strong business performance, saying that demand has \"never been stronger.\"\n\nIn an interview with CNBC's Jim Cramer last Wednesday, CEO Rene Haas said that demand \"is off the charts\" for CPUs, GPUs, and memory from data centers, automotive robotics, and edge computing industries.\n\nHowever, he said that the industry may struggle to keep up with the demand, pointing to bottlenecks in wafers, substrates, testing equipment, and memory, among others.\n\nFor illustration purposes only. Photo from Arm Holdings\n\n$2B Emerging Chip Revenue Achievable\n\nIn this light, Haas said that he has become more confident that Arm Holdings (NASDAQ:ARM) will hit its revenue target of $2 billion for its emerging chip business alone.\n\n\"So what we said in the earnings call I think was May timeframe that we had visibility to $2 billion, and what we said in the last earnings call was that our confidence to achieve that $2 billion number had increased from May to July,\" he said.\n\n\"Here I am in September, and what I can tell you is, Jim, I'm more confident today than I was on that July earnings,\" he added.\n\n\"We're feeling good about it. We're feeling really good about it.\"\n\nThe comments were significant because investors turned increasingly focused on its ability to turn the ongoing strong demand into revenues, especially as chipmakers continue to compete for limited manufacturing capacity.\n\nArm Holdings (NASDAQ:ARM) first disclosed its $2 billion goal during its May earnings call, double the $1 billion it had outlined when it first announced its first custom CPU in March.\n\nIn July, management said that its confidence in securing the necessary supply had further improved.\n\nQ2 FY2027\n\nArm Holdings (NASDAQ:ARM) is set to release the results of its earnings performance for the second quarter of fiscal year 2027 ending September on November 4, 2026.\n\nFor the period, it is targeting total revenues at a midpoint of $1.38 billion, plus or minus $50 million.\n\nNon-GAAP diluted earnings per share are also pegged at a midpoint of $0.47, plus or minus $0.04.\n\nHedge Funds Highly Bullish\n\nInstitutional investors appeared highly optimistic about Arm Holdings' (NASDAQ:ARM) long-term growth prospects, as evidenced by the whopping jump in their committed capital in the previous quarter of the year.\n\nData from Insider Monkey showed that during the period, 52 hedge funds held positions in the stock, up from 46 in the first quarter of the year.\n\nStory Continues\n\nMore notably, their combined holdings soared by 142.8 percent to $3.4 billion from $1.4 billion quarter-on-quarter.\n\nWhile we acknowledge the potential of ARM as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<p class=\"text text-block paragraph text-justify neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-al",
+      "Language": "en"
+    },
     {
       "Ticker": "CSCO",
       "Date": "2026-09-22",
@@ -43,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC, META",
+      "Ticker": "ARM, INTC, META",
       "Date": "2026-09-22",
       "Time": "02:03:00",
       "Source": "Yahoo Finance",
