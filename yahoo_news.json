@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-09-21T17:27:17.381Z",
-  "total_news_count": 393,
+  "last_updated": "2026-09-21T17:32:59.732Z",
+  "total_news_count": 394,
   "news": [
     {
-      "Ticker": "META",
+      "Ticker": "ARM",
+      "Date": "2026-09-22",
+      "Time": "00:53:07",
+      "Source": "Yahoo Finance",
+      "Title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-arm-165307826.html",
+      "Content": "As artificial intelligence reshapes the global economy, investors can decide between the foundational architecture of Arm Holdings (NASDAQ:ARM) and the powerhouse performance of NVIDIA (NASDAQ:NVDA) to anchor their portfolios for 2026.\n\nArm designs the underlying blueprints used in nearly every smartphone, while NVIDIA builds the massive graphics processors that power modern data centers. While both are critical players in the chip market, they occupy very different niches in the technology value chain.\n\nThe case for Arm\n\nArm develops the compute platform behind energy-efficient CPU products, making it a leader among semiconductor stocks . Its technology is currently deployed in more than 350 billion chips, providing the architecture for over 99% of the world's smartphones. The company also targets high-growth markets such as cloud computing, networking, automotive, and the internet of things.\n\nIn its 2026 fiscal year (FY), revenue reached $4.9 billion, representing growth of 22.8% compared to the previous year. This expansion was supported by a net income of $904.0 million. The company reported a net margin of 18.4%, reflecting a slight decrease from the 19.8% net margin recorded in the prior fiscal year.\n\nAs of its March 2026 balance sheet, Arm maintained a current ratio of roughly 6.0x, indicating a strong ability to cover short-term liabilities with its current assets. The debt-to-equity ratio is 0.1x, which compares total debt to the amount of equity held by shareholders. Free cash flow for the period was $979 million. Note that stock-based compensation (SBC) represented roughly 69% of operating cash flow, which inflates reported cash generation since SBC is a non-cash expense added back in the cash flow statement.\n\nThe case for NVIDIA\n\nNVIDIA is a full-stack artificial intelligence infrastructure company that serves gaming, professional visualization, and data center markets. In its latest annual report, the company disclosed that two direct customers accounted for 22% and 14% of its FY 2026 revenue. Customer concentration like this adds a layer of risk to the business. Beyond hardware, NVIDIA has expanded its software ecosystem through material developments like the $12.9 billion acquisition of Hugging Face. The company also maintains a long-standing agreement with Microsoft (NASDAQ:MSFT) regarding Xbox and data center infrastructure support.\n\nIn FY 2026, revenue reached $215.9 billion, which is a massive 65.5% increase over the $130.5 billion reported in FY 2025. This growth translated into a net income of $120.1 billion. The company achieved an exceptional net margin of 55.6%, a level of profitability that remained remarkably stable compared to the 55.8% net margin seen in the previous year.\n\nStory Continues\n\nBased on its January 2026 balance sheet, NVIDIA carries a debt-to-equity ratio of 0.1x, suggesting a conservative use of borrowed funds relative to shareholder equity. Its current ratio of 3.9x shows that the company has ample liquidity to meet its short-term financial obligations. Free cash flow for the fiscal year was $96.7 billion. Free cash flow measures the cash a company generates after accounting for the money spent on equipment and infrastructure.\n\nRisk profile comparison\n\nArm faces competition from established players like Intel (NASDAQ:INTC) and Advanced Micro Devices (NASDAQ:AMD), as it tries to gain ground in the data center market. The company also faces risks related to its heavy dependence on the mobile device industry, which can be cyclical. Furthermore, the rise of open-source architectures may provide a low-cost alternative to its licensing model, potentially affecting its ability to maintain its high royalty rates in certain segments.\n\nNVIDIA faces severe operational constraints due to evolving U.S. export controls, particularly those affecting the data center segment in China. The company relies on a fabless manufacturing model heavily concentrated with partners in Asia, exposing it to geopolitical tensions. Additionally, NVIDIA is subject to various international antitrust inquiries and a certified class action securities lawsuit. The rapid pace of product transitions, such as the Blackwell architecture, also presents risks related to potential inventory impairments if demand estimates are inaccurate.\n\nValuation comparison\n\nNVIDIA appears significantly more attractive on a Forward P/E basis, whereas Arm's high P/S ratio reflects a much steeper premium.\n\nMetric\n\nNVIDIA\n\nForward P/E\n\n125.0x\n\n24.5x\n\nP/S ratio\n\n57.3x\n\n17.9x\n\nValuation metrics sourced from Financial Modeling Prep (FMP) and may differ from other data providers.\n\nWhich stock would I buy in 2026?\n\nArm Holdings and NVIDIA are great stocks for investors seeking exposure to the hot artificial intelligence sector. Both possess dominant market positions in their respective technologies. However, between the two, I would buy NVIDIA shares.\n\nCertainly, Arm is poised to see further revenue growth. Its new designs to support AI in mobile devices coupled with its expansion into data centers and physical AI systems, such as robots, will fuel future sales.\n\nThat said, NVIDIA's secret weapon is its CEO and founder, Jensen Huang. He has successfully anticipated where the AI industry is going over the past several years. From Huang's work years ago with OpenAI to build computing tech specifically for artificial intelligence to his prediction of AI factories that has led to a massive data center buildout around the globe, his vision and leadership has enabled NVIDIA to post exceptional financial performance.\n\nFor its next act, the company is working on a platform to support quantum computers. Add to this NVIDIA's far more attractive share price valuation, and this is the stock with the greater upside potential.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM, META",
       "Date": "2026-09-22",
       "Time": "00:32:00",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "META",
+      "Ticker": "ARM, META",
       "Date": "2026-09-22",
       "Time": "00:16:27",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "ARM, META",
       "Date": "2026-09-21",
       "Time": "23:56:42",
       "Source": "Yahoo Finance",
