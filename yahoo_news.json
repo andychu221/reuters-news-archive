@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-22T18:00:34.799Z",
-  "total_news_count": 433,
+  "last_updated": "2026-09-22T18:12:03.531Z",
+  "total_news_count": 435,
   "news": [
+    {
+      "Ticker": "AMZN",
+      "Date": "2026-09-23",
+      "Time": "02:07:58",
+      "Source": "Yahoo Finance",
+      "Title": "Meta Platforms Just Hit an Amazon Roadblock",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-just-hit-amazon-180758747.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ) has blocked Meta Platforms' ( NASDAQ:META ) Muse AI agent from shopping on its retail site, escalating a broader fight over who controls the customer relationship as autonomous AI agents begin handling more online purchases. For investors, the dispute matters because third-party agents could eventually disrupt Amazon's lucrative advertising business by steering consumers directly to products while bypassing parts of its native storefront.\n\nWarning! GuruFocus has detected 5 Warning Sign with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nMuse is designed to perform online tasks for users, including finding products, scheduling activities and automating purchases.\n\nAmazon said Muse has been blocked since Sunday and is part of a wider restriction on third-party shopping agents. OpenAI's ChatGPT, Alphabet's Gemini and Perplexity's Comet are also prohibited from shopping directly on Amazon.\n\nThe company argues that outside agents may access sensitive customer information, fail to properly identify themselves and operate without Amazon's consent.\n\nWe think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate. This helps ensure a safe, secure, and reliable customer experience, and it is how others operate, including food delivery apps and the restaurants they take orders for, delivery services apps and the stores they shop from, and online travel agencies and the airlines they book tickets with for customers, Amazon spokesperson Lara Hendrickson said. Agentic third-party applications such as Muse have the same obligations, and we've requested that Meta remove Amazon from the experience.\n\nThe economic stakes go beyond security.\n\nIf AI agents increasingly decide what consumers buy, they could weaken Amazon's ability to monetize sponsored listings and control product discovery inside its marketplace.\n\nInvestor Takeaway\n\nInvestors should watch whether Amazon maintains its closed approach or eventually negotiates access terms with major AI platforms. The key issue is advertising economics. If shoppers increasingly rely on autonomous agents rather than browsing Amazon directly, sponsored-product visibility could become less valuable. For Meta, the restriction limits Muse's usefulness in one of the world's largest online marketplaces. The next phase of the agentic-commerce battle will likely revolve around access, attribution and who ultimately owns the purchasing interface.\n\nAMZN GF Value chart\n\nAMZN GF Value chart Muse is designed to perform online tasks for users, including finding products, scheduling activities and automating purchases.\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-09-23",
+      "Time": "02:06:23",
+      "Source": "Yahoo Finance",
+      "Title": "BNP Paribas Spots What Could Move Microsoft Stock Next",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-spots-could-move-180623944.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) could have another lever to extend Azure growth even after its recent acceleration, with BNP Paribas arguing that higher pricing may gradually boost cloud revenue as customer contracts renew. The firm also sees a possible SpaceX ( NASDAQ:SPCX ) cloud-computing deal as a future catalyst, giving investors two additional ways Microsoft could strengthen an already powerful AI infrastructure story.\n\nWarning! GuruFocus has detected 3 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nBNP Paribas analyst Stefan Slowinski said Microsoft executives acknowledged that Azure pricing is moving higher, but existing contracts will not be rewritten.\n\nInstead, pricing will be reset upon renewal, suggesting any Azure pricing benefit should feather into results gradually rather than create a material step-up in Azure growth over the near-term, Slowinski wrote.\n\nThat distinction matters because Microsoft said Azure's recent acceleration into the mid-40% growth range has not been driven materially by pricing. Instead, fleet-level efficiency improvements and continued capacity additions remain the main contributors.\n\nFor investors, that leaves pricing as a potential incremental tailwind rather than something already embedded in recent growth.\n\nSlowinski maintains a Buy rating and $549 price target on Microsoft.\n\nThe analyst also highlighted Microsoft's continuing need for more computing capacity. Executives pushed back somewhat on reports that the company plans to expand data-center capacity to 38 gigawatts by 2032, but reiterated that Microsoft remains in catch-up mode and is continually searching for additional compute.\n\nThat is where SpaceX could enter the picture.\n\nMicrosoft declined to confirm any relationship, but Slowinski said we would not be surprised if there is a potential future announcement. SpaceX recently disclosed a new compute customer expected to spend roughly $1 billion per month starting in December, adding intrigue around Microsoft's possible involvement.\n\nInvestor Takeaway\n\nThe bigger near-term signal is Azure pricing. Investors should watch renewal cycles, cloud growth and whether higher prices begin adding to revenue without hurting demand. A confirmed SpaceX deal would provide another capacity source, but execution and economics would matter more than the headline. Microsoft also said OpenAI revenue sharing is not currently driving Azure's outperformance, reinforcing that core cloud demand remains the central piece of the thesis.\n\nMSFT GF Value chart\n\nMSFT GF Value chart BNP Paribas analyst Stefan Slowinski said Microsoft executives acknowledged that Azure pricing is moving higher, but existing contracts will not be rewritten.\n\nThe analyst also highlighted Microsoft's continuing need for more computing capacity. Executives pushed back somewhat on reports that the company plans to expand data-center capacity to 38 gigawatts by 2032, but reiterated that Microsoft remains in catch-up mode and is continually searching for addi",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-23",
@@ -43,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, NVDA",
       "Date": "2026-09-23",
       "Time": "01:25:29",
       "Source": "Yahoo Finance",
