@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T06:35:49.746Z",
-  "total_news_count": 104,
+  "last_updated": "2026-09-22T06:53:35.495Z",
+  "total_news_count": 127,
   "news": [
     {
       "Ticker": ".TWII",
@@ -243,6 +243,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-22",
+      "Time": "10:09:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電併NOR/F-RAM事業，補強車用/歐美客群",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E4%BD%B5nor-f-ram%E4%BA%8B%E6%A5%AD-%E8%A3%9C%E5%BC%B7%E8%BB%8A%E7%94%A8-%E6%AD%90%E7%BE%8E%E5%AE%A2%E7%BE%A4-020900123.html",
+      "Content": "MoneyDJ新聞 2026-09-22 10:09:19 數位內容中心 發佈\n\n華邦電（2344）以11.2億美元全現金收購英飛凌旗下NOR Flash與F-RAM事業100%股權，交易完成後將以Spansion品牌獨立營運，總部設於美國，並納入來自10多個國家的專業人才。這筆交易鎖定非揮發性記憶體版圖擴張，標的公司在記憶體解決方案領域已有逾30年基礎，研發據點分布歐洲、亞洲、東南亞與美國。\n\n以產品與客戶結構來看，華邦電原有NOR Flash應用偏重PC與NB，英飛凌相關業務則握有較多歐美車用客戶，收購後可直接補強車用市場與區域客戶布局。依Omdia統計，華邦電2025年全球NOR Flash市占率23%居首，英飛凌為11%，若以現有市占率簡單加總，合計達34%。\n\n除擴大NOR布局，華邦電也持續押注SLC NAND。現階段全球SLC NAND市占約23%，SoC NAND市占約15%，需求已從通訊、工控與消費性產品，擴至低軌衛星、機器人、無人機、穿戴裝置、AR/VR與AI手機。車用需求成為另一波拉貨來源，MCP產品整合自家SoC NAND與LPDDR4，鎖定車用Telematics、FWA與4G/5G M2M通訊模組，搭配F24製程產能擴充與高密度產品比重提升，NAND出貨與位元成長動能已看到2028年。\n\n在供給端，華邦電今年NOR位元成長主要來自45nm產品全面放量，以及製程轉向25nm/20nm帶動單片位元出貨增加。TrendForce預估，2026年下半年NOR供需仍失衡，256Mb以上高容量產品價格仍有90%至110%上漲空間，需求主力來自AI server、車用、數位座艙與工控。AI server單台NOR需求量已是傳統server的3至5倍，也推升高容量與Octal SPI NOR拉貨。\n\n財務面上，華邦電2026年8月合併營收273.09億元，月增2%，年增289.43%，連續9個月改寫單月新高，前8月合併營收1,521.78億元，年增177.39%。收購案預計於2027年下半年完成，完成後將開始挹注NOR Flash與F-RAM營運規模。\n\n強茂拓印度車用工控，AI高規格產品H2驗證\n\n研調：NOR供需H2仍失衡，高容量價格可能翻倍漲\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2330.TW",
       "Date": "2026-09-22",
       "Time": "10:02:17",
@@ -320,6 +330,36 @@
       "Title": "聯發科發布個人運算CX首款旗艦晶片 攻AI筆電新世代",
       "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E7%99%BC%E5%B8%83%E5%80%8B%E4%BA%BA%E9%81%8B%E7%AE%97cx%E9%A6%96%E6%AC%BE%E6%97%97%E8%89%A6%E6%99%B6%E7%89%87-%E6%94%BBai%E7%AD%86%E9%9B%BB%E6%96%B0%E4%B8%96%E4%BB%A3-005800737.html",
       "Content": "MoneyDJ新聞 2026-09-22 08:58:44 萬惠雯 發佈\n\n聯發科(2454)於今(22)日推出全新Dimensity個人運算（Compute Experiences；CX）系列平台的首款旗艦SoC－Dimensity CX C10 Max，可望為即將上市的高階、超便攜Googlebook提供卓越性能、先進功能，以及出色能效，攻AI筆電新世代商機。\n\n聯發科Dimensity CX C10 Max採用台積電(2330)3奈米先進製程，搭載全大核8核心CPU、11核心GPU，以及聯發科第8代NPU，透過高性能平台架構，在多工任務、生產力應用、智慧輔助、娛樂等多元應用場景中，提供優異性能；其節能架構可協助製造商設計出更輕薄、無風扇且具備全天候續航力的裝置。\n\n聯發科NPU 890提供最高可達55 TOPS的性能，讓即將上市的Googlebook能提供更主動且智慧的服務。\n\n聯發科表示，Dimensity CX C10 Max透過整合全大核CPU、強勁GPU以及具備Agentic AI加速能力的業界領先NPU，以因應最嚴苛且繁重的運算任務，並賦予使用者超高速多工處理能力，最大化其生產力。\n\n聯發科攻Agentic AI，發布首款2nm旗艦天璣9600 Pro\n\nAI擴張至邊緣端 資策會：有助台廠迎三大趨勢商機\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-22",
+      "Time": "08:45:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科114/10/21~115/9/21取得廠務設備一批，計約24.3億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91114-10-21-115-9-004500388.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:廠務設備\n\n2.事實發生日:114/10/21~115/9/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月21日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣2,429,769,382元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:巨茂應用材料股份有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:供生產/營運使用\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:無\n\n南亞科114/12/29~115/9/21取得廠務設備一批，計約21.7億元\n\n創意、致茂 市值飛越兆元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-22",
+      "Time": "08:45:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科114/12/29~115/9/21取得廠務設備一批，計約21.7億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91114-12-29-115-9-004500337.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:廠務設備\n\n2.事實發生日:114/12/29~115/9/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月21日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣2,170,425,825元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:川業工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:供生產/營運使用\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:無\n\n南亞科114/10/21~115/9/21取得廠務設備一批，計約24.3億元\n\n創意、致茂 市值飛越兆元\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-22",
+      "Time": "08:39:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "1分鐘讀財經》董座喊「DRAM不缺」！外資逆勢挺南亞科 「8字頭」目標價全解密",
+      "URL": "https://tw.stock.yahoo.com/news/1%E5%88%86%E9%90%98%E8%AE%80%E8%B2%A1%E7%B6%93-%E8%91%A3%E5%BA%A7%E5%96%8A-dram%E4%B8%8D%E7%BC%BA-%E5%A4%96%E8%B3%87%E9%80%86%E5%8B%A2%E6%8C%BA%E5%8D%97%E4%BA%9E%E7%A7%91-8%E5%AD%97%E9%A0%AD-003956498.html",
+      "Content": "小編今天（22）日精選5件國內外重要財經大事。宏碁董事長陳俊聖日前拋出「記憶體已不缺」震撼彈，儘管外界各自解讀，21日仍壓抑記憶體族群走勢。瑞銀證券、中信投顧此時攜手挺身看好指標股南亞科，樂觀派內外資股價預期共識升至6字頭以上，樂觀情境甚至有800元潛力。\n\n【1】內外資力挺 南亞科目標價喊升\n\n瑞銀目前預估，南亞科第三季DRAM位元出貨量將季增5％，優於先前預估的季減8％；更值得注意的是，DRAM單位售價預估將季增50％，也明顯高於先前預估的季增32％。瑞銀認為，主要受惠為期6～12個月的合約於7月重新議價，使第三季價格季增幅度高於一般水準。\n\n【2】漲價潮擴散 功率元件三強有戲\n\n全球功率半導體漲價潮持續擴散，繼德州儀器、瑞薩陸續傳出調價後，安森美也傳出通知客戶將自10月10日起調整部分產品價格。國際大廠接連出手，有助降低台廠與客戶協商漲價阻力，強茂、台半、德微等功率元件廠第四季至2027年營運，除受惠AI拉貨，亦有望迎來產品組合及價格同步改善。\n\n【3】CCL掀全球擴產競賽 三雄也跟上\n\nAI伺服器、高速交換器需求強勁，全球高階銅箔基板（CCL）掀起擴產競賽。韓國斗山（Doosan）宣布斥資9,700億韓元，在韓國及中國大陸同步擴充高階CCL產能；台灣CCL三雄台光電、台燿、聯茂今年也全面加碼資本支出，提前卡位AI帶動的高速材料商機。\n\n【4】超進度 台積A14明年Q1試產\n\nAI算力競賽推動先進製程由「奈米」加速跨入「埃」世代。IC設計業者透露，台積電 A14（1.4奈米）進度持續超前，今年第二季已啟動CyberShuttle（晶圓共乘）服務，預計2027年首季於新竹寶山Fab20廠進入試產；主力量產廠區台中Fab25則規劃明年第二季前完工、最快第三季初投入試產。與台積電官方時程2027年風險試產、2028年量產進度相符。\n\n【5】美伊本周談判？ 油價下挫\n\n美伊外交談判前景好轉，加上摩根大通稱中東石油輸出狀況比預期更穩健，受此影響，國際油價連續四個交易日下跌。布蘭特期油與美國西德州期油21日盤中均大跌逾3％，前者多在每桶100美元附近盤旋、後者則來到97美元價位附近，皆創下9月9日以來新低水準。\n\n【看原文連結】",
       "Language": "zh"
     },
     {
@@ -520,6 +560,26 @@
       "Title": "元大看盤室／台股中秋變盤 別自尋煩惱！ 魏哲家：希望股價趕快趕上聯發科",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%83%E5%A4%A7%E7%9C%8B%E7%9B%A4%E5%AE%A4-%E5%8F%B0%E8%82%A1%E4%B8%AD%E7%A7%8B%E8%AE%8A%E7%9B%A4-%E5%88%A5%E8%87%AA%E5%B0%8B%E7%85%A9%E6%83%B1-%E9%AD%8F%E5%93%B2%E5%AE%B6-%E5%B8%8C%E6%9C%9B%E8%82%A1%E5%83%B9%E8%B6%95%E5%BF%AB%E8%B6%95%E4%B8%8A%E8%81%AF%E7%99%BC%E7%A7%91-113010316.html",
       "Content": "財經中心／綜合報導\n\n台股多頭氣勢延續，今天大漲538點，漲幅1.14%，終場收在47718點，盤後成交量達8628億元，市場資金持續湧入。三大法人同步站在買方，外資買超203億元，連續3個交易日買超；投信買超39億元，連續4買；自營商也大舉買超227億元，連續3天站在買方。\n\n指數持續走高，法人資金也積極進場，台股下一步還有多少上攻空間？外資連續買超，資金究竟鎖定哪些熱門族群？盤面強勢之際，投資人又該如何掌握進出場節奏？\n\n《理財最錢線》為投資人站在市場第一線，由元大投顧董事長、證券分析師胡睿涵主持，邀請元大投顧專業資深經理、證券分析師蕭森寶，深入解析最新盤勢、法人動向及市場投資機會，帶您從數字背後掌握資金流向，看懂台股下一步。\n\n台股行情火熱，投資布局更要掌握關鍵訊號，鎖定《理財最錢線》\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 元大看盤室／台股中秋變盤 別自尋煩惱！ 魏哲家：希望股價趕快趕上聯發科",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-21",
+      "Time": "18:44:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科取得廠務設備",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8F%96%E5%BE%97%E5%BB%A0%E5%8B%99%E8%A8%AD%E5%82%99-104431850.html",
+      "Content": "日　　期：2026年09月21日\n\n公司名稱：南亞科 (2408)\n\n主　　旨：南亞科取得廠務設備\n\n發言人：李培瑛\n\n說　　明：\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n廠務設備\n\n2.事實發生日:114/12/29~115/9/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月21日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣2,170,425,825元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\n川業工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，\n\n並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n供生產/營運使用\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-21",
+      "Time": "18:24:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科 公告本公司取得廠務設備",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8%E5%8F%96%E5%BE%97%E5%BB%A0%E5%8B%99%E8%A8%AD%E5%82%99-102400343.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n廠務設備\n\n2.事實發生日:114/12/29~115/9/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月21日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣2,170,425,825元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\n川業工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，\n\n並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n供生產/營運使用\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:\n\n創意、致茂 市值飛越兆元\n\n內外資力挺 南亞科目標價喊升\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -733,6 +793,56 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-21",
+      "Time": "10:26:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華東今年營收估雙位數成長 獲利看顯增",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E6%9D%B1%E4%BB%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E4%BC%B0%E9%9B%99%E4%BD%8D%E6%95%B8%E6%88%90%E9%95%B7-%E7%8D%B2%E5%88%A9%E7%9C%8B%E9%A1%AF%E5%A2%9E-022600251.html",
+      "Content": "MoneyDJ新聞 2026-09-21 10:26:34 王怡茹 發佈\n\n記憶體封測廠華東(8110)2026年8月營收7.98億元，月增16.06%、年增24.85%，創47個月新高，並連續4個月呈現月增；累計前8月營收53.99億元、年增15.54%。展望後市，法人表示，受惠記憶體封測需求維持高檔，加上傳統旺季效應，下半年營運有望優於上半年，全年具備賺逾半個股本的實力。\n\n華東隸屬華新麗華(1605)集團，營運以記憶體IC封裝及測試為主，為全球主要記憶體封測業者之一，主力產品為利基型DRAM封測，客戶包括南亞科(2408)、華邦電(2344)等。公司近年持續提高集團企業客戶業務比重，其中華邦電為重要客戶，亦為近年營運成長動能之一。\n\n從營收走勢來看，華東2026年6月營收6.60億元、7月6.88億元，8月進一步攀升至7.98億元，連續4個月月增，且8月年增幅擴大至24.85%，顯示第三季營運動能持續升溫。財務部分，華東上半年歸屬母公司稅後淨利約10.80億元，較去(2025)年同期轉盈，EPS達2.59元，上半年獲利已超越2025年全年。\n\n華邦電日前宣布，將以全現金方式取得英飛凌(Infineon Technologies)旗下NOR Flash及F-RAM相關事業重組後100%股權，交易預計2027年下半年完成。法人認為，隨主要客戶持續擴大記憶體事業布局，中長期有利華東爭取更多封測委外商機。\n\n展望後市，法人表示，隨上游記憶體原廠產能維持高檔，後段封測供需依舊緊俏，封測協力廠於年初已陸續啟動漲價，幅度約2至3成，並帶動華東上半年毛利率明顯改善。法人預期，公司下半年毛利率仍有機會維持10%左右水準，搭配營收規模放大，獲利料將挑戰新高紀錄。\n\n華邦電擴記憶體版圖，供給瓶頸卻在另一個市場\n\n欣銓8月營收連六月創新高 Q3挑戰雙位數季增\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW, 2408.TW",
+      "Date": "2026-09-21",
+      "Time": "10:06:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電、聯發科、南亞科、華邦電 大摩看好台股23檔噴發",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91-%E5%8D%97%E4%BA%9E%E7%A7%91-%E8%8F%AF%E9%82%A6%E9%9B%BB-%E5%A4%A7%E6%91%A9%E7%9C%8B%E5%A5%BD%E5%8F%B0%E8%82%A123%E6%AA%94%E5%99%B4%E7%99%BC-020648669.html",
+      "Content": "台灣持續在人工智慧熱潮中扮演要角，即便2028年的雲端服務供應商的資本支出成長幅度放緩，但外資券商摩根士丹利仍看好AI半導體供應鏈的年複合成長率達30%，並點名23檔台股個股，包括台積電、聯發科、南亞科及華邦電等受惠。\n\n人工智慧基建浪潮趨緩 台股仍是主角？\n\n綜合媒體報導，摩根士丹利預估，雲端服務供應商的總資本支出成長幅度將逐步收斂，相較於今年的99%，明年會下修至60%，2028年會降至12%。顯示人工智慧的投資從硬體基礎建設的暴增期，進入平穩期與變現驗收期。\n\n即使如此，人工智慧半導體的整體潛在市場TAM仍被看好，預估2030年的規模將達到7530億美元，幾乎佔所有半導體市場的一半，若從樂觀情境來看，人工智慧半導體的的TAM規模能夠在今年達到4850億美元。\n\n上中下游全面盤點 23檔受矚\n\n在此背景下，台灣半導體供應鏈上中下游將全面受惠，大摩點名台積電、聯發科、日月光、世芯-KY、創意、信驊、南亞科、華邦電、旺宏、譜瑞-KY、大聯大、文曄、義隆、上詮、萬潤、鴻勁、家登、旺矽、穎崴、京元電子、力積電、聯電及旺矽等23檔。\n\n涵蓋上中下游供應鏈，包括IC設計與IP、晶片製造、記憶體、封裝測試、關鍵設備與耗材，以及分銷通路等。\n\n另外，大摩指出，輝達2027年營收預估成長70%，有利於台灣供應鏈發揮，預估全球DRAM持續供不應求，即使納入長江存儲的產能，2026年及2027年的供需缺口仍達-17%與-15%。即使如此，大摩仍提到潛在風險，包括成本上升擠壓毛利率，非人工智慧半導體領域的資源遭排擠等。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW, 2408.TW",
+      "Date": "2026-09-21",
+      "Time": "09:44:21",
+      "Source": "Yahoo奇摩股市",
+      "Title": "陳俊聖一句「沒想像缺」 華邦電、南亞科率記憶體股摔倒 分析師：不用擔心",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B3%E4%BF%8A%E8%81%96%E4%B8%80%E5%8F%A5%E3%80%8C%E6%B2%92%E6%83%B3%E5%83%8F%E7%BC%BA%E3%80%8D-%E8%8F%AF%E9%82%A6%E9%9B%BB%E3%80%81%E5%8D%97%E4%BA%9E%E7%A7%91%E7%8E%87%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1%E6%91%94%E5%80%92-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%B8%8D%E7%94%A8%E6%93%94%E5%BF%83-014421823.html",
+      "Content": "宏基（2353）董事長暨執行長19日「吃了誠實豆沙包」一句「記憶體沒想像中缺」，並暗示大陸廠產能開出後價格止穩，今（21）早一開盤，華邦電（2344）、南亞科（2408）、旺宏（2337）等族群紛紛下挫，華邦電一度跌近3%，南亞科亦有2%跌幅，力積電（6770）、十銓（4967）、旺宏跌近一成。不過分析師上午接受《Yahoo股市》認為，投資人不必擔心，只是短線消息面影響，產業需求依舊緊俏。\n\n陳俊聖在一場演說中，發表對記憶體看法，他認為中國大陸記憶體產能持續增加，市場供給也隨之擴大，DDR4、DDR5等記憶體元件供應增加，不至於全面缺貨，部分產品則仍相對吃緊。他因此預期2027年宏碁的記憶體平均成本有機會較今年下降。一席話嚇壞記憶體投資人，今早DRAM三雄紛紛翻黑下挫。華邦電一度跌近3%，南亞科亦有2%跌幅，力積電（6770）跌逾1%。\n\n19日陳俊聖主要談及個人電腦與記憶體市場，預估今年第4季PC平均銷售價格仍可能上漲約5%至20%，漲勢可能延續至明年中期並達到高峰，之後才有機會出現轉折，最快明年底前平均售價可能下降 不過對於陳俊聖說法，PTT網友看法二極，部份「大老闆報牌不是天天有」、有的認為「Dram缺貨不只消費性電子，並非主戰場」，或「中國DDR5顆粒早八百年就量產」等，有些認為就算是缺貨，股價也已經漲過頭等，記憶股獲不少投資人追捧，因此董事長說法衝擊投資人信心，今早仍造成股價震盪。\n\n分析師：大陸廠能開出美廠不買單\n\n對此萬寶投顧副總錢冠州今早受訪時表示，陳俊聖的話不能說不對，但主要指南亞科DDDR5那塊為主，他說，這塊大陸廠商不見得完整供應，主要因為地緣政治因素，美系客戶仍有地域供應鍊的限制，有些陸廠無法吃，且中國大陸本身對AI需求也相當大。\n\n他說，過去二、三年中國大陸DDR4、DDR5產能開出來講過很多次，但效應都很有限，加上AI伺服器內部需求也相當龐大，因此他認為，陳董此話造成的利空，只是短期消息面變數，他認為Dram需求緊俏的情況並沒有改變，投資人不必過度擔心殺低，而且部份個股也都黑翻紅，整體影響有限，只是短期而已。\n\n葉憶如／財經特派記者組長，主跑金管會、金控壽險、航空等",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-21",
+      "Time": "09:25:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科取得機器設備一批，計約10.57億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8F%96%E5%BE%97%E6%A9%9F%E5%99%A8%E8%A8%AD%E5%82%99-%E6%89%B9-%E8%A8%88%E7%B4%8410-57%E5%84%84%E5%85%83-012500841.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得機器設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:機器設備\n\n2.事實發生日:115/9/18~115/9/18\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年9月18日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：折合新台幣約1,056,897,450元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:KOKUSAI ELECTRIC CORPORATION，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件付款\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:生產用途\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:無\n\n中環9/17~18處分南亞科840張，獲利約2327萬元\n\n長鑫DRAM產量 大躍進(經濟日報，無內文)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-09-21",
+      "Time": "09:00:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "統一證券：台股短多具續攻基礎",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E8%AD%89%E5%88%B8-%E5%8F%B0%E8%82%A1%E7%9F%AD%E5%A4%9A%E5%85%B7%E7%BA%8C%E6%94%BB%E5%9F%BA%E7%A4%8E-010000236.html",
+      "Content": "【昨日盤勢】：\n\n受到美債殖利率回檔、國際油價同步降溫的激勵，加上台灣央行決議維持利率不變，並適度放寬房市信用管制，激勵台股大盤以46,449點紅盤開出後，多方氣勢如虹，呈現「開高走高收最高」的強勁格局。終場狂飆892點，收在47,180點，一舉收復各均線關卡。更關鍵的是，成交量能放大至1.07兆元的水準，呈現標準的量價齊揚攻擊型態。權值股方面，台積電上漲1.44%、鴻海收平盤、聯發科上漲4.66%、廣達下跌0.29%，台達電上漲2.96%。盤面強勢股，創意、京元電子、貿聯-KY、矽格、欣銓、華星光、宏致、致茂、倉和、精測等漲停；南亞科、穩懋、鴻勁、世芯-KY、大立光、頎邦、群聯、雙鴻、奇鋐、富喬等漲幅6%以上。盤面弱勢股，中湛跌停；和益、揚博、亞通、光焱科技、宣德、益航等跌幅5%以上。終場台灣加權指數上漲892.75點，以47180.75點作收，成交量1.07兆元。三大類股漲跌互見，電子上漲2.44%、傳產上漲0.57%、金融下跌0.96%。在次族群部份以綠能環保、光電、電子零組件表現較佳，分別上漲3.75%、3.33%、3.26%。\n\n【資金動向】：\n\n三大法人合計買超1194.51億元。其中外資買超869.94億元，投信買超81.53億元，自營商買超243.03億元。外資買超前五大為力積電、華邦電、南亞科、聯電、京元電子；賣超前五大為友達、臺企銀、群創、玉山金、和益。投信買超前五大為聯電、長榮航、藥華藥、廣達、興富發；賣超前五大為國泰金、元大金、兆豐金、華南金、力成。資券變化方面，融資增46.42億元，融資餘額為5940.39億元，融券增0.67萬張，融券餘額為22.3萬張。外資台指期部位，空單減少2521口，淨空單部位76110口，借券賣出金額381.96億元。成交比重：電子86.04%、傳產9.22%、金融4.74%。\n\n【今日盤勢分析】：\n\n烏克蘭無人機大規模襲擊莫斯科煉油廠引發火災、10年期美債殖利率維持高檔震盪，壓抑美股道瓊指數走跌95.4點；所幸美國晶片股延續強勁漲勢，南韓研調報告預估今年全球半導體市場將翻倍達1.6兆美元且記憶體供應緊俏至明年，帶動科技板塊走揚。費半指數大漲2.78%，台積電ADR上漲1.0%。此外，川普宣布將成立「AI部隊」力保技術領先，美中高層亦展開「川習會」前會談聚焦AI模型與關鍵礦物，進一步鞏固科技產業多頭架構。\n\n整體預估指數震盪盤堅。\n\n台股後市分析如下：\n\n第一、美國財政部長貝森特、貿易代表葛里爾於上週末在紐約會晤中國副總理何立峰，為9月24日「川習會」預先談判，雙方聚焦開放/封閉權重AI模型規範、稀土磁鐵供應及延長關稅休戰協議。\n\n第二、2026台灣創新技術博覽會於17日登場，工研院展示「3.2T矽光子光引擎技術」，傳輸容量較前一代1.6T提升一倍，並已串聯晶片設計、製程、測試與封裝等上下游者，卡位AI資料中心高速傳輸需求。\n\n第三、技術面觀察，週五大盤拉出一根扎實的實體長紅K棒，顯示多方主力控盤企圖心強烈。指標方面，短線指標KD與RSI雙雙在相對低檔形成黃金交叉、同步向上發散；同時，中波段指標MACD的綠色柱狀體亦大幅縮小，顯示指標全面共振翻揚，奠定了短多續攻的堅實基礎。\n\n第四、盤面資金聚焦IC設計、封測、資安軟體等個股，包括創意、達發、京元電子、矽格、華經、驊宏資等表現強勢。\n\n【投資策略】：\n\n俄烏地緣衝突升溫，能源價格波動，惟上週全球央行周及美、日升息後，美國十年債殖利率止漲，緩和通膨擔憂及繼續升息的緊張情緒。台股受惠AI算力推論需求爆發、外資單日大幅買超869億元，強勢推升上周五指數突破47,100點，台股技術面重新翻多。本週除有台灣外銷訂單公佈外，今日那斯達克指數季度調整生效，多方題材充沛可望支撐買盤，預期大盤高檔震盪盤堅、操作建議擇優布局流動性佳的中大型AI權值股，及業績題材股，長線追蹤族群：台積電及先進封測、半導體設備、銅箔基板、光傳輸、散熱、貨櫃散裝、特用化學及高殖利率銀行及壽險股等。\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".N225",
       "Date": "2026-09-21",
       "Time": "06:36:00",
@@ -763,6 +873,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-19",
+      "Time": "18:52:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "狂彈近千點！大戶爆買「記憶體3巨頭」破17萬張 15檔黑馬第一名是它",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%8B%82%E5%BD%88%E8%BF%91%E5%8D%83%E9%BB%9E-%E5%A4%A7%E6%88%B6%E7%88%86%E8%B2%B7-%E8%A8%98%E6%86%B6%E9%AB%943%E5%B7%A8%E9%A0%AD-%E7%A0%B417%E8%90%AC%E5%BC%B5-15%E6%AA%94%E9%BB%91%E9%A6%AC%E7%AC%AC-105201973.html",
+      "Content": "台股18日強勢反彈，終場大漲892點、收在47180點，盤面買氣明顯回溫。法人觀察，近期市場量能放大，若搭配股價收紅、三大法人買超及KD指標翻揚等條件，可留意15檔「三多」強棒，包括力積電、華邦電、南亞科、京元電子、合晶、南茂等，電子族群仍是資金回流的主要方向。\n\n工商時報報導，玉山投信基金經理人郭明玉表示，台股中長期多頭格局仍有基本面支撐，9月至11月為電子業備貨旺季，出口金額可望高於上半年，有利資金持續回補。產業佈局上，雲端AI零組件、半導體建廠供應鏈及先進封測設備最受關注。\n\n技術面上，華南投顧分析，力積電因切入美系AI供應鏈，透過矽電容與晶圓堆疊技術進軍AI記憶體與矽光子領域，獲三大法人大買8.9萬張居冠。日月光投控則受惠輝達AI晶片需求擴增及CoWoS委外封測趨勢，18日成交量倍增至2.63萬張，股價跳空站上季線。\n\n從18日盤面條件來看，法人篩選出成交量較前一日放大、股價收紅，以及KD指標向上等「三多」條件，共有15檔個股符合，依四大產業族群歸納如下：\n\n◆記憶體族群，受惠報價與需求回升，力積電獲法人大買8.9萬張登買超冠軍，華邦電加碼4.6萬張，南亞科也掃貨3.7萬張，累計3檔記憶體買超逾17萬張。\n\n◆IC封測與測試供應鏈，受AI與晶片測試需求暴增推升，京元電子買超2.4萬張，南茂1.6萬張，矽格獲買超1.5萬張，日月光投控則買超7650張。\n\n◆晶圓代工與矽晶圓供應鏈，晶圓龍頭台積電獲買超7878張，晶圓代工廠世界買超7432張，矽晶圓大廠合晶與中美晶則分別獲買超2.0萬張及4776張。\n\n◆光電與AI設備特用供應鏈，車用與光電題材的富采獲買超5086張、聯嘉投控4560張，特用材料材料*-KY獲買超7871張，自動化設備廠盟立4397張，整體電子供應鏈呈現多頭吸金格局。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MRVL",
       "Date": "2026-09-19",
       "Time": "17:37:01",
@@ -771,6 +891,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-buy-hold-2030-093701236.html",
       "Content": "The artificial intelligence (AI) build-out has made chip companies some of the fastest-growing large businesses in the world. Nvidia (NASDAQ:NVDA) grew revenue 106% year over year in its most recent quarter. Broadcom (NASDAQ:AVGO) grew 86%.\n\nMicron Technology (NASDAQ:MU) more than quadrupled its sales. Even Marvell Technology (NASDAQ:MRVL), the group's smallest, grew 37%.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nBut holding a stock through 2030 is a different bet than chasing last quarter's growth. AI spending will likely cool at some point over the next four years. What matters then is where in the chip supply chain the profits hold up.\n\nHere's what each one has to keep doing for a four-year hold to work.\n\nImage source: Getty Images.\n\nNvidia: the platform\n\nNvidia's revenue in the fiscal second quarter of 2027 (ended July 26) rose 106% year over year to $96.2 billion, with $89 billion of that coming from data centers. In late August, management told analysts it expects revenue to grow approximately 70% in fiscal 2028 -- an outlook it called limited by supply, not demand.\n\nAt about $212 as of this writing, shares trade at about 14 times fiscal 2028's estimated earnings. That price, I'd argue, stops giving Nvidia credit after next year.\n\nThe job through 2030 is to stay the platform AI computing runs on (the chips, the networking, and the software) even as its biggest customers fund custom alternatives.\n\nBroadcom: the custom-chip franchise\n\nBroadcom is the company building many of those alternatives. Its AI semiconductor revenue reached $16.7 billion in the fiscal third quarter of 2026 (ended Aug. 2), 221% higher than a year earlier -- and still accelerating, with growth of 54% from the prior quarter alone. Custom accelerators (chips designed with a single customer) made up 73% of it.\n\nCEO Hock Tan told analysts earlier this month that Broadcom has secured the supply to double AI revenue to about $115 billion in fiscal 2027 -- and to $230 billion the year after.\n\nThe stock trades at about 18 times fiscal 2027's expected earnings. The four-year job here is delivery: a short list of AI labs and cloud giants taking billions of dollars of chips on schedule, year after year.\n\nMarvell: the aggressive bet\n\nMarvell runs the same strategy at a fraction of Broadcom's scale. Revenue reached $2.7 billion in its fiscal second quarter of 2027 (ended Aug. 1), and data center revenue grew 46%.\n\nStory Continues\n\nAnd CEO Matt Murphy now expects about $18 billion of revenue in fiscal 2028, up from around $12 billion this fiscal year, with the custom business more than doubling along the way.\n\nMarvell is also the most expensive of the four, at about 33 times its expected fiscal 2028 earnings. That price-to-earnings multiple only works if the design wins behind those forecasts keep ramping on time.\n\nMicron: the cheapest, and the most cyclical\n\nMicron sells the memory all of that AI hardware depends on, and right now that is arguably the supply chain's most profitable place. Revenue in its fiscal third quarter of 2026 (ended May 28) came to $41.5 billion, over four times the year-earlier total. Its non-GAAP (adjusted) gross margin reached 84.9%, up from 39% a year earlier. And guidance for the fiscal fourth quarter, which ended in early September, calls for about $50 billion of revenue.\n\nYet at about $928 as of this writing, shares cost only about 6 times analysts' fiscal 2027 earnings estimates, the group's lowest price-to-earnings multiple by far. In other words, investors are already betting these margins shrink. After all, memory prices have cycled for decades, and I think some of that doubt is fair.\n\nSelling a business earning at this level seems premature. But this deep into memory's profitable stretch, I wouldn't put new money in at today's price, either.\n\nThe ones I'd buy today\n\nWhich of these, then, would I buy and hold through 2030?\n\nNvidia and Broadcom are my anchors. Both sit where the supply chain's most durable profits appear to be. And both can grow into their prices if most of the demand they have guided for shows up.\n\nMarvell is a buy as well, though I'd keep it the smallest of the three, because more of its growth still has to convert from bookings into revenue.\n\nOf course, if AI spending turns down hard before 2030, all four stocks could fall together, whatever their valuation multiples. All four fell between 5% and 10% in a single week this month, so a four-year holder should expect stretches far worse than that. I'd buy Nvidia, Broadcom, and Marvell today. Micron, I view as a hold.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-19",
+      "Time": "09:18:01",
+      "Source": "Yahoo奇摩股市",
+      "Title": "央行不跟進聯準會升息、台積電除息秀、華邦電收購英飛凌記憶體事業 本周大事回顧",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%AE%E8%A1%8C%E4%B8%8D%E8%B7%9F%E9%80%B2%E8%81%AF%E6%BA%96%E6%9C%83%E5%8D%87%E6%81%AF-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%99%A4%E6%81%AF%E7%A7%80-%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%94%B6%E8%B3%BC%E8%8B%B1%E9%A3%9B%E5%87%8C%E8%A8%98%E6%86%B6%E9%AB%94%E4%BA%8B%E6%A5%AD-%E6%9C%AC%E5%91%A8%E5%A4%A7%E4%BA%8B%E5%9B%9E%E9%A1%A7-011801446.html",
+      "Content": "美國聯準會周三(16日)宣布升息1碼，台灣央行則不跟進，利率連10凍；台積電周三除息，當日即完成填息；華邦電周三宣布，以356億元收購英飛凌旗下NOR Flash及相關記憶體事業標的公司100%股權，以下為本周大事回顧：\n\n〈央行理監事會〉利率連10凍、對房市鬆綁 楊金龍不跟進美國升息：走自己的路\n\n儘管美國聯準會甫宣布升息1碼(25個基點)，台灣是否跟進引發國內各界討論，但台灣央行周四 (17日) 召開第三季理監事會議，仍宣布利率「連 10 凍」，央行總裁楊金龍說，「我們走我們的路」；同時，此次央行放鬆對房市的選擇性信用管制措施，調整自然人第2戶購屋貸款最高成數上限，由6成調升為7成。\n\n台積電除息7元 填息後攻上2400元\n\n台積電( 2330-TW )周三(16日)進行除息，每股配發現金股利7元，除息參考價為2378元，當天盤中完成填息後，一路走高，周五以2460元作收，順利展開填息行情。台積電自2019年改採季配息以來，歷次除息均順利完成填息，當中更有22次於除息當日填息完畢，加上今日紀錄，共有23次於除息當日填息完畢。\n\n華邦電砸356億元收購英飛凌記憶體事業 Spansion品牌復活\n\n華邦電( 2344-TW )周三(16日)召開重訊記者會宣布海外併購案，與英飛凌旗下Infineon Technologies LLC簽署股份購買協議，以全現金方式取得英飛凌旗下NOR Flash及相關記憶體事業標的公司100%股權，基礎交易價格達11.2億美元，折合 新台幣 約356.23億元，預計2027年下半年完成交易，收購完畢後，標的公司將以「Spansion」為名，延續該品牌價值。\n\n大立光再砸11.72億元購入台中精密機械園區土地廠房\n\n光學元件廠大立光 ( 3008-TW )繼在台中工業區購地接連出手後，並在精密機械園區持續購地，大立光周四(17日)公布以11.72億元在精密機械園區內取得產業用不動產，賣方爲台灣固而美工業。\n\nSOGO大巨蛋商場今開幕 遠東徐國安到場喊拚零售創新\n\n遠東SOGO大巨蛋商場Garden City周三(16日)正式開幕，董事長黃晴雯表示，試營運至今近一個月，業績較預期高出2成，全年業績有望達百億元目標，儘管緊鄰東區商圈和既有的忠孝SOGO和復興SOGO，客源並未受排擠，反而大巨蛋商場有效為SOGO導入更多年輕客源。\n\n電價續凍漲！審議會拍板優先爭取政府711億補助 費率延至12月併審\n\n經濟部周五(18日)召開115年第2次電價費率審議會，會",
+      "Language": "zh"
     },
     {
       "Ticker": "2303.TW",
@@ -823,6 +953,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-18",
+      "Time": "18:49:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資狂掃869億第5大！「這2檔」記憶體爆吃7萬張 竟反手對它開殺戒",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E7%8B%82%E6%8E%83869%E5%84%84%E7%AC%AC5%E5%A4%A7-%E9%80%992%E6%AA%94-%E8%A8%98%E6%86%B6%E9%AB%94%E7%88%86%E5%90%837%E8%90%AC%E5%BC%B5-%E7%AB%9F%E5%8F%8D%E6%89%8B%E5%B0%8D%E5%AE%83%E9%96%8B%E6%AE%BA%E6%88%92-104904219.html",
+      "Content": "受美國升息利空出盡激勵，周四美股強勢反彈，帶動台股今（18）日飆漲892點（1.9%），收在全天最高點47180點，順利站回所有均線之上，成交金額衝破1兆750億元。儘管外資狂買近870億元，創下單日第5大買超紀錄，華邦電、南亞科掃貨逾7萬張，卻反手大砍面板龍頭廠友達逾5萬張，讓超過61萬名股東相當錯愕。\n\n三大權值股領軍走揚\n\n台股今日開高走高，同步收周線，本周累計大漲995.9點，周漲幅約2.16%。三大權值股表現亮眼，台積電上漲35元，收在 2460 元；聯發科大漲210元，收在4710 元；台達電上漲50 元，以1735元作收。\n\n籌碼面部分，三大法人今日同步站在買方，外資買超869.94億元，連續第2個交易日加碼，改寫史上單日第5大買超紀錄；投信、自營商分別買超52.89億元及243.03億元。\n\n觀察外資買超動向，前10名主要青睞主動型ETF與半導體族群，其中主動統一升級50（00403A）獲加碼10.2萬張奪冠，力積電以7.7萬張居次；其餘依序為主動統一台股增長（00981A）5.4萬張、華邦電4.2 萬張、南亞科3.2 萬張、聯電2.8 萬張、主動富邦台灣龍耀（ 00405A）2.7萬張、元大台灣50正2（00631L）2.4 萬張、京元電子2.1 萬張及主動國泰動能高息（00400A）1.6 萬張。\n\n面板、金融股淪賣超重災區\n\n賣超部分，面板與金融股淪為提款重災區。賣超榜首為友達，遭調節 5.2 萬張；臺企銀與群創分別被砍 2.3 萬張與 2.2 萬張；其餘入列前10名的還有群益台灣精選高息（00919）1.8 萬張、玉山金1.7 萬張、元大台灣50（0050 ）1.6萬張、和益1.3 萬張，以及彰銀、長榮航與南亞，各遭調節約1.1萬張至1.0 萬張。\n\n法人分析指出，中小型股為主的櫃買指數走勢更強於大盤，隨著市場不確定因素相繼排除，交投量能逐日回溫，後續可留意季底法人作帳行情。只要大盤短線未跌破5日均線，整體趨勢仍可維持偏多操作。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".N225",
       "Date": "2026-09-18",
       "Time": "18:00:14",
@@ -830,6 +970,16 @@
       "Title": "升息過後為何日元摔、日股漲？解析日銀決策被解讀不夠鷹派的三大關鍵",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8D%87%E6%81%AF%E9%81%8E%E5%BE%8C%E7%82%BA%E4%BD%95%E6%97%A5%E5%85%83%E6%91%94-%E6%97%A5%E8%82%A1%E6%BC%B2-%E8%A7%A3%E6%9E%90%E6%97%A5%E9%8A%80%E6%B1%BA%E7%AD%96%E8%A2%AB%E8%A7%A3%E8%AE%80%E4%B8%8D%E5%A4%A0%E9%B7%B9%E6%B4%BE%E7%9A%84%E4%B8%89%E5%A4%A7%E9%97%9C%E9%8D%B5-100014390.html",
       "Content": "日本銀行(央行，BOJ)周五(18日)將升息1碼(25個基點)至1.25%，利率創1995年以來最高，且升息間隔從之前的六個月縮短為三個月。儘管升息步調加快，日本金融市場卻出現違反直覺的走勢：日元走弱、10年期日本公債殖利率下滑，日經225指數上漲。\n\n分析師指出，日銀理事會表決出現兩張反對升息票，加上本次升息並未同步公布最新經濟展望，都讓市場解讀日銀不夠鷹派。\n\n目前市場預期，日銀可能在12月左右再次升息，但對利率最終將升至多高卻看法不一。\n\n升息通常會帶動一國貨幣上揚、推升債券殖利率，並對股市造成壓力，但日本的貨幣、債券殖利率與股市周五卻出現完全相反的走勢。截稿前，日元跌破157日元兌1美元，10年期日本政府公債殖利率下滑，日經225指數收盤上漲1.4%。\n\n升息決策7票對2票 市場解讀不夠鷹派\n\n專家指出，日銀理事會出現分歧，是市場出現非典型反應的原因，因為這顯示日本央行可能不會採取過於鷹派的立場。\n\n日本銀行三井住友銀行(SMBC)首席外匯策略師Hirofumi Suzuki說：「兩票反對升息、主張維持利率不變，令人感到意外。」\n\n本次升息決策以七票對兩票通過，理事淺田統一郎(Toichiro Asada)與佐藤綾野(Ayano Sato)投下反對票，他們是由首相高市早苗今年稍早任命、被視為恢復通膨派的人馬。\n\n佐藤綾野指出，由於核心通膨率低於2%，經濟情勢可能還不夠強勁，因此主張維持利率不變。日本8月核心通膨率微降至1.7%，低於7月的1.8%。\n\n淺田統一郎也表示，與先前相比，目前經濟與物價發展似乎沒有大幅加速。\n\n未同步更新經濟展望\n\n道富投資管理公司(State Street Investment Management)資深固定收益策略師Masahiko Loo指出，此次升息未同步公布更新版的經濟展望報告，也是市場反直覺回應的原因之一，因為這限制了日銀透過調整預測來強化鷹派訊息的能力。\n\n牛津經濟學(Oxford Economics)日本經濟主管Shigeto Nagai認同這項看法，他表示，兩名反對升息的理事傳遞的訊號是，高市早苗並未確定接受美國要求日本加快升息的主張。\n\n路透周五報導，美國財長貝森特(Scott Bessent)5月與日本財務大臣片山皋月(Satsuki Katayama)會面時，曾強調日銀需要提高利率。\n\nNagai進一步補充說：「其次，如果我們觀察聲明，所有措辭與語氣幾乎都與7月公布的季度展望報告相同，因此語氣不像金融市場原本期待的那麼鷹派。」\n\n利率還能升多少？\n\n專家目前認為，日銀可能在12月左右再次升息。\n\n道富的Loo表示，他預期日銀總裁植田和男將強調，未來每一次政策會議都仍然「有可能升息」。他說：「如今爭論的已經不是日銀是否升息，而是利率最終會升到多高。」\n\n日銀表示，隨著經濟與物價情勢發展，將持續調升利率。不過，日銀也承認，中東衝突推升油價，可能導致經濟成長放緩。\n\n<p class=\"mb-module-gap",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-18",
+      "Time": "17:47:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資期現貨用力做多 買超869億元史上第5大 全周仍賣超184億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E6%9C%9F%E7%8F%BE%E8%B2%A8%E7%94%A8%E5%8A%9B%E5%81%9A%E5%A4%9A-%E8%B2%B7%E8%B6%85869%E5%84%84%E5%85%83%E5%8F%B2%E4%B8%8A%E7%AC%AC5%E5%A4%A7-%E5%85%A8%E5%91%A8%E4%BB%8D%E8%B3%A3%E8%B6%85184%E5%84%84%E5%85%83-094753656.html",
+      "Content": "台北股市今 (18) 日在各不確定性消除之後，大盤終場以上漲892.75點收盤，報47180.75點，成交值逾1.07兆元，龐大量能潮補足昨日未能站穩4700點遺憾。外資在期貨、現貨同步做多，買超869.94億元創台股中第5大買超，加碼個股以記憶體族群爲主。儘管外資連續2日買超共991.79億元，全周仍賣超184.64億元。\n\n今天外資買超的的記憶體族群重要個股包括，力積電(6770-TW)、華邦電(2344-TW)、南亞科(2408-TW)、旺宏(2337-TW)，今天外資買超力積電77685張，對華邦電由賣轉在今天買超42774張，外資對旺宏也是由賣轉買，外資今天買超旺宏9853張。外資今天買超南亞科32233張。\n\n在台北匯市方面，9月18日新台幣兌美元匯率以31.808元作收、升值7.3分，成交金額30.4億美元。上午新台幣以31.860元開出，盤中最高31.722元，最低31.860元；本週貶0.54%。\n\n今天三大法人買超1165.86億元，外資買超869.94億元，投信買超52.89億元，自營商買超243.03億元；同時外資在期貨市場，交易口數淨額爲多單2521口，未平倉淨額爲空單75110口。\n\n今天外資在集中市場買超較多的個股爲，力積電、華邦電、南亞科、聯電、京元電子、南茂、矽格、旺宏、元大金；賣超較多的個股爲，友達、臺企銀、群創、玉山金、和益、彰銀、長榮航、南亞、益航、藥華藥。\n\n今天投信在集中市場買超較多的個股爲，聯電、長榮航、藥華藥、廣達、興富發、南亞科、力積電、友達、緯創、寶成；賣超較多的個股爲，國泰金、元大金、兆豐金、華南金、力成、台新新光金、世芯-KY、富邦金、遠東新、合庫金。\n\n今天自營商在集中市場買超較多的個股爲，力積電、聯電、華邦電、友達、益航、京元電、南茂；賣超較多的個股爲，群創、光鼎、聯嘉投控、皇普、可寧衛、億光、臻鼎-KY、致伸、台勝科、中華化。\n\n對今天台股的盤勢，資深證券分析師簡伯儀指出，OTC更強大甚於集中市場走勢，台股量能逐日放大，目前在各項不確定因素排除後，接下來將再觀察季底的法人作帳行情，在5日線未遭跌破之前，投資人對台股仍是以偏多操作爲主。",
       "Language": "zh"
     },
     {
@@ -913,6 +1063,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-18",
+      "Time": "14:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股大漲892點！尾盤爆2585億天量 原因找到了",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2892%E9%BB%9E-%E5%B0%BE%E7%9B%A4%E7%88%862585%E5%84%84%E5%A4%A9%E9%87%8F-%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86-060300250.html",
+      "Content": "受富時台灣指數調整，台股今（18）日開高走高，終場上漲892點，來到47180點收最高，重返47000點榮耀，漲幅1.93%，成交量來到1.07兆元，資金集中於記憶體、PCB、被動元件族群。\n\n富時台灣指數系列由台灣證交所與國際指數編製機構富時羅素（FTSE Russell）合作編製，為外資衡量台股權重、配置資金的重要參考依據，每年於3、6、9、12月審核4次。\n\n本次調整今日盤後生效，尾盤大單拉抬以記憶體族群為首，南亞科1萬7717張、華邦電1萬8552張、旺宏2萬3211張，力積電2萬5997張，權值股台積電2萬247張、聯電3萬140張、南亞1萬8773張，友達也有3萬4528張。\n\n股價部分，台積電收2460元，上漲35元，漲幅1.44%，聯發科來到4710元，上漲210元，漲幅4.67%，鴻海收平盤250.5元，聯電則上漲5.76%，收156元。\n\n記憶體族群中，創意收漲停來到7150元，華邦電來到179.5元，上漲5.59%，南亞科來到525元，上漲7.58%，旺虹、力積電上漲逾3%，群聯大漲逾8%，晶豪科也有逾4%的漲幅。\n\nPCB、被動元件族群也有不錯的表現。PCB中，晟鈦、尚茂收漲停，金像電大漲逾7%，富喬上漲6%，台光電、華通、欣興、德宏、金居也有逾4%的漲幅；被動元件中，艾華、今展科收漲停，華新科、禾伸堂、臺慶科、勤凱、國巨、立隆電、日電貿也有逾3~4%的漲幅。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-18",
+      "Time": "13:32:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "焦點股：NOR Flash十年最大缺貨潮+併購題材，華邦電股價醞釀再攻",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%84%A6%E9%BB%9E%E8%82%A1-nor-flash%E5%8D%81%E5%B9%B4%E6%9C%80%E5%A4%A7%E7%BC%BA%E8%B2%A8%E6%BD%AE-%E4%BD%B5%E8%B3%BC%E9%A1%8C%E6%9D%90-%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%82%A1%E5%83%B9%E9%86%9E%E9%87%80%E5%86%8D%E6%94%BB-053227228.html",
+      "Content": "【財訊快報／研究員周佳蓉】研調機構預估，NOR Flash市場正迎來十年來最重大的供需結構轉型。受AI需求排擠產能影響，預計2026年下半年供需失衡狀況仍將持續，合約價將維持高檔，高容量產品價格甚至有望翻倍成長。作為全球最大的NOR Flash廠，華邦電(2344)宣布將斥資11.2億美元，收購英飛凌旗下NOR Flash及相關記憶體事業100%股權，打破以往多是由台廠被併購紀錄，更將復活Spansion品牌。基於華邦電原本消費應用佔比較大，而英飛凌NOR Flash產品線以中高容量為主，將有利於華邦電朝向車規與高階工業應用，完善Nor Flash的布局版圖。法人多樂觀看待此併購效應，惟併購相關貢獻將到2027年才會開始發酵。技術指標來看，KD剛從低檔翻揚，成交量緩步墊高，後續若能有明顯放量，將有利後續挑戰前高。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".N225",
       "Date": "2026-09-18",
       "Time": "10:39:00",
@@ -920,6 +1090,16 @@
       "Title": "《日股早盤》5連休、日經漲525點 半導體嗨",
       "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1%E6%97%A9%E7%9B%A4-5%E9%80%A3%E4%BC%91-%E6%97%A5%E7%B6%93%E6%BC%B2525%E9%BB%9E-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%97%A8-023900987.html",
       "Content": "MoneyDJ新聞 2026-09-18 10:39:51 蔡承啟 發佈\n\n因美國半導體相關股昨日(17日)走揚，日本AI、半導體相關股聞訊揚升，激勵日經225指數18日以紅盤開出後，一度大漲逾700點，早盤收盤(台北時間上午10點30分)漲0.82%或漲525.86點，暫收64,662.11點。\n\n日本股市自明日(9月19日)起將連休5天，下週一～三(9月21-23日)將因「敬老日」、「國民假日(因剛好夾在兩個國定假日之間)」、「秋分」進行休市。\n\n東證股價指數(TOPIX)早盤收盤跌0.44%或跌17.81點，暫收4,076.38點。\n\n截至早盤收盤為止，東證Prime上漲家數387家、下跌家數1,112家、維持平盤家數49家。東證Prime成交額為3兆6,187億日圓。\n\n就類股表現來看，截至早盤收盤為止，全部33類股中、有6類股上漲，其中以非鐵金屬類股漲幅最大，其次依序為電機業、金屬製品和玻璃土石製品。\n\n根據MoneyDJ XQ全球贏家系統的報價顯示，截至日本股市18日早盤收盤(台北時間上午10點30分)為止，日圓相對於美元匯率貶值0.13%至156.17日圓兌1美元；日圓相對於美元匯率17日升值0.26%，4個交易日來首度走升。\n\n就個股表現來看，NAND Flash廠鎧俠(Kioxia)早盤飆漲4.17%、晶片設備巨擘東京威力科創(TEL)早盤大漲2.71%、測試設備商愛德萬測試(Advantest)早盤飆漲5.19%、生產AI資料中心用光纖的Fujikura早盤漲1.21%、光纖廠古河電工(Furukawa Electric)早盤漲2.05%。\n\n關於日本對美投資計劃，最新傳出日美已進行協商，計畫在美國興建半導體工廠，並將委由晶圓代工業者GlobalFoundries(GF)負責營運。日本企業有望在半導體製造設備供應及穩定採購產品等方面受惠。\n\n(圖片來源：Shutterstock)\n\n＊編者按：本文僅供參考之用，並不構成要約、招攬或邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力，自行作出投資決定，如因相關建議招致損失，概與《精實財經媒體》、編者及作者無涉。\n\n《日股早盤》AI飆、日經彈升225點；商社漲\n\n《強勢美股特報》LITE,GLW,COHR,CIEN等10檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-18",
+      "Time": "09:08:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電8/19~9/17取得新唐2,898張，計約3.32億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB8-19-9-17%E5%8F%96%E5%BE%97%E6%96%B0%E5%94%902-898%E5%BC%B5-010800983.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2344)華邦電-本公司取得有價證券\n\n1.證券名稱:新唐科技股份有限公司普通股\n\n2.交易日期:115/8/19~115/9/17\n\n3.董事會通過日期: 民國115年8月6日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n1.交易單位數量：2,898,000股\n\n2.每單位價格：每股新台幣114.49元\n\n3.交易總金額：新台幣331,778,468元\n\n6.處分利益（或損失）（取得有價證券者不適用）:不適用\n\n7.與交易標的公司之關係:本公司為交易標的公司之母公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n累積持有數量：224,452,635股 金額：新台幣5,798,973仟元\n\n持股比例：49.61% 權利受限情形：無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:44.7% 占歸屬於母公司業主之權益之比例:70%(詳其他敘明事項)\n\n最近期財務報表中營運資金數額：新台幣14,242,402仟元\n\n10.取得或處分之具體目的:為集團長期穩健發展\n\n11.本次交易表示異議董事之意見:不適用\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:民國115年8月6日\n\n15.前已就同一件事件發布重大訊息日期:補充115年08月06日公告\n\n16.其他敘明事項:\n\n迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例包含本公司115年9月16日公告取得Infineon Technologies LLC旗下NOR Flash與F-RAM事業經重組後之100%股權，交易總金額約為美金1,120,000,000元（美金兌新臺幣匯率以31.6估算，約新台幣35,392,000,000元），惟本交易尚須依法取得相關主管機關之核准、許可、同意、備查或申報程序（如適用），並達成或經合法豁免Stock Purchase Agreement約定之各項交割先決條件。\n\n日美洽談在美建晶片廠，供應鏈重整聚焦規模、製程與電力三變數\n\n季底作帳 世界、台塑、鴻海等17檔集團股外資打包 「這類股」補漲有望\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -951,6 +1131,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/marvell-jumps-5-2-ai-180702375.html",
       "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology ( NASDAQ:MRVL ), the AI-connectivity and custom-silicon supplier, secured more U.S. manufacturing muscle for its optical-networking push Thursday, Reuters reported. Shares jumped approximately 5.2% to $241.67 as investors weighed another piece of infrastructure behind the AI data-center buildout.\n\nWarning! GuruFocus has detected 3 Warning Sign with MRVL.\n\nIs MRVL fairly valued? Test your thesis with our free DCF calculator.\n\nThe multiyear agreement with GlobalFoundries expands silicon-germanium manufacturing capacity at its Vermont facility, giving Marvell additional supply for pluggable transceivers, near-packaged optics and co-packaged optics. Those technologies attack a growing AI bottleneck: moving enormous amounts of data between increasingly powerful chips without letting connectivity choke system performance. Neither company disclosed the added capacity, minimum purchase commitments or financial value of the agreement, leaving the size of the near-term earnings impact unclear.\n\nThe bigger backdrop remains Marvell's accelerating data-center business. Its latest quarter generated $2.74 billion in revenue, while data-center sales surged 46%. The valuation picture is far less forgiving: the chart puts Marvell's $241.67 share price 101.69% above its $119.82 GF Value, meaning the market is already pricing in a substantial amount of future growth. Extra manufacturing capacity can protect Marvell from an optical-supply squeeze, but investors will still need stronger shipment volumes and margins to prove that more capacity translates into enough profit to support that premium.\n\nMRVL GF Value chart\n\nMRVL GF Value chart The multiyear agreement with GlobalFoundries expands silicon-germanium manufacturing capacity at its Vermont facility, giving Marvell additional supply for pluggable transceivers, near-packaged optics and co-packaged optics. Those technologies attack a growing AI bottleneck: moving enormous amounts of data between increasingly powerful chips without letting connectivity choke system performance. Neither company disclosed the added capacity, minimum purchase commitments or financial value of the agreement, leaving the size of the near-term earnings impact unclear.\n\nThe bigger backdrop remains Marvell's accelerating data-center business. Its latest quarter generated $2.74 billion in revenue, while data-center sales surged 46%. The valuation picture is far less forgiving: the chart puts Marvell's $241.67 share price 101.69% above its $119.82 GF Value, meaning the market is already pricing in a substantial amount of future growth. Extra manufacturing capacity can protect Marvell from an optical-supply squeeze, but investors will still need stronger shipment volumes and margi\n\nMarvell Jumps 5.2% as AI Optics Win More U.S. Capacity · us.finance.gurufocus\n\nMarvell Jumps 5.2% as AI Optics Win More U.S. Capacity · us.finance.gurufocus The bigger backdrop remains Marvell's accelerating data-center business. Its latest quarter generated $2.74 billion in revenue, while data-center sales surged 46%. The valuation picture is far less forgiving: the chart puts Marvell's $241.67 share price 101.69% above its $119.82 GF Value, meaning the market is already pricing in a substantial amount of future growth. Extra manufacturing capacity can protect Marvell from an optical-supply squeeze, but investors will still need stronger shipment volumes and margins to prove that more capacity translates into enough profit to support that premium.\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-09-17",
+      "Time": "22:23:52",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】華邦電取得有價證券",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%8F%96%E5%BE%97%E6%9C%89%E5%83%B9%E8%AD%89%E5%88%B8-142352157.html",
+      "Content": "日　　期：2026年09月17日\n\n公司名稱：華邦電 (2344)\n\n主　　旨：華邦電取得有價證券\n\n發言人：范祥雲\n\n說　　明：\n\n1.證券名稱:\n\n新唐科技股份有限公司普通股\n\n2.交易日期:115/8/19~115/9/17\n\n3.董事會通過日期: 民國115年8月6日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n1.交易單位數量：2,898,000股 2.每單位價格：每股新台幣114.49元\n\n3.交易總金額：新台幣331,778,468元\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n本公司為交易標的公司之母公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n累積持有數量：224,452,635股 金額：新台幣5,798,973仟元\n\n持股比例：49.61% 權利受限情形：無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n占總資產比例:44.7% 占歸屬於母公司業主之權益之比例:70%(詳其他敘明事項)\n\n最近期財務報表中營運資金數額：新台幣14,242,402仟元\n\n10.取得或處分之具體目的:\n\n為集團長期穩健發展\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n民國115年8月6日\n\n15.前已就同一件事件發布重大訊息日期:\n\n補充115年08月06日公告\n\n16.其他敘明事項:\n\n迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n包含本公司115年9月16日公告取得Infineon Technologies LLC旗下NOR Flash與\n\nF-RAM事業經重組後之100%股權，交易總金額約為美金1,120,000,000元（美金兌新\n\n臺幣匯率以31.6估算，約新台幣35,392,000,000元），惟本交易尚須依法取得相關\n\n主管機關之核准、許可、同意、備查或申報程序（如適用），並達成或經合法豁免\n\nStock Purchase Agreement約定之各項交割先決條件。",
+      "Language": "zh"
     },
     {
       "Ticker": "MRVL",
@@ -1030,6 +1220,46 @@
       "Title": "Fed升息1碼市場關注美最新經濟數據　日股收高",
       "URL": "https://tw.stock.yahoo.com/news/fed%E5%8D%87%E6%81%AF1%E7%A2%BC%E5%B8%82%E5%A0%B4%E9%97%9C%E6%B3%A8%E7%BE%8E%E6%9C%80%E6%96%B0%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A-%E6%97%A5%E8%82%A1%E6%94%B6%E9%AB%98-073319166.html",
       "Content": "（中央社東京2026年09月17日綜合外電報導）美國聯邦準備理事會（Fed）決議升息1碼，波及美股收低。儘管如此，日本股市今天收高，市場投資人關注美國本週將公布的經濟數據。\n\n日股基準日經指數收漲213.25點或0.3%，收在64136.25點。\n\n東證股價指數收漲32.47點或0.80%，收在4094.19點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3006.TW",
+      "Date": "2026-09-17",
+      "Time": "15:31:48",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】晶豪科(更正115/09/01公告)代子公司誠風投資（股）公司公告取得有價證券",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91-%E6%9B%B4%E6%AD%A3115-09-01%E5%85%AC%E5%91%8A-073148880.html",
+      "Content": "日　　期：2026年09月17日\n\n公司名稱：晶豪科 (3006)\n\n主　　旨：(更正115/09/01公告)代子公司誠風投資（股）公司公告取得有價證券\n\n發言人：吳鴻基\n\n說　　明：\n\n1.證券名稱:\n\n晶豪科技股份有限公司普通股\n\n2.交易日期:115/9/1~115/9/1\n\n3.董事會通過日期: 民國115年8月31日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量：1,660,000股\n\n每股平均價格：新台幣270.00元\n\n交易總金額：新台幣448,200仟元\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n母子公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n數量：3,952,985股\n\n金額：1,018,126仟元\n\n持股比例：1.33%\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n占總資產比例:3.39%\n\n占母公司業主之權益比例:5.36%\n\n營運資金:新台幣17,214,168仟元\n\n10.取得或處分之具體目的:\n\n為提高本公司之資金運用效益\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n15.前已就同一件事件發布重大訊息日期:\n\n115/09/01\n\n16.其他敘明事項:\n\n更正董事會通過日期\n\n更正本次交易為關係人交易及交易相對人及其與公司之關係\n\n更正迄目前為止：數量、金額及持股比例\n\n更正迄目前為止：佔總資產比例及占母公司業主之權益比例",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3006.TW",
+      "Date": "2026-09-17",
+      "Time": "15:30:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】晶豪科(更正115/09/04公告)代子公司誠風投資（股）公司公告取得有價證券",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91-%E6%9B%B4%E6%AD%A3115-09-04%E5%85%AC%E5%91%8A-073046011.html",
+      "Content": "日　　期：2026年09月17日\n\n公司名稱：晶豪科 (3006)\n\n主　　旨：(更正115/09/04公告)代子公司誠風投資（股）公司公告取得有價證券\n\n發言人：吳鴻基\n\n說　　明：\n\n1.證券名稱:\n\n晶豪科技股份有限公司普通股\n\n2.交易日期:115/9/4~115/9/4\n\n3.董事會通過日期: 民國115年9月3日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量：1,600,000股\n\n每股平均價格：新台幣280.00元\n\n交易總金額：新台幣448,000仟元\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n母子公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n數量：5,552,985股\n\n金額：1,466,126仟元\n\n持股比例：1.86%\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n占總資產比例:4.87%\n\n占母公司業主之權益比例:7.72%\n\n營運資金:新台幣17,214,168仟元\n\n10.取得或處分之具體目的:\n\n為提高本公司之資金運用效益\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n15.前已就同一件事件發布重大訊息日期:\n\n115/09/04\n\n16.其他敘明事項:\n\n更正董事會通過日期\n\n更正與交易標的公司之關係\n\n更正迄目前為止：數量、金額及持股比例\n\n更正迄目前為止：占總資產比例及占母公司業主之權益比例",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3006.TW",
+      "Date": "2026-09-17",
+      "Time": "15:30:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】晶豪科(更正115/09/07公告)代子公司誠風投資（股）公司公告取得有價證券",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91-%E6%9B%B4%E6%AD%A3115-09-07%E5%85%AC%E5%91%8A-073043216.html",
+      "Content": "日　　期：2026年09月17日\n\n公司名稱：晶豪科 (3006)\n\n主　　旨：(更正115/09/07公告)代子公司誠風投資（股）公司公告取得有價證券\n\n發言人：吳鴻基\n\n說　　明：\n\n1.證券名稱:\n\n晶豪科技股份有限公司普通股\n\n2.交易日期:115/9/7~115/9/7\n\n3.董事會通過日期: 民國115年9月4日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量：1,082,941股\n\n每股平均價格：新台幣301.00元\n\n交易總金額：新台幣325,965仟元\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n母子公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n數量：6,635,926股\n\n金額：1,792,091仟元\n\n持股比例：2.23%\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n占總資產比例:5.96%\n\n占母公司業主之權益比例:9.43%\n\n營運資金:新台幣17,214,168仟元\n\n10.取得或處分之具體目的:\n\n為提高本公司之資金運用效益\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n15.前已就同一件事件發布重大訊息日期:\n\n115/09/07\n\n16.其他敘明事項:\n\n更正董事會通過日期\n\n更正與交易標的公司之關係\n\n更正迄目前為止：數量、金額及持股比例\n\n更正迄目前為止：占總資產比例及占母公司業主之權益比例",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3006.TW",
+      "Date": "2026-09-17",
+      "Time": "15:19:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】晶豪科(更正115/08/25公告)代子公司誠風投資（股）公司公告取得有價證券",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%B6%E8%B1%AA%E7%A7%91-%E6%9B%B4%E6%AD%A3115-08-25%E5%85%AC%E5%91%8A-071945222.html",
+      "Content": "日　　期：2026年09月17日\n\n公司名稱：晶豪科 (3006)\n\n主　　旨：(更正115/08/25公告)代子公司誠風投資（股）公司公告取得有價證券\n\n發言人：吳鴻基\n\n說　　明：\n\n1.證券名稱:\n\n晶豪科技股份有限公司普通股\n\n2.交易日期:115/8/24~115/8/25\n\n3.董事會通過日期: 民國115年8月21日\n\n4.其他核決日期: 不適用\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量：2,292,985股\n\n每股平均價格：新台幣248.55元\n\n交易總金額：新台幣569,926仟元\n\n6.處分利益（或損失）（取得有價證券者不適用）:\n\n7.與交易標的公司之關係:\n\n母子公司\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股\n\n比例及權利受限情形（如質押情形）:\n\n數量：2,292,985股\n\n金額：569,926仟元\n\n持股比例：0.77%\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投\n\n資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例\n\n暨最近期財務報表中營運資金數額:\n\n占總資產比例:1.89%\n\n占母公司業主之權益比例:3%\n\n營運資金:新台幣17,214,168仟元\n\n10.取得或處分之具體目的:\n\n為提高本公司之資金運用效益\n\n11.本次交易表示異議董事之意見:\n\n12.本次交易為關係人交易:\n\n13.交易相對人及其與公司之關係:\n\n14.監察人承認或審計委員會同意日期:\n\n15.前已就同一件事件發布重大訊息日期:\n\n115/08/25\n\n16.其他敘明事項:\n\n更正董事會通過日期\n\n更正本次交易為關係人交易及交易相對人及其與公司之關係",
       "Language": "zh"
     },
     {
