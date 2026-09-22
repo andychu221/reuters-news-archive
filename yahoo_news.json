@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T16:33:03.984Z",
-  "total_news_count": 394,
+  "last_updated": "2026-09-22T16:33:14.564Z",
+  "total_news_count": 395,
   "news": [
     {
       "Ticker": "META",
@@ -73,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MRVL, LITE",
+      "Ticker": "LITE",
       "Date": "2026-09-22",
       "Time": "23:37:00",
       "Source": "Yahoo Finance",
@@ -470,6 +470,16 @@
       "Title": "Meta bull case increasingly playing out, Mizuho says",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-bull-case-increasingly-playing-123448022.html",
       "Content": "Investing.com -- Mizuho said in a note Tuesday that its bullish thesis on Meta Platforms is increasingly playing out, pointing to rapid adoption of its Muse AI agent ahead of the company's Connect event.\n\nStill guessing which names to buy? Our AI rebuilds its stock picks at the start of every month. The list is beating the market by 120%. See what's on it »\n\nAnalyst Lloyd Walmsley, who rates Meta Outperform with a $750 price target, said \"the Meta bull case increasingly playing out,\" with Muse quickly becoming the No. 1 free app in the app store, reportedly 730,000 downloads in five days and 2.5 million cumulatively by Sept. 21.\n\nWalmsley said Meta Connect, on Sept. 23-24, should move the Muse story \"from app adoption to platform creation,\" with the likely headline being Muse on Meta's glasses, combining its AI agent with wearables in what he called the clearest consumer AI use case yet.\n\nHe expects the event to showcase the convergence of hardware, model, agent and commerce.\n\nShould you buy NVIDIA right now? Before you decide, consider this: an AI-powered list of stock picks is outperforming the market by 120%, and it updates at the start of every month. See this month's picks »\n\nHe highlighted Meta's new Connector Platform, opened to third-party developers on Sept. 18, as setting the stage for transaction-based monetization, potentially via a take rate on businesses wanting to reach Muse users.\n\nShopify has activated checkout within Muse, joining Stripe, while Amazon has blocked Muse, which Walmsley said validates its growing scale.\n\nThe analyst noted Chief Executive Mark Zuckerberg has signaled the model will evolve toward Meta taking a share of the value Muse creates, raising the potential to disintermediate Google search, online travel agents and e-commerce advertising.\n\nHe also flagged risks from possible competing products, but noted Meta trades at 22 times 2027 earnings, below Alphabet's 30 times at peak \"Gemini mania.\"\n\nLooking for the next multi-bagger? This AI enabler is up 90%+ since picked by our AI models in July -- and still has a 62% upside »",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ARM",
+      "Date": "2026-09-22",
+      "Time": "20:34:19",
+      "Source": "Yahoo Finance",
+      "Title": "Arm Just Got a Major Vote of Confidence From Its CEO",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/arm-just-got-major-vote-123419524.html",
+      "Content": "This article first appeared on GuruFocus .\n\nArm Holdings ( ARM , Financials ) the chip architecture business whose designs power processors throughout the technology world, was one of the biggest movers of the year Monday.Shares rose 17% to $323 after CEO Rene Haas told CNBC demand for the company's technology was off the charts. More crucially, Haas said he's getting more convinced Arm can surpass its $2 billion revenue target for its developing AGI CPU business.That goal has already moved fast. Arm started in March with an initial target of $1 billion, then increased it to $2 billion in May and continued to pump up its confidence through the summer. By September, Haas said, the pipeline was above that level.And there's a reason investors are taking notice. Nvidia's Vera CPU, Google's Axion, Amazon's Graviton5, and Microsoft's Azure Cobalt all use Arm-based computation, putting the company in line with the expanding trend of CPUs coupled with AI accelerators.Haas also referred to supply restrictions on wafers, substrates and testing capacity that could take years to work through. That causes problems but also shows demand is outstripping available capacity.The greater story is Arm trying to move away from its usual licensing arrangement to get more value out of the chips themselves. Monday's surge points to investors increasingly looking at that chance.Next up is Arm's ability to translate the burgeoning AI pipeline into revenues that justify those increased expectations.",
       "Language": "en"
     },
     {
