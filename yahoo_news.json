@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T15:33:05.558Z",
-  "total_news_count": 723,
+  "last_updated": "2026-09-23T15:37:39.237Z",
+  "total_news_count": 724,
   "news": [
     {
       "Ticker": "LITE",
@@ -33,13 +33,23 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, NVDA",
+      "Ticker": "AAPL, MSFT, NVDA",
       "Date": "2026-09-23",
       "Time": "22:46:25",
       "Source": "Yahoo Finance",
       "Title": "Apple Takes AI Fight Straight to Nvidia and Microsoft",
       "URL": "https://finance.yahoo.com/technology/ai/articles/apple-takes-ai-fight-straight-144625209.html",
       "Content": "This article first appeared on GuruFocus .\n\nApple ( NASDAQ:AAPL ) is making an unusually aggressive push into enterprise artificial intelligence , pitching its newest high-end Macs as an alternative to the expensive cloud infrastructure that has helped Nvidia ( NASDAQ:NVDA ) and Microsoft ( NASDAQ:MSFT ) dominate the AI boom.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nThe argument is largely about economics.\n\nApple says businesses can run increasingly sophisticated AI workloads locally on Macs instead of continually paying cloud providers or AI developers for computing capacity measured in tokens. Its upgraded Mac mini and Mac Studio systems are aimed at tasks including software development and complex business workflows. Some configurations can approach $20,000.\n\nApple demonstrated just how far it wants to push that idea at its latest launch event.\n\nThe company connected four Mac Studios and used them to run a trillion-parameter AI model that identified and fixed a graphics coding problem, a workload that would ordinarily require data-center infrastructure. The four-machine setup operated from a single wall outlet.\n\nApple believes its unified-memory architecture and focus on power efficiency give Macs an advantage for running large models locally. The same architecture can also allow developers to move workloads across devices ranging from high-end Mac Studios to iPhones and iPads.\n\nBut Apple is attacking from far behind.\n\nIDC estimates Macs hold only about 4.6% of the enterprise desktop market, compared with 91.3% for Microsoft Windows. Nvidia, meanwhile, remains dominant in data-center AI and is working with PC manufacturers to expand AI capabilities on Windows machines.\n\nInvestor takeaway\n\nApple does not need to replace Nvidia data centers or Windows PCs for this strategy to matter. The opportunity is to establish Macs as a credible middle ground between conventional corporate PCs and expensive cloud AI infrastructure. Investors should watch enterprise Mac adoption, demand for high-memory configurations, developer support and whether local inference becomes economically attractive enough to shift some workloads away from the cloud. Success could give Apple a larger role in enterprise AI while strengthening the Mac business beyond its traditional creative-user base.\n\nAAPL GF Value chart\n\nAAPL GF Value chart The argument is largely about economics.\n\n<p class=\"text text-",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-09-23",
+      "Time": "22:39:57",
+      "Source": "Yahoo Finance",
+      "Title": "Uber: Insider Buying and Selling Activity to Watch Amid Panic After Tesla Cybercab Rollout",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/uber-insider-buying-selling-activity-143957821.html",
+      "Content": "Alarm bells recently went off for Uber Technologies Inc. (NYSE:UBER) after videos showed Tesla Cybercabs hailing automatically. Bears say the Cybercab can eat into Uber's market share, and reports suggest Tesla (NASDAQ:TSLA) driverless rides come in cheaper than Uber rides. The stock recently saw key insider buying and selling activity that you should not miss.\n\nFilings showed CEO Dara Khosrowshahi bought 141,000 shares recently at prices between $70.73 and $71.18. President and COO Andrew Macdonald bought 70,000 shares on September 4 in two blocks priced at $75.65 and $76.44, lifting his holding to about 426,000 shares.\n\nHowever, UBER also saw some insider selling activity. Chief Corporate Officer Jill Hazelbaker sold 28,170 shares at $71.31 each earlier this month.\n\nDon't Miss: Jim Cramer Says He Is \"Worried\" About Uber (UBER)\n\nThe bull case\n\nUber's moat comes from solving a coordination problem that is expensive to rebuild. Riders want a car nearby within minutes, drivers want enough paying trips to make the shift worth it, and Uber matches the two across cities and time slots. A new app faces a cold-start problem because it needs riders to attract drivers and drivers to attract riders at the same time. Uber already has both sides at global scale.\n\nUber is a demand aggregator that can plug in anyone's self-driving fleet, and management said on the last call that robotaxis are live in 7 cities with 15 targeted by year-end and more in 2027. Uber has already launched driverless service in London with Wayve, and it works with Waymo, Rivian, Lucid–Nuro, Pony.ai and WeRide.\n\nPhoto by Zhuo Cheng you on Unsplash\n\nThe bear case\n\nThe risk is that Uber's suppliers change from millions of individual drivers into a handful of large companies. Tesla (TSLA) has opened an interest form for Cybercab fleet buyers and runs its own robotaxi app, which gives it a direct line to customers without paying Uber a cut. If Tesla prices rides below Uber, Uber either drops prices and loses drivers, or absorbs the cut and hands the pain to shareholders. Bears argue the AV partnerships will not protect margins once the technology suppliers gain bargaining power.\n\nValuation\n\nUber Technologies, Inc. (NYSE:UBER) trades at a forward non-GAAP P/E of 21.17, which is 6.65% above the sector median of 19.85 but 29.08% below its own five-year average of 29.85. On a trailing GAAP earnings basis, the stock is at 15.51 times against a sector median of 25.38, or 38.89% cheaper.\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\n<p class=\"text text-block paragraph text-justify neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-n",
       "Language": "en"
     },
     {
