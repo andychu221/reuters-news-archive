@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-23T21:13:37.421Z",
-  "total_news_count": 815,
+  "last_updated": "2026-09-23T21:25:34.391Z",
+  "total_news_count": 816,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-24",
+      "Time": "04:53:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】收低",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E4%BD%8E-205304353.html",
+      "Content": "（中央社台北2026年9月24日電）受Alphabet與亞馬遜（Amazon）跌勢拖累，加上美債殖利率攀升及伊朗總統強硬表態絕不向美國施壓屈服，美股今天全面收低。\n\n道瓊工業指數下跌0.68%，收報51511.59點。\n\n標普500指數下跌0.75%，收在7706.03點。\n\n那斯達克指數下跌1.13%，收26936.04點。\n\n費城半導體指數下跌1.23%，收12534.27點。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL, AMZN, NVDA",
       "Date": "2026-09-24",
