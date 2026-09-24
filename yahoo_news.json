@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-24T15:25:44.097Z",
-  "total_news_count": 1026,
+  "last_updated": "2026-09-24T15:33:53.082Z",
+  "total_news_count": 1027,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-09-24",
+      "Time": "22:52:40",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell Just Unveiled a 2nm Breakthrough for AI Data Centers",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/marvell-just-unveiled-2nm-breakthrough-145240948.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSemiconductor manufacturer Marvell Technology ( MRVL , Financials ) that offers data infrastructure equipment is spotlighting a new part of its AI strategy as data centers need quicker connectivity.The company says it will reveal what it calls the industry's first 2-nanometer optical technology at the European Conference on Optical Communication. The line-up includes 400G-per-lane PAM4, an 800G ZR/ZR+ pluggable with MACsec and 1.6T ZR and O-band coherent-lite technology.Marvell shares increased roughly 2.4% in premarket trading after the announcement.Timing is key since AI infrastructure is pushing past 1.6T networking. With compute systems getting more powerful, data centers need faster bandwidth connections without a commensurate increase in power usage.That puts optical technology in a more significant position inside the AI data center buildout. Faster connectivity allow data to be sent between computing systems and assist meet power and security needs.The new technology is aimed at hyperscalers and cloud operators, giving the demos a possible business angle beyond the event itself.The big question today is how quickly these technologies transition from demonstrations into client deployments and revenue. That could offer investors a clearer sense of how much of the next AI infrastructure spending cycle Marvell can grab.",
+      "Language": "en"
+    },
     {
       "Ticker": "META, AMZN",
       "Date": "2026-09-24",
@@ -223,7 +233,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, QCOM",
+      "Ticker": "MRVL, META, QCOM",
       "Date": "2026-09-24",
       "Time": "20:54:00",
       "Source": "Yahoo Finance",
