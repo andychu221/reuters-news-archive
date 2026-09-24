@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-24T07:04:09.600Z",
-  "total_news_count": 903,
+  "last_updated": "2026-09-24T07:26:18.942Z",
+  "total_news_count": 916,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "15:07:38",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股438.73億元",
+      "URL": "https://tw.news.yahoo.com/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1438-73%E5%84%84%E5%85%83-070738438.html",
+      "Content": "（中央社台北24日電）台股今天跌132.69點，收在48024.60點，成交值新台幣7366.23億元。三大法人外資及陸資、投信賣超，自營商買超，合計賣超438.73億元。\n\n自營商買超13.38億元，投信賣超114.09億元，外資及陸資賣超338.02億元。1150924",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-09-24",
+      "Time": "15:04:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "權值股休息，台股震盪守四萬八，PCB與被動元件族群逆勢抗跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%AC%8A%E5%80%BC%E8%82%A1%E4%BC%91%E6%81%AF-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E5%AE%88%E5%9B%9B%E8%90%AC%E5%85%AB-pcb%E8%88%87%E8%A2%AB%E5%8B%95%E5%85%83%E4%BB%B6%E6%97%8F%E7%BE%A4%E9%80%86%E5%8B%A2%E6%8A%97%E8%B7%8C-070446507.html",
+      "Content": "【財訊快報／黃冠豪】台股週四受到前一晚美股四大指數全面收黑、美債殖利率急升影響，早盤賣壓明顯，加權指數最低一度下探47,754.72點、跌逾400點，不過低檔買盤陸續進場，尾盤跌幅明顯收斂，終場收在48,024.60點，下跌132.69點、跌幅0.28%，仍成功守住48,000點；成交金額7382億元。櫃買指數同步震盪，終場收412.99點，下跌0.77點、跌幅0.19%，中小型股相對大盤抗跌。亞洲股市方面，日本結束連假重新開市，日經225指數明顯補漲，上午收在65,883.41點，上漲864.46點、漲幅1.33%，盤中一度站上66,000點，AI、半導體相關個股成為主要多方力量。\n\n權值股表現明顯分歧。台積電(2330)收2,475元，下跌25元、跌1%，成為指數主要壓力；聯發科(2454)逆勢上漲100元，收5,285元、漲1.93%；台達電(2308)收1,910元，上漲10元、漲0.53%；聯電(2303)則遭遇較明顯調節，收154元，下跌6元、跌3.75%。市場呈現「權值股休息、資金轉向題材股」的輪動格局。\n\n強勢族群方面，今天最明顯的主流仍是PCB、CCL與ABF載板，聯茂(6213)強勢攻上漲停595元，景碩(3189)盤中再創歷史新高，騰輝電子-KY(6672)等也維持強勢，顯示AI伺服器、高階板材資金熱度仍高。被動元件族群同步有資金進駐，禾伸堂(3026)收漲近6%，華新科(2492)、國巨(2327)也維持紅盤，成為大盤震盪下相對抗跌族群。\n\n至於面板級封裝、矽光子與記憶體則呈現個股輪動，而非全面上漲。面板級封裝設備股志聖(2467)收漲約1.3%；矽光子光聖(6442)收小紅，但華星光(4979)走弱。記憶體早盤更一度出現明顯獲利了結，南亞科(2408)、群聯(8299)、旺宏(2337)承壓，顯示前波漲多後籌碼開始分歧。\n\n今日最大國際變數仍是美國公債殖利率急升，美國10年期公債殖利率盤中突破5.13%，來到2007年以來高檔，市場重新提高對利率維持高檔甚至再升息的警戒，拖累前一晚美股全面收黑，也成為今日台股開低主因。\n\n不過台股在中秋四天連假前遭遇獲利了結，仍能收復48,000點，代表低檔承接力道尚未消失。短線觀察重點將從單純的指數創高，逐步轉向PCB、被動元件、AI散熱、先進封裝與矽光子等族群能否持續輪動；尤其台積電休息時，中小型題材股能否維持量價結構，將成為連假後台股能否再度挑戰歷史高點的重要關鍵。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-09-24",
+      "Time": "14:53:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "日股連假後開市　日經隨AI走高東證小跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1%E9%80%A3%E5%81%87%E5%BE%8C%E9%96%8B%E5%B8%82-%E6%97%A5%E7%B6%93%E9%9A%A8ai%E8%B5%B0%E9%AB%98%E6%9D%B1%E8%AD%89%E5%B0%8F%E8%B7%8C-065332379.html",
+      "Content": "（中央社東京2026年9月24日綜合外電報導）日本股市在結束3天連休後，日經225指數順應全球人工智慧（AI）類股漲勢走揚。不過，在公債殖利率上升疑慮壓抑下，東證指數收低。\n\n日股基準日經225指數收盤上漲495.04點或0.76%，收65513.99點。\n\n東證股價指數下跌15.84點或0.39%，收4075.30點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-24",
+      "Time": "14:36:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美期中選舉倒數，鉅亨買基金：歷史數據顯示，提前布局更有利",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E5%80%92%E6%95%B8-%E9%89%85%E4%BA%A8%E8%B2%B7%E5%9F%BA%E9%87%91-%E6%AD%B7%E5%8F%B2%E6%95%B8%E6%93%9A%E9%A1%AF%E7%A4%BA-%E6%8F%90%E5%89%8D%E5%B8%83%E5%B1%80%E6%9B%B4%E6%9C%89%E5%88%A9-063656081.html",
+      "Content": "【財訊快報／記者劉居全報導】聯準會升息、長天期美債殖利率走高，已讓美股投資人繃緊神經，接下來的美國期中選舉又添變數。「鉅亨買基金」表示，選舉結果可能牽動短線情緒，但企業獲利、經濟成長與利率環境，仍是決定美股中長期表現的核心。歷史資料顯示，期中選舉後一年美股表現相對強勁；與其因選情觀望，不妨把握震盪，提前分批布局。2026年美國期中選舉將改選眾議院全部席次及部分參議院席次，共和黨能否守住兩院成為觀察焦點。「鉅亨買基金」總經理張榮仁表示，若共和黨維持多數，既有政策較可能延續；若民主黨拿下一院，形成分裂國會，重大法案協商可能更費時，但這不能直接推論美股將下跌。國會版圖影響的是政策推動的速度與範圍，企業能否持續賺錢、經濟能否維持成長，以及利率是否壓抑估值，才是投資人更該關注的事。\n\n張榮仁指出，油價是連結選情與市場的重要變數。他提到，從1978年至2022年的歷史資料觀察，油價上漲期間，總統所屬政黨在眾議院平均流失31.4席，高於油價下跌期間的6.4席。若美伊衝突延長，推升汽油、運輸及生活成本，民眾對物價的感受可能轉化為執政黨的選舉壓力。不過，油價也會牽動通膨預期與聯準會決策；對美股而言，能源價格能否回穩，以及利率是否隨之緩和，同樣值得關注。\n\n至於投資人該減碼觀望，還是進場布局？依1950年至2022年共19次期中選舉的歷史統計，若於選舉日買進標普500指數並持有一年，19次皆為正報酬，勝率達100%。張榮仁表示，這項數據顯示，美股在歷次期中選舉後一年具韌性，投資人無須因擔心政黨輪替就急於退出市場。\n\n張榮仁指出，民調、政見與席次預測通常會在開票前逐步反映於股價。依「鉅亨買基金」的歷史統計，期中選舉前一個月買進標普500指數，持有一年平均報酬約19%；持有三個月、六個月及一年的表現，也都優於選舉當日才進場。等待結果明朗，可能錯過提前反映的行情。\n\n張榮仁強調，無論共和黨守住國會，或民主黨拿下一院，選後市場終將重新檢視企業營收、獲利與利率走向。與其猜測開票結果，不如提早規劃投入節奏，在震盪中維持投資紀律。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2454.TW, 2330.TW",
+      "Date": "2026-09-24",
+      "Time": "14:32:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【台股盤後】收跌逾百點險守48000點　題材股走揚",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%94%B6%E8%B7%8C%E9%80%BE%E7%99%BE%E9%BB%9E%E9%9A%AA%E5%AE%8848000%E9%BB%9E-%E9%A1%8C%E6%9D%90%E8%82%A1%E8%B5%B0%E6%8F%9A-063235544.html",
+      "Content": "（中央社記者江明晏台北2026年9月24日電）美股收低，適逢中秋連假前，台股今天開低震盪，終場下跌132.69點，險守48000點，台積電疲軟，聯發科漲近2%，擁題材的ABF、CCL、散熱等族群強漲；投顧分析，台股創高後僅小幅回檔，整體仍維持強勢整理格局。\n\n受Alphabet與亞馬遜（Amazon）跌勢拖累，加上美債殖利率攀升及伊朗總統強硬表態絕不向美國施壓屈服，美股全面收低；日、韓股則維持紅盤。\n\n台股23日指數創高後，今天以48075.39點開低，盤中下探47754.72點，跌逾400點，隨後跌勢收斂，終場守住5日線與48000點；周線收紅，上漲逾843點。\n\n台股加權指數終場收在48024.6點，下跌132.69點，跌幅0.28%，成交值至新台幣7366.23億元，電子指數跌0.3%，金融指數跌0.85%；代表中小型股的櫃買OTC指數跌0.19%。\n\n觀察權值股表現，台積電 (2330) 終場下跌25元，收2475元，跌幅1%，聯發科 (2454) 漲近2%，台達電 (2308) 、國巨 (2327) 收紅，聯電 (2303) 跌近4%，鴻海 (2317) 下跌逾2%。\n\n指標股方面，ABF族群強，景碩 (3189) 放量收漲逾6%，欣興 (3037) 、南電 (8046) 漲逾2%，CCL族群勁揚，聯茂 (6213) 、騰輝-KY (6672) 收漲停。\n\n記憶體族群南亞科 (2408) 、華邦電 (2344) 震盪收黑。散熱族群健策 (3653) 、奇鋐 (3017) 、雙鴻 (3324) 散熱族群大漲勁揚。\n\n觀察高價股走勢漲跌互見，股王信驊 (5274) 收跌逾2%，跌破2萬元關卡、股后川湖 (2059) 收黑，台股收盤擁49千金股。\n\n兆豐國際投顧副總經理黃國偉對中央社記者表示，台股近期連日創高後，今天出現小幅回檔，盤中低點觸及5日均線，但整體仍維持強勢整理格局。\n\n展望中秋節後，黃國偉認為，台股仍將反映AI基本面強勁帶來的利多；至於美伊局勢引發的通膨疑慮，市場已有一定預期，加上目前油價距離前波高點仍有一段距離，因此並非新的利空因素。\n\n黃國偉指出，台股後市可望盤堅緩步墊高，且挑戰5萬點已非難事，不過指數持續上攻的空間相對有限，主要原因在於市場利多仍集中在相同的AI題材，若後續資金動能退潮、成交量縮減，仍須留意盤勢震盪風險。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "14:27:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股中秋後上5萬點？市值衝全球第4大　謝金河曝兆元企業數量：聯發科都這個價了",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%B8%AD%E7%A7%8B%E5%BE%8C%E4%B8%8A5%E8%90%AC%E9%BB%9E-%E5%B8%82%E5%80%BC%E8%A1%9D%E5%85%A8%E7%90%83%E7%AC%AC4%E5%A4%A7-%E8%AC%9D%E9%87%91%E6%B2%B3%E6%9B%9D%E5%85%86%E5%85%83%E4%BC%81%E6%A5%AD%E6%95%B8%E9%87%8F-%E8%81%AF%E7%99%BC%E7%A7%91%E9%83%BD%E9%80%99%E5%80%8B%E5%83%B9%E4%BA%86-062732602.html",
+      "Content": "投資人關注台股何時上5萬點。示意圖。（資料照，顏麟宇攝）\n\n中秋連假前，台股連6日上漲，周三（23日）上揚357點，終場收在48157點再創歷史收盤新高；今（24）日逢連假前台股最後交易日，加權指數則陷入4萬8關卡保衛戰。對於國民黨主席鄭麗文日前表示，台灣股市鄰近5萬點，但心「都快爛了」，財信傳媒董事長謝金河今在臉書盤點，如今台股市值已突破154兆，排名全球第四大；他強調，台灣股市市值變大，企業手上現金增加，更有能力走向國際舞台，「台灣沒有爛，台灣的企業更壯大！」\n\n鄭麗文怎麼說「台灣現況」？\n\n2026年7月初，鄭麗文在公開活動致詞時表示，台灣表面看似光鮮亮麗，股市都快要到5萬點，是欣欣向榮的地方，然而真正的現實是，「根、心都快要爛掉了」，這是令人憂慮的地方；她強調，台灣有護國神山、高科技產業大家都與有榮焉，但若沒有國民黨70年代、80年代留下的基礎，就沒有台積電，台灣也就沒有護國神山、高科技產業。對此，謝金河直言，「鄭主席，妳低估台灣了！」\n\n台股市值變化？台股何時上5萬點？\n\n謝金河指出，台股挑戰5萬大關只差一點，而在南韓兩倍槓桿修正後，台股、那斯達克是全球唯二再創新歌的市場，台股總市值23日達到近155兆（154.92兆），約等於5.3兆美元，排在全球第四，前面依序為美國、中國、日本；南韓則和台灣有段差距。他並回顧近年來台股市值變化（新台幣）如下：\n\n2018年：27兆元\n\n2019年：36兆元\n\n2020年：45兆元\n\n2023年：56兆元\n\n2026年目前：154兆元\n\n台灣兆元企業有幾家？\n\n謝金河提到，台灣光是兆元以上的企業，目前就有22家。他並點名，如台泥以7.5億歐元併購烏克蘭第二大水泥公司，布局重建商機；華邦電子併購德國英飛凌Nor Flash、F-RAM的工廠；AI龍頭輝達則砸35億美元，吃下聯發科的可轉債，讓聯發科股價一口氣漲到5480元，聯發科市值8.3兆元，遠超高通，坐穩世界級企業的地位。而著台股市值增加，企業投資實力也倍增。\n\n台股市值增加對企業有何影響？\n\n<p class=\"mb-module-gap break-",
+      "Language": "zh"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-24",
@@ -11,6 +71,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-investment-spacex-062500763.html",
       "Content": "SpaceX (NASDAQ: SPCX) is one of the most intriguing companies to ever go public, and its upside potential could be big. Led by Elon Musk, the company is looking to disrupt industries and create entirely new ones.\n\nWhile Musk is a polarizing figure, one thing is undeniable: He is a visionary. And he has huge ambitions for SpaceX, saying the company will eventually be worth more than Earth itself.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nChasing a $28.5 trillion opportunity\n\nIn its IPO prospectus, SpaceX said it is chasing a current $28.5 trillion opportunity, which it called the largest in human history. While its opportunities in the space ($370 billion), the broadband ($870 billion), and mobile ($740 billion) connectivity markets with Starlink are sizable, most of its total addressable market (TAM) is centered around artificial intelligence (AI) .\n\nWithin AI, it sees digital advertising as a $600 billion market, with subscriptions adding another $760 billion to its TAM. Meanwhile, it views AI infrastructure as a $2.4 trillion market opportunity. The bulk of its TAM, though, is in the $22.7 trillion enterprise applications market. This figure comes from the Digital Cooperation Organization's estimate of the total digital economy in 2026 and covers areas such as AI automation, AI agents, cloud computing , cybersecurity, and enterprise applications.\n\nWithin its TAM, SpaceX's biggest near-term growth drivers appear to be satellite internet service through Starlink, AI infrastructure, and AI coding following its $60 billion acquisition of Cursor. Starlink is a recurring revenue subscription business that is growing quickly. Its number of subscribers doubled year over year last quarter to 12 million, while its connectivity revenue surged 66%. The company is seeing strength both in the enterprise & government space (108% revenue growth) and consumer segment (44% revenue growth).\n\nIts AI segment has been its fastest-growing, led by AI infrastructure, while Cursor will add a fast-growing AI coding platform. In Q2, its AI solutions & infrastructure skyrocketed to $2.19 billion, up from $475 million in Q1 and $311 million a year ago. The company is adding compute capacity quickly and recently announced that it signed a $1.1 billion a month AI hosting deal.\n\nStory Continues\n\nActing largely as a short-term rental option for compute capacity, SpaceX is seeing exceptionally strong economics in a compute capacity-constrained environment. It said it is seeing a payback within a year on its AI infrastructure investments, which is considerably shorter than the two- to three-year payback period cloud leader Amazon has discussed.\n\nLonger term, SpaceX has big ambitions that include putting data centers in space, point-to-point terrestrial travel, asteroid mining, energy production and manufacturing on the moon and Mars, and even space tourism. However, they are unlikely to contribute any significant revenue in the next five years.\n\nWhat a $1,000 investment could be worth in five years\n\nBased on the current consensus, analysts see SpaceX's revenue surging to close to $852 billion by 2031. That is below Musk's claim that the company could hit $1 trillion in revenue by 2030. It is also worth noting that this comes from only four analyst forecasts and that the range is quite wide, going from a $493 billion estimate to slightly over $1 trillion.\n\nMusk's other company, Tesla , meanwhile, settled into a price-to-sales (P/S) ratio of approximately 5 times about five years after its market debut. Using the low and high ends of analyst revenue projections would value SpaceX at a market cap between $2.47 trillion and $5 trillion, with the stock valued at $4.26 trillion at consensus.\n\nGiven SpaceX's future heavy capex spending, you'll have to assume share dilution, and Morgan Stanley initially modeled its diluted share count rising to nearly 13 billion. That would value its stock price between $190 and $384, with the consensus at $328.\n\nThat's more than double its current price, turning a $1,000 investment into more than $2,000. However, given the nature of the company, there is a wide range of outcomes going forward.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "14:24:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股收跌逾百點險守48000點　題材股逆勢走揚",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C%E9%80%BE%E7%99%BE%E9%BB%9E%E9%9A%AA%E5%AE%8848000%E9%BB%9E-%E9%A1%8C%E6%9D%90%E8%82%A1%E9%80%86%E5%8B%A2%E8%B5%B0%E6%8F%9A-062457744.html",
+      "Content": "（中央社記者江明晏台北24日電）美股收低，適逢中秋連假前，台股今天開低震盪，終場下跌132.69點，險守48000點，台積電疲軟，聯發科漲近2%，擁題材的ABF、CCL、散熱等族群強漲；投顧分析，台股創高後僅小幅回檔，整體仍維持強勢整理格局。\n\n受Alphabet與亞馬遜（Amazon）跌勢拖累，加上美債殖利率攀升及伊朗總統強硬表態絕不向美國施壓屈服，美股全面收低；日、韓股則維持紅盤。\n\n台股23日指數創高後，今天以48075.39點開低，盤中下探47754.72點，跌逾400點，隨後跌勢收斂，終場守住5日線與48000點；周線收紅，上漲逾843點。\n\n台股加權指數終場收在48024.6點，下跌132.69點，跌幅0.28%，成交值至新台幣7366.23億元，電子指數跌0.3%，金融指數跌0.85%；代表中小型股的櫃買OTC指數跌0.19%。\n\n觀察權值股表現，台積電終場下跌25元，收2475元，跌幅1%，聯發科漲近2%，台達電、國巨收紅，聯電跌近4%，鴻海下跌逾2%。\n\n指標股方面，ABF族群強，景碩放量收漲逾6%，欣興、南電漲逾2%，CCL族群勁揚，聯茂、騰輝-KY收漲停。\n\n記憶體族群南亞科、華邦電震盪收黑。散熱族群健策、奇鋐、雙鴻散熱族群大漲勁揚。\n\n觀察高價股走勢漲跌互見，股王信驊收跌逾2%，跌破2萬元關卡、股后川湖收黑，台股收盤擁49千金股。\n\n兆豐國際投顧副總經理黃國偉對中央社記者表示，台股近期連日創高後，今天出現小幅回檔，盤中低點觸及5日均線約47776點，但整體仍維持強勢整理格局。\n\n展望中秋節後，黃國偉認為，台股仍將反映AI基本面強勁帶來的利多；至於美伊局勢引發的通膨疑慮，市場已有一定預期，加上目前油價距離前波高點仍有一段距離，因此並非新的利空因素。\n\n黃國偉指出，台股後市可望盤堅緩步墊高，且挑戰5萬點已非難事，不過指數持續上攻的空間相對有限，主要原因在於市場利多仍集中在相同的AI題材，若後續資金動能退潮、成交量縮減，仍須留意盤勢震盪風險。（編輯：楊凱翔）1150924",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
@@ -23,6 +93,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".TWII, 2454.TW, 2330.TW",
+      "Date": "2026-09-24",
+      "Time": "14:04:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉台積電熄火 長假前觀望量縮跌132點險守4萬8大關 周漲843點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%86%84%E7%81%AB-%E9%95%B7%E5%81%87%E5%89%8D%E8%A7%80%E6%9C%9B%E9%87%8F%E7%B8%AE%E8%B7%8C132%E9%BB%9E%E9%9A%AA%E5%AE%884%E8%90%AC8%E5%A4%A7%E9%97%9C-%E5%91%A8%E6%BC%B2843%E9%BB%9E-060427965.html",
+      "Content": "台股今 (24) 日開低震盪，在台積電、鴻海走弱下，盤中一度下跌逾 400 點，來到47757.42點，回測5日線，不過隨著聯發科、散熱、ABF載板、CCL族群撐盤下，跌幅逐漸收斂，站回48000點大關。終場收48024.6點，下跌132.69點。中秋連假前，市場觀望，成交量縮至7366.23億元。台股周線連二紅，全周上漲843.85點\n\n電子權值股漲跌互現，台積電 (2330-TW) 下跌25 元、跌幅1%，收2475元；聯發科 (2454-TW) 上漲100 元、漲1.93%，收5285 元。台達電 (2308-TW) 漲約 0.7%；鴻海 (2317-TW) 跌逾 2%，廣達 (2382-TW) 跌約 1%，日月光投控 (3711-TW) 則小漲0.87%。\n\nAI 伺服器功耗持續提高，水冷散熱滲透率及單機價值量同步提升，散熱族群表現亮眼，雙鴻 (3324-TW) 大漲逾 8%，健策 (3653-TW) 漲近 6%，奇鋐 (3017-TW) 漲逾 2%，建準 (2421-TW) 也漲約 2%。\n\n景碩8月獲利獲利大幅成長，ABF 載板族群走強，景碩 (3189-TW) 漲近 6%，盤中一度逼近千元大關；欣興 (3037-TW) 漲約 1%，南電 (8046-TW)、臻鼎-KY (4958-TW) 維持小幅上漲。\n\nCCL族群部分，聯茂(6213-TW)漲停，金居(8358-TW)漲約2%，台燿(6274-TW)漲約1%，台光電(2383-TW)於平盤震盪。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "14:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股收跌160點 台塑三寶撐盤 「這2檔CCL」收漲停",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C160%E9%BB%9E-%E5%8F%B0%E5%A1%91%E4%B8%89%E5%AF%B6%E6%92%90%E7%9B%A4-%E9%80%992%E6%AA%94ccl-%E6%94%B6%E6%BC%B2%E5%81%9C-060400752.html",
+      "Content": "台股今（24）日開低震盪，早盤雖一度下跌逾300點至47754點，後續跌幅收斂至47900點附近震盪，終場收47996點，下跌160點，跌幅0.33%，成交量量縮至7300億。\n\n權值股部分，台積電下跌25元，來到2475元，跌幅1%，聯發科來到5285元，上漲100元，漲幅1.93%，鴻海下跌2.15%，收250.5元，台塑四寶中，台塑、台化分別上漲1.58%、2.45%，南亞則上漲4.62%，來到238元。\n\n觀察今日盤面，資金聚焦PCB族群，CCL廠聯茂、騰輝電子-KY收漲停，景碩大漲6.18%來到962元，毅嘉、欣興、德宏、南電、金居也上漲逾2%。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-09-24",
       "Time": "13:55:20",
@@ -30,6 +120,16 @@
       "Title": "台股收盤跌132點守住48K！ 台積電收2475元",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E8%B7%8C132%E9%BB%9E%E5%AE%88%E4%BD%8F48k-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62475%E5%85%83-055520567.html",
       "Content": "台股今（24）日開盤以48075.39點開出，隨後指數轉弱一路走低，最低跌至47754.72點；盤中買盤進場，跌幅逐步收斂，終場收在48204.60點，下跌132.69點，跌幅0.28%，成交量7366.23億元。\n\n權值股方面，台積電（2330）下跌25元，收2475元，跌幅1%；鴻海（2317）下跌5.5元，收250.5元，跌幅2.15%；廣達（2382）下跌3元，收338.5元，跌幅0.88%；台達電（2308）上漲10元，收1910元，漲幅0.53%；聯發科（2454）上漲100元，收5285元，漲幅1.93%；台光電（2383）上漲30元，收5050元，漲幅0.60%。\n\n編輯／蔡尚晉",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-24",
+      "Time": "13:50:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》軟體定義自駕—TSLA、LCID、BB",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E8%BB%9F%E9%AB%94%E5%AE%9A%E7%BE%A9%E8%87%AA%E9%A7%95-tsla-lcid-bb-055000943.html",
+      "Content": "MoneyDJ新聞 2026-09-24 13:50:37 數位內容中心 發佈\n\nMercedes-Benz\n\nMercedes-Benz近日與Wayve簽署正式量產協議，規劃在未來兩年內啟動整合作業，將Wayve的AI Driver導入未來車款。這使Mercedes-Benz把稍早參與的15億美元募資，進一步推進到量產整合與商業化部署。\n\nTesla（TSLA.US）\n\n2026年9月，NHTSA就Tesla Cybercab啟動稽核查詢AQ26002，要求在9月30日前就21項問題宣誓回覆，焦點是無方向盤、無踏板、無後視鏡設計是否符合兩項聯邦安全標準。這使Robotaxi推進重心轉向監管合規細節。\n\nBlackBerry（BB.US）\n\n2026年9月22日，Coretura選用以QNX為基礎的Alloy Kore，作為其商用車軟體定義汽車平台的安全認證基礎軟體層，成為Alloy Kore首個已具名設計案。QNX累計已嵌入超過2.75億輛車，訊號指向基礎軟體層正上移為量產關鍵。\n\nLucid（LCID.US）\n\nLucid近日與Bolt合作，將以即將推出的Midsize平台開發符合SAE第四級就緒的車型，並採用NVIDIA Hyperion架構。Bolt規劃先在歐洲主要城市部署至少2.5萬輛全自動駕駛車，讓Lucid角色從車款供應延伸到車隊平台。\n\nBaidu（BIDU.US）\n\nBaidu的Apollo Go已在香港展開全無人駕駛測試，並計畫在完成目前測試後申請商業營運許可。這使其自駕驗證從既有市場延伸到右駕與海外場景，主軸轉向跨市場的法規落地與商轉準備。\n\nXPeng（XPEV.US）\n\nXPeng近6個月前成立對外商業化團隊，開始向車廠、供應商與軟體公司推廣自駕、智慧座艙與電子電氣架構等技術。其2026年第二季服務收入年增93.9%至約4億美元，顯示技術授權與服務化正在成形。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n聚積Q4迎賓士車用專案貢獻，亦看好中日系車廠成長\n\n和泰車8月/前8月營收齊寫歷年同期新高\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -53,6 +153,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "13:34:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美經濟數據靚+台股拉回，台幣早盤重貶1.24角",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%B6%93%E6%BF%9F%E6%95%B8%E6%93%9A%E9%9D%9A-%E5%8F%B0%E8%82%A1%E6%8B%89%E5%9B%9E-%E5%8F%B0%E5%B9%A3%E6%97%A9%E7%9B%A4%E9%87%8D%E8%B2%B61-24%E8%A7%92-053400313.html",
+      "Content": "MoneyDJ新聞 2026-09-24 13:34:38 新聞中心 發佈\n\n由於S&P美國九月PMI指數明顯優於預期，加上油價連跌數日後見轉強，帶動美國10年公債殖利率明顯走升下，美元指數見走強，台幣今(24)日兌美元匯率以31.75元、貶值3.4分開出後，盤中雖一度轉升，惟台股出現中秋連假前賣壓、呈拉回走勢，台幣中午則重貶1.24角，暫收31.840元。\n\n美國最新經濟數據強勁、Fed官員放鷹、油價反彈下，美元指數升破101關卡，不過亞洲主要貨幣今日升貶互見，日圓兌美元升破158價位，來到157.9附近，韓元、離岸人民幣則由升轉貶。\n\n台幣兌美元匯率今日以31.750元、貶值3.4分開出，盤中雖一度轉升、觸及31.710元，不過受制台股拉回走勢、市場擔憂外資匯出力道加大下，最低一度觸及31.850元，中午貶值1.24角，暫收31.840元。\n\n根據台北外匯經紀公司報價，24日早盤台幣兌美元貶值1.24角，暫收31.840元，區間在31.850-31.710元，成交金額9.32億美元。\n\n人幣中間價連五升，續寫逾三年七個月高\n\n股匯雙殺 台幣早盤爆量重貶1.17角\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-24",
+      "Time": "13:25:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美債殖利率攀升 連假前台股開低走弱",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E6%94%80%E5%8D%87-%E9%80%A3%E5%81%87%E5%89%8D%E5%8F%B0%E8%82%A1%E9%96%8B%E4%BD%8E%E8%B5%B0%E5%BC%B1-052559233.html",
+      "Content": "台經院院長張建一指出，「8月份主計總處是上修到11點零幾，主要就是投資上修，另外一個令人開心的就是消費也上修，也就是說過去傳產確實沒有AI相關的產業那麼好，不過現在很多傳產慢慢打入AI供應鏈，加上傳產因為去（2025）年基期比較低，現在非紅供應鏈也發酵，所以傳產也上來了。」\n\n台經院分析，股市上漲也帶動台灣內需消費，預估下半年消費力道持續擴大，仍看好下半年景氣展望。不過由於經濟成長率基期不斷升高，後續經濟成長速度可能逐步放緩，仍要持續觀察。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-09-24",
       "Time": "12:50:00",
@@ -70,6 +190,16 @@
       "Title": "台股4萬8保衛戰，中秋抱股還放手？專家示警「川習會」衝擊波：市場還聚焦另件事",
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A14%E8%90%AC8%E4%BF%9D%E8%A1%9B%E6%88%B0-%E4%B8%AD%E7%A7%8B%E6%8A%B1%E8%82%A1%E9%82%84%E6%94%BE%E6%89%8B-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E5%B7%9D%E7%BF%92%E6%9C%83-%E8%A1%9D%E6%93%8A%E6%B3%A2-043200376.html",
       "Content": "台股連6漲，24日開盤則一路下挫。示意圖，與新聞個案無關。（資料照，陳品佑攝）\n\n本周將迎來中秋、教師節4天長假，昨（23）日大漲357點，終場收在48157點，再創歷史收盤新高；今（24）日逢連假前台股最後一個交易日，投資人關注大盤表現。對此，股海老牛今開盤前以「神山傳漲價3~6%，誰埋單？」為題針對台股盤勢進行分析，對於台股連6漲今天還能不能買？他在文末點出，除4天連假將導致量能萎縮，如今美中雙方正進行「川習會」，指數高檔震盪機率升高！\n\n台股近日表現？\n\n台股9月23日延續多頭走勢，盤中最高衝上48341點，終場收在48157點，大漲 357點、漲幅0.75%，再創歷史收盤新高。權王 台積電 （2330）成為推升大盤的重要力量，23日收在2500元，上漲 40元、漲幅1.63%。而今盤勢明顯轉弱，台股開盤下跌81點，加權指數報48075點，隨後跌幅擴大，盤中一度下探47754點，跌幅超過400點，再度跌破4萬8000點。\n\n台股陷4萬8保衛戰？\n\n「早盤4萬8保衛戰，你怎麼看？」對於台股盤勢，股海老牛指，23日加權指數連6紅創、收盤新高，其中台積電站上反彈以來新高（2500元）；台泥則因研擬收購烏克蘭水泥大廠，爆量漲4%；另外他也點名創意、健策，表示IP與散熱題材火熱。最後一點他還提到，外資買超373億，顯示買盤沒有散場。\n\n美股表現方面，他指出，嚇跌的理由有些荒謬，市場開始押聯準會（Fed）10月會再升息，美債殖利率飆上19年新高，可謂股債雙殺，其中，台積電ADR下跌1.2%、但他也提到，如今市場聚焦，傳出台積電將在2027年調漲先進製程代工價3至6%，屆時iPhone成本恐再墊高，台積電敢漲價，客戶還是乖乖排隊，這樣的「訂價權」比任何題材都值錢。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX",
+      "Date": "2026-09-24",
+      "Time": "12:29:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "秋節變盤魔咒強碰美債狂飆！丟失48,000關卡「台積電、鴻海、廣達高檔慘遭主力調節」這檔另類黑馬EPS狂飆852％跳空鎖死",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A7%8B%E7%AF%80%E8%AE%8A%E7%9B%A4%E9%AD%94%E5%92%92%E5%BC%B7%E7%A2%B0%E7%BE%8E%E5%82%B5%E7%8B%82%E9%A3%86-%E4%B8%9F%E5%A4%B148-000%E9%97%9C%E5%8D%A1-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%B4%BB%E6%B5%B7-042925408.html",
+      "Content": "台股今（24）日呈現高檔震盪格局。受到美債殖利率飆升、美股科技股回檔賣壓，以及中秋節四天長假前的觀望獲利了結氣氛影響，加權指數開低走弱，盤中一度重挫逾400點，最低下探47,800點附近，失守48,000點大關；儘管大盤面臨權值股壓盤的修正壓力，惟市場資金汰弱留強走勢清晰，多頭結構並未遭到破壞，投顧專家普遍認為，此波拉回屬於節前的良性技術修正，第四季傳統旺季行情依然看好。\n\n美債殖利率飆升與長假變數引發回檔\n\n引發台股修正導火線首推國際債市的劇烈波動，由於美國5年期公債標售需求疲弱，推升美國10年期美債殖利率盤中一度衝上5.135％，創下2025年4月以來最大單日升幅，引發全球風險資產的拋售潮，通膨與鷹派升息的預期再度蒙上陰影。\n\n此外，市場分析師指出，即將到來的中秋長假具有諸多國際不確定性，特別是近日即將登場的「川習會」讓市場觀望情緒達到頂點。為規避長假期間的政治與美股變數，將近28萬散戶選擇提前下車，本土資金亦順勢在台股創下48,157點歷史新高後，進行階段性的獲利了結，導致盤面回檔力道加劇。\n\n權值股高檔承壓與AI財報利多族群逆勢吸金\n\n在盤面個股表現方面，指標權值股因承受美股科技股大跌及台積電ADR下跌1.2％的重盤壓力，普遍表現疲軟。台積電（2330）早盤開低，盤中下挫15至30元，最低來到2,470元，跌幅約1％，成為大盤最主要的壓抑來源；同樣面臨調節壓力的還包括鴻海（2317）與廣達（2382），鴻海盤中下跌逾2％回測250.5元，廣達亦有接近1.8％的跌幅，高檔獲利了結賣壓沉重。\n\n然而，大盤拉回並未嚇退所有資金，AI實質需求與超級財報利多族群成為逆勢吸金的避風港。銅箔基板（CCL）龍頭聯茂（6213）因自結8月每股盈餘（EPS）大增852.58％，利多引爆買盤狂湧，開盤即跳空鎖漲停。在聯茂的帶領下，同族群的台光電（2383）與台燿（6274）紛紛逆勢強攻。\n\nIC設計龍頭聯發科（2454）則在外資歐系券商發布報告、看好其在客製化晶片（ASIC）戰略商機的力挺下，股價逆勢大漲逾2.6％，扮演最關鍵的撐盤要角。此外，ABF載板三雄表現穩健，其中景碩（3189）盤中逆勢創下歷史新天價，欣興（3037）與南電（8046）亦同步上揚。矽晶圓題材表現同样亮眼，嘉晶（3016）法說會釋出矽光子利多後，再度拉出第二根漲停板，帶動合晶（6182）與中美晶（5483）穩步走高。\n\n專家評估短線良性修正，年底上看5萬點\n\n針對今日的震盪，各大投顧機構與專家普遍給出正面評價。富邦投顧董事長陳奕光與第一金投顧董事長黃詣庭皆指出，短線操作可適度調降水位至5成左右以降低連假風險，但應積極汰弱留強，鎖定AI權值股、先進封封測及散熱等第四季爆發力強的族群。\n\n摩爾投顧投資長郭哲榮進一步分析，台股市值已跃升全球第四大，且8月證券存款餘額衝上4.57兆元新高，顯示「內資底氣充足」，雖然台積電、鴻海短線壓盤，但長線多頭格局毫無改變，下檔可密切觀察加權指數在47,800點的守備力道。隨節後買盤歸隊，台股最快在年底前就有機會強攻50,000點大關。\n\nPTT散戶論戰兩極：抄底卡位 vs 現金為王\n\n在網路社群如PTT股板上，散戶網友對「拉權值、出個股」的行情則呈現兩極化論戰。樂觀的抄底派網友直言：「經歷過之前的洗盤，這點震盪只是毛毛雨，節前拉回正好是買點！」許多零股族紛紛喊話要趁台積電、聯發科拉回時積極卡位。\n\n但也有不少居安思危的觀望派散戶抱怨：「手上的股票不跟漲卻跟跌，賺了指數賠了差價。」考慮到美債殖利率與長假變數，寧可",
       "Language": "zh"
     },
     {
