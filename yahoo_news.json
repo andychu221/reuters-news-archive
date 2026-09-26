@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-26T14:03:50.335Z",
-  "total_news_count": 1430,
+  "last_updated": "2026-09-26T14:12:46.949Z",
+  "total_news_count": 1431,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-09-26",
+      "Time": "22:05:52",
+      "Source": "Yahoo Finance",
+      "Title": "Oracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-alphabet-ai-cloud-140552019.html",
+      "Content": "Oracle Corporation (NYSE: ORCL ) and Alphabet Inc. (NASDAQ: GOOGL ) are both trying to turn AI infrastructure into a larger cloud business, but they are asking investors to fund very different models. Oracle trades at about 17 times forward earnings after its sharp 2026 selloff, while Alphabet trades near 22 times. The cheaper stock is also carrying far more financing risk.\n\nThat tension is easier to see after Oracle added $30 billion of AI contracts and investors had to separate backlog from economics . Alphabet has its own capital-return problem: its Google AI-chip ambitions increasingly require investors to ask whether infrastructure spending earns enough at the parent-company level .\n\nOracle has the faster cloud growth and the harder funding problem\n\nOracle Corporation (NYSE:ORCL)'s fiscal first-quarter revenue rose 30% to $19.3 billion, while cloud infrastructure revenue jumped 121% to $7.4 billion. Remaining performance obligations reached $664 billion after more than $30 billion of additional AI cloud contracts. That backlog gives Oracle unusually strong revenue visibility for a company trading below 20 times forward earnings.\n\nThe catch is capital intensity. Oracle generated record quarterly operating cash flow, helped by $11.4 billion of customer prepayments with significant financing components, but still posted about $5 billion of negative free cash flow as it built capacity. It also sold $20 billion of common stock during the quarter. The bull case is that triple-digit OCI growth eventually makes today's financing look temporary. The bear case is that debt, dilution and project risk absorb too much of the value before contracted revenue reaches shareholders.\n\nAlphabet costs more, but its funding engine is broader\n\nAlphabet Inc. (NASDAQ:GOOGL)'s second-quarter revenue rose to $119.8 billion, with Google Cloud revenue up 82% to $24.8 billion. Advertising still produced $81.6 billion of quarterly revenue, giving Alphabet a cash engine Oracle cannot match. Yet Alphabet's own AI build is no longer cheap. Quarterly capital expenditures reached roughly $44.9 billion and free cash flow was negative $5.9 billion, while management raised 2026 capex guidance to $195 billion to $205 billion.\n\nAlphabet also raised $49.6 billion through common and mandatory convertible preferred stock and issued $20.3 billion of senior unsecured notes during the quarter, showing that its AI build is not being funded entirely through internal cash generation.\n\nAlphabet deserves some valuation premium for Search, YouTube and Cloud diversification, but a roughly 22 times forward multiple still assumes those investments earn high returns. Oracle offers much faster infrastructure growth at a lower earnings multiple, but with materially greater balance-sheet and execution risk.\n\nStory Continues\n\nInstitutional positioning rose for both in Q2. Insider Monkey counted 119 Oracle holders, up from 115 in Q1, while Fisher Asset Management increased its stake about 39%. Alphabet rose to 275 holders from 265, and Berkshire Hathaway increased its Class A position about 45%. Oracle short interest stood at 44.6 million shares on August 31, about 2.6% of float with 2.3 days to cover.\n\nFor investors willing to accept financing risk, Oracle has more rerating upside. Alphabet is the stronger risk-adjusted choice because its AI cloud growth is being funded by a much broader and more profitable business.\n\nWhile we acknowledge the potential of ORCL and GOOGL as investments, we believe certain other AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nOracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy?\n\nOracle vs. Alphabet: Which AI Cloud Stock Is the Better Buy? Oracle has the faster cloud growth and the harder funding problem\n\n<div id=\"sda-INARTICLE-6f9eaa30-0578-3e54-ad44-20b81df36b23-3\" class=\"sdaContainer dv-all sda-INARTICLE-6f9eaa30-0578-3e54-ad44-20b81df36b23-3 yf-d5hqm1 overflow margin visible placeholder\" data-testid=\"ad-container\" data-ad-unit=\"/22888152279/us/yfin/ros/dt/us_yfin_ros_dt_mid_center\" data-ad-size=\"970x250,728x90,970x90,300x250\" data-ad-regio",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-09-26",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AAPL, TSLA",
+      "Ticker": "META, GOOGL, AMZN, NVDA, AAPL, TSLA",
       "Date": "2026-09-26",
       "Time": "21:02:00",
       "Source": "Yahoo Finance",
