@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-26T17:36:23.066Z",
-  "total_news_count": 1448,
+  "last_updated": "2026-09-26T18:04:11.774Z",
+  "total_news_count": 1449,
   "news": [
+    {
+      "Ticker": "NVDA, AMD",
+      "Date": "2026-09-27",
+      "Time": "01:36:00",
+      "Source": "Yahoo Finance",
+      "Title": "1 Agentic AI Chip Stock to Buy and 1 to Sell",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/1-agentic-ai-chip-stock-173600956.html",
+      "Content": "Agentic artificial intelligence (AI) is here. There is no clearer sign of that than Meta Platforms' personal Muse AI agent becoming the most-downloaded app on the Apple App Store after launching earlier this month. Meanwhile, Grand View Research predicts that the enterprise AI agentic market will grow at an over 48% compounded annual growth rate through 2033 to $83.4 billion.\n\nWith the rise of agentic AI also comes the need for more data center server central processing units (CPUs). Two of the leading stocks in this area are Advanced Micro Devices (NASDAQ: AMD) and Arm Holdings (NASDAQ: ARM). However, I'd only buy one of these stocks, despite the strong market tailwinds these companies are seeing.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nWhile graphics processing units (GPUs) are great at providing the muscle and raw compute power needed to train AI models and run inference , they are not good at things like providing the sequential logic and ability to connect to tools and external APIs that AI agents require. That is better handled by CPUs. As a result, the GPU-to-CPU ratio in AI data centers is projected to go from 8:1 for servers that handle large language model (LLM) training, to 4:1 for inference, to 1:1 for those dedicated to AI agents. That is expected to help see the market for server CPUs explode in the coming years.\n\nLet's take a closer look at two leaders in this space and why AMD is the only one of the two semiconductor stocks I'd be buying right now.\n\nBuy AMD\n\nWhen it comes to agentic AI semiconductor stocks, the one stock I would buy right now is AMD. The company is a leader in the space and has consistently taken share from market-share leader Intel . It projects that the data center CPU market will rise to $220 billion over the next few years and that it can take 50% share.\n\nThe chipmaker has already developed purpose-built CPUs for agentic AI that combine high core counts and fast memory access. Cores act like individual workstations where computing tasks get executed, so a higher CPU core count can help a system run and manage more AI agents concurrently. Higher-core CPUs also come with higher prices.\n\nIn addition to its CPU opportunity, AMD also has a big opportunity in the inference market with its GPUs. It has already signed two large $100 billion deals with OpenAI and Meta Platforms, and a third sizable deal with Anthropic. That combination makes the stock a buy.\n\nStory Continues\n\nSell Arm Holdings\n\nArm Holdings has long been one of the leading semiconductor IP (intellectual property) companies, licensing out its technology or selling access to it through subscriptions. While AMD and Intel use the x86 architecture for their CPUs, ARM's architecture employs a simpler instruction set, making its processors consume less power and generate less heat. That has made its technology dominant in the smartphone market.\n\nThe company's architecture is also the primary technology behind custom data center CPUs from companies such as Nvidia , Alphabet , and Amazon . However, the company made waves this year when it decided to build its own chips, entering the server CPU market. In March, when it made the announcement, it projected that it could take a 15% market share in what could become a $100 billion market by 2031. It projected generating $25 billion in revenue, including $15 billion from its new server CPUs. This would lead to EPS of $9. Notably, companies like AMD and Nvidia have since projected that the market will exceed ARM's initial target.\n\nWhile Arm has a huge opportunity in front of it, the stock is a sell largely due to its valuation, as it trades at a whopping forward P/E of nearly 140 times and faces headwinds in the smartphone market, where volumes are expected to decline. It may have deserved that type of premium as an IP technology company, but it's now also a chipmaker, and its gross margins will compress. Thus, I'd be a seller of the stock.",
+      "Language": "en"
+    },
     {
       "Ticker": "TSLA",
       "Date": "2026-09-27",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, GOOGL, AMZN",
+      "Ticker": "NVDA, META, GOOGL, AMZN",
       "Date": "2026-09-26",
       "Time": "23:50:00",
       "Source": "Yahoo Finance",
