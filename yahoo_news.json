@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T09:25:08.371Z",
-  "total_news_count": 380,
+  "last_updated": "2026-09-28T09:35:58.819Z",
+  "total_news_count": 381,
   "news": [
     {
       "Ticker": ".TWII, .KS11",
@@ -135,6 +135,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 1,
       "Keywords": "半導體指數, AI族群, 通膨數據, 就業數據, 財報展望"
+    },
+    {
+      "Ticker": "TSM",
+      "Date": "2026-09-28",
+      "Time": "13:27:32",
+      "Source": "Yahoo Finance",
+      "Title": "TSMC Affiliate Plans Second Singapore Chip Plant in Asia Push",
+      "URL": "https://finance.yahoo.com/technology/articles/tsmc-affiliate-plans-second-singapore-052732593.html",
+      "Content": "(Bloomberg) -- A venture by Taiwan Semiconductor Manufacturing Co.'s smaller affiliate Vanguard International Semiconductor Corp. is considering a second chipmaking plant in Singapore to meet growing demand.\n\nMost Read from Bloomberg\n\nKroger Sets New Dress Code Rules for Its Grocery-Store Workers\n\nCanadian Oil No Longer Takes Long Road to Asia as Freight Surges\n\nEllison Pledges $9.2 Billion More in Oracle Shares for Loans\n\nMcDonald's Selloff Hits 30% as Big Mac Inflation Spurs Pushback\n\nIran Says It Won't Soften Demands as Trump Rejects Hormuz Offer\n\nVisionPower Semiconductor Manufacturing Co., a venture between Vanguard and NXP Semiconductors NV of the Netherlands, could make more advanced chips in the new facility than in its first plant in the city-state, Leuh Fang, chairman of Vanguard and the joint venture, said in an interview.\n\nRising demand for artificial intelligence services and the data centers to power them has led to global shortages of semiconductors, even with major producers such as TSMC constantly adding capacity. The boom has prompted Taiwanese manufacturers to venture abroad for new production plants, with Singapore among locations attracting global investment.\n\n\"The supply shortage will last for a while,\" Fang said. \"We should've built two plants together here.\"\n\nVSMC on Monday inaugurated its first Singapore chip plant, in the eastern part of the country. Construction of the facility started in late 2024, with the company estimating it will invest $7.8 billion. Fang declined to estimate the cost of the potential second plant.\n\n\"It's still too early to talk about budget because we haven't decided on what type of technologies to be used,\" he said. \"Different technologies will greatly affect total size of investment.\"\n\nMost Read from Bloomberg Businessweek\n\nAmericans Are Going Wild for Minivans\n\nChina's Tax Grab Squeezes Rich Elite Harder Than Ever\n\nGLP-1 Users Are Furious After Employers Drop Insurance Benefits\n\nDonald Trump's Shock Factor on the Global Stage Is Wearing Thin\n\nPeople Hooked on Vapes Try a New Way to Quit: Cigarettes\n\n©2026 Bloomberg L.P.",
+      "Language": "en"
     },
     {
       "Ticker": "TSLA",
