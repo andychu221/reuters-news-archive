@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T17:20:09.293Z",
-  "total_news_count": 438,
+  "last_updated": "2026-09-28T17:26:03.145Z",
+  "total_news_count": 439,
   "news": [
     {
       "Ticker": "AMZN",
@@ -11,6 +11,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-falls-cheaper-claude-163430053.html",
       "Content": "This article first appeared on GuruFocus .\n\nAmazon ( NASDAQ:AMZN ), the commerce and cloud-infrastructure company, brought Claude Opus 5.5 to Bedrock and Claude Platform on AWS on September 22. Shares stood at $246.84 at 11.22am ET time on September 28, down about 1.1% from Friday's close.\n\nThe price cut is substantial: Anthropic says Opus 5.5 costs $4 per million input tokens and $20 per million output tokens, 20% less per token than Opus 5. It estimates a typical workload costs about 40% less because the model also uses fewer tokens. AWS offers it through Bedrock, with zero-data-retention support by default, and through Anthropic's native platform on AWS.\n\nWarning! GuruFocus has detected 5 Warning Signs with AMZN.\n\nIs AMZN fairly valued? Test your thesis with our free DCF calculator.\n\nCheaper AI calls could bring Amazon more customers, but they could also mean less revenue per task. The question is whether heavier use makes up the difference. This puts the shares 1.11% below the $249.61 GF Value estimate, a narrow gap that leaves investors looking to AWS growth and margins for the stronger signal.\n\nAMZN GF Value chart\n\nAMZN GF Value chart Cheaper AI calls could bring Amazon more customers, but they could also mean less revenue per task. The question is whether heavier use makes up the difference. This puts the shares 1.11% below the $249.61 GF Value estimate, a narrow gap that leaves investors looking to AWS growth and margins for the stronger signal.\n\n<span\n\nAmazon Stock Falls as Cheaper Claude Tests Bedrock Elasticity · us.finance.gurufocus\n\nAmazon Stock Falls as Cheaper Claude Tests Bedrock Elasticity · us.finance.gurufocus Cheaper AI calls could bring Amazon more customers, but they could also mean less revenue per task. The question is whether heavier use makes up the difference. This puts the shares 1.11% below the $249.61 GF Value estimate, a narrow gap that leaves investors looking to AWS growth and margins for the stronger signal.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "00:20:42",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股風向球〉節後期待川普總司令做多 內資法人看本周高點49000點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%A2%A8%E5%90%91%E7%90%83-%E7%AF%80%E5%BE%8C%E6%9C%9F%E5%BE%85%E5%B7%9D%E6%99%AE%E7%B8%BD%E5%8F%B8%E4%BB%A4%E5%81%9A%E5%A4%9A-%E5%85%A7%E8%B3%87%E6%B3%95%E4%BA%BA%E7%9C%8B%E6%9C%AC%E5%91%A8%E9%AB%98%E9%BB%9E49000%E9%BB%9E-162042652.html",
+      "Content": "台股上周在中秋連假前漲843點，站穩48000點大關，周線連2紅，外資終結連3賣，籌碼面和技術面均看多，台股交易員認為，儘管美伊談判的不確定性高，令油價劇烈波動，恐將衝擊市場對科技股的短期信心，但在系統性風險未形成前，川普總統在美國期中選舉前的「多頭總司令」地位仍值得期待，有望推波助瀾市場的做多力道。\n\n外資上周買超693.11億元，投信賣超119.39億元，自營含避險買超457.47億元，三大法人合計買超1031.19億元。\n\n觀察外資上周買超前10大標的有主動統一升級50(00403A-TW)、主動統一台股增長(00981A-TW)、友達(2409-TW)、 主動復華全球50(00409A-TW)、主動富邦台灣龍耀(00405A-TW)、中信台日韓PCB(009828-TW)、主動復華未來50(00991A-TW)、南茂(8150-TW)、主動凱基台灣(00407A-TW)和主動安聯美國科技(00402A-TW)，以主動式ETF為布局方向，顯示中長線看好台股。\n\n元大投顧認為，多方氣勢加溫，帶動均線重回多頭排列，但仍需留意，大盤月、季線正乖離逐漸拉大，尤其融資餘額重返 6000億元，留意造成短線較劇烈震盪情況。\n\n永豐投顧表示，川習會釋放美中和解表象，雖實質競爭仍將延續，但意味著重大政經變數機率降低，長期有利股市表現。\n\n隨著外資資金歸隊，看好台股有機會於中秋節後逐步展開第四季旺季行情，唯在成交量沒有特別表現前，先注意小型股輪流表現，樂觀看指數區間高點上看49000點。\n\n本周須留意的重要經濟指標有9月30日公布的美國8月核心個人PCE物價指數、10月初美國陸續公布 9月ISM製造業指數、9月非農就業人口變動、9月失業率等；同時，美光將於9月30日公布財報，勢必牽動記憶體族群表現。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
