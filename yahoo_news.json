@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-28T12:36:38.464Z",
-  "total_news_count": 389,
+  "last_updated": "2026-09-28T13:32:44.112Z",
+  "total_news_count": 390,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-09-28",
+      "Time": "21:08:27",
+      "Source": "Yahoo Finance",
+      "Title": "Retail Investors Think These 2 Stocks Could Be The Next NVIDIA And Sandisk",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-think-2-stocks-130827686.html",
+      "Content": "Investors are always looking for the next stock that turns a small position into a life-changing gain. Nvidia (NASDAQ:NVDA) did that for early buyers, and SanDisk (NASDAQ:SNDK) pulled off a similar run more recently. We scoured debate threads on popular investing communities on Reddit, with a focus on r/TheRaceTo10Million, to see which stocks retail investors think could repeat that kind of move over the next two years. We filtered out joke answers and one-off meme picks. Advanced Micro Devices (NASDAQ:AMD) and Nebius (NASDAQ:NBIS) came up as two of the most repeated names.\n\nWe recently covered NBIS in detail and saw why billionaire Stephen Mandel, a Tiger Cub who founded Lone Pine Capital after years of working with Julian Robertson's Tiger Management, opened a new position in the AI company. Check that detailed coverage here . In this article, we will focus on AMD.\n\nBull Case for AMD\n\nAMD bulls believe Meta's launch of Muse could be a new catalyst for the stock in the coming days. Early data indicate that Muse recorded more downloads and daily active users during its first 12 days than ChatGPT did over the same period after its launch. If that momentum continues, Meta will need more computing capacity to handle inference, which takes place whenever users interact with the AI agent. Meta already plans to deploy AMD's MI450 chips, so strong demand for Muse could support those purchases and potentially lead to additional orders.\n\nBulls also point to AMD's agreements with OpenAI, Meta and Anthropic. Anthropic is expected to begin deploying 1 gigawatt of AMD capacity in the first half of 2027 as part of a planned 2-gigawatt deployment. AMD could also benefit from edge AI as personal AI agents increase demand for distributed computing. This could support sales of its EPYC server processors as well as AI accelerators. AMD does not need to overtake Nvidia. Even a modest share of a projected $1.4 trillion AI accelerator market could produce substantial revenue growth.\n\nBear Case and Risks\n\nMuse's early popularity does not guarantee AMD revenue. Meta could divide its estimated 6 gigawatts of computing demand among AMD, Nvidia and its internally developed chips. Delays in building the data-center and power infrastructure required by OpenAI could postpone some AMD chip deployments and revenue recognition.\n\nValuation\n\nAMD's forward non-GAAP P/E was 83.24, versus the sector median of 23.37, while forward EV-to-sales stood at 20.06. The current price leaves little room for delays or weaker-than-expected growth.\n\nDisclosure: None. Follow Insider Monkey on Google News .",
+      "Language": "en"
+    },
     {
       "Ticker": "AAPL, TSM",
       "Date": "2026-09-28",
