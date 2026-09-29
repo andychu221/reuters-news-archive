@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-29T08:13:44.508Z",
-  "total_news_count": 565,
+  "last_updated": "2026-09-29T08:26:06.016Z",
+  "total_news_count": 582,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "16:12:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "瑞銀稱Fed選前10月升息機率遭高估，料未來一年升幅定價降至75基點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%91%9E%E9%8A%80%E7%A8%B1fed%E9%81%B8%E5%89%8D10%E6%9C%88%E5%8D%87%E6%81%AF%E6%A9%9F%E7%8E%87%E9%81%AD%E9%AB%98%E4%BC%B0-%E6%96%99%E6%9C%AA%E4%BE%86-%E5%B9%B4%E5%8D%87%E5%B9%85%E5%AE%9A%E5%83%B9%E9%99%8D%E8%87%B375%E5%9F%BA%E9%BB%9E-081239230.html",
+      "Content": "【財訊快報／陳孟朔】瑞銀分析師潘恩(Simon Penn)週一發表最新報告，市場目前對聯準會(Fed)10月28日會議的升息機率定價約69%，但瑞銀認為預期偏高。其統計指出，自1990年以來，Fed從未在緊鄰11月美國大選的10月會議升息；瑞銀因而主張將未來一年累計升息幅度的市場定價，由約91個基點下修至75個基點。潘恩指出，選前10月未升息的歷史紀錄，不能保證這次決議相同。過去Fed曾在2004年、2018年及2022年的選前9月會議升息，顯示通膨與經濟情勢仍會影響政策選擇。瑞銀認為，市場若降低對10月升息的押注，12月會議的累計升息定價可能由目前約38個基點，回到約25個基點。\n\n債市方面，瑞銀美股策略師帕克(Keith Parker)指出，美債殖利率急升已壓縮股票估值：自去年11月以來，隨著10年期美債殖利率累計上行約100個基點，標普500指數未來12個月預估本益比下滑約17%。他認為，若殖利率回落，美股估值可能獲得修復空間。\n\n不過，美伊衝突推高能源價格，仍使通膨與利率前景存在變數。市場接下來將檢視本週美國經濟及通膨數據，判斷油價衝擊是否擴散至其他價格，以及Fed是否需要延長緊縮週期。",
+      "Language": "zh"
+    },
     {
       "Ticker": "META, MSFT, GOOGL, AMZN",
       "Date": "2026-09-29",
@@ -23,6 +33,66 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "15:51:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "統一期貨：美中談判無重大進展，台股期震盪守48,000點整數關卡",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B5%B1-%E6%9C%9F%E8%B2%A8-%E7%BE%8E%E4%B8%AD%E8%AB%87%E5%88%A4%E7%84%A1%E9%87%8D%E5%A4%A7%E9%80%B2%E5%B1%95-%E5%8F%B0%E8%82%A1%E6%9C%9F%E9%9C%87%E7%9B%AA%E5%AE%8848-000%E9%BB%9E%E6%95%B4%E6%95%B8%E9%97%9C%E5%8D%A1-075117397.html",
+      "Content": "【財訊快報／編輯部】本次川習會談判，中美雙方未取得重大進展，僅延後貿易停戰期2個月，故此事件對台股影響較為有限。中秋連假期間缺乏利多事件刺激、加上美債殖利率續創波段新高，導致台指期上檔承壓，週二台指期大致於48,000點整數關卡上下狹幅盤整。綜觀法人籌碼，三大法人合計賣超781.9億元，其中外資賣超632億元，而自營商賣超164億元，投信則買超14.2億元。檢視選擇權金流，外資布局0.18億元偏多部位，自營商則布局2.24億元偏空部位。選擇權未平倉部分，9月W4週選價平近9檔賣權最大未平倉下降400點至47,500點，買權最大未平倉仍為48,000點，最大OI區間下移中性偏空。\n\n期貨方面，外資夜盤加碼515口空單，日盤則加碼1,233口空單，未平倉淨空單增至-79,161口；十大特定法人大幅減碼3,182口多單至2,759口。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2454.TW",
+      "Date": "2026-09-29",
+      "Time": "15:34:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "永豐期貨：聯發科、創意重挫逾7%！大盤失守48,000點",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B0%B8%E8%B1%90%E6%9C%9F%E8%B2%A8-%E8%81%AF%E7%99%BC%E7%A7%91-%E5%89%B5%E6%84%8F%E9%87%8D%E6%8C%AB%E9%80%BE7-%E5%A4%A7%E7%9B%A4%E5%A4%B1%E5%AE%8848-000%E9%BB%9E-073440350.html",
+      "Content": "【財訊快報／編輯部】期貨走勢，指數週二下跌392.64點，收在47631.96點，成交量0.82兆元。台指期下跌344點至47781點，正價差為149.04點。籌碼面部分，三大法人賣超781.87億元；而在台指期淨部位方面，三大法人淨空單增加1018口至-6705口，其中外資淨空單增加1998口至-79029口；十大交易人中的特定法人全月份台指期淨多單減少3182口至2759口。台股今日開低走低。早盤開在47,874點後一度彈至48,045點，惟買盤隨即退場，指數一路震盪走低，最低下探47,573點，尾盤又見一波賣壓，終場下跌393點(-0.82%)，收在47,632點，失守48,000點整數關卡。今日成交量小幅回升至7,850億元，價跌量增顯示賣壓確實轉強。盤面上下跌家數807家，遠多於上漲434家，個股已連續第四個交易日跌多漲少。\n\n個股表現上，IC設計龍頭聯發科(2454)重挫7.10%領跌，創意(3443)跌7.04%，被動元件龍頭國巨(2327)跌5.52%，散熱指標奇鋐(3017)跌4.36%，電源龍頭台達電(2308)跌3.93%，PCB指標台光電(2383)跌2.57%，熱門題材股全面遭到獲利了結。相對地，權值王台積電(2330)今日收平盤，成為指數少數的穩定力量；玻纖布指標南亞(1303)逆勢大漲3.78%，金融股也重新展現抗跌韌性，富邦金(2881)漲1.00%、國泰金(2882)漲0.90%、中信金(2891)漲0.29%。\n\n整體來看，今日出現較明顯的拉回並失守48,000點關卡，前一波領漲的IC設計、ASIC、散熱與被動元件族群同步重挫，顯示先前集中在少數題材的資金開始撤出調節。不過台積電收平盤守住，金融股與南亞逆勢走強，代表資金並非全面性撤離，而是轉向防禦性與落後補漲的標的。後續須留意這波調節是否進一步擴散至權值龍頭，以及資金是否持續往金融、傳產等防禦族群靠攏。\n\n選擇權分析，選擇權未平倉量部分，10月買權最大OI落在50000點，賣權最大OI落在40000點；10月F1買權最大OI落在52000點，賣權最大OI落在47300點。全月份未平倉量put/call ratio值由0.85下降至0.75。VIX指數上升1.48至24.6。外資台指期買權淨金額-1.58億元；賣權淨金額0.29億元。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "15:26:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "名師操盤》當心高檔大怒神 ！3檔優質股不怕震 暗藏爆發力",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%90%8D%E5%B8%AB%E6%93%8D%E7%9B%A4-%E7%95%B6%E5%BF%83%E9%AB%98%E6%AA%94%E5%A4%A7%E6%80%92%E7%A5%9E-3%E6%AA%94%E5%84%AA%E8%B3%AA%E8%82%A1%E4%B8%8D%E6%80%95%E9%9C%87-%E6%9A%97%E8%97%8F%E7%88%86%E7%99%BC%E5%8A%9B-072600747.html",
+      "Content": "中秋連假期間美股震盪走低，美股四大指數累計全數下跌，美伊停火與重開荷姆茲海峽談判無進展，使得國際油價與美債殖利率走高，10年期美債殖利率收5.241%，創2007年6月12日以來最高收盤水準，根據芝商所FedWatch工具顯示，市場預期10月再度升息1碼的機率已達七成。\n\n台股目前從技術面來看， 5、10、20、60日均線呈現多頭排列，日KD指標向上，MACD 紅柱體持續放大，整體技術面維持穩健強勢，但是由於國際股債市走弱及近期融資增速過快，短線仍須提防行情波動，預期本周大盤維持高檔震盪、類股輪動格局。\n\n在盤勢震盪整理的過程中，選股不選市、聚焦基本面是應對當前行情的最佳策略，建議可優先佈局業績表現亮眼、未來展望佳的優質個股：\n\n▲石英元件\n\n3042晶技主要業務為石英元件之研發、製造及買賣，公司前八月稅前盈餘17.91億元，年增29.7%，每股稅前盈餘5.27元。公司預期，AI與車用兩大業務後續占整體營收比重將超過50%，營運結構逐步由手機與消費電子轉向AI基礎建設與汽車電子。相關延伸概念股:2484希華、3221台嘉碩\n\n▲低軌衛星\n\n3491昇達科是台灣低軌衛星與微波高頻通訊元件的領導廠商，公司前8月累計營收24.74億元、年增73.40%；看好下半年低軌衛星需求，第四季將迎來全年高峰。相關延伸概念股:4906正文\n\n▲功率元件\n\n3675德微為功率元件廠，公司切入AI高功率元件，累計前8月合併營收達20.77億元，年增20.67％；隨著高階產品比重提升，AI電源、工業控制與車用市場後續拉貨狀況，將成為營運能否延續成長的重要觀察指標。相關延伸概念股:2481強茂、6693廣閎科\n\n總結來說，近期由於美國拒絕伊朗方案導致油價上漲，疊加美債殖利率持續攀高，推升 10 月升息預期並衝擊美股，市場靜待本週 PCE 數據指引利率路徑；回歸台股，受惠 AI 基本面表現強勁，支撐技術面維持強勢，但短線仍須提防行情波動，預期本周大盤維持高檔震盪、類股輪動格局。\n\n但在高檔震盪期間，我們仍提醒投資人切忌一次壓滿或盲目追高，宜採「買黑賣紅」與「分批布局」策略，才能在上漲行情中持續獲利，站在勝利的一方。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".N225",
+      "Date": "2026-09-29",
+      "Time": "15:14:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "債券拋售、除息效應夾擊　日股收跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%82%B5%E5%88%B8%E6%8B%8B%E5%94%AE-%E9%99%A4%E6%81%AF%E6%95%88%E6%87%89%E5%A4%BE%E6%93%8A-%E6%97%A5%E8%82%A1%E6%94%B6%E8%B7%8C-071446246.html",
+      "Content": "（中央社東京2026年09月29日綜合外電報導）受到全球債券拋售可能帶來的經濟影響引發市場憂心，投資人風險偏好受挫，日本股市連續第2個交易日下滑。另有多檔股票進入除息，也對大盤造成壓力。\n\n日股基準日經225指數收盤下跌396.35點或0.60%，報65481.27點。\n\n東證股價指數收盤下跌70.87點或1.72%，報4041.13點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "15:13:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI巨頭掩熊市真相？ 高盛示警「恐重現網路泡沫」 未來3劇本一次看",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E5%B7%A8%E9%A0%AD%E6%8E%A9%E7%86%8A%E5%B8%82%E7%9C%9F%E7%9B%B8-%E9%AB%98%E7%9B%9B%E7%A4%BA%E8%AD%A6-%E6%81%90%E9%87%8D%E7%8F%BE%E7%B6%B2%E8%B7%AF%E6%B3%A1%E6%B2%AB-%E6%9C%AA%E4%BE%863%E5%8A%87%E6%9C%AC-%E6%AC%A1%E7%9C%8B-071300971.html",
+      "Content": "表現穩定內部風險卻升高？高盛（Goldman Sachs）在最新研究報告中示警，美股目前正面臨嚴重的「結構性斷裂」，然而市場卻對潛在的風險反應遲鈍，存在不小的隱患。\n\n債市拉警報股市卻反應冷淡\n\n高盛指出，美國債市波動指標MOVE指數已升至歷史高位，與美股恐慌指數（VIX）持續低迷形成鮮明對比；隨著債券殖利率攀升，股市大盤卻僅靠少數AI大型股支撐，市場廣度創下自2000年網路泡沫以來的最差紀錄；高盛衍生品交易主管Brian Garrett說明，在MOVE指數達極端水平下，信用違約交換（CDS）指數也接近「恐慌」區域；相對地，美股仍維持高位，看似無視風險。\n\n高盛投資等級債分析師Brad Shelofsky則認為，投資等級債的殖利率雖具有吸引力，但信用利差僅80個基點，難以刺激積極買盤。利率快速上升，可能進一步抑制市場需求，加劇資金流出的憂慮；此外，CCC級垃圾債利差在近14個交易日有11天擴大，逼近2022年警戒水平；科技股CDS利差也升至新高。債市各項指標顯示，流動性與信用風險正在累積壓力。\n\nAI巨頭掩蓋美股「熊市」事實\n\n高盛說明，債市的恐慌尚未影響股市，主因為AI巨頭撐起大盤，掩蓋大多數個股下跌的事實。高盛美洲股票執行服務主管John Flood表示，標普500指數中位數股票距52週高點已下跌16%；雖然指數表現強勁，但多數成分股已進入熊市，形成「虛胖」現象。\n\n數據顯示，標普500成分股中，站上200日均線的比例已跌破50%關鍵門檻，創52週新低的公司連續九個交易日多於新高公司。BTIG策略師Jonathan Krinsky指出，這種廣度指標同時觸發，是自2000年網路泡沫破裂以來首見。\n\n法人避險基金操作矛盾\n\n根據高盛Prime數據，美國避險基金總槓桿率升至210.6%，但淨槓桿率降至48.6%；說明法人雖加大市場曝險，同時加強避險布局，整體操作呈現矛盾。在選擇權市場，買權隱含波動率上升，顯示單一股票投機交易增多。\n\n分析師預測3種美股走向\n\n針對股債背離，Jonathan Krinsky提出三種未來情境：\n\n樂觀（利空出盡）：散戶情緒若極度悲觀，再加上法人的低配部位，就是潛在的軋空行情；若總經數據未見大幅惡化，落後的個股有望迎來補漲行情。\n\n2. 中性（區間震盪）：Krinsky指出，當前資金結構有利於盤整，年底美國選舉、科技股財報及地緣政治，都將影響後市走勢。\n\n3. 悲觀（迎來補跌）：Krinsky示警，一旦出現「高相關性拋售」所有類股齊跌，市場廣度惡化恐引發大盤大幅修正，重現網路泡沫補跌局面。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:te",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "15:11:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "三大法人賣超台股781.86億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A1781-86%E5%84%84%E5%85%83-071131277.html",
+      "Content": "（中央社台北2026年9月29日電）台股今天跌392.64點，收在47631.96點，成交值新台幣7850.39億元。三大法人外資及陸資、自營商賣超，投信買超，合計賣超781.86億元。\n\n自營商賣超164.02億元，投信買超14.17億元，外資及陸資賣超632.01億元。",
+      "Language": "zh"
+    },
+    {
       "Ticker": ".N225",
       "Date": "2026-09-29",
       "Time": "15:09:25",
@@ -30,6 +100,26 @@
       "Title": "日經週二收跌396.35點或0.60%，險守六萬五，TOPIX重挫1.72%，鎧俠翻紅",
       "URL": "https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E9%80%B1%E4%BA%8C%E6%94%B6%E8%B7%8C396-35%E9%BB%9E%E6%88%960-60-%E9%9A%AA%E5%AE%88%E5%85%AD%E8%90%AC%E4%BA%94-topix%E9%87%8D%E6%8C%AB1-070925175.html",
       "Content": "【財訊快報／陳孟朔】東京股市週二(29日)延續前一日跌勢。日經225指數盤中一度跌破65,000點，低見64,699.49點，終場跌396.35點或0.60%，收65,481.27點；東證指數(TOPIX)急跌70.87點或1.72%，收4,041.13點，創9月8日下跌1.83%以來約三週最大單日跌幅。兩大指數週一已分別下跌0.73%及0.40%。週一美股全面收低，科技股賣壓沉重，加上美債殖利率居高及中東局勢推升油價，壓抑日股風險偏好。TOPIX跌幅明顯大於日經，反映賣壓擴及較廣泛的個股。日經成分股中，東海碳素逆勢漲4.75%；中外製藥、野村控股及半導體材料業者Resonac控股則分別跌4.18%、4.11%及4.00%三檔墊底。\n\n鎧俠控股(285A.T)則在一拆三股票分割的除權交易日先跌後升，盤中最低觸及17,185日圓，終場收17,880日圓，較分割調整後的前收盤價上漲100日圓或0.56%，與大盤跌勢形成對比。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "15:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》減重藥物—LLY、NVO、VKTX",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%B8%9B%E9%87%8D%E8%97%A5%E7%89%A9-lly-nvo-vktx-070600818.html",
+      "Content": "MoneyDJ新聞 2026-09-29 15:06:02 數位內容中心 發佈\n\nEli Lilly（LLY.US）\n\n9月，Eli Lilly表示口服減重藥Foundayo已占美國新開立口服升糖素樣胜肽-1（GLP-1）處方約1/3，且市占仍逐週上升。2026年第2季這項產品在美國上市首3個月銷售額為9800萬美元，顯示口服化已成公司本週最明確的商業化訊號。\n\nNovo Nordisk（NVO.US）\n\n近期，Novo Nordisk提出到2030年將口服GLP-1產能提高10倍，目標服務超過6000萬名病患。公司同時表示，超過80%在美國開始使用Wegovy錠劑的病患此前未曾使用GLP-1，凸顯其本週主軸在口服滲透與製造放大量能。\n\nViking Therapeutics（VKTX.US）\n\n9月22日，Viking Therapeutics公布VK2735維持治療研究頂線結果，隔週給藥可維持最多97%的第21週既有減重成果，每月給藥可維持最多90%。這使低頻維持給藥成為公司本週最值得記住的訊號，對應產業競爭正轉向耐久性與使用便利性。\n\nAmgen（AMGN.US）\n\n近7日資料顯示，Amgen將MariTide作為肥胖市場核心資產，初始可每月一次，維持期可降至每年4次或6次。公司目前已展開10項第3期試驗、總受試者28043人，並表示2026年內還將啟動3項第二型糖尿病第3期試驗。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》減重藥物—LLY、NVO、CRBP\n\n《美股主題週報》基因編輯—NTLA、BEAM、CRSP\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "15:05:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【Follow法人】外資再砍632億元 連2天提款台股961億元 分析師：賣壓恐延續",
+      "URL": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E5%86%8D%E7%A0%8D632%E5%84%84%E5%85%83-%E9%80%A32%E5%A4%A9%E6%8F%90%E6%AC%BE%E5%8F%B0%E8%82%A1961%E5%84%84%E5%85%83-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E8%B3%A3%E5%A3%93%E6%81%90%E5%BB%B6%E7%BA%8C-070525492.html",
+      "Content": "台股今（29）日賣壓湧現，失守4萬8千點大關。觀察法人籌碼動向，三大法人今日合計賣超781.86億元，外資今日也延續上周賣超態勢再砍632.01億元，呈連2賣，累計賣超961.66億元。資深台股分析師呂漢威表示，近期外資轉賣主要受到國際資金重新配置及美債殖利率走高影響，若殖利率持續維持高檔，本周仍可能出現調節性賣壓。\n\n外資連2天提款台股961億元 分析師：美債殖利率是關鍵\n\n呂漢威表示，外資連續賣超主要受到國際資金重新配置，以及美債殖利率走高影響，此外上周日本市場因假期休市，部分國際資金可能暫時轉往台股，隨著日股恢復交易，資金也開始回流原先布局的市場。\n\n呂漢威指出，美債殖利率攀升，使債券價格承壓，也會拉高市場無風險利率，進而壓低股票估值，他認為，若美債殖利率持續維持高檔，本周外資仍可能出現調節性賣壓，後續仍持續觀察美債殖利率及國際資金流向變化。\n\n台股失守4萬8 三大法人賣超781億元\n\n根據證交所公布籌碼動向，三大法人今日合計賣超781.86億元。其中，外資也同步賣超632.01億元，呈連2賣，累計賣超961.66億元。\n\n投信則是由賣轉買，今日合計買超14.16億元，終止連3賣。\n\n自營商則是由買轉賣，合計賣超164.01億元，終止連6買，其中自行買賣賣超8.08億元，避險操作賣超155.93億元。\n\n台股今日失守4萬8千點大關，加權指數終場收在47,631點，下跌392點，成交金額約8,246億元。權王台積電（2330）維持平盤，終場收在2,475元。\n\n湯暖萱／財經特派記者，主跑主計處、營建、百貨紡織等",
       "Language": "zh"
     },
     {
@@ -45,11 +135,61 @@
     {
       "Ticker": "2330.TW",
       "Date": "2026-09-29",
+      "Time": "14:58:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電訂10/15召開線上法說會",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A8%8210-15%E5%8F%AC%E9%96%8B%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83-065800366.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2330)台積電-公告本公司115年第三季法人說明會將於115年10月15日召開\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/15\n\n1.召開法人說明會之日期：115/10/15\n\n2.召開法人說明會之時間：14 時 00 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：\n\n(1)公布本公司2026年第3季財務報告及2026年第4季業績展望。\n\n(2)參加方式：請參見https://investor.tsmc.com/chinese/quarterly-results/2026/q3\n\n5.其他應敘明事項：無。\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n台積電 公告本公司115年第三季法人說明會將於115年10月15日召開\n\n高本益比族群領跌　台股下挫392點收47631點\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-29",
       "Time": "14:54:20",
       "Source": "Yahoo奇摩股市",
       "Title": "【公告】台積電115年第三季法人說明會將於115年10月15日召開",
       "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8F%B0%E7%A9%8D%E9%9B%BB115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E5%B0%87%E6%96%BC115%E5%B9%B410%E6%9C%8815%E6%97%A5%E5%8F%AC%E9%96%8B-065420232.html",
       "Content": "日　　期：2026年09月29日\n\n公司名稱：台積電 (2330)\n\n主　　旨：台積電115年第三季法人說明會將於115年10月15日召開\n\n發言人：黃仁昭\n\n說　　明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/15\n\n1.召開法人說明會之日期：115/10/15\n\n2.召開法人說明會之時間：14 時 00 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：(1)公布本公司2026年第3季財務報告及2026年第4季業績展望。(2)參加方式：請參見https://investor.tsmc.com/chinese/quarterly-results/2026/q3\n\n5.其他應敘明事項：無。\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "14:51:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》氫能動力—BE、PLUG、APD",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%B0%AB%E8%83%BD%E5%8B%95%E5%8A%9B-plug-apd-065100058.html",
+      "Content": "MoneyDJ新聞 2026-09-29 14:51:07 數位內容中心 發佈\n\nBloom Energy（BE.US）\n\n9月26日，Bloom Energy回應甲骨文位於美國新墨西哥州Project Jupiter延遲傳聞，表示專案持續推進，與甲骨文相關的2.4GW燃料電池合約維持不變。這使資料中心分散式低碳供電仍是本週最明確的燃料電池需求訊號。\n\nPlug Power（PLUG.US）\n\n9月22日，Plug Power宣布已向紐西蘭HWR Hydrogen出貨1MW GenEco質子交換膜（PEM）電解槽，並獲選供應澳洲Orica的50MW系統。兩案分別對應加氫站與大型再生氫專案，呈現小型分散出貨與大型工業案同步推進。\n\nAir Products and Chemicals（APD.US）\n\n9月25日，Air Products and Chemicals宣布與一家美國半導體製造商簽署長期供氣協議，將在亞利桑那州投入約2.5億美元，建置涵蓋氫氣製造與相關管線的高純度氣體基礎設施。這是公司近期第二個半導體相關合約。\n\nLinde（LIN.US）\n\nLinde本週披露2026年第二季sale-of-gas backlog升至81億美元新高，total project backlog為110億美元。同期市場資料提到其氫能資產涵蓋約1000公里氫氣管線與近200座加氫站，顯示工業氣體基建訂單能見度仍在延續。\n\nFuelCell Energy（FCEL.US）\n\nFuelCell Energy本週焦點是簽下首個資料中心供電協議，部署規模為6套12.5MW系統。公司同時強調Tri-gen平台可由單一系統同時產出氫氣、電力與水，顯示資料中心已成為其氫能應用的新落地場景。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》新式核能—LEU、OKLO、CEG\n\n《美股主題週報》發電現代化—GEV、CEG、PWR\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-09-29",
+      "Time": "14:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電 公告本公司115年第三季法人說明會將於115年10月15日召開",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E5%B0%87%E6%96%BC115%E5%B9%B410%E6%9C%8815%E6%97%A5%E5%8F%AC%E9%96%8B-064400074.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2330)台積電-公告本公司115年第三季法人說明會將於115年10月15日召開\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/15\n\n1.召開法人說明會之日期：115/10/15\n\n2.召開法人說明會之時間：14 時 00 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：(1)公布本公司2026年第3季財務報告及2026年第4季業績展望。(2)參加方式：請參見https://investor.tsmc.com/chinese/quarterly-results/2026/q3\n\n5.其他應敘明事項：無。\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n台積電訂10/15召開線上法說會\n\n高本益比族群領跌　台股下挫392點收47631點\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "14:41:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈台股盤後〉節後補跌392點  油價、美債殖利率雙擊痛失4萬8及5日線",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E7%AF%80%E5%BE%8C%E8%A3%9C%E8%B7%8C392%E9%BB%9E-%E6%B2%B9%E5%83%B9-%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E9%9B%99%E6%93%8A%E7%97%9B%E5%A4%B14%E8%90%AC8%E5%8F%8A5%E6%97%A5%E7%B7%9A-064125188.html",
+      "Content": "台股今(29)日為連假結束後首個交易日，受美伊談判停滯、油價上揚，加上美債殖利率走升，指數開低走低，盤中一度下跌超過440點，盤面上以塑化、LED類股及季底集團作帳族群表現較佳，終場下跌392.64點或0.82%，收47,631.96點，失守4萬8千點及5日線，成交量略增，收7,850.39億元。\n\n櫃買市場(OTC)則受惠中小型股題材多元表現，小跌0.18%，表現優於集中市場。\n\n在電子權值股部分，僅台積電(2330-TW)扮演撐盤，股價開高震盪，最後一盤遭砍大單6,095張，收平盤價2,475元；聯發科(2454-TW)傳遭搶單新聞，股價重跌7.1%；鴻海(2317-TW)收平盤；台達電(2317-TW)回檔跌3.93%，日月光投控(3711-TW)跌1.72%、聯電(2303 -TW)跌0.32%。\n\n塑化股部分，受布蘭特、西德州原油期貨拉升，加上集團季底作帳影響，與油價高度相關的台塑化(2317-TW)開高走高，爆量4萬張，漲8.14%，包括南亞(1303-TW)漲3.78%，台塑(1301TW)、台化(1326-TW)也收紅，中華化(1327-TW)漲2.6%。\n\n聯電集團的至原(3035-TW)漲1.69%、宏齊(6168-TW)漲2.73%、揚智(3041-TW)漲1.72%。\n\nLED族群則逆勢聚光，台亞(3591-TW)漲停板、艾笛森(3591-TW)漲7%、李洲(3066 -TW)漲7.66%，立碁(8111 -TW)、光鼎(6226 -TW)、光鋐(4956-TW)漲3-4%。\n\n分析師表示，今日台股主要是節後出現補跌，包括美債10年期殖利率飆破5.2%，加上美國拒絕伊朗和平協議，日、韓股下跌影響，外界擔憂影響科技股股價，短線投資人可觀察明(30)日指數是否連2天跌破5日線轉弱，留意賣壓，大型權值股則受壓力影響難有表現，可觀察具題材強勢的小型股進行短線操作。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "14:32:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》關鍵資源「鈾」—UEC、UUUU",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%88%BE-uec-uuuu-063200113.html",
+      "Content": "MoneyDJ新聞 2026-09-29 14:32:58 數位內容中心 發佈\n\nUranium Energy Corp.（UEC.US）\n\n2026/09/22，公司宣布將於09/29公布年結結果，並重申在懷俄明州與南德州合計約1,200萬磅／年的已許可產能，同步透過全資子公司推進美國本土精煉與轉化能力建置。這使其本週訊號集中在美國前端核燃料供應鏈本土化布局。\n\nEnergy Fuels（UUUU.US）\n\n2026/09/24，公司維持全年含鈾量開採200萬至250萬磅、銷售150萬至200萬磅預期；其上半年已完成170萬磅鈾成品產量，高於全年指引下緣13.3%。本週最值得記住的是，既有產出進度已先行跑到全年區間前段。\n\nCosa Resources\n\n2026/09/28，公司宣布在Saskatchewan的Aurora鈾項目啟動約800公尺、4至6孔金剛石鑽探，且由合作方Traction Uranium全額出資。依既有選擇權協議，Traction最高可取得80%權益，顯示Athabasca盆地上游探勘資本本週仍在持續投入。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《美股主題週報》關鍵資源「鈾」—CCJ、UEC、NXE\n\n《美股主題週報》關鍵資源「鈾」—LEU、CCJ、UUUU\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
@@ -71,6 +211,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-062300651.html",
       "Content": "For Immediate Release\n\nChicago, IL – September 29, 2026 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets. Stocks recently featured in the blog include: Alphabet Inc. GOOGL, Mastercard Inc. MA, AbbVie Inc. ABBV, Perma-Pipe International Holdings, Inc. PPIH and ImmuCell Corp. ICCC.\n\nHere are highlights from Monday's Analyst Blog:\n\nTop Research Reports for Alphabet, Mastercard and AbbVie\n\nThe Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Alphabet Inc., Mastercard Inc. and AbbVie Inc., as well as two micro-cap stocks Perma-Pipe International Holdings, Inc. and ImmuCell Corp. The Zacks microcap research is unique as our research content on these small and under-the-radar companies is the only research of its type in the country.\n\nThese research reports have been hand-picked from the roughly 70 reports published by our analyst team today.\n\nYou can see all of today's research reports here >>>\n\nAhead of Wall Street\n\nThe daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning.\n\nYou can read today's AWS here >>> Big Week of Jobs & Inflation Data, Micron Earnings\n\nToday's Featured Research Reports\n\nAlphabet's shares have outperformed the Zacks Internet - Services industry over the year-to-date period (+10.1% vs. +8.4%). The company's AI-led product cycle is strengthening Search, Cloud and subscriptions, while broader enterprise adoption and flexible infrastructure models support long-term monetization.\n\nSearch and YouTube remain durable cash generators, and Cloud is deepening customer relationships across AI, data and security. Alphabet's differentiated silicon and long-term infrastructure contracts may improve returns on AI investment. These positives are offset by rising capital intensity, weaker free cash flow and a larger debt load.\n\nAdvertising concentration, legal remedies and intense AI competition also create uncertainty around margins and returns. Higher infrastructure spending could weigh on near-term cash generation. With stronger Cloud economics balanced by investment and regulatory risk, the shares present an even risk-reward profile.\n\n(You can read the full research report on Alphabet here >>> )\n\nShares of Mastercard have declined -0.1% over the year-to-date period against the Zacks Financial Transaction Services industry's decline of -11.3%. The company's rising rebates and incentives signal greater competitive pricing pressure, while merchant litigation and alternative payment rails could weaken network economics. A premium valuation leaves less room for execution setbacks. As such, we have a Neutral view.\n\nNevertheless, Mastercard benefits from the secular shift toward electronic payments, supported by a scalable, asset-light model that can convert rising transaction volumes into attractive incremental economics. Resilient consumer spending and cross-border demand provide revenue visibility, while growing value-added services broaden the earnings base beyond core payment processing.\n\nStrategic partnerships, acquisitions and expansion into emerging payment flows further extend its addressable market. Strong cash generation also supports continued reinvestment, acquisitions and shareholder returns.\n\n(You can read the full research report on Mastercard here >>> )\n\nAbbVie's shares have outperformed the Zacks Large Cap Pharmaceuticals industry over the year-to-date period (+18.4% vs. +15.3%). The company has successfully navigated Humira's loss of exclusivity by launching two other successful immunology medicines, Skyrizi and Rinvoq, which are performing extremely well, bolstered by approvals in new indications, and should support top-line growth in the next few years.\n\nAbbVie's neuroscience portfolio is also rapidly expanding and contributing significantly to top-line growth. AbbVie boasts a robust pipeline and expects key data readouts, regulatory submissions, and approvals over the next few months.\n\nAbbVie has been on an acquisition spree in the past couple of years to bolster its early-stage pipeline that should drive long-term growth. However, the company faces several headwinds like Humira LOE impact, slowing oncology sales and continued macro headwinds for Aesthetics.\n\n(You can read the full research report on AbbVie here >>> )\n\nShares of Perma-Pipe International have gained +4.5% over the year-to-date period against the Zacks Steel - Pipe and Tube industry's gain of +39.8%. This microcap company with a market capitalization of $260.11 million sees its backlog reach $143.2 million, with 40-50% expected to convert to revenue within 12 months. Second-quarter bookings of more than $67 million exceeded quarterly sales. Growth is being supported across MENA, Canada, leak detection and the Ohio facility, reducing reliance on a single market.\n\nCapacity ramps in Ohio and Qatar could improve fixed-cost absorption as utilization rises, while leak-detection bookings had already reached about 80% of the full-year target by the second quarter. First-half operating cash flow also improved to $13.3 million.\n\nRisks include gross-margin pressure from start-up costs, inflation, shipping expenses and project mix, along with higher customer concentration and receivable exposure. Foreign-exchange volatility, geopolitical tensions and trade-related costs could also create variability in results. The stock's valuation is below peers on EV/sales basis.\n\n(You can read the full research report on Perma-Pipe International here >>> )\n\nImmuCell's shares have outperformed the Zacks Medical - Products industry over the year-to-date period (+61.4% vs. -20.8%). This microcap company with a market capitalization of $90.14 million has its investment case supported by strengthening demand for its First Defense platform, particularly Tri-Shield, alongside rising producer adoption and market penetration. Manufacturing expansion should ease capacity constraints, shorten processing times and support scalable long-term growth.\n\nYield improvements, better colostrum sourcing and tighter process discipline offer a path to stronger manufacturing economics. The company's sharper focus on First Defense is also improving resource allocation by redirecting spending and existing infrastructure toward its core commercial franchise.\n\nImproving cash generation provides greater flexibility to fund capacity investments with less reliance on external financing. Meanwhile, continued U.S. commercial expansion offers additional growth runway, while international markets remain a longer-term opportunity.\n\n(You can read the full research report on ImmuCell here >>> )\n\nStory Continues\n\nFree: Instant Access to Zacks' Market-Crushing Strategies\n\nSince 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.\n\nToday you can tap into those powerful strategies – and the high-potential stocks they uncover – free. No strings attached.\n\nGet all the details here >>\n\nsupport@zacks.com\n\nhttps://www.zacks.com\n\nPast performance is no guarantee of future results. Inherent in any investment is the potential for loss . This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-29",
+      "Time": "14:17:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《美股主題週報》關鍵資源「銅」—FCX、BHP、RIO",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%8A%85-fcx-bhp-061700362.html",
+      "Content": "MoneyDJ新聞 2026-09-29 14:17:00 數位內容中心 發佈\n\nBHP（BHP.US）\n\n9月24日BHP因Escondida維修作業死亡事故暫停全部作業，9月25日已啟動逐步復工。該礦為全球最大銅礦，BHP持股57.5%，先前預估2026年產量最高128萬噸，這使本週礦端短期供應風險快速升溫。\n\nFreeport-McMoRan（FCX.US）\n\n9月22日至25日市場資料聚焦Freeport-McMoRan對美國精煉銅供應與銅價彈性，公司供應美國約70%精煉銅。若美國本土銅價溢價延續，原始資料估計其每年EBITDA可能增加約17億美元，直接對應本週北美區域化供應鏈議題。\n\nRio Tinto（RIO.US）\n\n9月下旬原始資料指出，Rio Tinto正擴大金屬交易業務，並明確尋找北美銅陰極與硫酸交易機會，現有商業交易團隊約20名交易員。這使其本週與美國精煉銅政策未定下的區域供應鏈重配直接連動。\n\nGunnison Copper\n\n9月下旬Gunnison Copper宣布亞利桑那州Johnson Camp礦山進入商業化生產，8月銅陰極產量130萬4448磅，9月1日至17日再產89萬4767磅。該礦正朝每年最高2500萬磅名目產能推進，對應北美新增供給以既有資產復產為主。\n\nHighland Copper\n\n9月下旬Highland Copper的Copperwood取得5000萬美元Michigan Strategic Fund補助最終核准，但建廠決策由2026年下半年延後至2027年，首產改為2030年下半年。這反映北美新礦前端活動升溫下，行政與融資時程仍在拉長。\n\n＊小提醒：本文內容為利用AI數位工具廣泛蒐羅、彙整全球各地新聞與多元資訊自動生成，僅供資訊參考之用，不構成任何形式的投資建議、要約或承諾，讀者應獨立判斷、審慎評估，並自負投資損益及相關風險。\n\n《金屬》中國買盤支撐 LME期銅上漲0.8%\n\n《金屬》中國需求活躍 LME基本金屬多數上漲\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, 2330.TW",
@@ -120,6 +270,16 @@
       "Title": "台股收跌392點 失守5日線量縮至7800億 台塑化逆勢噴8%",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C392%E9%BB%9E-%E5%A4%B1%E5%AE%885%E6%97%A5%E7%B7%9A%E9%87%8F%E7%B8%AE%E8%87%B37800%E5%84%84-%E5%8F%B0%E5%A1%91%E5%8C%96%E9%80%86%E5%8B%A2%E5%99%B48-060700778.html",
       "Content": "台股今（29）日開低走低，盤中雖兩度翻紅，但隨後又迅速翻黑，一度下挫逾400點，終場收47637點失守5日線，下跌392點，跌幅0.82%，成交量量縮至7800億，櫃買指數也下跌0.18%，收412.25點。\n\n權值股部分，台積電收2475元平盤，聯發科失守5000元關卡來到4910元，下跌逾7%，台達電下跌3.93%，收1835元，大立光也有逾3%的跌幅。\n\n觀察今日盤面，資金聚焦台塑四寶，台塑化領軍上漲收94.3元，大漲逾8%，成交量約4萬張，南亞開高走高來到247元，上漲3.78%，台化、台塑分別來到67.5元、64.6元。\n\n記憶體族群則集體回神，早盤開低後由黑翻紅，華邦電來到174元，上漲1.46%，旺宏來到118.5元，漲1.28%，力積電收72.3元，上漲0.42%，南亞科也有0.6%的漲幅，終場收506元。\n\n（封面圖／東森新聞）\n\n【 本文 由 東森財經 提供，未經授權，請勿轉載！】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "14:06:40",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股Q4上看5.3萬點！法人卻示警「萬點震盪」 台積電、南亞成攻守雙主軸",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1q4%E4%B8%8A%E7%9C%8B5-3%E8%90%AC%E9%BB%9E-%E6%B3%95%E4%BA%BA%E5%8D%BB%E7%A4%BA%E8%AD%A6-%E8%90%AC%E9%BB%9E%E9%9C%87%E7%9B%AA-%E5%8F%B0%E7%A9%8D%E9%9B%BB-060640587.html",
+      "Content": "中秋連假後首個交易日，台股今（29）日開低走低，加權指數終場下跌392.64點、收47,631.96點，跌幅0.82%，失守48,000點與5日線，成交金額約7,850億元。台積電(2330)以2,475元平盤開出，早盤最高一度來到2,490元，終場仍收2,475元平盤，未能扭轉大盤弱勢；聯發科(2454)、台達電(2308)等大型電子權值股同步承壓，市場資金則轉向南亞(1303)、南電(8046)等部分個股。\n\n本土老字號投顧最新策略報告估計，2026年第4季加權指數運行區間落在43,000~53,000點，高低差達1萬點，反映資金行情仍有延續空間，但美伊戰爭推升油價與通膨、美債殖利率走高，都可能壓抑科技股估值；另一方面，AI需求依舊強勁，供應鏈獲利成長仍是多頭主要支柱。\n\n法人先畫出「萬點震盪」\n\n法人預估，第4季指數低點43,000點、高點53,000點，相較第3季預估高低差5,000點，第4季震盪空間直接放大至1萬點。法人並將全球AI基建、美國期中選舉及國際政經變數列為影響市場的重要節點。\n\n操作上，法人提出5大策略，包括鎖定AI技術與材料典範轉移、注意台韓科技股連動、嚴控槓桿並保留現金、聚焦成長股，以及在資金快速輪動環境下維持平衡配置。法人並提醒，利空鈍化後較容易形成買點，連續利多後則須提高對修正的警覺。\n\n點名四大供應鏈 台積電、南亞成兩條主線\n\n產業布局方面，法人將焦點放在「AI技術與材料典範轉移」，點名先進材料、先進製程、先進封裝及矽光子CPO四大領域，認為這些環節到2027年仍具較高產業能見度，其中AI基礎建設與AI工廠是主要需求來源。\n\n個股方面，法人將台積電(2330)視為AI製造核心，南亞(1303)則被定位為傳統產業轉向電子材料的代表，形成「先進製造＋材料升級」兩條主線。\n\n台積電預計10/15舉行2026年第3季法說會，公司先前預估第3季營收達446億~458億美元、毛利率65~67%，將成為第4季AI行情的重要基本面檢驗點。\n\n南亞近期電子材料比重則持續拉升，8月合併營收306億元、站上50個月高點；法人指出，高階玻纖布、銅箔與銅箔基板需求受AI伺服器帶動，8月電子材料營收占比已接近6成。\n\n法人同時警告流動性枯竭、價值陷阱與產能過剩等3類風險，並重申控制槓桿、保留現金水位等建議。第4季雖仍以AI成長題材為主軸，但在指數位階墊高後，選股與獲利能見度的重要性也同步升高。",
       "Language": "zh"
     },
     {
@@ -211,6 +371,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/stock-split-watch-meta-platforms-053300792.html",
       "Content": "Meta Platforms (NASDAQ: META) closed at $751.66 on Sept. 25, nearly 30% above its Sept. 1 closing price, despite pulling back roughly 3.3% in the latest session. The stock had reached a new 52-week high of $779.82 just a day earlier.\n\nRising enthusiasm around the launch of its new Muse artificial intelligence (AI) assistant has helped fuel this rally. Reuters reported that Meta Platforms' shares had already gained more than 20% following Muse's launch on Sept. 8. This jump resulted in more than a $310 billion increase in the company's market value by Sept. 22.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nThe sharp rise in share price has strengthened the case for Meta Platforms as a potential stock-split candidate. The company remains the only \"Magnificent Seven\" member that has never completed a conventional stock split .\n\nHere's a case for a stock split that may be getting stronger.\n\nCase for a potential stock split\n\nMeta Platforms' shares still trade above $750 even after the Sept. 25 pullback. While a stock split would not change the company's intrinsic value, it could make the shares more accessible to employees and investors by lowering the nominal price per share. Both Nvidia and Apple cited greater accessibility as a reason for their previous stock splits.\n\nThe growing availability of fractional shares, however, has reduced one of the traditional reasons for stock splits. Investors using brokers that support fractional trading can invest any desired amount in Meta Platforms without buying a full share.\n\nFractional shares do not make Meta Platforms' high nominal share price completely irrelevant. A standard U.S. equity options contract generally represents 100 shares. At Meta Platforms' Sept. 25 closing price, the options contract represents roughly $75,166 in underlying stock value. A stock split could therefore make some options strategies involving the standard 100-share lots more accessible.\n\nCould Meta Platforms' higher share price strengthen the case for a stock split?\n\nThe more relevant question may be whether Meta Platforms' higher share price proves durable. The company briefly traded near $800 in 2025, reaching an intraday high of $796.25 on Aug. 15, without subsequently completing a stock split. This time, however, investors are increasingly betting that Muse could become a meaningful new business for the company.\n\nStory Continues\n\nThe early evidence is promising. According to Apptopia, the Muse AI assistant attracted 2.8 million downloads in its first 12 days. Reuters also reported that 57 of 64 brokerages covering the company had rated it a \"buy\" or higher by Sept. 22. Bloomberg also reported that Muse had climbed to the top of both the U.S. Apple App Store and Google Play rankings, with more than 902,000 downloads in its first six days since launch.\n\nMeta Platforms also unveiled its dedicated Muse Charm device at its September Connect event. If the stock holds these levels rather than giving back the Muse-driven gains, the practical case for lowering the nominal share price with a stock split could become stronger.\n\nManagement's latest comments still leave room for a future split. In May 2026, CFO Susan Li said Meta Platforms did not \"presently\" plan one but would keep monitoring market conditions and investor feedback. Since then, the changes in those conditions have made a potential stock split more plausible.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-09-29",
+      "Time": "13:20:16",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中秋後台股走勢全解析！台塑化狂飆9％也衝不過壓力區「法人曝上壓下撐關鍵防線」跌破這裡中線多頭全毀",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%A7%8B%E5%BE%8C%E5%8F%B0%E8%82%A1%E8%B5%B0%E5%8B%A2%E5%85%A8%E8%A7%A3%E6%9E%90-%E5%8F%B0%E5%A1%91%E5%8C%96%E7%8B%82%E9%A3%869-%E4%B9%9F%E8%A1%9D%E4%B8%8D%E9%81%8E%E5%A3%93%E5%8A%9B%E5%8D%80-%E6%B3%95%E4%BA%BA%E6%9B%9D%E4%B8%8A%E5%A3%93%E4%B8%8B%E6%92%90%E9%97%9C%E9%8D%B5%E9%98%B2%E7%B7%9A-%E8%B7%8C%E7%A0%B4%E9%80%99%E8%A3%A1%E4%B8%AD%E7%B7%9A%E5%A4%9A%E9%A0%AD%E5%85%A8%E6%AF%80-052016638.html",
+      "Content": "受累於國際油價反彈並享有煉油利差優勢的塑化權值股，今日成為盤面實質的防禦撐盤要角。例如台塑化（6505）今（29）日盤中逆勢大漲逾9％，表現最為亮眼，而其餘台塑四寶成員如台塑（1301）、南亞（1303）、台化（1326）亦發揮了穩盤效果。此外，金融、航運、生技等傳產族群也吸引不少防禦性資金進駐。\n\n運達投顧分析師陳石輝對此表示，中秋連假前其實已有許多保守與避險資金率先減碼退場，因此今日開盤雖然反映國際利空，但並未引發失控的恐慌性拋售，預期短線大盤將維持在「小跌、小漲300點以內」的大箱型區間內震盪整理。\n\n陳石輝分析，由於長假剛結束，加上美中領導人會面後缺乏更具體的實質聯合聲明，市場整體觀望氣氛依舊濃厚，日成交量能並未盲目放大，市場預估全天量能收斂在低於新台幣兆元水準，顯見市場僅是缺乏追高動能的「高檔震盪整理」。\n\n9月消費者信心創新高，台股面臨居高思危矛盾\n\n另一方面，從總體經濟數據來看，市場基本面信心依舊強勁。中央大學台灣經濟發展研究中心今日公布的9月消費者信心指數（CCI）大幅升至68.77點，創下一年半以來的新高。其中，以「未來半年投資股票時機」這一項子指標的上升幅度最為顯著，大增7.7點，顯示民間對台股長線並不悲觀。\n\n然而，台經中心學者也坦言，目前的數據反映出市場一種「居高思危的矛盾心理」。因為加權指數與櫃買市場目前皆處於歷史極高位階，且兩者走勢偶有分歧。即使經濟數據好轉、景氣復甦，一般投資人在面對歷史高點時，操作心態仍偏向謹慎，追高意願在短線上有所收斂。\n\n券商多空關鍵點位：短線壓力與中期支撐區間\n\n綜合統一證券等各大券商晨報與技術面專家觀點，台股短中期多空控價的核心關卡如下：\n\n1.短線壓力區48,500至48,600點，此處為多方反彈首要面臨的重壓區。未來大盤若要化解高檔震盪、重回多頭軌道，成交量必須全面放大並帶量突破此區間。\n\n2.短線支撐區47,500至47,700點，此處為中秋連假後多空拉鋸的關鍵防線。今日盤中最低回測至47,573點後便出現初步止跌力道，顯示此區間具備短線實質支撐力。\n\n3.中期強勢支撐46,000至46,500點，此區間為下檔極重要的中線防線。法人一致認為，只要此處未被實質跌破，台股的中線多頭結構就不會遭到破壞。\n\n資金配置黃金比例：六成布局低位階AI與傳產\n\n在操作策略上，市場專家建議投資人應採取「順勢而為、汰弱留強」的步調。在美債與油價大幅波動的波動期，應避免一味追逐高檔鈍化或過度投機的標的。\n\n目前的黃金資金配置比例，建議以「保留4成現金、投入6成資金」為宜。投資組合上，可擇優布局基本面扎實、庫存去化告一段落且位階相對較低的主流題材，例如具實質獲利支撐的AI伺服器硬體供應鏈、高階散熱技術族群；同時，可適度配置防禦型的傳產權值股，以對抗短期國際宏觀環境的不確定性。",
+      "Language": "zh"
     },
     {
       "Ticker": ".SPX",
