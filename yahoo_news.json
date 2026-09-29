@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T08:33:03.633Z",
-  "total_news_count": 582,
+  "last_updated": "2026-09-29T08:35:44.025Z",
+  "total_news_count": 583,
   "news": [
     {
       "Ticker": ".SPX",
@@ -17,7 +17,7 @@
       "Keywords": "聯準會,升息機率,美債殖利率,股票估值,通膨前景"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, TSLA, META, MSFT, GOOGL, AMZN",
       "Date": "2026-09-29",
       "Time": "16:09:10",
       "Source": "Yahoo Finance",
@@ -49,6 +49,16 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "中美貿易談判,台指期,法人籌碼,選擇權,期貨部位"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-09-29",
+      "Time": "15:38:38",
+      "Source": "Yahoo Finance",
+      "Title": "Safety group urges EU to reject Tesla FSD over speed offset",
+      "URL": "https://finance.yahoo.com/news/safety-group-urges-eu-reject-073838822.html",
+      "Content": "By Marie Mannes\n\nSTOCKHOLM, Sept 29 (Reuters) - A prominent safety group on Tuesday urged European Union member states to reject ‌approval of US automaker Tesla's Full Self-Driving (FSD) system, citing concerns ‌that it may allow users to exceed speed limits.\n\nThe European Transport Safety Council (ETSC) said ​Tesla's driver-assistance system includes a speed offset function, which can raise the maximum speed by as much as 50% above the limit detected by the vehicle.\n\nThe safety group said Tesla has not sought an ‌exemption from United Nations ⁠Economic Commission rules to allow the FSD system to exceed posted limits through an offset function.\n\nTesla did not ⁠immediately respond to a request for comment.\n\nTesla CEO Elon Musk has said that delaying the approval of FSD \"will cost lives\".\n\nThe issue has emerged ​as one ​of the most contentious aspects of ​Tesla's push for a European ‌rollout of FSD, which controls the vehicle's speed and steering while requiring the driver to remain attentive.\n\nSeveral countries including Sweden, France and the Czech Republic have raised concerns regarding the system's ability to exceed speed limits.\n\nDutch regulator RDW approved the system in April, with Belgium and ‌a handful of other countries following suit. ​A vote on EU-wide approval, previously ​expected in October, is now ​unlikely before December.\n\nThe Dutch approval gives exemptions to ‌a series of rules set by ​the U.N. commission, ​but the safety group said the speed offset was not included.\n\nRDW did not immediately respond to a request for comment.\n\nETSC said ​European regulators should ‌reject approval of the speed offset function and a separate ​feature that matches driving speeds to surrounding traffic.\n\n(Reporting by ​Marie Mannes, editing by Terje Solsvik)",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII, 2454.TW",
