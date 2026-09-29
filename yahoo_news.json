@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T19:20:16.419Z",
-  "total_news_count": 675,
+  "last_updated": "2026-09-29T19:25:15.934Z",
+  "total_news_count": 676,
   "news": [
     {
       "Ticker": "CSCO",
@@ -141,6 +141,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/apple-patches-iphone-flaw-used-171220353.html",
       "Content": "Apple (Nasdaq: AAPL) released an emergency-grade security update on Sept. 28, and this one is not routine, the company says the flaw it fixes may already have been used in real attacks, and a blockchain security firm is warning that crypto wallet holders have particular reason to install it.\n\nThe update, iOS 26.7.1 and iPadOS 26.7.1, closes a vulnerability tracked as CVE-2026-86950 in CoreGraphics, the framework iPhones and iPads use to render images.\n\nRelated: Google, Apple's new job postings go viral\n\nA malicious file is all it takes\n\nIn plain terms, the bug let a specially crafted file, such as an image, write data outside the patch of memory it was assigned, a class of flaw known as an out-of-bounds write.\n\nOnce an attacker can scribble into memory that doesn't belong to the file, they can corrupt what's there and, in the worst case, run their own code on the device. The victim doesn't need to install anything; processing the booby-trapped file is enough.\n\nApple said it is \"aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.\"\n\nThat is the language Apple typically reserves for exploits linked to advanced spyware operations aimed at chosen victims rather than mass campaigns.\n\nMost Popular on TheStreet Roundtable:\n\nJPMorgan sends optimistic message on Bitcoin price movement\n\nMichael Saylor's Strategy just bought more Bitcoin, this purchase was 75% bigger\n\nCalifornia governor signs 'Opposite of Trump' bill\n\nBlockchain security firm alerts crypto users\n\nBlockchain security firm SlowMist said the update is especially relevant to cryptocurrency users because it has observed iOS exploitation activity targeting sensitive wallet data.\n\nThe logic is straightforward: a phone that an attacker can run code on is a phone whose wallet apps, seed phrases stored in screenshots or notes, and two-factor codes are all up for grabs, and unlike a drained bank account, stolen crypto rarely comes back.\n\nSlowMist did not attribute any specific crypto theft to CVE-2026-86950. The warning is about the category of risk, not a confirmed heist.\n\nWhat to do\n\nUpdate now: Settings, General, Software Update.\n\nThe patch is available for iPhone 11 and later, iPad Pro 12.9-inch 3rd generation and later, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 8th generation and later, and iPad mini 5th generation and later.\n\nBeyond updating, SlowMist's advice is the standard hygiene that matters most when exploits are in the wild: install apps only from trusted sources, don't open suspicious links in Safari or in-app browsers, and treat unexpected files, links, and app installation prompts with caution.\n\nStory Continues\n\nFor anyone holding meaningful crypto on a phone, the update is the rare one worth doing the moment you read about it.\n\nRelated: Bitget CEO confirms $351.6M hack, withdrawals paused\n\nThis story was originally published by TheStreet on Sep 29, 2026, where it first appeared in the Innovation section. Add TheStreet as a Preferred Source by clicking here.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-09-30",
+      "Time": "01:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》TLN,SFM,OLED,WH等6檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-tln-sfm-oled-wh%E7%AD%896%E6%AA%94-170600651.html",
+      "Content": "MoneyDJ新聞 2026-09-30 01:06:29 數位內容中心 發佈\n\nTalen Energy（TLN.US）： 成交價310.15美元，上漲2.19%，開盤309.05美元，盤中高點317.55美元，盤中低點307.91美元，均價312.89美元，成交量4.98萬股。\n\nSprouts Farmers（SFM.US）： 成交價64.24美元，上漲1.25%，開盤63.73美元，盤中高點65.1美元，盤中低點63.73美元，均價64.44美元，成交量6.41萬股。\n\nSprouts Farmers於2026年9月23日被麥可貝瑞列為加碼買進標的。當時報導指出，貝瑞同步買進Build-A-Bear Workshop、Birkenstock Holding及MercadoLibre，並在同一波調整中加碼放空美光、Nebius Group、iShares Semiconductor ETF與Palantir。\n\nUniversal Display Corporation（OLED.US）： 成交價76.18美元，上漲0.94%，開盤75.65美元，盤中高點76.76美元，盤中低點75.41美元，均價76.25美元，成交量1.24萬股。\n\nUniversal Display Corporation近14日未有符合條件的公司新聞。\n\nWyndham Hotels & Resorts（WH.US）： 成交價71.48美元，上漲0.91%，開盤72.98美元，盤中高點73.28美元，盤中低點71.17美元，均價71.82美元，成交量6.21萬股。\n\nWyndham Hotels & Resorts近14日未有符合條件的公司新聞。\n\nDick&#x27;s Sporting Goods（DKS.US）： 成交價135.46美元，上漲0.97%，開盤136美元，盤中高點136美元，盤中低點133.72美元，均價134.98美元，成交量22.99萬股。\n\nDick&#x27;s Sporting Goods近14日未有符合條件的公司新聞。\n\nH&R Block（HRB.US）： 成交價40.62美元，上漲0.69%，開盤40.11美元，盤中高點40.89美元，盤中低點40.11美元，均價40.43美元，成交量17.07萬股。\n\nH&R Block近14日未有符合條件的公司新聞。\n\n馬斯克喊太陽能稱霸：其他能源占比遠小於0.01%\n\n《美股》股民瀕\"極恐懼\" FOMC前那指軟費半逆漲\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
