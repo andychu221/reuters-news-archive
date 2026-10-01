@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T13:36:30.146Z",
-  "total_news_count": 482,
+  "last_updated": "2026-10-01T13:52:28.236Z",
+  "total_news_count": 484,
   "news": [
     {
       "Ticker": "INTC",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-01",
+      "Time": "20:43:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國科會科學園區審議通過投資案13件、512億元 南亞科落腳南科屏東園區",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A7%91%E6%9C%83%E7%A7%91%E5%AD%B8%E5%9C%92%E5%8D%80%E5%AF%A9%E8%AD%B0%E9%80%9A%E9%81%8E%E6%8A%95%E8%B3%87%E6%A1%8813%E4%BB%B6-512%E5%84%84%E5%85%83-%E5%8D%97%E4%BA%9E%E7%A7%91%E8%90%BD%E8%85%B3%E5%8D%97%E7%A7%91%E5%B1%8F%E6%9D%B1%E5%9C%92%E5%8D%80-124354772.html",
+      "Content": "國科會1日召開科學園區審議會第35次會議，通過13件投資案，4件不公開，投資總額約512.19億元，另有20件增資案，合計增資約849.2億元。其中，受到關注的南亞科新建廠將落腳南科屏東園區，但金額未公開。\n\n國科會表示，南亞科申設屏東分公司主要從事先進半導體3D晶圓封裝及測試業務，以矽穿孔與晶圓堆疊技術，開發高容量、高頻寬、低延遲、低功耗記憶體模組，並透過深化客戶合作與確保供應鏈彈性，持續推動技術創新，穩固產品獨特性與市場領先地位。\n\n國科會也指出，未來進駐園區後，南亞科將持續深化在地生產與技術研發，提升國內高效能記憶體產品自主研發與製造專業能力，並帶動南部半導體產業聚落及人才培育。\n\n主委吳誠文重申，南亞科提出需求時，國科會與經濟部都在協助，廠商建廠需要考量員工住宅、交通、教育等需求，也鼓勵地方政府了解廠商到地方發展的各樣需求，但最後還是由廠商決定。並強調，沒有政治議題，都是為產業發展。\n\n此外，本次審議會核准投資案，竹科有積體電路的芯曜半導體約5.2億元、電腦周邊產業的寳碩智匯科技2億元，以及宜蘭園區的通訊業豐譽智慧動能2,500萬元、精密機械的廣運航太8,800萬元等，核准投資8.33525億元，另備查2件廢止投資計畫案及13件增資案，合計增資45.588億元。\n\n中部科學園區3件投資案，1件不公開，投資金額12.3億元，其中，二林園區園區事業的京和科技9.5億元、台中園區光電業的鈞匠科技實業3,000萬元。\n\n南部科學園區除南亞科屏東園區投資案外，另通過橋頭園區韓商韓松化學所申請設立台灣韓松電子材料，投資金額8億元、生技業的凡事可公司申請於高雄園區投資設立，金額2,000萬元。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "GOOGL",
       "Date": "2026-10-01",
       "Time": "20:37:42",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/google-just-undercut-anthropic-gemini-123742105.html",
       "Content": "This article first appeared on GuruFocus .\n\nAlphabet ( GOOGL , Financials ) shares rose about 2% in premarket trading after Google launched Gemini 4 Argon, escalating competition in AI with aggressive pricing and new coding and cybersecurity capabilities.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nGoogle priced Argon at $2 per million input tokens and $10 per million output tokens, according to Investing.com.\n\nJefferies said that significantly undercuts Anthropic's Claude Fable 5.1, priced at $10 per million input tokens and $50 per million output tokens. Claude Opus 5.5 costs $4 and $20, respectively. Google is also offering a 95% discount on cached input tokens.\n\nPrice isn't the only battleground. Google said Argon scored 77.9% on the DeepSWE v1.1 coding benchmark, which it described as a record result. Jefferies noted that Argon still trails leading models on the more demanding FrontierSWE v2 benchmark.\n\nCybersecurity is another major focus. Google says Argon can autonomously identify, verify and fix software vulnerabilities. Jefferies said the model tied Grok 4.7 for the top score of 68% on CWE-bench v1, a vulnerability-fixing test.\n\nGoogle is initially making Argon available to trusted cybersecurity researchers before a broader rollout. Paid API customers and Google AI Ultra subscribers are expected to receive access first.\n\nThe company also increased the model's output limit to 1 million tokens from 64,000, compared with 128,000 for Anthropic's rival models, according to Jefferies.\n\nGoogle says it is already using Argon internally for software development and data-center optimization, although those claims have not yet established broader commercial adoption.\n\nFor investors, Argon's combination of aggressive pricing and stronger capabilities adds another dimension to the AI competition: companies aren't just racing to build more capable models, they're increasingly competing on how cheaply developers can use them.\n\nGOOGL GF Value chart\n\nGOOGL GF Value chart Google priced Argon at $2 per million input tokens and $10 per million output tokens, according to Investing.com.\n\nThe company also increased the model's output limit to 1 m",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-01",
+      "Time": "20:23:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國科會通過13件園區投資案共512億元 南亞科確定入駐屏科",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E7%A7%91%E6%9C%83%E9%80%9A%E9%81%8E13%E4%BB%B6%E5%9C%92%E5%8D%80%E6%8A%95%E8%B3%87%E6%A1%88%E5%85%B1512%E5%84%84%E5%85%83-%E5%8D%97%E4%BA%9E%E7%A7%91%E7%A2%BA%E5%AE%9A%E5%85%A5%E9%A7%90%E5%B1%8F%E7%A7%91-122356975.html",
+      "Content": "國科會今(1)日公布科技園區審議會議，通過13件投資案，投資總額為新台幣512.19億元。會中核准記憶體大廠南亞科(2408-TW)於屏東科學園區入駐屏東分公司一案，主要從事先進半導體3D晶圓封裝及測試業務，未來進駐屏科後，將持續深化在地生產與技術研發，提升國內高效能記憶體產品之自主研發與製造專業能力，並帶動南部半導體產業聚落及人才培育。\n\n國科會今日審議投資案共通過13件，4件不公開，投資總額512.19億元，此外尚有20件增資案，合計增資約849.2億元。\n\n國科會表示，此次核准投資案包括積體電路產業之台灣韓松電子材料公司、南亞科屏東分公司、芯曜半導體公司；生物技術產業之凡事可公司；光電產業之鈞匠科技公司；電腦及周邊產業之寳碩智匯科技公司；通訊產業之豐譽智慧動能公司；精密機械產業之廣運航太公司；園區事業之京和科技中科分公司等。\n\n其中，近期因外傳南亞科考慮捨棄雲林虎尾，將到屏科園區設廠，據國科會此次園區審議會核准投資案內容，南亞科確實將落腳屏東。\n\n國科會指出，南亞科未來進駐屏東園區後，公司將持續深化在地生產與技術研發，提升國內高效能記憶體產品之自主研發與製造專業能力，並帶動南部半導體產業聚落及人才培育。\n\n通過案件中，較大投資金額有京和科技公司中科分公司，投資金額約9.5億元，國科會表示，京和科技深耕並緊密支援中科先進晶圓廠之需求，結合成熟之純化技術，將既有特氣優勢延伸至AHCl及Cl2領域，藉此掌握產品品質與交期自主權，並縮短供應鏈反應時間，將有效降低國際運輸與外部供應風險，進一步鞏固台灣半導體關鍵材料之自主供應能力與產業韌性。",
+      "Language": "zh"
     },
     {
       "Ticker": "GOOGL",
