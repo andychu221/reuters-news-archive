@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T17:20:42.935Z",
-  "total_news_count": 513,
+  "last_updated": "2026-10-01T17:26:26.073Z",
+  "total_news_count": 515,
   "news": [
     {
       "Ticker": "MSFT",
@@ -43,6 +43,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-02",
+      "Time": "00:30:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "今年賺太多明年怎麼辦？美股獲利榮景迎高基期考驗",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%BB%8A%E5%B9%B4%E8%B3%BA%E5%A4%AA%E5%A4%9A%E6%98%8E%E5%B9%B4%E6%80%8E%E9%BA%BC%E8%BE%A6-%E7%BE%8E%E8%82%A1%E7%8D%B2%E5%88%A9%E6%A6%AE%E6%99%AF%E8%BF%8E%E9%AB%98%E5%9F%BA%E6%9C%9F%E8%80%83%E9%A9%97-163008764.html",
+      "Content": "美國企業今年獲利大幅成長，支撐美股抵禦升息與中東戰事衝擊，但投資人已開始擔心，這波獲利榮景能否延續至明年。標普500企業2026年獲利預估將成長35%，推動指數今年上漲約12%；然而，隨著比較基期墊高、AI投資增速可能放緩，市場對獲利持續性的疑慮，正逐步反映在股票估值上。\n\n據《路透》周四(10/1)報導，企業將在未來幾周陸續公布第三季財報，市場預期業績仍將強勁，也將從財測與投資計畫中尋找2027年的線索。今年標普500企業獲利增幅若達35%，將創2021年以來最高；當年的高成長則受到疫情後經濟反彈影響。\n\n今年獲利大增35% 明年高基期考驗延續力\n\nGreenwood Capital投資長Walter Todd表示，投資人開始質疑如此龐大獲利增幅的持續性。企業今年表現出色，卻也意味著許多公司明年將面臨更難超越的比較基期。\n\nLSEG IBES數據顯示，標普500企業2027年獲利預估成長15%，低於今年的35%，反映AI資本支出增速放緩及高基期影響。不過，巴克萊(BCS-US)策略師指出，15%仍高於過去35年約10%的年率獲利成長中位數，屬於高於長期趨勢的水準。\n\n道富(STT-US)旗下投資管理部門首席投資策略師Michael Arone認為，獲利成長能否持續，是即將邁入第四年的牛市面臨的威脅之一。他預期成長速度會放緩，關鍵在於幅度有多大，目前尚未過度擔憂，但值得密切追蹤。\n\n主要風險包括AI支出引擎出現波折、投入巨資的企業無法取得足夠報酬，以及利率上升降低企業舉債投資意願，並拖慢消費支出。\n\n獲利疑慮反映在估值 AI基建股本益比明顯下修\n\n市場對獲利前景的保留態度，加上利率走高，已壓低股票估值。LSEG Datastream數據顯示，標普500預估本益比從年初22倍降至19.2倍，也低於2025年10月近期高點23.5倍。\n\nAI相關股票的估值下修更為明顯。標普500科技類股預估本益比由年初26倍降至約21倍；高盛(GS-US)則指出，AI基礎設施股票的預估本益比中位數，已由4月32倍降至22倍。\n\n高盛認為，許多市場參與者懷疑AI基礎設施企業能否維持強勁獲利，這項疑慮至少已有部分反映在股價中。不過，估值下降也讓部分投資人相信，即使標普500接近歷史高點，股票未必過度昂貴。\n\nAI支出增速成焦點 油價與利率牽動消費前景\n\n高盛預估，五大AI與雲端巨頭今年支出將略高於8,000億美元，明年增至1.1兆美元。支出規模仍在擴大，但年增率將由今年近100%放緩至明年37%，也是企業獲利成長預期降溫的原因之一。\n\nChase Investment Counsel總裁Peter Tuz表示，AI支出的成長速度，將在很大程度上決定明年股市表現；監管或社區反對若拖慢資料中心建設，也可能成為變數。\n\n儘管AI相關企業獲利突出，今年成長並非侷限於科技業。LSEG IBES預估，在穩健經濟支撐下，標普500全部11個類股2026年獲利均將增加，但油價與利率攀升仍構成壓力。\n\nD.A. Davidson共同投資長James Ragan指出，消費者表現略優於預期，但逆風仍多；若消費放緩，許多企業明年要繳出超越市場預期的獲利，將更加困難。\n\n另一方面，今年獲利仍持續帶來驚喜，全年成長幅度可望超過1月預估的兩倍。Arone表示，投資人一再低估企業獲利韌性，雖然經濟週期中段出現如此高增幅並不尋常，也引發持續性",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META, GOOGL",
       "Date": "2026-10-02",
       "Time": "00:20:36",
@@ -61,6 +71,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/tesla-bears-retreat-musks-ai-161957304.html",
       "Content": "This article first appeared on GuruFocus .\n\nTesla ( NASDAQ:TSLA ) is drawing fewer outright bearish calls from Wall Street even as the stock remains down 21% this year, suggesting analysts are becoming more reluctant to bet against Elon Musk's push into artificial intelligence, robotics and autonomous driving. The shift matters because Tesla's core EV business is still facing pressure, leaving much of the stock's long-term valuation tied to businesses that have yet to fully prove their earnings power.\n\nWarning! GuruFocus has detected 6 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nTesla designs electric vehicles, energy-storage systems and autonomous-driving software, while increasingly pitching itself as an AI and robotics company. Musk has centered the longer-term story on robotaxis, humanoid robots and physical AI rather than conventional auto growth alone.\n\nAccording to Bloomberg data cited in the report, Sell ratings now account for 13.1% of 61 analyst recommendations , the lowest proportion since April 2023 and well below the 23.3% peak in January 2026 .\n\nTipRanks data point in the same direction. Sell ratings fell from five in May to four in June, two in July and just one in both August and September.\n\nBut the shift is not necessarily a full-blown bullish turn.\n\nHold ratings have climbed to their highest share of overall recommendations in more than two years, rising from 34 in May to 44 in September.\n\nThere's a bit of a don't bet against Musk' vibe here, Franklin Templeton's Max Gokhman told Bloomberg. He's shown that after long periods of missing deadlines a moonshot may materialize.\n\nInvestors Takeaway\n\nThe biggest test remains whether Tesla can convert its AI ambitions into meaningful revenue.\n\nJPMorgan analyst Rajat Gupta recently cut his price target to $415 from $445 while maintaining a Neutral rating, citing weaker-than-expected deliveries in China and the U.S.\n\nThe firm now expects 482,000 third-quarter deliveries , down from 516,000 previously, and 1.78 million vehicles in fiscal 2027.\n\nInvestors should watch EV deliveries, gross margins, robotaxi commercialization and progress on humanoid robotics. The falling number of Sell ratings suggests analysts are less willing to dismiss Musk's AI strategy, but rising Hold ratings show many still want more evidence before fully embracing it.\n\nTSLA GF Value chart\n\nTSLA GF Value chart Tesla designs electric vehicles, energy-storage systems and autonomous-driving software, while increasingly pitching itself as an AI and robotics company. Musk has centered the longer-term story on robotaxis, humanoid robots and physical AI rather than conventional auto growth alone.\n\n<h2 class=\"text text-block",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-02",
+      "Time": "00:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股10月開局漲413點！創收盤新高48353　法人點評後市",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A110%E6%9C%88%E9%96%8B%E5%B1%80%E6%BC%B2413%E9%BB%9E-%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%9848353-%E6%B3%95%E4%BA%BA%E9%BB%9E%E8%A9%95%E5%BE%8C%E5%B8%82-160200433.html",
+      "Content": "台股第四季開局首日，多頭發動攻勢，昨天下半場一路走高，終場上漲413點，收在4萬8353點，重返4萬8千點之上，且創收盤歷史新高，成交量8388億元。\n\n台股ETF也將在10月啟動除息潮，包括台新臺灣半導體30(00904)、主動兆豐台灣豐收(00996A)、群益半導體收益(00927)3檔，預估年配息率直接飆破2成，台新臺灣IC設計(00947)、主動群益科技創新(00992A) 、台新AI優息動能(00962)、兆豐電子高息等權(00943)也都接近2成。\n\n台新00904臺灣半導體30 ETF經理人黃鈺民表示，截至9月底，00904近一年含息報酬率達約141.2%，在台股ETF名列前茅，呈現半導體產業在AI大趨勢下的強勁成長爆發力，搭配十月配息金額預估2.2元創掛牌新高，表示00904並非僅訴求高配息，而是同時結合「台積電核心配置＋完整半導體供應鏈＋AI成長題材＋季配息機制」，讓存股族除了參與半導體長期成長趨勢，也多了一項現金流配置工具。\n\n另一頭，代表小資族與散戶資金動向的零股交易市場，呈現極高熱度。大華優利高填息30（00918）本周以來零股成交量333.8萬股，昨日的零股成交高達122萬股，高居台股ETF零股成交前10大，顯示小資族與存股族利用零股交易分批布局。\n\n大華優利高填息30（00918）經理人郭修誠表示，全球 AI 發展正加速從基礎建設訓練轉向「代理 AI（Agent AI）與邊緣 AI（Edge AI）推論落地」的黃金收割期。00918 重倉佈局廣達（2382）、緯穎（6669）、緯創（3231）、瑞昱（2379）與華碩（2357），直接受惠於各大 CSP 業者對高階伺服器、800VDC 電源與散熱模組的剛性需求，業績實質反映在財報上。同時，00918搭配優質金控，發揮防禦力，打造「AI 攻、金融守」的雙陣容。\n\n滙豐投信指出，今年台灣企業獲利成長率預期將一舉衝上46%的歷史高峰，總金額將突破6兆元，可望持續驅動台股榮景。這股強勁的成長動能，主要來自全球大型雲端業者與科技龍頭大打AI軍備賽，各家企業對台灣先進製程與高階晶片的需求有增無減，推升本土產業鏈的獲利預期；2027年即使面對高基期的挑戰，預估整體企業獲利仍將展現近30%的驚人成長。\n\n美股同樣受AI基礎建設、企業資本支出及消費需求持續擴增的激勵，不僅企業財報表現亮眼，各大巨頭更紛紛上修最新資本支出，市場普遍調升美股2026年全年EPS預估值至351.33美元。滙豐投",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
