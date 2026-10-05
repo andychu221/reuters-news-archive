@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T08:28:09.078Z",
-  "total_news_count": 563,
+  "last_updated": "2026-10-05T08:52:00.844Z",
+  "total_news_count": 564,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -35,6 +35,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "營收, 月營收, 年增率, 合併營收, 業績"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-05",
+      "Time": "15:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科 115年9月營收450.91億、年增576.62%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91-115%E5%B9%B49%E6%9C%88%E7%87%9F%E6%94%B6450-91%E5%84%84-%E5%B9%B4%E5%A2%9E576-62-070400514.html",
+      "Content": "南亞科(2408)9月營收資料(單位千元)\n\n本年累計\n\n45,091,089\n\n265,284,971\n\n去年同期\n\n6,664,140\n\n36,492,902\n\n38,426,949\n\n228,792,069\n\n增減百分比\n\n576.62%\n\n626.95%\n\n備註:受市場需求成長影響。\n\n10/5證交所「盤中」零股交易成交股數前20名排行\n\n上市認購(售)權證10/6彙總表\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
