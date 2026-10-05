@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T14:15:08.288Z",
-  "total_news_count": 637,
+  "last_updated": "2026-10-05T14:20:19.971Z",
+  "total_news_count": 638,
   "news": [
     {
       "Ticker": "AMZN",
@@ -63,7 +63,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "META",
+      "Ticker": "STM",
+      "Date": "2026-10-05",
+      "Time": "21:27:26",
+      "Source": "Yahoo Finance",
+      "Title": "Billionaire Stanley Druckenmiller is Buying STMicroelectronics (STM). Should You?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-buying-stmicroelectronics-132726505.html",
+      "Content": "STMicroelectronics N.V. (NYSE:STM) is a European chipmaker. It makes chips for cars, factory equipment, phones, and other electronics. Its products include analog chips, microcontrollers (small chips that run a device), sensors, and power chips.\n\nSTM ranks ninth in our list of the 10 best AI stocks to buy according to billionaire Stanley Druckenmiller .\n\nBull Case\n\nSTM management orders are running ahead of shipments, which gives it a clearer view of next year. AI data centers are a new source of growth. STM sells chips that connect servers with light signals, and management expects its data center sales to roughly double next year. Satellite communications is another growth area, and it reduces STM's reliance on cars and consumer electronics. STM is also closing four older factories, which should lower costs and raise profit margins from late 2027 into 2028. If demand keeps improving and the cost cuts work, profits can grow much faster than sales.\n\nArtisan Global Opportunities Strategy recently explained in its investor letter why it believes STM has high growth opportunity. Read their full letter here .\n\nBear Case\n\nSTM's profits are still far below where they were a few years ago, and the recovery depends on margins getting back to the company's long-term target. The power chip business is still losing money, even as sales rise. The factory restructuring is not finished, so results can stay uneven for a while. The AI growth story relies on a small number of big data center customers, so a slowdown in their spending or a delay in projects would hurt.\n\nValuation\n\nSTMicroelectronics N.V. (NYSE:STM) trades at a forward P/E of about 43, more than twice the S&P 500's forward P/E of about 19 and about 82% above the sector median of about 24. The company's revenue rose an impressive 23% in the first quarter and 26% in the second quarter, but earnings are still far below where they were three years ago. The price is fair only if that rebound keeps going, and if growth slows down or AI spending decelerates, a P/E of 43 looks too high for STMicroelectronics N.V. (NYSE:STM).\n\nDisclosure: None. Follow Insider Monkey on Google News .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "CSCO, META",
       "Date": "2026-10-05",
       "Time": "21:26:39",
       "Source": "Yahoo Finance",
