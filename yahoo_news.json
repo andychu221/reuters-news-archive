@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T10:03:06.161Z",
-  "total_news_count": 919,
+  "last_updated": "2026-10-06T10:13:32.916Z",
+  "total_news_count": 920,
   "news": [
     {
       "Ticker": "NVDA",
@@ -23,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "GOOGL, NVDA",
       "Date": "2026-10-06",
       "Time": "17:26:01",
       "Source": "Yahoo Finance",
@@ -81,6 +81,16 @@
       "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%BF%AB5%E8%90%AC%E9%BB%9E58%E8%90%AC%E4%BA%BA%E7%AC%91%E4%B8%8D%E5%87%BA%E4%BE%86-%E9%80%99%E6%AA%94-%E6%85%98%E8%A2%AB%E5%86%8D%E7%A0%8D8-7%E8%90%AC%E5%BC%B5-%E5%85%87%E6%89%8B%E6%9B%9D%E5%85%89%E4%BA%86-084300592.html",
       "Content": "台股今（6）日呈現「衝高回落、高檔震盪」的劇烈洗盤格局。受前一日美股走揚加持，加權指數早盤強勢跳空開高，盤中一度大漲超過250點至49,968.92點，距離5萬點大關僅一步之遙。然而，逢高獲利結利賣壓隨即湧現，多頭攻勢受阻，指數急轉直下翻黑，最低下探49,479.69點，高低差近500點，顯示市場在歷史高點前的觀望與解套心態十分濃厚。\n\n隨後盤面靠著台積電等權值股穩健撐盤，配合部分AI供應鏈與題材股強勢輪動，大網逐步收復失地。終場加權指數上漲110.51點，以49,822.55點作收，成功守住紅盤。整體來看，今日台股在叩關5萬點大關時展現出「近關情怯」的猶豫，但下檔買盤支撐力道依然強勁，維持在大盤高檔整理、題材各自發揮的走勢。\n\n外資今天站賣方，賣超66.57億元，同時再對友達下狠手，再砍87,053張，受此影響，友達股價今天開高走低收黑，開盤價在39.25元，最高觸及39.50元，最低下探37.15元，成交價落在37.45元，下跌1.60元，跌幅4.10%。友達股價已經連續兩天下跌，兩天內跌幅達7.42%。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-10-06",
+      "Time": "16:37:00",
+      "Source": "Yahoo Finance",
+      "Title": "Warren Buffett's Overlooked AI Race Pick",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/warren-buffetts-overlooked-ai-race-083700457.html",
+      "Content": "Warren Buffett is a polite man, and the famed investor stated in a recent CNBC interview that he's not in the habit of \"knocking the others\" when it comes to the hyperscalers he might not favor investing in. However, while it's not clear which hyperscalers Buffett might not like, it's clear he likes Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL). Here's what he said.\n\nBuffett initiated Berkshire Hathaway's position in Alphabet\n\nThe legendary investor made it clear in the interview that he initiated Berkshire Hathaway 's position in Alphabet and fully supported Greg Abel in building the position to 106 million shares, equivalent to about $35.5 billion at the time of writing.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nThe position is significant, and so is what Buffett said when asked about Alphabet and the other hyperscalers. He responded by saying that the others didn't \"have any choice. They're now playing a game, in many cases, that they don't want to play,\" and then went on to describe how IBM had to change its business to meet its customers' demands.\n\nWhat it means to Alphabet and AI investors\n\nOne interpretation of these pieces is that Buffett likes Alphabet but thinks some of the other hyperscalers are being forced to win in the AI market because that's where their customers are heading. While it's important not to put words into Buffett's mouth, it's hard not to think that companies like Oracle (NYSE: ORCL) are what Buffett might be referencing.\n\nAlphabet and Oracle credit default swaps\n\nThe difference between Alphabet and Oracle in the AI race is partly reflected in the rise in credit default swap (CDS) prices on both companies' 5-year debt. CDS are the price of insuring against a default in a company's debt, so a higher CDS reflects a greater level of skepticism over a company's debt.\n\nThe bond markets typically assume a 40% recovery rate when a bond defaults. Hence, Oracle's CDS of about 248 basis points (where 100 basis points equals 1%) implies an annual risk of 2.48/60 = 4.13%, and Alphabet's 72 bps implies 1.2%, giving a cumulative 5-year risk of 19% for Oracle compared to 5.9% for Alphabet.\n\nWhy Berkshire's pick, Alphabet, is the better AI choice\n\nThe difference in fundamentals between the two is also evident in the trajectories of each company's free cash flow (FCF) and capital spending, with Oracle burning cash as it ramps up AI spending to support a massive contract with OpenAI . In contrast, Alphabet is in a much better position, and although Wall Street expects a cash outflow in 2027, it's expected to start generating cash again in 2029.\n\nStory Continues\n\nYCharts.\n\nWhile it's important not to panic over Oracle, not least because the CDS data simply reflects pricing of risk, not necessarily the risk itself, it's clear that Alphabet is in a much better position to weather any slowdown of AI application spending in the market, and that's likely to suit Buffett and Berkshire better.",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII, 2330.TW",
