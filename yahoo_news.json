@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T11:04:14.431Z",
-  "total_news_count": 1291,
+  "last_updated": "2026-10-07T11:12:38.658Z",
+  "total_news_count": 1292,
   "news": [
     {
       "Ticker": "NVDA",
@@ -33,7 +33,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, AAPL",
+      "Ticker": "META",
+      "Date": "2026-10-07",
+      "Time": "18:13:18",
+      "Source": "Yahoo Finance",
+      "Title": "AMD CEO Lisa Su just struck another bullish note with the stock on fire",
+      "URL": "https://finance.yahoo.com/markets/stocks/article/amd-ceo-lisa-su-just-struck-another-bullish-note-with-the-stock-on-fire-101318248.html",
+      "Content": "AMD ( AMD ) CEO Lisa Su is dropping bullish nuggets all over the place on her overseas chip tour.\n\nOn a visit to Seoul on Wednesday to meet with the likes of Samsung Electronics and SK Hynix ( SKHY ), Su said overall data center demand remained \"very strong,\" according to a Reuters report . Su reportedly added that she is seeing \"strong demand signals\" across AMD's product portfolio.\n\nThis comes a day after a trip to Taipei on Tuesday, where she predicted chip demand would stay strong for years.\n\nShares of AMD are trading at a record high and are up 200% year to date.\n\nThe stock has more record highs ahead, in part because of demand for the new Meta ( META ) AI agent known as Muse, Citi said on Tuesday.\n\nCiti analyst Atif Malik raised his price target on AMD to $800 from $575.\n\n\"Following the release of Meta Muse and our subsequent CPU TAM raise, we are raising estimates on AMD given our belief that AMD will be the primary beneficiary of the CPU renaissance and our belief that Meta is one of the largest customers of AMD's server business,\" Malik said.\n\nMalik also struck a bullish tone on the future size of the CPU market.\n\n\"We update our CPU model post the launch of Muse, Meta's personal AI agent. Fundamentally, we view agentic AI as a potential orders-of-magnitude driver of compute demand relative to traditional chatbots,\" Malik added. \"We believe the CPU TAM [total addressable market] expands from $29 billion in 2025 to $300 billion in 2030, or a 60% CAGR. We still expect AMD to be the key beneficiary of the CPU renaissance and Intel as a secondary beneficiary.\"\n\nBrian Sozzi is Yahoo Finance's Executive Editor, host of the Sozzi Unleashed morning show, the ' Power Players With Brian Sozzi' podcast and a member of Yahoo Finance's editorial leadership team. Follow Sozzi on X @BrianSozzi , Instagram , and LinkedIn . Tips on stories? Email brian.sozzi@yahoofinance.com.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT, NVDA, AAPL",
       "Date": "2026-10-07",
       "Time": "18:08:33",
       "Source": "Yahoo Finance",
