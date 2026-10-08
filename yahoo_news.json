@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T13:14:11.326Z",
-  "total_news_count": 1669,
+  "last_updated": "2026-10-08T13:26:06.516Z",
+  "total_news_count": 1676,
   "news": [
     {
       "Ticker": "AMZN",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-08",
+      "Time": "20:40:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股牛市未止 已有分析師喊標普500指數明年上萬點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%AA%E6%AD%A2-%E5%B7%B2%E6%9C%89%E5%88%86%E6%9E%90%E5%B8%AB%E5%96%8A%E6%A8%99%E6%99%AE500%E6%8C%87%E6%95%B8%E6%98%8E%E5%B9%B4%E4%B8%8A%E8%90%AC%E9%BB%9E-124004426.html",
+      "Content": "標普500指數今年走勢起伏，但整體仍一路衝高，於本周再創歷史新高，過去3年共漲78%，今年有望上漲約14%。金融投資網站 The Motley Fool 專欄分析師Geoffrey Seiler預測，市場仍未見頂，並有望在2027年底前衝上 10,000 點大關，相當於從當前水準約28%的上漲潛力。\n\n儘管若從席勒本益比(CAPE)與巴菲特指標(股市總市值/GDP)來看，美股估值看似處於歷史高檔，但Seiler分析，若採用5年預期本益比成長比(PEG 比率)衡量，標普500指數反倒處於30年來的相對低點。\n\n他引述Yardeni Research數據，標普500指數目前的預期 PEG 比率僅約0.7，遠低於歷史平均的1.3倍，更是自1995年以來第5次跌破1。若要回升至1倍或歷史均值1.3倍，指數分別需上漲43%與86%。\n\nSeiler補充，目前低 PEG 主要集中於輝達(NVDA-US)、博通(AVGO-US)、AMD(AMD-US)與美光(MU-US)等人工智慧(AI)基礎設施概念股，若未來其他落後板塊跟上補漲，將進一步推升大盤。\n\n此外，美股即將進入歷史上表現最為強勁的季節性週期。引述富達投資(Fidelity)統計，在期中選舉過後的一年間(11月至次年11月)，標普500指數有95%的機率呈現上漲，平均漲幅達14.5%。\n\nCarson Group的歷史數據也顯示，自1950年以來，期中選舉年第四季指數有84%的機率上漲，平均報酬率為6.6%；而次年第一季上漲機率更達95%，平均漲幅7.4%，第二季平均漲幅也有5%。\n\nSeiler提醒，由於當前標普500指數高度集中於巨型科技股，未來的行情仍高度取決於 AI 基礎設施能否維持持續性投資。對於希望參與此波行情的投資人，Seiler建議可透過 Vanguard 標普 500 ETF(VOO-US) 等低成本的 ETF 來追蹤大盤表現。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT, AAPL",
       "Date": "2026-10-08",
       "Time": "20:20:26",
@@ -51,6 +61,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/intels-latest-move-sends-strong-121805487.html",
       "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ) remains part of Elon Musk's ambitious Terafab chip project despite recent discussions between Musk and Taiwan Semiconductor Manufacturing ( NYSE:TSM ), easing concerns that the world's largest contract chipmaker could displace Intel from a potentially important AI infrastructure partnership.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel CEO Lip-Bu Tan said the company will continue working with Musk on Terafab, according to Bloomberg. The reassurance comes after Musk confirmed earlier this week that he was discussing possible cooperation with TSMC, sparking questions about Intel's future role.\n\nIntel joined the project in April alongside Tesla ( NASDAQ:TSLA ), SpaceX and xAI. The partnership is intended to advance semiconductor fabrication, chip design and advanced packaging at enormous scale, supporting Musk's goal of eventually producing enough silicon to deliver 1 terawatt of computing capacity annually.\n\nThat makes the project strategically important for Intel as CEO Tan tries to rebuild confidence in the company's manufacturing business.\n\nTerafab could provide Intel with a high-profile customer and development partner at a time when the chipmaker is trying to prove that its foundry operation can compete for advanced AI workloads.\n\nMusk has also pushed back against speculation that TSMC might ultimately own or operate Terafab. He said Wednesday that his companies intend to build and run the facility themselves, while TSMC could potentially sublease part of the complex.\n\nThat suggests Intel and TSMC could ultimately play different roles rather than competing for complete control of the project.\n\nInvestor Takeaway\n\nFor Intel investors, the key question is how substantial its Terafab involvement becomes.\n\nA development partnership is strategically encouraging, but investors should watch for concrete details on manufacturing nodes, production volumes, capital commitments and whether Intel ultimately earns meaningful foundry revenue from the project.\n\nThe bullish case strengthens if Musk's companies commit advanced chip production to Intel and Terafab becomes a showcase for its process technology and packaging capabilities.\n\nThe main risk is that TSMC gradually assumes a larger manufacturing role or that Terafab remains years away from meaningful production. Until commercial terms and timelines emerge, Intel's continued participation is positive, but the financial impact remains difficult to quantify.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-08",
+      "Time": "20:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股跌493點別怕？內行曝美股沒崩是台股殺太兇：短線該洗就洗",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%B7%8C493%E9%BB%9E%E5%88%A5%E6%80%95-%E5%85%A7%E8%A1%8C%E6%9B%9D%E7%BE%8E%E8%82%A1%E6%B2%92%E5%B4%A9%E6%98%AF%E5%8F%B0%E8%82%A1%E6%AE%BA%E5%A4%AA%E5%85%87-%E7%9F%AD%E7%B7%9A%E8%A9%B2%E6%B4%97%E5%B0%B1%E6%B4%97-121500092.html",
+      "Content": "台股今（8）日終場收49,313.44點，下跌492.93點，跌幅0.99%。資深分析師周代運指出，今日跌493點反而覺得比較安心，跌的是利率，不是獲利。他更說，「美股根本沒崩」，只是台股殺得比人家兇。\n\n周代運指出，美國十年期公債殖利率盤中衝到5.362%，2002年4月以來沒見過的位置，三十年期一度5.731%。聯準會九月會議紀要同一天出來，12比0全票通過升息一碼到3.75%-4.00%，這是2023年7月以來第一次重啟升息，且多數官員覺得年底前還要再升一碼。\n\n周代運說，注意那斯達克只跌0.22%，標普也只跌0.22%這數字，美股根本沒崩，是台股自己殺得比人家兇，因為台股前面衝太急，五萬點就在眼前，隔天開始三天連假。這種節骨眼，不減碼的是傻瓜，不是看壞後面，是「沒必要抱著一堆高位階的籌碼去賭連假」。\n\n周代運認為，這是降風險，不是看空，再看今天被殺的是，川湖九月營收月減三成，連兩根跌停，收10615，一根就掉1175元。環球晶跌7%。大立光第三季毛利率掉到42.21%，2013年首季以來最難看，今天股價也軟。他直言，這些是前面漲太多、故事講太滿、數字沒跟上的，該洗。\n\n他提到，這種洗盤舉雙手贊成，股價跑到本益比六七十倍，營收卻月減三成，那不叫AI概念股，那叫「本夢比」，這批籌碼不洗乾淨，五萬點上去只會更危險。錢不會消失，它只是換個地方待著。今日南亞科逆勢漲3.5%收532，美股那邊美光也是逆勢漲4%，D.A. Davidson直接把目標價從2100美元上調到3000美元，理由是未來兩年需求會持續大於供給。記憶體的報價是真的在走，不是用嘴巴喊的。\n\n周代運表示，短線該洗就讓它洗，乖離過大、營收跟不上的，該砍就砍，不要跟股票談戀愛。長線那一段，AI主軸上的東西，先進封裝、高階散熱、PCB跟CCL材料升級、光通訊、測試設備，他自己不會因為一根黑K就整包丟掉。\n\n周代運強調，這波不是跌深反彈，是主升段，主升段的特色就是一直漲、一直洗，洗的目的不是要把你洗出去賠錢，是要把你的成本洗到跟主力差不多，後面你才抱得住。五萬點遲早會過，問題只是過的那天，你手上還有沒有股票。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC, TSM, TSLA",
@@ -73,6 +93,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-08",
+      "Time": "20:05:22",
+      "Source": "Yahoo奇摩股市",
+      "Title": "本周詐騙類型趨勢產品服務占比回升 宣稱商品功效吸引購買",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%9C%AC%E5%91%A8%E8%A9%90%E9%A8%99%E9%A1%9E%E5%9E%8B%E8%B6%A8%E5%8B%A2%E7%94%A2%E5%93%81%E6%9C%8D%E5%8B%99%E5%8D%A0%E6%AF%94%E5%9B%9E%E5%8D%87-%E5%AE%A3%E7%A8%B1%E5%95%86%E5%93%81%E5%8A%9F%E6%95%88%E5%90%B8%E5%BC%95%E8%B3%BC%E8%B2%B7-120522881.html",
+      "Content": "資安院追蹤本周詐騙類型趨勢，金融投資型的占比30.6％，連六周上升，依舊是第二大類型。觀察案例，以AI投資工作坊宣傳，列出教學內容包括用AI整理行情、分析台股、美股等市場，以及解釋交易判斷背後的理由。資安院分析，這類宣傳抓住想學投資、又想了解新工具的需求，以免費參加吸引民眾先來了解，再強調名額有限，催促有興趣的人報名到場學習。\n\n身分冒充型占比12％，較前周下降。如羊毛上衣廣告打出品牌聯名的名義，並宣稱「官方正品保證」，讓民眾相信買到的是品牌正品。廣告再承諾提供售後服務，減輕民眾對商品有問題卻無人處理的擔心，接著搭配雙十限定、多件低價的優惠，吸引民眾點擊購物連結。\n\n產品服務型占57.5％，占整體一半以上，與金融投資型的差距也擴大。詐團以汽車鍍膜劑廣告搭配雙十節促銷，宣稱能填補車漆表面的細縫，效果可維持一年以上，再以三瓶優惠價吸引車主。廣告先用保養效果引起興趣，再強調優惠只在節日期間提供，讓有保養需求的人覺得現在買更划算，進而點擊連結下單。\n\n詐騙關鍵字部分，「市場」升至本周第1名，相關廣告推銷美股課程，強調從開戶、下單到選股都會教，並宣稱已有許多學員參加，讓想學投資的人覺得課程值得一試。「投資」退居第2名，課程廣告以靠股息支付生活開銷的故事吸引民眾，再用限時折扣和留言領券，鼓勵讀者進一步了解課程。\n\n「領取」升至第4名，「資訊」和「上下車」進入前10名，分居第5、6名。資安院認為，這些廣告主打每天免費提供股票名單，以及買進、賣出時機的提示，再用「別等漲了才追」催促民眾點擊加入。與前周「資訊」廣告整理新聞、提供直播解析的方式相比，本周更直接以買賣提示吸引人，讓民眾期待能掌握買進、賣出的時機。\n\n另外，「優惠」升至第3名，防曬美妝廣告宣稱一瓶兼顧防曬和妝前打底，再以限時低價吸引購買。「免費」退居第9名，借貸廣告仍用免費諮詢吸引聯繫，並宣稱不看條件、一小時內就能通過審核。整體而言，本周前十大關鍵字以投資學習、股票資訊為主，也可見用低價商品與快速審核吸引人的廣告。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-08",
+      "Time": "20:05:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股新增開戶「30歲以下占63%」！ 網揭：小學生都在談股票",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%96%B0%E5%A2%9E%E9%96%8B%E6%88%B6-30%E6%AD%B2%E4%BB%A5%E4%B8%8B%E5%8D%A063-%E7%B6%B2%E6%8F%AD-%E5%B0%8F%E5%AD%B8%E7%94%9F%E9%83%BD%E5%9C%A8%E8%AB%87%E8%82%A1%E7%A5%A8-120500029.html",
+      "Content": "台股熱度持續升溫，投資人結構卻出現戲劇性年輕化，當校園與家庭話題充斥著行情起伏，究竟是理財教育扎根提早實踐財富自主，還是過熱行情的警訊警鈴再度響起？這波全民湧入市場的浪潮，迅速在投資圈引爆激烈思辯。\n\n根據臺灣證券交易所公布的最新9月份投資人開戶統計，全市場累計開戶總人數已正式攻上1476萬3301人，單月淨增加6萬5051人，再度刷新歷史新紀錄。值得注意的是，在這波新增的生力軍中，未滿30歲的年輕世代合計達到4萬1258人，一口氣囊括了當月整體增幅的63.4%，儼然成為驅動台股開戶數擴張的最核心引擎。\n\n細看年齡層分佈，單月增長幅度最為驚人的區間落在「0至19歲」的未成年與學生族群，短短1個月內暴增2萬1990人，累計總數攀升至89萬878人，佔整體市場比重達6.03%；緊隨其後的「20至30歲」區間也增加了1萬9268人，累計達到193萬164人。兩大年輕區塊合併計算已高達約282.1萬人，佔全體開戶數的19.1%，換算下來，目前市場上每5位開戶投資人中，就有將近1人年紀在30歲以下。\n\n▼單月增長幅度最為驚人的區間落在「0至19歲」的未成年與學生族群。（示意圖／AI生成）\n\n不過就現有大盤總體結構觀察，61歲以上的長輩族群仍是台股最大支柱，累計達428萬人、佔比28.99%；而31至40歲、41至50歲以及51至60歲各個青壯年與中年區間人數同樣呈現穩定向上。性別結構上更呈現耐人尋味的走勢，30歲以下的年輕族群普遍呈現男性開戶高於女性，但只要年齡超過31歲，各階層皆轉為女性佔多數，全體女性累計開戶數達到761萬2676人，亦高於全體男性的703萬1830人。\n\n▼全市場累計開戶總人數已正式攻上1476萬3301人，單月淨增加6萬5051人，再度刷新歷史新紀錄。（示意圖／AI生成）\n\n統計資料一經揭露，網路論壇<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"PTT\",\"yModuleName\":\"content-canvas\"}\" data-ylk=\"slk:PTT;elm:context_link;itc:0;sec:content-canvas;\" href=\"https://www.ptt.cc/bbs/Stock/M.17",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-08",
+      "Time": "19:57:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資連假前提款758億元 大砍00406A、友達及鴻海",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A3%E5%81%87%E5%89%8D%E6%8F%90%E6%AC%BE758%E5%84%84%E5%85%83-%E5%A4%A7%E7%A0%8D00406a-%E5%8F%8B%E9%81%94%E5%8F%8A%E9%B4%BB%E6%B5%B7-115758990.html",
+      "Content": "台股今(8)日受雙十連假前賣壓及美股修正影響，開盤隨即呈現震盪收黑格局，終場下跌492點，收49,313點，成交量縮減至8,696億元，據盤後資訊顯示，外資連3日賣超，單日大砍758.52億元，大賣ETF主動中信台灣收益(00406A-TW)、友達(2409-TW)各5.9萬張最高，也倒貨鴻海2.5萬張。\n\n三大法人操作上，單日合計大舉賣超898.95億元，外資大砍758.52億元呈連3賣，自營商賣187.3億元，僅投信逆風單日轉買46.88億元。期貨籌碼方面，外資期貨空單增加4,048口，外資空單累計為8.3萬口。\n\n外資買超前10名中，傳產股占5名，大買主動統一升級50(00403A-TW)3萬張最高、其次買南亞科2.17萬張、中石化2.16萬張、緯創1.55萬張、台塑1.42萬張、中鋼1.03萬張、台泥1.01萬張、兆豐金1.01萬張、國喬8,931張、FT臺灣永續高息(00961-TW) 8,268張。\n\n外資賣超前10名中，以00406A及面板股友達分別5.94萬張最高，其次為元大台灣50 (0050-TW)5.1萬張地3，賣凱基台灣TOP50(009816-TW)3.87萬張、鴻海2.56萬張、群益台灣精選高息2.24萬張、力積電2.16萬張、台新新光金2.13萬張、群創2.05萬張、聯電1.97萬張。大賣台積電1.23萬張。\n\n投信買超前10名中以金融股占5名最多，大買台塑化1.48萬張最多，台塑1.39萬張、台新新光金8,156張、凱基金3,515張、中信金3,186張、大成鋼2,989張、富邦金2,844張、國泰金2,832張、統一1,911張、聯電1,605張。\n\n投信賣超前10名以京元電子8,530張最多，兆豐金5,228張、台灣高鐵2,348張、主動野村臺灣優選2,120張、致伸1,234張、貿聯-KY 1,116 張、國巨* 1,038張、日月光投控1,034張、欣興、強茂。\n\n法人表示，指數從技術面上觀察，今日下跌量縮，目前在台股10月5日低點(48,574點)不被放量跌破下，短線台股拉回仍可以樂觀看待。外資在期現貨上皆悲觀布局，整體籌碼面保守看待。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-10-08",
       "Time": "19:56:00",
@@ -91,6 +141,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-just-shared-bad-114900813.html",
       "Content": "Intel (NASDAQ: INTC) received a huge boost for the future of its foundry business after Elon Musk , CEO of both Space Exploration Technologies (NASDAQ: SPCX) and Tesla (NASDAQ: TSLA), shared plans for their Terafab joint venture. Intel officially joined the Terafab project the day after Musk announced his plans for end-to-end chip production in Texas. That's helped generate significant momentum in interest in Intel's foundry services over the last six months.\n\nBut Musk just confirmed that Intel's biggest rival could also play a role in the Terafab build-out. Taiwan Semiconductor Manufacturing (NYSE: TSM) could provide Terafab with a secondary source of manufacturing expertise and capacity, according to a report by Tim Culpan, which Musk confirmed. The news highlights some significant risks for Intel that investors need to consider.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nMusk needs more chips\n\nMusk has massive aspirations for both SpaceX and Tesla, and it will require significantly more compute power than either TSMC or Intel can currently provide. SpaceX plans to launch orbital data centers within a couple of years, and Tesla plans to scale production of its humanoid robot Optimus to 1 million units per year within five years. Additionally, Tesla sees significant potential to scale auto production as its robotaxi service expands.\n\nMusk wants to use Terafab to vertically integrate the chip production needed for the two companies' endeavors. That's important to note, as he's not trying to compete with TSMC, Intel, or any other foundries for third-party services. So, the companies have little to lose by partnering with Musk to license technology and lend their expertise.\n\nWhen it looked like Intel would be the exclusive partner for Terafab, it suggested it had received a massive vote of confidence for its next-generation semiconductor manufacturing process, 14A. The partnership with Terafab would allow Intel to scale production more quickly and serve more customers with an anchor customer in hand. News of discussions between Musk and TSMC casts doubt on Intel's ability to meet Terafab's needs.\n\nThe advantages are clear for TSMC to partner with Terafab. Any agreement will likely include financial backing for the construction of new facilities in Texas. The leading chip manufacturer is reportedly considering building multiple chipmaking plants in the state, each with a price tag of at least $20 billion. That's on top of its plans to invest $265 billion in the U.S. already. Terafab would also provide a major customer, ensuring its capacity remains highly utilized.\n\nStory Continues\n\nPerhaps the biggest benefit is that it could keep Intel from making much progress against TSMC's foundry business. If TSMC wins the node for Terafab's production, Intel's foundry business will face a huge setback.\n\nIntel's future depends heavily on finding a foundry customer\n\nIntel's foundry business generated $5.8 billion last quarter, up 31% year over year. However, $5.5 billion of that came from Intel's chipmaking business. As central processing unit (CPU) demand has increased thanks to advancements in AI, Intel has become a much bigger customer of its own foundry services. But if Intel wants to continue manufacturing its own chips, it needs to find an outside customer.\n\nAs mentioned, Intel is seeing strong interest in its 14A process, which may have been sparked by its Terafab partnership. It's since pulled forward its 14A production timeline by about one year. It'll deliver its process design kit (PDK) 0.9 to potential customers this month, enabling them to create prototype designs based on the architecture. It'll enter risk production next year and volume production in 2028, nearly at the same time as TSMC begins production on its comparable A14 chips.\n\nBased on both companies' estimates for performance and power-efficiency improvements over previous generations, Intel looks set to take the lead in both areas over TSMC with its next-generation production node. However, Intel Foundry CTO and operations officer Naga Chandrasekaran recently said 14A will deliver performance within 5% of TSMC's A14 production node, casting doubts on previous estimates. That comment may have pushed Terafab to reach out to TSMC.\n\nIt's still possible Intel will remain the leading manufacturing partner for Terafab, using its 14A process, while TSMC provides ancillary services or expertise. For example, TSMC is the leading advanced chip packager, accounting for about 95% of the market.\n\nWith the run-up in Intel's share price -- it's up 163% since the start of April -- and the stock now trading at 63 times forward earnings estimates, there are some high expectations built into the stock price. With the potential threat against one of its biggest catalysts, investors should think twice about buying the stock at this price.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-08",
+      "Time": "19:47:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股創高「00935還在63元」！他想認栽換0050 引論戰",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%89%B5%E9%AB%98-00935%E9%82%84%E5%9C%A863%E5%85%83-%E4%BB%96%E6%83%B3%E8%AA%8D%E6%A0%BD%E6%8F%9B0050-%E5%BC%95%E8%AB%96%E6%88%B0-114700446.html",
+      "Content": "台股近日頻創新高，但並非每個人都有獲利。有網友表示，原本看中野村臺灣新科技50（00935）漲勢比元大台灣50（0050）而買入，如今卻陷入是否該換股難題。\n\n該名網友在論壇Dcard上以「該賣掉00935嗎？」為題發文，表示自己當初是看到野村臺灣新科技50（00935）漲勢比元大台灣50（0050）還快而心動，在6月初申辦信貸資金進場，同時買進了0050、富邦科技（0052）與00935。沒想到卻碰上7、8月下跌，虧了約3個月才終於漲回來。\n\n但他發現，這兩天即使台股創新高，00935卻還沒回到前高！對照差不多時間、價格買進的0052已漲到67.9了，但00935還在63附近徘徊，讓他十分懊惱，只能自責是沒選好進場時機，加上目前又是待業中，沒有多餘資金在下跌時加碼攤平，開始猶豫是否該趁小賺時，趕緊獲利出場，改將資金投入0052或0050。他也透露，自己之所以還沒採取行動，是想等00935配息後，才開始認真思考是否賣掉。\n\n▼原PO表示自己是因看到00935漲勢比0050還快，才申請信貸買進，沒想到虧了3個月才終於漲回一些，但他的投資信心已經動搖，開始思考是否該改投其他標的。（示意圖／AI生成）\n\n此貼文吸引眾人討論，對於原PO的情況，有網友分析，認為問題可能不在於選擇00935是否正確，而是看到其他標的漲得比較快就想換股，是投資心態不正確的問題：「心態不對一直都想追高是賺不了什麼錢的」、「這波是台積在拉的，0050、0052當然漲得比00935多」，也有人建議原PO應先重新調整自己的投資認知與心態：「只能說你看的時間尺度太短，00935從發行至今，報酬都是贏0050和0052的，從你的敘述來看，建議你多提升自己的認知，你要讓你的認知能匹配上你的財富，不然你信貸遲早出事」，也有人提醒原PO，若此心態不改，如果未來輪到其他股票上漲，現在換掉00935後是否又會想重新買回來，重蹈覆轍。\n\n▼有人勸原PO保留00935看長期報酬，但也有網友認為若原PO為此感到焦慮，換成0050也未嘗不可。（示意圖／AI生成）\n\n至於是否改賣出，網友們提出的建議也不同，有人勸原PO續抱，看長期的報酬：「建議你不要賣，放著即可，00935雖然波動大，但只要你相信台灣的科技業在AI浪潮中的重要性，未來帶給你的報酬會很可觀」、「這支這一兩個月很強吧，只是弱這一兩天而已」，不過也有些網友認為，若原PO持有00935讓感到這麼不安，轉向0050也未嘗不可，至少能比較心安：「睡得著覺就不用賣，睡不著或覺得很煩就轉0050」。\n\n<p c",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -141,6 +201,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/1-reason-nvidia-screaming-buy-111000999.html",
       "Content": "Nvidia (NASDAQ: NVDA) shares have risen by 29% in 2026 (as of Oct. 5). This continues a monster winning streak that has seen the shares increase by more than 1,110% over the past five years, catapulting the business to a $5.8 trillion market capitalization.\n\nThere's one obvious reason this artificial intelligence (AI) stock is a screaming buy in October. There's also one reason to be wary.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nValuation is one reason why Nvidia looks like a no-brainer buying opportunity this month. Shares currently trade at a forward price-to-earnings ratio of 24.9. This is what the market is asking you to pay for a dominant business that posted year-over-year revenue and net income growth of 106% and 126%, respectively, in the most recent fiscal quarter (Q2 2027 ended July 26).\n\nThe ongoing AI build-out, measured by the five big hyperscalers on track to easily exceed $1 trillion in capital expenditures in 2027, is unprecedented. Nvidia has gained the most financially from this surge in spending.\n\nIt's also wise for investors to be a bit cautious, however. No one has the slightest idea about how long this AI build-out boom will last. Durability is the biggest unknown variable. If the hyperscalers don't see adequate returns on invested capital, the impact will be felt up the value chain . Demand for Nvidia's graphics processing units would be under pressure, which would adversely affect the stock price.\n\nThe market isn't forgiving when it comes to decelerating growth trends.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-08",
+      "Time": "18:55:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "馬斯克喊轉移先進製程2奈米技術恐外流？龔明鑫揭10年台廠赴美關鍵戰略",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%96%8A%E8%BD%89%E7%A7%BB%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B2%E5%A5%88%E7%B1%B3%E6%8A%80%E8%A1%93%E6%81%90%E5%A4%96%E6%B5%81-%E9%BE%94%E6%98%8E%E9%91%AB%E6%8F%AD10%E5%B9%B4%E5%8F%B0%E5%BB%A0%E8%B5%B4%E7%BE%8E%E9%97%9C%E9%8D%B5%E6%88%B0%E7%95%A5-105553593.html",
+      "Content": "經濟部長龔明鑫今（8）日主持部務會議前接受媒體聯訪，針對離岸風電3-3期招商、台廠赴美投資佈局、台積電 (2330-TW) (TSM-US) 與美方技術合作傳聞，以及中火燃氣二期環評爭議等議題進行說明。龔明鑫強調，台廠赴美投資已超越過去僅追求低生產成本的傳統代工思維，未來10年將透過貼近與定義全球最大市場，建立不可替代的AI供應鏈生態系。\n\n在台廠赴美投資與台美產業合作戰略上，龔明鑫提出了深度的戰略剖析。他指出，總統揭示「立足台灣、布局全球、行銷全世界」的政策方向。回顧1980年代，台商海外佈局多以降低生產成本（Cost Down）為核心，因而前往中國或東南亞，當時僅需專注於及時供貨與成本控制，無需過問終端市場變化。\n\n然而，現今台廠赴美投資的邏輯已根本性改變。美商市場生產成本雖高，但卻是全球高階與新興產品的核心市場。龔明鑫指出，台灣在AI相關產業供應鏈已居全球領先地位，具有不可替代性。台廠赴美不僅是供應鏈延伸，更能透過貼近市場、與在地廠商深入合作（如與TEEMA及在地電動車產業鏈鏈結），進一步參與甚至定義市場需求。他預期未來5至10年內，這套新型態的台美合作模式將為台灣產業開啟全新局面。\n\n關於外界傳出馬斯克希望台灣轉移先進製程，以及美國企業企圖取得台積電2奈米技術等謠言，龔明鑫強調，個別企業高層言論不予評論，一切以台積電官方說明為準。他明確表示，台積電定會緊握核心關鍵技術，台美合作並非單方面技術移轉，而是透過優勢互補建立強韌的供應鏈夥伴關係。\n\n針對離岸風電3-3期招商截標後僅有2家廠商投標，外界疑慮招商成效不如預期的問題，龔明鑫表示，目前全案仍處於審查階段，不便在結果確定前進行過多評論，待最終審查結果出爐後會再向外界說明與討論。對於過去部分退出的外資開發商仍留有台灣辦公室，經濟部是否會持續溝通，龔明鑫回應，行政院已針對海上風場空間進行盤點，經濟部會持續與外商及本土企業保持密切聯繫，尋求未來合作機會。\n\n最後，針對台中火力發電廠（中火）二期燃氣機組環評結論遭行政法院撤銷一事，龔明鑫說明，中火「以氣換台」本意就是為了改善環境品質，且開發場域並未擴大。雖然法院判決書尚未正式送達，但環境部已表示將提起上訴，經濟部與台電公司將全力配合環境部提供各項必要事證與說明，以確保2025年起燃氣機組如期上線營運。",
+      "Language": "zh"
     },
     {
       "Ticker": "AVGO",
