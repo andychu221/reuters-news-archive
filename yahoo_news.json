@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T16:12:47.340Z",
-  "total_news_count": 1741,
+  "last_updated": "2026-10-08T16:20:27.233Z",
+  "total_news_count": 1742,
   "news": [
     {
       "Ticker": "NVDA",
@@ -127,6 +127,16 @@
       "Related_Score": 1,
       "Sentiment_Score": 2,
       "Keywords": "crude oil tankers, VLCC, revenue growth, dividend yield, debt-to-equity ratio"
+    },
+    {
+      "Ticker": "CSCO",
+      "Date": "2026-10-08",
+      "Time": "22:58:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can Arista's New Rack-Scale Ethernet Solutions for AI Stoke Growth?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/aristas-rack-scale-ethernet-solutions-145800179.html",
+      "Content": "Arista Networks, Inc. ANET has unveiled a new open Ethernet rack-scale portfolio designed to support high-density artificial intelligence (AI) infrastructure across both scale-up and scale-out environments. Developed with AMD, Arm, Broadcom, d-Matrix, Meta, Microsoft and Qualcomm, the solutions offer cloud and enterprise customers a flexible alternative to proprietary AI systems.\n\nArista's latest Etherlink SU-14 architecture extends Ethernet into scale-up environments, supporting up to 144 accelerators in a single rack and up to 1,024 XPUs through cross-rack configurations. It includes orthogonal chassis, cabled backplane and cross-rack designs, allowing customers to choose architectures based on their bandwidth, cooling and scalability needs.\n\nFor scale-out AI environments, the company's rack-scale solutions support technologies such as ESUN, NVIDIA's NVLink, NVLink Fusion and PCIe. Built on Arista's Netdi foundation, the platform uses Ultra Ethernet Consortium standards, Multipath Reliable Connection, multi-plane routing, Dynamic Load Balancing and Cluster Load Balancing to improve AI workload performance and token-generation efficiency.\n\nArista's rack designs also integrate liquid-cooled 7060EX7 switches with up to 102.4 Tbps of capacity per switch, alongside cooling manifolds, leak detection, rack controllers and backup power systems. The company's next-generation optics, including XPO and open CPO/NPO, can raise networking capacity from 1.6 Pb/s to 6.5 Pb/s per rack compared with current OSFP-based switches.\n\nAs demand for high-performance AI infrastructure accelerates, the launch strengthens Arista's position in AI networking by combining open Ethernet connectivity, high-density computing and advanced cooling technologies while helping customers reduce data center footprint and avoid proprietary lock-in.\n\nHow Are Competitors Advancing in AI Infrastructure?\n\nArista faces competition from Cisco Systems, Inc. CSCO and NVIDIA Corporation NVDA. Cisco is expanding its AI infrastructure business through its Secure AI Factory with NVIDIA, which now includes rack-scale systems. The solutions combine AI computing with Cisco's networking, security and monitoring technologies for businesses and other large-scale AI deployments. The company is using its Nexus and Silicon One technologies to improve data movement across AI systems.\n\nNVIDIA is advancing its AI infrastructure with the Vera Rubin platform, built to support large and complex AI workloads. The company is developing Spectrum-6 Ethernet to improve connectivity and data transfer between GPUs in AI data centers. NVIDIA is working with Amazon Web Services to add millions of GPUs to meet the growing demand for AI computing.\n\nStory Continues\n\nANET's Price Performance, Valuation & Estimates\n\nShares of Arista have gained 37.1% over the past year against the industry''s decline of 4%.\n\nImage Source: Zacks Investment Research\n\nFrom a valuation standpoint, Arista trades at a forward price-to-sales ratio of 17.88, above the industry average of 4.39.\n\nEarnings estimates for 2026 have remained static at $4.08 over the past 60 days, while the same for 2027 has increased 0.2% to $5.06.\n\nArista currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "AAPL, NVDA",
