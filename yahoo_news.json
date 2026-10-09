@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-09T12:33:20.620Z",
-  "total_news_count": 1959,
+  "last_updated": "2026-10-09T12:36:32.636Z",
+  "total_news_count": 1960,
   "news": [
     {
-      "Ticker": "ARM, META",
+      "Ticker": "META",
       "Date": "2026-10-09",
       "Time": "20:02:40",
       "Source": "Yahoo Finance",
@@ -83,6 +83,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "TSLA",
+      "Date": "2026-10-09",
+      "Time": "19:10:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can Tesla's IMC Deal Accelerate Semi Growth and Zero-Emission Freight?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/teslas-imc-deal-accelerate-semi-111000241.html",
+      "Content": "Per Teslarati, Tesla, Inc. TSLA has secured an order for 50 all-electric Semi trucks from IMC Logistics, expanding its presence in the heavy-duty trucking market. The deal adds to growing commercial interest in Tesla's electric trucks as the company ramps up production and diversifies beyond passenger vehicles.\n\nThe order follows Einride's planned deployment of 500 Tesla Semis, WattEV's order for 370 trucks and the ZET SCALE alliance's initial order for 2,500 electric Class 8 trucks, with Tesla selected as the primary manufacturer. Tesla leads but doesn't have the deal to itself. PACCAR 's PCAR Kenworth, and Volvo Group 's VLVLY Volvo are also on the supplier list.\n\nAccording to FreightWaves, the alliance, backed by shippers including Microsoft and PepsiCo, aims to expand its program to at least 10,000 trucks. While the 2,500-truck order is shared across manufacturers, Tesla's lead-supplier position could strengthen its order pipeline, support production scale-up and accelerate adoption of its zero-emission Semi.\n\nFreightWaves further reports that IMC will deploy the trucks for port drayage and freight routes connecting Southern California with inland destinations. These commitments could improve Tesla's order visibility, support factory utilization and help spread manufacturing costs across higher production volumes. The Semi's zero-tailpipe-emission operation strengthens its appeal to fleet operators seeking to reduce transportation emissions and meet environmental requirements.\n\nThe IMC deal allows Tesla to demonstrate the Semi's commercial performance and attract more fleet customers, although the 50-truck order is unlikely to materially affect near-term revenue. Longer-term growth will depend on delivery execution, cost control and competitive operating economics, potentially establishing the Semi as an additional revenue driver beyond passenger vehicles.\n\nNotably, Tesla's new Semi factory in Nevada opened in the last week of September. Located beside the 4680 battery cell lines at Gigafactory Nevada, the 1.7-million-square-foot facility is built to produce up to 50,000 trucks a year\n\nTesla faces competition from established manufacturers expanding their battery-electric truck offerings. Volvo's VNR Electric, designed for regional hauling and distribution, offers a range of up to 275 miles. PCAR's Kenworth T680E and Peterbilt 579EV also target regional haul and port drayage, with advertised ranges of more than 200 miles and up to 200 miles, respectively, depending on configuration. These models give fleet operators alternatives to Tesla's Semi as they seek to reduce emissions and operating costs. Tesla's ability to demonstrate reliable performance, competitive operating costs and timely deliveries will be important to winning orders and expanding its presence in the electric heavy-duty truck market.\n\nStory Continues\n\nThe Zacks Rundown for Tesla\n\nShares of TSLA are down 9.4% in a year compared with its industry's 2.8% rise.\n\nImage Source: Zacks Investment Research\n\nTesla is currently trading at a forward 12-month price-to-sales of 12.87X, higher than the industry's average of 3.35X. It carries a Value Score of D.\n\nThe Zacks Consensus Estimate for TSLA for 2026 earnings implies year-over-year growth of 6%.\n\nThe consensus estimate for EPS for fiscal 2026 has been flat over the past 60 days.\n\nTSLA currently has a Zacks Rank of #4 (Sell).\n\nYou can see the complete list of today's Zacks #1 (Strong Buy) Rank stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-10-09",
       "Time": "19:05:00",
@@ -103,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, MSFT, GOOGL, AMZN",
+      "Ticker": "TSLA, META, MSFT, GOOGL, AMZN",
       "Date": "2026-10-09",
       "Time": "19:00:00",
       "Source": "Yahoo Finance",
