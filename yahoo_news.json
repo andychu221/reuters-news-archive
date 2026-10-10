@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T06:20:42.797Z",
-  "total_news_count": 2096,
+  "last_updated": "2026-10-10T06:25:48.817Z",
+  "total_news_count": 2111,
   "news": [
     {
       "Ticker": "GOOGL, AMZN",
@@ -13,6 +13,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-10",
+      "Time": "12:00:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積領先優勢還能守幾年？傳輝達2028下半年評估採英特爾Foveros封裝",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%A0%98%E5%85%88%E5%84%AA%E5%8B%A2%E9%82%84%E8%83%BD%E5%AE%88%E5%B9%BE%E5%B9%B4-%E5%82%B3%E8%BC%9D%E9%81%942028%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A9%95%E4%BC%B0%E6%8E%A1%E8%8B%B1%E7%89%B9%E7%88%BEfoveros%E5%B0%81%E8%A3%9D-040006135.html",
+      "Content": "南韓GF證券分析師Jeff Pu出具最新研報指出，輝達可能在2028年下半年於部分後端環節採用英特爾Foveros先進封裝，但目前尚無任何合約或具體產品定案，屬市場推測。英特爾先進封裝組合已涵蓋EMIB、Foveros、Foveros Direct等，並對外爭取AI客戶。\n\n但此一說法呼應《DigiTimes》今年1月爆料稱輝達未來Feynman系列GPU主體仍交台積電先進製程，配套I/O或非核心裸片可評估英特爾18A、14A，後端再由其封裝。\n\n英特爾14A預計2028年下半年高容量量產，時程與Foveros推進吻合。\n\n技術上，EMIB以嵌入式矽橋橫向連接芯粒，EMIB-T加矽通孔做垂直供電與訊號；Foveros更進一步把運算裸片垂直堆疊於基底，縮小封裝面積、縮短互連，有利頻寬與能效。\n\n對輝達而言，引入英特爾封裝可分散對台積電CoWoS等產能的依賴，緩解AI加速器需求高峰下的瓶頸；對英特爾而言，即便僅拿到Feynman後端或少量非核心訂單，重點也不在即時超越先進前段製程，而是完成Foveros大規模工業驗證、切入資料中心AI供應鏈。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "GOOGL",
       "Date": "2026-10-10",
       "Time": "11:17:00",
@@ -21,6 +31,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-reality-check-031700485.html",
       "Content": "AI investors have grown accustomed to seeing almost every dip treated as another buying opportunity.\n\nJim Cramer's latest message , though, is uncomfortable.\n\nWhile he believes the long-term AI story remains intact, owning too much of it can still wreck a portfolio when sentiment suddenly turns.\n\nThat became painfully visible after Nvidia ( NVDA ), Broadcom ( AVGO ), Alphabet ( GOOGL ), and other AI-linked names were hit hard by fresh questions surrounding OpenAI's revenue. Consequently, the Nasdaq dipped 1.25% on Oct. 8, 2026, as semiconductor stocks came under particular pressure, as reported by Reuters .\n\nCramer does not think the AI boom is over. In fact, he told viewers he believes the sell-off can reverse and that \"the AI trade will be back in action.\"\n\nBut I think his larger warning is more important than that bullish nod.\n\nInvestors who have allowed AI winners to dominate their portfolios may discover that conviction and concentration are very different things when an unexpected headline suddenly challenges the market's most crowded assumptions.\n\nCramer says the AI trade can recover, but concentration is the real danger\n\nCramer's warning comes as questions emerge about OpenAI's sales trajectory, sending much of the AI complex lower.\n\nOn \"Mad Money,\" he described Nvidia, Broadcom, and Alphabet getting caught up in what he called a \"charnel house.\"\n\nMore Tech:\n\nAnthropic-powered AI model sends shocking message to employee\n\nRocket Lab clears 1st hurdle in its biggest satellite deal\n\nApple's $54 billion iPhone machine may be about to break its biggGest ritual\n\nThe underlying OpenAI story deserves a bit of nuance.\n\nReuters subsequently reported that OpenAI told investors its September annualized revenue was nearly $50 billion, below an earlier indication approaching $70 billion. But the discrepancy appears partly related to accounting comparisons.\n\nFor perspective, OpenAI excludes certain revenue generated through cloud partners when making some comparisons with Anthropic.\n\nCramer recognized that uncertainty. He said he had not received independent confirmation that OpenAI's business was deteriorating and predicted that the accounting comparison would ultimately prove not to be \"apples to apples.\"\n\nMore importantly, he said, \"I bet the big declines we saw today in the complex can reverse.\"\n\nThat said, it's clear that he isn't fundamentally bearish on artificial intelligence.\n\nThe semiconductor index had surged more than 80% in 2026 before the Oct. 8 decline, according to Reuters . Meanwhile, Goldman Sachs estimates the largest U.S. hyperscalers could spend about $800 billion on capital expenditures this year and $1.1 trillion in 2027.\n\nStory Continues\n\nSo the fundamentals behind AI spending therefore remain enormous. The vulnerability is that expectations have become equally enormous.\n\nThat is why a single revenue report from a private company could suddenly hit public companies across the AI ecosystem.\n\nCramer's bigger message is about staying invested when the hottest trade breaks\n\nThe part of Cramer's argument I find most useful for ordinary investors came after the sell-off.\n\nHe imagined an investor owning nothing but data-center stocks, watching those positions fall simultaneously, and eventually saying, \"I can't take this pain. I can't take these losses.\"\n\nHis concern is that concentrated investors may respond by selling everything and moving to cash at precisely the wrong moment.\n\nCramer pointed to investors who fled markets following earlier crashes and never fully returned, missing subsequent rallies.\n\n\"Diversification is the only free lunch in the business.\"\n\nHis own example was Home Depot ( HD ) stock.\n\nCramer acknowledged that he had disliked owning the stock while housing and interest-rate pressures weighed on it. Yet when AI shares tumbled, Home Depot (HD) rose more than 3%, demonstrating why exposure to economically different businesses can soften a portfolio shock.\n\nI would take that argument one step further. AI investors increasingly face correlation risk. Nvidia, Broadcom, Oracle, and other AI-infrastructure names participate in different parts of the ecosystem, but they can still trade as one basket when investors suddenly question AI profitability.\n\nThat risk is becoming more important as financing requirements grow.\n\nMorgan Stanley estimates that AI infrastructure could require around $1.5 trillion of external financing by 2028, with investors demanding evidence that revenues can eventually support the enormous buildout.\n\nCramer's answer was not to abandon those winners. He said \"cash and stocks not impacted by the data center\" can help investors endure periods when AI suddenly falls out of favor.\n\nThat is a very different message from trying to predict the next daily move.\n\nDon't confuse belief in AI with needing an AI-only portfolio\n\nCramer's warning becomes much more useful primarily because he remains bullish on AI in the long term.\n\nInstead, he expects AI stocks to recover while arguing investors should prepare for violent resets along the way.\n\nThere is evidence that valuations have already adjusted. The median AI-infrastructure stock recently traded around 22 times forward earnings, down from about 32 times in April, according to Goldman Sachs data cited by Wealth Professional .\n\nThe broader S&P 500 traded around 19.2 times forward earnings.\n\nI therefore would not read the Oct. 8 tumble as proof that the AI thesis has broken down. I would watch whether hyperscaler spending, cloud demand, and semiconductor earnings actually begin weakening.\n\nFor investors already heavily exposed to Nvidia, Broadcom, or other AI winners, however, Cramer's message is actionable now.\n\nIt's imperative to check how much of the portfolio depends on the same AI spending cycle.\n\nAI can remain one of the market's strongest long-term themes, yet still be too large a percentage of an individual investor's portfolio. Those two ideas are not contradictory.\n\nRelated: Jeff Bezos explains why Amazon is still cutting jobs\n\nThis story was originally published by TheStreet on Oct 10, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nJim Cramer warned investors against excessive AI exposure after technology stocks tumbled.Slaven Vlasic / Getty Images\n\nJim Cramer warned investors against excessive AI exposure after technology stocks tumbled.Slaven Vlasic / Getty Images Cramer's bigger message is about staying invested when the hottest trade breaks\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "10:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "國慶必看！擴大非紅軍防韌性　台股五雄出列",
+      "URL": "https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B6%E5%BF%85%E7%9C%8B-%E6%93%B4%E5%A4%A7%E9%9D%9E%E7%B4%85%E8%BB%8D%E9%98%B2%E9%9F%8C%E6%80%A7-%E5%8F%B0%E8%82%A1%E4%BA%94%E9%9B%84%E5%87%BA%E5%88%97-021500968.html",
+      "Content": "台灣國防預算持續擴大，無人機與無人艇供應鏈也由早期樣機開發與測試，逐步走向產線建置、零組件穩定供貨及批量交付階段。法人指出，2026年國防總支出規劃達9495億元，2027年行政院總預算案進一步提高至1兆1225億元、年增約18%，加上強化國防自主暨無人載具產業發展條例規劃6年編列2400億元，國內軍工產業中期成長動能可望持續升溫。該條例規劃每年原則上投入400億元，主要用於可信任供應鏈、研發及測試能力建置；行政院另提出1457億元國防追加預算，其中濱海監偵型、沿海攻擊型無人機及小型自殺無人艇相關預算合計559億元，若後續預算順利通過，採購進度有望加快，並以2027年形成初始戰力為目標。\n\n模組平價並進 情監系統升級\n\n隨政策需求逐步落地，台灣無人機產業也將朝兩條路線同步發展。其一是低成本與大量部署路線，高度重視採購成本、生產速度與快速補充能力，將有效帶動模組化設計與共用零組件龐大需求；另一條路線則是高階情監偵，強調長時間航行、感測品質及高穩定度資料鏈，商業價值將由單純機體製造延伸至光電酬載、導引控制系統及後續後勤維保服務。與此同時，反無人機防禦系統同樣進入全面升級階段，法人認為，未來產業將由單一電子干擾設備，進一步朝向多重感測器、指揮控制與主動反制手段整合發展，系統跨品牌相容性、真實場域驗證能力以及後續軟硬體更新升級速度，將成為相關業者在軍工防禦市場脫穎而出的關鍵實力。\n\n航太造船搶單 量產維保並行\n\n在無人艇領域方面，產業價值亦由單純船體製造延伸至自主航行、通訊鏈路及任務酬載整合。由於台海風浪與海象條件複雜，海試能力",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -33,6 +53,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-10",
+      "Time": "08:34:09",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普排除期中選前攻伊　俄柴油重返市場激勵美股收紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E6%8E%92%E9%99%A4%E6%9C%9F%E4%B8%AD%E9%81%B8%E5%89%8D%E6%94%BB%E4%BC%8A-%E4%BF%84%E6%9F%B4%E6%B2%B9%E9%87%8D%E8%BF%94%E5%B8%82%E5%A0%B4%E6%BF%80%E5%8B%B5%E7%BE%8E%E8%82%A1%E6%94%B6%E7%B4%85-003409627.html",
+      "Content": "（中央社紐約2026年10月9日綜合外電報導）美國總統川普排除期中選舉前對伊朗發動攻擊的可能，同時宣布與俄羅斯總統普丁（Vladimir Putin）討論後，俄羅斯柴油將重新流向全球市場，激勵美股今天紅盤作收。\n\n道瓊工業指數終場上漲423.31點，或0.83%，收在51654.95點。\n\n標準普爾500指數上漲46.18點，或0.59%，收在7811.54點。\n\n以科技股為主的那斯達克指數上漲172.83點，或0.64%，收在27366.17點。\n\n費城半導體指數下跌51.295點，或0.41%，收在12572.420點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "CSCO",
       "Date": "2026-10-10",
       "Time": "07:00:02",
@@ -41,6 +71,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/oracle-vs-cisco-dividend-battle-230002680.html",
       "Content": "AI may be getting smarter, but it still needs somewhere to run. Every new model and data center drives growing demand for computing power, storage, networking, and security. That creates another layer of opportunity for established tech companies that can supply the infrastructure that keeps AI moving.\n\nOracle (ORCL) and Cisco (CSCO) both fit that description, but in different ways. Oracle is pushing deeper into cloud and AI infrastructure, while Cisco is helping connect and secure the systems behind it.\n\nMore News from Barchart\n\nWith a Yield Fast Approaching 5%, Nike Says Its Dividend Is the 'Top Priority'\n\nTired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\n\nFor dividend investors, that makes this an interesting matchup. Both companies offer income, both are tied to AI spending, and both trade below the broader technology sector's valuation. The question is which one offers the better balance of growth, value, and dividends today.\n\nSpoiler alert: it's way closer than what the stock charts suggest.\n\nOracle vs. Cisco's Company Profile & Stock Performance\n\nOracle is best known as the database giant behind many of today's largest businesses. Its software helps companies manage mission-critical information, giving it a reputation for handling data enterprises cannot afford to lose. Today, the company is expanding into AI infrastructure, which I'll cover later. Currently, Oracle sits at a market cap of around $434 billion but is down 30% year-to-date.\n\nOn the other hand, Cisco helped build the internet's plumbing. Its routers and switches direct traffic across networks and data centers, making it a major behind-the-scenes player whenever information needs to move quickly and reliably. Similarly, AI is giving that longtime networking business a new growth opportunity. Cisco has a market cap of about $463 billion and is up 49% YTD.\n\nBoth companies are established in their own way as tech heavyweights, but each is taking a different route into the AI boom.\n\nHow Oracle and Cisco Are Each Tapping the AI Boom\n\nOracle and Cisco may be chasing the same AI spending wave, but they're taking different approaches.\n\nOracle's biggest push is through Oracle Cloud Infrastructure (OCI), the company's cloud platform that provides the computing power, storage, and networking data centers and AI models demand. That role has pushed Oracle into projects such as Stargate, a bold AI infrastructure project designed to meet OpenAI's AI system needs.\n\nIn other words, Oracle is transitioning from a data manager to an AI horsepower provider.\n\nStory Continues\n\nCisco is competing for the same AI spending, but instead of supplying the horsepower, it is focused on keeping that horsepower connected.\n\nIts latest push, the Secure AI Factory with Nvidia (NVDA), combines Cisco's networking and security technology with NVIDIA's AI infrastructure. The result is a more complete setup for companies building AI systems, with the computing power, connectivity, and security needed to run large workloads at scale.\n\nBoth companies are clearly positioned for the AI buildout, just from different parts of the infrastructure chain. The next question is whether that opportunity is translating into stronger financial performance and better value for investors.\n\nOracle vs. Cisco Financial Performance and Valuation\n\nFor a side-by-side comparison, I used Barchart's Stock Comparison Tool.\n\nRight off the bat, Oracle leads in profitability and growth based on the companies' latest annual results. Oracle's annual sales totaled $67.36 billion, about 6% more than Cisco's $63.33 billion. The gap widens further down the income statement. Oracle's annual net income of $17.09 billion is roughly 29% higher than Cisco's $13.27 billion, giving it a profit margin of 25% versus Cisco's 21%.\n\nAnnual EPS growth tells a similar story. Oracle's EPS rose 36% from the previous year, narrowly ahead of Cisco's 33%. Cisco's growth is solid, and that roughly three-point gap isn't large, so on this measure, the two are closer than sales and income suggest.\n\nOracle also looks cheaper based on forward earnings. ORCL trades at 22x, compared with Cisco's 27x. However, the market has shown far more long-term confidence in Cisco. Cisco's shares have returned 112% over five years, more than double Oracle's 51%.\n\nSo Oracle may be winning on growth, profitability, and valuation, but Cisco is clearly winning on the stock chart, which makes this comparison pretty close for now. For income investors, however, one more round could tip the scales.\n\nORCL and CSCO Dividend Yield and Payout Ratio\n\nOracle pays a $2.00 forward annual dividend, translating to a 1.4% yield. Its dividend payout ratio is 29%, meaning less than a third of earnings go to dividends, leaving plenty of room for reinvestment.\n\nCisco, meanwhile, pays a forward annual dividend of $1.68, which also translates to a yield of around 1.4%. Its payout ratio is higher at 45%, meaning it has already committed a larger share of earnings to shareholders.\n\nSo while the yield is nearly identical today, Oracle has more breathing room behind its payout. That may matter more than the yield itself, especially for investors thinking beyond their next check. That said, 1.4% isn't exactly what you'd call an \"income play,\" so its future growth and returns might be the better tie-breaker. To gauge those, let's see what Wall Street thinks.\n\nWhat Analysts Say About Oracle and Cisco Stock\n\nHere's what the experts say.\n\nA consensus of 44 analysts rates ORCL stock a \"Strong Buy,\" with potential upside of up to 194% if it hits the $400 high target price.\n\nCompared with Oracle, analysts are slightly less optimistic about CSCO, with a consensus among 27 analysts rating it a \"Moderate Buy.\" Its high target prices suggest a decent upside of around 44%.\n\nWhich Is the Better Dividend Stock, Oracle or Cisco?\n\nThis matchup turned out much closer than at first glance. Cisco has clearly been the market favorite between the two, but Oracle also looks compelling based on today's numbers. While Cisco has momentum on its side, Oracle, with faster growth, a lower price, and the same yield with a lower payout ratio, gets my slight edge as the better value for dividend investors today.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-10",
+      "Time": "06:22:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】利多加持　收紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%88%A9%E5%A4%9A%E5%8A%A0%E6%8C%81-%E6%94%B6%E7%B4%85-222207798.html",
+      "Content": "（中央社台北2026年10月10日電）美國總統川普排除期中選舉前對伊朗發動攻擊的可能，同時宣布與俄羅斯總統普丁（Vladimir Putin）討論後，俄羅斯柴油將重新流向全球市場，激勵美股今天紅盤作收。\n\n道瓊工業指數終場上漲423.31點，或0.83%，收在51654.95點。\n\n標準普爾500指數上漲46.18點，或0.59%，收在7811.54點。\n\n以科技股為主的那斯達克指數上漲172.83點，或0.64%，收在27366.17點。\n\n費城半導體指數下跌51.295點，或0.41%，收在12572.420點。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -53,6 +93,96 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-10",
+      "Time": "06:07:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "伊朗局勢緩解！美股三大指數齊揚　「這指數」卻逆勢走跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E7%B7%A9%E8%A7%A3-%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E9%BD%8A%E6%8F%9A-%E9%80%99%E6%8C%87%E6%95%B8-%E5%8D%BB%E9%80%86%E5%8B%A2%E8%B5%B0%E8%B7%8C-220734180.html",
+      "Content": "即時中心／綜合報導\n\n因美國總統川普表示期中選舉前不會攻擊伊朗，美股主要指數期貨週五（9日）漲跌互見。標普500上漲0.59%或46.18，收在7,811.54點；那斯達克上漲0.64%或172.83，收在27,366.17。道瓊上漲423.31點或0.83%，收在51,654.95點。費城半導體指數下跌0.41%或51.29。\n\n美股漲跌互見\n\n終場道瓊工業指數上漲423.31點、0.83%，收51,654.95點。\n\n標普五百指數上漲46.18點、0.59%，收7,811.54點。\n\n那斯達克指數上漲172.83點、0.64%，收27,366.17點。\n\n費城半導體指數下跌51.29點、0.41%，收12,572.42點。\n\n國際油價上漲\n\n國際油價上漲，布蘭特原油（Brent Crude）終場上漲0.13美元、0.12%，每桶以104.41美元作收；紐約西德州原油（WTI）上漲0.17美元、0.19%，每桶收在91.66美元。\n\n美股漲跌互見。（圖／美聯社提供）《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／伊朗局勢緩解！美股三大指數齊揚　「這指數」卻逆勢走跌",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-10",
+      "Time": "06:01:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%B7%9D%E6%99%AE%E7%A8%B1%E6%99%AE%E4%B8%81%E5%90%8C%E6%84%8F%E5%90%91%E5%85%A8%E7%90%83%E6%8A%95%E6%94%BE%E6%9F%B4%E6%B2%B9-%E6%A8%99%E6%99%AE%E9%80%BC%E8%BF%91%E6%AD%B7%E5%8F%B2%E9%AB%98%E9%BB%9E-%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E5%91%A8%E7%B7%9A%E6%94%B6%E7%B4%85-220105298.html",
+      "Content": "投資人逐漸消化 OpenAI 年化營收消息，並將目光轉向下週大型銀行財報，美股週五 (9 日) 幾乎全面收高，軟體與醫療保健類股領漲，標普 500 指數逼近歷史高點。道瓊收漲逾 420 點，僅費半仍收黑約 0.4%。\n\n三大指數本週均收紅，道瓊累計上漲約 0.9%，那斯達克升約 0.6%，標普週漲約 1.2%。\n\n美國 10 年期公債殖利率週五上升 2 個基點至 5.25%。美元指數連漲 4 週，創 2025 年 5 月以來最長連漲週數。現貨黃金上漲約 1.5%，報每盎司 4,194.43 美元。\n\n美國總統川普週五表示，俄羅斯總統普丁已同意向美國及全球市場供應柴油，俄羅斯已同意向美國及全球市場供應超過480萬噸柴油，其中首批逾30萬噸將立即交付，後續還有數百萬噸的供應計畫。\n\n消息傳出後，美股隨後攀抵當日高點，柴油期貨明顯下跌，原油自高位回落。週五西德州原油期貨仍收漲約 0.39%，報每桶 91.85 美元，布蘭特原油則收在每桶 104 美元以上。\n\n美股週五 (9 日) 主要指數表現：\n\n道瓊工業指數上漲 423.31 點，或 0.83%，報 51,654.95 點。\n\n那斯達克指數上漲 172.83 點，或 0.64%，報 27,366.17 點。\n\nS&P 500 指數上漲 46.18 點，或 0.59%，報 7,811.54 點。\n\n費城半導體指數下跌 51.29 點，或 0.41%，報 12,572.42 點。\n\nNYSE FANG+ 指數上漲 162.21 點，或 0.83%，報 19,589.70 點。\n\n焦點個股\n\nNYSE FANG+ 指數中的科技五大巨頭漲跌互見。Meta (META-US) 下跌 0.31%；蘋果 (AAPL-US) 下跌 1.11%；Alphabet (GOOGL-US) 上漲 0.97%；微軟 (MSFT-US) 上漲 2.38%；亞馬遜 (AMZN-US) 上漲 3.29%。\n\n半導體焦點個股多數收黑。AMD (AMD-US) 下跌 2.03%；博通 (AVGO-US) 上漲 0.39%；輝達 (NVDA-US) 下跌 0.52%；應用材料 (AMAT-US) 下跌 0.50%；高通 (QCOM-US) 下跌 0.29%。\n\n記憶體與儲存族群漲跌不一。美光 (MU-US) 下跌 0.66%；威騰電子 (WDC-US) 上漲 1.01%；SanDisk (SNDK-US) 下跌 1.72%；希捷 (STX-US) 上漲 1.06%；SK 海力士 ADR (SKHY-US) 下跌 0.86%。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text-batcav",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "05:56:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR9日上漲0.22美元漲幅1.97%折台股36.37元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr9%E6%97%A5%E4%B8%8A%E6%BC%B20-22%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-97-%E6%8A%98%E5%8F%B0%E8%82%A136-37%E5%85%83-215603804.html",
+      "Content": "(中央社台北2026年10月10日電)友達光電在OTC US掛牌ADR以 11.41美元作收，上漲0.22美元，漲幅 1.97%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以10月 9日新台幣匯市收盤價31.875元計算，相當台股友達每股為 36.37元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/ 9\n\n11.41\n\n0.22\n\n1.97\n\n31.875\n\n36.3\n\n10/ 8\n\n11.19\n\n-0.59\n\n-5.01\n\n35.6\n\n10/ 7\n\n11.78\n\n0.10\n\n0.86\n\n31.795\n\n37.4\n\n10/ 6\n\n11.68\n\n-0.49\n\n-4.03\n\n31.781\n\n37.1\n\n10/ 5\n\n12.17\n\n-0.55\n\n-4.32\n\n31.788\n\n38.6\n\n10/ 2\n\n12.72\n\n0.84\n\n7.07\n\n31.830\n\n40.4\n\n10/ 1\n\n11.88\n\n-0.15\n\n-1.25\n\n31.842\n\n37.8\n\n9/30\n\n12.03\n\n1.01\n\n9.17\n\n31.852\n\n38.3\n\n9/29\n\n11.02\n\n0.32\n\n3.05\n\n31.876\n\n35.1\n\n9/28\n\n10.69\n\n0.05\n\n0.51\n\n31.780\n\n33.9",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "05:55:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR9日下跌0.21美元跌幅0.45%折台股146.59元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr9%E6%97%A5%E4%B8%8B%E8%B7%8C0-21%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-45-%E6%8A%98%E5%8F%B0%E8%82%A1146-59%E5%85%83-215558875.html",
+      "Content": "(中央社台北2026年10月10日電)中華電信在NYSE掛牌ADR 以 45.99美元作收，下跌0.21美元，跌幅 0.45%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以10月 9日新台幣匯市收盤價31.875元計算，相當台股中華電信每股為146.59元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/ 9\n\n45.99\n\n-0.21\n\n-0.45\n\n31.875\n\n146.5\n\n10/ 8\n\n46.20\n\n0.42\n\n0.92\n\n147.2\n\n10/ 7\n\n45.78\n\n-0.30\n\n-0.65\n\n31.795\n\n145.5\n\n10/ 6\n\n46.08\n\n-0.07\n\n-0.15\n\n31.781\n\n146.4\n\n10/ 5\n\n46.15\n\n-0.01\n\n-0.02\n\n31.788\n\n146.7\n\n10/ 2\n\n46.16\n\n0.61\n\n1.34\n\n31.830\n\n146.9\n\n10/ 1\n\n45.55\n\n0.07\n\n0.15\n\n31.842\n\n145.0\n\n9/30\n\n45.48\n\n-0.11\n\n-0.24\n\n31.852\n\n144.8\n\n9/29\n\n45.59\n\n-0.39\n\n-0.85\n\n31.876\n\n145.3\n\n9/28\n\n45.98\n\n-0.17\n\n-0.37\n\n31.780\n\n146.1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-10-10",
+      "Time": "05:55:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR9日上漲0.14美元漲幅0.61%折台股146.37元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr9%E6%97%A5%E4%B8%8A%E6%BC%B20-14%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-61-%E6%8A%98%E5%8F%B0%E8%82%A1146-37%E5%85%83-215556658.html",
+      "Content": "(中央社台北2026年10月10日電)聯電在NYSE掛牌 ADR以22.96美元作收，上漲0.14美元，漲幅 0.61%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以10月 9日新台幣匯市收盤價31.875元計算，相當台股聯電每股為146.37元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/ 9\n\n22.96\n\n0.14\n\n0.61\n\n31.875\n\n146.3\n\n10/ 8\n\n22.82\n\n-0.49\n\n-2.10\n\n145.4\n\n10/ 7\n\n23.31\n\n0.12\n\n0.52\n\n31.795\n\n148.2\n\n10/ 6\n\n23.19\n\n-0.73\n\n-3.05\n\n31.781\n\n147.4\n\n10/ 5\n\n23.92\n\n-2.35\n\n-8.95\n\n31.788\n\n152.0\n\n10/ 2\n\n26.27\n\n1.06\n\n4.20\n\n31.830\n\n167.2\n\n10/ 1\n\n25.21\n\n0.72\n\n2.94\n\n31.842\n\n160.5\n\n9/30\n\n24.49\n\n-0.23\n\n-0.93\n\n31.852\n\n156.0\n\n9/29\n\n24.72\n\n0.87\n\n3.65\n\n31.876\n\n157.5\n\n9/28\n\n23.85\n\n-0.46\n\n-1.89\n\n31.780\n\n151.5\n\n9/25\n\n24.31\n\n0.21\n\n154.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-10-10",
+      "Time": "05:50:54",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR9日下跌4.68美元跌幅1.02%折台股2889.85元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr9%E6%97%A5%E4%B8%8B%E8%B7%8C4-68%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-02-%E6%8A%98%E5%8F%B0%E8%82%A12889-85%E5%85%83-215054307.html",
+      "Content": "(中央社台北2026年10月10日電)台積電在NYSE掛牌 ADR以453.31美元作收，下跌 4.68美元，跌幅 1.02%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以10月 9日新台幣匯市收盤價31.875元計算，相當台股台積電每股為 2889.85元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/ 9\n\n453.31\n\n-4.68\n\n-1.02\n\n31.875\n\n2889.8\n\n10/ 8\n\n457.99\n\n-14.21\n\n-3.01\n\n2919.6\n\n10/ 7\n\n472.20\n\n-10.10\n\n-2.09\n\n31.795\n\n3002.7\n\n10/ 6\n\n482.30\n\n-3.50\n\n-0.72\n\n31.781\n\n3065.6\n\n10/ 5\n\n485.80\n\n13.02\n\n2.75\n\n31.788\n\n3088.5\n\n10/ 2\n\n472.78\n\n13.58\n\n2.96\n\n31.830\n\n3009.7\n\n10/ 1\n\n459.20\n\n3.01\n\n0.66\n\n31.842\n\n2924.3\n\n9/30\n\n456.19\n\n-0.75\n\n-0.16\n\n31.852\n\n2906.1\n\n9/29\n\n456.94\n\n4.06\n\n0.90\n\n31.876\n\n2913.0\n\n9/28\n\n452.88\n\n2.27\n\n0.50\n\n31.780\n\n2878.5",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "05:49:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股多頭氣盛 仍須防「短線回馬槍」",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%A4%9A%E9%A0%AD%E6%B0%A3%E7%9B%9B-%E4%BB%8D%E9%A0%88%E9%98%B2-%E7%9F%AD%E7%B7%9A%E5%9B%9E%E9%A6%AC%E6%A7%8D-214923048.html",
+      "Content": "台股近期多頭氣盛，叩關5萬點只是時間問題。雖然「50K」是心理關卡，但法人提醒，隨短線正乖離擴大、美國期中選舉倒數計時、美台科技股財報等變數匯聚，10月中下旬慎防短線「多頭回馬槍」，不過，震盪中仍可望再攻高。\n\n群益投顧董事長蔡明彥指出，台股以往有「國慶前偏強、國慶後分歧」現象，統計最近十年國慶日前三個交易日上漲機率70%，平均漲幅0.68%，國慶後三日上漲機率降至50%，平均下跌0.51%，今年國慶行情關鍵聚焦台積電（2330）法說會、人工智慧（AI）資本支出、美科技股走表現及外資籌碼。\n\n此外，美國期中選舉預計11月3日登場，貿易關稅、台灣半導體產業等相關消息，將影響外資與大型機構法人追價意願，甚至轉為提前獲利落袋為安，若台股追價動能不繼，將形成量縮盤整格局。\n\n法人指出，目前科技股評價位處高檔，因而對企業獲利容錯率大幅降低，10月下旬美股大型科技巨頭及台股上市櫃公司將公布第3季財報及第4季展望，一旦未如預期恐出現骨牌效應。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "05:49:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股5萬點前的警訊：外資由買轉賣、高價AI股震盪 下一波行情怎麼看？",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A15%E8%90%AC%E9%BB%9E%E5%89%8D%E7%9A%84%E8%AD%A6%E8%A8%8A-%E5%A4%96%E8%B3%87%E7%94%B1%E8%B2%B7%E8%BD%89%E8%B3%A3-%E9%AB%98%E5%83%B9ai%E8%82%A1%E9%9C%87%E7%9B%AA-%E4%B8%8B-%E6%B3%A2%E8%A1%8C%E6%83%85%E6%80%8E%E9%BA%BC%E7%9C%8B-214923437.html",
+      "Content": "台股本周在5萬點關前上演高檔震盪，5日大漲1,236點後，6日盤中最高來到49,968點，距5萬點僅31點，卻未能一舉攻克；8日更受到美債殖利率回升、美股走弱及權值股賣壓影響，單日大跌492點，收49,313點。值得注意的是，指數攻關未果之際，法人籌碼同步由買轉賣，資金則從部分高價AI股轉向記憶體、封測及高階材料，成為本周盤面最明顯的變化。\n\n本周台股先強後弱。5日集中市場指數大漲1,236點、漲幅2.55%，收49,712點，成交值達1.15兆元，一舉收復前一波整理區；6日續漲110.51點，盤中最高49,968點，距5萬點整數關卡僅31點，最終收49,822點，再創盤中與收盤雙新高。\n\n不過，5萬點近在咫尺之際，多方追價力道開始降溫，7日指數小跌16.18點，收49,806點；8日則在外部市場轉弱及權值股賣壓下，盤中一度跌逾600點，終場下挫492點，收49,313點，失守5日線。\n\n從一周走勢來看，台股並非單純由多轉空，而是急漲逼近整數關卡後，短線追價動能轉弱，市場開始進入高檔換手與類股輪動階段。\n\n法人籌碼出現高檔調節變化\n\n籌碼變化是本周另一項重要訊號。5日台股大漲時，三大法人同步買超764.49億元，其中外資買超718.97億元，成為指數攻高的重要推力；但6日起籌碼迅速轉向，三大法人連續3個交易日賣超。\n\n6日三大法人賣超207.87億元、7日賣超212.57億元，8日更擴大至898.95億元，外資單日即賣超758.52億元。換言之，指數從5日強彈、6日逼近5萬點，到8日明顯拉回的過程，法人籌碼已出現由積極追價轉向高檔調節的變化。\n\n這也使5萬點後的盤勢觀察焦點，不只在指數能否再攻整數關卡，更要看外資是否重新回補台積電（2330）等權值股。\n\n產業面來看，CCL／PCB仍是本周最具延續性的強勢主線之一。台光電（2383）5日大漲9.93%至5,700元，6日再漲5.18%，盤中一度觸及6,000元；台燿（6274）、聯茂（6213）、南亞（1303）也同步走強。AI伺服器及高速交換器規格升級，帶動市場持續聚焦M9以上高階材料、低DK及低損耗玻纖等需求。\n\n另一方面，隨著指數8日回檔，記憶體與封測族群相對有撐。台灣美光桃園工會取得罷工權後，市場開始關注DRAM供給風險，南亞科（2408）等記憶體股因此受到關注；不過，目前仍屬市場對供給風險的預期交易，並非已確認的轉單。\n\n封測方面，日月光投控（3711）8日逆勢上漲1.64%、收744元，成為電子權值股中少數維持強勢的個股，顯示資金並未全面撤出AI供應鏈，而是轉向封測、先進封裝等相對具基本面支撐的標的。\n\n股王股后何時能止跌？\n\n高價股則是本周盤面最明顯的強弱分化區。5日多檔高價股同步走強，但隨著指數逼近5萬點，逐步浮現，川湖（2059）、穎崴（6515）7日走弱，8日信驊（5274）、川湖更一度同步跌停，顯示高基期、高評價個股在高檔震盪環境下波動明顯放大。\n\n相較之下，南亞科、日月光投控以及高階CCL相關個股仍有資金承接，反映市場並非全面撤出電子，而是開始提高對個股基本面、產業供需與評價位置的要求。\n\n雙十連假過後，除了觀察5萬點能否重新收復，更要留意美債殖利率與美股風險偏好，以及外資是否重新回補權值股；產業面則持續追蹤記憶體供給議題、CCL高階材料升級，以及封測／先進封裝族群能否延續資金承接。\n\n<p class=\"mb-module-gap break-w",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-10",
+      "Time": "05:49:23",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積10月15日法說  牽動台股三劇本",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D10%E6%9C%8815%E6%97%A5%E6%B3%95%E8%AA%AA-%E7%89%BD%E5%8B%95%E5%8F%B0%E8%82%A1%E4%B8%89%E5%8A%87%E6%9C%AC-214923558.html",
+      "Content": "台積電（2330）法人說明會下周四（15日）登場，釋出的展望及指引將成為人工智慧（AI）股多空風向球。\n\n四大股市名師推演三劇本，若第4季營收季增率及毛利率優於預期，並對AI及中長期半導體成長預估更加樂觀，將有利台股震盪盤堅站穩5萬點，並續探高點。\n\n群益投顧董事長蔡明彥、第一金投顧董事長黃詣庭分析，雖然中東情勢反覆不定、美債殖利率高漲、AI雜音持續干擾市場信心，台股叩關5萬點尚未達陣，所幸企業獲利延續上修趨勢、ETF買盤源源不絕挹注，即使拉回幅度有限，建議逢低分批布局。\n\n永豐投顧總經理黃柏棠、台新投顧總經理黃文清指出，台積電第3季營收達到財測高標，多家內外資法人樂觀預期財報可望繳出亮麗成績單，若下周四法說會對公司財務數據指引及AI、半導體展望釋出令人驚豔看法，將可提振多頭信心，激勵台股重啟攻勢。\n\n綜合蔡明彥、黃詣庭、黃柏棠、黃文清等看法，針對台積電法說會推演三大情境。其中，基本情境是第3季毛利率達財測上緣67%、第4季營收季增10%及毛利率指引66%至68%、今年資本支出落在640億美元上緣、AI展望持續樂觀、維持中長期半導體成長看法，大盤蓄勢再戰5萬點，發生機率80%。\n\n樂觀情境則是台積電第3季毛利率高於67.5%、第4季營收季增13%至15%及毛利率指引高於68%、2026年美元營收成長上調到40%中段、2026年資本支出高於640億美元、AI展望更樂觀、調高中長期半導體成長預估，將激勵大盤震盪盤堅站穩5萬點，並持續上探高點，發生機率15%。\n\n悲觀情境為台積電第3季獲利及毛利率僅符合財測、第4季營收季增率低於10%及毛利率指引低於66%、調降2026年營收成長率、調降今年資本支出、AI展望轉趨保守、調降中長期半導體成長預估，恐壓抑大盤回測月線、47,500點等支撐，但發生機率僅5%。\n\n在台積電法說前夕，多家內外資機構法人搶先出具報告調升目標價，其中，樂觀派高喊上看4,000元，包括麥格理證券4,410元、花旗證券4,000元，瑞銀證券則喊3,650元。\n\n赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT, GOOGL",
       "Date": "2026-10-10",
       "Time": "05:20:27",
@@ -61,6 +191,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-alphabet-ai-cloud-212027785.html",
       "Content": "Microsoft Corporation (NASDAQ: MSFT ) and Alphabet Inc. (NASDAQ: GOOGL ) compete for enterprise computing budgets, but buying their shares also means financing the servers behind those services. At the October 7 close, Microsoft cost about 59 times trailing free cash flow, against Alphabet's 80 times. Alphabet's faster cloud growth therefore comes with a higher price for cash left after capital spending.\n\nThat difference changes the familiar argument that Alphabet looks cheaper on reported earnings. Its June quarter included a $98 billion net gain in other income, primarily unrealized investment gains. Those gains do not measure the profitability of selling cloud services.\n\nMicrosoft (MSFT) and Alphabet (GOOGL) both secured spots on our list of Top 10 AI Stocks That Will Skyrocket . See which AI giant ranks higher and which other stocks made the cut.\n\nAsif Islam / Shutterstock.com\n\nOur comparison with Amazon shows which cloud operator retained more cash after its infrastructure bill . A separate valuation exercise asks how much Google Cloud must contribute before Alphabet's price becomes easier to defend .\n\nFaster cloud growth carries a larger cash hurdle\n\nAlphabet's June-quarter Google Cloud revenue rose 82% to $24.77 billion, with $8.81 billion of operating income. That 35.6% segment margin supports the bullish argument that scale is producing operating leverage. Search and other advertising revenue also increased 17%, providing another earnings engine.\n\nInsider Monkey recorded 275 Alphabet holders in Q2 2026, up from 265 in Q1. Fisher increased its Alphabet shares about 3%.\n\nThe risk is treating segment profit as cash available to shareholders. Shared AI research costs sit partly outside the cloud segment, and infrastructure spending consumes cash before depreciation fully reaches earnings. Alphabet must protect advertising economics while obtaining attractive returns on that investment.\n\nMicrosoft's fiscal fourth-quarter revenue rose 18% to $90 billion, and Azure and other cloud services revenue increased 43%. Its established software distribution gives it several ways to sell computing and applications to the same customers. The bear case is that this advantage still requires substantial investment: fiscal 2026 operating cash flow of $182.94 billion less $115.95 billion of property-and-equipment additions left $66.99 billion.\n\nBoth cash figures use operating cash flow less cash purchases of property and equipment. They exclude finance-lease principal paid through financing activities; Microsoft paid another $3.10 billion in fiscal 2026.\n\nStory Continues\n\nMicrosoft's holder count fell to 273 from 282 in Q1; Arrowstreet increased its shares about 14%. These are historical long-position snapshots.\n\nMicrosoft's September 15 short interest was 67.35 million shares, about 0.9% of float.\n\nContracted demand helps only when its timing matches the spending. Our backlog analysis examines how much Microsoft's reported commitments actually tell investors about near-term revenue .\n\nWhat would make Alphabet worth the extra price?\n\nUsing each company's latest trailing operating cash flow less capital spending, Alphabet generated about $53.27 billion, against Microsoft's $66.99 billion. The periods both end in June 2026. At unchanged equity values, Alphabet would need roughly $73 billion of annual cash flow to match Microsoft's current cash multiple, about 37% above its trailing amount. That is a valuation sensitivity, not a forecast.\n\nI favor Microsoft at this relative cash price. Alphabet becomes preferable if cloud expansion lifts consolidated cash generation toward that hurdle without requiring proportionately more investment or damaging advertising returns. Microsoft loses its advantage if capital spending keeps rising while cash generation stalls. Neither multiple offers much protection against a prolonged investment cycle.\n\nWhile we acknowledge the potential of MSFT and GOOGL as investments, we believe certain other AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nDisclosure: None. Follow Insider Monkey on Google News .\n\nMicrosoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?\n\nMicrosoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending? Asif Islam / Shutterstock.com",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-10",
+      "Time": "05:05:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "名師操盤》殺盤別傻傻割肉！「6檔潛力黑馬」接棒浮出 節後迎補漲攻勢",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%90%8D%E5%B8%AB%E6%93%8D%E7%9B%A4-%E6%AE%BA%E7%9B%A4%E5%88%A5%E5%82%BB%E5%82%BB%E5%89%B2%E8%82%89-6%E6%AA%94%E6%BD%9B%E5%8A%9B%E9%BB%91%E9%A6%AC-%E6%8E%A5%E6%A3%92%E6%B5%AE%E5%87%BA-%E7%AF%80%E5%BE%8C%E8%BF%8E%E8%A3%9C%E6%BC%B2%E6%94%BB%E5%8B%A2-210531022.html",
+      "Content": "台股有一句老話：「眾人皆看好的事，往往不會發生。」\n\n就在先前，加權指數一度衝高至 49,968 點，距離 5 萬點大關僅差 32 點。當時市場氣氛極度樂觀，成交量更在本周一與周二，連續兩天突破兆元（周一甚至超過 1.2 兆），讓許多投資人深信 5 萬點指日可待。然而，當散戶滿懷期待進場後，迎來的卻是連假前夕收黑的失落。\n\n洗盤洗出籌碼沉澱 大盤多頭格局未變\n\n那麼，接下來該怎麼看？我認為在 10/8（四）的殺盤過後，反倒達到主力洗盤的目的。這波多頭格局並未改變，此舉只是將日前追高、信心不足的浮額全數震出場，並非趨勢轉折向下。\n\n大盤若要再戰 5 萬點，權值股絕對是關鍵，而領頭羊非台積電（2330）莫屬。歷史經驗顯示，台積電（2330）往往是加權指數的領先指標；雖然本周創高後 10/8（四）表現疲弱，但隨著短線浮額洗清，籌碼正逐步沉澱。只要領頭羊止穩，連假過後大盤蓄勢再度挑戰 5 萬點的機會，依然值得期待！\n\n焦點族群出列 聚焦 CPO 與主機板概念股\n\n後續有哪些標的值得關注？\n\nCPO 族群（高速傳輸、光通訊）\n\n◆聯鈞（3450）： 透過轉投資源傑科技，成功打通「矽光子晶片設計、封裝到高速光收發模組」的一條龍實力，直接卡位 800G 與下一代 1.6T 高速傳輸商機。\n\n◆光聖（6442）： 公司近年積極優化產品組合，大幅提高高階光被動元件比重，推升毛利率衝上 40%～50% 以上的歷史高檔區間，獲利結構徹底脫胎換骨。\n\n◆前鼎（4908）： 隨著 AI 算力中心全面升級 800G 與 1.6T 規格，公司積極布局 ELS/ELSP 產線與技術研發，精準切中光電整合的關鍵商機。\n\n主機板族群\n\n◆華碩（2357）： 近年在 AI 伺服器布局大有斬獲，穩居全球 DIY 主機板龍頭，旗下 ROG 與 TUF 雙品牌完整覆蓋高階與主流市場。\n\n◆微星（2377）： 深耕電競 DIY 市場，隨著新一代 GPU 與 AI PC 換機潮推進，高階玩家與創作者的硬體升級需求，將有效帶動平均銷售單價（ASP）提升。\n\n◆技嘉（2376）： 伺服器業務營收占比已大幅拉升至 50%～60% 以上，成功擺脫傳統消費性 PC 景氣循環束縛。\n\n多頭震盪在所難免，關鍵在於分清是「洗盤」還是「轉空」。若確認是多方洗盤，便可趁拉回至支撐區布局，靜待大盤攻高收割果實。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -121,6 +261,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/teslas-overseas-recovery-gaining-ground-192004146.html",
       "Content": "This article first appeared on GuruFocus .\n\nTesla Inc.'s ( TSLA , Financials ) China-made car sales accelerated in September , extending an 11-month string of year-over-year improvements while another major area of its foreign company showed indications of progress.The increases included Model 3 and Model Y automobiles made at Tesla's Shanghai facility that services both the Chinese market and export markets.The report did not provide the specific delivery number for September or the year-over-year increase rate, limiting what investors may infer from the latest month. But direction is important.China continues to be one of Tesla's most significant EV markets, and one of its most competitive. Strong sales of vehicles produced in Shanghai would boost Tesla's main automotive business as investors increasingly focus on the company's AI, robotaxi and autonomous driving goals.Europe is also showing signs of revival, providing Tesla with yet another possible source of volume increase following a tough spell in a number of overseas markets.The big issue is whether more robust deliveries will mean higher automobile profitability. More volume is less beneficial if Tesla has to do it through aggressive pricing or incentives.Investors will be scrutinizing incoming regional registration data and Tesla's next financial statements for signs that the international sales revival is also driving revenue and margins.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-10",
+      "Time": "03:05:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》TLN,CELH,UTHR等3檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-tln-celh-uthr%E7%AD%893%E6%AA%94-190500611.html",
+      "Content": "MoneyDJ新聞 2026-10-10 03:05:21 數位內容中心 發佈\n\nTalen Energy（TLN.US）： 成交價376美元，上漲4.67%，開盤363.98美元，盤中高點376.51美元，盤中低點363.01美元，均價371.81美元，成交量13.4萬股。\n\nTalen Energy近期較明確的新訊息不在擴產或財測，而是9月30日被列入Seeking Alpha量化評等的高獲利公用事業名單，並獲A級獲利評級。該評等依據毛利率、營業利益率、淨利率及股東權益報酬率等指標，反映公司獲利能力相對同業表現突出。\n\nCelsius（CELH.US）： 成交價28.58美元，上漲4.31%，開盤27.29美元，盤中高點28.65美元，盤中低點27.12美元，均價28.14美元，成交量49.73萬股。\n\nCelsius近期主線是收購Alani Nu後的整合調整。公司指出，2026年第2季表現不如預期，主因核心品牌SKU精簡過度、併購整合複雜度升高，以及零售陳列升級延後與新品推出暫停；不過Alani Nu仍維持成長，上半年零售銷售已超過10億美元，Rockstar整合也已按計畫完成，管理層預期2027年將恢復更多產品創新。\n\nUnited Therapeutics（UTHR.US）： 成交價549.76美元，上漲3.19%，開盤529.7美元，盤中高點550.83美元，盤中低點529.7美元，均價545.41美元，成交量3.59萬股。\n\nUnited Therapeutics最新重點是為兩項擴大適應症申請補強臨床證據。公司近日在歐洲醫學會議公布新分析，顯示ralinepag對較低風險肺動脈高壓患者帶來臨床改善，也降低結締組織疾病相關患者的臨床惡化；另一項TETON分析則顯示吸入型treprostinil可改善特發性肺纖維化患者肺功能，且較高劑量下效益更佳。\n\n視航生醫攻RNA治療技術，積極推進雙引擎布局\n\nViking Therapeutics迎減重比對新訊，療效定位競爭升溫\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
