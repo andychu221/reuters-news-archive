@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-12T12:25:29.521Z",
-  "total_news_count": 2504,
+  "last_updated": "2026-10-12T12:37:17.299Z",
+  "total_news_count": 2506,
   "news": [
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-10-12",
+      "Time": "20:16:05",
+      "Source": "Yahoo Finance",
+      "Title": "Musk Wants More Control Over Chips",
+      "URL": "https://finance.yahoo.com/technology/articles/musk-wants-more-control-over-121605020.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla Inc. ( TSLA , Financials ), the electric-vehicle and technology business, may try to do more in-house creation of bespoke chips as CEO Elon Musk seeks to speed up the design process.Musk told customers and investors outside Tesla's gigafactory in Austin, Texas, that his firms might be able to build semiconductors better than competitors since they know how to construct specialized equipment.The article falls well short of describing exactly what hardware Musk wants to construct, how much Tesla or SpaceX could be willing to put into it, or when a fresh chip-design project might begin.But it does matter, either way.Tesla already has a lot of processing gear that it uses for autonomous driving, artificial intelligence and robotics. Greater control over chip design might help the corporation better adapt technology to its own demands, and minimize its reliance on outside vendors.That same rationale might also apply to Musk's other enterprises like SpaceX, where specialized computers is crucial to satellites, communications and launch systems.The investors are attracted to vertical integration. The danger is the execution. Advanced chips and the apparatus surrounding them demand a lot of resources, engineering expertise and manufacturing coordination.The next trigger will be if Musk offers specifics on the equipment, investment needs and production timetable behind the projected acceleration of chip development.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-10-12",
+      "Time": "20:10:55",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Sees China's AI Models Moving Fast",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/intel-sees-chinas-ai-models-121055667.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel Corp. ( INTC , Financials ) Chief Executive Lip-Bu Tan said that Chinese frontier artificial-intelligence models are being adopted rapidly because cheaper prices make them more attractive to consumers.Speaking at a discussion hosted by DBS, Tan claimed token prices for Chinese models have been cheaper and adoption has been very fast.He cited models such as DeepSeek, Kimi and GLM, stating their performance was good enough for many applications.This is important for Intel, as cheaper AI models might help expand demand beyond the most costly frontier systems. If organizations can run relevant AI workloads more cheaply, then expenditure may spread across a larger variety of servers, accelerators and supporting equipment.Tan also said he backs open-source development as the greatest approach to enhance efficiency, and that markets would eventually decide which models are ideal for certain applications.The statements suggest a larger change in AI rivalry. It's not just about constructing the most powerful model anymore. As firms go from trial to deployment, cost, accessibility and efficiency are becoming more critical.Tan also suggested that quantum computing might go widespread within three to five years, and that software could be key to making the necessary infrastructure more efficient.The next concern for Intel investors is whether the firm is able to translate larger AI usage into increased demand for its own computer platforms and data center goods.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-10-12",
