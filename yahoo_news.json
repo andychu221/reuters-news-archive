@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T14:20:45.565Z",
-  "total_news_count": 2552,
+  "last_updated": "2026-10-12T14:25:26.684Z",
+  "total_news_count": 2554,
   "news": [
     {
       "Ticker": "NVDA",
@@ -33,6 +33,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-12",
+      "Time": "21:42:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈美股早盤〉主要指數平盤附近震盪 市場聚焦財報與通膨數據",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E5%B9%B3%E7%9B%A4%E9%99%84%E8%BF%91%E9%9C%87%E7%9B%AA-%E5%B8%82%E5%A0%B4%E8%81%9A%E7%84%A6%E8%B2%A1%E5%A0%B1%E8%88%87%E9%80%9A%E8%86%A8%E6%95%B8%E6%93%9A-134237126.html",
+      "Content": "美股周一(12日)開盤漲跌不大，標普500指數徘徊在歷史高點附近，投資人靜待本周大型銀行財報與通膨數據，評估企業獲利能否支撐股市續漲，以及聯準會(Fed)後續利率走向。\n\n美國企業正處於近年來最強勁的獲利成長周期之一，支撐股市抵禦能源成本與公債殖利率居高不下的壓力；不過，布蘭特原油周一漲至每桶約107美元，仍讓通膨疑慮揮之不去。美光(MU-US)領跌科技股，美債現貨市場則因哥倫布日休市。\n\n截稿前， 道瓊工業指數 漲近130點或近 0.3%， 那斯達克綜合指數 跌近18點或0.1%， 標普 500 指數 漲近0.4%， 費城半導體 指數跌近2.0%，台積電ADR跌近0.6%。\n\n財報能否替美股再添一把火？標普500指數周一可望在接近歷史高點的位置開盤，投資人一方面期待企業交出強勁業績，另一方面也密切關注中東緊張局勢升溫的風險。本周大型銀行及AI供應鏈要角將接力公布財報，美國通膨數據與聯準會(Fed)主席華許的談話，也將牽動市場對後續利率走向的判斷。\n\n據《彭博》報導，標普500指數上周收盤距離歷史高點僅一步之遙，周一盤前期貨變動不大。不過，晶片股仍承壓，可能連續第四個交易日下跌。\n\n能源市場方面，葉門青年運動接連攻擊鄰國沙國，引發供應風險疑慮，布蘭特原油價格在漲跌之間震盪。交易員也正評估美國總統川普宣稱俄烏達成「能源停火」的消息。\n\n美國適逢哥倫布日，美債現貨市場休市，期貨價格則震盪。法國財政政策政治僵局引發的疑慮，再度推升該國公債殖利率；美元變動不大，比特幣則中止連續三天的漲勢。\n\n銀行財報率先登場 AI供應鏈接棒驗證成長\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8] text",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT, AMD, MU",
       "Date": "2026-10-12",
       "Time": "21:42:02",
@@ -51,6 +61,16 @@
       "URL": "https://finance.yahoo.com/technology/article/amd-launches-helion-rack-server-for-agentic-ai-132423849.html",
       "Content": "AMD ( AMD ) is diving further into the agentic AI race with its new AMD Helion data center rack server.\n\nUnveiled at the OCP Global Summit in San Jose, Calif., on Monday, Helion is designed to be outfitted with various configurations of CPUs and GPUs based on customers' needs.\n\nThe Helion is intended to serve as a reference design for AMD partners and clients, providing instructions for building the platforms.\n\nThe company said the server can be fully equipped with its sixth-generation EPYC CPUs for handling agentic AI tasks and servers, or configured with a collection of CPUs and its Instinct MI350P GPUs , which would serve as an all-purpose AI platform.\n\n\"Agentic AI is not one single workload. Agents are required for enterprise applications to running code and coordinating complex workflows,\" Dan McNamara, senior vice president and general manager of compute and enterprise AI at AMD, said in a statement.\n\n\"To do that takes optimized compute and infrastructure that can adapt to different workloads. With AMD Helion, we are bringing AMD EPYC performance, open software and flexible rack designs together so our partners can build systems around customer needs and make efficient use of available power,\" he added.\n\nThe move allows AMD to better compete with rival Nvidia ( NVDA ), which offers its own rack server reference designs, including its NVL72 servers.\n\nAMD, like the rest of the chip industry, continues to benefit from the AI boom. The company topped analysts' estimates on the top and bottom lines during its most recent earnings report and provided a better-than-anticipated outlook for the current quarter.\n\nEarnings per share rose 245%, while revenue climbed 50% to $11.5 billion.\n\nNvidia, however, continues to dominate in terms of sales, bringing in $96.2 billion in the prior quarter.\n\nAMD stock, though, has outperformed Nvidia's over the last year, climbing roughly 182% year to date. Nvidia stock is up 25% in the same time period.\n\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .\n\nFor the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news, click here\n\nRead the latest financial and business news from Yahoo Finance\n\nThe AMD Helion rack server. (Image: AMD) · AMD\n\nThe AMD Helion rack server. (Image: AMD) · AMD The company said the server can be fully equipped with its sixth-generation EPYC CPUs for handling agentic AI tasks and servers, or configured with a collection of CPUs and its Instinct MI350P GPUs , which would serve as an all-purpose AI platform.\n\n<div class=\"loader default false tw-h-96 tw-mb-6 animate yf-11goxt7\" data-testid=\"skeleton-l\n\nSign up for Yahoo Finance's Week in Tech newsletter. · Yahoo Finance\n\nSign up for Yahoo Finance's Week in Tech newsletter. · Yahoo Finance Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-12",
+      "Time": "21:20:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "「紅巨人」發威 台股收小黑！石英元件引動兩大商機看這邊",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B4%85%E5%B7%A8%E4%BA%BA-%E7%99%BC%E5%A8%81-%E5%8F%B0%E8%82%A1%E6%94%B6%E5%B0%8F%E9%BB%91-%E7%9F%B3%E8%8B%B1%E5%85%83%E4%BB%B6%E5%BC%95%E5%8B%95%E5%85%A9%E5%A4%A7%E5%95%86%E6%A9%9F%E7%9C%8B%E9%80%99%E9%82%8A-132002152.html",
+      "Content": "財經中心／綜合報導\n\n「紅巨人」發威，台股收小黑，未來六大柱支撐台灣GDP，五萬關前震盪，持股需汰弱留強教！石英元件引動兩大商機，這一集的《元大看盤室》由元大投顧董事長胡睿涵證券分析師以及元大投顧專業資深經理蕭森寶證券分析師帶來最專業分析。\n\n台股跌11點\n\n-0.02% 收49301點\n\n盤後量8894億(逾一週低)\n\n#台股夯話題\n\n外資賣521億元，連4賣\n\n投信買71億元，連2買\n\n自營賣142億元，連3賣\n\n＜理財最錢線＞為您站在第一線！\n\n主持人 元大投顧董事長 胡睿涵/證券分析師\n\n來賓 元大投顧專業資深經理 蕭森寶/證券分析師\n\n【本公司與節目中列舉分析之個別有價證券無不當之財務利益關係，本節目資料僅供參考，投資人應獨立判斷，審慎評估並自負投資風險。】\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 「紅巨人」發威 台股收小黑！石英元件引動兩大商機看這邊",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT",
