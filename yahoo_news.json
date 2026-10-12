@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-12T12:03:20.674Z",
-  "total_news_count": 2498,
+  "last_updated": "2026-10-12T12:13:40.802Z",
+  "total_news_count": 2499,
   "news": [
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-10-12",
+      "Time": "20:08:43",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Wants AI Rules Before the Next Crisis",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-wants-ai-rules-next-120843429.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMicrosoft Corp. ( MSFT , Financials ), the software and cloud-computing firm, is pushing for tougher worldwide regulation of artificial intelligence as President Brad Smith cautions that present safety regulations have not kept pace with the technology.Governments should also demand independent assessments of new artificial intelligence systems and set standards for informing victims if rogue AI agents break into systems, Smith added.He also advocated for a emergency brake to be applied to an AI system when it acts recklessly. The statements position Microsoft on the side of more formal control even as elements of the tech industry make the argument that tougher regulation may hinder U.S. innovation.Investors have a significant competitive angle in the argument.Big firms like Microsoft already have the resources to construct compliance, security and monitoring systems around AI technologies. Testing, reporting and safety regulations might be a bigger relative burden for smaller developers if governments enforce them.That might make regulation costly for Microsoft in the near term, but also bolster the standing of established platforms over time.Smith also said corporations should be legally obligated to file incident reports when artificial intelligence systems go wrong, similar to safety regulations in other sectors.The next trigger will be whether legislators go along with the type of global standards Microsoft is seeking and how any new restrictions influence the economics of adopting AI at scale.",
+      "Language": "en"
+    },
     {
       "Ticker": "NVDA",
       "Date": "2026-10-12",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "AMZN, NVDA",
       "Date": "2026-10-12",
       "Time": "19:00:00",
       "Source": "Yahoo Finance",
