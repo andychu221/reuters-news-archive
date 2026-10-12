@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-12T16:32:18.399Z",
-  "total_news_count": 2603,
+  "last_updated": "2026-10-12T16:36:19.752Z",
+  "total_news_count": 2604,
   "news": [
+    {
+      "Ticker": "INTC",
+      "Date": "2026-10-13",
+      "Time": "00:31:58",
+      "Source": "Yahoo Finance",
+      "Title": "Intel Stocks Fall 3.6% as Cheap Chinese Models Spread Faster",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-3-6-163158404.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel ( NASDAQ:INTC ), the processor and data-center chipmaker, highlighted the quick uptake of cheaper Chinese AI models on Monday, while shares traded at $100.93, down approximately 3.6% at 11.10am EST. According to Reuters, CEO Lip-Bu Tan told a DBS panel that DeepSeek, Kimi and GLM offer capable performance with lower token costs. The appeal is straightforward: businesses can put AI to work without paying top dollar for every task.\n\nWarning! GuruFocus has detected 4 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nIntel already has a growing business chasing that demand. Its second-quarter results showed Data Center and AI revenue of $6.3 billion, up 59% from a year earlier. Cheaper models could encourage more usage and increase demand for the computing infrastructure behind them. But that opportunity comes with a hurdle: Intel must turn more AI activity into purchases of its own hardware.\n\nThe valuation picture leaves little room for a stumble: at $100.93, Intel trades 212.19% above its GF Value estimate of $32.33. That estimate is a valuation reference, not a forecast of where shares will go. Still, the gap raises the stakes. Cheaper AI can expand the market; Intel needs sustained sales growth and stronger profits to justify what investors are already paying.\n\nINTC GF Value chart\n\nINTC GF Value chart Intel already has a growing business chasing that demand. Its second-quarter results showed Data Center and AI revenue of $6.3 billion, up 59% from a year earlier. Cheaper models could encourage more usage and increase demand for the computing infrastructure behind them. But that opportunity comes with a hurdle: Intel must turn more AI activity into purchases of its own hardware.\n\n<span",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-10-13",
@@ -171,7 +181,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "TSM, MU",
       "Date": "2026-10-12",
       "Time": "22:47:00",
       "Source": "Yahoo Finance",
