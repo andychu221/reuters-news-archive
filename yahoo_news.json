@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T16:28:19.448Z",
-  "total_news_count": 2602,
+  "last_updated": "2026-10-12T16:32:18.399Z",
+  "total_news_count": 2603,
   "news": [
     {
       "Ticker": "MSFT",
@@ -73,6 +73,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "KLAC",
+      "Date": "2026-10-12",
+      "Time": "23:11:00",
+      "Source": "Yahoo Finance",
+      "Title": "Teradyne Boosts Test Portfolio With Titan HP: Can It Beat KLAC & COHU?",
+      "URL": "https://finance.yahoo.com/technology/articles/teradyne-boosts-test-portfolio-titan-151100286.html",
+      "Content": "Teradyne TER is benefiting from robust demand for advanced semiconductor testing solutions, driven by accelerating AI data center investments, increasing chip complexity, and growing requirements for high-performance computing infrastructure. The company's expanding test portfolio, particularly its latest Titan HP platform enhancements, strengthens its competitive position against KLA KLAC and Cohu COHU, which are also capitalizing on AI-driven semiconductor investments.\n\nTeradyne recently introduced enhanced burn-in capabilities for its Titan HP platform, targeting high-power AI data center devices, automotive chips and other high-reliability semiconductors. The production-ready platform integrates reliability stress testing with system-level testing, enabling precise per-device thermal control under realistic workloads. Its asynchronous slot architecture allows independent testing, improving efficiency and reducing equipment downtime. Powered by Teradyne's Atlas software, Titan HP enables manufacturers to streamline testing, reduce capital costs, optimize factory floor space and accelerate time to market. The platform is already deployed in production, strengthening Teradyne's semiconductor testing portfolio across the AI device supply chain.\n\nTeradyne's strengthening position in AI-driven semiconductor testing is noteworthy. In the second quarter of 2026, Semi Test revenues surged 128% year over year, while compute revenues jumped nearly 600%, reflecting strong AI-related demand. Integrated Systems Test revenues increased 94% year over year to $67 million. The growing adoption of advanced packaging, AI accelerators and high-bandwidth memory is expected to drive demand for increasingly advanced testing solutions.\n\nTeradyne's robust AI test portfolio and strong customer traction are likely to strengthen its competitive position against KLA and Cohu. For the third quarter of 2026, Teradyne expects revenues in the range of $1.20-$1.30 billion.\n\nHow Competitors Fare Against TER\n\nTeradyne is facing stiff competition from companies such as KLA and Cohu. Both companies are expanding their footprint in the AI space.\n\nKLA is benefiting from the growing demand for AI through its leadership in process control and its ability to address growth markets in wafer fab equipment, including high-bandwidth memory and advanced packaging.\n\nIn May 2026, Cohu received approximately $5 million in multiple orders for its Diamond X platform from a leading semiconductor manufacturer. The systems will support testing of next-generation GaN power devices for AI data centers, strengthening Cohu's position in AI infrastructure and high-efficiency power semiconductor testing.\n\nStory Continues\n\nTER's Share Price Performance, Valuation and Estimates\n\nTeradyne shares have surged 108% year to date, outperforming the Zacks Computer & Technology sector's 23.4% growth and the Zacks Electronics - Miscellaneous Products increase of 37.6%.\n\nTER Stock Performance\n\nImage Source: Zacks Investment Research\n\nTER stock is trading at a premium with a forward 12-month Price/Sales of 10.77X compared with the Electronics - Miscellaneous Products industry's 7.25X. TER has a Value Score of D.\n\nTER Valuation\n\nThe Zacks Consensus Estimate for fiscal 2026 earnings is pegged at $9.11 per share, which has been unchanged over the past 30 days. This suggests 130.05% year-over-year growth.\n\nTeradyne, Inc. Price and Consensus\n\nTeradyne, Inc. price-consensus-chart | Teradyne, Inc. Quote\n\nTeradyne currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "GOOGL",
       "Date": "2026-10-12",
       "Time": "23:06:26",
@@ -121,7 +131,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "SNDK, NVDA",
       "Date": "2026-10-12",
       "Time": "22:56:58",
       "Source": "Yahoo Finance",
