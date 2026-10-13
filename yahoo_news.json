@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-13T15:26:27.614Z",
-  "total_news_count": 2947,
+  "last_updated": "2026-10-13T15:32:48.567Z",
+  "total_news_count": 2948,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-10-13",
+      "Time": "23:12:12",
+      "Source": "Yahoo Finance",
+      "Title": "These 3 Chip Stocks Could Strike Gold in AI's $150 Billion Boom",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/3-chip-stocks-could-strike-151212262.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAI's next memory race could create a new divide among chipmakers, with Goldman Sachs seeing SanDisk ( NASDAQ:SNDK ), SK Hynix and Samsung Electronics as better positioned than Micron Technology to capitalize on a developing storage technology.\n\nThe opportunity centers on high-bandwidth flash (HBF), which could help AI systems process requests more economically by making better use of expensive computing hardware. Goldman analyst James Schneider estimates the market could reach $40 billion to $150 billion by 2030, depending on how quickly chip designers adopt the technology.\n\nWarning! GuruFocus has detected 3 Warning Signs with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nThat potential gives investors another factor to watch beyond the current race to build AI processors. Goldman estimates HBF could cut the cost of AI inference throughput by around 30%, potentially reducing the infrastructure spending required by cloud companies. However, commercial outcomes remain uncertain because the technology is still developing at the system level.\n\nGoldman favors SanDisk ( NASDAQ:SNDK ) and SK Hynix for their HBF capabilities, while Samsung Electronics receives a Buy rating based on its NAND flash business. Micron Technology ( NASDAQ:MU ), rated Neutral, may capture less of the opportunity because its business is more focused on DRAM. Kioxia is also developing a competing memory approach, leaving the eventual winners unsettled.",
+      "Language": "en"
+    },
     {
       "Ticker": "MU",
       "Date": "2026-10-13",
