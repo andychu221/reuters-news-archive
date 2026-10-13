@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-10-13T09:19:57.591Z",
+  "last_updated": "2026-10-13T09:20:41.502Z",
   "total_news_count": 2818,
   "news": [
     {
-      "Ticker": "3035.TW",
+      "Ticker": "STM",
       "Date": "2026-10-13",
-      "Time": "16:27:58",
-      "Source": "Yahoo奇摩股市",
-      "Title": "智原MIPI C/D Combo PHY IP攻感測方案，通過聯電14奈米FinFET矽驗證",
-      "URL": "https://tw.stock.yahoo.com/news/%E6%99%BA%E5%8E%9Fmipi-c-d-combo-phy-082758522.html",
-      "Content": "【財訊快報／記者李純君報導】ASIC設計服務暨IP廠商智原(3035)今日宣布，推出MIPI C/D Combo PHY IP解決方案。此IP，已經通過聯電(2303)14奈米FinFET製程的矽驗證，主供視覺AI、機器視覺、智慧影像及其他需要高效能鏡頭與感測器的先進SoC使用。為滿足市場對智慧感應用測日益增長的需求，智原進一步擴展其在聯電14奈米 FinFET平台的MIPI C/D Combo PHY IP產品組合。這次新推出的IP同時支援MIPI C-PHY v2.0，速度達到每trio 3.0 Gsps，以及D-PHY v2.5，每通道達4.5 Gbps，並提供可彈性擴充的配置，以滿足多元的頻寬需求。\n\n透過在兩種協定間共用腳位（pins）、數位邏輯、I/O緩衝區、PLLs及校準電路（calibration circuits），這個Combo PHY架構縮減超過30%的IP晶粒面積，同時簡化高速資料傳輸所需的PCB佈局與電路板設計。\n\n智原MIPI C/D Combo PHY IP的雙協定架構可透過C-PHY實現高效能影像傳輸，並利用D-PHY支援低功耗或待機運作。為提升高頻寬資料接收時的訊號穩定度，D-PHY接收器整合了高速去偏斜校準（de-skew calibration）技術。同時，內建自我測試功能（BIST）可支援兩種協定，簡化量產測試流程並降低測試成本。此外，這個IP支援交替低功耗模式（ALP），提供低活動狀態下進一步降低能耗的選擇。\n\n智原營運長林世欽表示：「邊緣AI與車用智慧感測帶動市場對高效能、低功耗影像傳輸連接技術的需求。智原已通過矽驗證的MIPI C/D Combo PHY IP具備更高的彈性與功耗效率，可支援新一代智慧感測方案。結合完整的聯電IP產品組合、基於Arm架構的SoC整合能力，及ASIC專業技術，智原能有效協助客戶簡化系統開發、減少測試工作與風險，並加速產品上市時程。」",
-      "Language": "zh"
+      "Time": "16:56:57",
+      "Source": "Yahoo Finance",
+      "Title": "Global chip selloff deepens as AI worries, China competition weigh",
+      "URL": "https://finance.yahoo.com/technology/articles/global-chip-selloff-deepens-ai-085657296.html",
+      "Content": "Investing.com -- Shares of U.S. and European chipmakers fell Tuesday as a selloff in AI-exposed stocks deepened, pulling the broader technology sector lower amid concerns over the sustainability of AI investment and intensifying competition.\n\nBefore you buy NVIDIA: our AI model's stock picks are beating the market by 120%+. See the list now »\n\nIn U.S. premarket trading, Micron fell 2.3%, with Marvell Technology and SanDisk also sliding more than 2% by 04:28 ET (08:28 GMT). Western Digital dropped nearly 4%, and AMD and Broadcom each fell about 1%.\n\nNot finding the right stocks? Our AI's list of investor-grade stock picks for October just dropped »\n\nEuropean chip names were hit harder. STMicroelectronics dipped 2.6%, Soitec and Infineon fell more than 1%, while chip-testing company Technoprobe slid 2.6%. Siltronic slipped 1.4%, Aixtron fell 1.9%, and ASM International lost 2.4%. Among equipment makers, ASML and BE Semiconductor shed over 1% each.\n\nThe moves followed a steep drop in Asian memory stocks. SK Hynix plunged 10%, Samsung Electronics lost 7.4%, and Tokyo-listed Kioxia fell as much as 13.3%. In Japan, SoftBank Group, which has significant exposure to the global AI industry, sank 8.5% and led a broader retreat in the country's semiconductor and electronics shares.\n\nThose declines came after a weak session for tech on Wall Street, where the Nasdaq Composite fell 0.44% Monday. Micron slid 3.9% as investors weighed rising competition from China's ChangXin Memory Technologies. Over the weekend, CXMT said it had made significant progress on a new chip architecture designed to increase memory density by packing more data into a smaller space.\n\nOriginal Article\n\nGlobal chip selloff deepens as AI worries, China competition weigh\n\nLVMH stock dips as fashion sales fall on China weakness\n\nLuxury stocks slide after LVMH's weak fashion sales spark recovery doubts",
+      "Language": "en"
     },
     {
       "Ticker": "META",
