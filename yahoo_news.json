@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T16:21:00.231Z",
-  "total_news_count": 2964,
+  "last_updated": "2026-10-13T16:25:20.326Z",
+  "total_news_count": 2967,
   "news": [
     {
       "Ticker": "MU",
@@ -103,6 +103,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-13",
+      "Time": "23:20:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股逼近新高、機構卻忙避險 科技股從買超王變賣超王",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E9%80%BC%E8%BF%91%E6%96%B0%E9%AB%98-%E6%A9%9F%E6%A7%8B%E5%8D%BB%E5%BF%99%E9%81%BF%E9%9A%AA-%E7%A7%91%E6%8A%80%E8%82%A1%E5%BE%9E%E8%B2%B7%E8%B6%85%E7%8E%8B%E8%AE%8A%E8%B3%A3%E8%B6%85%E7%8E%8B-152003945.html",
+      "Content": "美股接近歷史高點，機構資金卻加速轉向優質股，避險步調為疫情衝擊以來罕見。\n\n高盛指出，旗下品質因子（Goldman Sachs Quality Factor）過去8週上漲逾16%，科技股則從淨買入榜首驟然轉為賣超最多的類股，顯示指數表面平靜之下，投資人風險偏好已明顯降溫。\n\n根據高盛資金流向策略師 Lee Coppersmith 最新報告，標普500指數距歷史高點不到1%，但成分股自各自高點回落的幅度，中位數已達16%。\n\n以高盛偏好的市場廣度指標衡量，市場表現分化已惡化至網路泡沫破裂以來最差水準。\n\n資金追逐優質資產的動向尤其明顯。高盛品質因子過去8週累計上漲逾16%，如此幅度自2020年疫情衝擊以來未曾出現，通常發生於市場承受重大壓力之際，而非指數徘徊歷史高點時。\n\nCoppersmith 指出，標普500指數表面之下，存在遠比指數表現所呈現的更多避險情緒。\n\n科技股買盤急轉 工業股接棒\n\n高盛主經紀商業務數據顯示，科技股在先前5週中有4週位居淨買入榜首，上週卻轉為淨賣出最多的類股，賣壓同時來自多頭平倉與新增空頭部位。\n\n科技股多空比率降至1.8，落在過去5年的第17百分位，但總持倉規模仍處於第97百分位，顯示資金部位依然龐大，新增買盤的積極性卻已大幅減弱。\n\n相較之下，工業股終結連續5週淨賣出，買入速度創今年1月以來最快，達正1.8個標準差，且幾乎全數來自新建多頭部位。金融股同樣吸引資金流入，軟體股也展現相對強勢。\n\n高盛認為，這是資金開始尋找領漲類股以外機會的初步跡象，但能否形成持續趨勢，仍待觀察。民生消費股則在過去8週中有7週遭淨賣出，多空比率降至5年來第3百分位；生技股也出現逾5年來最大的8週累計總持倉縮減。\n\n持股集中 未必阻礙續漲\n\n儘管避險情緒升溫，高盛認為，機構偏低的淨曝險反而可能為後市提供上漲支撐。\n\n高盛美國股票情緒指標目前為負1.3，落在歷史上後續報酬相對可觀的區間。全球基本面多空基金淨槓桿比率處於過去一年第6百分位，美國則僅為第2百分位；避險基金整體淨槓桿比率位於第10百分位。總持倉雖仍偏高，但對市場方向的信心已明顯不足。\n\n市場漲勢集中於少數權值股，也未必代表指數即將下跌。彭博統計，自1995年以來，標普500前十大成分股表現領先等權重指數逾8%的情況共出現13次，其後6個月及12個月的指數報酬中位數分別為10.1%與19.6%，均高於歷史中位數的6.9%與15%。\n\n目前上述表現差距為855個基點。Coppersmith 表示，歷史經驗顯示，市場領漲結構極度集中，仍可與指數持續上漲並存。高盛因此認為，標普500未來1至3個月仍有望走高。\n\n油價與利率牽動後市\n\n<p class=\"mb-module-gap break-",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-10-13",
       "Time": "23:20:00",
@@ -131,6 +141,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/3-chip-stocks-could-strike-151212262.html",
       "Content": "This article first appeared on GuruFocus .\n\nAI's next memory race could create a new divide among chipmakers, with Goldman Sachs seeing SanDisk ( NASDAQ:SNDK ), SK Hynix and Samsung Electronics as better positioned than Micron Technology to capitalize on a developing storage technology.\n\nThe opportunity centers on high-bandwidth flash (HBF), which could help AI systems process requests more economically by making better use of expensive computing hardware. Goldman analyst James Schneider estimates the market could reach $40 billion to $150 billion by 2030, depending on how quickly chip designers adopt the technology.\n\nWarning! GuruFocus has detected 3 Warning Signs with SNDK.\n\nIs SNDK fairly valued? Test your thesis with our free DCF calculator.\n\nThat potential gives investors another factor to watch beyond the current race to build AI processors. Goldman estimates HBF could cut the cost of AI inference throughput by around 30%, potentially reducing the infrastructure spending required by cloud companies. However, commercial outcomes remain uncertain because the technology is still developing at the system level.\n\nGoldman favors SanDisk ( NASDAQ:SNDK ) and SK Hynix for their HBF capabilities, while Samsung Electronics receives a Buy rating based on its NAND flash business. Micron Technology ( NASDAQ:MU ), rated Neutral, may capture less of the opportunity because its business is more focused on DRAM. Kioxia is also developing a competing memory approach, leaving the eventual winners unsettled.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-13",
+      "Time": "23:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》KD,PBF,CART,DINO等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-kd-pbf-cart-dino%E7%AD%8910%E6%AA%94-151000005.html",
+      "Content": "MoneyDJ新聞 2026-10-13 23:10:58 數位內容中心 發佈\n\nKyndryl（KD.US）： 成交價12.24美元，上漲3.86%，開盤11.89美元，盤中高點12.38美元，盤中低點11.83美元，均價12.19美元，成交量25.14萬股。\n\nKyndryl近期可辨識的公司特定催化劑不多，輸入資料未見新的財測、併購或重大客戶進展。現階段較值得追蹤的仍是公司後續是否再公布雲端、基礎架構管理或其他轉型相關的新合約與指引。\n\nPBF Energy（PBF.US）： 成交價87.99美元，上漲3.49%，開盤85.87美元，盤中高點88.94美元，盤中低點85.32美元，均價87.4美元，成交量14.98萬股。\n\nPBF Energy近期完成中長期融資安排，旗下PBF Holding定價5億美元、2032年到期的零息可交換票據，另附最高5000萬美元增額選擇權。公司說明，這批票據屬高級無擔保債務，顯示其正提前布局後續資金調度。\n\nMaplebear（CART.US）： 成交價49.24美元，上漲2.95%，開盤48.28美元，盤中高點50.11美元，盤中低點48.28美元，均價49.3美元，成交量11.37萬股。\n\nMaplebear近期未見新的財測、重大交易或公司行動更新。就目前輸入資料來看，短線仍缺少足以重新定義營運方向的公司特定事件，後續需觀察是否釋出平台擴張、合作夥伴或獲利目標的新進展。\n\nHF Sinclair（DINO.US）： 成交價126.46美元，上漲2.89%，開盤123.89美元，盤中高點126.55美元，盤中低點123.89美元，均價125.31美元，成交量10.55萬股。\n\nHF Sinclair正推動明確的資產與組織重整，計劃在未來12至18個月分拆Lubricants & Specialties部門為獨立上市公司，並同步關閉加拿大Mississauga基礎油煉製資產，改由兩家全球供應商與Tulsa長約支撐供應。\n\nA&F（ANF.US）： 成交價149.27美元，上漲2.3%，開盤146.44美元，盤中高點151.31美元，盤中低點146.44美元，均價148.97美元，成交量6.77萬股。\n\nA&F最新營運主線是Abercrombie品牌成長仍強，且公司第二財季表現優於預期後同步調升全年展望。輸入資料顯示，當季調整後每股盈餘為2.42美元，營收增至12.7億美元，並受惠於關稅退稅挹注。\n\nAutoliv（ALV.US）： 成交價112.73美元，上漲2.06%，開盤111.26美元，盤中高點112.73美元，盤中低點110.71美元，均價111.68美元，成交量2.87萬股。\n\nAutoliv近期未見新的財測、併購或產品計畫更新。依目前輸入資料，短線缺乏更明確的公司特定催化劑，後續仍需等待管理層就安全系統出貨、客戶訂單或區域需求變化提出新的營運訊號。\n\nMsc Industries Direct Co Inc.（MSM.US）： 成交價130.73美元，上漲1.6%，開盤130.37美元，盤中高點130.85美元，盤中低點129.54美元，均價130.37美元，成交量1.73萬股。\n\nMsc Industries Direct Co Inc.近期未見新的公司行動或財測調整。從輸入資料判斷，市場暫時沒有更具辨識度的產品、客戶或併購催化劑，後續重點仍在工業客戶拉貨與公司是否更新需求展望。\n\nChewy（CHWY.US）： 成交價19.82美元，上漲1.62%，開盤19.53美元，盤中高點19.94美元，盤中低點19.53美元，均價19.74美元，成交量41.98萬股。\n\nChewy近期較具公司特定性的變化，是管理層指出貓咪相關產品銷售持續轉強，狗用品需求則偏弱，反映寵物品類結構正在分化。公司並即將公布新一季財報，市場正檢視重複訂購成長能否延續先前33.6億美元營收表現。\n\nCNX Resources（CNX.US）： 成交價34.83美元，上漲1.13%，開盤34.71美元，盤中高點35.14美元，盤中低點34.62美元，均價34.86美元，成交量3.91萬股。\n\nCNX Resources近期未見新的財測或重大公司行動更新。就目前輸入資料，暫時沒有比能源價格與產業背景更明確的公司特定訊號，後續仍需觀察公司是否釋出產量、資本配置或資產交易的新進展。\n\nH&R Block（HRB.US）： 成交價44.96美元，上漲1.43%，開盤45美元，盤中高點45.21美元，盤中低點44.56美元，均價44.87美元，成交量5.18萬股。\n\nH&R Block近期未見新的重大營運事件，但輸入資料顯示其現金流體質仍強，自由現金流利潤率為19.2%，下次財報預估將於11月5日公布。現階段較值得追蹤的是報稅服務與財務服務業務是否帶來新一輪成長指引。\n\n《強勢美股特報》CHDN,TTMI,MUSA,PINS等10檔\n\n《強勢美股特報》NWE,PBF,POR,DINO等10檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, MU",
@@ -300,6 +320,16 @@
       "Title": "〈美股早盤〉銀行財報喜憂參半、晶片股續挫 主要指數漲跌互現",
       "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-%E9%8A%80%E8%A1%8C%E8%B2%A1%E5%A0%B1%E5%96%9C%E6%86%82%E5%8F%83%E5%8D%8A-%E6%99%B6%E7%89%87%E8%82%A1%E7%BA%8C%E6%8C%AB-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E6%BC%B2%E8%B7%8C%E4%BA%92%E7%8F%BE-134501932.html",
       "Content": "晶片股賣壓加劇，美股周二(13日)開盤後走勢不一。南韓股市重挫拖累記憶體相關類股，加上市場對人工智慧(AI)投資熱潮能否持續的疑慮升溫，半導體股指標下跌約3%，那斯達克100指數跌約1%。\n\n不過，其他類股上漲抵銷部分科技股跌勢，道瓊指數走高，標普500指數開低後在平盤附近震盪。與此同時，大型銀行財報陸續出爐、表現好壞參半，投資人正評估企業獲利能否為市場提供支撐。\n\n截稿前， 道瓊工業指數 漲近200點或近 0.4%， 那斯達克綜合指數 跌近20點或0.07%， 標普 500 指數 近0.03%， 費城半導體 指數跌近1.5%，台積電ADR跌近0.5%。\n\n晶片股賣壓延燒，美股財報季則由大型銀行揭開序幕。美股盤前，那斯達克100指數期貨下跌約0.7%，標普500指數期貨大致持平，道瓊期貨小幅走高。投資人一方面消化銀行財報，另一方面重新評估AI投資熱潮與記憶體產業競爭風險。\n\n綜合外媒報導，中國長鑫存儲(CXMT)技術進展引發競爭疑慮，拖累南韓記憶體大廠及美國相關類股。南韓綜合股價指數盤中一度跌逾7%，收盤重挫5.5%。分析師指出，記憶體業者過去受惠於供給受限與強勁需求，中國競爭加劇可能挑戰其高獲利\n\n美股盤前，輝達(NVDA-US)跌約1%，超微(AMD-US)及邁威爾(MRVL-US)分別跌1.5%與2.6%，美光(MU-US)跌3.2%；威騰電子(WDC-US)、希捷(STX-US)及SanDisk(SNDK-US)跌幅介於3.2%至4.8%，追蹤半導體股的ETF面臨連六跌。\n\n除了競爭壓力，AI安全疑慮與融資吃緊跡象，也讓市場質疑龐大投資能否持續。分析師認為，科技股波動加劇之際，大型雲端業者能否維持資本支出展望，將更為關鍵。\n\n銀行股則呈現兩樣情。高盛(GS-US)財報強勁帶動股價上漲，摩根大通(JPM-US)走勢震盪，花旗(C-US)下跌。KBW銀行指數已自8月高點回落約1",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-13",
+      "Time": "21:44:10",
+      "Source": "Yahoo奇摩股市",
+      "Title": "快訊》AI交易又變天 台指期夜盤力守48K 費半下殺300點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-ai%E4%BA%A4%E6%98%93%E5%8F%88%E8%AE%8A%E5%A4%A9-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%9D%A2%E8%87%A848k%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B2%BB%E5%8D%8A%E4%B8%8B%E6%AE%BA300%E9%BB%9E-134410806.html",
+      "Content": "（23：00更新）13日台股終場大跌近千點，外資期貨淨空單飆高至87239口。隨著晶片股拋售潮持續，周二（13日）美股早盤，與台股連動密切的費城半導體指數一度崩跌逾300點，跌幅逾3%。台指期夜盤維持高檔震盪格局，盤中漲勢雖一度隨著費半暴跌而收斂，但隨著費半跌幅縮小，台指期夜盤快速拉回，一度大漲416點，報48808點。\n\n晶片製造商的拋售行情連續第2個交易日蔓延，市場對AI交易的熱情急劇降溫，投資者紛紛撤離這一年內最炙手可熱的板塊。周二標普500指數與那斯達克指數皆受晶片股拖累走跌，那斯達克指數一度下挫逾100點。道瓊工業指數早盤雖一度大漲逾400點，但盤中由紅翻黑。\n\n截至台北時間13日晚間10點50分，道瓊工業指數下跌11.10點（或0.02%），暫報51839.45點；那斯達克指數下跌41.039點（或0.15%），暫報27204.863點；標普500指數下跌6.71點（或0.09%），暫報7800.53點；費城半導體指數下跌210.15點（或1.72%），暫報12026.63點。\n\n5大科技巨頭同步走強，蘋果漲1.43%，谷歌母公司Alphabet漲0.60%，微軟漲1.35%，亞馬遜漲0.32%，臉書母公司Met漲3.34%。半導體類股普遍難擋跌勢，輝達跌0.32%，超微跌1.14%，台積電ADR跌0.70%，聯電ADR跌2.37%。\n\n本輪拋售的核心驅動力是市場對AI投資回報的深層質疑。隨著美國財報季拉開序幕，高借貸成本環境下科技企業的巨額AI支出能否轉化為足夠回報，投資者的信心已明顯動搖。\n\nSaxo Markets新加坡首席投資策略師Charu Chanana表示，「今天是經典的避險行情——股市承壓，投資者再度尋求安全資產。」\n\nPepperstone研究主管Chris Weston指出，「市場情緒之悲觀是近期罕見的。買方退場觀望，賣方幾乎未遭抵抗便順利壓低價格。AI交易的空方目前占據主導。」\n\n隨著亞洲與美國科技股集中的市場遭遇明顯拋售，投資者紛紛轉向政府債券尋求避險。避險需求同步推動美債價格走高。債券市場全面受益於避險資金流入，基準10年期美債殖利率下滑4個基點至5.20%。\n\n【看原文連結】",
       "Language": "zh"
     },
     {
