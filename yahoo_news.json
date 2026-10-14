@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-14T10:36:39.879Z",
-  "total_news_count": 240,
+  "last_updated": "2026-10-14T11:25:07.593Z",
+  "total_news_count": 243,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-14",
+      "Time": "18:09:25",
+      "Source": "Yahoo奇摩股市",
+      "Title": "績效前20%投資人買什麼基金？ 「鉅亨買基金」揭曉：近9成集中台股基金",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%B8%BE%E6%95%88%E5%89%8D20-%E6%8A%95%E8%B3%87%E4%BA%BA%E8%B2%B7%E4%BB%80%E9%BA%BC%E5%9F%BA%E9%87%91-%E9%89%85%E4%BA%A8%E8%B2%B7%E5%9F%BA%E9%87%91-%E6%8F%AD%E6%9B%89-%E8%BF%919%E6%88%90%E9%9B%86%E4%B8%AD%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91-100925386.html",
+      "Content": "投資市場波動不斷，績效表現相對突出的投資人，究竟都買哪些基金？「鉅亨買基金」今(14)日表示，觀察客戶近3年報酬表現，針對報酬率排名前20%的客群進行持倉分析，發現這群投資人的股票型基金占比高達96.6%，台股及台灣中小型股票基金合計占這群客戶總基金資產88.1%，約為其他客群的2.7倍，顯示台股基金為這群客戶配置的主力。\n\n除了股票型基金比重明顯偏高，績效前20%客群在基金類型與投資方式上，也呈現出與其他客群不同的特色。鉅亨買基金統計數據顯示，這群投資人持有累積型基金的比重達96.4%，明顯高於其他客群的62.5%；境內基金占比也達95%，相較其他客群的48.1%高出不少，反映其基金配置更集中於國內市場，且累積型基金是主要選擇之一。\n\n鉅亨買基金投資研究部主管羅瑤庭表示，從這次持倉分析可以觀察到，績效前段客群的配置相對集中，尤其對台股基金有較高比重。這項結果呈現的是近三年報酬表現排名前20%客群的持倉特徵，有助於了解不同投資人之間的配置差異，但不能據此認定集中投資台股就是績效較佳的原因，也不代表採取相同策略就能複製過去的報酬表現，進一步比較其他資產配置，績效前20%客群配置於多重資產與債券型基金的比重合計僅3.3%，遠低於其他客群的31.6%，兩者差異相當明顯。\n\n但羅瑤庭指出，股票型基金比重較高，代表投資組合的表現更容易受到股市行情影響；當市場震盪或回檔時，集中配置也可能放大資產波動，因此選擇基金時仍應回到自身的投資目標、資金用途與投資期限，並衡量可承受的風險，而非只看過去績效排名。\n\n累積型基金也是績效前20%客群的配置特色之一。羅瑤庭表示，累積型基金通常將收益留在基金內持續運作，對著眼長期資產累積的投資人而言，是可以評估的投資方式；但是否適合，仍須視個人資金需求與投資目標而定，若有定期現金流需求或對資產波動較為敏感，也應一併考量不同基金類型的特性，而非單純跟隨市場上的熱門選擇。\n\n「鉅亨買基金」也提醒，績效前段客群的持倉可作為觀察市場投資行為的參考，但不宜直接複製為個人投資組合，投資人應先確認自身的投資目標、資金需求與風險承受能力，再規劃合適的資產配置，並定期檢視投資組合。過去績效不代表未來表現，基金投資具有風險，投資前應審慎評估。",
+      "Language": "zh"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-10-14",
@@ -41,6 +51,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/big-tech-designs-own-ai-092700157.html",
       "Content": "For years, AI data centers have almost exclusively relied on GPUs for all AI processing and learning. But as tech companies have deployed more advanced models and AI agents become prolific, custom processors have become increasingly important. That's because custom processors can be fine-tuned to run specific AI models for agents faster and more efficiently than general GPU processors for some tasks.\n\nAnd some of the biggest winners in this space are custom chip designers Broadcom (NASDAQ: AVGO) and Marvell Technology (NASDAQ: MRVL), as well as the world's leading processor manufacturer, Taiwan Semiconductor Manufacturing (NYSE: TSM).\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHere's why their position in the custom processor space matters, as Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG), Microsoft , Amazon , and other companies spend hundreds of billions on this expanding market.\n\nIn-house custom chips are rising in popularity\n\nTo understand why tech companies need customer processors, it's important to know that many of them rent out cloud computing processing and AI services to customers.\n\nFor example, Alphabet's Google Cloud business includes everything from cloud computing to its Gemini Enterprise subscriptions. Sales from this segment soared 82% in the second quarter to $24.8 billion, making it Alphabet's fastest-growing revenue segment.\n\nTo offer some of the best AI services to its cloud customers, Alphabet leans on its own custom-designed Tensor Processing Units (TPUs). Just a few months ago, the company signed a multiyear deal with Broadcom for custom processors through 2031.\n\nThe financial details of the agreement weren't released, but it's certainly helping to accelerate Broadcom's sales of custom processors. Management says revenue from AI semiconductors will reach $56 billion this year and soar to more than $100 billion next year.\n\nMarvell is tapping into the custom chip space, too. The company is a custom chip designer for Amazon's Trainium and Microsoft's Maia AI processors. That's notable because Amazon and Microsoft are the two leading cloud computing platforms, and Microsoft's popular Azure just surpassed $100 billion in annual revenue for the first time, thanks to rising AI compute demand.\n\nMarvell also just secured a $2 billion investment from Nvidia (NASDAQ: NVDA), which gives Nvidia's customers access to Marvell's custom processors. This shows just how intertwined the AI processor market is now, and how customer AI processors can work alongside traditional GPUs for AI compute.\n\nStory Continues\n\nWhile Nvidia benefits from including Marvell's custom chips in its network offerings, the rise of custom AI processors could eventually erode Nvidia's market share. The latest TrendForce data shows that custom processors will grow by an estimated 45% this year, while GPUs will rise by just 16%.\n\nStill, traditional AI chip companies aren't going anywhere anytime soon. Advanced Micro Devices (NASDAQ: AMD) recently won a massive deal with Meta worth up to $60 billion, and has AI compute agreements with OpenAI and Anthropic. Demand for AMD's processors resulted in the company's sales rising 50% to $11.5 billion in the second quarter and non-GAAP (generally accepted accounting principles) earnings per share soaring 246% to $1.66.\n\nOne company benefits no matter how all of this goes\n\nSome investors will no doubt wonder where Intel (NASDAQ: INTC) fits into this surge in demand for processors, especially considering its investments from the U.S. government and Nvidia. But while its share price has soared 188% over the past year, analysts estimate its sales will rise by just 15% next year.\n\nIntel has secured major deals, including with Space Exploration Technologies and Tesla , to help manufacture chips for its Terrafab data center project. But Intel's overall success is still very much up in the air, considering its foundry business lost $2.1 billion in the second quarter -- and just $293 million of its sales came from outside customers.\n\nRival Taiwan Semiconductor, also called TSMC, is doing much better. TSMC manufactures about 73% of the world's processors, and an estimated 90% of the most advanced processors -- custom or otherwise.\n\nThis means that no matter how many GPUs Nvidia and AMD sell, or whether Broadcom's and Marvell's custom processors expand further into the AI processor market, TSMC will benefit. The company's second-quarter sales were up 36% to over $40 billion, and non-GAAP diluted earnings popped 77% to $4.31 per American depositary receipt (ADR).\n\nFor investors looking for a custom AI processor play, TSMC, Broadcom, and Marvell are the best bets. Of the three, Broadcom could have the most potential to benefit, as its sales and earnings are increasing faster than those of TSMC and Marvell.\n\nWhat's more, Broadcom's stock has a forward price-to-earnings ratio of just 19, making it far cheaper than the broader tech sector and a relatively good bargain.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-10-14",
+      "Time": "17:24:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《陸股》滬指跌0.88%、失守3800點；科創50跌3.29%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E8%82%A1-%E6%BB%AC%E6%8C%87%E8%B7%8C0-88-%E5%A4%B1%E5%AE%883800%E9%BB%9E-%E7%A7%91%E5%89%B550%E8%B7%8C3-092400780.html",
+      "Content": "MoneyDJ新聞 2026-10-14 17:24:34 數位內容中心 發佈\n\n中國A股主要指數今(14)日收盤全數走弱，上證指數失守3800點、收於3,767.23點，下跌0.88%，日K翻黑；深證成指收於12,110.59點，下跌1.97%；創業板指收於2,866.76點，下跌3.10%；科創50收於1,380.26點，下跌3.29%。其中，上證指數跌幅最小，創業板與科創50回檔較重，顯示成長風格承壓明顯。\n\n依盤勢來看，大盤呈開低走低格局，尾盤維持弱勢，市場情緒偏保守。成交量方面，滬市今成交6,625億元(人民幣,下同)，深市成交7,519億元，兩市成交額1兆4,144億元，較前一交易日量縮約16%。\n\n依盤面來看，AI硬體、光通訊、玻纖、GPU、半導體設備與風電設備等族群明顯走弱，工業富聯、中際旭創、新易盛等個股走跌，對創業板與科創板形成壓力。科技成長資金退潮，使雙創指數跌勢擴大。\n\n相較之下，石油石化、煤炭與公用事業相對抗跌，油氣與高股息族群受到資金青睞，中國海油、中國石油、中國石化、鄭州煤電等表現居前，市場資金明顯轉向防禦主軸。\n\n《陸股》滬指跌0.79%、日K翻黑；科創50跌4.82%\n\n《韓股》買盤回流，KOSPI重返7000點\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "2330.TW",
@@ -403,6 +423,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 1,
       "Keywords": "AI資料中心,能源儲存,電池模組,擴產計畫,營運合作"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-10-14",
+      "Time": "14:48:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股反攻4萬9沒站穩 台積電收平盤.塑化續強",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%8D%E6%94%BB4%E8%90%AC9%E6%B2%92%E7%AB%99%E7%A9%A9-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E5%B9%B3%E7%9B%A4-%E5%A1%91%E5%8C%96%E7%BA%8C%E5%BC%B7-064805785.html",
+      "Content": "[ 非凡新聞 ]記者謝旻蓁,攝影蘇韋銘\n\n台股周三止跌反彈，在台積電利多助攻下，指數一度大漲超過7百點，站回4萬9千點大關，中小型概念股也有買盤進駐，塑化族群多頭續攻，台塑、台化亮燈，南亞盤中也創新天價350.5元，其他像是矽光子、被動元件、面板等族群也輪番表態，不過尾盤台積電獲利了結賣壓出籠，股價跌回平盤價，大盤漲勢收斂，終場上漲284點，收在48625點，成交量達9286億元。\n\n立委 羅民才：「覺得股市會觸及，會突破五萬點的請舉手，一個、兩個、三個、四個、五個。」\n\n台股衝五萬內資信心滿滿，因為就在台積電法說會前夕，外資掀起目標價上修潮，最高喊到4410元，吸引資金提前卡位，股價領軍上漲，也為大盤注入一劑強心針，週三盤中上漲超過七百點，力拚站穩4萬9千點大關。\n\n永誠國際投顧分析師 謝文琪：「在台股、亞股這部分其實都是有一個滿不錯的，一個跌深後的反彈，所以目前來看台股的話只要說，像成交量今天其實也是有預估到一兆以上的量。前波平台的最低點9月29日是47631點，只要沒有跌破47631點，那我認為這一波其實就是創新高的一個修正。如果台幣有稍微做一個轉升，那外資有沒有回來去停止轉賣變成轉買，那如果有的話，那其實我覺得對大盤的正向的加分效果會加大。」\n\n盤面族群交投熱絡，台塑四寶股價續衝，南亞一度亮燈再刷新天價350.5元，台化也直奔漲停板，受惠於營收成長亮眼，矽光子概念股回神，華星光亮燈、聯亞漲半根停板，被動元件族群重拾多頭火種，面板三虎獲得買盤青睞，反觀先前漲勢暢旺的光學鏡頭概念股陷入拉回整理，記憶體則仍在消化長鑫存儲技術性突破消息，股價平盤震盪。不過專家認為，記憶體供給改善對AI發展是短空長多。\n\n統一投顧總經理 廖婉婷：「如果這邊的供給瓶頸可以稍微克服的話，其實對於AI的整個零組件價格的壓力，我覺得是比較正面的。在明後年發展或者是備貨、拉貨會比較順的情況下，其實基建建造正向的話對於台灣的供應鏈都是好事。那這一次台積電法說市場也預期他會上修可能包括資本支出，然後第四季的展望也會因為輝達新平台的拉貨，還有GoogleTPU的拉貨，其實有機會開出一個雙位數的季成長。」\n\n專家認為，隨著台股跌深反彈，加上台積電法說會即將登場，有望為市場注入多頭動能，不過短線要留意台幣匯率變化，以及外資買賣超動向掌握大盤後續走勢。（記者謝旻蓁／蘇韋銘 台北採訪報導）\n\n觀看原文...\n\n【台股盤後】台積電壓尾盤 台股上漲284點 收48625點 49K得而復失\n\n【台股盤中】塑化、被動元件點火 台股反彈逾700點 力拚重返49000\n\n亞股低氣壓! 台股盤中大跌1235點 失守4萬9",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
