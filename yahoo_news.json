@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-13T22:20:24.671Z",
-  "total_news_count": 5,
+  "last_updated": "2026-10-14T06:20:16.720Z",
+  "total_news_count": 12,
   "news": [
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-14",
+      "Time": "10:51:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "攻智慧感測應用 智原推聯電14奈米矽驗證IP解決方案",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%94%BB%E6%99%BA%E6%85%A7%E6%84%9F%E6%B8%AC%E6%87%89%E7%94%A8-%E6%99%BA%E5%8E%9F%E6%8E%A8%E8%81%AF%E9%9B%BB14%E5%A5%88%E7%B1%B3%E7%9F%BD%E9%A9%97%E8%AD%89ip%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88-025100122.html",
+      "Content": "MoneyDJ新聞 2026-10-14 10:51:34 新聞中心 發佈\n\nASIC設計服務暨IP研發廠商智原(3035)昨(13)日推出MIPI C/D Combo PHY IP解決方案。這個在聯電(2303)14nm FinFET製程成功通過矽驗證的IP為視覺AI、機器視覺、智慧影像及其他需要高效能鏡頭與感測器的先進SoC應用，提供具有高成本效益的高速連接解決方案。\n\n為滿足市場對智慧感測應用日益增長的需求，智原進一步擴展其在聯電14奈米FinFET平台的MIPI C/D Combo PHY IP產品組合。這次新推出的IP同時支援MIPI C-PHY v2.0，速度達到每trio 3.0 Gsps，以及D-PHY v2.5，每通道達4.5 Gbps，並提供可彈性擴充的配置，以滿足多元的頻寬需求。透過在兩種協定間共用腳位(pins)、數位邏輯、I/O緩衝區、PLLs及校準電路(calibration circuits)，這個Combo PHY架構縮減超過30%的IP晶粒面積，同時簡化高速資料傳輸所需的PCB佈局與電路板設計。\n\n智原MIPI C/D Combo PHY IP的雙協定架構可透過C-PHY實現高效能影像傳輸，並利用D-PHY支援低功耗或待機運作。為提升高頻寬資料接收時的訊號穩定度，D-PHY接收器整合了高速去偏斜校準(de-skew calibration)技術。同時，內建自我測試功能(BIST)可支援兩種協定，簡化量產測試流程並降低測試成本。此外，這個IP支援交替低功耗模式(ALP)，提供低活動狀態下進一步降低能耗的選擇。\n\n智原營運長林世欽表示：「邊緣AI與車用智慧感測帶動市場對高效能、低功耗影像傳輸連接技術的需求。智原已通過矽驗證的MIPI C/D Combo PHY IP具備更高的彈性與功耗效率，可支援新一代智慧感測方案。結合完整的聯電IP產品組合、基於Arm架構的SoC整合能力，及ASIC專業技術，智原能有效協助客戶簡化系統開發、減少測試工作與風險，並加速產品上市時程。」\n\nCredo推1.6T光互連新品，擴大AI高速連接平台\n\nM31擴大低功耗與高速IP，北美專案拚認列\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
     {
       "Ticker": "STM",
       "Date": "2026-10-13",
@@ -11,6 +21,26 @@
       "URL": "https://finance.yahoo.com/technology/articles/global-chip-selloff-deepens-ai-085657296.html",
       "Content": "Investing.com -- Shares of U.S. and European chipmakers fell Tuesday as a selloff in AI-exposed stocks deepened, pulling the broader technology sector lower amid concerns over the sustainability of AI investment and intensifying competition.\n\nBefore you buy NVIDIA: our AI model's stock picks are beating the market by 120%+. See the list now »\n\nIn U.S. premarket trading, Micron fell 2.3%, with Marvell Technology and SanDisk also sliding more than 2% by 04:28 ET (08:28 GMT). Western Digital dropped nearly 4%, and AMD and Broadcom each fell about 1%.\n\nNot finding the right stocks? Our AI's list of investor-grade stock picks for October just dropped »\n\nEuropean chip names were hit harder. STMicroelectronics dipped 2.6%, Soitec and Infineon fell more than 1%, while chip-testing company Technoprobe slid 2.6%. Siltronic slipped 1.4%, Aixtron fell 1.9%, and ASM International lost 2.4%. Among equipment makers, ASML and BE Semiconductor shed over 1% each.\n\nThe moves followed a steep drop in Asian memory stocks. SK Hynix plunged 10%, Samsung Electronics lost 7.4%, and Tokyo-listed Kioxia fell as much as 13.3%. In Japan, SoftBank Group, which has significant exposure to the global AI industry, sank 8.5% and led a broader retreat in the country's semiconductor and electronics shares.\n\nThose declines came after a weak session for tech on Wall Street, where the Nasdaq Composite fell 0.44% Monday. Micron slid 3.9% as investors weighed rising competition from China's ChangXin Memory Technologies. Over the weekend, CXMT said it had made significant progress on a new chip architecture designed to increase memory density by packing more data into a smaller space.\n\nOriginal Article\n\nGlobal chip selloff deepens as AI worries, China competition weigh\n\nSamsung, SK Hynix shares plunge on China competition fears\n\nLuxury stocks slide after LVMH's weak fashion sales spark recovery doubts",
       "Language": "en"
+    },
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-13",
+      "Time": "16:27:58",
+      "Source": "Yahoo奇摩股市",
+      "Title": "智原MIPI C/D Combo PHY IP攻感測方案，通過聯電14奈米FinFET矽驗證",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%99%BA%E5%8E%9Fmipi-c-d-combo-phy-082758522.html",
+      "Content": "【財訊快報／記者李純君報導】ASIC設計服務暨IP廠商智原(3035)今日宣布，推出MIPI C/D Combo PHY IP解決方案。此IP，已經通過聯電(2303)14奈米FinFET製程的矽驗證，主供視覺AI、機器視覺、智慧影像及其他需要高效能鏡頭與感測器的先進SoC使用。為滿足市場對智慧感應用測日益增長的需求，智原進一步擴展其在聯電14奈米 FinFET平台的MIPI C/D Combo PHY IP產品組合。這次新推出的IP同時支援MIPI C-PHY v2.0，速度達到每trio 3.0 Gsps，以及D-PHY v2.5，每通道達4.5 Gbps，並提供可彈性擴充的配置，以滿足多元的頻寬需求。\n\n透過在兩種協定間共用腳位（pins）、數位邏輯、I/O緩衝區、PLLs及校準電路（calibration circuits），這個Combo PHY架構縮減超過30%的IP晶粒面積，同時簡化高速資料傳輸所需的PCB佈局與電路板設計。\n\n智原MIPI C/D Combo PHY IP的雙協定架構可透過C-PHY實現高效能影像傳輸，並利用D-PHY支援低功耗或待機運作。為提升高頻寬資料接收時的訊號穩定度，D-PHY接收器整合了高速去偏斜校準（de-skew calibration）技術。同時，內建自我測試功能（BIST）可支援兩種協定，簡化量產測試流程並降低測試成本。此外，這個IP支援交替低功耗模式（ALP），提供低活動狀態下進一步降低能耗的選擇。\n\n智原營運長林世欽表示：「邊緣AI與車用智慧感測帶動市場對高效能、低功耗影像傳輸連接技術的需求。智原已通過矽驗證的MIPI C/D Combo PHY IP具備更高的彈性與功耗效率，可支援新一代智慧感測方案。結合完整的聯電IP產品組合、基於Arm架構的SoC整合能力，及ASIC專業技術，智原能有效協助客戶簡化系統開發、減少測試工作與風險，並加速產品上市時程。」",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-13",
+      "Time": "10:18:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "ASIC族群9月營收走揚，世芯-KY、創意雙創高",
+      "URL": "https://tw.stock.yahoo.com/news/asic%E6%97%8F%E7%BE%A49%E6%9C%88%E7%87%9F%E6%94%B6%E8%B5%B0%E6%8F%9A-%E4%B8%96%E8%8A%AF-ky-%E5%89%B5%E6%84%8F%E9%9B%99%E5%89%B5%E9%AB%98-021800219.html",
+      "Content": "MoneyDJ新聞 2026-10-13 10:18:49 黃立安 發佈\n\n受惠AI需求及專案量產挹注，ASIC族群今年9月營收普遍走揚，世芯-KY(3661)、創意(3443)單月營收雙雙改寫歷史新高，智原(3035)亦創下16個月來高點，巨有科技(8227)、擷發科(7796)則呈現月增表現。觀察各家營運動能，世芯-KY受惠AI晶片量產規模擴大，創意則有CPU需求及車用專案放量支撐，智原持續受惠MCU、ASIC量產業務成長；巨有科技與擷發科則分別聚焦先進製程專案及AI軟體設計服務，力拚後續營運成長。\n\n世芯-KY今年9月營收99.8億元，月增13.7%、年增496%，連續三個月改寫歷史新高；第三季營收261.9億元，同步創下單季新高，季增逾2倍、年增293.1%；累計前三季營收378.8億元，年增44.6%。公司指出，主要受惠量產產品增加，帶動營收規模持續擴大。\n\n展望後續，法人預期世芯-KY的Trainium 3出貨動能可望延續至2027年上半年，若後續爭取到更多配額，則有機會進一步延續至下半年。至於採用2奈米製程的Trainium 4專案，公司先前指出，預計今年底前完成流片Tape-out，並以2027年底至2028年初量產為目標。\n\n創意9月營收71.5億元，月增22.3%、年增97.8%，單月營收首度衝破70億元大關；第三季營收187.6億元，連二季改寫單季新高，季增35%，年增117.7%；累計今年前三季營收440.99億元，年增102.8%。\n\n法人看好，創意受惠CPU需求強勁、中國車用專案放量，加上台積電(2330)產能支持，下半年營收可望優於上半年，並呈現逐季成長走勢。\n\n智原9月營收14.18億元，月增19.8%、年增4.4%，創16個月來新高；第三季營收36.6億元，季增10.7%、年增13.2%，優於公司財測；累計前三季營收95.7億元，年減37.0%。智原先前指出，今年MCU及ASIC量產營收持續放大，可望填補遞延案件缺口，全年營收目標維持不變。其中，IP業務受惠晶圓代工廠產能利用率提升，以及12奈米平台相關需求增加，全年營收有望再創新高；NRE業務則仍須觀察大型專案認列時程。\n\n巨有科技9月營收1.56億元，月增4.2%、年減23.8%；第三季營收4.36億元，季減28.7%、年減5.4%；累計前三季營收14.19億元，年增51.9%。公司持續推進先進製程布局，其中12奈米專案為今年主要成長動能，4奈米專案最快第四季開始認列收入，可望挹注後續營運。\n\n擷發科9月營收407.1萬元，月增1.9%、年增137.1%，連續六個月成長；第三季營收1,167.2萬元，季增252.1%、年增119.0%；累計前三季營收1,773.3萬元，年減60.7%。擷發科表示，受惠AI軟體設計服務及ASIC專案陸續達成技術里程碑，先前遞延的營收逐步認列，推升第三季營運表現。其中，智慧車載AI軟硬體整合專案持續推進，下半年將以AI軟體設計服務為核心，搭配ASIC設計服務，強化軟硬體協同開發能力。\n\nM31擴大低功耗與高速IP，北美專案拚認列\n\n台積電擴2奈米與封裝，卡位2028AI晶片\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "STM",
@@ -41,6 +71,46 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-profit-taking-weighs-131001439.html",
       "Content": "Hardman Johnston Global Advisors, an investment management firm, issued its Q3 2026 investor letter for the \"Hardman Johnston International Equity Developed Markets Strategy\". The letter can be downloaded here . The strategy faced a challenging third quarter, underperforming its benchmark with a return of -5.51% versus +0.81% for the MSCI EAFE Net Index. Consumer Staples and Utilities were the strongest contributors, while Information Technology and Health Care lagged. Japan provided strong regional support, unlike Europe, which detracted from overall performance. Despite short-term volatility and macro headwinds like inflation, rising interest rates, and high national debt, the firm believes disciplined stock selection continues to deliver long-term results. Resilient corporate earnings in the U.S. and Japan, paired with expanding demand across AI, energy infrastructure, and defense, support long-term growth opportunities. Also, check the strategy's top five holdings to see its best picks in 2026.\n\nIn its Q3 2026 investor letter, Hardman Johnston International Equity Developed Markets Strategy highlighted STMicroelectronics N.V. (NYSE: STM ). STMicroelectronics N.V. (NYSE:STM), a leading semiconductor designer and manufacturer, detracted from performance during the quarter. On October 09, 2026, STMicroelectronics N.V. (NYSE:STM) closed at $52.06 per share. STMicroelectronics N.V. (NYSE:STM) retuned 8.96% over the past month, while its shares gained 80.76% over the past 52 weeks. STMicroelectronics N.V. (NYSE:STM) has a market capitalization of $46.63 billion, with a 52-week trading range between $21.11 and $81.42.\n\nHardman Johnston International Equity Developed Markets Strategy stated the following regarding STMicroelectronics N.V. (NYSE:STM) in its Q3 2026 investor letter:\n\n\"On the negative side, Information Technology and Health Care were the largest sector detractors from relative performance. Within Information Technology, STMicroelectronics N.V. (NYSE:STM) and Infineon Technologies AG were the largest detractors. STMicroelectronics and Infineon were hurt by a broader unwind in AI infrastructure related stocks, which reflected valuation concerns and profit-taking rather than weaker fundamentals. Pressure increased when leading A.I. companies called for a slowdown over safety concerns. Consistent with our risk management discipline, we had trimmed semiconductor exposure multiple times during the year. STMicroelectronics also faced a softer gross-margin outlook, which we view as a reset in the pace of margin recovery rather than a decline in long-term earnings power, with the company's silicon photonics offering and a cyclical recovery in automotive and industrial semiconductor demand remaining important potential growth drivers.\"\n\nStory Continues\n\nSTMicroelectronics N.V. (NYSE: STM ) is not on our list of the  40 Most Popular Stocks Among Hedge Funds . As per our database, 75 hedge fund portfolios held STMicroelectronics N.V. (NYSE: STM ) at the end of the second quarter which was 37 in the previous quarter. While we acknowledge the potential of STMicroelectronics N.V. (NYSE:STM) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nIn another article , we discussed STMicroelectronics N.V. (NYSE:STM) and shared a list of best AI stocks to buy according to billionaire Stanley Druckenmiller. In addition, please check out our  hedge fund investor letters Q3 2026  page for more investor letters from hedge funds and other leading investors.\n\nThis article is originally published at Insider Monkey .\n\nIn another article , we discussed STMicroelectronics N.V. (NYSE:STM) and shared a list of best AI stocks to buy according to billionaire Stanley Druckenmiller. In addition, please check out our <a href=\"https://www.insidermonkey.com/news/hedge-fund-investor-letters-q3-2026-1849122/\" data-ylk=\"slk:hedge%20fund%20investor%20letters%20Q3%202026;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"hedge fund investor letters Q3 2026\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas\",\"yTrafficOrigin\":\"content-canvas d",
       "Language": "en"
+    },
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-12",
+      "Time": "15:56:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "智原訂10/27召開線上法說會",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%99%BA%E5%8E%9F%E8%A8%8210-27%E5%8F%AC%E9%96%8B%E7%B7%9A%E4%B8%8A%E6%B3%95%E8%AA%AA%E6%9C%83-075600714.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(3035)智原-公告本公司115年第三季法人說明會日期\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/27\n\n1.召開法人說明會之日期：115/10/27\n\n2.召開法人說明會之時間：14 時 30 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：115年第三季線上法人說明會\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n智原 公告本公司115年第三季法人說明會日期\n\n上市認購(售)權證10/13彙總表\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-12",
+      "Time": "15:54:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】智原115年第三季法人說明會日期",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E6%99%BA%E5%8E%9F115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E6%97%A5%E6%9C%9F-075430118.html",
+      "Content": "日　　期：2026年10月12日\n\n公司名稱：智原 (3035)\n\n主　　旨：智原115年第三季法人說明會日期\n\n發言人：曾雯如\n\n說　　明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/27\n\n1.召開法人說明會之日期：115/10/27\n\n2.召開法人說明會之時間：14 時 30 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：115年第三季線上法人說明會\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3035.TW",
+      "Date": "2026-10-12",
+      "Time": "15:49:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "智原 公告本公司115年第三季法人說明會日期",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%99%BA%E5%8E%9F-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83%E6%97%A5%E6%9C%9F-074900692.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(3035)智原-公告本公司115年第三季法人說明會日期\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/27\n\n1.召開法人說明會之日期：115/10/27\n\n2.召開法人說明會之時間：14 時 30 分\n\n3.召開法人說明會之地點：線上法說會\n\n4.法人說明會擇要訊息：115年第三季線上法人說明會\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n智原訂10/27召開線上法說會\n\n上市認購(售)權證10/13彙總表\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "3661.TW",
+      "Date": "2026-10-12",
+      "Time": "14:33:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】世芯-KY 2026年9月合併營收99.79億元 年增496%",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E4%B8%96%E8%8A%AF-ky-2026%E5%B9%B49%E6%9C%88%E5%90%88%E4%BD%B5%E7%87%9F%E6%94%B699-79%E5%84%84%E5%85%83-063329944.html",
+      "Content": "日期： 2026 年 10 月 12日\n\n上市公司：世芯-KY (3661)\n\n單位：仟元\n\n【公告】世芯-KY 2026年9月合併營收 (單位：仟元)\n\n合併營業收入淨額\n\n9,978,701\n\n去年同期\n\n1,674,283\n\n增減金額\n\n8,304,418\n\n增減百分比\n\n本年累計\n\n37,877,514\n\n去年累計\n\n26,196,400\n\n11,681,114\n\n44.59",
+      "Language": "zh"
     },
     {
       "Ticker": "SIMO",
