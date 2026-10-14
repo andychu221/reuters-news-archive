@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-14T12:35:56.607Z",
-  "total_news_count": 328,
+  "last_updated": "2026-10-14T13:14:28.765Z",
+  "total_news_count": 330,
   "news": [
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-10-14",
+      "Time": "20:24:10",
+      "Source": "Yahoo Finance",
+      "Title": "Google Is Turning Scientific AI Into a European Cloud Growth Strategy",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/google-turning-scientific-ai-european-122410692.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAlphabet Inc ( GOOGL , Financials ), the parent company of Google, is increasing its AI presence in Europe by directly delivering more of its research tools to academics.Google DeepMind and Google Cloud are providing 200 European researchers with access to cutting-edge AI models and $3 million in computing credits.The program contains tools like AlphaFold 3 for molecular research, AlphaGenome for genomics, WeatherNext for forecasting, AlphaEvolve for algorithm development and AlphaEarth Foundations for Earth observation.From Alphabet's perspective, $3 million is hardly a huge financial commitment. More intriguing is the strategic value.Giving researchers early access to Google's models and cloud infrastructure might cement such tools into scientific processes, creating a long-term demand for Google Cloud.It also provides Alphabet another option to show that its AI goal goes beyond consumer products like Gemini. The program is aimed to speed up scientific discovery and improve research competitiveness in Europe, Google says.The challenge for investors is whether projects like these eventually convert into greater cloud usage and better acceptance of Google's own AI capabilities.It will be interesting to see which European research teams join the program, and whether Google extends the effort beyond the first 200 participants.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MSFT",
+      "Date": "2026-10-14",
+      "Time": "20:19:36",
+      "Source": "Yahoo Finance",
+      "Title": "Microsoft Azure Reportedly Seeks 20% Cost Cuts Despite 40% Revenue Growth",
+      "URL": "https://finance.yahoo.com/technology/articles/microsoft-azure-reportedly-seeks-20-121936051.html",
+      "Content": "This article first appeared on GuruFocus .\n\nThe software and cloud-computing behemoth, Microsoft Corp. ( MSFT , Financials ) is suffering the same old dilemma in its fastest-growing business : Revenue is soaring but so are the expenditures to maintain that growth.Girish Bablani, president of Azure, has allegedly ordered top management to find methods to slash expenses by at least 20%.Microsoft rejected the characterization, stating Azure leadership had not instructed workers to establish formal cost-cutting strategies and that the business frequently prepared for many eventualities. The debate important, though.Azure produced $101.9 billion in revenue in the 12 months ending in June, a 40% increase from a year before. Revenue increased 43% in the June quarter, accounting for nearly 31% of Microsoft's overall revenue. The question is what does it cost to keep up that pace?Microsoft is also vying with businesses such as Meta and Anthropic for limited technical expertise, while AI infrastructure expenditure is rapidly expanding. They might save costs by hiring fewer outside contractors and by deploying AI to make their employees more productive.Azure employs over 60,000 people whereas Bablani's organization has about 11,500. For investors the question is no longer if Azure can grow. It's whether Microsoft can maintain that growth profitably as AI gets more capital heavy.Next, investors will want to see whether the announced efficiency drive leads to actual budget reduction, personnel changes or improved Azure margins.",
+      "Language": "en"
+    },
     {
       "Ticker": "MSFT",
       "Date": "2026-10-14",
@@ -53,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "META, SNDK",
       "Date": "2026-10-14",
       "Time": "19:19:00",
       "Source": "Yahoo Finance",
@@ -63,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SNDK",
+      "Ticker": "LITE, SNDK",
       "Date": "2026-10-14",
       "Time": "19:14:00",
       "Source": "Yahoo Finance",
