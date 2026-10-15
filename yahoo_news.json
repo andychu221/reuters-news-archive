@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-15T15:20:34.435Z",
-  "total_news_count": 675,
+  "last_updated": "2026-10-15T15:27:42.282Z",
+  "total_news_count": 685,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-15",
+      "Time": "22:56:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "升息恐拖累AI產業！那斯達克跌近1個月低點　台積電ADR重挫逾4％",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%87%E6%81%AF%E6%81%90%E6%8B%96%E7%B4%AFai%E7%94%A2%E6%A5%AD-%E9%82%A3%E6%96%AF%E9%81%94%E5%85%8B%E8%B7%8C%E8%BF%911%E5%80%8B%E6%9C%88%E4%BD%8E%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E9%87%8D%E6%8C%AB%E9%80%BE4-145628733.html",
+      "Content": "即時中心／廖予瑄報導\n\n投資人擔心美國升息拖累人工智慧AI產業，美股今（15）天開盤漲跌互見，那史達克指數下滑1.24％，幾乎來到近一個月低點，報26,323點；標普五百也下跌33點，來到7,685點；道瓊工業指數上漲266點，來到51,888點。至於台機電ADR則下跌超過4％，來到409美元；輝達股價下跌2.59％，每股來到215美元。\n\n美股開盤漲跌互見！升息疑慮衝擊AI族群　那斯達克跌逾1％\n\n投資人擔憂美國升息可能拖累AI產業發展，美股主要指數今天開盤漲跌互見。以高科技為主的那斯達克指數下跌1.24％，報26,323點，逼近一個月低點；標普五百指數下跌33點，來到7,685點。相較之下，道瓊工業指數逆勢上漲266點，報51,888點，呈現科技股承壓、傳統大型股表現相對有撐的走勢。\n\n科技股方面，半導體族群面臨賣壓，台積電ADR下跌逾4%，來到每股409美元；AI晶片龍頭輝達股價也下跌2.59%，來到每股215美元。市場對利率走勢的疑慮升高，投資人擔心借貸成本若持續偏高，可能影響企業投資與AI產業的成長動能，科技股因此受到衝擊。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／升息恐拖累AI產業！那斯達克跌近1個月低點　台積電ADR重挫逾4％",
+      "Language": "zh"
+    },
     {
       "Ticker": "TSM",
       "Date": "2026-10-15",
@@ -13,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "22:20:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股跌1655點外資賣超創新高　融資減51.41億",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C1655%E9%BB%9E%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85%E5%89%B5%E6%96%B0%E9%AB%98-%E8%9E%8D%E8%B3%87%E6%B8%9B51-41%E5%84%84-142043448.html",
+      "Content": "（中央社記者潘智義台北2026年10月15日電）台股今天大跌1655.96點，為單日第6大跌點，外資賣超新台幣3025.55億元，創外資單日賣超金額新高。台灣證券交易所晚間公布融資餘額約6464.15億元，較昨天減少約51.41億元，法人認為，融資還有再減的壓力。\n\n第一金投顧董事長黃詣庭表示，台股融資餘額若能出現連續3天超過百億的減肥，較有利於於籌碼安定，若散戶不退，大盤仍有震盪可能性。另外，美股費城半導體指數、韓國股市不止跌，外資不轉向，台股也不易反彈。\n\n台股今天終場收在46969.87點，跌1655.96點，為單日第6大跌點，跌幅3.41%，不但失守月線48041點，也直接摜破47000點整數關卡。\n\n融資餘額今天減少前3名為聯電 (2303) 、元大台灣50反1（00632R）、台亞 (2340) 。\n\n融資餘額今天增加前3名包括元大台灣50正2（00631L）、群益臺灣加權正2（00685L）、主動中信台灣收益（00406A）。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META, AAPL",
       "Date": "2026-10-15",
       "Time": "22:20:00",
@@ -21,6 +41,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/metas-muse-agent-massive-hit-142000837.html",
       "Content": "By all early accounts, Meta Platforms ' (NASDAQ: META) new Muse AI agent is a huge success. The app has an estimated 3 million weekly users and has been at the top of Apple 's (NASDAQ: AAPL) App Store for several weeks.\n\nMeta shareholders have driven the company's stock up more than 20% since Muse launched, optimistic that the company has figured out how to monetize AI.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nCall me a skeptic, but I'm not sold on the idea that Muse will be the catalyst some investors hope for. For one, Meta will burn through $145 billion in AI data center spending this year. Even selling a heck of a lot of Muse subscriptions won't come close to recouping those costs.\n\nSecondly, virtually every major tech company is moving in the same agentic AI direction. The market is already getting crowded, and it's just getting started.\n\nCheap AI doesn't exist\n\nMuse is free to use with a limited number of AI tokens, and there are two paid tiers: $20/month (5 million weekly tokens) and $100/month (3 billion weekly tokens). Those prices align with what most AI companies charge for their monthly AI services right now, but the problem for Meta (and likely its rivals, too) is that these subscriptions won't come anywhere close to offsetting AI expenses.\n\nAs mentioned, Meta is spending $145 billion to build AI data centers this year, and some analysts think it could spend even more next year. Recouping those costs through subscriptions will be nearly impossible. That's especially when you consider that Muse is a consumer product, not an enterprise product like many other AI agents. Enterprise products can generate significant revenue because companies have larger budgets than consumers and are more willing to stick with the same service for longer.\n\nMicrosoft and Alphabet both recently grew cloud revenue rapidly, thanks mostly to selling cloud-based AI services to companies. Meta isn't a cloud company, and that's sort of the problem. Meta is investing similar amounts of money in AI data centers as its peers but doesn't have enterprise products to offset its high costs.\n\nMeta recently launched Muse for Small Business, but it's more of a workflow automation tool (allowing Muse to connect to a Canva subscription) than the robust tools Anthropic and OpenAI offer. Making matters worse for Meta is that it's very likely that even its current subscription prices aren't high enough to match the amount of AI tokens users are spending.\n\nStory Continues\n\nFor $100/month, Muse users (Musers?) receive 3 billion tokens per week. But the total amount of tokens a user gets often exceeds the value of what they pay for them. Earlier this year, a SemiAnalysis report found that a $200/month ChatGPT subscription actually gives a user $14,000 worth of AI tokens. For Claude, $200 essentially gets you $8,000 worth of tokens.\n\nIn short, AI companies are heavily discounting their products. A similar disparity is likely occurring with Muse's token costs versus its subscription price, which isn't ideal when it's spending hundreds of billions of dollars on AI.\n\nThe consumer-side competition will heat up, too\n\nThe other problem I think Meta will face with Muse is that, very soon, it probably won't be a unique product. While Meta beat many of its rivals to the punch in offering a consumer-first personal AI agent that can accomplish useful everyday tasks, it certainly won't be the last. Apple has already inched closer to this area with its newest version of Siri.\n\nAnd while Siri can't yet book hotels or shop online for you, it likely could soon. If it does, Apple could eventually have the upper hand in this space because of its focus on consumer privacy.\n\nEven with Muse's popularity, Meta consumers don't have much trust in the company's privacy practices. A recent Oppenheimer survey found that just 8% of respondents said they'd trust Meta with their passwords, compared with 30% for Alphabet and 23% for Apple (which took the No. 1 and No. 2 spots).\n\nEven if Muse successfully fends off the competition for a while, it doesn't change the fact that Meta is burning through piles of cash. And with the company still generating the vast majority of its $200 billion in annual revenue from advertising, Muse's subscriptions aren't likely to make much of a dent in Meta's sales either.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "22:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股崩跌1655點！郭哲榮解密台積電法說　點名「這幾檔」逢低布局",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B4%A9%E8%B7%8C1655%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E8%A7%A3%E5%AF%86%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA-%E9%BB%9E%E5%90%8D-%E9%80%99%E5%B9%BE%E6%AA%94-%E9%80%A2%E4%BD%8E%E5%B8%83%E5%B1%80-141200299.html",
+      "Content": "今（15）日台股遭遇重挫，加權指數開低走低，盤中一度狂震近1,800點，終場大跌1,655.96點，收在46,969.87點，跌幅高達3.41%，成交金額放大至新台幣1兆3,197.7億元，不僅失守4.7萬點大關與月線，更創下台股史上單日第6大收盤跌點。面對盤面一片慘綠、投資人陷入集體恐慌， 摩爾投顧投資長郭哲榮 特別站出來撫平市場焦躁，強調台積電（2330）法說會絕非利多失效，這場大跌反而是老天給予投資人重新洗牌與逢低布局的絕佳契機。\n\n【補跌風暴襲來！通膨升息陰霾引發集體恐慌】\n\n今台股慘遭空頭洗劫，指數狂跌1,655點，終場失守47,000點大關。郭哲榮分析，這場驚心動魄的恐慌賣壓，核心源於韓國股市率先破底，拖累台股產生劇烈的跨市場補跌效應。另一方面，美國最新公布的CPI數據達3.7%，高於預期的3.6%，能源與人力成本居高不下，令市場極度擔憂美聯儲可能重啟升息機制。在總體經濟邏輯中，一旦基準利率推升，企業借款成本飆漲，若獲利無法覆蓋利息負擔，便容易誘發拋售潮，這正是導致市場情緒陷入極致恐慌的罪魁禍首。\n\n【台積電法說亮出成績單！第3季EPS達29.43元】\n\n在市場哀鴻遍野之際，台積電（2330）法說會被部分情緒化言論誤解為「利多失效」。郭哲榮透過客觀數據剖析，台積電（2330）15日公布第3季財報，合併營收達1兆4,942.4億元，年增50.9%；稅後純益7,630.6億元，年增68.7%，每股稅後純益（EPS）為29.43元。公司預估第4季營收可達523億至543億美元，全年美元營收成長率預估約44%，顯示先進製程需求仍具支撐力。\n\n郭哲榮看好AI仍是中長期產業趨勢，認為投資人不應只因大盤急跌，就忽略具備基本面支撐的企業。但個股是否值得進場，仍須搭配合理價格與自身風險承受能力評估。\n\n【逆勢強勢股！微星（2377）創新高建議獲利續抱】\n\n在盤面大洗盤之際，個股表現呈現兩極化。郭哲榮觀察指出，先前漲幅較大的記憶體板塊如南亞科（2408）、群聯（8299）、華邦電（2344）等出現顯著拉回，建議投資人先不要追高，靜待回檔整理。反觀逆勢強勢股微星（2377），股價逆勢收紅並創下一個多月新高，表現相當亮眼，已持有的投資人建議可獲利續抱。\n\n【甜甜價浮現！國巨（2327）、環球晶（6488）與鴻海（2317）逢低布局】\n\n針對想逢低進場的資金，郭哲榮點出多檔具備吸引力的優質標的。被動元件龍頭國巨（2327）若回落至600元以下即可分批進場；矽晶圓大廠環球晶（6488）若跌破900元甚至落入800元區間，均為難得的甜甜價。至於AI權值龍頭鴻海（2317），目前本益比僅約12倍，評價相對安全。追求穩健的投資人，則可直接分批布局台積電（2330）、鴻海（2317）或元大台灣50（0050）。\n\n【危機還是契機？郭哲榮喊話：現股重壓三年看十萬點】\n\n面對外資單日大幅賣超，郭哲榮感性喊話，投資就像打棒球，不必每個球都揮棒，只需耐心地等候進入鎖定區的好球。他強烈呼籲投資人「絕不要借錢或使用融資」，應善用現股耐心持有優質資產。郭哲榮維持堅定信念表示，AI浪潮是不可逆的真實趨勢而非泡沫，第四季更是傳統作帳與拉升行情的旺季，台股長線趨勢依舊向上，看好今年挑戰5萬點、明年邁向6.2萬點，三年內更有機會衝上10萬點大關。",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -43,6 +73,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-15",
+      "Time": "22:00:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "「美股怕的不是獲利、是估值」華爾街大多頭Yardeni下修標普500目標價",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%80%95%E7%9A%84%E4%B8%8D%E6%98%AF%E7%8D%B2%E5%88%A9-%E6%98%AF%E4%BC%B0%E5%80%BC-%E8%8F%AF%E7%88%BE%E8%A1%97%E5%A4%A7%E5%A4%9A%E9%A0%ADyardeni%E4%B8%8B%E4%BF%AE%E6%A8%99%E6%99%AE500%E7%9B%AE%E6%A8%99%E5%83%B9-140049787.html",
+      "Content": "長期看多美股的華爾街知名策略師、Yardeni Research總裁亞德尼(Ed Yardeni)表示，自9月中旬浮現的避險情緒可能持續，進一步壓縮股票估值，儘管該機構仍看好企業獲利，並預期2029年底前不會出現經濟衰退。\n\n亞德尼在最新告報中寫道：「我們擔心的不是獲利，而是股票估值。」\n\n該機構維持2027年標普500指數每股盈餘預估425美元，略高於市場共識的423.08美元，但將年底預估本益比目標由19.8倍下修至18.6倍，並據此將年底指數目標從8,400點調降至7,900點，原先的8,400點目標則延後至2027年中。\n\n亞德尼表示，隨著競爭加劇，以及市場對AI巨額投資回報的疑慮升高，AI交易走勢愈發紊亂。\n\n市場愈來愈擔心新型雲端服務供應商CoreWeave的償債能力，拖累其股價暴跌16%。\n\n9月消費者物價指數（CPI）高於預期，也加重市場壓力，推升聯準會年底前升息兩次的可能性。整體CPI月增0.6%，創3月以來最大漲幅，主要受能源價格大漲9.3%帶動。\n\n數據公布後，10月升息機率由21%攀升至36%，一度觸及45%。\n\n核心CPI月增0.3%，目前已有52%的CPI細項年增率超過3%。耐久財價格上漲0.9%，其中電腦與電子產品價格創下歷史新高的三個月通膨率，亞德尼認為這與AI熱潮帶動的半導體需求密不可分。\n\n儘管通膨數據偏向鷹派，10年期美債殖利率顯得逐漸回穩，正如同亞德尼週末所做的預測，部分原因在於抗通膨債券（TIPS）仍提供接近2.90%的誘人實質殖利率。\n\n展望未來，該機構點出多項市場風險，包括期中選舉後政治黨派對立加劇，以及中東局勢再度升級的可能性。\n\n亞德尼表示：「我們預計避險情緒將持續，並進一步壓低估值倍數，這也是我們仍建議審慎行事的原因。」\n\n儘管如此，該機構補充表示，「買進機會正在增加」，年底仍有可能出現一波朝7,900點邁進的漲勢。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "META",
       "Date": "2026-10-15",
       "Time": "21:59:01",
@@ -51,6 +91,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/discounted-valuation-ai-compute-potential-135901592.html",
       "Content": "Harris Oakmark recently released its third-quarter 2026 investor letter for the \"Oakmark Fund\". The objective of the fund is to deliver capital appreciation by investing in a diverse set of large-cap US companies. The letter can be downloaded here . The Fund (Investor Class) outperformed the S&P 500 Index for the quarter, driven by strong gains in Information Technology and Health Care, which offset headwinds in Industrials and Materials. The fund returned 3.45% vs. 2.30% for the benchmark. While mega-cap concentration continues to drive broad market returns, it also creates compelling entry points across underappreciated, high-quality companies . By focusing on well-managed businesses selling at discounts to their intrinsic value, patient investors can benefit as the price-value gap narrows over time. In addition, you can check the Fund's top five holdings to determine its best picks for 2026.\n\nIn its Q3 2026 investor letter, Oakmark Fund highlighted Meta Platforms, Inc. (NASDAQ: META ) as a newly added position. Meta Platforms, Inc. (NASDAQ:META), the parent company of dominant social media platforms, is a multinational technology company that develops products to connect people. On October 14, 2026, Meta Platforms, Inc. (NASDAQ:META) closed at $737.54 per share with a $1.88 trillion market capitalization. Meta Platforms, Inc. (NASDAQ:META) posted an 11.73% YTD gain, trading within a 52-week range of $520.26 to $779.82.\n\nOakmark Fund stated the following regarding Meta Platforms, Inc. (NASDAQ:META) in its Q3 2026 investor letter:\n\n\"Meta Platforms, Inc. (NASDAQ:META) is a U.S.-headquartered technology company whose Family of Apps (including Face book, Instagram, and WhatsApp) reaches 3.6 billion daily active users. Growth and returns in Meta's core businesses remain exceptional but investors have grown concerned by the company's large investment in AI. We are confident that the company can monetize AI compute through a combination of core business improvement, new AI businesses and potentially 3rd party compute rental. We be lieve the Family of Apps business is already benefit ting from improved recommendation and ad matching systems. Meta is also off to a strong start with its new personal AI assistant, Muse. With shares trading near their lowest multiple outside the 2022 period, we invested at a meaningful discount to our estimate of intrinsic value.\"\n\nMeta Platforms, Inc. (NASDAQ: META ) holds 5th position on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026 . According to our database, 254 hedge fund portfolios held Meta Platforms, Inc. (NASDAQ: META ) at the end of the second quarter, compared to 262 in the previous quarter. While we acknowledge the potential of Meta Platforms, Inc. (NASDAQ:META) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nStory Continues\n\nIn another article , we discussed Meta Platforms, Inc. (NASDAQ:META) and shared a list of the best growth stocks to buy according to billionaires. In addition, please check out our  hedge fund investor letters Q3 2026  page for more investor letters from hedge funds and other leading investors.\n\nThis article is originally published at Insider Monkey .\n\nMeta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer\n\nMeta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer Meta Platforms, Inc. (NASDAQ: META ) holds 5th position on our list of 40 Most Popular Stocks Among Hedge Funds Heading Into 2026 . According to our database, 254 hedge fund portfolios held Meta Platforms, Inc. (NASDAQ: META ) at the end of the second quarter, compared to 262 in the previous quarter. While we acknowledge the potential of Meta Platforms, Inc. (NASDAQ:META) as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nIn <a href=\"https://www.insidermonkey.com/news/10-best-growth-stocks-to-buy-now-according-to-billionaires-1849368/\" data-ylk=\"slk:another%20article;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"another article\",\"yLinkElement\":\"context_link\",\"yModuleName\":\"content-canvas&quot",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "21:53:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "3大利空引爆台股無差別血洗！專家：震撼洗盤下的「上車時間點」",
+      "URL": "https://tw.news.yahoo.com/3%E5%A4%A7%E5%88%A9%E7%A9%BA%E5%BC%95%E7%88%86%E5%8F%B0%E8%82%A1%E7%84%A1%E5%B7%AE%E5%88%A5%E8%A1%80%E6%B4%97-%E5%B0%88%E5%AE%B6-%E9%9C%87%E6%92%BC%E6%B4%97%E7%9B%A4%E4%B8%8B%E7%9A%84-%E4%B8%8A%E8%BB%8A%E6%99%82%E9%96%93%E9%BB%9E-135300107.html",
+      "Content": "台股今（15）日遭逢震撼教育，盤中爆發1.3兆元大量，終場大跌1655點，創下史上第六大跌點，直接跌破月線關卡，櫃買市場更是直接打到季線以下。分析師林漢偉指出，這一波全球股災主要是受到美國9月 CPI通膨數據高於預期等因素影響，不過，歷史經驗顯示，每當大盤發生暴跌洗盤後，一週極高的機率會迎來反彈。\n\n林漢偉提到，除CPI數據引發市場擔憂聯準會升息壓力外，加上輝達親兒子、AI算力租賃公司CoreWeave爆發債務違約危機，導致市場恐慌雲端巨頭明年的AI資本支出可能因高利率融資困難而遭到遞延。此外，台積電法說會公布第三季財報出現「三率三降」，毛利率降至66.4%不如市場預期，三大利空夾擊下引發市場無差別恐慌性殺盤。\n\n林漢偉表示，歷史經驗顯示，每當大盤發生暴跌洗盤後，將時間拉長來看，一週極高機率會迎來強彈。回顧2024年8月、2025年4月與7月以及2026年6月的幾次歷史大跌，雖然隔天短線可能還會因為情緒續跌，但只要把時間拉長到一週，通通都是上漲的。\n\n林漢偉分析，這次下跌並非因為AI需求消失，而是受到高利率與籌資成本的人為因素影響，主政者不會樂見金融危機發生，後續勢必會想辦法讓利率降溫。因此，技術面降溫與暴跌洗盤反而是幫市場洗掉不穩定籌碼，造就了「另外一次上車的機會」。\n\n他舉例，像7月股災時台光電跌到不到4000元、聯發科不到3000元、台達電不到1500元，隨後都在幾個月後創下歷史新高。現在台股逼近季線、許多優質股票遭到委屈錯殺，如南亞科前三季大賺且繳出三率三升的表現卻遭無差別重挫，對於長線投資人來說，不需要恐慌亂殺盤，反而在大跌拉回時，應該勇敢站在買方分批布局，等待第四季旺季與年底行情。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT",
@@ -83,6 +133,26 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-15",
+      "Time": "21:44:06",
+      "Source": "Yahoo奇摩股市",
+      "Title": "快訊》台指期夜盤面臨47K攻防戰 那指下殺300點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%9D%A2%E8%87%A847k%E6%94%BB%E9%98%B2%E6%88%B0-%E9%82%A3%E6%8C%87%E4%B8%8B%E6%AE%BA300%E9%BB%9E-134406251.html",
+      "Content": "（23：00更新）周四（15日）亞洲科技股遭猛烈拋售，全球股市都感受到寒意。拋售潮加劇，AI交易今年以來的強勁漲勢正面臨系統性壓力測試。台指期夜盤走勢持續震盪，稍早雖一度暴跌257點，報46674點，但隨後急拉翻紅，一度大漲235點，報47166點，之後持續在47000點附近震盪。不過隨著美股開盤後費城半導體指數急跌逾4%，台指期夜盤又迅速翻黑，一度崩跌475點，報46456點。\n\n受到市場擔憂科技企業在AI領域過度投入，加上美國經濟數據顯示通膨依然具有黏性，周四標普500指數與那斯達克指數早盤雙雙下挫，那斯達克指數一度大跌逾300點，與台股連動密切的費城半導體指數更是慘跌逾500點，跌幅逾4%。台積電ADR一度崩跌逾4%。但道瓊工業指數表現相對抗跌，在非科技板塊上漲的支撐下，早盤大漲逾400點。\n\n截至台北時間15日晚間10點50分，道瓊工業指數上漲385.66點（或0.75%），暫報52007.14點；那斯達克指數下跌162.074點（或0.61%），暫報26530.795點；標普500指數下跌7.53點（或0.10%），暫報7711.41點；費城半導體指數下跌313.69點（或2.68%），暫報11370.69點。\n\n5大科技巨頭漲跌互見，蘋果漲0.53%，谷歌母公司Alphabet漲0.33%，微軟漲0.60%，亞馬遜跌0.70%，臉書母公司Meta跌0.83%。半導體類股普遍難擋跌勢，輝達跌2.11%，超微跌4.33%，台積電ADR跌2.94%，聯電ADR跌3.55%。\n\n美國9月生產者物價指數（PPI）年增6.3%，創2022年12月以來新高，月增1.3%，創2022年3月以來最大單月漲幅，雙雙高於預期，顯示通膨壓力持續向供給端蔓延，令聯準會（Fed）升息路徑進一步趨於確定。\n\n道富環球市場股票研究主管Marija Veitmane表示，「市場高度集中於科技股，投資者對任何可能觸發拋售的負面消息都高度敏感。」她指出，這一輪的導火線是信貸風險擔憂，而一旦負面消息出現，市場就會出現「全部拋售」的反應。\n\n儘管市場普遍預期Fed在10月將暫停升息，但目前市場已定價Fed在明年1月底前累計升息約40個基點。投資人正密切關注Fed主席華許周五在曼谷的演說內容。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "21:44:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "快訊／美股開盤繼續殺！台積電ADR再摔4.3%　台指期夜盤失守47K",
+      "URL": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E7%B9%BC%E7%BA%8C%E6%AE%BA-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%86%8D%E6%91%944-3-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%A4%B1%E5%AE%8847k-134400605.html",
+      "Content": "先前美國CPI推動升息預期，如今9月生產者物價指數（PPI）出爐，年增、月增高於預期不少。重要個股消息是台積電2026年第三季法說會，營收再度大成長，也證實已派團隊赴德州評估擴產機會，法說報喜能否帶動本日於台股已跌、美股有ADR的聯電、日月光等可留意；另一焦點是盤後艾司摩爾（ASML）財報。今（15）日美股開盤，不少指數跌勢持續。\n\n上個交易日美國9月消費者物價指數（CPI）年增率升溫推高升息預期，加上多檔科技股賣壓，主要指數收黑、情緒又蔓延到亞股。本日再有PPI，美國勞工統計局（BLS）數據顯示，PPI年增6.3%，超過市場預期的5.3%、月增則是1.3%，同樣超過預期的0.6%；扣除食品及能源等波動較大項目，核心PPI年增5.0%，高於預期的4.4%、月增0.7%，也高於預期的0.3%。\n\n焦點個股，台積電2026Q3法說會登場，繳出新台幣1兆4942億4000萬元的亮眼營收、年增率達50.9%，稅後純益約7630億6000萬元；未來展望方面，先前不斷傳出台積電要在美國德州拓廠，如今台積電董事長暨總裁魏哲家表示，已派遣團隊前往德州進行各項評估。另外，在半導體產業中份量十足的艾司摩爾，也要在美股盤後開出財報。\n\n美股開盤，截至發稿時間，道瓊工業指數上漲208.11點或0.40%、標普500指數下跌37.87點或0.49%、那斯達克綜合指數下跌352.73點或1.32%、費城半導體指數下跌403.17點或3.45%。\n\n台積電ADR（TSM）下跌18.85美元或4.38%、日月光ADR（ASX）下跌2.88美元或6.50%、艾司摩爾ADR（ASML）下跌43.00美元或2.61%。\n\n另外，台指期夜盤下跌41.00點，截至21時38分左右暫報46,890點。此前走勢，最高來到47,166點、最低則是46,674點。\n\n數字皆為截稿前更新，股價請依實際報價為主",
+      "Language": "zh"
+    },
+    {
       "Ticker": "GFS",
       "Date": "2026-10-15",
       "Time": "21:43:46",
@@ -113,6 +183,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-10-15",
+      "Time": "21:40:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈美股早盤〉通膨難降、科技股續跌！主要指數開低 台積電ADR跌逾4%",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%97%A9%E7%9B%A4-%E9%80%9A%E8%86%A8%E9%9B%A3%E9%99%8D-%E7%A7%91%E6%8A%80%E8%82%A1%E7%BA%8C%E8%B7%8C-%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B8%E9%96%8B%E4%BD%8E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C%E9%80%BE4-134039810.html",
+      "Content": "AI投資疑慮升溫，科技股連兩日承壓，美股周四(15日)開盤走低，標普500與那斯達克綜合指數同步下跌，那指逼近一個月低點，那斯達克100指數則下挫1.5%。投資人擔心，高利率將加重科技公司的舉債負擔，衝擊龐大的AI投資計畫；Anthropic業績雖維持強勁成長，增速放緩仍拖累晶片股表現。\n\n與此同時，美國9月生產者物價創逾4年來最大月增幅，零售銷售也優於預期，強化市場對聯準會(Fed)將維持高利率更長時間的看法，促使資金轉向美債避險。\n\n截稿前， 道瓊工業指數 漲近210點或近0.4%， 那斯達克綜合指數 跌近280點或1.1%， 標普 500 指數 近0.4%， 費城半導體 指數跌3.6%，台積電ADR近4.4%。\n\nAI股賣壓加速，美股主要指數期貨周四盤前走低，資金轉向美國公債避險。那斯達克100指數期貨下跌1.2%，晶片股盤前跌勢尤其明顯；美國10年期公債殖利率則下滑13個基點至5.05%。最新經濟數據未能扭轉市場對聯準會(Fed)將維持高利率更長時間的預期，也讓投資人更加關注AI支出能否持續。\n\n美國生產者物價創逾4年來最快漲幅，零售銷售也優於預期，數據公布後，美股仍維持跌勢。另一方面，Anthropic業績顯示，儘管成長依然強勁，擴張速度卻已放緩，進一步打擊AI相關類股信心，拖累晶片股下挫。\n\n隨著高利率前景持續，投資人開始質疑AI龐大支出的可持續性，近期科技股漲勢也逐漸失去動能。這波賣壓促使資金流向債市，帶動美債價格上漲、殖利率下滑；美元同步走弱，布蘭特原油則跌至每桶約104美元。\n\n股市動盪也讓市場更加關注，美債在先前大跌後是否已浮現投資價值。本月稍早，美債殖利率一度攀上多年高點，如今AI交易降溫，讓公債重新獲得避險資金青睞。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:l",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AAPL",
       "Date": "2026-10-15",
       "Time": "21:38:15",
@@ -121,6 +201,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-longer-iphone-ownership-133815255.html",
       "Content": "Apple Inc. (NASDAQ: AAPL ) sells devices and earns additional revenue through subscriptions, app transactions, advertising, and licensing. The fiscal third quarter of 2026 brought another record installed base. If customers keep iPhones longer, can spending between upgrades compensate for delayed hardware profits?\n\nKeeping Customers Must Pay for the Ecosystem\n\nApple Inc. (NASDAQ:AAPL) combines devices, software, cloud storage, and purchased content. Leaving means changing familiar services and workflows, helping protect retention. Owners can keep paying for storage or entertainment while using older phones. Maintaining that convenience requires software updates, security, and support. These qualities help explain why Apple remains a closely watched name among investors exploring the 10 Most Active Blue Chip Stocks to Buy Right Now .\n\nApple Inc. (NASDAQ:AAPL) increased quarterly Services revenue 12% to $30.7 billion. Services generated roughly $76 of gross profit per $100 of revenue, versus $40 for products overall, before research, marketing and corporate overhead. The opportunity is substantial, but customer loyalty must earn more than it costs to maintain .\n\nMore Earnings, Still a Steep Admission Price\n\nApple Inc. (NASDAQ:AAPL) trades at 36x forward P/E and 39x trailing P/E. Trailing P/E reflects reported earnings; forward P/E prices in forecasts. Even on anticipated profits, the shares command a substantial multiple.\n\nAnalysts project adjusted EPS of $9.59 in fiscal 2027, up approximately 9% from the fiscal 2026 estimate of $8.83. Services growth and repurchases can lift earnings per share. However, a higher stock multiple means each buyback dollar retires less underlying earnings.\n\nApple Inc. (NASDAQ:AAPL) reported quarterly EPS of $2.02, including $0.11 from tariff refunds. Those refunds also lifted gross margin by approximately two percentage points. Sustaining growth requires profitable sales and cost control after that benefit fades.\n\nQuarterly iPhone revenue rose 22%, so recent results benefited from stronger hardware sales. Existing subscriptions would usually continue after an upgrade. Longer ownership must therefore improve retention or paid-service spending enough to compensate for delayed device profits; merely extending an existing subscription does not automatically create incremental value.\n\nThe Customer Franchise Costs More Than Before\n\nApple Inc. (NASDAQ:AAPL) trades above its 31x forward P/E in September 2024 and 32x in September 2025, around its fiscal year-ends. The higher price for expected earnings requires stronger profits throughout the ownership cycle.\n\nStory Continues\n\nServices gross profit increased approximately $2.5 billion in the latest quarter, while companywide research and development spending rose approximately $2.9 billion. Higher infrastructure costs, including AI investments, and staffing drove that increase. Development supports hardware and services, making recurring relationships valuable when they produce lasting cash growth .\n\nApple Inc. (NASDAQ:AAPL) has also changed app-payment arrangements. U.S. developers can direct customers toward alternative purchasing mechanisms, while European changes include alternative payment processing. Purchases routed through those channels can generate lower commissions or none at all. Customers may remain loyal while producing less fee income, weakening the earnings needed to support today's premium.\n\nA Handset Premium Needs More Than Loyalty\n\nSamsung Electronics Co., Ltd., the closest smartphone and consumer-device peer, trades at 5x forward P/E, versus 36x for Apple Inc. (NASDAQ:AAPL). The wide gap reflects different earnings sources: the Korean rival depends heavily on memory semiconductors as well as Galaxy devices.\n\nStrong AI-related memory demand and higher chip prices lifted semiconductor earnings in the second quarter, while rising component costs pressured mobile profitability. The low multiple is therefore sensitive to the memory cycle: unusually strong earnings can make a semiconductor business look cheap before profits retreat.\n\nThe iPhone maker generated $117 billion of operating cash over nine months and spent $6.8 billion on capital expenditure, leaving $110.2 billion. That cash generation and recurring Services revenue support a premium. At 36x, however, service spending and retention still need to deliver durable profit growth when customers delay upgrades.\n\nConclusion\n\nApple Inc. (NASDAQ:AAPL) offers a powerful customer franchise, but 36x forward earnings looks demanding. Among Most Active Blue Chip Stocks to Buy Right Now , its case depends on increasing profit per retained customer after development and support costs. Slower upgrades without stronger service spending would weaken that case.\n\nWhile we acknowledge the potential of AAPL as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nThis article is originally published at Insider Monkey .\n\n<p class=\"text text-block paragraph text-justify neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decoration: none; font-style: normal; text-transform: none; text-align: inherit; font-variant-numeric: normal",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "21:38:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股重挫1655點史上第六大 三大法人狂賣3700億 都是美CPI的鍋?",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1655%E9%BB%9E%E5%8F%B2%E4%B8%8A%E7%AC%AC%E5%85%AD%E5%A4%A7-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%8B%82%E8%B3%A33700%E5%84%84-%E9%83%BD%E6%98%AF%E7%BE%8Ecpi%E7%9A%84%E9%8D%8B-133804511.html",
+      "Content": "財經中心／綜合報導\n\n美股費半指數14日大跌超過4%，15日台股跳水開低，最低點來到46795點，終場收在46969點，下跌1655點，是史上第六大跌點，跌幅3.41%，指數跌破月線。盤後成交量1.4兆，是3個多月來新高，呈現帶量下錯態勢。外資賣超3025億，創下史上最高紀錄，連續7個交易日賣超，自營商賣超958億，同創史上最高紀錄，但內資投信還是對台股不離不棄，買超283億元，整體來看，法人相對保守，賣超3700億元，創下台股史上紀錄。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 台股重挫1655點史上第六大 三大法人狂賣3700億 都是美CPI的鍋?",
+      "Language": "zh"
     },
     {
       "Ticker": "MSFT",
@@ -161,6 +251,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/amazon-debuts-bee-ai-wearables-131142001.html",
       "Content": "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) expanded its push into ambient artificial intelligence on Thursday with the release of two new consumer hardware offerings under its Bee ecosystem, alongside a recurring subscription tier aimed at monetizing its expanding ecosystem.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nThe e-commerce and technology leader unveiled the Bee Frontier, a $74.99 wearable device, and the Bee Eclipse, a $99.99 magnetic phone attachment slated for release in the coming weeks. Both devices are designed to continuously capture real-time audio and convert day-to-day verbal interactions into actionable reminders, conversation recaps, and organized task lists through dedicated mobile and desktop applications.\n\nThe hardware launches are paired with a new $11.99 monthly subscription tier, dubbed Bee Pro, which unlocks advanced integrations, third-party application connectivity, and unlimited historical conversation processing. By attaching a recurring service fee to its hardware unit, Amazon signals a strategic shift toward recurring software monetization within its broader consumer electronics portfolio.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nThe initiative comes as Big Tech contenders accelerate efforts to capture consumer mindshare through specialized, always-listening hardware. Competitors such as Apple Inc. and Meta Platforms Inc. have recently introduced comparable ambient features, ramping up pressure on standalone startups and forcing incumbents to integrate deeper software tie-ins across search, calendar, and virtual assistant frameworks.\n\nTo drive consumer adoption, Amazon is leveraging its existing digital infrastructure by linking the Bee ecosystem directly with Alexa+ and its primary e-commerce store. The integration allows subscribers to verbally query summary insights through Echo devices while receiving context-aware product recommendations based on captured real-time conversations.\n\nAddressing growing consumer and regulatory scrutiny surrounding ambient recording, Amazon emphasized that the devices operate under a zero-storage architecture where raw audio is deleted immediately after real-time processing. Investors will likely monitor early subscription conversion rates and software attachment metrics to assess whether hardware-enabled personal AI can generate meaningful high-margin revenue streams.\n\nOriginal Article\n\nAmazon debuts new Bee AI wearables and $12 monthly subscription plan\n\nOpko Health stock soars on $722M BioReference asset sale\n\nBofA restarts payments coverage, backs FIS, Global Payments and Toast",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-15",
+      "Time": "21:07:18",
+      "Source": "Yahoo奇摩股市",
+      "Title": "需求旺到爆還跌？ AI概念股全面倒地 台積電法說報喜ADR照挨刀",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9C%80%E6%B1%82%E6%97%BA%E5%88%B0%E7%88%86%E9%82%84%E8%B7%8C-ai%E6%A6%82%E5%BF%B5%E8%82%A1%E5%85%A8%E9%9D%A2%E5%80%92%E5%9C%B0-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E5%A0%B1%E5%96%9Cadr%E7%85%A7%E6%8C%A8%E5%88%80-130718002.html",
+      "Content": "台積電法說會釋出多項AI利多，第3季毛利率達66.4%、營業利益率為58.7%，雙雙超越財測預期。董事長魏哲家指出，AI需求不僅沒有降溫，隨著代理式AI（Agentic AI）及開源模型快速普及，市場對先進晶片的需求持續擴大，更直言所有AI業者都在與台積電合作。\n\n然而，財報與展望利多未能扭轉市場賣壓，台積電ADR盤前仍下跌約3%，其他AI概念股也同步走弱。據美國財經媒體CNBC報導，本周以來，全球市值最高的20家AI與半導體企業，合計市值已蒸發逾1兆美元。利率上升、AI融資問題，以及產業競爭日益激烈等因素，都對市場投資情緒造成壓力。\n\n周四（15日）美股盤前，輝達股價下跌1.8%，美光下跌約4%，超微下跌3.5%，閃迪（SanDisk）跌約5%，SK海力士ADR跌約6%，希捷科技跌約4%。歐洲半導體設備商艾司摩爾（ASML）在阿姆斯特丹交易中也下跌5.6%。\n\n市場對AI產業整體投資環境的疑慮升高。即使AI需求仍具成長動能，投資人也開始重新衡量相關企業持續擴大資本支出的成本，以及這些投入未來能否帶來相應回報。\n\n升息、融資與產業競爭 AI投資熱潮面臨考驗\n\n美國通膨數據高於預期，成為市場賣壓的重要背景。9月美國消費者物價指數（CPI）高於預期，推升市場對聯準會可能進一步升息的押注。當利率前景轉趨不確定，市場對需要大量資金投入的AI基礎設施建設也更加謹慎。利率上升與借貸成本增加，成為科技股面臨的壓力之一。\n\n除了利率因素，AI產業的融資風險也受到市場檢視。有「輝達親兒子」之稱的CoreWeave債券價格暴跌，加深投資人對AI產業融資問題的疑慮。AI基礎設施建設需要龐大資本支出，當融資環境面臨壓力，投資人便更關注企業能否持續取得資金，以及大規模投資能否創造相應回報。博通與英特爾執行長都發出警告，融資可能成為AI產業擴張的重要阻力。博通執行長陳福陽更指出，融資可能比晶片短缺或電力不足，成為AI發展更大的挑戰。\n\n另一方面，記憶體供給與產業競爭也為市場增添變數。隨著製造商擴大產能以滿足AI需求，市場憂心全球記憶體晶片最早可能在2029年出現供給過剩。大陸長鑫存儲日前表示，其新架構技術取得突破，有望在更小空間容納更多資料。馬斯克也在社群平台X發文稱，大陸將在2028年生產大量RAM。相關發展讓市場更加關注記憶體產業的競爭變化與未來供需風險。",
+      "Language": "zh"
     },
     {
       "Ticker": "INTC",
