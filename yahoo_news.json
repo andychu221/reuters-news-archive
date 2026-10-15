@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-15T18:25:40.830Z",
-  "total_news_count": 727,
+  "last_updated": "2026-10-15T18:32:32.492Z",
+  "total_news_count": 728,
   "news": [
+    {
+      "Ticker": "SNDK",
+      "Date": "2026-10-16",
+      "Time": "02:15:11",
+      "Source": "Yahoo Finance",
+      "Title": "Micron, SanDisk and SK Hynix Stocks Fall as AI Chip Selloff Deepens",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/micron-sandisk-sk-hynix-stocks-181511803.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMemory-chip manufacturer Micron Technology Inc. ( MU , Financials ) was down another 4.07% in premarket trading as investors continued to flee one of the hottest areas of the AI trade.SanDisk was down 4.94% while SK Hynix slid 6.61%. That decline happened even as TSMC posted record profitability and reiterated that demand from AI remains high.And that disconnect makes the move fascinating.Investors' fears are mounting that the increased interest rates would make data-center construction more costly and chip values under pressure. At the same time, Micron faces a labor issue in Taiwan, and the potential of tougher competition from China's CXMT.But the demand picture has not cracked.Micron stated its projected high-bandwidth memory capacity is sold out through 2027 and management anticipates HBM demand to outpace the larger DRAM market through 2028.That leaves investors trying to reconcile two very different tales at once. Strong demand, and increased risk.The other item to monitor is if Micron can conclude its Taiwan labor issue without disruption, and if AI demand remains high enough to offset pressure from rates and new competitors.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-10-16",
