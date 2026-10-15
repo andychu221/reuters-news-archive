@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-15T12:20:37.915Z",
-  "total_news_count": 636,
+  "last_updated": "2026-10-15T12:25:41.304Z",
+  "total_news_count": 638,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "20:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股全面承壓、台股重挫1600逾點！原因非通膨？專家這樣說",
+      "URL": "https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E5%85%A8%E9%9D%A2%E6%89%BF%E5%A3%93-%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1600%E9%80%BE%E9%BB%9E-%E5%8E%9F%E5%9B%A0%E9%9D%9E%E9%80%9A%E8%86%A8-%E5%B0%88%E5%AE%B6%E9%80%99%E6%A8%A3%E8%AA%AA-120300121.html",
+      "Content": "美股週三S&P500指數下跌1.11%、那指重挫1.88%、費半也大跌，美股全面承壓，導致許多投資人擔心通膨失控。財經專家阮慕驊卻認為，股市這波下跌的關鍵並不在通膨。\n\n阮慕驊今（15）日在臉書表示，美股週三收黑表面原因是9月CPI偏熱，年增3.7%、核心月增0.3%，雙雙超出預期，但阮慕驊認為，如果市場真的在擔心滯脹，債市會先講話。\n\n阮慕驊提到，事實是CPI公布後10年期損益兩平通膨率只從2.33%升到2.35%，動了兩個基點。今年以來名目殖利率上升103個基點，其中實際利率貢獻93個基點、期限溢價50個基點，而通膨預期全年只挪動10個基點。市場沒有在定價通膨失控。那它在怕什麼？\n\n阮慕驊認為，答案在信用市場，CCC及以下評級的利差10月8日達到1,252個基點，9月30日才剛突破1,000大關，而五個月前只有860；更關鍵的是，CCC成分債的中位數利差一個月擴大約66個基點。阮慕驊分析，這代表不是幾檔爆雷債拉高平均，而是整個低評等族群被重新定價。投資等級利差也從1月的73個基點走到85到86個基點。\n\n阮慕驊認為這才是解釋週三盤面結構的鑰匙，道瓊幾乎沒跌，那斯達克跌1.88%，小型股跌1.93%，下殺的順序不是按產業，是按資產負債表；高槓桿、現金流在遠期、靠發債支應資本支出的，跌最重；現金流穩定、不需要再融資的，相對無事。阮慕驊分析，所以這波下跌的本質，是信用風險的定價，不是通膨風險的定價。",
+      "Language": "zh"
+    },
     {
       "Ticker": "CRUS",
       "Date": "2026-10-15",
@@ -31,6 +41,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/big-tech-spend-745-billion-113000167.html",
       "Content": "Amazon , Alphabet , Microsoft , and Meta Platforms are on track to spend roughly $745 billion on capital expenditures this year, according to The Motley Fool's research . Most of this spending is going toward data center infrastructure, but it also includes other non-artificial intelligence (AI)-related expenditures.\n\nNvidia (NASDAQ: NVDA), Broadcom (NASDAQ: AVGO), and Arista Networks (NYSE: ANET) supply the compute, custom silicon, and networking that turn that capital into revenue from working AI cloud capacity. These suppliers sit at the center of the AI boom, with every dollar spent on data centers ultimately padding their coffers.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nNvidia remains the default choice for data centers\n\nNvidia designs graphics processing units (GPUs) and related computing systems that power AI training and inference workloads in the data center. The growing use of Broadcom's custom-designed chips has threatened Nvidia's dominance in the AI chip market. Still, Nvidia maintains a solid competitive position due to its CUDA software platform, which has more than 7.5 million users worldwide, and an extensive supply chain built up over decades.\n\nNvidia benefits from unmatched scale and relationships with component suppliers, giving it priority access when demand surges. Its combined offering of software and hardware, such as the new Vera Rubin platform, provides an advantage in selling to enterprise customers that custom chipmakers can't easily replicate.\n\nIn the second quarter of fiscal 2027 (ending in January), total revenue more than doubled year over year to $96 billion, mostly driven by surging demand in the data center market. Management expects 70% revenue growth in fiscal 2028.\n\nCustom chips may continue to take a growing share away from Nvidia's GPUs in the data center market. Still, the GPU leader is mitigating this threat by expanding its relationships with non-hyperscaler customers, including enterprises and other industrial opportunities. Revenue from these markets grew 138% year over year last quarter, reaching $40 billion. The stock trades at a forward price-to-earnings (P/E) multiple of roughly 14 times based on next year's consensus earnings estimate, which looks attractive against this momentum.\n\nBroadcom's custom silicon is ramping up with the largest AI customers\n\nStory Continues\n\nBroadcom's AI chip revenue is growing much faster than Nvidia's, up 221% year over year in the fiscal third quarter of 2026. It designs custom AI accelerators such as Google's Tensor Processing Units (TPUs), OpenAI's Jalapeño, and Meta's MTIA, as well as high-speed networking components.\n\nBroadcom's growth trajectory is closely tied to the ongoing improvement of the most advanced AI models from Anthropic, OpenAI, Meta, and Google, which require high-performance custom silicon. Broadcom's CEO Hock Tan said AI revenue is expected to grow from $58 billion this year to $230 billion by fiscal 2028.\n\nThe main risks for Broadcom stem from the momentum of the current AI boom and anything that slows it, such as regulations on data center construction. Still, the stock is already trading at a modest forward P/E of 18 times next year's earnings estimates, which seems to account for potential hurdles. Given the AI revenue outlook for the next few years, the stock still offers attractive upside prospects.\n\nArista is a top Ethernet fabric supplier for data centers\n\nArista Networks supplies interconnects and other networking gear needed to connect all the chips deployed in data centers. It sells high-performance Ethernet switches. Its EOS operating system, which runs the switches and routers, makes it more costly for customers to switch to another networking supplier and is therefore a key competitive advantage.\n\nThe company's quarterly revenue just surpassed $3 billion for the first time, growing 38% year over year in the second quarter of 2026. Management raised full-year revenue guidance to $12.6 billion, representing 40% growth over 2025. Arista's high-speed networking systems, or AI fabrics, now span more than 100 companies, which would include the big hyperscalers, specialized cloud providers (neoclouds), AI labs, and enterprises.\n\nRisks include deployment delays as AI data centers become more complex. This could require lengthy testing and acceptance before a customer can deploy its networking systems in their data centers. Arista said its deferred revenue was about $6.9 billion in Q2 2026.\n\nStill, management said on its August 2026 earnings call that it continues to win new customers, ramp up new products, and expand into new use cases for its products. A lot of growth is already baked in, with the stock trading at roughly 38 times next year's earnings estimates -- a steeper premium than Nvidia and Broadcom. The value may lean more toward leading chip stocks than a pure-play networking player right now.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-15",
+      "Time": "19:25:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股暴跌1655點！江國中揭落底四部曲與7:3翻身密碼：暴跌隔壁住暴利",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C1655%E9%BB%9E-%E6%B1%9F%E5%9C%8B%E4%B8%AD%E6%8F%AD%E8%90%BD%E5%BA%95%E5%9B%9B%E9%83%A8%E6%9B%B2%E8%88%877-3%E7%BF%BB%E8%BA%AB%E5%AF%86%E7%A2%BC-%E6%9A%B4%E8%B7%8C%E9%9A%94%E5%A3%81%E4%BD%8F%E6%9A%B4%E5%88%A9-112500164.html",
+      "Content": "台股今（15）日重挫1,655.96點，終場收在46,969.87點，跌幅達3.41%，盤中一度大跌逾1,800點，市場恐慌情緒升溫。面對台股暴跌， 摩爾證券投顧資深分析師江國中 提醒，投資人別急著追高殺低，應觀察融資變化、技術指標與長期均線，判斷行情是否逐步止穩。他提出 「落底四部曲」 與 「7:3翻身密碼」 ，並看好台積電（2330）強勁獲利及AI需求，認為短線震盪不代表多頭行情已經結束。\n\n【融資斷頭洗盤引恐慌！江國中直言：暴跌隔壁住暴利】\n\n面對盤面如狂風暴雨般的殺盤，江國中理性分析，由於日線MACD尚未完成收腳，主力正利用融資額度的暴增暴減進行殘忍洗盤，目的是在噴發前洗刷掉不堅定的散戶。然而，大盤月線指標並未背離，長線保護短線的格局依然堅實。江國中強調：「所有在大浪潮之前的干擾都是浮雲， 暴跌隔壁住的往往是暴利！ 」大跌回測長均線（季線）絕非末日，反而是 「彎腰撿鑽石」 的黃金坑，投資人切勿在情緒最低點盲目認賠殺出。\n\n【台股暴跌1655點！江國中：別把恐慌當成趨勢反轉】\n\n台股今日遭遇重挫，加權指數跌破4.7萬點，成交金額達1兆3,197.7億元。大盤急跌之際，投資人最擔心的就是行情是否已經反轉，手中持股該停損還是續抱。\n\n江國中認為，面對劇烈震盪，不能只看單日跌幅就判定多頭結束，也要觀察融資餘額是否明顯下降、賣壓有沒有逐步減輕，以及指數能否在重要均線附近獲得支撐。\n\n【台積電法說會驚艷全球！超強自由現金流增至4765億元，擊碎信用風險】\n\n市場原本憂心美股科技大廠擴產恐導致現金流吃緊與融資成本侵蝕，但權王台積電（2330）公布的第三季財報給了全球最優異的答案。台股重挫之際，台積電第3季財報釋出強勁訊號。台積電（2330）公布2026年第3季合併營收1兆4,942.4億元，年增50.9%；稅後純益7,630.6億元，年增68.7%，每股稅後純益（EPS）達29.43元，營收與獲利均創下單季新高。\n\n更受市場關注的是，台積電第3季自由現金流達4,765.6億元，高於第2季的2,873.6億元，增加約1,892億元。這反映公司在營運現金流增加、資本支出減少的情況下，現金創造能力進一步提升。江國中看好AI長期需求，認為台積電的獲利及現金流表現，有助市場重新評估AI產業的基本面，徹底粉碎了市場對AI需求放緩的流言，為台股注入定海神針。\n\n<figcaption class=\"text-px14 text-dolphin mt-2 wrap-anywhere\" style=\"max-width:96",
+      "Language": "zh"
     },
     {
       "Ticker": "TSM",
@@ -273,7 +293,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "2330.TW",
+      "Ticker": ".TWII, 2330.TW",
       "Date": "2026-10-15",
       "Time": "18:33:07",
       "Source": "Yahoo奇摩股市",
