@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-18T13:14:47.194Z",
-  "total_news_count": 1112,
+  "last_updated": "2026-10-18T13:25:24.420Z",
+  "total_news_count": 1113,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-18",
+      "Time": "20:54:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "韓媒：三星應輝達要求　下一代HBM基礎晶粒採台積電3奈米",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%93%E5%AA%92-%E4%B8%89%E6%98%9F%E6%87%89%E8%BC%9D%E9%81%94%E8%A6%81%E6%B1%82-%E4%B8%8B-%E4%BB%A3hbm%E5%9F%BA%E7%A4%8E%E6%99%B6%E7%B2%92%E6%8E%A1%E5%8F%B0%E7%A9%8D%E9%9B%BB3%E5%A5%88%E7%B1%B3-125413217.html",
+      "Content": "（中央社首爾2026年10月18日綜合外電報導）韓國「首爾經濟日報」今天報導，三星電子將採用台積電的3奈米製程，為輝達（Nvidia）下一代客製化高頻寬記憶體（HBM）晶片製造基礎晶粒（base die）。\n\n根據「首爾經濟日報」（Seoul Economic Daily），此舉將是三星電子（Samsung Electronics）首次在HBM製造階段與台積電合作。\n\n「首爾經濟日報」引述產業消息人士報導，輝達已要求三星、SK海力士（SK Hynix）及美光（MicronTechnology）在NVHBM基礎晶粒採用台積電製程，並在核心晶粒採用第6代DRAM技術。\n\n根據輝達，8月發表的NVHBM將輝達客製化記憶體控制器整合進基礎晶粒，旨在統一多家記憶體供應商的實作方式。\n\n據報導，三星經過內部審查後同意輝達的要求，但仍計劃以自有製造模式生產標準HBM，以及為其他客戶量身打造的產品。\n\n「首爾經濟日報」引述一位不具名消息人士指出，三星也正在評估，若需求超出台積電產能，是否可由自家晶圓代工部門生產NVHBM基礎晶粒。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-10-18",
