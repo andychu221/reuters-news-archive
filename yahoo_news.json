@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-20T13:26:56.651Z",
-  "total_news_count": 1695,
+  "last_updated": "2026-10-20T13:36:09.169Z",
+  "total_news_count": 1696,
   "news": [
+    {
+      "Ticker": "ARM",
+      "Date": "2026-10-20",
+      "Time": "21:04:43",
+      "Source": "Yahoo Finance",
+      "Title": "Chip stocks decline as AI-trade rebound fizzles",
+      "URL": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html",
+      "Content": "Chip stocks fell on Tuesday after rebounding from a recent sell-off as sentiment around the AI trade remained shaky.\n\nThe PHLX Semiconductor Index ( ^SOX ), which climbed more than 1.5% on Monday, was poised to open lower.\n\nAI chip giants Nvidia ( NVDA ) and AMD ( AMD ) declined nearly 1% and 2%, respectively. US chipmaker Intel ( INTC ) stock sank more than 2%, giving back Monday's gains after JPMorgan upgraded the stock to a Buy rating.\n\nConcerns over the AI trade resurfaced following a disappointing market debut by South Korean neocloud provider Elice ( 0158S0.KQ ).\n\nShares of CoreWeave ( CRWV ), a data center operator that rents out computing capacity, were set to open lower on Tuesday after a rebound attempt fizzled in the previous session.\n\nOther chip stocks declined on Tuesday, including contract chipmaker Taiwan Semiconductor ( TSM ), which was poised to open 2% lower.\n\nShares of central processing unit (CPU) designer Arm Holdings ( ARM ) declined 2%.\n\nMemory highfliers Micron Technology ( MU ) and SK Hynix ( SKHY ) were also poised to decline, giving back some of Monday's gains.\n\nInes Ferre is a senior business reporter for Yahoo Finance.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
     {
       "Ticker": "2330.TW",
       "Date": "2026-10-20",
@@ -203,7 +213,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "META, TXN, TSLA",
+      "Ticker": "LRCX, META, TXN, TSLA",
       "Date": "2026-10-20",
       "Time": "19:27:00",
       "Source": "Yahoo Finance",
