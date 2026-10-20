@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T16:10:46.028Z",
-  "total_news_count": 1753,
+  "last_updated": "2026-10-20T16:26:06.901Z",
+  "total_news_count": 1758,
   "news": [
     {
       "Ticker": "AMD, MU",
@@ -15,6 +15,16 @@
       "Related_Score": 4,
       "Sentiment_Score": 0,
       "Keywords": "semiconductor index, AI trade, market rebound, technical levels, historical performance"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-20",
+      "Time": "23:20:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股逆轉秀！企業財報助攻、國際油價跳水 道瓊盤中一度飆逾700點",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E9%80%86%E8%BD%89%E7%A7%80-%E4%BC%81%E6%A5%AD%E8%B2%A1%E5%A0%B1%E5%8A%A9%E6%94%BB-%E5%9C%8B%E9%9A%9B%E6%B2%B9%E5%83%B9%E8%B7%B3%E6%B0%B4-%E9%81%93%E7%93%8A%E7%9B%A4%E4%B8%AD-%E5%BA%A6%E9%A3%86%E9%80%BE700%E9%BB%9E-152005697.html",
+      "Content": "美股主要指數周二(20日)盤中由黑翻紅，多家企業財報優於預期，加上油價由漲轉跌、美債殖利率下滑，帶動市場情緒回穩，暫時蓋過近期AI投資熱潮能否延續的疑慮。\n\n截稿前，道瓊工業指數漲近610點或近1.2%，那斯達克綜合指數漲近110點或0.4%，標普 500 指數漲近0.6%，費城半導體指數漲近0.8%，台積電ADR漲近1.5%。\n\n企業財報成為推升行情的重要支柱。工業與安全用品製造商3M(MMM-US)公布優於預期的獲利，並上調全年財測，股價盤中大漲逾4%，為道瓊提供助力。航太與國防業者諾斯洛普格拉曼(NOC-US)及RTX(RTX-US)也因獲利超出預期，分別上漲6%與1%。\n\n油價回吐稍早漲幅，進一步提振投資人信心。西德州原油(WTI)期貨盤中下跌逾1%，報每桶約102美元；布蘭特原油期貨下跌逾2%，報每桶約106美元。交易員持續關注中東局勢變化，油價與美債殖利率同步走低，為股市反彈提供支撐。\n\nAI相關股票近期受到債務與需求疑慮壓抑，市場擔心企業大舉借款投入基礎建設，最終能否獲得足夠回報。南韓AI業者Elice上市首日重挫逾30%，也在周二稍早打擊科技股信心，亞太股市普遍走弱，南韓市場跌勢尤其明顯。\n\n不過，隨著美股交易時段推進，AI相關股票逐步回升。美光(MU-US)、英特爾(INTC-US)與Sandisk(SNDK-US)盤中均上漲約1%，希捷科技(STX-US)上揚2%，超微(AMD-US)漲逾1%。VanEck半導體ETF(SMH-US)上漲近1%，AI雲端業者CoreWeave(CRWV-US)則漲逾2%。\n\n美股周一已先出現反彈，標普500上漲0.4%，那指漲逾1%；輝達(NVDA-US)上漲1.4%，特斯拉(TSLA-US)大漲3.8%，Alphabet(GOOGL-US)則漲約1%，扭轉上周AI融資疑慮蔓延至大盤的部分跌勢。\n\n盈透證券(IBKR-US)資深經濟學家Jose Torres表示，市場對科技前景的情緒改善，讓華爾街暫時鬆一口氣，投資人也開始撤除避險部位。此前，上周五賣壓加劇前，防範市場波動的避險成本曾在盤中急升。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA, MU",
@@ -113,6 +123,16 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "cloud outage, concentration risk, regulatory scrutiny, resilience requirements, customer diversification"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-20",
+      "Time": "23:10:05",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股多頭還能撐？財報與Fed成考驗 標普7500點是關鍵防線",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%A4%9A%E9%A0%AD%E9%82%84%E8%83%BD%E6%92%90-%E8%B2%A1%E5%A0%B1%E8%88%87fed%E6%88%90%E8%80%83%E9%A9%97-%E6%A8%99%E6%99%AE7500%E9%BB%9E%E6%98%AF%E9%97%9C%E9%8D%B5%E9%98%B2%E7%B7%9A-151005684.html",
+      "Content": "美股多頭走勢尚未遭到破壞，但AI概念股重挫、銀行股財報後表現疲弱，以及信用市場壓力升高，正讓投資人重新檢視年底行情。華爾街寄望企業財報與期中選舉過後的季節性助力，帶動市場回穩；多位策略師則將標普500指數7,500點視為重要支撐，若失守，可能意味這波跌勢不只是例行回檔。\n\n《CNBC》分析指出，標普500過去半年回檔幅度均未超過3%，AI科技股與其他類股輪動，持續支撐大盤。不過，指數目前在趨於平坦的50日均線附近震盪，點位與11周前相去不遠，顯示上漲動能已放緩。\n\nAI反彈未解疑慮 7,500點成觀察防線\n\n上周稍晚，半導體、資料中心相關股票與債券出現急迫賣壓，交易節奏近似被迫平倉。周一半導體股雖初步反彈，避免賣壓進一步失序，仍不足以確認市場已站穩腳步。\n\n摩根大通(JPM-US)技術策略師Jason Hunter指出，市場可能正接近類股輪番修正的尾聲，為年底漲勢鋪路；但市場內部、動能與不同資產間出現的多項背離，也可能預告更廣泛、同步的下跌。\n\n他傾向審慎解讀，將距離當時指數約2.5%的7,500點視為關鍵。一旦跌破，就更難維持對後市的偏多判斷。\n\nMacro Risk Advisors策略師John Kolovos也認為，AI交易退潮與金融環境收緊，正讓過度樂觀的情緒降溫，有助年底行情醞釀；但若跌破9月中旬約7,500點的低點，就須警惕跌勢超出一般回檔。\n\n獲利成長逾兩成 仍須提防2018年前例\n\n基本面並非全然悲觀。本季標普500企業獲利預估年增逾20%，歷史上期中選舉年的第四季也多有正面表現，均有利於多頭重新凝聚信心。\n\n然而，2018年是值得留意的例外。當年同樣舉行期中選舉，企業全年獲利成長超過20%，標普500卻在第四季從高點至低點下跌約19%。此前市場已歷經動能股反轉，隨後也無力承受聯準會(Fed)進一步緊縮。\n\n如今，美債殖利率上升、企業信用利差擴大、波動升溫與美元走強，也正在收緊金融環境。投資人雖認為市場已替Fed完成部分緊縮，但這些變化也有部分源自主席華許對抗通膨的決心，以及市場對後續升息的預期。\n\n美國銀行(BAC-US)經濟學家Aditya Bhave仍預期Fed本月升息，但承認結果難料。摩根士丹利(MS-US)策略師威爾森(Mike Wilson)則認為，若華許承認金融環境已收緊，將有利於估值明顯下修的利率敏感類股；若漠視這些變化，可能勾起市場對2018年緊縮衝擊的記憶。\n\n財報決定信心修復 市場緩衝逐漸減少\n\nNed Davis Research策略師Pat Tschosik表示，該公司的市場廣度指標已初步從超賣水準回升，但若大型科技公司第三季財報令人失望，仍可能引發更全面的賣壓，之後才有機會迎來選後反彈。\n\n《CNBC》也提醒，投資人現金持有量相對融資餘額已降至低於2000年的水準。儘管避稅交易策略與現金存放方式改變，可能影響比較，這項數據仍反映市場曝險偏高、可動用買盤較少。\n\n此外，企業股利與股票回購合計的股東收益率，已低於10年期美債殖利率。這並非立即看空訊號，卻意味投資人承擔股票風險時，需要更有說服力的報酬前景。財報能否兌現成長，以及Fed如何回應金融環境變化，將是年底多頭行情的重要考驗。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -273,6 +293,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-20",
+      "Time": "22:07:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《強勢美股特報》NOC,HAS,MMM,LLY等10檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BC%B7%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-noc-mmm-lly%E7%AD%8910%E6%AA%94-140700959.html",
+      "Content": "MoneyDJ新聞 2026-10-20 22:07:58 數位內容中心 發佈\n\nNorthrop Grumman（NOC.US）： 成交價545.65美元，上漲6.85%，開盤523.64美元，盤中高點547.75美元，盤中低點525.51美元，均價539.44美元，成交量10.48萬股。\n\nNorthrop Grumman近期在飛彈防禦鏈的角色進一步擴大。公司10月9日確認成為PAC-3 Edge的多脈衝固體火箭馬達供應商，切入下一代Patriot高超音速防禦攔截器核心推進段；同日也宣布把SRC的Gryphon R1810雷達整合進Raid Hunter防空系統，強化對多目標與無人機蜂群的追蹤能力。\n\nHasbro（HAS.US）： 成交價104.26美元，上漲5.86%，開盤102.15美元，盤中高點108.19美元，盤中低點101.69美元，均價105.86美元，成交量15.5萬股。\n\nHasbro近期最明確的營運變化，仍是《魔法風雲會》持續成為成長核心。公司7月公布第二季調整後盈餘與營收均優於預期，其中《魔法風雲會》單季營收首度突破5億美元。另方面，美國玩具反斗城計畫新增120家獨立門市，也讓Hasbro在假期檔期的上架與備貨空間有望增加。\n\n3M（MMM.US）： 成交價170.35美元，上漲5.15%，開盤163美元，盤中高點170.76美元，盤中低點162.18美元，均價167.7美元，成交量21.95萬股。\n\n3M正把轉型重心押向半導體與資料中心等高優先市場。管理層表示，約80%研發經費投入半導體、資料中心等領域，去年推出284款新產品，今年預計增至350款，並提到與微軟合作的光纖技術正切入資料中心市場，同時以更集中製造網路推進2027年營業利潤率逾25%的目標。\n\nEli Lilly（LLY.US）： 成交價1298.89美元，上漲4.72%，開盤1263.5美元，盤中高點1304.19美元，盤中低點1263美元，均價1292.19美元，成交量13.48萬股。\n\nEli Lilly正把減重產品線從注射劑延伸到口服市場。公司9月表示，口服減重藥Foundayo已拿下美國口服減重新啟動患者逾30%份額，處方量約47,500張，且已進入美國三大藥品福利管理機構給付名單。較早前，Foundayo也獲英國核准用於體重管理與第2型糖尿病，成為其美國外首個核准市場。\n\nGartner（IT.US）： 成交價215.9美元，上漲3.94%，開盤210.76美元，盤中高點216.82美元，盤中低點210.13美元，均價214.06美元，成交量1.26萬股。\n\nGartner近期最受注意的變化，是對AI基礎建設投資提出更保守的產業判斷。公司研究指出，到2030年可能有高達3.5兆美元AI投資面臨減值風險，並預估80%的AI專用雲端業者可能失去獨立性。這顯示Gartner的研究焦點已從單純追逐AI支出，轉向檢驗變現能力與產業整併壓力。\n\nAdobe（ADBE.US）： 成交價254.5美元，上漲3%，開盤249.83美元，盤中高點256.2美元，盤中低點249.04美元，均價253.59美元，成交量9.57萬股。\n\nBiogen（BIIB.US）： 成交價241.13美元，上漲3.28%，開盤235.96美元，盤中高點241.38美元，盤中低點235.96美元，均價239.64美元，成交量7849股。\n\nBiogen正進入轉型驗證期。公司面對多發性硬化症舊產品走弱，已啟動10項第三期臨床試驗，並預計自第四季起陸續公布結果，主軸包括腎臟病藥物felzartamab與皮膚性紅斑性狼瘡藥物litifilimab。管理層同時規劃到2027年底前完成相關債務處理，並預期每年節省約2.5億美元開支。\n\nWorkday（WDAY.US）： 成交價199.7美元，上漲2.31%，開盤198.64美元，盤中高點202.63美元，盤中低點197.79美元，均價200.35美元，成交量2.2萬股。\n\nBristol-Myers Squibb（BMY.US）： 成交價60.75美元，上漲3.26%，開盤59.93美元，盤中高點61.01美元，盤中低點59.83美元，均價60.39美元，成交量35.78萬股。\n\nBristol-Myers Squibb這段期間輸入資料未見新的重大併購、產品核准或關鍵臨床結果，短線可追蹤的主軸仍將回到既有藥品銷售與後續財報揭露。相較其他大型藥廠近期頻繁釋出新產品或管線進展，Bristol-Myers Squibb目前公開訊號較少，營運方向暫未出現明顯新變化。\n\nExpedia Group（EXPE.US）： 成交價296.72美元，上漲1.71%，開盤295.94美元，盤中高點301.29美元，盤中低點293.82美元，均價298.55美元，成交量1.71萬股。\n\nExpedia Group近期面臨的關鍵變化，是AI旅行代理競賽下的執行力檢驗。相關報告指出，Expedia雖積極投入AI規劃工具、搜尋與個人化體驗，但市場對其能否把這些投資轉成真正差異化的旅行代理服務仍有保留，尤其在Booking擁有更大獨特住宿供給與較強直客優勢下，Expedia的估值與策略執行成為焦點。\n\n製藥巨頭AZ攜insitro攻MASH 以AI平台加速新藥研發\n\n《強勢美股特報》CBOE,LLY,PFE,INTU等8檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-20",
+      "Time": "22:05:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "AI類股走弱油價上揚　美股開低",
+      "URL": "https://tw.stock.yahoo.com/news/ai%E9%A1%9E%E8%82%A1%E8%B5%B0%E5%BC%B1%E6%B2%B9%E5%83%B9%E4%B8%8A%E6%8F%9A-%E7%BE%8E%E8%82%A1%E9%96%8B%E4%BD%8E-140557005.html",
+      "Content": "（中央社紐約2026年10月20日綜合外電報導）投資人關注本週多家大型企業財報之際，受到人工智慧（AI）相關類股再度走弱及油價反彈拖累，華爾街股巿主要指數今天開低。\n\n路透社報導，道瓊工業指數下跌6.8點或0.01%，報51959.21點。\n\n標準普爾500指數下跌11.7點或0.15%，報7679.01點。\n\n那斯達克指數下跌98.0點或0.37%，報26332.92點。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-10-20",
       "Time": "21:55:00",
@@ -331,6 +371,16 @@
       "URL": "https://finance.yahoo.com/technology/articles/meta-meta-whatsapp-become-meaningful-134325729.html",
       "Content": "Meta Platforms, Inc. (NASDAQ: META ) is turning business conversations into revenue. Paid WhatsApp messaging helped Family of Apps other revenue grow 73% to $1.01 billion in the second quarter of 2026, following 74% growth in the first. That category includes subscriptions and other services and represented just 1.7% of group revenue. Expanding messaging alternatives make merchant retention as important as reach.\n\nMeta Platforms, Inc. (NASDAQ:META) trades at 21x forward P/E versus 27x trailing P/E. Trailing P/E uses earnings from the past 12 months; forward P/E uses forecast earnings. Historical profits include a $15.9 billion tax charge, partly offset by an $8 billion tax benefit, plus legal and severance costs. The lower forward multiple reflects higher expected earnings against that distorted base, rather than operating growth alone.\n\nFor Meta Platforms, Inc. (NASDAQ:META), the valuation looks reasonable if advertising keeps funding profitable expansion. Alphabet Inc. (NASDAQ:GOOGL) trades at 23x forward P/E and already earns substantial cloud profits beyond advertising, giving its premium some operating support. Among AI stocks in Ken Fisher's portfolio , converting adoption into cash matters more than adding another popular product.\n\nMETA is also included in Trump's Latest Stock Portfolio: 10 Stocks to Buy\n\nTurning Conversations Into Business Infrastructure\n\nMeta Platforms, Inc. (NASDAQ:META) can sell merchants access to customers in an app they already use. Order notifications, authentication codes, and appointment updates create repeated needs. Connecting chats with catalogs and customer records could reduce manual work and improve retention. The value comes from turning conversations into completed purchases and saving merchants enough labor to justify the fees.\n\nMeta Platforms, Inc. (NASDAQ:META) charges for delivered business messages by destination and category. Service replies within the customer-service window are free, as are qualifying utility responses. Volume discounts can reduce revenue per message. Consequently, converting free access into paid repeat usage matters more than conversation counts. Transaction notifications can recur, while promotional messaging depends on merchants' marketing budgets.\n\nMeta Platforms, Inc. (NASDAQ:META) is extending the offer through Business Agent, which answers questions, recommends products, and books appointments. September's Meta One business bundles added paid access to more responses. Subscriptions could make revenue more predictable, provided businesses renew because the tools save labor or produce profitable sales.\n\nStory Continues\n\nCompetition raises that hurdle. Rich Communication Services, or RCS, is expanding business messaging with interactive product cards delivered through phones' native messaging apps. These alternatives could constrain paid-message growth or pricing and increase the need for AI services that solve merchants' problems. Better automation could defend revenue per customer, but additional computing and development costs must earn their keep.\n\nUser Scale Must Become Earnings Scale\n\nFor Meta Platforms, Inc. (NASDAQ:META), materiality remains the challenge. Second-quarter Family of Apps other revenue added $424 million year over year, compared with $12.8 billion of additional advertising revenue. Ads that open WhatsApp conversations still generate advertising revenue. They do not establish a separate, recurring messaging profit stream.\n\nCountry mix and consumer experience also shape returns. Expansion in lower-priced markets can add users faster than revenue. Unreliable AI answers could increase support costs or lose merchants, while excessive promotional traffic could weaken engagement. Repeat paid usage needs to grow faster than the cost of serving it.\n\nMeta Platforms, Inc. (NASDAQ:META) plans $130 billion–$145 billion of capital spending in 2026, including finance-lease principal. Second-quarter operating cash flow of $31.9 billion left $784 million of free cash flow after $31.1 billion of capital spending. This group investment raises the hurdle for cash returns after reinvestment . Management also expects a $10 billion third-quarter legal charge tied to a settlement with payments spread over a decade. WhatsApp needs to become a contributor to cash returns.\n\nConclusion\n\nMeta Platforms, Inc. (NASDAQ:META) looks fairly valued at 21x forward P/E, supported by advertising and credible routes to recurring business revenue. A WhatsApp premium requires meaningful profit after service, AI, and infrastructure costs. Rising paid usage, subscription renewals and better cash conversion would strengthen the judgment. Persistent margin pressure or weak cash returns would undermine it.\n\nWhile we acknowledge the potential of META as an investment, we believe certain AI stocks offer greater upside potential and carry less downside risk. If you're looking for an extremely undervalued AI stock that also stands to benefit significantly from Trump-era tariffs and the onshoring trend, see our free report on the best short-term AI stock .\n\nThis article is originally published at Insider Monkey .\n\nMeta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer\n\nMeta Platforms, Inc. (META)'s Tells You How Cool Ryan Reynolds Is, Says Jim Cramer Turning Conversations Into Business Infrastructure\n\nMeta Platforms, Inc. (NASDAQ:META) is extending the offer through Business Agent, whic",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-20",
+      "Time": "21:41:13",
+      "Source": "Yahoo奇摩股市",
+      "Title": "快訊》台指期夜盤重返47K！ 企業財報助攻 道指噴漲700點",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-ai%E4%BA%A4%E6%98%93%E6%81%90%E6%85%8C%E5%86%8D%E8%87%A8-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%99%B746k%E4%BF%9D%E8%A1%9B%E6%88%B0-%E8%B2%BB%E5%8D%8A%E4%B8%8B%E6%AE%BA1-134113742.html",
+      "Content": "（23：00更新）本周Meta、特斯拉等科技巨頭密集發布財報，市場對於AI投資能否延續漲勢仍有疑慮，AI相關交易持續承壓，投資者普遍保持謹慎。台指期夜盤稍早一度走跌205點，報46136點，但隨著周二（20日）美股早盤主要指數同步走高，費城半導體指數翻紅走強，台指期夜盤同步急拉，一度飆漲757點，報47098點。\n\n周二（20日）美股一開盤，主要指數漲跌互見。道瓊工業指數小漲約100點，以科技股為主的那斯達克指數走跌逾150點。但在強勁企業財報與油價回落帶動下，道瓊工業指數開高走高，早盤一度飆漲逾700點，那斯達克指數翻紅小漲逾100點。與台股連動密切的費城半導體指數更從走跌2.4%，翻紅小漲逾1%。\n\n截至台北時間20日晚間10點50分，道瓊工業指數上漲678.46點（或1.31%），暫報52644.49點；那斯達克指數上漲125.411點（或0.47%），暫報26556.297點；標普500指數上漲50.01點（或0.65%），暫報7740.74點；費城半導體指數上漲84.44點（或0.75%），暫報11400.78點。\n\n5大科技巨頭當中，僅亞馬遜走強0.71%，蘋果跌0.44%，谷歌母公司Alphabet跌0.43%，微軟跌0.39%，臉書母公司Meta跌1.51%。半導體類股方面，輝達漲0.52%，超微漲1.55%，台積電ADR漲1.62%，聯電ADR跌0.60%。\n\n費城半導體指數周一雖上漲1.6%，終結了自2008年以來持續時間最長的8連跌走勢，然而標普500指數中仍約有65%的成分股下跌，分析師指出，這顯示反彈缺乏廣泛基礎。\n\n滙豐首席經濟學家Frederic Neumann認為，投資人仍處於避險模式，債券殖利率上升與能源價格黏性居高是核心憂慮所在，「對於AI資產熱潮的持續性，市場疑問依然揮之不去，融資成本走高正令項目存在延期甚至取消的風險 。」\n\n【看原文連結】",
+      "Language": "zh"
     },
     {
       "Ticker": ".SPX",
