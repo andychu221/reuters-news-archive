@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-22T06:35:15.651Z",
-  "total_news_count": 107,
+  "last_updated": "2026-10-22T06:53:03.549Z",
+  "total_news_count": 126,
   "news": [
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-22",
+      "Time": "12:20:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《DJ在線》NAND擴產加速，AI需求牽動供需",
+      "URL": "https://tw.stock.yahoo.com/news/dj%E5%9C%A8%E7%B7%9A-nand%E6%93%B4%E7%94%A2%E5%8A%A0%E9%80%9F-ai%E9%9C%80%E6%B1%82%E7%89%BD%E5%8B%95%E4%BE%9B%E9%9C%80-042000070.html",
+      "Content": "MoneyDJ新聞 2026-10-22 12:20:06 周佩宇 發佈\n\nAI推論帶動企業級SSD需求，市場預估2026年相關位元需求成長逾八成，成為NAND Flash主要動能，台股相關廠商包括旺宏（2337）、華邦電（2344）、群聯（8299），以及模組廠威剛（3260）、十銓（4967）、宜鼎（5289）、宇瞻（8271）等。展望2027年，國際大廠製程升級、日本新廠爬坡與中國長江存儲擴產將增加供給，但PC、手機降規與AI儲存需求分化，市場對供需何時轉鬆仍有不同看法。\n\nNAND新增供給不能只看晶圓投片量，提高堆疊層數、調整TLC與QLC組合及改善良率，都可能增加位元產出。如三星正轉進286層V9 NAND，該製程月產出目標由2026年底5,000片，提高至2027年底4萬片。SK海力士大連廠也規劃由192層轉向240層以上產品；韓國廠區則提高321層比重，目標2026年底占韓國NAND產能約五成。其新建M17廠首座無塵室預計2028年12月啟用。美光下一代NAND製程規劃2027下半年量產，新加坡新廠則預計2028下半年開始產出，明年增量仍以既有廠升級為主。\n\n日本方面，鎧俠與Sandisk合資北上K2廠已啟用，2026年7月宣布開始生產第10代3D Flash，後續爬坡是明年供給觀察重點。台灣旺宏則擴充NOR、3D NAND產能，較新的市場預估為2027年第四季新增約2,100片3D NAND、4,000片12吋NOR月產能，主要自2028上半年貢獻產出，時程仍須以公司更新為準。\n\n中國長江存儲武漢第三廠，據路透報導預計2026年底運作，2027年月產能目標5萬片；另兩座規劃中新廠，各有滿載月產10萬片設計規模，但尚無確定投產日，不能全部計入明年。長江亦開發低功耗DRAM，部分新產能可能轉作DRAM，分配仍待確認；長鑫跨入NAND則以研發產線規劃為主，尚不足以列為明年大規模商業供給。\n\n中國擴產是否導致紅海競爭，須看實際良品產出、產品成本及客戶採用。新增供給即使留在中國，也可能替代進口、影響全球訂單；但企業級SSD還涉及控制晶片、韌體、耐用度與系統驗證，不能將新增NAND晶圓全部等同可立即交付的企業級SSD。\n\n需求端，AI儲存已由模型與資料集，延伸至推論時的即時檢索、向量資料庫及KV Cache。NVIDIA推出CMX情境記憶體儲存架構，以Flash在GPU叢集層級承接PB級共享上下文容量，協助重用快取、降低重複運算。隨長上下文及代理式AI部署擴大，高容量SSD需求增加，部分QLC SSD也同步帶動控制器所需DRAM用量。\n\n不過，消費市場仍具影響力。研調資料顯示，伺服器占NAND位元需求逾四成，手機與筆電合計仍近四成。PC品牌已調降主流機種SSD容量控制成本，採購量與搭載容量同步收縮，手機端也受漲價與換機遞延壓抑。若消費需求減少快於AI增量，製程升級與中國擴產就可能加速缺口收斂。\n\n另，鎧俠部分舊世代NAND產品已進入停止供應過渡期，出貨延續至2028年底，現有供應並不代表重新擴產。大宗TLC、QLC增產，也不等於車用、工控所需SLC、MLC及NOR同步寬鬆。華邦電、旺宏與中國兆易創新、普冉、東芯等業者，仍須依產品規格、認證與取得的製造產能比較；對台灣控制晶片及模組廠而言，企業級、工控產品占比與高價庫存消化，將比單看NAND漲跌更能反映營運差異。\n\n《DJ在線》2027年擴產待爬坡，DRAM需求續增\n\nAI旺 台灣主要IT廠營收增逾4成、續破2兆、創史高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
     {
       "Ticker": "META",
       "Date": "2026-10-22",
@@ -11,6 +21,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-delivers-another-blowout-earnings-040502818.html",
       "Content": "Meta Platforms (NASDAQ:META) came into its third-quarter earnings report, riding a bullish wave after its release of Muse, its AI personal agent that has topped the app download charts.\n\nThe launch of Muse and its frontier model, Muse Wonder, has helped dispel the notion that Meta is just an advertising business and alleviates one of the biggest risks facing the company, as nearly all of its revenue comes from advertising.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nThe third-quarter report shows the Facebook parent's momentum continuing to build, and it bodes well for its future. Here's what investors need to know about the latest report.\n\nImage source: Getty Images.\n\n1. Meta is executing across the board\n\nIt's hard to find a flaw in Meta's latest quarter. Revenue rose 26% to $64.6 billion, which topped expectations at $63.4 billion. On the bottom line, the company reported earnings per share of $3.83 due to the impact of its $18.59 billion settlement over litigation around teen health and social media and a $9.89 billion charge it took as part of that. Adjusted for that, it would have finished with $22.9 billion in operating income and $7.40 in earnings per share.\n\nMeta's ad business continued to deliver strong results with ad impressions up 10% and the average price per ad up by 14%, showing the company is delivering results for advertisers.\n\nThe company also delivered those results with 15% fewer employees, as it cut its headcount by roughly 10,000 in layoffs earlier this year, freeing up more cash to invest in AI.\n\nThe company even sees a narrower loss in its AI-focused reality labs division, calling for a loss of $18 billion-$19 billion, which is still enormous, but is at least trending in the right direction. It forecast losses in that segment to narrow to around $15 billion next year, a clear positive sign.\n\n2. Meta sounds more bullish than ever on the future\n\nMeta's ad business is delivering blockbuster results, but the company also seems to have a swagger from its momentum in AI and the Muse launch that it didn't previously have.\n\nIts CFO outlook commentary said, \"Our AI investments are already delivering substantial incremental advertising revenue through stronger engagement, better recommendations, and more efficient monetization.\" The company also called for strong overall revenue growth to continue through 2027.\n\nStory Continues\n\nCEO Mark Zuckerberg also shared that more than 10 million people in North America had set up Muse personal agents, and the company expects to eventually have billions of Muse users. Zuckerberg essentially said that he thought Muse could double the company's revenue over time, saying he expected Muse to reach a higher average revenue per user than it earns from advertising in the U.S. He also noted shopping has been the most popular use case, which is clearly monetizable for a company that has the world's second-biggest advertising business, and has half of the world on its platforms.\n\n3. Meta is issuing a stock split\n\nFor the first time since its 20212 IPO, Meta is splitting its stock. The company is issuing one share of a new Class C non-voting stock for each share of Class A and Class B supervoting shares.\n\nEffectively, the stock dividend will act as a 2-for-1 split, and the company expects the share price to reflect that once the stock dividend is executed on Jan. 19, 2027.\n\nManagement argued that creating a new class of non-voting shares would give it more flexibility in raising cash and in employee compensation. Additionally, the board of directors sees it as a way to continue maximizing long-term shareholder value and to keep Mark Zuckerberg at the helm of Meta.\n\nThough stock splits don't change the fundamentals of a stock, investors still like them, and this one seems deserved with Meta stock trading around $700/share.\n\nOverall, with strong growth in the core business and the emergence of AI, Meta looks well-positioned for further growth, especially as the stock trades at a discount to the S&P 500.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2344.TW, 2408.TW",
+      "Date": "2026-10-22",
+      "Time": "11:49:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《DJ在線》2027年擴產待爬坡，DRAM需求續增",
+      "URL": "https://tw.stock.yahoo.com/news/dj%E5%9C%A8%E7%B7%9A-2027%E5%B9%B4%E6%93%B4%E7%94%A2%E5%BE%85%E7%88%AC%E5%9D%A1-dram%E9%9C%80%E6%B1%82%E7%BA%8C%E5%A2%9E-034900483.html",
+      "Content": "MoneyDJ新聞 2026-10-22 11:49:08 周佩宇 發佈\n\nAI伺服器2027年出貨量預估成長近36%，需求也延伸至CPU端DRAM，帶動全球記憶體廠加速擴產。台股相關業者包括南亞科(2408)、華邦電(2344）。即使不計HBM，一般DRAM仍有伺服器出貨及搭載量增加支撐；不過，中國長鑫擴產、PC降規與國際大廠保留成熟產品供應，也使明年競爭格局更受關注。\n\n海外新增供給主要來自三星平澤、SK海力士清州與龍仁，以及美光台灣銅鑼、愛達荷等據點。三星持續推進P4先進DRAM投資，P5第一階段據韓國設備供應鏈消息，爭取2027年5至6月搬入設備；海力士則加快M15X量產，龍仁Y1首座無塵室預計2027年2月啟用。這些廠區包含HBM與一般DRAM配置，且裝機後仍須驗證及良率爬坡，不能將全部規模直接視為明年新增供給。\n\n美光9月底最新規劃，愛達荷ID1預計2027年中開始晶圓產出，銅鑼廠同期開始具規模產品出貨；愛達荷ID2與日本DRAM擴建則至2028年底才有初期產出。美光指出，新廠通常須在初期產出後再爬坡數季，供給貢獻才較明顯，顯示明年雖有新產能加入，全年增量仍受投產時點限制。\n\n台廠方面，南亞科林口5A新廠預計2027年第一季裝機，年底才可能少量貢獻，目標2028年底月投片3萬片、2030年底5萬片，公司表示明年整體產能基本不增。華邦電增量主要來自高雄Module A，月產能規劃由1.5萬片提高至2.4萬片，搭配16奈米轉進，2027年起貢獻較明顯；Module B最快2029年底量產。力積電(6770)與美光合作的1P製程設備，則預計明年第一季到位、第二季試產。\n\n中國長鑫是新增供給的重要變數。市場預估月產能將由約32萬片，朝2027年42萬片推進，涵蓋合肥、北京與上海布局，產品逐步提高DDR5、LPDDR5比重。不過，這是產能水準預估，並非全年產量成長三成；近期4F²架構進展，也仍須落實良率、成本及客戶驗證，才能轉化為有效出貨。\n\n中國產能即使優先滿足內需，仍可能減少進口、改變國際原廠訂單分配，因此不能視為對全球供需沒有影響。明年是否走向價格競爭，須看長鑫實際釋出的產品規格與良品數量，以及國際原廠如何調整供應，不能僅以宣布擴產判定市場將轉為紅海。\n\n需求端，AI系統對一般DRAM的用量已明顯提高。NVIDIA公開規格顯示，GB200 NVL72機櫃CPU端配置約17TB LPDDR5X，Vera Rubin NVL72最高54TB，容量上限約為前者3.2倍。代理式AI也帶動通用型伺服器與RDIMM採購，主機記憶體承接資料處理、暫存與部分KV Cache，需求不再侷限於GPU伺服器。\n\n但配置上限不等於平均搭載量，因供應吃緊使伺服器單機搭載量成長較原先預期略低，以支援更多整機出貨。消費端也面臨漲價、降規及換機遞延，市場預估2027年筆電出貨仍減少低個位數，若成本完整轉嫁，衰退可能擴至高個位數；因此AI出貨成長，仍須與PC、手機用量變化合併衡量。\n\n此外，海外大廠也並非全面退出利基型市場，美光維吉尼亞Manassas廠導入1α製程，支援DDR4、LPDDR4等長生命週期產品，投資逾20億美元，規劃將該廠DDR4晶圓供應提高至原先四倍，服務車用、工業及國防航太客戶。這類供應與大量回補消費市場不同，但仍代表台廠須面對國際原廠與中國業者競爭。2027年一般DRAM供需能否轉鬆，關鍵仍是新增良品產出，能否追上伺服器數量與用量的雙重增加。\n\n《DJ在線》NAND擴產加速，AI需求牽動供需\n\nAI旺 台灣主要IT廠營收增逾4成、續破2兆、創史高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -71,6 +91,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-fall-investors-014050459.html",
       "Content": "Investing.com-- U.S. stock futures fell on Wednesday evening as investors assessed quarterly results from Meta Platforms (NASDAQ:META) and Tesla (NASDAQ:TSLA), with attention shifting to whether strong artificial intelligence spending can justify elevated valuations across the technology sector.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nS&P 500 Futures fell 0.4% to 7,768.25 points, while Nasdaq 100 Futures slipped 0.7% to 29,800.00 points by 20:58 ET (00:58 GMT). Dow Jones Futures edged 0.3% lower to 52,879.0 points.\n\nThe reports from the two companies, released after the regular market close, marked a key test for investor appetite for large-cap technology stocks as Wall Street moved deeper into the third-quarter earnings season.\n\nTesla shares fell more than 3% in extended trading despite beating analysts' expectations for quarterly earnings and revenue.\n\nTesla reported adjusted earnings of 48 cents per share on revenue of $28.05 billion for the third quarter, topping analysts' estimates of 45 cents per share and $27.92 billion in revenue. However, heavy investment in artificial intelligence and robotaxis continued to weigh on profitability, keeping investors focused on the returns from its spending.\n\nMeanwhile, Meta shares rose more than 2% after reporting stronger-than-expected revenue and a positive outlook for the current quarter.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nMeta reported earnings of $3.83 per share, ahead of the $3.57 expected by analysts, while revenue climbed 26% from a year earlier to $64.6 billion, exceeding estimates of $63.34 billion. Its results were supported by advertising growth and increased engagement across its platforms, although a large legal settlement added to quarterly costs.\n\nThe contrasting share-price reactions highlighted investors' scrutiny of both earnings performance and companies' spending plans, particularly as technology groups pour billions of dollars into AI infrastructure and new products.\n\nEarlier in Wednesday's session, U.S. equities had drawn support from strong results from SpaceX (NASDAQ:SPCX) and Super Micro Computer (NASDAQ:SMCI).\n\nSpaceX shares surged after the company reported its first profit as a public company, while investors also weighed the possibility of a closer relationship between Elon Musk's SpaceX and Tesla.\n\nStory Continues\n\nThe NASDAQ Composite rose 1.1% during Wednesday's regular session, while the S&P 500 gained 0.6% and the Dow Jones Industrial Average ended 0.7% higher.\n\nInvestors were also monitoring elevated oil prices and interest-rate risks. Brent crude traded above $110 a barrel in Asian trading Thursday amid geopolitical uncertainty, while U.S. inflation pressures have raised concerns about the Federal Reserve's policy outlook ahead of its meeting next week.\n\nAttention now turns to Thursday's earnings from companies including Procter & Gamble (NYSE:PG), Western Digital (NASDAQ:WDC), Lockheed Martin (NYSE:LMT), and Honeywell (NASDAQ:HON).\n\nOriginal Article\n\nU.S. stock futures fall as investors weigh Tesla, Meta earnings\n\nElon Musk's endorsement of SpaceX-Tesla merger sparks insider concerns- Reuters\n\nAxel Springer pitched deal to buy TikTok's European arm, FT reports",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-22",
+      "Time": "09:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中環10/19~21處分南亞科914張，損失約974萬元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%92%B010-19-21%E8%99%95%E5%88%86%E5%8D%97%E4%BA%9E%E7%A7%91914%E5%BC%B5-%E6%90%8D%E5%A4%B1%E7%B4%84974%E8%90%AC%E5%85%83-010600726.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2323)中環-公告本公司處分有價證券\n\n1.證券名稱:南亞科 普通股\n\n2.交易日期:115/10/19~115/10/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年10月21日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量（仟股）：914\n\n每單位價格（元）：431.50\n\n交易總金額（元）：394,392,610\n\n6.處分利益（或損失）（取得有價證券者不適用）:處分損失9,744,106元\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n持有餘額:1,411,000股、金額:647,521,215元\n\n持股比例:0.04%、權利受限情形: 無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:86.18%\n\n占歸屬於母公司業主之權益比例:115.87%\n\n營運資金數額:8,285,327仟元\n\n10.取得或處分之具體目的:投資組合\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:否\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:已於115/09/30授權有權交易人在115年第四季期間，得於集中交易市場進行有價證券交易\n\n《DJ在線》2027年擴產待爬坡，DRAM需求續增\n\nAI旺 台灣主要IT廠營收增逾4成、續破2兆、創史高\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "LRCX",
@@ -633,6 +663,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-21",
+      "Time": "19:59:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "力積電：第4季營收估增2位數　台日星就新廠研調",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8A%9B%E7%A9%8D%E9%9B%BB-%E7%AC%AC4%E5%AD%A3%E7%87%9F%E6%94%B6%E4%BC%B0%E5%A2%9E2%E4%BD%8D%E6%95%B8-%E5%8F%B0%E6%97%A5%E6%98%9F%E5%B0%B1%E6%96%B0%E5%BB%A0%E7%A0%94%E8%AA%BF-115937899.html",
+      "Content": "（中央社記者張建中台北2026年10月21日電）晶圓代工廠力積電 (6770) 預期，第4季3D AI代工營收可望逐漸恢復動能，加上邏輯代工價格調漲，整體季營收可望成長2位數水準。因無塵室空間已用盡，已就新廠規劃於台灣、新加坡及日本等地進行研調。\n\n力積電今天召開線上法人說明會，公布第3季營運結果。受惠產品平均售價上揚，力積電第3季營收攀升至新台幣213億元，季增23%。\n\n因產品平均售價上揚，加上銅鑼廠停線，及整體利用率上升，力積電第3季毛利率48%，較第2季揚升20個百分點，稅後淨利65億元，季增98%，每股純益1.38元，累計前3季每股純益5.42元。\n\n力積電表示，全球動態隨機存取記憶體（DRAM）市場仍處於供需失衡狀態，隨著DRAM大廠積極拓展高頻寬記憶體（HBM），逐步退出利基型DRAM，需求將持續吃緊，利基型DRAM晶圓代工價格維持高檔。\n\n至於與美光合作的DRAM 1P製程進展順利，機台預計2027年第1季到位，第2季進入試產。\n\n邏輯代工業務方面，力積電指出，下半年晶圓廠產能普遍滿載，成熟製程除2026的代工價格均已全面調漲外，2027亦計劃目標調漲10%至20%，目前已積極與客戶協商以長期合約並綁定2027年的價與量，產能分配會以長期合約客戶優先。\n\n力積電表示，銅鑼廠預計於2027年第1季前完成交接給美光（Micron），2026年下半年受限於銅鑼廠設備大規模停線移機，導致晶圓堆疊及矽中介層在第3季產出明顯下滑，3D AI代工營收同步下降。\n\n隨著晶圓堆疊及矽中介層於新竹廠陸續復線，3DAI代工營收可望自第4季起逐漸恢復動能，並在2027年逐季上揚。此外，邏輯代工價格調漲，預期第4季整體營收可望成長2位數。\n\n力積電指出，因無塵室空間已用盡，已就新廠的規劃，於台灣、新加坡及日本等地進行調研，聚焦在3DAI代工的產能擴張，聯合策略客戶就共同投資的可行性進行評估，以布局2028年之後的市場成長契機。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "KLAC, MKSI",
       "Date": "2026-10-21",
       "Time": "19:15:00",
@@ -661,6 +701,86 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-138-6-million-110131257.html",
       "Content": "This article first appeared on GuruFocus .\n\nAfter three straight days of net selling, ETF flows turned positive on Monday, with funds buying a net $138.6 million of Lam Research. Thirty-two ETFs were buying versus 22 selling. The prior three sessions saw net outflows of $5.9 million, $52.6 million and $22.9 million, following a $141.7 million inflow on Oct. 13.\n\nWarning! GuruFocus has detected 2 Warning Sign with LRCX.\n\nIs LRCX fairly valued? Test your thesis with our free DCF calculator.\n\nSee which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\nSee all ETF and guru trades in LRCX on its LRCX guru trades page .\n\nWhich ETFs bought LRCX on Monday?\n\nThe largest buyers by dollar value were QQQ ($72.8 million), SOXX ($51.3 million) and XLK ($9.6 million). In all, 32 ETFs added shares and 22 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+267,306\n\n$72.8M\n\n1.47%\n\nSOXX\n\n+188,608\n\n$51.3M\n\n3.65%\n\n+35,343\n\n$9.6M\n\n2.03%\n\n+13,456\n\n$3.7M\n\n1.49%\n\nQQQM\n\n+11,040\n\n$3.0M\n\nSOXQ\n\n+6,025\n\n$1.6M\n\n3.69%\n\n+4,752\n\n$1.3M\n\n0.62%\n\nMTUM\n\n+4,696\n\n2.17%\n\nInvesco QQQ led the buying with a $72.8 million increase, lifting its stake by 1.03% to 26,297,433 shares. iShares Semiconductor ETF ( SOXX ) added $51.3 million, a 3.45% stake increase, while Technology Select Sector SPDR ( XLK ) bought $9.6 million. Lam Research operates in the Technology sector's Semiconductor Equipment & Materials industry with a market cap of $329.7 billion.\n\nHave ETFs been buying or selling LRCX lately?\n\nOver the last 5 reported days, ETFs were net buyers on 2 and net sellers on 3, so the recent trend is mostly selling.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nOct. 19\n\n$138.6M\n\nOct. 16\n\n-$5.9M\n\nOct. 15\n\n-$52.6M\n\nOct. 14\n\n-$22.9M\n\nOct. 13\n\n$141.7M\n\nWhat does LRCX do?\n\nLam Research, incorporated in 1980 and headquartered in Fremont, California, is a global supplier of wafer fabrication equipment and services to the semiconductor industry, with leadership positions in deposition, etch, and clean process markets.\n\nLam Research reported trailing-12-month revenue of $23.23 billion, up 28.9% year over year, with gross margin of 50.5% and net margin of 31.3%. Its P/E is 45.71, P/B 26.43 and P/S 14.3. The GF Score is 87, and the GF Value of $160.52 compares with a price of $263.45. Dividend yield is 0.44% and the stock is up 54.36% year to date.\n\nLRCX at a glance\n\nMeasure\n\nPrice\n\n$263.45\n\nMarket cap\n\n$329.70B\n\nRevenue (trailing 12 months)\n\n$23.23B\n\nRevenue growth (1 year)\n\n+28.9%\n\nGross margin\n\n50.5%\n\nNet margin\n\n31.3%\n\n45.71\n\n26.43\n\n14.30\n\nGF Score\n\n87/100\n\nGF Value\n\n$160.52\n\nDividend yield\n\n0.44%\n\nYear-to-date return\n\n+54.36%\n\nStory Continues\n\nCompare LRCX's share price with its GF Value , see recent insider trades , or check which gurus own LRCX .\n\nWhat should investors watch next for LRCX?\n\nWatch whether ETF flows into Lam Research continue after Monday's reversal, or whether the three-day selling streak resumes.\n\nBased on ETF holdings changes reported for Oct. 19, 2026.\n\nWhat else did ETFs trade on Monday?\n\n45 ETFs Add to NVIDIA (NVDA) Holdings on Oct. 19\n\n43 ETFs Add to Apple (AAPL) Holdings on Oct. 19\n\nAdvanced Micro Devices (AMD) Sees $332.1 Million in Net ETF Buying on Oct. 19\n\nMicron (MU) Sees $326.9 Million in Net ETF Buying on Oct. 19\n\nETFs Bought $250 Million of Intel (INTC) on Oct. 19\n\nLRCX GF Value chart\n\nLRCX GF Value chart See which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\n<p class=\"text text-block paragraph text-left neo-font-paragraph-xl-reg yf-18d6y07\" style=\"text-decora",
       "Language": "en"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-21",
+      "Time": "18:12:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "力積電自結前三季合併獲利240.22億元，每股稅後5.42元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8A%9B%E7%A9%8D%E9%9B%BB%E8%87%AA%E7%B5%90%E5%89%8D%E4%B8%89%E5%AD%A3%E5%90%88%E4%BD%B5%E7%8D%B2%E5%88%A9240-22%E5%84%84%E5%85%83-%E6%AF%8F%E8%82%A1%E7%A8%85%E5%BE%8C5-42%E5%85%83-101200410.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(6770)力積電-公告本公司115年第三季自結合併損益\n\n1.事實發生日:115/10/21\n\n2.公司名稱:力晶積成電子製造股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n公告本公司115年第三季自結合併損益：\n\n(單位：新台幣仟元)\n\n115年7 - 9月 115年1 - 9月\n\n-------------- --------------\n\n合併營業收入淨額： 21,342,792 52,205,438\n\n合併營業毛利(損)： 10,148,641 16,425,779\n\n合併營業淨利(損)： 7,830,361 25,740,554\n\n合併稅前淨利(損)： 8,140,470 26,360,362\n\n合併本期淨利(損)： 6,499,801 24,022,151\n\n基本每股盈餘(虧損)(元)： 1.38元 5.42元\n\n6.因應措施:無\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時 符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):以上資訊係\n\n本公司自結數，尚未經會計師核閱。\n\n力積電擴編3DAI產線，鎖定2028年後需求\n\n力積電 明年報價喊漲(經濟日報，無內文)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-21",
+      "Time": "17:39:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】力積電115年第三季自結合併損益",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8A%9B%E7%A9%8D%E9%9B%BB115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E8%87%AA%E7%B5%90%E5%90%88%E4%BD%B5%E6%90%8D%E7%9B%8A-093949241.html",
+      "Content": "日　　期：2026年10月21日\n\n公司名稱：力積電 (6770)\n\n主　　旨：力積電115年第三季自結合併損益\n\n發言人：譚仲民\n\n說　　明：\n\n1.事實發生日:115/10/21\n\n2.公司名稱:力晶積成電子製造股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n公告本公司115年第三季自結合併損益：\n\n(單位：新台幣仟元)\n\n115年7 - 9月 115年1 - 9月\n\n-------------- --------------\n\n合併營業收入淨額： 21,342,792 52,205,438\n\n合併營業毛利(損)： 10,148,641 16,425,779\n\n合併營業淨利(損)： 7,830,361 25,740,554\n\n合併稅前淨利(損)： 8,140,470 26,360,362\n\n合併本期淨利(損)： 6,499,801 24,022,151\n\n基本每股盈餘(虧損)(元)： 1.38元 5.42元\n\n6.因應措施:無\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n\n以上資訊係本公司自結數，尚未經會計師核閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-21",
+      "Time": "17:22:45",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】力積電取得半導體產品生產製造設施及機器設備公告",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E5%8F%96%E5%BE%97%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E5%93%81%E7%94%9F%E7%94%A2%E8%A3%BD%E9%80%A0%E8%A8%AD%E6%96%BD%E5%8F%8A%E6%A9%9F%E5%99%A8%E8%A8%AD%E5%82%99%E5%85%AC%E5%91%8A-092245395.html",
+      "Content": "日　　期：2026年10月21日\n\n公司名稱：力積電 (6770)\n\n主　　旨：力積電取得半導體產品生產製造設施及機器設備公告\n\n發言人：譚仲民\n\n說　　明：\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n半導體產品生產製造設施及機器設備\n\n2.事實發生日:115/6/9~115/10/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:總經理\n\n民國115年10月21日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易單位數量：一批\n\n每單位價格：依雙方約定\n\n交易總金額：依雙方約定結果，新台幣1,062,396仟元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\n交易相對人：Applied Materials South East Asia Pte. Ltd.\n\n與公司之關係：無\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n(1)交付或付款條件：依雙方約定\n\n(2)契約限制條款及其他重要約定事項：無\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n交易之決定方式：比價及議價\n\n價格決定之參考依據：依據原廠提供之報價單與其他廠商之報價單作比價、\n\n議價後，由採購部及使用單位經核決權限後決定之。\n\n決策單位：總經理\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n供晶圓產品生產製造使用\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-21",
+      "Time": "17:22:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科廠房興建工程",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%BB%A0%E6%88%BF%E8%88%88%E5%BB%BA%E5%B7%A5%E7%A8%8B-092239842.html",
+      "Content": "日　　期：2026年10月21日\n\n公司名稱：南亞科 (2408)\n\n主　　旨：南亞科廠房興建工程\n\n發言人：李培瑛\n\n說　　明：\n\n1.契約種類:廠房興建工程\n\n2.事實發生日:115/10/21~115/10/21\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:總經理\n\n民國115年10月21日\n\n5.契約相對人及其與公司之關係:\n\n台塑工程股份有限公司；關係人\n\n6.契約主要內容（含契約總金額、預計參與投入之金額及契約起迄日期）\n\n、限制條款及其他重要約定事項:\n\n廠房興建相關工程；預計投入金額為新台幣16,000,000元；\n\n契約起迄日期、限制條款及其他重要約定事項：依契約書約定內容\n\n7.專業估價者事務所或公司名稱及其估價結果:\n\n8.不動產估價師姓名:\n\n9.不動產估價師開業證書字號:\n\n10.取得之具體目的:\n\n供生產/營運使用\n\n11.本次交易表示異議之董事意見:\n\n12.本次交易為關係人交易:是\n\n13.監察人承認或審計委員會同意日期:\n\n14.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n15.是否尚未取得估價報告:否或不適用\n\n16.尚未取得估價報告之原因:\n\n17.估價結果有重大差異時，其差異原因及會計師意見:\n\n18.會計師事務所名稱:\n\n19.會計師姓名:\n\n20.會計師開業證書字號:\n\n21.前已就同一件事件發布重大訊息日期: 不適用\n\n22.其他敘明事項:\n\n本案將另提審計委員會及董事會",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-21",
+      "Time": "17:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "力積電 公告本公司115年第三季自結合併損益",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8A%9B%E7%A9%8D%E9%9B%BB-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E8%87%AA%E7%B5%90%E5%90%88%E4%BD%B5%E6%90%8D%E7%9B%8A-091400525.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(6770)力積電-公告本公司115年第三季自結合併損益\n\n1.事實發生日:115/10/21\n\n2.公司名稱:力晶積成電子製造股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.發生緣由:\n\n公告本公司115年第三季自結合併損益：\n\n(單位：新台幣仟元)\n\n115年7 - 9月 115年1 - 9月\n\n-------------- --------------\n\n合併營業收入淨額： 21,342,792 52,205,438\n\n合併營業毛利(損)： 10,148,641 16,425,779\n\n合併營業淨利(損)： 7,830,361 25,740,554\n\n合併稅前淨利(損)： 8,140,470 26,360,362\n\n合併本期淨利(損)： 6,499,801 24,022,151\n\n基本每股盈餘(虧損)(元)： 1.38元 5.42元\n\n6.因應措施:無\n\n7.其他應敘明事項(若事件發生或決議之主體係屬公開發行以上公司，本則重大訊息同時\n\n符合證券交易法施行細則第7條第9款所定對股東權益或證券價格有重大影響之事項):\n\n以上資訊係本公司自結數，尚未經會計師核閱。\n\n力積電 明年報價喊漲(經濟日報，無內文)\n\n力積電：第4季營收估增2位數　新廠規劃鎖定台日星\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-21",
+      "Time": "13:39:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中國信託證券認購(售)權證終止上市彙總表",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E8%AD%89%E5%88%B8%E8%AA%8D%E8%B3%BC-%E5%94%AE-%E6%AC%8A%E8%AD%89%E7%B5%82%E6%AD%A2%E4%B8%8A%E5%B8%82%E5%BD%99%E7%B8%BD%E8%A1%A8-053900809.html",
+      "Content": "最後交易日\n\n終止上市日\n\n行使比例\n\n聯電中信5C售03\n\n03610T\n\n115.12.17\n\n115.12.22\n\n78.65\n\n0.051\n\n南亞科中信5C售02\n\n03622T\n\n115.12.21\n\n115.12.24\n\n299.04\n\n0.01\n\n金像電中信5C購01\n\n046580\n\n115.11.27\n\n115.12.02\n\n933.89\n\n0.004\n\n聯發科中信5C購01\n\n046581\n\n1,950.32\n\n0.005\n\n智邦中信5C購01\n\n046781\n\n115.11.30\n\n115.12.03\n\n1,517.98\n\n0.003\n\n智邦中信5C購02\n\n046782\n\n1,488.22\n\n0.006\n\n南亞中信5C購01\n\n046961\n\n115.12.01\n\n115.12.04\n\n88.45\n\n0.201\n\n世芯中信5C購01\n\n046967\n\n世芯-KY\n\n4,465.12\n\n0.001\n\n緯穎中信5C購01\n\n046971\n\n1,889.75\n\n台達電中信5C購01\n\n047203\n\n115.12.07\n\n1,193.76\n\n台達電中信5C購02\n\n047204\n\n1,475.78\n\n鴻海中信5C購01\n\n047205\n\n271.90\n\n0.021\n\n國巨中信5C購01\n\n047206\n\n297.86\n\n0.015\n\n金像電中信5C購02\n\n047207\n\n893.68\n\n京元電中信5C購01\n\n047208\n\n京元電子\n\n284.68\n\n0.016\n\n京元電中信5C購02\n\n047209\n\n322.40\n\n亞翔中信5C購01\n\n047212\n\n639.32\n\n0.012\n\n鴻海中信5C購02\n\n047371\n\n115.12.08\n\n242.77\n\n國巨中信5C購02\n\n047372\n\n346.27\n\n0.02\n\n亞翔中信5C購02\n\n047376\n\n677.15\n\n台塑中信5C購01\n\n047553\n\n115.12.09\n\n59.44\n\n0.505\n\n緯穎中信5C購02\n\n047754\n\n115.12.10\n\n2,280.74\n\n南電中信5C購01\n\n047756\n\n399.16\n\n南電中信5C購02\n\n047757\n\n349.27\n\nT50反1中信5C購02\n\n048096\n\n元大台灣50反1\n\n115.12.14\n\n16.88\n\n道瓊反中信5C購01\n\n048097\n\n國泰美國道瓊反1\n\n5.50\n\n台達電中信5C購04\n\n048098\n\n1,281.30\n\n0.007\n\n鴻海中信5C購03\n\n048099\n\n339.88\n\n智邦中信5C購04\n\n048101\n\n1,324.52\n\n定穎控中信5C購01\n\n048106\n\n定穎投控\n\n154.03\n\n0.03\n\n亞翔中信5C購03\n\n048107\n\n640.29\n\n0.009\n\n愛普中信5C購01\n\n048108\n\n605.84\n\n國巨中信5C購03\n\n048264\n\n115.12.15\n\n365.63\n\n金像電中信5C購04\n\n048267\n\n917.51\n\n0.013\n\n威盛中信5C購01\n\n048268\n\n96.94\n\n0.07\n\n華新科中信5C購01\n\n048270\n\n184.02\n\n0.04\n\n台積電中信5C購01\n\n048452\n\n115.12.11\n\n115.12.16\n\n1,673.10\n\n亞翔中信5C購04\n\n048455\n\n766.41\n\nT50正2中信5C購01\n\n048673\n\n元大台灣50正2\n\n22.73\n\n0.66\n\n香港2X中信5C購01\n\n048674\n\n復華香港正2\n\n25.00\n\n道瓊銀中信5C購01\n\n048675\n\n期元大道瓊白銀\n\n78.00\n\n0.17\n\n台達電中信5C購05\n\n048676\n\n994.80\n\n亞翔中信5C購05\n\n048681\n\n805.21\n\n緯穎中信5C購03\n\n048682\n\n1,629.10\n\n台積電中信5C購03\n\n048859\n\n115.12.18\n\n2,148.87\n\n0.008\n\n世芯中信5C購02\n\n048861\n\n3,472.87\n\n緯穎中信5C購04\n\n048862\n\n1,563.94\n\n滬深2X中信5C購01\n\n049042\n\n元大滬深300正2\n\n28.00\n\n國巨中信5C購04\n\n049044\n\n248.22\n\n京元電中信5C購03\n\n049046\n\n237.23\n\n0.019\n\n臺股指中信5C購01\n\n049050\n\n臺股指數\n\n35,000.00\n\n臺股指中信5C購02\n\n049051\n\n40,888.00\n\nSGBR2X中信5C購01\n\n049216\n\n期街口布蘭特正2\n\n台積電中信5C購04\n\n049219\n\n1,784.13\n\n亞翔中信5C購06\n\n049225\n\n844.02\n\n華通中信5C購02\n\n049421\n\n115.12.23\n\n134.96\n\n道瓊銀中信5C購02\n\n049620\n\n80.00\n\n0.23\n\n台達電中信5C購07\n\n049622\n\n1,342.98\n\n鴻海中信5C購04\n\n049623\n\n291.32\n\n0.046\n\n材料中信5C購01\n\n049629\n\n材料*-KY\n\n67.43\n\n0.107\n\n台達電中信5C購08\n\n049835\n\n115.12.29\n\n1,380.78\n\n國巨中信5C購05\n\n049837\n\n327.65\n\n台積電中信5C購06\n\n049838\n\n1,982.36\n\n毅嘉中信5C購01\n\n049840\n\n88.65\n\n0.073\n\n慧洋中信5C購01\n\n049842\n\n慧洋-KY\n\n95.67\n\n0.084\n\n力積電中信5C購01\n\n049848\n\n51.83\n\n0.15\n\nAES中信5C購01\n\n049849\n\nAES-KY\n\n1,927.87\n\n台虹中信5C購01\n\n049850\n\n137.97\n\n台玻中信5C購01\n\n050092\n\n53.00\n\n聯發科中信5C購05\n\n050096\n\n1,978.60\n\n全新中信5C購01\n\n050097\n\n218.52\n\n0.035\n\n勤誠中信5C購01\n\n050104\n\n1,335.74\n\n愛普中信5C購02\n\n050253\n\n115.12.30\n\n620.74\n\n0.014\n\n元金2X中信5C購01\n\n050486\n\n期元大S&P黃金正2\n\n115.12.28\n\n115.12.31\n\n145.00\n\n道瓊銀中信5C購03\n\n050487\n\n92.60\n\n0.135\n\n金像電中信5C購05\n\n050489\n\n1,038.15\n\n創意中信5C購01\n\n050497\n\n2,986.39\n\n0.002\n\n創意中信5C購02\n\n050498\n\n3,157.61\n\n臺股指中信5C購06\n\n052142\n\n45,388.00\n\n智邦中信5C購09\n\n055615\n\n1,691.61\n\n亞翔中信5C購07\n\n055616\n\n友達中信5C購01\n\n056432\n\n22.22\n\n0.285\n\n欣興中信5C購01\n\n056437\n\n454.07\n\n定穎控中信5C購02\n\n058553\n\n208.68\n\n臺股指中信5C購07\n\n058556\n\n49,000.00\n\n0.0015\n\n臺股指中信5C購09\n\n058768\n\n50,508.00\n\n0.0012\n\n臺股指中信5C購11\n\n059665\n\n50,588.00\n\n啟碁中信5C購01\n\n059857\n\n206.52\n\n0.025\n\n佳必琪中信5C購01\n\n059985\n\n254.83\n\n0.027\n\n聯茂中信5C購01\n\n060428\n\n228.08\n\n0.018\n\n矽力中信5C購01\n\n060681\n\n矽力*-KY\n\n376.70\n\n世芯中信5C購03\n\n061070\n\n4,135.70\n\n威盛中信5C購02\n\n061388\n\n76.95\n\n0.085\n\n至上中信5C購01\n\n061395\n\n107.78\n\n0.047\n\n矽格中信5C購01\n\n063346\n\n216.58\n\n美時中信5C購01\n\n063932\n\n292.21\n\n華新科中信5C購02\n\n063937\n\n169.10\n\n南亞中信5C購02\n\n070550\n\n164.21\n\n0.036\n\n聯電中信5C購01\n\n070551\n\n181.89\n\n0.033\n\n亞翔中信5C購08\n\n070553\n\n1,198.12\n\n晶豪科中信5C購01\n\n070795\n\n328.45\n\n緯創中信5C購01\n\n070796\n\n241.16\n\n0.031\n\n聯電中信5C購02\n\n071015\n\n127.81\n\n國泰金中信5C購01\n\n071016\n\n135.17\n\n0.083\n\n華邦電中信5C購01\n\n071096\n\n234.00\n\n台新金中信5C購01\n\n071097\n\n台新新光金\n\n42.32\n\n0.26\n\n聯詠中信5C購01\n\n071098\n\n593.69\n\n技嘉中信5C購01\n\n071280\n\n497.60\n\n康舒中信5C購01\n\n071281\n\n85.54\n\n0.061\n\n南亞科中信5C購01\n\n071506\n\n498.40\n\n緯穎中信5C購05\n\n071508\n\n2,345.90\n\n玉晶光中信5C購01\n\n071683\n\n990.00\n\n十銓中信5C購01\n\n071684\n\n395.21\n\n南茂中信5C購01\n\n071685\n\n138.23\n\n漢唐中信5C購01\n\n072041\n\n1,937.74\n\n敬鵬中信5C購01\n\n072252\n\n84.95\n\n0.072\n\n富邦金中信5C購01\n\n072256\n\n154.75\n\n0.041\n\n亞光中信5C購01\n\n072258\n\n223.26\n\n0.022\n\n南亞中信5C購03\n\n072402\n\n199.04\n\n富鼎中信5C購01\n\n072573\n\n325.26\n\n台塑中信5C購02\n\n073142\n\n84.20\n\n0.081\n\n台化中信5C購01\n\n073143\n\n88.88\n\n中砂中信5C購01\n\n073358\n\n116.01.04\n\n993.34\n\n宏達電中信5C購01\n\n073360\n\n64.00\n\n華航中信5C購01\n\n073361\n\n32.71\n\n0.187\n\n聯發科中信5C售02\n\n07402U\n\n1,413.98\n\n台達電中信5C售03\n\n07490U\n\n1,004.75\n\n金像電中信5C售03\n\n07491U\n\n595.78\n\n智邦中信5C售03\n\n07506U\n\n878.05\n\n台積電中信5C售02\n\n07636U\n\n1,585.89\n\n智邦中信5C售08\n\n07637U\n\n992.15\n\n台達電中信5C售06\n\n07671U\n\n895.32\n\n聯發科中信5C售03\n\n07672U\n\n1,170.19\n\n臺股指中信5C售03\n\n07711U\n\n26,500.00\n\n0.0003\n\n臺股指中信5C售04\n\n07712U\n\n27,500.00\n\n0.0004\n\n台積電中信5C售05\n\n07733U\n\n1,288.53\n\n臺股指中信5C售05\n\n07737U\n\n30,000.00\n\n0.0002\n\n臺指反中信5C購01\n\n082641\n\n國泰臺灣加權反1\n\n3.20\n\n臺股指中信5C售08\n\n08551U\n\n32,500.00\n\nT50反1中信5C購01\n\n085788\n\n18.88\n\n臺股指中信5C售10\n\n08581U\n\n35,888.00\n\n0.0001\n\n臺股指中信5C售12\n\n08677U\n\n力積電 公告本公司115年第三季自結合併損益\n\n南亞科 公告本公司廠房興建工程\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-21",
+      "Time": "09:26:07",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股散戶Q4首選2檔！杜金龍曝友達、群創短線操作方法",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%95%A3%E6%88%B6q4%E9%A6%96%E9%81%B82%E6%AA%94-%E6%9D%9C%E9%87%91%E9%BE%8D%E6%9B%9D%E5%8F%8B%E9%81%94-%E7%BE%A4%E5%89%B5%E7%9F%AD%E7%B7%9A%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95-012607302.html",
+      "Content": "台股挑戰5萬點失利，短線已經從高點大跌3798點，跌幅將近8%，加上外資持續賣超匯出，新台幣快速貶值，引發投資人恐慌。知名分析師杜金龍給予散戶定心丸，跌點看似震撼，但相較先前18%修正其實還好。操作上，杜金龍仍以台積電為首，並分享對友達、群創、南亞、南亞科，甚至是被動元件與ABF等熱門族群的看法。\n\n長線看好台股 明年挑戰53K大關\n\n杜金龍於理財節目《Catch大錢潮》中認為這一波屬正常回檔，目前仍預估台股在明年5月前的波段高點達到53,000點至60,000點區間，若以景氣循環與歷史漲幅推估，2028年總統大選前甚至有機會挑戰8萬點。\n\n隨著台股出現波動，杜金龍自曝已在台積電2400元季線附近，分批加碼台積電，維持低檔買、高檔調節的策略，預估若台股衝上53,000點，台積電能夠站上3,000元，若挑戰80,000點，台積電將會挑戰5,000元。\n\n除了台積電之外，杜金龍認為南亞（1303）是第四季的核心標的之一，長線成交量已出現明顯籌碼換手，即使近期股價在大漲後出現震盪，依然看好中長期後市，若獲利持續上修，有機會成為台塑集團中挑戰長期高點的領頭羊。\n\n南亞、台積電重點觀察 熱門族群看法曝\n\n股價較低的友達與群創受到散戶歡迎，杜金龍認為，友達拉回至34、35元區間，技術線型相對漂亮，拉回可找買點；群創則是突破52元壓力區，後續仍有機會挑戰72元附近的相對高點，短線上兩者都應該以現股分批方式靈活操作，不宜高檔追價。\n\n至於近期較為疲弱的記憶體族群，杜金龍以南亞科為例直指，已累積龐大漲幅，近期的波動不是產業景氣反轉，比較像是大漲後的休息，中長線仍可關注南亞科的動態，但沒有必要急著追價。\n\n被動元件族群仍弱勢，尤其龍頭股國巨落後同族群的其他個股，顯示在籌碼面上缺陷，要挑戰前高仍需要時間整理。杜金龍對ABF族群的評價較高，尤其市場持續上修獲利預測，南電股價最強，欣興也有支撐，需要等待高檔整理後較佳的切入點。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-21",
+      "Time": "09:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中環10/16~20取得南亞科1,200張，計約5.08億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E7%92%B010-16-20%E5%8F%96%E5%BE%97%E5%8D%97%E4%BA%9E%E7%A7%911-200%E5%BC%B5-%E8%A8%88%E7%B4%845-011500515.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2323)中環-公告本公司取得有價證券\n\n1.證券名稱:南亞科 普通股\n\n2.交易日期:115/10/16~115/10/20\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長核決\n\n民國115年10月20日\n\n5.交易數量、每單位價格及交易總金額:\n\n交易數量（仟股）：1,200\n\n每單位價格（元）：423.54\n\n交易總金額（元）：508,253,696\n\n6.處分利益（或損失）（取得有價證券者不適用）:不適用\n\n7.與交易標的公司之關係:無\n\n8.迄目前為止，累積持有本交易證券（含本次交易）之數量、金額、持股比例及權利受限情形（如質押情形）:\n\n持有餘額:1,671,000股、金額:766,837,669元\n\n持股比例:0.05%、權利受限情形: 無\n\n9.迄目前為止，依「公開發行公司取得或處分資產處理準則」第三條所列之有價證券投資（含本次交易）占公司最近期財務報表中總資產及歸屬於母公司業主之權益之比例暨最近期財務報表中營運資金數額:\n\n占總資產比例:87.48%\n\n占歸屬於母公司業主之權益比例:117.62%\n\n營運資金數額:8,285,327仟元\n\n10.取得或處分之具體目的:投資組合\n\n11.本次交易表示異議董事之意見:無\n\n12.本次交易為關係人交易:否\n\n13.交易相對人及其與公司之關係:不適用\n\n14.監察人承認或審計委員會同意日期:不適用\n\n15.前已就同一件事件發布重大訊息日期: 不適用\n\n16.其他敘明事項:已於115/09/30授權有權交易人在115年第四季期間，得於集中交易市場進行有價證券交易\n\n中國信託證券認購(售)權證終止上市彙總表\n\n上市認購(售)權證10/22彙總表\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "KLAC",
@@ -805,6 +925,46 @@
       "Related_Score": 4,
       "Sentiment_Score": 0,
       "Keywords": "法人說明會,財務結果,營運展望,線上會議"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-20",
+      "Time": "15:19:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電訂11/3召開法說會",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%A8%8211-3%E5%8F%AC%E9%96%8B%E6%B3%95%E8%AA%AA%E6%9C%83-071900279.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2344)華邦電-本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n符合條款第四條第XX款：12\n\n事實發生日：115/11/03\n\n1.召開法人說明會之日期：115/11/03\n\n2.召開法人說明會之時間：15 時 00 分\n\n3.召開法人說明會之地點：台北艾麗希爾頓格芮精選酒店5F楓柏廳 (台北市信義區松高路18號)\n\n4.法人說明會擇要訊息：本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n10/20證交所盤後定價交易成交金額前20名排行\n\n華邦電 本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-20",
+      "Time": "15:13:56",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】華邦電舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E8%8F%AF%E9%82%A6%E9%9B%BB%E8%88%89%E8%A1%8C115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-%E5%B0%87%E6%96%BC%E6%9C%83%E4%B8%AD%E5%B0%B1%E5%85%AC%E5%8F%B8115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%B2%A1%E5%8B%99%E6%95%B8%E5%AD%97%E8%88%87%E7%87%9F%E9%81%8B%E6%A6%82%E6%B3%81%E5%81%9A%E8%AA%AA%E6%98%8E-071356460.html",
+      "Content": "日　　期：2026年10月20日\n\n公司名稱：華邦電 (2344)\n\n主　　旨：華邦電舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n發言人：范祥雲\n\n說　　明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/11/03\n\n1.召開法人說明會之日期：115/11/03\n\n2.召開法人說明會之時間：15 時 00 分\n\n3.召開法人說明會之地點：台北艾麗希爾頓格芮精選酒店5F楓柏廳 (台北市信義區松高路18號)\n\n4.法人說明會擇要訊息：本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-20",
+      "Time": "15:04:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電 本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB-%E6%9C%AC%E5%85%AC%E5%8F%B8%E8%88%89%E8%A1%8C115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-%E5%B0%87%E6%96%BC%E6%9C%83%E4%B8%AD%E5%B0%B1%E5%85%AC%E5%8F%B8115%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%B2%A1%E5%8B%99%E6%95%B8%E5%AD%97%E8%88%87%E7%87%9F%E9%81%8B%E6%A6%82%E6%B3%81%E5%81%9A%E8%AA%AA%E6%98%8E-070400137.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2344)華邦電-本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n符合條款第四條第XX款：12\n\n事實發生日：115/11/03\n\n1.召開法人說明會之日期：115/11/03\n\n2.召開法人說明會之時間：15 時 00 分\n\n3.召開法人說明會之地點：台北艾麗希爾頓格芮精選酒店5F楓柏廳 (台北市信義區松高路18號)\n\n4.法人說明會擇要訊息：本公司舉行115年第三季度法人說明會，將於會中就公司115年第三季度財務數字與營運概況做說明\n\n5.其他應敘明事項：無\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\n\n10/20證交所盤後定價交易成交金額前20名排行\n\n華邦電訂11/3召開法說會\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-20",
+      "Time": "14:58:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】力積電召開2026年第三季法人說明會",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E5%8F%AC%E9%96%8B2026%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%83-065829757.html",
+      "Content": "日　　期：2026年10月20日\n\n公司名稱：力積電 (6770)\n\n主　　旨：力積電召開2026年第三季法人說明會\n\n發言人：譚仲民\n\n說　　明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/10/21\n\n1.召開法人說明會之日期：115/10/21\n\n2.召開法人說明會之時間：15 時 00 分\n\n3.召開法人說明會之地點：線上\n\n4.法人說明會擇要訊息：(1)本公司2026年第三季財務暨營運報告。\n\n(2)參加方式：https://www.itvcloud.org/Investor/Live/Index/psmc\n\n5.其他應敘明事項：無。\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
     },
     {
       "Ticker": "SNDK",
@@ -1067,6 +1227,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "6770.TW",
+      "Date": "2026-10-19",
+      "Time": "18:44:04",
+      "Source": "Yahoo奇摩股市",
+      "Title": "外資賣超767億元連9賣　調節力積電4.64萬張居首",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85767%E5%84%84%E5%85%83%E9%80%A39%E8%B3%A3-%E8%AA%BF%E7%AF%80%E5%8A%9B%E7%A9%8D%E9%9B%BB4-64%E8%90%AC%E5%BC%B5%E5%B1%85%E9%A6%96-104404515.html",
+      "Content": "（中央社記者吳家豪台北2026年10月19日電）台股今天走勢震盪，盤中一度重挫逾940點，尾盤跌勢收斂，終場下跌289.18點，收在46822.08點。外資及陸資今天持續站在賣方，賣超新台幣767.42億元，連續9個交易日賣超，今天減碼晶圓代工廠力積電4.64萬張最多。\n\n三大法人今天合計賣超台股899.54億元，呈現「外資大砍、投信力挺」的土洋對作格局；自營商賣超362.63億元，連8賣；外資及陸資賣超767.42億元，連9賣，累計提款台股超過7585億元；投信持續站在買方，買超230.51億元，連7買。\n\n觀察台灣證券交易所公布的外資賣超排行榜，晶圓代工廠力積電 (6770) 遭賣超4.64萬張，高居賣超榜首；市值型ETF（指數股票型基金）元大台灣50 (0050) 以3.68萬張排第2名，玻纖布大廠台玻 (1802) 2.98萬張位居第3。\n\n高股息與主動式ETF、半導體與記憶體相關族群也成為外資提款重點標的。外資賣超榜第4至10名依序為群益台灣精選高息（00919）、主動統一台股增長（00981A）、主動統一升級50（00403A）、金寶 (2312) 、鴻海 (2317) 、旺宏 (2337) 、元大台灣50正2（00631L）。\n\n此外，權值股龍頭台積電 (2330) 今天遭外資賣超9834張，連續9個交易日遭減碼。\n\n外資買超榜則聚焦鋼鐵、面板、傳產及民生消費族群，前10名依序為中鋼 (2002) 、友達 (2409) 、泰金寶-DR (9105) 、統一 (1216) 、和碩 (4938) 、寶成 (9904) 、興富發 (2542) 、統一超 (2912) 、台表科 (6278) 、和益 (1709) 。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SWKS",
       "Date": "2026-10-19",
       "Time": "11:21:16",
@@ -1075,6 +1245,26 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/starboard-sees-big-upside-skyworks-032116765.html",
       "Content": "Investing.com-- Starboard Value sees significant upside in Skyworks Solutions (NASDAQ:SWKS) if the wireless chipmaker delivers on the cost savings and margin targets of its merger with Qorvo, Bloomberg News reported on Monday, citing people familiar with the matter.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nThe activist investor believes that Apple chip supplier Skyworks remains undervalued following the completion of its acquisition of Qorvo this month, the report said.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nStarboard sees growth opportunities from the companies' complementary product portfolios and believes investors have yet to fully recognise the potential benefits of the combination, Bloomberg reported.\n\nThe merger includes a target of at least $500 million in annual cost savings within three years, while management has forecast operating margins of 30% to 35% within two to three years.\n\nSkyworks agreed to acquire Qorvo last year in a deal valuing the combined company at about $22 billion, as both companies faced slowing growth following Apple's shift towards internally developed chips.\n\nOriginal Article\n\nStarboard sees big upside in Skyworks after Qorvo merger, Bloomberg reports\n\nAsia stocks edge lower despite stronger China growth as AI jitters persist\n\nNew Hope shares hit near one-month high as it agrees $1.3 bln Malabar deal",
       "Language": "en"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-19",
+      "Time": "11:10:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "空軍轟炸台股！重災區「6檔記憶體」崩跌逾5%",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%A9%BA%E8%BB%8D%E8%BD%9F%E7%82%B8%E5%8F%B0%E8%82%A1-%E9%87%8D%E7%81%BD%E5%8D%80-6%E6%AA%94%E8%A8%98%E6%86%B6%E9%AB%94-%E5%B4%A9%E8%B7%8C%E9%80%BE5-031000759.html",
+      "Content": "財經中心／李明融報導\n\n美股費城半導體指數重挫3.83%、狂吞罕見「連8黑」，引爆台股週一補跌震撼！台北股市今（19）日開盤空軍無情轟炸，加權指數早盤一度暴跌逾860點，最低摜至46,243.55點，電子權值股與半導體供應鏈全線跳水。其中，記憶體概念股更淪為大盤重災區，包括南亞科、華邦電、旺宏等指標大廠全面遭遇外資狂抽銀根，盤中高達6檔記憶體個股慘摔超過5%以上，族群呈現一片慘綠，市場避險與恐慌情緒急遽升溫。\n\n記憶體族群慘遭血洗，威剛、南亞科重摔逾6%。（圖／民視新聞資料照）\n\n記憶體族群慘遭血洗！威剛、南亞科重摔逾6%「6檔指標股」暴跌逾5%\n\n觀察盤面個股表現，記憶體族群賣壓最為沉重，多檔個股同步跳空急殺。盤中跌幅超過5%的重災區名單多達6檔，其中以模組大廠威剛（3260）重摔6.67%、下跌24元至336元最為劇烈；記憶體大廠南亞科（2408）重挫6.15%、大跌27.5元來到420元；旺宏（2337）與華邦電（2344）跌幅分別達6.07%及5.88%，力積電（6770）與晶豪科（3006）跌幅也全數突破5.5%。此外，群聯重挫逾4%、力成、創見、廣穎及十銓等供應鏈個股同樣難逃波及，跌幅均在3%至4%之間，僅商丞力守平盤，整體記憶體概念股幾乎全軍覆沒。\n\n權王台積電失守，中小型櫃買指數挫逾3%。（圖／民視新聞資料照）\n\n美股費半連8黑拖累大盤！權王台積電失守中小型櫃買指數挫逾3%\n\n台股早盤的崩跌走勢，主要反映美股上週五科技股疲弱引發的全球連鎖效應，道瓊、標普、那斯達克全面收黑，費半重挫更直接拖累台積電ADR下跌2.28%，讓台股面臨巨大補跌壓力。權值股方面，台積電（2330）早盤最低下探2,390元、下跌30元（跌幅1.24%），聯電重挫超過4%，鴻海也下挫1.84%；代表中小型股的櫃買指數（OTC）更是重摔逾3%，半導體類股指數下跌1.82%，顯示空方全面肆虐，大盤後續能否藉由低檔買盤收斂跌幅並守住支撐，仍端看美股科技股與權值龍頭能否盡快止跌回穩。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:t",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-19",
+      "Time": "09:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電5/22~10/16訂購機器設備一批，計約32.2億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB5-22-10-16%E8%A8%82%E8%B3%BC%E6%A9%9F%E5%99%A8%E8%A8%AD%E5%82%99-%E6%89%B9-010200488.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2344)華邦電-本公司訂購機器設備公告。\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:供營業用之機器設備。\n\n2.事實發生日:115/5/22~115/10/16\n\n3.董事會通過日期: 民國115年8月6日\n\n4.其他核決日期: 不適用\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:機器設備一批；累積交易總金額為新台幣 3,220,187,982元整。\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:Lam Research International Sdn.Bhd；與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件付款。\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:經議價並評估後，依照本公司「取得或處分資產處理程序」之規定核決。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:供生產使用。\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:本案已於115年02月10日、115年05月05日、115年08月06日董事會通過，並於會後當日發布資本支出重大訊息。\n\n費半重摔、47,000 點季線保衛戰開打，資金急避險聚焦 HBM 與 PCB\n\n華邦電 本公司訂購機器設備公告。\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     }
   ]
 }
