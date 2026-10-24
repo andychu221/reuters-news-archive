@@ -1,7 +1,97 @@
 {
-  "last_updated": "2026-10-24T06:13:45.410Z",
-  "total_news_count": 574,
+  "last_updated": "2026-10-24T06:26:04.437Z",
+  "total_news_count": 590,
   "news": [
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-24",
+      "Time": "13:54:27",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價勁揚和AI支出引憂　美股互有漲跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E5%8B%81%E6%8F%9A%E5%92%8Cai%E6%94%AF%E5%87%BA%E5%BC%95%E6%86%82-%E7%BE%8E%E8%82%A1%E4%BA%92%E6%9C%89%E6%BC%B2%E8%B7%8C-055427969.html",
+      "Content": "（中央社紐約2026年10月23日綜合外電報導）布倫特原油價格攀升至4月底以來最高水準，加上市場對人工智慧（AI）支出感到憂慮，美股今天互有漲跌。\n\n道瓊工業指數終場下跌652.82點，或1.23%，收在52215.16點。\n\n標準普爾500指數下跌39.75點，或0.52%，收在7623.68點。\n\n以科技股為主的那斯達克指數下跌53.52點，或0.21%，收在25955.34點。\n\n費城半導體指數上漲47.487點，或0.44%，收在10779.465點。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-24",
+      "Time": "13:49:53",
+      "Source": "Yahoo奇摩股市",
+      "Title": "工研院擬工業區建稀土廠　拚2030年50%需求自給自足",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%A5%E7%A0%94%E9%99%A2%E6%93%AC%E5%B7%A5%E6%A5%AD%E5%8D%80%E5%BB%BA%E7%A8%80%E5%9C%9F%E5%BB%A0-%E6%8B%9A2030%E5%B9%B450-%E9%9C%80%E6%B1%82%E8%87%AA%E7%B5%A6%E8%87%AA%E8%B6%B3-054953954.html",
+      "Content": "（中央社記者張建中新竹2026年10月24日電）中國為全球最大稀土生產與出口國，並實施出口管制，引發國際關注。工研院院長張培仁表示，工研院內有稀土實驗線，計劃進一步在工業區內建置示範工廠，並於2030年底達到年產500噸規模，台灣50%需求得以自給自足。\n\n日本經濟產業大臣赤澤亮正於10月初演講說，各種稀土與特定產品的製造密切相關，一旦供應受到限制，對產業的影響相當直接。中國管制稀土帶來的衝擊非常大，包括美國在內，世界各國的經濟都受到影響。\n\n英國金融時報日前報導，日本關鍵稀土元素「釔」儲備將耗盡，已請求美國出面敦促中國放寬稀土出口管制。路透社22日報導，台積電正尋求工廠設備中稀土零組件的替代方案，以降低中國政府出口管制干擾先進晶片生產據點運作的風險。台積電對此並無回應。\n\n張培仁接受中央社專訪說，台灣對稀土需求量其實沒有很大，但是稀土很關鍵，沒有它不行。為因應稀土管制的疑慮，經濟部希望能夠發展稀土供應鏈，並擴大生產能力。\n\n張培仁表示，工研院內有稀土實驗線，年產量不大，約5000公斤，部分設備位於中興院區，主要進行稀土分離及做成金屬，部分製成高端磁鐵的設備在六甲院區。\n\n他指出，稀土由於不同元素間的特性都太接近，要分得一清二楚相當困難，且調配方程序非常長，有數百到上千階，需要累積很多經驗。\n\n張培仁透露，目前正在設計示範工廠，希望在2028年底完成建置，並於2030年底前調出配方，並達到年產500噸規模，讓台灣50%需求能夠自給自足。示範工廠需由國科會編列預算。\n\n為加速未來示範工廠移轉廠商，張培仁說，示範工廠會直接在工業區裡面找地蓋。在相關商業模式方面還有待進一步討論，如政府的價格保障機制，給予投資廠商承諾。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "13:23:08",
+      "Source": "Yahoo奇摩股市",
+      "Title": "今年來台股基金最旺冠居亞股 中小、科技績效近翻倍",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%BB%8A%E5%B9%B4%E4%BE%86%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91%E6%9C%80%E6%97%BA%E5%86%A0%E5%B1%85%E4%BA%9E%E8%82%A1-%E4%B8%AD%E5%B0%8F-%E7%A7%91%E6%8A%80%E7%B8%BE%E6%95%88%E8%BF%91%E7%BF%BB%E5%80%8D-052308206.html",
+      "Content": "今年來，全球主要股票市場頻頻創新高，也讓股票基金績效長紅。統計今年來全球主要股市漲幅排名，整體來看，亞股表現最佳，其中以台灣加權股價指數漲幅居冠，韓國居亞軍、日本名列第三。市場法人表示，台股行情要持續發熱，最需要中小型股續航，建議投資人可以中小型、科技台股基金來介入。\n\n群益投信台股研究團隊表示，台灣經濟成長性與各產業展望都有投資機會，台股自然也是投資人成長投資必要選項，台股長期趨勢往上不變，台股行情要持續發熱，最需要中小型股續航，不過中小型個股的震盪加劇，表現差異相當大，基金投資的低波動優勢勝過個股，建議投資人可以中小型台股基金來介入。另外科技半導體也是台灣最具競爭力的產業，科技基金更是不可或缺的投資標的。\n\n群益中小型股基金經理人周立民表示，現階段台股呈現高檔換手與資金重新布局。尤其AI概念股仍是市場主軸，只是從過去全面齊漲，轉為「輪動加速、個股分化」。\n\n儘管台股市場近期呈現高檔震盪，然而長期供不應求的產業仍受到市場關注，包含載板、被動元件、PCB/CCL等。此外，隨著ASIC和GPU新產品的效能將再度提升，也將帶動高階技術的發展，包含測試介面、先進製程、光通訊等也將會關注重點。\n\n群益創新科技暨主動群益科技創新ETF(00992A-TW)基金經理人陳朝政表示，隨著AI商機不斷擴大，AI需求也轉變成長期、結構性需求，預期台股企業從上游晶片半導體廠商到下流零組件及組裝營運都將迎來高成長。\n\n在投資布局方面，可聚焦基本面穩健、具護城河優勢的產業龍頭，掌握AI長期成長動能，並持續關注AI技術迭代週期，提前卡位題材短線爆發契機。持續看好半導體先進製程、半導體設備、通訊等族群，AI應用以及提高生產力族群亦看好。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-10-24",
+      "Time": "11:18:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "別被台積電ADR反彈騙了？專家爆下周恐再崩1000點 5大未爆彈還沒拆",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%88%A5%E8%A2%AB%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%8F%8D%E5%BD%88%E9%A8%99%E4%BA%86-%E5%B0%88%E5%AE%B6%E7%88%86%E4%B8%8B%E5%91%A8%E6%81%90%E5%86%8D%E5%B4%A91000%E9%BB%9E-5%E5%A4%A7%E6%9C%AA%E7%88%86%E5%BD%88%E9%82%84%E6%B2%92%E6%8B%86-031836386.html",
+      "Content": "美股費城半導體指數在22日重挫近7%後，周五（23 日）稍回神小幅反彈0.44%，台積電ADR也上漲1.49%。由於台股下周二（27 日）才開盤，仍須面臨美股周一的走勢考驗。專家指出，台股短線仍處於測底階段，下周市場面臨「五大風險」，投資人不宜僅因跌深就盲目搶反彈，也不必因大跌而放棄中長期的布局機會。\n\n美股周五四大指數跌多漲少，主因中東局勢惡化帶來市場壓力。美以兩國傳出對伊朗發動新一波打擊，伊朗則揚言反擊，推升原油價格再度走高。終場道瓊指數下跌 652點（或1.23%），收在 52215點；那斯達克指數下跌53點（或0.21%），收在 25955點；S&P500 指數下跌39點（或0.52%），收在 7623點；費城半導體指數則上漲47點（或0.44%），收在10779點。\n\n主要科技股漲跌互見。其中美光上漲2.46%、AMD（超微）漲1.74%、SK海力士ADR大漲4.05%；博通則小跌0.48%、輝達下跌 0.59%、威騰電子挫跌 2.97%。台股ADR部分，台積電ADR漲 1.49%，聯電ADR上漲1.94%。\n\n大盤測底階段信心不足 整理時間恐拉長\n\n倫元投顧分析師陳學進表示，台股22日暴跌846點收在46041點，顯示短線仍處於測底階段，上檔賣壓、停損潮與信心不足等問題仍未化解。下周加權指數樂觀情境重新站回47000～47300點；偏空情境則下探45000～45500點區間。若下周出現「反彈量縮、下跌量增」的格局，大盤整理時間將進一步拉長。\n\n陳學進提醒，下周市場需密切注意五大風險因素：\n\n1、AI 資本支出龐大，獲利兌現壓力增加：市場開始嚴格審視雲端服務商的資本回收速度、融資成本與現金流，高負債 AI 業者若面臨財務壓力，恐拖累整體科技股評價。\n\n2、聯準會（Fed）利率決策登場：市場關注10月27~28日召開的利率決策會議。若政策訊號偏鷹或長天期公債殖利率上揚，將壓抑高估值科技股。\n\n3、反彈遭賣壓壓制，底部尚未確立：若盤中反彈無法站上短期均線且下跌放大成交量，應提防再次測底風險。\n\n4、外資資金流向與融資去化：外資若持續賣超大型電子股將壓抑指數；融資水位偏高個股也可能因追繳與停損而放大波動。ETF與退休基金資金雖可提供支撐，但不能視為指數一定不跌的保證。\n\n5、題材股估值過高與量產落差：CPO、玻璃基板及先進封裝等新興題材已提前反映未來成長，若訂單延後或良率不如預期，股價恐面臨大幅修正。\n\n操盤策略提防追高 布局聚焦實質訂單\n\n針對後續操作策略，陳學進建議，投資人合理的做法應為先確認指數止跌訊號出現後，再逐步提高持股比重。在選股與資金管理上，應優先布局具備實質訂單、營收成長及獲利能見度高的AI供應鏈；同時對高估值與純題材個股提高風險防範，避免重倉追價。此外，投資人應保留資金彈性並採取分批布局策略，嚴格控管槓桿比例。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-24",
+      "Time": "08:50:02",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美債殖利率急跌、企業信用風險飆升！前Fed顧問：美國恐已陷衰退！",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E6%80%A5%E8%B7%8C-%E4%BC%81%E6%A5%AD%E4%BF%A1%E7%94%A8%E9%A2%A8%E9%9A%AA%E9%A3%86%E5%8D%87-%E5%89%8Dfed%E9%A1%A7%E5%95%8F-%E7%BE%8E%E5%9C%8B%E6%81%90%E5%B7%B2%E9%99%B7%E8%A1%B0%E9%80%80-005002280.html",
+      "Content": "前美國聯準會顧問、研究機構 Quill Intelligence 創辦人丹妮爾·迪馬蒂諾·布斯 (Danielle DiMartino Booth) 警告，美國經濟可能已經陷入衰退，只是官方經濟數據尚未充分反映實際情況。她指出，近期美國公債價格大漲、殖利率急跌，加上人工智慧 (AI) 相關企業信用風險升高，可能不只是市場對未來經濟放緩的擔憂，更可能反映經濟與金融體系正在發生「更具重大影響」的變化。\n\n布斯22日在社群平台X發文指出，近期美債上漲所傳遞的訊號，可能比市場預期中的經濟衰退更值得警惕。她認為，經濟基本面早已在表面數據之下持續惡化，等到官方統計正式確認衰退時，經濟可能早已進入下行階段。若美債殖利率繼續下滑，同時企業信用利差擴大、招聘活動轉弱及投資縮減，就可能意味著原本局部的經濟壓力正擴散為更廣泛的金融與信用緊縮。\n\n美國公債市場近期出現明顯反彈。10年期美國公債殖利率22日最低降至4.939%，報導撰寫時約為4.966%，遠低於本月稍早觸及的24年高點5.36%。30年期美債殖利率則一度下探5.276%，報導撰寫時約為5.292%，同樣低於本月稍早的5.73%。\n\n殖利率下跌代表債券價格上漲，但這波反彈未必完全反映通膨壓力減輕或市場對貨幣政策轉向的期待。若投資人因擔憂經濟衰退而增加對美債的需求，殖利率下滑也可能代表市場正在提前反映經濟成長放緩、企業獲利承壓及信用風險升高等問題。\n\n企業信用市場的變化，進一步凸顯相關風險。根據《路透社》引述的 Markit 數據，Meta Platforms (Meta Platforms) (META-US) 的5年期信用違約交換 (CDS) 利差22日上升7.6個基點，達114.79個基點，創下紀錄新高。CDS是衡量企業債務違約風險的重要市場指標，利差上升通常代表投資人要求更高的風險補償。\n\nAI雲端運算業者 CoreWeave (CoreWeave) (CRWV-US) 面臨的壓力更為明顯。該公司一筆規模27.5億美元、2031年到期的公司債，殖利率升至15.76%，創歷史新高；其5年期CDS利差也升至1115個基點，顯示市場對其信用風險的憂慮顯著升高。\n\n此外，甲骨文 (Oracle) (ORCL-US) 的CDS也在接近歷史高點的水準交易。根據《路透社》引述的標普全球市場財智 (S&P Global Market Intelligence) 數據，亞馬遜 (Amazon.com) (AMZN-US) 的CDS則維持在接近2020年3月以來最高水準的位置。這些變化顯示，信用市場的壓力並非僅集中在單一企業，而是逐漸受到更廣泛的關注。\n\nAI相關企業的信用風險尤其受到矚目，原因在於大型科技公司及雲端運算業者近年投入大量資金建設資料中心、採購運算設備與擴充基礎設施。如果資本支出成長放緩、投資回收期拉長，或融資成本持續居高不下，部分企業可能面臨現金流、債務負擔及投資報酬率的多重考驗。不過，個別企業CDS利差上升或債券殖利率走高，並不等於公司必然違約，也不能單憑這些指標認定整體經濟已進入衰退。\n\n投資人、知名經濟評論人士彼得·希夫 (Peter Schiff) 也對市場前景提出警告。他認為，美股可能在11月3日美國期中選舉前面臨崩跌風險，理由包括股票估值處於高檔、債券殖利率偏高、通膨持續及經濟基本面疲弱。22日美股下跌期間，AI相關股票成為主要賣壓來源之一。不過，這是希夫對市場的看法，並非已獲證實的市場走勢預測。\n\n債券市場方面，iShares 7-10 Year Treasury Bond ETF (IEF) 22日收盤上漲1.08%，報91.20美元，盤後再上漲0.14%。iShares 20+ Year Treasury Bond ETF (TLT) 則上漲1.87%，收在81.74美元，盤後再漲0.097%，反映中長天期美國公債在當日受到資金追捧。\n\n不過，IEF的動能表現仍然偏弱。根據 Benzinga Edge 的評級，該ETF動能排名位於第31百分位，短期、中期及長期價格趨勢均呈負向，顯示單日反彈尚不足以扭轉其整體趨勢。\n\n整體而言，布斯的警告聚焦於經濟數據與金融市場訊號之間可能存在的落差",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "07:56:36",
+      "Source": "Yahoo奇摩股市",
+      "Title": "友達ADR23日上漲0.065美元漲幅0.61%折台股34.90元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%8B%E9%81%94adr23%E6%97%A5%E4%B8%8A%E6%BC%B20-065%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-61-%E6%8A%98%E5%8F%B0%E8%82%A134-90%E5%85%83-235636230.html",
+      "Content": "(中央社台北2026年10月24日電)友達光電在OTC US掛牌ADR以10.735美元作收，上漲0.065美元，漲幅 0.61%。\n\n由於每單位友達 ADR相當於台股10股友達普通股，以10月22日新台幣匯市收盤價32.508元計算，相當台股友達每股為 34.90元。\n\n最近10個交易日行情如下：\n\n友達 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/23\n\n10.73\n\n0.06\n\n0.61\n\n32.508\n\n34.9\n\n10/22\n\n10.67\n\n-0.81\n\n-7.06\n\n34.6\n\n10/21\n\n11.48\n\n0.51\n\n4.65\n\n32.488\n\n37.3\n\n10/20\n\n10.97\n\n-0.19\n\n-1.70\n\n32.617\n\n35.7\n\n10/19\n\n11.16\n\n4.79\n\n32.445\n\n36.2\n\n10/16\n\n10.65\n\n-1.75\n\n32.338\n\n34.4\n\n10/15\n\n10.84\n\n-0.13\n\n-1.19\n\n32.265\n\n10/14\n\n0.39\n\n3.70\n\n32.073\n\n35.1\n\n10/13\n\n10.58\n\n-0.48\n\n-4.34\n\n32.085\n\n33.9\n\n10/12\n\n11.06\n\n-0.35\n\n-3.07\n\n31.895\n\n35.2",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "07:56:32",
+      "Source": "Yahoo奇摩股市",
+      "Title": "中華電信ADR23日下跌0.21美元跌幅0.43%折台股157.70元",
+      "URL": "https://tw.stock.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1adr23%E6%97%A5%E4%B8%8B%E8%B7%8C0-21%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-43-%E6%8A%98%E5%8F%B0%E8%82%A1157-70%E5%85%83-235632365.html",
+      "Content": "(中央社台北2026年10月24日電)中華電信在NYSE掛牌ADR 以 48.51美元作收，下跌0.21美元，跌幅 0.43%。\n\n由於每單位中華電信 ADR相當於台股10股中華電信普通股，以10月22日新台幣匯市收盤價32.508元計算，相當台股中華電信每股為157.70元。\n\n最近10個交易日行情如下：\n\n中華電信 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/23\n\n48.51\n\n-0.21\n\n-0.43\n\n32.508\n\n157.7\n\n10/22\n\n48.72\n\n1.22\n\n2.57\n\n158.3\n\n10/21\n\n47.50\n\n-0.09\n\n-0.19\n\n32.488\n\n154.3\n\n10/20\n\n47.59\n\n-0.04\n\n-0.08\n\n32.617\n\n155.2\n\n10/19\n\n47.63\n\n-0.01\n\n-0.02\n\n32.445\n\n154.5\n\n10/16\n\n47.64\n\n32.338\n\n154.0\n\n10/15\n\n47.66\n\n1.15\n\n2.47\n\n32.265\n\n153.7\n\n10/14\n\n46.51\n\n0.41\n\n0.89\n\n32.073\n\n149.1\n\n10/13\n\n46.10\n\n-0.11\n\n-0.24\n\n32.085\n\n147.9\n\n10/12\n\n46.21\n\n0.22\n\n0.48\n\n31.895\n\n147.3",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2303.TW",
+      "Date": "2026-10-24",
+      "Time": "07:56:30",
+      "Source": "Yahoo奇摩股市",
+      "Title": "聯電ADR23日上漲0.36美元漲幅1.94%折台股122.82元",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BBadr23%E6%97%A5%E4%B8%8A%E6%BC%B20-36%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-94-%E6%8A%98%E5%8F%B0%E8%82%A1122-82%E5%85%83-235630717.html",
+      "Content": "(中央社台北2026年10月24日電)聯電在NYSE掛牌 ADR以18.89美元作收，上漲0.36美元，漲幅 1.94%。\n\n由於每單位聯電 ADR相當於台股 5股聯電普通股，以10月22日新台幣匯市收盤價32.508元計算，相當台股聯電每股為122.82元。\n\n最近10個交易日行情如下：\n\n聯電 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/23\n\n18.89\n\n0.36\n\n1.94\n\n32.508\n\n122.8\n\n10/22\n\n18.53\n\n-1.29\n\n-6.51\n\n120.4\n\n10/21\n\n19.82\n\n0.15\n\n0.76\n\n32.488\n\n128.7\n\n10/20\n\n19.67\n\n-0.41\n\n-2.04\n\n32.617\n\n128.3\n\n10/19\n\n20.08\n\n0.26\n\n1.31\n\n32.445\n\n130.3\n\n10/16\n\n-1.10\n\n-5.26\n\n32.338\n\n128.1\n\n10/15\n\n20.92\n\n-0.48\n\n-2.24\n\n32.265\n\n135.0\n\n10/14\n\n21.40\n\n-0.99\n\n-4.42\n\n32.073\n\n137.2\n\n10/13\n\n22.39\n\n-0.16\n\n-0.71\n\n32.085\n\n143.6\n\n10/12\n\n22.55\n\n-1.79\n\n31.895\n\n143.8",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, 2330.TW",
+      "Date": "2026-10-24",
+      "Time": "07:56:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電ADR23日上漲6.16美元漲幅1.49%折台股2720.98元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr23%E6%97%A5%E4%B8%8A%E6%BC%B26-16%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-49-%E6%8A%98%E5%8F%B0%E8%82%A12720-98%E5%85%83-235628787.html",
+      "Content": "(中央社台北2026年10月24日電)台積電在NYSE掛牌 ADR以418.51美元作收，上漲6.16美元，漲幅 1.49%。\n\n由於每單位台積電 ADR相當於台股 5股台積電普通股，以10月22日新台幣匯市收盤價32.508元計算，相當台股台積電每股為 2720.98元。\n\n最近10個交易日行情如下：\n\n台積電 ADR 近十個交易日行情\n\n漲跌幅%\n\n10/23\n\n418.51\n\n6.16\n\n1.49\n\n32.508\n\n2720.9\n\n10/22\n\n412.35\n\n-19.54\n\n-4.52\n\n2680.9\n\n10/21\n\n431.89\n\n6.81\n\n1.60\n\n32.488\n\n2806.2\n\n10/20\n\n425.08\n\n4.86\n\n1.16\n\n32.617\n\n2772.9\n\n10/19\n\n420.22\n\n7.61\n\n1.84\n\n32.445\n\n2726.8\n\n10/16\n\n412.61\n\n-9.64\n\n-2.28\n\n32.338\n\n2668.6\n\n10/15\n\n422.25\n\n-7.75\n\n-1.80\n\n32.265\n\n2724.7\n\n10/14\n\n430.00\n\n-15.12\n\n-3.40\n\n32.073\n\n2758.2\n\n10/13\n\n445.12\n\n0.77\n\n0.17\n\n32.085\n\n2856.3\n\n10/12\n\n444.35\n\n-8.96\n\n-1.98\n\n31.895\n\n2834.5",
+      "Language": "zh"
+    },
     {
       "Ticker": "META",
       "Date": "2026-10-24",
@@ -11,6 +101,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/another-ai-power-stock-plunges-233752695.html",
       "Content": "Bloom Energy (BE) shares plunged more than 11% on Friday, Oct. 23, despite the fuel-cell maker reporting better-than-expected third-quarter earnings and raising its full-year outlook.\n\nThe sell-off comes as investors grow increasingly sensitive to AI-related headlines. Meta Platforms (META) shares also fell this week following its latest earnings report, as concerns over the cost of massive AI investments overshadowed strong results.\n\nBloom Energy makes fuel-cell systems that supply electricity to data centers and semiconductor factories. The company joined the S&P 500 last month.\n\n\"What began with hyperscalers is rapidly moving across market segments because every business needs reliable power to grow,\" Bloom Energy founder and CEO KR Sridhar said in a statement.\n\nThe stock has rallied 122% year-to-date, benefiting from surging AI demand. But now investors are questioning whether its rapid growth can justify its valuation.\n\nBloom Energy raises outlook but reports negative free cash flow\n\nThe company reported third-quarter adjusted earnings of 94 cents per share, well above analysts' expectations of 69 cents. Earnings were also up sharply from 15 cents a share a year earlier.\n\nRevenue jumped 138% year over year to $1.24 billion, beating Wall Street's forecast of approximately $1.06 billion.\n\nAlso read: Meta stock falls despite Wall Street analysts raising price targets\n\nBloom also raised its full-year 2026 guidance, now expecting earnings of $3.10 to $3.40 per share on revenue of $4.4 billion to $4.6 billion.\n\nDespite the rosy numbers above, Bloom reported more than $180 million in negative free cash flow in the third quarter.\n\n\"This quarter we used cash from operations. But that's not the beginning of a trend,\" Bloom's CFO Simon Edwards explained on the earnings call . \"We generated positive [cash flow from operating activities] year-to-date.\"\n\n\"We really do believe that this business will be a free cash flow positive business as we think about continuing to be able to fund our own growth,\" Edwards said.\n\nWall Street analysts split on Bloom Energy stock targets\n\nWall Street analysts offered mixed reactions to Bloom's latest results.\n\nJPMorgan lowered its price target on Bloom Energy to $292 from $314 while maintaining an Overweight rating, according to The Fly .\n\nThe firm attributed the reduction to lower trading multiples among comparable companies rather than concerns about Bloom's operating performance.\n\nJPMorgan noted that Bloom's third-quarter results were well above expectations and that the company had significantly raised its 2026 guidance for the third time this year.\n\nStory Continues\n\nThe company's execution \"continues to impress,\" JPMorgan said.\n\nMorgan Stanley is more bullish on the stock for similar reasons. The analyst raised the price target on Bloom Energy to $335 from $310 while maintaining an Overweight rating.\n\nMore Artificial Intelligence:\n\nAI's biggest business opportunity may not look like AI\n\nAI racks are outgrowing old power: 2 chipmakers have a strategy\n\nBofA splits software into winners and losers as AI agents arrive\n\nThe firm said Bloom exceeded both Wall Street consensus and buy-side expectations for revenue and EBITDA (earnings before interest, taxes, depreciation and amortization).\n\n\"Another beat and raise continues Bloom's strong execution,\" the analyst said.\n\nBloom's sell-off is just part of a broader shift in investor sentiment, with even strong earnings struggling to lift tech stocks amid concerns over risks.\n\n\"For the last two weeks, investors have been sprinting from tech stocks and data center beneficiary stocks to safe stuff, and eventually, you run out of people willing to do that sprint, and that's what today looks like and feels like,\" Jed Ellerbroek, portfolio manager at Argent Capital Management, said in a CNBC interview .\n\nEllerbroek said strong earnings from tech companies could help ease investors' fears.\n\n\"Emotion and fear play a really big role,\" he said. But, \"we've gotten a few tech companies' [latest quarterly financial reports] and their earnings results have been good.\"\n\nRelated: Cathie Wood sells $16 million of surging tech stock\n\nThis story was originally published by TheStreet on Oct 23, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nBloom Energy stock is up 122% year-to-date.Michael M. Santiago / Getty Images\n\nBloom Energy stock is up 122% year-to-date.Michael M. Santiago / Getty Images Wall Street analysts split on Bloom Energy stock targets\n\n<p class=\"text text-block paragraph text-left neo-font-",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "07:26:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股基金賺翻了！今年來規模暴增125％　這檔報酬率146％居冠",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%9F%BA%E9%87%91%E8%B3%BA%E7%BF%BB%E4%BA%86-%E4%BB%8A%E5%B9%B4%E4%BE%86%E8%A6%8F%E6%A8%A1%E6%9A%B4%E5%A2%9E125-%E9%80%99%E6%AA%94%E5%A0%B1%E9%85%AC%E7%8E%87146-%E5%B1%85%E5%86%A0-232600667.html",
+      "Content": "受惠全球AI浪潮及科技產業升級趨勢，帶動長線資金進駐台股基金，據投信投顧公會統計今年以來至9月底，台股共同基金整體規模翻倍成長，規模最大的配息型台股共同基金「元大台灣高股息優質龍頭基金」更突破千億大關，凸顯長期投資熱度。\n\n據投信投顧公會資料，今年以來至9月底台股共同基金規模成長125.7%，138檔中有3檔規模已逾千億，元大台灣高股息優質龍頭基金規模達1,046.9億，今年以來報酬率146%為同類型第一，大型共同基金透過主動選股，依然能追求超額報酬。\n\n元大投信旗下共9檔台股主動共同基金，今年以來至9月整體基金規模成長143%，每月申購金額、定期定額扣款金額則分別成長138.4%、46.5%；據Lipper統計，今年以來平均績效達120.5%。 元大台灣高股息優質龍頭基金為台灣首檔結合月配息、年終配息及收益平準金的台股基金，提供投資人兼顧現金流需求、長期資本增值機會。\n\n近期包括中經院看好AI需求將帶動出口、投資及消費的正向循環，再度上調2026全年經濟成長率至10.35%；產業方面，台積電於第二季法說會上修全年資本支出至600億至640億美元，聚焦先進製程、封裝與海外擴產，定調AI成長前景，產業生態系持續成長有利主動選股表現空間。台股主動共同基金為積極掌握市場趨勢，由基金經理團隊依專業判斷彈性選股，以追求報酬表現，可能出現類股相對集中之配置，波動度可能較大盤為高，投資前應留意。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
@@ -33,6 +133,46 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-24",
+      "Time": "06:11:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "油價飆破116美元！美股漲跌互見　費半逆勢收紅",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E7%A0%B4116%E7%BE%8E%E5%85%83-%E7%BE%8E%E8%82%A1%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B-%E8%B2%BB%E5%8D%8A%E9%80%86%E5%8B%A2%E6%94%B6%E7%B4%85-221139891.html",
+      "Content": "即時中心／綜合報導\n\n受到中東衝突持續與冬季能源需求升溫影響，國際油價週五攀升至4月下旬以來新高，布蘭特原油突破每桶116美元。與此同時，全球股市面臨能源成本上漲及人工智慧（AI）龐大支出的擔憂，美股週五（23日）漲跌互見。道瓊工業指數下跌652.82點，收在52,215.16點，跌幅1.23%；標普500指數下跌39.75點，收在7,623.68點，跌幅0.52%；那斯達克指數下跌53.52點，收在25,955.34點，跌幅0.21%。\n\n美股漲跌互見\n\n終場道瓊工業指數下跌652.82點、1.23%，收52,215.16點。\n\n標普五百指數下跌39.75點、0.52%，收7,623.68點。\n\n那斯達克指數下跌53.52點、0.21%，收25,955.34點。\n\n費城半導體指數上漲47.49點、0.44%，收10,779.46點。\n\n國際油價上漲\n\n布蘭特原油（Brent Crude）終場上漲3.76美元、3.32%，每桶以116.93美元作收；紐約西德州原油（WTI）上漲3.87美元、3.89%，每桶收在103.34美元。\n\n《民視新聞網》提醒您：內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n原文出處： 快新聞／油價飆破116美元！美股漲跌互見　費半逆勢收紅",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX, 2330.TW",
+      "Date": "2026-10-24",
+      "Time": "06:09:51",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普再提對伊朗動武！美股道瓊大跌652點、台積電ADR漲1.49％",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%86%8D%E6%8F%90%E5%B0%8D%E4%BC%8A%E6%9C%97%E5%8B%95%E6%AD%A6-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E5%A4%A7%E8%B7%8C652%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%BC%B21-49-220951743.html",
+      "Content": "美國總統川普週23日表示，美國可能再次對伊朗採取軍事行動，並敦促德黑蘭接受談判解決衝突。加上科技股拋售潮蔓延，美股道瓊下跌652.82點。台積電ADR上漲6.16美元或1.49%，收在418.51美元。\n\n道瓊工業指數跌652.82點或1.23%，收52215.16點。\n\n標普500指數跌39.75點或0.52%，收7623.68點。\n\n那斯達克指數跌53.52點或0.21%，收25955.34點。\n\n費城半導體指數漲47.49點或0.44%，收10779.46點\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-24",
+      "Time": "06:07:29",
+      "Source": "Yahoo奇摩股市",
+      "Title": "〈美股盤後〉油價衝破100美元！道瓊挫逾650點 費半小幅收紅、周線連三黑",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%B2%B9%E5%83%B9%E8%A1%9D%E7%A0%B4100%E7%BE%8E%E5%85%83-%E9%81%93%E7%93%8A%E6%8C%AB%E9%80%BE650%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E5%B0%8F%E5%B9%85%E6%94%B6%E7%B4%85-%E5%91%A8%E7%B7%9A%E9%80%A3%E4%B8%89%E9%BB%91-220729966.html",
+      "Content": "中東戰火再度升溫的疑慮推升油價，美股週五 (23 日) 普遍收黑，賣壓從前一交易日的科技股擴散至民生消費、公用事業及醫療保健等防禦性類股。道瓊重挫約653點，創下兩個月來最大單日跌幅。標普500指數下跌0.52%，那斯達克指數則在部分晶片股反彈支撐下，跌幅收斂至0.21%。費城半導體指數微升 0.44%。\n\n市場近期受到人工智慧 (AI) 交易退燒、中東衝突可能擴大及美債劇烈波動影響，類股輪動明顯。美股週五賣壓進一步擴及民生消費、公用事業及醫療保健等防禦性族群，但拉長至整週來看，主要指數漲跌互見，顯示市場內部表現持續分化。\n\n本週累計，道瓊則上漲0.4%，標普500指數下跌0.5%，那斯達克指數下跌0.7%，費半週線吞黑3.21%，連跌3週，創去年 11 月以來最長紀錄。\n\n中東局勢成為週五市場主要壓力來源。美國與以色列可能規劃對伊朗發動新一波攻擊，伊朗則表示已準備好反擊，使原油供應中斷的疑慮再度升高。\n\n美國總統川普稱美國可能再對伊朗採取軍事行動，並敦促德黑蘭接受談判，說法與他本月稍早稱期中選舉前不攻擊伊朗不同。\n\n西德州原油期貨突破每桶100美元，布蘭特原油則逼近117美元，創4月以來最高收盤價，重新挑起市場對通膨的擔憂。在聯準會 (Fed) 即將公布利率決策之際，讓市場更加關注能源成本對通膨的影響。\n\n美債市場方面，投資人週四因 AI 資料中心龐大融資需求及科技業借貸風險而轉向避險，帶動10年期美債殖利率一個月來首度跌破5%。\n\n不過，隨著週五油價走高，美債回吐前一天部分漲幅，10年期殖利率回升逾4個基點至約4.999%，重新逼近5%關卡。\n\n美股週五 (23 日) 主要指數表現：\n\n道瓊工業指數下跌 652.82 點，或 1.23%，報 52,215.16 點。\n\n那斯達克指數下跌 53.52 點，或 0.21%，報 25,955.34 點。\n\nS&P 500 指數下跌 39.75 點，或 0.52%，報 7,623.68 點。\n\n費城半導體指數上漲 47.49 點，或 0.44%，報 10,779.46 點。\n\nNYSE FANG+ 指數下跌 46.66 點，或 0.26%，報 18,213.46 點。\n\n焦點個股\n\nNYSE FANG+ 指數中的科技五大巨頭僅微軟收紅。Meta (META-US) 下跌 0.96%；蘋果 (AAPL-US) 下跌 0.14%；Alphabet (GOOGL-US) 下跌 1.24%；微軟 (MSFT-US) 上漲 0.66%；亞馬遜 (AMZN-US) 下跌 0.95%。\n\n半導體個股漲跌不一。AMD (AMD-US) 上漲 1.74%；博通 (AVGO-US) 下跌 0.48%；輝達 (NVDA-US) 下跌 0.59%；應用材料 (AMAT-US) 上漲 0.44%；高通 (QCOM-US) 上漲 1.78%。\n\n記憶體與儲存族群漲跌互見。美光 (MU-US) 上漲 2.46%；威騰電子 (WDC-US) 下跌 2.97%；SanDisk (SNDK-US) 下跌 1.82%；希捷 (STX-US) 下跌 1.81%；SK 海力士 ADR (SKHY-US) 上漲 4.05%。\n\n台股 ADR 漲多跌少。台積電 ADR (TSM-US) 上漲 1.49%；日月光 ADR (ASX-US) 上漲 2.52%；聯電 ADR (UMC-US) 上漲 1.94%；中華電信 ADR (CHT-US) 下跌 0.43%。\n\n企業新聞\n\n美國運通 (AXP-US) 急跌 3.67% 至每股 313.22 美元，成為拖累道瓊的個股之一。公司宣布將裁減全球約5%人力，理由包括因應AI發展及控制成本上升。開拓重工 (CAT-US) 下跌約2%，高盛 (GS-US) 跌逾1%，進一步加重道瓊壓力。\n\n蘋果 (AAPL-US) 收黑0.14% 至每股 347.73 美元，週線收高1.83%，新款摺疊手機iPhone Duo上市後，有限的門市現貨迅速售罄，顯示這款起價接近2,000美元的裝置吸引買氣。\n\nSpaceX正尋求在全美取得至少8萬處基地台站點，並已與至少一家大型行動通訊基礎設施業者洽談，持續推進地面通訊網路布局。SpaceX (SPCX-US) 揚升 1.89% 至每股 147.49 美元，週跌1.16%。\n\n美國銀行將ServiceNow (NOW-US) 目標價調高至180美元，維持「買進」評等，理由是AI產品需求增加，可望支持營收持續成長。公司預計於10月28日公布第三季財報。ServiceNow 收高 1.25% 至每股 158.96 美元。\n\n華爾街分析\n\nArgent Capital Management投資組合經理Jed Ellerbroek表示，過去兩週投資人持續從科技股及資料中心受惠股轉向防禦性標的，但這股輪動終究會耗盡動能，週五盤勢正反映這種情況。\n\n他認為，近期部分科技業者公布的財報表現良好，提供投資人重新評估科技股的理由，市場不必完全受避險情緒主導。\n\n美國銀行策略師Michael Hartnett則維持審慎立場，預期AI交易疑慮與美國期中選舉的不確定性，將使避險情緒延續至11月中旬。他預期，美債殖利率、股市及美元可能同步走低。\n\n瑞銀投資總監辦公室的Ulrike Hoffmann-Burchardi看法相對正面，認為企業獲利仍有望支撐股市，AI需求也依然強勁，單憑地緣政治發展，尚不足以支持全面轉向防禦性配置。\n\nPIMCO經濟學家Tiffany Wilding指出，AI正在提振美國需求，而多項通膨指標仍高於目標，Fed透過適度調整利率及收緊金融情勢來因應具有合理性。不過，目前通膨雖偏高，尚未持續加速，應能讓Fed保有循序調整政策的空間。\n\n數字皆為截稿前更新，請依照實際報價為主\n\n更多鉅亨報導\n\n• 川普豁免部分加拿大商品50%關稅 助攻緬因州參議員連任\n\n• 要人命！澤倫斯基稱星鏈限速仍未解除 川普否認致電馬斯克",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "05:55:17",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股季線保衛戰登場 六利多拚測底後逆轉勝",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%AD%A3%E7%B7%9A%E4%BF%9D%E8%A1%9B%E6%88%B0%E7%99%BB%E5%A0%B4-%E5%85%AD%E5%88%A9%E5%A4%9A%E6%8B%9A%E6%B8%AC%E5%BA%95%E5%BE%8C%E9%80%86%E8%BD%89%E5%8B%9D-215517618.html",
+      "Content": "台股受國際政經情勢動盪拖累，面臨季線保衛戰。法人指出，現階段偏向多頭修正走勢，加上美債殖利率自高檔拉回、外銷訂單續創新高、企業獲利具上修空間、選前政策偏多等六大利多加持，震盪測底後將力拚逆轉勝。\n\n統一投顧董事長黎方國、第一金投顧董事長黃詣庭分析，中東情勢反覆帶動油價居高不下、法國10年期公債殖利率飆至逾5%、人工智慧（AI）雜音再起及美科技巨頭超級財報周即將登場等變數，壓抑費城半導體指數、韓股等偏弱震盪，台股下周將面臨利空測底考驗。\n\n群益投顧董事長蔡明彥、永豐投顧總經理黃柏棠表示，台股22日收盤稍微跌破季線46,207點，下檔先看半年線45,121點，研判下周可望在45,000到48,000點間震盪，主因外在環境欠佳，須靜待不確定因素釐清及外資賣壓宣洩完畢，才有利多頭重啟攻勢。\n\n綜合黎方國、蔡明彥、黃詣庭、黃柏棠等看法，微軟、Alphabet、亞馬遜、蘋果下周公布財報，雲端營收、AI資本支出指引、現金流等數據動見觀瞻，至於美聯準會（Fed）利率決策會議結果、外資期貨空單變化、油價與美債殖利率動向，亦為市場關注焦點。\n\n法人認為，台股現階段仍有六大利多撐腰，籌碼低檔換手及整理後反彈可期。一、俄烏重啟和平談判，或有壓抑油價續揚空間。二、美債殖利率及美元指數同步轉弱，尤其10年期美債殖利率跌破5%，壓抑Fed升息預期。三、9月外銷訂單再創新高，第4季將優於第3季。\n\n四、台積電（2330）及美系大型雲端服務供應商（CSP）持續調升資本支出，預期台股企業獲利仍具上修空間。五、選前政策偏多可期，除日前勞退基金將釋出500億元委外代操資金外，八大公股行庫力挺，至22日連12買、累計承接2,175.9億元，同期間大舉敲進台積電577.9億元。\n\n六、投信連十買、累計加碼1,563.2億元，主要動能來自採中長期投資的散戶積極進場抄底，與國家隊合力抵抗外資龐大賣壓。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-10-24",
       "Time": "05:35:48",
@@ -41,6 +181,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/why-3m-amazon-deal-could-213548508.html",
       "Content": "3M (MMM) recently announced a new deal with Amazon (AMZN) under which the Big Tech giant will buy its products for use in data centers. The agreement could prove to be a positive game changer for MMM stock over the longer term, with the agreement likely to significantly boost the bottom line. If 3M manages to sign similar deals with other major data-center operators, its top and bottom lines could receive further boosts as well.\n\nUnder the deal between 3M and Amazon, the industrial company will provide products including its Expanded Beam Optical (EBO) connectivity offerings for the latter's data centers. Amazon will also receive warrants to purchase around 3 million shares of MMM stock over seven years. About 85% of the warrants will reportedly only be valid once Amazon's cumulative data-center purchases reach $6 billion.\n\nMore News from Barchart\n\n63 Reasons Point to CoreWeave's Default. Yet Goldman Sachs Upgraded It to a 'Buy' for 1 Key Reason.\n\nX-Energy Stock Surges on Potential Nuclear Energy Deal\n\nStocks Fall Sharply on Risk-Off as Meta Slides -5%\n\nMarkets move fast. Keep up by reading our FREE midday Barchart Brief newsletter for exclusive charts, analysis, and headlines.\n\nThe Potential Impact of the Amazon-3M Agreement\n\nThis deal heavily incentivizes Amazon to buy an average of about $860 million of products annually from 3M, based on the total $6 billion that Amazon will need to spend over seven years to activate 85% of the warrants. Supporting this estimate, UBS believes 3M's annual optical connectivity and data-center revenue could surge from $40 million to more than $1 billion by 2028.\n\nIf this deal increases 3M's annual revenue by $820 million (or $860 million less $40 million), and the products carry a gross margin of 65%, its operating income would surge by around $500 million as a result of the contract. In 2025, 3M's total operating income was about $4.6 billion, so the deal could increase 3M's annual operating income by more than 10%.\n\n3M CEO Bill Brown estimates that revenue from the Amazon deal will start to increase by the end of next year.\n\nMicrosoft Is Already on Board, Others Could Follow\n\nIn July, Microsoft (MSFT) also agreed to use 3M's optical connectivity products in its own data centers. Ultimately, a few other major data-center operators — including Meta Platforms (META) CoreWeave (CRWV), and Alphabet (GOOGL) — could follow suit as the artificial intelligence (AI) boom continues. Brown reportedly estimates that the total addressable market for 3M's EBO business could reach about $2 billion by 2028.\n\nStory Continues\n\nWith that said, it seems entirely possible that demand from data centers for 3M's products could add substantially to the firm's operating income in 2028, compared with 2025.\n\nA Minimal Chance of Bankruptcy\n\nSome market observers have speculated that 3M could face future financial distress, particularly after having agreed to fork over $6 billion between 2023 and 2029 to settle litigation related to hearing loss and tinnitus allegedly caused by defective earplugs the company made. One website estimates that 3M has a 6% chance of facing \"financial distress\" in the next two years, while another currently puts 3M's chances of bankruptcy at just 1.2%.\n\nThat's something to consider. However, given the company's high operating income — and the fact that 3M pays out a 1.79% dividend yield — I do not expect it to go bankrupt anytime soon.\n\nThe Bottom Line on 3M Stock\n\nWith 3M stock changing hands at a relatively low forward price-to-earnings (P/E) ratio of 19.1 times, shares look attractive for value investors and growth-at a-reasonable-price investors.\n\nOverall, MMM stock has a consensus \"Moderate Buy\" rating on Wall Street based on 16 analysts with coverage.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-10-24",
+      "Time": "05:34:51",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【美股盤後】油價勁揚和AI支出引憂　互有漲跌",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E7%9B%A4%E5%BE%8C-%E6%B2%B9%E5%83%B9%E5%8B%81%E6%8F%9A%E5%92%8Cai%E6%94%AF%E5%87%BA%E5%BC%95%E6%86%82-%E4%BA%92%E6%9C%89%E6%BC%B2%E8%B7%8C-213451594.html",
+      "Content": "（中央社台北2026年10月24日電）布倫特原油價格攀升至4月底以來最高水準，加上市場對人工智慧（AI）支出感到憂慮，美股今天互有漲跌。\n\n道瓊工業指數終場下跌652.82點，或1.23%，收在52215.16點。\n\n標準普爾500指數下跌39.75點，或0.52%，收在7623.68點。\n\n以科技股為主的那斯達克指數下跌53.52點，或0.21%，收在25955.34點。\n\n費城半導體指數上漲47.487點，或0.44%，收在10779.465點。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
@@ -61,6 +211,16 @@
       "URL": "https://finance.yahoo.com/technology/article/meta-stock-drops-more-than-7-despite-strong-q3-results-as-ai-spending-fears-return-193128008.html",
       "Content": "Meta ( META ) stock closed out the trading day Friday down roughly 1%. The results follow a dismal Thursday trading session during which its shares plunged 7%, despite the company reporting better-than-anticipated Q3 revenue on Wednesday as AI bubble fears reemerged across Wall Street.\n\nInvestors have been pullin g back on semiconductor and other AI stocks across the board on questions about whether massive investments in AI data centers will pay off in the long run.\n\nMeta raised the lower end of its capital expenditure estimates to between $135 billion and $145 billion from $130 billion and $145 billion. The company also has $825 billion in various spending commitments related to cloud capacity arrangements, energy service agreements, and consumer hardware products.\n\nDespite Wall Street's reaction to Meta's earnings, analysts were largely bullish on the company's outlook, owing to its prospects for its Muse AI agent and models.\n\nCEO Mark Zuckerberg repeatedly pointed to Muse as a source of growth potential during the company's earnings call, saying that \"Muse will be highly profitable over multiple years,\" as long as compute efficiency in AI systems continues to improve.\n\nMeta posted an all-time high revenue of $64 billion in the quarter, well ahead of the $63.3 billion analysts anticipated. GAAP earnings per share came in at $3.83 versus expectations of $3.56, but would have been $7.40 without legal charges related to the company's teen mental health settlement.\n\nThe company also announced it will issue new nonvoting Class C shares to all Class A stockholders , effectively creating a 2-for-1 stock split. The move is meant to ensure Zuckerberg stays in California and retains voting control of the company if the state's Proposition 40 passes on Election Day.\n\nProposition 40 calls for a 5% tax on taxpayers with assets over $1 billion.\n\nAhead of Meta's earnings report, a New Mexico judge ordered the company to pay $25 billion in connection with the state's consumer-harms case against the social media giant.\n\nEmail Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .\n\nSign up for Yahoo Finance's Week in Tech newsletter. · Yahoo Finance\n\nSign up for Yahoo Finance's Week in Tech newsletter. · Yahoo Finance Email Daniel Howley at dhowley@yahoofinance.com. Follow him on Twitter at @DanielHowley .\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-24",
+      "Time": "04:25:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股震盪回測季線！這3檔受益人增萬人　1年含息報酬全翻倍",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E5%9B%9E%E6%B8%AC%E5%AD%A3%E7%B7%9A-%E9%80%993%E6%AA%94%E5%8F%97%E7%9B%8A%E4%BA%BA%E5%A2%9E%E8%90%AC%E4%BA%BA-1%E5%B9%B4%E5%90%AB%E6%81%AF%E5%A0%B1%E9%85%AC%E5%85%A8%E7%BF%BB%E5%80%8D-202500398.html",
+      "Content": "儘管美股盤勢轉跌，造成台股警鈴響，尋求季線支撐。不過10月台股ETF除息秀熱潮依舊，推升台股ETF買氣升溫，根據集保統計，截至10/16止，受益人數創新高的台股ETF達22檔，包括4檔主動、18檔被動ETF出線，且從近1年績效來看，高達6檔ETF近年績效翻倍成長，顯示台股ETF不論主被動，只要績效表現出頭，直接帶動ETF買氣出籠。\n\n本週進入美科技股財報周，科技股仍具利多題材，且中長期AI半導體等科技產業結構並未轉弱，預期大盤將有機會在季線附近築底，指數表現先蹲後跳，建議逢大盤拉回布局台股AI、半導體、科技等被動ETF，持續掌握明年台股憑藉算力晶片、伺服器等關鍵技術築起的AI基礎建設紅利。\n\n根據集保統計，86檔台股主被動ETF中，截至10/16為止，共有22檔受益人數創新高。其中主動式有4檔、被動式有18檔出線，顯示被動ETF近來人氣頗旺，有力壓主動ETF之勢；若再觀察10月以來的人數成長情形與近1年績效對照，發現半導體ETF表現大出風頭，包括台新臺灣IC設計(00947)、中信關鍵半導體(00891)、群益半導體收益(00927)三檔，不僅10月來人數成長逾萬人，且近1年含息報酬率均翻倍增，表現最為搶眼；至於台新臺灣半導體30(00904)、兆豐台灣晶圓製造(00913)10月以來受益人數也分別增加7,261、5,520人，近1年報酬也突破100%以上，雙雙表現出色。\n\n台新00947、00904 ETF經理人黃鈺民表示，10月半導體ETF多檔受益人數創新高，除各家投信推出高配息股利政策吸睛外，從過去幾年來看，半導體被動ETF績效猛，中長期含息報酬明顯超過大盤及市值型ETF，具資本利得兼顧高股息雙優勢，也是今年投資人買氣趨之若騖的主要原因。\n\n美債殖利率持續在高檔，將為高估值半導體個股帶來逆風，黃鈺民指出，市場信心易受雜訊影響，短線呈現盤整機率高。但美台兩地股市連動，在資金行情簇擁下，台股半導體次產業族群輪動快速，即使半導體績優股遇短期利空事件干擾，股價拉回多半仍獲逢低買盤進場撐盤，顯示半導體市場投資氣氛佳，投資買盤良好理性，且多屬於看好半導體的長線投資者。\n\n展望今年第四季甚至2027年，從美國4大雲端服務業者的財報及最新公司展望發現，黃鈺民強調，全球AI資本支出仍持續增加，模型改善、應用迭代創新，正加速對各產業帶來正面影響力，而台灣半導體產業仍為全球半導體產業鏈價值核心，牛市至少延續至2027年，預估年底至明年初，半導體旺季仍有行情可期。\n\n另外，上週16日特斯拉正式推出Roadster的下一代飛天跑車，其中，車身結合SpaceX推進技術，可以騰空、翻轉及落地，目標設在2028年量產，涉及到台灣ASIC等IC設計供應鏈新商機，加上馬斯克未來將擴大自駕車、機器人與AI運算布局，預估相關先進製程晶片、ASIC晶片需求強勁，也將帶動台廠包括台積電、創意等半導體供應鏈業績繼續吃大補丸，中長期展望樂觀。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
     },
     {
       "Ticker": "META",
