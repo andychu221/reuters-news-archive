@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-10-26T11:33:46.688Z",
-  "total_news_count": 787,
+  "last_updated": "2026-10-26T11:36:54.311Z",
+  "total_news_count": 790,
   "news": [
     {
-      "Ticker": "MSFT, AMZN",
+      "Ticker": "TSLA",
+      "Date": "2026-10-26",
+      "Time": "19:08:20",
+      "Source": "Yahoo Finance",
+      "Title": "Barclays upgrades Tesla, says SpaceX merger “now a key part of bull case”",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/barclays-upgrades-tesla-says-spacex-110820659.html",
+      "Content": "Investing.com -- Barclays upgraded Tesla to Overweight from Equal Weight and raised its price target to $450 from $370, citing a potential merger with SpaceX, stronger core business trends and early signs of a Robotaxi inflection.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\n\"With a combination heavily expected, and with expectation for some premium to TSLA stock, we believe this should drive upside for the stock,\" analyst Dan Levy said in a note. But he said the narrative shouldn't rest on M&A alone, pointing to positives from Tesla's recent earnings call.\n\nTesla shares rose about 2% in premarket trading Monday.\n\nThe auto business is on track to grow this year after two years of declines, with further upside expected in 2027 supported by demand tied to Full Self-Driving and rising exports from Giga Shanghai, Levy said. Tesla's energy business is also \"nearly sold out for 2027\" on robust demand from data centers, which Barclays believes could support shipment growth above 50%.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nLevy also flagged an inflection in Tesla's Robotaxi business. After concerns over a slow ramp following its June 2025 launch, the analyst said Barclays has seen \"a sharp inflection in Robotaxi miles driven\" in recent weeks, alongside Full Self-Driving (FSD) adoption exceeding 75% on newly purchased North American vehicles in the third quarter.\n\nCEO Elon Musk disclosed on SpaceX's earnings call last Tuesday that the two companies had formed special committees to discuss a merger, saying there was \"a lot of merit to combining the companies.\" Levy said he now views the deal as effectively settled, serving as \"a key part of the Tesla bull case\" by offering upside through a takeover premium while also limiting downside, since investors are likely to avoid shorting the stock ahead of any announcement.\n\nMusk has previously cited a desire to raise his Tesla ownership to around 25% from roughly 20%, a threshold a SpaceX acquisition of Tesla would exceed given Musk's roughly 48% ownership stake and 82% voting power in SpaceX. Using Barclays' $450 Tesla price target and SpaceX's current share price, the bank estimated Musk could hold about 53% of total voting power in a combined company.\n\nLevy views an all-stock SpaceX acquisition of Tesla as the most likely deal structure, with SpaceX positioned as the acquirer given its dual-class share structure. Any transaction would require approval from more than 50% of each company's total outstanding voting power, a bar Barclays called a \"high hurdle\" that Musk himself acknowledged on last week's call.\n\nOriginal Article\n\nBarclays upgrades Tesla, says SpaceX merger \"now a key part of bull case\"\n\nBofA upgrades Anglo American as Teck merger boosts copper growth\n\nCan French stocks rebound despite persistent political risks? JPM weighs in",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL, MSFT, AMZN",
       "Date": "2026-10-26",
       "Time": "19:05:20",
       "Source": "Yahoo Finance",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT",
+      "Ticker": "AAPL, MSFT",
       "Date": "2026-10-26",
       "Time": "19:04:51",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "LRCX, MSFT",
+      "Ticker": "AAPL, MSFT",
       "Date": "2026-10-26",
       "Time": "19:04:41",
       "Source": "Yahoo Finance",
@@ -33,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AMZN",
+      "Ticker": "TSLA, AMZN",
       "Date": "2026-10-26",
       "Time": "19:04:37",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, GOOGL",
+      "Ticker": "AAPL, MSFT, GOOGL",
       "Date": "2026-10-26",
       "Time": "19:04:29",
       "Source": "Yahoo Finance",
@@ -53,7 +63,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, AMZN",
+      "Ticker": "AAPL, MSFT, AMZN",
       "Date": "2026-10-26",
       "Time": "19:04:26",
       "Source": "Yahoo Finance",
@@ -73,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, GOOGL",
+      "Ticker": "AAPL, MSFT, GOOGL",
       "Date": "2026-10-26",
       "Time": "19:04:11",
       "Source": "Yahoo Finance",
@@ -93,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, MSFT, GOOGL, AMZN",
       "Date": "2026-10-26",
       "Time": "19:04:01",
       "Source": "Yahoo Finance",
@@ -113,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "META, AMZN",
+      "Ticker": "TSLA, META, AMZN",
       "Date": "2026-10-26",
       "Time": "19:03:54",
       "Source": "Yahoo Finance",
@@ -133,6 +143,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "INTC",
+      "Date": "2026-10-26",
+      "Time": "19:03:40",
+      "Source": "Yahoo Finance",
+      "Title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and NVDA on Oct. 22",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110340159.html",
+      "Content": "This article first appeared on GuruFocus .\n\nETF activity was one-sided on Thursday, Oct. 22, with no ETFs buying and one selling. iShares PHLX SOX Semiconductor Sector Index Fund ( SOXX ) sold $570.2 million of stock and bought nothing, reducing all 30 of its positions and leaving its $43.23 billion portfolio with no increases.\n\nWhat did SOXX sell on Thursday?\n\nWarning! GuruFocus has detected 8 Warning Sign with FVCB.\n\nIs SOXX fairly valued? Test your thesis with our free DCF calculator.\n\nIts largest sells by dollar value were AMD ($52.6 million), NVDA ($46.8 million) and INTC ($46.5 million).\n\nStock\n\nShares changed\n\nValue\n\nPosition\n\nADVANCED MICRO DEVICES ( AMD )\n\n-103,536\n\n-$52.6M\n\n9.22% of fund\n\nNVIDIA ( NVDA )\n\n-220,728\n\n-$46.8M\n\n8.22% of fund\n\nINTEL CORPORATION ( INTC )\n\n-544,440\n\n-$46.5M\n\n8.16% of fund\n\nMICRON TECHNOLOGY ( MU )\n\n-50,832\n\n-$43.5M\n\n7.64% of fund\n\nBROADCOM INC ( AVGO )\n\n-131,592\n\n-$42.5M\n\n7.46% of fund\n\nThe largest sales were Advanced Micro Devices ( AMD ), down 103,536 shares for $52.6 million, and NVIDIA ( NVDA ), down 220,728 shares for $46.8 million. Intel ( INTC ) fell by 544,440 shares for $46.5 million, Micron Technology ( MU ) by 50,832 shares for $43.5 million and Broadcom ( AVGO ) by 131,592 shares for $42.5 million. None of the trades was a new position or a full exit.\n\nHow does SOXX invest?\n\nSOXX is an equity sector information technology fund holding 30 stocks, all classified in technology, with 62.3% of assets in its 10 largest holdings and 100.0% in large-cap names. Its expense ratio is 0.33%, and its top holdings are Advanced Micro Devices at 9.22%, NVIDIA at 8.22%, Intel at 8.16%, Micron Technology at 7.64% and Broadcom at 7.46%. The fund has a GF Score of 86, a P/E of 44.13, a P/B of 11.62, a dividend yield of 0.27% and a year-to-date return of 59.35%.\n\niShares PHLX SOX Semiconductor Sector Index Fund ( NASDAQ:SOXX ) at a glance\n\nMeasure\n\nCategory\n\nEquity Sector Information Tech\n\nAsset class\n\nEquity\n\nHoldings\n\nTop 10 holdings\n\n62.3% of assets\n\nLargest sectors\n\nTechnology 100.0%\n\nExpense ratio\n\n0.33%\n\nMarket-cap mix\n\nLarge 100.0%, mid 0.0%, small 0.0%\n\nGF Score\n\n86/100\n\n44.13\n\n11.62\n\nDividend yield\n\n0.27%\n\nYear-to-date return\n\n+59.35%\n\nTop holdings\n\nAMD (9.22%), NVDA (8.22%), INTC (8.16%), MU (7.64%), AVGO (7.46%)\n\nHoldings, performance and fees for SOXX are on its fund summary page ; the ETF Screener lines it up against its peers. Its biggest sell this time, AMD, has its own GF Value page and stock summary .\n\nWhat should investors watch next for SOXX?\n\nWith every position trimmed and no buys, watch whether SOXX 's next holdings update shows continued broad reductions or a return to adding shares.\n\nStory Continues\n\nBased on holdings changes reported by iShares PHLX SOX Semiconductor Sector Index Fund ( SOXX ) for Oct. 22, 2026, US-listed stocks only.\n\nSee which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\nWhat else did ETFs trade on Thursday?\n\nETFs Are Net Sellers of Micron ( NASDAQ:MU ) on Thursday\n\nETFs Are Buying NVIDIA ( NASDAQ:NVDA ) on Thursday\n\nETFs Are Buying Broadcom ( NASDAQ:AVGO ) on Oct. 22\n\nETFs Are Net Sellers of NXP Semiconductors (NXPI) on Thursday\n\nSector Trends: Energy Most Bought, Real Estate Least Bought on Oct. 22",
+      "Language": "en"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-10-26",
       "Time": "19:03:36",
@@ -143,7 +163,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MSFT, GOOGL, AMZN",
+      "Ticker": "AAPL, MSFT, GOOGL, AMZN",
       "Date": "2026-10-26",
       "Time": "19:03:28",
       "Source": "Yahoo Finance",
@@ -160,6 +180,16 @@
       "Title": "53 ETFs Add to Meta Platforms (META) on Thursday",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-meta-platforms-110145263.html",
       "Content": "This article first appeared on GuruFocus .\n\nFifty-three ETFs were buying Meta Platforms ( META ) shares versus 13 selling on Thursday, Oct. 22, for net buying of $74.7 million by dollar value. The move snapped two straight days of net selling, including $500.4 million on Oct. 21 and $129.2 million on Oct. 20. ETF activity turned positive after net buying of $44.1 million on Oct. 19 and $9.5 million on Oct. 16. The buying streak now stands at one day.\n\nWarning! GuruFocus has detected 7 Warning Signs with JPM.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nFor the full record of ETF and guru buying and selling in META, see the META guru trades page .\n\nWhich ETFs bought META on Thursday?\n\nThe largest buyers by dollar value were SPY ($34.7 million), DFUS ($12.7 million) and IWF ($7.7 million). In all, 53 ETFs added shares and 13 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+53,550\n\n$34.7M\n\n2.17%\n\nDFUS\n\n+19,599\n\n$12.7M\n\n2.07%\n\n+11,916\n\n$7.7M\n\n3.58%\n\n+8,560\n\n$5.6M\n\n19.77%\n\nCGGR\n\n+6,889\n\n$4.5M\n\n6.29%\n\nIUSG\n\n+5,520\n\n$3.6M\n\n3.84%\n\nAVLV\n\n+4,293\n\n$2.8M\n\n3.00%\n\nSPYM\n\n+3,900\n\n$2.5M\n\nSPY led the move with a $34.7 million increase in value, adding 53,550 shares for a 0.2% stake change at a 2.17% weight. DFUS added $12.7 million (19,599 shares, 2.94% stake change) and IWF added $7.7 million (11,916 shares). IXP raised its position by 8,560 shares, a 6.41% stake change worth $5.6 million at a 19.77% weight, while CGGR added $4.5 million and IUSG $3.6 million. Meta operates in the Communication Services sector and Internet Content & Information industry with a market cap of $1.64 trillion.\n\nHave ETFs been buying or selling META lately?\n\nOver the last 5 reported days, ETFs were net buyers on 3 and net sellers on 2, so the recent trend is mostly buying.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nOct. 22\n\n$74.7M\n\nOct. 21\n\n-$500.4M\n\nOct. 20\n\n-$129.2M\n\nOct. 19\n\n$44.1M\n\nOct. 16\n\n$9.5M\n\nWhat does META do?\n\nMeta Platforms builds technology that connects people through its Family of Apps: Facebook, Instagram, WhatsApp, Messenger, and Threads, used by billions worldwide. Substantially all revenue comes from selling advertising placements across these apps, which let marketers reach people based on a range of objectives.\n\nMeta Platforms reported trailing-12-month revenue of $241.61 billion, up 28.3% year over year, with gross margin of 81.0% and net margin of 31.1%. The stock trades at a P/E of 21.91, P/B of 6.03 and P/S of 6.83. Its GF Score is 99, and GF Value of $874.20 compares with a price of $642.62. The dividend yield is 0.33%, and the shares are down 2.4% year to date.\n\nStory Continues\n\nMETA at a glance\n\nMeasure\n\nPrice\n\n$642.62\n\nMarket cap\n\n$1.64T\n\nRevenue (trailing 12 months)\n\n$241.61B\n\nRevenue growth (1 year)\n\n+28.3%\n\nGross margin\n\n81.0%\n\nNet margin\n\n31.1%\n\n21.91\n\n6.03\n\n6.83\n\nGF Score\n\n99/100\n\nGF Value\n\n$874.20\n\nDividend yield\n\n0.33%\n\nYear-to-date return\n\n-2.40%\n\nFor a closer look, open the META stock summary , its GF Value chart and insider buying and selling .\n\nSee which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\nWhat should investors watch next for META?\n\nWatch whether ETF flows stay positive after the one-day buying streak, following the $500.4 million net outflow on Oct. 21.\n\nBased on ETF holdings changes reported for Oct. 22, 2026.\n\nWhat else did ETFs trade on Thursday?\n\nSector Trends: Energy Most Bought, Real Estate Least Bought on Oct. 22\n\nETFs Are Buying Alphabet (GOOGL) on Thursday\n\nETFs Bought $100.6 Million of Disney (DIS) on Thursday\n\nETF Activity: SPY Leads With $1.60 Billion Inflow on Oct. 22\n\nETFs Bought $1.41 Billion of ExxonMobil (XOM) on Oct. 22\n\nMETA GF Value chart\n\nMETA GF Value chart For the full record of ETF and guru buying and selling in META, see the META guru trades page .\n\nThe largest buyers by dollar value were SPY ($34.7 million), DFUS ($12.7 million) and <a href=\"https://www.gurufocus.com/etf/IWF/summary?ref=etf-stock&r=caf6fe0e0db70d936033da5461e60141&utm_source=yahoo_finance&utm_medium=syndication&utm_campaign=headlines&utm_content=53_etfs_add_to_meta_platforms_",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSLA",
+      "Date": "2026-10-26",
+      "Time": "19:01:15",
+      "Source": "Yahoo Finance",
+      "Title": "Tesla (TSLA) Sees $101.3 Million in Net ETF Buying on Oct. 22",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-sees-101-3-110115938.html",
+      "Content": "This article first appeared on GuruFocus .\n\nTesla ( TSLA ) drew $101.3 million in net ETF buying last Thursday, snapping two straight sessions of net selling. On the day, 41 ETFs bought shares while 12 sold, with 148 holding steady. The prior two days saw net outflows of $42.7 million and $82.6 million, following net buying of $108.2 million on Oct. 19.\n\nWarning! GuruFocus has detected 8 Warning Signs with TSLA.\n\nIs TSLA fairly valued? Test your thesis with our free DCF calculator.\n\nTrack the latest ETF buying and selling trends and search funds in the GuruFocus ETF Screener .\n\nFor the full record of ETF and guru buying and selling in TSLA, see the TSLA guru trades page .\n\nWhich ETFs bought TSLA on Thursday?\n\nThe largest buyers by dollar value were XLY ($37.7 million), SPY ($25.6 million) and QQQI ($24.4 million). In all, 41 ETFs added shares and 12 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+100,629\n\n$37.7M\n\n17.69%\n\n+68,460\n\n$25.6M\n\n1.60%\n\nQQQI\n\n+65,244\n\n$24.4M\n\n3.20%\n\nDFUS\n\n+33,276\n\n$12.5M\n\n+19,368\n\n$7.3M\n\n3.36%\n\nGPIQ\n\n+10,710\n\n$4.0M\n\n3.08%\n\nQQQM\n\n+5,589\n\n$2.1M\n\n3.14%\n\nSPYM\n\n+4,992\n\n$1.9M\n\nConsumer Discretionary Select Sector SPDR ( XLY ) led the move with a $37.7 million increase, lifting its stake by 0.97% to 10,474,210 shares at a 17.69% portfolio weight. SPDR S&P 500 ( SPY ) added $25.6 million and QQQI contributed $24.4 million, while DFUS and IWF added $12.5 million and $7.3 million. Tesla sits in the consumer cyclical sector's auto manufacturers industry with a market cap of $1.47 trillion.\n\nHave ETFs been buying or selling TSLA lately?\n\nOver the last 5 reported days, ETFs were net buyers on 2 and net sellers on 3, so the recent trend is mostly selling.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nOct. 22\n\n$101.3M\n\nOct. 21\n\n-$42.7M\n\nOct. 20\n\n-$82.6M\n\nOct. 19\n\n$108.2M\n\nOct. 16\n\n-$91.1M\n\nWhat does TSLA do?\n\nTesla designs, develops, manufactures, sells, and leases fully electric vehicles and energy generation and storage systems, with a strategic focus on bringing artificial intelligence into the real world through autonomous driving and robotics.\n\nTesla's trailing-12-month revenue was $103.57 billion, up 7.7% over one year, with gross and net margins of 19.3% and 3.1%. It trades at a P/E of 409.48, P/B of 16.48 and P/S of 12.72. The GF Score is 88, and GF Value of $351.62 compares with a price of $372.22. The stock is down 17.23% year to date.\n\nTSLA at a glance\n\nMeasure\n\nPrice\n\n$372.22\n\nMarket cap\n\n$1.47T\n\nRevenue (trailing 12 months)\n\n$103.57B\n\nRevenue growth (1 year)\n\n+7.7%\n\nGross margin\n\n19.3%\n\nNet margin\n\n3.1%\n\n409.48\n\n16.48\n\n12.72\n\nGF Score\n\n88/100\n\nGF Value\n\n$351.62\n\nYear-to-date return\n\n-17.23%\n\nStory Continues\n\nCompare TSLA's share price with its GF Value , see recent insider trades , or check which gurus own TSLA .\n\nWhat should investors watch next for TSLA?\n\nThe buying ended a two-day selling streak but marks only a one-day streak in the other direction, so watch whether ETF flows stay positive in the sessions ahead.\n\nBased on ETF holdings changes reported for Oct. 22, 2026.\n\nWhat else did ETFs trade on Thursday?\n\nSector Trends: Energy Most Bought, Real Estate Least Bought on Oct. 22\n\n53 ETFs Add to Amazon (AMZN) Holdings on Oct. 22\n\nETF Activity: SPY Leads With $1.60 Billion Inflow on Oct. 22\n\nETFs Are Buying NVIDIA (NVDA) on Thursday\n\nETFs Are Buying Apple (AAPL) on Oct. 22\n\nTSLA GF Value chart\n\nTSLA GF Value chart Track the latest ETF buying and selling trends and search funds in the GuruFocus ETF Screener .\n\n<p class=\"text text-block paragraph tex",
       "Language": "en"
     },
     {
@@ -193,6 +223,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "AAPL",
+      "Date": "2026-10-26",
+      "Time": "19:00:47",
+      "Source": "Yahoo Finance",
+      "Title": "ETFs Are Buying Apple (AAPL) on Oct. 22",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-apple-aapl-oct-110047811.html",
+      "Content": "This article first appeared on GuruFocus .\n\nSPY led ETF activity in Apple ( AAPL ) on Thursday, as funds bought a net $226.5 million of the stock. That came from 59 ETFs adding shares versus 15 selling, with 193 holding steady. The buying followed two straight sessions of net selling, on Oct. 20 and Oct. 21. Earlier sessions were mixed, with $361.5 million bought on Oct. 19 and $47.5 million on Oct. 16.\n\nWarning! GuruFocus has detected 6 Warning Signs with BNY.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nLooking for a fund? Use the ETF Screener , and follow daily fund activity on the ETF Trends page.\n\nSee all ETF and guru trades in AAPL on its AAPL guru trades page .\n\nWhich ETFs bought AAPL on Thursday?\n\nThe largest buyers by dollar value were SPY ($123.4 million), XLK ($29.2 million) and DIA ($24.8 million). In all, 59 ETFs added shares and 15 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+354,480\n\n$123.4M\n\n7.71%\n\n+83,832\n\n$29.2M\n\n15.25%\n\n+71,208\n\n$24.8M\n\n3.91%\n\n+51,876\n\n$18.1M\n\n8.37%\n\n+45,260\n\n$15.8M\n\n6.10%\n\nSPYM\n\n+25,844\n\n$9.0M\n\nIUSG\n\n+18,290\n\n$6.4M\n\n6.82%\n\nQQQM\n\n+15,502\n\n$5.4M\n\n8.10%\n\nSPY accounted for the largest move, adding 354,480 shares worth $123.4 million, with Apple at a 7.71% weight. XLK added 83,832 shares worth $29.2 million at a 15.25% weight, while DIA bought 71,208 shares worth $24.8 million. IWF and IWD added $18.1 million and $15.8 million, respectively. Apple sits in the Technology sector and Consumer Electronics industry, with a market cap of $5.07 trillion.\n\nHave ETFs been buying or selling AAPL lately?\n\nOver the last 5 reported days, ETFs were net buyers on 3 and net sellers on 2, so the recent trend is mostly buying.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nOct. 22\n\n$226.5M\n\nOct. 21\n\n-$244.7M\n\nOct. 20\n\n-$357.0M\n\nOct. 19\n\n$361.5M\n\nOct. 16\n\n$47.5M\n\nWhat does AAPL do?\n\nApple designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories, and sells a growing portfolio of related services. Its products include the iPhone smartphone line, Mac computers, iPad tablets, Apple Watch, AirPods, and the Apple Vision Pro spatial computer, all built on Apple's own operating systems and, increasingly, its own silicon.\n\nApple's trailing-12-month revenue was $466.82 billion, up 16.7% over one year, with gross and net margins of 48.6% and 27.6%. Its P/E is 39.86, P/B 47.25 and P/S 11.01. The GF Score is 95, and GF Value of $289.42 compares with a price of $347.73. The dividend yield is 0.33%, and the stock is up 28.25% year to date.\n\nAAPL at a glance\n\nMeasure\n\nPrice\n\n$347.73\n\nMarket cap\n\n$5.07T\n\nRevenue (trailing 12 months)\n\n$466.82B\n\nRevenue growth (1 year)\n\n+16.7%\n\nGross margin\n\n48.6%\n\nNet margin\n\n27.6%\n\n39.86\n\n47.25\n\n11.01\n\nGF Score\n\n95/100\n\nGF Value\n\n$289.42\n\nDividend yield\n\n0.33%\n\nYear-to-date return\n\n+28.25%\n\nStory Continues\n\nCompare AAPL's share price with its GF Value , see recent insider trades , or check which gurus own AAPL .\n\nWhat should investors watch next for AAPL?\n\nWatch whether the one-day buying streak extends, after the two prior sessions saw net outflows.\n\nBased on ETF holdings changes reported for Oct. 22, 2026.\n\nWhat else did ETFs trade on Thursday?\n\nSector Trends: Energy Most Bought, Real Estate Least Bought on Oct. 22\n\nETFs Are Buying NVIDIA (NVDA) on Thursday\n\nETF Activity: SPY Leads With $1.60 Billion Inflow on Oct. 22\n\nETFs Bought $1.41 Billion of ExxonMobil (XOM) on Oct. 22\n\nAAPL GF Value chart\n\nAAPL GF Value chart Looking for a fund? Use the ETF Screener , and follow daily fund activity on the ETF Trends page.\n\n<!-- HTML_TAG_STAR",
+      "Language": "en"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-10-26",
       "Time": "18:35:02",
@@ -200,16 +240,6 @@
       "Title": "Should You Buy Amazon Before Oct. 29?",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-oct-29-103502018.html",
       "Content": "Amazon (NASDAQ:AMZN) doesn't need much of an introduction. Most of us know the company very well thanks to its leading e-commerce business, offering customers everything from groceries and mass merchandise to entertainment. This name recognition, as well as its vast fulfillment network worldwide, gives this market giant a solid moat or competitive advantage that has kept revenue marching higher over the years.\n\nThe company has also become a tech powerhouse, with the growth of its cloud computing business, Amazon Web Services (AWS). And this unit's strength in artificial intelligence (AI) has supercharged revenue in recent times -- and potentially offers it a major growth opportunity moving forward.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nStill, Amazon's stock performance hasn't been as fantastic as many of its AI peers. While some have soared in the double and triple digits this year alone, Amazon stock has only climbed in the single digits in 2026. With all of this in mind, should you buy Amazon ahead of a key catalyst on Oct. 29? Let's find out.\n\nImage source: Getty Images.\n\nA major profit driver for Amazon\n\nSo, first, we'll consider the Amazon story so far. As mentioned, the company is known as an e-commerce giant, but in recent years, AWS has become its major profit driver. In the latest quarter, for example, AWS accounted for 60% of operating income. That's why it's important to focus on the momentum of this business.\n\nAWS was a growth business prior to the AI boom , offering customers a broad range of core services such as storage and database-oriented options, but the emergence of AI created a fresh element that would significantly boost revenue. The unit now provides non-AI and AI products and services, and demand for both categories has been soaring in recent quarters. Here, however, I'll focus on AI as it represents a potentially game-changing technology for Amazon and its peers.\n\nIn the recent quarter, AWS delivered growth of more than 36%, the fastest rate in 18 quarters. The AI business and the company's custom chips business each reached an annual revenue run rate of more than $25 billion due to soaring demand. AWS, now at a run rate of $169 billion, could be No. 24 on the Fortune 500 list if it were a separate company, Amazon chief Andy Jassy said during the second-quarter earnings call this summer.\n\nStory Continues\n\nAWS, as the world's No. 1 cloud services provider , is the natural place for customers to turn to when entering the AI space. They know AWS well, and by coming here, they can keep all of their projects and programs in one location.\n\n\"They want their AI inference to reside near their other applications and data, and more of it resides in AWS than anywhere else,\" Jassy said during the earnings call.\n\nAmazon's $220 billion in capex\n\nBut what's the downside of all of this? Amazon has invested heavily and must continue to invest in order to serve demand and prepare for future demand. The company recently increased its cash capital spending forecast for this year by $20 billion to $220 billion. Some investors have worried about the time it will take to monetize such an investment -- and have questioned whether Amazon and infrastructure peers are overspending. This weighed on the stock's performance in recent times, and this could continue to represent a headwind.\n\nNow, let's get back to our question and the upcoming event on Oct. 29. Amazon is scheduled to report third-quarter earnings after the market closes. Investors will closely watch revenue numbers to assess whether the AI investment is bearing fruit, and they will also listen for comments on demand as well as any changes in capex forecasts.\n\nAmazon's custom chips business has emerged as a significant growth engine, so growth trends here will be a focus as well.\n\nShould you buy Amazon stock before this potential catalyst? Amazon stock trades at 29x forward earnings estimates, down from about 45x when revenue levels were lower.\n\nAMZN PE Ratio (Forward) data by YCharts\n\nThe stock's valuation is very reasonable right now considering the stability of Amazon's e-commerce business, long track record of earnings growth, and the fresh growth possibilities offered by AWS -- due to its core business and its AI strengths.\n\nAll of this makes Amazon a fantastic buy now. But you don't have to rush into the stock before the earnings report. That's because, as a long-term investor, short-term performance -- whether positive or negative -- won't have much impact on your gains over time. So you can buy now -- or after Oct. 29.",
-      "Language": "en"
-    },
-    {
-      "Ticker": "SNDK",
-      "Date": "2026-10-26",
-      "Time": "18:20:00",
-      "Source": "Yahoo Finance",
-      "Title": "Here's What $1,000 Spread Across These 4 Memory and Storage Stocks Could Be Worth by 2030",
-      "URL": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-spread-across-102000968.html",
-      "Content": "In July, SK Hynix (NASDAQ: SKHY) listed on the Nasdaq as the largest American depositary receipts (ADRs) offering in Wall Street history, raising roughly $26.5 billion. For the first time, all the companies that provide the memory for artificial intelligence (AI) data centers traded on one U.S. exchange.\n\nThat matters because AI has changed the demand equation for memory. Here is what $250 apiece in Micron Technology (NASDAQ: MU), Sandisk (NASDAQ: SNDK), SK Hynix, and Western Digital (NASDAQ: WDC) might look like by 2030.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 14x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nMicron, the one with every layer covered\n\nThe reason Micron belongs in an AI portfolio is high-bandwidth memory (HMB), the stacked chips packaged right next to the graphics processing unit (GPU) inside data centers so data does not have to travel far. Micron has had its HBM4 in high-volume production since March, built specifically for Nvidia's (NASDAQ: NVDA) Vera Rubin platform, and it used a technology webinar on Oct. 21 to walk investors through what it calls a multigenerational roadmap meant to keep that lead for the next decade. What I like is that Micron also sells the slower, cheaper memory, so it gets paid at every layer of the stack. The risk with this company is one that every memory investor already knows in their gut. This industry is cyclical, and Micron's shares lost roughly half their value in the 2022 downturn. It can happen again.\n\nSandisk, trying to make flash less cyclical\n\nSandisk makes NAND flash and the solid state drives (SSD) that AI servers use to hold what engineers call the KV cache, which is essentially the model's short-term memory of a long conversation so it does not have to recompute everything. The interesting thing Sandisk is doing has less to do with chips and more to do with contracts. At its August investor day, the company said eight customers have signed multiyear agreements with committed volumes and minimum financial guarantees. That is an attempt to take the boom-and-bust out of a business that has always been boom-and-bust.\n\nSK Hynix, the HBM leader you can finally buy\n\nSK Hynix is the South Korean company Nvidia has leaned on longest for high-bandwidth memory. It signed a multi-year technology partnership with the chipmaker in June and shipped samples of its 12-layer HBM4E, the next generation, that same month. And here is the part that surprised me. It trades at a single-digit multiple of trailing earnings, which makes it the cheapest of the four by a wide margin. The risks are specific here too. This is a new ADR with very little trading history; there are Korean governance and tax wrinkles for U.S. holders to think about; and the company runs an NAND plant in Dalian, China, that is subject to export rules.\n\nStory Continues\n\nWestern Digital, because the hard drive refuses to die\n\nWestern Digital builds the hard drives that hold the cold data AI keeps generating, the stuff that needs to be reachable in seconds but does not need to be fast. Chief Executive Officer Irving Tan told investors in January that the company is \"pretty much sold out\" for calendar 2026, with firm purchase orders from its top seven customers and long-term agreements already signed with two of them for 2027 and one for 2028. On the technology side, Western Digital's roadmap targets 100 terabytes for hard drives by 2029.\n\nThe $1,000 math\n\nThis is my own scenario, and I kept it modest, because the one thing memory investors probably should never do is extrapolate an up cycle four years out. I gave SK Hynix 20% per year for being the HBM leader with the group's cheapest valuation. Micron gets 18% for having the most complete AI memory lineup. Sandisk and Western Digital get 15% each, since both have signed multiyear supply deals that should smooth the ride without necessarily speeding it up.\n\nRun those numbers for four years, and the $250 in SK Hynix grows to about $518, the Micron slice to roughly $485, and the Sandisk and Western Digital pieces to about $437 apiece. Put it all together, and you are looking at close to $1,880 from the original $1,000. If all four just match the market's long-run 10% average return instead, you end up at roughly $1,460.",
       "Language": "en"
     },
     {
