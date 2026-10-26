@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T16:27:19.161Z",
-  "total_news_count": 863,
+  "last_updated": "2026-10-26T16:32:58.139Z",
+  "total_news_count": 864,
   "news": [
     {
       "Ticker": "AMZN",
@@ -60,6 +60,16 @@
       "Title": "Meta Stock Faces Stark Reality Check as AI Costs Drain Billions in Cash",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-faces-stark-reality-153743171.html",
       "Content": "This article first appeared on GuruFocus .\n\nMeta Platforms ( NASDAQ:META ) generated $64.60 billion in third-quarter revenue, but a surge in spending on infrastructure left the company with negative free cash flow as it expands its artificial intelligence capacity.\n\nShares of Meta fell sharply following the earnings report on Oct. 22.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nRevenue rose 26% from a year earlier, while advertising revenue increased 26% to $63.06 billion. Operating cash flow reached $32.79 billion, but capital expenditures, including finance-lease principal payments, totaled $34.91 billion. That left free cash flow at negative $2.12 billion, compared with positive $10.63 billion in the prior-year quarter.\n\nThe cash-flow reversal came even as Meta held $82.45 billion in cash, cash equivalents and marketable securities at Sept. 30. The company also raised the lower end of its 2026 capital expenditure outlook, now expecting $135 billion to $145 billion for the year.\n\nInvestors will likely focus on whether AI infrastructure spending begins generating enough incremental revenue to support future investment.\n\nMeta said it expects to continue investing aggressively in 2027, while its fourth-quarter revenue outlook stands at $73 billion to $76 billion. That gap puts more attention on returns from AI capacity.\n\nMETA GF Value chart\n\nMETA GF Value chart Revenue rose 26% from a year earlier, while advertising revenue increased 26% to $63.06 billion. Operating cash flow reached $32.79 billion, but capital expenditures, including finance-lease principal payments, totaled $34.91 billion. That left free cash flow at negative $2.12 billion, compared with positive $10.63 billion in the prior-year quarter.\n\n<span",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-10-26",
+      "Time": "23:35:00",
+      "Source": "Yahoo Finance",
+      "Title": "Not AMD. Not Marvell. Here's Which Company Nvidia Needs to Be Worried About.",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/not-amd-not-marvell-heres-153500272.html",
+      "Content": "Nvidia holds the title for the largest market share in the artificial intelligence (AI) computing unit market. Its GPUs have become synonymous with AI computing power, but it's not without competition.\n\nOne of the more obvious picks is Advanced Micro Devices , as it also makes GPUs. However, AMD's data center division is far smaller than Nvidia's and also grew at a slower rate during its most recent quarters.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHowever, GPUs aren't the only way AI computing is done. While GPUs are incredibly flexible and can do a lot of tasks, they aren't optimized for any one workload. There are many tasks that need to be done on a repetitive basis in the AI world, and a specialized computing unit can thrive in these tasks.\n\nThis is where I see the biggest threat to Nvidia's business, and there are two key players in this industry.\n\nCustom AI chips are expected to become more popular in the future\n\nThe two primary custom AI chip firms are Marvell and Broadcom (NASDAQ: AVGO). Marvell's primary clients are Microsoft and Amazon , while Broadcom has partnered with Alphabet , Meta Platforms , Anthropic, and OpenAI. Marvell and Broadcom are very similar to AMD and Nvidia. While Marvell has the business and is competing, it doesn't have the size. Marvell's AI data center revenue totaled $2.1 billion in Q2.\n\nBroadcom's AI semiconductor revenue reached $16.7 billion. Broadcom is the company to beat in this industry, and I think it's one that Nvidia actually needs to worry about.\n\nThe crown jewel of Broadcom's custom AI chip empire is Google's Tensor Processing Unit (TPU), a device that Broadcom and Alphabet have collaborated on for a long time. These units have gone through several generations and are even starting to be sold on the market by Alphabet because there's such high demand for them. Broadcom's other clients will look to recreate these units optimized for their own workloads, and Broadcom will benefit significantly from growth in this area.\n\nThis year, they estimate their AI segment revenue will be around $58 billion. However, that figure is expected to reach $115 billion in 2027 and $230 billion in 2028. For reference, Nvidia expects its 2027 revenue growth to be about 70% so that Broadcom will be growing at a slower pace. This points to Broadcom taking market share from Nvidia as the build-out grows. Still, it will never fully replace Nvidia, as GPUs are useful in many situations that custom AI chips aren't.\n\nStory Continues\n\nThis leaves a major market open for both stocks, although Broadcom may be in a better position to capture more business. However, its stock isn't really pricing in any growth for 2027.\n\nBroadcom's stock isn't expensive\n\nBroadcom currently trades at 43 times trailing earnings, which isn't super cheap. However, it doesn't price in the massive growth it's expected to undergo next year.\n\nAVGO PE Ratio data by YCharts\n\nWith the shares trading at 17 times next year's earnings estimates, it shows the market expects huge growth. If Broadcom rose to 35 times earnings by the end of next fiscal year, it would indicate that the stock has the potential to double.\n\nThat's a solid return in a short time frame, but remember, Broadcom also said it would double its revenue base again in 2028. That means there are multiple years of strong returns ahead for Broadcom. With it gaining new clients in the AI sector, there's a lot of opportunity for Broadcom to firmly establish itself alongside Nvidia as a major leader in the AI computing space . As a result, I think it's a smart buy now.",
       "Language": "en"
     },
     {
@@ -137,7 +147,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "SIMO",
+      "Ticker": "MRVL, SIMO",
       "Date": "2026-10-26",
       "Time": "22:29:00",
       "Source": "Yahoo Finance",
