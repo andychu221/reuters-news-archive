@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T14:14:14.621Z",
-  "total_news_count": 374,
+  "last_updated": "2026-10-27T14:25:17.583Z",
+  "total_news_count": 377,
   "news": [
     {
       "Ticker": "META",
@@ -63,6 +63,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".SPX",
+      "Date": "2026-10-27",
+      "Time": "21:42:34",
+      "Source": "Yahoo奇摩股市",
+      "Title": "Anthropic效應延燒 台指期夜盤狂飆500點 美股4大指數齊揚",
+      "URL": "https://tw.stock.yahoo.com/news/anthropic%E6%95%88%E6%87%89%E5%BB%B6%E7%87%92-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E7%8B%82%E9%A3%86500%E9%BB%9E-%E7%BE%8E%E8%82%A14%E5%A4%A7%E6%8C%87%E6%95%B8%E9%BD%8A%E6%8F%9A-134234006.html",
+      "Content": "Anthropic提交IPO申請後，AI投資熱潮重新升溫。受Anthropic效應帶動，樂觀情緒持續支撐科技板塊，周二（27日）美股一開盤4大指數續揚，那斯達克指數上漲逾100點，與台股連動密切的費城半導體指數漲幅逾1%。台指期夜盤力拼站回季線，一度飆漲509點，報46615點。\n\n除了關注科技板塊動向，交易員也把注意力放在密集公布的企業財報、即將舉行的聯準會貨幣政策會議，以及持續緊張的中東局勢。市場普遍預期本周Fed將採取鷹派按兵不動的姿態，這幾乎勢必會為12月升息鋪平道路。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-10-27",
+      "Time": "21:37:47",
+      "Source": "Yahoo奇摩股市",
+      "Title": "證交稅、期交稅改革！金總端出26項建言 拼台股國際競爭力",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%AD%89%E4%BA%A4%E7%A8%85-%E6%9C%9F%E4%BA%A4%E7%A8%85%E6%94%B9%E9%9D%A9-%E9%87%91%E7%B8%BD%E7%AB%AF%E5%87%BA26%E9%A0%85%E5%BB%BA%E8%A8%80-%E6%8B%BC%E5%8F%B0%E8%82%A1%E5%9C%8B%E9%9A%9B%E7%AB%B6%E7%88%AD%E5%8A%9B-133747668.html",
+      "Content": "金融總會今日發布115年金融建言白皮書最終版本，其中金融業提出擴大債券ETF免徵證交稅範圍、當沖降稅建議可以延長10年到126年12月31日止，以及建議全面檢討期貨交易稅，提升期貨市場的國際競爭力。\n\n金融總會這次白皮書5大金融建言主題,包括「提升金融韌性與風險監理」、「健全金融市場發展與業務創新」、「促進金融科技發展與創新應用」、「落實金融永續與促進社會公益」及「調適金融監理制度與相關法規」等，共提出26項建言議題、38則具體建議作法。\n\n投信投顧業公會建議，延續停徵以債券為主要投資標的之上市及上櫃指數股票型基金(ETF)的證券交易稅及將以債券為主要投資標的的主動式交易所交易基金併入暫停課徵證券交易稅之適用範。\n\n公會建議，包含槓桿型及反向型之債券指數股票型基金及債券主動式交易所交易基金的受益憑證也可以被停課證交稅。\n\n券商公會建議，上市櫃現股當沖證交稅率1.5‰延長實施年限至126年底；期貨業則建議期交所通盤研究如何建構合理期貨交易稅率，作為金管會及財政部進行政策溝通之參考，以提升期貨市場國際競爭力。\n\n期貨公會表示，鑑於合理的期貨交易稅率，有助於降低避險成本、提升市場流動性、吸引國內外法人參與，並強化我國期貨市場之國際競爭力，亦與政府推動亞洲資產管理中心政策方向相符。\n\n會計師則業建議，及早研擬金融業導入代理式AI的治理框架與相關治理指引，可於現有「金融業運用AI指引」下，增訂針對自主性AI代理（Agentic AI）的原則性規範，或由各金融同業公會於相關AI應用自律規範中進行指引設定，以兼顧進階AI創新與金融風險控管。\n\n以及加速推動RWA（現實世界資產）相關分類指引與立法，並及早開放穩定幣應用場景的業務試辦，以支持未來相關規範的制定。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-10-27",
       "Time": "21:27:53",
@@ -71,6 +91,16 @@
       "URL": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
       "Content": "Microsoft ( MSFT ) announced on Monday that it was offering voluntary buyouts to roughly 60,000 employees as it looks to reshape its organization for the AI era.\n\n\"The Voluntary Exit Offer reflects an important part of how we're evolving our approach to change: creating greater flexibility and, where possible, more ways for employees to shape their next chapter,\" Amy Coleman, Microsoft's executive vice president and chief people officer, wrote in a memo to employees.\n\nThe company is reportedly offering buyouts to employees in Canada, India, the United Kingdom, and the United States at level 70 and below, which includes some senior-level personnel.\n\nThe stock rose on Monday following the announcement but fell on Tuesday morning.\n\nThe announcement follows Microsoft's first voluntary retirement program , which it announced in May. The retirement packages offered ranged from eight to 39 weeks of base pay, depending on employees' positions and tenure.\n\nThe offers to staff come as Microsoft plans to spend $190 billion on capital expenditures in 2026, largely tied to its investments in artificial intelligence.\n\nAll eyes will be on the Big Tech giant on Wednesday, when Microsoft releases its quarterly earnings and provides an update on its capex plans and Azure cloud growth.",
       "Language": "en"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-10-27",
+      "Time": "21:11:31",
+      "Source": "Yahoo奇摩股市",
+      "Title": "抱緊台積電就對了？外媒曝AI需求未見頂 2030年目標超狂",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%8A%B1%E7%B7%8A%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%B1%E5%B0%8D%E4%BA%86-%E5%A4%96%E5%AA%92%E6%9B%9Dai%E9%9C%80%E6%B1%82%E6%9C%AA%E8%A6%8B%E9%A0%82-2030%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%B6%85%E7%8B%82-131131566.html",
+      "Content": "人工智慧（AI）基礎建設持續擴張，台積電被外媒視為這波需求成長的重要受惠者。身為全球規模最大的晶圓代工廠，台積電憑藉先進製程技術，為輝達GPU、蘋果智慧型手機等產品生產所需晶片。美國投資媒體《The Motley Fool》進一步分析其未來成長前景，認為若AI需求持續強勁，台積電到2030年仍有機會大幅提升市值。\n\nAI晶片需求成長 台積電掌握產能布局優勢\n\n台積電先前預估，2024年至2029年AI晶片銷售額的年複合成長率將達50%以上。董事長魏哲家在近期財報電話會議中，雖未提出更新後的具體數字，但表示市場需求極其強勁，實際成長率可能更高。《The Motley Fool》也指出，部分晶片業者看好2030年至2031年需求維持高檔，顯示AI相關需求可能延續。\n\n從業務結構來看，台積電第3季約70%的業務來自高效能運算領域，其中包含AI相關產品；智慧型手機約占20%，其他產業約占10%。高效能運算業務的發展，將是影響台積電未來成長的重要因素。\n\n在海外布局方面，台積電已投資美國亞利桑那州晶圓廠，並承諾投入2650億美元擴大美國晶片生產能力。《The Motley Fool》認為，這項布局有助於擴充產能，也能分散晶片生產地點。\n\n外媒估2030年市值 關鍵在營收與獲利表現\n\n《The Motley Fool》分析師德魯里（Keithen Drury）提出一項成長情境試算。由於台積電先前對AI晶片銷售成長的預測涵蓋部分高成長年份，分析改以整體營收每年成長35%作為估算前提，並以分析師預期台積電2027年成長率可達38%作為參考。\n\n獲利能力方面，台積電近幾個月的獲利率達51%，為保留一定的保守空間，德魯里將試算中的獲利率設定為50%。依照營收每年成長35%、獲利率維持50%的假設，台積電2030年營收可達約5180億美元，獲利約2590億美元。\n\n估值方面，台積電目前本益比約28倍。若2030年本益比降至25倍，估算其市值有機會達到6.5兆美元，為目前約2.2兆美元市值的近3倍。\n\n依照上述估算，台積電股價在未來數年有機會大幅成長，現在投入5000美元，到2030年可能增值至約1.5萬美元。\n\n報導最後總結指出，這代表短短幾年內就能取得相當可觀的報酬。如果AI建設浪潮能夠按照預期的步調持續推進，台積電將會是在這段期間最值得持有的股票之一。",
+      "Language": "zh"
     },
     {
       "Ticker": "AMZN",
