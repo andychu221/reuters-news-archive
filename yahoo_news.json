@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T15:13:20.785Z",
-  "total_news_count": 389,
+  "last_updated": "2026-10-27T15:22:26.621Z",
+  "total_news_count": 390,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -1623,6 +1623,16 @@
       "Related_Score": 1,
       "Sentiment_Score": -1,
       "Keywords": "台股, 變盤, 反指標, 網紅, 信心文"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-10-27",
+      "Time": "12:09:59",
+      "Source": "Yahoo Finance",
+      "Title": "Global chip, AI stocks surge on Anthropic IPO cheer",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-ai-stocks-surge-040959441.html",
+      "Content": "Investing.com-- Global chipmakers and AI-related stocks rallied on Tuesday after Anthropic filed for an initial public offering (IPO), reviving optimism about AI demand.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nU.S.-listed shares of SK Hynix rose 2.2% in early U.S. trading by 09:42 ET (13:42 GMT), while Micron climbed 2.3%, and Broadcom jumped 4.7%. AMD and Intel rose more than 3% each.\n\nNeocloud stocks CoreWeave and Nebius surged 6% and 10.7%, respectively.\n\nIn Europe, ASM International rose 3.7%, and STMicroelectronics gained 4.4%. Germany's Infineon added 2.8%. BE Semiconductor surged more than 10%, though those gains primarily came after Applied Materials announced plans to raise its stake in Besi to 20% from 9%.\n\nIn Asia, South Korea's Samsung Electronics (KS:005930) shares closed 5.2% higher in Seoul trading, while SK Hynix Inc (KS:000660) climbed 4.2%.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nJapanese semiconductor equipment makers Tokyo Electron (TYO:8035) rose 3.1%, and Advantest Corp. (TYO:6857) surged 9%.\n\nJapan's top AI investor SoftBank Group (TYO:9984) shares also climbed 5%.\n\nAnthropic, the maker of the Claude chatbot, on Monday disclosed rapid revenue growth alongside steep losses in its IPO filing, highlighting both the commercial potential of generative AI and the substantial costs of developing advanced models.\n\nMarkets now await results from major U.S. technology companies this week for evidence that AI investment is translating into sustainable profits.\n\nVahid Karaahmetovic contributed to this report.\n\nOriginal Article\n\nGlobal chip, AI stocks surge on Anthropic IPO cheer\n\n'Bespoke opportunity': RBC initiates Ermenegildo Zegna at Outperform\n\nRoyal Caribbean stock jumps: beats on Q3 profit, raises full-year outlook",
+      "Language": "en"
     },
     {
       "Ticker": "STM",
