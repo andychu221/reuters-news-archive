@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T11:13:47.828Z",
-  "total_news_count": 265,
+  "last_updated": "2026-10-27T11:21:04.778Z",
+  "total_news_count": 266,
   "news": [
     {
       "Ticker": "GOOGL, AMZN",
@@ -863,6 +863,16 @@
       "Related_Score": 1,
       "Sentiment_Score": -1,
       "Keywords": "台股, 變盤, 反指標, 網紅, 信心文"
+    },
+    {
+      "Ticker": "STM",
+      "Date": "2026-10-27",
+      "Time": "12:09:59",
+      "Source": "Yahoo Finance",
+      "Title": "Global chipmaking, AI stocks surge on Anthropic IPO cheer",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/asia-chipmaking-ai-stocks-surge-040959441.html",
+      "Content": "Investing.com-- Global chipmakers and artificial intelligence-related stocks rallied on Tuesday after Anthropic filed for an initial public offering (IPO), reviving optimism about AI demand.\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nU.S.-listed shares of SK Hynix rose 2.5% in premarket trading by 06:08 ET (10:08 GMT), while Micron climbed 1.7%, as did Broadcom. Neocloud stocks CoreWeave and Nebius also added around 1%.\n\nIn Europe, ASM International rose 2.2%, and STMicroelectronics gained 1.7%. Germany's Infineon added 1%. BE Semiconductor surged more than 8%, though those gains primarily came after Applied Materials announced plans to raise its stake in Besi to 20% from 9%.\n\nIn Asia, South Korea's Samsung Electronics (KS:005930) shares closed 5.2% higher in Seoul trading, while SK Hynix Inc (KS:000660) climbed 4.2%.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nJapanese semiconductor equipment makers Tokyo Electron (TYO:8035) rose 3.1%, and Advantest Corp. (TYO:6857) surged 9%.\n\nJapan's top AI investor SoftBank Group (TYO:9984) shares also climbed 5%.\n\nAnthropic, the maker of the Claude chatbot, on Monday disclosed rapid revenue growth alongside steep losses in its IPO filing, highlighting both the commercial potential of generative AI and the substantial costs of developing advanced models.\n\nMarkets now await results from major U.S. technology companies this week for evidence that AI investment is translating into sustainable profits.\n\nVahid Karaahmetovic contributed to this report.\n\nOriginal Article\n\nGlobal chipmaking, AI stocks surge on Anthropic IPO cheer\n\nBernstein outlines what the UK Budget means for European retailers\n\nExclusive: HyProMag USA maps three new magnet plants to quadruple U.S. capacity",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII, .SPX",
