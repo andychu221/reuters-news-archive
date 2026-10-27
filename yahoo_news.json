@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T06:35:03.018Z",
-  "total_news_count": 163,
+  "last_updated": "2026-10-27T06:53:48.848Z",
+  "total_news_count": 169,
   "news": [
     {
       "Ticker": ".TWII",
@@ -73,7 +73,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": ".TWII",
+      "Ticker": "2344.TW, 2408.TW, .TWII",
       "Date": "2026-10-27",
       "Time": "13:16:00",
       "Source": "Yahoo奇摩股市",
@@ -153,6 +153,26 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2344.TW",
+      "Date": "2026-10-27",
+      "Time": "11:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "華邦電擴16奈米與矽電容，2027產能續開出",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%93%B416%E5%A5%88%E7%B1%B3%E8%88%87%E7%9F%BD%E9%9B%BB%E5%AE%B9-2027%E7%94%A2%E8%83%BD%E7%BA%8C%E9%96%8B%E5%87%BA-030600831.html",
+      "Content": "MoneyDJ新聞 2026-10-27 11:06:38 數位內容中心 發佈\n\n華邦電（2344）持續擴充高雄路竹廠Module A產能，月產能規劃由1.5萬片提高至2.4萬片，並同步拉升16奈米製程比重，2027年起新產能貢獻將較明顯。Module B量產時程則落在2029年底後，現階段增量仍以Module A與製程轉進為主。\n\n產品布局上，華邦電除了既有DRAM與Flash，也把矽電容列為新成長線。Si-Cap已進入量產，現有產能已有訂單支撐，並投入約40億元建置專用產線，準備承接更多客戶需求。量產產品單位面積電容值約3,300nF/mm²，最新樣品已提升至5,400nF/mm²，應用鎖定CoWoS、EMIB等先進封裝與AI電源相關領域。\n\n華邦電在非記憶體產品的接單能見度也已拉長。Si-Cap主要客戶對下游客戶的合約期間約兩年，華邦電取得的供貨合約期限同樣不低於兩年，明年營收占比估落在5%至10%。在影像處理應用端，傑霖科技現行部分系統已採用華邦電PSRAM，反映華邦電低功耗記憶體仍持續滲透特定利基市場。\n\nFlash業務則同步擴線。華邦電推進收購英飛凌NOR Flash及F-RAM事業，交易完成後，原有NOR產品線與Spansion品牌將維持各自商業模式運作。Spansion近期已取得信驊AST2700 BMC平台採用並完成驗證，新增AI伺服器切入點；現階段主要市場仍以車用為主，但伺服器應用已開始建立產品落點。\n\n面對2027年全球記憶體擴產啟動，華邦電後續競爭力仍看實際良率、產品規格與可交付產能。國際同業新廠多已排定搬機或無塵室投用時程，但從裝機、驗證到良率爬坡仍需時間，華邦電現階段先以高雄16奈米轉進、NOR雙品牌布局與Si-Cap專線擴產，鎖定可量產、可驗證、可出貨的產品組合。\n\n營運表現方面，華邦電2026年9月合併營收282.49億元，月增3.44%，年增256.67%，創單月新高。2026年前9月合併營收1,804.27億元，年增187.39%，後續成長動能仍對應高雄Module A由1.5萬片擴至2.4萬片，以及Si-Cap明年營收占比5%至10%的產能開出進度。\n\n力積電續攻AI記憶體/封裝，明年導入1P設備\n\n長鑫DRAM追兵 三星SK海力士崩跌、韓股Sidecar\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-27",
+      "Time": "11:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科5A廠明年裝機，月產能2030拚5萬片",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%915a%E5%BB%A0%E6%98%8E%E5%B9%B4%E8%A3%9D%E6%A9%9F-%E6%9C%88%E7%94%A2%E8%83%BD2030%E6%8B%9A5%E8%90%AC%E7%89%87-030600465.html",
+      "Content": "MoneyDJ新聞 2026-10-27 11:06:35 數位內容中心 發佈\n\n南亞科（2408）加快林口5A新廠建置，2027年第一季啟動裝機，資本支出也由520億元提高至不超過697億元，主要用於支付5A新廠設備預付款。這座新廠規劃在2027年底少量貢獻，2028年底月投片目標3萬片，2030年底再拉高至5萬片。以目前規劃看，南亞科明年整體產能基本不增，新增供給仍要等裝機、產品驗證與良率爬坡完成後才會逐步釋出。\n\n產品布局上，南亞科所處的一般DRAM市場，接下來的供給節奏不只看晶圓廠擴建，還要看封裝測試、載板與下游交付是否同步到位。全球主要記憶體廠已排定2027年搬機與無塵室啟用時程，三星推進P4、P5先進DRAM投資，SK海力士龍仁Y1首座無塵室預計2027年啟用，美光也在台灣銅鑼與美國愛達荷布局新產能。對南亞科來說，5A新廠的推進節奏，將直接關係後續位元供給、產品驗證與客戶出貨時點。\n\n南亞科也切入集團資料中心基礎設施整合，導入完整不斷電系統方案，支撐高密度運算環境的供電需求。這類建置雖非記憶體產線本身，仍與後續資料中心應用場域連動，反映公司在擴廠之外，同步強化周邊運作條件。外部競爭面則有中國長鑫擴產與DDR5、LPDDR5比重拉高的變數，但短期有效供給仍取決於良率、成本與客戶驗證，名義產能不等於可立即出貨的良品數。\n\n營運數字方面，南亞科2026年9月合併營收450.91億元，月增0.9%，年增576.62%。2026年第三季合併營收1336.49億元，季增61.9%，年增611.7%，單季首度突破千億元。2026年前三季合併營收2652.85億元，年增626.95%。第四季產品價格續漲，10月調升雙位數%，11月與12月仍有續漲可能，第四季營運可望優於2026年第三季。\n\n《DJ在線》2027年擴產待爬坡，DRAM需求續增\n\n長鑫DRAM追兵 三星SK海力士崩跌、韓股Sidecar\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2454.TW",
       "Date": "2026-10-27",
       "Time": "10:51:36",
@@ -223,7 +243,7 @@
       "Language": "en"
     },
     {
-      "Ticker": ".KS11",
+      "Ticker": "2344.TW, 2408.TW, .KS11",
       "Date": "2026-10-27",
       "Time": "09:51:50",
       "Source": "Yahoo奇摩股市",
@@ -353,7 +373,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "2330.TW",
+      "Ticker": "2408.TW, 2330.TW",
       "Date": "2026-10-27",
       "Time": "09:07:31",
       "Source": "Yahoo奇摩股市",
@@ -1123,6 +1143,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-24",
+      "Time": "18:15:37",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股下周又崩盤？「16檔錯殺股」底氣爆表 內行曝KD超賣別亂砍",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E4%B8%8B%E5%91%A8%E5%8F%88%E5%B4%A9%E7%9B%A4-16%E6%AA%94%E9%8C%AF%E6%AE%BA%E8%82%A1-%E5%BA%95%E6%B0%A3%E7%88%86%E8%A1%A8-%E5%85%A7%E8%A1%8C%E6%9B%9Dkd%E8%B6%85%E8%B3%A3%E5%88%A5%E4%BA%82%E7%A0%8D-101537543.html",
+      "Content": "美股費城半導體指數22日重挫近7%後，周五（23日）小幅反彈0.44%，台積電ADR也上漲1.49%。不過，台股在外資大舉提款下，加權指數在連假前收在46021點、已失守季線46207點，下周二（27日）恢復交易後，仍面臨補跌與修正壓力。法人指出，隨著技術指標KD進入超賣區，若外資賣壓逐步減輕，聯電、台積電、南亞科等16檔基本面具支撐的錯殺股，有望成為反彈行情的觀察重點。\n\n工商時報報導，據統計，這16檔個股10月以來均遭外資賣超逾3000張，第三季營收卻繳出年增、季增雙成長成績，本益比也回落至接近或低於7月30日前波低點的水準，且KD指標均低於20，顯示短線進入超賣區。個股名單包括聯電、台積電、南亞科、旺宏、聯發科、合晶、台達電、南茂、光寶科、威剛、亞翔、全友、映泰、聯鈞、華城及智伸科。\n\n外資10月以來大舉賣超台股逾8,200億元，加權指數22日失守季線。法人分析，近期市場資金快速移動，籌碼整理仍需要時間，但部分企業營運表現持續成長，股價修正後，評價面也逐漸浮現吸引力。若後續外資調節力道收斂，市場重新聚焦企業獲利，這16檔個股有機會成為台股反彈時的觀察標的。\n\n凱基投顧台股分析師張明祥表示，台積電法說會上修全年營收展望，顯示AI需求仍優於市場原先預期，半導體與AI產業鏈也有機會迎來獲利上修。隨著財報陸續公布，市場焦點可望從短期利空轉向企業獲利成長，近期震盪可能提供中長期布局機會。\n\n野村台灣新科技50 ETF經理人林怡君指出，近期台股受到利率維持高檔、AI融資成本上升及部分AI伺服器訂單遞延等因素影響，外資因而大舉撤出。不過，隨著賣壓逐步消化，市場仍有機會回歸企業獲利與產業基本面，具備關鍵技術、穩定接單能力及良好獲利品質的企業，較有機會維持競爭優勢。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "SNDK",
       "Date": "2026-10-24",
       "Time": "16:35:00",
@@ -1413,6 +1443,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-23",
+      "Time": "07:53:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科10/14~22取得廠務設備一批，計約12.2億元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%9110-14-22%E5%8F%96%E5%BE%97%E5%BB%A0%E5%8B%99%E8%A8%AD%E5%82%99-%E6%89%B9-%E8%A8%88%E7%B4%8412-235300041.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:廠務設備\n\n2.事實發生日:115/10/14~115/10/22\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年10月22日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣1,223,552,481元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關係人者，得免揭露其姓名）:廣毅國際工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期及移轉金額:不適用\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係人之取得及處分日期、價格及交易當時與公司之關係:不適用\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明認列情形）:不適用\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定事項:依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及決策單位:比、議價：依廠商及其他廠商提供之報價單等作為參考依據，並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:不適用\n\n13.專業估價師姓名:不適用\n\n14.專業估價師開業證書字號:不適用\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:不適用\n\n18.估價結果有重大差異時，其差異原因及會計師意見:不適用\n\n19.會計師事務所名稱:不適用\n\n20.會計師姓名:不適用\n\n21.會計師開業證書字號:不適用\n\n22.經紀人及經紀費用:不適用\n\n23.取得或處分之具體目的或用途:供生產/營運使用\n\n24.本次交易表示異議之董事之意見:不適用\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:不適用\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:無\n\n官股連12買 狂敲12檔權值\n\n外資倒貨錯殺好股？台股失守季線 法人點出反攻條件 看好聯電、南亞科等16檔\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
       "Ticker": "2303.TW",
       "Date": "2026-10-23",
       "Time": "06:05:55",
@@ -1561,6 +1601,26 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-kla-corporation-klac-110113248.html",
       "Content": "This article first appeared on GuruFocus .\n\nETFs bought $107.0 million of KLA Corporation ( KLAC ) on Tuesday, Oct. 20, with 39 funds adding shares against 19 that sold. The buying extended a two-day streak of net purchases. ETF activity turned positive after three straight sessions of net selling, including $53.0 million on Oct. 15 and $51.9 million on Oct. 14. The prior day, Oct. 19, saw $116.0 million in net buying.\n\nWarning! GuruFocus has detected 4 Warning Signs with MU.\n\nIs KLAC fairly valued? Test your thesis with our free DCF calculator.\n\nSee all ETF and guru trades in KLAC on its KLAC guru trades page .\n\nWhich ETFs bought KLAC on Tuesday?\n\nThe largest buyers by dollar value were SOXX ($95.5 million), SOXQ ($1.0 million) and IYW ($0.9 million). In all, 39 ETFs added shares and 19 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\nSOXX\n\n+590,274\n\n$95.5M\n\n3.74%\n\nSOXQ\n\n+6,210\n\n$1.0M\n\n3.77%\n\n+5,796\n\n$0.9M\n\n1.06%\n\nESGU\n\n+4,521\n\n$0.7M\n\n0.26%\n\nQQQM\n\n+3,173\n\n$0.5M\n\n0.91%\n\nQQQI\n\n+2,610\n\n$0.4M\n\n0.94%\n\nURTH\n\n+2,107\n\n$0.3M\n\n0.23%\n\nTECL\n\n+1,488\n\n$0.2M\n\n1.30%\n\nSOXX drove the move, adding 590,274 shares worth $95.5 million, a 6.08% increase in its stake, with KLA at 3.74% of the fund's weight. SOXQ added 6,210 shares for $1.0 million, IYW added 5,796 shares for $0.9 million, and ESGU added 4,521 shares for $0.7 million. Smaller additions came from QQQM , QQQI , URTH and TECL . KLA sits in the Technology sector, in the Semiconductor Equipment & Materials industry, with a market cap of $213.3 billion.\n\nHave ETFs been buying or selling KLAC lately?\n\nOver the last 5 reported days, ETFs were net buyers on 2 and net sellers on 3, so the recent trend is mostly selling.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nOct. 20\n\n$107.0M\n\nOct. 19\n\n$116.0M\n\nOct. 16\n\n-$2.3M\n\nOct. 15\n\n-$53.0M\n\nOct. 14\n\n-$51.9M\n\nWhat does KLAC do?\n\nKLA Corporation is the world's leading supplier of process control and yield management systems for semiconductor manufacturing. Its inspection and metrology tools find defects and measure critical dimensions on wafers, reticles, and masks throughout the chip fabrication process, enabling manufacturers to improve yields at leading-edge nodes where tolerances are measured in atoms.\n\nKLA reported trailing-12-month revenue of $13.57 billion, up 13.2% over one year, with a gross margin of 60.1% and a net margin of 35.6%. Its P/E is 44.56, P/B 33.64 and P/S 15.88. The GF Score is 93, and GF Value of $115.18 compares with a price of $163.43. The dividend yield is 0.52%, and the stock is up 35.0% year to date.\n\nKLAC at a glance\n\nMeasure\n\nPrice\n\n$163.43\n\nMarket cap\n\n$213.30B\n\nRevenue (trailing 12 months)\n\n$13.57B\n\nRevenue growth (1 year)\n\n+13.2%\n\nGross margin\n\n60.1%\n\nNet margin\n\n35.6%\n\n44.56\n\n33.64\n\n15.88\n\nGF Score\n\n93/100\n\nGF Value\n\n$115.18\n\nDividend yield\n\n0.52%\n\nYear-to-date return\n\n+35.00%\n\nStory Continues\n\nInvestors following KLAC can review its GF Value , guru trades and insider activity on the KLAC summary page .\n\nWhat should investors watch next for KLAC?\n\nWatch whether the two-day buying streak holds after the three prior sessions of net selling.\n\nBased on ETF holdings changes reported for Oct. 20, 2026.\n\nSee which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\nWhat else did ETFs trade on Tuesday?\n\nSector Trends: Technology Leads, Consumer Defensive Sold on Oct. 20\n\nIntel (INTC) Sees $210.4 Million in Net ETF Buying on Oct. 20\n\nETFs Bought $185.9 Million of Advanced Micro Devices (AMD) on Tuesday\n\nETFs Are Buying Broadcom (AVGO) on Tuesday\n\nETFs Bought $154.3 Million of Marvell (MRVL) on Oct. 20\n\nKLAC GF Value chart\n\nKLAC GF Value chart See all ETF and guru trades in KLAC on its KLAC guru trades page .\n\nThe largest buyers by dollar value were SOXX ($95.5 million), SOXQ ($1.0 million) and <a href=\"https://www.gurufocus.com/etf/IYW/summary?ref=etf-stock&r=caf6fe0e0db70d936033da5461e60141&utm_source=yahoo_finance&utm_medium=syndication&utm_campaign=headlines&utm_content=etfs_are_buying_kla_corporation_%28klac%29_on_tuesday",
       "Language": "en"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-22",
+      "Time": "17:44:49",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科取得廠務設備",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8F%96%E5%BE%97%E5%BB%A0%E5%8B%99%E8%A8%AD%E5%82%99-094449380.html",
+      "Content": "日　　期：2026年10月22日\n\n公司名稱：南亞科 (2408)\n\n主　　旨：南亞科取得廠務設備\n\n發言人：李培瑛\n\n說　　明：\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n廠務設備\n\n2.事實發生日:115/10/14~115/10/22\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年10月22日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣1,223,552,481元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\n廣毅國際工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，\n\n並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n供生產/營運使用\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-10-22",
+      "Time": "17:29:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "南亞科 公告本公司取得廠務設備",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E7%A7%91-%E5%85%AC%E5%91%8A%E6%9C%AC%E5%85%AC%E5%8F%B8%E5%8F%96%E5%BE%97%E5%BB%A0%E5%8B%99%E8%A8%AD%E5%82%99-092900655.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(2408)南亞科-公告本公司取得廠務設備\n\n1.標的物之名稱及性質（如坐落台中市北區ＸＸ段ＸＸ小段土地）:\n\n廠務設備\n\n2.事實發生日:115/10/14~115/10/22\n\n3.董事會通過日期: 不適用\n\n4.其他核決日期:\n\n核決層級:董事長\n\n民國115年10月22日\n\n5.交易單位數量（如ＸＸ平方公尺，折合ＸＸ坪）、每單位價格及交易總金額:\n\n交易數量：一批\n\n交易總金額：新台幣1,223,552,481元\n\n6.交易相對人及其與公司之關係（交易相對人如屬自然人，且非公司之關\n\n係人者，得免揭露其姓名）:\n\n廣毅國際工程有限公司，與公司關係：無。\n\n7.交易相對人為關係人者，並應公告選定關係人為交易對象之原因及前次移轉之\n\n所有人、前次移轉之所有人與公司及交易相對人間相互之關係、前次移轉日期\n\n及移轉金額:\n\n8.交易標的最近五年內所有權人曾為公司之關係人者，尚應公告關係\n\n人之取得及處分日期、價格及交易當時與公司之關係:\n\n9.預計處分利益（或損失）（取得資產者不適用）（遞延者應列表說明\n\n認列情形）:\n\n10.交付或付款條件（含付款期間及金額）、契約限制條款及其他重要約定\n\n依訂單條件或合約約定辦理\n\n11.本次交易之決定方式（如招標、比價或議價）、價格決定之參考依據及\n\n決策單位:\n\n比、議價：依廠商及其他廠商提供之報價單等作為參考依據，\n\n並依本公司核決權限規定辦理。\n\n12.專業估價者事務所或公司名稱及其估價金額:\n\n13.專業估價師姓名:\n\n14.專業估價師開業證書字號:\n\n15.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\n\n16.是否尚未取得估價報告:否或不適用\n\n17.尚未取得估價報告之原因:\n\n18.估價結果有重大差異時，其差異原因及會計師意見:\n\n19.會計師事務所名稱:\n\n20.會計師姓名:\n\n21.會計師開業證書字號:\n\n22.經紀人及經紀費用:\n\n23.取得或處分之具體目的或用途:\n\n供生產/營運使用\n\n24.本次交易表示異議之董事之意見:\n\n25.本次交易為關係人交易:否\n\n26.監察人承認或審計委員會同意日期:\n\n27.本次交易係向關係人取得不動產或其使用權資產:否\n\n28.依「公開發行公司取得或處分資產處理準則」第十六條規定\n\n評估之價格:不適用\n\n29.依前項評估之價格較交易價格為低者，依同準則第十七條規\n\n定評估之價格:不適用\n\n30.前已就同一件事件發布重大訊息日期: 不適用\n\n31.其他敘明事項:\n\n南亞科10/14~22取得廠務設備一批，計約12.2億元\n\n錢鏡你家1／科技ETF今年漲翻倍！基金教授點名3檔　教你避開重複押寶\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "2303.TW",
