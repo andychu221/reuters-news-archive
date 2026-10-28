@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-28T08:02:34.105Z",
-  "total_news_count": 665,
+  "last_updated": "2026-10-28T08:13:20.266Z",
+  "total_news_count": 666,
   "news": [
+    {
+      "Ticker": "MSFT, GOOGL",
+      "Date": "2026-10-28",
+      "Time": "16:06:42",
+      "Source": "Yahoo Finance",
+      "Title": "Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings",
+      "URL": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-28-dow-sp-500-nasdaq-fed-meeting-decision-080642111.html",
+      "Content": "US stock futures were mixed ahead of a critical day for markets, with a Fed decision and earnings results from Microsoft ( MSFT ) and Alphabet ( GOOG ) on deck.\n\nFutures on the Dow Jones Industrial Average ( YM=F ) declined by 0.3%, while those on the S&P 500 ( ES=F ) traded above the flat line, and contracts for the tech-heavy Nasdaq-100 ( NQ=F ) rose 0.3%.\n\nSentiment in the tech trade has markedly improved this week, with the S&P 500 and Nasdaq posting back-to-back gains. Semiconductor stocks drove the rally on Tuesday after Broadcom's CEO negotiated for a consortium of banks to announce a $63 billion financing structure for building AI compute capacity.\n\nAttention now turns toward the Federal Reserve's interest rate decision at 2 p.m. ET, where the Fed is expected to hold rates steady despite elevated inflation readings. Fed Chairman Kevin Warsh's press conference will be closely watched for any signs of a hawkish bias. ( Follow live updates from the meeting .)\n\nEarnings season continues apace as two Big Tech giants and cloud leaders — Microsoft and Alphabet — deliver updates on AI demand and their capex plans after the bell. Microsoft's report comes just after it offered buyouts to up to 60,000 employees as it tries to streamline operations amid the AI build-out.\n\nRounding out the earnings picture are Ford ( F ), GE Vernova ( GEV ), T-Mobile US ( TMUS ), eBay ( EBAY ), Chipotle Mexican Grill ( CMG ), and ServiceNow ( NOW ).\n\nLIVE 1 update\n\n11 mins ago Grace O'Donnell\n\nAI worries expose dollar's hot-money problem\n\nReuters reports:\n\nInvestors have long treated the US dollar as a refuge when markets fall, but foreign money chasing returns from the AI boom could weaken that safe-haven role if the trade unwinds.\n\nForeign capital has poured in to US mega-cap equities, hyperscaler corporate bonds and power-grid infrastructure. That has made the dollar an increasingly crowded ‌bet on American exceptionalism, backed by faster growth, higher yields and persistent foreign demand for US assets.\n\nBut if the AI narrative stumbles, the dollar's safe-haven status could collide with its growing ‌role as a risk-sensitive asset owned increasingly by price-sensitive investors. A sustained selloff in stocks could lead investors to sell US assets, potentially drowning out the safe-haven demand for the currency.\n\nIf the AI trade unwinds, \"it's not as clear the dollar benefits in the ​same way it would have done in the past,\" said Dominic Bunning, head of G10 FX strategy at Nomura.\n\nLIVE\n\n1 update\n\n11 mins ago\n\nGrace O'Donnell",
+      "Language": "en"
+    },
     {
       "Ticker": "2408.TW",
       "Date": "2026-10-28",
@@ -23,7 +33,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "META, NVDA",
       "Date": "2026-10-28",
       "Time": "15:05:02",
       "Source": "Yahoo Finance",
