@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-03T12:25:32.535Z",
-  "total_news_count": 884,
+  "last_updated": "2026-11-03T12:33:19.594Z",
+  "total_news_count": 885,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-11-03",
+      "Time": "20:07:26",
+      "Source": "Yahoo Finance",
+      "Title": "BofA Slashes Marvell Target by 44% After Lumentum Deal",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/bofa-slashes-marvell-target-44-120726332.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology Inc. ( MRVL , Financials ) The semiconductor and data-infrastructure business received a downgrading from Bank of America after it proposed an all-stock purchase of Lumentum.The company downgraded the stock to Neutral from Buy and slashed its price objective to $225 from $400.Bank of America listed three big worries: a protracted regulatory procedure, heavy dilution of shares and probable customer or channel disputes.The deal is scheduled to finalize in the first half of 2028 and is subject to regulatory clearance in China.The company claimed that the expected cost reductions of more than $1 billion may not be sufficient to offset an estimated 50% rise in Marvell's share count, limiting earnings-per-share accretion.Another danger is customer overlap.Marvell sells digital signal processors, transimpedance amplifiers and drivers to optical module producers, and Lumentum sells lasers and also competes in transceivers.The downgrade comes on the heels of losses in the semiconductor sector, with the SOX index down 19 percent over the last month.BofA now values Marvell at 20 times anticipated 2028 profits, down from 33 times.The next driver is regulatory progress and if CanCo can prove that the estimated benefits are adequate to balance dilution and integration risk.",
+      "Language": "en"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-11-03",
@@ -1915,7 +1925,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA, LITE",
+      "Ticker": "MRVL, NVDA, LITE",
       "Date": "2026-11-03",
       "Time": "11:11:19",
       "Source": "Yahoo Finance",
