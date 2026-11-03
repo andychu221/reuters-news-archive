@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T16:13:41.913Z",
-  "total_news_count": 971,
+  "last_updated": "2026-11-03T16:20:06.796Z",
+  "total_news_count": 972,
   "news": [
     {
       "Ticker": "MU",
@@ -113,7 +113,17 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU",
+      "Ticker": "SIMO",
+      "Date": "2026-11-03",
+      "Time": "22:49:00",
+      "Source": "Yahoo Finance",
+      "Title": "SIMO Earnings Surge as Enterprise and AI Storage Drive New Momentum",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/simo-earnings-surge-enterprise-ai-144900986.html",
+      "Content": "Silicon Motion Technology Corporation SIMO delivered a sharp third-quarter earnings acceleration as enterprise, automotive and artificial intelligence storage became larger contributors to growth. The results strengthen the case that its revenue mix is moving beyond traditional consumer storage controllers.\n\nThe key question is whether that shift can support a more durable earnings profile. Current guidance, expanding solutions revenue and new enterprise products point to broader growth drivers, though execution and consumer-market risks remain.\n\nSIMO's Third Quarter Set New Financial Highs\n\nThird-quarter 2026 revenues reached $560.2 million, up 131% year over year and 24% sequentially. Non-GAAP earnings of $4.35 per American depositary share beat the Zacks Consensus Estimate of $3.30 by 31.82% and increased 335% from the year-ago period.\n\nImage Source: Zacks Investment Research\n\nProfitability also improved materially. Non-GAAP operating margin expanded to 32.1% from 15.8% a year earlier, while gross margin rose to 53.7% from 48.7%. The combination of higher volumes and a richer product mix helped lift operating leverage.\n\nSilicon Motion's Solutions Business is Surging\n\nFerri and boot-drive solution sales climbed 75-80% sequentially in the third quarter, supported by automotive, edge artificial intelligence and enterprise demand. Solutions accounted for more than 40% of total revenues, and management expects the category could represent roughly half of revenues in 2027.\n\nThat mix shift could make Silicon Motion less dependent on consumer controller cycles. Automotive programs generally span three to five years, while enterprise boot-drive opportunities provide another source of longer-duration demand. Micron Technology, Inc. MU is also expanding high-capacity data-center solid-state drive offerings for artificial intelligence, cloud and hyperscale workloads, underscoring the broader storage opportunity tied to data-intensive computing.\n\nSIMO's Fourth-Quarter Guidance Extends the Trend\n\nManagement expects fourth-quarter revenues of $588 million to $616 million, implying sequential growth of 5%-10%. Non-GAAP gross margin is projected at 54%-55%, while operating margin is expected to reach 36%-37%.\n\nThe outlook suggests the third-quarter improvement is carrying into year-end rather than fading immediately after a record period. For 2027, management expects revenue growth of at least 40% and gross margins in the low-to-mid-50% range, supported by rising contributions from enterprise controllers and Ferri automotive solutions.\n\nStory Continues\n\nSilicon Motion Is Building for the Next AI Cycle\n\nSilicon Motion taped out its 4-nanometer PCIe Gen6 MonTitan controller in the third quarter, with sampling scheduled for the first quarter of 2027. The product targets hyperscalers and cloud service providers and is designed for both TLC-based compute storage and QLC-based data storage.\n\nFour NAND makers have begun producing 2-terabit QLC dies, with broader availability expected by the end of 2027. That supply expansion could support higher-capacity enterprise storage deployments. Seagate Technology Holdings plc STX is likewise positioning its mass-capacity storage portfolio around rising artificial intelligence and cloud data demand, showing that infrastructure spending is broadening across storage technologies.\n\nSIMO's Ratings Temper the Earnings Excitement\n\nThe latest quarter supports the view that Silicon Motion is becoming a more diversified storage supplier, but the transition is not yet complete. Consumer weakness, customer qualification requirements and supply-chain constraints still create uncertainty around how smoothly the enterprise ramp develops.\n\nSIMO currently carries a Zacks Rank #3 (Hold). It also has a Value Score of D and Momentum Score of D, along with a Growth Score of F and VGM Score of F. Because the Style Scores complement the Zacks Rank, these weaker grades suggest a more measured near-term stance even as the company's enterprise and artificial intelligence exposure expands. You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
+      "Ticker": "SIMO, MU",
       "Date": "2026-11-03",
       "Time": "22:44:00",
       "Source": "Yahoo Finance",
