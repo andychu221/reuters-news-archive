@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-03T15:37:52.150Z",
-  "total_news_count": 963,
+  "last_updated": "2026-11-03T16:03:53.220Z",
+  "total_news_count": 965,
   "news": [
+    {
+      "Ticker": "MU",
+      "Date": "2026-11-03",
+      "Time": "23:31:46",
+      "Source": "Yahoo Finance",
+      "Title": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-unprecedented-memory-warning-adds-153146150.html",
+      "Content": "Investing.com -- Apple (NASDAQ:AAPL) may have delivered one of the clearest warnings yet that the global memory squeeze has further to run, giving investors another reason to watch Micron (NASDAQ:MU), SK hynix (NASDAQ:SKHY) and Samsung Electronics Co Ltd (KS:005930).\n\nStill guessing which stocks will beat the market? Our AI portfolio updates monthly and is outperforming the S&P 500 by 118%. See this month's list »\n\nOn its earnings call Monday, Apple CEO John Ternus described memory pricing as \"unprecedented\" and said the prices the company pays will keep climbing beyond the December quarter. As one of the world's biggest buyers of memory for iPhones, Macs and iPads, Apple offers a window into pricing pressure well beyond AI data centers.\n\nThe impact is already showing up in Apple's margins. The company forecast December quarter gross margin of 45% to 46%, down from 47.9% in September. Chief Financial Officer Kevan Parekh said most of the decline would be driven by higher memory costs. Excluding tariff effects, memory accounted for the entire one percentage point sequential margin decline from June to September.\n\nManagement does not see relief around the corner. Ternus said Apple paid more for memory in September than in June and expects costs to rise further in the December quarter. Looking beyond that period, memory purchase prices are expected to keep increasing. Apple has raised prices on Macs, iPads and iPhones to help offset the pressure. Carry-in inventory and lower costs for some non-memory components are providing relief, but the benefit from older inventory is expected to fade.\n\nThe pressure is not just about cost. Apple said Mac and iPad supply will remain constrained in the December quarter, primarily because of memory, as demand has exceeded expectations. The company's manufacturing purchase obligations increased by $33 billion between June and September as it works to improve supply. Those commitments cover broader manufacturing needs, not memory alone, but underscore the effort to secure components.\n\nUnsure what to buy ahead of earnings? Our AI's recent pre-earnings calls delivered gains of +77% to +118% after results dropped. See this month's earnings picks »\n\nFor memory makers, Apple's comments confirm suppliers' pricing power. AI infrastructure spending has encouraged chipmakers to prioritize high-bandwidth memory and server products, tightening supplies of conventional DRAM used in phones and computers. TrendForce expects conventional DRAM contract prices to rise 10% to 15% in the fourth quarter, while NAND flash prices are forecast to climb 15% to 20%.\n\nStory Continues\n\nYet the memory trade has become more complicated. Despite the strong supply-demand backdrop, Micron, SK hynix, Samsung and other memory-related stocks have pulled sharply back from recent highs as investors worry China could eventually add enough capacity to disrupt the market. China's largest DRAM maker, ChangXin Memory Technologies, or CXMT, is expanding conventional memory production and moving into advanced AI memory, raising concerns that new Chinese supply could weaken pricing power.\n\nThose fears have helped drive a sharp sector selloff. Micron fell sharply in late October as investors reacted to renewed concerns about CXMT, while SK hynix and Samsung were among the hardest-hit stocks during an earlier October chip rout. The concern is not that Chinese suppliers are already matching industry leaders, but that they could become a more meaningful competitor over time.\n\nThe near-term gap remains substantial. Reuters reported last week that CXMT plans to begin limited production of HBM3E, an advanced memory chip used with AI processors, despite yields of only 20% to 30%, compared with about 70% at SK hynix. Testing also suggested CXMT's product remains closer to an earlier generation of HBM. China therefore represents a longer-term risk, not an immediate replacement for established suppliers.\n\nFor now, Apple has added a powerful new data point to the bullish memory thesis: AI demand is not only driving shortages of specialized chips in data centers. It is also making memory inside everyday consumer devices more expensive and harder to secure. The question for investors is how long that imbalance can last before new supply, particularly from China, changes the equation.\n\nOriginal Article\n\nApple's 'unprecedented' memory warning adds fuel to wobbly Micron, SK hynix trade\n\nExclusive: OwlTing CEO on scaling Harbor, growth and path to profitability\n\nAnthropic touts Claude's chip design skills to investors ahead of IPO, report says",
+      "Language": "en"
+    },
     {
       "Ticker": "INTC, AMD",
       "Date": "2026-11-03",
@@ -13,7 +23,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "AMD, INTC",
       "Date": "2026-11-03",
       "Time": "23:03:56",
       "Source": "Yahoo Finance",
@@ -23,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "AMD, AAPL",
       "Date": "2026-11-03",
       "Time": "23:01:20",
       "Source": "Yahoo Finance",
@@ -43,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "AMD, MU, INTC",
       "Date": "2026-11-03",
       "Time": "22:54:24",
       "Source": "Yahoo Finance",
@@ -60,6 +70,16 @@
       "Title": "Micron, Nvidia, and AMD lead chip stocks rebound",
       "URL": "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html",
       "Content": "Semiconductor stocks rebounded Tuesday, with the PHLX Semiconductor Index ( ^SOX ) rising as major chipmakers were on track to recover from steep losses.\n\nShares of memory chipmaker Micron Technology ( MU ) jumped 2%, reversing some of Monday's 7% decline. Peer SK Hynix ( SKHY ), along with memory and storage names Sandisk ( SNDK ), Seagate ( STX ), and Western Digital ( WDC ), opened higher.\n\nAI chipmakers Nvidia ( NVDA ) and AMD ( AMD ) also rallied 2% and 4%, respectively. AMD shares erased some of their 7% losses from the prior session, ahead of the company's quarterly results due after the closing bell Tuesday.\n\nElsewhere, Broadcom ( AVGO ) edged higher, while Intel ( INTC ) jumped 4% in early trading, recovering some of the ground lost during a recent sell-off that included an 8% decline on Monday.\n\nAs Yahoo Finance's Jared Blikre points out, chip and memory stocks have lost about $3.7 trillion in market value since Oct. 6, by Yahoo Finance calculations. Nvidia lost the most in dollar terms, but Intel's nearly 50% drop is the steepest among the giants.\n\nSemiconductor companies have been key beneficiaries of the AI build-out. Concerns over AI spending and neocloud debt weighed on the sector in recent weeks.\n\nClick here for in-depth analysis of the latest stock market news and events moving stock prices\n\nRead the latest financial and business news from Yahoo Finance",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MU",
+      "Date": "2026-11-03",
+      "Time": "22:44:00",
+      "Source": "Yahoo Finance",
+      "Title": "SIMO Stock Falls 33.5% in a Month as Growth Meets Execution Risks",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/simo-stock-falls-33-5-144400199.html",
+      "Content": "Silicon Motion Technology Corporation SIMO shares have fallen 33.5% over the past four weeks, a sharp reversal despite record revenues and expanding exposure to enterprise and AI storage. The drop raises the question of whether valuation now better reflects the company's growth prospects.\n\nImage Source: Zacks Investment Research\n\nThe answer is not straightforward. Enterprise diversification, automotive demand and higher-value storage products support the outlook, but consumer weakness, qualification requirements and supply-chain constraints leave execution risk elevated.\n\nSIMO's Record Growth Contrasts With the Sell-Off\n\nThird-quarter 2026 revenues surged 131% year over year to about $560 million, marking a fourth consecutive quarter of record revenues. Non-GAAP earnings per ADS rose 335% to $4.35, while operating margin expanded to 32.1%.\n\nThe quarter also exceeded the Zacks Consensus Estimate on both the top and bottom lines. Management expects fourth-quarter revenues of $588-$616 million, with non-GAAP operating margin rising to 36%-37%.\n\nSilicon Motion's Enterprise Mix Is Expanding\n\nFerri automotive and enterprise boot-drive solutions grew more than 75% sequentially and represented more than 40% of third-quarter revenues. Management indicated that the solutions business could reach roughly half of revenues in 2027.\n\nThat shift increases exposure to longer-duration programs and higher-value storage opportunities. Micron Technology, Inc. MU, which offers DRAM, NAND and data-center SSDs, illustrates the broader memory and storage ecosystem in which enterprise demand is expanding.\n\nSIMO Faces Persistent Consumer Pressure\n\nElevated NAND and DRAM prices are pressuring smartphone and PC affordability. eMMC and UFS controller revenues declined modestly sequentially in the third quarter, and management expects near-term revenues in that business to remain relatively flat.\n\nSSD controller revenues are also expected to be flat to slightly lower sequentially in the fourth quarter. These trends show that enterprise growth is offsetting, rather than eliminating, weakness in established consumer-facing markets.\n\nSilicon Motion Must Execute on Enterprise Ramps\n\nEnterprise expansion depends on customer qualifications, production ramps and component availability. MonTitan is scaling across seven announced customers, while Silicon Motion's 4-nanometer PCIe Gen6 MonTitan controller is scheduled to begin sampling in the first quarter of 2027.\n\nNear-CPU boot-drive opportunities add another execution layer because customized firmware and customer-specific features are required. Seagate Technology Holdings PLC STX, whose portfolio includes cloud, edge and data-center storage products, provides another reference point for the scale and complexity of enterprise storage markets.\n\nStory Continues\n\nSIMO's Valuation Adds Context to the Decline\n\nSIMO trades at 12.1X forward 12-month earnings, below its five-year median of 19.4X but above the Zacks sub-industry's 9.4X. The lower multiple versus its own history reflects a materially different valuation backdrop after the recent share-price pullback.\n\nThe discount to SIMO's historical median may look more attractive if enterprise ramps progress as planned. Still, the premium to the sub-industry means investors are not being offered a uniformly cheap valuation relative to peers.\n\nSIMO's Signals Still Favor a Cautious View\n\nSIMO's growth and valuation setup remains mixed. Record operating performance and enterprise diversification support the longer-term case, while consumer pressure and execution requirements argue against treating the 33.5% decline alone as a buy signal.\n\nThe stock currently carries a Zacks Rank #3 (Hold). It has a Value Score of D and Momentum Score of D, along with a Growth Score of F and VGM Score of F. Since the Style Scores are designed to complement the Zacks Rank, these weaker grades support a measured stance despite the company's strong recent fundamental growth. You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
       "Language": "en"
     },
     {
