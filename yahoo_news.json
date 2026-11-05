@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T13:13:50.816Z",
-  "total_news_count": 1760,
+  "last_updated": "2026-11-05T13:33:30.918Z",
+  "total_news_count": 1761,
   "news": [
     {
       "Ticker": "META, GOOGL, AMZN",
@@ -23,7 +23,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AAPL, INTC",
+      "Ticker": "MRVL, AAPL, INTC",
       "Date": "2026-11-05",
       "Time": "20:03:00",
       "Source": "Yahoo Finance",
@@ -40,6 +40,16 @@
       "Title": "Morgan Stanley Sees SpaceX Stock Hitting $300 as AI Forecasts Explode",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-spacex-stock-120153313.html",
       "Content": "This article first appeared on GuruFocus .\n\nMorgan Stanley has reiterated its SpaceX ( NASDAQ:SPCX ) price target to $300 per share, citing higher expectations for revenue from artificial intelligence, satellite connectivity and launch services, while outlining potential business links with Tesla ( NASDAQ:TSLA ).\n\nAnalyst Adam Jonas raised the firm's revenue estimates to $175 billion for 2027 and $289 billion for 2028, increases of 93% and 84%, respectively, from previous projections. The bank also lifted its 2028 operating income forecast by 72% to $119 billion.\n\nWarning! GuruFocus has detected 3 Warning Sign with SPCX.\n\nIs SPCX fairly valued? Test your thesis with our free DCF calculator.\n\nThe revised valuation assigns $165 per share to SpaceX's enterprise AI business and $118 to its connectivity operations, including Starlink. Morgan Stanley now expects the company to generate positive free cash flow in 2031, four years earlier than its previous estimate. Its projected cumulative external borrowing was also reduced to $390 billion.\n\nThe outlook reflects potential growth in satellite services, rocket launches and AI infrastructure, alongside upcoming Starship flight tests aimed at achieving full reusability. Jonas also sees Tesla and SpaceX as complementary businesses, with Tesla developing robotics and autonomous vehicles while SpaceX contributes connectivity and orbital computing capabilities.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-11-05",
+      "Time": "19:55:00",
+      "Source": "Yahoo Finance",
+      "Title": "Credo and Oracle Drive AI Optical Innovation: Is CRDO Set to Benefit?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/credo-oracle-drive-ai-optical-115500422.html",
+      "Content": "Credo Technology Group Holding Ltd . CRDO recently achieved a breakthrough with Oracle ORCL by securing Open Compute Project (OCP) approval for two new specifications designed to improve optical connectivity and reliability in AI data centers. The development highlights Credo's growing role in addressing a critical challenge of maintaining reliable, high-speed connections across increasingly massive computing clusters facing next-generation AI infrastructure. The partnership with Oracle is likely to strengthen its position in the optical connectivity ecosystem while supporting the broader industry's transition toward more reliable AI infrastructure.\n\nEstablished in January 2026, the workstream is co-led by Credo and Oracle. Its primary objective is to establish a common software interface that enables optical transceivers and host systems to exchange detailed connection health information. The two approved specifications standardize optical link-health monitoring, telemetry sharing, event tracking and automated fault responses, while enabling optical DSPs to exchange out-of-band information without disrupting network traffic. Credo contributed its ZeroFlap host specification as the technical foundation. Developed with input from the broader OCP Community, the standards could support wider adoption among hardware manufacturers, data center operators and technology providers.\n\nFurthermore, CRDO is helping shape next-generation AI data center connectivity through an OCP workstream targeting 2027 approval for micro-emitter optics specifications. It recently announced the launch of the Short-Reach Micro-Emitter Optics (SRMO) Workstream within the OCP Community. The initiative brings together optical technology providers, connectivity specialists and a leading hyperscaler to set specifications for a new class of high-speed data center interconnects. Also, in September, Credo launched 224G ZeroFlap optical transceivers supporting 1.6T port speeds and AI architectures.\n\nHowever, competition in high-speed connectivity from key semiconductor and optical networking players like Marvell Technology MRVL and Astera Labs ALAB remains intense.\n\nCRDO vs. Rivals: Assessing Its Connectivity Advantage\n\nMarvell's acquisition of Lumentum aims to create a leading AI connectivity provider by combining complementary expertise in optical, photonics and electrical technologies. The deal is expected to accelerate innovation in NPO, CPO and integrated AI data center solutions, expand manufacturing capacity and strengthen end-to-end product offerings. With a projected $550 billion addressable market by 2030, the combined company expects to generate more than $1 billion in synergies, accelerate growth and strengthen its competitive position through deeper integration and scale. Expanded NVIDIA partnership aligns Marvell's roadmap more closely with next-generation AI architectures, extending its reach across optics, NVLink Fusion integration and AI-RAN platforms.\n\nStory Continues\n\nALAB is expanding into optical connectivity with its first Smart Optical Drivers and TIAs for PCIe Gen 7 scale-up networks, targeting NPO and future CPO applications. It plans to begin sampling with hyperscalers and OEMs, with initial revenue expected in late 2027 and CPO volumes ramping in 2028–2029. With a projected $40 billion scale-up optical interconnect market by 2030, Astera aims to capture more content per XPU through vertically integrated optical components, engines and fabric switches. For the fourth quarter, management forecast revenue of $730-$750 million, noting continued supply constraints in wafers, power and memory and limited visibility into customer deployment timelines.\n\nCRDO's Price Performance, Valuation and Estimates\n\nCRDO's shares have slumped 38.2% in the past month compared with the Electronics-Semiconductors industry's fall of 19.5%.\n\nImage Source: Zacks Investment Research\n\nIn terms of the forward 12-month price/sales ratio, CRDO is trading at 8.11, higher than the Electronics-Semiconductors industry's multiple of 3.14.\n\nThe Zacks Consensus Estimate for CRDO earnings for fiscal 2027 has remained unchanged over the past 60 days.\n\nCRDO currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here.",
       "Language": "en"
     },
     {
