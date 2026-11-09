@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T15:12:56.686Z",
-  "total_news_count": 733,
+  "last_updated": "2026-11-09T15:25:35.835Z",
+  "total_news_count": 736,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -11,6 +11,36 @@
       "URL": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
       "Content": "Nvidia ( NVDA ) stock fell as much as 8% before trimming losses on Monday after the chipmaker's board announced it would investigate the relationship between CEO Jensen Huang and a woman whom the intelligence community believes could be a Chinese Spy.\n\nIn a Sunday memo to employees, Nvidia CEO Jensen Huang admitted to an extramarital affair, apologizing to his family and staff while pledging full cooperation with an independent board review. Wall Street analysts quickly flagged the heightened 'key-person risk' for the world's leading AI chipmaker.\n\n\"Jensen is the core DNA of Nvidia, and its AI success and ambitions are heavily tied to him staying on as CEO. Jensen is not replaceable,\" Yorkville Ives's Dan Ives wrote on Monday morning.\n\nA look across the semiconductor sector showed the risk damage was largely contained to Nvidia. Shares of rival AMD ( AMD ) bounced 8% following a rating upgrade to Buy from Oppenheimer analysts. Broadcom ( AVGO ) rose 6%, while Intel ( INTC ) edged up 2%.\n\nShares of Taiwan Semiconductor Manufacturing Company ( TSM ), which manufactures Nvidia chips, rose nearly 2%, while semiconductor equipment maker ASML ( ASML ) also gained 3%.\n\nStorage maker SanDisk ( SNDK ) moved up 1%. Memory chip maker Micron Technology ( MU ) rose more than 1%, while SK Hynix ( SKHY ) was little changed.\n\nOther chip-related stocks include processor maker Qualcomm ( QCOM ) and semicondcutor designer Arm Holdings ( ARM ), both moving minimally.\n\nMeanwhile, Alphabet ( GOOGL ) shares rose more than 2% in early trading on Monday after the tech giant introduced two new tensor processing units, or TPUs. Alphabet has been accelerating its homegrown AI chip business, introducing four TPU systems in a single year.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-11-09",
+      "Time": "22:47:15",
+      "Source": "Yahoo奇摩股市",
+      "Title": "美股4大指數開盤大漲「道瓊飆漲500點」 輝達重跌7％",
+      "URL": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A14%E5%A4%A7%E6%8C%87%E6%95%B8%E9%96%8B%E7%9B%A4%E5%A4%A7%E6%BC%B2-%E9%81%93%E7%93%8A%E9%A3%86%E6%BC%B2500%E9%BB%9E-%E8%BC%9D%E9%81%94%E9%87%8D%E8%B7%8C7-144715331.html",
+      "Content": "隨著輝達（Nvidia）執行長黃仁勳婚外情爆出，台指期夜盤開盤時並未延續白天的強勢，晚間一度大跌逾800點，但隨後逐漸上漲，截至發稿前，僅小跌27點，暫報41451點。美股盤前，道瓊期貨上漲619點，輝達盤前股價則一度跌了將近5%。\n\n周一（9日）美股早盤受到油價下跌影響，美股4大指數開盤皆漲，由於上周科技股波動劇烈，投資者本周關注10月份消費者物價指數（CPI）以及AI相關企業財報。另外，上周五費半反彈4.21%，部分資金回流半導體產業，但各界仍關注美國期中大選後，民主黨的政策是否會帶來影響。\n\n台北時間9日晚間10點30分，道瓊工業指數上漲541.97點（或1.06%），暫報51827.70點；那斯達克指數上漲211.11點（或0.86%），暫報24790.54點；標普500指數上漲59.10點（或0.80%），暫報7435.87點；費城半導體指數上漲117.75點（或1.58%），暫報9508.00點。\n\n5大科技巨頭開高，蘋果漲1.25%，谷歌母公司Alphabet漲2.45%，微軟漲2.96%，亞馬遜漲4.67%，臉書母公司Meta漲4.21%。半導體類股互有漲跌，輝達跌7.65%，超微漲5.57%，台積電ADR漲2.39%，聯電ADR漲4.58%。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-09",
+      "Time": "22:14:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳風波壓不住台股！陳龍曝止跌訊號浮現：看好這幾檔超跌股",
+      "URL": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%A2%A8%E6%B3%A2%E5%A3%93%E4%B8%8D%E4%BD%8F%E5%8F%B0%E8%82%A1-%E9%99%B3%E9%BE%8D%E6%9B%9D%E6%AD%A2%E8%B7%8C%E8%A8%8A%E8%99%9F%E6%B5%AE%E7%8F%BE-%E7%9C%8B%E5%A5%BD%E9%80%99%E5%B9%BE%E6%AA%94%E8%B6%85%E8%B7%8C%E8%82%A1-141400380.html",
+      "Content": "台股今（9）日在美國科技股反彈、國安基金啟動第10次護盤及金管會祭出限空措施等利多激勵下，展開強勁反攻，加權指數終場大漲1960.06點，收在41661.70點，創下史上第二大收盤漲點，成交金額達8379.29億元。盤中最高衝上42349.36點，一度大漲逾2600點，上市櫃共有237檔個股亮燈漲停。 資深分析師陳龍 認為，這波急跌已讓市場籌碼大幅洗牌，多項止跌訊號陸續浮現，先前遭無差別殺低的優質超跌股，有機會逐步展現應有價值。\n\n【融資追繳壓力升高 國安基金進場激勵反攻】\n\n回顧日前台股連續重挫，市場恐慌情緒升高，融資追繳戶數也明顯增加。11月5日單日融資追繳戶數達2352戶，整戶擔保維持率降至159.77%，創近3個月低點，隔日大盤再度遭遇重挫，市場賣壓沉重。\n\n不過，隨著國安基金宣布啟動史上第10次護盤，加上金管會祭出限空等穩定措施，美國科技股也出現反彈，台股9日強勢回升。台積電（2330）終場上漲100元，收2235元，漲幅4.68%，聯發科（2454）、台達電（2308）、國巨（2327）等權值股也強勢攻上漲停，帶動多頭氣勢。\n\n陳龍在《股市尊龍》節目中指出，這波下跌雖然讓投資人承受不小壓力，卻也讓市場過度擁擠的槓桿籌碼快速出清。他以電影《明天過後》形容這段過程，就像市場短暫進入冰河時期，雖然寒冷難熬，但經過一輪洗牌後，籌碼結構有機會變得更加乾淨。\n\n【黃仁勳風波只是短線噪音 AI需求沒有消失】\n\n針對近期黃仁勳個人新聞及相關國安疑慮引發市場對AI供應鏈的擔憂，陳龍認為，這類消息可能在短時間內影響投資人情緒，卻不代表AI產業需求就此反轉。\n\n他指出，AI發展並非只靠單一企業或個人推動，OpenAI、Anthropic等科技業者持續投入算力建設，背後更有全球企業對AI應用的龐大需求支撐。即使美國政策或部分建設計畫出現變化，算力需求仍可能轉往其他地區發展，全球AI資料中心建置趨勢並未因此消失。\n\n陳龍認為，AI是繼電力與網際網路之後的重要產業變革，短期政治因素或市場雜音或許造成震盪，但不應直接與產業長期趨勢畫上等號。\n\n【止跌訊號陸續浮現 優質超跌股有望反彈】\n\n陳龍表示，觀察這波台股反彈，融資大幅減少、國安基金進場、台積電止跌，以及中小型股大量漲停等現象，都讓市場出現止跌回升的訊號。他認為，先前大盤急跌造成不少基本面不差的個股遭到錯殺，隨著恐慌情緒降溫，股價有機會逐步回歸基本面。\n\n他也點名幾檔個股作為觀察例子。 群聯（8299） 宣布買回庫藏股，展現公司對自身價值的態度； 世芯-KY（3661） 法說會釋出營運展望，預期第4季營收有機會再創新高，2027年營收也看好成長； 台達電（2308 ）則在這波反彈中強勢攻上漲停，矽光子相關概念股 同欣電（6271） 也亮燈漲停。\n\n陳龍認為，當市場從極度恐慌逐步回穩，投資人更應回頭檢視企業基本面與產業趨勢，而不是被短線利空牽著走。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-11-09",
+      "Time": "22:00:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "曾預示科技股退潮 如今這項指標又閃黃燈！賣壓恐波及整個美股",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%9B%BE%E9%A0%90%E7%A4%BA%E7%A7%91%E6%8A%80%E8%82%A1%E9%80%80%E6%BD%AE-%E5%A6%82%E4%BB%8A%E9%80%99%E9%A0%85%E6%8C%87%E6%A8%99%E5%8F%88%E9%96%83%E9%BB%83%E7%87%88-%E8%B3%A3%E5%A3%93%E6%81%90%E6%B3%A2%E5%8F%8A%E6%95%B4%E5%80%8B%E7%BE%8E%E8%82%A1-140003563.html",
+      "Content": "市場上持續醞釀、卻多半未受注意的資金輪動，突然加速了。\n\n鑑於先前美股個股間的相關性已降至極低水準，上週四大盤出現強烈拉回並不令人意外，市場回歸均值不過是時間問題。當相關係數偏低時，意味著行情已不再像往常一樣，帶動個股普遍水漲船高。\n\nSPDR標普500 ETF（SPY）與景順標普500等權重ETF（RSP）的比值，幾乎精準預示了資金轉進科技股的高峰，以及隨後的退潮。\n\n如今，這項比值正逼近下一個關鍵水準，可能促使資金重新流向科技股與超大型權值股，也可能意味著整體市場將面臨撤資賣壓。\n\nSPY與RSP比值逼近關鍵回檔點\n\nSPY與RSP的比值，已來到自2025年6月以來交易區間的最下緣。接下來究竟會跌破區間、進一步收縮，還是回升擴大，仍有待觀察，但這道下緣的重要性已不容忽視。\n\n標普500指數給予市值較大企業的權重，高於市值較小的企業；標普500等權重指數則賦予每家公司相同權重。因此，SPY與RSP的比值，可用來衡量大型權值股究竟是在支撐還是拖累標普500指數。\n\n比值跌破下緣，意味著SPY持續落後RSP，但無法單憑這點判斷兩者的漲跌情況。可能是SPY下跌、RSP跌得較少，也可能是SPY下跌、RSP上漲，或是兩者都上漲，但RSP漲得更多。\n\n不過，考量到科技股與超大型權值股一直是人工智慧（AI）交易及大盤上漲的主要推力，這意味著AI類股可能再度成為表現落後的族群。\n\n相關性回升 權值股恐落後\n\n比值收縮，意味著市場相關性可能隨時間提高，也就是標普500成分股開始朝相同方向波動。\n\n回溯至1990年，標普500指數與標普500等權重指數之間的60日滾動相關係數，從未如此低迷。這項過去通常接近1的相關係數，在11月3日降至僅0.56。\n\n這兩項指數追蹤的是同一批標普500成分股，只是計算方式不同。若兩者的相關係數要重新回升至接近1，走勢就必須開始趨於一致、朝相同方向移動。\n\n如果比值持續跌破下緣，同時相關係數回升至接近1，先前主導兩項指數走勢分歧的超大型權值股，很可能成為表現落後的族群。\n\n目前情勢顯示，即使這波資金輪動告一段落，科技股暫時重獲青睞，漲勢也不太可能無限期延續，相關交易仍可能在未來某個時間點繼續退潮。\n\n隱含相關性也處於低檔\n\n衡量標普500前50大成分股選擇權定價關係的芝加哥選擇權交易所（Cboe）3個月隱含相關性指數，也顯示近期市場相關性極低。\n\n這項指數在7月10日觸及7.19的歷史低點。即使近期市場波動率急升、股市遭遇賣壓，指數仍",
+      "Language": "zh"
     },
     {
       "Ticker": "META, GOOGL, AMZN",
