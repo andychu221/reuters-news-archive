@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-11T06:33:30.082Z",
-  "total_news_count": 1157,
+  "last_updated": "2026-11-11T06:52:27.732Z",
+  "total_news_count": 1160,
   "news": [
+    {
+      "Ticker": "2408.TW",
+      "Date": "2026-11-11",
+      "Time": "13:44:28",
+      "Source": "Yahoo奇摩股市",
+      "Title": "【公告】南亞科受邀參加Daiwa Investment Conference Singapore 2026",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%85%AC%E5%91%8A-%E5%8D%97%E4%BA%9E%E7%A7%91%E5%8F%97%E9%82%80%E5%8F%83%E5%8A%A0daiwa-investment-conference-singapore-054428851.html",
+      "Content": "日　　期：2026年11月11日\n\n公司名稱：南亞科 (2408)\n\n主　　旨：南亞科受邀參加Daiwa Investment Conference Singapore 2026\n\n發言人：李培瑛\n\n說　　明：\n\n符合條款第四條第XX款：12\n\n事實發生日：115/11/12\n\n1.召開法人說明會之日期：115/11/12 ~ 115/11/13\n\n2.召開法人說明會之時間：09 時 00 分\n\n3.召開法人說明會之地點：新加坡文華東方酒店\n\n4.法人說明會擇要訊息：本公司財務業務相關資訊說明\n\n5.其他應敘明事項：本公司受邀參加Daiwa Investment Conference Singapore 2026\n\n完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。",
+      "Language": "zh"
+    },
     {
       "Ticker": "AMZN",
       "Date": "2026-11-11",
@@ -21,6 +31,26 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/spacexs-biggest-business-quarter-may-040700202.html",
       "Content": "Think SpaceX, and you probably picture a rocket. This quarter, the bigger money may come from something far less dramatic: rented computer chips.\n\nSpaceX (SPCX) rents AI computing power from its Colossus 2 data center to companies such as Google and Reflection AI. Wall Street calls that kind of business a neocloud.\n\nDeutsche Bank estimates it will make up more than half of SpaceX's fourth-quarter revenue.\n\nThat's according to a Nov. 9 Deutsche Bank research report seen by TheStreet, titled \"Several large moving parts.\"\n\nOne disclosure worth knowing up front: Deutsche Bank helped manage a SpaceX stock offering in the past year and expects to seek more banking business from the company, the note's disclosures show.\n\nThe SpaceX quarter: Musk just raised the bar\n\nThe note follows Elon Musk's appearance at the Baron Investment Conference on Nov. 6.\n\nMusk signaled fourth-quarter revenue could rise about 70% from the third quarter, the note said. Analyst Edison Yu raised his forecast to $24.5 billion from $23.6 billion, above the $22.6 billion Bloomberg consensus.\n\nBy my math, that's about 8% above what Wall Street expected a few weeks ago.\n\nMusk also said the first quarter of 2027 could \"maybe\" see \"something similar,\" the note said. Another 70% jump would put revenue above $40 billion, well past SpaceX's own guidance of $33 billion to $37 billion.\n\nYu estimated SpaceX will exit 2026 at an annual revenue run rate of about $104 billion. He also sees fourth-quarter gross margin near 60%, above the roughly 55% management had flagged.\n\nThe stock liked what it heard. SpaceX shares jumped 8.6% to $134.27 on Nov. 6, after falling nearly 20% over the prior month, TheStreet reported.\n\nSpaceX computing contract rates are climbing fast\n\nThe most striking detail in the note is a table of SpaceX's AI computing contracts.\n\nDeutsche Bank estimates SpaceX's first big customer pays an average of $7.78 per GPU hour across its chips. By the bank's estimates, Google pays about $11.46 for Nvidia's newer GB300 chips, and a second unnamed customer pays about $13.90 for the same hardware.\n\nRelated: Tesla-SpaceX merger math just shifted in Tesla's favor\n\nFor future deals, the bank models $14 an hour. By my math, that's about 80% more than the blended rate on SpaceX's first contract.\n\nReflection AI's deal shows how these contracts work. The startup pays about $150 million a month for GB300 access at Colossus 2, and either side can exit with 90 days' notice after the first three months, Data Center Dynamics reported.\n\nThat exit clause cuts both ways. Yu raised the possibility that SpaceX could use it to reprice deals, or pull capacity back for its own AI work.\n\nStory Continues\n\n\"SpaceX could initiate the 90-day termination clause on existing deals and essentially charge its customers even higher prices,\" Yu wrote.\n\nHe was careful to add that Deutsche Bank doesn't model those \"more extreme outcomes.\"\n\nAfter the U.S. midterms, Yu also expects AI computing prices to stay high for longer, because he thinks the pace of data center buildouts will slow, mainly in 2028. Less supply means higher prices for whatever capacity gets built.\n\nThat's why he raised his 2027 revenue estimate to $193.2 billion from $184.4 billion.\n\nThe Tesla wrinkle: A cheaper merger?\n\nTesla and SpaceX have formed committees to study a potential merger, and Musk has called the idea \"a good idea,\" the Khaleej Times reported.\n\nYu had assumed SpaceX would need to pay Tesla shareholders a hefty premium to win the vote and avoid legal fights. That expectation may have helped put a floor under Tesla's stock.\n\nMore on SpaceX:\n\nMorgan Stanley says SpaceX stock is now cheaper than the S&P 500\n\nGoldman Sachs and Apollo changes position on SpaceX\n\nJim Cramer reveals why he won't buy SpaceX stock\n\nNow he isn't so sure. \"Tesla's shareholders may be willing to accept a lower price/premium to ensure a merger happens more quickly,\" Yu wrote.\n\nIf you own Tesla partly as a bet on a rich buyout price, that's worth thinking about.\n\nThe fine print: big spending, longer timelines\n\nYu kept his SpaceX Buy rating and $250 price target. By my math, that implies about 86% upside from the Nov. 6 close, though the stock still sits about a third below its 52-week high of $201.80.\n\nThe spending is enormous, though. Deutsche Bank models about $299.5 billion in capital spending for 2027, roughly 1.55 times its revenue forecast for the year, by my math.\n\nThe bank is also more cautious than Musk on orbital computing. Musk expects AI satellites to launch in the third quarter of 2027 and scale in 2028, but Yu doesn't see material capacity until 2029 or 2030.\n\nFor now, the story is simpler than space data centers. SpaceX is renting out AI chips at rising prices, and that rental business is growing faster than Deutsche Bank expected just two weeks ago.\n\nRelated: Elon Musk sends a strong signal to SpaceX stock investors\n\nThis story was originally published by TheStreet on Nov 11, 2026, where it first appeared in the Investing section. Add TheStreet as a Preferred Source by clicking here.\n\nDeutsche Bank lifted its SpaceX fourth-quarter forecast after Elon Musk's Baron comments and kept its $250 target.picture alliance / Getty Images\n\nDeutsche Bank lifted its SpaceX fourth-quarter forecast after Elon Musk's Baron comments and kept its $250 target.picture alliance / Getty Images SpaceX computing contract rates are climbing fast\n\nReflection AI's deal shows how these contracts work. The startup pays about $150 million a month for GB300 access at Colossus 2, and either side can exit with 90 days' notice after the first three months, <a href=\"https://www.datacenterdynamics.com/en/news/spacex-secures-63bn-compute-capacity-deal-from-ai-startup-reflection/\" data-ylk=\"slk:Data%20",
       "Language": "en"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-11-11",
+      "Time": "11:57:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "本季營收可望季增雙位數？力積電：媒體臆測",
+      "URL": "https://tw.stock.yahoo.com/news/%E6%9C%AC%E5%AD%A3%E7%87%9F%E6%94%B6%E5%8F%AF%E6%9C%9B%E5%AD%A3%E5%A2%9E%E9%9B%99%E4%BD%8D%E6%95%B8-%E5%8A%9B%E7%A9%8D%E9%9B%BB-%E5%AA%92%E9%AB%94%E8%87%86%E6%B8%AC-035700209.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(6770)力積電-澄清媒體有關本公司之報導\n\n1.事實發生日:115/11/11\n\n2.公司名稱:力晶積成電子製造股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.傳播媒體名稱:經濟日報\n\n6.報導內容:\n\n11月11日經濟日報報導：\n\n「展望後市，力積電看好記憶體代工價格改善，以及邏輯晶片調價效益陸續反映，預估本季營收可望較上季雙位數成長，明年並規劃進一步調漲部分晶圓代工價格，持續挹注營運。力積電說明，…。」\n\n7.發生緣由:\n\n針對媒體報導本季營收預測，力積電表示，已於十月二十一日第三季法說會中就晶圓代工產業的接單生產特性說明公司短期營運展望，並對本季成長表達正面態度，對於媒體臆測性報導，公司不予置評。\n\n8.因應措施:針對媒體報導內容發佈重大訊息澄清。\n\n9.其他應敘明事項:無\n\n力積電 澄清媒體有關本公司之報導\n\n力積電 明年代工價格看漲近20%(經濟日報，無內文)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "6770.TW",
+      "Date": "2026-11-11",
+      "Time": "11:54:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "力積電 澄清媒體有關本公司之報導",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8A%9B%E7%A9%8D%E9%9B%BB-%E6%BE%84%E6%B8%85%E5%AA%92%E9%AB%94%E6%9C%89%E9%97%9C%E6%9C%AC%E5%85%AC%E5%8F%B8%E4%B9%8B%E5%A0%B1%E5%B0%8E-035400150.html",
+      "Content": "公開資訊觀測站重大訊息公告\n\n(6770)力積電-澄清媒體有關本公司之報導\n\n1.事實發生日:115/11/11\n\n2.公司名稱:力晶積成電子製造股份有限公司\n\n3.與公司關係(請輸入本公司或子公司):本公司\n\n4.相互持股比例:不適用\n\n5.傳播媒體名稱:經濟日報\n\n6.報導內容:\n\n11月11日經濟日報報導：\n\n「展望後市，力積電看好記憶體代工價格改善，以及邏輯晶片調價效益陸續反映，\n\n預估本季營收可望較上季雙位數成長，明年並規劃進一步調漲部分晶圓代工價格，\n\n持續挹注營運。力積電說明，…。」\n\n7.發生緣由:\n\n針對媒體報導本季營收預測，力積電表示，已於十月二十一日第三季法說會中就晶\n\n圓代工產業的接單生產特性說明公司短期營運展望，並對本季成長表達正面態度，\n\n對於媒體臆測性報導，公司不予置評。\n\n8.因應措施:針對媒體報導內容發佈重大訊息澄清。\n\n9.其他應敘明事項:無\n\n本季營收可望季增雙位數？力積電：媒體臆測\n\n力積電 明年代工價格看漲近20%(經濟日報，無內文)\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "BTDR",
