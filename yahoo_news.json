@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T08:28:48.548Z",
-  "total_news_count": 258,
+  "last_updated": "2026-11-12T09:20:03.282Z",
+  "total_news_count": 259,
   "news": [
     {
       "Ticker": ".TWII",
@@ -183,6 +183,16 @@
       "Related_Score": 5,
       "Sentiment_Score": -1,
       "Keywords": "日經指數, 輝達, 黃仁勳, 投資人信心, 股價下跌"
+    },
+    {
+      "Ticker": "2388.TW",
+      "Date": "2026-11-12",
+      "Time": "15:02:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "威盛 115年第3季綜合損益表，每股盈餘0.16元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%A8%81%E7%9B%9B-115%E5%B9%B4%E7%AC%AC3%E5%AD%A3%E7%B6%9C%E5%90%88%E6%90%8D%E7%9B%8A%E8%A1%A8-%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%980-16%E5%85%83-070200094.html",
+      "Content": "威盛(2388)  115年 第3季 綜合損益表\n\n資料來源:交易所公開資訊觀測站\n\n上市認購(售)權證11/13彙總表\n\n威盛 115年10月營收9.78億、年減22.59%\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII, .SPX, 2454.TW, 2330.TW",
