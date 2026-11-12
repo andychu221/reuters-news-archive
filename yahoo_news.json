@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T11:20:40.577Z",
-  "total_news_count": 283,
+  "last_updated": "2026-11-12T11:26:48.658Z",
+  "total_news_count": 288,
   "news": [
     {
       "Ticker": "CSCO",
@@ -73,6 +73,26 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-11-12",
+      "Time": "18:54:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電聯發科漲一大段了！阮慕驊曝AI下一棒往外圍找：一路擴散到5族群",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%81%AF%E7%99%BC%E7%A7%91%E6%BC%B2-%E5%A4%A7%E6%AE%B5%E4%BA%86-%E9%98%AE%E6%85%95%E9%A9%8A%E6%9B%9Dai%E4%B8%8B-%E6%A3%92%E5%BE%80%E5%A4%96%E5%9C%8D%E6%89%BE-%E8%B7%AF%E6%93%B4%E6%95%A3%E5%88%B05%E6%97%8F%E7%BE%A4-105400373.html",
+      "Content": "台股今（12）日終場收在43091.87點，大跌1165.28點，跌幅2.63%，失守43100點關卡。資深財經媒體人阮慕驊指出，以昨日台股噴漲1545點來看，證明AI還沒結束，只是會在哪？他認為要往「外圍」找，且一路擴散到5大族群。\n\n阮慕驊表示，講到AI，可能投資人腦中浮現的大概就是台積電、聯發科、台達電。但他認為，這幾家很強，沒話說，但股價也漲了一大段了，該進去的錢差不多都進去。所以現在的問題不是AI會不會結束，而是下一棒會交給誰。\n\n阮慕驊說，他的看法是「往外圍找」，AI一開始是晶圓代工、先進封裝在吃，現在已「 一路擴散到散熱、電源、PCB、光通訊，甚至Edge AI 」。這中間有一批公司，以前根本沒人把它當AI股，結果因為接到新客戶、改了產品線，突然就走出一條新的成長曲線。麻煩的是，這種股票，被動式ETF通常買不到。因為它市值還不夠大，等它擠進前50大，股價早就飛了。\n\n阮慕驊接著提到，主動復華台灣新星（00418A）昨天掛牌，首日收10.41元，漲4.31%，成交量爆出26萬張，擠進主動式ETF前 3 名，第一天跑贏大盤，人氣很旺。他說，00418A就是想抓這段。它的選股範圍拉到市值前300大，大型股放5成左右，爆發新興放2到3成，轉型傳產放1到2成。\n\n阮慕驊表示，大型股顧底，後面那兩塊才是它真正要拚的地方。經理人提過的方向，像是記憶體擴產帶動的矽晶圓，還有從車用延伸到機器人的功率半導體，都是這種「以前不算AI，現在算了」的例子。\n\n阮慕驊認為，時機上00418A算幸運，10月29 成立，剛好碰到台股大修正，手上有現金，可以慢慢撿。到11月10日，淨值9.98元，幾乎守住10元。同一段時間主動統一台股增長（00981A）淨值跌了快 13%，00406A跌了14%多。\n\n阮慕驊指出，當然人家是滿手股票挨跌，它是拿現金在等，起跑點本來就不一樣，但成本墊得比較低，這是事實。不過也要潑一點冷水的是，傳產轉型，不是每家都會成功，而且市場很愛搶先炒，股市最熱的時候進去，往往就是買在高點。所以掛牌後，先別急，看一下它到底買了哪些轉型股、哪些新興股，各放多少。還有，明星經理人加新掛牌，第一天溢價可能不小，市價跟淨值差太多就先等等。\n\n00418A今日終場收9.90元，跌幅4.90%。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-11-12",
+      "Time": "18:44:39",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台積電傳資料外洩! 4.6萬筆員工個資遭兜售 駭客開價725萬",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%82%B3%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-4-6%E8%90%AC%E7%AD%86%E5%93%A1%E5%B7%A5%E5%80%8B%E8%B3%87%E9%81%AD%E5%85%9C%E5%94%AE-%E9%A7%AD%E5%AE%A2%E9%96%8B%E5%83%B9725%E8%90%AC-104439092.html",
+      "Content": "財經中心／陳孟暄　陳裕霖　台北報導\n\n近期台灣接連爆出多起重大資安事件，包含永豐銀行、91APP等都遭駭客攻擊，沒想到，護國神山台積電也驚傳資安危機，有駭客在地下論壇販售4萬6000筆台積電員工資料，對此，台積電回應，已經掌握相關情況，正與相關單位配合調查\n\n過往徵才會上，求職者擠滿攤位，人人都想進的科技大廠台積電，如今卻驚傳資安危機！\n\n有駭客在地下論壇，公開兜售疑似台積電員工個資，賣家聲稱取得6.9GB、共4萬6千筆員工資料，開價3顆比特幣，以11號行情換算，約台幣725萬元，甚至放話，若一週內沒找到買家，就要公開全部資料。\n\n台積電驚傳員工個資外洩事件，駭客開價3枚比特幣。（圖／翻攝駭客論壇）\n\n資安專家 查士朝：「第一個，造假機會是滿高的，第二個來講，即便不是造假，其實還是有很多資料源，可以拼湊出類似像這樣的資料，包括說有一些像是人力銀行之前有一些資料有掉過，那當然有可能說有人投履歷的這個資料等等」。\n\n賣家還釋出一份樣本檔案，每一筆內容包含姓名、生日、職稱等個資，甚至連緊急聯絡人的電話、住址，通通列得一清二楚，消息在網路上瘋傳，讓網友驚呼&#x27;&#x27;台灣的資安怎麼了，最近先是91APP，再來永豐銀行，現在連護國神山都守不住了嗎？&#x27;&#x27;，也有人無奈表示，&#x27;&#x27;會很意外嗎，開始工作半年後，常常有各大銀行、保險、信貸打來推銷&#x27;&#x27;，看看台積電週四股價，盤中最低觸及2355元，截至上午11點半，跌幅收斂，股價下跌15元，來到2380元，個資外洩是否衝擊台積電營運，專家這樣說。\n\n台積電傳資料外洩! 4.6萬筆員工個資遭兜售 駭客開價725萬。(圖／民視財經網)\n\n資安專家 查士朝：「(台積電)他們的防禦機制應該都到了一個程度，不見得會真的影響到他們的一些工廠或者一些相關機密資料的部分，AI 它不會休息，各種可能都會去嘗試，(建議公司)要時時刻刻去保持它的一個更新，兩個小時內沒有完成更新，可能你要斷網或者是暫時停止服務等等」。\n\n對此，台積電表示，已掌握此情形，正與相關雲端服務供應商及調查機關密切合作，至於是否真的有資料外洩，仍有待進一步調查。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 l",
+      "Language": "zh"
+    },
+    {
       "Ticker": "GOOGL",
       "Date": "2026-11-12",
       "Time": "18:30:01",
@@ -81,6 +101,26 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/apple-best-performing-ai-stock-103001149.html",
       "Content": "The \"Magnificent Seven\" tech stocks are known for their strength in earnings and stock performance. These well-established powerhouses have led the S&P 500 on its bull market journey, helping the benchmark to climb 78% over the past three calendar years. But this year has been a bit rocky for technology companies, as investors worried about a variety of challenges -- from rising inflation to the risk of a potential slowdown in AI spending.\n\nAs a result, four of the \"Magnificent Seven\" companies are heading for gains this year, and the other three are on track to post declines. Apple (NASDAQ:AAPL) is the best performer by far, advancing 29%, while Alphabet (NASDAQ:GOOG) (NASDAQ:GOOGL) is the worst-performing AI stock, declining more than 8%. (Though Tesla , down 15%, is also present in AI, it's primarily an electric vehicle player.)\n\nMissed AI's \"Act 1\"? Act 2 Could Be 16x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nWhich stock -- Apple or Alphabet -- makes a better buy for 2027? Let's find out.\n\nImage source: Getty Images.\n\nThe case for Apple\n\nApple doesn't need much of an introduction. The company has become a household name thanks to the popularity of its iPhone, the world's top-selling smartphone, as well as other leading products such as the Mac and iPad. Apple's solid moat, or competitive advantage , is its brand. Customers like the products so much that they keep coming back, even when the company raises prices as it did recently.\n\nIn fact, Apple just reported September quarter records in total revenue, iPhone revenue, and earnings per share. And Apple is now launching new products, including its first foldable smartphone and a touchscreen Mac, items that could generate revenue gains during the holiday season and beyond.\n\nApple didn't soar as much as other tech giants in the earliest stages of the AI boom, as it took a slower approach to the technology. But it recently launched a new Siri AI assistant, and this, along with other AI features across its devices, makes it a solid AI player today.\n\nThough Apple stock has outperformed other \"Magnificent Seven\" stocks, these new products, along with excitement about new chief executive officer John Ternus' product expertise, could lead to further gains.\n\nThe case for Alphabet\n\nAlphabet may not be a household name, but its biggest business is: I'm talking about Google Search. Many of us use the platform on a daily basis, and this helps the company generate revenue -- as advertisers promote across the Google platform to reach consumers.\n\nStory Continues\n\nThis tremendous amount of revenue, along with the growth of Alphabet's core offerings through Google Cloud, has helped the company fund its AI presence. Alphabet makes AI chips, has developed the large language model Gemini, and sells these as well as products and services of others through Google Cloud. Amid the AI boom, Google Cloud's revenue has soared. In the recent quarter, it climbed 103% to more than $30 billion, and Alphabet is investing heavily in the AI infrastructure build-out to address current needs of its customers as well as future needs.\n\nIn spite of strong growth and forecasts for more on the horizon, Alphabet stock has declined this year. Investors have worried that Alphabet and other cloud providers are overspending on the build-out, and that the revenue opportunity may fall short of expectations. That's left Alphabet stock looking cheap, and this could attract bargain-hunting investors.\n\nThe better buy for 2027\n\nAlphabet is clearly cheaper than Apple right now.\n\nAAPL PE Ratio (Forward) data by YCharts\n\nSome investors might take advantage of the opportunity and pile in -- that would be a wise move because the company's long-term story is bright. But, for 2027, Apple might continue to outperform. This is thanks to the company's recent releases, and as I mentioned above, Ternus' experience in developing Apple products could spur excitement among investors about what's next.\n\nInvestors may also like that Apple is less vulnerable to a potential slowdown in the AI build-out. Democrats may favor a slower pace when it comes to constructing new data centers, and they might support AI regulation too. All of this could weigh on Alphabet in the coming year.\n\nSo, though Alphabet and Apple are both great long-term stocks to own, Apple is the best AI stock in the \"Magnificent Seven\" to buy for 2027.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-12",
+      "Time": "18:21:03",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股穩定措施何時退場　金管會：視情勢調整無預設立場",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%A9%A9%E5%AE%9A%E6%8E%AA%E6%96%BD%E4%BD%95%E6%99%82%E9%80%80%E5%A0%B4-%E9%87%91%E7%AE%A1%E6%9C%83-%E8%A6%96%E6%83%85%E5%8B%A2%E8%AA%BF%E6%95%B4%E7%84%A1%E9%A0%90%E8%A8%AD%E7%AB%8B%E5%A0%B4-102103992.html",
+      "Content": "（中央社記者高華謙、蘇思云台北2026年11月12日電）台股上週大跌，金管會11月9日起祭出5大穩定股市措施，外界關注措施何時退場。金管會表示，後續關注國際金融情勢變化與國內資本市場適時調整，目前並無預設立場或預定退場時間，要看整體情勢變化而定。\n\n金管會上週五宣布，11月9日起祭出5大措施，包含調降每日盤中借券賣出委託數量、調升融券保證金成數、放寬信用交易應補繳差額的抵繳擔保品範圍，並鼓勵上市櫃公司適時評估實施庫藏股、適時召開法說會對外說明公司營運現況。金管會透過調降每日盤中借券賣出委託數量、調升融券保證金成數等作法打擊空方氣勢，被市場視為廣義的「限空令」。\n\n金管會證期局主秘王秀玲今天在例行記者會表示，自9日至11日，集中市場借券賣出成交值占市場成交值比重介於1.7%至2%間，都低於11月6日的2.97%；借券賣出成交值介於163.52億元至175.15億元之間，也低於11月6日的392.7億元。\n\n王秀玲表示，自9日至今天下午1時30分，台股集中市場漲幅8.54%，同期間日本漲5.80%、韓國漲5.28%；另外，9日至11日期間美國那斯達克漲3.61%、美國費半漲12.50%。\n\n針對如何評估這4天來實施5大措施的成效，王秀玲表示，金管會每天都持續關心相關數據並綜合考量，很難單看某一天就認定成效好壞，必須持續評估與觀察。\n\n至於5大措施實施期限到何時、是否會參考哪些指標決定是否停止實施。王秀玲指出，金管會基於維持證券市場秩序與穩定性採行措施，後續會持續關注國際金融情勢變化與國內資本市場做適時調整，目前沒有預設立場或預定時間，還是要看整體情勢變化。\n\n媒體追問，去年金管會因應美國對等關稅祭出3大救市措施，是採每週檢討，這次是否比照辦理。王秀玲指出，「上次是最特別的」，以每週觀察是否延續措施，但基本上歷次穩定措施都是持續實施、觀察，再評估何時可以解除，「今年模式會跟以往比較像」。\n\n台股基本面方面，王秀玲表示，今年截至10月底本益比約24.92倍，現金殖利率1.63%，加計股票股利為1.67%，上市櫃公司今年截至10月底累計營收約55.18兆元，較去年同期成長39.4%。\n\n王秀玲指出，截至11月11日，信用交易整戶擔保維持率為179.76%，高於券商規定的130%最低追繳門檻；整體市場借券賣出占市場成交值比率為1.87%。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII, .SPX, 2330.TW",
+      "Date": "2026-11-12",
+      "Time": "18:19:43",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股雪崩「一票人急問ETF該賣嗎」？他曝「關鍵操作」訊號全說",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%9B%AA%E5%B4%A9-%E7%A5%A8%E4%BA%BA%E6%80%A5%E5%95%8Fetf%E8%A9%B2%E8%B3%A3%E5%97%8E-%E4%BB%96%E6%9B%9D-%E9%97%9C%E9%8D%B5%E6%93%8D%E4%BD%9C-%E8%A8%8A%E8%99%9F%E5%85%A8%E8%AA%AA-101943768.html",
+      "Content": "財經中心／綜合報導\n\n台股今（12日）上演震盪行情，儘管前一天美國費城半導體指數大漲5.66%，台股卻未能延續漲勢，盤中一度翻紅，隨後賣壓迅速湧現，終場下跌1165.28點、收在43091.87點，跌幅2.63%，台積電（2330）也下跌55元、收在2340元。面對市場劇烈波動，臉書粉專「工程師的存股致富之路」發文分析，認為短線資金獲利了結是這波下跌的原因之一，但他依舊看好明年AI產業發展，並針對不同類型的ETF投資人提出操作建議，強調長期投資者不必因為短期震盪急著賣出持股。\n\n臉書粉專指出，儘管前一天美國費半指數大漲5.66%，台股卻未能延續漲勢，午後賣壓更迅速湧現。（示意圖非關本新聞／民視新聞資料照）\n\n臉書粉專「工程師的存股致富之路」指出，儘管美國費半指數前一交易日強勢上漲，但台灣、日本及南韓股市卻未同步走高，台股午後更由紅翻黑，電子權值股全面承壓，其中台積電下跌55元、聯發科（2454）下跌140元、台達電（2308）下跌55元。他分析，目前市場關注輝達（NVIDIA）執行長黃仁勳捲入的爭議，以及公司未來領導層可能出現的變化，不過即使發生黃仁勳離開輝達的極端情境，他認為對台積電的影響仍相對有限，原因在於輝達GPU高度依賴台積電的先進製程，而其他ASIC晶片代工需求也有機會填補訂單空缺。他表示，自己依舊看好明年AI發展帶動台股與美股表現，但提醒短期股價波動可能相當劇烈。\n\n粉專分析，目前市場關注輝達執行長黃仁勳相關爭議，但他認為即使輝達領導層出現變動，對台積電的影響仍相對有限。（圖／民視新聞資料照）\n\n至於近期受到投資人關注的ETF，009816今日下跌0.32元、收在15.03元，粉專分析，過去3天受到國安基金進場護盤消息帶動，內資推升大盤，但在短線交易者陸續獲利了結之下，今日出現回檔並不意外，他認為009816最理想的走勢並非短時間急漲，而是隨著投機資金逐漸退場，讓股票慢慢轉移到長期投資人手中，未來若外資重新回頭買超，才有機會朝16元、17元方向邁進。\n\n另一檔ETF 009823則上漲0.04元、收在10.62元，粉專指出，雖然近期漲幅不如009816，但也正逐漸收復先前跌幅，粉專觀察市場仍在觀望輝達董事會如何處理黃仁勳相關爭議，若公司領導層出現重大變動，可能影響投資人信心；反之，若事件獲得妥善處理，市場也有機會重新評估輝達股價，不過相關發展仍存在不確定性，後續有待公司進一步說明。\n\n<p class=\"mb-module-gap break-words leading-[1.4] text-px20 lg:text-px18 lg:leading-[1.8]",
+      "Language": "zh"
     },
     {
       "Ticker": ".SPX",
@@ -110,6 +150,16 @@
       "Title": "台股重挫1165點！外資砍群創、仁寶 狂吞「這檔」14萬張",
       "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB1165%E9%BB%9E-%E5%A4%96%E8%B3%87%E7%A0%8D%E7%BE%A4%E5%89%B5-%E4%BB%81%E5%AF%B6-%E7%8B%82%E5%90%9E-%E9%80%99%E6%AA%94-093200728.html",
       "Content": "台股今（12）日上演慘烈殺盤，早盤一度上漲逾200點，隨後卻急轉直下，賣壓一路擴大，終場大跌1165點，以43091點作收，跌幅2.63%，成交量突破1兆元。值得注意的是，三大法人今日合計買超51.59億元，其中外資僅小幅賣超6.84億元。\n\n觀察外資買超前10名，第一名由台玻（1802）以買超14萬326張大幅領先，與第二名主動統一台股增長（00981A）的2萬4607張，拉開明顯差距。第三名為GIS-KY（6456），買超1萬8690張，元大金（2885）則以1萬8428張排名第四。其餘買超個股包括華航（2610）1萬8308張、泰鼎-KY（4927）1萬6356張、友達（2409）1萬343張、玉山金（2884）1萬315張、兆豐金（2886）9590張，以及凱基金（2883）8687張。\n\n至於外資賣超部分，群創（3481）以賣超3萬4542張居冠，主動中信台灣收益（00406A）遭賣超2萬2499張，仁寶（2324）賣超1萬7363張，元大台灣50反1（00632R）則遭賣超1萬4250張。AI相關個股同樣面臨賣壓，廣達（2382）遭外資賣超1萬3462張，英業達（2356）也被賣超1萬2654張。此外，力積電（6770）賣超7729張、聯茂（6213）賣超6729張、大聯大（3702）賣超5699張，以及元大高股息（0056）賣超5671張。\n\n外資買賣超名單曝光後，也讓PTT股板網友議論紛紛。由於台玻單日獲外資買超逾14萬張，成為最大焦點，不少人忍不住問：「台玻是挖到鑽石喔」、「台玻買14萬張，台玻是能玻璃變鑽石嗎？」、「外資到底看到台玻什麼東西」，也有人笑稱：「小兒搞玻璃」、「台玻、泰鼎狂買欸」，不過，台玻盤中一度漲停被敲開，也讓網友提醒：「台玻哪一天要被倒貨可以先跟我說嗎？」。\n\n此外，外資買進主動統一台股增長（00981A），卻賣出主動中信台灣收益（00406A），也引起討論，有網友直呼：「狂買981喔，這麼有信心」、「買981A，賣台灣五十反一，耐人尋味。」\n\n至於AI股方面，廣達、英業達雙雙遭到外資調節，讓持有相關個股的網友相當無奈，留言表示：「廣達漲很少，跌很慘」、「廣達、英業達真的被砸爛」、「老AI跟老黃同進退」。\n\n（封面圖／東森新聞）\n\n【 本文 由<a data-yga=\"{\"yInteractivityType\":\"0\",\"yLinkElement\":\"context_link\",\"yLinkText\":\"東森財經\",\"yModuleName\":\"content-canvas\"}\" data-ylk=\"slk:東森財經;elm:context_link;itc:0;sec:content-canvas;\" href=\"https://fnc.ebc.net.tw/?utm_source=yahoonews&utm_medium=referral&utm_campaign=site_link\" rel=\"noopener no",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".SSEC",
+      "Date": "2026-11-12",
+      "Time": "17:25:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《陸股》滬指跌0.67%、日K翻黑；科創50漲0.73%",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%99%B8%E8%82%A1-%E6%BB%AC%E6%8C%87%E8%B7%8C0-67-%E6%97%A5k%E7%BF%BB%E9%BB%91-%E7%A7%91%E5%89%B550%E6%BC%B20-092500641.html",
+      "Content": "MoneyDJ新聞 2026-11-12 17:25:08 數位內容中心 發佈\n\n中國股市今(12)日走跌，上證指數收於3,655.83點，下跌0.67%，日K翻黑；深證成指收於11,197.98點，下跌1.68%；創業板指收於2,509.43點，下跌2.44%；科創50指數收於1,309.84點，上漲0.73%。大盤午後轉弱，科創撐盤、權值股轉弱，整體風險偏好降溫。\n\n滬深兩市合計成交額1.93兆元人民幣，較前一交易日放量，交投維持高檔；全市超過4,600檔個股下跌，顯示指數分歧之下，市場仍以結構性輪動為主。\n\n科創50逆勢收紅，半導體與算力晶片相對強勢，寒武紀、海光信息、中芯國際、華虹宏力等個股帶動相關族群表現；電子、通信、半導體設備、積體電路製造與封測等方向維持活躍，成為盤面少數亮點。\n\n尾盤資金轉向銀行、機場、公路等方向，科技股則出現明顯回落，中際旭創、工業富聯、新易盛、勝宏科技等AI硬體標的午後走弱，對成長股情緒形成壓力，市場風格轉趨保守。燃氣與零售股盤中相對活躍，相對之下，貴金屬、遊戲、AI漫劇與傳媒等承壓。\n\n《港股》恆指跌0.13%、日K翻黑；恆科指跌0.92%\n\n《韓股》科技股回穩 KOSPI收漲2.24%\n\n資料來源- MoneyDJ理財網",
       "Language": "zh"
     },
     {
