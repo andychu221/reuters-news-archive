@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T17:20:01.588Z",
-  "total_news_count": 721,
+  "last_updated": "2026-11-13T17:20:47.067Z",
+  "total_news_count": 722,
   "news": [
     {
       "Ticker": "MSFT",
@@ -157,14 +157,18 @@
       "Language": "en"
     },
     {
-      "Ticker": "3374.TWO, 2330.TW",
+      "Ticker": "2330.TW",
       "Date": "2026-11-13",
       "Time": "22:41:46",
       "Source": "Yahoo奇摩股市",
       "Title": "精材與台積電簽逾7年產能外包協議　2029年量產後段先進封裝",
       "URL": "https://tw.stock.yahoo.com/news/%E7%B2%BE%E6%9D%90%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%B0%BD%E9%80%BE7%E5%B9%B4%E7%94%A2%E8%83%BD%E5%A4%96%E5%8C%85%E5%8D%94%E8%AD%B0-2029%E5%B9%B4%E9%87%8F%E7%94%A2%E5%BE%8C%E6%AE%B5%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D-144146056.html",
-      "Content": "（中央社記者鍾榮峰台北2026年11月13日電）半導體晶圓封測廠精材 (3374) 今天公告，董事會決議通過與台積電 (2330) 簽訂產能外包協議，在先進封裝後段製程展開合作，計劃在台積電中部科學園區廠房，建置產線並負責生產相關營運。\n\n精材表示，相關產線建置及量產時程將依計畫時程逐步展開，全案規劃於2029年實現第一期產線量產。精材這次董事會也通過辦理發行新台幣150億元的轉換公司債，支應初期產能建置需求。\n\n精材說明，這次與台積電簽署的產能外包協議，從今天起至2033年12月31日止，合作時程超過7年。\n\n精材指出，人工智慧（AI）、高效能運算（HPC）與資料中心應用快速普及，市場對於先進封裝技術產能需求呈現結構性成長，透過台積電的支持，將投入包括生產設備及自動物料搬運系統（AMHS）方面資本支出，並負責製造與產線運營，成為CoWoS先進封裝供應鏈中oS模組的生力軍。\n\n精材表示，預計結合自身封測營運經驗，在台積電先進封裝技術與製造能力支援下，雙方攜手確保新產線的技術規範、品質與良率符合台積電及全球客戶的嚴格要求。",
-      "Language": "zh"
+      "Content": "（中央社記者鍾榮峰台北2026年11月13日電）半導體晶圓封測廠精材 (3374) 今天公告，董 ...",
+      "Language": "zh",
+      "AI_Summary": "• 精材（3374）與台積電（2330）簽訂超過7年的產能外包協議，合作先進封裝後段製程。\n• 雙方計劃在台積電中部科學園區建置產線，預計於2029年實現第一期產線量產。\n• 精材將辦理150億元轉換公司債以支應初期產能建置需求。\n• 此次合作旨在滿足AI、HPC與資料中心應用對先進封裝產能的結構性成長需求，精材將成為CoWoS先進封裝供應鏈中的重要一環。\n• 預計結合精材的封測經驗與台積電的技術製造能力，確保新產線的品質與良率。",
+      "Related_Score": 5,
+      "Sentiment_Score": 2,
+      "Keywords": "先進封裝,產能外包,CoWoS,AI,HPC"
     },
     {
       "Ticker": ".SPX",
@@ -223,6 +227,16 @@
       "Related_Score": 5,
       "Sentiment_Score": 2,
       "Keywords": "台股反彈,AI供應鏈,PCB,玻纖布,中小型股"
+    },
+    {
+      "Ticker": "SIMO",
+      "Date": "2026-11-13",
+      "Time": "22:12:00",
+      "Source": "Yahoo Finance",
+      "Title": "Can SIMO's Advanced SSD Solutions Boost Its Enterprise Storage Growth?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/simos-advanced-ssd-solutions-boost-141200417.html",
+      "Content": "Silicon Motion Technology Corporation SIMO is expanding its presence in the growing artificial intelligence (AI) infrastructure market through its next-generation enterprise storage solutions. Its PCIe Gen5 and Gen6 MonTitan SSD controllers and reference platforms are designed to meet the increasing storage needs of AI factories, Agentic AI applications and large-scale inference workloads.\n\nSilicon Motion's SM8366 PCIe Gen5 controller supports enterprise SSD capacities of up to 256TB using QLC NAND and multiple storage form factors. Powered by its PerformaShape QoS Engine, the platform aims to provide low latency and consistent performance for AI applications, including KV cache offload. Meanwhile, the SM8466 PCIe Gen6 controller delivers up to 28 GB/s sequential throughput and seven million random IOPS, while the SM8388 controller focuses on power-efficient, high-capacity storage for data centers.\n\nThe company also offers enterprise PCIe NVMe boot SSD solutions with DRAM-less and DRAM-equipped options for AI servers, networking systems and data processing units, with the latter delivering sequential read speeds of up to 14 GB/s. Silicon Motion's boot SSD technology supports NVIDIA Corporation 's NVDA DPU platform, while its Ferri-eMMC storage solution is paired with ASPEED's AST2600 BMC.\n\nThese developments reflect Silicon Motion's efforts to capitalize on rising storage demand in the AI infrastructure market. As AI applications require faster data access, greater storage capacity and reliable performance, the company's advanced SSD controllers and enterprise storage solutions could strengthen its position in the growing data center market.\n\nHow Are Competitors Advancing in the Enterprise Storage Market?\n\nSilicon Motion faces competition from Seagate Technology Holdings plc STX and Micron Technology, Inc. MU. Seagate is strengthening its enterprise storage business to meet rising demand from AI and cloud data centers. The company is advancing its Mozaic platform to increase hard drive capacity, improve storage efficiency and lower operating costs. Seagate's HAMR-based Exos hard drives enable enterprise customers to store more data within the same data center space.\n\nMicron is developing its enterprise SSD portfolio to address the growing storage requirements of AI and cloud applications. The company is focusing on high-capacity drives powered by advanced NAND technology to deliver faster data access and better power efficiency. Micron is advancing its PCIe Gen6 SSD technology to deliver higher data transfer speeds and support demanding workloads across AI and enterprise data centers.\n\nStory Continues\n\nSIMO's Price Performance, Valuation and Estimates\n\nSilicon Motion shares have rallied 107.3% over the past year compared with the industry's growth of 94.3%.\n\nImage Source: Zacks Investment Research\n\nGoing by the price/earnings ratio, the company's shares currently trade at 8.95 forward earnings, lower than 9.06 for the industry.\n\nEarnings estimates for 2026 have increased 20.5% to $13.45 over the past 60 days, while those for 2027 have increased 28.8% to $21.05.\n\nSilicon Motion stock currently carries a Zacks Rank #3 (Hold). You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
     },
     {
       "Ticker": "CSCO",
