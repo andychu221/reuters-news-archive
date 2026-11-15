@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T13:03:44.421Z",
-  "total_news_count": 526,
+  "last_updated": "2026-11-15T14:04:46.936Z",
+  "total_news_count": 525,
   "news": [
     {
       "Ticker": "2330.TW",
@@ -6619,20 +6619,6 @@
       "Keywords": "法說會, 獲利新高, AI需求, 擴產計畫, 營收展望",
       "Related_Score": 5,
       "Sentiment_Score": 2
-    },
-    {
-      "Ticker": "2330.TW",
-      "Date": "2026-10-16",
-      "Time": "21:46:00",
-      "Source": "經濟日報",
-      "Title": "台積電CoWoS助力 輝達RTX Spark電腦強攻高階市場",
-      "URL": "https://money.udn.com/money/story/5612/9819943?from=edn_search_result",
-      "Content": "中 ...",
-      "Language": "zh",
-      "AI_Summary": "• 搭載輝達新一代AI超級晶片RTX Spark的PC開賣，早期需求高度集中在高階64GB與128GB記憶體版本。\n• RTX Spark是輝達與聯發科深度聯手打造，並首度將台積電CoWoS先進封裝技術導入PC產品。\n• 輝達主管預期RTX Spark將成為「輝達有史以來最成功的產品之一」。\n• RTX Spark採用台積電CoWoS先進封裝，為雙晶粒設計，記憶體直接掛載於CPU，GPU需高速記憶體存取。",
-      "Keywords": "RTX Spark, AI PC, CoWoS封裝, 高階記憶體, 輝達聯發科合作",
-      "Related_Score": 5,
-      "Sentiment_Score": 1
     }
   ]
 }
