@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T12:32:34.712Z",
-  "total_news_count": 1041,
+  "last_updated": "2026-11-16T12:36:39.701Z",
+  "total_news_count": 1043,
   "news": [
     {
       "Ticker": "GOOGL",
@@ -23,6 +23,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "INTC",
+      "Date": "2026-11-16",
+      "Time": "19:45:19",
+      "Source": "Yahoo Finance",
+      "Title": "AMD, Intel and Nvidia Fall as AI Chip Selloff Continues",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-fall-ai-114519979.html",
+      "Content": "This article first appeared on GuruFocus .\n\nAdvanced Micro Devices Inc. ( AMD , Financials ), Intel and Nvidia dipped in premarket trade as investors weighed artificial intelligence spending and company-specific threats in the semiconductor business.AMD down by 8.75% on Friday. Intel declined by 2.52% and Nvidia declined by 2.01%. The sell-off underscores worries about whether tech companies can continue to spend in AI infrastructure at their current pace.AMD sells Instinct accelerators and server processors for data centers, and its growth prospects are tied to demand for AI computing gear. Even with the recent downturn, AMD shares were still up 149.37% on the year, providing investors with sizable profits to safeguard.Intel is under more pressure with a planned shareholder class-action lawsuit that alleges the firm neglected to disclose how badly PC demand was falling off, and that it had too much inventory. Its shares dropped more than 4% in premarket trade Monday.Meanwhile, there's uncertainty around Nvidia as news of CEO Jensen Huang's departure and speculation about a future comeback continue.The business is also allegedly in contention for a U.S. government initiative to assist exports of standard artificial intelligence (AI) technology.The analysts remain divided over the three chip producers. reports says AMD has a Strong Buy consensus, with the average price target at $652.18, which implies a potential upside of 22.12%.Nvidia carries a Moderate Buy rating and an average target of $241.73, implying 48.44% upside. Intel has a Hold average rating with a $90.93 target price, suggesting 52.42% upside.Investors may get hints about future demand and regulatory concerns from Nvidia's Nov. 17 earnings announcement and moves in U.S.-China trade talks.",
+      "Language": "en"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-11-16",
       "Time": "19:40:00",
@@ -31,6 +41,16 @@
       "URL": "https://tw.news.yahoo.com/%E5%88%A5%E5%86%8D%E5%B9%BB%E6%83%B3%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E6%AD%B8-%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C2635%E9%BB%9E-%E9%99%B3%E5%98%89%E5%81%89%E9%BB%9E%E5%90%8D-4%E6%97%8F%E7%BE%A4-%E6%81%90%E7%88%86%E7%A0%8D%E5%96%AE%E6%BD%AE-114000128.html",
       "Content": "台北股市16日爆發恐慌性殺盤，終場重挫2,635點創下史上第二大跌點，高達168家亮燈跌停，權值股台積電亦大跌5.74%。分析師陳嘉偉在節目中指出，市場因過度期待黃仁勳重返輝達（NVIDIA）而對AI股「不賣反攤平」，但黃仁勳在美國政壇角力下已完全辭去職務並「淨身出戶」，絕無可能回歸；隨著輝達新團隊反對循環融資、市場預期5,300億美元承諾恐遭砍半，引發「火燒連環船」效應，台股已正式進入空頭主跌段，國安基金提前於年線護盤恐難擋跌勢，台灣供應鏈也將面臨嚴峻的砍單考驗。\n\n168檔亮燈跌停、台積電重挫 國安基金年線護盤恐難撐\n\n回顧大盤走勢，台股單日暴跌2,635點，跌點規模僅次於今年7月台積電法說會後重挫2,900多點的紀錄，且跌停家數高達168家，殺盤力道更為全面。陳嘉偉分析，上週五的反彈僅是「無量反彈」，大盤已從「利多出盡」的初跌段，正式轉為「利空炸現」的空頭主跌段；他直言，光是要回測年線「打第二隻腳」就得先跌5,300點，更別說後續的年線對稱跌幅，長線甚至不排除下探2萬多點的五年線位置。他認為，國安基金過往多在十年線或五年線才出手，此次提前在年線進場難以扭轉空頭趨勢，後續政府不排除祭出「平盤下禁止放空」等限制措施。\n\n捲入美國政壇角力「淨身出戶」 斷言黃仁勳絕無可能回歸\n\n針對市場仍寄望黃仁勳重掌兵符，陳嘉偉直言「完全不可能」。他指出，黃仁勳不僅辭去輝達執行長與總裁，連董事席次也一併辭去、形同「淨身出戶」，背後實為美國政壇的政治角力。由於黃仁勳過去力挺對中國銷售晶片、支持開源模型並掌握AI產業話語權，同時觸怒美國共和黨建制派（如盧比歐等人）及政府高層；在美國派系鬥爭尚未落幕、且民主黨將於明年1月上任並可能展開新一輪動作的情況下，黃仁勳重返輝達已無空間，投資人切勿以情感左右操作。\n\nAI循環融資斷鏈火燒連環船 PCB與矽光子等供應鏈首當其衝\n\n在產業基本面部分，陳嘉偉警告市場嚴重低估黃仁勳請辭後的連鎖效應，直言這場危機猶如「火燒連環船」，而第一艘起火的正是輝達。過去輝達透過「循環融資」支撐下游雲端與資料中心擴張，如今新任高層反對循環融資，華爾街更評估黃仁勳原先承諾的5,300億美元規模恐得砍半，一旦下游無力繼續採購，上游晶片與硬體訂單便會萎縮。他點名先前大舉擴廠、拉高資本支出的台灣供應鏈將首當其衝，包括PCB、矽光子、玻璃纖維與被動元件等族群都面臨砍單並牽動財報表現，呼籲投資人儘速檢視手中套牢的AI持股。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
       "Language": "zh"
+    },
+    {
+      "Ticker": "INTC",
+      "Date": "2026-11-16",
+      "Time": "19:38:28",
+      "Source": "Yahoo Finance",
+      "Title": "Intel faces major lawsuit after $140 billion stock wipeout",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/intel-faces-major-lawsuit-140-113828196.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIntel Corp. ( INTC , Financials ) is facing a proposed securities class action alleging that the company misled investors about declining personal computer demand before a sharp earnings-related selloff.\n\nWarning! GuruFocus has detected 5 Warning Signs with INTC.\n\nIs INTC fairly valued? Test your thesis with our free DCF calculator.\n\nMichigan pension fund filed the action on behalf of Intel stockholders who bought between July 23 and Oct. 29, 2026.Intel failed to reveal the entire impact of declining PC sales and excess inventory by computer makers and distributors, according to the complaint.According to the complaint, increased component prices made Intel's clients sell fewer PCs, reducing CPU demand.Intel's core PC business slowed, and artificial intelligence growth wasn't enough, the plaintiffs said.The complaint highlighted Intel's Aug. 12 public offering of over 240 million shares at $95 each, totaling $23 billion. By October, the shares had plummeted below $52, a 45% drop from the offering price.On Oct. 30, Intel shares fell 28.6% after reporting third-quarter earnings and poor fourth-quarter expectations. The drop cost $140 billion in market value.Intel's reaction to the complaint was not included in the report, and the charges have not been substantiated. After plunging 45% in October, Intel shares rose 51.5% for the year.The court proceedings and Intel's fourth-quarter earnings will help investors understand PC demand, inventories, and the company's financial prospects.\n\nINTC GF Value chart\n\nINTC GF Value chart Michigan pension fund filed the action on behalf of Intel stockholders who bought between July 23 and Oct. 29, 2026.Intel failed to reveal the entire impact of declining PC sales and excess inventory by computer makers and distributors, according to the complaint.According to the complaint, increased component prices made Intel's clients sell fewer PCs, reducing CPU demand.Intel's core PC business slowed, and artificial intelligence growth wasn't enough, the plaintiffs said.The complaint highlighted Intel's Aug. 12 public offering of over 240 million shares at $95 each, totaling $23 billion. By October, the shares had plummeted below $52, a 45% drop from the offering price.On Oct. 30, Intel shares fell 28.6% after reporting third-quarter earnings and poor fourth-quarter expectations. The drop cost $140 billion in market value.Intel's reaction to the complaint was not included in the report, and the charges have not been substantiated. After plunging 45% in October, Intel shares rose 51.5% for the year.The court proceedings and Intel's fourth-quarter earnings will help investors understand PC demand, inventories, and the company's financial prospects.\n\n<span",
+      "Language": "en"
     },
     {
       "Ticker": ".TWII",
