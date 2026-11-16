@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-16T17:20:36.202Z",
-  "total_news_count": 1080,
+  "last_updated": "2026-11-16T17:33:12.027Z",
+  "total_news_count": 1081,
   "news": [
+    {
+      "Ticker": "MRVL",
+      "Date": "2026-11-17",
+      "Time": "01:06:44",
+      "Source": "Yahoo Finance",
+      "Title": "Marvell Stock in Focus After New AI Data Center Deal With Penguin Solutions",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/marvell-stock-focus-ai-data-170644611.html",
+      "Content": "This article first appeared on GuruFocus .\n\nMarvell Technology Inc. ( MRVL , Financials ) announced a strategic partnership with Penguin Solutions to develop AI data center memory extension technology.The alliance combines Marvell's CXL memory controllers with Penguin Solutions' server infrastructure expertise.The businesses want to assist data center operators boost memory capacity without often upgrading hardware. Initial technique expands server memory using DDR4 memory and CXL-based extension.A second method uses sophisticated photonics to share memory across numerous server racks with high bandwidth and low latency.The technologies are meant to help servers move from direct memory access to shared memory in bigger computer systems.The businesses claimed this strategy might provide consumers more flexibility as their AI computing needs grow.By 2026, Marvell's Structera X memory-expansion controller-powered Penguin SMART CXL add-in cards will be ready for customer certification and enterprise implementation.The partners will also sample Photonic Fabric-based integrated memory expansion servers in the second half of 2027.AI infrastructure operators are working together to enhance processing capacity without increasing data center costs or complexity.Marvell can deliver sophisticated AI infrastructure technologies under the arrangement. The firms did not share partnership financials or revenue estimates.For commercial advancement, investors will observe the initial product qualification procedure later this year and the 2027 photonic memory system samples.",
+      "Language": "en"
+    },
     {
       "Ticker": "CSCO",
       "Date": "2026-11-17",
