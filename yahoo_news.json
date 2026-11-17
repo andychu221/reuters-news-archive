@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T19:25:27.491Z",
-  "total_news_count": 1473,
+  "last_updated": "2026-11-17T19:33:12.141Z",
+  "total_news_count": 1474,
   "news": [
     {
       "Ticker": "AMZN",
@@ -213,7 +213,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "INTC",
+      "Ticker": "MRVL, INTC",
       "Date": "2026-11-18",
       "Time": "01:05:01",
       "Source": "Yahoo Finance",
@@ -699,6 +699,16 @@
       "Keywords": "ETF,定期定額,科技股,半導體,市值型ETF"
     },
     {
+      "Ticker": "MRVL",
+      "Date": "2026-11-17",
+      "Time": "22:07:00",
+      "Source": "Yahoo Finance",
+      "Title": "MRVL vs. AVGO: Which AI Semiconductor Stock Has an Edge Right Now?",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/mrvl-vs-avgo-ai-semiconductor-140700576.html",
+      "Content": "Marvell Technology MRVL and Broadcom AVGO are benefiting from the expanding artificial intelligence (AI) infrastructure market. Broadcom operates as a diversified technology company with strong positions in custom AI accelerators, Ethernet switching and infrastructure software, including VMware, while Marvell Technology is a semiconductor-focused company specializing in custom silicon, optical DSPs and high-speed connectivity.\n\nBroadcom offers greater scale and diversification, while Marvell Technology provides more focused AI infrastructure growth exposure. Let's discuss the differences in growth visibility, profitability, valuation and execution risks to answer the question: Which stock is the better investment right now?\n\nThe Case for MRVL Stock\n\nMarvell Technology is benefiting from rising AI infrastructure demand, with custom silicon, interconnect, switching and optics as AI infrastructure momentum speeds up. Marvell Technology's second-quarter fiscal 2027 results extended its AI infrastructure momentum. MRVL's revenues rose 37% year over year to $2.74 billion, with data center up 46% to $2.17 billion and representing 79% of sales.\n\nMRVL's custom silicon strategy continues to benefit from hyperscaler demand for XPU and XPU-attach solutions. MRVL expects custom demand to ramp up in the second half of fiscal 2027 and the business to more than double year over year in fiscal 2028. MRVL's fabless approach allows it to scale advanced silicon without owning manufacturing assets and use funds for R&D and acquisitions.\n\nMRVL is set to acquire Lumentum. This acquisition will add a substantial portfolio of optical and photonic technologies used in AI data centers, cloud infrastructure, telecommunications networks and advanced manufacturing. Lumentum's Optical Circuit Switching, high-speed transceivers and laser components are of the most strategic importance for MRVL, which will make its offerings complete and more valuable.\n\nMarvell Technology's networking business also remains a key beneficiary of rising AI cluster size and bandwidth requirements. In second-quarter fiscal 2027, demand remained elevated for 800G optical DSPs, while 1.6T products ramped up rapidly. Scale-out switching remains on track to more than double in fiscal 2027 as 51.2T products expand across more customers.\n\nFurthermore, MRVL has been reshaping its cost base while prioritizing data center investment. In second-quarter fiscal 2027, non-GAAP operating margin reached 36.6%, up 180 basis points year over year and 160 basis points sequentially, as revenues scaled faster than operating costs. The Zacks Consensus Estimate for MRVL's fiscal 2027 bottom line suggests year-over-year growth of 48%. Estimates remained unchanged over the past 30 days.\n\nStory Continues\n\nImage Source: Zacks Investment Research\n\nThe Case for AVGO Stock\n\nBroadcom is benefiting from expanding AI infrastructure spending, with custom XPUs and networking driving semiconductor growth while VMware supports infrastructure software. Broadcom also enjoys multiyear engagements with six XPU customers. The broader Ethernet adoption and rising AI deployments provide long-term revenue visibility for AVGO. In the third quarter of fiscal 2026, AI semiconductor revenues reached $16.7 billion, which increased 221% year over year and 54% sequentially.\n\nBroadcom's XPU shipments increased more than 3.5 times year over year and represented 73% of AI revenue. Broadcom expects AI semiconductor revenues of $21.7 billion in the fourth quarter, up 236% year over year. Management now expects fiscal 2026 AI revenues of $58 billion, up 186% from fiscal 2025. It also expects AI semiconductor revenues to approximately double to $115 billion in fiscal 2027.\n\nIn the fiscal third quarter, Broadcom shipped TPU v7 at high volume to Anthropic and Google, began production shipments of TPU v8i to Google, and shipped OpenAI's first-generation Jalapeno accelerator. Management also expects Meta production shipments in the fiscal fourth quarter. Broadcom has a long-term agreement with Google covering future TPU generations and AI networking, while Anthropic and OpenAI have multiyear deployment plans extending through fiscal 2028.\n\nBroadcom's AI opportunity extends beyond accelerators into networking required to scale large compute clusters. In the fiscal third quarter of 2026, AI networking revenues increased more than 2.5 times year over year. However, competition and the attempt to keep products reasonably priced might affect AVGO's margins. In the third quarter of fiscal 2026, consolidated non-GAAP gross margin was 75%, down 210 basis points sequentially as AI semiconductors became a larger share of revenue.\n\nManagement expects gross margin to decline to approximately 73% in the fiscal fourth quarter from 78% a year earlier, reflecting a higher XPU mix and rising memory content. The Zacks Consensus Estimate for AVGO's fiscal 2026 earnings indicates year-over-year growth of 71%. Estimates have been revised downward in the past seven days.\n\nStock Price Performance and Valuation of MRVL & AVGO\n\nMRVL shares have gained 71% year to date against the decline of 3.7% in AVGO shares.\n\nYTD Performance Chart\n\nAVGO is trading at a forward sales multiple of 8.89X, way below its median of 13.61X. MRVL's forward sales multiple sits at 7.11X, lower than its median of 11.56X over the past year.\n\nForward 12-Month (P/S) Valuation Chart\n\nConclusion: MRVL vs. AVGO\n\nMarvell Technology appears better positioned given its accelerating AI data center growth, expanding custom silicon opportunity, strong optical connectivity portfolio and improving operating margins. Its lower forward sales multiple also offers relative valuation appeal. While Broadcom has greater scale, MRVL's focused AI exposure and positive earnings revisions support a stronger investment case currently. MRVL and AVGO carry a Zacks Rank #3 (Hold) each at present. You can see the complete list of today's Zacks #1 Rank (Strong Buy) stocks here .",
+      "Language": "en"
+    },
+    {
       "Ticker": "AMZN",
       "Date": "2026-11-17",
       "Time": "21:54:00",
@@ -1017,7 +1027,7 @@
       "Keywords": "基本面, 獲利成長, 信用交易, 市場信心, AI需求"
     },
     {
-      "Ticker": "ARM",
+      "Ticker": "MRVL, ARM",
       "Date": "2026-11-17",
       "Time": "19:36:25",
       "Source": "Yahoo Finance",
