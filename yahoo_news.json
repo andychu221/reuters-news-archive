@@ -1,9 +1,19 @@
 {
-  "last_updated": "2026-11-18T12:32:54.652Z",
-  "total_news_count": 1656,
+  "last_updated": "2026-11-18T12:37:02.900Z",
+  "total_news_count": 1658,
   "news": [
     {
-      "Ticker": "MSFT",
+      "Ticker": "AAPL",
+      "Date": "2026-11-18",
+      "Time": "20:18:08",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Outage Adds to a Week of US Tech Failures",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-outage-adds-week-us-121808131.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple Inc. ( NASDAQ:AAPL ) said on Tuesday it was working to restore its systems after an internal update caused an outage that hit customer services including iCloud and Apple Pay, Reuters reported . Apple said the problem wasn't caused by a cyberattack and that many of its systems were back up and running. Apple shares were down 0.33% in premarket.\n\nWarning! GuruFocus has detected 11 Warning Signs with OSL:NOHAL.\n\nIs AAPL fairly valued? Test your thesis with our free DCF calculator.\n\nDowndetector logged about 2,300 user reports of Apple Pay problems in the US around 12:20 p.m. ET, and about 1,800 for iCloud at the peak. A spokesperson said Apple was working to bring the remaining systems back online as soon as possible.\n\nThe outage was the latest in a run of US technology failures in less than a week. They included a global Microsoft Corp. ( NASDAQ:MSFT ) outage , a Federal Aviation Administration network failure that forced a nationwide ground stop, a technology failure at United Airlines Holdings Inc. ( NASDAQ:UAL ) and a software problem at JPMorgan Chase & Co. ( NYSE:JPM ) that disrupted banking services. Companies and officials have said none of the incidents were linked to cyberattacks.\n\nAAPL GF Value chart\n\nAAPL GF Value chart Downdetector logged about 2,300 user reports of Apple Pay problems in the US around 12:20 p.m. ET, and about 1,800 for iCloud at the peak. A spokesperson said Apple was working to bring the remaining systems back online as soon as possible.\n\nThe outage was the latest in a run of US technology failures in less than a week. They included a global Microsoft Corp. ( NASDAQ:MSFT ) outage , a Federal Aviation Administration network failure that forced a nationwide ground stop, a technology failure at United Airlines Holdings Inc. (<a href=\"https://finance.yahoo.com/quote/UAL\" data-ylk=\"slk:NASDAQ%3AUAL;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"NASDAQ:UAL\",&qu",
+      "Language": "en"
+    },
+    {
+      "Ticker": "TSM, MSFT",
       "Date": "2026-11-18",
       "Time": "19:50:00",
       "Source": "Yahoo Finance",
@@ -40,6 +50,16 @@
       "Title": "Nvidia Directors Clash Over Jensen Huang Comeback as Two Rival CEOs Emerge",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-directors-clash-over-jensen-111908834.html",
       "Content": "This article first appeared on GuruFocus .\n\nNvidia ( NASDAQ:NVDA ) directors appear split over whether to bring back Jensen Huang or pick a new chief executive, according to a Semafor report citing people familiar with the matter.\n\nOne group of directors is pushing for Huang's return, the report said, despite the company's public stance against it.\n\nWarning! GuruFocus has detected 3 Warning Signs with NVDA.\n\nIs NVDA fairly valued? Test your thesis with our free DCF calculator.\n\nHuang has spoken with several technology executives and at least one director about returning. The director conversation came before Nvidia's earnings report and before Huang said he would return if the board saw it as best for the company.\n\nChairman Harvey Jones later said on the earnings call that directors had unanimously accepted Huang's resignation and are not weighing his return.\n\nMeanwhile, some directors are narrowing the search for a replacement. Arm ( NASDAQ:ARM ) CEO Rene Haas and Marvell Technology ( NASDAQ:MRVL ) CEO Matt Murphy have been considered.\n\nHaas has talked with at least some directors about the role but is concerned about how taking it would look amid calls for Huang's return.\n\nNVDA GF Value chart\n\nNVDA GF Value chart Huang has spoken with several technology executives and at least one director about returning. The director conversation came before Nvidia's earnings report and before Huang said he would return if the board saw it as best for the company.\n\n<spa",
+      "Language": "en"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-11-18",
+      "Time": "19:16:50",
+      "Source": "Yahoo Finance",
+      "Title": "Apple Reveals Cause of Major Outage That Disrupted iCloud and Apple Pay",
+      "URL": "https://finance.yahoo.com/technology/articles/apple-reveals-cause-major-outage-111650953.html",
+      "Content": "This article first appeared on GuruFocus .\n\nApple ( AAPL , Financials ) faced significant service delays as an internal software update triggered downtime impacting iCloud, Apple Pay and other user services.The business said the outage was due to an internal upgrade and not a hack. Apple said many affected systems have returned to service as technical teams worked to restore remaining services.Downdetector logged almost 2,300 reports of issues with Apple Pay in the U.S. at roughly 12:20 p.m. ET.The outage-tracking software also logged almost 1,800 reports mentioning iCloud at the height of the interruption. The numbers are based on complaints reported by users and not the overall number of consumers who were affected.The event comes after a string of technology setbacks at U.S. businesses, increasing concerns about the reliability of crucial digital infrastructure.Microsoft, United Airlines and JPMorgan Chase have all recently gone down, while a network failure at the Federal Aviation Administration forced a countrywide ground stop.The problems did not appear related to hacks, companies and officials said. Disruptions with payment processing and cloud storage illustrate the operational significance of Apple's developing services ecosystem.Investors will be watching for the return of the other systems, and further information on the operational or financial implications of the outage.",
       "Language": "en"
     },
     {
