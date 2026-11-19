@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T19:20:30.592Z",
-  "total_news_count": 1994,
+  "last_updated": "2026-11-19T19:26:07.867Z",
+  "total_news_count": 1996,
   "news": [
     {
       "Ticker": "META",
@@ -63,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": ".TWII",
+      "Date": "2026-11-20",
+      "Time": "02:15:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股市值全球第四跌第七　林啟超揭原因",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%B8%82%E5%80%BC%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E8%B7%8C%E7%AC%AC%E4%B8%83-%E6%9E%97%E5%95%9F%E8%B6%85%E6%8F%AD%E5%8E%9F%E5%9B%A0-181500011.html",
+      "Content": "台股19日崩跌1768點，收38426點，接連摜破4萬點整數和39368點年線兩道關卡，寫下史上第七大收盤跌點。三大法人當中，外資和自營商聯手賣超461億元，僅投信逆勢加碼15億元。據《鏡週刊》報導，國泰世華銀行首席經濟學家林啟超認為，這波賣壓提前將2028年的風險反映在股價上，顯見市場反應過度。\n\n台股市值從第四跌落第七　報酬率仍亮眼成外資「提款機」\n\n指數的雪崩態勢，林啟超直言，甚至讓台股市值為印度超越。根據《MarketCapWatch》的統計，台股市值為4.17兆美元，排名全球第七，落在英國與加拿大之後，而印度以5.17億美元位居第四。但回顧9月，台股才5.3兆美元市值擊敗印度，首度名列全球第四。話雖如此，林啟超強調，儘管指數連番出現千點長黑、自高點回檔逾萬點，台股今年報酬仍約3成，在全球名列前茅，也因此才被外資當成「提款機」。基金經理人眼看年底將近，想提高手中現金水位，自然優先調節賣後會有獲利落袋為安的台股。\n\n兩場風暴引發外資重新定價　台股「黃仁勳溢價」掰掰？\n\nAI產業接連發生的兩場風暴，促使外資重新評價台股值多少錢。首先是美國德州州長選後換人，新州長主張資料中心開發尊重在地民意，原本預計2027上半年送審的案子，時程恐怕須順延。林啟超說明，明年前三季預定啟用的專案大多已完成申請，台廠近期出貨影響不大，真正要擔心的是2028年。他舉例，同樣一筆訂單，交貨期從3年拉長到4年，總金額沒變，但每年認列的營收就會變少；市場過去之所以願意給台廠較高評價，賭的就是2028、2029年的高成長，一旦交貨期延後，股價可能跟著打折。不過對雲端大廠來說，遭龐大資本支出擠壓的現金流，也因擴建速度放緩，獲得了喘息空間。\n\n第二場風暴的輝達（Nvidia）創辦人黃仁勳閃辭的震撼。林啟超表示，過去黃仁勳走到哪裡，都會樂意介紹台灣夥伴，台股也因此享有所謂的「黃仁勳溢價」。現在投資人想知道，黃仁勳以往對新興雲端業者的融資與合作承諾，新團隊會兌現多少？這些業者能拿到多少資金購買GPU，牽動輝達未來交給台灣晶圓代工與伺服器廠的訂單。\n\n台股現在便宜嗎？林啟超建議逢低布局市值型ETF\n\n那麼台股現在算便宜嗎？林啟超推算，今年上市櫃公司稅後獲利約7.8兆至7.9兆元，若明年成長近3成，全年有機會逼近10兆元。以總市值約140兆元計算，前瞻本益比只有14倍，低於2020年以來的平均16.8倍；即使將2027年獲利預估再砍5%、降至9.5兆元，本益比仍不到15倍。他認為，獲利成長趨緩，估值下修有其道理，但在38000點上下，顯然市場對兩年後的風險反應過度。\n\n對於打算逢低布局的投資人，林啟超建議以能分享整體企業獲利的市值型ETF為主，同時調降未來2年的股票報酬預期，手上保留部分現金，並搭配信用評等較佳的投資級公司債。後續他會追蹤兩個重點：其一，雲端大廠面對德州審批延宕，是轉往其他州或海外蓋廠，還是乾脆調降整體資本支出，這攸關台",
+      "Language": "zh"
+    },
+    {
       "Ticker": "MSFT",
       "Date": "2026-11-20",
       "Time": "02:07:18",
@@ -71,6 +81,16 @@
       "URL": "https://finance.yahoo.com/technology/ai/articles/microsoft-ceo-sounds-alarm-ai-180718483.html",
       "Content": "This article first appeared on GuruFocus .\n\nMicrosoft ( NASDAQ:MSFT ) CEO Satya Nadella acknowledged that the company could have prevented last week's widespread Outlook disruption, pointing to a software defect that escaped testing and inadequate safeguards during an interview with CNBC .\n\nWarning! GuruFocus has detected 4 Warning Sign with MSFT.\n\nIs MSFT fairly valued? Test your thesis with our free DCF calculator.\n\nThe bug surfaced under a particular pattern of user traffic, Nadella said on CNBC's \"Mad Money.\" He said Microsoft should have tested for the condition and used stronger isolation measures, known as bulkheads, to keep a fault from spreading across services.\n\nThe incident points to a wider problem for technology companies adopting artificial intelligence. Nadella said AI tools can uncover software defects faster, but a rush to deploy fixes may create instability in older systems.\n\nMicrosoft is revising Copilot, its workplace AI assistant, and moving toward usage-based pricing for some advanced features. Nadella said customers can choose among models from OpenAI, Anthropic and Microsoft, while Dynamics is increasingly based on usage rather than paid seats.\n\nHe also said data center operators need to demonstrate local benefits, including jobs, tax revenue and infrastructure improvements, to win community support.\n\nMSFT GF Value chart\n\nMSFT GF Value chart The bug surfaced under a particular pattern of user traffic, Nadella said on CNBC's \"Mad Money.\" He said Microsoft should have tested for the condition and used stronger isolation measures, known as bulkheads, to keep a fault from spreading across services.\n\n<span",
       "Language": "en"
+    },
+    {
+      "Ticker": ".SPX",
+      "Date": "2026-11-20",
+      "Time": "02:06:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "《跌勢美股特報》FOUR,MTZ,LOPE,KBR等4檔",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B7%8C%E5%8B%A2%E7%BE%8E%E8%82%A1%E7%89%B9%E5%A0%B1-four-mtz-lope-kbr%E7%AD%894%E6%AA%94-180600062.html",
+      "Content": "MoneyDJ新聞 2026-11-20 02:06:15 數位內容中心 發佈\n\nShift4 Payments（FOUR.US）： 成交價38.64美元，下跌5.27%，開盤40.5美元，盤中高點40.6美元，盤中低點37.96美元，均價39.03美元，成交量23.17萬股。\n\nShift4 Payments近14日未見新的公司公告、財報更新、財測修正、重大客戶合作或產品發布資料，現階段較難從公司面辨識足以改變營運方向的新增事件。對支付服務商而言，更具解釋力的變化通常會來自大型商戶導入、支付處理量成長、垂直產業擴張，或軟硬體整合能力提升，但本次資料沒有提供這些新線索。換言之，短線可確認的重點反而是公司尚未釋出新的營運催化劑，後續仍需等待管理層揭露更直接的業務進展。\n\nMasTec（MTZ.US）： 成交價166.71美元，下跌4.68%，開盤178.47美元，盤中高點178.47美元，盤中低點164.46美元，均價171.26美元，成交量12.05萬股。\n\nMasTec最近較明確的變化，是暫停一項後期併購談判，轉而優先執行最高2.5億美元的股票回購計畫，顯示資本配置重心從外部擴張轉向既有業務執行與股東回饋。管理層指出，這項調整與當前市況以及大型交易的內部投資報酬門檻有關，也有助公司把資源集中在電力傳輸、潔淨能源、管線與其他基礎設施專案。這個決定的重要性在於，MasTec正處於專案量創紀錄、執行需求偏高的階段，公司選擇降低整合大型收購的負擔。財務面上，公司預估2026年營收183億美元，淨利4.98億至5.24億美元，稀釋後每股盈餘5.69至6.01美元，反映現階段仍把達成既有展望放在更優先位置。\n\nGrand Canyon Education（LOPE.US）： 成交價111.58美元，下跌4.93%，開盤116.61美元，盤中高點117.53美元，盤中低點111.1美元，均價112.34美元，成交量7146股。\n\nGrand Canyon Education近14日沒有可對照的公司特定新消息，現有資料未提供新的財報、招生數據、合作案、監管進展或資本配置更新，因此暫時看不到足以重寫營運方向的新增事件。對教育服務公司而言，真正能改變基本面判讀的訊號，通常來自學生註冊成長、課程擴張、服務合約變化，或管理層對招生成本與獲利結構的最新說法，但本次資料都未揭露。現階段可確認的只有公司面資訊仍偏少，後續仍需等待更完整的營運更新，才能判斷是否出現新的成長或風險轉折。\n\nKBR（KBR.US）： 成交價31.61美元，下跌4.44%，開盤32.95美元，盤中高點33美元，盤中低點31.12美元，均價31.75美元，成交量14.79萬股。\n\nKBR近期較具方向性的進展，是取得Aramco授予的工程與專案執行合約，將升級Marjan離岸油田的加工設施、天然氣壓縮設備與電力系統，進一步強化其在能源效率與電力整合工程的角色。這項專案不只聚焦傳統油氣設備，也納入數位技術、流程自動化與電力強化方案，顯示KBR承接的已不是單純土木或設備工程，而是更高複雜度的系統升級。另一個可對照的營運訊號是，截至2026年第二季，公司永續技術解決方案訂單積壓達55億美元，且訂單出貨比高於1倍，代表新接案速度仍快於執行消化速度，後續收入來源仍有支撐。\n\n《跌勢美股特報》DVA等1檔\n\n微星攜資策會攻企業主權AI，鎖定製造、金融等4領域\n\n資料來源- MoneyDJ理財網",
+      "Language": "zh"
     },
     {
       "Ticker": "AAPL",
