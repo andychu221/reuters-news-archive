@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-20T09:28:42.549Z",
-  "total_news_count": 163,
+  "last_updated": "2026-11-20T10:28:34.921Z",
+  "total_news_count": 164,
   "news": [
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-11-20",
+      "Time": "18:07:05",
+      "Source": "自由時報",
+      "Title": "台積電再投入3.2億元  投資以色列AI晶片新創Element Labs",
+      "URL": "https://ec.ltn.com.tw/article/breakingnews/5647912",
+      "Content": "〔記者林薏茹／台北報導〕晶圓代工龍頭台積電（2330）持續透過旗下投資基金布局新創及科技公司，台積電今（20）日公告，旗下創投基金子公司Emerging Fund, L.P.投資以色列半導體新創Element Labs Ltd.特別股，取得36萬461股，每股交易價格27.74美元，交易總金額約1000萬美元（約新台幣3.2億元），持股比例低於10%。\n\n Element Labs為一家以色列半導體新創公司，成立於2024年，由知名晶片創業家Avigdor Willenz，以及曾共同創立AI晶片公司Habana Labs的David Dahan、Ran Halutz共同創辦，主要研發用於AI推論的處理器，目標是讓已訓練完成的AI模型能以更低成本、更高效率執行運算，並布局小型及區域型資料中心市場。\n\n 根據以色列財經媒體《Globes》今年6月報導，Element Labs獲既有投資人挹注約3億至4億美元，估值超過40億美元。\n\n 台積電旗下Emerging Fund則是以投資科技新創公司為主要業務的子公司，根據台積電財報，Emerging Fund曾投資矽光子獨角獸Ayar Labs、AI晶片公司SiMa Technologies，以及半導體新創Xsight Labs、NeuReality等業者，投資領域涵蓋半導體、AI運算及高速傳輸。此次投資Element Labs，則再將布局延伸至AI推論晶片領域。",
+      "Language": "zh"
+    },
     {
       "Ticker": "2303.TW, 2344.TW, 6770.TW",
       "Date": "2026-11-20",
