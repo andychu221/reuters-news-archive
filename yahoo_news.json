@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-21T16:14:16.327Z",
-  "total_news_count": 419,
+  "last_updated": "2026-11-21T16:36:57.620Z",
+  "total_news_count": 420,
   "news": [
     {
-      "Ticker": "GOOGL",
+      "Ticker": "AAPL, GOOGL",
       "Date": "2026-11-22",
       "Time": "00:00:07",
       "Source": "Yahoo Finance",
@@ -13,7 +13,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "INTC, NVDA",
       "Date": "2026-11-21",
       "Time": "23:50:02",
       "Source": "Yahoo Finance",
@@ -1119,6 +1119,16 @@
       "Related_Score": 4,
       "Sentiment_Score": -1,
       "Keywords": "Semiconductor equipment, wafer fabrication, NAND, DRAM, foundry"
+    },
+    {
+      "Ticker": "AAPL",
+      "Date": "2026-11-20",
+      "Time": "23:30:00",
+      "Source": "Yahoo Finance",
+      "Title": "Apple's Rare Samsung Memory Plan Could Solve One Problem and Create Another",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/apples-rare-samsung-memory-plan-153000343.html",
+      "Content": "Key Points\n\nInterested in Apple Inc.? Here are five stocks we like better.\n\nApple is reportedly negotiating a four- to five-year DRAM supply agreement with Samsung, departing from its traditional preference for shorter contracts.\n\nThe proposed agreement would secure minimum memory supplies while leaving prices tied to market conditions, potentially exposing Apple to higher component costs.\n\nApple's strong Services margins and cash generation could help offset rising memory costs, although hardware profitability remains a concern.\n\nApple Inc. (NASDAQ: AAPL) has spent years playing hardball with its chip suppliers, signing short contracts and squeezing them for lower prices at every renewal. So when word emerges that Apple is about to lock itself into a rare multi-year memory deal with one of them, it's worth asking what exactly has changed.\n\nReports suggest Apple is close to a supply agreement with Samsung Electronics (OTCMKTS: SSNLF) running four to five years from the first half of 2027, with a guaranteed minimum volume of DRAM chips, and here's the twist: the prices wouldn't be fixed low. They would move with the market. Apple, in other words, is prioritizing reliable supply, even if it can't guarantee the chips will be cheap.\n\n→ SpaceX's Wild Ride Puts 2 Space Stocks and a Weekly-Payout ETF in Focus\n\nThe backdrop makes the move all the more interesting. Even as the wider market has wobbled and the AI trade has turned shaky since the start of November, Apple shares have held firm, setting a record high as recently as Nov. 13 as investors increasingly treat the iPhone maker as a haven. So is this supply deal a shrewd hedge, or a quiet red flag about the company's margins underneath?\n\nApple Rethinks Its Memory-Chip Playbook\n\nThe report is noteworthy because it would mark a shift in how Apple does business. For decades, the company has used its enormous buying power to keep component costs down, leaning on shorter-term deals that let it renegotiate as prices softened. Committing years ahead, at variable market prices, is the opposite.\n\n→ Palantir's Political Controversy Is Hiding a Much Bigger Story\n\nThe reason is simple: there isn't enough memory to go around. AI data centers are gobbling up so many memory chips that makers like Samsung are funneling their supply toward them, leaving less for everyday gadgets like phones and laptops. When chips are this scarce, the supplier calls the shots, and Apple has clearly decided that securing enough supply matters more than holding out for a lower price.\n\nStory Continues\n\nIn other words, Apple is treating the memory crunch not as a passing squeeze, but as a problem that could stretch years into the future, and one it's trying to get ahead of.\n\n→ Drilling for Yield in the Gulf: Chevron Drops Anchor in Deepwater\n\nSecuring Memory Supply, But Not Lower Prices\n\nHowever, here's the catch for investors. Because the prices would track the market, this deal would secure supply without shielding Apple from rising costs. That would make it more of an availability hedge, rather than a cost hedge, and that distinction matters.\n\nOn its most recent earnings call, Apple's management was blunt about the pressure, describing memory pricing as unprecedented and warning that costs would keep climbing into 2027. Signing up for years of memory at market rates, then, is as much a confession as a strategy. It's Apple quietly acknowledging that the era of cheap memory, and the plump hardware margins it helped sustain, may not be coming back any time soon.\n\nWhy Apple Can Absorb Rising Memory Costs\n\nBefore the bears get carried away, few companies are better built to weather rising costs. Apple still boasts overall gross margins near 50% and generates a ton of cash from operations. At the same time, its high-margin Services business has become something of a secret weapon for smoothing over pressure elsewhere.\n\nThat cushion is why a memory squeeze that might cripple a weaker rival is, for Apple, a manageable headwind. The company can lean harder on Services, nudge prices higher and manage its vast inventory to blunt the blow, levers that most device makers don't have.\n\nStill, it's not a free pass. The expected near-term decline in Apple's overall gross margin has already been pinned largely on memory costs, and the benefit of cheaper, older inventory will fade as it's used up. But dented margins are a very different problem from empty shelves, and this deal is designed to reduce the risk of the latter scenario.\n\nA Smart Supply Hedge or a Warning for Apple's Margins?\n\nFor investors considering the opportunity in Apple, the honest answer is that this potential deal with Samsung is both a hedge and a warning. As a hedge, it's shrewd: Apple would be helping ensure its iPhones, Macs, and iPads won't be starved of memory while AI server customers jump the queue. As a signal, it's sobering, because a company this disciplined doesn't surrender its pricing leverage unless it expects the supply crunch to stick around.\n\nFor now, investors seem to be giving Apple the benefit of the doubt, treating it as a port in the storm while the rest of tech lurches about. Apple is trying to ensure it will have the chips, but the bigger question is what the margin impact will be, and whether its safe-haven status can survive the bill.\n\nThe article \" Apple's Rare Samsung Memory Plan Could Solve One Problem and Create Another \" was originally published by MarketBeat.\n\nView MarketBeat's top stocks for November 2026 .",
+      "Language": "en"
     },
     {
       "Ticker": "SNDK",
