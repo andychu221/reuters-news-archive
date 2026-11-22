@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T12:36:43.775Z",
-  "total_news_count": 527,
+  "last_updated": "2026-11-22T13:15:05.990Z",
+  "total_news_count": 528,
   "news": [
     {
       "Ticker": "TSLA",
@@ -23,7 +23,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "META",
+      "Ticker": "MSFT, META",
       "Date": "2026-11-22",
       "Time": "19:15:02",
       "Source": "Yahoo Finance",
@@ -979,6 +979,16 @@
       "Keywords": "AI trade, market sentiment, pricing power, interest rates, data center construction"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-11-21",
+      "Time": "20:55:00",
+      "Source": "Yahoo Finance",
+      "Title": "Anthropic's Record IPO Could Ease a Major Concern for Broadcom Investors",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-could-ease-125500264.html",
+      "Content": "Key Points\n\nInterested in Broadcom Inc.? Here are five stocks we like better.\n\nAnthropic's IPO and private placement raised roughly $117.6 billion, strengthening its ability to fund $161.2 billion in chip leasing commitments owed to Broadcom.\n\nBroadcom expects Anthropic to become its largest custom AI chip customer in 2027, making the developer's access to capital an important factor in its growth outlook.\n\nStrong demand for Anthropic's shares suggests investors remain willing to finance large technology companies, although higher borrowing costs and long-term infrastructure obligations remain risks.\n\nAfter a long wait, Claude developer Anthropic PBC (NASDAQ: ANT) is finally a publicly traded company. The news is a positive for many firms across the AI and semiconductor industry, including chip giant Broadcom (NASDAQ: AVGO). Not only does the move bolster Anthropic's ability to make good on its large-scale commitments to Broadcom, but it also pushes back on one of the key concerns Broadcom's CEO outlined earlier this year.\n\nAnthropic Fortifies Balance Sheet With IPO and Private Placement Proceeds\n\nAnthropic's total chip leasing commitments to Broadcom are $161.2 billion over the next five years, excluding interest. With these commitments, Broadcom expects Anthropic to become its largest XPU customer in 2027, and to sustain that position in 2028. This makes Anthropic's ability to pay Broadcom critical to the chip giant achieving its forecast for $350 billion in AI semiconductor sales from its fiscal year 2027 to fiscal year 2028.\n\n→ Greg Abel Makes His Next Moves: Inside Berkshire's Q3 Portfolio\n\nAnthropic's total commitments to AI hyperscalers and neoclouds are also several times larger than its commitment to Broadcom. To satisfy all these payments, getting its hands on as much cash as possible is key. Luckily for Anthropic and its suppliers, the company's latest share offerings will significantly bolster its balance sheet.\n\nAnthropic set its IPO price at $83 and initially offered 980 million shares. After removing the 23.6 million shares sold by certain stockholders, Anthropic listed proceeds from the original offering, after underwriting discounts but before other expenses, at around $78.8 billion. Underwriters subsequently exercised their option to buy 147 million additional shares, bringing the total offering to 1.127 billion shares and Anthropic's gross IPO proceeds to approximately $91.6 billion.\n\n→ Grounded at 52-Week Lows: When Will Boeing Stock Take Flight?\n\nSeparately, the company closed a private share placement worth around $26 billion, with Broadcom among the investors. Including this, Anthropic raised approximately $117.6 billion in gross proceeds from newly issued shares across both offerings, before fees and expenses.\n\nStory Continues\n\nThe company's amended S-1 filing shows that it was already in a very strong cash position, with cash, cash equivalents, and short-term investments of around $131.8 billion. Its final prospectus estimates that these holdings would have totaled approximately $244.6 billion on a pro forma adjusted basis as of Sept. 30, assuming the completed offerings and full exercise of the underwriters' option, after estimated expenses and related tax withholding obligations.\n\n→ If NVIDIA Tightens Its Wallet, These 3 Stocks Could Feel It\n\nThis massive piggy bank should go a long way toward helping Anthropic fund its lease and compute commitments over the coming years as it looks to increase its profitability. Although the company's sales are growing rapidly and margins are improving, its commitments still dwarf the size of its profits. In the first nine months of 2026, Anthropic's adjusted operating profit was $4.08 billion, and its operating cash flow was $6.57 billion.\n\nAnthropic's IPO Demand Signals Willingness to Commit Capital to AI Firms\n\nWhen discussing constraints on the AI buildout going forward, Broadcom's CEO Hock Tan recently said, \"What I think might be the biggest constraint is capital.\" In this context, the strong demand for Anthropic's IPO is a positive sign, indicating that investors are still willing to commit capital to AI companies.\n\nAround a week before going public, Anthropic said the expected price for its IPO was between $70 and $78 per share. The company also said it expected to offer 825 million shares. Based on these numbers, the high end of Anthropic's gross proceeds from the offering was around $64.35 billion, including shares sold by existing stockholders.\n\nHowever, reports soon emerged that the company's IPO was around six times oversubscribed, indicating very strong investor demand. In turn, the company increased both the price per share and the number of shares offered, putting its IPO proceeds well above this previous figure.\n\nSomething similar has played out with the recent equity and bond offerings at Meta Platforms (NASDAQ: META). These offerings were all several times oversubscribed according to reports, again signaling strong demand to provide capital to AI companies. This is another positive sign for Broadcom, as Meta is also one of its top chip customers, with the companies partnering to design Meta's custom AI accelerators.\n\nStill, just because Anthropic and Meta are able to attract capital today doesn't mean the entire AI ecosystem can, or that this will continue indefinitely. Pressure is already building on debt issuance in the form of higher interest rates and credit spreads, as shown by Meta's recent offerings.\n\nWall Street Continues to Eye Strong Upside in Broadcom Shares\n\nAnthropic's IPO is another strong development for Broadcom's outlook as the company targets immense AI chip sales growth over the coming years. Notably, Broadcom shares had recovered significantly since plummeting below $300 after markets reacted to the midterm election results. However, the stock took another big hit on Nov. 12, falling below $310.\n\nWall Street analysts have generally maintained a bullish outlook on Broadcom. The MarketBeat consensus price target near $525 implies over 70% upside. However, Rothschild & Co Redburn significantly decreased their target in November from $595 to $398.\n\nThe article \" Anthropic's Record IPO Could Ease a Major Concern for Broadcom Investors \" was originally published by MarketBeat.\n\nView MarketBeat's top stocks for November 2026 .",
+      "Language": "en"
+    },
+    {
       "Ticker": ".TWII",
       "Date": "2026-11-21",
       "Time": "20:46:00",
@@ -1049,7 +1059,7 @@
       "Keywords": "AI infrastructure, server CPUs, market share, competitive threat, revenue growth"
     },
     {
-      "Ticker": "TSLA, META",
+      "Ticker": "MSFT, TSLA, META",
       "Date": "2026-11-21",
       "Time": "20:00:00",
       "Source": "Yahoo Finance",
