@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T14:04:21.759Z",
-  "total_news_count": 826,
+  "last_updated": "2026-11-23T14:13:12.344Z",
+  "total_news_count": 827,
   "news": [
     {
       "Ticker": "NVDA",
@@ -33,7 +33,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "NVDA",
+      "Ticker": "MSFT, NVDA",
       "Date": "2026-11-23",
       "Time": "21:35:02",
       "Source": "Yahoo Finance",
@@ -253,6 +253,16 @@
       "Language": "zh"
     },
     {
+      "Ticker": "META",
+      "Date": "2026-11-23",
+      "Time": "20:11:00",
+      "Source": "Yahoo Finance",
+      "Title": "Zacks Investment Ideas feature highlights: Anthropic, SpaceX and Meta Platforms",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-121100413.html",
+      "Content": "For Immediate Release\n\nChicago, IL – November 23, 2026– Today, Zacks Investment Ideas feature highlights Anthropic ANT, SpaceX SPCX and Meta Platforms META.\n\nLessons from 2 High-Profile IPOs: ANT & SPCX\n\nThe highly anticipated Anthropic IPO has finally arrived, with the AI heavyweight making its public debut today under the ticker ANT. Demand has been notably strong, with shares priced at $83 before opening at $111.50, reflecting a sizable 34% premium.\n\nGiven the massive enthusiasm surrounding AI, the strong initial reaction isn't surprising. But investors should keep in mind that high-profile tech IPOs have historically seen huge initial demand before cooling off in the months that follow. Two notable examples include SpaceX and Meta Platforms .\n\nSpaceX IPO Momentum Eventually Faded\n\nSpaceX was the first massive debut we saw this year in June, pricing its IPO at $135 per share and opening at $150. Demand was exceptionally strong, as it was for Anthropic, with shares closing their first trading session at $160.95, reflecting a solid 19% gain.\n\nAnd as we all remember, the initial enthusiasm continued, with SPCX shares climbing to a closing high of roughly $211 just two trading sessions later. But the momentum eventually faded, with shares falling nearly 50% from the peak into its August lows, now still trading well below that initial June high.\n\nMeta Faces Pressure Before Becoming Long-Term Winner\n\nMeta Platforms, initially Facebook, also enjoyed a highly anticipated public debut way back in May 2012. Shares were initially priced at $38 before opening at $42.05, reflecting a solid level of interest among investors.\n\nWeakness accelerated considerably over the following months, as roughly six months after its public debut, shares had experienced roughly a 40% decline from their first-day closing price. That said, the stock has clearly been a major winner from a long-term perspective, up more than 1900% since its initial debut.\n\nThe weakness was particularly notable given Facebook's dominant position in social media and favorable longer-term growth outlook, showing how an attractive growth story doesn't necessarily translate into continued near-term share outperformance.\n\nBottom Line\n\nAnthropic's IPO has undoubtedly been a major event, reflecting the massive enthusiasm surrounding artificial intelligence. But the historical performances of SpaceX and Meta Platforms illustrate how initial IPO enthusiasm can quickly fade, even when the underlying growth story remains attractive.\n\nWhile Anthropic's longer-term AI opportunities remain substantial, its strong initial valuation and the historical tendency for high-profile IPOs to cool off suggest investors may benefit from showing patience. The key takeaway is that many big-tech IPOs did indeed go on to surge over the coming years, but becoming caught up in the initial glam may land investors into a situation where high levels of volatility would have to be weathered.\n\nStory Continues",
+      "Language": "en"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-11-23",
       "Time": "20:10:02",
@@ -273,7 +283,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "MU, GOOGL",
+      "Ticker": "AMZN, MU, GOOGL",
       "Date": "2026-11-23",
       "Time": "20:02:00",
       "Source": "Yahoo Finance",
