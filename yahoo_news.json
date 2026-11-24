@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-24T11:15:14.210Z",
-  "total_news_count": 1186,
+  "last_updated": "2026-11-24T11:25:36.093Z",
+  "total_news_count": 1195,
   "news": [
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-24",
+      "Time": "19:03:00",
+      "Source": "Yahoo奇摩股市",
+      "Title": "反向ETF也翻車！今年還沒完　台股違約交割34.8億達去年3倍",
+      "URL": "https://tw.news.yahoo.com/%E5%8F%8D%E5%90%91etf%E4%B9%9F%E7%BF%BB%E8%BB%8A-%E4%BB%8A%E5%B9%B4%E9%82%84%E6%B2%92%E5%AE%8C-%E5%8F%B0%E8%82%A1%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B234-8%E5%84%84%E9%81%94%E5%8E%BB%E5%B9%B43%E5%80%8D-110300778.html",
+      "Content": "台股近來震盪劇烈，連帶違約交割連日連環爆。證交所今（24）日公告，反向型ETF元大台灣50反1（00632R）遭國泰板橋券商通報違約交割，金額為3,946.9萬元。\n\n今年前10個月累計34.8億元　為去年3倍\n\n金管會統計顯示，今年前10個月的違約交割金額已達34.8億元，去年全年僅約11億元，今年累計金額是去年的3倍。\n\n證期局副局長黃仲豪24日在例會上坦言，違約交割比重確實「有一點增加」，並指出有兩大原因。首先是市場成交值大幅攀升，再者是外在不確定因素較多，價格波動幅度跟著放大。他提醒，投資人若沒有事先備妥交割款，在行情劇烈波動時，比較容易碰上違約交割。\n\n三立新聞網提醒您：\n\n內容僅供參考，投資人於決策時應審慎評估風險，並就投資結果自行負責。\n\n投資一定有風險，基金投資有賺有賠，申購前應詳閱公開說明書。",
+      "Language": "zh"
+    },
     {
       "Ticker": "GOOGL",
       "Date": "2026-11-24",
@@ -53,6 +63,16 @@
       "Language": "en"
     },
     {
+      "Ticker": "2330.TW",
+      "Date": "2026-11-24",
+      "Time": "18:54:12",
+      "Source": "Yahoo奇摩股市",
+      "Title": "助攻台積電全球擴產　Tokyo Electron獲2026卓越量產支援獎",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8A%A9%E6%94%BB%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%85%A8%E7%90%83%E6%93%B4%E7%94%A2-tokyo-electron%E7%8D%B22026%E5%8D%93%E8%B6%8A%E9%87%8F%E7%94%A2%E6%94%AF%E6%8F%B4%E7%8D%8E-105412431.html",
+      "Content": "晶圓代工龍頭台積電加速推進全球產能擴張，背後關鍵設備供應鏈角色備受矚目，日系半導體設備大廠Tokyo Electron（TEL）在2026年台積電年度供應鏈管理論壇中，憑藉研發支援與敏捷供貨能力，正式獲頒「2026年卓越量產支援獎」，成為推升晶圓代工龍頭全球布局的重要推手。\n\n台積電年度供應鏈管理論壇旨在表揚在創新、技術合作、全球生產支援、綠色製造、自動化系統及晶圓廠建設管理等領域表現突出的合作夥伴。TEL在2026年期間對台積電業務發展做出重大貢獻，尤其在面對全球擴產需求時，展現出靈活的供應調度與研發支援實力，協助台積電順利推進產能版圖。\n\n隨著製程技術難度持續拉升，晶圓廠對設備穩定度與製程整合的要求更趨嚴格。TEL透過廣泛的產品組合與全球支援網絡，提供涵蓋多元製程的技術解決方案與技術服務，確保客戶生產線維持穩定運作，降低擴產過程中的量產磨合風險。\n\n面對半導體技術持續演進，TEL未來將持續投入研發計畫，並透過強化全球生產與技術服務能量，深化與晶圓代工大廠的技術合作，支撐半導體製程的長期發展與量產需求。\n\n【看原文連結】",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-11-24",
       "Time": "18:50:02",
@@ -63,6 +83,36 @@
       "Language": "en"
     },
     {
+      "Ticker": ".N225",
+      "Date": "2026-11-24",
+      "Time": "18:49:59",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳重返輝達AI科技股歡騰　亞股勁揚台韓日股猛漲",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E8%BF%94%E8%BC%9D%E9%81%94ai%E7%A7%91%E6%8A%80%E8%82%A1%E6%AD%A1%E9%A8%B0-%E4%BA%9E%E8%82%A1%E5%8B%81%E6%8F%9A%E5%8F%B0%E9%9F%93%E6%97%A5%E8%82%A1%E7%8C%9B%E6%BC%B2-104959680.html",
+      "Content": "（中央社香港2026年11月24日綜合外電報導）美國人工智慧（AI）晶片大廠輝達（Nvidia）將不到2週前因婚外情風波辭職的前執行長黃仁勳復職，激勵美國股市在科技股引領下大漲，亞洲股市今天跟進，以台股飆漲近9%為首。\n\n法新社報導，AI產業推動科技革命及全球經濟繁榮，而黃仁勳在業界扮演排解難題及提供遠見的角色，被外界視為攸關輝達未來及AI建設的重要人物。\n\n不過，AI概念股先前已因獲利能力及巨額投資等疑慮承受賣壓，黃仁勳12日辭職的消息再帶來震撼，令類股大受打擊。\n\n黃仁勳遭英美媒體披露有婚外情，對象之一是輝達客戶、新加坡公司Megaspeed的前高層主管黃樂（AliceHuang）。這家公司因疑似協助中國企業取得輝達最高階晶片，而遭到美國等多方調查。\n\n輝達董事會昨天在美股開盤後不久宣布黃仁勳復職消息，立刻點燃股市漲勢。輝達股價收盤狂飆31.5%，市值暴增9000多億美元。\n\n其他美國科技業巨擘股票也爆出亟需的買氣，終場那斯達克指數大漲逾6%、標普500指數揚升4.7%，道瓊工業指數上漲3%。\n\n亞洲股市今天也應聲擺脫昨天疲軟走勢，終場普遍樂觀勁揚。其中台北股市在台積電和聯發科皆大漲近10%拉抬下，收盤創下史上最大漲點3310.46點。\n\n首爾股市也在權值股SK海力士（SK Hynix）和三星（Samsung）跳升加持下，收盤上漲6.3%。東京股市則收高3.9%，其中愛德萬測試（Advantest）、東京威力科創（Tokyo Electron）和鎧俠（Kioxia）分別大漲12.5%、7.7%和10%。\n\n上海股市收盤上揚0.3%，雪梨、新加坡、威靈頓和馬尼拉股市也都收高。\n\n不過，香港股市收跌0.7%，反映中國科技企業股價未能受惠全球漲勢。\n\n儘管美國總統川普（Donald Trump）表示，黃仁勳是在他直接聯繫輝達董事會後復職；但分析師提醒，這不意味相關調查就此結束，AI類股過去6個月籠罩的不確定性也未消除。輝達仍受到美國聯邦調查局（FBI）及美國國會的調查。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-11-24",
+      "Time": "18:49:57",
+      "Source": "Yahoo奇摩股市",
+      "Title": "路透：台積電評估德州設廠　房產稅減免成關鍵條件",
+      "URL": "https://tw.stock.yahoo.com/news/%E8%B7%AF%E9%80%8F-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A9%95%E4%BC%B0%E5%BE%B7%E5%B7%9E%E8%A8%AD%E5%BB%A0-%E6%88%BF%E7%94%A2%E7%A8%85%E6%B8%9B%E5%85%8D%E6%88%90%E9%97%9C%E9%8D%B5%E6%A2%9D%E4%BB%B6-104957208.html",
+      "Content": "（中央社紐約2026年11月24日綜合外電報導）路透社報導，台積電有意在美國德州布拉左斯郡（BrazosCounty）投資226億美元興建晶片製造設施，但台積電旗下事業單位已告知德州官員，能否獲得房產稅減免將是決定性因素。\n\n上述消息出自昨天提交給德州主計長辦公室的文件。而該文件同時指出，亞利桑那州仍是與之競爭的設廠選項之一。\n\n根據路透社，這項計畫擬在德州布拉左斯郡逾3200英畝（約1295公頃）的土地上，興建一座或多座晶圓廠及相關支援基礎設施。\n\n該廠區擬採用2奈米或更先進製程技術，生產用於人工智慧（AI）、高效能運算及行動裝置的晶片。\n\n台積電是透過德州「就業、能源、科技與創新」（JETI）計畫，向德州主計長辦公室提出申請。\n\n台積電並表示，在亞利桑那州擴大投資，可能帶來「某些營運及經濟優勢」。全球最大晶圓代工廠台積電自2024年底起，已在亞利桑那州營運一座半導體製造廠。\n\n台積電還說，能否取得其要求的房產稅優惠，將左右公司是否承諾在德州推動這項計畫。\n\n根據提交的文件，這座廠區預計將在未來40年間，創造至少2099個直接就業機會。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-24",
+      "Time": "18:48:55",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股飆漲空單影響　聚焦外資借券賣出和期貨風控",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%A3%86%E6%BC%B2%E7%A9%BA%E5%96%AE%E5%BD%B1%E9%9F%BF-%E8%81%9A%E7%84%A6%E5%A4%96%E8%B3%87%E5%80%9F%E5%88%B8%E8%B3%A3%E5%87%BA%E5%92%8C%E6%9C%9F%E8%B2%A8%E9%A2%A8%E6%8E%A7-104855182.html",
+      "Content": "（中央社記者鍾榮峰台北2026年11月24日電）黃仁勳回任輝達（NVIDIA）執行長等要職消息，激勵台股今天飆漲3310.46點，創歷史收盤最大漲點，市場關注對外資和投資人空單影響。法人分析，外資在台指期淨空單水位仍超過10萬口，主要是與投信在台指期淨多單對作，外資在現貨市場可借券賣出管道已大幅限縮。\n\n期貨人士分析，台股飆漲超過3000點，若投資人期貨空單保證金餘額不足，期貨商可進行風控作業，向投資人發布高風險通知，若投資人期貨帳戶風險指標低於25%時，期貨商可執行代沖銷全部空單部位（強制平倉）；至於投資人「想走走不掉」被強制砍倉的情況，主要在股市連續性漲跌停或是流動性明顯不足的情境下發生。\n\n三大法人今天合計賣超台股1230.11億元，其中自營商賣超810.25億元，投信買超84.04億元，外資及陸資賣超503.9億元。根據統計，外資連7個交易日賣超台股達2980億元，10月迄今僅6個交易日買超台股，今年迄今累計賣超達3.28兆元。\n\n在台指期淨部位，三大法人淨空單減少3148口至5401口，外資淨空單減少250口至10萬3182口。\n\n兆豐國際投顧董事長留政鈺接受記者電訪分析，台指期夜盤大漲3170點，加上台股現貨今天開高走高大漲逾3000點，621檔上市櫃公司鎖漲停，代表投資人惜售，外資買單「買不到」，但配對交易賣單成交，因此成交量相對萎縮砍半至4194億元。\n\n觀察台股飆漲對外資在期現貨空單布局影響，留政鈺分析，外資在台指期淨空單水位仍超過10萬口，主要是與投信在台指期淨多單對作，由於投信ETF正2發行規模越來越大，反映投信未平倉口數也會增加。\n\n留政鈺指出，外資在台股現貨市場賣壓觀察指標，主要看借券賣出成交量值，不過主管機關已將盤中可借券賣出委託數量比重大幅調降至1%，外資賣壓相對減緩，此外ETF可借券額度已經降低。至於對一般投資人融券放空影響，留政鈺分析，理論上融券量值已縮小。\n\n因應台股近期波動劇烈，金管會19日宣布，20日起調整每日盤中借券賣出委託數量，由原不超過有價證券前30個營業日的日平均成交數量的3%，調降至1%。",
+      "Language": "zh"
+    },
+    {
       "Ticker": "NVDA",
       "Date": "2026-11-24",
       "Time": "18:40:02",
@@ -71,6 +121,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-raised-outlook-again-104002883.html",
       "Content": "Investors shouldn't label Walmart (NASDAQ:WMT) a slow-moving and outdated retail enterprise. The business is performing well in today's internet-driven economy. And it shows. Shares generated a market-thumping total return of 154% in the past three years (as of Nov. 19).\n\nWalmart's fiscal 2027 third-quarter (ended Oct. 31) financial results were very encouraging. It beat analyst estimates on the top and bottom lines. And following last quarter's renewed outlook, management once again raised sales and profit guidance. This is a positive trend as the critical holiday shopping period is upon us.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nThe retail stock 's scale is the highlight. Here are three numbers that show why this key competitive advantage continues to grow.\n\nImage source: Getty Images.\n\n1. 23% e-commerce growth\n\nThe first number is 23%. That's how fast Walmart's U.S. e-commerce sales grew in the third quarter. By comparison, Walmart's U.S. comparable sales, which measure growth at stores and digital channels open at least a year, rose 2.9% (excluding fuel).\n\nThis might come as a surprise. After all, Amazon (NASDAQ:AMZN) wrote the online retail playbook, and it dominates online shopping.\n\nBut Walmart has something the e-commerce giant can't easily copy. Its 5,200 domestic stores sit within 10 miles of 90% of the U.S. population. Many of those sites were secured decades ago. Today, they double as delivery hubs.\n\nThat creates density for the logistics network. More orders flowing through the same buildings and trucks means a lower cost per package. And Walmart can spread its heavy investments in automation over hundreds of billions of dollars in annual sales. That's hard to compete with.\n\n2. 37% advertising growth\n\nWalmart U.S. advertising revenue jumped 37% in the third quarter. This is where scale starts paying a second dividend. And it shows the business is leaning into the advantage that its data offers.\n\nWalmart Connect, the company's ads platform, sells brand placements across its website, app, and stores. The pitch is simple. Walmart knows what 150 million weekly U.S. shoppers actually buy, not just what they click on. Brands want to reach those intentional shoppers at the moment of purchase.\n\nThere's a positive feedback loop here. Walmart's massive revenue base gives it negotiating leverage with suppliers. That leverage helps keep prices low, which drives customer traffic. And traffic is exactly what advertisers pay for.\n\nStory Continues\n\nThe economics are exceptional. The audience and infrastructure already exist, so each additional ad dollar costs little to bring in, leading to \"over 70% margins,\" according to Walmart Connect senior vice president Ryan Mayward. Groceries, by contrast, are a low-margin business. Ad revenue has a much bigger positive impact on the bottom line.\n\n3. 20% membership growth\n\nGlobal membership fee revenue grew 17%. This includes Sam's Club membership fees and Walmart+, the company's subscription service that goes head-to-head with Amazon Prime and offers free delivery and other benefits.\n\nMembership fees are recurring and high-margin. Customers pay up front, and Walmart's job is to make that fee feel like a bargain. Its lean supply chain helps to make that possible. Low operating costs allow the company to bundle perks such as free delivery, streaming, and discounts without giving up its price advantage.\n\nThat changes shopping behavior. People will favor spending with a retailer they've already paid, and members spend four times more than non-members. More spending makes Walmart larger. A larger Walmart negotiates better prices. And these better prices attract more members.\n\nThis is every retailer's dream. A paid membership program can only work if the value proposition is strong enough. Walmart's everyday low prices lay the foundation.\n\nWatch the bottom line\n\nPut these three numbers together, and the quarter's most important figure comes into focus. Reported operating income rose 5.5% (on a constant-currency basis), faster than revenue. Over the past three years, adjusted operating income climbed 24%, while sales were up 17%.\n\nWalmart's success in e-commerce, advertising, and memberships is a tailwind. Shareholders should watch whether profits keep outgrowing revenue. This would indicate that the scale-based flywheel is still working.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-24",
+      "Time": "18:39:35",
+      "Source": "Yahoo奇摩股市",
+      "Title": "台股大漲外資反手大賣　新台幣盤中觸33元、收32.939元",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2%E5%A4%96%E8%B3%87%E5%8F%8D%E6%89%8B%E5%A4%A7%E8%B3%A3-%E6%96%B0%E5%8F%B0%E5%B9%A3%E7%9B%A4%E4%B8%AD%E8%A7%B833%E5%85%83-%E6%94%B632-939%E5%85%83-103935980.html",
+      "Content": "（中央社記者潘姿羽台北2026年11月24日電）輝達（Nvidia）執行長黃仁勳重磅回歸，亞股同步歡慶，台股重返4萬點大關，不過新台幣匯率逆勢走弱，今天收盤收32.939元，貶4.4分，台北及元太外匯市場成交金額34.88億美元。\n\n黃仁勳戲劇性回歸，激勵AI概念股強彈，台股開高走高，收在40122.35點，終場上漲3310.46點，創下史上收盤最大漲點。\n\n台股暴漲之際，外資卻擴大減碼，今天續砍台股503.9億元，連續7個交易日站在賣方。\n\n新台幣匯率也與股市脫鉤，今天以32.87元開出，在台股強漲帶動下，升抵盤中高點32.848元，但外資趁勢調節部位、賣股匯出，加上美元強勢表態，匯價應聲翻貶，且最低觸及33元整數價位，終場收在32.939元，終止連3升。\n\n外匯交易員分析，黃仁勳強勢回歸大大提振投資人信心，台股直接上演報復性反彈，但市場對AI巨額投資疑慮未能散去，加上外資擴大提款，還未能確定警報已解除。\n\n另一方面，外匯交易員指出，市場對美國聯準會升息預期升溫，美元指數站上104大關，亞幣表現受抑。\n\n外匯交易員認為，近期觀察重點仍是台股能否甩開陰霾，進而吸引外資回流，否則強勢美元壓境，若加上外資賣股匯出，雙重壓力夾擊，新台幣將難擺脫弱勢格局。",
+      "Language": "zh"
     },
     {
       "Ticker": "NVDA",
@@ -145,6 +205,16 @@
     {
       "Ticker": ".TWII",
       "Date": "2026-11-24",
+      "Time": "18:16:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "黃仁勳重掌輝達　台股收復逾半失土",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E9%87%8D%E6%8E%8C%E8%BC%9D%E9%81%94-%E5%8F%B0%E8%82%A1%E6%94%B6%E5%BE%A9%E9%80%BE%E5%8D%8A%E5%A4%B1%E5%9C%9F-101646861.html",
+      "Content": "（中央社記者張建中台北2026年11月24日電）輝達宣布創辦人黃仁勳復任執行長，台股今天大漲3310.46點，收在40122.35點，自波段低點回升4679.94點，收復11月12日黃仁勳請辭以來跌點的一半以上。\n\n美國期中選舉民主黨大獲全勝，市場憂心美國人工智慧（AI）資料中心政策可能改變。黃仁勳於11月12日辭去輝達（NVIDIA）執行長等職務，加深市場對於AI前景的疑慮，重創國際股市。\n\n台股在黃仁勳去職後一度滑落至35442.41點，累計大跌8814.74點。台股收盤史上前10大跌點就有3次發生在這段期間，11月16日下跌2635.04點，為史上第2大跌點，11月20日下跌2393.6點，為史上第3大跌點，11月19日下跌1768.02點，為史上第8大跌點。\n\n隨著大盤快速大幅滑落，包括外資和自營商連日賣超，融資餘額也急遽減少，11月20日集中市場單日融資餘額驟減逾491億元。\n\n輝達昨天突然宣布黃仁勳恢復執行長等職務，輝達股價應聲大漲31.48%，台股展開強勢彈升，創下多項新紀錄。加權指數今天上漲3310.46點，創史上收盤最大漲點，收在40122.35點，上市公司總市值單日回升10.81兆元，至131.45兆元，台股上市櫃共有多達600餘檔強攻漲停。\n\n台股已自波段低點35442.41點回升4679.94點，收復年線關卡，並收復11月12日黃仁勳請辭以來跌點的一半以上。\n\n兆豐國際投顧副總經理黃國偉表示，黃仁勳復任輝達執行長等職務，有助減緩市場對於AI前景的疑慮，不過，美國期中選舉民主黨大獲全勝，以及融資成本升高，都為AI基礎建設添增變數，未來發展值得觀察。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-24",
       "Time": "18:16:00",
       "Source": "Yahoo奇摩股市",
       "Title": "獨家／台股重返4萬點！李國毅揭「帳戶驚人變化」　生孩後嘆：養家不易",
@@ -161,6 +231,16 @@
       "URL": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-generate-741-billion-101501759.html",
       "Content": "Nvidia 's (NASDAQ:NVDA) earnings report last week, without Jensen Huang leading the company, went better than expected. Revenue climbed 103% year over year to $115.8 billion, and earnings per share climbed to $2.70, up 108%. Both came in above analysts' expectations.\n\nPerhaps more important was CFO and interim CEO Colette Kress's fiscal 2028 guidance. Last quarter she said she expects 70% revenue growth. This quarter, she increased it to 75%. That's despite higher-than-expected revenue growth last quarter and strong fourth-quarter guidance.\n\nMissed Nvidia in 2009? This Rare Signal Is Flashing Again. In 2009, a \"Double Down\" signal flashed for a little-known chipmaker called Nvidia. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia. Continue »\n\nHer fourth-quarter guidance calls for $130 billion in revenue, bringing fiscal 2027 total revenue to $423.7 billion. A 75% growth rate implies $741 billion in revenue next year. Here's what that means for the stock.\n\nImage source: Nvidia.\n\nNvidia stock is incredibly cheap right now\n\nWith the recent sell-off in shares, the company has a market cap of about $4 trillion as of this writing. That means the stock is priced just over 5 times next year's sales. Its stock price has dropped to 10 times analysts' expectations for next year's earnings.\n\nThere are a few reasons why a stock would be so cheap.\n\nThe market may be indicating that the analysts are overconfident in the business and their estimates are too high. Kress's increased 2028 outlook decreases that likelihood, although it's possible Kress is overconfident as well.\n\nThe market may be indicating that the earnings aren't sustainable and an earnings downcycle will hit extremely hard in the not-too-distant future. But Nvidia is an asset-light, fabless semiconductor stock , so while earnings might drop and its margin might contract, it doesn't face the same cyclical pressure as semiconductor stocks with huge capital investment requirements.\n\nThe market believes the risks to the company are extremely high, requiring a larger margin of safety to buy the stock. With growing uncertainty about the future of artificial intelligence stocks, this is the clear reason for Nvidia's current stock price.\n\nKress looked to put investors at ease during the earnings call . She said her 75% revenue growth outlook is based on \"data center readiness, the strength and durability of end customer demand, and our customers' access to capital.\" She noted the $32 billion in financial commitments to neocloud companies require those partners to secure their own capital for data centers first. She stressed that Nvidia has a multi-year roadmap in place and it's \"business as usual.\"\n\nStory Continues\n\nIs it time to buy shares of Nvidia?\n\nWhile Nvidia shares look incredibly cheap right now, there's a lot of uncertainty about the business. While Huang has been reinstated as CEO, investors need to know whether he knowingly or unknowingly sold chips that ultimately landed in China, and what percentage of Nvidia's sales they accounted for. There could be legal repercussions as well, in the form of fines and further sales restrictions, which would impact Nvidia's bottom line.\n\nNvidia is also increasingly reliant on neocloud companies continuing to build quickly, a trend that faces both regulatory and credit risks. While Nvidia's GPUs remain best-in-class and can remain so even without Huang, the risk is that hyperscalers and leading AI labs will run more of their software on custom silicon instead of GPUs.\n\nTo be sure, the market appears to be pricing in the risks to Nvidia at the current price. But there are other AI stocks that have been caught up in the broader AI sell-off and look like great opportunities with less uncertainty. For now, a wait-and-see approach may be most prudent for Nvidia stock.",
       "Language": "en"
+    },
+    {
+      "Ticker": ".TWII",
+      "Date": "2026-11-24",
+      "Time": "18:14:46",
+      "Source": "Yahoo奇摩股市",
+      "Title": "韭菜翻車潮+1！台股暴漲前買0050反1 違約交割近4千萬元",
+      "URL": "https://tw.stock.yahoo.com/news/%E9%9F%AD%E8%8F%9C%E7%BF%BB%E8%BB%8A%E6%BD%AE1%EF%BC%81%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2%E5%89%8D%E8%B2%B70050%E5%8F%8D1-%E9%81%95%E7%B4%84%E4%BA%A4%E5%89%B2%E8%BF%914%E5%8D%83%E8%90%AC%E5%85%83-104658511.html",
+      "Content": "雖然台股暴漲3310點站回4萬點，但違約交割潮還沒結束！台股上周五（11月20日）下跌 2,393.60點，創下台股史上單日第三大收盤跌點紀錄，「T+2」交割餘震仍在發酵。證交所今（24）日盤後公布最新違約交割資訊，元大台灣50反1（00632R）被國泰板橋券商通報有人違約交割，金額3946萬元。\n\n台股今年交投熱絡、盤勢波動加劇，市場違約交割頻傳。根據證交所與櫃買中心統計，今年以來上市櫃合計違約交割總金額已突破180億元，達公告揭露標準的大額違約交割案件累計52件。\n\n若以單筆違約金額排行，前三大個案全數突破億元大關，分別由聯茂（6213）的3.19 億元、佳必琪（6197）的1.49億元，以及金居（8358）的1.1億元拿下。\n\n進一步觀察集中市場（上市）表現，今年截至目前累計達25件大額違約交割案件。其中，單筆金額最高為銅箔基板大廠聯茂（6213），違約金額高達3.19億元，高居全市場之首；其次為連接器廠佳必琪（6197），單筆違約金額達1.49億元；第三名則為矽智財大廠創意（3443），單筆違約金額為9,453萬元。\n\n至於櫃買中心（上櫃）方面，今年累計大額違約交割案件共有27起。金居（8358）以單筆 1.1 億元居上櫃市場第一、同時躋身全市場第三大；上櫃第二、三名則均由砷化鎵大廠穩懋（3105）包辦，該股曾於今年4月27日與28日連續兩個交易日遭券商通報大額違約交割，單筆金額分別達9,669萬元與8,669萬元。\n\n陳依旻／財經特派記者副組長，主跑央行、證交所、投信投顧等",
+      "Language": "zh"
     },
     {
       "Ticker": ".TWII",
@@ -250,6 +330,16 @@
       "Title": "黃仁勳回任、台股大漲　北市選戰添變數？沈伯洋6字回應",
       "URL": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%9B%9E%E4%BB%BB-%E5%8F%B0%E8%82%A1%E5%A4%A7%E6%BC%B2-%E5%8C%97%E5%B8%82%E9%81%B8%E6%88%B0%E6%B7%BB%E8%AE%8A%E6%95%B8-%E6%B2%88%E4%BC%AF%E6%B4%8B6%E5%AD%97%E5%9B%9E%E6%87%89-095600606.html",
       "Content": "輝達創辦人黃仁勳請辭後，一度引發外界擔憂輝達落腳北士科恐生變數。如今隨著黃仁勳回任、台股大漲站回4萬點，市場信心回升，是否牽動年輕上班族及經濟選民的投票意向，成為台北市長選戰的變數？對此，民進黨台北市長候選人沈伯洋今（24）日受訪時也做出回應。\n\n輝達23日宣布黃仁勳回任執行長，結束短短11天的去職風波，消息一出也帶動股市強勁反彈。沈伯洋今日受訪時被問及，黃仁勳回任是否影響選情？他則表示，黃仁勳回任確實會對股市帶來一定程度的影響，不過，輝達內部仍在針對先前涉及的案件進行調查，無論中國採取何種手法，以及輝達是否因此受到影響，都應以最終調查結果為準，現階段不宜做過多評論。\n\n至於台股今日大漲，沈伯洋指出，昨天台指期夜盤已反映一定程度的市場趨勢，由於台股與美股連動性相當高，國際金融市場的變化也會直接牽動國內股市表現，這也是為何行政院昨日召集金融、科技及工商產業公協會代表座談，並就國安基金等穩定市場措施進行討論。\n\n針對股市回穩是否牽動選民投票意向？沈伯洋則強調，相較於選舉得失，「無論如何，讓金融穩定絕對是最重要的事」，認為「選舉只是其次」。",
+      "Language": "zh"
+    },
+    {
+      "Ticker": "2330.TW",
+      "Date": "2026-11-24",
+      "Time": "17:51:33",
+      "Source": "Yahoo奇摩股市",
+      "Title": "川普受訪讚魏哲家是傑出人才　稱台積電將在德州建廠",
+      "URL": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E5%8F%97%E8%A8%AA%E8%AE%9A%E9%AD%8F%E5%93%B2%E5%AE%B6%E6%98%AF%E5%82%91%E5%87%BA%E4%BA%BA%E6%89%8D-%E7%A8%B1%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%87%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%BB%BA%E5%BB%A0-095133224.html",
+      "Content": "（中央社華盛頓2026年11月23日綜合外電報導）美國總統川普（Donald Trump）接受美媒訪問，談到AI晶片巨頭輝達（NVIDIA）前執行長黃仁勳復職外，還稱讚台積電董事長魏哲家是傑出人才，更稱台積電將在德州建廠。\n\n輝達今天稍早宣布，董事會一致通過，即日起恢復黃仁勳的總裁、執行長及董事職務。董事會對黃仁勳展現的坦誠態度感到滿意，徵詢美國政府高層後，確信黃仁勳復職不會構成國安風險。\n\n川普今天接受美國財經媒體CNBC財經節目「華爾街直播室」（Squawk on the Street）電話訪問，在近1小時訪談中慶祝黃仁勳復職，將促成黃仁勳回鍋歸功於自己，並稱黃仁勳是「國寶」。\n\n主持人克芮麥（Jim Cramer）問川普說：「你是否認為整個人工智慧（AI）世界某種程度繞著黃仁勳運轉，因為他遙遙領先其他人？」\n\n川普未認同這項說法，他認為輝達「建立在他們未真正經手製造的晶片上」，話鋒一轉表示「你知道那是多麼棒的生意，對吧？那些晶片是魏（哲家）先生製造的」。\n\n他稱魏哲家是「我的另一名朋友。這些都是傑出人才。我們必須好好照顧。談到魏先生，他將在美國境內製造很大一部分晶片。因為關稅問題，他正在亞利桑那州投入數千億美元，而且他將在德州設立一座大型廠房。我認為他正開始設立另一座廠房，而且規模很大。」",
       "Language": "zh"
     },
     {
