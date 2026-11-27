@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-11-27T11:36:47.931Z",
-  "total_news_count": 1949,
+  "last_updated": "2026-11-27T12:14:15.338Z",
+  "total_news_count": 1953,
   "news": [
+    {
+      "Ticker": "META, AMZN",
+      "Date": "2026-11-27",
+      "Time": "19:33:02",
+      "Source": "Yahoo Finance",
+      "Title": "Is Meta Stock a Buy as Amazon Reportedly Weighs Letting Its AI Shopping Agent Back In?",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-buy-amazon-reportedly-113302679.html",
+      "Content": "Meta Platforms ' (NASDAQ:META) personal artificial intelligence (AI) agent, Muse, can shop Walmart 's Black Friday deals. Walmart started letting Muse find items, build a cart, and check out for its users on Nov. 24.\n\nBut Muse can't shop at Amazon (NASDAQ:AMZN), which blocked the agent from its store in September, under two weeks after Muse launched.\n\nMissed AI's \"Act 1\"? Act 2 Could Be 16x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of \"Act 1\"—the R&D phase. \"Act 2\" is the global rollout. Continue »\n\nThat might change. Fortune reported on Nov. 25 that Amazon and Meta have talked more than once about linking Muse to Amazon's store, citing people familiar with the talks. The two key open questions are how Muse would show search results and how ads would be handled, and any deal would probably need sign-off from both companies' CEOs. Both companies declined to comment.\n\nMeta's shares finished Nov. 25 at around $610, off 23% from their record close of $790 in August 2025.\n\nImage source: Getty Images.\n\nAmazon has ad dollars to protect\n\nAmazon's advertising business pulled in $19.6 billion for the third quarter of 2026, up 11% year over year. An agent that shops for a customer could, in theory, skip the ads.\n\nBut Amazon CEO Andy Jassy said this month that the company hasn't ruled out letting outside agents inside its store. One of his conditions is that Amazon gets something fair in return. No terms have been reported, so there's no way to tell yet what Meta might need to give up.\n\nWhat could Amazon add?\n\nShopping is already Muse's most common use. On Meta's third-quarter earnings call on Oct. 21, CEO Mark Zuckerberg said more than 10 million people in the U.S. and Canada had set up Muse in a month and a half, and around a quarter of them were using it on any given day. More than a quarter of Muse users were shopping with it, he said, with an average purchase value above $200.\n\nGetting into Amazon could make Muse more useful. But Meta hasn't reported any revenue from those purchases.\n\n\"For most people, the product should be free and we will build commerce tools so we get paid a fee based on the transactions that we help facilitate,\" Zuckerberg said on the call.\n\nHe added that Meta's apps already pull in several hundred dollars a year from the average American Muse user, and that he expects Muse to one day beat that. But he cautioned that it will \"take some time.\"\n\nFor now, Meta makes very little money outside ads. Other revenue in its family of apps segment (mainly WhatsApp paid messaging and subscriptions) climbed 59% year over year to $1.1 billion for the third quarter. That growth slowed from 74% in the first quarter, and the $1.1 billion was still under 2% of Meta's $64.6 billion in total revenue.\n\nStory Continues\n\nEven after Muse fees arrive, they might take years to matter next to advertising.\n\nThe stock is back where Muse began\n\nMeta shares finished at around $613 on Sept. 8, the day Muse launched, and then rose 27% to their 2026 closing high of almost $778 on Sept. 24. They've given back the full gain since, and now trade a little under that launch-day close.\n\nPlenty else has happened since September, including a $9.9 billion legal charge Meta reported in October, so the slide isn't just about Muse. But it suggests investors aren't paying much extra for the agent today.\n\nAt around 18 times expected 2027 earnings, Meta stock costs just a bit more than the S&P 500 (SNPINDEX:^GSPC), which FactSet had at 17.1 times forward earnings on Nov. 20. And the ad business behind that price is still growing fast. Advertising pulled in $63.1 billion in the third quarter, around 98% of Meta's revenue, and climbed 26% year over year.\n\nThe main risk is Meta's spending. The company expects 2026 capital expenditures of $135 billion to $145 billion, and its free cash flow went from $10.6 billion a year before to minus $2.1 billion in the third quarter. But management says its AI investments are already adding meaningfully to ad revenue.\n\nIs Meta stock worth buying before a deal is done?\n\nI think so, though I wouldn't buy it for Amazon. A deal might make Muse more useful for shoppers, especially when Meta can collect fees on their purchases. Until then, the stock depends on ads. At about $610, I think the shares are worth considering on the strength of that business alone.",
+      "Language": "en"
+    },
+    {
+      "Ticker": "GOOGL",
+      "Date": "2026-11-27",
+      "Time": "19:31:10",
+      "Source": "Yahoo Finance",
+      "Title": "Alphabet Faces School Backlash as Los Angeles Blocks Google AI Search",
+      "URL": "https://finance.yahoo.com/technology/ai/articles/alphabet-faces-school-backlash-los-113110933.html",
+      "Content": "This article first appeared on GuruFocus .\n\nGoogle ( GOOGL , Financials ) is facing mounting pushback to its artificial intelligence push in education , after the Los Angeles Unified School District temporarily turned off Google's AI-powered search summaries on district computers.The district, which has over 500,000 pupils, said the move was to protect age-appropriate and healthy internet activities.That followed New York City and Los Angeles, the nation's two largest school systems, announcing in September that they were putting one-year limits on students' usage of generative artificial intelligence.Google says its search engine and AI features are so intertwined that schools can't disable some AI features without also blocking search access.Earlier this month, hundreds of Google employees signed a petition pushing management to let schools turn off AI features without losing access to regular search tools.Google said last week it's going to turn off the Gemini and search tools by default for K-12 schools in the coming months, although administrators will be able to turn on particular services.The company also has a guided learning tool under development that is designed to foster critical thinking, not just offer answers.The fight could ramp up competitive pressure on Google's education technology sector, including Chromebooks and Google Classroom, as school districts look at other suppliers and create new AI policies.",
+      "Language": "en"
+    },
     {
       "Ticker": ".TWII",
       "Date": "2026-11-27",
@@ -13,7 +33,7 @@
       "Language": "zh"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, GOOGL, AMZN, AAPL",
       "Date": "2026-11-27",
       "Time": "19:05:13",
       "Source": "Yahoo Finance",
@@ -23,7 +43,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, GOOGL, AAPL",
       "Date": "2026-11-27",
       "Time": "19:05:06",
       "Source": "Yahoo Finance",
@@ -33,7 +53,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSLA",
+      "Ticker": "MSFT, AAPL, TSLA",
       "Date": "2026-11-27",
       "Time": "19:04:55",
       "Source": "Yahoo Finance",
@@ -53,7 +73,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, GOOGL, AMZN, AAPL",
       "Date": "2026-11-27",
       "Time": "19:04:39",
       "Source": "Yahoo Finance",
@@ -63,7 +83,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, AMZN, AAPL",
       "Date": "2026-11-27",
       "Time": "19:04:29",
       "Source": "Yahoo Finance",
@@ -83,7 +103,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSLA",
+      "Ticker": "MSFT, AMZN, AAPL, TSLA",
       "Date": "2026-11-27",
       "Time": "19:04:20",
       "Source": "Yahoo Finance",
@@ -93,7 +113,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, AMZN, AAPL",
       "Date": "2026-11-27",
       "Time": "19:04:15",
       "Source": "Yahoo Finance",
@@ -103,7 +123,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, AAPL",
       "Date": "2026-11-27",
       "Time": "19:04:12",
       "Source": "Yahoo Finance",
@@ -113,7 +133,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, GOOGL, AAPL",
       "Date": "2026-11-27",
       "Time": "19:04:08",
       "Source": "Yahoo Finance",
@@ -133,7 +153,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSLA",
+      "Ticker": "MSFT, AMZN, AAPL, TSLA",
       "Date": "2026-11-27",
       "Time": "19:03:56",
       "Source": "Yahoo Finance",
@@ -143,7 +163,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL",
+      "Ticker": "MSFT, GOOGL, AMZN, AAPL",
       "Date": "2026-11-27",
       "Time": "19:03:51",
       "Source": "Yahoo Finance",
@@ -163,7 +183,7 @@
       "Language": "en"
     },
     {
-      "Ticker": "AAPL, TSLA",
+      "Ticker": "MSFT, AMZN, AAPL, TSLA",
       "Date": "2026-11-27",
       "Time": "19:03:29",
       "Source": "Yahoo Finance",
@@ -180,6 +200,16 @@
       "Title": "ETFs Are Net Sellers of ON Semiconductor (ON) on Nov. 25",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-semiconductor-nov-110313250.html",
       "Content": "This article first appeared on GuruFocus .\n\nSOXX led the ETF activity on Wednesday, cutting its ON Semiconductor stake by 2.05%, or $12.2 million, as ETFs sold a net $19.7 million of the stock. More funds traded the other way, with 40 ETFs buying against 11 selling, but in smaller amounts. The move extends a two-day net selling streak, following a net $13.6 million outflow on Tuesday. That came after three straight net buying days: $16.3 million on Monday, $31.0 million on Friday and $2.8 million on Thursday.\n\nWarning! GuruFocus has detected 4 Warning Signs with ON.\n\nIs ON fairly valued? Test your thesis with our free DCF calculator.\n\nLooking for a fund? Use the ETF Screener , and follow daily fund activity on the ETF Trends page.\n\nFor the full record of ETF and guru buying and selling in ON, see the ON guru trades page .\n\nWhich ETFs sold ON on Wednesday?\n\nThe largest sellers by dollar value were SOXX ($12.2 million), JAVA ($10.4 million) and TECL ($0.5 million). In all, 40 ETFs added shares and 11 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\nSOXX\n\n-194,526\n\n-$12.2M\n\n1.77%\n\nJAVA\n\n-167,000\n\n-$10.4M\n\n0.06%\n\nTECL\n\n-7,577\n\n-$0.5M\n\n0.17%\n\nSPHQ\n\n-1,560\n\n-$0.1M\n\n0.24%\n\n-1,533\n\n3.32%\n\n$0.0M\n\n0.04%\n\nBBUS\n\nUPRO\n\nSOXX accounted for the largest share of the selling, reducing its position by 194,526 shares to 9,299,678, a 2.05% cut that left the stock at 1.77% of the fund. JAVA followed with a $10.4 million reduction, down 167,000 shares, or 73.89% of its stake, at a 0.06% weight. TECL trimmed $0.5 million, SPHQ and PSI each shed $0.1 million, and SSO , BBUS and UPRO posted negligible changes. ON Semiconductor sits in the Technology sector and the Semiconductors industry, with a market cap of $24.3 billion.\n\nHave ETFs been buying or selling ON lately?\n\nOver the last 5 reported days, ETFs were net buyers on 3 and net sellers on 2, so the recent trend is mostly buying.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nNov. 25\n\n-$19.7M\n\nNov. 24\n\n-$13.6M\n\nNov. 23\n\n$16.3M\n\nNov. 20\n\n$31.0M\n\nNov. 19\n\n$2.8M\n\nWhat does ON do?\n\nON Semiconductor Corp, known as onsemi, is an American semiconductor manufacturer supplying power management, analog, mixed-signal, logic, and sensor products. Its portfolio includes silicon carbide and silicon power devices, MOSFETs, IGBTs, power modules, image sensors, and connectivity and signal-conditioning chips.\n\nON Semiconductor reported trailing-12-month revenue of $6.37 billion, up 7.8% over the year. Gross margin stood at 38.1% and net margin at 10.8%. The stock trades at a P/E of 36.37, a P/B of 3.22 and a P/S of 3.92. Its GF Score is 88, and GF Value of $64.47 compares with a price of $62.48. The shares have returned 15.38% year to date.\n\nStory Continues\n\nON at a glance\n\nMeasure\n\nPrice\n\n$62.48\n\nMarket cap\n\n$24.30B\n\nRevenue (trailing 12 months)\n\n$6.37B\n\nRevenue growth (1 year)\n\n+7.8%\n\nGross margin\n\n38.1%\n\nNet margin\n\n10.8%\n\n36.37\n\n3.22\n\n3.92\n\nGF Score\n\n88/100\n\nGF Value\n\n$64.47\n\nYear-to-date return\n\n+15.38%\n\nFor a closer look, open the ON stock summary , its GF Value chart and insider buying and selling .\n\nWhat should investors watch next for ON?\n\nWatch whether the two-day net selling streak extends, given that buying funds still outnumber sellers 40 to 11.\n\nBased on ETF holdings changes reported for Nov. 25, 2026.\n\nWhat else did ETFs trade on Wednesday?\n\nETFs Are Net Sellers of NXP Semiconductors (NXPI) on Nov. 25\n\nETFs Are Net Sellers of Motorola Solutions (MSI) on Wednesday\n\nETFs Are Net Sellers of Entegris (ENTG) on Wednesday\n\nETFs Are Net Sellers of Accenture (ACN) on Wednesday\n\nSector Trends: Technology Most Bought, Financial Services Least on Nov. 25",
+      "Language": "en"
+    },
+    {
+      "Ticker": "ENTG",
+      "Date": "2026-11-27",
+      "Time": "19:02:56",
+      "Source": "Yahoo Finance",
+      "Title": "ETFs Are Net Sellers of Entegris (ENTG) on Wednesday",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-entegris-entg-110256171.html",
+      "Content": "This article first appeared on GuruFocus .\n\nETFs sold a net $21.2 million of Entegris ( ENTG ) on Wednesday, extending a two-day selling streak. More funds traded the other way, with 27 ETFs buying versus 11 selling, but the sellers moved larger amounts. ETF activity has now been net negative for two straight sessions, following net buying of $4.3 million on Nov. 23 and $22.4 million on Nov. 20.\n\nWarning! GuruFocus has detected 5 Warning Signs with ENTG.\n\nIs ENTG fairly valued? Test your thesis with our free DCF calculator.\n\nSee which funds are buying and selling on GuruFocus ETF Trends , or find and compare funds with the ETF Screener .\n\nSee all ETF and guru trades in ENTG on its ENTG guru trades page .\n\nWhich ETFs sold ENTG on Wednesday?\n\nThe largest sellers by dollar value were SOXX ($9.8 million), JTEK ($7.7 million) and BAI ($2.8 million). In all, 27 ETFs added shares and 11 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\nSOXX\n\n-76,077\n\n-$9.8M\n\n1.43%\n\nJTEK\n\n-59,776\n\n-$7.7M\n\n0.50%\n\n-21,840\n\n-$2.8M\n\n1.10%\n\n-8,976\n\n-$1.2M\n\n0.59%\n\n-7,544\n\n-$1.0M\n\n-798\n\n-$0.1M\n\n3.56%\n\nJGRO\n\n-519\n\n0.44%\n\n-208\n\n$0.0M\n\n0.34%\n\nSOXX led the selling with a $9.8 million reduction, cutting its stake by 2.05% to 3,634,816 shares, while JTEK shed $7.7 million, a 38.8% stake cut. BAI sold $2.8 million, MDY $1.2 million and IJH $1.0 million. Entegris operates in the Technology sector within Semiconductor Equipment & Materials and carries a market cap of $19.6 billion.\n\nHave ETFs been buying or selling ENTG lately?\n\nOver the last 5 reported days, ETFs were net buyers on 2 and net sellers on 3, so the recent trend is mostly selling.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nNov. 25\n\n-$21.2M\n\nNov. 24\n\n-$10.3M\n\nNov. 23\n\n$4.3M\n\nNov. 20\n\n$22.4M\n\nNov. 19\n\n-$2.7M\n\nWhat does ENTG do?\n\nEntegris Inc. is a U.S.-based supplier of advanced materials and process solutions for the semiconductor and other high-technology industries.\n\nEntegris reported trailing-12-month revenue of $3.52 billion, up 8.4% year over year, with a gross margin of 41.8% and a net margin of 11.2%. The stock trades at a P/E of 50.16, P/B of 4.53 and P/S of 5.58, with a market cap of $19.6 billion. Its GF Score is 91, and the GF Value of $120.33 compares with a price of $128.37. The dividend yield is 0.36%, and the stock has returned 52.83% year to date.\n\nENTG at a glance\n\nMeasure\n\nPrice\n\n$128.37\n\nMarket cap\n\n$19.60B\n\nRevenue (trailing 12 months)\n\n$3.52B\n\nRevenue growth (1 year)\n\n+8.4%\n\nGross margin\n\n41.8%\n\nNet margin\n\n11.2%\n\n50.16\n\n4.53\n\n5.58\n\nGF Score\n\n91/100\n\nGF Value\n\n$120.33\n\nDividend yield\n\n0.36%\n\nYear-to-date return\n\n+52.83%\n\nFor a closer look, open the ENTG stock summary , its GF Value chart and insider buying and selling .\n\nStory Continues\n\nWhat should investors watch next for ENTG?\n\nWatch whether the two-day net selling streak continues, given that buying funds still outnumber sellers 27 to 11.\n\nBased on ETF holdings changes reported for Nov. 25, 2026.\n\nWhat else did ETFs trade on Wednesday?\n\nETFs Are Net Sellers of NXP Semiconductors (NXPI) on Nov. 25\n\nETFs Sold $34.5 Million of Taiwan Semiconductor (TSM) on Nov. 25\n\nSector Trends: Technology Most Bought, Financial Services Least on Nov. 25\n\nETFs Are Buying Palantir (PLTR) on Wednesday\n\nETFs Are Net Sellers of Motorola Solutions (MSI) on Wednesday",
       "Language": "en"
     },
     {
@@ -230,6 +260,16 @@
       "Title": "Alphabet (GOOGL) Sees $153.3 Million in Net ETF Buying on Wednesday",
       "URL": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-sees-153-3-110056379.html",
       "Content": "This article first appeared on GuruFocus .\n\nETFs bought a net $153.3 million of Alphabet ( GOOGL ) on Wednesday, as 43 funds added shares and 18 sold. The buying followed a mixed stretch: net selling of $48.8 million on Tuesday and net buying of $26.5 million on Monday. The prior days included $276.2 million in net buying on Nov. 20 and $76.4 million in net selling on Nov. 19. The same-direction streak stands at 1 day.\n\nWarning! GuruFocus has detected 7 Warning Signs with TSLA.\n\nIs GOOGL fairly valued? Test your thesis with our free DCF calculator.\n\nEvery ETF and guru trade in GOOGL is tracked on the GOOGL guru trades page .\n\nWhich ETFs bought GOOGL on Wednesday?\n\nThe largest buyers by dollar value were QQQ ($81.8 million), TQQQ ($15.9 million) and IWF ($15.5 million). In all, 43 ETFs added shares and 18 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+299,663\n\n$81.8M\n\n2.84%\n\nTQQQ\n\n+58,266\n\n$15.9M\n\n+56,816\n\n$15.5M\n\n5.48%\n\n+54,512\n\n$14.9M\n\n2.59%\n\nQQQM\n\n+26,016\n\n$7.1M\n\n+18,080\n\n$4.9M\n\n5.01%\n\n+15,534\n\n$4.2M\n\n2.40%\n\nIUSG\n\n+10,290\n\n$2.8M\n\n4.76%\n\nInvesco QQQ led the move, adding 299,663 shares worth $81.8 million, a 0.65% increase in its stake, with Alphabet at 2.84% of the fund. TQQQ added 58,266 shares worth $15.9 million, IWF added 56,816 shares worth $15.5 million, and IVV added 54,512 shares worth $14.9 million. QQQM , IVW , IWB and IUSG also added shares. Alphabet is in the Communication Services sector and Internet Content & Information industry, with a market cap of $3.34 trillion.\n\nHave ETFs been buying or selling GOOGL lately?\n\nOver the last 5 reported days, ETFs were net buyers on 3 and net sellers on 2, so the recent trend is mostly buying.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nNov. 25\n\n$153.3M\n\nNov. 24\n\n-$48.8M\n\nNov. 23\n\n$26.5M\n\nNov. 20\n\n$276.2M\n\nNov. 19\n\n-$76.4M\n\nWhat does GOOGL do?\n\nAlphabet is a holding company whose largest business is Google, reported in two segments: Google Services and Google Cloud, with non-Google businesses grouped as Other Bets. Google Services generates most of Alphabet's revenue, primarily from advertising on Google Search, YouTube, and partner properties, and also includes Android, Chrome, Google Play, Maps, Gmail, and devices.\n\nAlphabet reported trailing-12-month revenue of $471.14 billion, up 21.9% year over year. Gross margin was 60.9% and net margin 50.0%. The stock trades at a P/E of 14.26, P/B of 5.09 and P/S of 7.12. GF Score is 98, and GF Value of $277.49 compares with a price of $273.10. Dividend yield is 0.25%, and the year-to-date return is -12.58%.\n\nGOOGL at a glance\n\nMeasure\n\nPrice\n\n$273.10\n\nMarket cap\n\n$3.34T\n\nRevenue (trailing 12 months)\n\n$471.14B\n\nRevenue growth (1 year)\n\n+21.9%\n\nGross margin\n\n60.9%\n\nNet margin\n\n50.0%\n\n14.26\n\n5.09\n\n7.12\n\nGF Score\n\n98/100\n\nGF Value\n\n$277.49\n\nDividend yield\n\n0.25%\n\nYear-to-date return\n\n-12.58%\n\nStory Continues\n\nFor a closer look, open the GOOGL stock summary , its GF Value chart and insider buying and selling .\n\nLooking for a fund? Use the ETF Screener , and follow daily fund activity on the ETF Trends page.\n\nWhat should investors watch next for GOOGL?\n\nWatch whether ETF flows into Alphabet extend beyond one day, after the prior session's net selling interrupted a stretch that included $276.2 million in net buying on Nov. 20.\n\nBased on ETF holdings changes reported for Nov. 25, 2026.\n\nWhat else did ETFs trade on Wednesday?\n\nSector Trends: Technology Most Bought, Financial Services Least on Nov. 25\n\nETFs Bought $162.2 Million of Meta (META) on Nov. 25\n\nETF Activity: QQQ Leads With $2.88 Billion Inflow on Nov. 25\n\nApple (AAPL) Sees $437.3 Million in Net ETF Buying on Nov. 25\n\nETFs Are Buying Microsoft (MSFT) on Nov. 25\n\nGOOGL GF Value chart\n\nGOOGL GF Value chart Every ETF and guru trade in GOOGL is tracked on the GOOGL guru trades page .\n\nThe largest buyers by dollar value were QQQ ($81.8 million), TQQQ ($15.9 million) and <a href=\"https://www.gurufocus.com/etf/IWF/summary?ref=etf-stock&r=caf6fe0e0db70d936033da5461e60141&utm_source=yahoo_finance&utm_medium=syndication&utm_campaign=headlines&utm_content=alphabet_%28googl%29_sees_%24153.3_million_in_net_etf_buying_on_wednesday&utm_term=GOOGL\" data-ylk=\"slk:IWF;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"y",
+      "Language": "en"
+    },
+    {
+      "Ticker": "META",
+      "Date": "2026-11-27",
+      "Time": "19:00:53",
+      "Source": "Yahoo Finance",
+      "Title": "ETFs Bought $162.2 Million of Meta (META) on Nov. 25",
+      "URL": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-162-2-million-110053842.html",
+      "Content": "This article first appeared on GuruFocus .\n\nIn Wednesday's session, 46 ETFs were buying Meta Platforms ( META ) shares versus 20 selling, producing a net inflow of $162.2 million. The buying reversed the prior two days of net selling, which totaled $65.1 million on Nov. 24 and $0.8 million on Nov. 23. ETF activity over the past five sessions has been choppy, with the largest move a $240.4 million net purchase on Nov. 20 and a $40.9 million net sale on Nov. 19. The latest session marks a one-day streak in the buying direction.\n\nWarning! GuruFocus has detected 3 Warning Sign with META.\n\nIs META fairly valued? Test your thesis with our free DCF calculator.\n\nFor the full record of ETF and guru buying and selling in META, see the META guru trades page .\n\nWhich ETFs bought META on Wednesday?\n\nThe largest buyers by dollar value were QQQ ($92.6 million), TQQQ ($18.0 million) and IVV ($12.5 million). In all, 46 ETFs added shares and 20 cut them.\n\nShares changed\n\nValue\n\nWeight in ETF\n\n+151,879\n\n$92.6M\n\n3.22%\n\nTQQQ\n\n+29,484\n\n$18.0M\n\n+20,480\n\n$12.5M\n\n2.17%\n\n+17,543\n\n$10.7M\n\n3.78%\n\nQQQM\n\n+13,152\n\n$8.0M\n\n+6,800\n\n$4.1M\n\n4.20%\n\nGARP\n\n+6,447\n\n$3.9M\n\n5.28%\n\n+5,859\n\n$3.6M\n\n2.03%\n\nInvesco QQQ Trust ( QQQ ) led the move, adding 151,879 shares worth $92.6 million, a 0.65% increase in its stake, with Meta at 3.22% of the fund's weight. ProShares UltraPro QQQ ( TQQQ ) added 29,484 shares for $18.0 million, and iShares Core S&P 500 ETF ( IVV ) added 20,480 shares for $12.5 million. iShares Russell 1000 Growth ETF ( IWF ) and Invesco QQQM ( QQQM ) also bought, contributing $10.7 million and $8.0 million respectively. Meta sits in the Communication Services sector and Internet Content & Information industry, with a market cap of $1.56 trillion.\n\nHave ETFs been buying or selling META lately?\n\nOver the last 5 reported days, ETFs were net buyers on 2 and net sellers on 3, so the recent trend is mostly selling.\n\nDate\n\nNet value\n\nBuying\n\nSelling\n\nNov. 25\n\n$162.2M\n\nNov. 24\n\n-$65.1M\n\nNov. 23\n\n-$0.8M\n\nNov. 20\n\n$240.4M\n\nNov. 19\n\n-$40.9M\n\nWhat does META do?\n\nMeta Platforms builds technology that connects people through its Family of Apps: Facebook, Instagram, WhatsApp, Messenger, and Threads, used by billions worldwide. Substantially all revenue comes from selling advertising placements across these apps, which let marketers reach people based on a range of objectives.\n\nMeta Platforms reported trailing-12-month revenue of $241.61 billion, up 28.3% over one year, with gross and net margins of 81.0% and 31.1%. Its P/E is 20.8, P/B 5.72 and P/S 6.48. The GF Score is 99 and GF Value is $892.89 versus a price of $609.89. Dividend yield is 0.32% and the year-to-date return is -7.37%.\n\nStory Continues\n\nMETA at a glance\n\nMeasure\n\nPrice\n\n$609.89\n\nMarket cap\n\n$1.56T\n\nRevenue (trailing 12 months)\n\n$241.61B\n\nRevenue growth (1 year)\n\n+28.3%\n\nGross margin\n\n81.0%\n\nNet margin\n\n31.1%\n\n20.80\n\n5.72\n\n6.48\n\nGF Score\n\n99/100\n\nGF Value\n\n$892.89\n\nDividend yield\n\n0.32%\n\nYear-to-date return\n\n-7.37%\n\nFor a closer look, open the META stock summary , its GF Value chart and insider buying and selling .\n\nMore on GuruFocus: ETF Trends | ETF Screener\n\nWhat should investors watch next for META?\n\nWatch whether the one-day buying streak extends, given the alternating flows of the past five sessions.\n\nBased on ETF holdings changes reported for Nov. 25, 2026.\n\nWhat else did ETFs trade on Wednesday?\n\nSector Trends: Technology Most Bought, Financial Services Least on Nov. 25\n\nETF Activity: QQQ Leads With $2.88 Billion Inflow on Nov. 25\n\nApple (AAPL) Sees $437.3 Million in Net ETF Buying on Nov. 25\n\nETFs Are Buying Microsoft (MSFT) on Nov. 25\n\nETFs Bought $220.0 Million of Amazon (AMZN) on Nov. 25\n\nMETA GF Value chart\n\nMETA GF Value chart For the full record of ETF and guru buying and selling in META, see the META guru trades page .\n\nThe largest buyers by dollar value were QQQ ($92.6 million), TQQQ ($18.0 million) and <a href=\"https://www.gurufocus.com/etf/IVV/summary?ref=etf-stock&r=caf6fe0e0db70d936033da5461e60141&utm_source=yahoo_finance&utm_medium=syndication&utm_campaign=headlines&utm_content=etfs_bought_%24162.2_million_of_meta_%28meta%29_on_nov._25&utm_term=META\" data-ylk=\"slk:IVV;elm:context_link;itc:0;sec:content-canvas;source:content-canvas%20default\" data-yga=\"{\"yLinkText\":\"IVV\",\"yLinkElement&quo",
       "Language": "en"
     },
     {
